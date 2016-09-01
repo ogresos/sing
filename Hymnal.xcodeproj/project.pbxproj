@@ -7,14 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E21F8241D623F34008114DD /* VerseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8231D623F34008114DD /* VerseTableViewCell.swift */; };
+		5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */; };
+		5EBDD7E91D760D1B00147582 /* HymnCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */; };
+		5EBDD7EB1D76289200147582 /* IndexCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */; };
+		5EC3E3DE1D775F520006F44C /* HymnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC3E3DD1D775F510006F44C /* HymnFlowLayout.swift */; };
 		5ED345431D6161CD00A5CA74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345421D6161CD00A5CA74 /* AppDelegate.swift */; };
-		5ED345451D6161CD00A5CA74 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345441D6161CD00A5CA74 /* FirstViewController.swift */; };
-		5ED345471D6161CD00A5CA74 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345461D6161CD00A5CA74 /* SecondViewController.swift */; };
+		5ED345451D6161CD00A5CA74 /* IndexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345441D6161CD00A5CA74 /* IndexViewController.swift */; };
+		5ED345471D6161CD00A5CA74 /* HymnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345461D6161CD00A5CA74 /* HymnViewController.swift */; };
 		5ED3454A1D6161CD00A5CA74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED345481D6161CD00A5CA74 /* Main.storyboard */; };
 		5ED3454C1D6161CD00A5CA74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED3454B1D6161CD00A5CA74 /* Assets.xcassets */; };
 		5ED3454F1D6161CD00A5CA74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED3454D1D6161CD00A5CA74 /* LaunchScreen.storyboard */; };
 		5ED3455A1D6161CE00A5CA74 /* HymnalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345591D6161CE00A5CA74 /* HymnalTests.swift */; };
 		5ED345651D6161CE00A5CA74 /* HymnalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED345641D6161CE00A5CA74 /* HymnalUITests.swift */; };
+		5ED39E161D77719B00E0C988 /* e0001_i.mid in Resources */ = {isa = PBXBuildFile; fileRef = 5ED39E151D77719B00E0C988 /* e0001_i.mid */; };
+		5EE322FE1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE322FD1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,10 +42,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E21F8231D623F34008114DD /* VerseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerseTableViewCell.swift; sourceTree = "<group>"; };
+		5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HymnalModel.xcdatamodel; sourceTree = "<group>"; };
+		5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HymnCollectionViewCell.swift; sourceTree = "<group>"; };
+		5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexCollectionViewCell.swift; sourceTree = "<group>"; };
+		5EC3E3DD1D775F510006F44C /* HymnFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HymnFlowLayout.swift; sourceTree = "<group>"; };
 		5ED3453F1D6161CD00A5CA74 /* Hymnal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hymnal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED345421D6161CD00A5CA74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5ED345441D6161CD00A5CA74 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		5ED345461D6161CD00A5CA74 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		5ED345441D6161CD00A5CA74 /* IndexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexViewController.swift; sourceTree = "<group>"; };
+		5ED345461D6161CD00A5CA74 /* HymnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HymnViewController.swift; sourceTree = "<group>"; };
 		5ED345491D6161CD00A5CA74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5ED3454B1D6161CD00A5CA74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED3454E1D6161CD00A5CA74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +61,8 @@
 		5ED345601D6161CE00A5CA74 /* HymnalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HymnalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED345641D6161CE00A5CA74 /* HymnalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HymnalUITests.swift; sourceTree = "<group>"; };
 		5ED345661D6161CE00A5CA74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ED39E151D77719B00E0C988 /* e0001_i.mid */ = {isa = PBXFileReference; lastKnownFileType = audio.midi; path = e0001_i.mid; sourceTree = "<group>"; };
+		5EE322FD1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HymnFlowLayoutWithAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +113,17 @@
 		5ED345411D6161CD00A5CA74 /* Hymnal */ = {
 			isa = PBXGroup;
 			children = (
+				5ED39E141D77718C00E0C988 /* Sounds */,
 				5ED345421D6161CD00A5CA74 /* AppDelegate.swift */,
-				5ED345441D6161CD00A5CA74 /* FirstViewController.swift */,
-				5ED345461D6161CD00A5CA74 /* SecondViewController.swift */,
+				5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */,
+				5ED345441D6161CD00A5CA74 /* IndexViewController.swift */,
+				5EE322FD1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift */,
+				5ED345461D6161CD00A5CA74 /* HymnViewController.swift */,
+				5EC3E3DD1D775F510006F44C /* HymnFlowLayout.swift */,
+				5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */,
+				5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */,
 				5ED345481D6161CD00A5CA74 /* Main.storyboard */,
+				5E21F8231D623F34008114DD /* VerseTableViewCell.swift */,
 				5ED3454B1D6161CD00A5CA74 /* Assets.xcassets */,
 				5ED3454D1D6161CD00A5CA74 /* LaunchScreen.storyboard */,
 				5ED345501D6161CD00A5CA74 /* Info.plist */,
@@ -126,6 +147,14 @@
 				5ED345661D6161CE00A5CA74 /* Info.plist */,
 			);
 			path = HymnalUITests;
+			sourceTree = "<group>";
+		};
+		5ED39E141D77718C00E0C988 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				5ED39E151D77719B00E0C988 /* e0001_i.mid */,
+			);
+			name = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,15 +225,18 @@
 				TargetAttributes = {
 					5ED3453E1D6161CD00A5CA74 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 					5ED345541D6161CD00A5CA74 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 5ED3453E1D6161CD00A5CA74;
 					};
 					5ED3455F1D6161CE00A5CA74 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 5ED3453E1D6161CD00A5CA74;
 					};
@@ -236,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5ED3454F1D6161CD00A5CA74 /* LaunchScreen.storyboard in Resources */,
+				5ED39E161D77719B00E0C988 /* e0001_i.mid in Resources */,
 				5ED3454C1D6161CD00A5CA74 /* Assets.xcassets in Resources */,
 				5ED3454A1D6161CD00A5CA74 /* Main.storyboard in Resources */,
 			);
@@ -262,9 +295,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5ED345471D6161CD00A5CA74 /* SecondViewController.swift in Sources */,
+				5ED345471D6161CD00A5CA74 /* HymnViewController.swift in Sources */,
+				5E21F8241D623F34008114DD /* VerseTableViewCell.swift in Sources */,
+				5EBDD7EB1D76289200147582 /* IndexCollectionViewCell.swift in Sources */,
 				5ED345431D6161CD00A5CA74 /* AppDelegate.swift in Sources */,
-				5ED345451D6161CD00A5CA74 /* FirstViewController.swift in Sources */,
+				5ED345451D6161CD00A5CA74 /* IndexViewController.swift in Sources */,
+				5EBDD7E91D760D1B00147582 /* HymnCollectionViewCell.swift in Sources */,
+				5EC3E3DE1D775F520006F44C /* HymnFlowLayout.swift in Sources */,
+				5EE322FE1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift in Sources */,
+				5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -499,6 +538,7 @@
 				5ED3456B1D6161CE00A5CA74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5ED3456C1D6161CE00A5CA74 /* Build configuration list for PBXNativeTarget "HymnalTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +547,7 @@
 				5ED3456E1D6161CE00A5CA74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5ED3456F1D6161CE00A5CA74 /* Build configuration list for PBXNativeTarget "HymnalUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,8 +556,22 @@
 				5ED345711D6161CE00A5CA74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */,
+			);
+			currentVersion = 5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */;
+			path = HymnalModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 5ED345371D6161CD00A5CA74 /* Project object */;
 }
