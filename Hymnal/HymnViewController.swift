@@ -8,15 +8,20 @@
 
 import UIKit
 import CoreData
+import AVFoundation
 
 class HymnViewController: UICollectionViewController, NSFetchedResultsControllerDelegate {
     
 //    @IBOutlet weak var self.collectionView: UICollectionView!
 
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
-    
     var managedObjectContext: NSManagedObjectContext? = nil
     
+    /// soundbanks are either dls or sf2. see http://www.sf2midi.com/
+    var soundbank:URL!
+    var mp:AVMIDIPlayer!
+    
+    @IBOutlet weak var playPauseButton: UIBarButtonItem!
 
     
     var hymns = [NSManagedObject]()
@@ -52,9 +57,40 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
             print("Could not fetch \(error), \(error.userInfo)")
         }
         
-
+        // set up MIDI file
+        setupMIDIFile()
 
     }
+    
+    func setupMIDIFile() {
+        self.soundbank = Bundle.main.url(forResource: "GeneralUser GS MuseScore v1.442", withExtension: "sf2")
+        // a standard MIDI file.
+        let path = Bundle.main.path(forResource:"e0001_i", ofType: "mid")
+        let contents = NSURL(fileURLWithPath: path!) as URL
+        
+        print("URL", contents)
+        do {
+            //            let music = try AVAudioPlayer(contentsOf: url)
+            self.mp = try AVMIDIPlayer(contentsOf: contents, soundBankURL: soundbank)
+            self.mp.prepareToPlay()
+            
+        } catch {
+            // couldn't load file
+            print("Could not load audio file", contents)
+        }
+    }
+    
+    @IBAction func toggleMIDIPlayer() {
+        if mp.isPlaying {
+            mp.stop()
+            playPauseButton.image = UIImage(named:"PlayButton")
+        } else {
+            self.mp.play(nil)
+            playPauseButton.image = UIImage(named:"PauseButton")
+        }
+    }
+    
+    
     
     
     override func viewDidLayoutSubviews() {
@@ -115,7 +151,6 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
         let size = CGSize(width: collectionView.bounds.size.width, height: collectionView.bounds.size.height)
-        print(size)
         return size
     }
     

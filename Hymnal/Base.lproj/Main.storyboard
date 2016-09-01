@@ -118,11 +118,18 @@
                         <barButtonItem image="SearchTab" id="2Qd-vb-gox">
                             <color key="tintColor" red="0.4941176471" green="0.82745098039999998" blue="0.12941176469999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         </barButtonItem>
+                        <barButtonItem image="PlayButton" id="i5O-hh-jt4">
+                            <color key="tintColor" red="0.4941176471" green="0.82745098039999998" blue="0.12941176469999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <connections>
+                                <action selector="toggleMIDIPlayer" destination="8rJ-Kc-sve" id="afr-oz-c22"/>
+                            </connections>
+                        </barButtonItem>
                     </toolbarItems>
                     <navigationItem key="navigationItem" id="ak9-dG-0wu"/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="collectionView" destination="f7o-5m-lNm" id="mmV-bZ-Dph"/>
+                        <outlet property="playPauseButton" destination="i5O-hh-jt4" id="nDs-ZZ-UWu"/>
                         <outlet property="view" destination="f7o-5m-lNm" id="1Hl-f2-EYh"/>
                         <segue destination="cv2-9R-MoW" kind="unwind" identifier="unwindToIndex" unwindAction="unwindToIndexWithSegue:" id="6bE-u2-mKH"/>
                     </connections>
@@ -259,6 +266,7 @@ And thy temple Thou wouldst own</string>
     <resources>
         <image name="HymnsTab" width="32" height="27"/>
         <image name="IndexTab" width="26" height="18"/>
+        <image name="PlayButton" width="15" height="22"/>
         <image name="SearchTab" width="24" height="24"/>
     </resources>
 </document>
