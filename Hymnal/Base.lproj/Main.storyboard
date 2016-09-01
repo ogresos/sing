@@ -184,7 +184,7 @@
                                         <frame key="frameInset" minY="80" width="359" height="564"/>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <prototypes>
-                                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="VerseCell" rowHeight="313" id="wIb-DC-ew5" customClass="VerseTableViewCell" customModule="Hymnal" customModuleProvider="target">
+                                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="StanzaCell" rowHeight="313" id="wIb-DC-ew5" customClass="StanzaTableViewCell" customModule="Hymnal" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="28" width="359" height="313"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="wIb-DC-ew5" id="ovm-Of-0Eu">
@@ -224,8 +224,8 @@ And thy temple Thou wouldst own</string>
                                                     </constraints>
                                                 </tableViewCellContentView>
                                                 <connections>
-                                                    <outlet property="verseNumberLabel" destination="dtd-zi-O6n" id="znb-Nf-dOL"/>
-                                                    <outlet property="verseTextView" destination="8w6-hA-tmD" id="CXv-y5-0zu"/>
+                                                    <outlet property="numberLabel" destination="dtd-zi-O6n" id="znb-Nf-dOL"/>
+                                                    <outlet property="stanzaTextView" destination="8w6-hA-tmD" id="CXv-y5-0zu"/>
                                                 </connections>
                                             </tableViewCell>
                                         </prototypes>
@@ -250,7 +250,7 @@ And thy temple Thou wouldst own</string>
                             <connections>
                                 <outlet property="hymnNumberLabel" destination="zEq-FU-wV5" id="5Ig-PA-eup"/>
                                 <outlet property="hymnTitleLabel" destination="NDk-cv-Gan" id="6H0-BX-T5t"/>
-                                <outlet property="versesTableView" destination="ok6-GE-cXT" id="mgj-49-kLb"/>
+                                <outlet property="stanzasTableView" destination="ok6-GE-cXT" id="mgj-49-kLb"/>
                             </connections>
                         </collectionViewCell>
                     </cells>

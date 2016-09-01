@@ -66,31 +66,31 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         do {
             try managedContext.save()
             hymns.append(hymn)
-            //self.versesTableView.reloadData()
+            //self.stanzasTableView.reloadData()
         } catch let error as NSError  {
             print("Could not save \(error), \(error.userInfo)")
         }
         return hymn
     }
     
-    func createVerse(order: Int, verseNumber: String, isChorus: Bool, text: String, hymn: NSManagedObject) {
+    func createStanza(order: Int, number: String, isChorus: Bool, text: String, hymn: NSManagedObject) {
         
         let managedContext = self.fetchedResultsController.managedObjectContext
-        let entity =  NSEntityDescription.entity(forEntityName: "Verse",
+        let entity =  NSEntityDescription.entity(forEntityName: "Stanza",
                                                  in:managedContext)
         
-        let verse = NSManagedObject(entity: entity!,
+        let stanza = NSManagedObject(entity: entity!,
                                     insertInto: managedContext)
-        verse.setValue(order, forKey: "order")
-        verse.setValue(verseNumber, forKey: "verseNumber")
-        verse.setValue(isChorus, forKey: "isChorus")
-        verse.setValue(text, forKey: "text")
+        stanza.setValue(order, forKey: "order")
+        stanza.setValue(number, forKey: "number")
+        stanza.setValue(isChorus, forKey: "isChorus")
+        stanza.setValue(text, forKey: "text")
         //print(hymn)
-        verse.setValue(hymn, forKey: "hymn")
+        stanza.setValue(hymn, forKey: "hymn")
         
         do {
             try managedContext.save()
-            //self.versesTableView.reloadData()
+            //self.stanzasTableView.reloadData()
         } catch let error as NSError  {
             print("Could not save \(error), \(error.userInfo)")
         }
@@ -108,45 +108,45 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             }
             
             let hymn1 = createHymn(title: "Glory be to God the Father", number: i)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"Glory be to God the Father,\nAnd to Christ the Son,\nGlory to the Holy Spirit—\nEver One.", hymn: hymn1)
-            createVerse(order:1, verseNumber:"2", isChorus:false, text:"As we view the vast creation,\nPlanned with wondrous skill,\nSo our hearts would move to worship,\nAnd be still.", hymn: hymn1)
-            createVerse(order:2, verseNumber:"3", isChorus:false, text:"But, our God, how great Thy yearning\nTo have sons who love\nIn the Son e’en now to praise Thee,\nLove to prove!", hymn: hymn1)
-            createVerse(order:3, verseNumber:"4", isChorus:false, text:"’Twas Thy thought in revelation,\nTo present to men\nSecrets of Thine own affections,\nTheirs to win.", hymn: hymn1)
-            createVerse(order:4, verseNumber:"5", isChorus:false, text:"So in Christ, through His redemption\n(Vanquished evil powers!)\nThou hast brought, in new creation,\nWorshippers!", hymn: hymn1)
+            createStanza(order:0, number:"1", isChorus:false, text:"Glory be to God the Father,\nAnd to Christ the Son,\nGlory to the Holy Spirit—\nEver One.", hymn: hymn1)
+            createStanza(order:1, number:"2", isChorus:false, text:"As we view the vast creation,\nPlanned with wondrous skill,\nSo our hearts would move to worship,\nAnd be still.", hymn: hymn1)
+            createStanza(order:2, number:"3", isChorus:false, text:"But, our God, how great Thy yearning\nTo have sons who love\nIn the Son e’en now to praise Thee,\nLove to prove!", hymn: hymn1)
+            createStanza(order:3, number:"4", isChorus:false, text:"’Twas Thy thought in revelation,\nTo present to men\nSecrets of Thine own affections,\nTheirs to win.", hymn: hymn1)
+            createStanza(order:4, number:"5", isChorus:false, text:"So in Christ, through His redemption\n(Vanquished evil powers!)\nThou hast brought, in new creation,\nWorshippers!", hymn: hymn1)
             
             
             let hymn2 = createHymn(title: "Glory, glory, glory, praise and adoration", number: i+1)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"Glory, glory, glory, praise and adoration!\nHear the anthems swelling out thro’ all eternity!\nFather, Son, and Spirit—God in revelation—\n  Prostrate each soul before the Deity!", hymn: hymn2)
-            createVerse(order:1, verseNumber:"2", isChorus:false, text:"Father, source of glory, naming every fam’ly;\nAnd the Son upholding all by His almighty power;\nHoly Spirit, filling the vast scene of glory—\n  O glorious Fulness, let our hearts adore!", hymn: hymn2)
-            createVerse(order:2, verseNumber:"3", isChorus:false, text:"God supreme, we worship now in holy splendour,\nHead of the vast scene of bliss, before Thy face we fall!\nMajesty and greatness, glory, praise and power\n  To Thee belong, eternal Source of all!", hymn: hymn2)
-            createVerse(order:3, verseNumber:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn2)
-            createVerse(order:4, verseNumber:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn2)
+            createStanza(order:0, number:"1", isChorus:false, text:"Glory, glory, glory, praise and adoration!\nHear the anthems swelling out thro’ all eternity!\nFather, Son, and Spirit—God in revelation—\n  Prostrate each soul before the Deity!", hymn: hymn2)
+            createStanza(order:1, number:"2", isChorus:false, text:"Father, source of glory, naming every fam’ly;\nAnd the Son upholding all by His almighty power;\nHoly Spirit, filling the vast scene of glory—\n  O glorious Fulness, let our hearts adore!", hymn: hymn2)
+            createStanza(order:2, number:"3", isChorus:false, text:"God supreme, we worship now in holy splendour,\nHead of the vast scene of bliss, before Thy face we fall!\nMajesty and greatness, glory, praise and power\n  To Thee belong, eternal Source of all!", hymn: hymn2)
+            createStanza(order:3, number:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn2)
+            createStanza(order:4, number:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn2)
             
             let hymn3 = createHymn(title: "Come, Thou Almighty King", number: i+2)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"Come, Thou Almighty King,\nHelp us Thy name to sing,\n  Help us to praise.\nFather, all glorious,\nO’er all victorious,\nCome, and reign over us,\n  Ancient of Days.", hymn: hymn3)
-            createVerse(order:1, verseNumber:"2", isChorus:false, text:"Come, Thou incarnate Word,\nGird on Thy mighty sword,\n  Our prayer attend:\nCome, and Thy people bless,\nAnd give Thy word success;\nSpirit of holiness,\n  On us descend.", hymn: hymn3)
-            createVerse(order:2, verseNumber:"3", isChorus:false, text:"Come, holy Comforter,\nThy sacred witness bear\n  In this glad hour:\nThou who Almighty art,\nNow rule in every heart,\nAnd ne’er from us depart,\n  Spirit of power.", hymn: hymn3)
-            createVerse(order:3, verseNumber:"4", isChorus:false, text:"To Thee, great One in Three,\nEternal praises be\n  Hence evermore.\nThy sov’reign majesty\nMay we in glory see,\nAnd to eternity\n  Love and adore.", hymn: hymn3)
+            createStanza(order:0, number:"1", isChorus:false, text:"Come, Thou Almighty King,\nHelp us Thy name to sing,\n  Help us to praise.\nFather, all glorious,\nO’er all victorious,\nCome, and reign over us,\n  Ancient of Days.", hymn: hymn3)
+            createStanza(order:1, number:"2", isChorus:false, text:"Come, Thou incarnate Word,\nGird on Thy mighty sword,\n  Our prayer attend:\nCome, and Thy people bless,\nAnd give Thy word success;\nSpirit of holiness,\n  On us descend.", hymn: hymn3)
+            createStanza(order:2, number:"3", isChorus:false, text:"Come, holy Comforter,\nThy sacred witness bear\n  In this glad hour:\nThou who Almighty art,\nNow rule in every heart,\nAnd ne’er from us depart,\n  Spirit of power.", hymn: hymn3)
+            createStanza(order:3, number:"4", isChorus:false, text:"To Thee, great One in Three,\nEternal praises be\n  Hence evermore.\nThy sov’reign majesty\nMay we in glory see,\nAnd to eternity\n  Love and adore.", hymn: hymn3)
             
             
             let hymn4 = createHymn(title: "Father of heav’n, whose love profound", number: i+3)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"Father of heav’n, whose love profound\nA ransom for our souls hath found,\nBefore Thy throne we sinners bend;\nTo us Thy pard’ning love extend.", hymn: hymn4)
-            createVerse(order:1, verseNumber:"2", isChorus:false, text:"Almighty Son, incarnate Word,\nOur Prophet, Priest, Redeemer, Lord,\nBefore Thy throne we sinners bend;\nTo us Thy saving grace extend.", hymn: hymn4)
-            createVerse(order:2, verseNumber:"3", isChorus:false, text:"Eternal Spirit, by whose breath\nThe soul is raised from sin and death,\nBefore Thy throne we sinners bend;\nTo us Thy quickening power extend.", hymn: hymn4)
-            createVerse(order:3, verseNumber:"4", isChorus:false, text:"Thrice holy—Father, Spirit, Son;\nMysterious Godhead, Three in One,\nBefore Thy throne we sinners bend;\nGrace, pardon, life to us extend.", hymn: hymn4)
+            createStanza(order:0, number:"1", isChorus:false, text:"Father of heav’n, whose love profound\nA ransom for our souls hath found,\nBefore Thy throne we sinners bend;\nTo us Thy pard’ning love extend.", hymn: hymn4)
+            createStanza(order:1, number:"2", isChorus:false, text:"Almighty Son, incarnate Word,\nOur Prophet, Priest, Redeemer, Lord,\nBefore Thy throne we sinners bend;\nTo us Thy saving grace extend.", hymn: hymn4)
+            createStanza(order:2, number:"3", isChorus:false, text:"Eternal Spirit, by whose breath\nThe soul is raised from sin and death,\nBefore Thy throne we sinners bend;\nTo us Thy quickening power extend.", hymn: hymn4)
+            createStanza(order:3, number:"4", isChorus:false, text:"Thrice holy—Father, Spirit, Son;\nMysterious Godhead, Three in One,\nBefore Thy throne we sinners bend;\nGrace, pardon, life to us extend.", hymn: hymn4)
             
             
             let hymn5 = createHymn(title: "God, our Father, we adore Thee", number: i+4)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"God, our Father, we adore Thee!\nWe, Thy children, bless Thy Name!\nChosen in the Christ before Thee,\nWe are “holy without blame.”\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!", hymn: hymn5)
-            createVerse(order:1, verseNumber:"2", isChorus:false, text:"Son Eternal, we adore Thee!\nLamb upon the throne on high!\nLamb of God, we bow before Thee,\nThou hast brought Thy people nigh!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!", hymn: hymn5)
-            createVerse(order:2, verseNumber:"3", isChorus:false, text:"Father, Son and Holy Spirit—\nThree in One! we give Thee praise!\nFor the riches we inherit,\nHeart and voice to Thee we raise!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!", hymn: hymn5)
+            createStanza(order:0, number:"1", isChorus:false, text:"God, our Father, we adore Thee!\nWe, Thy children, bless Thy Name!\nChosen in the Christ before Thee,\nWe are “holy without blame.”\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!", hymn: hymn5)
+            createStanza(order:1, number:"2", isChorus:false, text:"Son Eternal, we adore Thee!\nLamb upon the throne on high!\nLamb of God, we bow before Thee,\nThou hast brought Thy people nigh!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!", hymn: hymn5)
+            createStanza(order:2, number:"3", isChorus:false, text:"Father, Son and Holy Spirit—\nThree in One! we give Thee praise!\nFor the riches we inherit,\nHeart and voice to Thee we raise!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!", hymn: hymn5)
             
             let hymn6 = createHymn(title: "My hope is built on nothing less", number: i+5)
-            createVerse(order:0, verseNumber:"1", isChorus:false, text:"My hope is built on nothing less\nThan Jesus Christ, my righteousness;\nI dare not trust the sweetest frame,\nBut wholly lean on Jesus’ name.", hymn: hymn6)
-            createVerse(order:1, verseNumber:"", isChorus:true, text:"On Christ, the solid Rock, I stand;\nAll other ground is sinking sand,\nAll other ground is sinking sand.", hymn: hymn6)
-            createVerse(order:2, verseNumber:"2", isChorus:false, text:"When darkness veils His lovely face,\nI rest on His unchanging grace;\nIn every high and stormy gale,\nMy anchor holds within the veil.", hymn: hymn6)
-            createVerse(order:3, verseNumber:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn6)
-            createVerse(order:4, verseNumber:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn6)
+            createStanza(order:0, number:"1", isChorus:false, text:"My hope is built on nothing less\nThan Jesus Christ, my righteousness;\nI dare not trust the sweetest frame,\nBut wholly lean on Jesus’ name.", hymn: hymn6)
+            createStanza(order:1, number:"", isChorus:true, text:"On Christ, the solid Rock, I stand;\nAll other ground is sinking sand,\nAll other ground is sinking sand.", hymn: hymn6)
+            createStanza(order:2, number:"2", isChorus:false, text:"When darkness veils His lovely face,\nI rest on His unchanging grace;\nIn every high and stormy gale,\nMy anchor holds within the veil.", hymn: hymn6)
+            createStanza(order:3, number:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn6)
+            createStanza(order:4, number:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn6)
             
         }
         print("HYMNS COUNT", hymns.count)

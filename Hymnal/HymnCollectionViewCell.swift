@@ -11,27 +11,27 @@ import CoreData
 
 class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITableViewDelegate {
     
-    @IBOutlet weak var versesTableView: UITableView!
+    @IBOutlet weak var stanzasTableView: UITableView!
     @IBOutlet weak var hymnNumberLabel: UILabel!
     @IBOutlet weak var hymnTitleLabel: UILabel!
     
     var hymn: NSManagedObject!
-    var verses = [AnyObject]()
+    var stanzas = [AnyObject]()
 
     
     
     func initWith(theHymn:NSManagedObject) {
         hymn = theHymn
-        versesTableView!.delegate = self
-        versesTableView.rowHeight = UITableViewAutomaticDimension
-        versesTableView.estimatedRowHeight = 200
+        stanzasTableView!.delegate = self
+        stanzasTableView.rowHeight = UITableViewAutomaticDimension
+        stanzasTableView.estimatedRowHeight = 200
         
-        let versesSet = hymn.value(forKeyPath: "verses") as! NSMutableOrderedSet
-        verses.removeAll()
-        verses = Array(versesSet) as [AnyObject]
+        let stanzasSet = hymn.value(forKeyPath: "stanzas") as! NSMutableOrderedSet
+        stanzas.removeAll()
+        stanzas = Array(stanzasSet) as [AnyObject]
         hymnTitleLabel.text = hymn.value(forKey: "title") as? String
         hymnNumberLabel.text = String(hymn.value(forKey: "number") as! Int)
-        versesTableView.reloadData()
+        stanzasTableView.reloadData()
     }
     
     func numberOfSections(in tableView: UITableView) -> Int {
@@ -41,33 +41,28 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
-        return verses.count
+        return stanzas.count
     }
     
     //    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
     //        let cell = tableView(tableView, cellForRowAt: indexPath)
-    //        let height = cell.verseTextView.frame.size.height
+    //        let height = cell.stanzaTextView.frame.size.height
     //        return height
     //    }
     
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "VerseCell", for: indexPath) as! VerseTableViewCell
-        let verse = verses[indexPath.row]
-        let verseNumber = verse.value(forKey: "verseNumber") as! String
-        cell.verseNumberLabel.text = verseNumber
-        cell.verseTextView.text = verse.value(forKeyPath: "text") as! String
+        let cell = tableView.dequeueReusableCell(withIdentifier: "StanzaCell", for: indexPath) as! StanzaTableViewCell
+        let stanza = stanzas[indexPath.row]
+        let number = stanza.value(forKey: "number") as! String
+        cell.numberLabel.text = number
+        cell.stanzaTextView.text = stanza.value(forKeyPath: "text") as! String
+        print(stanza.value(forKeyPath: "text") as! String)
         
         
-        cell.verseTextView.isScrollEnabled = false
-        //        let contentSize = cell.verseTextView.sizeThatFits(cell.verseTextView.bounds.size)
-        //        var frame = cell.verseTextView.frame
-        //        frame.size.height = contentSize.height
-        //        cell.verseTextView.frame = frame
-        
-        //let aspectRatioTextViewConstraint = NSLayoutConstraint(item: cell.verseTextView, attribute: .height, relatedBy: .equal, toItem: cell.verseTextView,attribute: .width, multiplier: cell.verseTextView.bounds.height/cell.verseTextView.bounds.width, constant: 1)
-        //cell.verseTextView.addConstraint(aspectRatioTextViewConstraint)
-        cell.verseTextView.layoutIfNeeded()
+        cell.stanzaTextView.isScrollEnabled = false
+
+        cell.stanzaTextView.layoutIfNeeded()
         
         return cell
     }

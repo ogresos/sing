@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E21F8241D623F34008114DD /* VerseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8231D623F34008114DD /* VerseTableViewCell.swift */; };
+		5E21F8241D623F34008114DD /* StanzaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */; };
 		5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */; };
 		5EAB6F331D788CFA004E5B32 /* FluidR3Mono_GM.sf3 in Resources */ = {isa = PBXBuildFile; fileRef = 5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */; };
 		5EAB6F351D78973E004E5B32 /* e0001_i.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5EAB6F341D78973E004E5B32 /* e0001_i.mp3 */; };
@@ -44,7 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5E21F8231D623F34008114DD /* VerseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerseTableViewCell.swift; sourceTree = "<group>"; };
+		5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StanzaTableViewCell.swift; sourceTree = "<group>"; };
 		5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HymnalModel.xcdatamodel; sourceTree = "<group>"; };
 		5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = FluidR3Mono_GM.sf3; sourceTree = "<group>"; };
 		5EAB6F341D78973E004E5B32 /* e0001_i.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = e0001_i.mp3; sourceTree = "<group>"; };
@@ -127,7 +127,7 @@
 				5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */,
 				5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */,
 				5ED345481D6161CD00A5CA74 /* Main.storyboard */,
-				5E21F8231D623F34008114DD /* VerseTableViewCell.swift */,
+				5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */,
 				5ED3454B1D6161CD00A5CA74 /* Assets.xcassets */,
 				5ED3454D1D6161CD00A5CA74 /* LaunchScreen.storyboard */,
 				5ED345501D6161CD00A5CA74 /* Info.plist */,
@@ -305,7 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5ED345471D6161CD00A5CA74 /* HymnViewController.swift in Sources */,
-				5E21F8241D623F34008114DD /* VerseTableViewCell.swift in Sources */,
+				5E21F8241D623F34008114DD /* StanzaTableViewCell.swift in Sources */,
 				5EBDD7EB1D76289200147582 /* IndexCollectionViewCell.swift in Sources */,
 				5ED345431D6161CD00A5CA74 /* AppDelegate.swift in Sources */,
 				5ED345451D6161CD00A5CA74 /* IndexViewController.swift in Sources */,

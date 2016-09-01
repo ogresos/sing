@@ -1,5 +1,5 @@
 //
-//  VerseTableViewCell.swift
+//  stanzaTableViewCell.swift
 //  Hymnal
 //
 //  Created by Jeremy Olson on 8/15/16.
@@ -8,10 +8,10 @@
 
 import UIKit
 
-class VerseTableViewCell: UITableViewCell {
+class StanzaTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var verseTextView: UITextView!
-    @IBOutlet weak var verseNumberLabel: UILabel!
+    @IBOutlet weak var stanzaTextView: UITextView!
+    @IBOutlet weak var numberLabel: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()

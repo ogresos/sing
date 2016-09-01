@@ -6,10 +6,10 @@
         <relationship name="stanzas" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Stanza" inverseName="hymn" inverseEntity="Stanza" syncable="YES"/>
     </entity>
     <entity name="Stanza" representedClassName="Verse" syncable="YES" codeGenerationType="class">
-        <attribute name="isChorus" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
         <relationship name="hymn" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Hymn" inverseName="stanzas" inverseEntity="Hymn" syncable="YES"/>
         <compoundIndexes>
             <compoundIndex>
