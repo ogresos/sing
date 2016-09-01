@@ -28,7 +28,7 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         
         let versesSet = hymn.value(forKeyPath: "verses") as! NSMutableOrderedSet
         verses.removeAll()
-        verses = Array(versesSet)
+        verses = Array(versesSet) as [AnyObject]
         hymnTitleLabel.text = hymn.value(forKey: "title") as? String
         hymnNumberLabel.text = String(hymn.value(forKey: "number") as! Int)
         versesTableView.reloadData()

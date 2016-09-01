@@ -11,11 +11,12 @@ import UIKit
 import UIKit
 import CoreData
 
-class IndexViewController: UICollectionViewController, UINavigationControllerDelegate {
+class IndexViewController: UICollectionViewController, UINavigationControllerDelegate, NSFetchedResultsControllerDelegate {
     
     @IBOutlet weak var indexCollectionView: UICollectionView!
 
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
+    var managedObjectContext: NSManagedObjectContext? = nil
     
     var hymns = [NSManagedObject]()
     var theHymn: NSManagedObject!
@@ -24,13 +25,13 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.managedObjectContext = appDelegate.managedObjectContext
         
         
         
-        
-        let managedContext = appDelegate.managedObjectContext
+        let managedContext = self.fetchedResultsController.managedObjectContext
         let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Hymn")
-        let sortDescriptors = [SortDescriptor(key: "number", ascending:true, selector: #selector(NSString.localizedStandardCompare))]
+        let sortDescriptors = [NSSortDescriptor(key: "number", ascending:true, selector: #selector(NSString.localizedStandardCompare))]
         fetchRequest.sortDescriptors = sortDescriptors
         
         do {
@@ -53,7 +54,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     }
     
     func createHymn(title: String, number: Int) -> NSManagedObject {
-        let managedContext = appDelegate.managedObjectContext
+        let managedContext = self.fetchedResultsController.managedObjectContext
         let entity =  NSEntityDescription.entity(forEntityName: "Hymn",
                                                  in:managedContext)
         
@@ -74,7 +75,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     
     func createVerse(order: Int, verseNumber: String, isChorus: Bool, text: String, hymn: NSManagedObject) {
         
-        let managedContext = appDelegate.managedObjectContext
+        let managedContext = self.fetchedResultsController.managedObjectContext
         let entity =  NSEntityDescription.entity(forEntityName: "Verse",
                                                  in:managedContext)
         
@@ -159,7 +160,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     }
     
     
-    func prepare(for segue: UIStoryboardSegue, sender: AnyObject?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let indexPath = indexCollectionView.indexPath(for: sender as! UICollectionViewCell)
         
         if((indexPath) != nil) {
@@ -169,6 +170,8 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             //hvc.useLayoutToLayoutNavigationTransitions = true
         }
     }
+    
+
     
     @IBAction func unwindToIndex(segue:UIStoryboardSegue) {
         print("Attempting to unwind")
@@ -232,14 +235,51 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             let hvc: HymnViewController = (viewController as? HymnViewController)!
             hvc.collectionView?.dataSource = hvc
             hvc.collectionView?.delegate = hvc
-            hvc.collectionView?.scrollToItem(at: selectedIndexPath, at: UICollectionViewScrollPosition.centeredVertically, animated: true)
             print("scroll to indexPath", selectedIndexPath)
+            //hvc.collectionView?.scrollToItem(at: selectedIndexPath, at: UICollectionViewScrollPosition.centeredVertically, animated: true)
+            
         }
         else {
             self.collectionView?.dataSource = self
             self.collectionView?.delegate = self
         }
     }
+    
+    // MARK: - Fetched results controller
+    
+    var fetchedResultsController: NSFetchedResultsController<Hymn> {
+        if _fetchedResultsController != nil {
+            return _fetchedResultsController!
+        }
+        
+        let fetchRequest: NSFetchRequest<Hymn> = Hymn.fetchRequest()
+        
+        // Set the batch size to a suitable number.
+        fetchRequest.fetchBatchSize = 100
+        
+        // Edit the sort key as appropriate.
+        let sortDescriptor = NSSortDescriptor(key: "number", ascending: true)
+        
+        fetchRequest.sortDescriptors = [sortDescriptor]
+        
+        // Edit the section name key path and cache name if appropriate.
+        // nil for section name key path means "no sections".
+        let aFetchedResultsController = NSFetchedResultsController(fetchRequest: fetchRequest, managedObjectContext: self.managedObjectContext!, sectionNameKeyPath: nil, cacheName: nil)
+        aFetchedResultsController.delegate = self
+        _fetchedResultsController = aFetchedResultsController
+        
+        do {
+            try _fetchedResultsController!.performFetch()
+        } catch {
+            // Replace this implementation with code to handle the error appropriately.
+            // fatalError() causes the application to generate a crash log and terminate. You should not use this function in a shipping application, although it may be useful during development.
+            let nserror = error as NSError
+            fatalError("Unresolved error \(nserror), \(nserror.userInfo)")
+        }
+        
+        return _fetchedResultsController!
+    }
+    var _fetchedResultsController: NSFetchedResultsController<Hymn>? = nil
     
     
     

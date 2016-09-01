@@ -37,7 +37,7 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         collectionViewLayout.scrollDirection = UICollectionViewScrollDirection.horizontal
         collectionView!.setCollectionViewLayout(collectionViewLayout, animated: false)
 
-        
+        managedObjectContext = appDelegate.managedObjectContext
         let managedContext = self.fetchedResultsController.managedObjectContext
         let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Hymn")
         let sortDescriptors = [NSSortDescriptor(key: "number", ascending:true, selector: #selector(NSString.localizedStandardCompare))]
@@ -183,24 +183,24 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     
     // MARK: - Fetched results controller
     
-    var fetchedResultsController: NSFetchedResultsController<Event> {
+    var fetchedResultsController: NSFetchedResultsController<Hymn> {
         if _fetchedResultsController != nil {
             return _fetchedResultsController!
         }
         
-        let fetchRequest: NSFetchRequest<Event> = Event.fetchRequest()
+        let fetchRequest: NSFetchRequest<Hymn> = Hymn.fetchRequest()
         
         // Set the batch size to a suitable number.
-        fetchRequest.fetchBatchSize = 20
+        fetchRequest.fetchBatchSize = 100
         
         // Edit the sort key as appropriate.
-        let sortDescriptor = NSSortDescriptor(key: "timestamp", ascending: false)
+        let sortDescriptor = NSSortDescriptor(key: "number", ascending: true)
         
         fetchRequest.sortDescriptors = [sortDescriptor]
         
         // Edit the section name key path and cache name if appropriate.
         // nil for section name key path means "no sections".
-        let aFetchedResultsController = NSFetchedResultsController(fetchRequest: fetchRequest, managedObjectContext: self.managedObjectContext!, sectionNameKeyPath: nil, cacheName: "Master")
+        let aFetchedResultsController = NSFetchedResultsController(fetchRequest: fetchRequest, managedObjectContext: self.managedObjectContext!, sectionNameKeyPath: nil, cacheName: "HymnViewController")
         aFetchedResultsController.delegate = self
         _fetchedResultsController = aFetchedResultsController
         
@@ -215,6 +215,7 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         
         return _fetchedResultsController!
     }
+    var _fetchedResultsController: NSFetchedResultsController<Hymn>? = nil
 
 }
 

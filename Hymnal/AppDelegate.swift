@@ -17,6 +17,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     private func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        let rootViewController = self.window!.rootViewController
+        let masterNavigationController = rootViewController?.navigationController as UINavigationController!
+
+    
+        let controller = masterNavigationController?.topViewController as! IndexViewController
+        controller.managedObjectContext = self.persistentContainer.viewContext
         return true
     }
 
@@ -77,6 +83,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         })
         return container
     }()
+    
+    lazy var managedObjectContext: NSManagedObjectContext = {
+        // Returns the managed object context for the application (which is already bound to the persistent store coordinator for the application.) This property is optional since there are legitimate error conditions that could cause the creation of the context to fail.
+        return self.persistentContainer.viewContext
+    }()
+    
     
     // MARK: - Core Data Saving support
     
