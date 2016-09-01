@@ -121,7 +121,7 @@
                         <barButtonItem image="PlayButton" id="i5O-hh-jt4">
                             <color key="tintColor" red="0.4941176471" green="0.82745098039999998" blue="0.12941176469999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
-                                <action selector="toggleMIDIPlayer" destination="8rJ-Kc-sve" id="afr-oz-c22"/>
+                                <action selector="toggleAudioPlayer" destination="8rJ-Kc-sve" id="smC-9D-JzT"/>
                             </connections>
                         </barButtonItem>
                     </toolbarItems>

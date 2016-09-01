@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		5E21F8241D623F34008114DD /* VerseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8231D623F34008114DD /* VerseTableViewCell.swift */; };
 		5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */; };
+		5EAB6F331D788CFA004E5B32 /* FluidR3Mono_GM.sf3 in Resources */ = {isa = PBXBuildFile; fileRef = 5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */; };
+		5EAB6F351D78973E004E5B32 /* e0001_i.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5EAB6F341D78973E004E5B32 /* e0001_i.mp3 */; };
 		5EBDD7E91D760D1B00147582 /* HymnCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */; };
 		5EBDD7EB1D76289200147582 /* IndexCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */; };
 		5EC3E3DE1D775F520006F44C /* HymnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC3E3DD1D775F510006F44C /* HymnFlowLayout.swift */; };
@@ -44,6 +46,8 @@
 /* Begin PBXFileReference section */
 		5E21F8231D623F34008114DD /* VerseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerseTableViewCell.swift; sourceTree = "<group>"; };
 		5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HymnalModel.xcdatamodel; sourceTree = "<group>"; };
+		5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = FluidR3Mono_GM.sf3; sourceTree = "<group>"; };
+		5EAB6F341D78973E004E5B32 /* e0001_i.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = e0001_i.mp3; sourceTree = "<group>"; };
 		5EBDD7E81D760D1B00147582 /* HymnCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HymnCollectionViewCell.swift; sourceTree = "<group>"; };
 		5EBDD7EA1D76289200147582 /* IndexCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexCollectionViewCell.swift; sourceTree = "<group>"; };
 		5EC3E3DD1D775F510006F44C /* HymnFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HymnFlowLayout.swift; sourceTree = "<group>"; };
@@ -153,6 +157,8 @@
 			isa = PBXGroup;
 			children = (
 				5ED39E151D77719B00E0C988 /* e0001_i.mid */,
+				5EAB6F341D78973E004E5B32 /* e0001_i.mp3 */,
+				5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */,
 			);
 			name = Sounds;
 			sourceTree = "<group>";
@@ -270,6 +276,8 @@
 			files = (
 				5ED3454F1D6161CD00A5CA74 /* LaunchScreen.storyboard in Resources */,
 				5ED39E161D77719B00E0C988 /* e0001_i.mid in Resources */,
+				5EAB6F331D788CFA004E5B32 /* FluidR3Mono_GM.sf3 in Resources */,
+				5EAB6F351D78973E004E5B32 /* e0001_i.mp3 in Resources */,
 				5ED3454C1D6161CD00A5CA74 /* Assets.xcassets in Resources */,
 				5ED3454A1D6161CD00A5CA74 /* Main.storyboard in Resources */,
 			);

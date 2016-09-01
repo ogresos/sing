@@ -10,7 +10,7 @@ import UIKit
 import CoreData
 import AVFoundation
 
-class HymnViewController: UICollectionViewController, NSFetchedResultsControllerDelegate {
+class HymnViewController: UICollectionViewController, NSFetchedResultsControllerDelegate, AVAudioPlayerDelegate {
     
 //    @IBOutlet weak var self.collectionView: UICollectionView!
 
@@ -20,6 +20,7 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     /// soundbanks are either dls or sf2. see http://www.sf2midi.com/
     var soundbank:URL!
     var mp:AVMIDIPlayer!
+    var ap:AVAudioPlayer!
     
     @IBOutlet weak var playPauseButton: UIBarButtonItem!
 
@@ -59,16 +60,17 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         
         // set up MIDI file
         setupMIDIFile()
+        // set up Audio file
+        setupAudioFile()
 
     }
     
     func setupMIDIFile() {
         self.soundbank = Bundle.main.url(forResource: "GeneralUser GS MuseScore v1.442", withExtension: "sf2")
+        //self.soundbank = Bundle.main.url(forResource: "FluidR3Mono_GM", withExtension: "sf3")
         // a standard MIDI file.
         let path = Bundle.main.path(forResource:"e0001_i", ofType: "mid")
         let contents = NSURL(fileURLWithPath: path!) as URL
-        
-        print("URL", contents)
         do {
             //            let music = try AVAudioPlayer(contentsOf: url)
             self.mp = try AVMIDIPlayer(contentsOf: contents, soundBankURL: soundbank)
@@ -80,12 +82,37 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         }
     }
     
+    func setupAudioFile() {
+        // a standard MIDI file.
+        let path = Bundle.main.path(forResource:"e0001_i", ofType: "mp3")
+        let contents = NSURL(fileURLWithPath: path!) as URL
+
+        do {
+            self.ap = try AVAudioPlayer(contentsOf: contents)
+            ap.delegate = self
+            ap.prepareToPlay()
+            ap.volume = 1.0
+        } catch {
+            print("Could not load audio file", contents)
+        }
+    }
+    
     @IBAction func toggleMIDIPlayer() {
         if mp.isPlaying {
             mp.stop()
             playPauseButton.image = UIImage(named:"PlayButton")
         } else {
             self.mp.play(nil)
+            playPauseButton.image = UIImage(named:"PauseButton")
+        }
+    }
+    
+    @IBAction func toggleAudioPlayer() {
+        if ap.isPlaying {
+            ap.stop()
+            playPauseButton.image = UIImage(named:"PlayButton")
+        } else {
+            self.ap.play()
             playPauseButton.image = UIImage(named:"PauseButton")
         }
     }

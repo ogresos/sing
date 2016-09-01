@@ -3,14 +3,14 @@
     <entity name="Hymn" representedClassName="Hymn" syncable="YES" codeGenerationType="class">
         <attribute name="number" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
-        <relationship name="verses" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Verse" inverseName="hymn" inverseEntity="Verse" syncable="YES"/>
+        <relationship name="stanzas" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Stanza" inverseName="hymn" inverseEntity="Stanza" syncable="YES"/>
     </entity>
-    <entity name="Verse" representedClassName="Verse" syncable="YES" codeGenerationType="class">
+    <entity name="Stanza" representedClassName="Verse" syncable="YES" codeGenerationType="class">
         <attribute name="isChorus" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="verseNumber" optional="YES" attributeType="String" syncable="YES"/>
-        <relationship name="hymn" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Hymn" inverseName="verses" inverseEntity="Hymn" syncable="YES"/>
+        <relationship name="hymn" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Hymn" inverseName="stanzas" inverseEntity="Hymn" syncable="YES"/>
         <compoundIndexes>
             <compoundIndex>
                 <index value="order"/>
@@ -19,6 +19,6 @@
     </entity>
     <elements>
         <element name="Hymn" positionX="-335" positionY="-27" width="128" height="88"/>
-        <element name="Verse" positionX="-54" positionY="-9" width="128" height="118"/>
+        <element name="Stanza" positionX="-54" positionY="-9" width="128" height="118"/>
     </elements>
 </model>
