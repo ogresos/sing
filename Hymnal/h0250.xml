@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Spring up, well, with water</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Living Water</category>
+  <numbers><cebuano num="250"/><chinese num="201"/><english num="250"/><german num="250"/><korean num="201"/><portuguese num="134"/><russian num="355"/><spanish num="116"/><tagalog num="250"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>6.6.6.6.(T)</meter>
+  <hymncode>323431234543</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | Dm - F - | G7 - C - | C/E - G7/D - | Em - Am - | F - Dm - | G7 - C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - - - | C - - - | C - - - | C - - - | G - - - | G7 - C - |</guitarChords>
+  <melody>| 3. 2#/ 3 4 | 3 - 1 - | 2. 3/ 4 5 | 4 - 3 - (break) | 5. 4#/ 5 6 | 5 - 3 - | 2. 1#/ 2 3 | 2 - 1 - |</melody>
+  <layout>
+	<singingstanza>Spring up, well, with wa -- ter; Dig Thou, Lord, com -- plete -- ly; Dig a -- way all bar -- riers That Thy stream flow through me.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj087.xml</link>
+	<link type="ref">Numbers 21:16-17</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0250.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="17">e0250_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Spring up, well, with water;
+Dig Thou, Lord, completely;
+Dig away all barriers
+That Thy stream flow through me.</stanza>
+	<stanza type="verse" number="2">Christ, the Rock, is riven;
+Living water's flowing;
+But within my heart now
+It is blocked from going.</stanza>
+	<stanza type="verse" number="3">I will dig by praying,
+Dig the dirt entirely,
+Thus release the Spirit,
+Let the stream flow freely.</stanza>
+	<stanza type="verse" number="4">There's no need again that
+Christ, the Rock, be riven,
+But unto the digging
+That I should be given.</stanza>
+	<stanza type="verse" number="5">What I need most deeply
+Is the Spirit's filling,
+That the living water
+From my heart be welling.</stanza>
+	<stanza type="verse" number="6">Dig till there is nothing
+Left to block the passage;
+Dig until the stream flows
+With the living message.</stanza>
+	<stanza type="verse" number="7">Spring up, well, with water;
+Dig Thou, Lord, completely;
+Dig away all barriers
+That Thy stream flow through me.</stanza>
+  </lyrics>
+</hymn>

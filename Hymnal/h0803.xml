@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Word of God incarnate</title>
+  <index>true</index>
+  <category>Study of the Word&amp;mdash;The Function of the Word</category>
+  <numbers><english num="803"/><tagalog num="803"/></numbers>
+  <creators>
+    <author biodate="1823-1897" biolink="">William Walsham How</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3 6 5 4 | 3 - 3 3 | 5 4/( 3/) 2 2 (break) | 1 - - 1/( 2/) | 3 6 5 4 | 3 - 3 3 | 5 4/( 3/) 2 2 (break) | 1 - - 2 | 2 3 4 4 | 3 - 3 6 | ._1 6 3 4# (break) | 5 - - 5 | 5 3 4 5 | 6 - 6 5 | 4 3 2 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O Word of God in -- car -- nate, O Wis -- dom from on high, O Truth un -- changed, un -- chang -- ing, O Light of our dark sky, We praise Thee for the ra -- diance That from the hal -- lowed page, A lan -- tern to our foot -- steps, Shines on from age to age.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj192.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="165"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Word of God incarnate,
+  O Wisdom from on high,
+O Truth unchanged, unchanging,
+  O Light of our dark sky,
+We praise Thee for the radiance
+  That from the hallowed page,
+A lantern to our footsteps,
+  Shines on from age to age.</stanza>
+    <stanza type="verse" number="2">The Church from her dear Master
+  Received the gift divine,
+And still that light she lifteth
+  O'er all the earth to shine:
+It is the golden treasure
+  Where gems of truth are stored;
+It is the heaven-drawn picture
+  Of Christ, the living Word.</stanza>
+    <stanza type="verse" number="3">It floateth like a banner
+  Before God's host unfurled;
+It shineth like a beacon
+  Above the darkling world;
+It is the chart and compass
+  That, o'er life's surging sea,
+'Mid mists and rocks and quicksands
+  Still guide, O Christ, to Thee.</stanza>
+    <stanza type="verse" number="4">O make Thy Church, dear Savior,
+  A lampstand of pure gold,
+To bear before the nations
+  Thy light, that all behold;
+O teach Thy wandering pilgrims
+  By this their path to trace,
+Till, clouds and darkness ended,
+  They see Thee face to face.</stanza>
+  </lyrics>
+</hymn>

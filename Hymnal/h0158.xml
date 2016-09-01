@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thy love has sought and found us</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <numbers><cebuano num="158"/><chinese num="131"/><english num="158"/><korean num="131"/></numbers>
+  <creators>
+    <author biodate="" biolink="">J. J. Hopkins</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.7.8.7.7.7.</meter>
+  <hymncode>3215656533215671</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | C - Am - | F G7 C - | G - - - | C - - G | G/B C G - | D - G7 - | C - G/B - | C - G - | C7 - F - | C/G G7 C - |</chords>
+  <melody>| 3. 2/ 1 5_. | 6_. 5_./( 6_./) 5_. 3_. | 3. 2/ 1 5_. | 6_. 7_. 1 - (break) | 7_.. 1/ 2 7_. | 1 2 3 2 | 5. 3/ 2. 7_./ | 1 6_. 5_. - (break) | 3 3 2. 2/ | 3 5/( 3/) 2 - | 3. 3/ 4. 4/ | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Lord, Thy love has sought and found us Wan -- d'ring in this de -- sert wide; Thou hast thrown Thine arms a -- round us, For us suf -- fered, bled, and died. Sing, my soul! He lov -- ed thee, Je -- sus gave Him -- self for me.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj155.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="28">e0158_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Thy love has sought and found us
+  Wand'ring in this desert wide;
+Thou hast thrown Thine arms around us,
+  For us suffered, bled, and died.
+Sing, my soul! He loved thee,
+Jesus gave Himself for me.</stanza>
+    <stanza type="verse" number="2">Hark! what sounds of bitter weeping
+  From yon lonesome garden sweep;
+'Tis the Lord His vigil keeping,
+  While His followers sink in sleep.
+Ah, my soul, He loved thee,
+Yes, He gave Himself for me.</stanza>
+    <stanza type="verse" number="3">He is speaking to His Father,
+  Tasting deep that bitter cup,
+Yet He takes it, willing rather
+  For our sakes to drink it up.
+Oh, what love! He loved me!
+Gave Himself, my soul, for thee.</stanza>
+    <stanza type="verse" number="4">Then that closing scene of anguish:
+  All God's waves and billows roll
+Over Him, there left to languish
+  On the cross, to save my soul.
+Matchless love! how vast, how free,
+Jesus gave Himself for me.</stanza>
+    <stanza type="verse" number="5">Hark again! His cries are waking
+  Echoes on dark Calvary's hill;
+God, my God, art Thou forsaking
+  Him who always did Thy will?
+Ah, my soul! it was for thee,
+Yes! He gave Himself for me.</stanza>
+    <stanza type="verse" number="6">Lord, we joy, Thy toils are ended,
+  Glad Thy suff'ring time is o'er;
+To Thy Father's throne ascended,
+  There Thou liv'st, to die no more.
+Yes, my soul, He lives for thee,
+He who gave Himself for me.</stanza>
+    <stanza type="verse" number="7">Lord, we worship and adore Thee
+  For Thy rich, Thy matchless grace;
+Perfect soon in joy before Thee,
+  We shall see Thee face to face.
+Yet e'en now our song shall be,
+Jesus gave Himself for me.</stanza>
+  </lyrics>
+</hymn>

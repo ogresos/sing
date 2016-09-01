@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Praise the Lord, we're in the Lord's recovery</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;The Lord's Recovery</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>35543234456112165</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. A7/C#. | Dm. G7. | C. G7/D. | B7/D#. C/E. | F - - | F. F/A. | C. A7/C#. | Dm. G7. | C. A7/C#. | Dm. G7. | C. G7/D. | B7/D#. C/E. | G/D - - | D7 - - | G - - | G7 - - | C. A7/C#. | Dm. G7. | C. G7/D. | B7/D#. C/E. | F - - | F - - | E - - | E. E7. | Am - - | A - - | Dm - - | B7 - - | C/G - - | Dm. G7. | C - - |</chords>
+  <melody>| 3 5/ 5.( | 5.) 4/ 3/ 2/ | 3. 4. | 4#. 5. (break) | 6 ._1/ ._1.( | ._1.) ._2/ ._1/ 6/ | 5( - - | 5) - - (break) | 3 5/ 5.( | 5.) 4/ 3/ 2/ | 3. 4. | 4#. 5. (break) | 7 ._2/ ._2.( | ._2) ._2/ ._1/ 7/ 6/ | 5. ._5/ ._5/ ._5/ | ._5 0/ 5 0/ (break) | 3 5/ 5.( | 5.) 4/ 3/ 2/ | 3. 4. | 4#. 5. (break) | 6 ._1/ ._1.( | ._1.) 6/ 7/ ._1/ | 7( - - (break) | 7.) 3 3/ | ._1.( ._1/) ._1/ ._1/ | ._1#.( ._1#/) 6/ 6/ | ._2.( ._2/) ._2/ ._2/ (break) | ._2# 0/ ._2# 0/ | ._3/ ._2/ ._1/ ._3 ._1/ | ._3 ._1/ ._2. | ._1 - - |</melody>
+  <layout>
+    <singingstanza>Praise the Lord, we're in the Lord's re -- cov -- ery&amp;mdash; Home at last, here in the church. Praise the Lord, we're in the new cre -- a -- tion&amp;mdash; One new man, the end of our search. (the end of our search) With the saints, build -- ed, co -- or -- di -- nat -- ed; No more I, for -- ev -- er "we." We are one in the Son, stand -- ing here till He comes; Yes, noth -- ing can stop our God till He's done!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj211.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="41">e1256.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Praise the Lord, we're in the Lord's recovery&amp;mdash;
+  Home at last, here in the church.
+Praise the Lord, we're in the new creation&amp;mdash;
+  One new man, the end of our search.
+With the saints, builded, coordinated;
+  No more I, forever "we."
+We are one in the Son, standing here till He comes;
+Yes, nothing can stop our God till He's done!</stanza>
+  </lyrics>
+</hymn>

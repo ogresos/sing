@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May the mind of Christ my Savior</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Likeness to Christ</category>
+  <creators>
+    <author biodate="1859-1928" biolink="">Katie Barclay Wilkinson</author>
+    <composer biodate="" biolink="">A. Cyril Gould</composer>
+  </creators>
+  <meter>8.7.8.5.</meter>
+  <hymncode>354321171123345</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | C - - - | D7 - G - | C - - - | C - Am - | C/G - G7 - | C - - - |</chords>
+  <melody>| 3 5 4 3 | 2 1 1 7_. | 1 1 2 3 | 3 4# 5 - (break) | ._1 5 6 5 | 4 3 2 1 | 1/( 2/) 3 2/( 6_./) 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>May the mind of Christ my Sav -- ior Live in me from day to day, By His love and pow'r con -- trol -- ling All I do and say.</singingstanza>
+  </layout>
+  <copyright>Used and altered by permission of Miss E. W. M. Gould.</copyright>
+  <links>
+    <link type="group">hymnal-subj134.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="20">e0401_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May the mind of Christ my Savior
+Live in me from day to day,
+By His love and pow'r controlling
+  All I do and say.</stanza>
+    <stanza type="verse" number="2">May the Word of Christ dwell richly
+In my heart from hour to hour,
+So that all may see I triumph
+  Only through His pow'r.</stanza>
+    <stanza type="verse" number="3">May the peace of Christ my Savior
+Rule my life in every thing,
+That I may be calm to comfort
+  Sick and sorrowing.</stanza>
+    <stanza type="verse" number="4">May the love of Jesus fill me,
+As the waters fill the sea;
+Him exalting, self abasing,
+  This is victory.</stanza>
+    <stanza type="verse" number="5">May I run the race before me,
+Strong and brave to face the foe,
+Looking only unto Jesus
+  As I onward go.</stanza>
+    <stanza type="verse" number="6">May His beauty rest upon me
+As I seek the lost to win,
+And may they forget the channel,
+  Seeing only Him.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Take the cross with joy</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Life</category>
+  <numbers><chinese num="463"/><english num="8463"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - (break) | (Chorus) 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Take the cross with joy, Walk the nar -- row way, Flow forth life, The Lord no more res -- train! Leave the world be -- hind, Seek naught else but Christ, Flow forth life, The Lord no more res -- train. Flow forth, Flow forth, Flow forth life! O saints, no more de -- lay! Flow forth, flow forth, Flow forth life, The Lord no more res -- train!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Take the cross with joy,
+Walk the narrow way,
+Flow forth life,
+The Lord no more restrain!
+Leave the world behind,
+Seek naught else but Christ,
+Flow forth life,
+The Lord no more restrain.</stanza>
+    <stanza type="chorus" number="">Flow forth, Flow forth,
+Flow forth life!
+O saints, no more delay!
+Flow forth, flow forth,
+Flow forth life,
+The Lord no more restrain!</stanza>
+  </lyrics>
+</hymn>

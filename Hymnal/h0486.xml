@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Moment By Moment</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><cebuano num="486"/><chinese num="363"/><english num="486"/><korean num="363"/><portuguese num="221"/><tagalog num="486"/></numbers>
+  <creators>
+    <author biodate="1840-1901" biolink="">Daniel Webster Whittle</author>
+    <composer biodate="1870-1963" biolink="">May Whittle Moody</composer>
+  </creators>
+  <meter>10.10.10.10.D.</meter>
+  <hymncode>5123334123</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C7 - - | F - - | C - - | G/B - - | G - - | D7/A - D7 | G - - | C - - | Am - - | F - - | C/E - - | F - - | Dm - - | G7 - - | C - - | C - - | C/E - - | G - - | C - - | C - G/B | Am - - | D7 - - | G - - | C - G/B | Am - C/G | F - A/C# | Dm - - | - - - | D/F# - - | G7 - - | C - - |</chords>
+  <melody>| 5_. 1 2 | 3 3 3 | 4 1 2 | 3 - 0 | 3 2 1# | 2 3 2 | 1 7_.. 6_./ | 2 - - (break) | 5_. 1 2 | 3 3 3 | 4 4 4# | 5 - 0 | 5 4 3 | 6_. 2/ 0/ 1 | 7_. (.3 2 | 1 - - (break) | (Chorus) 3 4 5 | 3 2 1 | 7_.. 1/ 2 | 3 - 0 | 3 4 5 | 3 2 1 | 6_.. 7_./ 1 | 2 - - (break) | 5_. 1 2 | 3 3 3 | 6 6. 5/ | 4 - 0 | 4 3 2 | 6_. 2/ 0/ 1 | 7_. 3. 2/ | 1 - - |</melody>
+  <layout>
+    <singingstanza>Dy -- ing with Je -- sus, by death rec -- koned mine; Liv -- ing with Je -- sus a new life di -- vine; Look -- ing to Je -- sus till glo -- ry doth shine, Mo -- ment by mo -- ment, O Lord, I am Thine. Mo -- ment by mo -- ment I'm kept in His love, Mo -- ment by mo -- ment I've life from a -- bove; Look -- ing to Je -- sus till glo -- ry doth shine; Mo -- ment by mo -- ment, O Lord, I am Thine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj226.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="52">e0486_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dying with Jesus, by death reckoned mine;
+Living with Jesus a new life divine;
+Looking to Jesus till glory doth shine,
+Moment by moment, O Lord, I am Thine.</stanza>
+    <stanza type="chorus" number="">Moment by moment I'm kept in His love,
+Moment by moment I've life from above;
+Looking to Jesus till glory doth shine;
+  Moment by moment, O Lord, I am Thine.</stanza>
+    <stanza type="verse" number="2">Never a battle with wrong for the right,
+Never a contest that He doth not fight;
+Lifting above us His banner so white;
+Moment by moment I'm kept in His sight.</stanza>
+    <stanza type="verse" number="3">Never a trial that He is not there,
+Never a burden that He doth not bear;
+Never a sorrow that He doth not share,
+Moment by moment, I'm under His care.</stanza>
+    <stanza type="verse" number="4">Never a heartache, and never a groan,
+Never a teardrop, and never a moan;
+Never a danger but there on the throne
+Moment by moment He thinks of His own.</stanza>
+    <stanza type="verse" number="5">Never a weakness that He doth not feel,
+Never a sickness that He cannot heal;
+Moment by moment, in woe or in weal,
+Jesus, my Savior, abides with me still.</stanza>
+  </lyrics>
+</hymn>

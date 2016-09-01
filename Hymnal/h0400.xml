@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Earthly pleasures vainly call me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Likeness to Christ</category>
+  <creators>
+    <author biodate="1866-1933" biolink="">James Rowe</author>
+    <composer biodate="1872-1958" biolink="">Bentley DeForest Ackley</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>33223321512117</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | Dm. G. | Dm. A/C#. | Dm. G7. | C. D7. | G. G7. | C - - | D7 - - | G. G/B. | C - - | C - - | C. F. | C/G - - | G7. C. |</chords>
+  <melody>| 3 3/ 2# 2#/ | 3 3/ 2 1/ | 5_. 1/ 2 1/ | 1. 7_.. (break) | 4 4/ 3 3/ | 4 2/ 7_. 5_./ | 1 2/ 3 4#/ | 5. (.5_.. (break) | (Chorus) 3 3/ 4 3/ | 3 2/ 6_.. | 2 2/ 3 2/ | 2 1/ 5_.. (break) | 3_. 5_./ 1 2/ | 3 5/ (.4. | 3 1/ 3 1/ | 2. 1. |</melody>
+  <layout>
+    <singingstanza>Earth -- ly plea -- sures vain -- ly call me, I would be like Je -- sus; Noth -- ing world -- ly shall en -- thrall me, I would be like Je -- sus. Be like Je -- sus, this my song, In the home and in the throng; Be like Je -- sus, all day long! I would be like Je -- sus.</singingstanza>
+  </layout>
+  <copyright>Copyright, 1940 Renewal. Rodeheaver Co. Owner. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj134.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="29">e0400_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Earthly pleasures vainly call me,
+  I would be like Jesus;
+Nothing worldly shall enthrall me,
+  I would be like Jesus.</stanza>
+    <stanza type="chorus" number="">Be like Jesus, this my song,
+  In the home and in the throng;
+Be like Jesus, all day long!
+    I would be like Jesus.</stanza>
+    <stanza type="verse" number="2">He has broken every fetter,
+  I would be like Jesus;
+That my soul may serve Him better,
+  I would be like Jesus.</stanza>
+    <stanza type="verse" number="3">All the way from earth to glory,
+  I would be like Jesus;
+Telling o'er and o'er the story,
+  I would be like Jesus.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He healeth me, oh, bless His name</title>
+  <index>true</index>
+  <category>Divine Healing&amp;mdash;Christ the Same as of Old</category>
+  <numbers><chinese num="549"/><english num="755"/><korean num="549"/></numbers>
+  <creators>
+    <author biodate="1850-1932" biolink="">Manie Payne Ferguson</author>
+  </creators>
+  <melody>| 0 - - 5 | 3. 2/ 1 5 | 6 4 4 6 | 5. 3/ 3 2/( 1/) (break) | 3 3 (.2 5 | 3. 2/ 1 5 | 6 4 (.._1 7/( 6/) | 5 3 3/( 2/) 1/( 2/) (break) | 3. 2/ (.1 (Chorus) 5 | 5 ._1 7 ._2 | ._1 7/( 6/) 5 6 | 5 3 3/( 2/) 1/( 2/) (break) | 3 3 (.2 5 | 5 ._1 7 ._2 | ._1 7/( 6/) 5 6 | 5 3 3/( 2/) 1/( 2/) | 3. 2/ (.1 0 |</melody>
+  <layout>
+    <singingstanza>He heal -- eth me, oh, bless His name! I want to spread a -- broad His fame; From dread di -- sease He sets me free, The Lord my heal -- er, strong is He! He heal -- eth me, He heal -- eth me! By power di -- vine He heal -- eth me; He healed the sick in Gal -- i -- lee, And now by faith He heal -- eth me!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj042.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="585"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He healeth me, oh, bless His name!
+I want to spread abroad His fame;
+From dread disease He sets me free,
+The Lord my healer, strong is He!</stanza>
+    <stanza type="chorus" number="">He healeth me, He healeth me!
+By power divine He healeth me;
+He healed the sick in Galilee,
+  And now by faith He healeth me!</stanza>
+    <stanza type="verse" number="2">He healeth me! my simple faith
+Believes the word that Jesus saith,
+And takes the place of ardent hope,
+Believes the Lord will raise me up.</stanza>
+    <stanza type="verse" number="3">He healeth me! I touch for cure
+The border of His garment pure,
+And virtue through my being flows,
+A healing balm for nature's woes.</stanza>
+    <stanza type="verse" number="4">He healeth me, as when of yore,
+Their sins and sicknesses He bore;
+Nor has He lost His power and skill&amp;mdash;
+Our blessed Christ is living still.</stanza>
+    <stanza type="verse" number="5">He healeth me! how oft I sought
+This healing power, but found it not:
+But now I trust with all my soul,
+And now through faith He makes me whole.</stanza>
+  </lyrics>
+</hymn>

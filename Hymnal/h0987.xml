@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>One day when heaven was filled with His praises</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <numbers><chinese num="672"/><english num="987"/><korean num="672"/><portuguese num="441"/><tagalog num="987"/></numbers>
+  <creators>
+    <author biodate="1859-1918" biolink="">John Wilbur Chapman</author>
+    <composer biodate="1886-1956" biolink="">Charles Howard Marsh</composer>
+  </creators>
+  <meter>11.10.11.10. with chorus.</meter>
+  <hymncode>53456717653</hymncode>
+  <key>C Major</key>
+  <time>9/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - C/E - - F - - | F - - C/E - - C - - | Dm - - Dm - - Dm/C - - | G7/B - - C - - - - - | C - - C/E - - F - - | F - - C/E - - C - - | G/D - - G - - D/F# - - | D7 - - G - - G7/B - - | C - - G7 - - - - - | G7/B - - C - - - - - | C - - F - - A7/E - - | D7 - - G - - G7 - - | C - - G7 - - - - - | G7 - - C - - C/E - - | F - - D - - D7/F# - - | G7 - - C - - - - - |</chords>
+  <melody>| 5 3 4 5 - - 6 - 7 | ._1 7 6 5 - - 3 - - | 4 2 3 4 - - 3 - 4 | 5 5 4 3( - - 3) - - (break) | 5 3 4 5 - - 6 - 7 | ._1 7 6 5 - - 3 - - | 2 5 6 7 - - 6 - 5 | 6 2 6 5( - - 5) - - (break) | (Chorus) ._1 6 ._1 7 - - 4 - - | 6 7 6 5 - - 3 - - | 5 4 3 6 - - 6 - 6 | ._1 7 6 ._2( - - ._2) - - (break) | ._1 6 ._1 7 - 4 4 - - | 6 7 ._2 ._1 - - 5 - - | 6 6 6 ._2 - - 6 - ._1 | 7 5 ._2 ._1( - - ._1) - - |</melody>
+  <layout>
+    <singingstanza>One day when heav -- en was filled with His prais -- es, One day when sin was as black as could be, Je -- sus came forth to be born of a vir -- gin&amp;mdash; Dwelt a -- mong men, my ex -- am -- ple is He! Liv -- ing, He loved me; dy -- ing, He saved me; Bur -- ied, He car -- ried my sins far a -- way; Ris -- ing, He just -- i -- fied free -- ly for -- ev -- er: One day He's com -- ing&amp;mdash; O glo -- ri -- ous day!</singingstanza>
+  </layout>
+  <copyright>Copyright, 1938 Renewal. Rodeheaver Co., Owner. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj108.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="59">e0987_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">One day when heaven was filled with His praises,
+  One day when sin was as black as could be,
+Jesus came forth to be born of a virgin&amp;mdash;
+  Dwelt among men, my example is He!</stanza>
+    <stanza type="chorus" number="">Living, He loved me; dying, He saved me;
+  Buried, He carried my sins far away;
+Rising, He justified freely forever:
+    One day He's coming&amp;mdash;O glorious day!</stanza>
+    <stanza type="verse" number="2">One day they led Him up Calvary's mountain,
+  One day they nailed Him to die on the tree;
+Suffering anguish, despised and rejected;
+  Bearing our sins, my Redeemer is He.</stanza>
+    <stanza type="verse" number="3">One day they left Him alone in the garden,
+  One day He rested, from suffering free;
+Angels came down o'er His tomb to keep vigil;
+  Hope of the hopeless, my Savior is He.</stanza>
+    <stanza type="verse" number="4">One day the grave could conceal Him no longer,
+  One day the stone rolled away from the door;
+Then He arose, over death He had conquered;
+  Now is ascended, my Lord evermore.</stanza>
+    <stanza type="verse" number="5">One day the trumpet will sound for His coming,
+  One day the skies with His glory will shine;
+Wonderful day, my beloved ones bringing;
+  Glorious Savior, this Jesus is mine!</stanza>
+  </lyrics>
+</hymn>

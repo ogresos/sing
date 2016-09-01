@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Precious promise God doth give thee</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Leading</category>
+  <numbers><cebuano num="703"/><chinese num="509"/><english num="703"/><german num="703"/><korean num="509"/><russian num="526"/><tagalog num="703"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Nathaniel Niles</author>
+	<composer biodate="1838-1876" biolink="">Philip Paul Bliss</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>5671112366</hymncode>
+  <key>F Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7. | C - - C. | F - - F. | G - - G. | C - - C7. | F - - F. | C/E - - C. | G/D - - D7. | G - - C. | G - - G7. | C - - C. | C/E - - D7. | G - - G7. | C - - C7/E. | F - - F. | C/G - - G7. | C - - 0. |</chords>
+  <melody>| 0 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 6_.. 6_.. 6_./( 7_./) 1/ | 2. 2. 2/( 1/) 2/ (break) | 3 - - 3/( 2/) 3/ | 4. 4. 4/( 5/) 6/ | 6. 5. 5/( 4/) 3/ | 2. 2. 2/( 3/) 4#/ (break) | 5 - - (Chorus) 5/( 4/) 3/ | 3. 2. 2/( 3/) 4/ | 4. 3. 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ (break) | 2 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 4. (.6. 6/( 5/) 4/ | 3. 5. 4/( 3/) 2/ | 1 - - 0. |</melody>
+  <layout>
+	<singingstanza>Pre -- cious prom -- ise God doth give thee, Thou, the wea -- ry pass -- er -- by, On the way from earth to glo -- ry: "I will guide thee with Mine eye." I will guide thee, I will guide thee, I will guide thee with Mine eye; On the way from earth to glo -- ry, I will guide thee with Mine eye.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj022.xml</link>
+	<link type="ref">Psalms 32:8</link>
+  </links>
+  <music>
+	<midi location="h" length="40">e0703_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Precious promise God doth give thee,
+  Thou, the weary passerby,
+On the way from earth to glory:
+  "I will guide thee with Mine eye."</stanza>
+	<stanza type="chorus" number="">I will guide thee, I will guide thee,
+  I will guide thee with Mine eye;
+On the way from earth to glory,
+    I will guide thee with Mine eye.</stanza>
+	<stanza type="verse" number="2">When temptations fierce assail thee,
+  When thy trusted helpers fly,
+Let this promise ring within thee,
+  "I will guide thee with Mine eye."</stanza>
+	<stanza type="verse" number="3">When thy secret hopes have perished
+  In the grave of years gone by,
+Let this promise still be cherished,
+  "I will guide thee with Mine eye."</stanza>
+	<stanza type="verse" number="4">When the shades of life are falling,
+  And the hour has come to die,
+Hear thy faithful Pilot calling,
+  "I will guide thee with Mine eye."</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My heart is resting, O my God</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As the Everlasting Portion</category>
+  <creators>
+    <author biodate="1823-1910" biolink="">Anna Laetitia Waring</author>
+    <composer biodate="" biolink="">Swiss melody</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>55655655153335432</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F/C - - | C - - | C - - | C - - | C - - | G - - | C - - | G/B - - | Am - - | C/G - - | F - - | G7 - - | C - - | G/B - - | G - - | C - - | C/E - - | G/B - - | D/A - - | G7 - - | C - - | G/B - - | Am - - | C/G - - | F - - | G7 - - | F/C - - | C - - |</chords>
+  <guitarChords>| C - - | C - - | G - - | C - - | C - - | C - - | C - - | G - - | C - - | G - - | C - - | C - - | C - - | G7 - - | C - - | G - - | G - - | C - - | C - - | G - - | D7 - - | G7 - - | C - - | G - - | C - - | C - - | C - - | G7 - - | C - - | C - - |</guitarChords>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | 5 - 3 | 3 - 3 | 5( 4) 3 (break) | (.2 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | ._3 - ._2 | ._1 - ._1 | 7( 6) 7 (break) | ._1 - (Chorus) 5 | ._2 - ._1# | ._2 - ._2# | ._3 - ._2 | ._1 - 5 | ._2 - ._1# | ._2 - ._3 (break) | (.._4 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | ._3 - ._2 | ._1 - ._1 | 7( 6) 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>My heart is rest -- ing, O my God, I will give thanks and sing; My heart is at the se -- cret source Of ev -- ery pre -- cious thing. Oh, peace of God that pass -- eth thought, I dai -- ly, hour -- ly sing; My heart is at the se -- cret source Of ev -- ery pre -- cious thing.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj078.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="47">e0601_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My heart is resting, O my God,
+  I will give thanks and sing;
+My heart is at the secret source
+  Of every precious thing.</stanza>
+    <stanza type="chorus" number="">Oh, peace of God that passeth thought,
+  I daily, hourly sing;
+My heart is at the secret source
+    Of every precious thing.</stanza>
+    <stanza type="verse" number="2">Now this frail vessel Thou hast made,
+  No hand but Thine shall fill;
+The waters of the earth have failed,
+  And I am thirsty still.</stanza>
+    <stanza type="verse" number="3">I thirst for springs of heavenly life,
+  And here all day they rise;
+I seek the treasure of Thy love,
+  And close at hand it lies.</stanza>
+    <stanza type="verse" number="4">A glad, new song is in my mouth,
+  To long-loved music set,
+A song of praise for all the grace
+  I have not tasted yet.</stanza>
+    <stanza type="verse" number="5">I have a heritage of joy
+  That yet I must not see;
+The hand that bled to make it mine
+  Is keeping it for me.</stanza>
+    <stanza type="verse" number="6">There is a certainty of love
+  That sets my heart at rest;
+A calm assurance for today
+  That to be poor is best.</stanza>
+    <stanza type="verse" number="7">A prayer reposing on His truth,
+  Who hath made all things mine;
+That draws my captive will to Him,
+  And makes it one with Thine.</stanza>
+  </lyrics>
+</hymn>

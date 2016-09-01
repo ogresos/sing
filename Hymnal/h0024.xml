@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O God, in Christ all focused is</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Wisdom</category>
+  <numbers><cebuano num="24"/><chinese num="21"/><english num="24"/><german num="24"/><korean num="21"/><portuguese num="21"/><russian num="392"/><spanish num="17"/><tagalog num="24"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1765-1844" biolink="">Oliver Holden</composer>
+  </creators>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>51133212321321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | F - G - | C - - - | C - - - | C - - - | C - G/B - | Am - D7 - | G - G7 - | C - - - | G - - Am | C/E - F - | C/G - G7 - | C - - 0 |</chords>
+<guitarChords>| C - - - | C - - - | G - - - | G - - - | C - - - | C - - - | C - - - | C - - - | D7 - - - | G - G7 - | C - - - | G - - - | C - F - | C - G7 - | C - - 0 |</guitarChords>
+  <melody>| 0 - - 5_. | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 | 1 - - 2 (break) | 3 2 1 3 | 5/( 4/) 3/( 2/) 3 5 | 5 - 5 - | 6 - 5( 4#) | 5 - - 3 (break) | 5 3 1 3 | 2/( 1/) 2/( 3/) 2 1 | 5 - 4 - | 3.( 4/ 2) 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>O God, in Christ all fo -- cused is Thy wis -- dom with Thy grace; As wis -- dom Thou mad'st Him to us, In Him Thy way we trace. As wis -- dom Thou mad'st Him to us, In Him Thy way we trace.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj240.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0024.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="34">e0024_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O God, in Christ all focused is
+  Thy wisdom with Thy grace;
+As wisdom Thou mad'st Him to us,
+  In Him Thy way we trace.</stanza>
+	<stanza type="verse" number="2">What Thou has planned is all in Him,
+  Thy way of grace is He;
+In Him, Thy Wisdom, we have all,
+  That glory be to Thee.</stanza>
+	<stanza type="verse" number="3">In Him, who is our righteousness,
+  Have we been justified;
+In Him, who is our holiness,
+  We're being sanctified.</stanza>
+	<stanza type="verse" number="4">Redemption too He is to us,
+  According to Thy plan,
+That we may fully be redeemed
+  To be a perfect man.</stanza>
+	<stanza type="verse" number="5">He is Thy wisdom, Father God,
+  In Thine economy;
+For Him we offer praise to Thee
+  With all humility.</stanza>
+	<stanza type="verse" number="6">Thy wisdom we have seen in Him,
+  So rich and so profound;
+Yet richer, deeper, in Thy way,
+  By us will it be found.</stanza>
+  </lyrics>
+</hymn>

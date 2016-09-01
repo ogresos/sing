@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Blessed Lord, our hallelujahs</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Worthiness</category>
+  <numbers><cebuano num="185"/><chinese num="ts:24"/><english num="185"/><german num="185"/><tagalog num="185"/></numbers>
+  <creators>
+	<author biodate="" biolink="">H. d'A. Champney</author>
+	<composer biodate="1838-1876" biolink="">Philip Paul Bliss</composer>
+  </creators>
+  <meter>8.5.8.5.D.</meter>
+  <hymncode>5653121656532</hymncode>
+  <key>C Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | F - | Em Am | Dm G7 | C - | F - | G/D D7 | G7 - | C F/C | C C/E | F Dm | G - | C C7/E | F Dm | C/G G7 | C - |</chords>
+  <guitarChords>| C - | F - | C - | G G7 | C - | F - | D D7 | G7 - | C - | C - | F - | G - | C C7 | F - | G G7 | C - |</guitarChords>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <layout>
+	<singingstanza>Bless -- ed Lord, our hal -- le -- lu -- jahs Now to Thee we raise. Nev -- er could we ful -- ly ut -- ter All Thy worth and praise! Praise the Lamb, for He is wor -- thy! Sweet e -- ter -- nal strain. Hal -- le -- lu -- jah! Hal -- le -- lu -- jah! Praise the Lord! A -- men.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj162.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="31">e0185_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Blessed Lord, our hallelujahs
+  Now to Thee we raise.
+Never could we fully utter
+  All Thy worth and praise!</stanza>
+	<stanza type="chorus" number="">Praise the Lamb, for He is worthy!
+  Sweet eternal strain.
+Hallelujah! Hallelujah!
+    Praise the Lord! Amen.</stanza>
+	<stanza type="verse" number="2">Praise the Lamb! Yes, Thou art worthy,
+  Who didst shed Thy blood
+To redeem Thy saints, and make us
+  Kings and priests to God!</stanza>
+	<stanza type="verse" number="3">Hallelujah! Thou, Lord Jesus,
+  Canst not cease to love;
+Thine we are and Thine forever,
+  One with Thee above.</stanza>
+	<stanza type="verse" number="4">Praise the Lord! Yes, hallelujah!
+  Who would hush the song?
+Join with saints from every nation
+  Every tribe and tongue.</stanza>
+  </lyrics>
+</hymn>

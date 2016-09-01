@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Standing on the promises of Christ my King</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;A Firm Foundation</category>
+  <numbers><english num="340"/><korean num="1023"/><spanish num="161"/></numbers>
+  <creators>
+    <author biodate="1849-1928" biolink="">Russell Kelso Carter</author>
+    <composer biodate="1849-1928" biolink="">Russell Kelso Carter</composer>
+  </creators>
+  <meter>11.11.11.9. with chorus.</meter>
+  <hymncode>55565434511</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - C/E - | F - F/A - | C - G7 - | C - G/B - | Am - C/G - | Dm/F - G7 - | C - - - | C - C/E - | F - F/A - | G - G/B - | C - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5./ 5// 5./ 6// 5./ 4// 3./ 4// | 5 ._1 ._1 - (break) | 6./ 6// 6./ 7// ._1./ ._1// 7./ 6// | 6 5 5 - (break) | 5./ 5// 5./ 6// 5./ 4// 3./ 4// | 5 ._1 ._1 - (break) | ._3./ ._3// ._1./ ._1// ._2./ ._2// 7./ 7// | ._1 - - 0 (break) | (Chorus) ._3 - ._1 - | 6 - ._1 - | ._2./ ._2// ._2./ ._2// ._2./ ._2// ._1./ ._2// | ._3 ._1 6 ._1 (break) | ._3 - ._1 - | 6 - (.._4. ._2/ | ._1./ ._1// ._1./ ._2// ._3./ ._3// ._2./ ._2// | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Stand -- ing on the pro -- mis -- es of Christ my King, Through e -- ter -- nal ag -- es let His prais -- es ring, Glo -- ry in the high -- est, I will shout and sing, Stand -- ing on the pro -- mis -- es of God. Stand -- ing, stand -- ing, Stand -- ing on the pro -- mis -- es of God my Sav -- ior; Stand -- ing, stand -- ing, I'm stand -- ing on the pro -- mis -- es of God.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj001.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="41">e0340_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Standing on the promises of Christ my King,
+Through eternal ages let His praises ring,
+Glory in the highest, I will shout and sing,
+  Standing on the promises of God.</stanza>
+    <stanza type="chorus" number="">Standing, standing,
+Standing on the promises of God my Savior;
+Standing, standing,
+  I'm standing on the promises of God.</stanza>
+    <stanza type="verse" number="2">Standing on the promises that cannot fail,
+When the howling storms of doubt and fear assail,
+By the living Word of God I shall prevail,
+  Standing on the promises of God.</stanza>
+    <stanza type="verse" number="3">Standing on the promises I now can see
+Perfect, present cleansing in the blood for me;
+Standing in the liberty where Christ makes free,
+  Standing on the promises of God.</stanza>
+    <stanza type="verse" number="4">Standing on the promises of Christ the Lord,
+Bound to Him eternally by love's strong cord,
+Overcoming daily with the Spirit's sword,
+  Standing on the promises of God.</stanza>
+    <stanza type="verse" number="5">Standing on the promises I shall not fall,
+List'ning every moment to the Spirit's call.
+Resting in my Savior as my All in all,
+  Standing on the promises of God.</stanza>
+  </lyrics>
+</hymn>

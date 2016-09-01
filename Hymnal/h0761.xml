@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Prayer is the soul's sincere desire</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;The Meaning</category>
+  <numbers><english num="761"/><french num="138"/></numbers>
+  <creators>
+    <author biodate="1771-1854" biolink="">James Montgomery</author>
+  </creators>
+  <melody>| 5 6 7 | ._1( ._2) ._3 | ._3 - ._2 | ._1 - - | 6 6 ._1 | ._4 - 6 | 5 - - (break) | 5 6 7 | ._1( ._2) ._3 | ._3 - ._2 | ._1 - - | 6 ._4 6 | 5( ._1) 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Prayer is the soul's sin -- cere de -- sire, Ut -- tered, or un -- ex -- pressed; The mo -- tion of a hid -- den fire That trem -- bles in the breast.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj171.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="157"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Prayer is the soul's sincere desire,
+  Uttered, or unexpressed;
+The motion of a hidden fire
+  That trembles in the breast.</stanza>
+    <stanza type="verse" number="2">Prayer is the burden of a sigh,
+  The falling of a tear;
+The upward glancing of an eye
+  When none but God is near.</stanza>
+    <stanza type="verse" number="3">Prayer is the simplest form of speech
+  That infant lips can try;
+Prayer the sublimest strains that reach
+  The Majesty on high.</stanza>
+    <stanza type="verse" number="4">Prayer is the Christian's vital breath,
+  The Christian's native air;
+His watchword at the gates of death;
+  He enters rest with prayer.</stanza>
+    <stanza type="verse" number="5">The saints in prayer appear as one,
+  In word, and deed, and mind;
+While with the Father and the Son
+  Sweet fellowship they find.</stanza>
+    <stanza type="verse" number="6">O Thou, by whom we come to God,
+  The Life, the Truth, the Way,
+The path of prayer Thyself hast trod&amp;mdash;
+  Lord, teach us how to pray.</stanza>
+  </lyrics>
+</hymn>

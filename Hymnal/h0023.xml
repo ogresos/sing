@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In all Thy wisdom, Father God</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Wisdom</category>
+  <numbers><cebuano num="23"/><chinese num="20"/><english num="23"/><german num="23"/><korean num="20"/><portuguese num="20"/><russian num="241"/><spanish num="16"/><tagalog num="23"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 3/ 3 5 | 5. 2/ 2 3 | 4 5 6 7 | 5 - - 5 (break) | 5. 3/ 3 5 | 5. 2/ 2 ._2 | ._1# ._2 ._3 6 (break) | ._2 - - (Chorus) 5 | ._3. ._3/ ._2 ._1 | ._1. 7/ 7 ._1 | ._2 7 6 5 | ._1 - - ._1 (break) | ._1. 6/ 6 ._1 | ._1. 5/ 5 5 | 6 ._1 5 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>In all Thy wis -- dom, Fa -- ther God, Ac -- cord -- ing to Thy will, E -- ter -- nal pur -- pose Thou hast made That all Thy Son might fill. How deep and rich Thy wis -- dom is, O who can search and trace? Yet, Fa -- ther God, in it we find Thy mer -- cy and Thy grace!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj240.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0023.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="18"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">In all Thy wisdom, Father God,
+  According to Thy will,
+Eternal purpose Thou hast made
+  That all Thy Son might fill.</stanza>
+	<stanza type="chorus" number="">How deep and rich Thy wisdom is,
+  O who can search and trace?
+Yet, Father God, in it we find
+    Thy mercy and Thy grace!</stanza>
+	<stanza type="verse" number="2">How wondrously Thou mad'st all things,
+  O who can know Thy mind?
+All are of Thee, thru Thee, to Thee,
+  Thy wisdom here we find.</stanza>
+	<stanza type="verse" number="3">Thy wisdom shuts up all in sin,
+  That mercy may be shown,
+That none may boast in anything
+  But in Thyself alone.</stanza>
+	<stanza type="verse" number="4">In wisdom, by the cross, Thou hast
+  For us redemption made,
+That in our spirit we may have
+  Thyself, the treasure, laid.</stanza>
+	<stanza type="verse" number="5">Thy wisdom thru Thy Church is known
+  By principalities,
+Thru us Thy wisdom manifold
+  Shown in the heavenlies.</stanza>
+	<stanza type="verse" number="6">When in the new Jerusalem
+  In mercy we will boast,
+Thy wisdom will be known for aye
+  Unto the uttermost.</stanza>
+  </lyrics>
+</hymn>

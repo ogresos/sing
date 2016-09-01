@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Drink! A river pure and clear that's flowing from the throne</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><cebuano num="1151"/><chinese num="ts:216"/><dutch num="35"/><english num="1151"/><french num="112"/><german num="1151"/><korean num="968"/><lsmyp num="161"/><portuguese num="249"/><russian num="112"/><spanish num="231"/><tagalog num="1151"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Minoru Chen">M. C.</author>
+	<composer biodate="" biolink="">Traditional American melody</composer>
+	<!--<composer biodate="" biolink="">Arranged by H. Voss</composer>-->
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5556111233321</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | F - C - | C - G/B - | Am - C/G - | F - G7 - | C F/C C - | C - - - | C - C7/E - | F - - - | F - C - | C - G/B - | Am - C/G - | F - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | C - - - | F - - - | F - C - | C - - - | C - F - | C - G7 - | C F C - | C - - - | C - C7 - | F - - - | F - C - | C - - - | C - F - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 5/ 5/ 5/ 6/ ._1/ ._1/ ._1/ ._2/ | ._3/ ._3/ ._3/ ._2/ ._1 - (break) | 6/ 6/ 6/ 7/ ._1/ ._1/ ._1/ 6/ | ._1/ ._1/ ._1/ 6/ 5 - (break) | 5/ 5/ 5/ 6/ ._1/ ._1/ ._1/ ._2/ | ._3/ ._3/ ._3/ ._2/ ._1 ._2 (break) | ._3. ._1/ ._3/( ._2) ._1/ | ._1 - - 0 (break) | (Chorus) 5/ 5 6/ ._1/ ._1 ._2/ | ._3./ ._3// ._3/ ._2/ ._1 - (break) | 6/ 6 7/ ._1/ ._1 6/ | ._1./ ._1// ._1/ 6/ 5 - (break) | 5/ 5 6/ ._1/ ._1 ._2/ | ._3./ ._3// ._3/ ._2/ ._1 ._2 (break) | ._3/ ._3 ._1/ ._3/ ._2 ._1/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Drink! A riv -- er pure and clear that's flow -- ing from the throne; Eat! The tree of life with fruits a -- bun -- dant, rich -- ly grown; Look! No need of lamp nor sun nor moon to keep it bright, for Here there is no night! Do come, oh, do come, Says Spir -- it and the Bride: Do come, oh, do come, Let him that hear -- eth, cry. Do come, oh, do come, Let him who thirsts and will Take free -- ly the wa -- ter of life!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">theme-river.xml</link>
+	<link type="ref">Revelation 22</link>
+  </links>
+  <music>
+	<midi location="h" length="39">e1151_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Drink! A river pure and clear that's flowing from the throne;
+Eat! The tree of life with fruits abundant, richly grown;
+Look! No need of lamp nor sun nor moon to keep it bright, for
+  Here there is no night!</stanza>
+	<stanza type="chorus" number="">Do come, oh, do come,
+Says Spirit and the Bride:
+Do come, oh, do come,
+Let him that heareth, cry.
+Do come, oh, do come,
+Let him who thirsts and will
+  Take freely the water of life!</stanza>
+	<stanza type="verse" number="2">Christ, our river, Christ, our water, springing from within;
+Christ, our tree, and Christ, the fruits, to be enjoyed therein,
+Christ, our day, and Christ, our light, and Christ, our morningstar:
+  Christ, our everything!</stanza>
+	<stanza type="verse" number="3">We are washing all our robes the tree of life to eat;
+"O Lord, Amen, Hallelujah!"&amp;mdash;Jesus is so sweet!
+We our spirits exercise, and thus experience Christ.
+  What a Christ have we!</stanza>
+	<stanza type="verse" number="4">Now we have a home so bright that outshines the sun,
+Where the brothers all unite and truly are one.
+Jesus gets us all together, Him we now display
+  In the local church.</stanza>
+  </lyrics>
+</hymn>

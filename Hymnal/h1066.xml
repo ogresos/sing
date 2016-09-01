@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Down at the cross</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <numbers><cebuano num="1066"/><chinese num="739"/><english num="1066"/><french num="205"/><german num="1066"/><korean num="739"/><lsmyp num="306"/><portuguese num="465"/><russian num="179"/><spanish num="488"/><tagalog num="1066"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Elisha Albright Hoffman</author>
+	<composer biodate="1813-1877" biolink="">John Hart Stockton</composer>
+  </creators>
+  <meter>9.9.9.5. with chorus.</meter>
+  <hymncode>332117615</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C - | C - Am - | D7 - G - | C - C/E - | F - C - | C/G - G7 - | C F/C C - | C - F/C - | C - - - | C - Am - | Dm - G7 - | C - C/E - | F - C/E - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | F - C - | C - - - | D7 - G - | C - - - | F - C - | C - G7 - | C F C - | F - - - | C - - - | C - - - | G - G7 - | C - - - | F - C - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3 3./ 3// 5 5./ 3// | 1 3 2 - (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 1. 1/ 1 6_. | 5_..( 6_./ 1) 0 | 3. 3/ 3 1 | 2.( 3/ 2) 0 (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Down at the cross where my Sav -- ior died, Down where for cleans -- ing from sin I cried, There to my sin was the blood ap -- plied; Glo -- ry to His name! Glo -- ry to His name, Glo -- ry to His name; There to my sin was the blood ap -- plied; Glo -- ry to His name!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="38">e1066_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Down at the cross where my Savior died,
+Down where for cleansing from sin I cried,
+There to my sin was the blood applied;
+    Glory to His name!</stanza>
+	<stanza type="chorus" number="">Glory to His name,
+  Glory to His name;
+There to my sin was the blood applied;
+    Glory to His name!</stanza>
+	<stanza type="verse" number="2">I am so wondrously saved from sin,
+Jesus so sweetly abides within;
+There at the cross where He took me in;
+    Glory to His name.</stanza>
+	<stanza type="verse" number="3">Oh, precious fountain that saves from sin,
+I am so glad I have entered in;
+There Jesus saves me and keeps me clean;
+    Glory to His name.</stanza>
+	<stanza type="verse" number="4">Come to this fountain so rich and sweet;
+Cast thy poor soul at the Savior's feet;
+Plunge in today, and be made complete;
+    Glory to His name.</stanza>
+  </lyrics>
+</hymn>

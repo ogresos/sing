@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fear not, little flock, from the cross to the throne</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Trusting the Lord</category>
+  <creators>
+    <author biodate="" biolink="">Paul Rader</author>
+    <composer biodate="" biolink="">Paul Rader</composer>
+  </creators>
+  <meter>11.11.11.11. with chorus.</meter>
+  <hymncode>55453333235</hymncode>
+  <key>Db Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | C - - | C/E - - | F - - | C - - | Am - D7 | G - G7/B | C - - | C - - | C - C/E | F - - | F/A - F | C/E - F | C/G - G7 | C - - | G7 - - C - - | C7/E - - F - - | C - - Am - - | D7 - - G7 - - | C - - - - - | C7 - - F - - | F - - C - - | G7 - - C - - |</chords>
+  <melody>| 0 - 5 | 5 - 4#/ 5/ | 3 - 3/ 3/ | 3 - 2#/ 3/ | 5 - 5 | 6 - 7/ 6/ | 5 - 3 | 3 - 2/ 1/ (break) | 2 - 5 | 5 4# 4 | 3 - 3 | 3 4 5 | 6 - 6 | ._1 7 6 | 5 - 6/ ._1/ | 3 3 2 | 1 - - (break) | [6/4] (Chorus) 5. 4#/ 5 3 - - | ._1. 7/ ._1 6 - - | 5 5 6 5/ 3/ 3 - | 3 2 3 2 - - (break) | 5. 4#/ 5 3 - - | ._1. 7/ ._1 6 - - | ._1 7 6 5/ 3/ 3 - | 5 4 2 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Fear not, lit -- tle flock, from the cross to the throne, From death in -- to life He went for His own; All pow -- er in earth, all pow -- er a -- bove, Is giv -- en to Him for the flock of His love. On -- ly be -- lieve, on -- ly be -- lieve; All things are pos -- si -- ble, on -- ly be -- lieve; On -- ly be -- lieve, on -- ly be -- lieve; All things are pos -- si -- ble, on -- ly be -- lieve.</singingstanza>
+  </layout>
+  <copyright>Copyright, 1949 Renewal. Rodeheaver Co., Owner. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj050.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="60">e0649_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Fear not, little flock, from the cross to the throne,
+From death into life He went for His own;
+All power in earth, all power above,
+Is given to Him for the flock of His love.</stanza>
+    <stanza type="chorus" number="">Only believe, only believe;
+All things are possible, only believe;
+Only believe, only believe;
+  All things are possible, only believe.</stanza>
+    <stanza type="verse" number="2">Fear not, little flock, He goeth ahead,
+Your Shepherd selecteth the path you must tread;
+The waters of Marah He'll sweeten for thee,
+He drank all the bitter in Gethsemane.</stanza>
+    <stanza type="verse" number="3">Fear not, little flock, whatever your lot,
+He enters all rooms, "the doors being shut"
+He never forsakes, He never is gone,
+So count on His presence in darkness and dawn.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, Thy boundless love to me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Love</category>
+  <creators>
+    <author biodate="1607-1676" biolink="">Paul Gerhardt</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3( 5) 3 (break) | 2 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3 - 2 (break) | 1 - 2 | 2.( 3/) 4 | 3 - 5 | 5( 3) 6 | 5 - 6 | ._1 - 6 | 5.( 4/) 3 | 4 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>O Lord, Thy bound -- less love to me No thought can reach, no tongue de -- clare; Oh, knit my thank -- ful heart to Thee, And reign with -- out a ri -- val there; Thine whol -- ly, Thine a -- lone I am; Lord, with Thy love my heart in -- flame.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj135.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="178"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Lord, Thy boundless love to me
+No thought can reach, no tongue declare;
+Oh, knit my thankful heart to Thee,
+And reign without a rival there;
+Thine wholly, Thine alone I am;
+Lord, with Thy love my heart inflame.</stanza>
+    <stanza type="verse" number="2">Oh, grant that nothing in my soul
+May dwell but Thy pure love alone;
+Oh, may Thy love possess me whole,
+My joy, my treasure, and my crown;
+All coldness from my heart remove;
+May every act, word, thought, be love.</stanza>
+    <stanza type="verse" number="3">O Love, how cheering is Thy ray,
+All pain before Thy presence flies;
+Care, anguish, sorrow, melt away,
+Where'er Thy healing beams arise;
+Lord Jesus, nothing may I see,
+And naught desire, or seek, but Thee.</stanza>
+  </lyrics>
+</hymn>

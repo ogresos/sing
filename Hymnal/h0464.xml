@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My glorious Victor, Prince Divine</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Serving the Lord</category>
+  <creators>
+    <author biodate="1841-1920" biolink="">Handley Carr Glyn Moule</author>
+    <composer biodate="" biolink="">R. W. Dixon</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>332343321</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F/C - C | G - - | C - - | C - - | C - - | Dm - C | G - - | Dm - A/C# | Dm - C | C - C7/E | F - C/E | G/D - F/C | G/B - F | C/G - G7 | C - - |</chords>
+  <guitarChords>| C - - | C - - | C - - | G - - | C - - | C - - | C - - | C - - | G - - | G - - | G7 - - | C - C7 | F - - | G - - | C - - | G - G7 | C - - |</guitarChords>
+  <melody>| 0 - 3 | 3( 2#) 3 | 4 - 3 | 3 - 2 | 1 - 5 | 5( 4#) 5 | ._1 - 5 | 5( 4) 3 | 3( 2) 5 (break) | 5( 2) 3 | 4 - 3 | 3( 4) 5 | 6 - 5 | 5( 7) 6 | 5 - 1/( 2/) | 3 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>My glo -- rious Vic -- tor, Prince Di -- vine, Clasp these sur -- ren -- dered hands in Thine; At length my will is all Thine own, Glad vas -- sal of a Sav -- ior's throne.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj038.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0464_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My glorious Victor, Prince Divine,
+Clasp these surrendered hands in Thine;
+At length my will is all Thine own,
+Glad vassal of a Savior's throne.</stanza>
+    <stanza type="verse" number="2">My Master, lead me to Thy door;
+Pierce this now willing ear once more;
+Thy bonds are freedom; let me stay
+With Thee, to toil, endure, obey.</stanza>
+    <stanza type="verse" number="3">Yes, ear and hand, and thought and will,
+Use all in Thy dear slav'ry still!
+Self's weary liberties I cast
+Beneath Thy feet; there keep them fast.</stanza>
+    <stanza type="verse" number="4">Tread them still down; and then I know,
+These hands shall with Thy gifts o'erflow;
+And pierced ears shall hear the tone
+Which tells me Thou and I are one.</stanza>
+  </lyrics>
+</hymn>

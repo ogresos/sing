@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Power, exceeding great pow'r is to us</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;The Power of His Resurrection</category>
+  <numbers><chinese num="ts:255"/><english num="1175"/><spanish num="282"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 ._2./ ._1#// ._2 - | ._1 ._3./ ._2#// ._3 - (break) | 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 7./ 7// ._2 ._1/ 7/ (break) | ._1 - - (Chorus) 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2 - - ._1./ ._2// (break) | ._3 - - 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2. ._4/ ._3 ._2./ ._2// | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Pow -- er, ex -- ceed -- ing great pow'r is to us, To us who be -- lieve, us who re -- ceive! Pow -- er that raised Christ, yes, pow'r glo -- ri -- ous Is giv'n to His Bod -- y, the church! There is pow'r, pow'r, re -- sur -- rec -- tion pow'r, To the church, to the church! There is pow'r, pow'r, re -- sur -- rec -- tion pow'r, Giv -- en to His Bod -- y, the church!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">nt_eph1-19-23.xml</link>
+    <link type="ref">Ephesians 1:19-23</link>
+  </links>
+  <music>
+    <midiref type="h" num="1009"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Power, exceeding great pow'r is to us,
+  To us who believe, us who receive!
+Power that raised Christ, yes, pow'r glorious
+  Is giv'n to His Body, the church!
+  There is pow'r, pow'r, resurrection pow'r,
+    To the church, to the church!
+  There is pow'r, pow'r, resurrection pow'r,
+    Given to His Body, the church!</stanza>
+    <stanza type="verse" number="2">Power that set Christ at God's own right hand,
+  This pow'r is to us&amp;mdash;yes, even us!
+Power above every name that is named
+  Is giv'n to His Body, the church!
+  There is pow'r, pow'r, all-transcending pow'r,
+    To the church, to the church!
+  There is pow'r, pow'r, all-transcending pow'r,
+    Given to His Body, the church!</stanza>
+    <stanza type="verse" number="3">Power that put all things under His feet
+  Is ours here and now&amp;mdash;right here and now!
+Power subjecting all, power complete,
+  Is giv'n to His Body, the church!
+  There is pow'r, pow'r, all-subduing pow'r,
+    To the church, to the church!
+  There is pow'r, pow'r, all-subduing pow'r,
+    Given to His Body, the church!</stanza>
+    <stanza type="verse" number="4">Power that made Him o'er all things the Head
+  Is now to the church, now to the church!
+Power, such pow'r, will be exhibited
+  O'er all through His Body, the church!
+  There is pow'r, pow'r, overruling pow'r,
+    To the church, to the church!
+  There is pow'r, pow'r, overruling pow'r,
+    Given to His Body, the church!</stanza>
+  </lyrics>
+</hymn>

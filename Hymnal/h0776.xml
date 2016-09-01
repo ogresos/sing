@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ask in faith, the Name of Jesus</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;In Faith</category>
+  <numbers><chinese num="561"/><english num="776"/><korean num="561"/><portuguese num="355"/><tagalog num="776"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 5 | 5 - ._1 | ._1( 7) 6 | 6 - 5 | 5 - ._1 | 5 - ._3 | ._2( ._3) ._2 | ._1 - - (break) | ._3 - ._3 | ._3( ._2) ._2 | ._2( 7) 5 | ._1 - 5 | ._1( 7) 6 | 5 - ._1 | ._3 - ._2 | ._1 - - |</melody>
+  <layout>
+    <singingstanza>"Ask in faith," the Name of Je -- sus All your plea be -- fore the throne; As you trust, the Lord will whis -- per, "See, my child, the work is done."</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj168.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="664"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Ask in faith," the Name of Jesus
+  All your plea before the throne;
+As you trust, the Lord will whisper,
+  "See, my child, the work is done."</stanza>
+    <stanza type="verse" number="2">"Ask in faith," God waits to answer
+  Each petition, Spirit-wrought;
+He will work in wondrous power,
+  Far beyond your highest thought.</stanza>
+    <stanza type="verse" number="3">"Ask in faith," 'tis just the asking,
+  In a faith that dares to stand,
+Full of joyful expectation,
+  With an open, outstretched hand.</stanza>
+    <stanza type="verse" number="4">"Ask in faith," for God is waiting
+  For thy faith-filled, earnest prayer.
+Faith delights Him; faith can touch Him,
+  Every moment, everywhere.</stanza>
+  </lyrics>
+</hymn>

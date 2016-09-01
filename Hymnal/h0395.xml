@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Jesus Christ, grow Thou in me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><lsmyp num="89"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+	<author biodate="1741-1801" biolink="">Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 (break) | 1( - - 1) 0 (Chorus) 5 | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <layout>
+	<singingstanza>O Je -- sus Christ, grow Thou in me, And all things else re -- cede; My heart be dai -- ly near -- er Thee, From sin be dai -- ly freed. Each day let Thy sup -- port -- ing might My weak -- ness still em -- brace; My dark -- ness va -- nish in Thy light, Thy life my death ef -- face.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">ivefoundtheoneofpeerlessworth.xml</link>
+	<link type="group">hymnal-subj133.xml</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736320504.html"></link>
+  </links>
+  <music>
+	<midiref type="h" num="261"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Jesus Christ, grow Thou in me,
+  And all things else recede;
+My heart be daily nearer Thee,
+  From sin be daily freed.</stanza>
+	<stanza type="chorus" number="">Each day let Thy supporting might
+  My weakness still embrace;
+My darkness vanish in Thy light,
+    Thy life my death efface.</stanza>
+	<stanza type="verse" number="2">In Thy bright beams which on me fall,
+  Fade every evil thought;
+That I am nothing, Thou art all,
+  I would be daily taught.</stanza>
+	<stanza type="verse" number="3">More of Thy glory let me see,
+  Thou Holy, Wise, and True;
+I would Thy living image be,
+  In joy and sorrow too.</stanza>
+	<stanza type="verse" number="4">Fill me with gladness from above,
+  Hold me by strength divine;
+Lord, let the glow of Thy great love
+  Through all my being shine.</stanza>
+	<stanza type="verse" number="5">Make this poor self grow less and less,
+  Be Thou my life and aim;
+Oh, make me daily through Thy grace
+  More meet to bear Thy name.</stanza>
+  </lyrics>
+</hymn>

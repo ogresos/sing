@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I have found life's Giver, and the Prince of Life</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her General Definition</category>
+  <creators>
+    <author biodate="" biolink="">Sister Eva of Friedenshort, adapted</author>
+  </creators>
+  <melody>| 3 - 3 2# - 3 | 5 - 3 2 - 3 | 1 - - 2 - - | 3( - - 3) - - (break) | 3 - 4# 3 - 4# | 5 - 4# 5 - 6 | 7 - - 6 - - | 5( - - 5) - - (break) | ._1 - ._1 7 - 6 | 5 - 4 3 - 3 | 6 - - 5 - - | 4( - - 4) - - (break) | 4 - 4 3 - 2 | 5 - 3 1 - 2 | 3 - - 2 - - | 1( - - 1) - - |</melody>
+  <layout>
+    <singingstanza>I have found life's Giv -- er, and the Prince of Life; He has quenched my thirst, and van -- quished all my strife. He, my liv -- ing bread, be -- came my dai -- ly meat; Death has died in me, Life's tri -- umph is com -- plete.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj206.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="800"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I have found life's Giver, and the Prince of Life;
+He has quenched my thirst, and vanquished all my strife.
+He, my living bread, became my daily meat;
+Death has died in me, Life's triumph is complete.</stanza>
+    <stanza type="verse" number="2">In the Church, what glory! Far horizons glow!
+And His Name all radiant on each brow doth show.
+Christ doth breathe upon her, He's her living Rock,
+Shepherd of His sheep all gathered in one flock.</stanza>
+    <stanza type="verse" number="3">There one holy flame doth burn within each breast;
+By one blood redeemed, in Christ they find their rest.
+All their thirst He quenches from one living stream;
+They in adoration lowly worship Him.</stanza>
+    <stanza type="verse" number="4">There as Bread of life faint souls He ever feeds;
+There each hungry soul may take whate'er he needs.
+Lovingly He draws each soul that truly lives,
+And in bread and wine Himself to them He gives.</stanza>
+    <stanza type="verse" number="5">Gone is all the earth-taint thru abounding grace;
+Hear the song of triumph from the ransomed race.
+All in glory shining, glory not their own,
+Blended into oneness, they approach the throne.</stanza>
+  </lyrics>
+</hymn>

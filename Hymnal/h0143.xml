@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>On His Father's throne is seated</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <creators>
+    <author biodate="1842-1901" biolink="">Hannah Kilham Burlingham</author>
+    <composer biodate="1805-1876" biolink="">Henry John Gauntlett</composer>
+  </creators>
+  <meter>8.7.8.7.8.7.</meter>
+  <hymncode>135556535517665</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | C - Am - | D7 - G - | C - - - | C - Am - | F - C - | G7 - C - | C - D - | Em - G - | Am - F - | G7 - C - |</chords>
+  <melody>| 1 3 5. 5/ | 5 6 5 3 | 5 5 ._1 7 | 6 6 5 - (break) | 3 5 ._1. ._1/ | ._1 7 ._2 ._1 | ._1 6 5 ._3 | ._2 ._2 ._1 - (break) | 3 5 6 4# | 5 ._1 ._1 7 | ._1 ._4 ._4 ._3 | ._2 ._2 ._1 - |</melody>
+  <layout>
+    <singingstanza>On His Fa -- ther's throne is seat -- ed Christ the Lord, the liv -- ing One! All His toil on earth com -- plet -- ed, All His work for sin -- ners done. In the glo -- ry, in the glo -- ry, See Him&amp;mdash; God's e -- tern -- al Son!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0143_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">On His Father's throne is seated
+Christ the Lord, the living One!
+All His toil on earth completed,
+All His work for sinners done.
+In the glory, in the glory,
+See Him&amp;mdash;God's eternal Son!</stanza>
+    <stanza type="verse" number="2">Every knee shall bow before Him,
+Every tongue confess His name,
+Ransomed myriads shall adore Him,
+Who endured the sinner's shame!
+From the glory, from the glory,
+God doth now His worth proclaim.</stanza>
+    <stanza type="verse" number="3">Man, the cross to Him awarded;
+Man, the Savior crucified;
+This world's judgment stands recorded.
+God's own justice satisfied!
+By the glory, by the glory,
+Christ was claimed on earth who died.</stanza>
+    <stanza type="verse" number="4">Son of Man, His incarnation
+Opened first the tale of grace;
+Son of Man, in new creation
+Leader of a chosen race!
+Well may glory, well may glory,
+Give to Him the honored place!</stanza>
+  </lyrics>
+</hymn>

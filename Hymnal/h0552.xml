@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Marvel not that Christ in glory</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <numbers><cebuano num="552"/><chinese num="410"/><english num="552"/><korean num="410"/><russian num="522"/><tagalog num="552"/></numbers>
+  <creators>
+    <author biodate="1827-1909" biolink="">Emma Frances Shuttleworth Bevan</author>
+    <composer biodate="" biolink="">J. D. Sankey</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>513333444452343</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G7/D - - | G - G7 | C - C/E | F - - | C/E - F | G - G7 | C - - | C - A7/C# | Dm - - | G - G7 | C - - | C - C7 | F - Dm | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 5_../ 1// | 3 3 3./ 3// | 4 4 4./ 4// | 5. 2/ 3./ 4// (break) | 3 - 1./ 7_.// | 7_. 6_. 1./ 6_.// | 6_. 5_. 1/ 3/ | 5. 4/ 7_../ 2// (break) | 1 - 3./ 4// | 5 5 6./ 3// | 4 4 2./ 3// | 4. 4#/ 5./ 2// (break) | 3 - 3./ 2// | 1. 1/ 3/ 5/ | 5 4 3./ 2// | 1. 1/ 1/ 7_./ | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Mar -- vel not that Christ in glo -- ry All my in -- most heart hath won; Not a star to cheer my dark -- ness, But a light be -- yond the sun. All be -- low lies dark and sha -- dowed, Noth -- ing here to claim my heart, Save the lone -- ly track of sor -- row Where of old He walked a -- part.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj065.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e0552_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Marvel not that Christ in glory
+  All my inmost heart hath won;
+Not a star to cheer my darkness,
+  But a light beyond the sun.
+All below lies dark and shadowed,
+  Nothing here to claim my heart,
+Save the lonely track of sorrow
+  Where of old He walked apart.</stanza>
+    <stanza type="verse" number="2">Others in the earthly sunshine
+  Wearily may journey on,
+I have seen a light from heaven
+  Past the brightness of the sun&amp;mdash;
+Light that knows no cloud, no waning,
+  Light wherein I see His face,
+All His love's uncounted treasures,
+  All the riches of His grace:</stanza>
+    <stanza type="verse" number="3">All the wonders of His glory,
+  Deeper wonders of His love&amp;mdash;
+How for me He won, He keepeth
+  That high standing all above;
+Not a glimpse&amp;mdash;the veil uplifted&amp;mdash;
+  But within the veil to dwell,
+Gazing on His face forever,
+  Hearing words unspeakable.</stanza>
+    <stanza type="verse" number="4">I have seen the face of Jesus&amp;mdash;
+  Tell me not of aught beside;
+I have heard the voice of Jesus&amp;mdash;
+  All my soul is satisfied.
+In the radiance of the glory
+  First I saw His blessed face,
+And forever shall that glory
+  Be my home, my dwelling-place.</stanza>
+  </lyrics>
+</hymn>

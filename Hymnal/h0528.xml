@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The King of love my Shepherd is</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><chinese num="444*"/><english num="528"/><korean num="444"/></numbers>
+  <creators>
+    <author biodate="1821-1877" biolink="">Henry Williams Baker</author>
+  </creators>
+  <melody>| 0 - - 3 | 5 4 3 3 | 2 2 1 5_. | 5_.. 6_./ 7_. 1 (break) | 3 - 2 5 | 4 3/( 2/) 3 3 | 2 1/( 7_./) 1 6_. | 5_.. 6_./ 7_. 1 | 3( 2) 1 0 |</melody>
+  <layout>
+    <singingstanza>The King of love my She -- pherd is, Whose good -- ness fail -- eth nev -- er; I noth -- ing lack if I am His, And He is mine for -- ev -- er.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+    <link type="ref">Psalms 23</link>
+    <link type="relevant" category="h" num="8444"></link>
+    <link type="relevant" category="ns" num="306"></link>
+  </links>
+  <music>
+    <midiref type="h" num="187"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The King of love my Shepherd is,
+  Whose goodness faileth never;
+I nothing lack if I am His,
+  And He is mine forever.</stanza>
+    <stanza type="verse" number="2">Where streams of living water flow
+  My ransomed soul He leadeth,
+And, where the verdant pastures grow,
+  With food celestial feedeth.</stanza>
+    <stanza type="verse" number="3">Perverse and foolish oft I strayed,
+  But yet in love He sought me,
+And on His shoulder gently laid,
+  And home rejoicing brought me.</stanza>
+    <stanza type="verse" number="4">In death's dark vale I fear no ill
+  With Thee, dear Lord, beside me;
+Thy rod and staff my comfort still,
+  Thy Cross before to guide me.</stanza>
+    <stanza type="verse" number="5">Thou spread'st a table in my sight;
+  Thy unction grace bestoweth;
+And oh, what transport of delight
+  From Thy pure chalice floweth!</stanza>
+    <stanza type="verse" number="6">And so through all the length of days
+  Thy goodness faileth never;
+Good Shepherd, may I sing Thy praise
+  Within Thy house forever.</stanza>
+  </lyrics>
+</hymn>

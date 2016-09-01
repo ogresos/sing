@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Open my eyes that I may see</title>
+  <index>true</index>
+  <category>Study of the Word&amp;mdash;Seeking for the Word</category>
+  <numbers><chinese num="328"/><english num="807"/><korean num="328"/><tagalog num="807"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Clara H. Scott</author>
+    <composer biodate="" biolink="">Clara H. Scott</composer>
+  </creators>
+  <meter>8.8.9.8. with chorus.</meter>
+  <hymncode>1765665527657655</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C/E. | Dm. G. | G/B. G7. | C - - | E. Am. | E/G#. Am. | D - - | D7. G7. | C. C/E. | Dm. G. | G/B. G7. | C - - | C. C7/E. | F. D7/F#. | C/G. G7. | F/C. C. |</chords>
+  <melody>| ._1/ 7/ 6/ 5 6/ | 6 5/ 5. | ._2/ 7/ 6/ 5 7/ | 6 5/ 5. (break) | 5#/ 4#/ 5#/ 6 6/ | 7/ 6/ 7/ ._1. | 6/ 7/ ._1/ ._2 7/ | 7 6/ (.5. (break) | (Chorus) ._1/ 7/ 6/ 5 6/ | 6 5/ 5. | ._2/ 7/ 6/ 5 7/ | 6 5/ 5. (break) | ._3/ ._2/ ._1/ ._1 ._1/ | ._2 ._1/ (.6. | 5. ._2 ._1/ | ._1.( ._1.) |</melody>
+  <layout>
+    <singingstanza>O -- pen my eyes that I may see Glimps -- es of truth Thou hast for me; Place in my hands the won -- der -- ful key That shall un -- clasp and set me free. Si -- lent -- ly now I wait for Thee, Rea -- dy, my God, Thy will to see; O -- pen my eyes, il -- lu -- mine me, Spir -- it Di -- vine!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj191.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="44">e0807_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Open my eyes that I may see
+Glimpses of truth Thou hast for me;
+Place in my hands the wonderful key
+That shall unclasp and set me free.</stanza>
+    <stanza type="chorus" number="">Silently now I wait for Thee,
+Ready, my God, Thy will to see;
+Open my eyes, illumine me,
+    Spirit Divine!</stanza>
+    <stanza type="verse" number="2">Open my ears that I may hear
+Voices of truth Thou sendest clear;
+And while the wave notes fall on my ear,
+Everything false will disappear.</stanza>
+    <stanza type="verse" number="3">Open my mouth and let me bear
+Tidings of mercy everywhere;
+Open my heart and let me prepare
+Love with Thy children thus to share.</stanza>
+    <stanza type="verse" number="4">Open my mind that I may read
+More of Thy love in word and deed;
+What shall I fear while yet Thou dost lead?
+Only for light from Thee I plead.</stanza>
+  </lyrics>
+</hymn>

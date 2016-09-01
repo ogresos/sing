@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is no love like the love of Jesus</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Love</category>
+  <creators>
+    <author biodate="" biolink="">W. E. Littlewood</author>
+    <composer biodate="1831-1912" biolink="">Theodore E. Perkins</composer>
+  </creators>
+  <meter>10.6.10.6. with chorus.</meter>
+  <hymncode>5333234321222217</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - - C/E | D - D7/F# - | G - G7/B - | C - C/E - | F - - - | C/G - G7 - | C F/C C - | F - F/A - | C - C/E - | G/D - D7 - | G - G/B - | C - C/E - | F - - - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5 | ._3 ._3 ._3 ._2/ ._3/ | ._4 ._3 ._2 ._1 | ._2 ._2/ ._2/ ._2 ._1 (break) | 7 - - 5 | ._3 ._3/ ._3/ ._3 ._2/ ._3/ | ._4 ._3 ._2 ._1/ 6/ | 5 - ._1 ._2 | ._1 - - 0 (break) | (Chorus) ._4 6 ._1 - | ._3 5 ._1 - | ._2 ._2/ ._2/ ._2 ._1 (break) | 7 - - 5 | ._3 ._3/ ._3/ ._3 ._2/ ._3/ | ._4 ._3 ._2 ._1/ 6/ | 5 - ._1 ._2 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There is no love like the love of Je -- sus, Nev -- er to fade or fall, Till in -- to the rest of the house of God He has gath -- ered us all. Je -- sus' love, pre -- cious love, Bound -- less, and pure, and free; Oh, turn to that love, wea -- ry wan -- d'ring soul; Je -- sus plead -- eth for thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj100.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e1012_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There is no love like the love of Jesus,
+  Never to fade or fall,
+Till into the rest of the house of God
+  He has gathered us all.</stanza>
+    <stanza type="chorus" number="">Jesus' love, precious love,
+  Boundless, and pure, and free;
+Oh, turn to that love, weary wand'ring soul;
+    Jesus pleadeth for thee.</stanza>
+    <stanza type="verse" number="2">There is no heart like the heart of Jesus,
+  Filled with a tender love;
+No throb nor throe that our hearts can know;
+  But He feels it above.</stanza>
+    <stanza type="verse" number="3">There is no eye like the eye of Jesus,
+  Piercing so far away;
+Ne'er out of the sight of its tender light
+  Can the wanderer stray.</stanza>
+    <stanza type="verse" number="4">There is no voice like the voice of Jesus,
+  Tender and sweet its chime;
+Like musical ring of a flowing spring
+  In the bright summertime.</stanza>
+    <stanza type="verse" number="5">Oh, let us hark to the voice of Jesus!
+  Then we shall never roam;
+And we shall rest on His loving breast,
+  And with Him we'll be one!</stanza>
+  </lyrics>
+</hymn>

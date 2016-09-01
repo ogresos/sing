@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Work, for the Day is coming</title>
+  <index>true</index>
+  <category>Service&amp;mdash;To the Work</category>
+  <creators>
+    <author biodate="" biolink="">Annie L. Coghill</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>53455651111235345565</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C/E - | Am - G/B - | C - - - | C - C/E - | F - C/E - | Am - G7 - | C - - - | G/B - D/A - | G7 - G7/B - | C - D7 - | G - - - | C - C/E - | F - C/E - | F - G7 - | C F/C C - |</chords>
+  <melody>| 5 3./ 4// 5 5 | 6 - 5 - | 1 1./ 1// 1 2 | 3 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2./ 2// 3 2 | 1 - - - (break) | 2 2./ 2// 2 3 | 4.( 3/) 2 - | 3 3./ 3// 3 4# | 5 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2./ 2// 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Work, for the Day is com -- ing, Day in the Word fore -- told, When, 'mid the scenes tri -- um -- phant, Longed for by saints of old, He, who on earth a strang -- er Tra -- versed its paths of pain, Je -- sus, the Prince, the Sav -- ior, Comes ev -- er -- more to reign.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj181.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e0897_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Work, for the Day is coming,
+  Day in the Word foretold,
+When, 'mid the scenes triumphant,
+  Longed for by saints of old,
+He, who on earth a stranger
+  Traversed its paths of pain,
+Jesus, the Prince, the Savior,
+  Comes evermore to reign.</stanza>
+    <stanza type="verse" number="2">Work, for the Day is coming,
+  Darkness will soon be gone;
+Then o'er the night of weeping
+  Day without end shall dawn.
+What now we sow in sadness
+  Then we shall reap in joy;
+Hope will be changed to gladness,
+  Praise be our blest employ.</stanza>
+    <stanza type="verse" number="3">Work, for the Day is coming,
+  Made for the saints of light;
+Off with the garments dreary,
+  On with the armor bright:
+Soon will the strife be ended,
+  Soon all our toils below;
+Not to the dark we're tending,
+  But to the Day we go.</stanza>
+    <stanza type="verse" number="4">Work, for the Lord is coming,
+  Children of light are we;
+From Jesus' bright appearing
+  Powers of darkness flee.
+Out of the mist, at His bidding,
+  Souls like the dew are born:
+O'er all the East are spreading
+  Tints of the rosy morn.</stanza>
+    <stanza type="verse" number="5">Work, then, the Day is coming,
+  No time for sighing now;
+Prize for the race awaits thee,
+  Wreaths for the victor's brow.
+Now morning Light is breaking,
+  Soon will the Day appear;
+Night shades appall no longer,
+  Jesus, our Lord, is near.</stanza>
+  </lyrics>
+</hymn>

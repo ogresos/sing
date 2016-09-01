@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, Your love did not recoil</title>
+  <index>false</index>
+  <category>Praise of the Lord&amp;mdash;His Suffering</category>
+  <numbers><chinese num="89"/><english num="8089"/></numbers>
+  <meter>8.6.8.6.</meter>
+  <hymncode>532432176555171665</hymncode>
+  <key>G Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - F - - | G7 - - C - - | C - - D7 - - | G - - G7 - - | C - - C/E - - | Dm - - G7 - - | Am - - G/B - - | C - F/C C - - ||</chords>
+  <melody>| 0 - - - - 5_. | 3 - 2 4( 3) 2 | 1( 7_.) 6_. 5_. - 5_. | 5_. - 1 7_.( 1) 6_. (break) | 6_.( - - 5_.) - 5_. | 3 - 5 5( 4) 3 | 2 - 4 4( 3) 2 | 1( 7_.) 1 3 - 2 | 1( - - 1) - 0 ||</melody>
+  <layout>
+    <singingstanza>O Lord, Your love did not re -- coil At sting of death and shame; So may we o -- ver -- come this age, The dev -- il's power dis -- claim.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="">e8089_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Lord, Your love did not recoil
+  At sting of death and shame;
+So may we overcome this age,
+  The devil's power disclaim.</stanza>
+    <stanza type="verse" number="2">O Lord, You bore the heavy load
+  On that foreboding path:
+The sins of man, the devil's scorn,
+  And God's all-righteous wrath.</stanza>
+    <stanza type="verse" number="3">The roaring wind and threat'ning waves
+  At Your command must crest;
+For this we worship and proclaim
+  The name in which we rest.</stanza>
+    <stanza type="verse" number="4">Soon shall we in the Father's house
+  Begin the newest songs,
+But here where You have met our need
+  E'en now new praise belongs.</stanza>
+  </lyrics>
+</hymn>

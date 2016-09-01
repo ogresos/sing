@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unto Him who loves us ever</title>
+  <index>false</index>
+  <category>Praise of the Lord&amp;mdash;General</category>
+  <numbers><chinese num="191"/><english num="8191"/><tagalog num="c191"/></numbers>
+  <meter>8.7.8.7.8.7.</meter>
+  <hymncode>12321765511</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | D - G - | D7 - G - | G/B - G - | C - - - | C - - - | G/D D7 G - | C - G - | F - C/E - | C - F - | C/G G7 C - |</chords>
+  <melody>| 1. 2/ 3. 2/ | 1/( 7_./) 6_./( 5_./) 5_./( 1/) 1 | 2 3/( 4#/) 5. 1/ | 7_. 6_. 5_. - (break) | 2. 2/ 1/( 7_./) 6_./( 5_./) | 1 2 3 3 | 3. 3/ 2/( 1/) 7_./( 6_./) | 5_. 4#_. 5_. - (break) | 1. 1/ 1/( 7_./) 7_. | 6_.. 6_./ 6_./( 5_./) 5_. | 3. 3/ 4. 4/ | 3 2 1 - ||</melody>
+  <layout>
+    <singingstanza>Un -- to Him who loves us ev -- er, Pi -- ties us and grants us grace, Shed His blood for our re -- demp -- tion Sac -- ri -- fic -- ing in our place&amp;mdash; May the pow -- er, glo -- ry, king -- dom Be e -- ter -- nal -- ly His place.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="">e8191_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Unto Him who loves us ever,
+  Pities us and grants us grace,
+Shed His blood for our redemption
+  Sacrificing in our place&amp;mdash;
+May the power, glory, kingdom
+  Be eternally His place.</stanza>
+  </lyrics>
+</hymn>

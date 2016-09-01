@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>None other Lamb, none other Name</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <creators>
+    <author biodate="" biolink="">Christina G. Rossetti</author>
+    <composer biodate="1858-?" biolink="">Frederick Luke Wiseman</composer>
+  </creators>
+  <meter>8.10.10.4.</meter>
+  <hymncode>175665344123567162</hymncode>
+  <key>C Major</key>
+  <time>4/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - F - - - | F - - - Dm - - - | F - - - C - - G/B | Am - D/F# - G - - - | E/G# - E7 - Am - F - | C/G - E7/G# - Am - - - | Dm7 - - - G7 - - - | F/C - - - C - - - |</chords>
+  <melody>| ._1 - 7 5 6 - - - | 6 - 5 3 4 - - - | 4 - 1 2 3 5 6 7 | ._1 - 6 - ._2 - - - (break) | ._3 - 7 ._2 ._2 ._1 7 6 | 5 - 4 - 3 - - - | ._1 - 6 - ._2 - - - | ._1 - - - - - - 0 |</melody>
+  <layout>
+    <singingstanza>None oth -- er Lamb, none oth -- er Name, None oth -- er hope in heav'n or earth or sea, None oth -- er hi -- ding- -- place from guilt and shame, None be -- side Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="28">e0520_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">None other Lamb, none other Name,
+None other hope in heav'n or earth or sea,
+None other hiding-place from guilt and shame,
+  None beside Thee.</stanza>
+    <stanza type="verse" number="2">My faith burns low, my hope burns low;
+Only my heart's desire cries out in me
+By the deep thunder of its want and woe,
+  Cries out to Thee.</stanza>
+    <stanza type="verse" number="3">Lord, Thou art Life, though I be dead;
+Love's fire Thou art, however cold I be;
+Nor heaven have I, nor place to lay my head,
+  Nor home but Thee.</stanza>
+  </lyrics>
+</hymn>

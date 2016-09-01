@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Face to face with Christ, my Savior</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Face to Face with the Lord</category>
+  <creators>
+    <author biodate="1855-1934" biolink="">Mrs. Frank A. Breck</author>
+    <composer biodate="1869-1950" biolink="">Grant Colfax Tullar</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>556531172176565</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | Dm - Dm/F - | G - G/B - | C - F/C - | C - C7/E - | Dm/F - Dm - | C/G - G7 - | C - - - | G/B - G7 - | Am - C/G - | D/F# - D7 - | G - G7/B - | C - C7/E - | Dm/F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5. 5/ 6/ 5/ 3/ ._1/ | ._1 - 7. 0/ | ._2. ._1/ 7/ 6/ 5/ 6/ | 5 - - 0 (break) | 5. 5/ 6/ 5/ 3/ ._1/ | ._2 - 6 6/ 6/ | 5 ._3 ._3. ._2/ | ._1 - - 0 (break) | (Chorus) ._2. ._2/ ._3/ ._2/ ._1/ 7/ | ._1 - ._3 - | ._2. ._3/ ._2/ ._1/ 7/ 6/ | (.5 - - 0 (break) | ._3. ._3/ ._4/ ._3/ ._2/ ._1/ | ._2 - (.._4 6/ 6/ | 5 ._3 ._3. ._2/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Face to face with Christ, my Sav -- ior, Face to face&amp;mdash; what will it be, When with rap -- ture I be -- hold Him, Je -- sus Christ who died for me? Face to face I shall be -- hold Him, Far be -- yond the star -- ry sky; Face to face in all His glo -- ry, I shall see Him by and by!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj112.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="49">e0963_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Face to face with Christ, my Savior,
+Face to face&amp;mdash;what will it be,
+When with rapture I behold Him,
+Jesus Christ who died for me?</stanza>
+    <stanza type="chorus" number="">Face to face I shall behold Him,
+Far beyond the starry sky;
+Face to face in all His glory,
+  I shall see Him by and by!</stanza>
+    <stanza type="verse" number="2">Only faintly now, I see Him,
+With the darkling veil between,
+But a blessed day is coming,
+When His glory shall be seen.</stanza>
+    <stanza type="verse" number="3">What rejoicing in His presence,
+When are banished grief and pain;
+When the crooked ways are straightened,
+And the dark things shall be plain.</stanza>
+    <stanza type="verse" number="4">Face to face! O blissful moment!
+Face to face&amp;mdash;to see and know;
+Face to face with my Redeemer,
+Jesus Christ who loves me so.</stanza>
+  </lyrics>
+</hymn>

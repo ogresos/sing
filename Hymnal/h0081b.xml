@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, Thy being is of old (Alternate Tune)</title>
+  <category>Praise of the Lord&amp;mdash;His Eternity</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="1840-1907" biolink="">James McGranahan</composer>
+  </creators>
+  <numbers><cebuano num="81"></cebuano><chinese num="72*"></chinese><korean num="72*"></korean><russian num="303"></russian><spanish num="47"></spanish><tagalog num="81"></tagalog></numbers>
+  <meter>8.8.8.8.</meter>
+  <hymncode>5531776666416655</hymncode>
+  <key>A Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - C/E - | F - - - - - | F - - - G7 - | C - - - G7 - | C - - - C7/E - | F - - - D7/F# - | C/G - G7 - - - | C - - - - - |</chords>
+  <melody>| 0 - - 5 5 3 | ._1 - - 7 7 6 | 6 - - 6 6 4 | ._1 - - 6 6 5 | 5 - - 5 5 3 | ._3 - - ._3 ._2 ._1 | 6 - - ._1 7 6 | 5 ._3 ._2 - ._1( 7) | ._1 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>O Lord, Thy be -- ing is of old, Be -- fore th'e -- ter -- nal past be -- gan! For Thou th'e -- ter -- nal Fa -- ther art, The un -- cre -- at -- ed, great I AM!</singingstanza>
+  </layout>
+  <links>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0081.html">View Lyrics</link>
+    <link type="relevant" category="h" num="81" />
+  </links>
+  <music>
+    <midi location="h" length="19">e0081b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Lord, Thy being is of old,
+Before th' eternal past began!
+For Thou th' eternal Father art,
+The uncreated, great I AM!</stanza>
+    <stanza type="verse" number="2">Although a man with men become,
+Yet Thou with God eternal art!
+The same completeness Thou dost share,
+And infinite as God Thou art!</stanza>
+    <stanza type="verse" number="3">Thine origin, the same as God,
+Before creation was decreed!
+Before the foremost, Thou art first,
+None other doth Thyself precede!</stanza>
+    <stanza type="verse" number="4">Thou never changest thru all time,
+Thy years are to eternity!
+None is as lasting as Thyself,
+Nor is there any after Thee!</stanza>
+    <stanza type="verse" number="5">Just as the Father, diff'ring not,
+The same perfection Thou too hast!
+Thou art the Alpha and the First,
+Thou art Omega and the Last!</stanza>
+    <stanza type="verse" number="6">We praise Thee for Thine endless years,
+Extol Thee for Thy perfectness!
+Admiring all Thy fulness vast,
+We marvel at Thy boundlessness!</stanza>
+  </lyrics>
+</hymn>

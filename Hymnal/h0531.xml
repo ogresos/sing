@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fade, fade each earthly joy</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><cebuano num="531"/><chinese num="389"/><english num="531"/><korean num="389"/><portuguese num="254"/><tagalog num="531"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Jane C. Bonar</author>
+    <composer biodate="1831-1912" biolink="">Theodore E. Perkins</composer>
+  </creators>
+  <meter>6.4.6.4.6.6.6.4.</meter>
+  <hymncode>56532121235</hymncode>
+  <key>Eb Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. F/C. | C - - | G/B. G. | C. F/C. | C. G/B. | Am. C/G. | F. G. | C - - | G/B. G. | C. C/E. | F - - | C. G. | C. G/B. | Am. C/G. | F. G7. | C F/C/ C. |</chords>
+  <melody>| 5. 6 5/ | 3 2/ 1. | 2. 1 2/ | 3.( 5.) (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 1/) 2 2/ | 1 - - (break) | 2. 5 2/ | 3 4/ 5. | 6. ._1 6/ | 5 3/ 2. (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 5/) 2 3/ | 1 - - |</melody>
+  <layout>
+    <singingstanza>Fade, fade each earth -- ly joy; Je -- sus is mine. Break ev -- ery ten -- der tie; Je -- sus is mine. Dark is the wil -- der -- ness, Earth has no rest -- ing place, Je -- sus a -- lone can bless; Je -- sus is mine.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+    <link type="relevant" category="nt" num="531"></link>
+  </links>
+  <music>
+    <midi location="h" length="32">e0531_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Fade, fade each earthly joy;
+  Jesus is mine.
+Break every tender tie;
+  Jesus is mine.
+Dark is the wilderness,
+Earth has no resting place,
+Jesus alone can bless;
+  Jesus is mine.</stanza>
+    <stanza type="verse" number="2">Tempt not my soul away;
+  Jesus is mine.
+Here would I ever stay;
+  Jesus is mine.
+Perishing things of clay,
+Born but for one brief day,
+Pass from my heart away;
+  Jesus is mine.</stanza>
+    <stanza type="verse" number="3">Farewell, ye dreams of night;
+  Jesus is mine.
+Lost in this dawning bright;
+  Jesus is mine.
+All that my soul has tried
+Left but a dismal void;
+Jesus has satisfied;
+  Jesus is mine.</stanza>
+    <stanza type="verse" number="4">Farewell, mortality;
+  Jesus is mine.
+Welcome, eternity;
+  Jesus is mine.
+Welcome, O Loved and Blest,
+Welcome, sweet scenes of rest,
+Welcome, my Savior's breast;
+  Jesus is mine.</stanza>
+  </lyrics>
+</hymn>

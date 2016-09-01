@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In Revelation chapter one</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Son of Man amidst the Lampstands</category>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 1 - 3 4 | 5 - 6( 7) | ._1 - 7( 6) | 5 - - - (break) | 5 - 5 5 | 6 - 5 - | 4 - 3 - | 2 - - - (break) | 3 - 3 2 | 1( 3) 5( ._1) | 6( 5) 4( 3) | 2 - - - (break) | 5 - 6 7 | ._1 - - 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>In Re -- ve -- la -- tion chap -- ter one God gives a vi -- sion of the Son, Of Him who was and is to come; Oh, let us to this One now come.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj060.xml</link>
+    <link type="ref">Revelation 1</link>
+  </links>
+  <music>
+    <midiref type="h" num="145"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In Revelation chapter one
+God gives a vision of the Son,
+Of Him who was and is to come;
+Oh, let us to this One now come.</stanza>
+    <stanza type="verse" number="2">In spirit hear His trumpet voice;
+We must be turned to see His choice&amp;mdash;
+The seven lampstands golden fair;
+The Son of Man is walking there.</stanza>
+    <stanza type="verse" number="3">The great high priestly robe He wears,
+For every church He fully cares:
+He trims the lamp, the oil supplies;
+He makes them burn, flames in His eyes.</stanza>
+    <stanza type="verse" number="4">A golden girdle on His breast&amp;mdash;
+His work is done, and from His rest
+He unto all the churches pours
+Himself in love, the treasure store.</stanza>
+    <stanza type="verse" number="5">His head, His hair is white as wool&amp;mdash;
+The ancient One with youth is full.
+His face is shining as the sun
+To burn and lighten every one.</stanza>
+    <stanza type="verse" number="6">Oh, when this living One we see,
+We'll fall as dead, we'll finished be.
+But then the Lord His comfort gives&amp;mdash;
+He once was dead, but now He lives.</stanza>
+    <stanza type="verse" number="7">Let every church just love Him more
+His riches then He will outpour.
+All other loves now lay aside;
+Let's take this Jesus, none beside.</stanza>
+  </lyrics>
+</hymn>

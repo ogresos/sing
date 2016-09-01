@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>How shall I follow Him I serve</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Following the Lord</category>
+  <numbers><cebuano num="462"/><chinese num="345"/><english num="462"/><korean num="345"/><tagalog num="462"/></numbers>
+  <creators>
+    <author biodate="1789-1855" biolink="">Josiah Conder</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - (break) | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 (break) | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>How shall I fol -- low Him I serve? How shall I co -- py Him I love? Nor from those bless -- ed foot -- steps swerve, Which lead me to His seat a -- bove?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj035.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">How shall I follow Him I serve?
+How shall I copy Him I love?
+Nor from those blessed footsteps swerve,
+Which lead me to His seat above?</stanza>
+    <stanza type="verse" number="2">Privations, sorrows, bitter scorn,
+The life of toil, the mean abode,
+The faithless kiss, the crown of thorn&amp;mdash;
+Are these the consecrated road?</stanza>
+    <stanza type="verse" number="3">Lord, should my path through suff'ring lie,
+Forbid it I should e'er repine;
+Still let me turn to Calvary,
+Nor heed my griefs, rememb'ring Thine.</stanza>
+    <stanza type="verse" number="4">O let me think how Thou didst leave
+Untasted every pure delight,
+To fast, to faint, to watch, to grieve,
+The toilsome day, the homeless night:</stanza>
+    <stanza type="verse" number="5">To faint, to grieve, to die for me!
+Thou camest, not Thyself to please;
+And, dear as earthly comforts be,
+Shall I not love Thee more than these?</stanza>
+  </lyrics>
+</hymn>

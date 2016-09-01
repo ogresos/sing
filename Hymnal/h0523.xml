@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I have come to the Fountain of Life</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><cebuano num="523"/><chinese num="ts:250"/><english num="523"/><portuguese num="257"/><russian num="418"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1843-1919" biolink="">Albert Benjamin Simpson</composer>
+  </creators>
+  <meter>9.8.9.8.D.</meter>
+  <hymncode>12343232156551345</hymncode>
+  <key>C Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - G/B - - | Am - - C/E - - | F - - Am - D7 | G - - G7/B - - | C - - G/B - - | Am - - C/E - F | C/G - - G7 - - | C - F/C C - - | F - - - - - | C/E - - C - - | G - - C - F | G - - G7 - - | C - - G/B - - | Am - - C/E - F | C/G - - G7 - - | C - F/C C - - | C - - F/C - - | C - - - - - | F - C/E Am - D7 | G - - G7 - - | C - - G/B - - | Am - - C/E - F | C/G - - G7 - - | C - F/C C - - |</chords>
+  <melody>| 0 - - 0 - 1/ 2/ | 3 4 3 2 3 2 | 1( - - 1) - 5 | 6 5 5 ._1 3 4# (break) | 5( - - 5) - 5/ 4/ | 3 4 3 2 3 2 | 1( - - 5) - 4 | 3 3 4 5 1 2 (break) | 1( - - 1) - 5/ 5/ | 6 6 6 ._1. 7/ 6 | 5( - - ._1) ._1 ._1 | ._2 ._1 ._2 ._3 ._1 6 (break) | 5( - - 5) - 5/( 4/) | 3 4 3 2 3 2 | 1( - - 5) - 5 | ._1 3 4 5 1 2 (break) | 1( - - 1) - (Chorus) 5 | ._1. ._1/ ._1 ._2 ._1 6 | 5( - - 3) - 5 | 6 5 5 ._1 3 4# (break) | 5( - - 5) - 5/( 4/) | 3 4 3 2 3 2 | 1( - - 5) - 5 | ._1 3 4 5 1 2 | 1( - - 1) - 0 |</melody>
+  <layout>
+    <singingstanza>I have come to the Foun -- tain of Life, A foun -- tain that flows from a -- bove; I have passed from the wa -- ters of strife And come to the E -- lim of love; I have drunk of the heav -- en -- ly well, In the depths of my be -- ing it springs. No mor -- tal can mea -- sure or tell The glad -- ness the Com -- fort -- er brings. Oh, come to the Foun -- tain of Life, The foun -- tain that nev -- er runs dry; Oh, drink of the bound -- less sup -- ply, For Christ is the Foun -- tain of Life.</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="72">e0523_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I have come to the Fountain of Life,
+A fountain that flows from above;
+I have passed from the waters of strife
+And come to the Elim of love;
+I have drunk of the heavenly well,
+In the depths of my being it springs.
+No mortal can measure or tell
+The gladness the Comforter brings.</stanza>
+    <stanza type="chorus" number="">Oh, come to the Fountain of Life,
+The fountain that never runs dry;
+Oh, drink of the boundless supply,
+  For Christ is the Fountain of Life.</stanza>
+    <stanza type="verse" number="2">I have come to the Fountain of Blood
+That for guilt and uncleanness doth flow;
+I have washed in its sin-cleansing flood
+And my garments are whiter than snow.
+I count not my righteousness mine&amp;mdash;
+'Tis Jesus that lives in my soul.
+I partake of His nature divine,
+And in Him I am perfectly whole.</stanza>
+    <stanza type="verse" number="3">I have come to the Fountain of Health,
+A boundless and endless supply;
+'Tis a secret man's wisdom or wealth
+Can never discover or buy.
+But the secret my Lord hath revealed
+In the fountain that flows from His side,
+In the stripes by whose pain we are healed,
+In Himself as He comes to abide.</stanza>
+    <stanza type="verse" number="4">I have come to the Fountain of Joy;
+His joy is the strength of my heart.
+My delight is unmixed with alloy,
+My sunshine can never depart.
+The fig tree may wither and die,
+Earth's pleasures and prospects decline;
+But my fountains can never be dry&amp;mdash;
+My portion, my joy is divine.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be not dismayed whate'er betide</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Care</category>
+  <numbers><chinese num="493"/><english num="694"/><french num="132"/><korean num="493"/><tagalog num="694"/></numbers>
+  <creators>
+    <author biodate="1866-1948" biolink="">Civilla Durfee Martin</author>
+    <composer biodate="1862-1935" biolink="">Walter Stillman Martin</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>3445123215764653</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. C/E. | G. G7. | C - - | C. G/B. | Am. C/G. | Dm. G7. | C. C7. | F - - | C - - | G - - | G7. C. | C. C/E. | F. E. | F. G7. | C F/C/ C. |</chords>
+  <melody>| 3/ 4/ 4#/ 5/( ._1/) ._2/ | ._3 ._2/ ._1. | 5/ 7/ 6/ 4 6/ | 5.( 3.) (break) | 3/ 4/ 4#/ 5/( ._1/) ._2/ | ._3 ._2/ ._1. | 5/ 7/ 6/ 5 ._2/ | ._1.( ._1.) (break) | (Chorus) ._1. 7 6/ | 6 5/ 5. | 5/ 7/ 6/ 4. | 4/ 6/ 5/ 3. (break) | 5. ._1 ._1/ | ._2/( ._1/) ._2/ (.._3. | ._2/ ._1/ 6/ 5/( ._1/) 7/ | ._1.( ._1.) |</melody>
+  <layout>
+    <singingstanza>Be not dis -- mayed what -- e'er be -- tide, God will take care of you! Be -- neath His wings of love a -- bide, God will take care of you! God will take care of you, Through ev -- ery day o'er all the way; He will take care of you; God will take care of you!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj020.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="48">e0694_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Be not dismayed whate'er betide,
+  God will take care of you!
+Beneath His wings of love abide,
+  God will take care of you!</stanza>
+    <stanza type="chorus" number="">God will take care of you,
+Through every day o'er all the way;
+He will take care of you;
+  God will take care of you!</stanza>
+    <stanza type="verse" number="2">Through days of toil when heart doth fail,
+  God will take care of you!
+When dangers fierce your path assail,
+  God will take care of you!</stanza>
+    <stanza type="verse" number="3">All you may need He will provide,
+  God will take care of you!
+Trust Him, and you will be satisfied,
+  God will take care of you!</stanza>
+    <stanza type="verse" number="4">Lonely and sad, from friends apart,
+  God will take care of you!
+He will give peace to your aching heart,
+  God will take care of you!</stanza>
+    <stanza type="verse" number="5">No matter what may be the test,
+  God will take care of you!
+Lean, weary one, upon His breast,
+  God will take care of you!</stanza>
+  </lyrics>
+</hymn>

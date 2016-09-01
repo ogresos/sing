@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord of glory, we adore Thee</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <numbers><chinese num="123"/><english num="144"/><korean num="123"/><tagalog num="144"/></numbers>
+  <creators>
+    <author biodate="" biolink="">R. Holden</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>8.7.8.7.7.7.</meter>
+  <hymncode>123143321432171</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | C - - - | G - - - | Am - F - | C/G - G7 - | C - - - | C - G/B - | C - - - | G - - - | Am - F - | C/G - G7 - | C - - - | C/E - F - | C/E - C - | C/E - F - | G - - - | Am - F - | Dm - G7 - | C - - - |</chords>
+  <melody>| 1 - 2 - | 3 1 4 3 | 3 - 2 - | 1 4 3 2 | 1 - 7_. - | 1 - - - (break) | 1 - 2 - | 3 1 4 3 | 3 - 2 - | 1 4 3 2 | 1 - 7_. - | 1 - - - (break) | 5 - 6 - | 5 - 3 - | 5 - 6 - | 5 - - - | 1 2 3 2 | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Lord of glo -- ry, we a -- dore Thee! Christ of God, as -- cend -- ed high! Heart and soul we bow be -- fore Thee, Glo -- rious now be -- yond the sky: Thee we wor -- ship, Thee we praise&amp;mdash; Ex -- cel -- lent in all Thy ways.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="28">e0144_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord of glory, we adore Thee!
+  Christ of God, ascended high!
+Heart and soul we bow before Thee,
+  Glorious now beyond the sky:
+Thee we worship, Thee we praise&amp;mdash;
+Excellent in all Thy ways.</stanza>
+    <stanza type="verse" number="2">Anointed King, with glory crowned,
+  Rightful Heir and Lord of all!
+Once rejected, scorned, disowned,
+  E'en by those Thou cam'st to call:
+Thee we honor, Thee adore&amp;mdash;
+Glorious now and evermore.</stanza>
+    <stanza type="verse" number="3">Lord of life! to death once subject;
+  Blesser, yet a curse once made;
+Of Thy Father's heart the object,
+  Yet in depths of anguish laid;
+Thee we gaze on, Thee recall&amp;mdash;
+Bearing here our sorrows all.</stanza>
+    <stanza type="verse" number="4">Royal robes shall soon invest Thee,
+  Royal splendors crown Thy brow;
+Christ of God, our souls confess Thee
+  King and Sov'reign even now!
+Thee we rev'rence, Thee obey&amp;mdash;
+Own Thee Lord and Christ alway.</stanza>
+  </lyrics>
+</hymn>

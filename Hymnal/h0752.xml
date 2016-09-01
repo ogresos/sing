@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I am the Lord that healeth thee</title>
+  <index>true</index>
+  <category>Divine Healing&amp;mdash;Jehovah-Rapha</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.8.8.9.</meter>
+  <hymncode>565134565</hymncode>
+  <key>Bb Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7. | C - - F. | C - - G. | Am - - D7. | G - - G/B. | C - - C/E. | F - - Dm7. | C/G - - G7. | C - - 0. |</chords>
+  <melody>| 0 - - 5/ 6/ 5/ | ._1.( ._1) 3/ 4/( 5/) 6/ | 5.( 5.) 5/ 6/ 7/ | ._1.( ._1) ._1/ ._1/( 7/) ._1/ (break) | ._2.( ._2.) 5/ 6/ 5/ | ._3.( ._3) ._2/ ._1/( 5/) 5#/ | 6.( 6) ._1/ ._1/ 7/ 6/ | 5.( 5) ._1/ 7/( ._1/) ._2/ | ._1.( ._1.) 0. |</melody>
+  <layout>
+    <singingstanza>I am the Lord that heal -- eth thee, I am the Lord that heal -- eth thee; Je -- ho -- vah- -- Ra -- pha is My Name: For I am the Lord that heal -- eth thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj043.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="20">e0752_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Jehovah-Rapha is My Name:
+For I am the Lord that healeth thee.</stanza>
+    <stanza type="verse" number="2">I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Sickness must flee at My command:
+For I am the Lord that healeth thee.</stanza>
+    <stanza type="verse" number="3">I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+The prayer of faith shall banish disease:
+For I am the Lord that healeth thee.</stanza>
+    <stanza type="verse" number="4">I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+My Name is still as ointment poured forth:
+For I am the Lord that healeth thee.</stanza>
+    <stanza type="verse" number="5">I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Come and be free from all your pains:
+For I am the Lord that healeth thee.</stanza>
+  </lyrics>
+</hymn>

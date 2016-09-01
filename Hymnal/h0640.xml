@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Life out of death&amp;mdash;dear Master, is it spoken</title>
+  <index>true</index>
+  <category>The Resurrection Life&amp;mdash;Life out of Death</category>
+  <numbers><cebuano num="640"/><chinese num="473"/><english num="640"/><german num="640"/><korean num="473"/><russian num="423"/><spanish num="299"/><tagalog num="640"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Anonymous</author>
+  </creators>
+  <melody>| 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - | 2 - 3 4 | 5 - 3 - | 1 1 3 2 | 7_. - - - (break) | 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - | 6 - 5 4 | 3 5 4 2 | 6_. - 7_. - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Life out of death&amp;mdash; dear Mas -- ter, is it spok -- en Of the life here, or in the bet -- ter land? Nay, where -- fore wait? The ves -- sel marred and brok -- en Shall now be mould -- ed by the Pot -- ter's hand.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Jeremiah 18:4</link>
+	<link type="ref">1 Corinthians 15:43</link>
+	<link type="ref">John 7:37-38</link>
+  </links>
+  <music>
+	<midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Life out of death&amp;mdash;dear Master, is it spoken
+Of the life here, or in the better land?
+Nay, wherefore wait? The vessel marred and broken
+Shall now be moulded by the Potter's hand.</stanza>
+	<stanza type="verse" number="2">Life out of death&amp;mdash;oh, wondrous resurrection!
+Seed sown in conscious weakness, raised in power;
+Thy life lived out in days of toil and friction,
+"Not I, but Christ" in me from hour to hour.</stanza>
+	<stanza type="verse" number="3">Life out of death&amp;mdash;a pilgrim path and lonely,
+Trodden by those who glory in the Cross.
+They live in fellowship with "Jesus only,"
+And for His sake count earthly gain but loss.</stanza>
+	<stanza type="verse" number="4">Life out of death&amp;mdash;blest mission to be ever
+Bearing the living water brimming o'er.
+With life abundant from the clear, pure river,
+Telling that thirsty souls need thirst no more.</stanza>
+  </lyrics>
+</hymn>

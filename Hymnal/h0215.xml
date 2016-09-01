@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Lord, we know Thee present</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="215"/><english num="215"/><russian num="406"/><tagalog num="215"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Mrs. Thompson</author>
+    <composer biodate="1770-1858" biolink="">John Wyeth</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>321135223565321</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 | C - C/E | G - C/E | F - G7 | C - F/C | C - C/E | G - C/E | F - G7 | C - - | C/E - F | C - - | Am - F | C - G7 | C - C/E | G - C/E | F - G7 | C - 0 |</chords>
+  <melody>| 0 - 3/ 2/ | 1 1 3/ 5/ | 2 2 3/ 5/ | 6 5 3/ 2/ (break) | 1 - 3/ 2/ | 1 1 3/ 5/ | 2 2 3/ 5/ | 6 5 3/ 2/ (break) | 1 - 5/ 6//( 7//) | ._1 7 6/ 5/ | 6/( 5/) 3 5/ 6//( 7//) | ._1 7 6/ 5/ (break) | ._1 - 3/ 2/ | 1 1 3/ 5/ | 2 2 3/ 5/ | 6 5 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus, Lord, we know Thee pre -- sent At Thy ta -- ble fresh -- ly spread, Seat -- ed at Thy price -- less ban -- quet With Thy ban -- ner o -- ver -- head. Pre -- cious mo -- ments at Thy ta -- ble, From all fear and doubt set free; Here to rest, so sweet -- ly a -- ble, Oc -- cu -- pied a -- lone with Thee.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj163.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="33">e0215_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, Lord, we know Thee present
+  At Thy table freshly spread,
+Seated at Thy priceless banquet
+  With Thy banner overhead.
+Precious moments at Thy table,
+  From all fear and doubt set free;
+Here to rest, so sweetly able,
+  Occupied alone with Thee.</stanza>
+    <stanza type="verse" number="2">Here rejoicing in Thy nearness,
+  Gladly by Thy Spirit led;
+Calmly in the blest remembrance
+  Of Thyself, Thy blood once shed.
+Lord, we take each simple token
+  In fond memory of Thee,
+Muse upon Thy body broken
+  And Thy blood shed on the tree.</stanza>
+    <stanza type="verse" number="3">Oh, what joy it is to see Thee,
+  In these chosen emblems here;
+In the bread and wine of blessing&amp;mdash;
+  Bread to strengthen, wine to cheer!
+Lord, behold us met together,
+  One in Thee, our risen Head,
+Thus we take the cup of blessing,
+  Thus we share the broken bread.</stanza>
+    <stanza type="verse" number="4">Lord, we know how true Thy promise
+  To be with us where we meet,
+When in Thy loved name we gather
+  To enjoy communion sweet;
+Dearer still that looked-for promise
+  To each waiting, yearning heart,
+That with Thee we soon shall be, Lord,
+  Yes, "forever" where Thou art.</stanza>
+  </lyrics>
+</hymn>

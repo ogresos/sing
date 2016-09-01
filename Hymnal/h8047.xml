@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abba, Father, we approach Thee...</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Praise from Many Sons</category>
+  <numbers><chinese num="47"/><english num="8047"/></numbers>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>322176536542543</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F | C - C/E | Dm - G7 | C - - | C - C/E | G - E7 | Am - D7 | G - - | G7 - G7/B | C - C/E | Dm - G7 | C - - | C - F | Em - Am | C/G - G7 | C - - ||</chords>
+  <melody>| 0 - ._3./ ._2// | ._2 ._1 7./ 6// | 5 3 6./ 5// | 4 2 5./ 4// (break) | 3 - ._3./ ._2// | ._2 ._1 7./ 6// | 7 ._2 ._2./ ._3// | ._1 ._1 7./ 6// (break) | 5 - 5./ 6// | 5 4 ._2./ ._3// | ._2 ._1 5./ 6// | 5 4 ._2./ ._3// (break) | ._1 - ._3./ ._2// | ._2 ._1 7./ 6// | 5 3 1./ 2// | 3 5 2./ 3// | 1 - 0 ||</melody>
+  <layout>
+    <singingstanza>Ab -- ba, Fa -- ther, we ap -- proach Thee, Led by Thy be -- lov -- ed Son, Of -- fer up our praise and wor -- ship, Bask in Thy Pa -- ter -- nal love. Thou art on the throne re -- joic -- ing, Thine e -- ter -- nal plan is done&amp;mdash; Through His death and re -- sur -- rec -- tion We've be -- come Thy man -- y sons.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="">e8047_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Abba, Father, we approach Thee,
+Led by Thy beloved Son,
+Offer up our praise and worship,
+Bask in Thy Paternal love.
+Thou art on the throne rejoicing,
+Thine eternal plan is done&amp;mdash;
+Through His death and resurrection
+We've become Thy many sons.</stanza>
+    <stanza type="verse" number="2">Bread and cup upon the table,
+Which we did partake as one,
+Symbolize what was accomplished
+By Thy dear beloved Son.
+For His body for us broken,
+Cut a new and living way;
+Through it we can now come forward
+And can "Abba Father" say.</stanza>
+    <stanza type="verse" number="3">Precious blood already flowing,
+Blotted out our sin and stain;
+All Thy righteous indignation
+Can no more on us remain.
+For His blood stands e'er before Thee,
+For us speaking better things.
+Thus He's silenced the accuser
+And we're freed from guilt and shame.</stanza>
+    <stanza type="verse" number="4">What is man, O God, before Thee?
+Lower than angelic hosts;
+Yet Thou seekest to regain us
+Lov'st us to the uttermost.
+Only man gains Thy forgiveness,
+(Not the angels who rebelled)
+Praise Thee, Father, Praise unceasing
+For Thy grace unparalleled.</stanza>
+  </lyrics>
+</hymn>

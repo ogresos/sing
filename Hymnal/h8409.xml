@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My Lord and I</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <numbers><chinese num="409"/><english num="8409"/></numbers>
+  <creators>
+    <author biodate="1851-?" biolink="">Mary Ann Elizabeth Shorey Lancaster</author>
+  </creators>
+  <meter>7.6.8.6.8.6.7.4.</meter>
+  <hymncode>511123531332121</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. G/B. | Am. C/G. | F. G7. | C. F/C. | C. G/B. | Am. C/G. | F. G7. | C - - | C/E. C7. | F. Dm. | C/G. Am. | G. G7/B. | C. C/E. | F. Dm. | C/G. G7. | C - - ||</chords>
+  <melody>| 0. 0 5_./ | 1 1/ 1/( 2/) 3/ | 5. 3 1/ | 3 3/ 2/( 1/) 2/ (break) | 1.( 1) 5_./ | 1 1/ 1/( 2/) 3/ | 5 5/ 3 1/ | 3 3/ 2/( 1/) 2/ (break) | 1.( 1) 3/ | 5 3/ 3 2/ 2 6_./ 6_. 1/ | 1 1/ 1/( 2/) 3/ (break) | 2.( 2) 3/ | 5 3/ 3 2/ | 2. 6_. 6_./ | 1. 2. | 1.( 1) 0/ ||</melody>
+  <layout>
+    <singingstanza>I have a Friend so pre -- cious, So ver -- y dear to me, He loves me with a ten -- der love, He loves me faith -- ful -- ly; I could not live a -- part from Him, I love to feel Him nigh; And so we dwell to -- geth -- er, My Lord and I.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="38">e8409_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I have a Friend so precious,
+So very dear to me,
+He loves me with a tender love,
+He loves me faithfully;
+I could not live apart from Him,
+I love to feel Him nigh;
+And so we dwell together,
+My Lord and I.</stanza>
+    <stanza type="verse" number="2">Sometimes I'm faint and weary,
+He knows that I am weak;
+And as He bids me lean on Him,
+His help I'll gladly seek;
+He leads me in the path of light,
+Beneath a sunny sky;
+And so we dwell together,
+My Lord and I.</stanza>
+    <stanza type="verse" number="3">He knows how much I love Him,
+He knows I love Him well;
+But with what love He loveth me,
+My tongue can never tell;
+It is an everlasting love
+In ever rich supply;
+And so we dwell together,
+My Lord and I.</stanza>
+    <stanza type="verse" number="4">I tell Him all my sorrows,
+I tell Him all my joys,
+I tell Him all that pleases me,
+I tell Him what annoys;
+He tells me what I ought to do,
+Hs tells me what to try;
+And so we dwell together,
+My Lord and I.</stanza>
+    <stanza type="verse" number="5">He knows how I am longing
+Some weary soul to win,
+And so He bids me go and speak
+A loving word for Him;
+He bids me tell His wondrous love,
+And why He came to die;
+And so we dwell together,
+My Lord and I.</stanza>
+  </lyrics>
+</hymn>

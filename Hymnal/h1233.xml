@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O home in the church</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Our Home and Rest</category>
+  <numbers><cebuano num="1233"/><chinese num="ts:709"/><english num="1233"/><french num="156"/><german num="1233"/><korean num="826"/><portuguese num="397"/><russian num="535"/><tagalog num="1233"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55123176444</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C7/E - - | F - - | Dm - - | Em - - | Am - - | Dm - - | G7 - - | C - - | C7/E - - | F - - | Fm - - | C/G - - | G7 - - | C - F/C | C - - | C/E - - | G7 - - | C - - | C - G/B | Am - - | D7 - - | G - - | G7 - - | C - - | C7/Bb - - | F/A - - | Fm/Ab - - | C/G - - | G7 - - | C - F/C | C - - |</chords>
+<guitarChords>| C - - | C - - | C7 - - | F - - | F - - | C - - | D - - | G - - | G7 - - | C - - | C7 - - | F - - | F - - | C - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | Am - - | D7 - - | G - - | G7 - - | C - - | C7 - - | F - - | F - - | C - - | G7 - - | C - F | C - - |</guitarChords>
+  <melody>| 0 - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 3/ 4/ | 5. 1/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - - (break) | (Chorus) 5 - - | 4. 3/ 2 | 3( - - | 3) - 5_./ 5_./ | 1. 1/ 1 | 1. 7_./ 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_.. 4/ 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>O home in the church, Where we've end -- ed our search With the broth -- ers re -- joic -- ing all day; Where Christ is our life, And we're through with all strife, Now we're home, hal -- le -- lu -- jah, to stay! Home, home in the church; Yes, it's here that we've end -- ed our search; And through all our days We will shout to His praise, "Hal -- le -- lu -- jah for Christ and the church!"</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj196.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="58">e1233_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O home in the church,
+  Where we've ended our search
+With the brothers rejoicing all day;
+  Where Christ is our life,
+  And we're through with all strife,
+Now we're home, hallelujah, to stay!</stanza>
+	<stanza type="chorus" number="">Home, home in the church;
+Yes, it's here that we've ended our search;
+  And through all our days
+  We will shout to His praise,
+  "Hallelujah for Christ and the church!"</stanza>
+	<stanza type="verse" number="2">Here God is at rest,
+  Of His treasures the best&amp;mdash;
+How His heart is rejoicing all day!
+  His home is our heart,
+  Ne'er for Satan a part,
+Here His glory He'll fully display.</stanza>
+	<stanza type="chorus" number="">God's home is the church;
+Yes, it's here that He ended His search;
+  And through all our days
+  We will shout to His praise,
+  "Hallelujah for Christ and the church!"</stanza>
+  </lyrics>
+</hymn>

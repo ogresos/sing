@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We praise Thee, glorious Father</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Predestination</category>
+  <numbers><cebuano num="36"/><chinese num="32"/><english num="36"/><german num="36"/><portuguese num="26"/><russian num="196"/><spanish num="24"/><tagalog num="36"/></numbers>
+  <creators>
+	<author biodate="" biolink="">P. Van den Berg, from Dutch</author>
+	<composer biodate="1813-1879" biolink="">Henry Thomas Smart</composer>
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>5534653114562</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F - | C - - C7/Bb | F/A - F - | G - G7 - | C - G/D - | C/E - C - | G/D - D7 - | G - - - | C - C/E - | F - - - | D - D/F# - | G - G/F - | C/E - C - | F - Dm7 - | C/G - G7 - | C - - 0 |</chords>
+<guitarChords>| C - - - | C - F - | C - - C7 | F - - - | G - G7 - | C - F - | C - - - | G - D7 - | G - - - | C - - - | F - - - | D - - - | G - - - | C - - - | F - - - | C - G7 - | C - - 0 |</guitarChords>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>We praise Thee, glor -- ious Fa -- ther, As ob -- jects of Thy grace, Who for Thine own heart's plea -- sure Are now be -- fore Thy face: Thy sons marked out for glo -- ry Known from e -- ter -- ni -- ty With Christ Thy Well-  be -- lov -- ed, Ob -- ject su -- preme to Thee.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj237.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="34">e0036_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We praise Thee, glorious Father,
+  As objects of Thy grace,
+Who for Thine own heart's pleasure
+  Are now before Thy face:
+Thy sons marked out for glory
+  Known from eternity
+With Christ Thy Well-beloved,
+  Object supreme to Thee.</stanza>
+	<stanza type="verse" number="2">Who else but Thee, O Father,
+  Could in Thine only Son
+So bless us with Thy Spirit,
+  And have us for Thine own?
+Soon shall we be forever
+  With Christ in glory; then
+We'll shine in His blest image
+  Eternally, Amen!</stanza>
+  </lyrics>
+</hymn>

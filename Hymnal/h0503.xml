@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I serve a risen Savior</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <numbers><english num="503"/><portuguese num="241"/><russian num="96"/><spanish num="217"/><tagalog num="503"/></numbers>
+  <creators>
+    <author biodate="1887-1960" biolink="">Alfred Henry Ackley</author>
+    <composer biodate="1887-1960" biolink="">Alfred Henry Ackley</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5566116355663</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. F/C. | C - - | C. F/C. | C - - | C. E7/B. | Am. C/G. | D/F#. D7. | G. G7. | C. F/C. | C - - | C. F/C. | C - - | D - - | D - - | D7 - - | G. G7. | C - - | C. C7/E. | F - - | C - - | G. G7. | C. Am. | D. D7. | G. G7. | C - - | C. C7/E. | F. Dm. | E - - | A. A7. | D. D7. | C/G. G7. | C - - |</chords>
+  <guitarChords>| C - - | C - - | C - - | C - - | C - - | E7 - - | Am - - | D. D7. | G. G7. | C - - | C - - | C - - | C - - | D - - | D - - | D7 - - | G. G7. | C - - | C. C7. | F - - | C - - | G. G7. | C - - | D. D7. | G. G7. | C - - | C. C7. | F - - | E7 - - | A7 - -  | D. D7. | C. G7. | C - - |</guitarChords>
+  <melody>| 0. 0 5/ | 5 6/ 6 ._1/ | ._1. 6 3/ | 5 5/ 6 6/ | 3.( 3) 5/ | ._3 ._3/ ._3 ._2/ | ._1. 6 7/ | ._1 ._1/ ._2 ._3/ (break) | ._2.( ._2) 5/ | 5 6/ 6 ._1/ | ._1. 6 3/ | 5 5/ 6 6/ | 3.( 3) 3/ | 2 3/ 4# 5/ | 6/ ._2( ._2) ._1/ | 7. 6. (break) | 5.( 5) (Chorus) 5/ | ._3.( ._3) 5/ | ._3.( ._3) ._2/ | ._1 ._1/ ._2/( ._1/) 6/ | 5.( 5) 5/ | 5 4/ 4 6/ | 6 5/ 5 ._1/ | ._1 ._1/ 6/( 7/) ._1/ (break) | ._2.( ._2) 5/ | ._3.( ._3) 5/ | ._3.( ._3) ._2/ | ._1 ._1/ ._2 ._2#/ (break) | ._3.( ._3) ._3/ | ._3 ._3/ ._4 ._3/ | ._3 ._2/ (.6 ._1/ | (.._5 ._3/ ._2 ._1/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+    <singingstanza>I serve a ris -- en Sav -- ior He's in the world to -- day. I know that He is liv -- ing, What -- ev -- er men may say. I see His hand of mer -- cy; I hear His voice of cheer; And just the time I need Him He's al -- ways near. He lives, He lives, Christ Je -- sus lives to -- day! He walks with me and talks with me a -- long life's nar -- row way. He lives, He lives, sal -- va -- tion to im -- part! You ask me how I know He lives? He lives with -- in my heart.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <copyright>Copyright, 1961 Renewal. Rodeheaver Co., Owner All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj055.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="57">e0503_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I serve a risen Savior
+  He's in the world today.
+I know that He is living,
+  Whatever men may say.
+I see His hand of mercy;
+  I hear His voice of cheer;
+And just the time I need Him
+  He's always near.</stanza>
+    <stanza type="chorus" number="">He lives, He lives, Christ Jesus lives today!
+He walks with me and talks with me along life's narrow way.
+He lives, He lives, salvation to impart!
+You ask me how I know He lives?
+    He lives within my heart.</stanza>
+    <stanza type="verse" number="2">In all the world around me
+  I see His loving care,
+And though my heart grows weary,
+  I never will despair;
+I know that He is leading,
+  Through all the stormy blast;
+The day of His appearing
+  Will come at last.</stanza>
+    <stanza type="verse" number="3">Rejoice, rejoice, O Christian,
+  Lift up your voice and sing
+Eternal hallelujahs
+  To Jesus Christ the King!
+The Hope of all who seek Him,
+  The Help of all who find,
+None other is so loving,
+  So good and kind.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A mighty Fortress is our God</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;By God as Fortress</category>
+  <numbers><cebuano num="886"/><chinese num="638"/><english num="886"/><french num="167"/><german num="886"/><korean num="638"/><portuguese num="416"/><spanish num="399"/><tagalog num="886"/></numbers>
+  <creators>
+	<author biodate="1483-1546" biolink="mluther.ccws.org">Martin Luther</author>
+	<author biodate="1805-1890" biolink="">Translated by Frederick H. Hedge</author>
+	<composer biodate="1483-1546" biolink="">Martin Luther</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1115671765</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G/B - | Am D7 G - | F - C/E F | G7 - C - | C - G/B - | Am D7 G Am | F - C/E F | G7 - C - | C - D7 - | G - - - | C/E - F G | Am - - E/G# | Am - D7 - | G - - F | F - Dm - | E - - Am | F - C/E F | G7 - C - |</chords>
+  <guitarChords>| C - - - | C - G - | D7 - G - | F - C - | G7 - C - | C - G - | D7 - G - | F - C - | G7 - C - | C - D7 - | G - - - | C - G - | Am - - - | Am - D7 - | G - - F | F - - - | E - - - | F - C - | G7 - C - |</guitarChords>
+  <melody>| 0 - - ._1 | ._1 ._1 5/( 6/) 7 | ._1/( 7/) 6 (.5 ._1 | 7 6 5 6 (break) | 4/( 3/ 2) (.1 ._1 | ._1 ._1 5/( 6/) 7 | ._1/( 7/) 6 (.5 ._1 | 7 6 5 6 (break) | 4/( 3/ 2) (.1 1 | 5 6 5 4# | 5 - - 1 | 5 5 6 7 (break) | ._1 - - 7 | ._1 7 6 6 | 5 - - 6 | 6 5 6 4 (break) | 3 - - ._1 | 7 6 5 6 | 4/( 3/ 2) (.1 0 |</melody>
+  <layout>
+	<singingstanza>A might -- y For -- tress is our God, A Bul -- wark nev -- er fail -- ing; Our Help -- er He a -- mid the flood Of mor -- tal ills pre -- vail -- ing: For still our an -- cient foe Doth seek to work us woe; His craft and power are great, And, armed with cru -- el hate, On earth is not his e -- qual.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="h" length="52">e0886_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">A mighty Fortress is our God,
+A Bulwark never failing;
+Our Helper He amid the flood
+Of mortal ills prevailing:
+For still our ancient foe
+Doth seek to work us woe;
+His craft and power are great,
+And, armed with cruel hate,
+On earth is not his equal.</stanza>
+	<stanza type="verse" number="2">Did we in our own strength confide,
+Our striving would be losing;
+Were not the right Man on our side,
+The Man of God's own choosing:
+Dost ask who that may be?
+Christ Jesus, it is He;
+Lord Sabaoth His Name,
+From age to age the same,
+And He must win the battle.</stanza>
+	<stanza type="verse" number="3">And though this world, with devils filled,
+Should threaten to undo us,
+We will not fear, for God hath willed
+His truth to triumph through us:
+The Prince of Darkness grim,
+We tremble not for him;
+His rage we can endure,
+For lo! his doom is sure,
+One little word shall fell him.</stanza>
+	<stanza type="verse" number="4">That word above all earthly powers,
+No thanks to them, abideth;
+The Spirit and the gifts are ours
+Through Him who with us sideth:
+Let goods and kindred go,
+This mortal life also;
+The body they may kill:
+God's truth abideth still,
+His Kingdom is forever.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've believed the true report</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <numbers><cebuano num="551"/><chinese num="416"/><dutch num="67"/><english num="551"/><french num="99"/><german num="551"/><korean num="416"/><portuguese num="279"/><russian num="105*"/><spanish num="258"/><tagalog num="551"/></numbers>
+  <creators>
+	<author biodate="1865-1949" biolink="">Charles Price Jones</author>
+	<composer biodate="1865-1949" biolink="">Charles Price Jones</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>34555553211765</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - C/E - | F - C - | C - Am - | Dm - G7 - | C - C/E - | F - C/E - | C - Am - | G7 - C - | C - F/C - | C - Am - | Dm - G7 - | F - G7 - | C - - - | C - Am - | Dm - G7 - | C F/C C - |</chords>
+ <guitarChords>| C - - - | C - - - | F - C - | C - - - | G7 - - - | C - - - | F - C - | C - - - | G7 - C - | C - - F | C - - - | G7 - - - | F - C - | C - - - | C - - - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 3./ 4// | 5./ 5// 5./ 5// 5 ._3./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5./ 5// 5./ 5// 5 ._1 | ._2./ ._2// ._2./ ._3// ._2 3./ 4// (break) | 5./ 5// 5./ 5// 5 ._3./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5./ 5// ._1./ ._2// ._3 ._1./ ._1// | ._2./ ._2// ._1./ 7// (.._1 (Chorus) ._1./ ._2// (break) | ._3 - ._1 ._4./ ._4// | ._3 - ._1 7./ ._1// | ._2./ ._2// ._2./ ._2// ._3 ._2./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5 - ._1 ._1./ ._2// | ._3 - ._1 ._1./ ._1// | ._2./ ._2// ._2./ ._2// ._1./ ._1// 7./ 7// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>I've be -- lieved the true re -- port, Hal -- le -- lu -- jah to the Lamb! I have passed the out -- er court, O glo -- ry be to God! I am all on Je -- sus' side, On the al -- tar sanc -- ti -- fied, To the world and sin I've died, Hal -- le -- lu -- jah to the Lamb! Hal -- le -- lu -- jah! Hal -- le -- lu -- jah! I have passed the riv -- en veil, Here the glo -- ries nev -- er fail, Hal -- le -- lu -- jah! Hal -- le -- lu -- jah! I am liv -- ing in the pre -- sence of the King.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj065.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="36">e0551_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">I've believed the true report,
+  Hallelujah to the Lamb!
+I have passed the outer court,
+  O glory be to God!
+I am all on Jesus' side,
+On the altar sanctified,
+To the world and sin I've died,
+  Hallelujah to the Lamb!</stanza>
+	<stanza type="chorus" number="">Hallelujah! Hallelujah!
+I have passed the riven veil,
+Here the glories never fail,
+Hallelujah! Hallelujah!
+I am living in the presence
+    of the King.</stanza>
+	<stanza type="verse" number="2">I'm a king and priest to God,
+  Hallelujah to the Lamb!
+By the cleansing of the blood,
+  O glory be to God!
+By the Spirit's pow'r and light,
+I am living day and night,
+In the holiest place so bright,
+  Hallelujah to the Lamb!</stanza>
+	<stanza type="verse" number="3">I have passed the outer veil,
+  Hallelujah to the Lamb!
+Which did once God's light conceal,
+  O glory be to God!
+But the blood has brought me in
+To God's holiness so clean,
+Where there's death to self and sin,
+  Hallelujah to the Lamb!</stanza>
+	<stanza type="verse" number="4">I'm within the holiest pale,
+  Hallelujah to the Lamb!
+I have passed the inner veil,
+  O glory be to God!
+I am sanctified to God
+By the power of the blood,
+Now the Lord is my abode
+  Hallelujah to the Lamb!</stanza>
+  </lyrics>
+</hymn>

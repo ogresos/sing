@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, Thou art our Paraclete</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His All-Inclusiveness</category>
+  <numbers><cebuano num="201"/><chinese num="153"/><english num="201"/><korean num="153"/><portuguese num="109"/><tagalog num="201"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | ._3 - ._2 | ._1 - ._1 | 7( 6) 5 | ._2 - 4# | 5 - 5 (break) | 5( 6) 7 | ._1 - 5 | 6( ._2) ._1 | 7 - 5 | ._1( ._3) ._2 | ._1 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>O Lord, Thou art our Pa -- ra -- clete, Our Com -- fort -- er in -- deed, Our Pa -- tron with our God a -- bove, The Ad -- vo -- cate we need.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj143.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0201.html">View Lyrics</link>
+  </links>
+  <music>
+    <midiref type="h" num="71"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Lord, Thou art our Paraclete,
+  Our Comforter indeed,
+Our Patron with our God above,
+  The Advocate we need.</stanza>
+    <stanza type="verse" number="2">Thou art our Counsel of defense,
+  The Pleader of our case,
+Our Interceder for all things,
+  Our Helper in all ways.</stanza>
+    <stanza type="verse" number="3">Lord, Thou dost manage all affairs
+  For us in God's delight,
+Both in the heavens and in us
+  With power in Thy right.</stanza>
+    <stanza type="verse" number="4">Thou intercedest all the time,
+  Lord Spirit, with Thy grace,
+In heav'n to plead, in us to groan,
+  Entreating in our place.</stanza>
+    <stanza type="verse" number="5">Thou helpest as the living One,
+  And attest by God's plan
+In resurrection pow'r of life,
+  Empow'ring our inner man.</stanza>
+    <stanza type="verse" number="6">Thou, as the Spirit giving life,
+  In weakness dost sustain;
+And in our spirit with Thy strength,
+  Our being dost maintain.</stanza>
+    <stanza type="verse" number="7">Thou servest ever with Thyself,
+  In mercy and in love,
+That Thou may be our all in all,
+  And we Thy fulness prove.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, the very thought of Thee</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Satisfaction with Him</category>
+  <numbers><cebuano num="209"/><chinese num="171"/><english num="209"/><german num="209"/><korean num="171"/><portuguese num="110"/><russian num="40"/><tagalog num="209"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Bernard of Clairvaux</author>
+	<author biodate="1814-1878" biolink="">Translated by Edward Caswall</author>
+	<composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>33323471</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Dm - - | G7 - - | C - - | C - - | Am - D7 | G - - | Dm - - | D7 - - | G - - | G7 - - | C - F | C/G - G7 | C - F/C | C - 0 |</chords>
+  <guitarChords>| C - - | G - - | G7 - - | C - - | C - - | C - - | G - - | Dm - - | Dm - - | G - - | G7 - - | C - - | G - G7 | C - - | C - 0 |</guitarChords>
+  <melody>| 3 3 3 | 2 - 3 | 4 - 7_. | 1 - - | 5_. 5_. 5_. | 3 - 2 | 2 - - (break) | 4 4 3 | 2 - 1 | 7_. - 6_. | 5_. - - | 5_. 6_. 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Je -- sus, the ve -- ry thought of Thee With sweet -- ness fills my breast; But sweet -- er far Thy face to see, And in Thy pre -- sence rest.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj164.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="24">e0209_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, the very thought of Thee
+  With sweetness fills my breast;
+But sweeter far Thy face to see,
+  And in Thy presence rest.</stanza>
+	<stanza type="verse" number="2">Nor voice can sing, nor heart can frame,
+  Nor can the memory find
+A sweeter sound than Thy blest Name,
+  O Savior of mankind!</stanza>
+	<stanza type="verse" number="3">O Hope of every contrite heart,
+  O Joy of all the meek,
+To those who fall, how kind Thou art!
+  How good to those who seek!</stanza>
+	<stanza type="verse" number="4">But what to those who find? Ah, this
+  Nor tongue nor pen can show;
+The love of Jesus, what it is
+  None but His loved ones know.</stanza>
+	<stanza type="verse" number="5">O Jesus! light of all below!
+  Thou fount of life and fire!
+Surpassing all the joys we know,
+  And all we can desire.</stanza>
+	<stanza type="verse" number="6">No other source have we but Thee,
+  Soul-thirst to satisfy.
+Exhaustless spring! the waters free!
+  All other streams are dry.</stanza>
+	<stanza type="verse" number="7">Jesus, our only Joy be Thou,
+  As Thou our Prize wilt be;
+Jesus, be Thou our Glory now,
+  And through eternity.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus! how much Thy name unfolds</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><cebuano num="71"/><chinese num="63"/><english num="71"/><german num="71"/><korean num="63"/><tagalog num="71"/></numbers>
+  <creators>
+	<author biodate="1813-1856" biolink="">Mary Bowley Peters</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>5565565321</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | - - - | G - - | Am - - | G/D - - | D7 - - | G - - | C - - | C - - | F - - | G - - | C/E - F | C/G - G7 | C - F/C | C - 0 |</chords>
+<guitarChords>| C - - | C - - | - - - | G - - | C - - | G - - | D7 - - | G - - | C - - | C - - | F - - | G - - | C - - | G - G7 | C - - | C - 0 |</guitarChords>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | ._3 - ._2 | ._1 - ._1 | 7( 6) 5 | ._2 - 4# (break) | 5 - 5 | 5( 6) 7 | ._1 - 5 | 6( ._2) ._1 | 7 - 5 | ._1( ._3) ._2 | ._1 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>Je -- sus! how much Thy name un -- folds To ev -- ery o -- pened ear; The par -- doned sin -- ner's mem -- 'ry holds None oth -- er half so dear.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj156.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="23">e0071_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus! how much Thy name unfolds
+  To every opened ear;
+The pardoned sinner's mem'ry holds
+  None other half so dear.</stanza>
+	<stanza type="verse" number="2">Thy name encircles every grace
+  That God as man could show;
+There only could He fully trace
+  A life divine below.</stanza>
+	<stanza type="verse" number="3">Jesus&amp;mdash;it speaks a life of love,
+  Of sorrows meekly borne;
+It tells of sympathy above,
+  Whatever makes us mourn.</stanza>
+	<stanza type="verse" number="4">Jesus, the One who knew no sin,
+  Made sin to make us just;
+Thou gav'st Thyself our love to win,
+  Our full confiding trust.</stanza>
+	<stanza type="verse" number="5">The mention of Thy name shall bow
+  Our hearts to worship Thee;
+The chiefest of ten thousand Thou,
+  Whose love has set us free.</stanza>
+  </lyrics>
+</hymn>

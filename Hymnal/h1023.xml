@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I need Thee, precious Jesus</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Need of Christ</category>
+  <creators>
+    <author biodate="1829-1904" biolink="">Frederick Whitfield</author>
+  </creators>
+  <melody>| 0 - - 1 | 3 5 5 6 | 5 - 3 1 | 7_. 1 4 3 (break) | 2 - - 1 | 3 5 5 6 | 5 - 3 2 | 3 6 5 4# (break) | 5 - - 5 | ._1 5 4 3 | 6 - 5 7 | ._1 5 4 3 (break) | 2 - - 1 | 3 5 5 6 | 5 - 3 1 | 2 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I need Thee, pre -- cious Je -- sus! For I am full of sin; My soul is dark and guilt -- y, My spir -- it dead with -- in: I need the cleans -- ing foun -- tain, Where I can al -- ways flee: The blood of Christ most pre -- cious, The sin -- ner's per -- fect plea.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj102.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="915"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I need Thee, precious Jesus!
+  For I am full of sin;
+My soul is dark and guilty,
+  My spirit dead within:
+I need the cleansing fountain,
+  Where I can always flee:
+The blood of Christ most precious,
+  The sinner's perfect plea.</stanza>
+    <stanza type="verse" number="2">I need Thee, precious Jesus!
+  For I am very poor;
+A stranger and a pilgrim,
+  I have no earthly store:
+I need the love of Jesus,
+  To cheer me on my way,
+To guide my doubting footsteps,
+  To be my strength and stay.</stanza>
+    <stanza type="verse" number="3">I need Thee, precious Jesus!
+  I need a friend like Thee;
+A friend to soothe and comfort,
+  A friend to care for me:
+I need the heart of Jesus,
+  To feel each anxious care,
+To bear my every burden,
+  And all my sorrow share.</stanza>
+    <stanza type="verse" number="4">I need Thee, precious Jesus!
+  I need Thee day by day,
+To fill me with Thy fulness,
+  To lead me on my way;
+I need Thy Holy Spirit,
+  To teach me what I am;
+To show me more of Jesus,
+  To point me to the Lamb.</stanza>
+    <stanza type="verse" number="5">I need Thee, precious Jesus!
+  And hope to see Thee soon,
+Encircled with Thy glory,
+  And seated on Thy throne;
+There with Thy blood-bought people,
+  My joy shall ever be
+To praise Thee, precious Jesus,
+  To gaze, my Lord, on Thee.</stanza>
+  </lyrics>
+</hymn>

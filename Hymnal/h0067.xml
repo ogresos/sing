@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The name of Jesus is so sweet</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">W. C. Martin</author>
+	<composer biodate="1854-1942" biolink="">Edmund Simon Lorenz</composer>
+  </creators>
+  <meter>8.8.8.7. with chorus.</meter>
+  <hymncode>5176354472174655</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - C/E | Dm - - | G - G7/B | C - G7/D | C/E - E | F - - | D/F# - D7 | G7 - - | C - C/E | Dm7 - - | G - G7/B | C - - | C - E7 | F - D7/F# | C/G - - | G7 C 0 |</chords>
+<guitarChords>| C - - | C - - | G - - | G - G7 | C - - | C - - | F - - | D7 - - | G7 - - | C - - | G - - | G - - | C - - | C - - | F - - | C - - | G7 C 0 |</guitarChords>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <layout>
+	<singingstanza>The name of Je -- sus is so sweet, I love its mu -- sic to re -- peat; It makes my joys full and com -- plete, The pre -- cious name of Je -- sus. Je -- sus! oh, how sweet the name, Je -- sus! ev -- ery day the same; Je -- sus! let all saints pro -- claim Its wor -- thy praise for -- ev -- er.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj156.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="34">e0067_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The name of Jesus is so sweet,
+I love its music to repeat;
+It makes my joys full and complete,
+  The precious name of Jesus.</stanza>
+	<stanza type="chorus" number="">Jesus! oh, how sweet the name,
+Jesus! every day the same;
+Jesus! let all saints proclaim
+    Its worthy praise forever.</stanza>
+	<stanza type="verse" number="2">I love the name of Him whose heart
+Knows all my griefs and bears a part;
+Who bids all anxious fears depart,
+  I love the name of Jesus.</stanza>
+	<stanza type="verse" number="3">That name I fondly love to hear,
+It never fails my heart to cheer,
+Its music dries the falling tear;
+  Exalt the name of Jesus.</stanza>
+	<stanza type="verse" number="4">No word of man can ever tell
+How sweet the name I love so well,
+Oh, let its praises ever swell,
+  Oh, praise the name of Jesus.</stanza>
+  </lyrics>
+</hymn>

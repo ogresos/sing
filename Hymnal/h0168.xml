@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now in a song of grateful praise</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Goodness</category>
+  <numbers><english num="168"/><tagalog num="168"/></numbers>
+  <creators>
+    <author biodate="1738-1799" biolink="">Samuel Medley</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>12334465535442433</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G/D - | C/E - Am - | Dm - G7 - | C - G7 - | C - G/D - | C/E - Am C/G | F - C/E F | C/G G7 C - | C - G/D - | C/E - Am - | Dm - G7 - | C - G7 - | C - G/D - | C/E - Am C/G | F - C/E F | C/G G7 C - |</chords>
+  <melody>| 0 - - 1./( 2//) | 3 3 4 4 | 6 5 5 3 | 5 4 4 2 (break) | 4 3 3 1./( 2//) | 3 3 4 4 | 6 5 (.._1 (.._1 | 7 6 5 4 (break) | 3 2 1 (Chorus) 1./ 2// | 3 3 4 4 | 6 5 5 3 | 5 4 4 2 (break) | 4 3 3 1./ 2// | 3 3 4 4 | 6 5 (.._1 (.._1 | 7 6 5 4 | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Now in a song of grate -- ful praise, To Thee, O Lord, my voice I'll raise; With all Thy saints I'll join to tell, My Sav -- ior has done all things well. And a -- bove the rest this note shall swell, This note shall swell, this note shall swell, And a -- bove the rest this note shall swell, My Sav -- ior has done all things well.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj149.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0168_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Now in a song of grateful praise,
+To Thee, O Lord, my voice I'll raise;
+With all Thy saints I'll join to tell,
+My Savior has done all things well.</stanza>
+    <stanza type="chorus" number="">And above the rest this note shall swell,
+This note shall swell, this note shall swell,
+And above the rest this note shall swell,
+  My Savior has done all things well.</stanza>
+    <stanza type="verse" number="2">How sov'reign, wonderful and free,
+Has been Thy love to sinful me!
+Thou sav'dst me from the jaws of hell;
+My Savior has done all things well.</stanza>
+    <stanza type="verse" number="3">Since e'er my soul has known His love,
+What mercies He has made me prove,
+Mercies which do all praise excel,
+My Savior has done all things well.</stanza>
+    <stanza type="verse" number="4">And when on that bright day I rise,
+And join the anthems of the skies,
+Above the rest this note shall swell,
+My Savior has done all things well.</stanza>
+  </lyrics>
+</hymn>

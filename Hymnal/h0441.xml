@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All to Jesus I surrender</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Surrendering All to the Lord</category>
+  <numbers><cebuano num="441"/><chinese num="337"/><dutch num="29"/><english num="441"/><french num="77"/><german num="441"/><korean num="337"/><lsmyp num="108"/><portuguese num="204"/><russian num="83"/><spanish num="189"/><tagalog num="441"/></numbers>
+  <creators>
+	<author biodate="1855-1939" biolink="">Judson W. Van de Venter</author>
+	<composer biodate="1847-1908" biolink="">Winfield Scott Weeden</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>334322321143231</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - E7/G# - | Am - F - | G7 - C - | C - - - | G - E7/G# - | Am - Dm - | G7 - C - | C - C/E - | Dm - - - | G - G7/B - | C - - - | C - G7/D - | C/E - F - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | G - - - | C - - - | G7 - C - | C - - - | G - - - | C - - - | G7 - C - | C - - - | G - - - | G - G7 - | C - - - | C - - - | C - F - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>All to Je -- sus I sur -- ren -- der, All to Him I free -- ly give; I will ev -- er love and trust Him, In His pre -- sence dai -- ly live. I sur -- ren -- der all, I sur -- ren -- der all. All to Thee, my bless -- ed Sav -- ior, I sur -- ren -- der all.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj039.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="38">e0441_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">All to Jesus I surrender,
+All to Him I freely give;
+I will ever love and trust Him,
+In His presence daily live.</stanza>
+	<stanza type="chorus" number="">I surrender all,
+  I surrender all.
+All to Thee, my blessed Savior,
+    I surrender all.</stanza>
+	<stanza type="verse" number="2">All to Jesus I surrender,
+Humbly at His feet I bow,
+Worldly pleasures all forsaken;
+Take me, Jesus, take me now.</stanza>
+	<stanza type="verse" number="3">All to Jesus I surrender,
+Make me, Savior, wholly Thine;
+Let me feel Thy Holy Spirit,
+Truly know that Thou art mine.</stanza>
+	<stanza type="verse" number="4">All to Jesus I surrender,
+Lord, I give myself to Thee;
+Fill me with Thy love and power,
+Let Thy blessing fall on me.</stanza>
+	<stanza type="verse" number="5">All to Jesus I surrender,
+Now I feel the sacred flame.
+Oh, the joy of full salvation!
+Glory, glory to His name!</stanza>
+  </lyrics>
+</hymn>

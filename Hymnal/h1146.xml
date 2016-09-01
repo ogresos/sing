@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let us eat Jesus every day</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><english num="1146"/><french num="110"/><spanish num="227"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5_../ 5_.// 5_./ 5_. 6_./ | 1 1/ 1. | 2./ 2// 2/ 2 4/ | 3 3/ 3. (break) | 5./ 5// 5/ 5 4/ | 3 3/ 3. | 2./ 3// 4/ 3 2/ | 1 7_./ 1. (break) | (Chorus) 3. 5_../ 6_.// 5_./ | 1. 1. | 2. 2./ 3// 4/ | 3. 3. (break) | 5./ 5// 5/ 5 4/ | 3 3/ 3. | 2./ 3// 4/ 3 2/ | 1 7_./ 1. |</melody>
+  <layout>
+    <singingstanza>Let us eat Je -- sus ev -- ery day, Eat -- ing His flesh in such a way That in the tri -- als great or small He as a Man will be our all. Eat, eat more of Je -- sus! Eat, eat more of Je -- sus! Why should we un -- der -- nou -- rished be When we have His hu -- man -- i -- ty?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj054.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="382"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let us eat Jesus every day,
+Eating His flesh in such a way
+That in the trials great or small
+He as a Man will be our all.</stanza>
+    <stanza type="chorus" number="">Eat, eat more of Jesus!
+Eat, eat more of Jesus!
+Why should we undernourished be
+  When we have His humanity?</stanza>
+    <stanza type="verse" number="2">Let us drink Jesus till we see
+That we are human, Jesusly!
+Till rivers flood the barren ground
+And quench the thirst of all around.</stanza>
+    <stanza type="chorus" number="">Drink, drink more of Jesus!
+Drink, drink more of Jesus!
+Why should we ever thirsty be
+  When we have His humanity?</stanza>
+    <stanza type="verse" number="3">We must eat Jesus till God can
+Have the fulfillment of His plan&amp;mdash;
+One man expressed for all to see,
+One church in each locality.</stanza>
+    <stanza type="chorus" number="">We'll masticate Jesus!
+We'll masticate Jesus!
+Then to the tent of meeting bring
+  Jesus, our real meal offering.</stanza>
+  </lyrics>
+</hymn>

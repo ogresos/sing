@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus waits for you, hoping you will come</title>
+  <index>false</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><chinese num="716"/><english num="8716"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 3 2 2 2./ 3// | 2 1 1 1./ 7_.// | 6_. 6_. 6_. 1./( 6_.//) (break) | 5_. - - 3./ 4// | 3 2 2 2./ 3// | 2 1 1 2/ 3/ | 4 4 7_. 7_. (break) | 1 - 0 (Chorus) 3./ 4// | 5 5/ 0/ 3 3/ 0/ | 2/ 1/ 7_./ 6_./ 5_. 1/ 7_./ | 6_. 1 4 3 (break) | 2 - 0 3./ 4// | 5 5/ 0/ 3 3/ 0/ | 2/ 1/ 7_./ 6_./ (.4 3./ 2// | 1 1 3. 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus waits for you, hop -- ing you will come In the years that you are giv'n. Je -- sus calls a -- gain, through re -- pen -- tance come To en -- joy the peace of heav'n. He is call -- ing, call -- ing; hear Him call -- ing now, That you might His grace re -- ceive; He is a -- ble, will -- ing, wait -- ing to re -- deem, Read -- y that you might be -- lieve.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="387"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus waits for you, hoping you will come
+  In the years that you are giv'n.
+Jesus calls again, through repentance come
+  To enjoy the peace of heav'n.</stanza>
+    <stanza type="chorus" number="">He is calling, calling; hear Him calling now,
+  That you might His grace receive;
+He is able, willing, waiting to redeem,
+  Ready that you might believe.</stanza>
+    <stanza type="verse" number="2">You've been wandering, wand'ring for some ways,
+  Sinking in the grip of sin.
+Yet He's patient still, patient as He sways,
+  Weary hearts He wants to win.</stanza>
+    <stanza type="verse" number="3">Many times He called, though you've turned away;
+  He is caring still for you.
+He will not allow His love to be swayed
+  As He urges you anew.</stanza>
+    <stanza type="verse" number="4">To His call submit, find His love your home;
+  Jesus now yet waits for you.
+He is calling still, "Unto Me now come."
+  Answer to Him, "Yes, I do."</stanza>
+  </lyrics>
+</hymn>

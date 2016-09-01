@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I am the Lord's! O joy beyond expression</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><cebuano num="433"/><chinese num="ts:331"/><english num="433"/><french num="74"/><lsmyp num="97"/><portuguese num="200"/><russian num="215"/><spanish num="184"/><tagalog num="433"/></numbers>
+  <creators>
+    <author biodate="1850-1927" biolink="">Lucy Ann Bennett</author>
+    <composer biodate="1838-1896" biolink="">Joseph Barnby</composer>
+  </creators>
+  <meter>11.10.11.10.</meter>
+  <hymncode>13555551776</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/D - - - | C/E - E - | F - - - | G7/F - - - | Em - Am - | F - D7 - | G - - - | C - - - | G/D - - - | C/E - E - | F - - - | F - G7/F - | Em - Dm - | G7 - - - | C - - - |</chords>
+  <guitarChords>| C - - - | G - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | G - - - | C - - - | G - - - | C - - - | F - - - | F - - - | C - - - | G7 - - - | C - - - |</guitarChords>
+  <melody>| 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 2 - 3 4 | 5 - 3 - | 1 1 3 2 | 7_. - - - (break) | 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 6 - 5 4 | 3 5 4 2 | 6_. - 7_. - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I am the Lord's! O joy be -- yond ex -- pres -- sion, O sweet res -- ponse to voice of love Di -- vine; Faith's joy -- ous "Yes" to the as -- sur -- ing whis -- per, "Fear not! I have re -- deemed thee; thou art Mine."</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj033.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0433_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I am the Lord's! O joy beyond expression,
+  O sweet response to voice of love Divine;
+Faith's joyous "Yes" to the assuring whisper,
+  "Fear not! I have redeemed thee; thou art Mine."</stanza>
+    <stanza type="verse" number="2">I am the Lord's! It is the glad confession
+  Wherewith the Bride recalls the happy day,
+When love's "I will" accepted Him forever,
+  "The Lord's," to love, to honor and obey.</stanza>
+    <stanza type="verse" number="3">I am the Lord's! Yet teach me all it meaneth,
+  All it involves of love and loyalty,
+Of holy service, absolute surrender,
+  And unreserved obedience unto Thee.</stanza>
+    <stanza type="verse" number="4">I am the Lord's! Yes; body, soul, and spirit,
+  O seal them irrecoverably Thine;
+As Thou, Beloved, in Thy grace and fulness
+  Forever and forevermore art mine.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We praise Thee, O God</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Redemption</category>
+  <numbers><cebuano num="40"/><chinese num="35"/><english num="40"/><french num="7"/><german num="40"/><korean num="35"/><portuguese num="32"/><russian num="16"/><spanish num="26"/><tagalog num="40"/></numbers>
+  <creators>
+	<author biodate="1839-1885" biolink="">William Paton MacKay</author>
+	<composer biodate="1760-1825" biolink="">John Jenkins Husband</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>51111123333</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Dm7 - - | C/E - - | F - - | C/G - - | A7 - - | D7 - - | G - - | F - G7 | C - - | F - - | G - - | F - E7 | Am - - | Dm7 - G7 | C - 0 |</chords>
+  <guitarChords>| C - - | C - - | C - - | C - - | C - - | C - - | C - - | G - - | G - - | C - - | C - - | F - - | G - - | C - - | C - - | G - G7 | C - 0 |</guitarChords>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 | 6 5 3 | 3 2 2 (break) | 2 - (Chorus) 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// | 6 5 3 (break) | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>We praise Thee, O God, For the Son of Thy love, For our Sav -- ior who died and Is now gone a -- bove. Hal -- le -- lu -- jah! Thine the glo -- ry, Hal -- le -- lu -- jah! A -- men; Hal -- le -- lu -- jah! Thine the glo -- ry, We praise Thee a -- gain.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj238.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="24">e0040_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We praise Thee, O God,
+  For the Son of Thy love,
+For our Savior who died and
+  Is now gone above.</stanza>
+	<stanza type="chorus" number="">Hallelujah! Thine the glory,
+  Hallelujah! Amen;
+Hallelujah! Thine the glory,
+    We praise Thee again.</stanza>
+	<stanza type="verse" number="2">We praise Thee, O God,
+  For Thy Spirit of light,
+Who has shown us our Savior,
+  And scattered our night.</stanza>
+	<stanza type="verse" number="3">All glory and praise
+  To Thee, Father of love,
+For through Jesus' redemption
+  Thy heart we may prove.</stanza>
+	<stanza type="verse" number="4">We praise Thee again;
+  We are filled with Thy love,
+And each heart is rekindled
+  With fire from above.</stanza>
+  </lyrics>
+</hymn>

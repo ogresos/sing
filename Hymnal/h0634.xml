@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cross of Christ! lead onward</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Victory</category>
+  <numbers><chinese num="470"/><english num="634"/><korean num="470"/><tagalog num="634"/></numbers>
+  <creators>
+    <author biodate="1849-1928" biolink="">Russell Kelso Carter</author>
+    <composer biodate="1878-1935" biolink="">Caradog Roberts</composer>
+  </creators>
+  <meter>6.5.6.5.D. with chorus.</meter>
+  <hymncode>516217731432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Dm - | G - - - | G - F - | C/G - G - | G/B - G7 - | G7 - C - | G/D - D7 - | G - - - | C - - - | Am - E - | Am - D7 - | G - - - | C - F - | G - F/A - | C/G - G7 - | C - - - | C - E/B - | Am - - - | G - G7/B - | C - - - | F - C/E - | Dm - C F | C/G - G7 - | C - - - |</chords>
+  <melody>| 5_. 1 6_. 2 | 1 - 7_. - | 7_. 3 1 4 | 3( - 2) - | 2 5 5 4 | 2 4 4 3 | 2 - 2 - | 2 - - - (break) | 3 2 1 2 | 1 - 7_. - | 1 7_. 7_. 6_. | 5_. - - - | 5_. 1 6_. 2 | 7_. 3 1 4 | 3 - 2 - | 1 - - - (break) | (Chorus) 3 3 3. 3/ | 3 - 3 - | 5 5 5. 5/ | 5 - - - (break) | 6. 6/ 5 1 | 4 5 3 2 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Cross of Christ! lead on -- ward, Through the ho -- ly war; In this sign we con -- quer Now and ev -- er -- more. Not of man the pow -- er, Not to man the fame; We are vic -- tors on -- ly In our Lead -- er's name. Cross of Christ! lead on -- ward, Through the ho -- ly war; In this sign we con -- quer Now and ev -- er -- more.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj219.xml</link>
+    <link type="relevant" category="h" num="634b"></link>
+  </links>
+  <music>
+    <midi location="h" length="52">e0634_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Cross of Christ! lead onward,
+  Through the holy war;
+In this sign we conquer
+  Now and evermore.
+Not of man the power,
+  Not to man the fame;
+We are victors only
+  In our Leader's name.</stanza>
+    <stanza type="chorus" number="">Cross of Christ! lead onward,
+  Through the holy war;
+In this sign we conquer
+    Now and evermore.</stanza>
+    <stanza type="verse" number="2">Not with pomp and pageant,
+  Not in earthly pride;
+We must fight our battles
+  Like the Crucified.
+Overcome by suff'ring,
+  Conquer through defeat;
+Tried and tested daily
+  In the furnace heat.</stanza>
+    <stanza type="verse" number="3">Kind, yet we are fighting,
+  Bold, yet humbly meek;
+Resting while we're working,
+  Strong, but ever weak.
+Timid, though courageous,
+  Gaining as we give;
+Crucified with Jesus,
+  Yet, in Him, we live.</stanza>
+    <stanza type="verse" number="4">By a cloud encompassed,
+  Witnesses to prove,
+Saints, apostles, prophets,
+  Precious ones we love;
+While "advance!" is sounding,
+  Mounts the battle thrill.
+Cross of Christ! lead onward
+  Where the Captain will.</stanza>
+    <stanza type="verse" number="5">Marching in the pathway
+  That the Master trod,
+Walks One daily with us
+  Like the Son of God.
+To the end enduring,
+  Armor ne'er laid down,
+Till the Cross leads upward
+  To the blood-bought crown.</stanza>
+  </lyrics>
+</hymn>

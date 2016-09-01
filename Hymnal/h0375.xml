@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is a place of quiet rest</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <creators>
+    <author biodate="1866-1944" biolink="">Cleland Boyd McAfee</author>
+    <composer biodate="1866-1944" biolink="">Cleland Boyd McAfee</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>33233434222543</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C - - - | Dm - - - | G7 - - - | C - C7 - | F - - - | C/E - Am - | Dm - G7 - | C - C7/E - | F - - - | Em - Am - | Dm/F - G7 - | C F/C C 0 |</chords>
+  <melody>| 0 - - 3 | 3. 2#/ 3 3 | 4. 3/ 4 - | 2 2/ 2/ 5 4 | 3 - - 3 (break) | 3. 2#/ 3 3 | 4. 3/ 4 - | 2 5/ 4/ 3 2 (break) | 3 - - (Chorus) 1 | 6. 6/ 4 6 | 6 - 5 - | 5 4/ 3/ 4 5 | 3 - - 1 (break) | 6. 6/ 7 6 | 5 - 3 - | 2 3/ 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There is a place of qui -- et rest, Near to the heart of God, A place where sin can -- not mo -- lest, Near to the heart of God. O Je -- sus, blest Re -- deem -- er, Sent from the heart of God, Hold us, who wait be -- fore Thee, Near to the heart of God.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj129.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e0375_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There is a place of quiet rest,
+  Near to the heart of God,
+A place where sin cannot molest,
+  Near to the heart of God.</stanza>
+    <stanza type="chorus" number="">O Jesus, blest Redeemer,
+  Sent from the heart of God,
+Hold us, who wait before Thee,
+    Near to the heart of God.</stanza>
+    <stanza type="verse" number="2">There is a place of comfort sweet,
+  Near to the heart of God,
+A place where we our Savior meet,
+  Near to the heart of God.</stanza>
+    <stanza type="verse" number="3">There is a place of full release,
+  Near to the heart of God,
+A place where all is joy and peace,
+  Near to the heart of God.</stanza>
+  </lyrics>
+</hymn>

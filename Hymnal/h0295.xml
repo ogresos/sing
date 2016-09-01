@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God's Christ, who is my righteousness</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Justified in Christ</category>
+  <numbers><cebuano num="295"/><chinese num="237"/><english num="295"/><korean num="237"/><russian num="212"/><tagalog num="295"/></numbers>
+  <creators>
+    <author biodate="1700-1760" biolink="countzinzendorf.ccws.org">Nicolaus L. Zinzendorf</author>
+    <author biodate="1703-1791" biolink="">Translated by John Wesley</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - (break) | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 (break) | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>God's Christ, who is my right -- eous -- ness, My beau -- ty is, my glo -- rious dress; Midst flam -- ing worlds, in this ar -- rayed, With joy shall I lift up my head.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">thenameofjesusisourstand.xml</link>
+    <link type="group">hymnal-subj005.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736311602.html"></link>
+  </links>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God's Christ, who is my righteousness,
+My beauty is, my glorious dress;
+Midst flaming worlds, in this arrayed,
+With joy shall I lift up my head.</stanza>
+    <stanza type="verse" number="2">Lord, I believe Thy precious blood,
+Which, at the mercy seat of God,
+Forever doth for sinners plead,
+For me, e'en for my soul, was shed.</stanza>
+    <stanza type="verse" number="3">Lord, I believe were sinners more
+Than sands upon the ocean shore,
+Thou hast for all a ransom paid,
+For all a full redemption made.</stanza>
+    <stanza type="verse" number="4">Bold can I stand in every way,
+For who aught to my charge shall lay?
+Fully, by Thee, absolved I am
+From sin and fear, from guilt and shame.</stanza>
+    <stanza type="verse" number="5">This spotless robe the same appears,
+When ruined nature sinks in years;
+No age can change its glorious hue,
+Its glory is forever new.</stanza>
+    <stanza type="verse" number="6">Thou God of power, Thou God of love,
+Let all Thy saints Thy mercy prove;
+Our beauty this, our glorious dress,
+Jesus the Lord, our Righteousness.</stanza>
+  </lyrics>
+</hymn>

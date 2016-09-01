@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O glory, glory, what a life</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Life</category>
+  <numbers><chinese num="694"/><english num="1015"/><korean num="694"/><portuguese num="453"/><tagalog num="1015"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="1685-1759" biolink="">George Frederick Handel</composer>
+  </creators>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>17654321566771</hymncode>
+  <key>C Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C F/C | C - | C/G G7 | C - | F - | G7 - | C - | C F/C | C - | C F/C | C - | C - | C - | G - | G7 - | C F | C. F/ | C/G G7 | C - |</chords>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/( 7/) 6/( 5/) | 5./( 4// 3/) ._1/ | ._1/( 7/) 6/( 5/) (break) | 5./( 4// 3/) 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/( ._1) 6/ | 5./( 4// 3/) 4/ | 3 2 | 1 - |</melody>
+  <layout>
+    <singingstanza>O glo -- ry, glo -- ry, what a life I have re -- ceived to -- day! All dark -- ness, death and pow'r of sin Have now been chased a -- way! Have now been chased a -- way! Have now, have now been chased a -- way!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj099.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H1015.html">View Lyrics</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e1015_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O glory, glory, what a life
+  I have received today!
+All darkness, death and pow'r of sin
+  Have now been chased away!
+  Have now been chased away!
+  Have now, have now been chased away!</stanza>
+  </lyrics>
+</hymn>

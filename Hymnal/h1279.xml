@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What we are, we're His image</title>
+  <index>true</index>
+  <category>Meetings&amp;mdash;In Resurrection</category>
+  <numbers><english num="1279"/><korean num="847"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 1/ 6_./ | 5_. - - 5_./ 5_./ | 6_./ 1/( 1) - 3/ 5/ | 6. 5/ 6. 5/ (break) | 3/ 5/( 5) - 3/ 5/ | 6 6 5 3 | 2/ 1 1. 3 | 4 3 2 1 (break) | 6_./ 1 1. 1/ 6_./ | 5_./ 1/( 1) 1/ 2/( 2/) 1/( | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>What we are, we're His i -- mage; We're cre -- at -- ed in His i -- mage, To ex -- press the Christ, sub -- due the earth, The pur -- pose of our se -- cond birth, We're His i -- mage, glo -- ri -- ous!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj140.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="1103"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What we are, we're His image;
+We're created in His image,
+To express the Christ, subdue the earth,
+The purpose of our second birth,
+We're His image, glorious!</stanza>
+    <stanza type="verse" number="2">What we are, we're the called ones,
+We've been called into the purpose.
+No longer low in Adam's fall,
+God's glory is our holy call.
+We're the called ones, glorious!</stanza>
+    <stanza type="verse" number="3">What we are, we're the joint-heirs;
+We inherit full salvation.
+We overcome and share His throne.
+All things today we fully own.
+We're the joint-heirs, glorious!</stanza>
+    <stanza type="verse" number="4">What we are, we're Christ's partners:
+We share the same anointing.
+No longer we're just serving Him;
+His riches we may all share in.
+We're His partners, glorious!</stanza>
+    <stanza type="verse" number="5">What we are, we're the brothers.
+We are all the holy brothers.
+The life of Christ we did obtain,
+For holiness the gold we gain.
+Holy brothers, glorious!</stanza>
+    <stanza type="verse" number="6">What we are, we're the lampstand;
+We're the shining forth of Jesus.
+In this world's darkness, sin, and strife,
+We're holding Christ, the light of life.
+We're the lampstand, glorious.</stanza>
+  </lyrics>
+</hymn>

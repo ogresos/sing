@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art the everlasting Word</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Divinity</category>
+  <numbers><chinese num="54"/><english num="59"/><korean num="54"/><tagalog num="59"/></numbers>
+  <creators>
+    <author biodate="1789-1855" biolink="">Josiah Conder</author>
+    <composer biodate="" biolink="">T. Willey</composer>
+  </creators>
+  <meter>8.6.8.6.8.8.</meter>
+  <hymncode>11234326711432617</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | F - G7 | C - - | Dm - A/E | Dm/F - D7/F# | G - - | G7/F - - | C/E - - | G/D - C | G - - | G/B - - | D - - | Em - - | A7/C# - - | Dm - - | G/B - - | C - - | C7 - - | F - - | Dm7 - G7 | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 1 | 1 - 2 | 3( 4) 3 | 2( 6_.) 7_. | 1 - 1 (break) | 4 - 3 | 2( 6_.) 1 | 7_. - 2 (break) | 2( 3) 4 | 5 - 1 | 4 - 3 | 2 - 2 (break) | 5 - 7 | 7 - 6 | 5 - 5 | 5( 4) 3 | 4 - 4 | 4( 3) 2 | 3 - 5 (break) | 5 - 1 | 1( 4) 3 | 2( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Thou art the ev -- er -- last -- ing Word, The Fa -- ther's on -- ly Son, God man -- i -- fest -- ly seen and heard, And heav'n's be -- lov -- ed One: Di -- vine, O Son of God, art Thou, In Thee God's ful -- ness find we now.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj146.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0059_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thou art the everlasting Word,
+  The Father's only Son,
+God manifestly seen and heard,
+  And heav'n's beloved One:
+Divine, O Son of God, art Thou,
+In Thee God's fulness find we now.</stanza>
+    <stanza type="verse" number="2">In Thee most perfectly expressed
+  The Father's glories shine;
+Of the full Deity possessed,
+  Eternally divine:
+Divine, O Son of God, art Thou,
+In Thee God's fulness find we now.</stanza>
+    <stanza type="verse" number="3">True image of the Infinite,
+  Whose essence is concealed;
+Brightness of uncreated light;
+  The heart of God revealed:
+Divine, O Son of God, art Thou,
+In Thee God's fulness find we now.</stanza>
+    <stanza type="verse" number="4">But the high mysteries of Thy Name
+  An angel's grasp transcend;
+The Father only, glorious claim!
+  The Son can comprehend:
+Divine, O Son of God, art Thou,
+In Thee God's fulness find we now.</stanza>
+    <stanza type="verse" number="5">Throughout the universe of bliss,
+  The center, Thou, and sun;
+Th' eternal theme of praise is this,
+  To heav'n's beloved One:
+Divine, O Son of God, art Thou,
+In Thee God's fulness find we now.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Complete in Thee! no work of mine</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Secured by Divine Provisions</category>
+  <creators>
+    <author biodate="1821-1902" biolink="">Aaron Robarts Wolfe</author>
+    <author biodate="1851-1935" biolink="">Chorus by James Martin Gray</author>
+    <composer biodate="" biolink="">Talmadge J. Bittikofer</composer>
+  </creators>
+  <meter>8.8.8.8.D.</meter>
+  <hymncode>5321176757127543</hymncode>
+  <key>F Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G - | C - - - C/E - | Dm - - - Dm/F - | G - - - G7/B - | C - - - F/C - | C - - - C7/E - | F - - - Dm - | C/G - - - G7 - | C - - - F/C - | C - - - C/E - | G - - - G/D - | G - - - G7/B - | C - - - F/C - | C - - - C7/E - | F - - - D/F# - | C/G - - - G7 - | C - - 0 - - |</chords>
+  <melody>| 0 - - 5_. 3 2 | 1 - - 1 7_. 6_. | 7_. - - 5_. 7_. 1 | 2 - - 7_. 5_. 4 (break) | 3 - - 5_. 3 2  | 1 - - 1 2 3 | 4 - - 6 6 6 | 5 - - 3 2. 1/ (break) | 1 - - (Chorus) 5 5 5 | 5 - - 3 2 1 | 7_. - - 5 5 6 | 5 - - 4 2 2# (break) | 3 - - 5_. 3 2 | 1 - - 1 2 3 | 4 - - 6 6 6 | 5 - - 4 3 2 | 1 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>Com -- plete in Thee! no work of mine May take, dear Lord, the place of Thine; Thy blood hath par -- don bought for me, And I am now com -- plete in Thee. Yea, jus -- ti -- fied! O bless -- ed thought! And sanc -- ti -- fied! Sal -- va -- tion wrought! Thy blood hath par -- don bought for me, And glo -- ri -- fied, I too, shall be!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj011.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="35">e0328_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Complete in Thee! no work of mine
+May take, dear Lord, the place of Thine;
+Thy blood hath pardon bought for me,
+And I am now complete in Thee.</stanza>
+    <stanza type="chorus" number="">Yea, justified! O blessed thought!
+And sanctified! Salvation wrought!
+Thy blood hath pardon bought for me,
+  And glorified, I too, shall be!</stanza>
+    <stanza type="verse" number="2">Complete in Thee&amp;mdash;no more shall sin,
+Thy grace hath conquered, reign within;
+Thy voice shall bid the tempter flee,
+And I shall stand complete in Thee.</stanza>
+    <stanza type="verse" number="3">Complete in Thee&amp;mdash;each want supplied,
+And no good thing to me denied;
+Since Thou my portion, Lord, wilt be,
+I ask no more, complete in Thee.</stanza>
+    <stanza type="verse" number="4">Dear Savior! when before Thy bar
+All tribes and tongues assembled are,
+Among Thy chosen will I be,
+At Thy right hand&amp;mdash;complete in Thee.</stanza>
+  </lyrics>
+</hymn>

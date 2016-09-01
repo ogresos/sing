@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We've found the secret of living</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Abiding in Him</category>
+  <numbers><chinese num="ts:254"/><english num="1162"/><lsmyp num="153"/><portuguese num="288"/><spanish num="265"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Frank Scavo">F. S.</author>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>332332353323322</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - Am - | Dm - G7 - | C - - - | C - F - | C/G - G7 - | C - C7/E - | F - - - | C - - - | D - - - | D7 - G - | C - C/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 3/ 3 2#/ 3/ 3 2#/ | 3/ 5/( 5) - - | 3/ 3 2#/ 3/ 3 2#/ | 2 - - - (break) | 3/ 3 2#/ 3/ 3 2#/ | 3/ 5/( 5) - 1/ 2/ | 3/ 5 4/ 3/ 3/ 2/ 2/ (break) | 1( - - 1/) (Chorus) 1/ | 4./ 4// 4/ 5/ 6. 4/ | 3./ 3// 3/ 4/ 5 - | 4# 4# 4# 4# | 4#/ 2/ 3/ 4#/ 5 - (break) | 3/ 3 2#/ 3/ 2/ 1 | 4/ 4 5/ 6/ 5/ 4/ 6/ | 5/ 5 4/ 3/ 3/ 2/ 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>We've found the se -- cret of liv -- ing, We've seen the vi -- sion di -- vine: We are of God in Christ Je -- sus, We're a -- bid -- ing, a -- bid -- ing in the vine. A -- bid -- ing in the vine, A -- bid -- ing in the vine, All the rich -- es of God's life are mine! Praise God, He put us here, Nev -- er to leave; oh, we're&amp;mdash; A -- bid -- ing, a -- bid -- ing in the vine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj052.xml</link>
+    <link type="relevant" category="h" num="1163"></link>
+    <link type="ref">John 15</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e1162_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We've found the secret of living,
+We've seen the vision divine:
+We are of God in Christ Jesus,
+We're abiding, abiding in the vine.</stanza>
+    <stanza type="chorus" number="">Abiding in the vine,
+Abiding in the vine,
+All the riches of God's life are mine!
+Praise God, He put us here,
+Never to leave; oh, we're&amp;mdash;
+  Abiding, abiding in the vine.</stanza>
+    <stanza type="verse" number="2">No more in vain need we struggle,
+Trying the way in to find.
+Praise God&amp;mdash;we're in Him already,
+Hallelujah, abiding in the vine.</stanza>
+    <stanza type="verse" number="3">In us, the ointment is moving,
+'Tis the anointing divine;
+God's precious essence bestowing,
+While abiding, abiding in the vine.</stanza>
+    <stanza type="verse" number="4">Now in the life-flow we're living,
+O how the light in us shines!
+Both God and man are at home now
+By the mutual abiding in the vine.</stanza>
+  </lyrics>
+</hymn>

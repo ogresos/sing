@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, how lovable, how precious</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Local Expression</category>
+  <numbers><chinese num="ts:536"/><english num="1258"/><korean num="784"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 1 - 2 | 1.( 2/) 3 | 4 - 3 | 2( 1) 2 | 5 - 4 | 3 - 3 | 2( 1) 2 | 1 - - (break) | 1 - 2 | 1.( 2/) 3 | 4 - 3 | 2( 1) 2 | 5 - 4 | 3 - 3 | 2( 1) 2 | 1 - - (break) | 5 - 5 | 5( 4) 3 | 4 - 4 | 4( 3) 2 | 3 - 3 | 3( 4) 5 | 5( 4) 3 | 2 - - (break) | 5( 3) 5 | 4( 2) 4 | 3( 1) 3 | 2/( 3/ 4/ 3/) 2 | 5 - 5 | 6( 5) 4 | 3 - 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Oh, how lov -- a -- ble, how pre -- cious Are Thy lo -- cal church -- es, Lord! My soul long -- eth, ev -- en faint -- eth For the courts of Thine a -- bode; 'Tis my heart's deep thirst and long -- ing And my spir -- it deep -- ly sighs; Fel -- low -- ship a -- mong the church -- es&amp;mdash; For this my whole be -- ing cries.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj207.xml</link>
+    <link type="ref">Psalms 84</link>
+  </links>
+  <music>
+    <midiref type="h" num="114"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, how lovable, how precious
+Are Thy local churches, Lord!
+My soul longeth, even fainteth
+For the courts of Thine abode;
+'Tis my heart's deep thirst and longing
+And my spirit deeply sighs;
+Fellowship among the churches&amp;mdash;
+For this my whole being cries.</stanza>
+    <stanza type="verse" number="2">Blessed is the man whose heart, to
+Zion, is an open way;
+He's the one whose strength is in Thee;
+He will praise Thee all the day.
+In communion with the churches,
+Trusting Thee, Thy praise he sings;
+Passing through the weeping valley,
+It becomes a place of springs.</stanza>
+    <stanza type="verse" number="3">One day spent among Thy churches,
+Better than a thousand is!
+Even to the lowest member,
+Sun and shield Jehovah is.
+Grace and glory, every good thing,
+On us now He doth outpour;
+Blessed is that man who dwelleth
+In the churches evermore.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord Jesus Christ, we seek Thy face</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;In the Holiest</category>
+  <creators>
+    <author biodate="" biolink="">Alexander Stewart</author>
+  </creators>
+  <melody>| 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 4 - 3( 2) | 1 - 7_.( 1) | 2 - - - (break) | 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 2 - 1 - | 2 - 3( 2) | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Lord Je -- sus Christ, we seek Thy face; With -- in the veil we bow the knee; Oh, let Thy glo -- ry fill the place, And bless us while we wait on Thee.</singingstanza>
+  </layout>
+  <copyright>Used by permission of Pickering &amp; Inglis, Ltd.</copyright>
+  <links>
+    <link type="group">hymnal-subj169.xml</link>
+    <link type="relevant" category="h" num="773b"></link>
+  </links>
+  <music>
+    <midiref type="h" num="488"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord Jesus Christ, we seek Thy face;
+Within the veil we bow the knee;
+Oh, let Thy glory fill the place,
+And bless us while we wait on Thee.</stanza>
+    <stanza type="verse" number="2">We thank Thee for the precious blood
+That purged our sins and brought us nigh;
+All cleansed and sanctified to God,
+Thy holy name to magnify.</stanza>
+    <stanza type="verse" number="3">Shut in with Thee far, far above
+The restless world that wars below;
+We seek to learn and prove Thy love,
+Thy wisdom and Thy grace to know.</stanza>
+    <stanza type="verse" number="4">The brow that once with thorns was bound
+Thy hands, Thy side, we fain would see;
+Draw near, Lord Jesus, glory crowned,
+And bless us while we wait on Thee.</stanza>
+  </lyrics>
+</hymn>

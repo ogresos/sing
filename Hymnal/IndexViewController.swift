@@ -11,12 +11,25 @@ import UIKit
 import UIKit
 import CoreData
 
-class IndexViewController: UICollectionViewController, UINavigationControllerDelegate, NSFetchedResultsControllerDelegate {
+class IndexViewController: UICollectionViewController, UINavigationControllerDelegate, NSFetchedResultsControllerDelegate, XMLParserDelegate {
     
     @IBOutlet weak var indexCollectionView: UICollectionView!
 
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
     var managedObjectContext: NSManagedObjectContext? = nil
+    var parser: XMLParser!
+    var posts = NSMutableArray()
+    var elements = NSMutableDictionary()
+    var element = String()
+    var hymn: NSManagedObject!
+    var hymnTitle = NSMutableString()
+    var hymnNumber = String()
+    var stanzaText = NSMutableString()
+    var stanzaNumber = String()
+    var stanzaType = String()
+    var stanzaOrder = 0
+    
+
     
     var hymns = [NSManagedObject]()
     var theHymn: NSManagedObject!
@@ -44,7 +57,8 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         }
         
         if (hymns.count == 0) {
-            resetToDefaultData()
+            //resetToDefaultData()
+            createHymnsFromXML()
         }
         
     }
@@ -53,7 +67,56 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         self.navigationController?.delegate = self;
     }
     
-    func createHymn(title: String, number: Int) -> NSManagedObject {
+    func createHymnsFromXML() {
+        let path = Bundle.main.path(forResource:"h0001", ofType: "xml")
+        let url = NSURL(fileURLWithPath: path!) as URL
+        self.parser = XMLParser(contentsOf:url)
+        self.parser.delegate = self
+        self.parser.parse()
+    }
+    
+    func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String])
+    {
+        element = elementName
+        if ((elementName as NSString).isEqual(to: "english")) {
+            hymnNumber = attributeDict["num"]!
+            stanzaOrder = 0 // Reset for each hymn
+            
+            // Now we have enough info to create the hymn object
+            hymn = createHymn(title: hymnTitle as String, number: hymnNumber)
+            print("Created hymn:", hymn)
+        }
+        if ((elementName as NSString).isEqual(to: "stanza")) {
+            stanzaNumber = attributeDict["number"]!
+            stanzaType = attributeDict["type"]!
+            stanzaOrder += 1
+        }
+
+    }
+    
+    func parser(_ parser: XMLParser, foundCharacters string: String)
+    {
+        if element.isEqual("title") {
+            hymnTitle.append(string)
+        } else if element.isEqual("stanza") {
+            stanzaText.append(string)
+        }
+    }
+    
+    func parser(_ parser: XMLParser, didEndElement elementName: String, namespaceURI: String?, qualifiedName qName: String?)
+    {
+        if (elementName as NSString).isEqual(to: "stanza") {
+            createStanza(order: stanzaOrder, number: stanzaNumber, type: stanzaType, text: stanzaText as String, hymn: hymn)
+        }
+//        if (elementName as NSString).isEqual(to: "hymn") {
+//            let hymn = createHymn(title: hymnTitle as String, number: hymnNumber)
+//            print("Created hymn:", hymn)
+//        }
+    }
+    
+    
+    
+    func createHymn(title: String, number: String) -> NSManagedObject {
         let managedContext = self.fetchedResultsController.managedObjectContext
         let entity =  NSEntityDescription.entity(forEntityName: "Hymn",
                                                  in:managedContext)
@@ -73,7 +136,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         return hymn
     }
     
-    func createStanza(order: Int, number: String, isChorus: Bool, text: String, hymn: NSManagedObject) {
+    func createStanza(order: Int, number: String, type: String, text: String, hymn: NSManagedObject) {
         
         let managedContext = self.fetchedResultsController.managedObjectContext
         let entity =  NSEntityDescription.entity(forEntityName: "Stanza",
@@ -83,7 +146,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
                                     insertInto: managedContext)
         stanza.setValue(order, forKey: "order")
         stanza.setValue(number, forKey: "number")
-        stanza.setValue(isChorus, forKey: "isChorus")
+        stanza.setValue(type, forKey: "type")
         stanza.setValue(text, forKey: "text")
         //print(hymn)
         stanza.setValue(hymn, forKey: "hymn")
@@ -97,60 +160,60 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         
     }
     
-    func resetToDefaultData() {
-        
-        // Repeat this sample data 100 times to create 600 hymns
-        for index in 0...100 {
-            
-            var i = index*7
-            if (i==0) {
-                i = 1
-            }
-            
-            let hymn1 = createHymn(title: "Glory be to God the Father", number: i)
-            createStanza(order:0, number:"1", isChorus:false, text:"Glory be to God the Father,\nAnd to Christ the Son,\nGlory to the Holy Spirit—\nEver One.", hymn: hymn1)
-            createStanza(order:1, number:"2", isChorus:false, text:"As we view the vast creation,\nPlanned with wondrous skill,\nSo our hearts would move to worship,\nAnd be still.", hymn: hymn1)
-            createStanza(order:2, number:"3", isChorus:false, text:"But, our God, how great Thy yearning\nTo have sons who love\nIn the Son e’en now to praise Thee,\nLove to prove!", hymn: hymn1)
-            createStanza(order:3, number:"4", isChorus:false, text:"’Twas Thy thought in revelation,\nTo present to men\nSecrets of Thine own affections,\nTheirs to win.", hymn: hymn1)
-            createStanza(order:4, number:"5", isChorus:false, text:"So in Christ, through His redemption\n(Vanquished evil powers!)\nThou hast brought, in new creation,\nWorshippers!", hymn: hymn1)
-            
-            
-            let hymn2 = createHymn(title: "Glory, glory, glory, praise and adoration", number: i+1)
-            createStanza(order:0, number:"1", isChorus:false, text:"Glory, glory, glory, praise and adoration!\nHear the anthems swelling out thro’ all eternity!\nFather, Son, and Spirit—God in revelation—\n  Prostrate each soul before the Deity!", hymn: hymn2)
-            createStanza(order:1, number:"2", isChorus:false, text:"Father, source of glory, naming every fam’ly;\nAnd the Son upholding all by His almighty power;\nHoly Spirit, filling the vast scene of glory—\n  O glorious Fulness, let our hearts adore!", hymn: hymn2)
-            createStanza(order:2, number:"3", isChorus:false, text:"God supreme, we worship now in holy splendour,\nHead of the vast scene of bliss, before Thy face we fall!\nMajesty and greatness, glory, praise and power\n  To Thee belong, eternal Source of all!", hymn: hymn2)
-            createStanza(order:3, number:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn2)
-            createStanza(order:4, number:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn2)
-            
-            let hymn3 = createHymn(title: "Come, Thou Almighty King", number: i+2)
-            createStanza(order:0, number:"1", isChorus:false, text:"Come, Thou Almighty King,\nHelp us Thy name to sing,\n  Help us to praise.\nFather, all glorious,\nO’er all victorious,\nCome, and reign over us,\n  Ancient of Days.", hymn: hymn3)
-            createStanza(order:1, number:"2", isChorus:false, text:"Come, Thou incarnate Word,\nGird on Thy mighty sword,\n  Our prayer attend:\nCome, and Thy people bless,\nAnd give Thy word success;\nSpirit of holiness,\n  On us descend.", hymn: hymn3)
-            createStanza(order:2, number:"3", isChorus:false, text:"Come, holy Comforter,\nThy sacred witness bear\n  In this glad hour:\nThou who Almighty art,\nNow rule in every heart,\nAnd ne’er from us depart,\n  Spirit of power.", hymn: hymn3)
-            createStanza(order:3, number:"4", isChorus:false, text:"To Thee, great One in Three,\nEternal praises be\n  Hence evermore.\nThy sov’reign majesty\nMay we in glory see,\nAnd to eternity\n  Love and adore.", hymn: hymn3)
-            
-            
-            let hymn4 = createHymn(title: "Father of heav’n, whose love profound", number: i+3)
-            createStanza(order:0, number:"1", isChorus:false, text:"Father of heav’n, whose love profound\nA ransom for our souls hath found,\nBefore Thy throne we sinners bend;\nTo us Thy pard’ning love extend.", hymn: hymn4)
-            createStanza(order:1, number:"2", isChorus:false, text:"Almighty Son, incarnate Word,\nOur Prophet, Priest, Redeemer, Lord,\nBefore Thy throne we sinners bend;\nTo us Thy saving grace extend.", hymn: hymn4)
-            createStanza(order:2, number:"3", isChorus:false, text:"Eternal Spirit, by whose breath\nThe soul is raised from sin and death,\nBefore Thy throne we sinners bend;\nTo us Thy quickening power extend.", hymn: hymn4)
-            createStanza(order:3, number:"4", isChorus:false, text:"Thrice holy—Father, Spirit, Son;\nMysterious Godhead, Three in One,\nBefore Thy throne we sinners bend;\nGrace, pardon, life to us extend.", hymn: hymn4)
-            
-            
-            let hymn5 = createHymn(title: "God, our Father, we adore Thee", number: i+4)
-            createStanza(order:0, number:"1", isChorus:false, text:"God, our Father, we adore Thee!\nWe, Thy children, bless Thy Name!\nChosen in the Christ before Thee,\nWe are “holy without blame.”\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!", hymn: hymn5)
-            createStanza(order:1, number:"2", isChorus:false, text:"Son Eternal, we adore Thee!\nLamb upon the throne on high!\nLamb of God, we bow before Thee,\nThou hast brought Thy people nigh!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!", hymn: hymn5)
-            createStanza(order:2, number:"3", isChorus:false, text:"Father, Son and Holy Spirit—\nThree in One! we give Thee praise!\nFor the riches we inherit,\nHeart and voice to Thee we raise!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!", hymn: hymn5)
-            
-            let hymn6 = createHymn(title: "My hope is built on nothing less", number: i+5)
-            createStanza(order:0, number:"1", isChorus:false, text:"My hope is built on nothing less\nThan Jesus Christ, my righteousness;\nI dare not trust the sweetest frame,\nBut wholly lean on Jesus’ name.", hymn: hymn6)
-            createStanza(order:1, number:"", isChorus:true, text:"On Christ, the solid Rock, I stand;\nAll other ground is sinking sand,\nAll other ground is sinking sand.", hymn: hymn6)
-            createStanza(order:2, number:"2", isChorus:false, text:"When darkness veils His lovely face,\nI rest on His unchanging grace;\nIn every high and stormy gale,\nMy anchor holds within the veil.", hymn: hymn6)
-            createStanza(order:3, number:"3", isChorus:false, text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn6)
-            createStanza(order:4, number:"4", isChorus:false, text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn6)
-            
-        }
-        print("HYMNS COUNT", hymns.count)
-    }
+//    func resetToDefaultData() {
+//        
+//        // Repeat this sample data 100 times to create 600 hymns
+//        for index in 0...100 {
+//            
+//            var i = index*7
+//            if (i==0) {
+//                i = 1
+//            }
+//            
+//            let hymn1 = createHymn(title: "Glory be to God the Father", number: i)
+//            createStanza(order:0, number:"1", type:"verse", text:"Glory be to God the Father,\nAnd to Christ the Son,\nGlory to the Holy Spirit—\nEver One.", hymn: hymn1)
+//            createStanza(order:1, number:"2", type:"verse", text:"As we view the vast creation,\nPlanned with wondrous skill,\nSo our hearts would move to worship,\nAnd be still.", hymn: hymn1)
+//            createStanza(order:2, number:"3", type:"verse", text:"But, our God, how great Thy yearning\nTo have sons who love\nIn the Son e’en now to praise Thee,\nLove to prove!", hymn: hymn1)
+//            createStanza(order:3, number:"4", type:"verse", text:"’Twas Thy thought in revelation,\nTo present to men\nSecrets of Thine own affections,\nTheirs to win.", hymn: hymn1)
+//            createStanza(order:4, number:"5", type:"verse", text:"So in Christ, through His redemption\n(Vanquished evil powers!)\nThou hast brought, in new creation,\nWorshippers!", hymn: hymn1)
+//            
+//            
+//            let hymn2 = createHymn(title: "Glory, glory, glory, praise and adoration", number: i+1)
+//            createStanza(order:0, number:"1", type:"verse", text:"Glory, glory, glory, praise and adoration!\nHear the anthems swelling out thro’ all eternity!\nFather, Son, and Spirit—God in revelation—\n  Prostrate each soul before the Deity!", hymn: hymn2)
+//            createStanza(order:1, number:"2", type:"verse", text:"Father, source of glory, naming every fam’ly;\nAnd the Son upholding all by His almighty power;\nHoly Spirit, filling the vast scene of glory—\n  O glorious Fulness, let our hearts adore!", hymn: hymn2)
+//            createStanza(order:2, number:"3", type:"verse", text:"God supreme, we worship now in holy splendour,\nHead of the vast scene of bliss, before Thy face we fall!\nMajesty and greatness, glory, praise and power\n  To Thee belong, eternal Source of all!", hymn: hymn2)
+//            createStanza(order:3, number:"3", type:"verse", text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn2)
+//            createStanza(order:4, number:"4", type:"verse", text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn2)
+//            
+//            let hymn3 = createHymn(title: "Come, Thou Almighty King", number: i+2)
+//            createStanza(order:0, number:"1", type:"verse", text:"Come, Thou Almighty King,\nHelp us Thy name to sing,\n  Help us to praise.\nFather, all glorious,\nO’er all victorious,\nCome, and reign over us,\n  Ancient of Days.", hymn: hymn3)
+//            createStanza(order:1, number:"2", type:"verse", text:"Come, Thou incarnate Word,\nGird on Thy mighty sword,\n  Our prayer attend:\nCome, and Thy people bless,\nAnd give Thy word success;\nSpirit of holiness,\n  On us descend.", hymn: hymn3)
+//            createStanza(order:2, number:"3", type:"verse", text:"Come, holy Comforter,\nThy sacred witness bear\n  In this glad hour:\nThou who Almighty art,\nNow rule in every heart,\nAnd ne’er from us depart,\n  Spirit of power.", hymn: hymn3)
+//            createStanza(order:3, number:"4", type:"verse", text:"To Thee, great One in Three,\nEternal praises be\n  Hence evermore.\nThy sov’reign majesty\nMay we in glory see,\nAnd to eternity\n  Love and adore.", hymn: hymn3)
+//            
+//            
+//            let hymn4 = createHymn(title: "Father of heav’n, whose love profound", number: i+3)
+//            createStanza(order:0, number:"1", type:"verse", text:"Father of heav’n, whose love profound\nA ransom for our souls hath found,\nBefore Thy throne we sinners bend;\nTo us Thy pard’ning love extend.", hymn: hymn4)
+//            createStanza(order:1, number:"2", type:"verse", text:"Almighty Son, incarnate Word,\nOur Prophet, Priest, Redeemer, Lord,\nBefore Thy throne we sinners bend;\nTo us Thy saving grace extend.", hymn: hymn4)
+//            createStanza(order:2, number:"3", type:"verse", text:"Eternal Spirit, by whose breath\nThe soul is raised from sin and death,\nBefore Thy throne we sinners bend;\nTo us Thy quickening power extend.", hymn: hymn4)
+//            createStanza(order:3, number:"4", type:"verse", text:"Thrice holy—Father, Spirit, Son;\nMysterious Godhead, Three in One,\nBefore Thy throne we sinners bend;\nGrace, pardon, life to us extend.", hymn: hymn4)
+//            
+//            
+//            let hymn5 = createHymn(title: "God, our Father, we adore Thee", number: i+4)
+//            createStanza(order:0, number:"1", type:"verse", text:"God, our Father, we adore Thee!\nWe, Thy children, bless Thy Name!\nChosen in the Christ before Thee,\nWe are “holy without blame.”\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!\nWe adore Thee! we adore Thee!\nAbba’s praises we proclaim!", hymn: hymn5)
+//            createStanza(order:1, number:"2", type:"verse", text:"Son Eternal, we adore Thee!\nLamb upon the throne on high!\nLamb of God, we bow before Thee,\nThou hast brought Thy people nigh!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!\nWe adore Thee! we adore Thee!\nSon of God, Who came to die!", hymn: hymn5)
+//            createStanza(order:2, number:"3", type:"verse", text:"Father, Son and Holy Spirit—\nThree in One! we give Thee praise!\nFor the riches we inherit,\nHeart and voice to Thee we raise!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!\nWe adore Thee! we adore Thee!\nThee we bless, through endless days!", hymn: hymn5)
+//            
+//            let hymn6 = createHymn(title: "My hope is built on nothing less", number: i+5)
+//            createStanza(order:0, number:"1", type:"verse", text:"My hope is built on nothing less\nThan Jesus Christ, my righteousness;\nI dare not trust the sweetest frame,\nBut wholly lean on Jesus’ name.", hymn: hymn6)
+//            createStanza(order:1, number:"", type:"chorus", text:"On Christ, the solid Rock, I stand;\nAll other ground is sinking sand,\nAll other ground is sinking sand.", hymn: hymn6)
+//            createStanza(order:2, number:"2", type:"verse", text:"When darkness veils His lovely face,\nI rest on His unchanging grace;\nIn every high and stormy gale,\nMy anchor holds within the veil.", hymn: hymn6)
+//            createStanza(order:3, number:"3", type:"verse", text:"His oath, His covenant, His blood,\nSupport me in the whelming flood;\nWhen all around my soul gives way,\nHe then is all my hope and stay.", hymn: hymn6)
+//            createStanza(order:4, number:"4", type:"verse", text:"When He shall come with trumpet sound,\nOh, may I then in Him be found;\nIn Him, my righteousness, alone,\nFaultless to stand before the throne.", hymn: hymn6)
+//            
+//        }
+//        print("HYMNS COUNT", hymns.count)
+//    }
     
     
     

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O hope of glory, our Christ will return</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Salvation to the Uttermost</category>
+  <numbers><cebuano num="966"/><chinese num="766"/><english num="966"/><french num="186"/><german num="966"/><korean num="766"/><portuguese num="487"/><russian num="158"/><spanish num="442"/><tagalog num="966"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1856-1932" biolink="">Charles Hutchinson Gabriel</composer>
+  </creators>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>51765435133213272165</hymncode>
+  <key>Ab Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - F/C - - | C - - - - - | Dm - - G7 - - | C - - C/E - - | G/D - - D7 - - | G - - G/B - - | D - - - - - | D7 - - G7 - - | C - - - - - | C - - G7 - - | Dm - - Dm/C - - | G7/B - - C - - | C - - C/E - - | F - - E - - | F - - C/E - F | C/G - G7 C - - |</chords>
+  <guitarChords>| C - - F - - | C - - - - - | G - - G7 - - | C - - - - - | G - - D7 - - | G - - - - - | D7 - - - - - | D7 - - G7 - - | C - - - - - | C - - G7 - - | G7 - - - - - | G7 - - C - - | C - - - - - | F - - E7 - - | F - - C - - | G - G7 C - - |</guitarChords>
+  <melody>| 5 ._1 7 6 5 4 | 3 5 ._1 ._3 - - | ._3 ._2 ._1# ._3 ._2 7 | ._2 ._1 6 5 - - (break) | 5 4# 5 6 7 ._1 | 7 7 ._1 ._2 - - | ._2 ._4# ._3 ._2 ._1 7 | ._1 7 6 (.5 - - (break) | (Chorus) ._3 ._3 ._3 ._3 - - | ._3 ._2 ._3 ._4 - - | ._4 ._4 ._4 ._4 - - | ._4 ._5 ._2 ._3 - - (break) | ._5 ._3 ._2 ._1 ._2 ._3  | ._4 6 ._1 ._3 - - | ._2 ._1 6 5 ._5 (.._4 | ._3 5 ._2 ._1 - - |</melody>
+  <layout>
+	<singingstanza>O hope of glo -- ry, our Christ will re -- turn! We will be rap -- tured, with glo -- ry trans -- formed; Glo -- ri -- fied with Him, Him -- self to en -- joy, In His full like -- ness we then will be formed. Glo -- ri -- ous hope! Christ will re -- turn! Glo -- ri -- ous hope! Christ will re -- turn! We will be rap -- tured, with glo -- ry trans -- formed; O hope of glo -- ry, our Christ will re -- turn!</singingstanza>
+  </layout>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0966.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="46">e0966_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O hope of glory, our Christ will return!
+  We will be raptured, with glory transformed;
+Glorified with Him, Himself to enjoy,
+  In His full likeness we then will be formed.</stanza>
+	<stanza type="chorus" number="">Glorious hope! Christ will return!
+Glorious hope! Christ will return!
+We will be raptured, with glory transformed;
+  O hope of glory, our Christ will return!</stanza>
+	<stanza type="verse" number="2">O hope of glory, our Christ will return!
+  The old creation will vanish away,
+No more we'll groan, but have full liberty.
+  Enjoy salvation in its utmost way.</stanza>
+	<stanza type="verse" number="3">O hope of glory, our Christ will return!
+  Over the nations with Him we will reign,
+Priests we will be in His presence to serve,
+  Thus His salvation in fulness we'll gain.</stanza>
+	<stanza type="verse" number="4">O hope of glory, our Christ will return!
+  Waiting and watching, we faithfully serve,
+Running the race, pressing on toward the goal
+  That we the Kingdom's reward might deserve.</stanza>
+  </lyrics>
+</hymn>

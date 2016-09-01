@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O, Jesus, Lord, 'tis joy to know</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Exaltation</category>
+  <numbers><chinese num="116"/><english num="131"/><korean num="116"/><tagalog num="131"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>8.8.6.8.8.6.</meter>
+  <hymncode>1333234536665432</hymncode>
+  <key>Eb Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - F/C - | C - - - G - | C - - - C/E - | F - - - C - | G - - - - - | G/D - - - D7 - | G - - - G/F - | C/E - - - F - | G - - - - - | Am - - - F - | C/E - - - Am - | Dm/F - C/G - G7 - | C - - - 0 - |</chords>
+  <melody>| 0 - - - 1 - | 3. 3/ 3 2 3 4 | 5 - - - 3 - | 6. 6/ 6 5 4 3 | 2 - - - 5 - | 7 6 5 - 4# - | 5 - - - 5 - (break) | ._1 5 5 3 4 6 | 5 - - - 5 - | ._1 5 5 3 4 6 | 5 - - - 1 - | 2 4 3 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+    <singingstanza>O, Je -- sus, Lord, 'tis joy to know Thy path is o'er of shame and woe, By Thee so meek -- ly trod. All fi -- nished is Thy work of toil, Thou reap -- est now the fruit and spoil, Ex -- alt -- ed by our God.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj147.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="27">e0131_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O, Jesus, Lord, 'tis joy to know
+Thy path is o'er of shame and woe,
+  By Thee so meekly trod.
+All finished is Thy work of toil,
+Thou reapest now the fruit and spoil,
+  Exalted by our God.</stanza>
+    <stanza type="verse" number="2">Thy holy head, once bound with thorns,
+The crown of glory now adorns;
+  Thy seat, the Father's throne.
+O Lord, e'en now we sing Thy praise,
+Ours the eternal song to raise,
+  Worthy the Lord alone!</stanza>
+    <stanza type="verse" number="3">We triumph in Thy triumphs, Lord,
+Thy joys our deepest joys afford,
+  The fruit of love divine.
+While sorrowing, suff'ring, toiling here,
+How does the thought our spirits cheer,
+  The throne of glory's Thine!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be not anxious for the morrow</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Care</category>
+  <numbers><english num="700"/><tagalog num="700"/></numbers>
+  <creators>
+    <author biodate="" biolink="">J. H. S.</author>
+    <composer biodate="1842-1900" biolink="">Arthur Seymour Sullivan</composer>
+  </creators>
+  <meter>8.3.8.3.8.7.</meter>
+  <hymncode>333432125123</hymncode>
+  <key>E Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G/B. G. | C/E. G. | C - - | C - - | G/B. G. | G/D. D7. | G - - | C - - | G/B. C. | F. G7. | C - - | C/G. G7. | C - - |</chords>
+  <melody>| 3 3/ 3/( 4/) 3/ | 2 1#/ 2 5_./ | 1. 2. | 3.( 3.) (break) | 3 3/ 3/( 4/) 3/ | 2 2/ 5 2/ | 7_.. 1( 6_./) | 5_..( 5_..) (break) | 5 6/ 5 3/ | 5 6/ 5 3/ | 6. 7. | ._1. 5. | 3.( 3) 2/ | 1 - - |</melody>
+  <layout>
+    <singingstanza>"Be not an -- xious for the mor -- row, Je -- sus said; Why should we its tri -- als bor -- row? Trust in -- stead! For each hour of need or sor -- row, Grace He gives, and dai -- ly bread.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj020.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="25">e0700.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Be not anxious for the morrow,
+    Jesus said;
+Why should we its trials borrow?
+    Trust instead!
+For each hour of need or sorrow,
+  Grace He gives, and daily bread.</stanza>
+    <stanza type="verse" number="2">Thus our treasures safe investing
+    In His care,
+Kept in His pavilion resting,
+    May we dare
+Still to trust, thru faith's deep testing,
+  Sure, God will His ways declare.</stanza>
+  </lyrics>
+</hymn>

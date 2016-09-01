@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>How faithful and trustworthy too</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Faithfulness</category>
+  <numbers><cebuano num="18"/><chinese num="14"/><english num="18"/><german num="18"/><korean num="14"/><portuguese num="16"/><russian num="193"/><spanish num="12"/><tagalog num="18"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1847-1903" biolink="">Samuel Augustus Ward</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>55335522345675</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | Dm7 - G7 - | C - G7 - | C - - - | G - - - | D7 - - - | G7 - - - | C - - - | Dm7 - - - | G - G7 - | C - C7 - | F - - - | C/E - Am - | F - G7 - | C F C - |</chords>
+<guitarChords>| C - - - | C - - - | G - - - | G - G7 - | C - - - | C - - - | G - - - | D7 - - - | G7 - - - | C - - - | G - - - | G - G7 - | C - C7 - | F - - - | C - - - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5 | 5. 3/ 3 5 | 5. 2/ 2 3 | 4 5 6 7 | 5 - - 5 (break) | 5. 3/ 3 5 | 5. 2/ 2 ._2 | ._1# ._2 ._3 6 (break) | ._2 - - (Chorus) 5 | ._3. ._3/ ._2 ._1 | ._1. 7/ 7 ._1 | ._2 7 6 5 | ._1 - - ._1 (break) | ._1. 6/ 6 ._1 | ._1. 5/ 5 5 | 6 ._1 5 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>How faith -- ful and trust -- wor -- thy too, My Fa -- ther God, art Thou; The un -- i -- verse and all there -- in Thy faith -- ful -- ness a -- vow. How sted -- fast is Thy faith -- ful -- ness! For this I wor -- ship Thee; It is es -- ta -- blished in the heav'n, And ev -- er stands for me.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj232.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0018.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="37">e0018_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">How faithful and trustworthy too,
+  My Father God, art Thou;
+The universe and all therein
+  Thy faithfulness avow.</stanza>
+	<stanza type="chorus" number="">How stedfast is Thy faithfulness!
+  For this I worship Thee;
+It is established in the heav'n,
+    And ever stands for me.</stanza>
+	<stanza type="verse" number="2">No turning shadow could there be,
+  Nor any change with Thee;
+As Thou hast been, and now Thou art,
+  Forever Thou wilt be.</stanza>
+	<stanza type="verse" number="3">Thy word, as certain as Thyself,
+  Can never pass away;
+Though heav'n and earth shall disappear,
+  Thy word abides for aye.</stanza>
+	<stanza type="verse" number="4">Thy gifts without repentance are,
+  Thy calling is the same;
+Thy grace forever lasting is,
+  Thy mercy as Thy name.</stanza>
+	<stanza type="verse" number="5">Thy word with Thine own faithfulness
+  A surety is to me;
+By it, with Thy salvation true,
+  I have the certainty.</stanza>
+	<stanza type="verse" number="6">If, due to self, I trust Thee not,
+  Yet Thou art faithful still;
+Thou never canst deny Thyself,
+  Thy word Thou shalt fulfill.</stanza>
+	<stanza type="verse" number="7">As Thou art faithful to perform
+  Thy promise and Thy call;
+So, feeding on Thy faithfulness,
+  I take Thyself withal.</stanza>
+	<stanza type="verse" number="8">The rainbow round about Thy throne
+  Thy faithfulness declares;
+This attribute forevermore
+  The holy city bears.</stanza>
+  </lyrics>
+</hymn>

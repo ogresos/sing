@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, we treasure with affection</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Suffering</category>
+  <numbers><cebuano num="93"/><chinese num="87"/><english num="93"/><korean num="87"/><russian num="399"/><tagalog num="93"/></numbers>
+  <creators>
+    <author biodate="" biolink="">M. W. Biggs</author>
+    <author biodate="1905-1997" biolink="">Chorus by Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Lord, we trea -- sure with af -- fec -- tion All Thy path of sor -- row here, And those clos -- ing scenes of an -- guish To our hearts Thy -- self en -- dear. Praise Thee, Sav -- ior! Praise Thee, Sav -- ior! Praise Thee, Lord, for sin -- ners slain! Give Thee glo -- ry! Give Thee glo -- ry! Give Thee glo -- ry for the life we gain!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj159.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, we treasure with affection
+All Thy path of sorrow here,
+And those closing scenes of anguish
+To our hearts Thyself endear.</stanza>
+    <stanza type="chorus" number="">Praise Thee, Savior! Praise Thee, Savior!
+Praise Thee, Lord, for sinners slain!
+Give Thee glory! Give Thee glory!
+  Give Thee glory for the life we gain!</stanza>
+    <stanza type="verse" number="2">Deep Thy sorrow then, Lord Jesus,
+Deeper far than thought can reach;
+Grief intense and suff'rings holy,
+Far beyond all tongues to teach.</stanza>
+    <stanza type="verse" number="3">None could follow there, blest Savior,
+When redemption's work was done;
+For those suff'rings, deep, unfathomed,
+Were, Lord Jesus, Thine alone!</stanza>
+    <stanza type="verse" number="4">Thou didst measure then sin's distance,
+Darkness, wrath and curse were Thine;
+Man-betrayed, by God forsaken;
+Thus we learn Thy love divine!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, how long before my Lord comes back</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Longing and Praying</category>
+  <numbers><cebuano num="962"/><chinese num="759"/><english num="962"/><german num="962"/><korean num="759"/><portuguese num="485"/><russian num="293"/><spanish num="440"/><tagalog num="962"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>51321716532122432</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F - | C - - - | Dm - - - | G - G7 - | C - F - | Em - Am - | F - G7 - | C - - - | F - - - | C - Am - | G - - - | C - C7 - | F - - - | C - Am - | Dm - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - F - | C - - - | G - - - | G - G7 - | C - F - | C - - - | F - G7 - | C F C - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5_../ 1// | 3. 2/ 1./ 7_.// 1/ 6_./ | 5_. - - 3 | 2. 1#/ 2/ 2/ 4/ 3/ (break) | 2 - - 5_../ 1// | 3. 2/ 1./ 7_.// 1/ 6_./ | 5_. - - 1/ 7_./ | 6_. 2/ 1/ 7_. 3/ 2/ (break) | 1 - - 0/ 5_./ | 6_. 1 4. 6_./ | 5_. 1 3. 1/ (break) | 7_../ 6_.// 7_./ 1/ 2/ 2/ 4/ 4/ | 3( - 1.) 5_./ | 6_. 1 4. 6_./ (break) | 5_. 1 3. 1/ | 7_.. 1/ 3/ 2/ 2/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Oh, how long be -- fore my Lord comes back, My heart de -- sires to see Thy face, That the song of tri -- umph I may sing And be -- hold my Be -- loved, full of grace. Come quick -- ly, Lord, and tar -- ry not! Oh, when wilt Thou re -- turn to com -- fort me; Come quick -- ly, Lord, and tar -- ry not! My heart de -- sires to be with Thee.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj113.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0962.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="52">e0962_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh, how long before my Lord comes back,
+  My heart desires to see Thy face,
+That the song of triumph I may sing
+  And behold my Beloved, full of grace.
+Come quickly, Lord, and tarry not!
+  Oh, when wilt Thou return to comfort me;
+Come quickly, Lord, and tarry not!
+  My heart desires to be with Thee.</stanza>
+  </lyrics>
+</hymn>

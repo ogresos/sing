@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus is the living Spirit</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Spirit</category>
+  <numbers><cebuano num="1142"/><dutch num="39"/><english num="1142"/><german num="1142"/><korean num="815"/><portuguese num="231"/><russian num="517"/><spanish num="208"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <layout>
+	<singingstanza>Je -- sus is the liv -- ing Spir -- it, Our re -- al -- i -- ty; We en -- joy Him just by call -- ing In sim -- pli -- ci -- ty. Je -- sus is the liv -- ing Spir -- it, We must now pro -- claim; He is rich un -- to all men That call up -- on His name.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj061.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus is the living Spirit,
+  Our reality;
+We enjoy Him just by calling
+  In simplicity.</stanza>
+	<stanza type="chorus" number="">Jesus is the living Spirit,
+We must now proclaim;
+He is rich unto all men
+  That call upon His name.</stanza>
+	<stanza type="verse" number="2">He is living now within us,
+  Giving liberty;
+He is good and He is gracious
+  As we taste and see.</stanza>
+	<stanza type="verse" number="3">Jesus is the living Spirit
+  And the living Word;
+When we touch Him by pray-reading
+  We receive this Lord.</stanza>
+	<stanza type="verse" number="4">Jesus is the living Spirit
+  Who among us flows;
+Fellowship of life in spirit
+  Unity bestows.</stanza>
+	<stanza type="verse" number="5">Jesus is the living Spirit,
+  He is our rich feast;
+As the Body now enjoys Him,
+  Praises are released.</stanza>
+  </lyrics>
+</hymn>

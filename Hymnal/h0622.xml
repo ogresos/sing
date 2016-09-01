@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If we take up the cross, will we but suffer pain</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Meaning of the Cross</category>
+  <numbers><cebuano num="622"/><chinese num="461"/><english num="622"/><german num="622"/><korean num="461"/><portuguese num="319"/><russian num="371"/><spanish num="294"/><tagalog num="622"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1844-1927" biolink="">Frederick Charles Maker</composer>
+  </creators>
+  <meter>12.12.12.12.</meter>
+  <hymncode>333322344323</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G7 - - - | C - - - | F - - - | C/E - - G7/D | C - D7 - | G - - - | C - - G/B | C - - G7/D | C/E - C - | F - - - | G - F - | C/E - F - | C/G - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | F - - - | G7 - - - | C - - - | F - - - | C - - - | C - - - | G - - - | C - - - | C - - - | C - - - | F - - - | G - - - | C - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 3 - 3 3 | 3. 2/ 2 3 | 4 4 3 2 | 3 - - - (break) | 6 - 6 6 | 6. 5/ 5 4 | 3 3 2 1 | 2 - - - (break) | 1 - 1 2 | 3. 3/ 3 4 | 5 5 4 3 | 6 - - - (break) | 7 - 6 5 | ._1. 1/ 1 2 | 3 3 4 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>If we take up the cross, will we but suf -- fer pain? Nay, if we bear the cross, be sure that we will die! The mean -- ing of the cross is that we may be slain; The cross ex -- pe -- ri -- enced the self will cru -- ci -- fy.</singingstanza>
+  </layout>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0622.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="28">e0622_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">If we take up the cross, will we but suffer pain?
+Nay, if we bear the cross, be sure that we will die!
+The meaning of the cross is that we may be slain;
+The cross experienced the self will crucify.</stanza>
+	<stanza type="verse" number="2">Divine deliverance e'er slays man by the cross;
+Though cruel it may seem, it is a grand release.
+Christ ne'er will be our life if we escape the cross;
+Christ ne'er will be expressed but by our sure decease.</stanza>
+	<stanza type="verse" number="3">The cross's final goal, that God's will be fulfilled;
+His will's arch enemy is but the self of man.
+If self be done away and all the soul-life killed,
+God's will shall then prevail and prospered be His plan.</stanza>
+  </lyrics>
+</hymn>

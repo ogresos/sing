@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ is made the sure foundation</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Foundation</category>
+  <numbers><english num="836"/><portuguese num="380"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anon., v. 1</author>
+    <author biodate="" biolink="">Latin 7th ct.</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <layout>
+    <singingstanza>Christ is made the sure foun -- da -- tion, Christ the head and cor -- ner -- stone, Chos -- en of the Lord and pre -- cious, Bind -- ing all the Church in one; Ho -- ly Zi -- on's help for -- ev -- er, And her con -- fi -- dence a -- lone.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj205.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ is made the sure foundation,
+  Christ the head and cornerstone,
+Chosen of the Lord and precious,
+  Binding all the Church in one;
+Holy Zion's help forever,
+  And her confidence alone.</stanza>
+    <stanza type="verse" number="2">Founded on the Lord victorious,
+  Christ the everlasting Rock,
+Stands the Church in heav'nly places,
+  Dreading not the storm or shock;
+Built with life divine she ever
+  Stands against attack and mock.</stanza>
+    <stanza type="verse" number="3">Though the gates of hades frustrate,
+  Yet the Church still stands for God,
+Overcoming evil spirits
+  By her Lord's victorious blood;
+And at Christ's return in triumph
+  All her foes will then be trod.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gazing on the Lord in glory</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <numbers><cebuano num="136"/><chinese num="122"/><english num="136"/><korean num="122"/><tagalog num="136"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Miss C. Thompson</author>
+    <composer biodate="" biolink="">J. C. Bitthauer</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>111171322222123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F/C - - - | G/B - G7 - | C - - - | C - C7 - | F - A/E - | Dm - G7 - | C - - - |</chords>
+  <melody>| 1. 1/ 1/ 1/ 7_./ 1/ | 3 - 2 - | 2. 2/ 2/ 2/ 1/ 2/ | 3 - - - (break) | 3. 3/ 3/ 3/ 2/ 1/ | 6 - 5 - | 5/ 3/ 5/ 4/ 6_. 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Gaz -- ing on the Lord in glo -- ry, While our hearts in wor -- ship bow, There we read the won -- drous sto -- ry Of the cross&amp;mdash; its shame and woe.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="23">e0136_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gazing on the Lord in glory,
+  While our hearts in worship bow,
+There we read the wondrous story
+  Of the cross&amp;mdash;its shame and woe.</stanza>
+    <stanza type="verse" number="2">Every mark of dark dishonor
+  Heaped upon the thorn-crowned brow
+All the depths of Thy heart's sorrow
+  Told in answ'ring glory now.</stanza>
+    <stanza type="verse" number="3">On that cross, alone, forsaken,
+  Where no pity'ng eye was found;
+Now, to God's right hand exalted,
+  With Thy praise the heavens resound.</stanza>
+    <stanza type="verse" number="4">Did Thy God e'en then forsake Thee,
+  Hide His face from Thy deep need?
+In Thy face once marred and smitten,
+  All His glory now we read.</stanza>
+    <stanza type="verse" number="5">Gazing on it we adore Thee,
+  Blessed, precious, holy Lord;
+Thou the Lamb, alone art worthy&amp;mdash;
+  This be earth's and heaven's accord.</stanza>
+    <stanza type="verse" number="6">Rise our hearts, and bless the Father,
+  Ceaseless song e'en here begun,
+Endless praise and adoration
+  To the Father and the Son.</stanza>
+  </lyrics>
+</hymn>

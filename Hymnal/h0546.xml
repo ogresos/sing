@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love my Lord, but with no love of mine</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <numbers><cebuano num="546"/><chinese num="ts:333"/><english num="546"/><french num="98"/><german num="546"/><lsmyp num="198"/><portuguese num="271"/><russian num="521"/><spanish num="255"/><tagalog num="546"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+	<composer biodate="" biolink="">E. Burgess</composer>
+  </creators>
+  <meter>10.6.10.6.10.10.</meter>
+  <hymncode>5543531615355443</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - C/E - | F - - - | C - - - | G/B - G7 - | C - - - | C/E - G7/D - | C - C/E - | F - - - | C/E - - F | C/G - G7 - | C - C7 - | F - - - | C - - - | F - - - | C - C/E - | F - - - | C/E - F - | C/G - G7 - | C - - - |</chords>
+<guitarChords>| C - - - | C - - - | F - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | F - - - | C - - - | F - - - | C - F - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - 3 | 5 5 4 4 | 3 - - - (break) | 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - ._1 | ._1 ._1 7 7 | ._1 - - - (break) | ._4 - ._1 ._2 | ._3 - 5 - | 6 ._1 7 6 | 5 - - - (break) | 6 - 7 ._1 | ._3 5 6 ._2 | ._1 - 7 - | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>I love my Lord, but with no love of mine, For I have none to give; I love Thee, Lord, but all the love is Thine, For by Thy love I live. I am as noth -- ing, and re -- joice to be Emp -- tied, and lost, and swal -- lowed up in Thee.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj070.xml</link>
+  </links>
+  <videos>
+	<video title="" url=""/>
+  </videos>
+  <music>
+	<midi location="h" length="38">e0546_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">I love my Lord, but with no love of mine,
+    For I have none to give;
+I love Thee, Lord, but all the love is Thine,
+    For by Thy love I live.
+I am as nothing, and rejoice to be
+Emptied, and lost, and swallowed up in Thee.</stanza>
+	<stanza type="verse" number="2">Thou, Lord, alone, art all Thy children need,
+    And there is none beside;
+From Thee the streams of blessedness proceed,
+    In Thee the bless'd abide.
+Fountain of life, and all-abounding grace,
+Our source, our center, and our dwelling-place.</stanza>
+  </lyrics>
+</hymn>

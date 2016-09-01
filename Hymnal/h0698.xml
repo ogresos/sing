@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amid the trials that I meet</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Care</category>
+  <numbers><cebuano num="698"/><chinese num="496"/><english num="698"/><german num="698"/><korean num="496"/><russian num="473"/><tagalog num="698"/></numbers>
+  <creators>
+	<author biodate="" biolink="">E. D. Mund</author>
+	<composer biodate="1854-1942" biolink="">Edmund Simon Lorenz</composer>
+  </creators>
+  <meter>8.8.8.6. with chorus.</meter>
+  <hymncode>553312177554423211</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Dm - - | G7 - - | C - G/D | C/E - C7 | F - Dm | C/G - G7 | C - - | C - - | G - - | G7 - - | C - - | C - C7 | F - Dm | C/G - G7 | C - - |</chords>
+  <guitarChords>| C - - | C - - | G - - | G7 - - | C - - | C - C7 | F - - | C G - | C - - | C - - | G - - | G7 - - | C - - | C - C7 | F - - | C G G7 | C - - |</guitarChords>
+  <melody>| 0 - 5_. | 5_./ 3/ 3 1/( 2/) | 1/ 7_./ 7_. 5_. | 5_./ 4/ 4 2/( 3/) (break) | 2/ 1/ 1 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 (break) | 1 - (Chorus) 5 | 5/ 3/ 5 6 | 2 - 4 | 4/ 2/ 4 5 (break) | 3 - 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>A -- mid the tri -- als that I meet, A -- mid the thorns that pierce my feet, One thought re -- mains su -- preme -- ly sweet&amp;mdash; Thou think -- est, Lord, of me! Thou think -- est, Lord, of me! Thou think -- est, Lord, of me! What need I fear when Thou art near, And think -- est, Lord, of me!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj020.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="32">e0698_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amid the trials that I meet,
+Amid the thorns that pierce my feet,
+One thought remains supremely sweet&amp;mdash;
+  Thou thinkest, Lord, of me!</stanza>
+	<stanza type="chorus" number="">Thou thinkest, Lord, of me!
+  Thou thinkest, Lord, of me!
+What need I fear when Thou art near,
+    And thinkest, Lord, of me!</stanza>
+	<stanza type="verse" number="2">The cares of life come thronging fast,
+Upon my soul their shadows cast;
+Their gloom reminds my heart at last
+  Thou thinkest, Lord, of me!</stanza>
+	<stanza type="verse" number="3">Let shadows come, let shadows go,
+Let life be bright, or dark with woe,
+I am content, for this I know
+  Thou thinkest, Lord, of me!</stanza>
+  </lyrics>
+</hymn>

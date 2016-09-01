@@ -19,7 +19,7 @@ class IndexCollectionViewCell: UICollectionViewCell {
     func initWith(theHymn:NSManagedObject) {
         hymn = theHymn
         hymnTitleLabel.text = hymn.value(forKey: "title") as? String
-        hymnNumberLabel.text = String(hymn.value(forKey: "number") as! Int)
+        hymnNumberLabel.text = hymn.value(forKey: "number") as? String
     }
     
     

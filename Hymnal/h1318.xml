@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Camel Train</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;The Wedding Day</category>
+  <numbers><chinese num="ts:915"/><english num="1318"/><korean num="1011"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Hansel P. Vibbert</author>
+  </creators>
+  <melody>| 0 - - 5_./ 5_./ | 1/ 1/ 1/ 1/ 1/ 5_./ 5_./ 5_./ | 6_./ 6_./ 6_./ 6_./ 6_. 6_./ 6_./ | 7_./ 7_./ 7_./ 7_./ 7_./ 5_./ 6_./ 6b_./ (break) | 5_. - - 5_./ 5_./ | 1/ 1/ 1/ 1/ 1/ 5_./ 5_./ 5_./ | 6_./ 6_./ 6_./ 6_./ 6_. 6_./ 6_./ | 7_./ 7_./ 7_./ 7_./ 7_./ 5_./ 6_./ 7_./ | 1 - - 0 (break) | (Chorus) 3. 5/ 3/( 2/) 1 | 2/ 6_./ 6_./ 6_./ 6_. - | 7_./ 7_./ 7_./ 7_./ 7_./ 5_./ 6_./ 6b_./ (break) | 5_. - - 5_. | 1/ 1/ 1/ 1/ 1/ 5_./ 5_./ 5_./ | 6_./ 6_./ 6_./ 6_./ 6_. 6_./ 6_./ | 7_./ 7_./ 7_./ 7_./ 7_./ 5_./ 6_./ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>'Twas a day in ear -- ly spring -- time, By an an -- cient way -- side well, E -- li -- e -- zer paused to rest his cam -- el train. He had found a bride for I -- saac Ere the eve -- ning sha -- dows fell, For his wea -- ry jour -- ney had not been in vain. Oh, get rea -- dy! Eve -- ning sha -- dows fall. Don't you hear the E -- li -- e -- zer call? There's going to be a wed -- ding, And our joy will soon be -- gin, In the eve -- ning when the cam -- el train comes in.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj118.xml</link>
+    <link type="ref">Genesis 24</link>
+  </links>
+  <music>
+    <midiref type="h" num="1237"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">'Twas a day in early springtime,
+By an ancient wayside well,
+Eliezer paused to rest his camel train.
+He had found a bride for Isaac
+Ere the evening shadows fell,
+For his weary journey had not been in vain.</stanza>
+    <stanza type="chorus" number="">Oh, get ready! Evening shadows fall.
+Don't you hear the Eliezer call?
+There's going to be a wedding,
+And our joy will soon begin,
+  In the evening when the camel train comes in.</stanza>
+    <stanza type="verse" number="2">So he took the fair Rebekah,
+Dressed in jewels rich and rare,
+Quickly to her waiting bridegroom far away.
+Where Rebekah loved her Isaac,
+And he loved Rebekah fair;
+Oh, it must have been a happy wedding day.</stanza>
+    <stanza type="verse" number="3">Now the blessed Holy Spirit,
+From our Father God above,
+Has come down to earth to find a worthy Bride.
+For our Isaac over yonder
+Has prepared His tents of love,
+And He wants His fair Rebekah by His side.</stanza>
+    <stanza type="verse" number="4">We have left our kinfolk gladly;
+We have bade the world goodbye.
+We've been called to be His pure and spotless Bride;
+Where we'll soon behold our Jesus
+In that blest eternity&amp;mdash;
+What a happy, happy wedding that will be!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Do you know that you were chosen</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><dutch num="82"/><english num="1332"/><lsmyp num="311"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ned Nossaman">N. N.</author>
+  </creators>
+  <melody>| 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 1/ 5/ 3/ | 2 - - 0 (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 2/ 1/ 7_./ | 1 - - 0 (break) | 2. 1#/ 2/ 3/ 4/ 2/ | 3 - 5 0 | 6. 6/ 5/ 3/ 4/ 3/ | 2 - - 0 (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 2/ 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Do you know that you were chos -- en Long be -- fore the world be -- gan That by God you were se -- lect -- ed And ap -- point -- ed for His plan? Some -- thing in your in -- most be -- ing Tells you this is sure -- ly true; That's why you are in this meet -- ing, And you feel the way you do.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj098.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="628"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Do you know that you were chosen
+Long before the world began
+That by God you were selected
+And appointed for His plan?
+Something in your inmost being
+Tells you this is surely true;
+That's why you are in this meeting,
+And you feel the way you do.</stanza>
+    <stanza type="verse" number="2">All the sins you've e'er committed,
+Everything you've ever done,
+All by God has been forgiven
+Taken care of by God's Son.
+Struggle not, no; just believe this,
+For His word assures it's true;
+All you need to do is thank Him
+For all that He's done for you.</stanza>
+    <stanza type="verse" number="3">Did you know that all the Bible
+Is a will, a testament?
+Everything that Christ accomplished
+Is for all God's children meant.
+As His child you are included,
+For His word stands fast and true;
+So by faith you now inherit
+All that He has done for you.</stanza>
+    <stanza type="verse" number="4">Did you know God has a family?
+Yes, He does, in fact, it's us.
+That's why we are here enjoying
+All He is, so marvelous.
+He's our God and we're His people,
+Day by day we love Him more;
+We're so happy and so thankful,
+We just praise Him o'er and o'er.</stanza>
+    <stanza type="verse" number="5">All we know is that we love Him,
+We're so glad for what He's done;
+We are brought to Him, and we all
+Know the joy of being one.
+We're so glad that we're included,
+What a fellowship have we!
+So we'd like to welcome you, friend,
+Into God's own family.</stanza>
+  </lyrics>
+</hymn>

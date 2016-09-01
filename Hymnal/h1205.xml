@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Press on, press on toward the goal</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Pressing On</category>
+  <numbers><cebuano num="1205"/><chinese num="ts:423"/><english num="1205"/><german num="1205"/><korean num="1006"/><lsmyp num="217"/><russian num="469"/><spanish num="301"/><tagalog num="1205"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="David Matteson">D. M.</author>
+	<composer biodate="1953" biolink="">Friedrich-Wilhelm Moller</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>55554433333534</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | C - - - | C - - - | C/E - - - | Dm - - - | Dm - - - | G - - - | G7 - - - | C - - - | Am - C/G - | F - - - | G7 - - - | C - F/C - | C - - - | G - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | C/E - F - | G - - - | G7 - - - | Am - - - | C/E - - - | F - F/A - | C/G - G7 - | C - F/C - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | C - - - | C - - - | C - - - | C - - - | C - - - | G - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | G - - - | G7 - - - | C - - - | C - - - | G - - - | G7 - - - | C - - - | C - - - | G - - - | G7 - - - | C - - - | C - - - | F - - - | G - G7 - | C - F - | C - - - |</guitarChords>
+  <melody>| 0 - 5 - | 5 - 5 - | 5 - - 4 | 4 - 3 - | 3 - - 3 | 3 - 3 - | 5 - 3 - | 4( - - - (break) | 4) - 5 - | 5 - 7 - | 7 - - 7 | ._1 - 5 - | 5 - - 5 | 6 - 4 - | 3 - 2 - (break) | 1( - - - | 1) 0 (Chorus) 5. 5/ | 7( - - - | 7) - 5. 5/ | ._1( - - - | ._1) - 5. 5/ | ._2( - - - (break) | ._2) - 5. 5/ | ._3 ._2 ._1 7 | ._1 7 6. 5/ | 7( - - - (break) | 7) - 5. 5/ | ._1( - - - | ._1) - 5 - | 6 - 4 - | 3 - 2 - | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+	<singingstanza>Press on, press on to -- ward the goal&amp;mdash; The all- -- in -- clu -- sive Christ. To gain the prize of God's high call, Press on, press on to Christ! Press -- ing on! Press -- ing on! Press -- ing on! Hal -- le -- lu -- jah for the prize We're press -- ing on! On and on! To gain the Christ of God!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj047.xml</link>
+	<link type="ref">Philippians 3:10-14</link>
+  </links>
+  <music>
+	<midi location="h" length="30">e1205_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Press on, press on toward the goal&amp;mdash;
+  The all-inclusive Christ.
+To gain the prize of God's high call,
+  Press on, press on to Christ!</stanza>
+	<stanza type="chorus" number="">Pressing on! Pressing on!
+Pressing on! Hallelujah for the prize
+We're pressing on! On and on!
+  To gain the Christ of God!</stanza>
+	<stanza type="verse" number="2">Press on, press on, count all things loss.
+  All that is gain to us,
+To win the prize, the Christ of God,
+  Is far more glorious!</stanza>
+	<stanza type="verse" number="3">Press on, press on to know the Lord
+  And resurrection power&amp;mdash;
+Oh, this is our supreme reward,
+  E'en in the suffering hour!</stanza>
+	<stanza type="verse" number="4">Press on, press on, this one thing do,
+  Forget the things behind;
+Press onward to the Christ before,
+  Press onward with this mind!</stanza>
+  </lyrics>
+</hymn>

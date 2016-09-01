@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He giveth more grace when the burdens grow greater</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Grace for Suffering</category>
+  <numbers><chinese num="9723"/><english num="723"/><russian num="372"/></numbers>
+  <creators>
+    <author biodate="1866-1932" biolink="">Annie Johnson Flint</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>12.11.12.11.</meter>
+  <hymncode>335432346721</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | F - G7 | C - - | G - - | C - - | D7 - - | G - - | C - F | C/E - C | F - D7 | G - C/E | F - C/E | Dm - Dm/F | C/G - G7 | C - - ||</chords>
+  <melody>| 0 - 3 | 3 5 4 | 3 2 3 | 4 6_. 7_. (break) | 2 1 3 | 3 2 6 | 5 3 1 | 6_. 7_. 1 (break) | 2 - 5_. | 1 3 6 | 5 3 1 | 6_. 2 1 (break) | 7_./( 6_./) 5_. 5_. | 6_. 7_. 1 | 2 3 4 | 3 3 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>He giv -- eth more grace when the bur -- dens grow great -- er, He send -- eth more strength when the la -- bors in -- crease, To add -- ed af -- flic -- tion He add -- eth His mer -- cy, To mul -- ti -- plied tri -- als, His mul -- ti -- plied peace.</singingstanza>
+  </layout>
+  <copyright>Copyright. Permission granted by Evangelical Publishers, Toronto, Canada.</copyright>
+  <links>
+    <link type="group">hymnal-subj017.xml</link>
+    <link type="relevant" category="nt" num="723"></link>
+  </links>
+  <music>
+    <midi location="h" length="28">e0723_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He giveth more grace when the burdens grow greater,
+He sendeth more strength when the labors increase,
+To added affliction He addeth His mercy,
+To multiplied trials, His multiplied peace.</stanza>
+    <stanza type="verse" number="2">When we have exhausted our store of endurance,
+When our strength has failed ere the day is half-done,
+When we reach the end of our hoarded resources,
+Our Father's full giving is only begun.</stanza>
+    <stanza type="verse" number="3">His love has no limit, His grace has no measure,
+His power no boundary known unto men,
+For out of His infinite riches in Jesus,
+He giveth and giveth and giveth again.</stanza>
+  </lyrics>
+</hymn>

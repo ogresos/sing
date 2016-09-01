@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thy Name is called Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><cebuano num="68"/><chinese num="64"/><english num="68"/><german num="68"/><korean num="64"/><russian num="397"/><tagalog num="68"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1822-1888" biolink="">Joseph Perry Holbrook</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>3331433112346543</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - - | F - G | C - Am | Dm/F - G | Am - C/E | Dm/F - G | C - G | C - F/C | C - F/C | C - Am | Dm7 - G | C - F | Em7 - Am | F - G7 | C - 0 |</chords>
+ <guitarChords>| C - - | C - F | C - - | F - - | C - - | G - - | C - - | G - - | C - - | C - F | C - - | C - - | G - - | C - F | C - - | C - G7 | C - 0 |</guitarChords>
+  <melody>| 0 - 3./ 3// | 3. 1/ 4./ 3// | 3 1 {1/( 2/) 3/} | 4. 6/ 5./ 4// | 3 - 1./ 1// (break) | 2( 2./)( 1#//) 2// 2//( 1#//) 2// | 3 1 1./ 1// | 2( 2./)( 1#//) 2// 2//( 4//) 3// | 1 - 5./ 5// (break) | ._3. ._2/ {._2/( ._1/) 6/} | 5 3 ._1./ 6// | 5. 3/ 2./ 3// | 4 - 3./ 5// (break) | ._3. ._2/ {._2/( ._1/) 6/} | 5 3 ._1./ 6// | 5. 1/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Lord, Thy Name is call -- ed Je -- sus, Won -- der -- ful is this dear Name; Thou wast brought forth of the vir -- gin, And the Son of man be -- came. Thou art our Je -- ho -- vah- -- Sav -- ior, Sav -- ing us from all our sins; When as Sav -- ior we re -- ceive Thee, Life di -- vine in us be -- gins.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">thenameofjesusisourstand.xml</link>
+	<link type="group">hymnal-subj156.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0068.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736311602.html"></link>
+	<link type="relevant" category="h" num="68b"></link>
+  </links>
+  <music>
+	<midi location="h" length="34">e0068_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord, Thy Name is called Jesus,
+  Wonderful is this dear Name;
+Thou wast brought forth of the virgin,
+  And the Son of man became.
+Thou art our Jehovah-Savior,
+  Saving us from all our sins;
+When as Savior we receive Thee,
+  Life divine in us begins.</stanza>
+	<stanza type="verse" number="2">Thou as "Christ" art also titled,
+  Title of Thy ministry;
+Thou art truly God's anointed,
+  Even from eternity.
+Thou, O Lord, art God's Messiah;
+  God appointed Thee in love,
+That Thou might fulfill His purpose
+  And to all His glory prove.</stanza>
+	<stanza type="verse" number="3">Thou art also called "Emmanuel";
+  "God with us" Thou cam'st to be;
+God in grace is wholly mingled
+  With our own humanity.
+God in flesh is manifested,
+  Full of grace and truth therein;
+We have seen in Thee God's glory,
+  And in faith partake of Him.</stanza>
+	<stanza type="verse" number="4">How we treasure all Thy names, Lord,
+  How much they to us unfold;
+All their worth and all their sweetness
+  We in love will ever hold.
+Precious Savior, we adore Thee,
+  Worship unto Thee we bring;
+Our Emmanuel we exalt Thee,
+  And Thy praise will ever sing.</stanza>
+  </lyrics>
+</hymn>

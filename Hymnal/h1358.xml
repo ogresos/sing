@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Rise! Preach the gospel now</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Rescuing the Perishing</category>
+  <numbers><chinese num="664"/><english num="1358"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Adapted from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 6/ 5 0 (break) | 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 7/ ._1 - (break) | (Chorus) ._2 ._1/ ._2/ ._3./ ._2// ._1 | ._2 ._1/ ._2/ ._3 ._1 | ._1 7/ 6/ 5/ ._1/ ._3 | ._2 ._1/ 7/ ._1 - |</melody>
+  <layout>
+    <singingstanza>Rise! Preach the gos -- pel now! Res -- cue the fall -- en! Lo, mil -- lions per -- ish -- ing dai -- ly in pain! Quench not your heart of love, Count not pos -- ses -- sions: Rise! Preach the gos -- pel while mo -- ments re -- main. Rise! Preach the gos -- pel now! Res -- cue the fall -- en! Your heart of love for them, Can you res -- train?</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="921"></link>
+  </links>
+  <music>
+    <midiref type="h" num="921"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Rise! Preach the gospel now!
+Rescue the fallen!
+Lo, millions perishing daily in pain!
+Quench not your heart of love,
+Count not possessions:
+Rise! Preach the gospel while moments remain.</stanza>
+    <stanza type="chorus" number="">Rise! Preach the gospel now!
+Rescue the fallen!
+Your heart of love for them,
+Can you restrain?</stanza>
+  </lyrics>
+</hymn>

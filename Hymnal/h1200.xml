@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's a stormy wind a-blowing from the north</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As the Wind, Cloud, Fire, and Electrum</category>
+  <numbers><chinese num="ts:143"/><english num="1200"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55111512333432321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Dm - G7 - | C - - - | C - G/B - | Am - C/G - | Dm/F - G7 - | C - - - | C - F/C - | C - Am - | Dm - G7 - | C - - - | C - G/B - | Am - C/G - | Dm/F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_./ 5_./ | 1 1 1/ 5_./ 1./ 2// | 3 3 3 4./ 3// | 2 - - 3./ 2// (break) | 1 - - 5_./ 5_./ | 1 1 1/ 5_./ 1/ 2/ | 3 3 3 4./ 3// | 2 - - 3/ 2/ (break) | 1 - - (Chorus) 3/ 4/ | 5( - 5/) 6/ 5/ 4/ | 3 3 3 4/ 3/ | 2( - 2/) 4/ 3/ 2/ (break) | 3 - - 3/ 4/ | 5( - 5/) 6/ 5/ 4/ | 3 3 3 4/ 3/ | 2( - 2/) 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There's a storm -- y wind a- -- blow -- ing from the north; Let it blow! Let it blow! God as our ex -- pe -- rience will the wind bring forth; Let it blow! Let it blow! Let it blow! the rush -- ing might -- y wind; Let it blow us in -- to life! Let it blow! the gra -- cious wind of God; Let it blow us in -- to Christ!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj079.xml</link>
+    <link type="ref">Ezekiel 1:4</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e1200_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's a stormy wind a-blowing from the north;
+  Let it blow! Let it blow!
+God as our experience will the wind bring forth;
+  Let it blow! Let it blow!</stanza>
+    <stanza type="chorus" number="">Let it blow! the rushing mighty wind;
+  Let it blow us into life!
+Let it blow! the gracious wind of God;
+    Let it blow us into Christ!</stanza>
+    <stanza type="verse" number="2">There's a hov'ring cloud a-following the wind,
+  Covering us! Covering us!
+And the presence of the Lord the cloud does bring,
+  Covering us! Covering us!</stanza>
+    <stanza type="chorus" number="">Covering us, God's overshadowing cloud&amp;mdash;
+  God has come to stay with us.
+Covering us, the gracious cloud of God&amp;mdash;
+    Strength and comfort glorious!</stanza>
+    <stanza type="verse" number="3">With the cloud continually a fire does flash
+  Burning us! Burning us!
+It exposes sin, the soul life, and the flesh,
+  Burning us! Burning us!</stanza>
+    <stanza type="chorus" number="">Let it burn! the jealous flame of God;
+  Let it burn continually!
+Let it burn! this all-consuming flame;
+    Let it burn us thoroughly!</stanza>
+    <stanza type="verse" number="4">Then from out the fire does the electrum glow,
+  Shining forth! Shining forth!
+The redeeming God does our experience show,
+  Shining forth! Shining forth!</stanza>
+    <stanza type="chorus" number="">Let Him shine! This gold and silver One;
+  Let Him shine for all to see!
+'Tis the Lamb-God who has now become
+    Our enjoyment inwardly.</stanza>
+    <stanza type="verse" number="5">Let the wind, cloud, fire and th' electrum be
+  Wrought in us, o'er and o'er;
+Let this cycle be repeated constantly
+  More and more, more and more!</stanza>
+    <stanza type="chorus" number="">Blow and hover, burn and shine forth, Lord,
+  All our being to possess,
+That we all may gain Thee constantly
+    All Thy likeness to express.</stanza>
+  </lyrics>
+</hymn>

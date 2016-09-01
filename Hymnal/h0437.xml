@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hast thou heard Him, seen Him, known Him</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Attracted by the Lord's Beauty</category>
+  <numbers><cebuano num="437"/><chinese num="333*"/><english num="437"/><german num="437"/><korean num="333"/><lsmyp num="103"/><spanish num="186"/><tagalog num="c333"/></numbers>
+  <creators>
+	<author biodate="1834-1879" biolink="">Ora Rowan</author>
+	<composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>321761651353212</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C/E - | C - Am - | D7 - G7 - | C - C/E - | F - C/E - | C - F - | G7 - C - | C - C/E - | F - G - | Em - Am - | D7 - G - | C - C/E - | F - C - | C/E - F Dm | C/G G7 C - |</chords>
+<guitarChords>| C - - - | F - C - | C - - - | D7 - G7 - | C - - - | F - C - | C - F - | G7 - C - | C - - - | C - G - | C - - - | C - G - | C - - - | F - C - | C - F - | G G7 C - |</guitarChords> 
+ <melody>| 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 5. 3/ | 2 1 2 - (break) | 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - (break) | (Chorus) 3 5 5 3 | 2 1 3 2 | 3 5 5. 3/ | 2 1 2 - (break) | 3 2 1 5_. | 4. 6_./ 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Hast thou heard Him, seen Him, known Him? Is not thine a cap -- tured heart? Chief a -- mong ten thou -- sand own Him; Joy -- ful choose the bet -- ter part. Cap -- ti -- vat -- ed by His beau -- ty, Wor -- thy tri -- bute haste to bring; Let His peer -- less worth con -- strain thee, Crown Him now un -- riv -- aled King.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="relevant" category="nt" num="437"></link>
+  </links>
+  <music>
+	<midi location="h" length="36">e0437_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hast thou heard Him, seen Him, known Him?
+  Is not thine a captured heart?
+Chief among ten thousand own Him;
+  Joyful choose the better part.</stanza>
+	<stanza type="chorus" number="">Captivated by His beauty,
+Worthy tribute haste to bring;
+Let His peerless worth constrain thee,
+  Crown Him now unrivaled King.</stanza>
+	<stanza type="verse" number="2">Idols once they won thee, charmed thee,
+  Lovely things of time and sense;
+Gilded thus does sin disarm thee,
+  Honeyed lest thou turn thee thence.</stanza>
+	<stanza type="verse" number="3">What has stripped the seeming beauty
+  From the idols of the earth?
+Not a sense of right or duty,
+  But the sight of peerless worth.</stanza>
+	<stanza type="verse" number="4">Not the crushing of those idols,
+  With its bitter void and smart;
+But the beaming of His beauty,
+  The unveiling of His heart.</stanza>
+	<stanza type="verse" number="5">Who extinguishes their taper
+  Till they hail the rising sun?
+Who discards the garb of winter
+  Till the summer has begun?</stanza>
+	<stanza type="verse" number="6">'Tis that look that melted Peter,
+  'Tis that face that Stephen saw,
+'Tis that heart that wept with Mary,
+  Can alone from idols draw:</stanza>
+	<stanza type="verse" number="7">Draw and win and fill completely,
+  Till the cup o'erflow the brim;
+What have we to do with idols
+  Who have companied with Him?</stanza>
+  </lyrics>
+</hymn>

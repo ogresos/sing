@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Give me a sight, O Savior</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <numbers><english num="159"/><tagalog num="159"/></numbers>
+  <creators>
+    <author biodate="1869-1942" biolink="">K. A. M. Kelly</author>
+    <composer biodate="1869-1942" biolink="">K. A. M. Kelly</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55616177711432</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G7/D - - | C/E. E. | G - - | G. G/F. | C/E. Am. | D. D7/F#. | G - - | C - - | G/D - - | G7 - - | C - - | C7 - - | F. Dm. | C/G. G7. | C - - |</chords>
+  <melody>| 0. 0/ 5_. | 5_. 6_./ 1 6_./ | 1. 7_. 7_.// 7_.// | 1 1/ 4 3/ | 2.( 2) 2// 2// (break) | 2 2/ 3 4/ | 5 3/ 1 7_./ | 6_. 7_./ 1 6_./ | 2.( (.2) (.5/ (break) | 3 2/ 1 2/ | 1. 7_. 7_./ | 7_. 4/ 3 2/ | 5.( 5) 5// 5// (break) | 6 5/ 1 1/ | 5 4/ 6_. (.6_./ | 5_./( 4/) 3/ 3 2/ | 1.( (.1) 0/ |</melody>
+  <layout>
+    <singingstanza>Give me a sight, O Sav -- ior, Of Thy won -- drous love to me, Of the love that brought Thee down to earth, To die on Cal -- va -- ry. Oh, make me un -- der -- stand it, Help me to take it in, What it meant to Thee, the Ho -- ly One, To bear a -- way my sin.</singingstanza>
+  </layout>
+  <copyright>Used by permission of National Young Life Campaign.</copyright>
+  <links>
+    <link type="group">hymnal-subj155.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="41">e0159_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Give me a sight, O Savior,
+Of Thy wondrous love to me,
+Of the love that brought Thee down to earth,
+To die on Calvary.</stanza>
+    <stanza type="chorus" number="">Oh, make me understand it,
+Help me to take it in,
+What it meant to Thee, the Holy One,
+  To bear away my sin.</stanza>
+    <stanza type="verse" number="2">Was it the nails, O Savior,
+That bound Thee to the tree?
+Nay, 'twas Thine everlasting love,
+Thy love for me, for me.</stanza>
+    <stanza type="verse" number="3">Oh, wonder of all wonders,
+That through Thy death for me,
+My open sins, my secret sins,
+Can all forgiven be.</stanza>
+    <stanza type="verse" number="4">Then melt my heart, O Savior,
+Bend me, yea, break me down,
+Until I own Thee Conqueror,
+And Lord and Sov'reign crown.</stanza>
+  </lyrics>
+</hymn>

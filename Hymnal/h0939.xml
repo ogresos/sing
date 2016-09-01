@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O day of resurrection</title>
+  <index>true</index>
+  <category>The Lord's Day&amp;mdash;Day of Resurrection</category>
+  <numbers><english num="939"/><tagalog num="939"/></numbers>
+  <creators>
+    <author biodate="1807-1885" biolink="">Christopher Wordsworth</author>
+    <composer biodate="" biolink="">German melody</composer>
+    <!--<composer biodate="1792-1872" biolink="">Arranged by Lowell Mason</composer>-->
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>1233321215</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - F/C - | C/E - G7/D - | C - - - | C - G/B - | Am - C/E - | Dm - G7 - | C - C7/E - | F - - - | C/E - Am - | Dm - G7 - | C - C7/E - | F - F/A - | C - Am - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 1./( 2//) | 3. 3/ 3/( 2/) 1/( 2/) | 1 5_. - 1/( 3/) | 5 5 5/( 4/) 3/( 4/) (break) | 3 - - 1./( 2//) | 3. 3/ 3/( 2/) 1/( 2/) | 1 5_. - 1/( 3/) | 5 5 5/( 4/) 3/( 4/) (break) | 3 - - 5 | 6. 6/ 6 6 | 5 3 - 5 | 5 4/( 3/) 4 5 (break) | 3 - - 5 | 6. 6/ ._1 6 | 5 3 - 5 | 5 3/( 5/) 5/( 4/) 3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O day of re -- sur -- rec -- tion, O day of joy and light, O seal of our re -- demp -- tion, Most beau -- ti -- ful, most bright: On thee the high and low -- ly, Bend -- ing be -- fore the throne, Sing "Ho -- ly, ho -- ly, ho -- ly," To the great Three in One.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="39">e0939_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O day of resurrection,
+  O day of joy and light,
+O seal of our redemption,
+  Most beautiful, most bright:
+On thee the high and lowly,
+  Bending before the throne,
+Sing "Holy, holy, holy,"
+  To the great Three in One.</stanza>
+    <stanza type="verse" number="2">On thee at the creation
+  The light first had its birth;
+On thee, for our salvation,
+  Christ rose from depths of earth;
+On thee, our Lord, victorious,
+  The Spirit sent from heaven;
+And thus on thee, most glorious,
+  A triple light was given.</stanza>
+    <stanza type="verse" number="3">Today on weary nations
+  The heavenly manna falls!
+To holy convocations
+  The silver trumpet calls,
+Where gospel light is glowing
+  With pure and radiant beams,
+And living water flowing
+  With soul-refreshing streams.</stanza>
+    <stanza type="verse" number="4">New graces ever gaining
+  From this of days the best,
+We reach the rest remaining
+  For people who are blest;
+To Holy Ghost be praises,
+  To Father and to Son;
+The Church her voice upraises
+  To Thee, blest Three in One.</stanza>
+  </lyrics>
+</hymn>

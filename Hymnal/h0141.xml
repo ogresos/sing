@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Thy head, once crown'd with thorns</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <numbers><cebuano num="141"/><chinese num="118"/><english num="141"/><korean num="118"/><tagalog num="141"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Thomas Kelly</author>
+  </creators>
+  <melody>| 0 - 3/( 4/) | 5 - 5 | ._1 - ._3 | ._2 - ._1 | 6( ._1) 6 | 5 - 5 | ._1 - ._3 | ._2( - - (break) | ._2) - ._3/ ._4/ | ._5 - ._3 | ._1 - ._3 | ._2 - ._1 | 6( ._1) 6 | 5 - ._1 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus, Thy head, once crown'd with thorns, Is crown'd with glo -- ry now; Heav -- en's ro -- yal di -- a -- dem a -- dorns The might -- y Vic -- tor's brow.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, Thy head, once crown'd with thorns,
+  Is crown'd with glory now;
+Heaven's royal diadem adorns
+  The mighty Victor's brow.</stanza>
+    <stanza type="verse" number="2">Thou glorious light of courts above,
+  Joy of the saints below,
+To us still manifest Thy love,
+  That we its depths may know.</stanza>
+    <stanza type="verse" number="3">To us Thy cross with all its shame,
+  With all its grace be giv'n;
+Though earth disowns Thy lowly name,
+  God honors it in heav'n.</stanza>
+    <stanza type="verse" number="4">Who suffer with Thee, Lord, today,
+  Shall also with Thee reign:
+Then let it be our joy to pay
+  The Price, this goal attain.</stanza>
+    <stanza type="verse" number="5">To us Thy cross is life and health;
+  'Twas shame and death to Thee;
+Our present glory, joy and wealth,
+  Our everlasting stay.</stanza>
+  </lyrics>
+</hymn>

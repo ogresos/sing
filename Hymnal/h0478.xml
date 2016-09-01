@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Once I stood in condemnation</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;One with Him</category>
+  <creators>
+    <author biodate="1840-1896" biolink="">George West Frazer</author>
+    <composer biodate="1826-1899" biolink="">Robert Lowry</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>333321511327123</hymncode>
+  <key>G Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - F/C - | C - - - G/D - | C/E - - - C - | G/B - - - G - | C - - - - - | F/C - - - C - | G/B - - - G - | D - - - D7/F# - | G - - - G7/F - | C/E - - - F - | C - - - G - | C - - - Am - | G - - - G7/B - | C - - - C/E - | F - - - F/A - | C/G - - - G - | C - - - G7/D - | C/E - - - C7 - | F - - - Dm - | C/G - - - G7 - | F/C - C - - - |</chords>
+  <guitarChords>| C - - - - - | C - - - - - | C - - - - - | G - - - - - | C - - - - - | F - - - - - | G - - - - - | D - - - D7 - | G - - - G7 - | C - - - F - | C - - - - - | C - - - - - | G - - - G7 - | C - - - - - | F - - - - - | C - G - - - | C - - - - - | C - - - C7 - | F - - - - - | C - G7 - - - | C - - - - - |</guitarChords>
+  <melody>| 0 - - - 3. 3/ | 3 - - 3 2 1 | 5_. - 1 - 1 3 | 2 - - 7_. 1 2 | 3 - - - 3. 3/ (break) | 4 - - 3 2 1 | 3 - 2 - 2 2 | 2 - - 6_. 7_. 1 | 7_. - - - 6_. 5_. (break) | 1 - - 2 1 6_. | 5_. - 1 - 1 2 | 3 - - 1 4 3 | 2 - - - 3 4 (break) | 5 - - 3 2 1 | 2 - 1 - 7_. 6_. | 5_. 1 3 - 2 - | 3 - - - 3 4 (break) | 5 - - 3 2 1 | 2 - 1 - 7_. 6_. | 5_. 1 3 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+    <singingstanza>Once I stood in con -- demn -- a -- tion, Wait -- ing thus the sin -- ner's doom; Christ in death has wrought sal -- va -- tion, God has raised Him from the tomb. Once I was to God a strang -- er, Filled with en -- mi -- ty and fear; He has res -- cued me from dan -- ger, Love re -- vealed and brought me near. He has res -- cued me from dan -- ger, Love re -- vealed and brought me near.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj227.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="43">e0478_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Once I stood in condemnation,
+  Waiting thus the sinner's doom;
+Christ in death has wrought salvation,
+  God has raised Him from the tomb.
+Once I was to God a stranger,
+  Filled with enmity and fear;
+He has rescued me from danger,
+  Love revealed and brought me near.
+He has rescued me from danger,
+  Love revealed and brought me near.</stanza>
+    <stanza type="verse" number="2">Now I see in Christ's acceptance
+  But the measure of my own;
+He who lay beneath my sentence,
+  Seated high upon the Throne.
+Quickened, raised, and in Him seated,
+  I a full deliverance know;
+Every foe has been defeated,
+  Every enemy laid low,
+Every foe has been defeated,
+  Every enemy laid low.</stanza>
+    <stanza type="verse" number="3">Now I have a life in union
+  With the risen Lord above;
+Now I drink in sweet communion
+  Some rich foretaste of His love.
+Soon, O Lord! in highest glory,
+  All its vastness I'll explore;
+Soon I'll cast my crown before Thee,
+  While I worship and adore,
+Soon I'll cast my crown before Thee,
+  While I worship and adore.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Bread to pilgrims given</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Feeding on Christ</category>
+  <numbers><cebuano num="380"/><chinese num="299"/><english num="380"/><korean num="299"/><russian num="76"/><tagalog num="380"/></numbers>
+  <creators>
+    <author biodate="" biolink="">From Latin</author>
+    <author biodate="1808-1887" biolink="">Translated by Ray Palmer</author>
+    <composer biodate="1832-1915" biolink="">William Howard Doane</composer>
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>5565117711432</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G | C - C/E - | G - G7/F - | C/E - C - | G - G/B - | C - C7/E - | F - Dm - | C/G - G7 - | C - - - | C/G - - - | G - - - | G/B - G - | C - - - | C/E - C7 - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | C - - - | G - G7 - | C - - - | G - - - | C - C7 - | F - - - | G - G7 - | C - - - | C - - - | G - - - | G - - - | C - - - | C - C7 - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5_. | 5_.. 6_./ 5_. 1 | 1 - 7_. 7_. | 1 1 4 3 | 2 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. 3/( 2/) | 1 - 0 5_. (break) | 5. 5/ 5 4/( 3/) | 2 - 5_. 5_. | 2. 2/ 2 1/( 2/) | 3 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. (.3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O Bread to pil -- grims giv -- en, O Food for saints to eat, O Man -- na sent from heav -- en, For heav'n- -- born na -- tures meet; Give us, for Thee long pin -- ing, To eat till rich -- ly filled; Till, earth's de -- lights re -- sign -- ing, Our ev -- ery wish is stilled.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj128.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0380_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Bread to pilgrims given,
+  O Food for saints to eat,
+O Manna sent from heaven,
+  For heav'n-born natures meet;
+Give us, for Thee long pining,
+  To eat till richly filled;
+Till, earth's delights resigning,
+  Our every wish is stilled.</stanza>
+    <stanza type="verse" number="2">O Water, life bestowing,
+  From out the Savior's heart,
+A fountain purely flowing,
+  A fount of love Thou art.
+Oh, let us, freely tasting,
+  Our burning thirst assuage;
+Thy sweetness, never wasting,
+  Avails from age to age.</stanza>
+    <stanza type="verse" number="3">Jesus, this feast receiving,
+  We Thee unseen adore;
+Thy faithful word believing,
+  We take, and doubt no more.
+Give us, Thou true and loving,
+  On earth to live in Thee;
+Then, God the veil removing,
+  Thy glorious face to see.</stanza>
+  </lyrics>
+</hymn>

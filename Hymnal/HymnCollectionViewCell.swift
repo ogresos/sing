@@ -30,10 +30,11 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         stanzas.removeAll()
         stanzas = Array(stanzasSet) as [AnyObject]
         hymnTitleLabel.text = hymn.value(forKey: "title") as? String
-        hymnNumberLabel.text = String(hymn.value(forKey: "number") as! Int)
+        hymnNumberLabel.text = hymn.value(forKey: "number") as? String
         stanzasTableView.reloadData()
     }
     
+
     func numberOfSections(in tableView: UITableView) -> Int {
         // #warning Incomplete implementation, return the number of sections
         return 1
@@ -56,7 +57,8 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         let stanza = stanzas[indexPath.row]
         let number = stanza.value(forKey: "number") as! String
         cell.numberLabel.text = number
-        cell.stanzaTextView.text = stanza.value(forKeyPath: "text") as! String
+        let codedString = stanza.value(forKeyPath: "text") as! String
+        cell.stanzaTextView.attributedText = decodeString(string:codedString)
         print(stanza.value(forKeyPath: "text") as! String)
         
         
@@ -66,6 +68,22 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         
         return cell
     }
+    
+    func decodeString(string: String) -> NSAttributedString {
+        let stringData: Data = string.data(using: String.Encoding.utf8)!
+        let options: NSDictionary = [NSDocumentTypeDocumentAttribute:NSHTMLTextDocumentType]
+        var decodedString: NSAttributedString = NSAttributedString()
+        do {
+            decodedString = try NSAttributedString(data:stringData, options:options as! [String : Any], documentAttributes:nil)
+        }
+        catch {
+            // string didn't convert
+        }
+        
+        return decodedString
+        
+    }
+    
     
     
     /*

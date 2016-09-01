@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, keep me near the cross</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Crying to the Lord</category>
+  <numbers><cebuano num="1059"/><chinese num="456"/><english num="1059"/><french num="204"/><german num="1059"/><korean num="456"/><portuguese num="464"/><russian num="178"/><spanish num="486"/><tagalog num="1059"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Fanny Jane Crosby</author>
+	<composer biodate="1832-1915" biolink="">William Howard Doane</composer>
+  </creators>
+  <meter>7.6.7.6. with chorus.</meter>
+  <hymncode>3432166511332</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C/E. | F. Dm. | Em. Am. | F. G. | C. C7/E. | F. D7/F#. | C/G. Am. | G7. C. | C. C7/E. | F. F/A. | Em. Am. | F. G7. | C. C7/E. | F. D7/F#. | C/G. Am. | G7. C. |</chords>
+  <guitarChords>| C - - | F - - | C - - | G - - | C. C7. | F - - | C - - | G7. C. | C. C7. | F - - | C - - | G. G7. | C. C7. | F - - | C - - | G7. C. |</guitarChords>
+  <melody>| 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 3/ | 3. 2 0/ (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ (break) | (Chorus) 3 5/ 5. | 4 6/ 6. | 5 6/ 5 3/ | 3. 2. (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ |</melody>
+  <layout>
+	<singingstanza>Je -- sus, keep me near the cross, There a pre -- cious foun -- tain, Free to all&amp;mdash; a heal -- ing stream, Flows from Cal -- v'ry's moun -- tain. In the cross, in the cross, Be my glo -- ry ev -- er; From the cross my ran -- somed soul Noth -- ing then shall sev -- er.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj096.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="46">e1059_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, keep me near the cross,
+  There a precious fountain,
+Free to all&amp;mdash;a healing stream,
+  Flows from Calv'ry's mountain.</stanza>
+	<stanza type="chorus" number="">In the cross, in the cross,
+  Be my glory ever;
+From the cross my ransomed soul
+    Nothing then shall sever.</stanza>
+	<stanza type="verse" number="2">Near the cross, a trembling soul,
+  Love and mercy found me;
+There the Bright and Morning Star
+  Sheds its beams around me.</stanza>
+	<stanza type="verse" number="3">Near the cross! O Lamb of God,
+  Bring its scenes before me;
+Help me walk from day to day,
+  With its shadow o'er me.</stanza>
+	<stanza type="verse" number="4">Near the cross I'll watch and wait,
+  Hoping, trusting ever,
+Till I see my Savior's face,
+  Leave His presence never.</stanza>
+  </lyrics>
+</hymn>

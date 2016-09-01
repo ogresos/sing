@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, the bitter shame and sorrow</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><english num="435"/><russian num="80"/></numbers>
+  <creators>
+    <author biodate="1836-1921" biolink="">Theodore Monod</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>8.7.8.8.7. with repeat.</meter>
+  <hymncode>111171221</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Am - - | G - - | C - - | C - - | F - - | G - - | C - - | C - - | Am - - | G - - | C - - | C - - | Am - - | Dm - - | G7 - - | C - C/E | F - F/A | G - G7/B | C - - | C - C/E | F - Dm | G - G7/B | C - - |</chords>
+  <melody>| 1 - 1 | 1 - 1 | 7_.( 1) 2 | 2 1 0 (break) | 3 - 3 | 3( 2) 2 | 2( 3) 2 | 1 - - (break) | 1 - 1 | 1 - 1 | 7_.( 1) 2 | 2 1 0 (break) | 3 - 3 | 3 - 3 | 5.( 4/) 3 | 3 2 0 (break) | 1( 5_.) 5_. | 6_.( 1) 1 | 7_.( 1) 2 | 1 - - (break) | 1( 5_.) 5_. | 6_.( 1) 1 | 7_.( 1) 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Oh, the bit -- ter shame and sor -- row, That a time could ev -- er be, When I let the Sav -- ior's pit -- y Plead in vain, and proud -- ly an -- swered, All of self, and none of Thee, All of self and none of Thee.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj033.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0435_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, the bitter shame and sorrow,
+  That a time could ever be,
+When I let the Savior's pity
+Plead in vain, and proudly answered,
+  All of self, and none of Thee,
+  All of self and none of Thee.</stanza>
+    <stanza type="verse" number="2">Yet He found me; I beheld Him
+  Bleeding on the cursed tree;
+Heard Him pray, Forgive them, Father,
+And my wistful heart said faintly,
+  Some of self, and some of Thee,
+  Some of self, and some of Thee.</stanza>
+    <stanza type="verse" number="3">Day by day His tender mercy,
+  Healing, helping, full and free,
+Sweet and strong, and ah! so patient,
+Brought me lower while I whispered,
+  Less of self, and more of Thee,
+  Less of self, and more of Thee.</stanza>
+    <stanza type="verse" number="4">Higher than the highest heavens,
+  Deeper than the deepest sea,
+Lord, Thy love at last hath conquered;
+Grant me now my heart's petition,
+  None of self, and all of Thee,
+  None of self, and all of Thee.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What a wondrous fact, I'm crucified with Christ</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><cebuano num="487"/><english num="487"/><french num="84"/><german num="487"/><portuguese num="223"/><russian num="90"/><spanish num="202"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">Emma Booth-Tucker</composer>
+  </creators>
+  <meter>11.9.11.9. with chorus.</meter>
+  <hymncode>55123112165</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C - | C - Am - | Dm - G - | F - C/E - | Dm G C - | Dm/F - C/E F | C/G G7 C - | C - F/C - | C - - - | G - - - | C - G7 - | C - G/B - | Am - C/G - | Dm - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | F - C - | C - - - | G - C - | F - C - | G - C - | G - C - | G7 - C - | C - - - | C - - - | G - - - | C - G7 - | C - - - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 5_../ 5_.// 1./ 2// 3 1 | 1./ 2// 1./ 6_.// 5_.. 0/ | 5_../ 5_.// 1./ 2// 3 1 | 2 5 5. 0/ (break) | 6./ 6// 4./ 6// 5 3 | 4./ 3// 4./ 5// 3. 0/ | 2./ 3// 4./ 6// 5 3 | 3 2 1. 0/ (break) | (Chorus) 5./ 5// 5./ 6// 5./ 4// 3./ 2// | 1 3 3. 1/ | 7_. 2 2. 7_./ | 1 3 5 - (break) | 5./ 5// 5./ 6// 5./ 4// 3./ 2// | 1 3 3 5 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>What a won -- drous fact, I'm cru -- ci -- fied with Christ; Of my flesh and pas -- sion I'm re -- lieved; What a glo -- rious fact, with Christ, the Lord, I live, Re -- sur -- rec -- tion life in Him re -- ceived. On the Cross of Cal -- va -- ry the Lord and I Were cru -- ci -- fied, were cru -- ci -- fied; Now in re -- sur -- rec -- tion life with Him I live And in Him e'er a -- bide.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj226.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0487.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="38">e0487_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">What a wondrous fact, I'm crucified with Christ;
+  Of my flesh and passion I'm relieved;
+What a glorious fact, with Christ, the Lord, I live,
+  Resurrection life in Him received.</stanza>
+	<stanza type="chorus" number="">On the Cross of Calvary the Lord and I
+  Were crucified, were crucified;
+Now in resurrection life with Him I live
+    And in Him e'er abide.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In new heaven and new earth</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;The New Jerusalem</category>
+  <numbers><cebuano num="978"/><chinese num="777"/><english num="978"/><korean num="777"/><spanish num="456"/><tagalog num="978"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="" biolink="">H. P. Danes</composer>
+  </creators>
+  <meter>7.6.7.6. with chorus.</meter>
+  <hymncode>1233425123121</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G7/D | C/E - F | C/G - G7 | C - - | C - B7 | Em - F | C/G - G7 | C - - | C - A7 | Dm - Dm/C | G7/B - G7 | C - G7/D | C/E - C | F - Dm | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 1/ 2/ | 3. 3/ 4/ 2/ | 5 - 1/ 2/ | 3. 1/ 2 (break) | 1 - 1/ 2/ | 3. 5/ 7/ 6/ | 5 - 1/ 2/ | 3. 1/ 2 (break) | 1 - (Chorus) 5/ 5/ | 5. 3/ 6/ 5/ | 4 - 4/ 4/ | 4. 2/ 5/ 4/ (break) | 3 - 5/ 5/ | ._1. 7/ 6/ 5/ | 5( 4) 3/ 2/ | 1. 1/ 2 | (.1 - 0 |</melody>
+  <layout>
+    <singingstanza>In new heav -- en and new earth New Jer -- u -- sa -- lem lies; Out of God it has its birth, With God's ra -- di -- ance thrice. Lo, God's i -- mage it doth bear, And God's glo -- ry it doth share! And the Lord Him -- self is there In that cit -- y of God.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj225.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0978.html">View Lyrics</link>
+  </links>
+  <music>
+    <midi location="hv" length="27">e0978.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In new heaven and new earth
+  New Jerusalem lies;
+Out of God it has its birth,
+  With God's radiance thrice.</stanza>
+    <stanza type="chorus" number="">Lo, God's image it doth bear,
+And God's glory it doth share!
+And the Lord Himself is there
+    In that city of God.</stanza>
+    <stanza type="verse" number="2">All the gates are pearls assigned
+  In the city of gold,
+And the street is gold refined
+  With foundations twelvefold.</stanza>
+    <stanza type="verse" number="3">There life's crystal river flows
+  With abundant supplies,
+And the tree of life there grows
+  And all need satisfies.</stanza>
+    <stanza type="verse" number="4">God is there the great I AM
+  In that city of light;
+God's the light within the Lamb,
+  And there never is night.</stanza>
+  </lyrics>
+</hymn>

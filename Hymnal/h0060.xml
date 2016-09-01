@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Of the Father's love begotten</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Divinity</category>
+  <numbers><english num="60"/><tagalog num="60"/></numbers>
+  <creators>
+    <author biodate="348-circa 413" biolink="">Aurelius Clemens Prudentius</author>
+    <author biodate="1818-1866" biolink="">Translated by John Mason Neale</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>Of the Fa -- ther's love be -- got -- ten, Ere the worlds be -- gan to be, He is Al -- pha and Om -- e -- ga, He the source, the end -- ing He, Of the things that are and have been, And that fu -- ture years shall see, Ev -- er -- more and ev -- er -- more.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj146.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Of the Father's love begotten,
+  Ere the worlds began to be,
+He is Alpha and Omega,
+  He the source, the ending He,
+Of the things that are and have been,
+  And that future years shall see,
+    Evermore and evermore.</stanza>
+    <stanza type="verse" number="2">This is He whom they in old time
+  Chanted of with one accord,
+Whom the voices of the prophets
+  Promised in their faithful word;
+Now He shines, the long-expected;
+  Let creation praise its Lord,
+    Evermore and evermore.</stanza>
+    <stanza type="verse" number="3">O ye heights of heav'n, adore Him;
+  Angel hosts, His praises sing;
+All dominions, bow before Him,
+  And extol our Lord and King.
+Let no tongue on earth be silent,
+  Every voice in concert ring,
+    Evermore and evermore.</stanza>
+    <stanza type="verse" number="4">Christ, to Thee, with God the Father,
+  And, with Holy Ghost, to Thee,
+Hymn and chant and high thanksgiving,
+  And unwearied praises be;
+Honor, glory, and dominion,
+  And eternal victory,
+    Evermore and evermore.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I will not be afraid</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Arms</category>
+  <creators>
+    <author biodate="1866-1932" biolink="">Annie Johnson Flint</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>556543</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - F/C - | C/E - G7/D - | C - C/E - | F - F/A - | C - Am D7/F# | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5 5( 5/) 6/ 5/ 4/ | 3 - - 0 | 5 5( 5/) 6/ 5/ 4/ | 3( - 3/) 3/ 4/ 5/ (break) | 6 6( 6/) 7/ ._1/ ._2/ | ._3 ._3 - ._1 | ._3 ._3 - ._2 | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>I will not be a -- fraid; I will not be a -- fraid; I will look up -- ward, And trav -- el on -- ward, And not be a -- fraid.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj019.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0678_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I will not be afraid;
+I will not be afraid;
+  I will look upward,
+  And travel onward,
+    And not be afraid.</stanza>
+    <stanza type="verse" number="2">He says He will be with me;
+He says He will be with me;
+  He goes before me,
+  And is beside me,
+    So I'm not afraid.</stanza>
+    <stanza type="verse" number="3">His arms are underneath me;
+His arms are underneath me;
+  His hand upholds me,
+  His love enfolds me,
+    So I'm not afraid.</stanza>
+    <stanza type="verse" number="4">His Word will stand for ever;
+His Word will stand for ever;
+  His truth it shall be
+  My shield and buckler,
+    So I'm not afraid.</stanza>
+    <stanza type="verse" number="5">He will give grace and glory;
+He will give grace and glory;
+  His cross before me,
+  His banner o'er me,
+    So I'm not afraid.</stanza>
+    <stanza type="verse" number="6">So we go singing onward;
+So we go singing onward;
+  We're pressing forward,
+  We're marching upward,
+    To Him unafraid.</stanza>
+  </lyrics>
+</hymn>

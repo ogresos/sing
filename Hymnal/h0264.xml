@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Thine all-victorious love</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Fire</category>
+  <numbers><cebuano num="264"/><chinese num="209"/><english num="264"/><french num="44"/><german num="264"/><korean num="209"/><portuguese num="137"/><russian num="51"/><tagalog num="264"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 1 1/ 2 2/ | 3 2/ 1 5_./ | 6_. 6_./ 1 6_./ | 5_..( 5_.) 5_./ (break) | 1 1/ 2 2/ | 3 4/ 5 3//( 2//) | 1 1/ 2 2/ | 1.( 1) 1/ | 3 3/ 2 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>Je -- sus, Thine all- -- vic -- tor -- ious love Shed in my soul a -- broad; Then shall my heart no long -- er rove, Root -- ed and fixed in God, Root -- ed and fixed in God.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj086.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, Thine all-victorious love
+  Shed in my soul abroad;
+Then shall my heart no longer rove,
+  Rooted and fixed in God,
+  Rooted and fixed in God.</stanza>
+	<stanza type="verse" number="2">Oh, that in me the sacred fire
+  Might now begin to glow;
+Burn up the dross of base desire,
+  And make the mountains flow,
+  And make the mountains flow.</stanza>
+	<stanza type="verse" number="3">He, who at Pentecost didst fall,
+  May He my sins consume;
+Thy Holy Ghost, for Him I call;
+  Thy burning Spirit, come,
+  Thy burning Spirit, come.</stanza>
+	<stanza type="verse" number="4">Refining fire, go through my heart,
+  Illuminate my soul;
+Scatter Thy life through every part,
+  And sanctify the whole,
+  And sanctify the whole.</stanza>
+	<stanza type="verse" number="5">My steadfast soul, from falling free,
+  Shall then no longer move,
+While Christ is all the world to me,
+  And all my heart is love,
+  And all my heart is love.</stanza>
+  </lyrics>
+</hymn>

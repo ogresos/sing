@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sing praise to Christ Who lives in us</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;So Great a Salvation</category>
+  <numbers><cebuano num="1130"/><chinese num="ts:34"/><english num="1130"/><german num="1130"/><lsmyp num="79"/><russian num="359"/><tagalog num="1130"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Gene Ford">G. F.</author>
+	<composer biodate="1566" biolink="">Bohemian Brethren "Kirchengesange"</composer>
+  </creators>
+  <meter>8.7.8.7.8.8.7.</meter>
+  <hymncode>13451765654323421</hymncode>
+  <key>Db Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - C/E - | F - C/E - F - | Dm - - - C/G - | G7 - C - - - | C - - - C/E - | F - C/E - F - | Dm - - - C/G - | G7 - C - Am - | F - C/E - Am - | D7 - G - G7 - | C - - - Am - | D7 - G - C/E - | F - Dm - C/G - | G7 - C - 0 - |</chords>
+ <guitarChords>| C - - - - - | C - - - - - | F - C - F - | F - - - - - | G7 - C - - - | C - - - - - | F - C - F - | F - - - - - | G7 - C - - - | F - C - - - | F - C - - - | C - - - - - | D7 - G - - - | F - - - - - | G7 - C - 0 - |</guitarChords>
+  <melody>| 0 - - - 1 - | 3 4 5 - ._1 - | 7 6 5 - 6.( 5/) | 4 3 2 - 3( 4) (break) | 2 - 1 - 1 - | 3 4 5 - ._1 - | 7 6 5 - 6.( 5/) | 4 3 2 - 3( 4) (break) | 2 - 1 - ._1 - | 7 6 5 - ._1 - | 7 6 5 - 5 - | 1 2 3 - 1 - (break) | 3 4# 5 - 5 - | 6 4 2 - 3( 4) | 2 - 1 - 0 - |</melody>
+  <layout>
+	<singingstanza>Sing praise to Christ Who lives in us, The God of our sal -- va -- tion; Who saves us by His life di -- vine, And not by re -- gu -- la -- tion; Aft -- er we've worked&amp;mdash; done all we can, His life has power to change a man: His life di -- vine can change us.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj012.xml</link>
+	<link type="ref">Hebrews 7</link>
+  </links>
+  <music>
+	<midi location="h" length="29">e1130_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sing praise to Christ Who lives in us,
+The God of our salvation;
+Who saves us by His life divine,
+And not by regulation;
+After we've worked&amp;mdash;done all we can,
+His life has power to change a man:
+His life divine can change us.</stanza>
+	<stanza type="verse" number="2">He saves us to the uttermost
+By His life-giving power;
+Transfusing Himself into us,
+He saves us hour by hour.
+He saved the lost by coming in,
+He's saving now from more than sin:
+He's saving us to glory!</stanza>
+	<stanza type="verse" number="3">Our Lord was constituted priest
+To be a real life-giver;
+Life is the nature of this One
+Who can from self deliver:
+His life is indestructible,
+By it He saves us to the full:
+Praise God, He's fully able!</stanza>
+	<stanza type="verse" number="4">His life is fully qualified
+To bring us through to glory;
+Were it not for His tested life,
+'Twould be another story
+His life was fully tried on earth,
+To crucifixion from His birth:
+He passed through death and Hades.</stanza>
+	<stanza type="verse" number="5">He's pledged to save us to the full,
+His life is operating;
+He's doing everything for us
+'Tis all for our perfecting;
+Our life's a failure at its best,
+Only His life can stand the test:
+His life brings full salvation!</stanza>
+	<stanza type="verse" number="6">He's living now to intercede,
+Continuing forever;
+He undertakes into the age,
+His priesthood changes never;
+He always lives to intercede,
+Such a High Priest is what we need:
+He's higher than the heavens.</stanza>
+	<stanza type="verse" number="7">Come forward now to God through Him,
+Ne'er shrink back to destruction;
+Come forward now to get the life,
+Which brings the proper function;
+Come forward now the life to take,
+By life His people us He'll make,
+And swallow death forever.</stanza>
+  </lyrics>
+</hymn>

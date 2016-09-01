@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, hallelujah, what a death</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Death</category>
+  <numbers><english num="1087"/><portuguese num="50"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/ 7/ 6/ 5/ | 5./ 4// 3/ ._1/ | ._1/ 7/ 6/ 5/ (break) | 5./ 4// 3/ 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/( ._1) 6/ | 5./( 4//) 3/ 4/ | 3 2 | 1 - |</melody>
+  <layout>
+    <singingstanza>Oh, hal -- le -- lu -- jah, what a death Christ died up -- on the cross! Not on -- ly was He dy -- ing there But ev -- ery -- thing that death did share: God was in -- clud -- ed too, All men with me and you&amp;mdash; Oh hal -- le -- lu -- jah, for such a cross!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj145.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, hallelujah, what a death
+  Christ died upon the cross!
+Not only was He dying there
+But everything that death did share:
+  God was included too,
+  All men with me and you&amp;mdash;
+Oh hallelujah, for such a cross!</stanza>
+    <stanza type="verse" number="2">Oh, praise the Lord, man died in God
+  And to an end was brought!
+Now from this man I'm wholly free
+For God has terminated me!
+  Oh, what a wondrous death,
+  Oh, what a wondrous death;
+Oh, hallelujah, for such a death!</stanza>
+    <stanza type="verse" number="3">Oh, praise the Lord, God died in man,
+  In man to be released.
+The grain of wheat fell to the ground,
+And now a multitude is found
+  Filled with the life of God,
+  Filled with the life of God;
+Oh, hallelujah, for such a life!</stanza>
+    <stanza type="verse" number="4">Lord, how we praise You for Your cross,
+  Your all-inclusive death!
+The center of the universe,
+It has untold, eternal worth!
+  Lord, how we love Your cross,
+  Lord, how we love Your cross;
+Oh, hallelujah, for such a cross!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Simply trusting every day</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Trusting Him</category>
+  <numbers><english num="569"/><french num="105"/><spanish num="267"/></numbers>
+  <creators>
+    <author biodate="1836-1921" biolink="">Edgar Page Stites</author>
+  </creators>
+  <melody>| 3 - 2 4 - 3 | 3 - 2 1 - - | 1 - 6_. 1 - 6_. | 5_.( 1) 3 2 - - (break) | 3 - 2 4 - 3 | 2 - 1 6_. - - | 5_.( 1) 3 5 - 3 | 3 - 2 1 - - (break) | 5 - 3 5 - 3 | 3 - 2 2 - - | 3 - 7_. 1 - 1 | 2 - 6_. 7_. - - (break) | 1 - 1 2 - 2 | 3 - 3 4 - - | 5 - 6 5( 3) 1 | 3 - 2 (.1 - - |</melody>
+  <layout>
+    <singingstanza>Sim -- ply trust -- ing ev -- ery day; Trust -- ing through a storm -- y way; Ev -- en when my faith is small, Trust -- ing Je -- sus, that is all. Trust -- ing as the mo -- ments fly, Trust -- ing as the days go by, Trust -- ing Him, what -- e'er be -- fall, Trust -- ing Je -- sus, that is all.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj074.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="223"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Simply trusting every day;
+Trusting through a stormy way;
+Even when my faith is small,
+Trusting Jesus, that is all.</stanza>
+    <stanza type="chorus" number="">Trusting as the moments fly,
+Trusting as the days go by,
+Trusting Him, whate'er befall,
+  Trusting Jesus, that is all.</stanza>
+    <stanza type="verse" number="2">Brightly doth His Spirit shine
+Into this poor heart of mine;
+While He leads I cannot fall,
+Trusting Jesus, that is all.</stanza>
+    <stanza type="verse" number="3">Singing if my way be clear,
+Praying if the path be drear;
+If in danger, for Him call,
+Trusting Jesus, that is all.</stanza>
+    <stanza type="verse" number="4">Trusting Him while life shall last,
+Trusting Him till earth is past,
+Till His gracious advent call,
+Trusting Jesus, that is all.</stanza>
+  </lyrics>
+</hymn>

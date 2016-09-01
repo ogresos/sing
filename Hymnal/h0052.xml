@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Father, to Thee a joyful song we raise</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Praise from Many Sons</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <layout>
+	<singingstanza>Fa -- ther, to Thee a joy -- ful song we raise With all Thine own; And in Thy pre -- sence sound a note of praise To Thee a -- lone; Bro't nigh, bro't home to Thee&amp;mdash; O won -- drous grace, That gives us now with Thine own Son our place.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj236.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Father, to Thee a joyful song we raise
+    With all Thine own;
+And in Thy presence sound a note of praise
+    To Thee alone;
+Bro't nigh, bro't home to Thee&amp;mdash;O wondrous grace,
+That gives us now with Thine own Son our place.</stanza>
+	<stanza type="verse" number="2">How deep the holy joy that fills that scene,
+    Where love is known!
+Thy love, our God and Father, now is seen,
+    In Him alone;
+As, in the holy calm of Thine own rest,
+He leads the praise of those Thy love has blessed.</stanza>
+	<stanza type="verse" number="3">He leads the praise! How precious to Thine ear
+    The song He sings!
+How precious, too, to Thee&amp;mdash;how near, how dear
+    Are those He brings
+To share His place: 'twas thus that Thou didst plan;
+Thou lovedst Him before the world began.</stanza>
+  </lyrics>
+</hymn>

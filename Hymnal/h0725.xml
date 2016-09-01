@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Strong are the walls around me</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Enjoyment in Suffering</category>
+  <numbers><chinese num="525"/><english num="725"/><korean num="525"/></numbers>
+  <creators>
+    <author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+    <composer biodate="" biolink="">E. K. Brinkworth</composer>
+  </creators>
+  <meter>7.6.7.6.8.8.</meter>
+  <hymncode>133335433326123</hymncode>
+  <key>Eb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - - - | C/E - - C - - | F - - C/G - G | C - - F/C - - | C - - G/B - - | Am - - C/G - - | G/D - - D7 - - | G - - - - - | F - - G7 - - | C - - Am - - | Dm/F - - Dm - - | G7 - - C - - |</chords>
+  <melody>| 0 - - 0 - 1 | 3 - 3 3 - 3 | 5( - 4) 3 - 3 | 3( 2) 6_. 1 - 2 (break) | 3( - - 3) - 1 | 3 - 3 3 - 3 | 5( - 4) 3 - 3 | 2( 5) 6 7 - 6 (break) | 5( - - 5) - 5 | 6 - 6 4( 3) 4 | 5 - 5 3 - 3 | 2 - 3 4( 5) 6 | 3 - 2 (.1 - 0 |</melody>
+  <layout>
+    <singingstanza>Strong are the walls a -- round me, That hold me all the day; But they who thus have bound me, Can -- not keep God a -- way: My ve -- ry dun -- geon walls are dear, Be -- cause the God I love is here.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj015.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e0725_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Strong are the walls around me,
+  That hold me all the day;
+But they who thus have bound me,
+  Cannot keep God away:
+My very dungeon walls are dear,
+Because the God I love is here.</stanza>
+    <stanza type="verse" number="2">They know, who thus oppress me,
+  'Tis hard to be alone;
+But know not One can bless me,
+  Who comes through bars and stone;
+He makes my dungeon's darkness bright,
+And fills my bosom with delight.</stanza>
+    <stanza type="verse" number="3">Thy love, O God, restores me
+  From sighs and tears to praise;
+And deep my soul adores Thee,
+  Nor thinks of time or place:
+I ask no more, in good or ill,
+But union with Thy holy will.</stanza>
+    <stanza type="verse" number="4">'Tis that which makes my treasure,
+  'Tis that which brings my gain;
+Converting woe to pleasure,
+  And reaping joy from pain.
+Oh, 'tis enough, whate'er befall,
+To know that God is All in all.</stanza>
+  </lyrics>
+</hymn>

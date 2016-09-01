@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, my Savior, to Bethlehem came</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <numbers><chinese num="673"/><english num="989"/><korean num="673"/><tagalog num="989"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">E. E. Hasty</composer>
+  </creators>
+  <meter>10.10.10.6. with chorus.</meter>
+  <hymncode>5433212166</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C7/E. | F. Dm. | C/E. Am. | F. G7. | C. C7/E. | F. F/A. | C/G. G7. | C - - | G/B. G7. | C. C/E. | Dm. G7. | C - - | C. C7/E. | F. D7/F#. | C/G. G7. | F/C. C. |</chords>
+  <melody>| 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_../ 1// 1/ 1/ 2/ 3/ | 3./ 2// 1/ 2. (break) | 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_./ 1/ 3/ 2 1/ | 1.( 1) 0/ (break) | (Chorus) 5_./ 7_./ 2/ 5 4/ | 3.( 1) 0/ | 5_./ 7_./ 2/ 4 6/ | 5.( 3) 0/ (break) | 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_./ 1/ 3/ 2 1/ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>Je -- sus, my Sav -- ior, to Beth -- le -- hem came, Laid in a man -- ger to sor -- row and shame; O it was won -- der -- ful, blest be His name, Seek -- ing for me, for me: Seek -- ing for me, for me, Seek -- ing for me, for me; O it was won -- der -- ful, blest be His name, Seek -- ing for me, for me.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj108.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="49">e0989_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, my Savior, to Bethlehem came,
+Laid in a manger to sorrow and shame;
+O it was wonderful, blest be His name,
+  Seeking for me, for me:
+  Seeking for me, for me,
+  Seeking for me, for me;
+O it was wonderful, blest be His name,
+  Seeking for me, for me.</stanza>
+    <stanza type="verse" number="2">Jesus, my Savior, on Calvary's tree
+Paid the great debt, and my soul He set free;
+O it was wonderful&amp;mdash;how could it be?
+  Dying for me, for me!
+  Dying for me, for me,
+  Dying for me, for me;
+O it was wonderful&amp;mdash;how could it be?
+  Dying for me, for me!</stanza>
+    <stanza type="verse" number="3">Jesus, my Savior, the same as of old,
+While I was wand'ring in darkness and cold,
+Gently and long did He plead with my soul,
+  Calling for me, for me!
+  Calling for me, for me,
+  Calling for me, for me;
+Gently and long did He plead with my soul,
+  Calling for me, for me!</stanza>
+    <stanza type="verse" number="4">Jesus, my Savior, shall come from on high.
+Sweet is the promise as weary years fly:
+O I shall see Him descend from the sky,
+  Coming for me, for me!
+  Coming for me, for me,
+  Coming for me, for me;
+O I shall see Him descend from the sky,
+  Coming for me, for me!</stanza>
+    <stanza type="note" number="">(Repeat the last two lines of each stanza for chorus)</stanza>
+  </lyrics>
+</hymn>

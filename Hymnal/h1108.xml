@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Eat the bread, ye people of the Lord</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="1108"/><chinese num="ts:621"/><english num="1108"/><german num="1108"/><korean num="982"/><russian num="407"/><spanish num="106"/><tagalog num="1108"/></numbers>
+  <meter>9.9.9.9. with chorus.</meter>
+  <hymncode>151234531234275123</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - C/E - | Dm - G7 - | C - - - | C - G/B - | Am - C/G - | Dm7 - G7 - | C - C7/E - | F - G7/F - | Em - Am - | Dm - G7 - | C - C7/E - | F - G7/F - | C/E - C - | C/E - D7 - | G - G7 - |</chords>
+<guitarChords>| C - - - | C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | G - G7 - | C - - - | F - - - | C - - - | C - D7 - | G - G7 - |</guitarChords>
+  <melody>| 0 - - 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 7_. 5_. (break) | 1 2 3 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 1/ 7_./ 6_./ 7_./ (break) | 1 - - (Chorus) 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5( - 5/) 0/ 3/ 5/ | 4. 2/ 7_. 4 (break) | 3( - 3/) 0/ 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5 - - 3/ 4/ | 5 5 6 7/( ._1/) | 7 - - 0 |</melody>
+  <layout>
+	<singingstanza>Eat the bread, ye peo -- ple of the Lord: Praise His name, for He has made us one. Now we come to eat in one ac -- cord As the church which He has made His own. Eat the bread and drink the wine, ye saints! We are one in Him for -- e'er. Stand in one -- ness on the lo -- cal ground, Eat and drink in one -- ness there!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj163.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="35">e1108_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Eat the bread, ye people of the Lord:
+Praise His name, for He has made us one.
+Now we come to eat in one accord
+As the church which He has made His own.</stanza>
+	<stanza type="chorus" number="">Eat the bread and drink the wine, ye saints!
+We are one in Him fore'er.
+Stand in oneness on the local ground,
+  Eat and drink in oneness there!</stanza>
+	<stanza type="verse" number="2">Drink the wine, ye people of the Lord:
+We're the church His precious blood has bought.
+We're redeemed to be in one accord&amp;mdash;
+This the goal for which He long has sought.</stanza>
+	<stanza type="chorus" number="">Eat the bread and drink the wine, ye saints!
+We are one in Him fore'er.
+Stand in oneness on the local ground,
+  Eat and drink in oneness there!</stanza>
+	<stanza type="verse" number="3">Stand as one, ye people of the Lord:
+Not as individual grains are we&amp;mdash;
+We are one, we're blent in one accord
+As a loaf in each locality.</stanza>
+	<stanza type="chorus" number="">Eat the bread and drink the wine, ye saints!
+We are one in Him fore'er.
+Stand in oneness on the local ground,
+  Eat and drink in oneness there!</stanza>
+	<stanza type="verse" number="4">We are one as people of the Lord;
+We declare that we are really one!
+Not just word, but life in one accord
+Testify what God in us hath done.</stanza>
+	<stanza type="chorus" number="">Eat the bread and drink the wine, ye saints!
+We are one in Him fore'er.
+Stand in oneness on the local ground,
+  Eat and drink in oneness there!</stanza>
+	<stanza type="verse" number="5">Eat the bread, ye people of the Lord:
+Praise His name, for He has made us one.
+Now we come to eat in one accord
+As the church which He has made His own.</stanza>
+	<stanza type="note" number="">(Do not repeat chorus after last verse)</stanza>
+  </lyrics>
+</hymn>

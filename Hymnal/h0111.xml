@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, the sinner's Friend</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Redemption</category>
+  <creators>
+    <author biodate="" biolink="">Mrs. Pennefather</author>
+    <composer biodate="1842-1914" biolink="">Robert Jackson</composer>
+  </creators>
+  <meter>6.6.8.6.</meter>
+  <hymncode>333413543232</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | F/C - - | C - - | C - - | D7 - - | G7 - - | C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - F/C | C - 0 |</chords>
+<guitarChords>| C - - | F - - | C - - | C - - | D7 - - | G7 - - | C - - | C - - | F - - | F - - | C - - | G7 - - | C - F | C - 0 |</guitarChords>
+  <melody>| 3 3 3 | 4 - 1 | 3 - - | 5 4 3 | 2 - 3 | 2 - - (break) | 3 4 6 | 5 - 3 | 3 - 2 | 4 - 2 | 1( 7_.) 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus, the sin -- ner's Friend, We hide our -- selves in Thee; God looks up -- on Thy sprin -- kled blood, It is our on -- ly plea.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj157.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0111_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, the sinner's Friend,
+  We hide ourselves in Thee;
+God looks upon Thy sprinkled blood,
+  It is our only plea.</stanza>
+    <stanza type="verse" number="2">He hears Thy precious Name,
+  We claim it as our own;
+The Father must accept and bless
+  His well-beloved Son.</stanza>
+    <stanza type="verse" number="3">Thou hast fulfilled the law,
+  And we are justified:
+Ours is the blessing, Thine the curse;
+  We live, for Thou hast died.</stanza>
+    <stanza type="verse" number="4">Jesus, the sinner's Friend!
+  We cannot speak Thy praise;
+No mortal voice can sing the song
+  That ransomed hearts would raise.</stanza>
+    <stanza type="verse" number="5">But when before the throne,
+  Thy face we all shall see,
+Clothed in our blood-bought robes of white,
+  We'll stand complete in Thee.</stanza>
+    <stanza type="verse" number="6">Jesus, we'll give Thee then
+  Such praises as are meet,
+And give ten thousand thanks to Thee,
+  Adoring, at Thy feet.</stanza>
+  </lyrics>
+</hymn>

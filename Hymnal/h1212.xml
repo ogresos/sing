@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Lord of all has shown His plan</title>
+  <index>true</index>
+  <category>Various Aspects of the Inner Life&amp;mdash;The Growth in Life</category>
+  <numbers><english num="1212"/><spanish num="324"/></numbers>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>51113212311356</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | G - G/B - | Am - C/E - | F - - - | C - Am - | G - - E7/G# | F - G7 - | C - - - | C - Am - | G/B - G - | C - C7/E - | F - - - | C - Am - | Dm - G - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_. | 1. 1/ 1 3 | 2. 1/ 2 3 | 1. 1/ 3 5 (break) | 6 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 3 | 1. 6_./ 6_. 5_. (break) | 1 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 6 | 5. 3/ 3 5 (break) | 6 - - ._1 | 5. 3/ 3 1 | 2. 1/ 2 3 | 1. 6_./ 6_. 5_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>The Lord of all has shown His plan Un -- to each faith -- ful one, Who leaves be -- hind the world -- ly things As vir -- gins for His Son. To be His Bride we must match Him, With -- in and out -- ward -- ly; To be this one who match -- es Him, En -- joy Him con -- stant -- ly.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj229.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e1212_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Lord of all has shown His plan
+  Unto each faithful one,
+Who leaves behind the worldly things
+  As virgins for His Son.
+To be His Bride we must match Him,
+  Within and outwardly;
+To be this one who matches Him,
+  Enjoy Him constantly.</stanza>
+    <stanza type="verse" number="2">Like virgins who so single are,
+  They love the Groom so much,
+They in His presence ever stay&amp;mdash;
+  Lord Jesus, make us such.
+Lord, make us those who are so wise,
+  Who gain You every day,
+The wise ones who enjoy the feast,
+  Who all the price will pay.</stanza>
+    <stanza type="verse" number="3">The virgins are mature in life,
+  They grow so normally.
+They daily eat and drink the Lord,
+  Their lot eternally.
+Our need today is growth in life,
+  Christ's inward work indeed;
+Not knowledge, teachings, gifts, nor pow'r&amp;mdash;
+  But life is all we need.</stanza>
+    <stanza type="verse" number="4">Lord, as the seed of life within,
+  Grow more in us each day;
+By spreading from our deepest part,
+  Gain us in every way.
+Lord, strengthen Thou our inner man;
+  Make home in all our heart.
+Fill us completely with Thyself
+  In every inward part.</stanza>
+  </lyrics>
+</hymn>

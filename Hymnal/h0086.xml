@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though Thou art God, most glorious, high</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Life</category>
+  <numbers><cebuano num="86"/><chinese num="77"/><english num="86"/><french num="18"/><german num="86"/><korean num="77"/><lsmyp num="21"/><russian num="398"/><spanish num="50"/><tagalog num="86"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<!--<composer biodate="" biolink="">Arranged by Paul Beckwith</composer>-->
+  </creators>
+  <meter>8.8.8.6.</meter>
+  <hymncode>5345111765</hymncode>
+  <key>Bb Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C/E. | F. C. | Dm. Dm/C. | G7. C. | C. G/B. | Am. F. | C/G. G7. | C F/C/ C. |</chords>
+<guitarChords>| C. C. | F. C. | G. G. | G7. C. | C. C. | C. F. | C. G7. | C. C. |</guitarChords>
+  <melody>| 5/ 3/ 4/ 5/( ._1/) ._1/ | ._1/ 7/ 6/ 5. | 4/ 2/ 3/ 4/( 6/) 6/ | 6/( 5/) 4/ 3. (break) | 5/ 3/ 4/ 5/( ._1/) ._2/ | ._3/( ._2/) ._1/ 6 6/ | 5 5/ 5 5/ | 5 - - |</melody>
+  <layout>
+	<singingstanza>Though Thou art God, most glo -- ri -- ous, high, Thou in the flesh to us came nigh, A low -- ly man be -- come there -- by; Lord, I re -- mem -- ber Thee!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj154.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0086.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="22">e0086_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Though Thou art God, most glorious, high,
+Thou in the flesh to us came nigh,
+A lowly man become thereby;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="2">Glory divine was put away
+Under the tent of flesh to stay,
+No outward beauty to display;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="3">Thou art a root from out dry ground,
+Thou wast the Man of sorrows found,
+Hated, despised by man around;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="4">Gentle and lowly is Thy heart,
+Willing to suffer all Thou art,
+To God and man complaining not;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="5">Thou as a man art tender, sweet,
+Balanced in every way, complete,
+Meal-offering to the Father meet;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="6">Doing the Father's will Thy prize,
+Never accepting Satan's lies,
+None like Thyself, so faithful, wise;
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="7">For Thine obedience to God's will,
+Willing to suffer deathly ill,
+E'en on the Cross my place to fill,
+  Lord, I remember Thee!</stanza>
+	<stanza type="verse" number="8">Therefore hath God exalted Thee,
+Given Thee glory, majesty,
+Heaven and earth will bow the knee;
+  O Lord, I worship Thee!</stanza>
+  </lyrics>
+</hymn>

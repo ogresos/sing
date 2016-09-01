@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Lord is longing for His Bride</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Preparing for Christ's Return</category>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - - 1 | 7_. - 2 - | 1 - - - (break) | 3 - 4 5 | 6 - 2 - | 2 - - - (break) | 7 - 6 5 | ._1 - - 5 | 4 - 5 - | 3 - - - (break) | 5 - 4 2 | 6_. - 7_. - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>The Lord is long -- ing for His Bride, All glo -- ri -- ous with -- in. His heart will then be sat -- is -- fied When she is fit for Him.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj114.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="745"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Lord is longing for His Bride,
+  All glorious within.
+His heart will then be satisfied
+  When she is fit for Him.</stanza>
+    <stanza type="verse" number="2">'Tis by the Word the church is made
+  Holy and pure as He;
+All spots and wrinkles it removes
+  That she His Bride may be.</stanza>
+    <stanza type="verse" number="3">We must redeem these golden days,
+  Eating the Word in prayer,
+Amening every line and phrase,
+  And thus for Him prepare.</stanza>
+    <stanza type="verse" number="4">Oh, how the Word doth penetrate,
+  Spirit and soul divide,
+Revealing every hidden weight
+  For us to lay aside.</stanza>
+    <stanza type="verse" number="5">Lord, how we thank Thee for Thy Word,
+  Living and operative.
+Oh, for Thy coming, we are stirred
+  Ever by it to live!</stanza>
+    <stanza type="verse" number="6">Lord, make us those who bring Thee back,
+  Who satisfy Thy heart.
+Now by Thy Word supply our lack,
+  Make us Thy counterpart.</stanza>
+  </lyrics>
+</hymn>

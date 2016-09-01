@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glory, glory to the Father</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Praise</category>
+  <numbers><cebuano num="7"/><chinese num="3"/><dutch num="10"/><english num="7"/><french num="1"/><german num="7"/><korean num="3"/><lsmyp num="1"/><portuguese num="1"/><russian num="2"/><spanish num="3"/><tagalog num="7"/></numbers>
+  <creators>
+	<author biodate="1865-1919" biolink="">Margaret Jenkins Harris</author>
+	<composer biodate="1865-1919" biolink="">Margaret Jenkins Harris</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>334321444254323</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | F - - - | C F C/G G7 | C - - - | C - - - | C/E - - - | C - A7 - | Dm7 - G7 - | C - G/D - | C/E - A - | Dm7 - G7 - | C - - - |</chords>
+<guitarChords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | F - - - | C - G G7 | C - - - | C - - - | C - - - | C - - - | G - G7 - | C - - - | C - - - | C - G - | C - - - |</guitarChords>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Glo -- ry, glo -- ry to the Fa -- ther! Glo -- ry, glo -- ry to the Son! Glo -- ry, glo -- ry to the Spir -- it! Glo -- ry to the Three in One! Let us praise Him! Let us praise Him! Praise our God, the Three in One! Give Him glo -- ry; give Him glo -- ry! Won -- drous things for us our God hath done.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj014.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="45">e0007_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Glory, glory to the Father!
+  Glory, glory to the Son!
+Glory, glory to the Spirit!
+  Glory to the Three in One!</stanza>
+	<stanza type="chorus" number="">Let us praise Him! Let us praise Him!
+Praise our God, the Three in One!
+Give Him glory; give Him glory!
+  Wondrous things for us our God hath done.</stanza>
+	<stanza type="verse" number="2">Praise the Father who has purposed!
+  Praise the Son who all has done!
+Praise the Spirit who transmitteth!
+  Praise the Three who work as one!</stanza>
+  </lyrics>
+</hymn>

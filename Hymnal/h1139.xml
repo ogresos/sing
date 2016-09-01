@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I will get me to the mountain</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><english num="1139"/><korean num="811"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I will get me to the moun -- tain, I will get me to the hill; In Thy death and re -- sur -- rec -- tion, Je -- sus, take me deep -- er still. I will get me to the moun -- tain, Will -- ing -- ly would get me there. All my self for -- e'er for -- sak -- ing, One with Thee, O Lord, Thy death to share.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj226.xml</link>
+    <link type="ref">Song of Songs 4:6</link>
+  </links>
+  <music>
+    <midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I will get me to the mountain,
+  I will get me to the hill;
+In Thy death and resurrection,
+  Jesus, take me deeper still.</stanza>
+    <stanza type="chorus" number="">I will get me to the mountain,
+Willingly would get me there.
+All my self fore'er forsaking,
+One with Thee, O Lord,
+    Thy death to share.</stanza>
+    <stanza type="verse" number="2">Still at times I sense the shadows
+  Of my nature, untransformed;
+Lord, I'll go unto the mountain,
+  To Thy death to be conformed.</stanza>
+    <stanza type="verse" number="3">On the mountain till the daybreak,
+  Linger I, Lord, thus with Thee,
+May Thy all-transforming Spirit
+  Saturate me thoroughly.</stanza>
+    <stanza type="verse" number="4">Mingled with Thee on the mountain,
+  Soon my sun begins to shine;
+Death has worked her deep impression,
+  Now my nature's one with Thine.</stanza>
+  </lyrics>
+</hymn>

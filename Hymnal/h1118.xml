@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Th' anointing's here! The Lord is moving now in us</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;The Anointing, Sealing, and Pledging</category>
+  <numbers><chinese num="ts:109"/><english num="1118"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">Lelia Naylor Morris</composer>
+    <composer biodate="1904" biolink="">Frances M. Lunk</composer>
+  </creators>
+  <meter>12.10.12.10. with chorus.</meter>
+  <hymncode>5111565556555</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C F/C C - | C - C/E - | D - D7/F# - | G - G/B - | C - Am - | F - Dm - | C/G - - - | G7 - C - | C - - - | C - - - | C - C/E - | Dm - - - | G - - - | G - - - | G7 - G7/B - | C - G7 - | C - - - | C - - - | C - C7/E - | F - - - | F - D7/F# - | C/G - Am - | Dm - G7 - | C F/C C - |</chords>
+ <guitarChords>| C - - - | C - - - | C - - - | G - - - | D7 - G - | C - - - | F - - - | C - - - | G7 - C - | C - - - | C - - - | C - - - | G - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | C - C7 - | F - - - | F - - - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Sisters:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brothers:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Th'a -- noint -- ing's here! The Lord is mov -- ing now in us; The oint -- ment dear to us has been ap -- plied. His blood pre -- vails! It gives to us the fel -- low -- ship, And now we have the liv -- ing flow of life. Th'a -- noint -- ing's here! O Christ -- ian broth -- ers, Th'a -- noint -- ing's here! We have be -- lieved. With -- in our spir -- it, the Spir -- it's mov -- ing, And this from Him we have re -- ceived. Th'a -- noint -- ing's here! O Christ -- ian sis -- ters, The flow with -- in will nev -- er cease. As He a -- noints us, we are a -- bid -- ing&amp;mdash; O Hal -- le -- lu -- jah! Life and peace!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj092.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="48">e1118_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Th' anointing's here! The Lord is moving now in us;
+The ointment dear to us has been applied.
+His blood prevails! It gives to us the fellowship,
+And now we have the living flow of life.</stanza>
+    <stanza type="chorus" number="">Sisters:
+Th' anointing's here! O Christian brothers,
+Th' anointing's here! We have believed.
+Within our spirit, the Spirit's moving,
+  And this from Him we have received.
+
+Brothers:
+Th' anointing's here! O Christian sisters,
+The flow within will never cease.
+As He anoints us, we are abiding&amp;mdash;
+  O Hallelujah! Life and peace!</stanza>
+    <stanza type="verse" number="2">Th' anointing's here! 'Tis God Himself that blends with us,
+And now the two are mingled into one.
+And hour by hour we live, and move, and have our life
+In God Himself&amp;mdash;the Spirit through the Son.</stanza>
+    <stanza type="verse" number="3">Th' anointing's here! It teaches us in everything;
+The sense of life we always have within.
+Obey this sense, and you will know what you must do,
+And live by Life&amp;mdash;Yes, clear in everything.</stanza>
+  </lyrics>
+</hymn>

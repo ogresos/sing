@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus! I am resting, resting</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Resting on Him</category>
+  <creators>
+    <author biodate="1845-1882" biolink="">Jean Sophia Pigott</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>8.7.8.5.D.</meter>
+  <hymncode>556567715565712</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | C - - - | G - - - | C - - - | F - Dm - | C/G - G7 - | C - - - | G - - - | C - - - | F - Dm - | C - G - | G - - - | C - - - | C/G - G7 - | C - - - | C - - - | F - C - | C - - - | G - - - | C - - - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5_.. 5_./ 6_. 5_. | 6_. 7_. 7_. 1 | 5_.. 5_./ 6_. 5_. | 7_. 1 2 - (break) | 3. 2/ 4 3 | 2 1 1 6_. | 5_. 1 1 7_. | 1 - - - (break) | 2. 2/ 1# 2 | 3 2 2 1 | 7_.. 7_./ 6_. 4 | 3 2 1( 7_.) (break) | 7_.. 7_./ 1 2 | 3 4 5 3 | 5_. 1 1 7_. | 1 - - - (break) | 5_.. 5_./ 6_. 5_. | 6_. 7_. 7_. 1 | 5_.. 5_./ 6_. 5_. | 7_. 1 2 - (break) | 3. 2/ 4 3 | 2 1 1 6_. | 5_. 1 1 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Je -- sus! I am rest -- ing, rest -- ing In the joy of what Thou art; I am find -- ing out the great -- ness Of Thy lov -- ing heart. Thou hast bid me gaze up -- on Thee, And Thy beau -- ty fills my soul, For, by Thy trans -- form -- ing pow -- er, Thou hast made me whole. Je -- sus! I am rest -- ing, rest -- ing In the joy of what Thou art; I am find -- ing out the great -- ness Of Thy lov -- ing heart.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj072.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="53">e0579_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus! I am resting, resting
+In the joy of what Thou art;
+I am finding out the greatness
+  Of Thy loving heart.
+Thou hast bid me gaze upon Thee,
+And Thy beauty fills my soul,
+For, by Thy transforming power,
+  Thou hast made me whole.</stanza>
+    <stanza type="chorus" number="">Jesus! I am resting, resting
+In the joy of what Thou art;
+I am finding out the greatness
+    Of Thy loving heart.</stanza>
+    <stanza type="verse" number="2">Oh, how great Thy loving kindness,
+Vaster, broader than the sea:
+Oh, how marvelous Thy goodness,
+  Lavished all on me!
+Yes, I rest in Thee, Beloved,
+Know what wealth of grace is Thine,
+Know Thy certainty of promise,
+  And have made it mine.</stanza>
+    <stanza type="verse" number="3">Simply trusting Thee, Lord Jesus,
+I behold Thee as Thou art,
+And Thy love, so pure, so changeless,
+  Satisfies my heart,
+Satisfies its deepest longings,
+Meets, supplies its every need,
+Compasseth me round with blessings,
+  Thine is love indeed.</stanza>
+    <stanza type="verse" number="4">Ever lift Thy face upon me,
+As I work and wait for Thee;
+Resting 'neath Thy smile, Lord Jesus,
+  Earth's dark shadows flee.
+Brightness of my Father's glory,
+Sunshine of my Father's face,
+Keep me ever trusting, resting,
+  Fill me with Thy grace.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Soldiers of Christ, arise (Alternate Tune)</title>
+  <category>Spiritual Warfare&amp;mdash;With God's Armor</category>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+    <composer biodate="1816-1893" biolink="">George Job Elvey</composer>
+  </creators>
+  <meter>6.6.8.6.D.</meter>
+  <hymncode>111336651432</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <melody>| 1 1/ 1/ 3 3 | 6 - - 6 | 5 1 4 3 | 2 - - 2 (break) | 3 5 6 5 | 4 3/( 2/) 5 ._1 | 7 ._1 6 6 | 5 - - 5 (break) | 5 3 2 1 | 6 - - 6 | 6 4# 3 2 | 7 - - 7 (break) | ._1. 7/ 6 5 | 4 2 3 5 | 4 3 2 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Sol -- diers of Christ, a -- rise, And put your arm -- or on, Strong in the strength which God sup -- plies, Through His e -- ter -- nal Son; Strong in the Lord of Hosts, And in His might -- y pow'r, Who in the strength of Je -- sus trusts Is more than con -- quer -- or.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj189.xml</link>
+    <link type="relevant" category="h" num="888" />
+  </links>
+  <music>
+    <midiref type="h" num="142"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Soldiers of Christ, arise,
+  And put your armor on,
+Strong in the strength which God supplies,
+  Through His eternal Son;
+  Strong in the Lord of Hosts,
+  And in His mighty pow'r,
+Who in the strength of Jesus trusts
+  Is more than conqueror.</stanza>
+    <stanza type="verse" number="2">Stand then in His great might,
+  With all His strength endued;
+And take, to arm you for the fight,
+  The panoply of God,
+  That, having all things done,
+  And all your conflicts past,
+Ye may o'ercome through Christ alone,
+  And stand complete at last.</stanza>
+    <stanza type="verse" number="3">Leave no unguarded place,
+  No weakness of the soul,
+Take every virtue, every grace,
+  And fortify the whole.
+  To keep your armor bright
+  Attend with constant care,
+Still walking in your Captain's sight
+  And watching unto prayer.</stanza>
+    <stanza type="verse" number="4">Pray, without ceasing pray,
+  Your Captain gives the word;
+His summons cheerfully obey,
+  And call upon the Lord:
+  To God your every want
+  In instant prayer display;
+Pray always; pray, and never faint;
+  Pray, without ceasing pray.</stanza>
+    <stanza type="verse" number="5">From strength to strength go on;
+  Wrestle, and fight, and pray;
+Tread all the powers of darkness down,
+  And win the well-fought day:
+  Still let the Spirit cry
+  In all His soldiers, "Come!"
+Till Christ the Lord descend from high,
+  And take the conquerors home.</stanza>
+  </lyrics>
+</hymn>

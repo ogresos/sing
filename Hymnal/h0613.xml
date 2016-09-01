@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I would commune with Thee, my God</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;Fellowship with Him</category>
+  <creators>
+    <author biodate="" biolink="">G. B. Bubier</author>
+    <composer biodate="" biolink="">J. E. Jones</composer>
+  </creators>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>553451776</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C/E - - | F - - | C - - | G - - | G7/B - - | C - - | C - - | C/E - - | F - - | C/E - - | F - A7/E | Dm - A7/C# | Dm - - | C/G - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 5 | 5( 3) 4 | 5( ._1) 7 | 7 - 6 | 5 - 5 | 5( 2) 3 | 4 - 4 (break) | 3 - 5 | 5( 3) 4 | 5( ._1) 7 | ._2( ._1) 6 | 5 - 3 | 6 - 5 | 4 - 3 (break) | (.4 - 4 | 3( 5) 4 | 3( 1) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>I would com -- mune with Thee, my God; E'en to Thy seat I come; I leave my joys, I leave my sins, And seek in Thee my home. And seek in Thee my home.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj082.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="29">e0613_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I would commune with Thee, my God;
+  E'en to Thy seat I come;
+I leave my joys, I leave my sins,
+  And seek in Thee my home.</stanza>
+    <stanza type="verse" number="2">I stand upon the mount of God,
+  With sunlight in my soul;
+I see the storms in vales beneath,
+  I hear the thunder's roll.</stanza>
+    <stanza type="verse" number="3">But I am calm with Thee, my God,
+  Beneath these glorious skies;
+And to the height on which I stand
+  Nor storms nor clouds can rise.</stanza>
+    <stanza type="verse" number="4">Oh, this is life! oh, this is joy,
+  My God, to find Thee so;
+Thy face to see, Thy voice to hear,
+  And all Thy love to know.</stanza>
+    <stanza type="note" number="">(Repeat the last line of each stanza)</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The proper story of God and man</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;In the Spirit</category>
+  <numbers><chinese num="450"/><english num="8450"/><tagalog num="c450"/></numbers>
+  <creators>
+    <composer biodate="1831-1912" biolink="">Adapted from Theodore E. Perkins</composer>
+  </creators>
+  <meter>10.6.10.6. with chorus.</meter>
+  <hymncode>5333234321222217</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - - - | D7 - - - | G - G7/B - | C - C/E - | F - - - | F - G7 - | C - C7/E - | F - - - | C - Am - | D - D7/F# - | G - G7/B - | C - C/E - | F - - - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_. | 3 3 3 2/ 3/ | 4 3 2 1 | 2 2/ 2/ 2 1 | 7_. - - 5_. (break) | 3 3 3 2/ 3/ | 4 3 2 1 | 6_./ 6_./ 5_. 1. 2/ | 1 - 0/ (Chorus) 1/ 2/ 3/ (break) | 4 6_. 1 0 | 3 5_. 1 0 | 2 2 2 1 | 7_. - - 5_. (break) | 3 3 3 2/ 3/ | 4 3 2 1 | 6_./ 6_./ 5_. 1. 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>The prop -- er sto -- ry of God and man is All in the Spir -- it's realm; Man must in spir -- it touch God the Spir -- it To ex -- pe -- ri -- ence Him. My spir -- it's Spir -- it- born, Spir -- it- filled, Spir -- it wor -- ship -- ping, Till Spir -- it- Word, with a -- bun -- dant life, Flows as a riv -- er from me.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="34">e8450_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The proper story of God and man is
+All in the Spirit's realm;
+Man must in spirit touch God the Spirit
+To experience Him.</stanza>
+    <stanza type="chorus" number="">My spirit's Spirit-born,
+Spirit-filled,
+Spirit worshipping,
+Till Spirit-Word, with abundant life,
+Flows as a river from me.</stanza>
+    <stanza type="verse" number="2">First God the Spirit made man a spirit,
+To worship Him thereby,
+Enabling man to gain God as life,
+And God to be man's supply.</stanza>
+    <stanza type="verse" number="3">God came as Spirit into man's spirit,
+Regenerating him;
+In spirit man can enjoy God's riches,
+Fellowshipping with Him.</stanza>
+    <stanza type="verse" number="4">Now God the Spirit infills, infuses,
+Thus I'm transformed, renewed;
+Till from my spirit to my whole being,
+I am soaked through and through.</stanza>
+    <stanza type="verse" number="5">With God the Spirit I'm joined and mingled,
+Transformed to like Him be;
+His element's added more and more
+Till His expression is seen.</stanza>
+    <stanza type="verse" number="6">As all God's riches are in the Spirit
+For our experience,
+I must in spirit each moment breathe Him,
+To enjoy all He is.</stanza>
+  </lyrics>
+</hymn>

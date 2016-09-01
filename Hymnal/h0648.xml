@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Soldier, soldier, fighting in the world's great strife</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Trusting the Lord</category>
+  <numbers><chinese num="478"/><english num="648"/><korean num="478"/><tagalog num="648"/></numbers>
+  <creators>
+    <author biodate="" biolink="">R. Hudson Pope</author>
+    <composer biodate="" biolink="">R. Hudson Pope</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>33333333523</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - E/B - | Am - - - | C/G - G7 - | C - - - | C/E - G/D - | C - - - | G/D - D7 - | G - - - | G/B - G7 - | C - - - | A/C# - A7 - | Dm - - - | Dm - F - | C/G - F - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 3. 3/ 3 3 | 3 - 3 - | 3. 3/ 5 2 | 3 - - - (break) | 5. 5/ 5 5 | 5 - 5 - | 5 4# 3 4# | 5 - - - (break) | 2. 2/ 3 4 | 4 - 3 - | 6. 3/ 3 5 | 5 - 4 - (break) | 4. 4/ 5 4 | 4 3 5 6 | 5 4/( 3/) 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Sol -- dier, sol -- dier, fight -- ing in the world's great strife, On thy -- self re -- ly -- ing, bat -- tling for thy life; Trust thy -- self no long -- er, Trust to Christ&amp;mdash; He's strong -- er; I can all things, all things do Through Christ, which strength -- eneth me.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <copyright>Used by permission of the South Africa General Mission.</copyright>
+  <links>
+    <link type="group">hymnal-subj050.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e0648_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Soldier, soldier, fighting in the world's great strife,
+On thyself relying, battling for thy life;
+  Trust thyself no longer,
+  Trust to Christ&amp;mdash;He's stronger;
+I can all things, all things do
+Through Christ, which strengtheneth me.</stanza>
+    <stanza type="verse" number="2">In your daily duty, standing up for right,
+Are you sometimes weary&amp;mdash;heart not always light?
+  Doubt your Savior never,
+  This your motto ever:
+I can all things, all things do
+Through Christ, which strengtheneth me.</stanza>
+    <stanza type="verse" number="3">If your way be weary He will help you through&amp;mdash;
+Help you in your troubles and your pleasures too;
+  Say, when Satan's by you;
+  Say, when all things try you:
+I can all things, all things do
+Through Christ, which strengtheneth me.</stanza>
+    <stanza type="verse" number="4">In a world of trouble, tempted oft to stray,
+You need never stumble, Satan cannot stay,
+  Will but tempt you vainly,
+  If you tell him plainly:
+I can all things, all things do
+Through Christ, which strengtheneth me.</stanza>
+    <stanza type="verse" number="5">Jesus' power is boundless, boundless as the sea;
+He is always able, able to keep me,
+  Power bring from my weakness,
+  Glory from my meekness:
+I can all things, all things do
+Through Christ, which strengtheneth me.</stanza>
+  </lyrics>
+</hymn>

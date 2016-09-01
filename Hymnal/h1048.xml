@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Just as I am</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Coming to the Lord</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><lsmyp num="302"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Charlotte Elliott</author>
+	<composer biodate="1816-1868" biolink="">William Batchelder Bradbury</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>12335432343</hymncode>
+  <key>Eb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - - - | Dm - G7 C - - | Dm - - G7/B - - | C - - - - - | C - - C7/E - - | F - - F/A - - | C/G - - Am - - | Dm - - G7 - - | C - F/C C - - |</chords>
+  <guitarChords>| C - - - - - | C - - - - - | G - G7 C - - | G - - G7 - - | C - - - - - | C - - C7 - - | F - - - - - | C - - - - - | G - - G7 - - | C - F C - - |</guitarChords>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <layout>
+	<singingstanza>Just as I am, with -- out one plea, But that Thy blood was shed for me, And that Thou bid'st me come to Thee, O Lamb of God, I come! I come!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj095.xml</link>
+	<link type="relevant" category="nt" num="1048"></link>
+  </links>
+  <music>
+	<midi location="h" length="35">e1048_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Just as I am, without one plea,
+But that Thy blood was shed for me,
+And that Thou bid'st me come to Thee,
+O Lamb of God, I come! I come!</stanza>
+	<stanza type="verse" number="2">Just as I am, and waiting not
+To rid my soul of one dark blot;
+To Thee whose blood can cleanse each spot,
+O Lamb of God, I come, I come!</stanza>
+	<stanza type="verse" number="3">Just as I am, though tossed about
+With many a conflict, many a doubt;
+Fightings within, and fears without,
+O Lamb of God, I come, I come!</stanza>
+	<stanza type="verse" number="4">Just as I am, poor, wretched, blind;
+Sight, riches, healing of the mind;
+Yes, all I need, in Thee to find,
+O Lamb of God, I come, I come!</stanza>
+	<stanza type="verse" number="5">Just as I am, Thou wilt receive,
+Wilt welcome, pardon, cleanse, relieve;
+Because Thy promise I believe,
+O Lamb of God, I come, I come!</stanza>
+	<stanza type="verse" number="6">Just as I am, Thy love unknown
+Has broken every barrier down;
+Now, to be Thine, yea, Thine alone,
+O Lamb of God, I come, I come!</stanza>
+  </lyrics>
+</hymn>

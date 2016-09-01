@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God has saved me from the world</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved from the World</category>
+  <numbers><cebuano num="1127"/><chinese num="ts:523"/><english num="1127"/><german num="1127"/><lsmyp num="78"/><russian num="72"/><spanish num="162"/></numbers>
+  <meter>7.8.7.8. with chorus.</meter>
+  <hymncode>55332461776545345</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C7/E - | Dm/F - Dm - | G - G7/B - | C - G7 - | C - C7/E - | Dm/F - Dm - | G - G7/B - | C F/C C - | C - C7/E - | Dm/F - Dm - | G - G7/B - | C - G7 - | C - C7/E - | Dm/F - Dm - | G - G7/B - | C F/C C - |</chords>
+<guitarChords>| C - C7 - | F - - - | G - G7 - | C - G7 - | C - C7 - | F - - - | G - G7 - | C F C - | C - C7 - | F - - - | G - G7 - | C - G7 - | C - C7 - | F - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 5 5 3 3 | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 4/ 5/ | 3( 4 5) - (break) | 5 5 3 3 | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 2/ 3/ | 1 - - - (break) | (Chorus) 5 - 3 - | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 4/ 5/ | 3( 4 5) - (break) | 5 - 3 - | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 2/ 3/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>God has saved me from the world; I'll nev -- er go back an -- y -- more. God has saved me from the world; I'll nev -- er go back an -- y -- more. No, no, no, no, no, I'll nev -- er go back an -- y -- more; No, no, no, no, no, I'll nev -- er go back an -- y -- more.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="h" length="32">e1127_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">God has saved me from the world;
+  I'll never go back anymore.
+God has saved me from the world;
+  I'll never go back anymore.</stanza>
+	<stanza type="chorus" number="">No, no, no, no, no,
+I'll never go back anymore;
+No, no, no, no, no,
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="2">I've come out from Babylon;
+  I'll never go back anymore.
+I've come out from Babylon;
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="3">Since I found the local church,
+  I'll never go back anymore.
+Since I found the local church,
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="4">Since I've touched the Lord within,
+  I'll never go back anymore.
+Since I've touched the Lord within,
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="5">Christ is everything to me;
+  I'll never go back anymore.
+Christ is everything to me;
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="6">Praise the Lord, I'm home at last;
+  I'll never go back anymore.
+Praise the Lord, I'm home at last;
+  I'll never go back anymore.</stanza>
+	<stanza type="verse" number="7">I'm for God's recovery;
+  I'll never go back anymore.
+I'm for God's recovery;
+  I'll never go back anymore.</stanza>
+  </lyrics>
+</hymn>
