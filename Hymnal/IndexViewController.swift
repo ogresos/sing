@@ -43,7 +43,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     var hymn: NSManagedObject!
     var hymnTitle = NSMutableString()
     var hymnNumber = String()
-    var stanzaText = NSMutableString()
+    var stanzaText = ""
     var stanzaNumber = String()
     var stanzaType = String()
     var stanzaOrder = 0
@@ -258,7 +258,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
                 
                 let path = Bundle.main.path(forResource:element, ofType: nil)
                 if(path != nil) {
-                    print(element)
+                    //print(element)
                     let url = NSURL(fileURLWithPath: path!) as URL
                     self.parser = XMLParser(contentsOf:url)
                     self.parser.delegate = self
@@ -268,7 +268,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             }
         }
         //let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)[0]
-        print("documents", bundlePath)
+//        print("documents", bundlePath)
         //let path = documentsPath.stringByApp
         //var files = extractAllFiles(atPath: documentsPath, withExtension: "xml")
         
@@ -282,7 +282,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         let fileManager = FileManager.default
         //let enumerator:NSDirectoryEnumerator = manager.enumeratorAtURL(url, includingPropertiesForKeys: keys, options: NSDirectoryEnumerationOptions(), errorHandler: nil)
         if let enumerator = fileManager.enumerator(atPath: path) {
-            print("file!")
+//            print("file!")
             for file in enumerator {
                 if let path = NSURL(fileURLWithPath: file as! String, relativeTo: pathURL as URL).path
                     , path.hasSuffix(".\(fileExtension)"){
@@ -302,7 +302,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             
             // Now we have enough info to create the hymn object
             hymn = createHymn(title: hymnTitle as String, number: hymnNumber)
-            print("Created hymn:", hymn)
+//            print("Created hymn:", hymn)
         }
         if ((elementName as NSString).isEqual(to: "stanza")) {
             if (attributeDict["number"] != nil) {
@@ -320,7 +320,8 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         if element.isEqual("title") {
             hymnTitle.append(string)
         } else if element.isEqual("stanza") {
-            stanzaText.append(string)
+            let trimmedString = string.trimmingCharacters(in: NSCharacterSet.whitespacesAndNewlines)
+            stanzaText.append(trimmedString)
         }
     }
     

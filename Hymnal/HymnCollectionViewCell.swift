@@ -58,7 +58,8 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         let number = stanza.value(forKey: "number") as! String
         cell.numberLabel.text = number
         let codedString = stanza.value(forKeyPath: "text") as! String
-        cell.stanzaTextView.attributedText = decodeString(string:codedString)
+        //cell.stanzaTextView.attributedText = decodeString(string:codedString)
+        cell.stanzaTextView.text = decodeString(string:codedString)
         print(stanza.value(forKeyPath: "text") as! String)
         
         
@@ -69,20 +70,27 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         return cell
     }
     
-    func decodeString(string: String) -> NSAttributedString {
-        let stringData: Data = string.data(using: String.Encoding.utf8)!
-        let options: NSDictionary = [NSDocumentTypeDocumentAttribute:NSHTMLTextDocumentType]
-        let font = [ NSFontAttributeName: UIFont(name:"Times New Roman", size:20.0)]
-        var decodedString: NSMutableAttributedString = NSMutableAttributedString()
-        do {
-            decodedString = try NSMutableAttributedString(data:stringData, options:options as! [String : Any], documentAttributes:nil)
-            
-        }
-        catch {
-            // string didn't convert
-        }
-        decodedString.addAttribute(NSFontAttributeName, value:UIFont(name:"Times New Roman", size:20.0)!, range:NSRange(location:0, length:decodedString.length-1))
-        return decodedString as NSAttributedString
+    func decodeString(string: String) -> String {
+        var newString = string.replacingOccurrences(of: "&mdash;", with: "—")
+        newString = newString.replacingOccurrences(of: "  ", with: "")
+        newString = newString.replacingOccurrences(of: "\n&#9;", with: "")
+        
+        return newString
+     //Attributed strings were removing the line breaks
+//        let stringData: Data = string.data(using: String.Encoding.utf8)!
+//        let options: NSDictionary = [NSDocumentTypeDocumentAttribute:NSHTMLTextDocumentType]
+//        var decodedString: NSMutableAttributedString = NSMutableAttributedString()
+//        do {
+//            decodedString = try NSMutableAttributedString(data:stringData, options:options as! [String : Any], documentAttributes:nil)
+//            
+//        }
+//        catch {
+//            // string didn't convert
+//        }
+//        decodedString.addAttribute(NSFontAttributeName, value:UIFont(name:"Times New Roman", size:20.0)!, range:NSRange(location:0, length:decodedString.length-1))
+//        
+//        return decodedString.mutableString as String
+//        //return decodedString as NSAttributedString
         
     }
     
