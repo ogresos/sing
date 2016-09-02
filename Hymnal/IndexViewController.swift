@@ -102,7 +102,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     func filterData() {
 
         if (searchController.searchBar.text != "") {
-            let searchPredicate = NSPredicate(format: "SELF.title CONTAINS[c] %@", searchController.searchBar.text!)
+            let searchPredicate = NSPredicate(format: "SELF.title CONTAINS[c] %@ || SELF.number CONTAINS[c] %@", searchController.searchBar.text!, searchController.searchBar.text!)
             let array = (hymns as NSArray).filtered(using: searchPredicate)
             
             filteredHymns = array as! [NSManagedObject]
@@ -130,7 +130,11 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         if((indexPath) != nil) {
             let hvc: HymnViewController = (segue.destination as? HymnViewController)!
             selectedIndexPath = indexPath!
-            hvc.selectedIndexPath = indexPath!
+            
+            let hymn = isDataFiltered ? filteredHymns[(indexPath?.row)!] : hymns[(indexPath?.row)!]
+            self.theHymn = hymn
+            
+            hvc.theHymn = self.theHymn
             //hvc.useLayoutToLayoutNavigationTransitions = true
         }
     }
@@ -147,23 +151,6 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         print("Attempting to unwind")
     }
     
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-//    - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
-//    {
-//    // Get the new view controller using [segue destinationViewController].
-//    // Pass the selected object to the new view controller.
-//    NSIndexPath *indexPath = [[self.collectionView indexPathsForSelectedItems] firstObject];
-//    
-//    if (indexPath) {
-//    FJDetailViewController *dvc = segue.destinationViewController;
-//    dvc.useLayoutToLayoutNavigationTransitions = YES;
-//    
-//    dvc.itemCount = [_itemCounts[indexPath.section] integerValue];
-//    dvc.color = indexPath.section;
-//    _selectedItem = indexPath.item;
-//    }
-//    
-//    }
     
     // UICollectionView methods
     
@@ -200,10 +187,6 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
         return cell
     }
     
-//    override func collectionView(_ collectionView: UICollectionView, viewForSupplementaryElementOfKind kind: String, at indexPath: IndexPath) -> UICollectionReusableView {
-//        searchController.searchBar.sizeToFit()
-//    }
-    
     
     func navigationController(_ navigationController: UINavigationController, didShow viewController: UIViewController, animated: Bool) {
         
@@ -211,7 +194,7 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             let hvc: HymnViewController = (viewController as? HymnViewController)!
             hvc.collectionView?.dataSource = hvc
             hvc.collectionView?.delegate = hvc
-            print("scroll to indexPath", selectedIndexPath)
+            //print("scroll to indexPath", selectedIndexPath)
             //hvc.collectionView?.scrollToItem(at: selectedIndexPath, at: UICollectionViewScrollPosition.centeredVertically, animated: true)
             
         }

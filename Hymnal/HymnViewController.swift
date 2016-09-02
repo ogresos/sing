@@ -65,6 +65,16 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
 
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        self.navigationController?.isNavigationBarHidden = true
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        self.navigationController?.isNavigationBarHidden = false
+    }
+    
+
+    
     func setupMIDIFile() {
         self.soundbank = Bundle.main.url(forResource: "GeneralUser GS MuseScore v1.442", withExtension: "sf2")
         //self.soundbank = Bundle.main.url(forResource: "FluidR3Mono_GM", withExtension: "sf3")
@@ -126,17 +136,16 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         super.viewDidLayoutSubviews()
         
         if(!initialScrollDone) {
-            print("hymnview loaded, selected hymn", selectedIndexPath)
+            // Find the indexPath for the selected hymn
+
+            let row = indexForHymn(number: (theHymn as! Hymn).number!)
+            selectedIndexPath = [0, row]
+            print("loading hymn at index", selectedIndexPath)
             initialScrollDone = true
             self.view.layoutIfNeeded()
             collectionView!.scrollToItem(at: selectedIndexPath, at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
         }
         else {
-//            var insets = self.collectionView?.contentInset
-//            let value = (self.view.frame.size.width - (self.collectionView?.collectionViewLayout as! UICollectionViewFlowLayout).itemSize.width) * 0.5
-//            insets?.left = value
-//            insets?.right = value
-//            self.collectionView?.contentInset = insets!
             self.collectionView?.decelerationRate = UIScrollViewDecelerationRateFast;
         }
         
@@ -144,7 +153,15 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     }
     
     
-
+    func indexForHymn(number: String) -> Int {
+        for index in 0...hymns.count {
+            let hymn = hymns[index] as! Hymn
+            if (hymn.number == number) {
+                return index
+            }
+        }
+        return -1
+    }
     
 
     override func didReceiveMemoryWarning() {
@@ -253,7 +270,7 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         let fetchRequest: NSFetchRequest<Hymn> = Hymn.fetchRequest()
         
         // Set the batch size to a suitable number.
-        fetchRequest.fetchBatchSize = 100
+        fetchRequest.fetchBatchSize = 3000
         
         // Edit the sort key as appropriate.
         let sortDescriptor = NSSortDescriptor(key: "number", ascending: true)
