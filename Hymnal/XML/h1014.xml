@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Verily, verily</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Life</category>
+  <numbers><chinese num="695"/><english num="1014"/><korean num="695"/></numbers>
+  <creators>
+    <author biodate="1840-1907" biolink="">James McGranahan</author>
+    <composer biodate="1840-1907" biolink="">James McGranahan</composer>
+  </creators>
+  <meter>10.10.10.6. with chorus.</meter>
+  <hymncode>1121765123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | G/B - D7/A - | G - G7 - | C - C/E - | F - - - | Dm - G7 - | C F/C C - | C - - - | C - Dm - | Dm - Dm/C - | G7/B - C - | C - - - | F - - - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 1 1./ 2// 1/ 7_./ 6_./ 5_./ | 1 2 3 - | 2 2/ 3/ 2/ 1/ 7_./ 1/ | 2 3 4 - (break) | 3 5./ 5// 4/ 3/ 2/ 1/ | 7_. 6_. 4 - | 6 5/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3./ 4// 5 3./ 4// 5 | 6/ 5/ 4/ 3/ 4 - | 2./ 3// 4 2./ 3// 4 | 5/ 4/ 3/ 2/ 3 - (break) | 3 5./ 5// 4/ 3/ 2/ 1/ | 7_. 6_. 4 - | 6 5/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Oh, what a Sav -- ior that He died for me! From con -- dem -- na -- tion He hath made me free; "He that be -- liev -- eth on the Son" saith He, "Hath ev -- er -- last -- ing life." "Ver -- i -- ly, ver -- i -- ly, I say un -- to you;" "Ver -- i -- ly, ver -- i -- ly," mes -- sage ev -- er new! "He that be -- liev -- eth on the Son"&amp;mdash; 'tis true!&amp;mdash; "Hath ev -- er -- last -- ing life!"</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj099.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e1014_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, what a Savior that He died for me!
+From condemnation He hath made me free;
+"He that believeth on the Son" saith He,
+  "Hath everlasting life."</stanza>
+    <stanza type="chorus" number="">"Verily, verily, I say unto you;"
+"Verily, verily," message ever new!
+"He that believeth on the Son"&amp;mdash;'tis true!&amp;mdash;
+    "Hath everlasting life!"</stanza>
+    <stanza type="verse" number="2">All my iniquities on Him were laid,
+All my indebtedness by Him was paid;
+All who believe on Him, the Lord hath said,
+  "Hath everlasting life."</stanza>
+    <stanza type="verse" number="3">Though poor and needy, I can trust my Lord;
+Though weak and sinful, I believe His word;
+Oh, glad message; every child of God
+  "Hath everlasting life."</stanza>
+    <stanza type="verse" number="4">Though all unworthy, yet I will not doubt;
+For him that cometh He will not cast out:
+"He that believeth"&amp;mdash;oh, the good news shout!
+  "Hath everlasting life."</stanza>
+  </lyrics>
+</hymn>

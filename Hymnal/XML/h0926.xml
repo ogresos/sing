@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Send Thou, O Lord, to every place</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;The Messengers</category>
+  <creators>
+    <author biodate="1842-1905" biolink="">Mary Cornelia Bishop Gates</author>
+    <composer biodate="1850-1924" biolink="">Edwin D. Drewett</composer>
+  </creators>
+  <meter>8.8.8.6.</meter>
+  <hymncode>3334352316543322</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G/B - C - | F - C - | G - G/B - | C - C/E - | F - C/E - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 3 | 3. 3/ 4 3 | 5 2 3 1 | 6. 5/ 4 3 | 3 2 2 2 (break) | 3. 4/ 5 ._1 | 7. 6/ 5 5 | 4 2 6_. 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Send Thou, O Lord, to ev -- ery place Swift mes -- sen -- gers be -- fore Thy face, The her -- alds of Thy won -- drous grace, Where Thou Thy -- self wilt come.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="926b"></link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0926_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Send Thou, O Lord, to every place
+Swift messengers before Thy face,
+The heralds of Thy wondrous grace,
+  Where Thou Thyself wilt come.</stanza>
+    <stanza type="verse" number="2">Send men whose eyes have seen the King!
+Men in whose ears His sweet words ring;
+Send such Thy lost ones home to bring;
+  Send them where Thou wilt come.</stanza>
+    <stanza type="verse" number="3">To bring good news to souls in sin;
+The bruised and broken hearts to win;
+In every place to bring them in,
+  Where Thou Thyself wilt come.</stanza>
+    <stanza type="verse" number="4">Gird each one with the Spirit's sword,
+The sword of Thine own deathless word;
+And make them conquerors, conquering Lord,
+  Where Thou Thyself wilt come.</stanza>
+    <stanza type="verse" number="5">Raise up, O Lord the Holy Ghost,
+From this broad land a mighty host,
+Their war-cry, We will seek the lost,
+  Where Thou, O Christ, wilt come!</stanza>
+  </lyrics>
+</hymn>

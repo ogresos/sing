@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Via Bethlehem we journey</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Following the Lord</category>
+  <numbers><cebuano num="628"/><chinese num="469"/><english num="628"/><german num="628"/><korean num="469"/><russian num="277"/><tagalog num="628"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+	<composer biodate="1834-1918" biolink="">Charles Crozat Converse</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>556531165131532</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C7/E - | F - Dm - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - D/F# - | C/G - G7 - | C - - - | G/B - E7/G# - | Am - C/E - | F - Em Am | D7 - G7 - | C - C7/E - | F - D/F# - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - C7 - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - G7 - | C - - - | G - - - | C - - - | F - C - | G - G7 - | C - C7 - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 1/ 5/ 3/ | 2 - - 0 (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 2/ 1/ 7_./ | 1 - - 0 (break) | 2. 1#/ 2/ 3/ 4/ 2/ | 3 - 5 0 | 6. 6/ 5/ 3/ 4/ 3/ | 2 - - 0 (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 2/ 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Vi -- a Beth -- le -- hem we jour -- ney, We whose hearts on God are set; Babe -- like souls of Je -- sus learn -- ing, While our cheeks with tears are wet; For the man -- ger and the sta -- ble Are not plea -- sant to our eyes, But our feet must fol -- low Je -- sus, If our hands would grasp the prize.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>3</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj216.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="47">e0628_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Via Bethlehem we journey,
+We whose hearts on God are set;
+Babelike souls of Jesus learning,
+While our cheeks with tears are wet;
+For the manger and the stable
+Are not pleasant to our eyes,
+But our feet must follow Jesus,
+If our hands would grasp the prize.</stanza>
+	<stanza type="verse" number="2">Via Nazareth! the pathway
+Narrows still as on we go,
+Years of toil none understanding,
+Yet God teaches us to know
+That the servant is not greater
+Than the Lord, who through long years
+Hid Himself from this world's glory,
+Follow Him! Count not the tears.</stanza>
+	<stanza type="verse" number="3">Via Galilee, we see Him!
+Stones are hurled, and curses hissed
+By the men who gather round Him,
+Has He not the pathway missed?
+No! unharmed the Savior passes,
+And this rough bit of the way
+We must travel, since like Jesus,
+Nothing can our purpose stay.</stanza>
+	<stanza type="verse" number="4">Via too, the awful anguish
+Of the hours beneath the trees,
+Where the hosts of Satan linger,
+Awful hours of anguish these!
+Yet we fail not, for God's angels
+Minister to us, and say,
+"Look, beloved, at the glory,
+Conflict is but for a day!"</stanza>
+	<stanza type="verse" number="5">Then the Cross! for via Calvary
+Every royal soul must go;
+Here we draw the veil, for Jesus
+Only can the pathway show;
+"If we suffer with Him," listen,
+Just a little, little while,
+And the memory will have faded
+In the glory of His smile!</stanza>
+	<stanza type="verse" number="6">Then the grave, with dear ones weeping,
+Knowing that all life has fled;
+(Fellow-pilgrims, art thou numbered
+With the men the world calls dead?)
+Thence we rise, and live with Jesus,
+Throned above the world's mad strife,
+Gladly forfeiting forever,
+All that worldlings count as life.</stanza>
+	<stanza type="verse" number="7">On we press! and yonder gleaming,
+Nearing every day, we see
+The great walls of that fair city,
+God has built for such as we;
+And we catch the tender music
+Of the choirs that sing of One
+Who once died to have us with Him
+In His kingdom, on the throne.</stanza>
+	<stanza type="verse" number="8">Just a few more miles, beloved!
+And our feet shall ache no more;
+No more sin, and no more sorrow,
+Hush thee, Jesus went before;
+And I hear Him sweetly whispering,
+"Faint not, fear not, still press on,
+For it may be ere tomorrow,
+The long journey will be done."</stanza>
+  </lyrics>
+</hymn>

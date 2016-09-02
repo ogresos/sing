@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>One thing I of the Lord desire</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Cleansing</category>
+  <creators>
+    <author biodate="" biolink="">W. G. Smith</author>
+    <composer biodate="" biolink="">F. H. Byshe</composer>
+  </creators>
+  <meter>8.8.8.8.D.</meter>
+  <hymncode>34453321535772665</hymncode>
+  <key>Bb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G7 - | C - - - G7 - | C - - - C/E - | Dm - - - G7 - | C - - - G7 - | C - - - G/B - | Am - - - F - | C/G - - - G7 - | C - - - F/C - | C - - - C/E - | G - - - G/D - | G7 - - - G7/B - | C - - - F/C - | C - - - C7/E - | F - - - Dm - | C/G - - - G7 - | F/C - C - 0 - |</chords>
+  <melody>| 0 - - 3 4 4# | 5 - - ._3 ._3. ._2/ | ._1 - - 5 3 5 | 7 - - 7 ._2. 6/ (break) | 6( - 5) 3 4 4# | 5 - - ._3 ._3. ._2/ | ._1 - - ._1 ._1 ._1 |._1 - - 3 3. 2/ (break) | 1 - - (Chorus) ._1 7. 6/ | 5 - - 3 5. 3/ | 5 - - 7 6 5 | 7 - - 6 5 6 (break) | 5 - - ._1 7 6 | 5 - - 3 5 5# | 6 - - ._1 ._1 ._1 | ._5 - - ._3 ._3. ._2/ | ._1 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>One thing I of the Lord de -- sire, For all my path hath mir -- y been: Be it by wa -- ter or by fire, Oh, make me clean, oh, make me clean! So wash me, Thou, with -- out, with -- in, Or purge with fire, if that must be; No mat -- ter how, if on -- ly sin Die out in me, die out in me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj125.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0409_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">One thing I of the Lord desire,
+For all my path hath miry been:
+Be it by water or by fire,
+Oh, make me clean, oh, make me clean!</stanza>
+    <stanza type="chorus" number="">So wash me, Thou, without, within,
+Or purge with fire, if that must be;
+No matter how, if only sin
+  Die out in me, die out in me.</stanza>
+    <stanza type="verse" number="2">I watch to shun the miry way,
+And staunch the springs of guilty thought;
+But, watch and struggle as I may,
+Pure I am not, pure I am not.</stanza>
+    <stanza type="verse" number="3">If clearer vision Thou impart,
+Grateful and glad my soul shall be,
+But yet to have a purer heart
+Is more to me, is more to me.</stanza>
+    <stanza type="verse" number="4">Yea, only as this heart is clean
+May larger vision yet be mine,
+For mirrored in the depths are seen
+The things divine, the things divine.</stanza>
+  </lyrics>
+</hymn>

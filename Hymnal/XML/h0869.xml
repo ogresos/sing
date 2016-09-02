@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ere we depart, we praise Thee, Lord, again</title>
+  <index>true</index>
+  <category>Meetings&amp;mdash;Parting</category>
+  <numbers><cebuano num="869"/><chinese num="630"/><english num="869"/><korean num="630"/><portuguese num="410"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - 1 - | 2. 2/ 3 4 | 3 - - - (break) | 3 - 2 1 | 6. 6/ 5 5 | 5 - 4( 3) | 2 - - - (break) | 3 - 3 4 | 5 - 1 - | 6. 6/ 6 3 | 4 - - - (break) | 4 - 3 2 | 5 1 1 4 | 3 - 2 - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Ere we de -- part, we praise Thee, Lord, a -- gain For Thy dear pre -- sence and Thy liv -- ing word; We are at -- tract -- ed by Thy pre -- cious -- ness, Our hearts in -- cline to Thee through what we've heard.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj141.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0869.html">View Lyrics</link>
+  </links>
+  <music>
+    <midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ere we depart, we praise Thee, Lord, again
+For Thy dear presence and Thy living word;
+We are attracted by Thy preciousness,
+Our hearts incline to Thee through what we've heard.</stanza>
+    <stanza type="verse" number="2">Thy word is spirit and is life to us,
+By it we're nourished, growing, Lord, in Thee;
+Thus to Thine image we may be transformed,
+With Thy full measure to maturity.</stanza>
+    <stanza type="verse" number="3">Impart Thyself to us, Lord, more and more,
+And make us in the spirit walk and move,
+That we be kept in fellowship with Thee,
+Until we meet again, Thy grace to prove.</stanza>
+  </lyrics>
+</hymn>

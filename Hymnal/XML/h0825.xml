@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Church of God, beloved and chosen</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her General Definition</category>
+  <creators>
+    <author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 3 3 3. 4/ | 5 5 5 ._1 | ._1 6 5 6 | 5 3 2 - (break) | 3 3 3. 4/ | 5 5 5 ._1 | 7 6 ._2 ._1 | 7 6 5 - (break) | 5 6 7 ._1 | 7. 7/ 7 4# | 5 6 7 ._1 | 7 6 5 - (break) | 3 3 3. 4/ | 5 5 5 ._1 | ._1 6 5 6 | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Church of God, be -- loved and chos -- en, Church of Christ for whom He died, Claim thy gifts and praise the Giv -- er, Ye are washed and sanc -- ti -- fied. Sanc -- ti -- fied by God the Fath -- er, And by Je -- sus Christ His Son, And by God the Ho -- ly Spir -- it, Ho -- ly, Ho -- ly, Three in One.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj206.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="134"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Church of God, beloved and chosen,
+  Church of Christ for whom He died,
+Claim thy gifts and praise the Giver,
+  Ye are washed and sanctified.
+Sanctified by God the Father,
+  And by Jesus Christ His Son,
+And by God the Holy Spirit,
+  Holy, Holy, Three in One.</stanza>
+    <stanza type="verse" number="2">By His will He sanctifieth,
+  By the Spirit's power within;
+By the loving hand that chasteneth
+  Fruits of righteousness to win;
+By His truth and by His promise,
+  By the Word, His gift unpriced,
+By His own blood, and by union
+  With the risen life of Christ.</stanza>
+    <stanza type="verse" number="3">Holiness by faith in Jesus,
+  Not by effort of thine own,
+Sin's dominion crushed and broken
+  By the power of grace alone,
+Christ, the holiness within thee,
+  His own beauty on thy brow:
+This shall be thy pilgrim brightness,
+  This thy blessed portion now.</stanza>
+    <stanza type="verse" number="4">He will sanctify thee wholly;
+  Body, spirit, soul shall be
+Blameless till thy Savior's coming
+  In His glorious majesty!
+He hath perfected forever
+  Those whom He hath sanctified;
+Spotless, glorious, and holy,
+  Is the Church, His chosen Bride.</stanza>
+  </lyrics>
+</hymn>

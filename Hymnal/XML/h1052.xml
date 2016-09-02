@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've wandered far away from God</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Coming to the Lord</category>
+  <numbers><cebuano num="1052"/><chinese num="728"/><english num="1052"/><french num="203"/><german num="1052"/><korean num="728"/><portuguese num="461"/><russian num="176"/><spanish num="484"/><tagalog num="1052"/></numbers>
+  <creators>
+	<author biodate="1838-1921" biolink="">William James Kirkpatrick</author>
+	<composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>8.5.8.5. with chorus.</meter>
+  <hymncode>53311616511332</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - C - | C - Am - | Dm - G - | C - Am - | F - C/E - | Am - G7 - | C F/C C - | C - C/E - | F - Dm - | C/E - Am - | Dm/F - G7 - | C - C/E - | F - C/E - | F - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | F - C - | C - D - | G - - - | C - - - | F - C - | C - G7 - | C F C - | C - - - | F - - - | C - - - | G - G7 - | C - - - | F - C - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5 | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._3/ ._3. | ._2 - - 5 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 (break) | (Chorus) ._3/ ._3. ._1 - | ._1/ ._1. 6 - | 5 ._3 ._3 ._1 | ._2 - - 0 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>I've wan -- dered far a -- way from God, Now I'm com -- ing home; The paths of sin too long I've trod, Lord, I'm com -- ing home. Com -- ing home, com -- ing home, Nev -- er -- more to roam; O -- pen wide Thine arms of love; Lord, I'm com -- ing home.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj095.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="41">e1052_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">I've wandered far away from God,
+  Now I'm coming home;
+The paths of sin too long I've trod,
+  Lord, I'm coming home.</stanza>
+	<stanza type="chorus" number="">Coming home, coming home,
+  Nevermore to roam;
+Open wide Thine arms of love;
+    Lord, I'm coming home.</stanza>
+	<stanza type="verse" number="2">I've wasted many precious years,
+  Now I'm coming home;
+I now repent with bitter tears,
+  Lord, I'm coming home.</stanza>
+	<stanza type="verse" number="3">I'm tired of sin and straying, Lord,
+  Now I'm coming home;
+I'll trust Thy love, believe Thy word;
+  Lord, I'm coming home.</stanza>
+	<stanza type="verse" number="4">My soul is sick, my heart is sore,
+  Now I'm coming home;
+My strength renew, my hope restore:
+  Lord, I'm coming home.</stanza>
+	<stanza type="verse" number="5">My only hope, my only plea,
+  Now I'm coming home;
+That Jesus died, and died for me;
+  Lord, I'm coming home.</stanza>
+	<stanza type="verse" number="6">I need His cleansing blood, I know,
+  Now I'm coming home;
+O wash me whiter than the snow;
+  Lord, I'm coming home.</stanza>
+  </lyrics>
+</hymn>

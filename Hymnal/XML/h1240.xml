@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deeper, deeper, in the cross of Jesus</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Building by the Growth in Life</category>
+  <numbers><cebuano num="1240"/><chinese num="ts:406"/><english num="1240"/><german num="1240"/><korean num="832"/><lsmyp num="254"/><russian num="538"/><tagalog num="1240"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="William Freeman">Adapted by W. F.</author>
+	<composer biodate="1900" biolink="">Charles P. Jones</composer>
+  </creators>
+  <meter>10.5.10.5. with chorus.</meter>
+  <hymncode>531533321651712</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - F - | C - - - | G - - - | C - - - | G - F - | C/G - G7 - | C F/C C - | C - F/C - | C - Am - | Dm - G7 - | C - F/C - | C - G/B - | Am - C/G - | Dm - G7 | C F/C C - |</chords>
+<guitarChords>| C - - - | C - F - | C - - - | G - - - | C - - - | C - F - | C - G7 - | C - - - | C - F - | C - - - | G - G7 - | C - - - | C - F - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 5 3 ._1 5 | ._3./ ._3// ._3./ ._2// ._1 6 | 5 ._1 7 ._1 | ._2 - - 0 | 5 3 ._1 5 | ._3./ ._3// ._3./ ._2// ._1 6 | 5 ._1 7 ._2 (break) | ._1 - - (Chorus) 5 | ._3( - ._3./) ._2// ._1./ 6// | 5( - 5/) 0/ ._1 | ._2( - ._2./) ._2// ._1./ ._2// | ._3( - ._3/) 0/ ._1 | ._3( - ._3./) ._2// ._1./ 6// | 5( - 5/) 0/ ._1/ ._3/ | ._2 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Deep -- er, deep -- er, in the cross of Je -- sus; Deep -- er let me go; Death and life, they al -- ways go to -- geth -- er; Deep -- en, Lord, the flow. Oh, deep -- er yet we pray, Do work in us each day; Go deep -- er, through and through, Till in Thee we're whol -- ly new.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj198.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="34">e1240_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Deeper, deeper, in the cross of Jesus;
+  Deeper let me go;
+Death and life, they always go together;
+  Deepen, Lord, the flow.
+    Oh, deeper yet we pray,
+    Do work in us each day;
+    Go deeper, through and through,
+    Till in Thee we're wholly new.</stanza>
+	<stanza type="verse" number="2">Higher, higher, in the life of Jesus;
+  Lord, we are so low.
+By Thy life we all can go much higher&amp;mdash;
+  Higher let us go.
+    Oh, higher yet we pray&amp;mdash;
+    Transform us every day&amp;mdash;
+    And richer in the flow;
+    May Thy life be all we know.</stanza>
+	<stanza type="verse" number="3">Growing, growing, in us He is growing,
+  More and more each day.
+Into all our living He is flowing&amp;mdash;
+  This is now His way.
+    For growth, O Lord, we pray;
+    Increase in us each day.
+    It's not enough to know;
+    Now Thy life in us must grow.</stanza>
+	<stanza type="verse" number="4">Living, living, Christ is all our living,
+  He's so practical:
+Small things, big things, anything and all things&amp;mdash;
+  He's involved in all.
+    Live Christ in every way;
+    Oh, live Him out today.
+    His name you now must call,
+    And give Him your all for all.</stanza>
+	<stanza type="verse" number="5">Person, Person, Jesus is our Person,
+  Living now in us.
+He's our tastes, our attitudes and actions;
+  Oh, how glorious!
+    Our Person, Lord, Thou art
+    Make home in all our heart.
+    As life in every way
+    Be our Person, Lord, each day.</stanza>
+	<stanza type="verse" number="6">Churches, churches, in the local churches
+  We all find the flow:
+Deeper, higher, Christ as all our living,
+  For the church we grow.
+    The churches are today
+    Just Christ in every way.
+    For this, from self we cease,
+    For Thy Body, Thine increase.</stanza>
+	<stanza type="verse" number="7">Building, building, we will see the building
+  Of the church this way:
+Christ experienced will produce the building&amp;mdash;
+  He's the only way.
+    Oh, build us, Lord, we pray,
+    By growth of life each day.
+    Oh, make us now such men
+    For the new Jerusalem.</stanza>
+	<stanza type="verse" number="8">Coming, coming, Jesus soon is coming
+  For His chosen Bride.
+In, the churches we are all preparing
+  To be glorified.
+    Lord Jesus, come again
+    This cry is deep within
+    We'll praise Thee to the end,
+    Oh, come back! Come back! Amen!</stanza>
+  </lyrics>
+</hymn>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O gracious God, Thy pleasure</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Grace in Sonship</category>
+  <numbers><english num="46"/><french num="8"/><tagalog num="46"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Miss C. Thompson</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O gra -- cious God, Thy plea -- sure Is in Thy Christ made known, And tells the bound -- less mea -- sure Of bless -- ing for Thine own. He has Thy pre -- sence en -- tered, As Man in heav'n is known; In Him Thy glo -- ry's cen -- tered, In Him Thy pur -- pose shown.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj233.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O gracious God, Thy pleasure
+  Is in Thy Christ made known,
+And tells the boundless measure
+  Of blessing for Thine own.
+He has Thy presence entered,
+  As Man in heav'n is known;
+In Him Thy glory's centered,
+  In Him Thy purpose shown.</stanza>
+    <stanza type="verse" number="2">And O what love is beaming
+  Refulgent in that face!
+What blessed light is streaming
+  From that most glorious place!
+Both love and light proclaiming
+  What Thou, the Father, art,
+And wondrous grace revealing,
+  With Thine own Son, our part.</stanza>
+    <stanza type="verse" number="3">Thou source of every blessing!
+  Thou spring of all delight!
+Thy Name with joy confessing
+  Let all the saints unite!
+Each heart its praise outpouring
+  To Thee all praise above,
+Each voice in strains adoring
+  Re-echoes&amp;mdash;"God is love."</stanza>
+  </lyrics>
+</hymn>

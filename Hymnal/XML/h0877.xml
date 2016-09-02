@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I dare not be defeated</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;Because of Calvary</category>
+  <numbers><cebuano num="877"/><chinese num="648"/><english num="877"/><korean num="648"/><spanish num="395"/><tagalog num="877"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+    <composer biodate="1855-1933" biolink="">Adam Geibel</composer>
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>5333333331714</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <melody>| 0 - - 5_. | 3 3 3 3 | 3 - 3 3 | 3 1 7_. 1 (break) | 4 - - 5_. | 4 4 4 4 | 4 - 4 4 | 4 2 1 2 | 3 - - 5 (break) | 5 3 6 3 | 5 - 4 4 | 4 2 5 2 (break) | 3 - - 3 | 3 7_. 1 2 | 3 - 3 3 | 3 7_. 1 2 (break) | 3( - (.5) (Chorus) 5_. | 3 3 - 3 | 5 4 0 5_. | 2 1# 2 6 | 5 - - 5 (break) | 6 3 4 4 | 5( 2) 3 3 | 3 2 0 6 | 5 - 1 - | 3 - - 2 | (.1 - 0 - |</melody>
+  <layout>
+    <singingstanza>I dare not be de -- feat -- ed With Cal -- var -- y in view, Where Je -- sus con -- quered Sa -- tan, Where all His foes He slew; Come, Lord, and give the vi -- sion To nerve me for the fight, Make me an o -- ver -- com -- er Clothed with Thy Spir -- it's might. A vic -- tor, a vic -- tor! Be -- cause of Cal -- var -- y. Make me an o -- ver -- com -- er, A con -- qu'ror, a con -- qu'ror, Lord, in Thee.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="870"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I dare not be defeated
+With Calvary in view,
+Where Jesus conquered Satan,
+Where all His foes He slew;
+Come, Lord, and give the vision
+To nerve me for the fight,
+Make me an overcomer
+Clothed with Thy Spirit's might.</stanza>
+    <stanza type="chorus" number="">A victor, a victor!
+Because of Calvary.
+Make me an overcomer,
+  A conqu'ror, a conqu'ror, Lord, in Thee.</stanza>
+    <stanza type="verse" number="2">I dare not be defeated
+Since Christ, my conquering King
+Has called me to the battle
+Which He did surely win.
+Come, Lord, and give me courage,
+Thy conquering Spirit give,
+Make me an overcomer,
+In power within me live.</stanza>
+    <stanza type="verse" number="3">I dare not be defeated,
+When Jesus leads me on
+To press through hellish regions
+To share with Him His Throne;
+Come, Lord, and give Thy soldier
+The power to wield the sword,
+Make me an overcomer
+Through Thine inerrant Word.</stanza>
+    <stanza type="verse" number="4">I dare not be defeated,
+Just at the set of sun,
+When Jesus waits to whisper,
+"Well done, beloved, well done";
+Come, Lord, bend from the Glory,
+On me Thy Spirit cast,
+Make me an overcomer,
+A victor to the last.</stanza>
+  </lyrics>
+</hymn>

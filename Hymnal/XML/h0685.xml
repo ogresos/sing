@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou art with me</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Presence</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">A. Legge</composer>
+  </creators>
+  <meter>5.4.5.4.D.</meter>
+  <hymncode>123432343</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | F/A - - | G7/B - - | C - - | C/E - - | F - C/E | G/D - D7 | G - - | G7/B - - | C - - | F/A - G/B | C - - | C/E - F | C/E - C | Dm/F - G7 | C - - |</chords>
+  <melody>| 1 2 3 | 4 - 3 | 2 3 4 | 3 - - (break) | 5 5 1 | 6 - 5 | 7 6 2 | 5 - - (break) | 2 3 2 | 2 - 1 | 4 3 2 | 5 - - (break) | ._1 7 6 | 5( 4) 3 | 2 1 7_. | 1 - - |</melody>
+  <layout>
+    <singingstanza>Lord, Thou art with me! Whom shall I fear? Who then can harm me While Thou art near? Un -- der Thy sha -- dow Is my re -- treat; There to my taste, Lord, Thy fruit is sweet.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj025.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="27">e0685_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Thou art with me!
+  Whom shall I fear?
+Who then can harm me
+  While Thou art near?
+Under Thy shadow
+  Is my retreat;
+There to my taste,
+  Lord, Thy fruit is sweet.</stanza>
+    <stanza type="verse" number="2">Lord, Thou art with me,
+  And Thou dost give
+Strength for the journey,
+  Grace now to live.
+Mercies each morning
+  Thou dost renew;
+And for my prospect,
+  Thy rest in view.</stanza>
+    <stanza type="verse" number="3">Lord, Thou art with me;
+  Onward: I move;
+Each day I'm proving
+  More of Thy love.
+Now Thou art training,
+  Setting me free
+From all that hinders,
+  To dwell with Thee.</stanza>
+  </lyrics>
+</hymn>

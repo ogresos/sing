@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Passing through another week</title>
+  <index>true</index>
+  <category>The Lord's Day&amp;mdash;Best of the Week</category>
+  <numbers><english num="940"/><tagalog num="940"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>12334327124321</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/B - - | G7 - - | C - - | C - - | G - G7 | C G/D D7 | G - G7/B | C - - | G/B - G7 | C/E - C | G - G7/B | C - - | G/B - G7 | C/E/ F/ C/G G7 | C - - |</chords>
+  <melody>| 0 - 1./ 2// | 3. 3/ 4/ 3/ | 2 - 7_../ 1// | 2. 4/ 3/ 2/ (break) | 1 - 1./ 2// | 3. 3/ 4/ 3/ | 2 - 5./ 4// | 3/ 1/ 7_. 6_. (break) | 5_. - 5./ 4// | 3. 5/ 4/ 3/ | 2 - 3./ 4// | 5. 1/ 4/ 3/ (break) | 2 - 5./ 4// | 3. 5/ 4/ 3/ | 2 - 3./ 4// | 5//( 1//) 2//( 4//) 3 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Pass -- ing through an -- oth -- er week, God has grant -- ed us His aid; Let us now a bless -- ing seek, On the day the Lord hath made; Day of all the week the best, Em -- blem of e -- ter -- nal rest. Day of all the week the best, Em -- blem of e -- ter -- nal rest.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="36">e0940_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Passing through another week,
+  God has granted us His aid;
+Let us now a blessing seek,
+  On the day the Lord hath made;
+Day of all the week the best,
+  Emblem of eternal rest.</stanza>
+    <stanza type="verse" number="2">While we pray for pard'ning grace,
+  Through the dear Redeemer's name,
+Show Thy reconciled face;
+  Take away our sin and shame:
+From our worldly cares set free,
+  May we rest this day in Thee.</stanza>
+    <stanza type="verse" number="3">Here we come Thy name to praise,
+  Let us feel Thy presence near;
+May Thy glory meet our eyes,
+  While we in Thy house appear:
+Here afford us, Lord, a taste
+  Of our everlasting feast.</stanza>
+    <stanza type="verse" number="4">May Thy gospel's joyful sound
+  Conquer sinners, comfort saints;
+Make the fruits of grace abound,
+  Bring relief for all complaints:
+Thus may all our Lord's Days prove,
+  Till we meet the Lord above.</stanza>
+    <stanza type="note" number="">(Repeat the last two lines of each stanza)</stanza>
+  </lyrics>
+</hymn>

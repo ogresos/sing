@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O I'm a man</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;The High Gospel</category>
+  <numbers><cebuano num="1293"/><chinese num="ts:815"/><english num="1293"/><french num="174"/><german num="1293"/><lsmyp num="267"/><portuguese num="434"/><russian num="432"/><spanish num="419"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5671651165161</hymncode>
+  <key>Ab Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - Am - | F. C/ C - | C - Am - | D - G - | C - C/E - | F - D7/F# - | C/G - - - | G7. C/ C - |</chords>
+<guitarChords>| C - - - | C - - - | F. C/ C - | C - - - | D - G - | C - - - | F - - - | C - G - | G7. C/ C - |</guitarChords>
+  <melody>| 0 - 0/ 5/ 6/ 7/ | ._1 6/ 5/ ._1/ ._1/ 6/ 5/ | ._1 6/ ._1/( ._1/) 5/ 6/ 7/ (break) | ._1 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._2 7/ 5/( 5/) 5/ 6/ 7/ (break) | ._1( - ._1/) ._1/ 7/ 7b/ | 6 - - 6/ 6/ | 5/ 5/ 5/ 5/ 5/ 5/ 5/ 5/ | 5/( 6/) 7/ ._1 0. |</melody>
+  <layout>
+	<singingstanza>O I'm a man&amp;mdash; I'm the mean -- ing of the u -- ni -- verse; Yes, I'm a man&amp;mdash; I'm the mean -- ing of the u -- ni -- verse. God made me such, I am so much; I'm the cen -- ter and the mean -- ing of the u -- ni -- verse.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj177.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="18">e1293_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O I'm a man&amp;mdash;
+  I'm the meaning of the universe;
+Yes, I'm a man&amp;mdash;
+  I'm the meaning of the universe.
+    God made me such,
+    I am so much;
+I'm the center and the meaning of the universe.</stanza>
+	<stanza type="verse" number="2">Christ lives in me&amp;mdash;
+  He's the meaning of my human life;
+Christ lives in me&amp;mdash;
+  He's the meaning of my human life.
+    Yes, He's in me
+    My all to be;
+He's the meaning and reality of my human life.</stanza>
+	<stanza type="verse" number="3">The church is Christ&amp;mdash;
+  His expression on the earth today;
+The church is Christ&amp;mdash;
+  His expression on the earth today.
+    This corporate man
+    Fulfills God's plan,
+That this man may have dominion over all the earth.</stanza>
+	<stanza type="verse" number="4">The local church&amp;mdash;
+  It's the new and real family life;
+The local church&amp;mdash;
+  It's the new and real family life.
+    We have the way
+    To live today&amp;mdash;
+Eating, drinking Christ we're built up as the local church.</stanza>
+	<stanza type="verse" number="5">What shall we do?
+  We should go and tell the world of this.
+What shall we do?
+  We should go and tell the world of this.
+    Disciple all&amp;mdash;
+    This is our call.
+Let us go and spread the news abroad to every land.</stanza>
+  </lyrics>
+</hymn>

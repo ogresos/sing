@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord Jesus! when we think of Thee</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Satisfaction with Him</category>
+  <numbers><cebuano num="207"/><chinese num="168"/><english num="207"/><french num="33"/><korean num="168"/><russian num="509"/><tagalog num="207"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+    <composer biodate="1756" biolink="">Moore's Psalm-Singer's Pocket Companion</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>512321356543</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 | C - - | C - - | G7 - - | C - - | Dm - - | C/G - G7 | C - - | G/B - C | F/A - F | C - - | G - - | Am - - | Dm - G7 | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 5_. | 1 - 2 | 3./( 2// 1) 3 | 5./( 6// 5) 4 | 3 - 3 | 2 - 4 | 3/( 2/ 1) 7_. (break) | 1 -  5 | 5 - 3 | 4 - 6 | 5( 4) 3 | 2 - 5 | 1( 2) 3 | 4( 3) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Lord Je -- sus! when we think of Thee, Of all Thy love and grace, Our spir -- its long and fain would see Thy beau -- ty face to face.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj164.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0207_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord Jesus! when we think of Thee,
+  Of all Thy love and grace,
+Our spirits long and fain would see
+  Thy beauty face to face.</stanza>
+    <stanza type="verse" number="2">And though the wilderness we tread,
+  A barren, thirsty ground,
+With thorns and briars overspread,
+  Where foes and snares abound;</stanza>
+    <stanza type="verse" number="3">Yet in Thy love such depths we see,
+  Our hearts o'erflow with praise&amp;mdash;
+Content ourselves, while, Lord to Thee
+  A joyful song we raise.</stanza>
+    <stanza type="verse" number="4">Our Lord, our Life, our Rest, our Shield,
+  Our Rock, our Food, our Light;
+Each thought of Thee doth constant yield
+  Unchanging, fresh delight.</stanza>
+    <stanza type="verse" number="5">Blest Savior, keep our spirit stayed,
+  Hard following after Thee,
+Till we, in victory displayed,
+  Thy face in glory see.</stanza>
+  </lyrics>
+</hymn>

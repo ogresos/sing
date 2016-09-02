@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We have seen Christ is reality</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Our Person</category>
+  <numbers><cebuano num="1178"/><chinese num="ts:122"/><english num="1178"/><french num="118"/><german num="1178"/><spanish num="249"/></numbers>
+  <creators>
+	<composer biodate="" biolink="">Ralph Carmichael</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>333333455</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7/E - | F - Dm - | C/E - Cm/Eb - | Dm - G - | C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7/E - | F - D7/F# - | C/G - G7 - | C - C7/E - | F - - - | F - - - | Em - - - | Em - - - | Dm - - - | Dm - - A/C# | Dm - - - | G - G7 - | C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7/E - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7 - | F - Dm - | C - Cm - | G - - - | C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7 - | F - D7 - | G - - - | C - - - | F - - - | F - - - | Em - - - | Em - - - | Dm - - - | Dm - - - | F - - - | G - G7 - | C - Am - | Dm - G - | C - Am - | Dm - G - | C - C7 - | F - D7 - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 0 3/ 3/ 3/ 3/ 3/ 3/ | 4. 5/ 5 - | 0 3/ 3/ 3/ 3/ 3/ 3/ | 4. 5/ 5 - (break) | 0 3/ 3/ 5/ 5/ 7b/ 7b/ | 6. 7/ ._1 - | 0 5/ 5/ 5 5 | 5 - - - (break) | 0 3/ 3/ 3/ 3/ 3/ 3/ | 4. 5/ 5 - | 0 3/ 3/ 3/ 3/ 3/ 3/ | 4. 5/ 5 - (break) | 0 3/ 3/ 5/ 5/ 7b/ 7b/ | 6. 7/ ._1 - | 0 5/ 5/ 5 5 | 5 - - - (break) | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._1. 7/ 6 - | 0 7/ 7/ 7/ 7/ 7/ 7/ | 7. 6/ 5 - (break) | 0 6/ 6/ 6/ 6/ 6/ 6/ | 6. 5/ 4 3 | 2/ 2/ 3/ 3/ 4 5/ 5/ | 6/ 6/ 7/ 7/ ._1 ._2 (break) | 0 ._3/ ._3/ ._3/ ._3/ ._3/ ._3/ | ._4. ._3/ ._2 - | 0 ._3/ ._3/ ._3/ ._3/ ._3/ ._3/ | ._4. ._3/ ._2 - (break) | 0 ._3/ ._3/ ._2/ ._2/ ._1/ ._1/ | 6. 7/ ._1 - | 0/ ._1/ ._1/ ._1/ ._2 7 | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>We have seen Christ is re -- al -- i -- ty: But it's not suf -- fi -- cient just to see: He in our ex -- pe -- ri -- ence must be Ev -- ery -- thing to us. We in prayer be -- hold Him face to face, In the Word and meet -- ings know His grace; But in dai -- ly life, in ev -- ery place, What is He to us? Hal -- le -- lu -- jah! By His light we see Oh, how real, how full our Lord will be If we'll on -- ly turn to Him at ev -- ery time, in ev -- ery day, Ev -- ery thing, in ev -- ery way and&amp;mdash; Be spe -- ci -- fic for re -- al -- i -- ty! And be done with gen -- e -- ral -- i -- ty! If we'll just ap -- ply Him, we will see He's ev -- ery -- thing to us.</singingstanza>
+	<globalstaffsize>13.5</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj056.xml</link>
+  </links>
+  <audios>
+	<audio title="Instrumental (Guitar)" location="h" length="354"></audio>
+  </audios>
+  <music>
+	<midi location="h" length="143">e1178_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We have seen Christ is reality:
+But it's not sufficient just to see:
+He in our experience must be
+  Everything to us.
+We in prayer behold Him face to face,
+In the Word and meetings know His grace;
+But in daily life, in every place,
+  What is He to us?
+  Hallelujah! By His light we see
+  Oh, how real, how full our Lord will be
+  If we'll only turn to Him at every time,
+    in every day,
+  Every thing, in every way and&amp;mdash;
+  Be specific for reality!
+  And be done with generality!
+  If we'll just apply Him, we will see
+    He's everything to us.</stanza>
+	<stanza type="verse" number="2">Life is full of opportunities
+Ordered by our Father's hand: we see
+Everything's the best that it could be,
+  So let's gain Christ!
+Christ our content and reality
+To shine out from us unceasingly:
+He must have a way in you and me,
+  He must have a way.
+  Hallelujah! In the body we
+  Bear the death of Christ continually:
+  Thus His life comes forth for all to see as
+    The outer man is broken down,
+  The inner man is shining so that&amp;mdash;
+  In these earthen vessels men can see
+  There's the treasure of reality!
+  Thus the gospel's glorious light will be
+    Shining out from us.</stanza>
+	<stanza type="chorus" number="">Not just doctrines and theology,
+But the content of reality:
+Christ as everything in you and me,
+  He's everything to us!</stanza>
+  </lyrics>
+</hymn>

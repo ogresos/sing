@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>From my spirit within flows a fountain of life</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Life</category>
+  <numbers><cebuano num="1191"/><chinese num="ts:410"/><english num="1191"/><german num="1191"/><lsmyp num="129"/><portuguese num="310"/><russian num="117"/><spanish num="222"/><tagalog num="1191"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">R. K.</author>
+  </creators>
+  <melody>| 0 - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6 | 7. 6/ 5 | 4 5 4 | 3( - - (break) | 3) - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | ._4 ._3 ._2 | ._1( - - (break) | ._1) - (Chorus) 7/ ._1/ | ._2. ._2/ ._2 | ._2 ._1 7 | ._1( - - | ._1) - ._1/ 7/ | 6. 6/ 6 | ._1 7 6 | 5( - - (break) | 5) - 5/ ._1/ | ._3. ._3/ ._3 | ._3 ._4 ._3 | 6( - - | 6) - ._4/ ._4/ | ._3. ._2/ ._1 | 5 7 ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>From my spir -- it with -- in flows a foun -- tain of life&amp;mdash; The Tri -- une God flow -- ing in me; God the Fath -- er's the source, Christ the Son is the course, And the Spir -- it im -- parts life to me. Lord, I trea -- sure the sweet flow of life, And my soul- -- life at last I lay down; O Lord, deep -- en the pure flow of life; At Your com -- ing may life be my crown.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj075.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="618"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">From my spirit within flows a fountain of life&amp;mdash;
+  The Triune God flowing in me;
+God the Father's the source, Christ the Son is the course,
+  And the Spirit imparts life to me.</stanza>
+	<stanza type="chorus" number="">Lord, I treasure the sweet flow of life,
+  And my soul-life at last I lay down;
+O Lord, deepen the pure flow of life;
+    At Your coming may life be my crown.</stanza>
+	<stanza type="verse" number="2">In the fresh, tender grass Jesus makes me lie down;
+  He leads me by waters of rest;
+No more struggle and strain; all self-effort is vain;
+  In the flow I am perfectly blessed.</stanza>
+	<stanza type="verse" number="3">Jesus called me one day to the Holiest Place,
+  To live in His presence divine;
+Hallelujah, I've heard an encouraging word:
+  "Abide&amp;mdash;you're a branch in the vine."</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>River of living water</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;Life in Eternity</category>
+  <numbers><cebuano num="984"/><chinese num="204"/><english num="984"/><german num="984"/><korean num="204"/><portuguese num="500"/><russian num="294"/><tagalog num="984"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 3 4 3 2( 6_.) 7_. | 1 - - 5_. - - | 1 2 1 6_. 7_. 1 | 2 - - - - - (break) | 3 2 1 1 7_. 6_. | 5_. - - 1 - - | 1 7_. 6_. 7_. 5_. 2 | 1 - - - - - (break) | (Chorus) 3 3 3 3( 4) 5 | 5 - - 2 - - | 2 2 2 2 1 2 | 3 - - - - - (break) | 3 3 3 3 4 5 | 5 - - 4# - - | 5 4 1# 2 3 2 | 1 - - - - - |</melody>
+  <layout>
+	<singingstanza>Riv -- er of liv -- ing wa -- ter, Riv -- er that flows from the throne, Fel -- low -- ship giv -- ing and mak -- ing God's own au -- thor -- i -- ty known. Riv -- er of liv -- ing wa -- ter, Fel -- low -- ship free -- ly bes -- tows; Bring -- ing au -- thor -- i -- ty with it, Through ev -- ery place where it flows.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj222.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0984.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="251"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">River of living water,
+  River that flows from the throne,
+Fellowship giving and making
+  God's own authority known.</stanza>
+	<stanza type="chorus" number="">River of living water,
+Fellowship freely bestows;
+Bringing authority with it,
+  Through every place where it flows.</stanza>
+	<stanza type="verse" number="2">Water of life is the Spirit,
+  God as the life in it flows;
+Carrying with it His Lordship,
+  Through every place where it goes.</stanza>
+	<stanza type="verse" number="3">Midst the gold street it floweth,
+  Thus showing to us the way;
+As in God's nature it floweth,
+  So in His way we will stay.</stanza>
+	<stanza type="verse" number="4">The tree of life by the river,
+  Shows to us God as our food;
+We by the river's full flowing
+  Take of the tree's plenitude.</stanza>
+  </lyrics>
+</hymn>

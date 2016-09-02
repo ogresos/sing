@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Every thread I wind this day</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <creators>
+    <author biodate="" biolink="">From Sister Eva of Friedenshort</author>
+    <composer biodate="" biolink="">C. T. Lambert</composer>
+  </creators>
+  <meter>7.7.7.7.8.8.</meter>
+  <hymncode>5515654355653212</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - C - | C - - - | D7 - G - | C - - - | F G C - | G - - - | D7 - G - | C - - - | F G C - | C - - - | F - G7 - | C F/C C - |</chords>
+  <melody>| 5. 5/ ._1 5 | 6 5/( 4/) 3 - | 5. 5/ 6 5 | 3 2/( 1/) 2 - (break) | 3. 4/ 5 3 | 6 7 ._1 - | 7. ._1/ ._2 5 | ._1 4# 5 - (break) | 5. 5/ ._1 5 | 6 5/( 4/) 3/( 4/) 5 | 5. 5/ 3 5 | 6 ._1 ._2 - | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Ev -- ery thread I wind this day, Ev -- ery foot -- step on life's way, Ev -- ery clod I shall un -- earth, Ev -- ery task, what -- e'er its worth: On -- ly for God's glo -- ry liv -- ing, Bless -- ing, praise and hon -- or giv -- ing!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj036.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="33">e0455_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Every thread I wind this day,
+Every footstep on life's way,
+Every clod I shall unearth,
+Every task, whate'er its worth:
+Only for God's glory living,
+Blessing, praise and honor giving!</stanza>
+    <stanza type="verse" number="2">All the burdens of the day,
+All the words which I shall say,
+All the works my God may send,
+All the hours in rest I spend:
+Ever for His glory living,
+Blessing, praise and honor giving!</stanza>
+    <stanza type="verse" number="3">Every blood-drop in the heart,
+Every grief and aching smart,
+Every bitter pulse of pain,
+Every hour of joy again:
+Only for God's glory living,
+Blessing, praise and honor giving!</stanza>
+    <stanza type="verse" number="4">As I take my daily food,
+Greet another on life's road,
+Pluck a flower beside the way,
+Stoop to lift a wisp of hay:
+Ever for God's glory living,
+Blessing, praise and honor giving!</stanza>
+    <stanza type="verse" number="5">All, from deeds of little worth,
+To the greatest things on earth;
+Mine to build some world to be,
+Or to lie and gaze on Thee:
+For Thy glory daily living,
+Blessing, praise and honor giving!</stanza>
+  </lyrics>
+</hymn>

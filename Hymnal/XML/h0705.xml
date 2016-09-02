@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In some way or other the Lord will provide</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Providing</category>
+  <numbers><chinese num="513"/><english num="705"/><korean num="513"/></numbers>
+  <creators>
+    <author biodate="1806-1874" biolink="">Martha Walker Cook</author>
+    <composer biodate="1834-1895" biolink="">Philip Phillips</composer>
+  </creators>
+  <meter>11.12.11.11.11.</meter>
+  <hymncode>51123323345</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G/B | C - G/B | C - F/A | G/B - G | F - - | C/E - - | G - - | G7 - - | C - - | F - - | C/G - G7 | C - - | C - G/D | C/E - C | Dm - - | G - G/B | C - G/D | C/E - F | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 5_. | 1 1 2 | 3 3 2 | 3 3 4 | 5 - 5 | 6 6 6 | 6 5 3 | 5 5 5 | 5 4 2 | 3 4 5 | 6 5 1/( 2/) | 3 3 2 (break) | 1 - (Chorus) 1/ 3/ | 5 5 5 | 5 - 3 | 4 4 4 (break) | 2 - 2/ 2/ | 3 2 1 | (.5 - 1/( 2/) | 3 3/( 2/) 1/( 7_./) | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>In some way or oth -- er the Lord will pro -- vide. It may not be my way, it may not be thy way; And yet in His own way, "the Lord will pro -- vide." Then we'll trust in the Lord, and He will pro -- vide; Yes, we'll trust in the Lord, and He will pro -- vide.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj026.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e0705_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In some way or other the Lord will provide.
+It may not be my way, it may not be thy way;
+And yet in His own way, "the Lord will provide."</stanza>
+    <stanza type="chorus" number="">Then we'll trust in the Lord, and He will provide;
+  Yes, we'll trust in the Lord, and He will provide.</stanza>
+    <stanza type="verse" number="2">At some time or other the Lord will provide:
+It may not be my time, it may not be thy time;
+And yet in His own time, "the Lord will provide."</stanza>
+    <stanza type="verse" number="3">Despond then no longer; the Lord will provide:
+And this be the token&amp;mdash;no word He hath spoken
+Was ever yet broken: "The Lord will provide."</stanza>
+    <stanza type="verse" number="4">March on then right boldly: the sea shall divide;
+The pathway made glorious, with shoutings victorious,
+We'll join in the chorus, "The Lord will provide."</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ is risen! Hallelujah</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Resurrection</category>
+  <numbers><chinese num="101"/><english num="118"/><korean num="101"/><spanish num="57"/><tagalog num="118"/></numbers>
+  <creators>
+    <author biodate="1811-1875" biolink="">John Samuel Bewley Monsell</author>
+    <composer biodate="1844-1927" biolink="">Frederick Charles Maker</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>111512316651432</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | Dm - G - | Dm - - - | Dm - Dm/F - | G - C - | G7 - C - | G - - - | D - G - | G - - - | D7 G D - | G - - - | D - G - | G - - - | G/D D7 G - | C - - - | C - - - | F - C - | Dm - G - | Dm - - - | Dm - Dm/F - | G - C - | C/G - G7 - | C - - - |</chords>
+  <melody>| 1. 1/ 1 5_. | 1 2 3 1 | 6_.. 6_./ 5_. 1 | 4 3 2 - (break) | 2. 2/ 2 6_. | 2 3 4 2 | 7_.. 7_./ 1 3 | 3 2 1 - (break) | 7_.. 6_./ 5_. 3 | 2 6_. 7_. 5_. | 7_.. 1/ 2 5_. | 1 7_. 6_. - (break) | 7_.. 6_./ 5_. 3 | 2 6_. 7_. 5_. | 7_.. 1/ 2 1 | 7_. 6_. 5_. - (break) | (Chorus) 1. 1/ 1 5_. | 1 2 3 1 | 6_.. 6_./ 5_. 1 | 4 3 2 - (break) | 2. 2/ 2 6_. | 2 3 4 2 | 7_.. 7_./ 1 3 | 5 - 5 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Christ is ris -- en! Hal -- le -- lu -- jah! Ri -- sen our vic -- tor -- ious Head; Sing His prais -- es; Hal -- le -- lu -- jah! Christ is ris -- en from the dead. Grate -- ful -- ly our hearts a -- dore Him, As His light once more ap -- pears; Bow -- ing down in joy be -- fore Him, Ris -- ing up from griefs and tears. Christ is ris -- en: Hal -- le -- lu -- jah! Ris -- en our vic -- tor -- ious Head; Sing His prais -- es; Hal -- le -- lu -- jah! Christ is ris -- en from the dead.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj158.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="54">e0118_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ is risen! Hallelujah!
+Risen our victorious Head;
+Sing His praises; Hallelujah!
+Christ is risen from the dead.
+Gratefully our hearts adore Him,
+As His light once more appears;
+Bowing down in joy before Him,
+Rising up from griefs and tears.</stanza>
+    <stanza type="chorus" number="">Christ is risen: Hallelujah!
+Risen our victorious Head;
+Sing His praises; Hallelujah!
+  Christ is risen from the dead.</stanza>
+    <stanza type="verse" number="2">Christ is risen! All the sadness
+Of His earthly life is o'er;
+Through the open gates of gladness
+He returns to life once more;
+Death and hell before Him bending,
+He doth rise the Victor now,
+Angels on His steps attending,
+Glory round His wounded brow.</stanza>
+    <stanza type="verse" number="3">Christ is risen! Henceforth never
+Death nor hell shall us enthrall;
+We are Christ's, in Him forever
+We have triumphed over all;
+All the doubting and dejection
+Of our trembling hearts have ceased,
+'Tis His day of resurrection;
+Let us rise and keep the feast.</stanza>
+  </lyrics>
+</hymn>

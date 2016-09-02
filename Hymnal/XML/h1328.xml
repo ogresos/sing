@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My wandering days grew increasingly empty</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><english num="1328"/><lsmyp num="308"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tony Rosmarin">T. R.</author>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>555613566535</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - - - | F - - - | C - - - | F - Em - | Am - - - | Dm - C/E - | F - - - | C - - - | F - G7 - | C - F/C - | C - - - | C - F/C - | C - - - | F - - - | C - - - | F - Em - | Am - - - | Dm - - - | F - G7 - | C - - - | F - G7 - | C - F/C - | C - - - | F - - - | C - - - | F - C/E - | Am - - - | Dm - C/E - | F - - - | C - - - | F - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 5_. - 5_..( 6_./) | 1 - - 3/ 5/ | 6 - 6. 5/ | 3/ 5/( 5) - 3/ 5/ | 6 - 5. 3/ | 2/( 3//)( 2//)( 1) - 3/ 3/ | 4( - 4/) 3/ 2/ 1/ (break) | 6_./ 1/( 1) - 1/ 6_./ | 5_. - - - | 6_./( 1.)( 1) - | 1( - - - | 1) - - 0/ 5_./ | 5_. - 5_.. 6_./ | 1 - - 3/ 5/ | 6 - 6. 5/ (break) | 3/ 5/( 5) - 3/( 5/) | 6 - 5. 3/ | 2/( 3//( 2//)( 1) - 3/ 3/ | 4( - 4/) 3/ 2/ 1/ | 6_./( 1/)( 1) - 1/ 6_./ | 5_. - - - | 6_./ 1.( 1) - | 1( - - - (break) | 1) - - 3/ 5/ | 6 - 6. 5/ | 3/ 5/( 5) - 3/ 5/ | 6 - 5. 3/ | 2/( 3//)( 2//) 1 - 3/ 3/ | 4( - 4/) 3/ 2/ 1/ | 6_./ 1/( 1) - 1/ 6_./ | 5_. - - - | 6_./ 1.( 1) - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>My wan -- dering days grew in -- creas -- ing -- ly emp -- ty As I searched for the way, Just to fill this gap in -- side me&amp;mdash; Found my seek -- ing vain. Though all this dark earth would con -- vince me life's worth -- while, In -- side all my mirth Was a cry for some -- thing real. Don't you lie to me, world! For my heart tells me dif -- ferent When I hear of con -- tent -- ment Deep with -- in a lack knew bet -- ter Why not be hon -- est, world.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <copyright>Copyright claimed - Wild Mountain Thyme, also known as Will You Go Lassie, Go, is a folk song, originally written by the McKenna family in the early part of the 20th century but was made famous in 1957 by William McPeake and his son Francis McPeake, natives of Ulster, Ireland. It is often mistakenly believed to be a traditional song, but the copyright is held by E.F.D.S.S. Publications, who published it for McPeake. It was first recorded by Francis McPeake in 1957...." [Wikipedia] BUT words clearly derived from "The Braes of Balquhidder" (found in ""Songs of Scotland"", edited by George Farquhar Graham printed circa 1850); tune origins unclear.</copyright>
+  <links>
+    <link type="group">hymnal-subj098.xml</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="4dyKORxkSnU"/>
+  </videos>
+  <music>
+    <midi location="h" length="87">e1328_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My wandering days grew increasingly empty
+As I searched for the way,
+Just to fill this gap inside me&amp;mdash;
+Found my seeking vain.
+Though all this dark earth would convince me
+    life's worthwhile,
+Inside all my mirth
+Was a cry for something real.
+Don't you lie to me, world!</stanza>
+    <stanza type="chorus" number="">For my heart tells me different
+When I hear of contentment
+Deep within a lack knew better
+  Why not be honest, world.</stanza>
+    <stanza type="verse" number="2">A flood of strong doubt as I heard the old story
+Of a man they called Lord;
+Yet my heart ne'er ceased to wonder,
+Is He really Lord?
+A search in His Word found my hardened
+    heart softened,
+And earth's vanities faded.
+In the brightness of His presence
+Jesus came into me.</stanza>
+    <stanza type="chorus" number="">Now we're always together
+Growing into God's fullness.
+O Lord Jesus, how I love You!
+  You brought life into me.</stanza>
+  </lyrics>
+</hymn>

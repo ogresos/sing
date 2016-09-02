@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art the Word and Spirit, Lord</title>
+  <index>true</index>
+  <category>Study of the Word&amp;mdash;The Function of the Word</category>
+  <numbers><cebuano num="802"/><chinese num="582*"/><english num="802"/><german num="802"/><korean num="582"/><portuguese num="367"/><russian num="485"/><spanish num="341"/><tagalog num="802"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1690" biolink="">Musikalisches Handbuch</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>5156654334325545</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - F - | G7 - C - | C - G - | D7 - G - | C - - - | F - G - | F - C - | C/G G7 C - |</chords>
+<guitarChords>| C - - - | C - F - | G7 - C - | C - G - | D7 - G - | C - - - | F - - - | F - C - | G - C - |</guitarChords>
+  <melody>| 0 - - 5 | ._1 5 6 6 | 5 4 3 3 | 4 3 2 5 | 5 4# 5 5 (break) | ._1 ._2 ._3 ._1 | ._4 ._3 ._2 ._3 | ._1 6 5 ._1 | ._1 7 (.._1 0 |</melody>
+  <layout>
+	<singingstanza>Thou art the Word and Spir -- it, Lord; Now in one spir -- it wor -- ship we; 'Tis by the Word we un -- der -- stand, And in the Spir -- it con -- tact Thee.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj192.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0802.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="20">e0802_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Thou art the Word and Spirit, Lord;
+Now in one spirit worship we;
+'Tis by the Word we understand,
+And in the Spirit contact Thee.</stanza>
+	<stanza type="verse" number="2">Since Thou with me hast joined in one,
+Thou art my all, O Lord, thereby;
+And as the Spirit and the Word
+Thou cam'st to me as my supply.</stanza>
+	<stanza type="verse" number="3">If Thou art Lord, yet not the Word,
+How couldest Thou be known to me?
+If Thou art God yet Spirit not,
+How could I ever contact Thee?</stanza>
+	<stanza type="verse" number="4">The Word reveals Thyself to me
+And knowledge of Thyself imparts;
+The Spirit is Thy substance true
+Whereby I touch Thee as Thou art.</stanza>
+	<stanza type="verse" number="5">Thou art my life, my light, my way,
+My food, my strength and guaranty;
+By Word made known, as Spirit these
+Become experience to me.</stanza>
+	<stanza type="verse" number="6">Thy Word in Scripture is expressed,
+Thy Spirit, the Indwelling One;
+Thy Word is spirit and is life
+When to my spirit it doth come.</stanza>
+	<stanza type="verse" number="7">If I Thy Word would understand,
+I must Thy Holy Spirit touch;
+Not only grasp it with my mind,
+But with my spirit, praying much.</stanza>
+	<stanza type="verse" number="8">Thy precious Word my heart doth love,
+My spirit fellowships with Thine;
+My heart rejoices in Thy Word,
+My spirit praises sings in Thine.</stanza>
+  </lyrics>
+</hymn>

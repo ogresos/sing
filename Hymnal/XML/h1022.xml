@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've tried in vain a thousand ways</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Need of Christ</category>
+  <creators>
+    <author biodate="" biolink="">James Proctor</author>
+  </creators>
+  <melody>| 0. ._1/ 5./ 4// | 3. ._1/ 5./ 4// | 3. 5/ 6/ ._1/ | 7. 6/ 5./ 4#// (break) | 5. ._1/ 5./ 4// | 3. ._1/ 5./ 5#// | 6. ._1/ 7/ 6/ | 5. 3/ 4 | (.3. 0. |</melody>
+  <layout>
+    <singingstanza>I've tried in vain a thou -- sand ways My fears to quell, my hopes to raise; But what I need, the Bi -- ble says, Is ev -- er, on -- ly Je -- sus.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj102.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="844"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I've tried in vain a thousand ways
+My fears to quell, my hopes to raise;
+But what I need, the Bible says,
+  Is ever, only Jesus.</stanza>
+    <stanza type="verse" number="2">My soul is night, my heart is steel&amp;mdash;
+I cannot see, I cannot feel;
+For light, for life I must appeal
+  In simple faith to Jesus.</stanza>
+    <stanza type="verse" number="3">He died, He lives, He reigns, He pleads;
+There's love in all His words and deeds;
+There's all a guilty sinner needs
+  Forevermore in Jesus.</stanza>
+    <stanza type="verse" number="4">Though some should sneer, and some should blame,
+I'll go with all my guilt and shame;
+I'll go to Him because His name,
+  Above all names, is Jesus.</stanza>
+  </lyrics>
+</hymn>

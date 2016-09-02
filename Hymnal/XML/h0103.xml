@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Behold! behold the Lamb of God</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Redemption</category>
+  <creators>
+    <author biodate="1745-1788" biolink="">Joseph Hoskins</author>
+    <author biodate="" biolink="">Alfred P. Gibbs, v. 5</author>
+    <!--<composer biodate="" biolink="">Arranged by D. F. Auber</composer>-->
+  </creators>
+  <meter>8.6.8.6.8.8.8.6.</meter>
+  <hymncode>54333334565</hymncode>
+  <key>Eb Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G. | C - - G/B. | Am - - C/G. | Dm/F - - G7. | C - - F/C. | C - - G/B. | Am - - C/G. | Dm/F - - G7. | C - - C/E. | Dm - - G7. | C - - C/E. | Dm - - G7. | C - - G7. | C - - G/B. | Am - - C/G. | Dm/F - - G7. | C - - 0. |</chords>
+  <melody>| 0 - - 5( 4/) | 3 3/ 3 3/ 3/( 4/) 5/ | 6.( 5.) 5/( 4/) 3/ | 2.( 4.) 3 2/ | 1.( 1.) 5( 4/) (break) | 3 3/ 3 3/ 3/( 4/) 5/ | 6.( 5.) 5/( 4/) 3/ | 2.( 4.) 3 2/ | 1.( 1.) 5. (break) | 5 4/ 2 6/ 6 5/ | 3.( 3.) 5. | 5 4/ 2 6/ 6 5/ | 3.( 3.) 5( 4/) (break) | 3 3/ 3 3/ 3/( 4/) 5/ | 6.( 5.) 5/( 4/) 3/ | 2.( 4.) 3 2/ | 1.( 1.) 0. |</melody>
+  <layout>
+    <singingstanza>Be -- hold! be -- hold the Lamb of God, On the cross! On the cross! For us He shed His pre -- cious blood, On the cross! On the cross! O hear His all- imp -- or -- tant cry, "E -- li, la -- ma sa -- bach -- than -- i?" Draw near and see the Sav -- ior die, On the cross! On the cross!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj157.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="31">e0103_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Behold! behold the Lamb of God,
+  On the cross! On the cross!
+For us He shed His precious blood,
+  On the cross! On the cross!
+O hear His all-important cry,
+  "Eli, lama sabachthani?"
+Draw near and see the Savior die,
+  On the cross! On the cross!</stanza>
+    <stanza type="verse" number="2">Behold His arms extended wide,
+  On the cross! On the cross!
+Behold His bleeding hands and side,
+  On the cross! On the cross!
+The sun withholds its rays of light,
+  The heav'ns are clothed in shades of night,
+While Jesus wins the glorious fight,
+  On the cross! On the cross!</stanza>
+    <stanza type="verse" number="3">By faith we see Him lifted up,
+  On the cross! On the cross!
+He drinks for us the bitter cup,
+  On the cross! On the cross!
+The rocks do rend, the mountains quake,
+  While Jesus all our sins doth take,
+While Jesus suffers for our sake,
+  On the cross! On the cross!</stanza>
+    <stanza type="verse" number="4">And now the mighty deed is done,
+  On the cross! On the cross!
+The battle fought, the vict'ry won,
+  On the cross! On the cross!
+To heav'n He turns triumphant eyes;
+  " 'Tis finished" now, the Conqu'ror cries,
+Then bows His sacred head and dies,
+  On the cross! On the cross!</stanza>
+    <stanza type="verse" number="5">But now He's ris'n, ascended, crowned,
+  On the throne! On the throne!
+Heav'n's highest place for Him is found,
+  On the throne! On the throne!
+Our hearts we low in worship bow,
+  And join, as one, to hail Him now:
+"Worthy, O Lamb of God, art Thou!"
+  On the throne! On the throne!</stanza>
+  </lyrics>
+</hymn>

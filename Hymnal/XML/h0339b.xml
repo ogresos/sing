@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>How firm a foundation (Alternate Tune)</title>
+  <category>Assurance and Joy of Salvation&amp;mdash;A Firm Foundation</category>
+  <numbers><chinese num="260"></chinese><korean num="260"></korean><russian num="254"></russian></numbers>
+  <creators>
+    <author biodate="" biolink="">"K" in Rippon's Selection of Hymns, 1787</author>
+    <composer biodate="" biolink="">Early American melody</composer>
+  </creators>
+  <meter>11.11.11.11.</meter>
+  <hymncode>1151255323432</hymncode>
+  <key>Ab Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <melody>| 0 - 5( 6) | ._1 - 6 ._1 | 5 - ._1 ._1 | ._3 - ._1 ._3 | 5 - 5( 6) (break) | ._1 - 6 ._1 | 5 - ._1 ._1 | ._3 - ._2 ._2 | ._1 - ._3 - (break) | ._5 - ._3 ._5 | ._1 - ._1 ._1 | ._3 - ._1 ._3 | 5 - 5( 6) (break) | ._1 - 6 ._1 | 5 - ._1 ._1 | ._3 - ._2 ._2 | ._1 - 0 - |</melody>
+  <layout>
+    <singingstanza>How firm a foun -- da -- tion, ye saints of the Lord, Is laid for your faith in His ex -- cel -- lent word! What more can He say than to you He hath said, To you who for re -- fuge to Je -- sus have fled?</singingstanza>
+  </layout>
+  <date>1751</date>
+  <links>
+    <link type="group">hymnal-subj001.xml</link>
+    <link type="relevant" category="h" num="339" />
+  </links>
+  <music>
+    <midiref type="h" num="1129"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">How firm a foundation, ye saints of the Lord,
+Is laid for your faith in His excellent word!
+What more can He say than to you He hath said,
+To you who for refuge to Jesus have fled?</stanza>
+    <stanza type="verse" number="2">"Fear not, I am with thee, O be not dismayed,
+For I am thy God, and will still give thee aid;
+I'll strengthen thee, help thee, and cause thee to stand,
+Upheld by My righteous, omnipotent hand."</stanza>
+    <stanza type="verse" number="3">"When through the deep waters I call thee to go,
+The rivers of sorrow shall not overflow;
+For I will be with thee, thy troubles to bless,
+And sanctify to thee thy deepest distress."</stanza>
+    <stanza type="verse" number="4">"When through fiery trials thy pathway shall lie,
+My grace, all sufficient, shall be thy supply;
+The flame shall not hurt thee; I only design
+Thy dross to consume, and thy gold to refine."</stanza>
+    <stanza type="verse" number="5">"E'en down to old age all My people shall prove
+My sovereign, eternal, unchangeable love;
+And then, when grey hairs shall their temples adorn,
+Like lambs they shall still in My bosom be borne."</stanza>
+    <stanza type="verse" number="6">"The soul that on Jesus hath leaned for repose,
+I will not, I will not desert to his foes;
+That soul, though all hell should endeavor to shake,
+I'll never, no, never, no, never forsake!"</stanza>
+  </lyrics>
+</hymn>

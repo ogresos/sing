@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Go to Him without the camp (Alternate Tune)</title>
+  <category>Experience of Christ&amp;mdash;Following Him</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="1752-1817" biolink="">Justin Heinrich Knecht</composer>
+  </creators>
+  <numbers><cebuano num="583"></cebuano><chinese num="429"></chinese><korean num="429"></korean><portuguese num="290"></portuguese><russian num="316"></russian><spanish num="268"></spanish><tagalog num="583"></tagalog></numbers>
+  <meter>7.7.7.7.</meter>
+  <hymncode>32135436712765</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <melody>| 3 2 1 3 | 5 4 3 - | 6_. 7_. 1 2 | 7_. 6_. 5_. - (break) | 1 7_. 6_. 1 | 4 3 2 - | 5 4 3 2 | 1 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>Go to Him "with -- out the camp," His re -- proach to glad -- ly bear. Suf -- fered He with -- out the gate, How can I in com -- fort share?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj066.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0583.html">View Lyrics</link>
+    <link type="relevant" category="h" num="583" />
+  </links>
+  <music>
+    <midiref type="h" num="796"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Go to Him "without the camp,"
+His reproach to gladly bear.
+Suffered He without the gate,
+How can I in comfort share?</stanza>
+    <stanza type="verse" number="2">Go to Him "without the camp,"
+Willing e'en to bear the cross;
+He has trod the narrow way,
+I will follow, suff'ring loss.</stanza>
+    <stanza type="verse" number="3">Go to Him "without the camp,"
+Dear ones, relatives forsake;
+He the Father's will did mind,
+In His passion I partake.</stanza>
+    <stanza type="verse" number="4">Go to Him "without the camp,"
+His companion I will be;
+Never join religion's ranks
+Or the world's society.</stanza>
+    <stanza type="verse" number="5">Go to Him "without the camp,"
+Though the path be lone and grim;
+Let all human friends desert,
+I am satisfied with Him.</stanza>
+    <stanza type="verse" number="6">Go to Him "without the camp,"
+There to walk with Him, how blest!
+E'er to see His smiling face
+Ever in His presence rest.</stanza>
+    <stanza type="verse" number="7">Go to Him "without the camp,"
+Till the dawning of the day;
+Then I'll see Him and rejoice,
+With Him in His kingdom stay.</stanza>
+  </lyrics>
+</hymn>

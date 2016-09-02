@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O troubled soul, beneath the rod</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Resting on the Lord</category>
+  <numbers><english num="652"/><portuguese num="327"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1878-1958" biolink="">Margaret Mae Simpson, melody</composer>
+    <composer biodate="" biolink="">Harmony by J. B. M.</composer>
+  </creators>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>55311765351321712</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - - | C - - | G - G7 | C - - | F - - | C/G - G7 | C - - | G - G7 | C - - | G/D - D7 | G - G7 | C - C7 | F - Dm | C/G - G7 | C - - |</chords>
+  <melody>| 0. 5/ 5/ 3/ | ._1. ._1/ 7/ 6/ | 5. 3/ 5/ ._1/ | ._3/ ._2/ ._1( 7/) ._1/ (break) | ._2. ._3/ ._3/ ._2/ | ._1 5 6/ ._1/ | ._1 - 6 | 5/ ._1/ 7/ ._1/ ._2./ ._1// (break) | ._1 - (Chorus) ._1 | 7./ 7// 7/ ._1/ ._2./ 5// | ._1 - ._3 | ._2./ ._2// ._2/ ._2/ ._3./ ._2// (break) | ._2 5. 5/ | ._3/ ._2/ ._1 7b | 6/ ._1/ (.._1/ ._1/ 7./ 6// | 5/ 5/ 5/ 6/ 5./ 4// | 3 (.5/ 0. |</melody>
+  <layout>
+    <singingstanza>O trou -- bled soul, be -- neath the rod Thy Fath -- er speaks&amp;mdash; be still, be still; Learn to be si -- lent un -- to God, And let Him mold thee to His will. Be still, O trou -- bled soul, be still; Fear not, thy Fath -- er's arms en -- fold thee. Take up thy cross, lay down thy will; Be si -- lent un -- to God, and let Him mold thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj048.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0652_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O troubled soul, beneath the rod
+Thy Father speaks&amp;mdash;be still, be still;
+Learn to be silent unto God,
+And let Him mold thee to His will.</stanza>
+    <stanza type="chorus" number="">Be still, O troubled soul, be still;
+Fear not, thy Father's arms enfold thee.
+Take up thy cross, lay down thy will;
+  Be silent unto God, and let Him mold thee.</stanza>
+    <stanza type="verse" number="2">O anxious soul, lay down thy load,
+Oh, hear His voice, He speaks to thee,
+"Be still and know that I am God,
+And cast thy every care on Me."</stanza>
+    <stanza type="verse" number="3">O fearful soul, be still, be still,
+Be of good cheer; has He not said,
+"I will be with you, fear no ill,
+'Tis I, 'tis I, be not afraid"?</stanza>
+    <stanza type="verse" number="4">O praying soul, be still, be still,
+He cannot break His plighted word;
+Sink down into His blessed will,
+And wait in patience on the Lord.</stanza>
+    <stanza type="verse" number="5">O waiting soul, be still, be strong,
+And though He tarry, trust and wait;
+Doubt not, He will not wait too long,
+Fear not, He will not come too late.</stanza>
+  </lyrics>
+</hymn>

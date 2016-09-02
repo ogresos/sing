@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We have oil in our lamps&amp;mdash;we are burning</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Preparing for Christ's Return</category>
+  <numbers><cebuano num="1308"/><chinese num="ts:912"/><english num="1308"/><french num="188"/><german num="1308"/><korean num="837"/><lsmyp num="274"/><portuguese num="490"/><russian num="497"/><tagalog num="1308"/></numbers>
+  <meter>10.8.10.9. with chorus.</meter>
+  <hymncode>5553212161</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C7/E - | F - - G7 | C - Am - | D7 - G7 - | C - C7/E - | F - - - | C/G - G7 - | C F/C C - | C - C7/E - | F - Dm - | G - G7/B - | C - G7 - | C - C7/E - | F - Dm - | G - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | C - C7 - | F - - - | C - - - | G7 - - - | C - C7 - | F - - - | C - G7 - | C - - - | C - C7 - | F - - - | G - G7 - | C - G7 - | C - C7 - | F - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 5/ 5/ | 5 3/ 2/ 1 3 (break) | 2 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 1/ 2/ | 3/ 5/ 5/ 4/ 3 2 | 1 - - - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 6 5 - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>We have oil in our lamps&amp;mdash; we are burn -- ing! We have oil in our lamps to -- day! To the spir -- it, O Lord, keep us turn -- ing, Keep us turn -- ing, turn -- ing all the way! O Lord! A -- men! Hal -- le -- lu -- jah! We are burn -- ing, burn -- ing ev -- ery day! O Lord! A -- men! Hal -- le -- lu -- jah! Turn -- ing, turn -- ing all the way!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">nt_matt25-1-13.xml</link>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midi location="h" length="34">e1308_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We have oil in our lamps&amp;mdash;we are burning!
+  We have oil in our lamps today!
+To the spirit, O Lord, keep us turning,
+  Keep us turning, turning all the way!</stanza>
+	<stanza type="chorus" number="">O Lord! Amen! Hallelujah!
+We are burning, burning every day!
+O Lord! Amen! Hallelujah!
+  Turning, turning all the way!</stanza>
+	<stanza type="verse" number="2">But our vessels need oil for Thy coming;
+  We must gain a reserve supply.
+So our vessels we give for the filling
+  That our lamps may never, never die.</stanza>
+	<stanza type="chorus" number="">Fill us, Jesus! Fill us, Jesus!
+Every moment give us more of Thee!
+Fill us, Jesus! Fill us, Jesus!
+  Fill us with reality!</stanza>
+	<stanza type="verse" number="3">Then we'll burn till the Lord comes to meet us,
+  Then we'll burn till He comes that day.
+Then we'll go in with Him to the wedding
+  And be brightly burning all the way.</stanza>
+	<stanza type="chorus" number="">Come, Lord Jesus! Come, Lord Jesus!
+Come and find us filled and burning bright!
+Come, Lord Jesus! Come, Lord Jesus!
+  Come and in Thy Bride delight.</stanza>
+  </lyrics>
+</hymn>

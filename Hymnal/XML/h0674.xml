@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Lord will silently plan for thee</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Plan</category>
+  <numbers><english num="674"/><tagalog num="674"/></numbers>
+  <creators>
+    <author biodate="1868-1927" biolink="">Emily May Grimes</author>
+  </creators>
+  <melody>| 0 - 5_. | 3 - 3 | 3 2 6_. | 7_.( 1) 2 | 1 - 1 | 4 - 3 | 2 - 1 | 7_. - 1 (break) | 2 - 5_. | 3 - 1 | 6_. - 6_. | 2 - 1 | 7_. - 5_. | 5( 3) 1 | 7_.( 6_.) 1 | 5_.( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>The Lord will si -- lent -- ly plan for thee, Thou ob -- ject of om -- ni -- scient care; God un -- der -- takes Him -- self to be Thy Pi -- lot through each sub -- tle snare.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj024.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="493"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Lord will silently plan for thee,
+Thou object of omniscient care;
+God undertakes Himself to be
+Thy Pilot through each subtle snare.</stanza>
+    <stanza type="verse" number="2">The Lord will silently plan for thee,
+So certainly, He cannot fail!
+Rest on the faithfulness of God,
+In Him thou surely shalt prevail.</stanza>
+    <stanza type="verse" number="3">The Lord will silently plan for thee
+Some wonderful surprise of love.
+Eye hath not seen, nor ear hath heard,
+But it is kept for thee to prove.</stanza>
+    <stanza type="verse" number="4">The Lord will silently plan for thee,
+His purpose He'll to thee unfold;
+The tangled skein shall shine at last,
+A masterpiece of skill untold.</stanza>
+    <stanza type="verse" number="5">The Lord will silently plan for thee,
+A happy child kept in His care
+As though no other claimed His love,
+But thou alone to Him wert dear.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Blessed Saviour, Son of God</title>
+  <index>false</index>
+  <category>Praise of the Lord&amp;mdash;His Exaltation</category>
+  <numbers><chinese num="111"/><english num="8111"/><portuguese num="61"/><tagalog num="c111"/></numbers>
+  <creators>
+    <author biodate="1802-1884" biolink="">Adapted from James George Deck</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>8.8.6.8.8.6. with repeat.</meter>
+  <hymncode>135567155356671255</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F - | C/E - C - | D7 - - - | G - - C | G/D - D7 - | G7 - - - | C - - - | F - - - | Dm - - - | G7 - - - | C/E - F - | C/E - Fm - | C/G - G7 - | C - - - ||</chords>
+  <melody>| 0 - - 1/( 3/) | 5 5 6 7 | ._1. 5/ 5 3/( 5/) | 6 6 7 ._1 | ._2. 5/ 5 ._1 | 7 5 6. 7/ (break) | 5 - - 5/( 3/) | 1 3 5 5# | 7. 6/ 6 6/( 4/) | 2 4 6 ._2 | ._3. ._2/ ._2 7 | ._1 5 7 6 | 5 1 5 4 | 3 - 2 - | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>Thou Son of God, our Sav -- ior dear, Through Thee re -- demp -- tion did ap -- pear, From sin and death to free. Thy saints with rap -- turous joy a -- bound, To see Thee in Thy glo -- rious crown And seat -- ed heav -- en -- ly. And seat -- ed heav -- en -- ly.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="">e8111_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thou Son of God, our Savior dear,
+Through Thee redemption did appear,
+  From sin and death to free.
+Thy saints with rapturous joy abound,
+To see Thee in Thy glorious crown
+  And seated heavenly.
+  And seated heavenly.</stanza>
+    <stanza type="verse" number="2">Love of the Father lifted Thee,
+Bestowed such power, majesty;
+  At His right hand art Thou.
+We praise Thy wisdom, Sovereign true,
+And consecrate our all anew;
+  Thou reignest ever now.
+  Thou reignest ever now.</stanza>
+    <stanza type="verse" number="3">Head of the Church in righteousness,
+Thy members Thou didst fully bless:
+  All that Thou hast is ours.
+Our life and power Thou become,
+In all our motives, set Thy throne,
+  And conquer Satan's pow'rs.
+  And conquer Satan's pow'rs.</stanza>
+    <stanza type="verse" number="4">Ere long that glorious day shall come,
+Your Body will be raptured home,
+  To ever see Thy face.
+Such happy day! Thyself to see,
+And know that we belong to Thee,
+  And rest in Thine embrace.
+  And rest in Thine embrace.</stanza>
+  </lyrics>
+</hymn>

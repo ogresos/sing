@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We gather together to eat the Lord's supper</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <creators>
+	<composer biodate="1597" biolink="">A dutch hymn</composer>
+	<!--<composer biodate="" biolink="">Arranged by Eduar Kremser</composer>-->
+  </creators>
+  <meter>12.11.12.12.</meter>
+  <hymncode>556534543231</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | Dm - G7 | C - - | G/B - - | Am - - | D - - | G - - | C - - | C/E - - | Dm - G7 | Am - C/E | F - - | Am - C/G | F G7 - | C - - |</chords>
+<guitarChords>| C - - | C - - | C - - | G - G7 | C - - | G - - | C - - | D - - | G - - | G - - | C - - | G - G7 | C - - | F - - | C - - | G G7 - | C - - |</guitarChords>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/( 5/) (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>We gath -- er to -- geth -- er to eat the Lord's sup -- per: By eat -- ing and drink -- ing, our one -- ness we show. His pre -- sence pos -- sess -- ing, our one -- ness con -- fess -- ing, 'Tis thus we eat and drink, and His bless -- ing we know.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj163.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="31">e1106_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We gather together to eat the Lord's supper:
+By eating and drinking, our oneness we show.
+His presence possessing, our oneness confessing,
+'Tis thus we eat and drink, and His blessing we know.</stanza>
+	<stanza type="verse" number="2">We're eating the bread of His body once broken
+As now we're enjoying His Body made one:
+One loaf on the table&amp;mdash;one Body, we're able
+To testify to all that the Lord's made us one.</stanza>
+	<stanza type="verse" number="3">We also are drinking the cup of His blessing,
+The church's true fellowship of the Lord's blood;
+Redeemed by believing, all saints we're receiving,
+All those who through redemption have come unto God.</stanza>
+	<stanza type="verse" number="4">Oh, what can we say now except "Hallelujah!"
+For such a reality given to us.
+Thy blood we're employing, Thy Body enjoying;
+Thus Thou wilt have the church for Thyself glorious.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He Hideth My Soul</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;A Wonderful Savior</category>
+  <numbers><english num="334"/><tagalog num="334"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Fanny Jane Crosby</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>11.8.11.8. with chorus.</meter>
+  <hymncode>55433216665</hymncode>
+  <key>C Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. C/E. | F. C. | C. Am. | Dm. G7. | C. C/E. | F. F/A. | C/G. G7. | C - - | G. G7/B. | C - - | Dm. G7. | C. C/G. | C. C7/E. | F. Dm. | C/G. G7. | C. C/E F/ | C/G. G7. | F/C. C. |</chords>
+<guitarChords>| C - - | C - - | F. C. | C - - | G. G7. | C - - | F - - | C. G7. | C - - | G. G7. | C - - | G. G7. | C - - | C. C7. | F - - | C. G7. | C. C F/ | C. G7. | C - - |</guitarChords>
+  <melody>| 0. 0 5/ | 5./ 4// 3/ 3/ 2/ 1/ | 6./ 6// 6/ 5 5/ | 5./ 4// 3/ 3/ 4/ 3/ (break) | 2.( 2) 5/ | 5./ 4// 3/ 3/ 2/ 1/ | 6./ 6// 6/ ._1 6/ | 5./ 5// 5/ 5/ 4/ 2/ (break) | 1.( 1) (Chorus) 5/ | 7./ 7// 7/ 7 6// 7// | ._1./ 7// 6/ 5 5/ | 4/ 3/ 4/ 2/ 6/ 5/ | 3.( 3) 5/ (break) | ._1./ ._1// ._1/ ._1 ._1// ._1// | ._2./ ._1// ._1/ ._1 6/ | 5./ 5// 5/ 5/ 5/ 5/ (break) | 5.( 5) 6/ | 5./ 3// 1/ 4./ 7_.// 7_./ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>A won -- der -- ful Sav -- ior is Je -- sus my Lord, A won -- der -- ful Sav -- ior to me; He hi -- deth my soul in the cleft of the rock, Where ri -- vers of plea -- sure I see. He hi -- deth my soul in the cleft of the rock That sha -- dows a dry, thirst -- y land; He hi -- deth my life in the depths of His love, And cov -- ers me there with His hand, And cov -- ers me there with His hand.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj002.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="65">e0334_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">A wonderful Savior is Jesus my Lord,
+  A wonderful Savior to me;
+He hideth my soul in the cleft of the rock,
+  Where rivers of pleasure I see.</stanza>
+    <stanza type="chorus" number="">He hideth my soul in the cleft of the rock
+  That shadows a dry, thirsty land;
+He hideth my life in the depths of His love,
+  And covers me there with His hand,
+    And covers me there with His hand.</stanza>
+    <stanza type="verse" number="2">A wonderful Savior is Jesus my Lord,
+  He taketh my burden away;
+He holdeth me up and I shall not be moved,
+  He giveth me strength as my day.</stanza>
+    <stanza type="verse" number="3">With numberless blessings each moment He crowns,
+  And, filled with His fulness divine,
+I sing in my rapture, oh, glory to God,
+  For such a Redeemer as mine!</stanza>
+    <stanza type="verse" number="4">When clothed in His brightness, transported I rise
+  To meet Him in clouds of the sky,
+His perfect salvation, His wonderful love,
+  I'll shout with the millions on high.</stanza>
+  </lyrics>
+</hymn>

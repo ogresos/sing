@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What a happy day</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><cebuano num="1333"/><chinese num="ts:310"/><dutch num="52"/><english num="1333"/><german num="1333"/><lsmyp num="315"/><portuguese num="469"/><russian num="390"/><spanish num="494"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Tony Rosmarin">T. R.</author>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5431155435411</hymncode>
+  <key>F Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | C - | F/C - | C - | C7/E - | F - | F - | Fm - | Fm/Ab - | C - | - - | Am - | Dm - | G7 - | C F/C | C - | - 0 |</chords>
+<guitarChords>| C - | C - | C - | C - | C7 - | F - | F - | F - | F - | C - | - - | C - | G - | G7 - | C F | C - | - 0 |</guitarChords>
+  <melody>| 0 5/ 4/ | 3 1 | 1 - | 0. 5/ | 5/ 4/ 3/ 5/ | 4 1 | 1 - (break) | 0. 4/ | 4/ 3/ 2/ 4/ | 3 3/ 4/ | 5 3 | 1. 3/ | 2. 3/ | 4/ 2/ 7_./ 5_./ | 1( - | 1)( - | 1) 0 |</melody>
+  <layout>
+	<singingstanza>What a hap -- py day When I no more could turn a -- way, When Je -- sus took my heart from the black of night In -- to the king -- dom of His light.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj098.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="16">e1333_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">What a happy day
+When I no more could turn away,
+When Jesus took my heart from the black of night
+Into the kingdom of His light.</stanza>
+	<stanza type="verse" number="2">Now my life's begun,
+The "really life" that's in the Son.
+No more am I enthralled by earth's empty dreams;
+Deep in me flows a living stream.</stanza>
+	<stanza type="verse" number="3">As I turn to Him
+He fills me with His life within.
+His life becomes my life in reality;
+Oh, hallelujah, He's in me!</stanza>
+	<stanza type="verse" number="4">I just love You, Lord,
+With other loves, You break the cord.
+You'll be my life for all eternity;
+You are the only One for me.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ, whose glory fills the skies</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ as Light</category>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+    <composer biodate="1786-1872" biolink="">Conrad Kocher</composer>
+  </creators>
+  <meter>7.7.7.7.7.7.</meter>
+  <hymncode>171214436716555</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | F - - - | G7 - C - | C - - - | F - C - | F - - - | G7 - C - | C - - - | G7/B - C - | F - Dm - | C/G G7 C - |</chords>
+  <melody>| 1 7_./( 1/) 2 1 | 4 4 3 - | 6_. 7_. 1 6_. | 5_. 5_. 5_. - (break) | 1 7_./( 1/) 2 1 | 4 4 3 - | 6_. 7_. 1 6_. | 5_. 5_. 5_. - (break) | 3 2 1 3 | 5. 4/ 3 - | 6_. 7_. 1 4 | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Christ, whose glo -- ry fills the skies Christ, the true, the on -- ly Light, Sun of Right -- eous -- ness, a -- rise, Tri -- umph o'er the shades of night; Day -- spring from on high, be near, Day -- star, in my heart ap -- pear.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="28">e0366_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ, whose glory fills the skies
+Christ, the true, the only Light,
+Sun of Righteousness, arise,
+Triumph o'er the shades of night;
+Dayspring from on high, be near,
+Daystar, in my heart appear.</stanza>
+    <stanza type="verse" number="2">Dark and cheerless is the morn
+Unaccompanied by Thee;
+Joyless is the day's return,
+Till Thy mercy's beams I see,
+Till Thou inward light impart,
+Glad my eyes, and warm my heart.</stanza>
+    <stanza type="verse" number="3">Visit then this soul of mine,
+Pierce the gloom of sin and grief;
+Fill me, Radiancy divine,
+Scatter all my unbelief;
+More and more Thyself display,
+Shining to the perfect day.</stanza>
+  </lyrics>
+</hymn>

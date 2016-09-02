@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deep in me, Lord, mark Thou Thy holy Cross</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Deliverance from Self</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">Miss S. M. Walker</composer>
+  </creators>
+  <meter>10.10.10.6.</meter>
+  <hymncode>5653432671</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | G - G7 - | C - - G/B | C - D/A - | G - - - | G/D - D - | G - G7 - | C - Am - | G - - - | Am - - F | C/G - - - | Dm - G7 - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 6_. 5_. 3. 4/ | 3 2 6_. 7_. | 1 - - 2 | 3 - 4# - | 5 - - 7_. | 2 1 7_. 6_. | 5_. - - 5_. (break) | 6_. 5_. 3. 4/ | 3 2 6_. 7_. | 1 - - 6_. | 5_. - 5_. - | 6_. - 5_. - | 5_. - - 0 |</melody>
+  <layout>
+    <singingstanza>Deep in me, Lord, mark Thou Thy ho -- ly Cross, On mo -- tives, choic -- es, pri -- vate dear de -- sires. Let all that self in a -- ny form in -- spires Be un -- to me as dross.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj126.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="30">e0417_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Deep in me, Lord, mark Thou Thy holy Cross,
+On motives, choices, private dear desires.
+Let all that self in any form inspires
+  Be unto me as dross.</stanza>
+    <stanza type="verse" number="2">And when Thy touch of death is here and there
+Laid on a thing most precious in mine eyes.
+Let me not wonder, let me recognize
+  The answer to my prayer.</stanza>
+  </lyrics>
+</hymn>

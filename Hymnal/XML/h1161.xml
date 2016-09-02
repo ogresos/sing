@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ will make His seeking lover</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Satisfying Him</category>
+  <numbers><chinese num="ts:442"/><english num="1161"/><korean num="787"/><portuguese num="278"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5_./ 1/ | 3 1 6_./ 1/ | 6_. 5_. 5_./ 1/ | 7_.. 1/ 2/ 3/ (break) | 2 - 5_./ 1/ | 3 1 6_./ 1/ | 6_. 5_. 5_./ 1/ | 7_.. 1/ 2/ 3/ (break) | 1 - (Chorus) 3/ 4/ | 2 2 2/ 3/ | 1 1 1/ 7_./ | 6_. 6_. 1/ 6_./ (break) | 5_. - 3/ 4/ | 2 2 2/ 3/ | 1 1 2/ 3/ | (.4 6_. (.7_../ 1// | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Christ will make His seek -- ing lov -- er Pil -- lar, couch, and pa -- lan -- quin, E'en a crown, His boast and glo -- ry; He will do it all! A -- men! His be -- lov -- ed&amp;mdash; how He loves her, So at -- trac -- tive, His de -- light. He is cap -- ti -- vat -- ed whol -- ly; She is come -- ly in His sight.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">ot_ss-general.xml</link>
+    <link type="ref">Song of Songs</link>
+  </links>
+  <music>
+    <midiref type="h" num="268"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ will make His seeking lover
+  Pillar, couch, and palanquin,
+E'en a crown, His boast and glory;
+  He will do it all! Amen!</stanza>
+    <stanza type="chorus" number="">His beloved&amp;mdash;how He loves her,
+  So attractive, His delight.
+He is captivated wholly;
+    She is comely in His sight.</stanza>
+    <stanza type="verse" number="2">But there still remains a shadow;
+  Christ is still not satisfied.
+He must have a growing garden
+  To become His loving Bride!</stanza>
+    <stanza type="verse" number="3">Paradise of pomegranates,
+  Pleasant fruits, and henna flowers,
+Spikenard, saffron, myrrh, and aloes:
+  His enjoyment now&amp;mdash;not ours.</stanza>
+    <stanza type="verse" number="4">He has come into His garden,
+  Gathered myrrh and spices there,
+Eaten honeycomb and honey;
+  Wine and milk He'll drink fore'er.</stanza>
+    <stanza type="verse" number="5">From the garden comes the city,
+  All materials thus supplied;
+God is satisfied completely,
+  And the foe is terrified.</stanza>
+    <stanza type="verse" number="6">"Thou art fair, my love, as Tirzah,
+  Comely as Jerusalem."
+O Lord Jesus, Hallelujah,
+  Thou wilt do it all! Amen!</stanza>
+  </lyrics>
+</hymn>

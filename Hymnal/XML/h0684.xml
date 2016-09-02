@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come, ye disconsolate, where'er ye languish</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Mercy-Seat</category>
+  <numbers><chinese num="502"/><english num="684"/><korean num="502"/><tagalog num="684"/></numbers>
+  <creators>
+    <author biodate="1779-1852" biolink="">Thomas Moore</author>
+    <author biodate="1784-1872" biolink="">Altered by Thomas Hastings</author>
+    <composer biodate="1740-1816" biolink="">Samuel Webbe</composer>
+  </creators>
+  <meter>11.10.11.10.</meter>
+  <hymncode>5316554567155</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C/E - | Dm - G7 - | C - - - | C - C7/Bb - | F/A - F - | G/D - D7 - | G - - - | C/E - F - | C - - - | C/E - F - | C - - - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5 - 3 1 | 6. 5/ 5 - | 4.( 5/) 6 7 | ._1.( 5/) 5 0 | 3 - 3 3 | 4. 4/ 6 - | 5 - 4# 4# | 5 - - 0 (break) | ._1 - 7 6 | 5. 4/ 3 0 | ._1 - ._2/( ._1/) 7/( 6/) | 5.( 4/) 3 0 | 5( ._3) ._3 ._1 | ._1 6 - 4 | 3 - 2. 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Come, ye dis -- con -- so -- late, wher -- e'er ye lan -- guish; Come to the mer -- cy- -- seat, fer -- vent -- ly kneel; Here bring your wound -- ed hearts, here tell your an -- guish, Earth has no sor -- row that heaven can -- not heal.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="36">e0684_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Come, ye disconsolate, where'er ye languish;
+Come to the mercy-seat, fervently kneel;
+Here bring your wounded hearts, here tell your anguish,
+Earth has no sorrow that heaven cannot heal.</stanza>
+    <stanza type="verse" number="2">Joy of the comfortless, light of the straying,
+Hope of the penitent, fadeless and pure;
+Here speaks the Comforter, tenderly saying&amp;mdash;
+Earth has no sorrow that heaven cannot cure.</stanza>
+    <stanza type="verse" number="3">Here see the Bread of Life; see waters flowing
+Forth from the throne of God, pure from above;
+Come to the feast of love; come, ever knowing
+Earth has no sorrow but heaven can remove.</stanza>
+  </lyrics>
+</hymn>

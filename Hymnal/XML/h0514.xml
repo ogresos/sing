@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is One amid all changes</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><chinese num="ts:249"/><english num="514"/><spanish num="236"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1846-1945" biolink="">George Coles Stebbins</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>34555565112165</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G | C - C/E - | F - C - | G - - - | D7 - G - | C - - - | F - Dm - | C/G - G7 - | C F/C C - | C - C7 - | F - C - | G/B - G - | D7 - G - | C - C7/E - | F - - - | Dm - C/E F | C/G G7 C - |</chords>
+  <melody>| 0 - - 3/ 4/ | 5./ 5// 5/ 5/ 6/ 5 ._1/ | ._1./ ._2// ._1/ 6/ 5 5/ ._1/ | 7./ 7// 7/ 7/ 7/ 6 7/ | ._1/ ._3/ ._2./ ._1// (.._2 ._1/ ._2/ (break) | ._3/ ._3/ ._3/ ._3/ ._4/ ._3 ._1/ | ._2 ._1./ 5// 6. ._4/ | ._3 - ._2. ._1/ | ._1 - - 0 (break) | (Chorus) ._3/ ._3/ ._3./ ._2#// ._3 - | ._1/ ._2/ ._1./ 6// 5 - | ._2/ ._2/ ._2./ ._3// ._2/ 7. | ._1/ ._1/ ._2./ ._3// ._2 - (break) | ._3/ ._3/ ._3./ ._2#// ._3 - | ._1/ ._2/ ._1./ 5// 6 - | ._4./ ._4// ._3/ ._2/ ._3/ ._1 ._4/ | ._3 ._2./ ._1// ._1 0 |</melody>
+  <layout>
+    <singingstanza>There is One a -- mid all chang -- es Who stand -- eth ev -- er fast, One who cov -- ers all the fu -- ture, The pre -- sent and the past; It is Christ the Rock of Ag -- es, The first and the last, The first and the last. Je -- sus is the first, Je -- sus is the last, Trust Him for thy fu -- ture, Leave with Him the past; Je -- sus is the first, Je -- sus is the last, Christ the Rock of Ag -- es, The first and the last.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <copyright>Copyright 1936. Renewal 1964 by Hope Publishing Co. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="46">e0514_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There is One amid all changes
+  Who standeth ever fast,
+One who covers all the future,
+  The present and the past;
+It is Christ the Rock of Ages,
+  The first and the last,
+  The first and the last.</stanza>
+    <stanza type="chorus" number="">Jesus is the first,
+Jesus is the last,
+Trust Him for thy future,
+Leave with Him the past;
+Jesus is the first,
+Jesus is the last,
+Christ the Rock of Ages,
+  The first and the last.</stanza>
+    <stanza type="verse" number="2">There is One whose arms upholdeth
+  This whole creation vast,
+Yet He bids us on His bosom
+  Our cares and sorrows cast;
+Let us bring them all to Jesus,
+  The first and the last,
+  The first and the last.</stanza>
+    <stanza type="verse" number="3">There is One whose love has kept us
+  Through every stormy blast,
+And His hand will guard and guide us
+  Till all the storms are past;
+Jesus, we will trust Thee ever,
+  The first and the last,
+  The first and the last.</stanza>
+    <stanza type="verse" number="4">First and last, O Christ, we crown Thee,
+  Our fondest love Thou hast;
+Lord of lords, before Thy footstool
+  Let every crown be cast;
+Haste the day when all shall crown Thee,
+  The first and the last,
+  The first and the last.</stanza>
+  </lyrics>
+</hymn>

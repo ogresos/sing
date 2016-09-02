@@ -11,14 +11,26 @@ import UIKit
 import UIKit
 import CoreData
 
-class IndexViewController: UICollectionViewController, UINavigationControllerDelegate, NSFetchedResultsControllerDelegate, XMLParserDelegate {
+class IndexViewController: UICollectionViewController, UINavigationControllerDelegate, NSFetchedResultsControllerDelegate, XMLParserDelegate, UISearchBarDelegate {
     
     @IBOutlet weak var indexCollectionView: UICollectionView!
 
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
     var managedObjectContext: NSManagedObjectContext? = nil
+    
+    //UI vars
+    var searchBar: UISearchBarDelegate
+    var searchBarActive: Bool
+    var searchBarBounds: Float
+    
+    // Model vars
+    var hymns = [NSManagedObject]()
+    var theHymn: NSManagedObject!
+    var selectedIndexPath: IndexPath = []
+    
+    // Parser vars
+    // TODO: Parser stuff should be moved to it's own class
     var parser: XMLParser!
-    var posts = NSMutableArray()
     var elements = NSMutableDictionary()
     var element = String()
     var hymn: NSManagedObject!
@@ -29,11 +41,6 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     var stanzaType = String()
     var stanzaOrder = 0
     
-
-    
-    var hymns = [NSManagedObject]()
-    var theHymn: NSManagedObject!
-    var selectedIndexPath: IndexPath = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -68,11 +75,52 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     }
     
     func createHymnsFromXML() {
-        let path = Bundle.main.path(forResource:"h0001", ofType: "xml")
-        let url = NSURL(fileURLWithPath: path!) as URL
-        self.parser = XMLParser(contentsOf:url)
-        self.parser.delegate = self
-        self.parser.parse()
+//        for index in 0...
+        
+        let fileManager = FileManager.default
+        //let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)[0]
+        let bundlePath = Bundle.main.bundlePath
+        let enumerator:FileManager.DirectoryEnumerator = fileManager.enumerator(atPath: bundlePath)!
+        
+        while let element = enumerator.nextObject() as? String {
+            
+            if element.hasSuffix("xml") { // checks the extension
+                
+                let path = Bundle.main.path(forResource:element, ofType: nil)
+                if(path != nil) {
+                    print(element)
+                    let url = NSURL(fileURLWithPath: path!) as URL
+                    self.parser = XMLParser(contentsOf:url)
+                    self.parser.delegate = self
+                    self.parser.parse()
+                }
+
+            }
+        }
+        //let documentsPath = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)[0]
+        print("documents", bundlePath)
+        //let path = documentsPath.stringByApp
+        //var files = extractAllFiles(atPath: documentsPath, withExtension: "xml")
+        
+        //print("The files", files)
+
+    }
+    
+    func extractAllFiles(atPath path: String, withExtension fileExtension:String) -> [String] {
+        let pathURL = NSURL(fileURLWithPath: path, isDirectory: true)
+        var allFiles: [String] = []
+        let fileManager = FileManager.default
+        //let enumerator:NSDirectoryEnumerator = manager.enumeratorAtURL(url, includingPropertiesForKeys: keys, options: NSDirectoryEnumerationOptions(), errorHandler: nil)
+        if let enumerator = fileManager.enumerator(atPath: path) {
+            print("file!")
+            for file in enumerator {
+                if let path = NSURL(fileURLWithPath: file as! String, relativeTo: pathURL as URL).path
+                    , path.hasSuffix(".\(fileExtension)"){
+                    allFiles.append(path)
+                }
+            }
+        }
+        return allFiles
     }
     
     func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String])
@@ -87,7 +135,10 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
             print("Created hymn:", hymn)
         }
         if ((elementName as NSString).isEqual(to: "stanza")) {
-            stanzaNumber = attributeDict["number"]!
+            if (attributeDict["number"] != nil) {
+                stanzaNumber = attributeDict["number"]!
+            }
+            
             stanzaType = attributeDict["type"]!
             stanzaOrder += 1
         }
@@ -107,11 +158,11 @@ class IndexViewController: UICollectionViewController, UINavigationControllerDel
     {
         if (elementName as NSString).isEqual(to: "stanza") {
             createStanza(order: stanzaOrder, number: stanzaNumber, type: stanzaType, text: stanzaText as String, hymn: hymn)
+            stanzaText = ""
         }
-//        if (elementName as NSString).isEqual(to: "hymn") {
-//            let hymn = createHymn(title: hymnTitle as String, number: hymnNumber)
-//            print("Created hymn:", hymn)
-//        }
+        if (elementName as NSString).isEqual(to: "hymn") {
+            hymnTitle = ""
+        }
     }
     
     

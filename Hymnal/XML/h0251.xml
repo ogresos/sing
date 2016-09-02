@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Rivers of living water</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Living Water</category>
+  <numbers><cebuano num="251"/><chinese num="203"/><english num="251"/><korean num="203"/><portuguese num="133"/><russian num="49"/><spanish num="117"/><tagalog num="251"/></numbers>
+  <creators>
+    <author biodate="" biolink="">G. R. H. Wood</author>
+    <composer biodate="" biolink="">B. Line</composer>
+    <composer biodate="" biolink="">Chorus by D. Wood</composer>
+  </creators>
+  <meter>7.7.8.7. with chorus.</meter>
+  <hymncode>343267151216712</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - F/C - - | C - - - - - | Am - - D - - | Dm/F - - G7 - - | C - - F - - | Em - - Am - - | Dm - - G7 - - | F/C - - C - - | C - - A/C# - - | Dm - - Dm/F - - | G - - G7 - - | C - - - - - | A - - - - - | A7 - - D - - | C/G - - G7 - - | F/C - - C - - |</chords>
+  <guitarChords>| C - - G - - | C - - - - - | C - - D - - | G - - G7 - - | C - - F - - | C - - - - - | C - - G7 - - | C - - - - - | C - - - - - | G - - - - - | G - - G7 - - | C - - - - - | C - - - - - | D - - - - - | G - - G7 - - | C - - - - - |</guitarChords>
+  <melody>| 3 4 3 2( 6_.) 7_. | 1 - - 5_. - - | 1 2 1 6_. 7_. 1 | 2 - - - - - (break) | 3 2 1 1 7_. 6_. | 5_. - - 1 - - | 1 7_. 6_. 7_. 5_. 2 | 1 - - - - - (break) | (Chorus) 3 3 3 3( 4) 5 | 5 - - 2 - - | 2 2 2 2( 1) 2 | 3 - - - - - (break) | 3 3 3 3( 4) 5 | 5 - - 4# - - | 5 4 1# 2 3 2 | 1 - - - - - |</melody>
+  <layout>
+    <singingstanza>Riv -- ers of liv -- ing wa -- ter, Riv -- ers that flow from the throne, Riv -- ers o'er -- flow -- ing with bless -- ing, Com -- ing from Je -- sus a -- lone. Riv -- ers of liv -- ing wa -- ter, Riv -- ers of life so free, Flow -- ing from Thee, my Sav -- ior, Send now the riv -- ers through me.</singingstanza>
+  </layout>
+  <copyright>Used by permission of the South Africa General Mission.</copyright>
+  <links>
+    <link type="group">hymnal-subj087.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="44">e0251_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Rivers of living water,
+  Rivers that flow from the throne,
+Rivers o'erflowing with blessing,
+  Coming from Jesus alone.</stanza>
+    <stanza type="chorus" number="">Rivers of living water,
+  Rivers of life so free,
+Flowing from Thee, my Savior,
+    Send now the rivers through me.</stanza>
+    <stanza type="verse" number="2">Whoso is thirsty come hither,
+  Here is abundant supply;
+Water transparent as crystal,
+  Come without money and buy.</stanza>
+    <stanza type="verse" number="3">Cleanse me, oh, cleanse me, my Savior,
+  Make me a channel today;
+Empty me, fill me and use me,
+  Teach me to trust and obey.</stanza>
+    <stanza type="verse" number="4">Then, and then only, Lord Jesus,
+  Through me the rivers can flow;
+Thus and thus only will others
+  Learn Thy great fulness to know.</stanza>
+    <stanza type="verse" number="5">Now I surrender to Jesus,
+  Here I lay all at His feet;
+Anything, anywhere only,
+  Just for His service made meet!</stanza>
+  </lyrics>
+</hymn>

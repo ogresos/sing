@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And wouldst thou live on earth as more than conqu'ror</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Victory</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 3/ 5/ | ._3. ._3/ ._2/ ._1/ 6/ ._1/ | 6 5. 5/ 7/ ._2/ | ._4. ._4/ ._4/ ._4#/ ._5/ ._2/ (break) | ._3 - 0/ 5/ 3/ 5/ | ._3. ._3/ ._2/ ._1/ 6/ ._1/ | 6 5. 5/ ._1/ ._3/ | ._5/ ._3/ ._1/ ._2/ ._3/( ._1/) ._2 | ._1( - ._1/) 0. |</melody>
+  <layout>
+    <singingstanza>And wouldst thou live on earth as "more than con -- qu'ror"? Vic -- tor -- ious o'er the world -- ly life a -- round? Mark well the path -- way that thy Lord hath trod -- den, Since here a -- lone the se -- cret can be found.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj219.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="53"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">And wouldst thou live on earth as "more than conqu'ror"?
+Victorious o'er the worldly life around?
+Mark well the pathway that thy Lord hath trodden,
+Since here alone the secret can be found.</stanza>
+    <stanza type="verse" number="2">He died, and by His death He dealt the death-blow
+To sin and Satan's power for evermore,
+And they, who die with Him, shall rise victorious,
+And "in this sign" shall triumph more and more.</stanza>
+    <stanza type="verse" number="3">The Cross henceforth their mark of perfect freedom,
+What can they lose, who have surrendered all?
+What can they fear, who have no reputation?
+What shall they shrink from, when His voice doth call?</stanza>
+    <stanza type="verse" number="4">"In this sign," therefore, go henceforth and conquer,
+Finding the place of death the gate of life,
+"Life more abundant," life in all its fulness,
+In the deep calm of God, set free from strife.</stanza>
+  </lyrics>
+</hymn>

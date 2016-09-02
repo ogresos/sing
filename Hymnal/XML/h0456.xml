@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Living for Jesus a life that is true</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <numbers><cebuano num="456"/><chinese num="342"/><english num="456"/><korean num="342"/><portuguese num="208"/><tagalog num="456"/></numbers>
+  <creators>
+    <author biodate="1866-1960" biolink="">Thomas Obediah Chisholm</author>
+    <composer biodate="1883-1963" biolink="">Carl Harold Lowden</composer>
+  </creators>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>3435234123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - C7 - | F - F/A - | C - - - | G/B - G - | Am - Am/E - | D - D7/F# - | G - G7 - | C - - - | G - C7 - | F - - - | E - - - | Dm/F - D/F# - | C/G - Am - | C/G - G7 - | C - - - | C - G7 - | C - - - | Dm - A7 - | Dm - - - | G - G7/B - | C - - - | D7 - - - | G7 - - - | C - G7 - | C - - - | C7 - C7/E - | F - - - | F - F/A - | C/G - A7 - | Dm - G7 - | C - - - |</chords>
+  <melody>| 3 4 - 3 | 5 2 - 3 | 4 1 - 2 | 3 - - 0 | 3 2 - 3 | 2 1 - 7_. | 6_. 3 - 2 | 2 - - 0 (break) | 3 4 - 3 | 5 2 - 3 | 4 1 - 2 | 3 - - 0 | 2 7 - 6 | 5 1 - 2 | 3 3 - 2 (break) | 1 - - (Chorus) 5_. | 5_. 3 3 2 | 2 1 - 6_. | 6_. 4 4 3 (break) | 2 - - 1 | 7_. 5 5 4 | 4 3 - 3 | 3 2 6_. 3 (break) | 2 - - 5_. | 5_. 3 3 2 | 2 1 - 1 | 1 6 6 5 (break) | 4 - - 6_. | 1 7_. 1 2 | 3 3 (.4 3 | 3 2 6_. 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Liv -- ing for Je -- sus a life that is true, Striv -- ing to please Him in all that I do; Yield -- ing al -- le -- giance, glad- -- heart -- ed and free, This is the path -- way of bless -- ing for me. O Je -- sus, Lord and Sav -- ior, I give my -- self to Thee, For Thou, in Thy a -- tone -- ment, Didst give Thy -- self for me; I own no oth -- er Mas -- ter, My heart shall be Thy throne, My life I give, hence -- forth to live, O Christ, for Thee a -- lone.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <copyright>Copyright, 1945 Renewal, Rodeheaver Co. Owner. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj036.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="67">e0456_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Living for Jesus a life that is true,
+Striving to please Him in all that I do;
+Yielding allegiance, glad-hearted and free,
+This is the pathway of blessing for me.</stanza>
+    <stanza type="chorus" number="">O Jesus, Lord and Savior,
+I give myself to Thee,
+For Thou, in Thy [redemption],*
+Didst give Thyself for me;
+I own no other Master,
+My heart shall be Thy throne,
+My life I give, henceforth to live,
+O Christ, for Thee alone.</stanza>
+    <stanza type="verse" number="2">Living for Jesus who died in my place,
+Bearing on Calv'ry my sin and disgrace;
+Such love constrains me to answer His call,
+Follow His leading and give Him my all.</stanza>
+    <stanza type="verse" number="3">Living for Jesus wherever I am,
+Doing each duty in His holy name;
+Willing to suffer affliction and loss,
+Deeming each trial a part of my cross.</stanza>
+    <stanza type="verse" number="4">Living for Jesus through earth's little while,
+My dearest treasure, the light of His smile;
+Seeking the lost ones He died to redeem,
+Bringing the weary to find rest in Him.</stanza>
+    <stanza type="note" number="">The Compilers prefer that the New Testament word, "redemption," be used and sung instead of "atonement."</stanza>
+  </lyrics>
+</hymn>

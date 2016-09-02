@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let me sing, for the glory of heaven</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Grace</category>
+  <numbers><english num="164"/><tagalog num="164"/></numbers>
+  <creators>
+    <author biodate="1834-1925" biolink="">Samuel Trevor Francis</author>
+    <composer biodate="" biolink="">P. Skene</composer>
+  </creators>
+  <meter>10.9.10.9.</meter>
+  <hymncode>34545765543</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | G7 - - | C - - | Dm - - | Dm/F - - | C/G - - | G7 - - | C - - | G/D - - | C/E - - | F - - | C/G - - | G7 - - | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 3/ 4/ | 5 4# 5 | 7 6 5 | 5/( 4/) 3 - (break) | 0 - 3/ 5/ | 4 4 3 | 2 3 1 | 3( 2) - (break) | 0 - 3/ 4/ | 5 4# 5 | 7 6 5 | ._1 - - (break) | 6 0 7/ 6/ | 5 3 1 | 4 3 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Let me sing, for the glo -- ry of heav -- en Like a sun -- beam has swept o'er my heart; I would praise Thee for sins all for -- giv -- en, For Thy love, which shall nev -- er de -- part.</singingstanza>
+  </layout>
+  <copyright>Copyright, Pickering &amp; Inglis, Ltd. Used by permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj150.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0164_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let me sing, for the glory of heaven
+Like a sunbeam has swept o'er my heart;
+I would praise Thee for sins all forgiven,
+For Thy love, which shall never depart.</stanza>
+    <stanza type="verse" number="2">If Thy works praise Thee, Giver of good,
+If the sun shines his praise unto Thee,
+If the wind, as it sighs through the wood,
+Makes a murmur of song from each tree,</stanza>
+    <stanza type="verse" number="3">Then these lips, sure, a tribute shall bring,
+Though unworthy the praises must be;
+Shall all nature be vocal and sing,
+And no psalm of rejoicing from me?</stanza>
+    <stanza type="verse" number="4">O wonderful, glorious Redeemer!
+I would worship Thee, Savior Divine;
+And rejoice, though surrounded with praises,
+Thou wilt still hear a song such as mine.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Therefore the redeemed of the Lord shall return</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><cebuano num="1341"/><chinese num="ts:505"/><english num="1341"/><german num="1341"/><lsmyp num="334"/><spanish num="498"/></numbers>
+  <creators>
+	<composer biodate="1972" biolink="" fullname="Ruth Lake">R. L.</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55635635635</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - - - | C - C7/E - | F - - - | F - F/A - | C - Am - | Dm - G7 - | C - F/C - | C - G7 - | C - - - | C - C7/E - | F - - - | F - F/A - | C - Am - | Dm - G7 - | C - F/C - | C - C7/E - | F - - - | F - F/A - | C - - - | C - D7 - | D7 - - - | D7 - | Dm - - - | G - G7/B - | C - - - | C - C7/E - | F - - - | F - F/A - | C - Am - | Dm - G7 - | C - F/C - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | C - - - | F - - - | F - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | C - C7 - | F - - - | F - - - | C - - - | G - G7 - | C - - - | C - C7 - | F - - - | F - - - | C - - - | C - D7 - | D7 - - - | D7 - | G - - - | G - G7 - | C - - - | C - C7 - | F - - - | F - - - | C - - - | G - G7 - | C - F - | C - - - |</guitarChords>
+  <melody>| 0 5 5 6./ 3// | 5 6./ 3// 5 6./ 3// | 5 - 0/ ._3/ ._3./ ._2// | ._1/ ._1( - ._1/) 6./ ._1// (break) | ._2/ ._1 - ._1/ ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2 ._1 7 | ._1 - - - (break) | 0 5 5 6./ 3// | 5 6./ 3// 5 6./ 3// | 5 - 0/ ._3/ ._3./ ._2// | ._1/ ._1( - ._1/) 6./ ._1// (break) | ._2/ ._1 - ._1/ ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2 ._1 7 | ._1 - - - (break) | 0 ._1 ._1 ._1 | ._1( - - - | ._1) ._1 7 6 | 5 - - - | 0 ._1 ._1 6( | 6) ._1 ._1 6( | [2/4] 6./) ._3// ._2./ ._1// | [4/4] ._2 - - - (break) | 0 5 5 6./ 3// | 5 6./ 3// 5 6./ 3// | 5 - 0/ ._3/ ._3./ ._2// | ._1/ ._1( - ._1/) 6./ ._1// (break) | ._2/ ._1 - ._1/ ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2 ._1 7 | ._1( - - - | ._1) 0 - - |</melody>
+  <layout>
+	<singingstanza>There -- fore the re -- deemed of the Lord shall re -- turn, And come with sing -- ing un -- to Zi -- on; And ev -- er -- last -- ing joy shall be up -- on their head. There -- fore the re -- deemed of the Lord shall re -- turn, And come with sing -- ing un -- to Zi -- on; And ev -- er -- last -- ing joy shall be up -- on their head. They shall ob -- tain glad -- ness and joy; And sor -- row and mourn -- ing shall flee a -- way. There -- fore the re -- deemed of the Lord shall re -- turn, And come with sing -- ing un -- to Zi -- on; And ev -- er -- last -- ing joy shall be up -- on their head.</singingstanza>
+  </layout>
+  <copyright>Ruth Lake, 1972 Scripture in Song/Integrity Music Inc (ASCAP)</copyright>
+  <links>
+	<link type="ref">Isaiah 51:11</link>
+  </links>
+  <music>
+	<midi location="h" length="69">e1341_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Therefore the redeemed of the Lord shall return,
+And come with singing unto Zion;
+And everlasting joy shall be upon their head.
+
+Therefore the redeemed of the Lord shall return,
+And come with singing unto Zion;
+And everlasting joy shall be upon their head.
+
+They shall obtain gladness and joy;
+And sorrow and mourning shall flee away.</stanza>
+	<stanza type="note" number="">(Repeat the first three lines)</stanza>
+  </lyrics>
+</hymn>

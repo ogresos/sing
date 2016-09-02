@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ calling yet! shall I not hear</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Lord's Calling</category>
+  <numbers><english num="1029"/><tagalog num="1029"/></numbers>
+  <creators>
+    <author biodate="1697-1769" biolink="">Gerhardt Tersteegen</author>
+    <author biodate="" biolink="">Translated by Mrs. Findlater</author>
+    <composer biodate="1851-1921" biolink="">Edwin Othello Excell</composer>
+  </creators>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>512333243</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7 - C - | G/B - G - | D - G - | C - Am - | G7 - C - | G7 - C - | C/G G7 C - | C - - - | G7 - - - | C - D7 - | G7 - C - | C - - - | F - Dm - | C/G - Am - | G7 - C - |</chords>
+  <melody>| 5_. 1/ 2/ 3. 3/ | 3/( 2/) 4 3 - | 2 2/ 2/ 1 2 | 2 6_. 1/( 7_./ 6_./ 5_./) (break) | 5_. 1/ 2/ 3. 3/ | 3/( 2/) 4 3 - | 2 3/ 4/ 3. 2/ | 1/( 7_./) 6_./( 7_./) 1 - (break) | (Chorus) 5. 5/ 3/ 5_./ 6_./ 5_./ | 4. 4/ 2/ 5_./ 6_./ 5_./ | 1. 3/ 2 1 | 2/ 5_./ 6_./ 7_./ 1/ 1/ 1/ 1/ (break) | 5. 5/ 3/ 5_./ 6_./ 5_./ | 5. 5/ 4/ 6_./ 7_./ 6_./ | 5_.. 1/ 3/ 2/ 1/ 7_./ | 6_./ 5_./ 6_./ 7_./ 1 - |</melody>
+  <layout>
+    <singingstanza>Christ call -- ing yet! shall I not hear? Earth's plea -- sures shall I still hold dear? Shall life's swift pass -- ing years all fly, And still my soul in slum -- ber lie? Call -- ing yet, oh, hear Him! Call -- ing yet, oh, hear Him! Christ is call -- ing yet; oh! hear Him call -- ing, call -- ing! Call -- ing yet, oh, hear Him! Call -- ing yet, oh, hear Him! Christ is call -- ing yet; oh, hear Him call -- ing yet!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj107.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="42">e1029_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ calling yet! shall I not hear?
+Earth's pleasures shall I still hold dear?
+Shall life's swift passing years all fly,
+And still my soul in slumber lie?</stanza>
+    <stanza type="chorus" number="">Calling yet, oh, hear Him!
+Calling yet, oh, hear Him!
+Christ is calling yet;
+Oh! hear Him calling, calling!
+Calling yet, oh, hear Him!
+Calling yet, oh, hear Him!
+Christ is calling yet; oh, hear
+    Him calling yet!</stanza>
+    <stanza type="verse" number="2">Christ calling yet! shall I not rise?
+Can I His loving voice despise,
+And basely His kind care repay?
+He calls me still; can I delay?</stanza>
+    <stanza type="verse" number="3">Christ calling yet! and shall He knock,
+And I my heart the closer lock?
+He still is waiting to receive;
+And shall I dare His Spirit grieve?</stanza>
+    <stanza type="verse" number="4">Christ calling yet! and shall I give
+No heed, but still in bondage live?
+I wait, but He does not forsake:
+He calls me still; my heart, awake!</stanza>
+    <stanza type="verse" number="5">Christ calling yet! I cannot stay;
+My heart I yield without delay;
+Vain world, farewell! from thee I part;
+The voice of Christ has reached my heart.</stanza>
+  </lyrics>
+</hymn>

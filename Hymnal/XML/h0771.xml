@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The veil is rent and opened is</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;In the Holiest</category>
+  <numbers><cebuano num="771"/><chinese num="558"/><english num="771"/><german num="771"/><korean num="558"/><portuguese num="353"/><russian num="482"/><spanish num="329"/><tagalog num="771"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>12353143671322</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | F - - | C - - | Am - - | D7 - - | G - - | G7/B - - | C - - | E/B - E/G# | Am - F | C/G - - | G7 - - | C - F/C | C - - |</chords>
+  <guitarChords>| C - - | C - - | F - - | C - - | D - - | D7 - - | G - - | G7 - - | C - - | E7 - - | F - - | C - - | G7 - - | C - F | C - - |</guitarChords>
+  <melody>| 1 2 3 | 5 - 3 | 1 - 4 | 3 - - | 6_. 7_. 1 | 3 - 2 | 2 - - (break) | 2 5 4 | 3 - 1 | 3 - 2 | 1 - 2 | 3 - 3 | 4 - 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>The veil is rent and o -- pened is A new and liv -- ing way; With bold -- ness thru the pre -- cious blood, We come to Thee to pray.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">icometotheedearlord.xml</link>
+	<link type="group">hymnal-subj169.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0771.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736318135.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="22">e0771_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The veil is rent and opened is
+  A new and living way;
+With boldness thru the precious blood,
+  We come to Thee to pray.</stanza>
+	<stanza type="verse" number="2">By Thy redemption we may come
+  Into the holiest place;
+Thy Spirit now anointing us,
+  We touch the throne of grace.</stanza>
+	<stanza type="verse" number="3">In spirit only we would pray,
+  Ourselves by Thee possessed,
+That from our spirit Christ the Lord
+  As incense be expressed.</stanza>
+	<stanza type="verse" number="4">Thy grace and mercy as a stream
+  From out the throne does flow,
+Refreshing in the hour of need&amp;mdash;
+  How rich, how sweet to know!</stanza>
+	<stanza type="verse" number="5">Though for our needs we do not ask
+  But by Thy Spirit pray,
+Our every need is known to Thee,
+  We're in Thy care alway.</stanza>
+	<stanza type="verse" number="6">Though griefs and trials on us press,
+  We will not anxious be,
+But all our care upon Thee cast
+  And set our spirit free.</stanza>
+	<stanza type="verse" number="7">O may I concentrated be
+  In fellowship with Thee,
+My prayer and incense offering,
+  Thy Spirit leading me.</stanza>
+  </lyrics>
+</hymn>

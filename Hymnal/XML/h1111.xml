@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gathered at Thy table, Lord</title>
+  <index>true</index>
+  <numbers><chinese num="8111"/><english num="1111"/></numbers>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3 - 2 4 - 3 | 3 - 2 1 - - | 1 - 6_. 1 - 6_. | 5_.( 1) 3 2 - - (break) | 3 - 2 4 - 3 | 2 - 1 6_. - - | 5_.( 1) 3 5 - 3 | 3 - 2 1 - - (break) | 5 - 3 5 - 3 | 3 - 2 2 - - | 3 - 7_. 1 - 1 | 2 - 6_. 7_. - - (break) | 1 - 1 2 - 2 | 3 - 3 4 - - | 5 - 6 5( 3) 1 | 3 - 2 (.1 - - |</melody>
+  <layout>
+    <singingstanza>Gath -- ered at Thy ta -- ble, Lord; Here the bread and wine are spread. Thou, our High Priest, pre -- sent here; We, by Thee, are rich -- ly fed. Thou, Lord, our Mel -- chi -- se -- dec&amp;mdash; We, the ones You come to feed; God to us to min -- is -- ter, Rich sup -- ply to us in -- deed.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj163.xml</link>
+    <link type="ref">Genesis 14:17-20</link>
+  </links>
+  <music>
+    <midiref type="h" num="223"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gathered at Thy table, Lord;
+Here the bread and wine are spread.
+Thou, our High Priest, present here;
+We, by Thee, are richly fed.
+Thou, Lord, our Melchisedec&amp;mdash;
+We, the ones You come to feed;
+God to us to minister,
+Rich supply to us indeed.</stanza>
+    <stanza type="verse" number="2">From the slaughter of the kings
+Abram did return one night,
+O'er the foe victorious,
+With the spoils of the fight.
+On the way this One he met,
+Who for him did intercede;
+King of Righteousness and Peace
+Meeting Abram in his need.</stanza>
+    <stanza type="verse" number="3">We too, Lord, the kings have fought
+In the battle all day long;
+By Thine intercession, Lord,
+We are now victorious, strong.
+Round this table here we meet,
+We Thy church victorious,
+To enjoy the ministering
+Of the processed God to us.</stanza>
+    <stanza type="verse" number="4">We're not sinners, miserable;
+All our sins are history!
+Now to us, the fighters true,
+Is Thy priestly ministry.
+Gathered in thanksgiving, Lord,
+Now our hearts to Thee we raise;
+To our great Melchisedec,
+Render we our highest praise!</stanza>
+  </lyrics>
+</hymn>

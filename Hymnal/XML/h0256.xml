@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, blow upon us, Lord, while here we wait on Thee</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Wind</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1852-1911" biolink="">Flora Hamilton Cassel</composer>
+  </creators>
+  <meter>12.12.12.8. with chorus.</meter>
+  <hymncode>561333321444</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - - - | Dm - - - | G7 - - - | C - - - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C - | G - G7 - | C - - - | D - D7 - | G - G7 - | C - C7 - | F - - - | C - G7 - | C F C - |</chords>
+<guitarChords>| C - - - | C - - - | G - - - | G7 - - - | C - - - | C - C7 - | F - - - | C - G7 - | C - - - | G - G7 - | C - C/E - | Dm - D7/F# - | G - G7/B - | C - C7/E - | F - - - | C/G - G7 - | C F/C C - |</guitarChords>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <layout>
+	<singingstanza>Oh, blow up -- on us, Lord, while here we wait on Thee; Oh, blow with might -- y wind and bring us li -- ber -- ty; Oh, blow till in our midst re -- vi -- val we shall see; Oh, blow up -- on us, Lord, we pray! Oh, blow up -- on us, Lord, to -- day! Oh, blow all sloth and sleep a -- way! Oh, may Thy wind des -- cend, All our back -- slid -- ing end! Oh, blow up -- on us, Lord, we pray!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj089.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0256.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="47">e0256_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh, blow upon us, Lord, while here we wait on Thee;
+Oh, blow with mighty wind and bring us liberty;
+Oh, blow till in our midst revival we shall see;
+  Oh, blow upon us, Lord, we pray!</stanza>
+	<stanza type="chorus" number="">Oh, blow upon us, Lord, today!
+Oh, blow all sloth and sleep away!
+  Oh, may Thy wind descend,
+  All our backsliding end!
+  Oh, blow upon us, Lord, we pray!</stanza>
+	<stanza type="verse" number="2">Oh, blow with love divine and stir up our cold heart;
+Oh, blow and to our soul the breath of' heav'n impart:
+Oh, blow till from each one indifference shall depart;
+  Oh, blow upon us, Lord, we pray!</stanza>
+	<stanza type="verse" number="3">Oh, blow with pow'r from heav'n our spirit to inspire:
+Oh, blow and quicken us and fill with Thy desire;
+Oh, blow till all of us be wholly set on fire;
+  Oh, blow upon us, Lord, we pray!</stanza>
+  </lyrics>
+</hymn>

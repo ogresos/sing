@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Of the Spirit, born of Spirit</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;General</category>
+  <numbers><cebuano num="1123"/><chinese num="ts:140"/><english num="1123"/><german num="1123"/><portuguese num="155"/><russian num="357"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3 - 3 | 3( 2) 1 | 1 - 1 | 2( 1) 6_. | 5_. - 5_. | 1 - 1 | 3.( 2/) 1 | 2 - - (break) | 3 - 3 | 3( 2) 1 | 1 - 1 | 2( 1) 6_. | 5_. - 1 | 3( 5) 4 | 3 - 2 | 1 - - (break) | 5 - 3 | 5 - 3 | 4 - 4 | 4.( 3/) 2 | 3 - 3/( 4/) | 5 - 5 | 6( 5) 3 | 2 - - (break) | 3 - 3 | 3( 2) 1 | 1 - 1 | 2( 1) 6_. | 5_. - 1 | 3( 5) 4 | 3 - 2 | 1 - - |</melody>
+  <layout>
+	<singingstanza>Of the Spir -- it, born of Spir -- it&amp;mdash; This the source of Je -- sus is; Filled with Spir -- it, all of Spir -- it&amp;mdash; This the es -- sence tru -- ly His. In the Spir -- it, with the Spir -- it, As the Spir -- it Je -- sus came; Now the Lord is just that Spir -- it And in spir -- it we're the same.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj091.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="203"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Of the Spirit, born of Spirit&amp;mdash;
+  This the source of Jesus is;
+Filled with Spirit, all of Spirit&amp;mdash;
+  This the essence truly His.
+In the Spirit, with the Spirit,
+  As the Spirit Jesus came;
+Now the Lord is just that Spirit
+  And in spirit we're the same.</stanza>
+	<stanza type="verse" number="2">Baptized in the Holy Spirit,
+  In the Spirit we're immersed;
+All the church is born of Spirit,
+  All religion is dispersed.
+In the Spirit, in the Spirit&amp;mdash;
+  Brothers, this is all we need.
+Now the church must be in Spirit,
+  Not in teaching, form, or creed.</stanza>
+	<stanza type="verse" number="3">The communion of the Spirit
+  Is the fellowship we share;
+All the brothers, all the sisters
+  Only for the Spirit care.
+Now the Spirit in the churches
+  Speaks to those who have an ear.
+Seven Spirits for the churches
+  Are our blessed portion here.</stanza>
+	<stanza type="verse" number="4">"Come and drink the living water,"
+  Say the Spirit and the Bride&amp;mdash;
+Church and Spirit speak together,
+  Utterly identified.
+Just according to the Spirit
+  Must be our reality;
+Just the Spirit in the churches
+  Is the Lord's recovery.</stanza>
+  </lyrics>
+</hymn>

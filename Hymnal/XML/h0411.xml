@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bless'd are the pure in heart</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For a Renewed Heart</category>
+  <creators>
+    <author biodate="1792-1866" biolink="">John Keble</author>
+    <composer biodate="1745-1815" biolink="">Charles Lockhart</composer>
+  </creators>
+  <meter>6.6.8.6.</meter>
+  <hymncode>15132171145651432</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G - | Am - C/E - | Dm - C/E F | C/G - G - | C - G/D - | C/E - F - | C/E F C/G G7 | C F/C C 0 |</chords>
+  <melody>| 0 - - 1 | 5 1 3/( 2/) 1/( 7_./) | 1 - - 1 | 4 5/( 6/) 5 1/( 4/) | 3( 2) - 2 (break) | 3 2/( 1/) 4 3/( 2/) | 5 4/( 3/) 6 7 | ._1 1/( 4/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Bless'd are the pure in heart, For they shall see our God; The se -- cret of the Lord is theirs, Their heart is Christ's a -- bode.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj121.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="22">e0411_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Bless'd are the pure in heart,
+  For they shall see our God;
+The secret of the Lord is theirs,
+  Their heart is Christ's abode.</stanza>
+    <stanza type="verse" number="2">The Lord, who left the heavens,
+  Our life and peace to bring,
+To dwell in lowliness with men,
+  Their pattern and their King.</stanza>
+    <stanza type="verse" number="3">He to the lowly soul
+  Doth still Himself impart,
+And for His dwelling and His throne
+  Chooseth the pure in heart.</stanza>
+    <stanza type="verse" number="4">Lord, we Thy presence seek;
+  May ours this blessing be;
+Give us a pure and lowly heart,
+  A temple meet for Thee.</stanza>
+  </lyrics>
+</hymn>

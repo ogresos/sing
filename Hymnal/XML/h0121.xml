@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thine be the glory, risen, conqu'ring Son</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Resurrection</category>
+  <numbers><chinese num="106"/><english num="121"/><french num="20"/><korean num="106"/><portuguese num="55"/><tagalog num="121"/></numbers>
+  <creators>
+    <author biodate="1854-1932" biolink="">Edmond Louis Budry</author>
+    <author biodate="" biolink="">Translated by Richard B. Hoyle</author>
+    <composer biodate="1685-1759" biolink="">George Frederick Handel</composer>
+  </creators>
+  <meter>10.11.11.11. with chorus.</meter>
+  <hymncode>534512345432</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | Dm - C - | G - - - | C - G7/D - | C/E - Am - | Dm - G7 - | C - - - | C - - - | G - Am - | G - Dm - | E - - - | Am - - - | D - - - | Em - D7 - | G - G7 - | C - F/C - | C - Am - | Dm - C - | G - - - | C - G7/D - | C/E - Am - | Dm - G7 - | C - - - |</chords>
+  <melody>| 5 - 3. 4/ | 5 - 1 - | 2/( 3/) 4/( 5/) 4 3 | 2 - - - (break) | 3/( 4/) 5/( 6/) 5 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - (break) | 3/( 2/) 3/( 4/) 3 3 | 2 - 1 - | 4 3 2 1 | 7_. - - - (break) | 1/( 7_./) 1/( 2/) 1 1 | 6 - 4# - | 5 6/( 5/) 4#. 5/ | 5 - - - (break) | (Chorus) 5 - 3. 4/ | 5 - 1 - | 2/( 3/) 4/( 5/) 4 3 | 2 - - - (break) | 3/( 4/) 5/( 6/) 5 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Thine be the glo -- ry, ris -- en, con -- qu'ring Son, End -- less is the vic -- t'ry Thou o'er death hast won; An -- gels in bright rai -- ment rolled the stone a -- way, Kept the fold -- ed grave- -- clothes, where Thy bo -- dy lay. Thine be the glo -- ry, ris -- en, con -- qu'ring Son, End -- less is the vic -- t'ry Thou o'er death hast won.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj158.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="44">e0121_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thine be the glory, risen, conqu'ring Son,
+Endless is the vict'ry Thou o'er death hast won;
+Angels in bright raiment rolled the stone away,
+Kept the folded grave-clothes, where Thy body lay.</stanza>
+    <stanza type="chorus" number="">Thine be the glory, risen, conqu'ring Son,
+  Endless is the vict'ry Thou o'er death hast won.</stanza>
+    <stanza type="verse" number="2">Lo! Jesus meets us, risen from the tomb;
+Lovingly He greets us, scatters fear and gloom;
+Let the Church with gladness, hymns of triumph sing,
+For her Lord now liveth, death hath lost its sting.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O my Savior, glorified</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <numbers><english num="135"/><portuguese num="71"/></numbers>
+  <creators>
+    <author biodate="" biolink="">F. C. Jennings</author>
+    <composer biodate="1756-1791" biolink="">Wolfgang Amadeus Mozart</composer>
+  </creators>
+  <meter>7.7.7.7.</meter>
+  <hymncode>117544353542132</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G - - | G7/B - - | C - - | C/E - - | F - - | C/G - - | G7 - - | C - - | G - - | G7/B - - | C - - | C/E - - | F - - | C/G - G7 | C - - |</chords>
+ <guitarChords>| C - - | G - - | G7 - - | C - - | C - - | F - - | C - - | G7 - - | C - - | G - - | G7 - - | C - - | C - - | F - - | G - G7 | C - - |</guitarChords>
+  <melody>| 1 - 1 | 7_. - 5_. | 4 - 4 | 3 - - | 5 - 3 | 5( 4) 2 | 1 - 3 | 2 - - (break) | 1 - 1 | 7_..( 6_./) 5_.  | 4 - 4 | 3 - - | 5 - 3 | 2( 4) 6 | 1 - 7_. | 1 - - |</melody>
+  <layout>
+    <singingstanza>O my Sav -- ior, glo -- ri -- fied! Now the heav -- ens, o -- pened wide, Show to faith's ex -- ul -- tant eye One in beau -- teous ma -- jes -- ty.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0135_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O my Savior, glorified!
+  Now the heavens, opened wide,
+Show to faith's exultant eye
+  One in beauteous majesty.</stanza>
+    <stanza type="verse" number="2">Worthy of the sweetest praise
+  That my ransomed heart can raise,
+Is that Man in whom alone
+  God Himself is fully known.</stanza>
+    <stanza type="verse" number="3">For those clust'ring glories prove
+  That glad gospel, "God is Love,"
+Whilst those wounds, in glory bright.
+  Voice the solemn, "God is Light."</stanza>
+    <stanza type="verse" number="4">Hark, my soul! thy Savior sings;
+  Catch the joy that music brings,
+And, with that sweet flood of song,
+  Pour thy whisp'ring praise along.</stanza>
+    <stanza type="verse" number="5">O my Savior, glorified,
+  Turn my eye from all beside,
+Let me but Thy beauty see,
+  Other light is dark to me.</stanza>
+  </lyrics>
+</hymn>

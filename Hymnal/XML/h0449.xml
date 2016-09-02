@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Have Thine own way, Lord</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Yielding to the Lord</category>
+  <numbers><cebuano num="449"/><chinese num="344"/><english num="449"/><korean num="344"/><lsmyp num="105"/><portuguese num="206"/><russian num="516"/><spanish num="193"/><tagalog num="449"/></numbers>
+  <creators>
+    <author biodate="1862-1934" biolink="">Adelaide Addison Pollard</author>
+    <composer biodate="1846-1945" biolink="">George Coles Stebbins</composer>
+  </creators>
+  <meter>5.4.5.4.D.</meter>
+  <hymncode>323431712</hymncode>
+  <key>Eb Major</key>
+  <time>9/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - - - - | F/C - - C - - Am - - | G/B - - - - - G - - | G/B - - - - - G - - | C - - - - - - - - | F/C - - C - - C7/E - - | F - - - - - D/F# - - | C/G - - Am - - F - G7 | F/C - - C - - 0 - - |</chords>
+  <melody>| 0 - - - - - 3 2 3 | 4 - - 3 - - 1 7_. 1 | 2( - - 2) - -  2 1# 2 | 3 - - 2 - - 2 1 7_. (break) | 1( - - 1) - - 3 2 3 | 4 - - 3 - - 5 4# 5 | 6( - - 6) - - 6 7 6 | 5 - - 3 - - 2 1 2 | 1( - - 1) - - 0 - - |</melody>
+  <layout>
+    <singingstanza>Have Thine own way, Lord, Have Thine own way; Thou art the Pot -- ter, I am the clay. Mould me and make me Af -- ter Thy will, While I am wait -- ing, Yield -- ed and still.</singingstanza>
+  </layout>
+  <copyright>Copyright 1907. Renewal 1935 extended. by Hope Publishing Co. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj040.xml</link>
+	<link type="relevant" category="nt" num="449"></link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0449_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Have Thine own way, Lord,
+  Have Thine own way;
+Thou art the Potter,
+  I am the clay.
+Mould me and make me
+  After Thy will,
+While I am waiting,
+  Yielded and still.</stanza>
+    <stanza type="verse" number="2">Have Thine own way, Lord,
+  Have Thine own way;
+Search me and try me,
+  Master, today.
+Whiter than snow, Lord,
+  Wash me just now,
+As in Thy presence
+  Humbly I bow.</stanza>
+    <stanza type="verse" number="3">Have Thine own way, Lord,
+  Have Thine own way;
+Wounded and weary,
+  Help me, I pray.
+Power, all power,
+  Surely is Thine,
+Touch me and heal me,
+  Savior divine.</stanza>
+    <stanza type="verse" number="4">Have Thine own way, Lord,
+  Have Thine own way;
+Hold o'er my being
+  Absolute sway.
+Fill with Thy Spirit
+  Till all shall see
+Christ only, always,
+  Living in me.</stanza>
+  </lyrics>
+</hymn>

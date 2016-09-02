@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Work, for the night is coming</title>
+  <index>true</index>
+  <category>Service&amp;mdash;Being Diligent</category>
+  <numbers><chinese num="661"/><english num="8661"/></numbers>
+  <creators>
+    <author biodate="1836-1907" biolink="www.witnesslee.org">Anna Louisa Walker Coghill</author>
+  </creators>
+  <melody>| 5 3./ 4// 5 5 | 6 - 5 - | 1 1./ 1// 1 2 | 3 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - (break) | 2 2./ 2// 2 3 | 4.( 3/) 2 - | 3 3./ 3// 3 4# | 5 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Work, for the night is com -- ing, Work through the morn -- ing hours; Work while the dew is spark -- ling, Work 'mid spring -- ing flowers; Work when the day grows bright -- er, Work in the glow -- ing sun; Work, for the night is com -- ing, When man's work is done.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="666"></link>
+  </links>
+  <music>
+    <midiref type="h" num="666"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Work, for the night is coming,
+Work through the morning hours;
+Work while the dew is sparkling,
+Work 'mid springing flowers;
+Work when the day grows brighter,
+Work in the glowing sun;
+Work, for the night is coming,
+When man's work is done.</stanza>
+    <stanza type="verse" number="2">Work, for the night is coming,
+Work through the sunny noon;
+Fill brightest hours with labor,
+Rest comes sure and soon.
+Give every flying minute,
+Something to keep in store;
+Work, for the night is coming,
+When man works no more.</stanza>
+    <stanza type="verse" number="3">Work, for the night is coming,
+Under the sunset skies;
+While their bright tints are glowing,
+Work, for daylight flies.
+Work till the last beam fadeth,
+Fadeth to shine no more;
+Work, while the night is darkening,
+When man's work is o'er.</stanza>
+  </lyrics>
+</hymn>

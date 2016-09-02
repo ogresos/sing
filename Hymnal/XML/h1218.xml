@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If from the world you're longing to be free</title>
+  <index>true</index>
+  <category>The Word of God&amp;mdash;Saying Amen to the Word</category>
+  <numbers><chinese num="ts:414"/><english num="1218"/><german num="1218"/><lsmyp num="318"/><russian num="132"/><tagalog num="1218"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 3// 1 3 | 2 - - 0 (break) | 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 4// 3 2 | 1 - - 0 (break) | 5 5./ 6// 5 1 | 7_. - - 0 | 2 4./ 5// 7 6 | 5 - - 0 (break) | 3 3./ 4// 5 3 | 4 6./ 6// 6 4 | 3 5./ 4// 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>If from the world you're long -- ing to be free, A -- men the Word of God! If you would live in all re -- al -- i -- ty, A -- men the Word of God! A -- men the Word of God! A -- men the Word of God! His Word re -- ceiv -- ing, His Word be -- liev -- ing, A -- men the Word of God!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj220.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="1213"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">If from the world you're longing to be free,
+  Amen the Word of God!
+If you would live in all reality,
+  Amen the Word of God!
+  Amen the Word of God!
+  Amen the Word of God!
+His Word receiving, His Word believing,
+  Amen the Word of God!</stanza>
+	<stanza type="verse" number="2">If with your sin and self you would be through,
+  Amen the Word of God!
+If you would let the Lord your mind renew,
+  Amen the Word of God!
+  Amen the Word of God!
+  Amen the Word of God!
+His Word is living, life-power giving&amp;mdash;
+  Amen the Word of God!</stanza>
+	<stanza type="verse" number="3">Christ as the land of Canaan is our lot&amp;mdash;
+  Amen the Word of God!
+If you would enter, harden not your heart&amp;mdash;
+  Amen the Word of God!
+  Amen the Word of God!
+  Amen the Word of God!
+His Word discerns us, all that concerns us&amp;mdash;
+  Amen the Word of God!</stanza>
+	<stanza type="verse" number="4">Jesus is coming, now He's on His way&amp;mdash;
+  Amen the Word of God!
+Would you be ready if He comes today&amp;mdash;
+  Amen the Word of God!
+  Amen the Word of God!
+  Amen the Word of God!
+His Word prepares us, to Jesus bears us&amp;mdash;
+  Amen the Word of God!</stanza>
+  </lyrics>
+</hymn>

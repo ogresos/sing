@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In spirit, in the church we see</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;The Manifestation of the Sons of God</category>
+  <numbers><chinese num="ts:924"/><english num="1322"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5 5 4 | 3( 5_) ._1 | ._1( ._2) 7 | ._1 - ._3 | ._2 - ._2 | ._3 - ._2/( ._1/) | 7 - 6 | 5 - - (break) | ._1 ._1 5 | 6( 7) ._1 | ._4.( ._3/) ._2/( ._1/) | ._1( 7) 6 | 5 - 4 | 3( 5) ._1 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>In spir -- it, in the church we see The high es -- tate we're des -- tined for. It's high -- er, vast -- er, more pro -- found Than an -- y -- thing we've seen be -- fore.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj117.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="81"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In spirit, in the church we see
+The high estate we're destined for.
+It's higher, vaster, more profound
+Than anything we've seen before.</stanza>
+    <stanza type="verse" number="2">It's not a view in doctrine bare
+But an unveiling of the Christ.
+He's marvelous and far beyond
+Our mental thought or power to share.</stanza>
+    <stanza type="verse" number="3">He's rich, unlimited, profound,
+Immeasurable, and marvelous.
+Yet 'tis a greater wonder still
+He needs heirs of salvation&amp;mdash;us.</stanza>
+    <stanza type="verse" number="4">God has accomplished many things&amp;mdash;
+He's planned, created, and brought forth.
+The Son is now appointed Heir,
+Administrator of God's worth.</stanza>
+    <stanza type="verse" number="5">But in th' economy of God
+There is not one, but many sons.
+One is the firstborn Son of God
+With many other living ones.</stanza>
+    <stanza type="verse" number="6">Christ will inherit all God's things,
+And we're the heirs of God with Christ.
+We're growing now to be matured;
+As heirs we'll soon be legalized.</stanza>
+    <stanza type="verse" number="7">We're joint-heirs with the firstborn Son,
+Inheriting the universe.
+We're in this corporation vast&amp;mdash;
+All partners of Christ and the church.</stanza>
+    <stanza type="verse" number="8">In spirit, in the church, we see
+Our calling of unrivaled worth.
+We're destined, not to go to heaven.
+We're destined to be kings on earth.</stanza>
+    <stanza type="verse" number="9">We're paupers, yet we're glorious kings.
+Inheriting the kingdom vast,
+The earth, God's throne, and e'en all things
+And all the Father is and has.</stanza>
+  </lyrics>
+</hymn>

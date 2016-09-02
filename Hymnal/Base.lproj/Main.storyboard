@@ -103,6 +103,24 @@
             </objects>
             <point key="canvasLocation" x="-756" y="396.25187406296857"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="E5J-XD-giT">
+            <objects>
+                <viewController id="Is7-Pd-THE" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="90T-ci-4ue"/>
+                        <viewControllerLayoutGuide type="bottom" id="lhA-JG-qYU"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="DVG-yX-bY2">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fMj-Qf-bZH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-756" y="1112"/>
+        </scene>
         <!--Hymns-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
@@ -200,9 +218,11 @@
                                                             <nil key="textColor"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
-                                                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="8w6-hA-tmD">
+                                                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8w6-hA-tmD">
                                                             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                                            <string key="text">Lord, Thou art a Potter skilled
+                                                            <attributedString key="attributedText">
+                                                                <fragment>
+                                                                    <string key="content">Lord, Thou art a Potter skilled
 And a glorious Builder too
 Molding for Thy vessel great
 Building with Thy house in view
@@ -210,7 +230,11 @@ I am both a man of clay
 And a new made living stone
 That Thy vessel I may be
 And thy temple Thou wouldst own</string>
-                                                            <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="20"/>
+                                                                    <attributes>
+                                                                        <font key="NSFont" size="20" name="TimesNewRomanPSMT"/>
+                                                                    </attributes>
+                                                                </fragment>
+                                                            </attributedString>
                                                             <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                                         </textView>
                                                     </subviews>

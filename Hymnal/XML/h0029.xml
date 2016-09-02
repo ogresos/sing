@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What was it, blessed God</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Love</category>
+  <numbers><cebuano num="29"/><chinese num="27"/><english num="29"/><korean num="27"/><russian num="442"/><spanish num="20"/><tagalog num="29"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Ann Taylor Gilbert</author>
+    <composer biodate="" biolink="">Unknown</composer>
+  </creators>
+  <meter>6.6.6.6.8.8.</meter>
+  <hymncode>513234316714332</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/B - - | Am - - | C/G - - | F - - | Dm - - | C/G - - | G - - | G - - | Am - - | Dm - - | Dm/F - - | C/G - - | G7 - - | C - F/C | C - - | C - - | F/C - - | C - - | C/G - - | C/E - - | F - - | C - - | Am - - | Dm - - | C/E - - | F - G | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 5_. | 1 - 3 | 2( 3) 4 | 3( - - | 3) - 1 | 6_.( 7_.) 1 | 4 - 3 | 3( - - (break) | 2) - 5_. | 5_.( 6_.) 7_. | 1( 2) 3 | 4( - - | 4) - 2 | 3 - 1 | 2( 1) 7_. | 1( - - (break) | 1) - 3/( 2/) | 1 - 1 | 1( 7_.) 6_. | 6_. - 5_. | 5_. - 3/( 2/) | 1 - 1 | 1( 7_.) 6_. | 6_. - 5_. | 5_. - 3 (break) | 4 - 2 | 3 - 1 | 2( 1) 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>What was it, bless -- ed God, Led Thee to give Thy Son, To yield Thy Well- -- be -- loved For us by sin un -- done? 'Twas love un -- bound -- ed led Thee thus, 'Twas love un -- bound -- ed led Thee thus, To give Thy Well- -- be -- loved for us.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj234.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="42">e0029_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What was it, blessed God,
+Led Thee to give Thy Son,
+To yield Thy Well-beloved
+For us by sin undone?
+'Twas love unbounded led Thee thus,
+'Twas love unbounded led Thee thus,
+To give Thy Well-beloved for us.</stanza>
+    <stanza type="verse" number="2">What led Thy Son, O God,
+To leave Thy throne on high,
+To shed His precious blood,
+To suffer and to die?
+'Twas love&amp;mdash;unbounded love to us,
+'Twas love&amp;mdash;unbounded love to us
+Led Him to die and suffer thus.</stanza>
+    <stanza type="verse" number="3">What moved Thee to impart
+Thy Spirit from above,
+Therewith to fill our heart
+With heavenly peace and love?
+'Twas love&amp;mdash;unbounded love to us,
+'Twas love&amp;mdash;unbounded love to us
+Moved Thee to give Thy Spirit thus.</stanza>
+    <stanza type="verse" number="4">What love to Thee we owe,
+Our God, for all Thy grace!
+Our hearts may well o'erflow
+In everlasting praise!
+Make us, O God, to praise Thee thus,
+Make us, O God, to praise Thee thus
+For all Thy boundless love to us.</stanza>
+  </lyrics>
+</hymn>

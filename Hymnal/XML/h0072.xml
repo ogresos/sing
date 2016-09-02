@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, the name high over all</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><cebuano num="72"/><chinese num="69"/><english num="72"/><korean num="69"/><russian num="343"/><tagalog num="72"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+    <composer biodate="1784-1829" biolink="">Carl Gottholf Glaser</composer>
+    <!--<composer biodate="1792-1872" biolink="">Arranged by Lowell Mason</composer>-->
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>51122321233432</hymncode>
+  <key>G Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G - | C/E - G - - - | C G Am - G - | C - G/B - C - | G - - - G7/B - | C - - - C/E - | F - - - Dm/F - | C/G - - - G7 - | F/C - C - 0 - |</chords>
+  <melody>| 0 - - - 5_. - | 1 1 2 - 2 - | 3 2 1 - 2 - | 3 3 4 - 3 - | 2 - - - 5 - (break) | 5 3 3 - 1 - | 1 6_. 6_. - 1( 6_.) | 5_. 1 1 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+    <singingstanza>Je -- sus, the name high ov -- er all, In hell, or earth, or sky: An -- gels and men be -- fore it fall, And de -- vils fear and fly.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj156.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="17">e0072_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, the name high over all,
+  In hell, or earth, or sky:
+Angels and men before it fall,
+  And devils fear and fly.</stanza>
+    <stanza type="verse" number="2">Jesus, the name to sinners dear,
+  The name to sinners giv'n;
+It scatters all their guilty fear,
+  It brings them peace of heav'n.</stanza>
+    <stanza type="verse" number="3">Jesus the prisoner's fetters breaks,
+  And bruises Satan's head;
+Pow'r into strengthless souls He speaks,
+  And life into the dead.</stanza>
+    <stanza type="verse" number="4">Oh, that the world might taste and see,
+  The riches of His grace!
+The arms of love that compass me,
+  Would all mankind embrace.</stanza>
+    <stanza type="verse" number="5">Him as my righteousness I show,
+  His saving truth proclaim:
+'Tis all my business here below,
+  To cry, Behold the Lamb!</stanza>
+    <stanza type="verse" number="6">Happy, if with my latest breath
+  I may but gasp His name:
+Preach Him to all, and cry in death,
+  "Behold, behold the Lamb!"</stanza>
+  </lyrics>
+</hymn>

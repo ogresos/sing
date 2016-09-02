@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus is our lovely Bridegroom</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5_./ 5_./ | 6_.. 5_./ 5_./ 1/ | 1 7_. 7_./ 1/ | 2. 2/ 1/ 2/ (break) | 3 - 5_./ 5_./ | 6_.. 5_./ 5_./ 1/ | 1 7_. 2/ 2/ | 2. 2/ 1/ 6_./ (break) | 5_. - (Chorus) 5_./ 5_./ | 4. 2/ 1/ 2/ | 3 1 3/ 4/ | 5. 1/ 7_./ 1/ (break) | 2 - 3/ 2/ | 1. 5_./ 1/ 7_./ | 7_. 6_. 2/ 3/ | 4. 2/ 1/ 7_./ | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus is our love -- ly Bride -- groom, And our Bride -- groom is with us! Now our pray -- ing's turned to prais -- ing In His Pre -- sence glo -- ri -- ous. O our Bride -- groom! O our Bride -- groom! Lord, Thou art our Bride -- groom sweet! How we trea -- sure Thy dear pre -- sence&amp;mdash; O what bliss and joy com -- plete!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj071.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="542"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus is our lovely Bridegroom,
+And our Bridegroom is with us!
+Now our praying's turned to praising
+In His Presence glorious.</stanza>
+    <stanza type="chorus" number="">O our Bridegroom! O our Bridegroom!
+Lord, Thou art our Bridegroom sweet!
+How we treasure Thy dear presence&amp;mdash;
+  O what bliss and joy complete!</stanza>
+    <stanza type="verse" number="2">We are fellows of the Bridegroom
+And our fasting days have ceased.
+With the Bridegroom in His chamber,
+Joyfully we keep the feast.</stanza>
+    <stanza type="verse" number="3">We as virgins may enjoy Him,
+Virgins simple, single, chaste.
+Going forth to meet the Bridegroom,
+Out from all the world we haste.</stanza>
+    <stanza type="verse" number="4">We are guests by God invited
+To His Son's great wedding feast.
+Brothers, sisters, hallelujah,
+From religion we're released!</stanza>
+    <stanza type="verse" number="5">Now rejoice with joy excelling,
+Joy of joys, all else beside&amp;mdash;
+Not just fellows, guests, or virgins,
+Hallelujah, we're the Bride!</stanza>
+    <stanza type="chorus" number="">Hallelujah! Hallelujah!
+Lord, Thou art our Bridegroom sweet!
+Hallelujah! Hallelujah!
+  O what bliss and joy complete!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is a foe whose hidden pow'r</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Deliverance from Self</category>
+  <numbers><chinese num="314"/><english num="415"/><korean num="314"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="" biolink="">Miss L. Shepard</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>33323433566532</hymncode>
+  <key>Db Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | F - C - | G - - - | G7/B - C - | F - C/E - | G/D - D7 - | G - - - | C - - - | C/E - F - | G - G7 - | C - - - | F - - - | C/E - F - | Dm - G7 - | C - - - |</chords>
+  <melody>| 3 3/ 3/ 2#/ 3/ 4/ 3/ | 3 - - 5 | 6 6 5 3 | 2 - - 0 (break) | 4 4/ 4/ 3 3 | 6 6 5 - | 5 5/ 5/ 4# 4# | 5 - - 0 (break) | 3 3/ 3/ 5 5 | 5 5# 6 - | 6 6/ 6/ 7 6/( 5/) | ._1 - - 0 (break) | ._2 ._1/ ._1/ 7 6 | 5 5 6 - | 2 3/ 4/ 5 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There is a foe whose hid -- den pow'r The Christ -- ian well may fear, More sub -- tle far than in -- bred sin, And to the heart more dear. It is the pow'r of sel -- fish -- ness, It is the wil -- ful I, And ere my Lord can live in me, My ve -- ry self must die.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj126.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0415_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There is a foe whose hidden pow'r
+  The Christian well may fear,
+More subtle far than inbred sin,
+  And to the heart more dear.
+It is the pow'r of selfishness,
+  It is the wilful I,
+And ere my Lord can live in me,
+  My very self must die.</stanza>
+    <stanza type="verse" number="2">There is, like Anak's sons of old,
+  A race of giants still:
+Self-glorying, self-confidence,
+  Self-seeking and self-will.
+Still must these haughty Anakims
+  By Caleb's sword be slain,
+Ere Hebron's heights of heav'nly love,
+  Our conqu'ring feet can gain.</stanza>
+    <stanza type="verse" number="3">Oh, save me from self-will, dear Lord,
+  Which claims Thy sacred throne;
+Oh! let my will be lost in Thine,
+  And let Thy will be done.
+Oh, keep me from self-confidence,
+  And self-sufficiency;
+Let me exchange my strength for Thine,
+  And lean alone on Thee.</stanza>
+    <stanza type="verse" number="4">Oh, save me from self-seeking, Lord,
+  Let me not be my own;
+A living sacrifice I come,
+  Lord, keep me Thine alone.
+From proud vain glory save me, Lord,
+  From pride of praise and fame;
+To Christ be all the honor given,
+  The glory to His name.</stanza>
+    <stanza type="verse" number="5">Oh, Savior. slay the self in me
+  By Thy consuming breath;
+Show me Thy heart, Thy wounds, Thy shame,
+  That self be put to death.
+When the Shekinah flame came down,
+  E'en Moses could not stay;
+So let Thy glory fill me now,
+  And self forever slay.</stanza>
+  </lyrics>
+</hymn>

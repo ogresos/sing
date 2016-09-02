@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Thy life is mine</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ as Life</category>
+  <numbers><english num="365"/><russian num="410"/></numbers>
+  <creators>
+    <author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>6.6.4.6.4.</meter>
+  <hymncode>51117712333217</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am | G7 - - | C/E - - | G/B C Am | D7 - - | G - - | G7/F - - | C/E - - | F/A - C/G | F - C/E | Dm - - | Dm/F - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 5_. 1 1 | 1( 7_.) 7_. | 1 - - | 2 3 3 | 3( 2) 1 | 7_. - - (break) | 7_. 1 2 | 2( 1) 1 | 4 - 3 | 3( 2) 1 | 1( 7_.) 1 | 6_. - - | 7_. - - | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus, Thy life is mine, Dwell ev -- er -- more in me; And let me see That noth -- ing can unt -- wine Thy life from mine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">ohwhatalife.xml</link>
+    <link type="group">hymnal-subj123.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736313745.html"></link>
+  </links>
+  <music>
+    <midi location="h" length="24">e0365_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, Thy life is mine,
+Dwell evermore in me;
+  And let me see
+That nothing can untwine
+  Thy life from mine.</stanza>
+    <stanza type="verse" number="2">Thy life in me be shown,
+Lord, I would henceforth seek
+  To think and speak
+Thy thoughts, Thy words alone,
+  No more my own.</stanza>
+    <stanza type="verse" number="3">Thy love, Thy joy, Thy peace,
+Continuously impart
+  Unto my heart,
+Fresh springs that never cease,
+  But still increase.</stanza>
+    <stanza type="verse" number="4">The blest reality
+Of resurrection power,
+  Thy Church's dower,
+Life more abundantly,
+  Lord, give to me.</stanza>
+    <stanza type="verse" number="5">Thy fullest gift, O Lord,
+Now at Thy word I claim,
+  Through Thy dear Name,
+And touch the rapturous chord
+  Of praise forth-poured.</stanza>
+    <stanza type="verse" number="6">Jesus, my life is Thine,
+And evermore shall be
+  Hidden in Thee,
+For nothing can untwine
+  Thy life from mine.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Life is God the Father in Christ Jesus</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Life</category>
+  <numbers><cebuano num="1193"/><chinese num="ts:141"/><dutch num="2"/><english num="1193"/><french num="122"/><german num="1193"/><lsmyp num="130"/><russian num="369"/><spanish num="223"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>33345556321</hymncode>
+  <key>D Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | G - | C - | C7 - | F - | - - | C - | - - | G - | G7/B - | C G/B | Am - | Dm - | G7 - | C F/C | C - |</chords>
+ <guitarChords>| C - | G - | C - | C7 - | F - | - - | C - | - - | G - | G7 - | C - | C - | F - | G7 - | C F | C - |</guitarChords>
+  <melody>| 3/ 3/ 3/ 4/ | 5/ 5/ 5/ 6/ | 3/( 2/) 1( | 1) - | 4/ 4/ 4/ 5/ | 6/ 6/ 5/ 4/ | 5( - | 5) - (break) | 7/ 7/ 6/ 6/ | 5. 4/ | 3/ 6/ 5/ 3/ | 1 - | 4/ 4/ 5/ 6/ | 5/ 5/ 3/ 2/ | 1( - | 1) - |</melody>
+  <layout>
+	<singingstanza>Life is God the Fath -- er in Christ Je -- sus As the Spir -- it flow -- ing in -- to us. How en -- joy -- a -- ble, this Per -- son won -- der -- ful! He's our life so rich and boun -- ti -- ful.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj075.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="21">e1193_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Life is God the Father in Christ Jesus
+As the Spirit flowing into us.
+How enjoyable, this Person wonderful!
+He's our life so rich and bountiful.</stanza>
+	<stanza type="verse" number="2">We experienced regeneration
+When we opened to this living One.
+We were born again; another life came in.
+Now it floods us till we're full of Him.</stanza>
+	<stanza type="verse" number="3">He within us is the living Spirit
+In our spirit, flowing out of it
+Into all our heart, transforming every part
+By the life which He Himself imparts.</stanza>
+	<stanza type="verse" number="4">Now He must have our cooperation.
+We must set our mind upon the Son.
+We must turn away from all that leads astray,
+Till our mind is set on Him each day.</stanza>
+	<stanza type="verse" number="5">Lord, our human spirit now contains You.
+Still Your purpose in us You would do;
+If our wandering mind would leave old thoughts behind,
+Then Your life and peace in it we'll find.</stanza>
+	<stanza type="verse" number="6">Lord, we would our every thought be captured
+By the rich enjoyment in Your Word.
+In it we're supplied, our mind there will abide,
+Till our thoughts are wholly sanctified.</stanza>
+	<stanza type="verse" number="7">Let's keep practicing the application
+Of this life by minding just the Son.
+Praise Him for the way to live by Him today!
+Lord, on You our minds will ever stay.</stanza>
+  </lyrics>
+</hymn>

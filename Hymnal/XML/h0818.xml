@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ is the mystery of God</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;The Mystery of Christ</category>
+  <numbers><cebuano num="818"/><chinese num="593"/><english num="818"/><german num="818"/><korean num="593"/><portuguese num="373"/><russian num="328"/><tagalog num="818"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1822-1875" biolink="">John Edgar Gould</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>3321552343</hymncode>
+  <key>D Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - C/E - | F - G7 - | C - - - | C/E - F - | C/E - C - | G/D - D7 - | G - - - | C/E - A7/C# - | Dm - G7/B - | C - F/A - | G - - - | C - C/E - | F - C/E - | Dm - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | D - D7 - | G - - - | C - - - | G - - - | C - - - | G - - - | C - - - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 3 - 3 2 | 1 - 5 - | 5( 2) 3( 4) | 3 - - - (break) | ._1 - ._1 6 | 5 - 3 - | 2( 7) 7( 6) | 5 - - - (break) | 5 - 5 6 | 4 - 4( 5) | 3 - 3( 4) | 2 - - - (break) | 3.( 2/) 1 1 | 1 - 1 - | 7_.( 4) 4( 7_.) | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Christ is the mys -- ter -- y of God; God is in -- vis -- i -- ble, un -- shown, His i -- mage man hath nev -- er seen, But Christ the Son hath made Him known.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">thydwellingplaceolordilove.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0818.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736323783.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="28">e0818_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Christ is the mystery of God;
+God is invisible, unshown,
+His image man hath never seen,
+But Christ the Son hath made Him known.</stanza>
+	<stanza type="verse" number="2">Christ is the very Word of God,
+He is God's explanation true;
+God's full embodiment is He
+And God's own image brings to view.</stanza>
+	<stanza type="verse" number="3">Image of God invisible,
+Effulgence of God's glory fair;
+God's fulness ever dwells in Him,
+God's testimony He doth bear.</stanza>
+	<stanza type="verse" number="4">The Church the myst'ry is of Christ,
+For He is now to man unshown;
+No man on earth may see Him now,
+But thru the Church He is made known.</stanza>
+	<stanza type="verse" number="5">The Church is Christ's expression full,
+In her Christ dwelleth bodily;
+She is His duplication true,
+And man in her Himself may see.</stanza>
+	<stanza type="verse" number="6">The Church the image has of Christ,
+She is His increase and His spread;
+Christ's very self is found in her
+The Body, she, to Christ the Head.</stanza>
+	<stanza type="verse" number="7">Thus, in the Son the Father is,
+And now the Spirit is the Son;
+The Spirit of the triune God
+Is in the Church and with her one.</stanza>
+  </lyrics>
+</hymn>

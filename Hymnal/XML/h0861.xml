@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God be with you till we meet again</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Fellowship</category>
+  <numbers><english num="861"/><tagalog num="861"/></numbers>
+  <creators>
+    <author biodate="1828-1904" biolink="">Jeremiah Eames Rankin</author>
+    <composer biodate="1833-1896" biolink="">William Gould Tomer</composer>
+  </creators>
+  <meter>9.8.8.9. with chorus.</meter>
+  <hymncode>33333352366666665</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Em/B - | Am - C/G - | F - G7/F - | Em - Am - | F - G7 - | C - Am - | F - C/E F | C/G G7 C - | C - C7/E - | F - G7/F - | Em - Am - | Dm - G7 - | C - C7 - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | G - C - | F - - - | C - - - | G - G7 - | C - - - | C - F - | G G7 C - | C - C7 - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 (Chorus) 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( ._1) - 7./ 6// | 5. 6/ 5/( 3/) 1/( 3/) (break) | 2 - - 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( (.._1) - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God be with you till we meet a -- gain; By His coun -- sels guide, up -- hold you, With His sheep in love en -- fold you; God be with you till we meet a -- gain. Till we meet, till we meet, Till we meet at Je -- sus' feet; Till we meet, till we meet, God be with you till we meet a -- gain.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj204.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="46">e0861_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God be with you till we meet again;
+By His counsels guide, uphold you,
+With His sheep in love enfold you;
+God be with you till we meet again.</stanza>
+    <stanza type="chorus" number="">Till we meet, till we meet,
+Till we meet at Jesus' feet;
+Till we meet, till we meet,
+  God be with you till we meet again.</stanza>
+    <stanza type="verse" number="2">God be with you till we meet again!
+'Neath His wings protecting hide you,
+Daily manna still provide you;
+God be with you till we meet again!</stanza>
+    <stanza type="verse" number="3">God be with you till we meet again!
+When life's perils thick confound you,
+Put His arms unfailing round you;
+God be with you till we meet again!</stanza>
+    <stanza type="verse" number="4">God be with you till we meet again!
+Keep love's banner floating o'er you,
+Smite death's threatening wave before you;
+God be with you till we meet again!</stanza>
+  </lyrics>
+</hymn>

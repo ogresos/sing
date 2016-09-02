@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My Savior, Thou hast offered rest</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Deliverance from Self</category>
+  <numbers><chinese num="312*"/><english num="414"/><korean num="312"/></numbers>
+  <creators>
+    <author biodate="" biolink="">E. H. H.</author>
+    <author biodate="1841-1920" biolink="">Handley Carr Glyn Moule</author>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>55554443511127</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | C - - | G7 - - | C - G/D | C/E - - | F - - | G - G/F | C/E - - | F - - | C/E - - | Dm - C | F - - | G7 - - | C - - |</chords>
+  <melody>| 0 - 5 | 5 - 5 | 5 - 4# | 4 - 4 | 3 - 5 | ._1 - ._1 | ._1 - ._2 | (.7 - 7 (break) | ._1 - ._1 | 7 - 6 | 5 - 4# | 4 - 3 | 3 - 2 | 6 - 7_. | (.1 - 0 |</melody>
+  <layout>
+    <singingstanza>My Sav -- ior, Thou hast of -- fered rest: Oh, give it then to me; The rest of ceas -- ing from my -- self, To find my all in Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj126.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0414_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My Savior, Thou hast offered rest:
+  Oh, give it then to me;
+The rest of ceasing from myself,
+  To find my all in Thee.</stanza>
+    <stanza type="verse" number="2">This cruel self, oh, how it strives
+  And works within my breast,
+To come between Thee and my soul,
+  And keep me back from rest.</stanza>
+    <stanza type="verse" number="3">How many subtle forms it takes
+  Of seeming verity,
+As if it were not safe to rest
+  And venture all on Thee.</stanza>
+    <stanza type="verse" number="4">O Lord, I seek a holy rest,
+  A victory over sin;
+I seek that Thou alone shouldst reign
+  O'er all without, within.</stanza>
+    <stanza type="verse" number="5">In Thy strong hand I lay me down,
+  So shall the work be done;
+For who can work so wondrously
+  As the Almighty One?</stanza>
+    <stanza type="verse" number="6">Work on, then, Lord, till on my soul
+  Eternal light shall break,
+And, in Thy likeness perfected,
+  I "satisfied" shall wake.</stanza>
+  </lyrics>
+</hymn>

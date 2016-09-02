@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God is light, and in Him there is no darkness at all</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Light</category>
+  <numbers><chinese num="ts:444"/><dutch num="14"/><english num="1197"/><korean num="797"/><lsmyp num="204"/><portuguese num="311"/><tagalog num="1197"/></numbers>
+  <creators>
+    <composer biodate="1956" biolink="">Orien G. Johnson</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5435135432572</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | Dm - G7 - | C F/C C - | C - C/E - | Dm/F - Dm - | C/G - G7 - | C F/C C - | F - G7/F - | Em - Am - | Dm - G7 - | C - C7/E - | F - G7/F - | Em - Am - | Dm - G7 - | C - - - | C - - - | G - - - | Dm - G7 - | C F/C C - | C - C/E - | Dm/F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5/ 4/ | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 5_./ 7_./ 2 - | 2 5_./ 7_./ 2/ 4/ 3/ 2/ | 3 1/ 6_./ 5_. 5/ 4/ (break) | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 6_./ 2/ 4 - | 3.( 1/) 3 2 (break) | 1 - - (Sis:) ._1/ 7/ | 6 (Bro:) 1/ 4/ 6/ 4/ (Sis:) 7/ 6/ | 5 (Bro:) 1/ 3/ 5/ 3/ (Sis:) 6/ 5/ | 4 (Bro:) 7_./ 2/ 4/ (All:) 6/ 5/ 4/ (break) | 5 3 5 (Sis:) ._1/ 7/ | 6 (Bro:) 1/ 4/ 6/ 4/ (Sis:) 7/ 6/ | 5 (Bro:) 1/ 3/ 5/ 3/ (Sis:) 6/ 5/ | 4 (Bro:) 7_./ 2/ 4/ (All:) 6/ 5/ 4/ 3 - - 5/ 4/ (break) | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 5_./ 7_./ 2 - | 2 5_./ 7_./ 2/ 4/ 3/ 2/ (break) | 3 1/ 1/ 5_. 5/ 4/ | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 6_./ 2/ 4 - | 3.( 1/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God is light, and in Him there is no dark -- ness at all! Oh, how we love with -- in His pre -- sence to dwell! In this light we en -- joy a con -- stant cleans -- ing with -- in&amp;mdash; From ev -- ery sin! In the light, We are walk -- ing&amp;mdash; Fel -- low -- ship, We're en -- joy -- ing; And the blood Of God's Son Is cleans -- ing us from sin. We con -- fess, He is faith -- ful To for -- give&amp;mdash; He is right -- eous. What a joy! We are cleansed From ev -- ery sin! God is light, and in Him there is no dark -- ness at all! Oh, how we love with -- in His pre -- sence to dwell! In this light we en -- joy a con -- stant cleans -- ing with -- in&amp;mdash; From ev -- ery sin!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj076.xml</link>
+    <link type="ref">1 John 1:5-7</link>
+  </links>
+  <music>
+    <midi location="h" length="69">e1197_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God is light, and in Him there is no darkness at all!
+Oh, how we love within His presence to dwell!
+In this light we enjoy a constant cleansing within&amp;mdash;
+    From every sin!</stanza>
+    <stanza type="chorus" number="">Sisters: In the light,
+Brothers: We are walking&amp;mdash;
+Sisters: Fellowship,
+Brothers: We're enjoying;
+Sisters: And the blood
+Brothers: Of God's Son
+Everyone: Is cleansing us from sin.</stanza>
+    <stanza type="chorus" number="">Sisters: We confess,
+Brothers: He is faithful
+Sisters: To forgive&amp;mdash;
+Brothers: He is righteous.
+Sisters: What a joy!
+Brothers: We are cleansed
+Everyone: From every sin!</stanza>
+  </lyrics>
+</hymn>

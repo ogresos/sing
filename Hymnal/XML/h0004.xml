@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Father of heav'n, whose love profound</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Salvation</category>
+  <numbers><english num="4"/><tagalog num="4"/></numbers>
+  <creators>
+    <author biodate="1770-1833" biolink="">Edward Cooper</author>
+    <composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>5555566511623443</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | - - - | F - - | C - - | Am - - | Dm - - | G7 - - | C - - | E - - | Am - - | G - - | C - - | F - - | C - F | C/G - G7 | C - - |</chords>
+  <guitarChords>| C - - | - - - | F - - | C - - | C - - | G - - | G7 - - | C - - | C - - | C - - | G - - | C - - | F - - | C - - | G - G7 | C - - |</guitarChords>
+  <melody>| 5 5 5 | 5 - 5 | 6 - 6 | 5 - - | ._1 ._1 6 | 2 - 3 | 4 - 4 | 3 - 1 (break) | 3 - 3 | 3 - 3 | 5 - 5 | 5 - - | ._1 7 6 | 5 - 4 | 3 - 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Fa -- ther of heav'n, whose love pro -- found A ran -- som for our souls hath found, Be -- fore Thy throne we sin -- ners bend; To us Thy pard -- 'ning love ex -- tend.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="27">e0004_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Father of heav'n, whose love profound
+A ransom for our souls hath found,
+Before Thy throne we sinners bend;
+To us Thy pard'ning love extend.</stanza>
+    <stanza type="verse" number="2">Almighty Son, incarnate Word,
+Our Prophet, Priest, Redeemer, Lord,
+Before Thy throne we sinners bend;
+To us Thy saving grace extend.</stanza>
+    <stanza type="verse" number="3">Eternal Spirit, by whose breath
+The soul is raised from sin and death,
+Before Thy throne we sinners bend;
+To us Thy quickening power extend.</stanza>
+    <stanza type="verse" number="4">Thrice holy&amp;mdash;Father, Spirit, Son;
+Mysterious Godhead, Three in One,
+Before Thy throne we sinners bend;
+Grace, pardon, life to us extend.</stanza>
+  </lyrics>
+</hymn>

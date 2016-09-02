@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Flow through me, Lord, a weak and earthly vessel</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Living Water</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="1809-1847" biolink="">Arranged from Felix Mendelssohn</composer>
+  </creators>
+  <meter>11.10.11.10.</meter>
+  <hymncode>321543217132</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | D7 - - - | G - - - | Dm/F - - - | Dm - - - | G7 - - - | C - - - | C - - - | Am - - - | Am - A/C# - | Dm - - - | Dm/F - - - | Dm - - - | G7 - - - | C - - - |</chords>
+  <melody>| 3 - 2 1 | 5( 4) - 3 | 2 1 7_. 1 | 3 - 2 - (break) | 2 - 2 3 | 4 - - 2 | 6_. 7_. 3. 2/ | 1 - - - (break) | 3 - 2 1 | ._1 - - 7 | 6 5 4 3 | 6 - 2 - (break) | 2 - 2 3 | 4 - - 2 | 6_. 7_. 3. 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Flow through me, Lord, a weak and earth -- ly ves -- sel, Cleansed by Thy blood, and quick -- ened at Thy call. Flow through me, Lord, all ut -- ter -- ly a -- ban -- doned, To Thy dear serv -- ice, great, or high, or small.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj087.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="29">e0249_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Flow through me, Lord, a weak and earthly vessel,
+  Cleansed by Thy blood, and quickened at Thy call.
+Flow through me, Lord, all utterly abandoned,
+  To Thy dear service, great, or high, or small.</stanza>
+    <stanza type="verse" number="2">Flow through me, Lord, with overflowing fulness,
+  Make me to know Thine own deep love for souls.
+Work in me, Lord, the faith that moveth mountains,
+  As power, Almighty power, my being holds.</stanza>
+    <stanza type="verse" number="3">Flow through me, Lord, till sin in all its blackness
+  To captives bound by Satan is revealed.
+Flow through me, Lord, till hearts are stricken, broken,
+  And in Thy cleansing fountain saved and healed.</stanza>
+    <stanza type="verse" number="4">Flow through me, Lord, till lagging souls are quickened,
+  Till lives of failure sing the victory song,
+Till praise from lips long dumb and silent, open,
+  And join with rapture earth's glad, cleansed throng.</stanza>
+    <stanza type="verse" number="5">Flow through me, Lord, till waters from Thy fountain
+  Shall slake the thirst of souls in deserts drear.
+Flow through me, Lord, till arid places blossom
+  With roses fresh and sweet, and wondrous fair.</stanza>
+    <stanza type="verse" number="6">Flow through me, Lord, set all my heart-strings thrilling,
+  With Thine own love, so matchless, perfect, free.
+Flow through me, Lord, till naught in earth or heaven,
+  Can satisfy my being, Lord, but Thee.</stanza>
+  </lyrics>
+</hymn>

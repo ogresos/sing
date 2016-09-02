@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My King will soon come back again</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Longing and Praying</category>
+  <numbers><cebuano num="960"/><chinese num="756"/><english num="960"/><french num="184"/><german num="960"/><korean num="756"/><lsmyp num="272"/><portuguese num="484"/><russian num="156"/><spanish num="439"/><tagalog num="960"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Watchman Nee</author>
+	<composer biodate="1819-1900" biolink="">Richard Storrs Willis</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>53221656556711232</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. F. | C - - | F. D7. | G. G7. | C. F. | Em. Am. | Dm. G7. | C - - | E. E7/G#. | Am - - | G/D. D7. | G. G7. | C. F. | Em. Am. | Dm. G7. | F/C. C. |</chords>
+  <guitarChords>| C - - | C. F. | C - - | D. D7. | G. G7. | C. F. | C - - | F. G7. | C - - | E7. E7. | Am - - | G. D7. | G. G7. | C. F. | C - - | F. G7. | C - - |</guitarChords>
+  <melody>| 0. 0 5/ | ._3 ._2/ ._2/( ._1/) 6/ | 5 6/ 5 5/ | 6/( 7/) ._1/ ._1/( ._2/) ._3/ (break) | ._2.( ._2) 5/ | ._3 7/ ._2/( ._1/) 6/ | 5 6/ 5 5/ | 6 6/ 7/( 6/) 5/ (break) | ._1.( ._1) ._3/ | ._3 3/ 3/( 4#/) 5#/ | 6 7/ ._1 ._3/ | ._2/( ._1/) 7/ 6/( 7/) 6/ (break) | 5.( 5) 5/ | ._3 7/ ._2/( ._1/) 6/ | 5 6/ 5 5/ | 6 6/ 7/( 6/) 5/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>My King will soon come back a -- gain, The sky be filled with Him; The u -- ni -- verse to be re -- deemed Will see His light there -- in. The Lord will soon ful -- fill His plan, His foot -- steps now I hear; His glo -- rious frame I faint -- ly see Be -- gin -- ning to ap -- pear.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>3</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj113.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0960.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="41">e0960_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">My King will soon come back again,
+  The sky be filled with Him;
+The universe to be redeemed
+  Will see His light therein.
+The Lord will soon fulfill His plan,
+  His footsteps now I hear;
+His glorious frame I faintly see
+  Beginning to appear.</stanza>
+	<stanza type="verse" number="2">I'm longing for His presence blest
+  And dare not slothful be
+While waiting for my Lord's return,
+  His own dear self to see.
+My only hope&amp;mdash;that He may come
+  And change my faith to sight;
+There is no other joy on earth
+  Which gives my heart delight.</stanza>
+	<stanza type="verse" number="3">My heart is always with Himself,
+  My eyes are heavenward,
+My lips would utter nothing else
+  Than meeting with my Lord.
+The coming of the Lord draws nigh,
+  His coming is for me;
+His promise ever standeth firm
+  And soon fulfilled I'll see.</stanza>
+	<stanza type="verse" number="4">My Savior, all Thy holy words
+  Can never doubted be;
+With them encouraged day by day,
+  I'm faithful unto Thee.
+Oh, may Thy glory soon appear,
+  The foe be overthrown;
+Thy promises be realized,
+  And we brought to Thy throne.</stanza>
+	<stanza type="verse" number="5">Thy saving arm a refuge is,
+  My Savior God, to me;
+Thou as the Father keepeth them
+  Who put their trust in Thee.
+The sheep and shepherd are of one,
+  The head and body same;
+None e'er can pluck from out Thy hand
+  The child who trusts Thy Name.</stanza>
+	<stanza type="verse" number="6">A thousand hands won't hinder me,
+  Nor will ten thousand eyes;
+The thorns upon the road but help
+  Me onward to the prize.
+Arise, my spirit and my heart,
+  And let the world go by;
+The Lord of life will take me soon
+  To be with Him on high.</stanza>
+	<stanza type="verse" number="7">Thou healing sun! Thou hope of man!
+  I really love Thy ray.
+Oh, righteous Lord! oh, glorious King!
+  I bow to Thee and pray:
+Oh, may Thou soon ascend Thy throne
+  And quickly show Thy face;
+Thy heav'nly kingdom may Thou found
+  And grant all men Thy grace.</stanza>
+	<stanza type="verse" number="8">The truth should triumph and be king,
+  And freedom should be queen;
+But falsehood, which has rampant run,
+  Head of the world be seen.
+We ask Thee, Truth, to quickly come
+  And bring Thy light from heav'n;
+The foe be crushed and all Thy sons
+  Into Thy bosom giv'n.</stanza>
+  </lyrics>
+</hymn>

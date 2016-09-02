@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now unto the King eternal, immortal, invisible</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="1346"/><lsmyp num="359"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>51111232123212321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - G | C - - G | C - - G | C - - G | C - F/A - | G7 - - - | C - F/A - | G7/B - G7 - | C - Am - | Dm - G7 - | C - - - | G - G7/B - | C - Am - | Dm/F - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 1 1/ 1/ 1 2 | 3/( 2/) 1 - 2 | 3/( 2/) 1 - 2 (break) | 3/ 2/ 1 - 2 | 3 3 - 4 | 5 - - 4 | 3 3 - 4 (break) | 5 - - 4 | 3 3/ 3/ 3/ 2/ 1 | 2 2/ 2/ 2/ 1/ 7_. | 1 - - 5_. (break) | 5 - - 4 | 3 3/ 3/ 3/ 2/ 1 | 2 2/ 2/ 2/ 1/ 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Now un -- to the King e -- ter -- nal, im -- mor -- tal, in -- vis -- i -- ble, The on -- ly wise God, the on -- ly wise God, Be hon -- or and glo -- ry for -- ev -- er and ev -- er. A -- men. A -- men. Be hon -- or and glo -- ry for -- ev -- er and ev -- er. A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Timothy 1:17</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e1346_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Now unto the King eternal, immortal, invisible,
+  The only wise God, the only wise God,
+Be honor and glory forever and ever. Amen. Amen.
+  Be honor and glory forever and ever. Amen.</stanza>
+  </lyrics>
+</hymn>

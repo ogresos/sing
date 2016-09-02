@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>On toward the goal! Press on</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Pressing On</category>
+  <numbers><chinese num="484"/><english num="662"/><korean num="484"/><tagalog num="662"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>6.6.8.6.</meter>
+  <hymncode>53721655665653</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. F. | C - - | F. G7. | C - - | C. F. | C/E. Am. | F. G7. | C F/C/ C. |</chords>
+  <melody>| 0. 0 5/ | ._3 ._1/ ._2/( ._1/) 6/ | 5.( 5) 5/ | 6 6/ 5/( 6/) 5/ (break) | 3.( 3) 5/ | ._3 ._1/ ._2/( ._1/) 6/ | 5 3/ 5 5/ | 6/( 7/) ._1/ 5 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+    <singingstanza>"On toward the goal!" Press on! A -- lone, yet un -- a -- fraid; He cut the path, who bec -- kons thee, On then, and un -- dis -- mayed.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj047.xml</link>
+    <link type="relevant" category="h" num="662b"></link>
+  </links>
+  <music>
+    <midi location="h" length="21">e0662_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"On toward the goal!" Press on!
+  Alone, yet unafraid;
+He cut the path, who beckons thee,
+  On then, and undismayed.</stanza>
+    <stanza type="verse" number="2">"On toward the goal!" Press on!
+  The eyes that are a flame
+Are watching thee, what then are men?
+  What matter praise, or blame?</stanza>
+    <stanza type="verse" number="3">"On toward the goal!" Press on!
+  Look not behind thee now,
+When just ahead lies His "Well done,"
+  And crowns await thy brow.</stanza>
+    <stanza type="verse" number="4">"On toward the goal!" Press on!
+  Blind, deaf and sometimes dumb
+Along the blood-marked, uphill way,
+  Hard after Christ, press on!</stanza>
+  </lyrics>
+</hymn>

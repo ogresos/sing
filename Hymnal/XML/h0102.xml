@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We sing the praise of Him who died</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Death</category>
+  <creators>
+    <author biodate="1769-1855" biolink="">Thomas Kelly</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>We sing the praise of Him who died, Of Him who died up -- on the Cross; The sin -- ner's hope let men de -- ride, For this we count the world but loss.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj145.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We sing the praise of Him who died,
+Of Him who died upon the Cross;
+The sinner's hope let men deride,
+For this we count the world but loss.</stanza>
+    <stanza type="verse" number="2">Inscribed upon the Cross we see
+In shining letters, God is love!
+He bears our sins upon the tree,
+He brings us mercy from above.</stanza>
+    <stanza type="verse" number="3">The Cross: it takes our guilt away;
+It holds the fainting spirit up;
+It cheers with hope the gloomy day,
+And sweetens every bitter cup.</stanza>
+    <stanza type="verse" number="4">The balm of life, the cure of woe,
+The measure and the pledge of love,
+The sinner's refuge here below,
+The angels' theme in heav'n above.</stanza>
+  </lyrics>
+</hymn>

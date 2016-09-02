@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, we meet to seek Thy face</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;In the Holiest</category>
+  <numbers><cebuano num="772"/><chinese num="555"/><english num="772"/><german num="772"/><korean num="555"/><russian num="324"/><tagalog num="772"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>35655431765312</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | G7 - C - | C - F - | C - G - | C - F - | G - C - | C - F - | G7 - C - | F/A - F - | C7 - - - | F - Dm - | C - G7 - | C - F - | G - Am - | Am - F - | G7 - C - |</chords>
+  <guitarChords>| C - - - | G7 - C - | C - - - | C - G - | C - - - | G - C - | C - - - | G7 - C - | F - - - | C7 - - - | F - - - | G - G7 - | C - - - | G - C - | C - - - | G7 - C - |</guitarChords>
+  <melody>| 3 5 6 5 | 5. 4/ 3 - | ._1 7 6 5 | 3 1 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - (break) | (Chorus) 1 4 3 4 | 7b 6 5 - | 6 6 7 ._1 | 4 3 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - |</melody>
+  <layout>
+	<singingstanza>Lord, we meet to seek Thy face And in one ac -- cord to pray; We a ho -- ly priest -- hood are, Wait -- ing on Thee here to -- day. Here to -- geth -- er we would pray, Touch the high -- est and the best, Till our spir -- its min -- gled are And Thy Church is built and blest.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj169.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0772.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="40">e0772_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord, we meet to seek Thy face
+And in one accord to pray;
+We a holy priesthood are,
+Waiting on Thee here today.</stanza>
+	<stanza type="chorus" number="">Here together we would pray,
+Touch the highest and the best,
+Till our spirits mingled are
+  And Thy Church is built and blest.</stanza>
+	<stanza type="verse" number="2">As true priests we long to be,
+With our spirit sense Thy will,
+Thus to serve before Thee here
+That Thy plan Thou may fulfill.</stanza>
+	<stanza type="verse" number="3">To the holiest place we come,
+Now to touch Thy throne of grace,
+By the inner sense to pray
+And Thy Spirit's flow to trace.</stanza>
+	<stanza type="verse" number="4">From Thy throne of grace to me
+Rivers of Thy grace proceed;
+Thus my spirit is refreshed,
+Helping me in time of need.</stanza>
+	<stanza type="verse" number="5">May our prayers expression give
+To Thy Spirit's mind alone;
+Praying not by our desire,
+But according to Thine own.</stanza>
+	<stanza type="verse" number="6">Though with temporal matters pressed,
+Which we fain would bring to Thee,
+Rather than Thy care to seek,
+We would here Thy channel be.</stanza>
+	<stanza type="verse" number="7">Here we seek Thy list'ning ear
+May Thy living water flow;
+When Thy grace does satisfy,
+Only then Thy work we'll know.</stanza>
+  </lyrics>
+</hymn>

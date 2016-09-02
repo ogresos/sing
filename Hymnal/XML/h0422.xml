@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Make me a captive, Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Freedom</category>
+  <numbers><chinese num="322"/><english num="422"/><korean num="322"/><tagalog num="422"/></numbers>
+  <creators>
+    <author biodate="1842-1906" biolink="">George Matheson</author>
+  </creators>
+  <melody>| 1 1/ 1/ 3 3 | 6 - - 6 | 5 1 4 3 | 2 - - 2 (break) | 3 5 6 5 | 4 3/( 2/) 5 ._1 | 7 ._1 6 6 | 5 - - 5 (break) | 5 3 2 1 | 6 - - 6 | 6 4# 3 2 | 7 - - 7 (break) | ._1. 7/ 6 5 | 4 2 3 5 | 4 3 2 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Make me a cap -- tive, Lord. And then I shall be free; Force me to ren -- der up my sword, And I shall con -- q'ror be. I sink in life's a -- larms When by my -- self I stand, Im -- pri -- son me with -- in Thine arms, And strong shall be my hand.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj130.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="142"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Make me a captive, Lord.
+And then I shall be free;
+Force me to render up my sword,
+And I shall conq'ror be.
+I sink in life's alarms
+When by myself I stand,
+Imprison me within Thine arms,
+And strong shall be my hand.</stanza>
+    <stanza type="verse" number="2">My heart is weak and poor
+Until it master find:
+It has no spring of action sure,
+It varies with the wind;
+It cannot freely move
+Till Thou hast wrought its chain;
+Enslave it with Thy matchless love,
+And deathless it shall reign.</stanza>
+    <stanza type="verse" number="3">My power is faint and low
+Till I have learned to serve:
+It wants the needed fire to glow,
+It wants the breeze to nerve;
+It cannot drive the world
+Until itself be driven;
+Its flag can only be unfurled
+When Thou shalt breathe from heaven.</stanza>
+    <stanza type="verse" number="4">My will is not my own
+Till Thou hast made it Thine;
+If it would reach the monarch's throne
+It must its crown resign;
+It only stands unbent
+Amid the clashing strife,
+When on Thy bosom it has leant,
+And found in Thee its life.</stanza>
+  </lyrics>
+</hymn>

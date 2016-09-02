@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hark, the Savior's knocking, knocking</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><chinese num="711"/><english num="1040"/><german num="1040"/><korean num="711"/><russian num="297"/><spanish num="477"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Watchman Nee</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3321432611223</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - - | F/C - - | C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - - | C - - | G/B - - | G - - | C - - | Am - - | F - - | Fm - - | C/G - - | G7 - - | C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - - | - - - | C - - | G - - | C - - | Am - - | F - - | C - - | G - - | G7/B - - | C - - | C7/E - - | Dm/F - - | Dm - - | C/G - - | G - - | C - F/C | C - - |</chords>
+  <guitarChords>| C - - | C - - | F - - | Dm - - | C - - | G7 - - | C - - | F - - | C - - | C - - | F - - | Dm - - | C - - | G7 - - | C - - | C - - | G - - | G - - | C - - | C - - | F - - | F - - | C - - | G7 - - | C - - | C - - | F - - | Dm - - | C - - | G7 - - | C - - | C - - | C - - | G - - | C - - | C - - | F - - | C - - | G - - | G7 - - | C - - | C7 - - | F - - | F - - | C - - | G - - | C - F | C - - |</guitarChords>
+  <melody>| 3 - 3 | 2 - 1 | 4 3 0 | 2 6_. 0 | 1 - 1 | 2 - 2 | 3( - - | 3) - - (break) | 3 - 3 | 2 - 1 | 4 3 0 | 2 6_. 0 | 1 - 1 | 2 - 2 | 1( - - | 1) - - (break) | 5 - 5 | 2 - 2# | 3 - 3 | 3 - - | 6 - 6 | 1 - 2 | 3( - - | 4) - - (break) | 3 - 3 | 2 - 1 | 4 3 0 | 2 6_. 0 | 1 - 1 | 2 - 2 | 1( - - | 1) - - (break) | (Chorus) 5 - 5 | 5 - - | 3 - 2 | 1 - 1 | 6 - 6 | 5( 3.) 1/ | 2( - - | 2) - - (break) | 5 - 5 | 5 - 3 | 2 - 3 | 4 - 3/ 2/ | 1 - - | 7_. - - | 1( - - | 1) - - |</melody>
+  <layout>
+	<singingstanza>Hark, the Sav -- ior's knock -- ing, knock -- ing, Knock -- ing at your heart! Oh, do not be hard -- ened, hard -- ened, Lest He should de -- part. Rise and o -- pen up your heart, Quick -- ly let Him in; Life di -- vine He'll give you, give you, And for -- give your sin. Let Him in! Let Him in! He's knock -- ing at your heart; Let Him in! Oh, let Him in! Let Him in your heart.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj103.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H1040.html">View Lyrics</link>
+	<link type="relevant" category="nt" num="1040"></link>
+  </links>
+  <music>
+	<midi location="h" length="72">e1040_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hark, the Savior's knocking, knocking,
+  Knocking at your heart!
+Oh, do not be hardened, hardened,
+  Lest He should depart.
+Rise and open up your heart,
+  Quickly let Him in;
+Life divine He'll give you, give you,
+  And forgive your sin.</stanza>
+	<stanza type="chorus" number="">Let Him in! Let Him in!
+He's knocking at your heart;
+Let Him in! Oh, let Him in!
+  Let Him in your heart.</stanza>
+	<stanza type="verse" number="2">Why should you still tarry, tarry,
+  Keep Him waiting there?
+He is kind and gracious, gracious,
+  Merciful and dear.
+Listen to His tender voice
+  Do not grieve His heart,
+Won't you let Him enter, enter,
+  And His grace impart.</stanza>
+  </lyrics>
+</hymn>

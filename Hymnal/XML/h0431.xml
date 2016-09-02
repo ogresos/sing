@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thy mighty love, O God, constraineth me</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><chinese num="ts:439"/><english num="431"/><lsmyp num="102"/><portuguese num="198"/><spanish num="183"/></numbers>
+  <creators>
+    <author biodate="1868-1927" biolink="">Emily May Grimes</author>
+    <composer biodate="" biolink="">C. S. Beatson</composer>
+    <!--<composer biodate="" biolink="">Arranged by G. B. Bramley</composer>-->
+  </creators>
+  <meter>10.10.10.10.</meter>
+  <hymncode>3231123453</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - - - | G/B - G7 - | C - - - | C/E - G7/D - | C - G - | Am - D7 - | G - - - | C - G/B - | Am - C/E - | F - - - | C/E - C - | F - Dm - | C/E - F - | C/G - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | D7 - - - | G - - - | C - - - | C - - - | F - - - | C - - - | F - - - | C - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 3 - 2 3 | 1 - - 1 | 2 3 4 5 | 3 - - - (break) | 5 - 4 5 | 3 - 2 - | 1 1 1 1 | 7_. - - - (break) | 3 - 2 7_. | 1 - 5 - | 6 ._1 7. 4/ | 6( - 5) - (break) | 6 - 4 3 | 3 5 4 6_. | 1 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Thy might -- y love, O God, con -- strain -- eth me, As some strong tide it press -- eth on its way, Seek -- ing a chan -- nel in my self- -- bound soul, Yearn -- ing to sweep all bar -- ri -- ers a -- way.</singingstanza>
+  </layout>
+  <copyright>Used by permission of Marshall, Morgan &amp; Scott, Ltd.</copyright>
+  <links>
+    <link type="group">hymnal-subj033.xml</link>
+    <link type="relevant" category="nt" num="431"></link>
+    <link type="relevant" category="h" num="431b"></link>
+  </links>
+  <music>
+    <midi location="h" length="31">e0431_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thy mighty love, O God, constraineth me,
+As some strong tide it presseth on its way,
+Seeking a channel in my self-bound soul,
+Yearning to sweep all barriers away.</stanza>
+    <stanza type="verse" number="2">Shall I not yield to that constraining power?
+Shall I not say, O tide of love, flow in?
+My God, Thy gentleness hath conquered me,
+Life cannot be as it hath hither been.</stanza>
+    <stanza type="verse" number="3">Break through my nature, mighty, heavenly love,
+Clear every avenue of thought and brain,
+Flood my affections, purify my will,
+Let nothing but Thine own pure life remain.</stanza>
+    <stanza type="verse" number="4">Thus wholly mastered and possessed by God,
+Forth from my life, spontaneous and free,
+Shall flow a stream of tenderness and grace,
+Loving, because God loved, eternally.</stanza>
+  </lyrics>
+</hymn>
+
+
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art fairer than the morning</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Beauty</category>
+  <creators>
+    <author biodate="1820-1915" biolink="">Fanny Jane Crosby</author>
+    <composer biodate="1837-1899" biolink="">John Robson Sweney</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>356116512543223</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - C/E - | Dm - G7 - | C - F/C - | C - F - | Em - Am - | Dm - G7 - | C - C7 - | F - - - | C - - - | C - Am - | Dm - G7 - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C 0 |</chords>
+  <melody>| 3 5_. 6_../ 1// 1./ 6_.// | 5_. - 1 - | 2 5_. 4./ 3// 2./ 2#// | 3 - - 0 (break) | 3 5 5./ 4// 1./ 2// | 3 - 1 - | 2 5_. 4./ 3// 3./ 2// (break) | 1 - - (Chorus) 3./ 1// | 6_.( - 6_../) 1// 7_../ 6_.// | 5_. - 1 1./ 2// | 3 3 5./ 5// 3./ 1// | 2 - - 1./ 2// (break) | 3( - 3./) 3// 2./ 1// | 1 - 6_. - | 5_. 1 4./ 4// 3./ 2// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Thou art fair -- er than the morn -- ing, O my Sav -- ior and my King! Of Thy grand -- eur and Thy beau -- ty, How my soul de -- lights to sing. Thou art fair -- er than the morn -- ing, Thou art bright -- er, bright -- er than the day; At the glo -- ry of Thy pre -- sence Clouds and dark -- ness flee a -- way.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj144.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="38">e0173_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thou art fairer than the morning,
+  O my Savior and my King!
+Of Thy grandeur and Thy beauty,
+  How my soul delights to sing.</stanza>
+    <stanza type="chorus" number="">Thou art fairer than the morning,
+Thou art brighter, brighter than the day;
+At the glory of Thy presence
+  Clouds and darkness flee away.</stanza>
+    <stanza type="verse" number="2">Clothed in light as with a garment,
+  Crowned with majesty divine,
+Lo, the scepter of dominion
+  Now and ever, Lord, is Thine.</stanza>
+    <stanza type="verse" number="3">O the greatness of Thy mercy,
+  And the richness of Thy grace!
+O the love that in Thy kingdom
+  Is preparing me a place!</stanza>
+    <stanza type="verse" number="4">When at last I reach the kingdom,
+  Win the crown, the battle o'er,
+With ten thousand times ten thousand
+  I shall sing forevermore.</stanza>
+  </lyrics>
+</hymn>

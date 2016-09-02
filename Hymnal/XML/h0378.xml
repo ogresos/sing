@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Savior, lead me up the mountain</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <numbers><cebuano num="378"/><chinese num="285"/><english num="378"/><german num="378"/><korean num="285"/><russian num="454"/><tagalog num="378"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Anonymous</author>
+	<composer biodate="1838-1876" biolink="">Philip Paul Bliss</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>565321766621712</hymncode>
+  <key>Ab Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - C/E - | F - - - A/E - | D - - - D7/F# - | G - - - G7/B - | C - - - C/E - | F - - - Dm - | C/G - - - G7 - | C - - - C7 - | F - - - F/A - | C - - - C/E - | D - - - D7 - | G - - - G/B - | C - - - C/E - | F - - - Dm - | C/G - - - G7 - | F/C - C - 0 - |</chords>
+  <guitarChords>| C - - - - - | C - - - - - | F - - - - - | D - - - D7 - | G - - - G7 - | C - - - - - | F - - - - - | C - G7 - - - | C - - - C7 - | F - - - - - | C - - - - - | D - - - D7 - | G - - - - - | C - - - - - | F - - - - - | C - - G7 - - | C - - - 0 - |</guitarChords>
+  <melody>| 0 - - - 5. 6/ | 5 - - ._3 ._2 ._1 | 7 6 - - 6. 6/ | ._2 - - ._1 7 ._1 | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 (break) | ._1 - - - (Chorus) ._1. ._1/ | ._4 - - ._4 ._4 ._4 | ._4 ._3 - - ._3. ._3/ | ._3 - - ._2 6. ._2/ | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 | ._1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>Sav -- ior, lead me up the moun -- tain, Where the Lord a -- lone is seen, Where we hear the voice from heav -- en, Where the air is pure and clean. Lead me high -- er up the moun -- tain, Give me fel -- low -- ship with Thee; In Thy light I see the foun -- tain, And the blood it cleans -- es me.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj129.xml</link>
+	<link type="relevant" category="nt" num="378"></link>
+  </links>
+  <music>
+	<midi location="h" length="35">e0378_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Savior, lead me up the mountain,
+  Where the Lord alone is seen,
+Where we hear the voice from heaven,
+  Where the air is pure and clean.</stanza>
+	<stanza type="chorus" number="">Lead me higher up the mountain,
+  Give me fellowship with Thee;
+In Thy light I see the fountain,
+    And the blood it cleanses me.</stanza>
+	<stanza type="verse" number="2">Higher up where light increases,
+  Far above all earthly strife,
+Where the strain of effort ceases,
+  Where in Christ we reign in Life.</stanza>
+	<stanza type="verse" number="3">Savior, keep me up the mountain
+  Pressing on toward the goal,
+Till, as one, we share Thine image,
+  And Thy love and grace extol.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We have heard the joyful sound</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <numbers><chinese num="676"/><english num="991"/><korean num="676"/><spanish num="461"/></numbers>
+  <creators>
+    <author biodate="1829-1907" biolink="">Priscilla Jane Owens</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5515123555312</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | C - Am | G7 - - | C - G/B | Am - C/G | F - G7 | C - C7/E | F - - | Fm - - | C/G - Am | G/B - G7 | C - C7/E | F - Dm | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 5_../ 5_.// | 1( 1./) 5_.// 1./ 2// | 3 - 5./ 5// | 5 - 3./ 1// (break) | 2 - 5_../ 5_.// | 1( 1./) 5_.// 1./ 2// | 3 - 5./ 5// | 5 - 2./ 3// (break) | 1 - 1./ 1// | 4( 4./) 4// 4./ 4// | 4 - 1./ 2// | 3( 3./) 3// 5./ 3// (break) | 2 - 5./ 5// | 5( 5./) 3// 4./ 5// | 6 - 5./ 5// | 5 - 2./ 3// | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>We have heard the joy -- ful sound: Je -- sus saves! Je -- sus saves! Spread the tid -- ings all a -- round: Je -- sus saves! Je -- sus saves! Bear the news to ev -- ery land, Climb the steeps and cross the waves; On -- ward!&amp;mdash; 'tis our Lord's com -- mand; Je -- sus saves! Je -- sus saves!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj108.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="31">e0991_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We have heard the joyful sound:
+  Jesus saves! Jesus saves!
+Spread the tidings all around:
+  Jesus saves! Jesus saves!
+Bear the news to every land,
+Climb the steeps and cross the waves;
+Onward!&amp;mdash;'tis our Lord's command;
+  Jesus saves! Jesus saves!</stanza>
+    <stanza type="verse" number="2">Waft it on the rolling tide,
+  Jesus saves, Jesus saves;
+Tell to sinners far and wide,
+  Jesus saves, Jesus saves;
+Sing, ye islands of the sea,
+Echo back, ye ocean caves;
+Earth shall keep her jubilee,
+  Jesus saves, Jesus saves.</stanza>
+    <stanza type="verse" number="3">Sing above the battle's strife,
+  Jesus saves, Jesus saves;
+By His death and endless life,
+  Jesus saves, Jesus saves;
+Sing it softly thru the gloom,
+When the heart for mercy craves,
+Sing in triumph o'er the tomb,
+  Jesus saves, Jesus saves.</stanza>
+    <stanza type="verse" number="4">Give the winds a mighty voice,
+  Jesus saves, Jesus saves;
+Let the nations now rejoice.
+  Jesus saves, Jesus saves;
+Shout salvation full and free,
+Highest hills and deepest caves,
+This our song of victory,
+  Jesus saves, Jesus saves.</stanza>
+  </lyrics>
+</hymn>

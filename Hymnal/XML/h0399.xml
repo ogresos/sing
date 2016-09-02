@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Changed into His likeness</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Likeness to Christ</category>
+  <numbers><cebuano num="399"/><chinese num="300"/><english num="399"/><german num="399"/><korean num="300"/><portuguese num="193"/><russian num="456"/><spanish num="176"/><tagalog num="399"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1871-1930" biolink="">Harold Green</composer>
+  </creators>
+  <meter>6.5.6.5.</meter>
+  <hymncode>11265333445</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G - | C - - - | Am - D7 - | G - G7 - | C/E - C - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - G - | C - - - | C - D7 - | G - G7 - | C - - - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 1. 1/ 2 6 | 5 - 3 - | 3. 3/ 4# 4# | 5 - - - (break) | ._1. ._1/ 5 5# | 6 - 6 - | 5. 3/ 4 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Changed in -- to His like -- ness! This my heart's de -- sire! May the Lord ful -- fill it, All my soul in -- spire.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj134.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0399.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="15">e0399_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Changed into His likeness!
+  This my heart's desire!
+May the Lord fulfill it,
+  All my soul inspire.</stanza>
+	<stanza type="verse" number="2">Changed into His likeness!
+  He the Spirit is!
+If the Spirit governs,
+  He'll fulfill my wish.</stanza>
+	<stanza type="verse" number="3">As a glass, beholding
+  With uncovered face,
+I can see His glory
+  And reflect His grace.</stanza>
+	<stanza type="verse" number="4">O that no more covering
+  May the Lord obscure,
+That I may reflect Him
+  With a heart made pure.</stanza>
+	<stanza type="verse" number="5">Gazing on His glory,
+  Face to face to see;
+Constantly beholding,
+  Ever would I be.</stanza>
+	<stanza type="verse" number="6">Changed into His likeness!
+  This my heart's one quest!
+From my heart reflected,
+  He will be expressed.</stanza>
+	<stanza type="verse" number="7">Changed into His likeness
+  And reflecting more
+Glory unto glory,
+  Boundless evermore.</stanza>
+  </lyrics>
+</hymn>

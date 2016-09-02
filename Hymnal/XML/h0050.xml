@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Father, Thy Son beloved leads our praise</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Praise from Many Sons</category>
+  <numbers><cebuano num="50"/><chinese num="48"/><english num="50"/><french num="9"/><korean num="48"/><lsmyp num="11"/><russian num="242"/><spanish num="30"/><tagalog num="50"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Robert Allen</author>
+    <composer biodate="1841-1896" biolink="">Frederick Cook Atkinson</composer>
+  </creators>
+  <meter>10.10.10.10.</meter>
+  <hymncode>3334365443</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/B - C - | F - G7 - | C - - - | Am - B - | Em - A - | G/D - D7 - | G - - - | G - - - | G7 - - - | G - - - | G7 - - - | C - - - | F - C/E F | C/G - G7 - | C - - 0 |</chords>
+  <melody>| 3 - 3 3 | 4 - 3 - | 6 5 4 4 | 3 - - - (break) | ._1 - 7 6 | 5 - 6 - | 7 5 6 6 | 5 - - - (break) | 5 - 5 5 | 7 - 6 - | 5 6 7 ._1 | ._2 - - - (break) | ._3 - ._2 ._1 | 7 6 5 ._1 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Fa -- ther, Thy Son be -- lov -- ed leads our praise Aft -- er the ban -- quet feast is had and done; How dear, how sweet to Thee the praise He leads, And in His prais -- es join -- ing we are one.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj236.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="27">e0050_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Father, Thy Son beloved leads our praise
+After the banquet feast is had and done;
+How dear, how sweet to Thee the praise He leads,
+And in His praises joining we are one.</stanza>
+    <stanza type="verse" number="2">Father, we need no goodness more than Thee,
+Nor do we seek a love that's less than Thine;
+How we adore Thee now that here we know
+Thy searchless, uncreated life divine.</stanza>
+    <stanza type="verse" number="3">Father, within Thy love our love to Thee
+Grows, far transcending all our earthly ties;
+Thine own dear love in power leads our hearts
+Where Thine own presence deeply satisfies.</stanza>
+    <stanza type="verse" number="4">Father, by joining with Thy Son beloved,
+We all with gladness praise Thee now again;
+Joyfully feasting on Thy holy love,
+Tasting, as sons, the sweetness of Thy name.</stanza>
+  </lyrics>
+</hymn>

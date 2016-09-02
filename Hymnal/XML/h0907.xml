@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Not where we elect to go</title>
+  <index>true</index>
+  <category>Service&amp;mdash;By the Lord's Leading</category>
+  <numbers><cebuano num="907"/><chinese num="650"/><english num="907"/><german num="907"/><korean num="650"/><tagalog num="907"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>7.7.7.7.</meter>
+  <hymncode>511765623243215</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - G - | C - - - | D - G - | C - - - | C - G - | C - - - | G7 - C - ||</chords>
+  <melody>| 5 ._1 ._1 7/( 6/) | 5 6 2 - | 3 2 4 3 | 2 1 5 - (break) | ._1 7/( 6/) 5 4 | 3 2/( 1/) 7_. - | 5 6 7 ._1 | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>Not where we e -- lect to go, But where Je -- sus leads the way, There the liv -- ing wa -- ters flow, There our dark -- ness turns to day.</singingstanza>
+  </layout>
+  <links>
+	<link type="relevant" category="h" num="907b"></link>
+  </links>
+  <music>
+	<midi location="h" length="20">e0907_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Not where we elect to go,
+But where Jesus leads the way,
+There the living waters flow,
+There our darkness turns to day.</stanza>
+	<stanza type="verse" number="2">Not our self-appointed task
+Will the Lord's approval win,
+But the work we did not ask,
+Finished humbly, just for Him.</stanza>
+	<stanza type="verse" number="3">Not the prayer we long to plead
+When we bend before the Throne,
+But the touching deeper need
+Of the Spirit's wordless groan.</stanza>
+	<stanza type="verse" number="4">Not the gift we proudly lay
+On His altar will He heed,
+If our hearts have said Him, "Nay,"
+When He whispered, "I have need."</stanza>
+	<stanza type="verse" number="5">Thus we die, and dying live
+In the heavenlies with the Lord;
+Thus we serve, and pray, and give,
+Christ Himself our great Reward.</stanza>
+  </lyrics>
+</hymn>

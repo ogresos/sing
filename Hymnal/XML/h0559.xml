@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Savior, I by faith am touching Thee</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <numbers><cebuano num="559"/><chinese num="412"/><english num="559"/><german num="559"/><korean num="412"/><lsmyp num="151"/><russian num="460"/><tagalog num="559"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Bertha Fennell</author>
+	<composer biodate="" biolink="">R. L. Haslup</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>334321222344323</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | F/C - C | Dm - Dm/F | G7 - G7/B | C - G7/D | C/E - F | C/E - C | G/D - D7 | G - - | G7/B - G7 | C - - | G7/B - G7 | C - C7/E | F - - | C/E - F | C/G G7 - | C - - |</chords>
+<guitarChords>| C - - | C - - | G - - | G7 - - | C - - | C - G | C - - | D - D7 | G - - | G7 - - | C - - | G7 - - | C - C7 | F - - | C - - | C G7 - | C - - |</guitarChords>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Sav -- ior, I by faith am touch -- ing Thee, the source of ev -- ery good; Vir -- tue now, by faith am claim -- ing, Through the cleans -- ing of Thy blood. Touch -- ing Thee, new life is glow -- ing By Thy Spir -- it's burn -- ing flame; Cleans -- ing, purg -- ing, Spir -- it fill -- ing, Glo -- ry to Thy Ho -- ly Name!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">icometotheedearlord.xml</link>
+	<link type="group">hymnal-subj065.xml</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736318135.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="33">e0559_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Savior, I by faith am touching
+  Thee, the source of every good;
+Virtue now, by faith am claiming,
+  Through the cleansing of Thy blood.</stanza>
+	<stanza type="chorus" number="">Touching Thee, new life is glowing
+  By Thy Spirit's burning flame;
+Cleansing, purging, Spirit filling,
+    Glory to Thy Holy Name!</stanza>
+	<stanza type="verse" number="2">Touching Thee in faith, I take Thee
+  In Thy riches full and free;
+All I am I open to Thee,
+  All Thou art Thou giv'st to me.</stanza>
+	<stanza type="verse" number="3">Touching now Thine outstretched scepter,
+  O most mighty King of kings;
+Of Thy fulness now receiving,
+  High I mount on eagle wings.</stanza>
+	<stanza type="verse" number="4">Grace and virtue, strength and wisdom,
+  All my need, by Thee supplied;
+Keep me touching, keep me claiming,
+  Keep me ever at Thy side.</stanza>
+  </lyrics>
+</hymn>

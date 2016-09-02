@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When we survey the wondrous cross</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Suffering</category>
+  <numbers><cebuano num="101"/><chinese num="85"/><english num="101"/><korean num="85"/><spanish num="51"/><tagalog num="101"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Isaac Watts</author>
+    <composer biodate="1735-1807" biolink="">Edward Miller</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>134213565</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G | Am - - | C/E - F | C - - | C/E - - | F - C/E | G/D - C | G - - | G/B - D7 | G - G7/F | C/E - D7 | G - Am | Dm7 - C/E | Dm/F - C/E | F C/G G7 | C - 0 |</chords>
+  <melody>| 0 - 1 | 3( 4) 2 | 1 -  3 | 5 - 6 | 5 - 5 | ._1 - 7 | 6 - 5 | 5( 4) 3 | 3( 2) 2 (break) | 5 - 6 | 7 - 5 | ._1( 3) 4# | 5 - 1 | 4 - 3 | 2 - 1 | 1/( 2/ 3) 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>When we sur -- vey the won -- drous cross On which the Lord of glo -- ry died, Our rich -- est gain we count but loss, And pour con -- tempt on all our pride.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj159.xml</link>
+    <link type="relevant" category="h" num="101b"></link>
+  </links>
+  <music>
+    <midi location="h" length="28">e0101_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When we survey the wondrous cross
+On which the Lord of glory died, 
+Our richest gain we count but loss,
+And pour contempt on all our pride.</stanza>
+    <stanza type="verse" number="2">Our God forbid that we should boast,
+Save in the death of Christ, our Lord;
+All the vain things that charm us most,
+We'd sacrifice them to His blood.</stanza>
+    <stanza type="verse" number="3">There from His head, His hands, His feet,
+Sorrow and love flowed mingled down;
+Did e'er such love and sorrow meet,
+Or thorns compose so rich a crown?</stanza>
+    <stanza type="verse" number="4">His dying crimson, from His head
+Spreads o'er His body on the tree;
+To all the world then am I dead,
+And all the world is dead to me.</stanza>
+    <stanza type="verse" number="5">Were the whole realm of nature ours,
+That were an offering far too small;
+Love that transcends our highest pow'rs,
+Demands our heart, our life, our all.</stanza>
+  </lyrics>
+</hymn>

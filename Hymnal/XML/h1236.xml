@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the church the sound of life upon our ear is falling</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Our Home and Rest</category>
+  <numbers><cebuano num="1236"/><chinese num="ts:716"/><english num="1236"/><german num="1236"/><russian num="536"/><tagalog num="1236"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 | ._1. 5/ 5 ._1 | 6 ._2 ._2 ._3 | ._2 - - 0 (break) | ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 | 5 ._1 - ._4 | ._3 - ._2 - (break) | ._1 - - (Chorus) 5 | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 | 5 - - 5 | 7 7 - 6./ 5// | ._1 ._3 - ._1 | 6 ._2 ._2 ._3 (break) | ._2 5 ._1 ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1 | 5 5 3 4 | 5 ._1 - ._4 | ._3 - ._2 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>In the church the sound of life up -- on our ear is fall -- ing, Then we see the joy of Christ ex -- pressed on ev -- ery hand; Ba -- by -- lon and things of earth in vain to us are call -- ing. We are home for -- ev -- er in Christ our land. We're church -- ing in the Spir -- it On the church -- 's lo -- cal ground; We're church -- ing with our broth -- ers, Our fam -- ily we have found. Oh, yes, we're church -- ing with the church -- es, And we'll make the earth re -- sound With hal -- le -- lu -- jahs for Christ our land!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj196.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="324"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">In the church the sound of life upon our ear is falling,
+Then we see the joy of Christ expressed on every hand;
+Babylon and things of earth in vain to us are calling.
+  We are home forever in Christ our land.</stanza>
+	<stanza type="chorus" number="">We're churching in the Spirit
+On the church's local ground;
+We're churching with our brothers,
+Our family we have found.
+Oh, yes, we're churching with the churches,
+And we'll make the earth resound
+  With hallelujahs for Christ our land!</stanza>
+	<stanza type="verse" number="2">Far away our background seems with all its gifts and teaching,
+Farther still, the worldly things with all their foul demand;
+As the love of Jesus Christ our inmost heart is reaching,
+  Not a thing can move us from Christ our land.</stanza>
+	<stanza type="verse" number="3">"I will build My church upon this rock," said the Lord Jesus,
+And we see the building of His purpose and His plan;
+Setting members in the Body as Himself it pleases,
+  Building us together in Christ our land.</stanza>
+	<stanza type="verse" number="4">Now the Lord's recovery is everywhere proceeding,
+All the churches join in one to give the Lord command:
+"Speed the day when all the earth will echo with pray-reading
+  And with hallelujahs for Christ our land."</stanza>
+  </lyrics>
+</hymn>

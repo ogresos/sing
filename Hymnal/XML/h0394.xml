@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unto him that hath Thou givest</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <numbers><english num="394"/><lsmyp num="87"/></numbers>
+  <creators>
+    <author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+    <composer biodate="" biolink="">W. Schultes</composer>
+  </creators>
+  <meter>8.7.8.7.7.7.</meter>
+  <hymncode>3211432117</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - G - | G/B - C - | D7 - G - | Dm - - - | Gm - Dm - | F - C/G - | G7 - C - | C7 - F - | G7 - C - | C/E - Am - | F G7 C - |</chords>
+  <melody>| 3 2 1. 1/ | 4/( 3/) 2/( 1/) 1 7_. | 2. 3/ 1 1 | 1/( 3/) 2/( 1/) 2 - (break) | 2 3 4. 4/ | 4/( 3/) 2/( 1#/) 3 2 | 1 7_./( 1/) 3. 3/ | 4 7_. 1 - (break) | 3 2/( 3/) 4. 4/ | 4/( 3/) 4/( 5/) 4( 3) | 3 2 1 2/( 3/) | 4 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>Un -- to him that hath Thou giv -- est Ev -- er more a -- bun -- dant -- ly; Lord, I live be -- cause Thou liv -- est, There -- fore give more life to me, There -- fore speed me in the race, There -- fore let me grow in grace.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj133.xml</link>
+    <link type="relevant" category="nt" num="394"></link>
+    <link type="relevant" category="nt" num="394b"></link>
+  </links>
+  <music>
+    <midi location="h" length="29">e0394_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Unto him that hath Thou givest
+Ever more abundantly;
+Lord, I live because Thou livest,
+Therefore give more life to me,
+Therefore speed me in the race,
+Therefore let me grow in grace.</stanza>
+    <stanza type="verse" number="2">Deepen all Thy work, O Master,
+Strengthen every downward root;
+Only do Thou ripen faster,
+More and more Thy pleasant fruit;
+Purge me, prune me, self abase;
+Only let me grow in grace.</stanza>
+    <stanza type="verse" number="3">Let me grow by sun and shower,
+Every moment water me;
+Make me really, hour by hour,
+More and more conformed to Thee,
+That Thy loving eye may trace
+Day by day my growth in grace.</stanza>
+    <stanza type="verse" number="4">From Thy fulness grace outpouring,
+Show me ever greater things;
+Raise me higher, sunward soaring,
+Mounting as on eagle-wings.
+By the brightness of Thy face,
+Ever let me grow in grace.</stanza>
+    <stanza type="verse" number="5">Let me, then, be always growing,
+Never, never standing still,
+Listening, learning, better knowing
+Thee and Thy most blessed will.
+Till I win the glorious race,
+Daily let me grow in grace.</stanza>
+  </lyrics>
+</hymn>

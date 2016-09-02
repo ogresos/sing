@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buried with Christ, and raised with Him too</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><cebuano num="483"/><chinese num="364"/><dutch num="64"/><english num="483"/><german num="483"/><korean num="364"/><lsmyp num="122"/><portuguese num="224"/><russian num="89"/><spanish num="201"/></numbers>
+  <creators>
+	<author biodate="" biolink="">T. Ryder</author>
+	<composer biodate="" biolink="">T. Ryder</composer>
+  </creators>
+  <meter>9.8.9.9.5.</meter>
+  <hymncode>545351716671266717</hymncode>
+  <key>Bb Major</key>
+  <time>9/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - G7 - - | C - - - - - C7/E - - | F - - - - - F - C/E | D - - - - - D/F# - - | G - - - - - G7 - - | C - - - - - A7 - - | Dm - - - - - G7 - - | C - - C/E - - G7 - - | C - - F - - - - - | C - - - - - 0 - - |</chords>
+  <guitarChords>| C - - - - - - - - | C - - - - - C7 - - | F - - - - - F - - | D - - - - - D - - | G - - - - - G7 - - | C - - - - - - - - | F - - - - - - - - | C - - - - - G7 - - | C - - F - - - - - | C - - - - - 0 - - |</guitarChords>
+  <melody>| 0 - - - - - 5 4# 5 | 3 - - 5 - - ._1 7 ._1 | 6 - - - - - 6 7 ._1 | ._2 - - 6 - - 6( 7) ._1 | 7 - - - - - ._2 7 5 (break) | ._1 - - 3 - - 5 6 3 | 4 - - - - - 4 4 4 | 3 - - 5 - - 5 6 7 | ._1 - - ._1 - ._1 ._1 - ._1 | (.._1 - - - - - 0 - - |</melody>
+  <layout>
+	<singingstanza>Bu -- ried with Christ, and raised with Him too; What is there left for me to do? Sim -- ply to cease from strug -- gling and strife, Sim -- ply to walk in new -- ness of life. Glo -- ry be to God!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj226.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="22">e0483_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Buried with Christ, and raised with Him too;
+What is there left for me to do?
+Simply to cease from struggling and strife,
+Simply to walk in newness of life.
+    Glory be to God!</stanza>
+	<stanza type="verse" number="2">Risen with Christ, my glorious Head,
+Holiness now the pathway I tread,
+Beautiful thought, while walking therein:
+He that is dead is freed from sin.
+    Glory be to God!</stanza>
+	<stanza type="verse" number="3">Living with Christ, who dieth no more,
+Following Christ, who goeth before;
+I am from bondage utterly freed,
+Reckoning self as dead indeed.
+    Glory be to God!</stanza>
+	<stanza type="verse" number="4">Living for Christ, my members I yield,
+Servants to God, for evermore sealed,
+Not under law, I'm now under grace,
+Sin is dethroned, and Christ takes its place.
+    Glory be to God!</stanza>
+	<stanza type="verse" number="5">Growing in Christ; no more shall be named
+Things of which now I'm truly ashamed,
+Fruit unto holiness will I bear,
+Life evermore, the end I shall share.
+    Glory be to God!</stanza>
+  </lyrics>
+</hymn>

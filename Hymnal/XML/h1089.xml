@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lamb of God so pure and spotless</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Death</category>
+  <numbers><cebuano num="1089"/><english num="1089"/><german num="1089"/><russian num="400"/><tagalog num="1089"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Lamb of God so pure and spot -- less, Lamb of God for sin -- ners slain. Thy shed blood has wrought re -- demp -- tion, Cleans -- ing us from ev -- ery stain. Lamb re -- deem -- ing, Lamb re -- deem -- ing, Bear -- ing all our sins a -- way, Bear -- ing all our sins a -- way!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj145.xml</link>
+	<link type="ref">John 1:29</link>
+	<link type="ref">John 3:14</link>
+	<link type="ref">John 12:24</link>
+  </links>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lamb of God so pure and spotless,
+Lamb of God for sinners slain.
+Thy shed blood has wrought redemption,
+Cleansing us from every stain.
+Lamb redeeming, Lamb redeeming,
+Bearing all our sins away,
+Bearing all our sins away!</stanza>
+	<stanza type="verse" number="2">Brazen serpent, to Thee looking,
+Son of Man, uplifted high.
+Thou didst bear the flesh of sin in
+Likeness on the cross to die.
+Old creation's termination;
+Finished, Satan and the world,
+Finished Satan and the world!</stanza>
+	<stanza type="verse" number="3">Grain of wheat, so small and lowly,
+Without death abides alone;
+Life divine enclosed within it,
+Into death it must be sown.
+Life releasing, Christ increasing,
+Many grains to birth to bring,
+Many grains to birth to bring!</stanza>
+	<stanza type="verse" number="4">Lamb of God&amp;mdash;our sin's redemption,
+Brazen serpent&amp;mdash;Satan's end,
+Grain of wheat&amp;mdash;life's reproduction,
+Now with many grains we blend.
+Hallelujah! Hallelujah!
+What an all-inclusive death,
+What an all-inclusive death!</stanza>
+  </lyrics>
+</hymn>

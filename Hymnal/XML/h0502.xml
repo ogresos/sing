@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Once I was dead in sin</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <numbers><english num="502"/><spanish num="216"/></numbers>
+  <creators>
+    <author biodate="1837-1911" biolink="">Arthur Tappan Pierson</author>
+  </creators>
+  <melody>| 0. 0 5/ | 5 5/ 3 5/ | 6.( ._1/ 7/) 6/ | 5 5/ 4 5/ (break) | 3.( 3) 5/ | 5 5/ 3 5/ | 6.( ._1/ 7/) 6/ | 5 5/ 7/( 6/) 7/ (break) | ._1.( ._1) (Chorus) ._1/ | ._2 ._2/ ._2/( ._1/) 7/ | ._1 ._1/ 5 ._1/ | 7 7/ 7/( 6/) 7/ (break) | ._1.( ._1) ._1/ | ._2 ._2/ ._2/( ._1/) 7/ | ._1 ._1/ 5 ._1/ | 7 7/ 7/( 6/) 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+    <singingstanza>Once I was dead in sin, And hope with -- in me died; But now I'm dead to sin, With Christ I'm cru -- ci -- fied. And can it be that "He loved me, And gave Him -- self for me"? And can it be that "He loved me, And gave Him -- self for me"?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj055.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="436"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Once I was dead in sin,
+  And hope within me died;
+But now I'm dead to sin,
+  With Christ I'm crucified.</stanza>
+    <stanza type="chorus" number="">And can it be that "He loved me,
+    And gave Himself for me"?</stanza>
+    <stanza type="verse" number="2">O height I cannot reach!
+  O depth I cannot sound!
+O love, O boundless love,
+  In my Redeemer found!</stanza>
+    <stanza type="verse" number="3">I live&amp;mdash;and yet not I,
+  But Christ that lives in me,
+Who from the law of sin
+  And death has made me free.</stanza>
+  </lyrics>
+</hymn>

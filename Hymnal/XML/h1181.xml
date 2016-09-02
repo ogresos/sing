@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, to know Thee as our Person</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Our Person</category>
+  <numbers><english num="1181"/><spanish num="252"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5. 4#/ 6 5 | 5. 3/ 5 4 | 3. 2/ 4. 3/ | 3. 2/ 1 - (break) |  5. 4#/ 6 5 | 5. 3/ 5 4 | 3. 2/ 4/ 2/ 6_./ 7_./ | 1 - - - (break) | 2. 3/ 4/( 3/) 2 | 3. 6/ 5 3 | 2. 3/ 4/( 3/) 2 | 3. 6/ 5 - (break) | 5. 3/ ._1. 7/ | 6/( 7) 6/ 5 3 | 1. 2/ 3/( 5) 4/ | 3. 2/ 1 - (break) | (Chorus) 5. 4#/ 6 5 | 3 - 2 - | 4. 3/ 4 6 | 5 - 3 - (break) | 5. 4#/ 5 ._1 | 7 6 5 4 | 3. 5/ 4 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, to know Thee as our Per -- son, Earn -- est -- ly we seek and pray; To ex -- pe -- ri -- ence Thy ful -- ness In a con -- stant in -- ner way. Nev -- er long -- er on -- ly out -- ward Or with soul -- ish thoughts ob -- sessed, But, O Lord, in real -- est con -- tact We by Thee would be pos -- sessed. Lord, Thou art our Per -- son, In our in -- most be -- ing, May we con -- stant -- ly ex -- pe -- rience This re -- al -- i -- ty.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>3</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj056.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="62"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, to know Thee as our Person,
+  Earnestly we seek and pray;
+To experience Thy fulness
+  In a constant inner way.
+Never longer only outward
+  Or with soulish thoughts obsessed,
+But, O Lord, in realest contact
+  We by Thee would be possessed.</stanza>
+    <stanza type="chorus" number="">Lord, Thou art our Person,
+  In our inmost being,
+May we constantly experience
+    This reality.</stanza>
+    <stanza type="verse" number="2">All the world is under darkness,
+  Driven by the fallen soul,
+And the enemy designing
+  Does the soulish life control.
+Such we were till God, through mercy,
+  Caused His Son to dwell in us;
+Now we fully come to know Him
+  In His church so glorious.</stanza>
+    <stanza type="verse" number="3">Once we walked a soulish person,
+  Wandering in the wilderness,
+Never knowing that our spirit
+  Craved God's fullness to express;
+At the moment Jesus entered
+  Instantly the whole was changed.
+Now we're people spirit-centered!
+  Hallelujah! Rearranged!</stanza>
+    <stanza type="verse" number="4">Now our spirit is our person&amp;mdash;
+  What a glorious fact is this!
+Christ Himself in us expressing
+  God's intent and holiness.
+Not the soul-life's vain delusion,
+  But the spirit strengthened is;
+Christ Himself is now our Person&amp;mdash;
+  He is ours and we are His.</stanza>
+  </lyrics>
+</hymn>

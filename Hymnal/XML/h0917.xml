@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Far, far away, in heathen darkness dwelling</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Go Ye!</category>
+  <numbers><english num="917"/><spanish num="413"/></numbers>
+  <creators>
+    <author biodate="1840-1907" biolink="">James McGranahan</author>
+    <composer biodate="1840-1907" biolink="">James McGranahan</composer>
+  </creators>
+  <meter>11.10.11.10. with chorus.</meter>
+  <hymncode>31653567132</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C F/C C - | C - G - | G/B - G - | C D7 G - | C F/C C - | C - G - | Dm - C F | C/G G7 C - | C - C/E - | F - - A7/E | D - D7/F# - | G - - G7/B | C - C/E - | F - Dm - | Dm - G7 - | F/C - C - |</chords>
+  <melody>| 3 1./ 6_.// 5_.. 3_./ | 5_./ 6_./ 7_./ 1/ 3 2 | 2 2./ 1#// 2. 2/ | 3/ 1/ 1./ 6_.// 5_. - (break) | 3 1./ 6_.// 5_.. 3_./ | 5_./ 6_./ 7_./ 1/ 3 2 | 4 3./ 2// 3/ 1/ 1/ 6_./ | 5_. 7_. 1 - (break) | (Chorus) 5_. - 1 7_. | 7_../ 6_.// 6_../ 6_.// 6_. - | 6_. - 2 1 | 1./ 7_.// 7_../ 7_.// 7_. - (break) | 5_./ 5_./ 6_./ 7_./ 1./ 1// 1/ 3/ | 3 2 4 3/ 5/ | 5 4/ 2/ 1 7_. | 2 - 1 - |</melody>
+  <layout>
+    <singingstanza>Far, far a -- way, in heath -- en dark -- ness dwell -- ing, Mil -- lions of souls for -- ev -- er may be lost; Who, who will go, sal -- va -- tion's sto -- ry tell -- ing, Look -- ing to Je -- sus, count -- ing not the cost? "All pow'r is giv -- en un -- to me, All pow'r is giv -- en un -- to me, Go ye in -- to all the world and preach the gos -- pel, And lo, I am with you al -- way."</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="38">e0917_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Far, far away, in heathen darkness dwelling,
+  Millions of souls forever may be lost;
+Who, who will go, salvation's story telling,
+  Looking to Jesus, counting not the cost?</stanza>
+    <stanza type="chorus" number="">"All pow'r is given unto me,
+All pow'r is given unto me,
+Go ye into all the world and preach the gospel,
+  And lo, I am with you alway."</stanza>
+    <stanza type="verse" number="2">See o'er the world, wide open doors inviting:
+  Soldiers of Christ, arise and enter in!
+Christians, awake! your forces all uniting,
+  Send forth the Gospel, break the chains of sin.</stanza>
+    <stanza type="verse" number="3">"Why will ye die?" the voice of God is calling,
+  "Why will ye die?" re-echo in His name:
+Jesus hath died to save from death appalling,
+  Life and salvation therefore go proclaim.</stanza>
+  </lyrics>
+</hymn>

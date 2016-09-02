@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>How good is the Lord we adore</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Goodness</category>
+  <numbers><english num="167"/><tagalog num="167"/></numbers>
+  <creators>
+    <author biodate="1712-1768" biolink="">Joseph Hart</author>
+    <composer biodate="" biolink="">Lancashire School Songs</composer>
+  </creators>
+  <meter>8.8.8.8.(A)</meter>
+  <hymncode>511112321</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G | C - - G | C - - - | G/B - G7 - | C - - G/D | C/E - C - | G - - C/E | F - G7 - | C F/C C 0 |</chords>
+  <melody>| 0 - - 5_. | 1 1./ 1// 1/( 2/) 3/ 2/ | 1 - - 7_../( 1//) (break) | 2 2./ 2// 2/( 3/) 4/ 2/ | 3 - - 1 (break) | 5 5./ 5// 5 4/ 3/ | 2 - - 5_. | 6_. 4./ 3// 3/( 2/) 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>How good is the Lord we a -- dore, Our faith -- ful, un -- chang -- ea -- ble Friend; His love is as great as His pow'r And knows nei -- ther mea -- sure nor end.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj149.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0167_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">How good is the Lord we adore,
+Our faithful, unchangeable Friend;
+His love is as great as His pow'r
+And knows neither measure nor end.</stanza>
+    <stanza type="verse" number="2">'Tis Jesus the first and the last,
+Who shall guide us through all to the throne;
+We'll praise Him for all that is past,
+We'll trust Him for all that's to come.</stanza>
+  </lyrics>
+</hymn>

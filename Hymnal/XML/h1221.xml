@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, our wonderful Shepherd</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As God's Flock</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><lsmyp num="245"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <layout>
+	<singingstanza>Je -- sus, our won -- der -- ful Sheph -- erd Brought us right out of the fold In -- to His pas -- ture so plen -- teous, In -- to His rich -- es un -- told. Glo -- ri -- ous church life, Feast -- ing from such a rich store! Here where we're dwell -- ing in one -- ness God com -- mands life ev -- er -- more.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">John 10</link>
+  </links>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, our wonderful Shepherd
+  Brought us right out of the fold
+Into His pasture so plenteous,
+  Into His riches untold.</stanza>
+	<stanza type="chorus" number="">Glorious church life,
+Feasting from such a rich store!
+Here where we're dwelling in oneness
+  God commands life evermore.</stanza>
+	<stanza type="verse" number="2">In the divisions He sought us,
+  Weary and famished for food;
+Into the good land He brought us,
+  Oh, to our spirit how good!</stanza>
+	<stanza type="verse" number="3">Jesus Himself is our pasture,
+  He is the food that we eat;
+We as His sheep are fed richly
+  Each time, whenever we meet.</stanza>
+	<stanza type="verse" number="4">Dwell we here on a high mountain,
+  Wet with the morning-fresh dew,
+Slaking our thirst at the fountain,
+  Water so living and new.</stanza>
+	<stanza type="verse" number="5">Christ is our rest and enjoyment,
+  Here we have nothing to fear;
+Here all the sheep dwell securely,
+  Kept by His presence so dear.</stanza>
+  </lyrics>
+</hymn>

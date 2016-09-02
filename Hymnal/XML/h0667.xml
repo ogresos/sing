@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Seek ye first, not earthly pleasure</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="">G. M. Taylor</author>
+    <composer biodate="" biolink="">T. Cairns</composer>
+  </creators>
+  <meter>8.8.8.3. with repeat.</meter>
+  <hymncode>33334443</hymncode>
+  <key>C Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G - | C - - - G7/D - | C - - - G7/D - | C/E - - - D7 - | G - - - G7/F - | C/E - - - C7 - | F - - - Dm - | G - - - G7/B - | C - - - 0 - |</chords>
+  <melody>| 0 - - - 3. 3/ | 3 - - 3 4. 4/ | 4 3 - - 5. 5/ | 5 - - 5 6. 4#/ (break) | 6 5 - - 5. 5/ | ._1 - - ._1 ._1. ._1/ | 7 6 - - 5. 6/ | 5( - - 2) 5. 6/ | 5 - - - 0 - |</melody>
+  <layout>
+    <singingstanza>Seek ye first, not earth -- ly plea -- sure, Fad -- ing joy and fail -- ing trea -- sure, But the love that knows no mea -- sure Seek ye first. Seek ye first.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj051.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0667_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Seek ye first, not earthly pleasure,
+Fading joy and failing treasure,
+But the love that knows no measure
+  Seek ye first.</stanza>
+    <stanza type="verse" number="2">Seek ye first, not earth's aspirings,
+Ceaseless longings, vain desirings,
+But your precious soul's requirings
+  Seek ye first.</stanza>
+    <stanza type="verse" number="3">Seek ye first God's peace and blessing;
+Ye have all if this possessing;
+Come, your need and sin confessing,
+  Seek Him first.</stanza>
+    <stanza type="verse" number="4">Seek Him first, then when forgiven,
+Pardoned, with the peace of heaven,
+Let your life to Him be given:
+  Seek this first.</stanza>
+    <stanza type="verse" number="5">Seek this first&amp;mdash;Be pure and holy;
+Like the Master, meek and lowly;
+Yielded to His service wholly:
+  Seek this first.</stanza>
+    <stanza type="verse" number="6">Seek the coming of His kingdom;
+Seek the souls around to win them,
+Seek to Jesus Christ to bring them:
+  Seek this first.</stanza>
+    <stanza type="verse" number="7">Seek this first, His promise trying;
+It is sure, all need supplying.
+Heavenly things, on Him relying,
+  Seek ye first.</stanza>
+  </lyrics>
+</hymn>

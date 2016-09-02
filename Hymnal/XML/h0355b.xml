@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O blessed, living Lord (Alternate Tune)</title>
+  <category>Longings&amp;mdash;For Christ</category>
+  <creators>
+    <author biodate="1830-1896" biolink="">George West Frazer</author>
+    <composer biodate="1811-1884" biolink="">George Kingsley</composer>
+  </creators>
+  <meter>6.6.8.6.</meter>
+  <hymncode>55311765345342</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G7/D | C/E - F | C/E - C | G7/D - G7/B | C - F/A | G - G/B | C - - | C/E - - | F - - | C - - | Am - - | Dm - G7 | C - F/C | C - - |</chords>
+  <melody>| 0 - 5 | 5( 3) ._1 | ._1( 7) 6 | 5 - 3 | 4 - 5 | 3 - 4 | 2 - 5 | 5 - ._3 | ._3( ._2) ._1 | ._1( 7) 6 | 5 - 5 | ._1( ._2) ._3 | ._4 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>O bless -- ed, liv -- ing Lord, En -- gage our hearts with Thee, And strike with -- in some an -- sw'ring chord To love so rich and free!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj122.xml</link>
+    <link type="relevant" category="h" num="355" />
+  </links>
+  <music>
+    <midi location="h" length="21">e0355b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O blessed, living Lord,
+  Engage our hearts with Thee,
+And strike within some answ'ring chord
+  To love so rich and free!</stanza>
+    <stanza type="verse" number="2">To know Thy loving heart!
+  To cleave to Thy blest side!
+To gaze upon Thee where Thou art,
+  And in Thy love abide!</stanza>
+    <stanza type="verse" number="3">To walk with Thee below!
+  To learn Thy holy ways!
+And more to Thine own stature grow,
+  To Thine eternal praise!</stanza>
+    <stanza type="verse" number="4">Thyself our one Desire!
+  Thyself our Object here!
+The goal to which our hearts aspire&amp;mdash;
+  To meet Thee in the air!</stanza>
+  </lyrics>
+</hymn>

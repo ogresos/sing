@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Saved to the uttermost, I am the Lord's</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved by Grace</category>
+  <creators>
+    <author biodate="1838-1921" biolink="">William James Kirkpatrick</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>3333211712</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E. Dm. | G7 - - | C. G. | C - - | F. C/E. | Am. Dm. | G7. C. | C/E. F. | C/E. C. | G/D - - | D7. G. | C. F. | Em. Am. | Dm. G7. | F/C. C. |</chords>
+  <melody>| 3/ 3/ 3/ 3./ 2// 1/ | 1/ 7_./ 1/ 2. | 4/ 4/ 4/ 4./ 3// 2/ | 3/ 3/ 4/ 5. (break) | 5/ 5/ 5/ 5./ 4// 3/ | 6/ 6/ 6/ 5. | 1/ 2/ 3/ 4./ 3// 2/ | 2/ 1/ 7_./ 1. (break) | (Chorus) 5. 6. | 5/ 3/ 4/ 5./ 3// 1/ | 2. 5 5/ | 4#/ 3/ 4#/ 5. (break) | 5. 6 6/ | 5/ 3/ 4/ 5./ 3// 1/ | 4./ 3// 2/ 3/ 3/ 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>Saved to the ut -- ter -- most, I am the Lord's; Je -- sus my Sav -- ior sal -- va -- tion af -- fords; Gives me His Spir -- it a wit -- ness with -- in, Whis -- p'ring of par -- don, and sav -- ing from sin. Saved, saved, saved to the ut -- ter -- most: Saved, saved by pow -- er di -- vine; Saved, saved, I'm saved to the ut -- ter -- most; Je -- sus the Sav -- ior is mine!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj010.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="47">e0315_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Saved to the uttermost, I am the Lord's;
+Jesus my Savior salvation affords;
+Gives me His Spirit a witness within,
+Whisp'ring of pardon, and saving from sin.</stanza>
+    <stanza type="chorus" number="">Saved, saved, saved to the uttermost:
+  Saved, saved by power divine;
+Saved, saved, I'm saved to the uttermost;
+    Jesus the Savior is mine!</stanza>
+    <stanza type="verse" number="2">Saved to the uttermost; Jesus is near;
+Keeping me safely, He casteth out fear;
+Trusting His promises, how I am blest;
+Leaning upon Him, how sweet is my rest.</stanza>
+    <stanza type="verse" number="3">Saved to the uttermost: this I can say,
+"Once all was darkness, but now it is day."
+Beautiful visions of glory I see;
+Jesus in brightness revealed unto me.</stanza>
+    <stanza type="verse" number="4">Saved to the uttermost: cheerfully sing
+Loud hallelujahs to Jesus my King!
+Ransomed and pardoned, redeemed by His blood,
+Cleansed from unrighteousness, glory to God!</stanza>
+  </lyrics>
+</hymn>

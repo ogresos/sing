@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>On the table of Thy love</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="223"/><chinese num="176"/><english num="223"/><german num="223"/><korean num="176"/><lsmyp num="47"/><portuguese num="121"/><russian num="44"/><spanish num="99"/><tagalog num="223"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1840-1908" biolink="">Ira David Sankey</composer>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>324332116165132</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | G/B - - C - - | F - - - - - | C/E - F G7 - - | C - - - - - | F - - Dm - - | C/E - - F - - | G7 - - C - - | C/E - - Am - - | Dm - - G - - | E - - Am - - | D - - G - - | C/E - - G - - | C7 - - F - - | C/E - F C/G - Am | C/G - G7 C - - |</chords>
+  <guitarChords>| C - - - - - | G - - C - - | F - - - - - | C - - G7 - - | C - - - - - | F - - - - - | C - - - - - | G7 - - C - - | C - - - - - | G - - - - - | E - - Am - - | D - - G - - | C - - G - - | C7 - - F - - | C - - - - - | G7 - - C - - |</guitarChords>
+  <melody>| 3 - 2 4 - 3 | 3 - 2 1 - - | 1 - 6_. 1 - 6_. | 5_.( 1) 3 2 - - (break) | 3 - 2 4 - 3 | 2 - 1 6_. - - | 5_.( 1) 3 5 - 3 | 3 - 2 1 - - (break) | 5 - 3 5 - 3 | 3 - 2 2 - - | 3 - 7_. 1 - 1 | 2 - 6_. 7_. - - (break) | 1 - 1 2 - 2 | 3 - 3 4 - - | 5 - 6 5( 3) 1 | 3 - 2 (.1 - - |</melody>
+  <layout>
+	<singingstanza>On the ta -- ble of Thy love, With the bread, the cup is spread. By par -- tak -- ing of these signs, We with Thee are rich -- ly fed. How we thank Thee for this cup, For the cup of bless -- ing, Lord, Cup of Thy Sal -- va -- tion full, Cup of all Thou dost af -- ford.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj163.xml</link>
+	<link type="relevant" category="nt" num="223"></link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0223.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="47">e0223_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">On the table of Thy love,
+  With the bread, the cup is spread.
+By partaking of these signs,
+  We with Thee are richly fed.
+How we thank Thee for this cup,
+  For the cup of blessing, Lord,
+Cup of Thy Salvation full,
+  Cup of all Thou dost afford.</stanza>
+	<stanza type="verse" number="2">'Tis the blood Thou shedd'st for us,
+  That our sins may be forgiv'n;
+'Tis the cov'nant made for us,
+  That Thy blessings may be giv'n.
+Thou didst drink the cup of wrath,
+  Thou hast tasted death for us,
+Thus the cup of blessing bought,
+  As the portion gained for us.</stanza>
+	<stanza type="verse" number="3">In this portion we have God,
+  Whom we lost thru Adam's fall;
+By the shedding of Thy blood,
+  God becomes our all in all.
+In this portion all we have&amp;mdash;
+  Life and peace, redemption sure;
+All that God has planned and willed,
+  In this portion we secure.</stanza>
+	<stanza type="verse" number="4">An eternal portion, 'tis,
+  Overflowing cup divine;
+Heav'nly taste do we enjoy
+  In this cup of God's design.
+Here in love we drink this cup
+  In remembrance, Lord, of Thee;
+Thus in spirit we partake
+  All Thy work on Calvary.</stanza>
+  </lyrics>
+</hymn>

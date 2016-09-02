@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Golgotha! Good Golgotha!</title>
+  <index>false</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><chinese num="360"/><english num="8360"/></numbers>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>332266551176354</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/B - G - | C/E - C - | C - A7/C# - | Dm - - - | C - - F | C - - - | C/G - G7 - | C - - - | G/B - G - | D - - - | D/F# - D7 - | G - G7/B - | C - C/E - | F - Dm - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 3 | 3. 2/ 2 6 | 6. 5/ 5 ._1 | ._1. 7/ 6 3 (break) | 5( - 4) 4 | 4. 3/ 3 6 | 6. 5/ 5 ._1 | ._1. 3/ 3 2 (break) | 1 - - (Chorus) 3 | 3. 2/ 2 5 | 5. 4#/ 4# 5 | 6 7 ._1 4# (break) | 5 - - 4 | 3 5 ._1. 5/ | 7 6 5 4 | 3. 5/ 4 2 | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>O Gol -- go -- tha! Good Gol -- go -- tha! My Lord was slain for me; His pre -- cious blood in mer -- cy flowed That I from sins be free. There -- fore I pray, my Lord, re -- veal Gol -- go -- tha's mys -- ter -- y, So I may know that I am one With Thee in cer -- tain -- ty.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="">e8360_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Golgotha! Good Golgotha!
+  My Lord was slain for me;
+His precious blood in mercy flowed
+  That I from sins be free.</stanza>
+    <stanza type="chorus" number="">Therefore I pray, my Lord, reveal
+  Golgotha's mystery,
+So I may know that I am one
+  With Thee in certainty.</stanza>
+    <stanza type="verse" number="2">O Golgotha! Good Golgotha!
+  I died there with my Lord;
+His crucifixion has released
+  The burden I once bore.</stanza>
+    <stanza type="verse" number="3">O Golgotha! That empty tomb
+  Included me as well;
+His resurrection too I share,
+  I hear no deathly knell.</stanza>
+    <stanza type="verse" number="4">O Golgotha! There Satan's hosts
+  Were by my Lord abashed;
+In His dear name that worldly king
+  Under my feet is smashed.</stanza>
+    <stanza type="verse" number="5">O Golgotha! There Jesus' name
+  Sufficed me in that war;
+There Satan fled, for by that Name
+  I triumph evermore.</stanza>
+    <stanza type="verse" number="6">O Golgotha! I praise Thee, Lord,
+  For death was suffered there;
+Released His life, redeemed my sins,
+  I'm freed into His care.</stanza>
+    <stanza type="verse" number="7">O Golgotha! I want to learn
+  All that indwells in Him;
+By faith included in His work,
+  I'll stand now firm with Him.</stanza>
+  </lyrics>
+</hymn>

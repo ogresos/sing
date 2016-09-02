@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Take time to behold Him</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><cebuano num="643"/><chinese num="477"/><dutch num="38"/><english num="643"/><german num="643"/><korean num="477"/><russian num="466"/><tagalog num="643"/></numbers>
+  <creators>
+	<author biodate="1822-1894" biolink="">Adapted from William Dunn Longstaff</author>
+	<composer biodate="1846-1945" biolink="">George Coles Stebbins</composer>
+  </creators>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>33234312171</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | G7/B - - C - - | Am - - G - - | C - - F/C - - | C - - - - - | G7/B - - C - - | G/D - - D7 - - | G - - - - - | G7/B - - G7 - - | C - - C/E - - | G7/D - - G7/B - - | C - - - - - | C/E - - C7 - - | F - - Dm - - | C/G - - G7 - - | C - F/C C - - |</chords>
+<guitarChords>| C - - - - - | G7/B - - C - - | Am - - G - - | C - - F/C - - | C - - - - - | G7/B - - C - - | G/D - - D7 - - | G - - - - - | G7/B - - G7 - - | C - - C/E - - | G7/D - - G7/B - - | C - - - - - | C/E - - C7 - - | F - - Dm - - | C/G - - G7 - - | C - F/C C - - |</guitarChords>
+  <melody>| 3 - - 3 2 3 | 4 - - 3 - - | 1 - - 2 1 7_. | 1( - - 1) - - (break) | 3 - - 3 2 3 | 4 - - 3 - - | 2 - - 2 2 2 | 2( - - 2) - - (break) | 4 - - 4 3 2 | 3 - - 5 - - | 4 - - 4 3 2 | 3( - - 3) - - (break) | 5 - - 5 4 3 | 6 - - 4 - - | 3 - - 2 1 7_. | 1( - - 1) - - |</melody>
+  <layout>
+	<singingstanza>Take time to be -- hold Him, Speak oft with Thy Lord, A -- bide in Him al -- ways, And feed on His Word. Wait thou in His pre -- sence, Sub -- mis -- sive and meek, For -- get -- ting in noth -- ing His bless -- ing to seek.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj045.xml</link>
+	<link type="relevant" category="nt" num="643"></link>
+  </links>
+  <music>
+	<midi location="h" length="35">e0643_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Take time to behold Him,
+  Speak oft with Thy Lord,
+Abide in Him always,
+  And feed on His Word.
+Wait thou in His presence,
+  Submissive and meek,
+Forgetting in nothing
+  His blessing to seek.</stanza>
+	<stanza type="verse" number="2">Take time to behold Him,
+  The world rushes on;
+Spend much time in secret
+  With Jesus alone.
+By looking to Jesus
+  Like Him thou shalt be;
+Thy friends, in thy conduct,
+  His likeness shall see.</stanza>
+	<stanza type="verse" number="3">Take time to behold Him,
+  Let Him be thy guide;
+And run not before Him
+  Whatever betide;
+In joy or in sorrow
+  Still follow thy Lord,
+And, looking to Jesus,
+  Still trust in His Word.</stanza>
+	<stanza type="verse" number="4">Take time to behold Him,
+  Be calm in thy soul,
+Each thought and each temper
+  Beneath His control.
+Thus led by His Spirit
+  To fountains of love,
+Thou then shalt be fitted
+  His mercy to prove.</stanza>
+  </lyrics>
+</hymn>

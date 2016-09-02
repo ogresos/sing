@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou hast shown the mystery</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <numbers><cebuano num="488"/><chinese num="361"/><english num="488"/><german num="488"/><korean num="361"/><portuguese num="222"/><russian num="363"/><spanish num="203"/><tagalog num="488"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Watchman Nee</author>
+	<composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>1123234323</hymncode>
+  <key>F Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - G7 - | C - - - | C - - - | F/C - C - | Am - D7 - | G - - - | Am - - G/B | C - A/C# - | Dm - G7 - | C - - - | C - C/E F | G - Am - | Dm/F - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | C - - - | G - - - | C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 4 - 3( 2) | 1 - 7_.( 1) | 2 - - - (break) | 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 2 - 1 - | 2 - 3( 2) | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Lord, Thou hast shown the mys -- te -- ry, How on the Cross I died with Thee; I need no oth -- er pow'r or way That I may tri -- umph day by day.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj226.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0488.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="27">e0488_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord, Thou hast shown the mystery,
+How on the Cross I died with Thee;
+I need no other pow'r or way
+That I may triumph day by day.</stanza>
+	<stanza type="verse" number="2">That cross of Thine is also mine,
+Into my life its light doth shine;
+When I believe I'm dead with Thee,
+The world has lost its pow'r o'er me.</stanza>
+	<stanza type="verse" number="3">Since I am crucified with Thee,
+From sin and self I am set free;
+How can I still enjoy the world
+Or seek its vanities unfurled?</stanza>
+	<stanza type="verse" number="4">I take my place, dear Lord, with Thee
+Upon the cross of Calvary.
+Thy life and power then are mine,
+Since Thou and I in oneness twine.</stanza>
+	<stanza type="verse" number="5">Since Thou didst come to slay the foe,
+His work and power to overthrow,
+I too can overcome in Thee
+And prove Thy mighty pow'r in me.</stanza>
+	<stanza type="verse" number="6">Yet, for the vict'ry we rely
+Upon the death which Thou didst die;
+We tread the path which Thou hast trod
+Until we reach the goal in God.</stanza>
+	<stanza type="verse" number="7">My death with Thee I now believe
+And all its meaning would receive.
+Thy death more deeply show to me,
+That from my flesh I may be free.</stanza>
+	<stanza type="verse" number="8">I long to win as Thou hast won,
+To reign with Thee when Thou dost come.
+If we the cross will gladly bear,
+Then in Thy glory we will share.</stanza>
+  </lyrics>
+</hymn>

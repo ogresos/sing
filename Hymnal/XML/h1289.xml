@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The vict'ry's won! The Lord has triumphed o'er the foe</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;By the Lord's Victory</category>
+  <numbers><cebuano num="1289"/><chinese num="ts:812"/><english num="1289"/><french num="168"/><german num="1289"/><korean num="852"/><portuguese num="419"/><tagalog num="1289"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// (break) | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// (break) | ._3./ ._2// ._1./ 7// (.._1./ (Sisters:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brothers:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// (break) | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>The vic -- t'ry's won! The Lord has tri -- umphed o'er the foe! The vic -- t'ry shout is heard a -- far and near! His blood pre -- vails! It giv -- eth us the vic -- to -- ry! And soon the might -- y Vic -- tor will ap -- pear. The vic -- t'ry's won! O Christ -- ian broth -- ers, The vic -- t'ry's won! This shout we raise! In Zi -- on's ci -- ty, pro -- claim His vic -- t'ry Till all the earth is filled with praise. The vic -- t'ry's won! O Christ -- ian sis -- ters, The might -- y work of Christ is done! The Lord vic -- tor -- ious has con -- quered for us&amp;mdash; E -- ter -- nal joys have now be -- gun.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj183.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The vict'ry's won! The Lord has triumphed o'er the foe!
+The vict'ry shout is heard afar and near!
+His blood prevails! It giveth us the victory!
+And soon the mighty Victor will appear.</stanza>
+	<stanza type="chorus" number="">Sisters:
+The vict'ry's won! O Christian brothers,
+The vict'ry's won! This shout we raise!
+In Zion's city, proclaim His vict'ry
+  Till all the earth is filled with praise.
+Brothers:
+The vict'ry's won! O Christian sisters,
+The mighty work of Christ is done!
+The Lord victorious has conquered for us&amp;mdash;
+  Eternal joys have now begun.</stanza>
+	<stanza type="verse" number="2">The vict'ry's won! We've overcome the enemy.
+The Word of God we boldly testify.
+God speaks His Word&amp;mdash;in it there's life and liberty&amp;mdash;
+And by the Word the devil we defy.</stanza>
+	<stanza type="verse" number="3">The vict'ry's won! Beneath our feet the enemy,
+For we love not our soul life unto death;
+And so we shout, "O Lord, You are our victory!"
+And praise our God with all our spirit's breath.</stanza>
+  </lyrics>
+</hymn>

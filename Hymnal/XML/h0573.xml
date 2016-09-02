@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Once I thought I walked with Jesus</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Trusting Him</category>
+  <creators>
+    <author biodate="1855-1930" biolink="">Francis Augustus Blackmer</author>
+    <composer biodate="1855-1930" biolink="">Francis Augustus Blackmer</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>555565534323453</hymncode>
+  <key>C Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | F/C - | C - | Dm - | G7 - | C - | C - | C - | C/E - | F - | G - | G7 - | C - | - - | C - | F/C - | C - | G - G7 - | C - | F/C - | C/E - | C7 - | F - | G - | G7 - | C F/C | C - |</chords>
+  <melody>| 5. 5/ | 5/ 5/ 6/ 5/ | 5/ 3. | 4. 3/ | 2/ 3/ 4/ 5/ | 3( - | 3) 0 (break) | ._1. ._1/ | ._1/ ._1/ ._2/ ._1/ | 7/ 6. | 7. 6/ | 5/ 3/ 4./ 2// | 1( - | 1) 0 (break) | (Chorus) 5. 5/ | 5/ 5/ 6/ 5/ | ._1 - | 7. 6/ | 5// 6./ 5./ 4// | 3( - | 3) 0 (break) | ._1. ._1/ | ._1/ ._1/ ._2/ ._1/ | 6 - | 7. 6/ | 5/ 6/ 7/ (.._2/ | ._1( - | ._1) 0 |</melody>
+  <layout>
+    <singingstanza>Once I thought I walked with Je -- sus, Yet such change -- ful feel -- ings had; Some -- times trust -- ing, some -- times doubt -- ing, Some -- times joy -- ful, some -- times sad. Oh, the peace the Sav -- ior gives! Peace I nev -- er knew be -- fore; And my way has bright -- er grown Since I've learned to trust Him more.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj074.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0573_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Once I thought I walked with Jesus,
+  Yet such changeful feelings had;
+Sometimes trusting, sometimes doubting,
+  Sometimes joyful, sometimes sad.</stanza>
+    <stanza type="chorus" number="">Oh, the peace the Savior gives!
+  Peace I never knew before;
+And my way has brighter grown
+    Since I've learned to trust Him more.</stanza>
+    <stanza type="verse" number="2">But He call'd me closer to Him,
+  Bade my doubting, fearing, cease;
+And when I had fully yielded,
+  Filled my soul with perfect peace.</stanza>
+    <stanza type="verse" number="3">Now I'm trusting every moment,
+  Nothing less can be enough;
+And the Savior bears me gently
+  O'er those places once so rough.</stanza>
+    <stanza type="verse" number="4">Day by day my soul He's keeping
+  By His wondrous power within;
+And my heart is full of singing
+  To my Savior from all sin.</stanza>
+  </lyrics>
+</hymn>

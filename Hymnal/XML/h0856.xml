@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>How pleasant and how good it is</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Fellowship</category>
+  <numbers><english num="856"/><tagalog num="856"/></numbers>
+  <creators>
+    <composer biodate="1812-1865" biolink="">Arranged from William Vincent Wallace</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>33343322252343</hymncode>
+  <key>D Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F/C - C - | F - - - | Dm - - - | G/B - - - | G7 - - - | C - - G7/D | C/E - - - | C - - - | F - - - | Dm - - - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 3 | 3 - 3 - | 4 - - 3 | 3 - 2 - | 2 - - 2 | 5 - 2 - | 3 - 4 - (break) | 3 - - 4 | 5 - 5 - | ._1 - - 7 | 7 - 6 - | 6 - - 6 | 5 - - 3 | 3 - 2 - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>How plea -- sant and how good it is When breth -- ren in the Lord In one an -- oth -- er's joy de -- light And dwell in sweet ac -- cord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">ot_psa133.xml</link>
+    <link type="ref">Psalms 133</link>
+  </links>
+  <music>
+    <midi location="hv" length="18">e0856.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">How pleasant and how good it is
+  When brethren in the Lord
+In one another's joy delight
+  And dwell in sweet accord.</stanza>
+    <stanza type="verse" number="2">Such oneness, like anointing oil
+  On head to body poured;
+Such oneness, like the morning dew,
+  With sweet refreshment stored.</stanza>
+    <stanza type="verse" number="3">To those who dwell in brotherhood
+  The Lord His blessing sends,
+He crowns them with the bliss of life,
+  Of life that never ends.</stanza>
+  </lyrics>
+</hymn>

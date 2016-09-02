@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thy way, not mine, O Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ's Leading</category>
+  <numbers><chinese num="295"/><english num="393"/><korean num="295"/><tagalog num="393"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Horatius Bonar</author>
+  </creators>
+  <melody>| 0 3 | 3 3 | 4 3 | (.2 4 | 4 4 | 5 4 | (.3 3 (break) | 3 3 | 4 5 | (.6 4 | [3/4] 3( 5) 3 | 2( 4) 2 | 2( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Thy way, not mine, O Lord, How -- ev -- er dark it be; Lead me by Thine own hand, Choose out the Path for me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj124.xml</link>
+    <link type="relevant" category="h" num="393b"></link>
+  </links>
+  <music>
+    <midiref type="h" num="379"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thy way, not mine, O Lord,
+  However dark it be;
+Lead me by Thine own hand,
+  Choose out the Path for me.</stanza>
+    <stanza type="verse" number="2">Smooth let it be, or rough,
+  It will be still the best;
+Winding or straight it leads
+  Right onward to Thy rest.</stanza>
+    <stanza type="verse" number="3">I dare not choose my lot;
+  I would not if I might:
+Choose Thou for me, my God,
+  So shall I walk aright.</stanza>
+    <stanza type="verse" number="4">Take Thou my cup, and it
+  With joy or sorrow fill,
+As best to Thee may seem;
+  Choose Thou my good and ill.</stanza>
+    <stanza type="verse" number="5">Choose Thou for me my friends,
+  My sickness or my health.
+Choose Thou my cares for me,
+  My poverty or wealth.</stanza>
+    <stanza type="verse" number="6">Not mine, not mine the choice,
+  In things both great and small;
+Be Thou my guide, my strength,
+  My wisdom and my all.</stanza>
+  </lyrics>
+</hymn>

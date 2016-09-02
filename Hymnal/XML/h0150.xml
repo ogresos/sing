@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Praise, praise ye the name of our Savior and God</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Kingdom</category>
+  <creators>
+    <author biodate="1808-1889" biolink="">Horatius Bonar</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1233234531132</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/D - - | C/E - F | G - - | C - - | F - - | C/E G - | C - - | C - F | C - - | C/E - F | C - - | C - - | Am - - | D7 - - | G7 - - | C - - | G/D - - | C/E - F | G - - | C - - | Dm - - | C/G - G | C - - |</chords>
+  <melody>| 0 - 1/( 2/) | 3 3 2/( 3/) | 4 - 5/ 3/ | 1 1 3 | 2 - 1/( 2/) | 3 3 2/( 3/) | 4 4 3/( 4/) | 5/( 6/) 5/( 4/) 3/( 2/) (break) | 1 - 3/( 4/) | 5 5 6 | 5 5 5 | ._1 7 6 | 5 5 3/ 4/ | 5 5 6 | 5 5 5 | ._1 7 6 (break) | 5 5 (Chorus) 5/ 4/ | 3 - 2/ 3/ | 4 - 5/ 3/ | 1 1 3 | 2 2 1/ 2/ (break) | 3 3 2/( 3/) | 4 4 3/( 4/) | 5/( 6/) 5/( 4/) 3/( 2/) | 1 1 0 |</melody>
+  <layout>
+    <singingstanza>Praise, praise ye the name of our Sav -- ior and God; De -- clare, oh, de -- clare ye His glo -- ries a -- broad; Pro -- claim ye His mer -- cy, from na -- tion to na -- tion, Till the ut -- ter -- most is -- lands have heard His sal -- va -- tion. For His love flow -- eth on, free and full as a riv -- er; And His mer -- cy en -- du -- reth for -- ev -- er and ev -- er.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj153.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="40">e0150_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Praise, praise ye the name of our Savior and God;
+Declare, oh, declare ye His glories abroad;
+Proclaim ye His mercy, from nation to nation,
+Till the uttermost islands have heard His salvation.</stanza>
+    <stanza type="chorus" number="">For His love floweth on, free and full as a river;
+  And His mercy endureth forever and ever.</stanza>
+    <stanza type="verse" number="2">Praise, praise ye the Lamb, who for sinners was slain;
+Who went down to the grave, and ascended again;
+And who soon shall return, when these dark days are o'er,
+To set up His kingdom, in glory and power.</stanza>
+    <stanza type="verse" number="3">Then the heav'ns and the earth, and the sea shall rejoice;
+The field and the forest shall lift their glad voice;
+The sands of the desert shall flourish in green,
+And Lebanon's glory be shed o'er the scene.</stanza>
+    <stanza type="verse" number="4">Her bridal attire, and her festal array,
+All nature shall see on that glorious day;
+For her King cometh down with His people to reign,
+And His presence shall bless her with glory in men.</stanza>
+  </lyrics>
+</hymn>

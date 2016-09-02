@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>As pants the hart for cooling streams</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For God</category>
+  <numbers><cebuano num="349"/><chinese num="269"/><english num="349"/><korean num="269"/><tagalog num="349"/></numbers>
+  <creators>
+    <author biodate="1652-1715" biolink="">N. Tate</author>
+    <author biodate="1639-1726" biolink="">N. Brady</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 (break) | 2 - 5 | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>As pants the hart for cool -- ing streams When heat -- ed in the chase, So longs my soul, O God, for Thee, And Thy re -- fresh -- ing grace.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj131.xml</link>
+    <link type="ref">Psalms 42</link>
+  </links>
+  <music>
+    <midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">As pants the hart for cooling streams
+  When heated in the chase,
+So longs my soul, O God, for Thee,
+  And Thy refreshing grace.</stanza>
+    <stanza type="verse" number="2">Why restless, why cast down, my soul?
+  Trust God, who will employ
+His aid for thee, and change these sighs
+  To thankful hymns of joy.</stanza>
+    <stanza type="verse" number="3">For Thee, my God, the living God,
+  My thirsty soul doth pine;
+Oh, when shall I behold Thy face,
+  Thou Majesty Divine?</stanza>
+    <stanza type="verse" number="4">God of my strength, how long shall I,
+  Like one forgotten, mourn,
+Forlorn, forsaken, and exposed
+  To my oppressor's scorn?</stanza>
+    <stanza type="verse" number="5">Why restless, why cast down, my soul?
+  Hope still, and thou shalt sing
+The praise of Him who is thy God,
+  Thy health's eternal spring.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though troubles assail</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Providing</category>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+    <composer biodate="1678-1727" biolink="">William Croft</composer>
+  </creators>
+  <meter>5.5.5.5.6.5.6.5.</meter>
+  <hymncode>5112351271</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G | C - G/B | C - C/E | F - G | C - G/B | C - - | G - D7/A | G/B C D | G - - | Am - - | F - - | C/G - - | G - C/E | F - - | G - Am | F - G7 | C - - |</chords>
+  <melody>| 0 - 5_. | 1 1 2 | 3 - 5 | 1 2 7_. | 1 - 2 | 3 2 1 | 7_. - 1 | 2 1/( 7_./) 6_. (break) | 5_. - 7_. | 1 2 3 | 1 6_. 4 | 3 2 1 | 5 - 5_. | 6_. 7_. 1 | 2 5_. 3 | 6_. 2 7_. | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Though trou -- bles as -- sail, And dan -- gers af -- fright; Though friends should all fail, And foes all u -- nite, Yet one thing se -- cures us, What -- ev -- er be -- tide: The Scrip -- ture as -- sures us, "The Lord will pro -- vide."</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj026.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0704_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Though troubles assail,
+And dangers affright;
+Though friends should all fail,
+And foes all unite,
+Yet one thing secures us,
+Whatever betide:
+The Scripture assures us,
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="2">The birds, without barn
+Or storehouse, are fed;
+From them let us learn
+To trust for our bread;
+His saints what is fitting
+Shall ne'er be denied,
+So long as 'tis written,
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="3">His call we obey,
+Like Abram of old,
+Not knowing our way,
+But faith makes us bold;
+For though we are strangers,
+We have a good Guide;
+And trust in all dangers:
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="4">When Satan appears
+To stop up our path,
+And fills us with fears,
+We triumph by faith;
+He cannot take from us,
+Though oft he has tried,
+The heart-cheering promise,
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="5">He tells us we're weak,
+Our hope is in vain;
+The good that we seek
+We ne'er shall obtain;
+But when such suggestions
+Our faith thus have tried,
+This answers all questions,
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="6">No strength of our own,
+Nor goodness we claim;
+Our trust is all thrown
+On Jesus' dear name.
+In this our strong tower
+For safety we hide;
+The Lord is our power,
+"The Lord will provide."</stanza>
+    <stanza type="verse" number="7">When life sinks apace,
+And death is in view,
+The word of His grace
+Shall comfort us through;
+Not fearing or doubting,
+With Christ on our side,
+We hope to die shouting,
+"The Lord will provide."</stanza>
+  </lyrics>
+</hymn>

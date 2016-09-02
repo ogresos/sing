@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the cross of Christ I glory</title>
+  <index>true</index>
+  <category>Glorying in the Cross&amp;mdash;Towering over All</category>
+  <numbers><chinese num="455"/><english num="619"/><korean num="455"/><tagalog num="619"/></numbers>
+  <creators>
+    <author biodate="1792-1872" biolink="">John Bowring</author>
+    <composer biodate="1815-1867" biolink="">Ithamar Conkey</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>5131765155632345</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7/D | C/E - C | G - G7/F | C - - | C/E - F | C/G - G | Am - D7 | G7 - - | C - - | Am - - | G/B - G7 | C - - | C/E - F | C/G - Am | C/G - G7 | C - - |</chords>
+  <melody>| 5 - ._1 | ._3 - ._1 | 7( 6) 5 | ._1 5 0 | 5 - 6 | 3 - 2 | 3 - 4# | 5 - 0 (break) | 5 - ._1 | ._3 - ._1 | ._2( ._1/)( 7/) 6/( 5/) | ._1 5 0 | 5 - 6 | 5 - ._1 | 3 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>In the cross of Christ I glo -- ry, Tow'r -- ing o'er the wrecks of time; All the light of sa -- cred sto -- ry Gath -- ers round its head sub -- lime.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="25">e0619_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In the cross of Christ I glory,
+  Tow'ring o'er the wrecks of time;
+All the light of sacred story
+  Gathers round its head sublime.</stanza>
+    <stanza type="verse" number="2">When the woes of life o'ertake me,
+  Hopes deceive, and fears annoy,
+Never shall the cross forsake me,
+  Lo! It glows with peace and joy.</stanza>
+    <stanza type="verse" number="3">When the sun of bliss is beaming
+  Light and love upon my way,
+From the cross the radiance streaming
+  Adds more luster to the day.</stanza>
+    <stanza type="verse" number="4">Bane and blessing, pain and pleasure,
+  By the cross are sanctified;
+Peace is there that knows no measure,
+  Joys that through all time abide.</stanza>
+  </lyrics>
+</hymn>

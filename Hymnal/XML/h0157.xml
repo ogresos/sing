@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord Jesus, are we one with Thee</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <numbers><english num="157"/><tagalog num="157"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+    <composer biodate="1837-1901" biolink="">James Walch</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>567123321661465</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | G - - | C - - | F - - | F/A - - | C - - | G/B - - | Am - - | E - - | Am - - | F - - | C/G - G7 | C - F/C | C - 0 |</chords>
+  <melody>| 5 6 7 | ._1( ._2) ._3 | ._3 - ._2 | ._1 - - | 6 6 ._1 | ._4 - 6 | 5 - - (break) | 5 6 7 | ._1( ._2) ._3 | ._3 - ._2 | ._1 - - | 6 ._4 6 | 5( ._1) 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Lord Je -- sus, are we one with Thee? O height, O depth of love! Thou one with us on Cal -- va -- ry, We one with Thee a -- bove.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj155.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="22">e0157_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord Jesus, are we one with Thee?
+  O height, O depth of love!
+Thou one with us on Calvary,
+  We one with Thee above.</stanza>
+    <stanza type="verse" number="2">Such was Thy grace that for our sake
+  Thou didst from heaven come down,
+With us of flesh and blood partake,
+  In all our misery one.</stanza>
+    <stanza type="verse" number="3">Our sins, our guilt, in love Divine
+  Confessed and borne by Thee;
+The gall, the curse, the wrath were Thine,
+  To set Thy members free.</stanza>
+    <stanza type="verse" number="4">Ascended now, in glory bright,
+  Head of the Church Thou art;
+Nor life nor death, nor depth nor height,
+  Thy saints and Thee can part.</stanza>
+    <stanza type="verse" number="5">Oh teach us, Lord, to know and own
+  This wondrous mystery,
+That Thou in heaven with us art one,
+  And we are one with Thee.</stanza>
+    <stanza type="verse" number="6">Soon, soon shall come that glorious day
+  When, seated on Thy throne,
+Thou shalt to wondering worlds display
+  That Thou with us art one.</stanza>
+  </lyrics>
+</hymn>

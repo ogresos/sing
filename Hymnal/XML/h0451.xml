@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Not by wrestling, but by clinging</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Yielding to the Lord</category>
+  <numbers><chinese num="343"/><english num="451"/><korean num="343"/><tagalog num="451"/></numbers>
+  <creators>
+    <author biodate="" biolink="">J. H. Stuart</author>
+    <composer biodate="" biolink="">T. Willey</composer>
+  </creators>
+  <meter>8.5.8.5.</meter>
+  <hymncode>323432321545652</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G - - | C - - | C/E - - | F - - | G - - | C - - | G/B - - | G - - | Am - - | F - - | C/G - G7 | F/C - - | C - - |</chords>
+  <guitarChords>| C - - | C - - | G - - | C - - | C - - | F - - | G - - | C - - | G - - | G - - | C - - | F - - | G - G7 | C - - | C - - |</guitarChords>
+  <melody>| 3( 2) 3 | 4 - 3 | 2 - 3 | 2 - 1 | 5( 4#) 5 | 6 - 5 | 2 - - (break) | 3( 4) 3 | 2 - 2 | 2( 3) 2 | 2 - 1 | 1( 7_.) 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Not by wrest -- ling, but by cling -- ing Shall we be most blest; Wrest -- ling on -- ly brings us sor -- row; Cling -- ing brings us rest.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj040.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="23">e0451_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Not by wrestling, but by clinging
+  Shall we be most blest;
+Wrestling only brings us sorrow;
+  Clinging brings us rest.</stanza>
+    <stanza type="verse" number="2">When we stay our feeble efforts,
+  And from struggling cease,
+Unconditional surrender
+  Brings us God's own peace.</stanza>
+    <stanza type="verse" number="3">Lean we all our weight on Jesus,
+  Who alone can save;
+He by might of love hath triumphed
+  O'er His willing slave.</stanza>
+    <stanza type="verse" number="4">Yielding, we shall know true conquest;
+  Dying, we shall live;
+"Not my will, but Thine" prevaileth,
+  Victory to give.</stanza>
+  </lyrics>
+</hymn>

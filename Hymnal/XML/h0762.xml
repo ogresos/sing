@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Prayer is the incense of a holy heart</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;The Meaning</category>
+  <numbers><cebuano num="762"/><chinese num="552"/><english num="762"/><korean num="552"/><tagalog num="762"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 1 - 2 3 | 4 - 3 - | 2 1 1 7_. | 1 - - - (break) | 3 - 4 5 | 6 - 5 - | 4 3 2 1 | 2 - - - (break) | 5 - 5 4 | 3 - 2 - | 3 5 5 4# | 5 - - - (break) | 3 - 2 1 | 7_. 1 2 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Prayer is the in -- cense of a ho -- ly heart Ris -- ing to God from bruised and brok -- en things, When kin -- dled by the Spir -- it's burn -- ing breath And up -- ward borne by faith's as -- cend -- ing wings.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj171.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="454"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Prayer is the incense of a holy heart
+Rising to God from bruised and broken things,
+When kindled by the Spirit's burning breath
+And upward borne by faith's ascending wings.</stanza>
+    <stanza type="verse" number="2">Prayer is the perfume of the plants of grace,
+The flowers of patience, faith, and suffering love,
+Treasured in "vials full of odors sweet,"
+God breathes their fragrance in His courts above.</stanza>
+    <stanza type="verse" number="3">Prayer is th' ascending vapor which supplies
+The showers of blessing, and the stream that flows
+Through earth's dry places, till on every side
+"The wilderness shall blossom as the rose."</stanza>
+    <stanza type="verse" number="4">Prayer is the heavenly telephone that brings
+The distant near, till heaven to earth comes down,
+And in our Father's ear and heart we may
+Our burdens tell and all our sorrows drown.</stanza>
+    <stanza type="verse" number="5">Prayer is the wireless telegraph that sends
+Its heart throbs on the ether waves of heaven;
+It finds the heart of God, and back to earth
+The answering thrill to faith and love are given.</stanza>
+    <stanza type="verse" number="6">Prayer is the golden pipes the Spirit fills,
+Which feed the lamps of God with oil divine,
+And, as with one accord we wait and pray,
+The Spirit fills, the lamps with brightness shine.</stanza>
+    <stanza type="verse" number="7">Prayer is the mightiest force of earth and heaven,
+Prayer is the very dynamite of God;
+It moves the hand that all things moves, and turns
+The living wheels that sweep through earth abroad.</stanza>
+    <stanza type="verse" number="8">Teach us to pray! Move on our hearts, O Lord,
+Till Thine own passion all our being move!
+Teach us! Pray in us, till our prayer shall be
+Christ in us praying to the Christ above!</stanza>
+    <stanza type="verse" number="9">Teach us to pray! Reveal Thy will to us,
+Till Thine own purpose all our being move!
+Teach us! Pray in us, till our prayer shall be
+God in us answering to the God above!</stanza>
+  </lyrics>
+</hymn>

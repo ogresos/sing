@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thy way, not mine, O Lord (Alternate Tune)</title>
+  <category>Longings&amp;mdash;For Christ's Leading</category>
+  <creators>
+    <author biodate="1808-1889" biolink="">Horatius Bonar</author>
+    <composer biodate="" biolink="">Calvin A. Busch</composer>
+  </creators>
+  <numbers><chinese num="295"></chinese><korean num="295"></korean><tagalog num="393"></tagalog></numbers>
+  <meter>6.6.6.6.</meter>
+  <hymncode>5511217121223</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | Dm - - - | G - G7/B - | C - - - | C - C/E - | Dm/F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5 | 5 ._1 ._1 ._2 | ._1( - 7) ._1 | ._2 ._1# ._2 ._2# (break) | ._3 - - 5 | 5 ._1 ._1 ._3 | ._2 ._3 ._4 ._2 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Thy way, not mine, O Lord, How -- ev -- er dark it be; Lead me by Thine own hand, Choose out the Path for me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj124.xml</link>
+    <link type="relevant" category="h" num="393" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0393b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thy way, not mine, O Lord,
+  However dark it be;
+Lead me by Thine own hand,
+  Choose out the Path for me.</stanza>
+    <stanza type="verse" number="2">Smooth let it be, or rough,
+  It will be still the best;
+Winding or straight it leads
+  Right onward to Thy rest.</stanza>
+    <stanza type="verse" number="3">I dare not choose my lot;
+  I would not if I might:
+Choose Thou for me, my God,
+  So shall I walk aright.</stanza>
+    <stanza type="verse" number="4">Take Thou my cup, and it
+  With joy or sorrow fill,
+As best to Thee may seem;
+  Choose Thou my good and ill.</stanza>
+    <stanza type="verse" number="5">Choose Thou for me my friends,
+  My sickness or my health.
+Choose Thou my cares for me,
+  My poverty or wealth.</stanza>
+    <stanza type="verse" number="6">Not mine, not mine the choice,
+  In things both great and small;
+Be Thou my guide, my strength,
+  My wisdom and my all.</stanza>
+  </lyrics>
+</hymn>

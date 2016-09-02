@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's not a Friend like the lowly Jesus</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <creators>
+    <author biodate="1856-1926" biolink="">Johnson Oatman Jr.</author>
+    <composer biodate="1848-1907" biolink="">George Crawford Hugg</composer>
+  </creators>
+  <meter>10.6.10.6. with chorus.</meter>
+  <hymncode>3321176165332321</hymncode>
+  <key>F Major</key>
+  <time>4/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - C/E - - - | F - - - C - | C/E - F - G - | G7 - - - C - - - | C - - - C/E - - - | F - - - C - | C/E - F - G - | G7 - - - C - - - | C - - - F/C - - - | C - - - G - | C - - - G/B - - -| Am - - - G - - - | C - - - C/E - - - | F - - - C - | C/E - F - G - | G7 - - - C - - - |</chords>
+  <melody>| 3 - 3. 2/ 1 - 1. 7_./ | [3/2] 6_. - 1 - 6_. 5_. | 3 - 3 - 2 - | [4/2] 3 - 2 - 1 - 0 - (break) | 3 - 3. 2/ 1 - 1. 7_./ | [3/2] 6_. - 1 - 6_. 5_. | 3 - 3 - 2 - | [4/2] 3 - 2 - 1 - 0 - (break) | (Chorus) 3 - 5 - 5 - 6. 5/ | [3/2] 3 - 3 - 2 1 | [4/2] 3 - 5 - 5 - 6. 5/ | 3 - 3 - 2 - - - (break) | 3 - 3. 2/ 1 - 1. 7_./ | [3/2] 6_. - 1 - 6_. 5_. | 3 - 3 - 2 - | [4/2] 3 - 2 - 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>There's not a Friend like the low -- ly Je -- sus: No, not one! no, not one! None else could heal all our souls' di -- seas -- es: No, not one! no, not one! Je -- sus knows all a -- bout our strug -- gles; He will guide 'til the day is done: There's not a Friend like the low -- ly Je -- sus: No, not one! no, not one!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj108.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="38">e0992_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's not a Friend like the lowly Jesus:
+  No, not one! no, not one!
+None else could heal all our souls' diseases:
+  No, not one! no, not one!</stanza>
+    <stanza type="chorus" number="">Jesus knows all about our struggles;
+  He will guide 'til the day is done:
+There's not a Friend like the lowly Jesus:
+    No, not one! no, not one!</stanza>
+    <stanza type="verse" number="2">No friend like Him is so high and holy,
+  No, not one! no, not one!
+And yet no friend is so meek and lowly,
+  No, not one! no, not one!</stanza>
+    <stanza type="verse" number="3">There's not an hour that He is not near us,
+  No, not one! no, not one!
+No night so dark, but His love can cheer us,
+  No, not one! no, not one!</stanza>
+    <stanza type="verse" number="4">Did ever saint find this Friend forsake him?
+  No, not one! no, not one!
+Or sinner find that He would not take him?
+  No, not one! no, not one!</stanza>
+    <stanza type="verse" number="5">Was e'er a gift like the Savior given?
+  No, not one! no, not one!
+Will He refuse us the bliss of heaven?
+  No, not one! no, not one!</stanza>
+  </lyrics>
+</hymn>

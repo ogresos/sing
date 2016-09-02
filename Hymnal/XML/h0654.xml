@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be all at rest, my soul! Oh! blessed secret</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Resting on the Lord</category>
+  <creators>
+    <author biodate="" biolink="">F. H. Allen</author>
+    <composer biodate="1809-1847" biolink="">From Felix Mendelssohn</composer>
+  </creators>
+  <meter>11.10.11.10.</meter>
+  <hymncode>32143217132</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F/C - - C | Dm/F - D7/F# - | C/G - G - | Dm/F - A/E - | Dm - Dm/F - | G7 - - - | C - - - | C - - - | Am - - - | Am - A7 - | Dm - - - | Dm - A7/C# - | Dm - Dm/F - | G7 - - - | C - - - |</chords>
+  <melody>| 3 - 2 1 | 4 - - 3 | 2 1 7_. 1 | 3 - 2 - | 2 - 2 3 | 4 - 2 - | 6_. 7_. 3. 2/ | 1 - - - (break) | 3 - 2 1 | ._1 - - 7 | 6 5 4 3 | 6 - 2 - | 2 - 2 3 | 4 - 2 - | 6_. 7_. 3. 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>"Be all at rest, my soul!" Oh! bless -- ed se -- cret Of the true life that glo -- ri -- fies thy Lord; Not al -- ways doth the bus -- iest soul best serve Him, But he who rest -- eth on His faith -- ful word.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj048.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e0654_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Be all at rest, my soul!" Oh! blessed secret
+  Of the true life that glorifies thy Lord;
+Not always doth the busiest soul best serve Him,
+  But he who resteth on His faithful word.</stanza>
+    <stanza type="verse" number="2">"Be all at rest!" for rest is highest service;
+  To the still heart God doth His secrets tell;
+Thus shalt thou learn to wait, and watch, and labor,
+  Strengthened to bear, since Christ in thee doth dwell.</stanza>
+    <stanza type="verse" number="3">"Be all at rest!" for rest alone becometh
+  The soul that casts on Him its every care;
+"Be all at rest!" so shall thy life proclaim Him
+  A God who worketh and who heareth prayer.</stanza>
+    <stanza type="verse" number="4">"Be all at rest!" so shalt thou be an answer
+  To those who question, "Who is God, and where?"
+For God is rest, and where He dwells is stillness,
+  And they who dwell in Him that rest shall share.</stanza>
+  </lyrics>
+</hymn>

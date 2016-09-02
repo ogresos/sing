@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For every sin however deep</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the All-Sufficient One</category>
+  <numbers><chinese num="387"/><english num="533"/><korean num="387"/><tagalog num="533"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">C. Fishwick</composer>
+  </creators>
+  <meter>8.8.8.6.</meter>
+  <hymncode>5123355444433262</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B | C - - | C/E - - | D - - | G7 - G7/B | C - - | D7 - - | G - - | C - G/B | Am - - | A7/C# - - | Dm - - | C/G - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 5_. 1 2 | 3 - 3 | 5 - 5 | 4# - - | 4 4 4 | 3 - 3 | 2 - 6_. | 2 - - (break) | 5_. 1 2 | 3 - 3 | 6 - 5 | 4 - - | 3 4 3 | 2( 6_.) 7_. | 1( - - | 1) - - |</melody>
+  <layout>
+    <singingstanza>For ev -- ery sin how -- ev -- er deep, For ev -- ery path how -- ev -- er steep, For all the wea -- ry ones who weep, Thou art suf -- fi -- cient, Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj057.xml</link>
+    <link type="relevant" category="h" num="533b"></link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0533_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">For every sin however deep,
+For every path however steep,
+For all the weary ones who weep,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="2">For every trial great or small,
+For every care that would appall,
+For all the stumbling feet that fall,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="3">When earthly things bring sweet delight,
+When all is well, and skies are bright,
+When ease would cloud the heavenly light,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="4">When sorrow darkens all the day,
+When disappointments bar the way,
+When hearts are numb and cannot pray,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="5">Whate'er my circumstances be,
+Help me in all Thy hand to see,
+So wilt Thou then be unto me,
+  My all-sufficient Lord.</stanza>
+  </lyrics>
+</hymn>

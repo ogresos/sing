@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The cross that He gave may be heavy</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Grace for Suffering</category>
+  <numbers><cebuano num="722"/><chinese num="523"/><english num="722"/><german num="722"/><korean num="523"/><russian num="474"/><tagalog num="722"/></numbers>
+  <creators>
+	<author biodate="1857-1940" biolink="">Ballington Booth</author>
+	<composer biodate="1857-1940" biolink="">Ballington Booth</composer>
+  </creators>
+  <meter>9.7.9.7. with chorus.</meter>
+  <hymncode>554563542</hymncode>
+  <key>Db Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - C/E - | Dm - Dm/C - | G7/B - G7 - | C - G - | C/E - C - | F - Dm - | C/G - G7 - | C F/C C - | C - G7 - | C - G7 - | C - G7/D - | C/E - C - | G - G7/B - | C - Am - | F - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | C - - - | G - - - | G7 - - - | C - G - | C - - - | F - - - | C - G7 - | C F C - | C - G7 - | C - G7 - | C - G7 - | C - - - | G - G7 - | C - - - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5 | 5 4#/ 5/ 6 3/ 5/ | 4/ 2.( 2) 2/ 3/ | 4. 5/ 7. 6/ (break) | 5( - 3.) 5/ | ._1 7/ ._1/ ._2 ._1/ 5/ | 7/ 6.( 6) 4/ 6/ | 5. 2/ 4. 2/ (break) | 1 - - 0/ (Chorus) 5/ | 5 4#/ 5/ 6/ 5/ 4#/ 5/ | 3 - - 0/ 5/ | 5 4#/ 5/ 6/ 5/ 4#/ 5/ (break) | 3 - - 5/ ._1/ | ._1/ 7/ 7/ 2/ 4 4/ 6/ | 6/ 5/ 5/ 1/ 3 3/ 3/ | 3 2 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>The cross that He gave may be heav -- y, But it ne'er out -- weighs His grace; The storm that I feared may sur -- round me, But it ne'er ex -- cludes His face. The cross is not great -- er than His grace, The storm can -- not hide His bless -- ed face; I am sa -- tis -- fied to know That with Je -- sus here be -- low, I can con -- quer ev -- ery foe.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj017.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="39">e0722_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The cross that He gave may be heavy,
+  But it ne'er outweighs His grace;
+The storm that I feared may surround me,
+  But it ne'er excludes His face.</stanza>
+	<stanza type="chorus" number="">The cross is not greater than His grace,
+The storm cannot hide His blessed face;
+  I am satisfied to know
+  That with Jesus here below,
+    I can conquer every foe.</stanza>
+	<stanza type="verse" number="2">The thorns in my path are not sharper
+  Than composed His crown for me;
+The cup that I drink not more bitter
+  Than He drank in Gethsemane.</stanza>
+	<stanza type="verse" number="3">The light of His love shineth brighter,
+  As it falls on paths of woe;
+The toil of my work groweth lighter,
+  As I stoop to raise the low.</stanza>
+	<stanza type="verse" number="4">His will I have joy in fulfilling,
+  As I'm walking in His sight;
+My trials more blessings are bringing,
+  Christ in them is my delight.</stanza>
+  </lyrics>
+</hymn>

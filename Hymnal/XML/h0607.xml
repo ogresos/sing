@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O God, our help in ages past</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As the Dwelling Place</category>
+  <numbers><chinese num="9607"/><english num="607"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Isaac Watts</author>
+    <composer biodate="1678-1727" biolink="">William Croft</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>53651171515645</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G7 - C - | C/E - D7 - | G - G7/F - | C/E - G - | Am - G - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5 | 3 6 5 ._1 | ._1 7 ._1 5 | ._1 5 6 4# (break) | 5 - - 7 | ._1 6 ._2 7 | ._1 6 7 5 | 6 ._1 ._2 7 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O God, our help in ag -- es past, Our hope for years to come, Our shel -- ter from the storm -- y blast, And our e -- ter -- nal home.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj077.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0607_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O God, our help in ages past,
+  Our hope for years to come,
+Our shelter from the stormy blast,
+  And our eternal home.</stanza>
+    <stanza type="verse" number="2">Under the shadow of Thy throne
+  Thy saints have dwelt secure;
+Sufficient is Thine arm alone,
+  And our defence is sure.</stanza>
+    <stanza type="verse" number="3">Before the hills in order stood,
+  Or earth received her frame,
+From everlasting Thou art God,
+  To endless years the same.</stanza>
+    <stanza type="verse" number="4">A thousand ages in Thy sight
+  Are like an evening gone;
+Short as the watch that ends the night
+  Before the rising sun.</stanza>
+    <stanza type="verse" number="5">Time, like an ever-rolling stream,
+  Bears all its sons away;
+They fly forgotten, as a dream
+  Dies at the opening day.</stanza>
+    <stanza type="verse" number="6">O God, our help in ages past,
+  Our hope for years to come,
+Be Thou our guard while life shall last,
+  And our eternal home.</stanza>
+  </lyrics>
+</hymn>

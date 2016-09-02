@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Since Christ my soul from sin set free</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;General</category>
+  <numbers><cebuano num="348"/><chinese num="256"/><english num="348"/><korean num="256"/><portuguese num="181"/><russian num="255"/><spanish num="165"/><tagalog num="348"/></numbers>
+  <creators>
+    <author biodate="" biolink="">C. F. Butler</author>
+    <composer biodate="1856-1938" biolink="">James Milton Black</composer>
+  </creators>
+  <meter>8.8.8.8.D.</meter>
+  <hymncode>5123561117653312</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G | C - C/E | F - Dm | C/E - Am | G/B - G7 | C - C/E | F - Dm | C/G - G7 | C - C7/E | F - - | C - - | C/E - D7 | G - G7/B | C - C/E | F - Dm | C/G - G7 | C - - |</chords>
+  <melody>| 0. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 3./ 1// (break) | 2. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 2./ 1// (break) | 1. (Chorus) 1/ 4./ 4// | 4. 4/ 3./ 1// | 3. 3/ 3./ 3// | 5. 3/ 3/ 1/ (break) | 2. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 2./ 1// | 1. 0. |</melody>
+  <layout>
+    <singingstanza>Since Christ my soul from sin set free, This life has been a joy to me; And 'mid earth's sor -- rows and its woe, 'Tis joy my Je -- sus here to know. O hal -- le -- lu -- jah, yes, 'tis joy! For it is Christ that I en -- joy! On land or sea, what mat -- ters where? Where Je -- sus is, my joy is there.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj004.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="35">e0348_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Since Christ my soul from sin set free,
+This life has been a joy to me;
+And 'mid earth's sorrows and its woe,
+'Tis joy my Jesus here to know.</stanza>
+    <stanza type="chorus" number="">O hallelujah, yes, 'tis joy!
+For it is Christ that I enjoy!
+On land or sea, what matters where?
+  Where Jesus is, my joy is there.</stanza>
+    <stanza type="verse" number="2">The earth was once a bitter place
+Till Jesus showed His smiling face;
+Now joy's begun within my soul,
+'Twill last while endless ages roll.</stanza>
+    <stanza type="verse" number="3">What matters where on earth we dwell?
+On mountain top, or in the dell,
+In cottage, or a mansion fair,
+Where Jesus is, my joy is there.</stanza>
+  </lyrics>
+</hymn>

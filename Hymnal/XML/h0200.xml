@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art the Sun of righteousness</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His All-Inclusiveness</category>
+  <numbers><cebuano num="200"/><chinese num="156"/><english num="200"/><german num="200"/><korean num="156"/><portuguese num="108"/><russian num="508"/><tagalog num="200"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1769-1853" biolink="">Arranged from William Gardiner</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>532177615</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C/E - - | F - - | C/E - - | Am - - | Dm - - | G7 - - | Am - - | C/E - - | F - - | C/E - - | F - Dm | C/G - G7 | F/C - - | C - 0 |</chords>
+  <guitarChords>| C - - | C - - | C - - | F - - | C - - | C - - | C - - | G7 - - | C - - | C - - | F - - | C - - | F - - | G - G7 | C - - | C - 0 |</guitarChords>
+  <melody>| 0 - 5_. | 3 - 2 | 1 - 7_. | 7_.( 6_.) 1 | 5_. - 5 | 5( 4) 3 | 3( 2) 1 | 1( 7_.) 5_. (break) | 3 - 2 | 1 - 7_. | 7_. 6_. 1 | 5_. - 5 | 5( 4) 2 | 1( 3) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Thou art the Sun of right -- eous -- ness With heal -- ing in Thy wings; The shin -- ing of Thy glo -- ri -- ous face To us Thy rich -- es brings.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj143.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0200.html">View Lyrics</link>
+	<link type="relevant" category="h" num="200b"></link>
+  </links>
+  <music>
+	<midi location="h" length="24">e0200_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Thou art the Sun of righteousness
+  With healing in Thy wings;
+The shining of Thy glorious face
+  To us Thy riches brings.</stanza>
+	<stanza type="verse" number="2">The tender mercy of our God
+  Caused Thee on us to dawn,
+To those in darkness giving light
+  That shades of death be gone.</stanza>
+	<stanza type="verse" number="3">Thou art the Morning without clouds,
+  And as the Morning Light;
+We are the tender grass on earth,
+  Who in Thy rays delight.</stanza>
+	<stanza type="verse" number="4">Thy shining light with pleasant rays
+  Increases all the way;
+It shines within us more and more
+  Until the perfect day.</stanza>
+	<stanza type="verse" number="5">It shines thru woe with clearest beams,
+  As shining after rain;
+And in Thy mercy with Thy love
+  Thy shining e'er remains.</stanza>
+	<stanza type="verse" number="6">Thou also art the Morning Star
+  To us as a reward;
+While still 'tis dark it shines with light
+  To those who love the Lord.</stanza>
+	<stanza type="verse" number="7">Lord, help us e'er to love Thy light
+  And see things from afar;
+And look for Thee in watch and prayer
+  As for the Morning Star.</stanza>
+  </lyrics>
+</hymn>

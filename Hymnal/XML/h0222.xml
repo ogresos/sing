@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dear Lord, we thank Thee for this bread</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="222"/><chinese num="185"/><dutch num="59"/><english num="222"/><french num="37"/><german num="222"/><korean num="185"/><portuguese num="118"/><russian num="43"/><spanish num="98"/><tagalog num="222"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5./( 4//) | 3 - 5 | ._1 - 5 | ._2.( 7/) 5/( 4/) | 3 - 5 | 5( ._1) 3 | 2( 7) 6 | 5 - 5 (break) | ._1 - 5 | ._2 - 5 | ._3.( ._2/) ._1/( 7/) | 6 - 6 | 5( ._1) 3 | 5( 4) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Dear Lord, we thank Thee for this bread, It is a sign di -- vine; In it we see the mys -- te -- ries Of God's u -- nique de -- sign.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj163.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0222.html">View Lyrics</link>
+	<link type="relevant" category="h" num="222b"></link>
+  </links>
+  <music>
+	<midiref type="h" num="56"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dear Lord, we thank Thee for this bread,
+  It is a sign divine;
+In it we see the mysteries
+  Of God's unique design.</stanza>
+	<stanza type="verse" number="2">This bread Thy body signifies,
+  Which Thou hast giv'n for us,
+That we may share Thy life divine,
+  Partaking of Thee thus.</stanza>
+	<stanza type="verse" number="3">For us Thy body Thou didst break
+  That Thou may thus impart
+Thyself as life to us that we
+  May be Thy counterpart.</stanza>
+	<stanza type="verse" number="4">This bread thus also signifies
+  Thy body mystical,
+Of which we living members are,
+  With Thee identical.</stanza>
+	<stanza type="verse" number="5">Though we are many grains of wheat,
+  Yet all one loaf, one bread;
+Remembering Thee in such a way,
+  With Thee we all are fed.</stanza>
+	<stanza type="verse" number="6">As of this bread we all commune,
+  Thou, Lord, dost satisfy;
+With all the saints we fellowship,
+  And Thee we testify.</stanza>
+  </lyrics>
+</hymn>

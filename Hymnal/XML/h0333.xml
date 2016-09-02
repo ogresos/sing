@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I know not why God's wondrous grace</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Secured by Divine Provisions</category>
+  <numbers><cebuano num="333"/><chinese num="259"/><english num="333"/><korean num="259"/><portuguese num="180"/><spanish num="160"/><tagalog num="333"/></numbers>
+  <creators>
+    <author biodate="1840-1901" biolink="">Daniel Webster Whittle</author>
+    <composer biodate="1840-1907" biolink="">James McGranahan</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>133432165535565432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G7/D - | C/E - C - | C/E - C - | G - G7/B - | C - G7/D - | Em - Am - | F - G7 - | C - C7/E - | F - - - | C/E - Am - | Dm7 - G7 - | C - C7/E - | F - - - | C/E - C - | Dm - G7 - | C F/C C 0 |</chords>
+  <melody>| 0 - - 1 | 3. 3/ 4/( 3/) 2/( 1/) | 6 5 5 3 | 5. 5/ 6/( 5/) 4/( 3/) | 2 - - 4 (break) | 3. 3/ 4/( 3/) 2/( 1/) | 6 5 5 3 | 5. 5/ 6/( 5/) 4/( 2/) (break) | 1 - - (Chorus) 1/ 1/ | ._1 ._1. ._1/ 7/ 6/ | 6 5. 5/ 6/ 5/ | 5 4. 4/ 5/ 4/ | 4 3 - 1 (break) | ._1 ._1. ._1/ 7/ 6/ | 6 5 - 5/ 5/ | 7. 6/ 7 5 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I know not why God's won -- drous grace To me He hath made known, Nor why, un -- wor -- thy, Christ in love Re -- deemed me for His own. But "I know Whom I have be -- liev -- ed And am per -- suad -- ed that He is a -- ble To keep that which I've com -- mit -- ted Un -- to Him a -- gainst that day."</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj011.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e0333_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I know not why God's wondrous grace
+  To me He hath made known,
+Nor why, unworthy, Christ in love
+  Redeemed me for His own.</stanza>
+    <stanza type="chorus" number="">But "I know Whom I have believed
+And am persuaded that He is able
+To keep that which I've committed
+  Unto Him against that day."</stanza>
+    <stanza type="verse" number="2">I know not how this saving faith
+  To me He did impart,
+Nor how believing in His word
+  Wrought peace within my heart.</stanza>
+    <stanza type="verse" number="3">I know not how the Spirit moves,
+  Convincing men of sin,
+Revealing Jesus through the Word,
+  Creating faith in Him.</stanza>
+    <stanza type="verse" number="4">I know not what of good or ill
+  May be reserved for me,
+Of weary ways or golden days,
+  Before His face I see.</stanza>
+    <stanza type="verse" number="5">I know not when my Lord may come,
+  At night or noon-day fair,
+Nor if I'll walk the vale with Him,
+  Or "meet Him in the air."</stanza>
+  </lyrics>
+</hymn>

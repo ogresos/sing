@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>On Thee my heart is resting</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Resting on Him</category>
+  <creators>
+    <author biodate="1836-1921" biolink="">Theodore Monod</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>7.6.7.6.D. with chorus.</meter>
+  <hymncode>53332353111223</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/B - - | Am - - | C/G - - | F - - | G - - | C - - | F/C - - | C - - | G/B - - | Am - - | C/G - - | G/D - - | D7 - - | G - - | G - - | F - - | G - - | C/E - - | C - - | G/D - - | D7/F# - - | G - - | G - C/E | F - - | C/E - - | Dm - - | C - - | F - - | G7 - - | C - - |  C - - | C - - | G/B - - | Am - - | C/G - - | F - - | G - - | C - - | F/C - - | C - - | G/B - - | Am - - | C/G - - | G/D - - | D7 - - | G - - | G - - - - - | G7 - - - - - | C - - - - - |</chords>
+  <melody>| 0 - 5_. | 3 - 3 | 3( 2) 3 | 5 - - | 3 - 1 | 1 - 1 | 2 - 2 | 3 - - | 0 - 5_. | 3 - 3 | 3( 2) 3 | 5 - - (break) | 3 - 3 | 2 - 2 | 3 - 4# | 5 - - | 0 - 5 | 6 - 6 | 2 - 2 | 6 - - | 5 - 2 | 2( 3) 2 | 2 - 2 | 5 - - (break) | 0 - 5 | 6 - 6 | 5 - 5 | 4 - - | 3 - 3 | 3( 2) 1 | 1 - 7_. | 1 - - (break) | (Chorus) 0 - 5_. | 3 - 3 | 3( 2) 3 | 5 - - | 3 - 1 | 1 - 1 | 2 - 2 | 3 - - | 0 - 5_. (break) | 3 - 3 | 3( 2) 3 | 5 - - | 3 - 3 | 2 - 2 | 3 - 4# | (.5 - - | [3/2] 0 - 5 - 2 - | 2 - 2 - 3 - | 1 - - - - - |</melody>
+  <layout>
+    <singingstanza>On Thee my heart is rest -- ing, Ah, this is rest in -- deed: What else, Al -- might -- y Sav -- ior, Can a poor sin -- ner need? Thy light is all my wis -- dom, Thy love is all my stay; Thy com -- ing back in glo -- ry, Draws near -- er ev -- ery day. On Thee my heart is rest -- ing, Ah, this is rest in -- deed: What else, Al -- might -- y Sav -- ior, Can a poor sin -- ner need? Can a poor sin -- ner need?</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj072.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="74">e0581_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">On Thee my heart is resting,
+  Ah, this is rest indeed:
+What else, Almighty Savior,
+  Can a poor sinner need?
+Thy light is all my wisdom,
+  Thy love is all my stay;
+Thy coming back in glory,
+  Draws nearer every day.</stanza>
+    <stanza type="chorus" number="">On Thee my heart is resting,
+  Ah, this is rest indeed:
+What else, Almighty Savior,
+    Can a poor sinner need?</stanza>
+    <stanza type="verse" number="2">My guilt is great, but greater
+  The mercy Thou dost give;
+Thyself, a spotless Off'ring,
+  Hast died that I should live.
+With Thee, my soul unfettered
+  Has risen from the dust;
+Thy blood is all my treasure,
+  Thy word is all my trust.</stanza>
+    <stanza type="verse" number="3">Through me, Thou gentle Master,
+  Thy purposes fulfil;
+I yield myself forever
+  To Thy most holy will.
+What though I be but weakness?
+  My strength is not in me;
+The poorest of Thy people
+  Has all things, having Thee.</stanza>
+    <stanza type="verse" number="4">When clouds are darkest round me,
+  Thou, Lord, art then most near,
+My drooping faith to quicken,
+  My weary soul to cheer.
+Safe nestling in Thy bosom,
+  I gaze upon Thy face;
+In vain my foes would drive me
+  From Thee, my hiding-place.</stanza>
+    <stanza type="verse" number="5">'Tis Thou hast made me happy,
+  'Tis Thou hast set me free;
+To whom shall I give glory
+  Forever, but to Thee?
+Of earthly love and blessing
+  Should every stream run dry,
+Thy grace shall still be with me,
+  Thy grace, to live and die.</stanza>
+  </lyrics>
+</hymn>

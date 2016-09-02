@@ -72,15 +72,17 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
     func decodeString(string: String) -> NSAttributedString {
         let stringData: Data = string.data(using: String.Encoding.utf8)!
         let options: NSDictionary = [NSDocumentTypeDocumentAttribute:NSHTMLTextDocumentType]
-        var decodedString: NSAttributedString = NSAttributedString()
+        let font = [ NSFontAttributeName: UIFont(name:"Times New Roman", size:20.0)]
+        var decodedString: NSMutableAttributedString = NSMutableAttributedString()
         do {
-            decodedString = try NSAttributedString(data:stringData, options:options as! [String : Any], documentAttributes:nil)
+            decodedString = try NSMutableAttributedString(data:stringData, options:options as! [String : Any], documentAttributes:nil)
+            
         }
         catch {
             // string didn't convert
         }
-        
-        return decodedString
+        decodedString.addAttribute(NSFontAttributeName, value:UIFont(name:"Times New Roman", size:20.0)!, range:NSRange(location:0, length:decodedString.length-1))
+        return decodedString as NSAttributedString
         
     }
     

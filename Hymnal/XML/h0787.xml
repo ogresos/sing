@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I must tell Jesus all of my trials</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;Telling the Lord</category>
+  <numbers><chinese num="572"/><english num="787"/><korean num="572"/><tagalog num="787"/></numbers>
+  <creators>
+    <author biodate="1839-1929" biolink="">Elisha Albright Hoffman</author>
+    <composer biodate="1839-1929" biolink="">Elisha Albright Hoffman</composer>
+  </creators>
+  <meter>10.9.10.9. with chorus.</meter>
+  <hymncode>1235512321</hymncode>
+  <key>D Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7. | C - - C. | C - - G7. | C - - Am. | G/B - - G7. | C - - G/B. | Am. C/G. F. | C/G - - G7. | C - - F/C. | C - - C7/E. | F - - Dm. | C/E - - Am. | G/B - - G7. | C - - G/B. | Am. C/G. F. | C/G - - G7. | F/C. C. 0. |</chords>
+  <melody>| 0 - - 1/ 2/ 3/ | 5. 5. 1/ 2/ 3/ | 2. 1. 1/ 2/ 3/ | 5. 5. 1/ 2/ 3/ (break) | 2.( 2) 0/ 1/ 2/ 3/ | 5. 5. 1/ 2/ 3/ | 2. 1. ._1/ ._1/ ._1/ | 5. 3. 1/ 3/ 2/ (break) | 1.( 1) 0/ (Chorus) ._1/ ._1/ ._1/ | ._1. 5. ._1/ ._1/ ._1/ | ._1. 6. 4/ 5/ 6/ | 5. 5. 5/ 4/ 3/ (break) | 2.( 2) 0/ 1/ 2/ 3/ | 5. 5. 1/ 2/ 3/ | 2. 1. ._1/ ._1/ ._1/ | 5. 3. 1/ 3/ 2/ | 1.( 1) 0/ 0. |</melody>
+  <layout>
+    <singingstanza>I must tell Je -- sus all of my tri -- als; I can -- not bear these bur -- dens a -- lone; In my dis -- tress He kind -- ly will help me; He ev -- er loves and cares for His own. I must tell Je -- sus! I must tell Je -- sus! I can -- not bear my bur -- dens a -- lone; I must tell Je -- sus! I must tell Je -- sus! Je -- sus can help me, Je -- sus a -- lone.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj170.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="42">e0787_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I must tell Jesus all of my trials;
+I cannot bear these burdens alone;
+In my distress He kindly will help me;
+He ever loves and cares for His own.</stanza>
+    <stanza type="chorus" number="">I must tell Jesus! I must tell Jesus!
+I cannot bear my burdens alone;
+I must tell Jesus! I must tell Jesus!
+  Jesus can help me, Jesus alone.</stanza>
+    <stanza type="verse" number="2">I must tell Jesus all of my troubles;
+He is a kind, compassionate Friend;
+If I but ask Him, He will deliver,
+And in my griefs with me He will blend.</stanza>
+    <stanza type="verse" number="3">Tempted and tried I need a great Savior,
+One who can help my burdens to bear;
+I must tell Jesus, I must tell Jesus;
+He all my cares and sorrows will share,</stanza>
+    <stanza type="verse" number="4">O how the world to evil allures me!
+O how my heart is tempted to sin!
+I must tell Jesus; He will enable
+Over the world the vic'try to win.</stanza>
+  </lyrics>
+</hymn>

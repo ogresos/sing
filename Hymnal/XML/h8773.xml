@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When I've run the race before me</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Running the Race</category>
+  <numbers><chinese num="773"/><english num="8773"/><portuguese num="494"/><spanish num="453"/></numbers>
+  <creators>
+    <composer biodate="1884-1974" biolink="">Charles Brenton Widmetyer</composer>
+  </creators>
+  <meter>15.11.15.7.D.</meter>
+  <hymncode>551111776656543</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - - - | Am - D7 - | Gsus4 - G - | E7 - Am - | F - C - | F - G7 - | C - C7/E - | F - - - | C - - - | G7 - - - | C - - - | F - - - | C - Am - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_../ 5_.// | 1./ 1// 1./ 1// 7_../ 7_.// 6_../ 6_.// | 5_../ 6_.// 5_../ 4_.// 3_. 5_../ 5_.// (break) | 1./ 1// 1./ 1// 1./ 1// 7_../ 1// | 2 - - 5_../ 5_.// (break) | 3./ 3// 3./ 2// 1./ 1// 7_../ 1// | 2./ 1// 1./ 6_.// 5_. 5_../ 5_.// | 6_.. 2/ 1 7_. (break) | 1 - - (Chorus) 1./ 7_.// | 6_../ 4// 4./ 4// 4./ 6_.// 7_../ 6_.// | 5_../ 4#_.// 5_../ 1// 3 5_../ 3// (break) | 3./ 2// 2( 2) 5_../ 2// | 2./ 1// 1( 1) 1./ 7_.// | 6_../ 4// 4./ 4// 4./ 6_.// 7_../ 6_.// (break) | 5_../ 4#_.// 5_../ 1// 3 1./ 3// | 5( - 5./) 4// 3./ 2// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>When I've run the race be -- fore me And have fought to vic -- to -- ry, I'll be rap -- tured to the glo -- ry of the Lord; When I've kept the faith at an -- y cost, The Ho -- ly Ci -- ty then I'll re -- ceive as my re -- ward. I'll be rap -- tured in -- to glo -- ry, In the Ho -- ly Ci -- ty dwell&amp;mdash; New Je -- ru -- sa -- lem, New Je -- ru -- sa -- lem; With the o -- ver -- com -- ers shout -- ing, How our prais -- es then will swell, In the New Je -- ru -- sa -- lem.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="35">e8773_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When I've run the race before me
+And have fought to victory,
+I'll be raptured to the glory of the Lord;
+When I've kept the faith at any cost,
+The Holy City then
+I'll receive as my reward.</stanza>
+    <stanza type="chorus" number="">I'll be raptured into glory,
+In the Holy City dwell&amp;mdash;
+New Jerusalem, New Jerusalem;
+With the overcomers shouting,
+How our praises then will swell,
+In the New Jerusalem.</stanza>
+    <stanza type="verse" number="2">As a pilgrim here I wander;
+While afflicted, I rejoice,
+For a better land I soon expect to see;
+Though all others seek for earthly gain,
+The Holy City e'er
+Will my aspiration be.</stanza>
+    <stanza type="verse" number="3">Though my feet are often wearied
+On the rough and rugged path,
+Just by thinking of that city, I'm restored;
+Though my eyes be filled with tears,
+My heart will evermore be fixed
+On that City, my reward.</stanza>
+    <stanza type="verse" number="4">With strong purpose I now wrestle,
+And I run toward the goal;
+I pursue the prize, God's highest to obtain;
+Pressing forward toward the mark,
+I run forgetting all behind,
+Thus the Holy City gain.</stanza>
+    <stanza type="chorus" number="">By His love and through His grace I'll
+In the Holy City live&amp;mdash;
+New Jerusalem, New Jerusalem;
+All saints leaping, singing, shouting,
+To the Lord their praises give,
+In the New Jerusalem.</stanza>
+  </lyrics>
+</hymn>

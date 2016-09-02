@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What joy fills my heart</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Changed in Life</category>
+  <numbers><chinese num="242"/><english num="1357"/><french num="60"/><portuguese num="171"/><russian num="213"/><spanish num="163"/><tagalog num="1357"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55365434323</hymncode>
+  <key>D Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. F/C. | C. C/E. | Dm. G7. | C. F/C. | C. G7/D. | C/E - - | C. C/E. | G - - | F - - | C - - | C - - | Dm7. G7. | C. Am. | Dm/F. G7. | C - - ||</chords>
+  <melody>| 0. 0 5/ | 5.( 5/) 3/ 6/ | 5.( 5/) 4/ 3/ | 4.( 4/) 3/ 2/ (break) | 3.( 3) 5/ | 5.( 5/) 3/ 6/ | 5.( 5) 5/ | ._1/ ._1/ ._1/ (.._1/ 7/ 6/ | 7 7/ 7 5/ | 6/ 6/ 6/ ._1/ 7/ 6/ | 5/ 3/ 1/ 5.( (break) | 5.)( 5) 3/ | 4.( 4/) 3/ 2/ | 3.( 3/) 2/ 1/ | 2.( 2/) 1/ 7_./ | 1.( 1) 0/ ||</melody>
+  <layout>
+    <singingstanza>What joy fills my heart, fills my heart, fills my heart, What joy fills my heart! God takes my stone heart, one of flesh im -- parts; His Spir -- it re -- new -- ing gives life to each part. What joy fills my heart, fills my heart, fills my heart.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="30">e1357_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What joy fills my heart, fills my heart, fills my heart,
+What joy fills my heart!
+God takes my stone heart, one of flesh imparts;
+His Spirit renewing gives life to each part.
+What joy fills my heart, fills my heart, fills my heart.</stanza>
+    <stanza type="verse" number="2">Oh, His Spirit fills, fills me now, fills me now!
+Oh, His Spirit fills!
+He drives out my sin, weakness, death, within,
+To bear fruits of righteousness, holy to Him.
+Oh, His Spirit fills, fills me now, fills me now!</stanza>
+  </lyrics>
+</hymn>

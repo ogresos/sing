@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In tenderness He sought me</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <numbers><cebuano num="1068"/><chinese num="737"/><english num="1068"/><french num="206"/><german num="1068"/><korean num="737"/><lsmyp num="307"/><portuguese num="466"/><russian num="180"/><spanish num="489"/><tagalog num="1068"/></numbers>
+  <creators>
+	<author biodate="1850-1906" biolink="">William Spencer Walton</author>
+	<composer biodate="1836-1895" biolink="">Adoniram Judson Gordon</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5511217121231</hymncode>
+  <key>G Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. C/E. | Dm. Dm/F. | G. G/B. | C. F/C. | C - - | F - - | D7/F#. D7. | G - - | G7/B. C. | G7. C. | D. D7/F#. | G. D7. | G. G7. | C. C/E. | G - - | G. G/B. | C - - | C. C/E. | G7/B. C. | G. G/B. | C. F. | C/G. G7. | C F/C/ C. |</chords>
+  <guitarChords>| C - - | C - - | G - - | G - - | C - - | C - - | G - - | D7 - - | G - - | G7. C. | G7. C. | D. D7. | D7 - - | G. G7. | C - - | G - - | G - - | C - - | C - - | G7. C. | G - - | C. F. | G. G7. | C F/ C. |</guitarChords>
+  <melody>| 0. 0 5_./ | 5_. 1/ 1 2/ | 1. 7_. 1/ | 2 1#/ 2 3/ (break) | 1.( 1) 5_./ | 5_. 3/ 3 4/ | 3. 2 2/ | 2 7_./ 1 6_./ (break) | 5_..( 5_.) 5_./ | 4 4/ 3 3/ | 2 2/ 1 1/ | 6_. 6_./ 2 1/ | 7_.. 6_.. | 5_..( (.5_..) (break) | (Chorus) 5_. 1/ 1 2/ | 1. 7_.. | 5_. 2/ 2 3/ | 2. 1. (break) | 3 4/ 5 3/ | 4 2/ 3 1/ | 2.( 2.) | 3 5/ 4 2/ | 1 1/ 7_. 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>In ten -- der -- ness He sought me, Wea -- ry and sick with sin, And on His shoul -- ders brought me In -- to His flock a -- gain. While an -- gels in His pre -- sence sang Un -- til the courts of heav -- en rang. Oh, the love that sought me! Oh, the blood that bought me! Oh, the grace that brought me to the flock, Won -- drous grace that brought me to the flock!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="67">e1068_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">In tenderness He sought me,
+  Weary and sick with sin,
+And on His shoulders brought me
+  Into His flock again.
+While angels in His presence sang
+Until the courts of heaven rang.</stanza>
+	<stanza type="chorus" number="">Oh, the love that sought me!
+  Oh, the blood that bought me!
+Oh, the grace that brought me to the flock,
+Wondrous grace that brought me to the flock!</stanza>
+	<stanza type="verse" number="2">He washed the bleeding sin-wounds,
+  And poured in oil and wine;
+He whispered to assure me,
+  "I've found thee, thou art Mine:"
+I never heard a sweeter voice,
+It made my aching heart rejoice.</stanza>
+	<stanza type="verse" number="3">He pointed to the nail-prints,
+  For me His blood was shed;
+A mocking crown so thorny,
+  Was placed upon His head:
+I wondered what He saw in me,
+To suffer such deep agony.</stanza>
+	<stanza type="verse" number="4">I'm sitting in His presence,
+  The sunshine of His face,
+While with adoring wonder
+  His blessings I retrace.
+It seems as if eternal days
+Are far too short to sound His praise.</stanza>
+	<stanza type="verse" number="5">So while the hours are passing,
+  All now is perfect rest;
+I'm waiting for the morning,
+  The brightest and the best,
+When He will call us to His side,
+To be with Him, His spotless Bride.</stanza>
+  </lyrics>
+</hymn>

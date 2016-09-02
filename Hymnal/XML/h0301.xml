@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Redeemed&amp;mdash;how I love to proclaim it</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Redeemed by the Blood</category>
+  <numbers><cebuano num="301"/><english num="301"/><lsmyp num="66"/><russian num="252"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Fanny Jane Crosby</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>9.8.9.8. with chorus.</meter>
+  <hymncode>55555671512222123</hymncode>
+  <key>G Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>C - - | C. F/C. | C. Am. | G/B. G. | C. F/C. | C. G/B. | Am. C/E. | Dm. G7. | F/C. C7. | F - - | C - - | G - - | C. C7. | F - - | C. Am. | Dm. G7. | F/C. C. |</chords>
+  <melody>| 0. 0 5_./ | 5_./ 5_./ 5_./ 5_./ 6_./ 7_./ | 1. 5_. 1/ | 2/ 2/ 2/ 2/ 1/ 2/ | 3.( 3) 5_./ (break) | 5_./ 5_./ 5_./ 5_./ 6_./ 7_./ | 1. 5_. 1/ | 2/ 2/ 2/ 2/ 3/ 2/ (break) | 1.( 1) (Chorus) 1/ | 4.( 4) 4/ | 3.( 3) 1/ | 2/ 2/ 2/ 2/ 1/ 2/ | 3.( 3) 5_./ (break) | 6_..( 4) 6_./ | 5_..( (.3) 1/ | 2/ 2/ 2/ 2/ 3/ 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>Re -- deemed&amp;mdash; how I love to pro -- claim it! Re -- deemed by the blood of the Lamb; Re -- deemed through His in -- fi -- nite mer -- cy, His child, and for -- ev -- er, I am. Re -- deemed, re -- deemed, Re -- deemed by the blood of the Lamb; Re -- deemed, re -- deemed, His child, and for -- ev -- er, I am.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj008.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="46">e0301_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Redeemed&amp;mdash;how I love to proclaim it!
+Redeemed by the blood of the Lamb;
+Redeemed through His infinite mercy,
+His child, and forever, I am.</stanza>
+    <stanza type="chorus" number="">Redeemed, redeemed,
+Redeemed by the blood of the Lamb;
+Redeemed, redeemed,
+  His child, and forever, I am.</stanza>
+    <stanza type="verse" number="2">Redeemed and so happy in Jesus,
+No language my rapture can tell;
+I know that the light of His presence
+With me doth continually dwell.</stanza>
+    <stanza type="verse" number="3">I think of my blessed Redeemer,
+I think of Him all the day long;
+I sing, for I cannot be silent;
+His love is the theme of my song.</stanza>
+    <stanza type="verse" number="4">I know I shall see in His beauty
+The King in whose way I delight;
+Who lovingly guardeth my footsteps,
+And giveth me songs in the night.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord Jesus, I long in Thy presence to live</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Living in the Lord's Presence</category>
+  <numbers><cebuano num="389"/><chinese num="290"/><english num="389"/><french num="68"/><german num="389"/><korean num="290"/><portuguese num="190"/><russian num="77"/><spanish num="171"/><tagalog num="389"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Watchman Nee</author>
+	<author biodate="" biolink="">Adapted from Lady Powerscourt</author>
+	<composer biodate="" biolink="">James E. Spilman</composer>
+  </creators>
+  <meter>11.11.11.11.D.</meter>
+  <hymncode>511321156165</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - C/E | F - - | C - G/B | Am - G/B | C - G/D | C/E - D/F# | G7 - - | C - F/C | C - C/E | F - - | C - G/D | C/E - G/B | Am C/E F | C/G - G7 | C - - | G/B - - | G - - | D7 - - | G - - | G/B - - | G - - | D7 - - | G - G7 | C - G7 | C - C/E | F - F/A | C - G/D | C/E - G/B | Am C/E F | C/G - G7 | F/C C - |</chords>
+  <guitarChords>| C - - | C - - | C - - | F - - | C - - | C - - | C - - | C - - | G7 - - | C - - | C - - | F - - | C - - | C - - | C - F | G - G7 | C - - | G - - | G - - | D7 - - | G - - | G - - | G - - | D7 - - | G - G7 | C - - | C - - | F - - | C - - | C - - | C - F | G - G7 | C - - |</guitarChords>
+  <melody>| 0 - 5_. | 1 1 3/( 2/) | 1 1 5_. | 6_. 1 6_. | 5_. - 5_. | 1 1 2 | 3 3 5 | 5 3 1 (break) | 2 - 5_. | 1 1 3/( 2/) | 1 1 5_. | 6_. 4 6_. | 5_. - 5_. | 1 1 2 | 3 (.5 4 | 5_. 5_. 7_. (break) | 1 - 7_./( 1/) | 2 2 5 | 2 2 7_. | 2 1 6_. | 5_. - 7_./( 1/) | 2 2 5 | 2 2 7_. | 1/( 7_./) 1/( 2/) 3/( 4#/) (break) | 5 - 6 | 5 3 3/( 2/) | 1 1 5_. | 6_. 4 6_. | 5_. - 5_. | 1 1 2 | 3 (.5 4 | 5_. 5_. 7_. | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Lord Je -- sus, I long in Thy pre -- sence to live, From morn -- ing to eve -- ning my one world Thou art; O let not my heart be con -- tent -- ed or rest When lov -- ing or seek -- ing what with Thee doth part. Each mo -- ment, each day, through -- out suf -- f'ring and pain, When nought in the world can give com -- fort or cheer, When sigh -- ing and weep -- ing en -- com -- pass -- es me, Lord, still all my sigh -- ing and wipe ev -- ery tear.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">icometotheedearlord.xml</link>
+	<link type="relevant" category="nt" num="389"></link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0389.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736318135.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="61">e0389_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord Jesus, I long in Thy presence to live,
+From morning to evening my one world Thou art;
+O let not my heart be contented or rest
+When loving or seeking what with Thee doth part.
+Each moment, each day, throughout suff'ring and pain,
+When nought in the world can give comfort or cheer,
+When sighing and weeping encompasses me,
+Lord, still all my sighing and wipe every tear.</stanza>
+	<stanza type="verse" number="2">Each time when I dream of the goodness of life,
+I pray Thee, dear Lord, that Thou in it may be;
+O do not allow me to choose by myself,
+Nor seek any pleasure that's other than Thee.
+Each night when alone in the stillness I lie,
+I pray Thee, Lord Jesus, that Thou wilt be near;
+Each morning ere dawn comes, while still in my sleep,
+Then whispering call me and open my ear.</stanza>
+	<stanza type="verse" number="3">Each time, Lord, when reading in Thy holy Word,
+I pray that Thy glory may shine on each line,
+That clearly I'll see what a Savior I have
+And how great salvation that Thou hast made mine.
+When helpless I come, Lord, to kneel at Thy throne,
+I pray Thee to hear me and grant me Thy grace;
+If thru my shortcomings Thou hear not my prayer,
+Withdraw not Thy presence, O hide not Thy face.</stanza>
+	<stanza type="verse" number="4">Each time when of heavenly blessings I think,
+O let my heart long to be raptured to Thee;
+My only hope here is Thy coming again,
+My only joy there, Lord, Thy presence will be.
+Lord, teach me each day in Thy presence to live,
+From morning to evening my one world Thou art;
+O let not my heart be contented or rest
+When loving or seeking what with Thee doth part.</stanza>
+  </lyrics>
+</hymn>

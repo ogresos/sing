@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Blessed assurance</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Born of the Spirit</category>
+  <numbers><cebuano num="308"/><chinese num="265"/><english num="308"/><french num="58"/><german num="308"/><korean num="265"/><lsmyp num="67"/><portuguese num="168"/><russian num="63"/><spanish num="151"/><tagalog num="308"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Fanny Jane Crosby</author>
+	<composer biodate="1839-1908" biolink="">Phoebe Palmer Knapp</composer>
+  </creators>
+  <meter>9.10.9.9. with chorus.</meter>
+  <hymncode>321554565</hymncode>
+  <key>Db Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - F/C. | C - - F/C. | C - - G/B. | Am - - D7. | G - - G7. | C - - G7/D. | Em - - Am. | Dm7 - - G7. | C - - F/C. | C - - F/C. | C - - C/E. | F. C/E. D7. | G - - G7. | C - - F. | Em - - Am. | Dm - - G7. | C - - 0. |</chords>
+  <guitarChords>| C - - C. | C - - F. | C - - C. | C - - D7. | G - - G7. | C - - F. | C - - C. | F - - G7. | C - - C. | C - - F. | C - - C. | F. F. D7. | G - - G7. | C - - F. | C - - C. | F - - G7. | C - - 0. |</guitarChords>
+  <melody>| 0 - - 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 5/ 3/ 5/ | ._1. 7 7/ 6/ 5/ 4#/ (break) | 5.( 5.) 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1/ 2/ 7_./ (break) | 1.( 1.) (Chorus) 5/ 5/ 5/ | ._1. 5. 6/ 6/ 6/ | 5.( 5.) 5/ 5/ 5/ | 6. ._1. 7/ 7/ 6/ (break) | 7.( 7.) 7/ ._1/ ._2/ | ._1. 5. 6/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1./ 2// 7_./ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>Bless -- ed as -- su -- rance, Je -- sus is mine; Oh, what a fore -- taste of glo -- ry di -- vine! Heir of sal -- va -- tion, pur -- chase of God, Born of His Spir -- it, washed in His blood. This is my sto -- ry, this is my song, Prais -- ing my Sav -- ior all the day long. This is my sto -- ry, this is my song, Prais -- ing my Sav -- ior all the day long.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">thenameofjesusisourstand.xml</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736311602.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="45">e0308_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Blessed assurance, Jesus is mine;
+Oh, what a foretaste of glory divine!
+Heir of salvation, purchase of God,
+Born of His Spirit, washed in His blood.</stanza>
+	<stanza type="chorus" number="">This is my story, this is my song,
+Praising my Savior all the day long.
+This is my story, this is my song,
+  Praising my Savior all the day long.</stanza>
+	<stanza type="verse" number="2">Perfect submission, perfect delight,
+Visions of rapture now burst on my sight;
+Angels descending, bring from above
+Echoes of mercy, whispers of love.</stanza>
+	<stanza type="verse" number="3">Perfect submission, all is at rest,
+I in my Savior am happy and blest;
+Watching and waiting, looking above,
+Filled with His goodness, lost in His love.</stanza>
+  </lyrics>
+</hymn>

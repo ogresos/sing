@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>While we pray and while we plead</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <creators>
+    <author biodate="1840-1901" biolink="">Daniel Webster Whittle</author>
+    <composer biodate="1843-1918" biolink="">Charles Clinton Case</composer>
+  </creators>
+  <meter>7.7.7.7. with chorus.</meter>
+  <hymncode>517276536542543</hymncode>
+  <key>C Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - C. | G - - G7. | C - - A7. | Dm - - G7. | C - - C/E. | G - - G7. | C - - A7/C#. | Dm. G7 - - | C - - C/E. | F - - F/A. | C - - A7. | Dm - - G7. | C - - C/E. | F - - F/A. | C - - A7/C#. | Dm. G7 - - | C - - 0. |</chords>
+  <melody>| 0 - - 5 ._1/ | 7. 2. 7 6/ | 5.( 3.) 6 5/ | 4. 2. 5 4/ (break) | 3.( 3.) 5 ._1/ | 7. 2. 7 6/ | 5.( 3.) 6 5/ | 4 3/ 4. 2. (break) | 1.( 1.) (Chorus) ._1 7/ | 6.( 6.) 7 6/ | 5.( 5.) 6 5/ | 4 3/ 4. 5. (break) | 3.( 3.) ._1 7/ | 6.( 6.) 7 6/ | 5.( 5.) 6 5/ | 4 3/ 4. 2. | 1.( 1.) 0. |</melody>
+  <layout>
+    <singingstanza>While we pray and while we plead, While you see your soul's deep need, While our Fath -- er calls you home, Will you not to Je -- sus come? Why not now? Why not now? Why not come to Je -- sus now? Why not now? Why not now? Why not come to Je -- sus now?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj103.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="31">e1042_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">While we pray and while we plead,
+While you see your soul's deep need,
+While our Father calls you home,
+Will you not to Jesus come?</stanza>
+    <stanza type="chorus" number="">Why not now? Why not now?
+Why not come to Jesus now?
+Why not now? Why not now?
+  Why not come to Jesus now?</stanza>
+    <stanza type="verse" number="2">You have wandered far away;
+Do not risk another day;
+Do not turn from God thy face,
+But today accept His grace.</stanza>
+    <stanza type="verse" number="3">In the world you've failed to find
+Aught of peace for troubled mind;
+Come to Christ, on Him believe,
+Peace and joy you shall receive.</stanza>
+    <stanza type="verse" number="4">Come to Christ, confession make;
+Come to Christ, and pardon take;
+Trust in Him from day to day,
+He will keep you all the way.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Upon the throne of Jesus Christ</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Minister of the New Covenant</category>
+  <numbers><chinese num="ts:445"/><english num="1188"/><tagalog num="1188"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_./ 6_./ 5_. 1 | 7_./ 6_./ 6_. 6_. | 4/ 2/ 1 7_. (break) | 1 - 5_. | 5_./ 6_./ 5_. 1 | 7_./ 6_./ 6_. 6_. | 4/ 2/ 1 7_. (break) | 1 - (Chorus) 5_. | 1/ 3/ 5 3 | 3/ 2/ 2 3 | 1/ 7_./ 6_. 2 (break) | 1( 7_.) 5_. | 5_./ 6_./ 5_. 1 | 7_./ 6_./ 6_. 6_. | 4/ 2/ 1 7_. | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Up -- on the throne of Je -- sus Christ We've tak -- en up our seat. The world and Sa -- tan, sin and self Are all be -- neath our feet! Christ's fi -- nished work did put us here. When once for all He died; No more are we the sin -- ners poor, We're ful -- ly glo -- ri -- fied.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">nt_heb8.xml</link>
+    <link type="ref">Hebrews 8</link>
+  </links>
+  <music>
+    <midiref type="h" num="330"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Upon the throne of Jesus Christ
+  We've taken up our seat.
+The world and Satan, sin and self
+  Are all beneath our feet!
+Christ's finished work did put us here.
+  When once for all He died;
+No more are we the sinners poor,
+  We're fully glorified.</stanza>
+    <stanza type="verse" number="2">We're dwelling in the house of God,
+  The church life glorious.
+The shrinking-back, low Christian life,
+  Is not the life for us!
+We're passing through the Holy Place
+  Of mind, emotion, will;
+We're dwelling in the Holiest
+  Where God our being fills.</stanza>
+    <stanza type="verse" number="3">We're under the New Covenant,
+  With glorious items, three:
+The law of life, spontaneous,
+  Transforming utterly;
+We are His people, He's our God&amp;mdash;
+  Oh, bless'd reality;
+We all are fully able now
+  To know God inwardly.</stanza>
+    <stanza type="verse" number="4">A supplement God added then;
+  This item we must know:
+Christ Jesus did put sin away
+  Two thousand years ago.
+No memory of sin at all,
+  It's hist'ry, done and gone;
+In spirit now the law of life
+  Will take us swiftly on.</stanza>
+    <stanza type="verse" number="5">Two things accomplished by our Lord
+  On Calvary's cross, we see:
+The law of life, the end of sin!
+  Our God's economy.
+Since all His work was finished there,
+  He entered into rest;
+Now on the throne He prays that we
+  Will take our full bequest.</stanza>
+    <stanza type="verse" number="6">We'll drop our former concepts, Lord,
+  To take this finished way;
+Appropriating each bequest,
+  We'll praise You more each day.
+We'll heed our High Priest's inward call&amp;mdash;
+  "Come forward!" to the end&amp;mdash;
+Until we reach the final goal;
+  The New Jerusalem!</stanza>
+  </lyrics>
+</hymn>

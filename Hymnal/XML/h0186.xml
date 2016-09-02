@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glory be to Him who loved us</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Worthiness</category>
+  <numbers><english num="186"/><portuguese num="91"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Horatius Bonar</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <layout>
+    <singingstanza>Glo -- ry be to Him who loved us, Washed us from each sin -- ful stain; Glo -- ry be to Him who made us Priests and kings with Him to reign; Glo -- ry, wor -- ship, laud and bless -- ing To the Lamb who once was slain.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj162.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glory be to Him who loved us,
+Washed us from each sinful stain;
+Glory be to Him who made us
+Priests and kings with Him to reign;
+Glory, worship, laud and blessing
+To the Lamb who once was slain.</stanza>
+    <stanza type="verse" number="2">Glory, worship, laud and blessing,
+Thus the choir triumphant sings;
+Honor, riches, power, dominion,
+Thus its praise creation brings;
+Thou art worthy, Thou art worthy,
+Lord of lords, and King of kings.</stanza>
+    <stanza type="verse" number="3">Glory to the King of angels,
+Glory to the Church's King,
+Glory to the King of nations,
+Heaven and earth His praises sing;
+Glory ever and forever
+To the King of Glory bring.</stanza>
+  </lyrics>
+</hymn>

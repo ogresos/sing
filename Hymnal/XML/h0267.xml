@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fill me with Thy gracious Spirit</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;The Filling</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="267"/><french num="46"/><german num="267"/><korean num="217"/><lsmyp num="52"/><portuguese num="142"/><spanish num="127"/><tagalog num="267"/></numbers>
+  <creators>
+	<author biodate="1815-1895" biolink="">Elwood Haines Stokes</author>
+	<composer biodate="1837-1899" biolink="">John Robson Sweney</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>332156123456532</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - F/C - - | C - - F/C - - | C - - C/E - F | C/E - F G7 - - | C - - G/B - - | Am - - C/G - - | F - - C/E - F | G7 - - C - - | G/B - - G - - | C - - C/E - - | F - - C/E - - | Dm - - G7 - - | C - - G/D - - | C/E - - F - - | C/G - - Am - - | F - G7 C - - |</chords>
+  <guitarChords>| C - - - - - | C - - - - - | C - - - - - | C - - G7 - - | C - - - - - | C - - - - - | C - - - - - | G7 - - C - - | G - - - - - | C - - - - - | F - - C - - | C - - G7 - - | C - - - - - | C - - - - - | C - - - - - | G7 - - C - - |</guitarChords>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <layout>
+	<singingstanza>Fill me with Thy gra -- cious Spir -- it, Fill my long -- ing spir -- it now; Fill me with Thy hal -- lowed pre -- sence, Come, dear Lord, and fill me now! Fill me now! Fill me now! Fill me with Thy Spir -- it now! Strip me whol -- ly, emp -- ty through -- ly, Fill me with Thy Spir -- it now!</singingstanza>
+  </layout>
+  <links>
+	<link type="relevant" category="h" num="1360"></link>
+	<link type="group">hymnal-subj094.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="46">e0267_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Fill me with Thy gracious Spirit,
+  Fill my longing spirit now;
+Fill me with Thy hallowed presence,
+  Come, dear Lord, and fill me now!</stanza>
+	<stanza type="chorus" number="">Fill me now! Fill me now!
+  Fill me with Thy Spirit now!
+Strip me wholly, empty throughly,
+    Fill me with Thy Spirit now!</stanza>
+	<stanza type="verse" number="2">Thou can'st fill me with Thy Spirit,
+  Though I cannot tell Thee how;
+But I need Thee, greatly need Thee;
+  Come, dear Lord, and fill me now!</stanza>
+	<stanza type="verse" number="3">I am weakness, full of weakness;
+  At Thy sacred feet I bow;
+By Thy blest, eternal Spirit,
+  Fill with strength, and fill me now!</stanza>
+	<stanza type="verse" number="4">Cleanse and comfort, bless and save me;
+  Fill my broken spirit now!
+Thou art comforting and saving,
+  Thou art sweetly filling now.</stanza>
+  </lyrics>
+</hymn>

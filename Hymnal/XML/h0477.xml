@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though Christ a thousand times</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;One with Him</category>
+  <numbers><cebuano num="477"/><chinese num="366"/><english num="477"/><german num="477"/><korean num="366"/><russian num="216"/><tagalog num="477"/></numbers>
+  <creators>
+    <author biodate="1624-1677" biolink="">Translated from Johann Angelus Silesius</author>
+    <author biodate="" biolink="">Chorus by Albert Benjamin Simpson</author>
+    <composer biodate="1878-1958" biolink="">Margaret Mae Simpson</composer>
+  </creators>
+  <!--background>This English hymn was originally published in 1904, on pp. 22-23 of Hymns of the Christian Life No. 3: for church worship, conventions, evangelistic services, prayer meetings, missionary meetings, revival servi­ces, res­cue mission work and Sunday schools, ed. and pub. by A. B. Simpson for Christian Publications of Harris­burg, PA (the Christian and Missionary Alliance publishing house); www.hymnary.org/hymn/HCL31904/page/22. The attribution is "Anon. Words of Chorus by A. B. S. [A. B. Simpson (1843-1919)]; Music by Margaret M. Simpson".<br>So Simpson evidently either didn't know the source of, or didn't attribute, the original which he published in English, adding the chorus (and the bottom half of the last verse) on his own.<br>Most of the lines in this wonderful hymn appear in 17th Century German, scattered here and there in a lengthy, fascinating tome of mystical poetry published in 1657, Der Cherubinischer Wandersmann, by one Johann Scheffler (pen-name 'Angelus Silesius'; there's a lot of background on him on the web). Portions of this remarkable collection of poems have been translated into English by various scholars (A. F. Kroeger, 1870; Paul Carus, 1908; J. E. Crawford Flitch, 1932; Julia Bilger, 1944; Frederick Franck, 1976; Maria Shrady, 1986).<br>Specifically, the two quatrains which Simpson used for verse 1 appear in book I (of 6), verses 61 and 62; those for verse 2 appear in book V, verse 199, and book II, verse 136; and the first half of verse 3 are in book V, verse 319. It seems that Simpson added not only the chorus, but also the last half of the last verse.</background-->
+  <meter>6.6.6.6.D. with chorus.</meter>
+  <hymncode>32131174325221</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Dm. Dm/F. | G. G7. | C. C/G. | C - - | Dm - - | Dm/F. G7. | C - - | G. G/B. | C - - | C/E. D7. | G - - | F. Am. | E. Am. | Dm/F. G7. | C - - | G. G7. | C - - | C/E. D7. | G - - | C. C7. | F. C/E F/ | C/G. F. | C F/C/ C. |</chords>
+  <guitarChords>| C - - | G - - | G. G7. | C - - | C - - | G - - | G. G7. | C - - | G - - | C - - | C. D7. | G - - | F - - | E7. Am. | Dm. G7. | C - - | G. G7. | C - - | C. D7. | G - - | C. C7. | F. C. | C. G. | C F/ C. |</guitarChords> 
+ <melody>| ._3/ ._2/ ._1/ 3 ._1/ | ._1.( 7.) | ._4/ ._3/ ._2/ 5 ._2/ | ._2.( ._1.) (break) | ._3/ ._2/ ._1/ 3 ._2/ | ._1.( 7) ._1/ | ._2 ._4/ ._3 ._2/ | ._1. 0 ._1/ (break) | 7 ._1/ ._2 ._2#/ | ._3.( ._1) ._3/ | ._5 ._3/ ._2 6/ | ._2.( ._2) 5/ (break) | 6 7/ ._1 ._4/ | ._3.( ._1) ._3/ | ._2 6/ 7 ._2/ (break) | ._1.( ._1) (Chorus) ._1/ | 7 7/ 7/( ._1/) ._2/ | ._2/ ._1( ._1) ._3/ | ._5 ._3/ ._2 6/ | 7( ._1/ (.._2) 5/ (break) | ._3 ._3/ ._1/( ._2/) ._3/ | ._4 ._4#/ (.._5 ._4/ | ._3/ ._1/ 5/ 6 ._2/ | ._1.( ._1.) |</melody>
+  <layout>
+    <singingstanza>Though Christ a thou -- sand times  In Beth -- le -- hem be born,  If He's not born in thee  Thy soul is still for -- lorn. The Cross on Gol -- go -- tha,  Will nev -- er save thy soul;  The Cross in thine own heart,  A -- lone can make thee whole.  O, Cross of Christ,  I take thee  In -- to this heart of mine,  That I to my  own self may die And rise to thy life Di -- vine. </singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj227.xml</link>
+    <link type="relevant" category="nt" num="477"></link>
+  </links>
+  <music>
+    <midi location="h" length="64">e0477_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Though Christ a thousand times
+In Bethlehem be born,
+If He's not born in thee
+Thy soul is still forlorn.
+The Cross on Golgotha,
+Will never save thy soul;
+The Cross in thine own heart,
+Alone can make thee whole.</stanza>
+    <stanza type="chorus" number="">O, Cross of Christ, I take thee
+  Into this heart of mine,
+That I to my own self may die
+    And rise to thy life Divine.</stanza>
+    <stanza type="verse" number="2">What e'er thou lovest, man,
+That too become thou must;
+God, if thou lovest God,
+Dust, if thou lovest dust.
+Go out, God will come in;
+Die thou and let Him live;
+Be not and He will be;
+Wait and He'll all things give.</stanza>
+    <stanza type="verse" number="3">To bring thee to thy God,
+Love takes the shortest route;
+The way which knowledge leads,
+Is but a roundabout.
+Drive out from thee the world,
+And then thy heart shall be
+Filled with the love of God,
+And holy like as He.</stanza>
+  </lyrics>
+</hymn>

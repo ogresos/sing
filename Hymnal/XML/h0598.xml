@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All fair within those children of the light</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;General</category>
+  <numbers><chinese num="440"/><english num="598"/><korean num="440"/><tagalog num="598"/></numbers>
+  <creators>
+    <author biodate="1676-1711" biolink="">Christian Friedrich Richter</author>
+    <composer biodate="1818-1901" biolink="">Edward John Hopkins, adapted</composer>
+  </creators>
+  <meter>10.10.10.10.8.8.8.8.</meter>
+  <hymncode>5565117123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - C/E - | G - - - | C - F/C - | C/E - G/B - | Am - Am/E - | D - D7 - | G - G7/F - | C/E - C - | Dm - - - | G7 - G7/B - | C - - - | C - - - | F - Dm - | G/D - D7/F# - | G - - - | C - - - | C/E - F - | G7 - C - | C - G - | G - G7 - | G7/B - C - | C - C/G - | C - C/E - | F - - - | Dm - G7 - | C - - - | C - - - | F - Dm - | C/G - G7 - | C - - - |</chords>
+  <melody>| 5_. - 5_. 6_. | 5_. - 1 - | 1 7_. 1 2 | 3 - - - | 1 - 1 2 | 1 - 3 - | 3 2 3 4# | 5 - - - (break) | 5 - 1 1 | 4 - 4 - | 4 2 3 4 | 3 - - - | 1 - 2 1 | 1 - 6_. - | 7_. 1 7_.. 6_./ | 5_. - - - (break) | 5_. - 1 3 | 5 - 4 - | 3 2 1( - | 1) - 7_. - | 7_. 2 4 - | 6 - 5 4 | 3 - - - (break) | 5 - 1 1 | 4 - 4 - | 4( 2) 3( 4) | 3 - - - | 1 - 2 1 | 1 - 6_. - | 5_. - 6_.( 5_.) | 5_. - - - |</melody>
+  <layout>
+    <singingstanza>All fair with -- in those child -- ren of the light, Though dark their brows be -- neath the de -- sert sun; Mys -- te -- rious joys, far hid -- den from all sight, The King of Glo -- ry giv -- eth to each one; No thought of man has pic -- tured them, No hand may touch that di -- a -- dem; With -- in God's light His own a -- bide With hid -- den glo -- ry glo -- ri -- fied.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj067.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="55">e0598_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">All fair within those children of the light,
+Though dark their brows beneath the desert sun;
+Mysterious joys, far hidden from all sight,
+The King of Glory giveth to each one;
+  No thought of man has pictured them,
+  No hand may touch that diadem;
+  Within God's light His own abide
+  With hidden glory glorified.</stanza>
+    <stanza type="verse" number="2">To earthly eyes they are as Adam's race&amp;mdash;
+They wear the earthly form, and scars of pain
+On them as on all sinners leave their trace;
+Their outward needs are those of other men.
+  And theirs the forms of earthly life,
+  Theirs sleeping, waking, want, and strife,
+  Yet this they have that they despise
+  What fairest seems to earthly eyes.</stanza>
+    <stanza type="verse" number="3">And inwardly their life is from above,
+The Lord's Almighty Word hath quickened them;
+Flames kindled from the everlasting Love,
+The children of the New Jerusalem;
+  Their brethren are the saints in light,
+  And songs of sweetness infinite
+  They sing with them to God Most High,
+  A deep and wondrous melody.</stanza>
+    <stanza type="verse" number="4">They walk upon the earth, and dwell in heaven,
+Though pow'rless, guard the world with arms unseen;
+Deep peace to them in midst of strife is given,
+And all they wish they have, though poor and mean.
+  Storms beat them, but may not destroy,
+  Fast rooted in eternal joy;
+  They walk as in the shade of death,
+  Yet living on in silent faith.</stanza>
+    <stanza type="verse" number="5">When Christ their Life shall be made manifest,
+When He shall come with all His pow'r to rule,
+Their glory, hidden long, shall be confessed;
+Arise and shine! O bright and beautiful!
+  With Christ ye shall ascend on high,
+  Victorious in His victory&amp;mdash;
+  The hidden light shall shine afar,
+  Each saint an everlasting star.</stanza>
+  </lyrics>
+</hymn>

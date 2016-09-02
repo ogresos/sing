@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, breathe Thy Spirit on me</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Breath</category>
+  <numbers><cebuano num="255"/><chinese num="210"/><dutch num="12"/><english num="255"/><french num="43"/><german num="255"/><korean num="210"/><lsmyp num="48"/><portuguese num="136"/><russian num="50"/><spanish num="119"/><tagalog num="255"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+	<composer biodate="1843-1919" biolink="">Albert Benjamin Simpson</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>555316533342543</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - - | Dm - G7/B | C - - | C - E | F - Dm | C/G G7 - | C - - | G/B - G | C - - | Dm - D7/F# | G - - | C - C/E | F - Dm | C/G - G7 | C - 0 |</chords>
+<guitarChords>| C - - | C - F | C - - | G - G7 | C - - | C - - | F - - | C G7 - | C - - | G - - | C - - | F - - | G - - | C - - | F - - | G - G7 | C - 0 |</guitarChords>
+  <melody>| 0 - 5/ 5/ | 5. 3/ ._1/ 6/ | 5 3 3/ 3/ | 4. 2/ 5/ 4/ | 3 - 5/ ._1/ (break) | ._3. ._2/ ._1/ 7/ | 7 6 ._1/ 6/ | 5/ ._1/ ._2 7 (break) | ._1 - (Chorus) 5/ 5/ | ._2. ._2/ ._1/ ._2/ | ._3 ._1 - | ._4. ._3/ ._2/ 6/ | ._2 - 5/ 5/ (break) | ._1. ._2/ ._3/ ._1/ | ._1 6 - | 5. ._4/ ._3/ ._2/ | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>O Lord, breathe Thy Spir -- it on me, Teach me how to breathe Thee in; Help me pour in -- to Thy bo -- som All my life of self and sin. I am breath -- ing out my sor -- row, Breath -- ing out my sin; I am breath -- ing, breath -- ing, breath -- ing, All Thy ful -- ness in.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">ohwhatalife.xml</link>
+	<link type="group">hymnal-subj084.xml</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736313745.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="39">e0255_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Lord, breathe Thy Spirit on me,
+  Teach me how to breathe Thee in;
+Help me pour into Thy bosom
+  All my life of self and sin.</stanza>
+	<stanza type="chorus" number="">I am breathing out my sorrow,
+  Breathing out my sin;
+I am breathing, breathing, breathing,
+    All Thy fulness in.</stanza>
+	<stanza type="verse" number="2">I am breathing out my own life,
+  That I may be filled with Thine;
+Letting go my strength and weakness,
+  Breathing in Thy life divine.</stanza>
+	<stanza type="verse" number="3">Breathing out my sinful nature,
+  Thou hast borne it all for me;
+Breathing in Thy cleansing fulness,
+  Finding all my life in Thee.</stanza>
+	<stanza type="verse" number="4">I am breathing out my sorrow,
+  On Thy kind and gentle breast;
+Breathing in Thy joy and comfort,
+  Breathing in Thy peace and rest.</stanza>
+	<stanza type="verse" number="5">I am breathing out my sickness,
+  Thou hast borne its burden too;
+I am breathing in Thy healing,
+  Ever promised, ever new.</stanza>
+	<stanza type="verse" number="6">I am breathing out my longings
+  In Thy listening, loving ear;
+I am breathing in Thy answers,
+  Stilling every doubt and fear.</stanza>
+	<stanza type="verse" number="7">I am breathing every moment,
+  Drawing all my life from Thee;
+Breath by breath I live upon Thee,
+  Lord, Thy Spirit breathe in me.</stanza>
+  </lyrics>
+</hymn>

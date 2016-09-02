@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God laid my sins on Jesus</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Cleansed by the Blood</category>
+  <numbers><chinese num="239"/><english num="8239"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._2 ._3 (break) | ._2 - 0 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._3 ._2 (break) | ._1 - 0 5 | ._2. ._2/ ._1 ._2 | ._3 - ._3 ._3 | ._4 ._3 6 ._2 (break) | ._1( - 7) 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._3 ._2 | ._1 - 0 - |</melody>
+  <layout>
+    <singingstanza>God laid my sins on Je -- sus, His spot -- less, ho -- ly Lamb; In -- stead of me, God cursed Him, Now full re -- leased I am. Up -- on His fault -- less Lamb, God Was pleased my faults to lay, That He for me should suf -- fer, My debt of sin to pay.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj003.xml</link>
+    <link type="ref">Isaiah 53</link>
+  </links>
+  <music>
+    <midiref type="h" num="870b"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God laid my sins on Jesus, 
+His spotless, holy Lamb;
+Instead of me, God cursed Him,
+Now full released I am.
+Upon His faultless Lamb, God
+Was pleased my faults to lay,
+That He for me should suffer,
+My debt of sin to pay.</stanza>
+    <stanza type="verse" number="2">My sickness laid on Jesus,
+The lash for me endured;
+My weaknesses He carried
+That I be fully cured.
+My misery on Jesus,
+He bore it all for me;
+My sorrow He abolished
+And gave me joy and peace.</stanza>
+    <stanza type="verse" number="3">I now have rest in Jesus,
+My King of Righteousness;
+His death met God's demand, and
+His blood my conscience cleansed.
+Now all my trust's in Jesus,
+My strength for ev'ry hour;
+His living shows God's riches,
+His life in me empow'rs.</stanza>
+    <stanza type="verse" number="4">I give my heart to Jesus,
+That there He'd be enthroned
+To be my Lord and life, and
+In me to make His home.
+According to His pattern
+I hope to live each day;
+His attitude and actions
+May He through me display!</stanza>
+  </lyrics>
+</hymn>

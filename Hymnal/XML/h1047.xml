@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Eternity! Eternity</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><cebuano num="1047"/><chinese num="703"/><english num="1047"/><korean num="703"/><tagalog num="1047"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="1752-1825" biolink="">Dimitri Stepanovich Bortnianski</composer>
+  </creators>
+  <meter>8.8.8.8.8.8.</meter>
+  <hymncode>53451217156165</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G7/D | C/E - C | G - - | Am - C/E | F - - | C/E - C | G7/B - C | G - - | C - G7/D | C/E - C | G - - | Am - C/E | F - - | C - - | G7/B - C | G - - | G7 - - | C - - | - - - | G - G7/F | C/E - F | C/E - F/A | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 5 | 3 - 4 | 5 - ._1 | ._2( ._1) 7 | ._1 - 5 | 6( ._1) 6 | 5 - 3 | 5( 4) 3 (break) | 2 - 5 | 3 - 4 | 5 - ._1 | ._2( ._1) 7 | ._1 - 5 | 6( ._1) 6 | 5 - 3 | 5( 4) 3 (break) | 2 - 5 | 7 - 5 | ._1 - 5 | ._3( ._2) ._1 | ._1( 7) 7 | ._1( 7) 6 | 5 - 4 | 3 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>E -- tern -- i -- ty! E -- tern -- i -- ty! How will you spend E -- tern -- i -- ty? This ques -- tion comes to you and me! How will you spend E -- tern -- i -- ty? Tell me, what shall your an -- swer be&amp;mdash; How will you spend E -- tern -- i -- ty?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj103.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e1047_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Eternity! Eternity!
+How will you spend Eternity?
+This question comes to you and me!
+How will you spend Eternity?
+Tell me, what shall your answer be&amp;mdash;
+How will you spend Eternity?</stanza>
+    <stanza type="verse" number="2">Eternity! Eternity!
+How will you spend Eternity?
+Many are choosing Christ today,
+Turning from all their sins away;
+Christ shall their blessed portion be:
+How will you spend Eternity?</stanza>
+    <stanza type="verse" number="3">Eternity! Eternity!
+How will you spend Eternity?
+Leaving the strait and narrow way,
+Going the downward road today,
+What shall the final ending be&amp;mdash;
+How will you spend Eternity?</stanza>
+    <stanza type="verse" number="4">Eternity! Eternity!
+How will you spend Eternity?
+Turn, and believe this very hour,
+Trust in the Savior's grace and power:
+Then shall your joyous answer be,
+Saved through a long Eternity!</stanza>
+  </lyrics>
+</hymn>

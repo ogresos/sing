@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou knowest all the hunger</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;General</category>
+  <numbers><chinese num="219"/><english num="283"/><korean num="219"/></numbers>
+  <creators>
+    <author biodate="" biolink="">F. H. Allen</author>
+  </creators>
+  <melody>| 3 - 4 5 - 1 | 4 - 3 3 - 2 | 2 - 3 4 - 2 | 1 - 7_. 1 - - (break) | 3 - 4 5 - 1 | 4 - 3 3 - 2 | 2 - 3 4 - 2 | 1 - 7_. 1 - - (break) | (Chorus) 5 - 3 5 - - | 3 - 1 (.3 - - | 3 - 4 5 - 1 | (.3 - (.2 (.1 - - |</melody>
+  <layout>
+    <singingstanza>Lord, Thou know -- est all the hun -- ger Of the heart that seeks Thee now; How my soul hath long been crav -- ing What Thou on -- ly canst bes -- tow. Seek -- ing now, seek -- ing now, Let Thy Spir -- it meet me now.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj091.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="259"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Thou knowest all the hunger
+  Of the heart that seeks Thee now;
+How my soul hath long been craving
+  What Thou only canst bestow.</stanza>
+    <stanza type="chorus" number="">Seeking now, seeking now,
+  Let Thy Spirit meet me now.</stanza>
+    <stanza type="verse" number="2">Failure in my walk and witness,
+  Failure in my work I see;
+Fruitless toil, un-Christlike living,
+  Calling forth no praise to Thee.</stanza>
+    <stanza type="verse" number="3">Now to Thee my soul confesses
+  All its failure, all its sin;
+All the pride, the self-contentment,
+  All the "secret faults" within.</stanza>
+    <stanza type="verse" number="4">Save me from myself, my Father,
+  From each subtle form of pride;
+Lead me now with Christ to Calvary,
+  Show me I with Him have died.</stanza>
+    <stanza type="verse" number="5">No more let it be my working,
+  Nor my wisdom, love, or power,
+But the life of Jesus only,
+  Passing through me hour by hour.</stanza>
+    <stanza type="verse" number="6">Let the fulness of Thy Spirit
+  Resting on Him cover me.
+That the witness borne to others.
+  May bring glory, Lord, to Thee.</stanza>
+    <stanza type="verse" number="7">Father, in Thy Son's Name pleading.
+  I believe my prayer is heard;
+And I praise Thee for the answer.
+  Resting simply on Thy word.</stanza>
+    <stanza type="chorus" number="">Praising now, praising now.
+Thou hast answered, Lord, I know.</stanza>
+  </lyrics>
+</hymn>

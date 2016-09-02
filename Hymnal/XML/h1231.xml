@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O praise the Lord, God has a plan</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As the One New Man</category>
+  <numbers><english num="1231"/><spanish num="375"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/ 7/ 6/ 5/ | 5./ 4// 3/ ._1/ | ._1/ 7/ 6/ 5/ (break) | 5./( 4//) 3/ 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/ ._1 6/ | 5./( 4//) 3/ 4/ | 3 2 | 1 - |</melody>
+  <layout>
+    <singingstanza>O praise the Lord, God has a plan&amp;mdash; That's why He formed a man; To ex -- er -- cise au -- thor -- i -- ty, Sub -- due the earth en -- tire -- ly. O what a joy to be In His re -- cov -- er -- y, O praise God He made me a V. I. P.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj197.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O praise the Lord, God has a plan&amp;mdash;
+That's why He formed a man;
+To exercise authority,
+Subdue the earth entirely.
+O what a joy to be
+In His recovery,
+O praise God He made me a V.I.P.</stanza>
+    <stanza type="verse" number="2">O hallelujah, Christ became
+A man to die for me.
+And dying once my life to be,
+In spirit now He lives in me.
+The man supreme is He,
+My all He came to be;
+O hallelujah, He lives in me!</stanza>
+    <stanza type="verse" number="3">O hallelujah, I'm a man,
+The center of God's plan.
+I'm God's own image made to be,
+Expressing His authority.
+It's great to be a man,
+O praise God, I'm a man,
+O hallelujah, I am a man!</stanza>
+    <stanza type="verse" number="4">O hallelujah, one new man,
+The building of God's plan!
+God's plan throughout eternity&amp;mdash;
+Not man, but men built corporately.
+This man cannot be beat,
+All things beneath his feet,
+Christ and the church one man complete.</stanza>
+  </lyrics>
+</hymn>

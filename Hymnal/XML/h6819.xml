@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Drawn into Your Sweet, Loving Self</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><chinese num="ts:819"/><english num="6819"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>321211354611</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C7 - - | F - - | F - - | C - - | G - - | C - - | G7 - - | C - - | C7 - - | F - - | F - - | C/G - - | G7 - - | C - - | C - - | C - - | C7 - - | F - - | F - - | C - - | G - - | C - - | G7 - - | C - - | C7 - - | F - - | F - - | C/G - - | G7 - - | C - F/C | C - - ||</chords>
+  <melody>| 0 - 3/ 2/ | 1. 2/ 1 | 1 3 5 | 4 6 ._1 (break) | ._1 - 7/ 6/ | 5. 4/ 3 | 2. 1/ 2 | 3( - - (break) | 3) - 3/ 2/ | 1. 2/ 1 | 1 3 5 | 4 6 ._1 (break) | ._1 - 7/ 6/ | 5. ._1/ 3 | 2. 1/ 2 | 1( - - (break) | 1) - 5/ 5/ | 5 3 5 | ._1 - 5/ 5/ | 6 4 6 (break) | ._1 - 7/ 6/ | 5. 4/ 3 | 2. 1/ 2 | 3( - - (break) | 3) - 3/ 2/ | 1. 2/ 1 | 1 3 5 | 4 6 ._1 (break) | ._1 - 7/ 6/ | 5. ._1/ 3 | 2. 1/ 2 | 1( - - | 1) - 0 ||</melody>
+  <layout>
+	<singingstanza>O -- ver hill, o -- ver val -- ley, we searched, but in vain, For the mean -- ing of our hu -- man life; We were just dis -- ap -- point -- ed a -- gain and a -- gain, Till we felt there was noth -- ing to find. But then one day You came, meet -- ing us in the way, And Your lov -- ing em -- brace did sur -- round; We were ful -- ly drawn in -- to Your sweet, lov -- ing self; The true mean -- ing of life we had found.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="58">e6819_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Over hill, over valley, we searched, but in vain,
+For the meaning of our human life;
+We were just disappointed again and again,
+Till we felt there was nothing to find.
+But then one day You came, meeting us in the way,
+And Your loving embrace did surround;
+We were fully drawn into Your sweet, loving self;
+The true meaning of life we had found.</stanza>
+    <stanza type="verse" number="2">As we gaze, Your bright face risen glory displays,
+But we know it was once topped with thorns;
+To Your hands sweet and gracious we'll cling all our days,
+In which nail prints are still clearly borne.
+We're enjoying You here, Lord most loving and dear,
+Daily sensing more reality;
+As the water from rivers returns to the sea,
+We are lost, more and more, Lord, in Thee.</stanza>
+  </lyrics>
+</hymn>

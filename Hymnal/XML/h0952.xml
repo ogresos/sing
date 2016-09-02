@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A lamp in the night, a song in time of sorrow</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Blessed Hope</category>
+  <creators>
+    <author biodate="1840-1901" biolink="">Daniel Webster Whittle</author>
+    <composer biodate="1870-1963" biolink="">May Whittle Moody</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55671171333</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C F/C C - | C - - - | Dm - G7 - | Am - G - | C F/C C - | C - C/E - | F - G7 - | C F/C C - | C - Am - | G - - - | Dm - G7 - | C F/C C - | C - F - | G7 - C/E - | F - C/G G7 | C F/C C - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 5_. 6_../ 7_.// 1. 1/ | 7_./ 1/ 3/ 3/ 3 2/ 3/ | 4 2 6_. 7_. | 1/ 1/ 7_./ 1/ 3 2/ 5_./ (break) | 5_./ 5_./ 6_./ 7_./ 1 1/ 1/ | 7_./ 1/ 3/ 4/ 5/ (.5// 0// 6/ 5/ | 4 1/ 2/ 3// 3./ 2./ 1// (break) | 1 - 0 (Chorus) 3/ 3/ | 3( - 3) 3/ 5/ | 5( - 5) 4/ 5/ | 7 6/ 5/ 4// 4./ 3./ 2#// | 3 - 0 3/ 3/ (break) | 3/ 3/ 4/ 3/ 6 2/ 2/ | 2/ 2/ 3/ 2/ 5 6/ 5/ | 4 1/ 2/ 3// 3./ 2./ 1// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>A lamp in the night, a song in time of sor -- row, A great glad hope which faith can ev -- er bor -- row To gild the pass -- ing day with the glo -- ry of the mor -- row, Is the hope of the com -- ing of the Lord. Bless -- ed hope, bless -- ed hope, Bless -- ed hope of the com -- ing of the Lord; How the ach -- ing heart it cheers; How it glist -- ens through our tears, Bless -- ed hope of the com -- ing of the Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj110.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="43">e0952.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">A lamp in the night, a song in time of sorrow,
+  A great glad hope which faith can ever borrow
+To gild the passing day with the glory of the morrow,
+  Is the hope of the coming of the Lord.</stanza>
+    <stanza type="chorus" number="">Blessed hope, blessed hope,
+Blessed hope of the coming of the Lord;
+  How the aching heart it cheers;
+  How it glistens through our tears,
+  Blessed hope of the coming of the Lord.</stanza>
+    <stanza type="verse" number="2">A star in the sky, a beacon bright to guide us;
+  An anchor sure to hold when storms betide us;
+A refuge for the soul, where in quiet we may hide us,
+  Is the hope of the coming of the Lord.</stanza>
+    <stanza type="verse" number="3">A call of command, like trumpet clearly sounding,
+  To make us bold when evil is surrounding;
+To stir the sluggish heart, and to keep in goodabounding,
+  Is the hope of the coming of the Lord.</stanza>
+    <stanza type="verse" number="4">A word from the One to all our hearts the dearest,
+  A parting word to make Him aye the nearest;
+Of all His precious words, the sweetest, brightest, clearest,
+  Is the hope of the coming of the Lord.</stanza>
+  </lyrics>
+</hymn>

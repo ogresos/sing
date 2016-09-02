@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When Christ of old with healing pow'r</title>
+  <index>true</index>
+  <category>Divine Healing&amp;mdash;Christ the Same as of Old</category>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1843-1919" biolink="">Albert Benjamin Simpson</composer>
+    <composer biodate="" biolink="">Adapted by J. B. M.</composer>
+  </creators>
+  <meter>8.8.8.8.D. with chorus.</meter>
+  <hymncode>3345176555565432</hymncode>
+  <key>Bb Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G7 - | C - - - F - | C/E - - - C - | F - G7/D - C - | G - - - G7/B - | C - - - F - | C/E - - - G7 - | C/G - - - G7 - | C - - - C/E - | G - - - G7 - | C - - - C/E - | D - - - D7/F# - | G - - - G7/B - | C - - - C/E - | F - - - Dm - | C/G - - - G7 - | C - - - G7 - | C - - - F - | C - - - C/E - | Am - - - D7 - | G - - - G7/B - | C - - - C/E - | F - - - Dm - | C/G - G7 - - - | C - - 0 - - |</chords>
+  <melody>| 0 - - 3 3 4 | 5 - ._1 - 7 6 | 5 - - 5 5 5 | 6 5 4 - 3 - (break) | 2 - - 3 3 4 | 5 - ._1 - 7 6 | 5 - - 5 6 7 | ._1 ._2 ._1 - 7 - (break) | ._1 - - 7 7 ._1 | ._2 - 7 - 6 5 | ._1 - - 3 4 5 | 6 6 7 - ._1 - (break) | ._2 - - 5 ._3 ._2 | ._1 - 5 - ._1 7 | 6 - - 5 6 7 | ._1 ._2 ._3 - ._2 - (break) | ._1 - - (Chorus) 5 3 4 | 5 - - ._1 7 6 | 5 - - 5 5 5 | ._1 ._1 7 - ._1 - (break) | ._2 - - 5 ._3 ._2 | ._1 - 5 - ._1 7 | 6 - - - 6 - | (.5 5 6 - 7 - | (.._1 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>When Christ of old with heal -- ing pow'r Went forth through all the suf -- fering land, His word so oft was wont to be, "Stretch forth thy hand, stretch forth thy hand!" And though the pal -- sied arm might shrink And trem -- ble at the strange com -- mand, The heal -- ing touch was on -- ly felt While stretch -- ing forth the with -- ered hand. O suf -- fering one, stretch forth your hand, Up -- on His prom -- ise take your stand. At His com -- mand stretch forth your hand, And Christ shall make you whole.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj042.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="51">e0756.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When Christ of old with healing pow'r
+Went forth through all the suffering land,
+His word so oft was wont to be,
+"Stretch forth thy hand, stretch forth thy hand!"
+And though the palsied arm might shrink
+And tremble at the strange command,
+The healing touch was only felt
+While stretching forth the withered hand.</stanza>
+    <stanza type="chorus" number="">O suffering one, stretch forth your hand,
+Upon His promise take your stand.
+At His command stretch forth your hand,
+    And Christ shall make you whole.</stanza>
+    <stanza type="verse" number="2">That changeless Christ is still as near
+And just as kind and strong to save;
+He came to lift our fallen race
+From sin and sickness and the grave.
+As in the days of Galilee,
+Disease still flees at His command;
+But ere His touch your frame can feel,
+You, too, must still stretch forth your hand.</stanza>
+    <stanza type="verse" number="3">What though you feel so weak and faint?
+He can your will with strength endue,
+New faith and courage breathe within
+And work in you to will and do.
+Reach out to meet His quickening touch;
+Take up your bed, arise and stand;
+And pressing through to meet your Lord,
+Stretch forth your hand, stretch forth your hand.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, to be nothing, nothing</title>
+  <index>true</index>
+  <category>Service&amp;mdash;By being Nothing</category>
+  <creators>
+    <author biodate="" biolink="">Georgiana M. Taylor</author>
+    <composer biodate="" biolink="">R. George Halls</composer>
+    <!--<composer biodate="1838-1876" biolink="">Arranged by Philip Paul Bliss</composer>-->
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>54317765656532</hymncode>
+  <key>C Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C/E. | F. Dm. | C/G. Am. | G - - | C. C/E. | F. D7/F#. | G. G7. | C - - | G. G7/B. | C. C/E. | Dm. G7. | C - - | G. G7/B. | C. C/E. | D. D7. | G. G7. | C. C/E. | F. Dm. | C/E. Am. | G - - | C. C/E. | F. D7/F#. | G. G7. | C F/C/ C. |</chords>
+  <melody>| 5./ 4// 3/ ._1/ 7 | 7/ 6( 6) 0/ | 5./ 6// 5/ 6/ 5/ 3/ (break) | 2.( 2) 5/ | 5./ 4// 3/ ._1 7/ | 7/ 6( 6) ._1// ._1// | 7/( 2/) 3/ 5/( 4/) 2/ | 1.( 1) 0/ (break) | 4// 4./ 2/ 2/( 3/) 4/ | 6/ 5( 5) 5/ | 5/ 2/ 3/ 4/ 6/ 5/ | 3.( 3) 0/ (break) | 4// 2./ 2/ 2/( 3/) 4/ | 6/ 5( 5) 5/ | 4#/( 3/) 4#/ ._1/( 6/) 4#/ | 5.( (.5.) (break) | (Chorus) 5./ 4// 3/ ._1/ 7 | 7/ 6( 6) 0/ | 5./ 6// 5/ 6/ 5/ 3/ (break) | 2.( 2) 5/ | 5./ 4// 3/ ._1 7/ | 7/ 6( 6) ._1// ._1// | 7/( 2/) 3/ 5/( 4/) 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>Oh, to be noth -- ing, noth -- ing! On -- ly to lie at His feet, A brok -- en and emp -- tied ves -- sel&amp;mdash; For the Mas -- ter's use made meet! Emp -- tied that He might fill me As forth to His serv -- ice I go; Brok -- en, that so un -- hind -- ered, His life through me might flow. Oh, to be noth -- ing, noth -- ing! On -- ly to lie at His feet, A brok -- en and emp -- tied ves -- sel&amp;mdash; For the Mas -- ter's use made meet!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="hv" length="47">e0900.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, to be nothing, nothing!
+Only to lie at His feet,
+A broken and emptied vessel&amp;mdash;
+For the Master's use made meet!
+Emptied that He might fill me
+As forth to His service I go;
+Broken, that so unhindered,
+His life through me might flow.</stanza>
+    <stanza type="chorus" number="">Oh, to be nothing, nothing!
+Only to lie at His feet,
+A broken and emptied vessel&amp;mdash;
+  For the Master's use made meet!</stanza>
+    <stanza type="verse" number="2">Oh, to be nothing, nothing!
+Only as led by His hand&amp;mdash;
+A messenger at His gateway,
+Only waiting for His command;
+Only an instrument ready
+His praises to sound at His will&amp;mdash;
+Willing, should He not require me,
+In silence to wait on Him still.</stanza>
+    <stanza type="verse" number="3">Oh, to be nothing, nothing!
+Painful the humbling may be!
+Yet low in the dust I'd lay me
+That the world might my Savior see!
+Rather be nothing, nothing!
+To Him let their voices be raised!
+He is the fountain of blessing,
+He only is meet to be praised!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glory, glory, glory, praise and adoration</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Revelation</category>
+  <numbers><chinese num="2"/><english num="2"/><korean num="2"/><tagalog num="2"/></numbers>
+  <creators>
+    <author biodate="1904-1987" biolink="">Stanley McCallum</author>
+    <composer biodate="" biolink="">E. Carren</composer>
+  </creators>
+  <meter>12.13.12.10.</meter>
+  <hymncode>551232123532</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - G - | C - - - | C - G - | F - - - | C - Am - | G/D - - - | Am - D7 - | G - - - | C - - - | C - G - | C - F - | C/G - G - | C - C7 - | F - Dm7 - | C/G - G7 - | C - - - |</chords>
+  <melody>| 5_. 5_. 1 2 | 3 - 2 - | 1. 2/ 3 5 | 3 - 2 - (break) | 4 4 1 2 | 3 - 6_. - | 7_. 1 2 3 | 3 - 4# - | 5 - - - (break) | 5_. 5_. 1 2 | 3 - 2 - | 5. 6/ 5 4 | 3 - 2 - (break) | 3 - 5 3 | 1 2 4 2 | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Glo -- ry, glo -- ry, glo -- ry, praise and a -- dor -- a -- tion! Hear the an -- thems swell -- ing out thro' all et -- ern -- i -- ty! Fa -- ther, Son, and Spir -- it&amp;mdash; God in rev -- e -- la -- tion&amp;mdash; Pros -- trate each soul be -- fore the De -- i -- ty!</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="36">e0002_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glory, glory, glory, praise and adoration!
+Hear the anthems swelling out thro' all eternity!
+Father, Son, and Spirit&amp;mdash;God in revelation&amp;mdash;
+  Prostrate each soul before the Deity!</stanza>
+    <stanza type="verse" number="2">Father, source of glory, naming every fam'ly;
+And the Son upholding all by His almighty power;
+Holy Spirit, filling the vast scene of glory&amp;mdash;
+  O glorious Fulness, let our hearts adore!</stanza>
+    <stanza type="verse" number="3">God supreme, we worship now in holy splendour,
+Head of the vast scene of bliss, before Thy face we fall!
+Majesty and greatness, glory, praise and power
+  To Thee belong, eternal Source of all!</stanza>
+  </lyrics>
+</hymn>

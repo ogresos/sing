@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I am so glad that our Father in heav'n</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Loved by the Lord</category>
+  <numbers><chinese num="230"/><english num="291"/><korean num="230"/><tagalog num="291"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Philip Paul Bliss</author>
+    <composer biodate="1838-1876" biolink="">Philip Paul Bliss</composer>
+  </creators>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>5555555123</hymncode>
+  <key>G Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. G/B. | Am. C/G. | Dm/F - - | G7. C. | C. G/B. | Am. C/G. | Dm/F - - | G7. C. | C. C7. | F. Dm. | G - - | G7. C. | C. C7/E. | F. Dm. | C/G. G7. | C F/C/ C. |</chords>
+  <melody>| 5_./ 5_./ 5_./ 5_./ 5_./ 5_./ | 5_./ 1/ 2/ 3. | 2/ 2/ 2/ 2/ 1/ 2/ | 3/ 3/ 2/ 1. (break) | 5_./ 5_./ 5_./ 5_./ 5_./ 5_./ | 5_./ 1/ 2/ 3. | 2/ 2/ 2/ 2/ 1/ 2/ | 3/ 3/ 2/ 1. (break) | (Chorus) 5/ 5/ 5/ 5 3/ | 2/ 1/ 6_./ 6_.. | 5_./ 5_./ 5_./ 2. | 5_./ 1/ 2/ 3. (break) | 5/ 5/ 5/ 5 3/ | 2/ 1/ 6_./ 6_.. | 5_./ 5_./ 5_./ 2 3/ | 1.( 1.) |</melody>
+  <layout>
+    <singingstanza>I am so glad that our Fath -- er in heav'n Tells of His love in the Book He has giv'n; Won -- der -- ful things in the Bi -- ble I see: This is the dear -- est, that Je -- sus loves me. I am so glad that Je -- sus loves me, Je -- sus loves me, Je -- sus loves me; I am so glad that Je -- sus loves me, Je -- sus loves ev -- en me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj006.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="40">e0291_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I am so glad that our Father in heav'n
+Tells of His love in the Book He has giv'n;
+Wonderful things in the Bible I see:
+This is the dearest, that Jesus loves me.</stanza>
+    <stanza type="chorus" number="">I am so glad that Jesus loves me,
+  Jesus loves me, Jesus loves me;
+I am so glad that Jesus loves me,
+    Jesus loves even me.</stanza>
+    <stanza type="verse" number="2">Though I forget Him and wander away,
+Still He doth love me whenever I stray;
+Back to His dear loving arms would I flee,
+When I remember that Jesus loves me.</stanza>
+    <stanza type="verse" number="3">Oh, if there's only one song I can sing,
+When in His beauty I see the great King,
+This shall my song in eternity be:
+"Oh, what a wonder that Jesus loves me."</stanza>
+  </lyrics>
+</hymn>

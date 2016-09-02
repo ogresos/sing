@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>His banner over me is love</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="1157"/><korean num="929"/><lsmyp num="194"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5543451156611765</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | F - - - | C - G7 - | C - - - | C - Am - | C/G - G7 - | C F/C C - | G - G7 - | C - - - | F - - - | C - G7 - | C - - - | C - Am - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5 | 5./ 4// 3./ 4// 5 ._1 | ._1 - - 5 | 6./ 6// ._1./ ._1// 7 6 (break) | 5 - - 5 | ._1 ._1 ._1 3./ 4// | 5 5/ 6/ 5 1/ 2/ | 3./ 5// 5./ 4// 3 2 (break) | 1 - - ._1 | 7 - - ._2 | ._1 - - 5 | 6./ 6// ._1./ ._1// 7 6 (break) | 5 - - 5 | ._1 ._1 ._1 3./ 4// | 5 5/ 6/ 5 1/ 2/ | 3./ 5// 5./ 4// 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>His ban -- ner o -- ver me is love, His ban -- ner o -- ver me is love; He brought me in -- to His ban -- quet -- ing house, And His ban -- ner o -- ver me is love. Is love! Is love! His ban -- ner o -- ver me is love; He brought me in -- to His ban -- quet -- ing house, And His ban -- ner o -- ver me is love.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj071.xml</link>
+    <link type="ref">Song of Songs 2:3-4</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e1157_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">His banner over me is love,
+His banner over me is love;
+He brought me into His banqueting house,
+And His banner over me is love.</stanza>
+    <stanza type="chorus" number="">Is love! Is love!
+His banner over me is love;
+He brought me into His banqueting house,
+  And His banner over me is love.</stanza>
+    <stanza type="verse" number="2">His fruit is sweet unto my taste,
+His fruit is sweet unto my taste;
+I'm feasting here in His banqueting house,
+And His fruit is sweet unto my taste.</stanza>
+    <stanza type="chorus" number="">How sweet! How sweet!
+His fruit is sweet unto my taste;
+I'm feasting here in His banqueting house,
+  And His fruit is sweet unto my taste.</stanza>
+  </lyrics>
+</hymn>

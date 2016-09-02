@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>At the end of Luke's gospel, chapter twenty and two</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;In the Body</category>
+  <numbers><chinese num="ts:760"/><english num="1291"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5/ 5 3/ 5 5/ 5/ | 6/( ._1) 6/ 5/ 3/ 2/ 1/ (break) | 3/ 2 3/ 2 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5 5 6 6/ 7/ | ._1/ ._1 6/ 5/ 3/ 2/ 1/ (break) | 3/ 3 2/ (.1 (Chorus) 5/ 5/ | ._1/ ._1 ._1/ 6/ 5/ 3/ 4/ | 5/ 5 6/ 5 5/ 5/ | ._1/ ._1 ._1/ 6/ 5/ 3/ 1/ (break) | 3/ 2 3/ 2 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5 5 6 6/ 7/ | ._1/ ._1 6/ 5/ 3/ 2/ 1/ | 3/ 3 2/ 1 0 |</melody>
+  <layout>
+    <singingstanza>At the end of Luke's gos -- pel, chap -- ter twen -- ty and two, The Lord says to Pet -- er, "Sa -- tan wants to sift you, But the Lord's in -- ter -- ced -- ing and His prayer is true, Hal -- le -- lu -- jah! He's prayed for us, we'll nev -- er sift through! Though there's all kinds of bat -- tles in our liv -- ing each day, And we al -- ways face tri -- als, life is or -- dered that way, Still, in all si -- tu -- a -- tions, as He in -- ter -- cedes, He in all things sup -- plies us and meets all of our needs.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj186.xml</link>
+    <link type="ref">Luke 22:31-32</link>
+  </links>
+  <music>
+    <midiref type="h" num="1194"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">At the end of Luke's gospel, chapter twenty and two,
+The Lord says to Peter, "Satan wants to sift you,
+But the Lord's interceding and His prayer is true,
+Hallelujah! He's prayed for us, we'll never sift through!</stanza>
+    <stanza type="chorus" number="">Though there's all kinds of battles in our living each day,
+And we always face trials, life is ordered that way,
+Still, in all situations, as He intercedes,
+He in all things supplies us and meets all of our needs.</stanza>
+    <stanza type="verse" number="2">Just a Christian alone, however strong he may be
+Cannot withstand the sifting of the Lord's enemy;
+Though he might sift one only, yet he'll ne'er sift two,
+Hallelujah! Together we're too big to sift through!</stanza>
+    <stanza type="verse" number="3">What a wonderful purpose God has purposed for us,
+To be transformed and reigning with His Son, glorious;
+So it just doesn't matter what the foe might do&amp;mdash;
+Hallelujah! The church is much too big to sift through!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O God and Father, we our praises bring</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Praise from Many Sons</category>
+  <numbers><chinese num="51"/><dutch num="30"/><english num="54"/><french num="11"/><korean num="51"/><portuguese num="35"/><tagalog num="54"/></numbers>
+  <creators>
+    <author biodate="" biolink="">German</author>
+    <author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+    <composer biodate="1806-1891" biolink="">Edward Dearle</composer>
+  </creators>
+  <meter>10.10.10.10.</meter>
+  <hymncode>3345122343</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/D - | C/E - Am - | Dm/F - G7 - | C - - - | C - C/E - | F - C/E - | G/D - C - | G7 - - - | C - G/D - | C/E - C - | A - A7/C# - | Dm - Dm/C - | G/B - G - | C/E - F - | C/G - G7 - | C - - 0 |</chords>
+  <melody>| 3 - 3 4 | 5 - 1 - | 2. 2/ 3 4 | 3 - - - (break) | 3 - 2 1 | 6. 6/ 5 5 | 5 - 4( 3) | 2 - - - (break) | 3 - 3 4 | 5 - 1 - | 6. 6/ 6 3 | 4 - - - (break) | 4 - 3 2 | 5 1 1 4 | 3 - 2 - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O God and Fa -- ther, we our prais -- es bring, For who more wor -- thy of our praise could be Than Thou, who seek -- est wor -- ship -- ers who sing In spir -- it and in truth a -- dor -- ing -- ly! </singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj236.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0054_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O God and Father, we our praises bring,
+  For who more worthy of our praise could be
+Than Thou, who seekest worshipers who sing
+  In spirit and in truth adoringly!</stanza>
+    <stanza type="verse" number="2">All worlds Thou hast created by the Son,
+  All things are held by His unmeasured power;
+Yet we approach Thee in that glorious One:
+  What cause for worship in this holy hour!</stanza>
+    <stanza type="verse" number="3">'Tis He who leads us in this blessed sphere,
+  In the assembly singing praise to Thee;
+What joy to Him that we should thus be near
+  As suited and in perfect liberty!</stanza>
+    <stanza type="verse" number="4">Here we unite, our song of joy is one!
+  And Thou, O God, art fully satisfied.
+Amidst the praises led by Christ, Thy Son,
+  Thou hast a dwelling ever to abide.</stanza>
+  </lyrics>
+</hymn>

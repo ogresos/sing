@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Our hearts are full of Christ and long</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Beauty</category>
+  <numbers><cebuano num="178"/><chinese num="144"/><english num="178"/><korean num="144"/><tagalog num="178"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+    <composer biodate="" biolink="">Old English melody</composer>
+  </creators>
+  <meter>8.8.8.8.8.8.</meter>
+  <hymncode>5535511765</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G | C - G/D | C/E - C | F - - | C/E - - | C - - | Dm/F - - | C/G - - | G7 - - | C - G/D | C/E - C | F - - | C/E - - | Am - - | Dm/F - - | C/G - G7 | C - - | G/B - G7 | C - G/D | C/E - F | G - - | F - - | C/E - C | F - G7 | C - - |</chords>
+  <melody>| 0 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3( 5) 3 (break) | 2 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3 - 2 | 1 - 2 | 2.( 3/) 4 | 3 - 5 | 5( 3) 6 | 5 - 6 | ._1 - 6 | 5.( 4/) 3 | 4 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Our hearts are full of Christ and long Their glo -- rious mat -- ter to de -- clare! Of Him we make our loft -- ier song, We can -- not from His praise for -- bear: Our rea -- dy tongues make haste to sing The glo -- ries of the heav'n -- ly King.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj144.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="40">e0178_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Our hearts are full of Christ and long
+  Their glorious matter to declare!
+Of Him we make our loftier song,
+  We cannot from His praise forbear:
+Our ready tongues make haste to sing
+  The glories of the heav'nly King.</stanza>
+    <stanza type="verse" number="2">Fairer than all the earthborn race,
+  Perfect in comeliness Thou art;
+Replenished are Thy lips with grace,
+  And full of love Thy tender heart.
+God ever-blest! we bow the knee,
+  And own all fulness dwells in Thee.</stanza>
+  </lyrics>
+</hymn>
