@@ -9,8 +9,9 @@
 import UIKit
 import CoreData
 import AVFoundation
+import QuartzCore
 
-class HymnViewController: UICollectionViewController, NSFetchedResultsControllerDelegate, AVAudioPlayerDelegate {
+class HymnViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, NSFetchedResultsControllerDelegate, AVAudioPlayerDelegate, MJNIndexViewDataSource {
     
 //    @IBOutlet weak var self.collectionView: UICollectionView!
 
@@ -22,7 +23,12 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     var mp:AVMIDIPlayer!
     var ap:AVAudioPlayer!
     
+    @IBOutlet weak var collectionView: UICollectionView!
     @IBOutlet weak var playPauseButton: UIBarButtonItem!
+    var indexView: MJNIndexView!
+    var indexArray = [String]()
+    let highestNumber = 1400
+    let maxIndexes = 60
 
     
     var hymns = [NSManagedObject]()
@@ -62,6 +68,8 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         setupMIDIFile()
         // set up Audio file
         setupAudioFile()
+        
+        setupIndexView()
 
     }
     
@@ -73,6 +81,48 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
         self.navigationController?.isNavigationBarHidden = false
     }
     
+    func setupIndexView() {
+        let increment = 10 * Int(round(Double(highestNumber/maxIndexes)/10.0))
+        var number = increment
+        
+        
+        while number <= highestNumber {
+            indexArray.append(String(number))
+            number += increment
+        }
+        print("highestNumber", highestNumber, "maxIndexes", maxIndexes, "increment is", increment, "indexArray", indexArray)
+
+        indexView = MJNIndexView(frame: self.view.bounds)
+        indexView.dataSource = self
+        indexView.fontColor = UIColor.lightGray
+        indexView.font = UIFont(name: "Avenir Next", size:4.0)
+        indexView.selectedItemFont = UIFont(name: "Avenir-Heavy", size: 34.0)
+        indexView.selectedItemFontColor = UIColor(red: 126.0/255.0, green: 211.0/255.0, blue: 33.0/255.0, alpha: 1.0)
+        indexView.darkening = false
+        indexView.fading = true
+        indexView.curtainColor = UIColor(colorLiteralRed: 255.0/255.0, green: 255.0/255.0, blue: 255.0/255.0, alpha: 0.8)
+        indexView.curtainStays = false
+        indexView.curtainMoves = true
+        indexView.maxItemDeflection = 100.0
+        indexView.rangeOfDeflection = 7
+        indexView.upperMargin = 20.0
+        indexView.lowerMargin = 50.0
+        indexView.curtainFade = 0.5
+        indexView.ergonomicHeight = false
+        self.view.addSubview(indexView)
+        self.view.bringSubview(toFront: indexView)
+    }
+    
+    func sectionIndexTitles(for indexView: MJNIndexView!) -> [Any]! {
+        return indexArray
+    }
+    func section(forSectionMJNIndexTitle title: String!, at index: Int) {
+        let hymnNumber = indexArray[index]
+        let indexPath: IndexPath = [0, indexForHymn(number:hymnNumber)]
+        print("scroll to index", indexPath)
+        collectionView!.scrollToItem(at: indexPath, at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+        //collectionView!.scrollToItem(at: selectedIndexPath, at: UICollectionViewScrollPosition.centeredHorizontally, animated: false)
+    }
 
     
     func setupMIDIFile() {
@@ -154,9 +204,11 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     
     
     func indexForHymn(number: String) -> Int {
-        for index in 0...hymns.count {
-            let hymn = hymns[index] as! Hymn
-            if (hymn.number == number) {
+        print("indexForHymn", number)
+        for hymn in hymns {
+            if ((hymn as! Hymn).number == number) {
+                let index = hymns.index(of: hymn)!
+                print("is ", index)
                 return index
             }
         }
@@ -180,13 +232,13 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
     
     // MARK: UICollectionViewDataSource
     
-    override func numberOfSections(in collectionView: UICollectionView) -> Int {
+    func numberOfSections(in collectionView: UICollectionView) -> Int {
         // #warning Incomplete implementation, return the number of sections
         return 1
     }
     
     
-    override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return hymns.count
     }
     
@@ -216,7 +268,7 @@ class HymnViewController: UICollectionViewController, NSFetchedResultsController
 //        return 0.0
 //    }
     
-    override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = self.collectionView?.dequeueReusableCell(withReuseIdentifier: "HymnCell", for: indexPath) as! HymnCollectionViewCell
         cell.initWith(theHymn: hymns[indexPath.row])
         

@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		5E21F8241D623F34008114DD /* StanzaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */; };
 		5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E21F8641D639500008114DD /* HymnalModel.xcdatamodeld */; };
+		5E29FB711D7F6F9B00109EB2 /* MJNIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E29FB701D7F6F9B00109EB2 /* MJNIndexView.m */; };
+		5E29FB721D7F714900109EB2 /* MJNIndexView.h in Sources */ = {isa = PBXBuildFile; fileRef = 5E29FB6F1D7F6F9B00109EB2 /* MJNIndexView.h */; };
 		5E3B9BF11D78BA6A003FDCB2 /* XML in Resources */ = {isa = PBXBuildFile; fileRef = 5E3B9BF01D78BA6A003FDCB2 /* XML */; };
 		5E3B9BF51D79C045003FDCB2 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3B9BF41D79C045003FDCB2 /* SearchViewController.swift */; };
 		5EAB6F331D788CFA004E5B32 /* FluidR3Mono_GM.sf3 in Resources */ = {isa = PBXBuildFile; fileRef = 5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */; };
@@ -48,6 +50,9 @@
 /* Begin PBXFileReference section */
 		5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StanzaTableViewCell.swift; sourceTree = "<group>"; };
 		5E21F8651D639500008114DD /* HymnalModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HymnalModel.xcdatamodel; sourceTree = "<group>"; };
+		5E29FB6E1D7F6F9A00109EB2 /* Hymnal-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hymnal-Bridging-Header.h"; sourceTree = "<group>"; };
+		5E29FB6F1D7F6F9B00109EB2 /* MJNIndexView.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; path = MJNIndexView.h; sourceTree = "<group>"; };
+		5E29FB701D7F6F9B00109EB2 /* MJNIndexView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJNIndexView.m; sourceTree = "<group>"; };
 		5E3B9BF01D78BA6A003FDCB2 /* XML */ = {isa = PBXFileReference; lastKnownFileType = folder; path = XML; sourceTree = "<group>"; };
 		5E3B9BF41D79C045003FDCB2 /* SearchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		5EAB6F321D788B9C004E5B32 /* FluidR3Mono_GM.sf3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = FluidR3Mono_GM.sf3; sourceTree = "<group>"; };
@@ -134,9 +139,12 @@
 				5ED345481D6161CD00A5CA74 /* Main.storyboard */,
 				5E3B9BF41D79C045003FDCB2 /* SearchViewController.swift */,
 				5E21F8231D623F34008114DD /* StanzaTableViewCell.swift */,
+				5E29FB6F1D7F6F9B00109EB2 /* MJNIndexView.h */,
+				5E29FB701D7F6F9B00109EB2 /* MJNIndexView.m */,
 				5ED3454B1D6161CD00A5CA74 /* Assets.xcassets */,
 				5ED3454D1D6161CD00A5CA74 /* LaunchScreen.storyboard */,
 				5ED345501D6161CD00A5CA74 /* Info.plist */,
+				5E29FB6E1D7F6F9A00109EB2 /* Hymnal-Bridging-Header.h */,
 			);
 			path = Hymnal;
 			sourceTree = "<group>";
@@ -313,11 +321,13 @@
 			files = (
 				5E3B9BF51D79C045003FDCB2 /* SearchViewController.swift in Sources */,
 				5ED345471D6161CD00A5CA74 /* HymnViewController.swift in Sources */,
+				5E29FB711D7F6F9B00109EB2 /* MJNIndexView.m in Sources */,
 				5E21F8241D623F34008114DD /* StanzaTableViewCell.swift in Sources */,
 				5EBDD7EB1D76289200147582 /* IndexCollectionViewCell.swift in Sources */,
 				5ED345431D6161CD00A5CA74 /* AppDelegate.swift in Sources */,
 				5ED345451D6161CD00A5CA74 /* IndexViewController.swift in Sources */,
 				5EBDD7E91D760D1B00147582 /* HymnCollectionViewCell.swift in Sources */,
+				5E29FB721D7F714900109EB2 /* MJNIndexView.h in Sources */,
 				5EC3E3DE1D775F520006F44C /* HymnFlowLayout.swift in Sources */,
 				5EE322FE1D7744A4007D7675 /* HymnFlowLayoutWithAnimations.swift in Sources */,
 				5E21F8661D639500008114DD /* HymnalModel.xcdatamodeld in Sources */,
@@ -466,11 +476,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = QHXVDK6ES5;
 				INFOPLIST_FILE = Hymnal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tapity.Hymnal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Hymnal/Hymnal-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -479,11 +492,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = QHXVDK6ES5;
 				INFOPLIST_FILE = Hymnal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tapity.Hymnal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Hymnal/Hymnal-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
