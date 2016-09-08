@@ -28,7 +28,7 @@ class HymnViewController: UIViewController, UICollectionViewDataSource, UICollec
     var indexView: MJNIndexView!
     var indexArray = [String]()
     let highestNumber = 1400
-    let maxIndexes = 60
+    let maxIndexes = 61
 
     
     var hymns = [NSManagedObject]()
@@ -83,12 +83,17 @@ class HymnViewController: UIViewController, UICollectionViewDataSource, UICollec
     
     func setupIndexView() {
         let increment = 10 * Int(round(Double(highestNumber/maxIndexes)/10.0))
-        var number = increment
+        var number = 1
         
         
         while number <= highestNumber {
             indexArray.append(String(number))
-            number += increment
+            if (number == 1) {
+                number = increment
+            }
+            else {
+                number += increment
+            }
         }
         print("highestNumber", highestNumber, "maxIndexes", maxIndexes, "increment is", increment, "indexArray", indexArray)
 
@@ -96,15 +101,15 @@ class HymnViewController: UIViewController, UICollectionViewDataSource, UICollec
         indexView.dataSource = self
         indexView.fontColor = UIColor.lightGray
         indexView.font = UIFont(name: "Avenir Next", size:4.0)
-        indexView.selectedItemFont = UIFont(name: "Avenir-Heavy", size: 34.0)
+        indexView.selectedItemFont = UIFont(name: "Avenir-Heavy", size: 44.0)
         indexView.selectedItemFontColor = UIColor(red: 126.0/255.0, green: 211.0/255.0, blue: 33.0/255.0, alpha: 1.0)
         indexView.darkening = false
         indexView.fading = true
         indexView.curtainColor = UIColor(colorLiteralRed: 255.0/255.0, green: 255.0/255.0, blue: 255.0/255.0, alpha: 0.8)
         indexView.curtainStays = false
         indexView.curtainMoves = true
-        indexView.maxItemDeflection = 100.0
-        indexView.rangeOfDeflection = 7
+        indexView.maxItemDeflection = 140.0
+        indexView.rangeOfDeflection = 10
         indexView.upperMargin = 20.0
         indexView.lowerMargin = 50.0
         indexView.curtainFade = 0.5
