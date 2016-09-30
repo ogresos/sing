@@ -29,8 +29,27 @@ class HymnCollectionViewCell: UICollectionViewCell, UITableViewDataSource, UITab
         let stanzasSet = hymn.value(forKeyPath: "stanzas") as! NSMutableOrderedSet
         stanzas.removeAll()
         stanzas = Array(stanzasSet) as [AnyObject]
-        hymnTitleLabel.text = hymn.value(forKey: "title") as? String
+        let title: NSString = (hymn.value(forKey: "title") as? NSString)!
+        hymnTitleLabel.text = title as? String
         hymnNumberLabel.text = hymn.value(forKey: "number") as? String
+        
+        //Calculate the expected size based on the font and linebreak mode of your label
+        // FLT_MAX here simply means no constraint in height
+        //let maximumLabelSize = CGSize(width: 296, height: CGFloat(FLT_MAX));
+        //UIFont.systemFontOfSize(14.0)
+        //UIFont(name:"Avenir", size:23)
+        let size: CGSize = title.size(attributes: [NSFontAttributeName: UIFont.systemFont(ofSize: 34.0)])
+        
+        //adjust the label the the new height.
+        var newFrame = hymnTitleLabel.frame
+        newFrame.size.height = size.height
+        hymnTitleLabel.frame = newFrame
+        
+        print("size", size, "newFrame", newFrame)
+//        CGRect newFrame = hymnTitleLabel.frame;
+//        newFrame.size.height = expectedLabelSize.height;
+//        yourLabel.frame = newFrame;
+       
         stanzasTableView.reloadData()
     }
     
