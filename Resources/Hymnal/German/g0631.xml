@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Will ich Auferstehungsleben</title>
+  <index>true</index>
+  <category>DER WEG DES KREUZES&amp;mdash;Der Weg des Lebens</category>
+  <numbers><cebuano num="631"/><chinese num="464"/><english num="631"/><german num="631"/><korean num="464"/><portuguese num="321"/><russian num="244"/><spanish num="297"/><tagalog num="631"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 4( 4) 0 | 7. 6/ 5 4 | 3 3( 3) 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - 1 - |</melody>
+  <layout>
+	<singingstanza>Will ich Auf -- er -- ste -- hungs -- le -- ben, Muss mich Je -- su Kreuz an -- ziehn; Nur durch Tod er -- hebt sich Le -- ben; Nur Ver -- lust er -- zielt Ge -- winn. Oh -- ne Tod kein Le -- ben, Oh -- ne Tod kein Le -- ben; Aus dem Tod er -- hebt sich Le -- ben, Oh -- ne Tod kein Le -- ben.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Will ich Auferstehungsleben,
+Muss mich Jesu Kreuz anziehn;
+Nur durch Tod erhebt sich Leben;
+Nur Verlust erzielt Gewinn.</stanza>
+	<stanza type="chorus" number="">Ohne Tod kein Leben,
+Ohne Tod kein Leben;
+Aus dem Tod erhebt sich Leben,
+Ohne Tod kein Leben.</stanza>
+	<stanza type="verse" number="2">Will ich gleich wie Jesus werden,
+Muss ich atmen aus mein Ich,
+Und im Kreuzesschatten leben,
+Ganz verleugnen möcht ich mich.</stanza>
+	<stanza type="verse" number="3">Wenn mein Selbst durch Gottes Geist stets
+Mit dem Herrn gekreuzigt ist,
+Nur dann, wenn der Tod in mir wirkt,
+Reich aus mir Sein Leben fließt.</stanza>
+  </lyrics>
+</hymn>

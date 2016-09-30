@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dad-a ako didto's bungtod</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MAKIG-AMBITAY NI CRISTO</category>
+  <numbers><cebuano num="378"/><chinese num="285"/><english num="378"/><german num="378"/><korean num="285"/><russian num="454"/><tagalog num="378"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 0 - - - 5. 6/ | 5 - - ._3 ._2 ._1 | 7 6 - - 6. 6/ | ._2 - - ._1 7 ._1 | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 (break) | ._1 - - - (Chorus) ._1. ._1/ | ._4 - - ._4 ._4 ._4 | ._4 ._3 - - ._3. ._3/ | ._3 - - ._2 6. ._2/ | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 | ._1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="378"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dad-a ako didto's bungtod,
+Aron Ikaw makita;
+Madungog namo ang tingog,
+Gikan sa langit gayud.</stanza>
+	<stanza type="chorus" number="">Dad-a ako didto's bungtod,
+Makig-ambit Kanimo,
+Sa dan-ag nakitang tubod,
+Ug dugo Mo naghinlo.</stanza>
+	<stanza type="verse" number="2">Labi pang kahayag didto,
+Wala nay panagbangi;
+Madayag ang kinabuhi
+Dihang Cristo maghari.</stanza>
+	<stanza type="verse" number="3">Ampingi nga magpabilin,
+Sa tumong magpadayon,
+Hangtud Kanimo masama,
+Sa gugma ug sa grasya.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa lo'b ng Kordero, Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTUBOS</category>
+  <numbers><chinese num="33"/><english num="37"/><korean num="33"/><tagalog num="37"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa lo'b ng Kordero, Ama,
+Ika'y pag-asa't pahinga;
+Ang buting nasa Ngalan Mo,
+Pawang ngang pagpapala ko.</stanza>
+    <stanza type="verse" number="2">Ikay mabuti't dakila,
+Matuwid at marunong pa;
+Aming Ama't Diyos, kami'y Iyo,
+Supling na bin'li ng dugo.</stanza>
+    <stanza type="verse" number="3">Dulot nga ng biyaya Mo,
+Di na mawawalay sa Iyo;
+Presensiya Mo'y aming bantay,
+Lugod&amp;mdash;pag-ibig Mo'y taglay.</stanza>
+    <stanza type="verse" number="4">Lagi kaming nagagalak,
+Dilim ay naging liwanag.
+Mahinang tinig lalaksan,
+Ika'y laging papurihan.</stanza>
+  </lyrics>
+</hymn>

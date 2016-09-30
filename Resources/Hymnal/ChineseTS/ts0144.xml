@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿們生命之律</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><chinese num="ts:144"/><english num="1213"/><korean num="952"/></numbers>
+  <melody>| 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 3// 1 3 | 2 - - 0 (break) | 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 4// 3 2 | 1 - - 0 (break) | 5 5./ 6// 5 1 | 7_. - - 0 | 2 4./ 5// 7 6 | 5 - - 0 (break) | 3 3./ 4// 5 3 | 4 6./ 6// 6 4 | 3 5./ 4// 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>你 若 要 脫 離 天 然 與 自 己， 阿 們 生 命 之 律！ 讓 這 律 自 動 運 行 在 你 裏， 阿 們 生 命 之 律！ 阿 們 生 命 之 律！ 阿 們 生 命 之 律！ 如 此 被 變 化， 與 主 像 無 異， 阿 們 生 命 之 律！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1213"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你若要脫離天然與自己，
+阿們生命之律！
+讓這律自動運行在你裏，
+阿們生命之律！
+阿們生命之律！阿們生命之律！
+如此被變化，與主像無異，
+阿們生命之律！</stanza>
+	<stanza type="verse" number="2">這律是出自神聖的生命，
+阿們生命之律！
+憑生命大能自然的運行，
+阿們生命之律！
+阿們生命之律！阿們生命之律！
+生命是憑倚，掙扎可全停，
+阿們生命之律！</stanza>
+	<stanza type="verse" number="3">生命之律能成全神心意，
+阿們生命之律！
+切勿憑己力改良你自己，
+阿們生命之律！
+阿們生命之律！阿們生命之律！
+主我願配合，成就你所期，
+阿們生命之律！</stanza>
+	<stanza type="verse" number="4">生命律帶來生機的變化，
+阿們生命之律！
+將我們構成身體主所誇，
+阿們生命之律！
+阿們生命之律！阿們生命之律！
+舊人漸消減，神生命添加，
+阿們生命之律！</stanza>
+	<stanza type="verse" number="5">這律將基督銘刻在我心，
+阿們生命之律！
+直至祂充滿內裏各部分，
+阿們生命之律！
+阿們生命之律！阿們生命之律！
+讓基督成形，非外在教訓，
+阿們生命之律！</stanza>
+  </lyrics>
+</hymn>

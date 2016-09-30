@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Ward</lastname>
+  <email>jwardmobile2@gmail.com</email>
+  <password>$2y$10$4vvtoILIrElOxkgfgRwnVOHr0o9RsglcZWBIfGheB5LW4EgTEVERW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.19.147.84</ipaddress>
+  <createdate>2014-12-27 16:28:34</createdate>
+  <lastupdateddate>2014-12-27 16:30:16</lastupdateddate>
+  <lastlogindate>2014-12-27 16:30:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

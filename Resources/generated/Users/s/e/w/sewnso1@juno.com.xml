@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>M</firstname>
+<lastname>Merriweather</lastname>
+<email>sewnso1@juno.com</email>
+<password>$1$ZNGglpnb$e13rv4cFu/EcYc6wso/u40</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>68.57.194.13</ipaddress>
+<createdate>2008-09-22 16:14:39</createdate>
+<lastupdateddate>2009-09-15 18:25:56</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="438">I've turned my back upon the world</fav>
+        <fav category="default" type="h" num="436">Thy Life was giv'n for me</fav>
+        <fav category="default" type="h" num="439">Utterly abandoned</fav>
+    </favourites>
+</user>

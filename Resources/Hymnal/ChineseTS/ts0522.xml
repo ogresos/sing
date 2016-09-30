@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>站住地方的立場</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3232323232321</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 看 見 一 道 河 流， 就 投 身 流 中， 站 住 地 方 的 立 場。 我 們 看 見 一 道 河 流， 就 投 身 流 中， 站 住 地 方 的 立 場。 我 們， 我 們， 哦 主， 站 住 地 方 的 立 場。 我 們， 我 們， 哦 主， 站 住 地 方 的 立 場。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0522.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們看見一道河流，
+就投身流中，
+站住地方的立場。
+我們看見一道河流，
+就投身流中，
+站住地方的立場。</stanza>
+	<stanza type="chorus" number="">我們，我們，哦主，
+站住地方的立場。
+我們，我們，哦主，
+站住地方的立場。</stanza>
+	<stanza type="verse" number="2">我們已經看見
+召會恢復的異象……</stanza>
+	<stanza type="verse" number="3">這裡乃是地方召會，
+非宗派公會……</stanza>
+	<stanza type="verse" number="4">我們愛所有的
+弟兄姊妹們，哦主……</stanza>
+	<stanza type="verse" number="5">我們蒙主呼召在此
+一同受訓練……</stanza>
+	<stanza type="verse" number="6">我們已被編入軍隊
+去為主爭戰……</stanza>
+	<stanza type="verse" number="7">我們忠心站在這裡
+直到主再來……</stanza>
+  </lyrics>
+</hymn>

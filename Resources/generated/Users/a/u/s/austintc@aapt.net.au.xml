@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Tim</firstname>
+<lastname>Austin</lastname>
+<email>austintc@aapt.net.au</email>
+<password>$1$HQCJeFL7$LQ8WpkYfJtzTggkEzewdo1</password>
+<gender>M</gender>
+<country>Australia</country>
+<ipaddress>61.68.238.135</ipaddress>
+<createdate>2009-09-09 21:11:00</createdate>
+<lastupdateddate>2009-09-15 19:18:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+        <fav category="default" type="lb" num="8">Christ in Colossians</fav>
+        <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="nt" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="h" num="723">He giveth more grace when the burdens grow greater</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    </favourites>
+</user>

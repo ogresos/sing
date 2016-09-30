@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You; Lord, take my heart</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:304"/><lsmyp num="191"/></numbers>
+  <hymncode>3552654533552</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/B - G - | F - - - | C/E - - - | C - - - | G/B - G - | F - G - | C - - - | F - G - | C - - - | F - G - | Am - - - | Dm7 - G7 - | C - Am7 - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 3 - - 5 | 5 2 - - | 6 - - 5/ 4/ | 5 - - - | 3 - - 3/ 5/ | 5 2 - - (break) | 6_. 1/ 1/ 7_./( 1/) 2/ 2/ | 3 2/ 1/( 1/)( 2/) 3 | 4 4/ 4/ 5/ 5/ 5/ 4/ | 3 - - - (break) | 6_. 1 7_./ 1/ 2/ 2/ | 3 2/ 1/( 1/)( 2/) 3 (break) | 4 4/ 3/ 2/ 2/ 1/ 7_./ | 1 3 6_.. 3/ | 4 4/ 3/ 2/ 2/ 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, I love You: Lord, take my heart. Lord, sat -- u -- rate me. Fill ev -- ery part with Your life di -- vine. Lord, I now sur -- ren -- der all to You. Keep me turn -- ing to You ev -- ery day. Un -- til I'm ex -- press -- ing on -- ly You al -- ways. Un -- til I'm ex -- press -- ing on -- ly You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="34">ns0304.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I love You;
+Lord, take my heart.
+Lord, saturate me.
+Fill every part with Your life divine.
+Lord, I now surrender all to You.
+Keep me turning to You every day.
+Until I'm expressing only You always.
+Until I'm expressing only You.</stanza>
+    <stanza type="verse" number="2">Lord, keep us burning;
+Make us Your counterpart.
+Lord, saturate us;
+Fill every part with Your life divine.
+Lord, we now surrender all to You.
+Keep us turning to You every day,
+Until we're expressing only You, always;
+Until we're expressing only You.</stanza>
+  </lyrics>
+</hymn>

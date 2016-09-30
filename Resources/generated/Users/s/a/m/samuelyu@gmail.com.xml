@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Samuel</firstname>
+  <lastname>Yu</lastname>
+  <email>samuelyu@gmail.com</email>
+  <password>MGMYuN1%2FWIN5Hy%2B7A4Fo0w%3D%3D</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>71.22.68.34</ipaddress>
+  <createdate>2010-09-26 01:47:46</createdate>
+  <lastupdateddate>2015-06-21 01:54:57</lastupdateddate>
+  <lastlogindate>2015-06-21 01:54:57</lastlogindate>
+  <failedlogincount>6</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="10">Can you say, How do you do?</fav>
+    <fav category="default" type="c" num="112">God made the mountains</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+  </favourites>
+</user>

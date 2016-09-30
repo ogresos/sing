@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joe</firstname>
+  <lastname>Black</lastname>
+  <email>joepicasso2001@gmail.com</email>
+  <password>$2y$10$6x4sMgj1BIvw6UDZcBN02u1o1NX/vx/ecxfBepgorvk5HPPa5Qayu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.98.41.141</ipaddress>
+  <createdate>2015-12-13 13:44:19</createdate>
+  <lastupdateddate>2015-12-13 19:06:06</lastupdateddate>
+  <lastlogindate>2015-12-13 19:06:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

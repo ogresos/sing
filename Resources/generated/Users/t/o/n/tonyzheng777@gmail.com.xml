@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>tony</firstname>
+  <lastname>zheng</lastname>
+  <email>tonyzheng777@gmail.com</email>
+  <password>$2y$10$yCKBqdCmt6krzmEw7R.1BeqEc8mdkbEepok5ZuTvuTpFY5d7kdE/K</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>71.133.66.214</ipaddress>
+  <createdate>2014-05-27 06:31:47</createdate>
+  <lastupdateddate>2014-07-11 03:15:43</lastupdateddate>
+  <lastlogindate>2014-07-11 03:15:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

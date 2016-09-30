@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>城城榮美城</title>
+  <index>true</index>
+  <category>終極的顯出－我們的目標</category>
+  <numbers><cebuano num="974"/><chinese num="771"/><english num="974"/><korean num="771"/><tagalog num="974"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber, adapted</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3 - 4. 5/ | 5 - 3 5 | 4.( 3/) 4 2 (break) | 3 - - 1/( 2/) | 3 - 4. 5/ | 5 - 3 5 | 4.( 3/) 4 2 (break) | 1 - - 5 | ._1.( 7/) 6 5 | 5 - 3 5 | 4.( 3/) 4 2 (break) | 3 - - 5 | ._1.( 7/) 6 5 | 5 - 3 5 | 4.( 3/) 4 2 | 1 - - 0 (break) | (Chorus) 5 - - - | 4( - 2) - | 1 - 2 - | 3 - - 5 (break) | ._1.( 7/) 6 5 | 5 - 3 5 | 4.( 3/) 4 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>他 等 候 一 座 城， 卻 住 在 帳 棚， 這 天 城 的 旅 客， 一 直 奔 前 程； 他 有 美 好 證 據， 前 途 實 堪 誇， 難 怪 他 不 尋 求 地 上 的 榮 華。 城！ 城！ 榮 美 城！ 神 與 人 的 住 處， 新 耶 路 撒 冷！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="974"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">他等候一座城，
+卻住在帳棚，
+這天城的旅客，
+一直奔前程；
+他有美好證據，
+前途實堪誇，
+難怪他不尋求
+地上的榮華。</stanza>
+	<stanza type="chorus" number="">城！城！榮美城！
+神與人的住處，
+新耶路撒冷！</stanza>
+	<stanza type="verse" number="2">他等候一座城，
+他神的住處，
+他沒有，也不
+求地上的房屋；
+因神豈非說過，
+屬天的家鄉，
+是那不離正
+道旅客所安享。</stanza>
+	<stanza type="verse" number="3">他等候一座城，
+雖然有時因跋涉苦，
+喪失多，有歎息聲音，
+但一想到那城，
+就引聲歌唱，
+因為路雖崎嶇，
+必定不會長。</stanza>
+	<stanza type="verse" number="4">他等候一座城，
+我們今亦然：
+望能在你城中，
+同你永為伴，
+享受你的豫備；
+因此也願意
+以帳棚為寄廬，
+同你客此地。</stanza>
+  </lyrics>
+</hymn>

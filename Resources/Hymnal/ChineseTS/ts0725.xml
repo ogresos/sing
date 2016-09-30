@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>小孩子與小牛犢</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>176532323176543434</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>聽 主 吹 笛， 就 歡 欣 鼓 舞， 見 主 舉 哀， 就 捶 胸 哀 哭； 我 們 是 小 孩 子， 不 受 老 套 拘 束， 主 有 帶 領 就 快 快 順 服！ 聰 明 的 人， 考 慮 得 太 多， 聖 靈 流 到， 還 慢 慢 研 究； 難 怪 主 向 他 們 就 封 住， 向 嬰 孩 祂 就 樂 意 顯 出 來。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0725.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聽主吹笛，就歡欣鼓舞，
+見主舉哀，就捶胸哀哭；
+我們是小孩子，
+不受老套拘束，
+主有帶領就快快順服！
+聰明的人，考慮得太多，
+聖靈流到，還慢慢研究；
+難怪主向他們就封住，
+向嬰孩祂就樂意顯出來。</stanza>
+	<stanza type="verse" number="2">負祂的軛，一步一步走，
+學祂樣式，跟隨祂舉止；
+我們是小牛犢，
+自己不會作主，
+每一步都聽憑祂指示！
+祂要向東，我們就向東，
+祂要向西，我們就向西；
+又容易、又輕省、
+又喜樂，
+因為軛其實是由祂負著。</stanza>
+  </lyrics>
+</hymn>

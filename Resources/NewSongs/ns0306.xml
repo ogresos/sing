@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The risen Christ my Shepherd is</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Shepherd</category>
+  <numbers><english num="ns:306"/><lsmyp num="200"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted from Watchman Nee</author>
+    <composer biodate="" biolink="" fullname="Steve Johnsen">S. J.</composer>
+  </creators>
+  <hymncode>5123176665431432</hymncode>
+  <key>B Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am7 - - - | F - - - | F - G - | Am7 - C/E - | Dm7 - G7 - | G - C - | C - G/B - | Am G F - | F - C/E - | Dm7 - F - | G7 - C - |</chords>
+  <melody>| 5 - 1 2 | 3 - ._1 - | 7 6 6 - | 6 - 5 4 | 3 - 1 - | 4 3 (.2 - (break) | 5 - 3 5 | ._3 - ._2 - | ._1 7 6 - | ._1 - 5 ._1 | ._2 - ._1 - | ._3 ._2 (.._1 - |</melody>
+  <layout>
+    <singingstanza>The ris -- en Christ my She -- pherd is. He gra -- cious -- ly my soul doth feed. My Christ is mine, and I am His. How can I lack or e'er have need?</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="8444"></link>
+    <link type="relevant" category="h" num="528"></link>
+    <link type="ref">Psalms 23</link>
+  </links>
+  <music>
+    <midi location="ns" length="21">ns0306.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The risen Christ my Shepherd is.
+He graciously my soul doth feed.
+My Christ is mine, and I am His.
+How can I lack or e'er have need?</stanza>
+    <stanza type="verse" number="2">In pastures green He makes me lie.
+My soul He satisfies always,
+The restful water leads me by,
+In fellowship and perfect peace.</stanza>
+    <stanza type="verse" number="3">I often stray; He seeketh me
+To yield my heart to His control.
+For His name's sake He leadeth me
+And shepherds my oft-shaken soul.</stanza>
+    <stanza type="verse" number="4">Incredible the thought beside&amp;mdash;
+Pursuing Thee all care is stilled.
+Thy rod and staff support and guide;
+My way is with Thy presence filled.</stanza>
+    <stanza type="verse" number="5">Emboldened in Thy victory,
+I feast surrounded by my foes,
+My head anointed bountifully,
+My cup with blessings overflows.</stanza>
+    <stanza type="verse" number="6">Thy love the measure of my days,
+Thy grace a boundless treasure store;
+Good Shepherd, may I sing Thy praise
+Within Thy house forevermore.</stanza>
+  </lyrics>
+</hymn>

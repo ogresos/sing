@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Justin</firstname>
+    <lastname>Wu</lastname>
+    <email>justin.wu.am@gmail.com</email>
+    <password>Lcf%2BSumGCx%2FpmJtc%2BiWfyA%3D%3D</password>
+    <gender></gender>
+    <country>Canada</country>
+    <ipaddress>66.11.166.204</ipaddress>
+    <createdate>2014-06-05 17:58:58</createdate>
+    <lastupdateddate>2014-06-05 17:58:58</lastupdateddate>
+    <lastlogindate>2014-06-05 17:58:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+        <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    </favourites>
+</user>

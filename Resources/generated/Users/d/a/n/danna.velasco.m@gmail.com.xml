@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Danna Alejandra</firstname>
+  <lastname>Velasco</lastname>
+  <email>danna.velasco.m@gmail.com</email>
+  <password>$2y$10$4AJD.1eeVoWBZxNIJ8PLV.nituphdV6UUF2yWTg6nGmQTiyHpBetu</password>
+  <gender/>
+  <country>co</country>
+  <ipaddress>186.146.245.66</ipaddress>
+  <createdate>2016-07-04 12:54:18</createdate>
+  <lastupdateddate>2016-07-04 21:35:56</lastupdateddate>
+  <lastlogindate>2016-07-04 12:56:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="hs" num="37">Tu nombre amo yo</fav>
+  </favourites>
+</user>

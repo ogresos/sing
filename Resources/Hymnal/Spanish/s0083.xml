@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bello Señor Jesús</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su belleza</category>
+  <numbers><cebuano num="175"/><chinese num="143"/><english num="175"/><german num="175"/><korean num="143"/><portuguese num="85"/><russian num="36"/><spanish num="83"/><tagalog num="175"/></numbers>
+  <creators>
+	<author biodate="17th Century" biolink="">Translated from German</author>
+  </creators>
+  <melody>| 1 - 1 1 | 2( 7_.) 1 - | 3. 3/ 3 3 | 4( 2) 3 - | 5 - ._1 6 | 5 - 4( 3) | 4 - 3 - | 2 - - - (break) | 5 - 6 5 | 5( 3) 4 - | 4 - 5 4 | 4( 2) 3 3 | 3 3 5 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="175"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Bello Señor Jesús!
+¡De͜ este universo͜ el Rey!
+¡Tú eres Hijo del Hombre͜ y Dios!
+Siempre te͜ apreciaré,
+Siempre te honraré,
+Mi gloria eres Tú, Señor.</stanza>
+	<stanza type="verse" number="2">¡Qué bello el campo es!
+La floresta más aún,
+En su belleza primaveral;
+Más bello͜ es el Señor,
+Más puro en Su͜ amor,
+Que hace͜ al triste ser cantar.</stanza>
+	<stanza type="verse" number="3">Bella͜ es la luz del sol,
+Y la luna͜ en su͜ esplendor,
+O las estrellas al centellear;
+Jesús es superior,
+Brilla con más fulgor
+Que luz o ser angelical.</stanza>
+	<stanza type="verse" number="4">Belleza terrenal,
+Hermosura celestial,
+Lo más hermoso es mi Señor;
+Excelso͜ y sin igual,
+Y de͜ un valor sin par,
+Es mi querido Salvador.</stanza>
+  </lyrics>
+</hymn>

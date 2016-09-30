@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聖哉聖哉聖哉</title>
+  <index>true</index>
+  <category>頌讚三一神－對祂的讚美</category>
+  <numbers><chinese num="4"/><english num="6"/><german num="6"/><korean num="4"/><portuguese num="3"/><russian num="3"/><tagalog num="6"/></numbers>
+  <creators>
+	<author biodate="1783-1826" biolink="">Translated from Reginald Heber</author>
+  </creators>
+  <melody>| 1 1 3 3 | 5 - 5 - | 6 - 6 6 | 5 - 3 - | 5. 5/ 5 5 | ._1 - 7 5 | 2 5 6. 5/ | 5 - - - (break) | 1 1 3 3 | 5 - 5 - | 6. 6/ 6 6 | 5 - 5 - | ._1 - 5 5 | 6 - 3 - | 4 2 2. 1/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>聖 哉、 聖 哉、 聖 哉， 全 能 的 主 神！ 我 們 向 你 揚 聲， 頌 讚 直 到 永 遠； 聖 哉、 聖 哉、 聖 哉， 全 能 而 又 慈 憐！ 一 神 別 三 位， 三 位 是 一 身！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="6"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聖哉、聖哉、聖哉，
+全能的主神！
+我們向你揚聲，
+頌讚直到永遠；
+聖哉、聖哉、聖哉，
+全能而又慈憐！
+一神別三位，
+三位是一身！</stanza>
+	<stanza type="verse" number="2">聖哉、聖哉、聖哉，
+眾聖都俯伏；
+天上長老在你
+座前金冠拋開；
+基路伯、撒拉弗，
+也都一同敬拜
+你昔在、今在、
+永遠常在主。</stanza>
+	<stanza type="verse" number="3">聖哉、聖哉、聖哉，
+你藏身黑暗，
+罪人也都不能
+看見你的榮光，
+惟你乃是至聖，
+無人與你相像，
+愛心並純潔、
+能力都完全。</stanza>
+	<stanza type="verse" number="4">聖哉、聖哉、聖哉，
+全能的主神！
+天、地、滄海之間，
+造物無不頌讚：
+聖哉、聖哉、聖哉，
+全能而又慈憐！
+一神別三位，
+三位是一身！</stanza>
+  </lyrics>
+</hymn>

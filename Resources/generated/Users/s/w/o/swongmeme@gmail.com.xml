@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Susanna</firstname>
+<lastname>Wong</lastname>
+<email>swongmeme@gmail.com</email>
+<password>$1$I1EF9Z4Z$lbL.xoSExd.VEk6aerooq.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>98.113.184.123</ipaddress>
+<createdate>2009-04-20 21:58:04</createdate>
+<lastupdateddate>2009-09-15 18:29:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+    </favourites>
+</user>

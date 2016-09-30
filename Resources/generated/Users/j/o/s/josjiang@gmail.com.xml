@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joshua</firstname>
+  <lastname>Jiang</lastname>
+  <email>josjiang@gmail.com</email>
+  <password>$2y$10$VcCRSnAw3IUUilkDSoJL5uvTRF6DkrUjhNbvojAVhRBUnLENlFH06</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>148.85.241.154</ipaddress>
+  <createdate>2015-10-10 12:34:01</createdate>
+  <lastupdateddate>2016-07-17 01:34:45</lastupdateddate>
+  <lastlogindate>2016-07-17 01:34:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="127">Hark! ten thousand voices crying</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="108">Man of Sorrows, what a name</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="513">Once it was the blessing</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+  </favourites>
+</user>

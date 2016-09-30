@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gisselle</firstname>
+  <lastname/>
+  <email>ggisselle78@yahoo.com</email>
+  <password>$2y$10$m4W6w6MpYV5r80vugQBWt.BUb2GkkMwhqVf2XuIZvFmkXA.s4a6K6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.244.25.67</ipaddress>
+  <createdate>2015-11-24 03:58:50</createdate>
+  <lastupdateddate>2016-07-31 22:11:59</lastupdateddate>
+  <lastlogindate>2016-07-30 00:36:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="338">Blessed are those who wash their robes</fav>
+    <fav category="default" type="ns" num="124">Calling, O Lord Jesus</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="h" num="1113">Now the Triune God has come to dwell within</fav>
+    <fav category="default" type="h" num="1083">O how nigh the Lord is unto all who call on Him</fav>
+    <fav category="default" type="ns" num="515">Reigning in Life</fav>
+    <fav category="default" type="ns" num="192">Some, these days, would tell us that our Jesus is not food</fav>
+    <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+  </favourites>
+</user>

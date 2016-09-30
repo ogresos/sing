@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God made the mountains</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>11766221765</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | Dm - G - | C - Am - | F - G - | C - Am - | F - G - | C - Am - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 1 1/ 7_./ 6_. 6_. | 2 2/ 1/ 7_./ 6_./ 5_. (break) | 3 3/ 2/ 1 1 | 4 4/ 3/ 2/ 1/ 7_. (break) | 5 5/( 4/) 3/ 2/ 1 | 4 4/( 3/) 2/ 1/ 7_. (break) | 1/ 1/ 1/ 1/ 6_./ 6_./ 6_./ 6_./ | 2/ 2/ 2/ 2/ 5_./ 5_./ 6_./( 7_./) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God made the moun -- tains. God made the roll -- ing hills. God made the flow -- ers. God made the daf -- fo -- dils. God made ev -- ery tree. God made you and me. Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-p.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="21">c0112.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God made the mountains.
+God made the rolling hills.
+God made the flowers.
+God made the daffodils.
+God made every tree.
+God made you and me.
+Hallelujah, Hallelujah,
+Hallelujah, Hallelujah!</stanza>
+  </lyrics>
+</hymn>

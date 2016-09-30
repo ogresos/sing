@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Camellia</firstname>
+<lastname>Daniel</lastname>
+<email>cmad_78@yahoo.com</email>
+<password>$1$3oE2E0yk$SpmZmgfd5qMctdTJwNUDg0</password>
+<gender>F</gender>
+<country>Malaysia</country>
+<ipaddress>202.75.160.254</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+    </favourites>
+</user>

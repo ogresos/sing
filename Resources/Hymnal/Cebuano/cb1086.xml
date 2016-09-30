@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gimahal sa katim-os</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG NGALAN</category>
+  <numbers><cebuano num="1086"/><english num="1086"/><german num="1086"/><korean num="818"/><portuguese num="43"/><russian num="22"/><spanish num="46"/></numbers>
+  <melody>| 0 - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/( 2/) 1/} | 1( - 6_.) (break) | 5_. - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/ 2/ 1/} | 2( - - (break) | 2) - 5_../ 1// | 3. 2#/ 3./ 2// | 1 - {1/ 7_./ 7b_./} | 6_.. 5#_./ 6_../ 1// (break) | 4 - 6./ 6b// | 5. 3/ 1./ 6_.// | 5_.. 4/ 3./ 2// | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1086"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Gimahal sa katim-os,
+Ang ngalan ni Jesus!
+Sa yuta o langit man&amp;mdash;
+Labaw sa tanan.
+Paghanggap ning ngalana,
+Kamatayon mawala na;
+Kay sa ngalan naa ang Persona N'ya!</stanza>
+	<stanza type="verse" number="">Sa dila namong tanan&amp;mdash;
+Isugid Imong ngalan,
+Among himayaon ang Dios Amahan.
+Kay ang pagdayeg Nimo
+Dako nga pagpahimulos;
+JESUS, pagtawag man's among gimahal!</stanza>
+  </lyrics>
+</hymn>

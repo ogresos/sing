@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gugma sa Dios labaw pa sa</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA GUGMA NIYA</category>
+  <numbers><cebuano num="28"/><chinese num="24"/><english num="28"/><french num="4"/><german num="28"/><korean num="24"/><portuguese num="13"/><russian num="12"/><spanish num="19"/><tagalog num="28"/></numbers>
+  <creators>
+	<author biodate="1868-1953" biolink="">Translated from Frederick Martin Lehman</author>
+  </creators>
+  <melody>| 0. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 3. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 1. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 4 (break) | 3. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 (break) | 1. (Chorus) ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 6 (break) | 5. ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 | 1. 0. |</melody>
+  <music>
+	<midiref type="h" num="28"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gugma sa Dios labaw pa sa
+Giasoy ug gisulat na;
+Habog pa's kabitoonan,
+Lalum pa's kinalaluman.
+Nabalakang duhang sad-an,
+Dios, sa Anak nagluwas,
+Gipauling nakasala,
+Gipasaylo's sala.</stanza>
+	<stanza type="chorus" number="">Gugma sa Dios dato'g putli!
+Di masukod, lig-on!
+Molahutay pa sa awit
+Sa mga balaan.</stanza>
+	<stanza type="verse" number="2">Sa paglabay sa panahon,
+Gingharian mangapukan;
+Mga tawong di moampo,
+Magpatabon's kapangpangan;
+Gugma sa Dios magpadayon
+Sa tanang panahon;
+Grasya N'ya alang sa tanang
+Kaliwat ni Adam.</stanza>
+	<stanza type="verse" number="3">Dagat mapuno ba's tinta,
+Kalangitan ma-papel ba;
+Ma-dagang ang tanang tukog,
+Matag tawo magsusulat;
+Gugma sa Dios kon isulat,
+Mamad-an gyung dagat;
+Langit di gyud magpaigo,
+Bisag inaton nato.</stanza>
+  </lyrics>
+</hymn>

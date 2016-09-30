@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Bible is God's breath</title>
+  <index>true</index>
+  <category>The Word of God&amp;mdash;General</category>
+  <numbers><english num="ns:58"/><vsb num="249"/></numbers>
+  <!--creators>
+    <author biodate="" biolink="" fullname="Haniel Hann">H. H.</author>
+    <composer biodate="" biolink="" fullname="Haniel Hann">H. H.</composer>
+  </creators-->
+  <hymncode>5334432117651</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>170</tempo>
+  <chords>| C - - - | C - F/C - | C - C/E - | F - - - | C - - - | C - F/C - | C - - - | G/D - D7 - | G - - - | C - - - | C7/E - - - | F - - - | Fm - - - | C/G - - - | G - - - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 3 3 4 4 | 3 - - 2 | 1 1 7_. 6_. | 5_. 1( 1) 5_. (break) | 3 3 4 4 | 3 - - - | 2 2/ 2/ 3 4# | 6 5( 5) 5 (break) | ._1 5 5 6 | 6 5 5 5 | 5 4 4 1/ 5/( | 5)( 4)( 4) 4 (break) | 3 3/ 4/( 4) 3 | 2 2/ 3/( 3) 2 | 1 1 2 - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>The Bi -- ble is God's breath; the es -- sence of His Per -- son. God's speak -- ing out through man; borne by the Ho -- ly Spir -- it. The Bi -- ble is God's speak -- ing in the proph -- ets and the Son; The Bi -- ble is the Ho -- ly Spir -- it's rev -- e -- la -- tion.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="25">ns0058.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Bible is God's breath; the essence of His Person.
+God's speaking out through man; borne by the Holy Spirit.
+The Bible is God's speaking in the prophets and the Son;
+The Bible is the Holy Spirit's revelation.</stanza>
+    <stanza type="verse" number="2">The Bible testifies concerning the Lord Jesus;
+The Bible makes man wise, wise unto salvation;
+The Bible causes man to be regenerated;
+Our spiritual milk, our bread of life;
+It makes us all complete.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sophia</firstname>
+  <lastname>Mo</lastname>
+  <email>sophiamo21@gmail.com</email>
+  <password>$2y$10$I/V2s2TUrGzO4UvTooQZo.oLPfNs099jBUO17gVZEVpdZ.RApppli</password>
+  <gender/>
+  <country/>
+  <ipaddress>66.252.139.90</ipaddress>
+  <createdate>2016-04-11 19:43:19</createdate>
+  <lastupdateddate>2016-07-26 18:38:34</lastupdateddate>
+  <lastlogindate>2016-07-26 18:37:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="212">Each time in the morning</fav>
+    <fav category="default" type="h" num="746">Lord, teach us to discern the spirit</fav>
+    <fav category="default" type="ns" num="307">Morning Dew</fav>
+  </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>咒詛祂受祝福我享</title>
+  <index>true</index>
+  <category>讚美主－對祂的記念</category>
+  <numbers><chinese num="183"/><english num="8183"/></numbers>
+  <melody>| 0 - 1 | 7_./ 1/ 2 3 | 5/ 3/ 2 3 | 2/ 1/ 6_. 5_. (break) | 1/ 2/ 1 1 | 5/ 5/ 6 5 | 3/ 2/ 2 2 | 3/ 1/ 6_. 5_. | 1/ 2/ 1 0 |</melody>
+  <layout>
+	<singingstanza>咒 詛 祂 受， 祝 福 我 享； 苦 杯 祂 飲， 愛 筵 我 嘗； 恩 愛 高 深， 誰 能 測 量？ 我 的 心 哪， 應 當 歌 唱！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8444"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">咒詛祂受，祝福我享；
+苦杯祂飲，愛筵我嘗；
+恩愛高深，誰能測量？
+我的心哪，應當歌唱！</stanza>
+  </lyrics>
+</hymn>

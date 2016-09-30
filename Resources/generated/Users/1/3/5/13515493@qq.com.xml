@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>beibei</firstname>
+    <lastname>guo</lastname>
+    <email>13515493@qq.com</email>
+    <password>lpHBNGEKn8odPVMXjdvtuQ%3D%3D</password>
+    <gender></gender>
+    <country>China</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-05 15:07:45</createdate>
+    <lastupdateddate>2014-05-05 15:07:45</lastupdateddate>
+    <lastlogindate>2014-05-05 14:46:26</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="13">Let's honor with manners</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="h" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="c" num="102">Why was a cup made?</fav>
+    </favourites>
+</user>

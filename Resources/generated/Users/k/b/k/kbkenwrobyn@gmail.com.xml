@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Robyn</firstname>
+    <lastname>Bush</lastname>
+    <email>kbkenwrobyn@gmail.com</email>
+    <password>ULbmNok4PwU3flf5c1p0Tw%3D%3D</password>
+    <gender>F</gender>
+    <country>au</country>
+    <ipaddress>61.68.13.204</ipaddress>
+    <createdate>2010-05-08 02:52:40</createdate>
+    <lastupdateddate>2012-12-04 21:31:39</lastupdateddate>
+    <lastlogindate>2012-12-04 21:31:39</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="728">I have been through the valley of sorrow and weeping</fav>
+        <fav category="default" type="h" num="669">In the heart of Jesus</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+    </favourites>
+</user>

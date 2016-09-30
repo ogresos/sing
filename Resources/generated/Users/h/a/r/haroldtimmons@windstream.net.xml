@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>hal</firstname>
+  <lastname>timmons</lastname>
+  <email>haroldtimmons@windstream.net</email>
+  <password>$2y$10$HQtxn3syrChG0ZUGXGUbV.3N01d9PzL4kkZRE43GGouFKGU7qr0Ny</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.30.191.78</ipaddress>
+  <createdate>2014-12-07 00:22:01</createdate>
+  <lastupdateddate>2014-12-07 01:16:21</lastupdateddate>
+  <lastlogindate>2014-12-07 00:32:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1018">The whole world was lost in the darkness of sin</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

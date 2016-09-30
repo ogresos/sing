@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ezekiel</firstname>
+    <lastname>Ofori</lastname>
+    <email>ofori_ezekiel@yahoo.com</email>
+    <password>j5YnY5s2rGhlIRtXv2vLIA%3D%3D</password>
+    <gender>M</gender>
+    <country>gh</country>
+    <ipaddress>197.253.16.114</ipaddress>
+    <createdate>2012-11-02 09:38:48</createdate>
+    <lastupdateddate>2013-02-01 08:25:28</lastupdateddate>
+    <lastlogindate>2013-02-01 08:25:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

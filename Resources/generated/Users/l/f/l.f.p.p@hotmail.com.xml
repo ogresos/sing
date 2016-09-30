@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>luisa</firstname>
+  <lastname>perez</lastname>
+  <email>l.f.p.p@hotmail.com</email>
+  <password>JHAPublrBqE%2F6%2FqTrjMMyA%3D%3D</password>
+  <gender>F</gender>
+  <country>Colombia</country>
+  <ipaddress>200.3.193.76</ipaddress>
+  <createdate>2009-04-03 16:15:02</createdate>
+  <lastupdateddate>2014-08-29 14:11:15</lastupdateddate>
+  <lastlogindate>2014-08-29 14:11:15</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+  </favourites>
+</user>

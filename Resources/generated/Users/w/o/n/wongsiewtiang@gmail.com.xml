@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Ezra</firstname>
+<lastname>Wong</lastname>
+<email>wongsiewtiang@gmail.com</email>
+<password>$1$cAHAiB14$iSzW3AGiBiRBcIJLlp.Ve0</password>
+<gender>M</gender>
+<country>Australia</country>
+<ipaddress>121.45.121.193</ipaddress>
+<createdate>2009-04-06 08:39:34</createdate>
+<lastupdateddate>2009-09-15 18:29:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="21">O God of glory</fav>
+        <fav category="default" type="lb" num="22">Shepherd, receive man</fav>
+        <fav category="default" type="lb" num="30">Deep in God's heart</fav>
+        <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+        <fav category="default" type="lb" num="24">God is man's treasure</fav>
+    </favourites>
+</user>

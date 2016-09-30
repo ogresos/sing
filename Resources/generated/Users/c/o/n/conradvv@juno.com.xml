@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Conrad</firstname>
+<lastname>Van Valkenburg</lastname>
+<email>conradvv@juno.com</email>
+<password>$1$l3IVQS/P$tXE3DhIwGmNENQqz2R9K11</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>68.11.255.213</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="h" num="395">O Jesus Christ, grow Thou in me</fav>
+        <fav category="default" type="h" num="538">It is God's intent and pleasure</fav>
+    </favourites>
+</user>

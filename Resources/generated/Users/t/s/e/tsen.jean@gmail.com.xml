@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jean</firstname>
+  <lastname>Tsen</lastname>
+  <email>tsen.jean@gmail.com</email>
+  <password>$2y$10$XwHlhs151eDlxkXVqrVBLu5t9cH3vt8vjXZy1bTaDLSsxio1nGm8e</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.168.180.214</ipaddress>
+  <createdate>2015-11-05 22:43:51</createdate>
+  <lastupdateddate>2015-11-05 22:44:47</lastupdateddate>
+  <lastlogindate>2015-11-05 22:44:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

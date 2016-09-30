@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Chosen</title>
+  <index>true</index>
+  <numbers><chinese num="ns:513c"/><english num="ns:513"/></numbers>
+  <category>Consecration&amp;mdash;Answering the Lord's Call</category>
+  <creators>
+	<!--author biodate="" biolink="" fullname="Maryanna Cashmore">Translated by M. C.</author-->
+  </creators>
+  <hymncode>5565551166661617</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | G - - - | E - E7 - | Am - - - | F - - - | G - - - | E7 - - - | Am - - - | F - - - | G - G7 - | C - F - | E7 - Am - | F - G7 - | C - - - | C - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - Am - | F - G7 - | C - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - Am - | F - G7 - | C - - - |</chords>
+  <melody>| (startrepeat4) 5_. 5_./ 6_./ 5_.. 5_./ | 5_./ 1/ 1 - - | 6_./ 6_./ 6_./ 6_./ 1 6_./ 1/ | 7_. - - - (break) | 7_. 7_./ 7_./ 2. 7_./ | 1 1/ 2/ 1 - | 1/ 1/ 1/ 1/ 3/ 2/ 1/ 2/ | 2 - - - (break) | 3 3/ 4/ 3. 2/ | 2/ 1/ 1( 1.) 1/ | 4 3 2 1 | 7_. - 6_. 7_. (break) | 5_. 5_./ 5_./ 6_.. 6_./ | 7_. 2 1 - | 3/ 1/ 1/ 6_./ 1 7_./ 1/ | (alt1) 1 - - - (break) | (alt2) 1 - - 0/ 5/ (endalt) | 5/ 4/ 3/ 2/ 4/ 3/( 3/) 2/ | 2/( 1/) 1( 1.) 3/ | 4/ 4/ 4/ 4/ 6 4/ 3/ | 2 - - - (break) | 5/ 5/ 5/ 5/ 5 - | 5 3/ 2/ 1( 2) | 3/ 1/ 1/ 6_./ 1 7_./ 1/ | 1 - - 0/ 5/ (break) | 5/ 4/ 3/ 2/ 4/ 3/( 3/) 2/ | 2/( 1/) 1( 1.) 3/ | 4/ 4/ 4/ 4/ 6 4/ 3/ | 2 - - - (break) | 5/ 5/ 5/ 5/ 5 - | 5 3/ 2/ 1( 2) | 3/ 1/ 1/ 6_./ 1 7_./( 1/) | 1 - - - |</melody>
+  <layout>
+    <singingstanza end="-1">World -- ly af -- fairs en -- cum -- bered me; till the Lord said, "Come, fol -- low Me!" I was ex -- haust -- ed, fal -- ter -- [skip1] ing; still He called and would not leave me be; At once, when I re -- spond -- ed: "Yes!", He shined His glad' -- ning ray! Glo -- ry, rest, shouts of praise fill all my days as I fol -- low on His [skip1] way. [skip1] Up -- on this al -- tar of con -- se -- cra -- tion, sup -- ply the flame; re -- fine me, I pray; Lord, You chose me, 'twas mer -- cy and grace; Glad -- ly I choose Thee, to re -- pay. The days of this life don't seem that spe -- cial, [skip1] but the earth to heav -- en they join; In Your smile's de -- light, I fix my sight, run -- ning towards th'_e -- ter -- nal crown.</singingstanza>
+    <singingstanza2>2. Though in this world a way ex -- ists Filled with crowds with great -- ness ob -- sessed; My heart al -- read -- y is pos -- [skip1] sessed, let those who would take it try their best; Lord, I've been sanc -- ti -- fied by Thee, For God a -- lone I'm meant, My [skip1] all is [skip1] in Your sov -- ereign hand, all for the new way to be spent.</singingstanza2>
+    <singingstanza3>3. No man can serve two mas -- [skip1] ters, from God and the world seek re -- ward, Wheth -- er 'tis spent or wheth -- er re -- served, oint -- ment can but once be out -- [skip1] poured; Lord, You’re my on -- ly one true love, I'd ne'er re -- pent nor swerve. Lord, [skip1] You a -- [skip1] lone are wor -- thy of all my life and all my [skip1] love.</singingstanza3>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+      <midi location="ns" length="174">ns0513.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Worldly affairs encumbered me; till the Lord said, "Come, follow Me!"
+I was exhausted, faltering; still He called and would not leave me be;
+At once, when I responded: "Yes!", He shined His glad'ning ray!
+Glory, rest, shouts of praise fill all my days as I follow on His way.</stanza>
+    <stanza type="verse" number="2">Though in this world a way exists
+Filled with crowds with greatness obsessed;
+My heart already is possessed, let those who would take it try their best;
+Lord, I've been sanctified by Thee, For God alone I'm meant,
+My all is in Your sovereign hand, all for the new way to be spent.</stanza>
+    <stanza type="verse" number="3">No man can serve two masters, from God and the world seek reward,
+Whether 'tis spent or whether reserved, ointment can but once be outpoured;
+Lord, You’re my only one true love, I'd ne'er repent nor swerve.
+Lord, You alone are worthy of all my life and all my love.</stanza>
+    <stanza type="chorus" number="">Upon this altar of consecration, supply the flame; refine me, I pray;
+Lord, You chose me, 'twas mercy and grace; Gladly I choose Thee, to repay.
+The days of this life don't seem that special, but the earth to heaven they join;
+In Your smile's delight, I fix my sight, running towards th' eternal crown.</stanza>
+  </lyrics>
+</hymn>

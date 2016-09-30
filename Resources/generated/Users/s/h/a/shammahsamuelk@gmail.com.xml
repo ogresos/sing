@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>ngumbau</firstname>
+  <lastname>samuel</lastname>
+  <email>shammahsamuelk@gmail.com</email>
+  <password>$2y$10$4RxTIRfiNfI4oet4xVCnsui71oowhKZ80RZDnTa/HUK6obYriYTze</password>
+  <gender>M</gender>
+  <country>ke</country>
+  <ipaddress>41.204.187.2</ipaddress>
+  <createdate>2012-10-18 08:58:39</createdate>
+  <lastupdateddate>2016-04-07 08:36:01</lastupdateddate>
+  <lastlogindate>2016-04-07 08:33:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+    <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+    <fav category="default" type="ns" num="190">I want to be filled with the Triune God</fav>
+    <fav category="default" type="h" num="8438">I've chosen the Lord Jesus</fav>
+    <fav category="default" type="h" num="1152">To Jesus every day we find our hearts are closer drawn</fav>
+  </favourites>
+</user>

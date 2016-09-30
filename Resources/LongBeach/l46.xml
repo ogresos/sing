@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I bow my knees unto the Father</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="lb:46"/><lsmyp num="349"/><vsb num="243"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Josie Johnson">J. J.</author>
+    <composer biodate="" biolink="" fullname="Josie Johnson">J. J.</composer>
+  </creators>
+  <hymncode>533334552</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>105</tempo>
+  <chords>| C - - - | C - - - | G - - - | C - - - | G - - - | F - - - | C - - - | G - - - | G - - - | C - - - | G - - - | C - - - | G - - - | F - - - | C - - - | G - - - | G - - - | F - - - | C - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | G - - - | C - - - | G - - - | F - - - | C - - - | G - - - | G - - - | G - - - | F - - - | C - - - | G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>0 - - 0/ 5_./ | 3 3/ 3/( 3/) 3/ 4/ 5/ | 5 2( 2) 0/ 5_./ | 3 3/ 3/( 3/)( 4/ 5) | 2 - - 5/ 5/ | 6/ 6/( 6/) 6/ 6 5/ 4/ | 5/ 3/( 3) {3 4 5} | 5. 2/ 2( - (break) | 2) - - 0/ 5_./ | 3 3/ 3/( 3/) 3/ 4/ 5/ | 5 2( 2) 0/ 5_./ | 3 3/ 3/( 3/)( 4/ 5) | 2 - - 5/ 5/ | 6/ 6/( 6/) 6/ 6 5/ 4/ | 5/ 3/( 3) {3 4 5} | 5. 2/ 2( - (break) | 2) - - 5/ 5/ | 6/ 6/( 6/) 6/ 6 5/ 4/ | 5/ 3/( 3) {3 4 5} | 5. 2/ 2( - | 2) - {5 5 4} | 3. 1/ 1( - | 1) - - - | (startrepeat3) 0 5/ 5/( 5/) 6/ 5/ 5/ | 5 2 7_. 2 | 0/ 5/( 5/)( 6/) 5( - | 5) 2 7_. 2 | 4. 5/ 4 3/ 2/ | 3 - - 1( | 1/) 7_..( 7_.)( - | (alt1) 7_.) - - 0 (break) | (alt2) 7_. - - 2 | (endalt) 4. 5/ 4 3/ 2/ | 3 - - 1( | 1/) 7_..( 7_.)( - | 7_.) - {7_.( 1)( 2)} | 3( - - - | 3) - - 0 |</melody>
+  <layout>
+    <singingstanza>I bow my knees un -- to the Fa -- ther That He would grant you To be strength -- ened with pow'r through His Spir -- it In -- to the in -- ner man. I bow my knees un -- to the Fa -- ther That He would grant you To be strength -- ened with pow'r through His Spir -- it In -- to the in -- ner man. To be strength -- ened with pow'r through His Spir -- it In -- to the in -- ner man. In -- to the in -- ner man. Ac -- cord -- ing to the rich -- es of His glo -- ry That Christ may make His home in your hearts through faith. faith. May make His home in your heart through faith, through faith.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Ephesians 3:14-17</link>
+  </links>
+  <music>
+    <midi location="lb" length="137">lb46.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I bow my knees unto the Father
+That He would grant you
+To be strengthened with pow'r through His Spirit
+Into the inner man.
+I bow my knees unto the Father
+That He would grant you
+To be strengthened with pow'r through His Spirit
+Into the inner man.
+To be strengthened with pow'r through His Spirit
+Into the inner man.
+Into the inner man.
+According to the riches of His glory
+That Christ may make His home in your hearts through faith.
+According to the riches of His glory
+That Christ may make His home in your hearts through faith.
+May make His home in your heart through faith, through faith.</stanza>
+  </lyrics>
+</hymn>

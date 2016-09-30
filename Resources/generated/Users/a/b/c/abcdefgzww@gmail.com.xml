@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Wei</firstname>
+  <lastname/>
+  <email>abcdefgzww@gmail.com</email>
+  <password>$2y$10$EfwOhjDbYWi6rFUekE9sMeRST3AWtwOVt7AtzJ80s0Z9DiIjGSywa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>128.62.52.107</ipaddress>
+  <createdate>2015-08-18 14:06:13</createdate>
+  <lastupdateddate>2016-01-02 15:50:08</lastupdateddate>
+  <lastlogindate>2016-01-02 15:50:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="ts" num="36">數算自己的日子</fav>
+  </favourites>
+</user>

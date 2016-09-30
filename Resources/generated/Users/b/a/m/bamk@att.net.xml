@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Barbara</firstname>
+    <lastname>Kemble</lastname>
+    <email>bamk@att.net</email>
+    <password>211mNXpnwZd2Q86gltG%2Fvg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>75.40.251.71</ipaddress>
+    <createdate>2011-09-02 11:46:18</createdate>
+    <lastupdateddate>2011-09-02 12:22:08</lastupdateddate>
+    <lastlogindate>2011-09-02 11:46:20</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="h" num="1155">How I love Thee, precious Jesus</fav>
+        <fav category="default" type="h" num="8283">North Wind, arise, awaken</fav>
+        <fav category="default" type="h" num="1334">Thou hast turned my mourning into dancing for me</fav>
+        <fav category="default" type="h" num="1084">Thy name is as ointment poured forth</fav>
+    </favourites>
+</user>

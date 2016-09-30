@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>К чему сомненья, страх к чему</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ИСКУПЛЕНИЕ</category>
+  <numbers><cebuano num="1003"/><chinese num="235"/><english num="1003"/><french num="196"/><german num="1003"/><korean num="235"/><portuguese num="443"/><russian num="164"/><spanish num="466"/><tagalog num="1003"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3 3 3 - 2 - | 5 5 5 - 5 - | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 5 - (break) | ._1 ._1 ._1 - ._3 - | ._2 ._1 ._2 - ._3( ._2) | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>К_че -- му сом -- не -- нья, страх к_че -- му?  Не Бог ли Сы -- ну Сво -- е -- му Ве -- лел мой грех при -- нять?  Мой долг у -- пла -- чен уж Хрис -- том, Не уж -- то Бог ре -- шит о том Спро -- сить с_ме -- ня о -- пять?</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="21"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">К чему сомненья, страх к чему?
+Не Бог ли Сыну Своему
+Велел мой грех принять?
+Мой долг уплачен уж Христом,
+Не уж-то Бог решит о том
+Спросить с меня опять?</stanza>
+	<stanza type="verse" number="2">Господь меня уж искупил
+И от закона спас – покрыл
+Долги мои сполна.
+И Божий гнев – не страшен он,
+Я Сына кровью окроплён,
+Меня хранит она.</stanza>
+	<stanza type="verse" number="3">Он мне прощение добыл,
+Я оправданье получил –
+Долгов греховных нет.
+И не вменит нам Бог вдвоём,
+Сначала Сыну, мне потом,
+Пред Ним держать ответ.</stanza>
+	<stanza type="verse" number="4">Чтоб я покой и мир познал,
+Христос-Спаситель всё отдал,
+Свободен я и свят.
+Всеочищающая кровь
+Спасает грешных вновь и вновь,
+Ведь Он за нас распят.</stanza>
+  </lyrics>
+</hymn>

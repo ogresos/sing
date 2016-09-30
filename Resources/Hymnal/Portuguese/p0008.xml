@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Deus invisível, mui sábio, imortal</title>
+  <index>true</index>
+  <category>Sua Imortalidade</category>
+  <numbers><english num="14"/><portuguese num="8"/><russian num="7"/><tagalog num="14"/></numbers>
+  <creators>
+    <author biodate="1824-1908" biolink="">Translated from Walter Chalmers Smith</author>
+  </creators>
+  <music>
+    <midiref type="h" num="14"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ó Deus invisível, mui sábio, imortal,
+Em luz intangível, oculto e real,
+Bendito, glorioso, das eras, Senhor,
+A Ti, Vitorioso, rendemos louvor.</stanza>
+    <stanza type="verse" number="2">Constante, incansável, em glória e poder,
+És Rei respeitável, supremo a reger;
+Qual sólido monte, és justo, Senhor,
+E mui rica fonte que mana o amor.</stanza>
+    <stanza type="verse" number="3">Criaste a tudo, da vida, o Autor,
+De todos e tudo, o Sustentador;
+Nós somos quais flores, de glória fugaz,
+Só Tu permaneces, não mudas jamais.</stanza>
+    <stanza type="verse" number="4">És Pai glorioso, és luz a brilhar,
+Os anjos Teu rosto não ousam mirar
+Mas nós entoamos aqui Teu louvor,
+E as frontes curvamos, humildes, Senhor.</stanza>
+    <stanza type="verse" number="5">Ó Deus invisível, mui sábio, imortal,
+Em luz intangível, oculto e real,
+Bendito, glorioso, das eras, Senhor,
+A Ti, Vitorioso, rendemos louvor.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ich bin ein Mensch</title>
+  <index>true</index>
+  <category>DAS EVANGELIUM PREDIGEN&amp;mdash;Das hohe Evangelium</category>
+  <numbers><cebuano num="1293"/><chinese num="ts:815"/><english num="1293"/><french num="174"/><german num="1293"/><portuguese num="434"/><russian num="432"/><spanish num="419"/></numbers>
+  <melody>| 0 - 0/ 5/ 6/ 7/ | ._1 6/ 5/ ._1/ ._1/ 6/ 5/ | ._1 6/ ._1/( ._1/) 5/ 6/ 7/ (break) | ._1 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._2 7/ 5/( 5/) 5/ 6/ 7/ (break) | ._1( - ._1/) ._1/ 7/ 7b/ | 6 - - 6/ 6/ | 5/ 5/ 5/ 5/ 5/ 5/ 5/ 5/ | 5/( 6/) 7/ ._1 0. |</melody>
+  <layout>
+	<singingstanza>Ich bin ein Mensch, Die Be -- deu -- tung von der gan -- zen Welt! Ich bin ein Mensch, Die Be -- deu -- tung von der gan -- zen Welt! Gott schuf mich so, ich bin so froh; Bin das Zen -- trum, die Be -- deu -- tung von der gan -- zen Welt.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1293"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ich bin ein Mensch,
+    Die Bedeutung von der ganzen Welt!
+Ich bin ein Mensch,
+    Die Bedeutung von der ganzen Welt!
+        Gott schuf mich so, ich bin so froh;
+Bin das Zentrum, die Bedeutung von der ganzen Welt.</stanza>
+	<stanza type="verse" number="2">Christus in mir – 
+    Die Bedeutung meines Lebens ist;
+Christus in mir – 
+    Die Bedeutung meines Lebens ist.
+        Er ist in mir, mein alles hier;
+Wirklichkeit und die Bedeutung meines Lebens ist.</stanza>
+	<stanza type="verse" number="3">Sein Ausdruck ist
+    Die Gemeinde, die in Christus ist;
+Sein Ausdruck ist
+    Die Gemeinde, die in Christus ist;
+        Nach Gottes Plan herrscht nun fortan
+Durch Sein Leben die Gemeinde, die in Christus ist.</stanza>
+	<stanza type="verse" number="4">Gemeinde ist
+    Als Familienleben neu und frisch;
+Gemeinde ist
+    Als Familienleben neu und frisch;
+            Dies ist der Weg, welch Privileg: 
+Christus essen baut die örtliche Gemeinde auf.</stanza>
+	<stanza type="verse" number="5">Was solln wir tun?
+    Wir gehn hin und sagens überall.
+Was solln wir tun?
+    Wir gehn hin und sagens überall.
+        Von Ihm doch sprich, drum rief Er dich.
+Voller Freude gehn wir hin und sagens überall.</stanza>
+  </lyrics>
+</hymn>

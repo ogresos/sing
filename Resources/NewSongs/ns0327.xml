@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But you, O man of God, flee these things</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:327"/><lsmyp num="362"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Tammy Lupo">T. L.</composer>
+    <composer biodate="" biolink="" fullname="Debbie Villareal">D. V.</composer>
+  </creators>
+  <hymncode>533321721176165</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | G - C - | F - C - | C - C/E - | G7 - C - | C - | G/B - C - | F/A - G7 - | C - - - | C/E - C - | F - G7 - | C - F - | G7 - C - |</chords>
+  <melody>| 0 - - 5_. | 3/ 3/ 3/ 2/ 1 - | 7_. 2 1 1/ 7_./ | 6_. 1/ 6_./ 5_. - (break) | 3/ 3/ 3/ 2/ 1 1 | 2 4 3/ 3. | [2/4] 1. 1/ | [4/4] 2 - 3 - | 4 - 7_. - | 1 - - 0/ 1/ (break) | 5 5/ 4// 4// 3/ 3/ 3/ 3/ | 4 - 2. 3/ | 1( - 6_.)( - | 7_.)( - (.1) - |</melody>
+  <layout>
+    <singingstanza>But you, O man of God, flee these things, and pur -- sue righ -- teous -- ness, god -- li -- ness, faith, love, en -- du -- rance, meek -- ness. Fight the good fight of the faith; Lay hold on the e -- ter -- nal life, to which you were called.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Timothy 6:11-12</link>
+  </links>
+  <music>
+    <midi location="ns" length="28">ns0327.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But you, O man of God, flee these things,
+And pursue righteousness, godliness, faith,
+Love, endurance, meekness.
+Fight the good fight of the faith;
+Lay hold on the eternal life, to which you were called.</stanza>
+  </lyrics>
+</hymn>

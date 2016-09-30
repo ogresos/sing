@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Karen</firstname>
+  <lastname>Mackey</lastname>
+  <email>smokesignals@rocketmail.com</email>
+  <password>$2y$10$bT3sjtAxzvV7m.zX05REe.6qTD/xGpfXf.nip7BHomPIq5Ft8s0WG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.36.61.207</ipaddress>
+  <createdate>2015-05-14 05:46:59</createdate>
+  <lastupdateddate>2015-05-14 05:57:37</lastupdateddate>
+  <lastlogindate>2015-05-14 05:50:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+  </favourites>
+</user>

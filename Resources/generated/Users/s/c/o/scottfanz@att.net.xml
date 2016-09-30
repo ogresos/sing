@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Scott</firstname>
+    <lastname>Fanz</lastname>
+    <email>scottfanz@att.net</email>
+    <password>b%2FckgPy37xXZ1zKaaRus9Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>166.205.68.49</ipaddress>
+    <createdate>2013-11-24 13:16:10</createdate>
+    <lastupdateddate>2013-12-21 14:21:20</lastupdateddate>
+    <lastlogindate>2013-11-24 13:16:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="124">Calling, O Lord Jesus</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="377">If the path I travel</fav>
+        <fav category="default" type="h" num="16">Our Father, as the evergreen</fav>
+        <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+        <fav category="default" type="h" num="1069">We're feeding on the living Bread</fav>
+    </favourites>
+</user>

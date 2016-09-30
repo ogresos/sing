@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though we are often swayed and tossed</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Returning to the Lord</category>
+  <numbers><chinese num="352"/><english num="8352"/></numbers>
+  <creators>
+    <author biodate="1866-1932" biolink="">Adapted from Annie Johnson Flint</author>
+    <author biodate="" biolink="">Unknown, vv. 5-7</author>
+  </creators>
+  <melody>| 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 4 - 3( 2) | 1 - 7_.( 1) | 2 - - - (break) | 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 2 - 1 - | 2 - 3( 2) | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Though we are of -- ten swayed and tossed, Change -- less for -- ev -- er He en -- dures; None of His prom -- is -- es are lost; None is so sure in heav'n or earth.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midiref type="h" num="488"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Though we are often swayed and tossed,
+Changeless forever He endures;
+None of His promises are lost;
+None is so sure in heav'n or earth.</stanza>
+    <stanza type="verse" number="2">Though we are fickle, change our mind,
+He'll ne'er forsake us, never leave;
+Even when spurned, He draws us nigh;
+No earthly friend's as true as He.</stanza>
+    <stanza type="verse" number="3">He'll never once our trust betray;
+All we entrust Him, He upholds.
+As first He loved, He loves always,
+Loving us to the uttermost.</stanza>
+    <stanza type="verse" number="4">Such love! To us who, conscience seared,
+Wounded, forgot Him faithlessly,
+To us who many gods revered,
+Hearts void of all apology.</stanza>
+    <stanza type="verse" number="5">When all our idols ceased to be,
+Sadly we sought Him once again
+Whom we'd let down continually,
+Our first-to-last unchanging Friend.</stanza>
+    <stanza type="verse" number="6">Yet He accepts us and consoles
+And to Himself He draws us nigh
+As though no fault e'er marred our souls,
+He loves us to the end of time.</stanza>
+    <stanza type="verse" number="7">Lord, when such faithful love we see,
+Loudly we praise with heart and voice;
+Stronger than death, steadfast than seas;
+Melted, our hearts admire, rejoice!</stanza>
+  </lyrics>
+</hymn>

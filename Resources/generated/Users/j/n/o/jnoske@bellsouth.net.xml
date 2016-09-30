@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>john</firstname>
+    <lastname>noske</lastname>
+    <email>jnoske@bellsouth.net</email>
+    <password>$1$8GlEaSgl$yfWVMnOUySPSftqCom0cF/</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>74.182.118.57</ipaddress>
+    <createdate>2009-03-09 16:52:17</createdate>
+    <lastupdateddate>2009-10-30 18:15:42</lastupdateddate>
+    <lastlogindate>2009-10-30 17:26:46</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+        <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+        <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="ns" num="210">He understands you thoroughly</fav>
+        <fav category="default" type="ns" num="161">I've found the One who's all to me</fav>
+        <fav category="default" type="ns" num="231">Lord Jesus, I love You (You're my all)</fav>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+        <fav category="default" type="ns" num="307">Morning Dew</fav>
+        <fav category="default" type="ns" num="169">Morning dawn had arisen</fav>
+        <fav category="default" type="ns" num="308">Oh Lord, for this I pray</fav>
+        <fav category="default" type="ns" num="225">Praise the Lord! The God of glory</fav>
+        <fav category="default" type="ns" num="276">Rise up, my love</fav>
+        <fav category="default" type="ns" num="306">The risen Christ my Shepherd is</fav>
+        <fav category="default" type="ns" num="185">The spirit of the prophet</fav>
+        <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+        <fav category="default" type="ns" num="309">Throughout the past twenty centuries</fav>
+        <fav category="default" type="ns" num="310">Today a New Beginning</fav>
+    </favourites>
+</user>

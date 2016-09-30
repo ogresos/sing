@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>puileunglaw</firstname>
+  <lastname/>
+  <email>puileunglaw1990@gmail.com</email>
+  <password>$2y$10$Z71XxqMj///vx5Uwxw9lNeQRI.j07Fk/4C4m4HDX0Iysjixm5jUUW</password>
+  <gender/>
+  <country>hk</country>
+  <ipaddress>61.239.15.209</ipaddress>
+  <createdate>2015-06-03 08:05:27</createdate>
+  <lastupdateddate>2015-06-03 08:21:28</lastupdateddate>
+  <lastlogindate>2015-06-03 08:06:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="245">前在罪中為罪奴僕</fav>
+    <fav category="default" type="ch" num="57">哦主你曾成為人子</fav>
+    <fav category="default" type="ch" num="249">我要看見祂面對面</fav>
+  </favourites>
+</user>

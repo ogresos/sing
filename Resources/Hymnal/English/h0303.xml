@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nor silver nor gold hath obtained my redemption</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Redeemed by the Blood</category>
+  <numbers><english num="303"/><portuguese num="164"/><russian num="512"/><spanish num="147"/><tagalog num="303"/></numbers>
+  <creators>
+    <author biodate="1851-1935" biolink="">James Martin Gray</author>
+    <composer biodate="1850-1919" biolink="">Daniel Brink Towner</composer>
+  </creators>
+  <meter>12.11.12.11. with chorus.</meter>
+  <hymncode>553515354542</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - Dm - | G - - - | G7 - C - | C - C/E - | F - C/E - | D - G - | D7 - G7 - | C - - - | G - - - | G7 - - - | C - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C 0 |</chords>
+  <melody>| 0 - - 0/ 5/ | 5 3/ 5/ ._1 5/ 3/ | 5 4./ 5// 4/ 2 4/ | 4 2/ 4/ 6 5/ 5/ | 5 4/ 4/ 3. 5/ (break) | 5 3/ 5/ ._1 7/ ._1/ | ._2 ._1/ 6/ 6/ 5 3/ | 2 3/ 4#/ 5/ ._1 7/ (break) | 7 6/ 6/ (.5 (Chorus) {5/ 6/ 7/} | ._1( - ._1/) ._1/ 7./ 6// | 7 4 - 4./ 4// | 7( - 7/) 7/ 6./ 4// (break) | 3 - - {5/ 6/ 7/} | ._1( - ._1/) ._1/ ._2./ ._1// | 7 6 - 6/ 6/ | 5. 5/ 4 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Nor sil -- ver nor gold hath ob -- tained my re -- demp -- tion; No rich -- es of earth could have saved my poor soul. The blood of the cross is my on -- ly foun -- da -- tion; The death of my Sav -- ior now mak -- eth me whole. I am re -- deemed, but not with sil -- ver; I am bought, but not with gold; Bought with a price&amp;mdash; the blood of Je -- sus, Pre -- cious price of love un -- told.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj008.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e0303_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nor silver nor gold hath obtained my redemption;
+No riches of earth could have saved my poor soul.
+The blood of the cross is my only foundation;
+The death of my Savior now maketh me whole.</stanza>
+    <stanza type="chorus" number="">I am redeemed, but not with silver;
+  I am bought, but not with gold;
+Bought with a price&amp;mdash;the blood of Jesus,
+    Precious price of love untold.</stanza>
+    <stanza type="verse" number="2">Nor silver nor gold hath obtained my redemption;
+The guilt on my conscience too heavy had grown.
+The blood of the cross is my only foundation;
+The death of my Savior I only can own.</stanza>
+    <stanza type="verse" number="3">Nor silver nor gold hath obtained my redemption;
+The holy commandment forbade me draw near.
+The blood of the cross is my only foundation;
+The death of my Savior removeth my fear.</stanza>
+    <stanza type="verse" number="4">Nor silver nor gold hath obtained my redemption;
+The way to God's kingdom could not thus be bought.
+The blood of the cross is my only foundation;
+The death of my Savior redemption hath wrought.</stanza>
+  </lyrics>
+</hymn>

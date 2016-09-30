@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Si Kristo'y ating nasumpungan</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;TINATAMASA SIYA</category>
+  <numbers><cebuano num="1153"/><chinese num="ts:202"/><dutch num="44"/><english num="1153"/><french num="113"/><german num="1153"/><korean num="966"/><portuguese num="302"/><russian num="114"/><spanish num="276"/><tagalog num="1153"/></numbers>
+  <melody>| 0 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 5/ 5/ | 5 6 7 ._1 (break) | ._2 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 ._3/ ._3/ | ._2 ._1 7 6 (break) | 5 - - (Chorus) 5/ 5/ | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5 ._1 | 7 5 7 ._2 | ._1 5 ._1/ ._3/ ._3/ ._2/ (break) | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5/ ._1/ ._1/ 7/ | 6 ._2 ._1/ 7/ 6/ 7/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1153"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Si Kristo'y ating nasumpungan,
+Bilang lahat-lahat Siya;
+Anong l'walhati, kabanalan,
+Tumawag sa ngalan Niya!</stanza>
+	<stanza type="chorus" number="">May galak na di masayod, may l'walhati,
+May l'walhati, may l'walhati,
+May galak na di masayod, may l'walhati,
+Di-masambit ni kalahati!</stanza>
+	<stanza type="verse" number="2">Kristong 'Spiritu'y nasumpungan
+Sa atin nananahan;
+Kay lapit, anong pakinabang,
+Ubod ng katamisan.</stanza>
+	<stanza type="verse" number="3">Paraan nasumpungan natin,
+Nang Kristo'y dakilain,
+Salita'y ibasa-dalangin,
+Ang ngalan Niya'y tawagin.</stanza>
+	<stanza type="verse" number="4">Ekklesia lokal nasumpungan
+Ngayon ating tahanan;
+Babilonia'y di babalikan;
+Ekklesia ang kailangan.</stanza>
+	<stanza type="verse" number="5">Ang pulong ating nasumpungan,
+Kay laking kagalakan!
+Espiritu may kasiglahan,
+Buhay may kabuluhan!</stanza>
+  </lyrics>
+</hymn>

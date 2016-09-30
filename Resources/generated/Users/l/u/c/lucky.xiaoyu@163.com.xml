@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cathy</firstname>
+  <lastname>Zhang</lastname>
+  <email>lucky.xiaoyu@163.com</email>
+  <password>$2y$10$a9pwzGkjgawum2gDIAYUy.jLfKnV05L0Gqydeo81cZndet/YYvhAS</password>
+  <gender>F</gender>
+  <country>cn</country>
+  <ipaddress>86.180.189.28</ipaddress>
+  <createdate>2012-05-06 15:27:52</createdate>
+  <lastupdateddate>2014-08-28 01:03:00</lastupdateddate>
+  <lastlogindate>2014-08-28 01:03:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

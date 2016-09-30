@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Becca</firstname>
+  <lastname>Beverstein</lastname>
+  <email>beccabeverstein@gmail.com</email>
+  <password>$2y$10$oeg.0VAQQqXSPL6Wi0sseu7ic0PShzBP8eucux6WsSN9uM1AZIHMK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.199.205.99</ipaddress>
+  <createdate>2016-05-02 13:46:10</createdate>
+  <lastupdateddate>2016-05-02 14:11:11</lastupdateddate>
+  <lastlogindate>2016-05-02 14:06:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="594">Christ my very peace is</fav>
+    <fav category="default" type="h" num="962">Oh, how long before my Lord comes back</fav>
+  </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Kelsey</firstname>
+<lastname>Lieberg</lastname>
+<email>k_lieberg@hotmail.com</email>
+<password>$1$TyJOu4XR$EydKS0KgUo2lpkP9ipLVV/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>69.144.68.48</ipaddress>
+<createdate>2009-08-28 15:21:15</createdate>
+<lastupdateddate>2009-09-15 19:18:26</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="329">Blessed be God, our God</fav>
+        <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+        <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+    </favourites>
+</user>

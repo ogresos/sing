@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Grace</firstname>
+    <lastname>Liu</lastname>
+    <email>mteliu@ntu.edu.tw</email>
+    <password>$1$Zy3ITwJS$ZFmEEHwDmNfjYx.2X3JoI/</password>
+    <gender>F</gender>
+    <country>Taiwan</country>
+    <ipaddress>61.217.216.64</ipaddress>
+    <createdate>2014-03-15 00:50:15</createdate>
+    <lastupdateddate>2014-03-15 00:50:15</lastupdateddate>
+    <lastlogindate>2014-03-15 00:41:52</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="381">主你是我生命</fav>
+    </favourites>
+</user>

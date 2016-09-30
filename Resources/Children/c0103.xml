@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What, know ye not that your body</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Meaning of Human Life</category>
+  <hymncode>556556522344323</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - G - | Dm7 - G7 - | C - F/C - | C - - - | Dm - G - | Dm7 - G7 - | C - C7/E - | F - G7/F - | Em - Am - | Dm - G7 - | C - C7/E - | F - G7/F - | Em - Am - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 5 5/ 6/ 5 5/ 6/ | 5 - 2 - | 2. 3/ 4/ 4/ 3/ 2/ | 3 - - 0 (break) | 5 5/ 6/ 5 5/ 6/ | 5 - 2 - | 2. 3/ 4/ 4/ 3/ 2/ | 1 - - 1 (break) | 6. 5#/ 6 7 | 5 - - 0 | 4 4/ 4/ 4 4/ 5/ | 3( 4) 5 - (break) | 6. 5#/ 6 7 | 5 - - 0 | 2. 3/ 4 3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>What, know ye not that your bod -- y Is a ves -- sel for the Lord? What, know ye not that your bod -- y Is a ves -- sel for the Lord? And we are not our own, We have been formed for our Mak -- er. We are not our own, We be -- long to God.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-o.xml</link>
+    <link type="ref">1 Corinthians 6:19</link>
+  </links>
+  <music>
+    <midi location="c" length="33">c0103.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">What, know ye not that your body
+Is a vessel for the Lord?
+What, know ye not that your body
+Is a vessel for the Lord?
+And we are not our own,
+We have been formed for our Maker.
+We are not our own,
+We belong to God.</stanza>
+  </lyrics>
+</hymn>

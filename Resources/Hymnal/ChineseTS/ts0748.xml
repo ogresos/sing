@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>全為召會花費</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>133321321165</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>這 世 界 非 我 家， 我 的 家 是 召 會， 我 的 生 命 財 物， 全 為 召 會 花 費； 這 世 界 一 切 事 務 盡 都 是 虛 空， 我 若 不 為 召 會， 必 浪 費 世 界 中。 哦 主！ 你 的 心 意 乃 是 召 會， 開 展 你 的 國 度， 執 行 你 的 權 柄。 我 的 所 是 所 有 從 世 界 全 收 回， 從 今 起 我 活 著 完 全 是 為 召 會。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0748.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">這世界非我家，
+我的家是召會，
+我的生命財物，
+全為召會花費；
+這世界一切事務
+盡都是虛空，
+我若不為召會，
+必浪費世界中。
+哦主！
+你的心意乃是召會，
+開展你的國度，
+執行你的權柄。
+我的所是所有
+從世界全收回，
+從今
+起我活著
+完全是為召會。</stanza>
+  </lyrics>
+</hymn>

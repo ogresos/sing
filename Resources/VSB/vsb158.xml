@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Not poquito, nor kidogo</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <numbers><english num="ns:233"/><vsb num="158"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Donny Wise">D. W.</author>
+    <composer biodate="" biolink="" fullname="Donny Wise">D. W.</composer>
+  </creators>
+  <hymncode>117532211117655</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| F - G - | C - Am - | F - G - | C - - - | F - G - | E7 - Am - | F - G7 - | C - - - | F - G - | C - Am - | F - G - | C - - - | F - G - | E7 - Am - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 1/ 1/ 7_./ 5_.. | 3 2 2/ 1. | 0/ 1/ 1/ 1/ 7_./ 6_./ 5_. | 5_. 0 - - (break) | 0 1/ 1/ 7_./ 5_.. | 3 2 2/ 1. | 0/ 1/ 1/ 1/ 7_./ 1/ 2/( 7_./) | 1 - - 0 (break) | 0 4/ 3/ 2 5 | 3( 2) 1 - | 0. 1/ 7_./ 6_./ 5_. | 3.( 2/)( 1) - (break) | 0/ 4/ 4/ 3/ 2( 5) | 3 2 1 - | 0 1/ 1/ 7_./ 1/ 2/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Not po -- qui -- to, nor ki -- do -- go I love the Lord a whole bunch. Nicht ein bis -- chen, shao or cho -- to&amp;mdash; I love the Lord a whole bunch. Grand -- i -- os and mu -- chos Co -- los -- sal un da&amp;mdash; I love You, Lord&amp;mdash; O so much. Not a lit -- tle but a bunch.</singingstanza>
+    <singingstanza2>[skip14] (Un_muchos!!)</singingstanza2>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0233.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Not poquito, nor kidogo
+I love the Lord a whole bunch.
+(Un muchos!!)
+Nicht ein bischen, shao or choto&amp;mdash;
+I love the Lord a whole bunch.
+Grandios and muchos
+Colossal un da&amp;mdash;
+I love You, Lord&amp;mdash;O so much.
+Not a little but a bunch.</stanza>
+    <stanza type="verse" number="2">Lord, I do not have all the words
+To speak my love out to You.
+For Your love to me surpasses
+All words that ever I knew.
+All the languages, though so different
+They all can say the same thing&amp;mdash;
+That my love for You is great.
+I love You, Lord&amp;mdash;O so much!</stanza>
+  </lyrics>
+</hymn>

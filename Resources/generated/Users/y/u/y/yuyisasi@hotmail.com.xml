@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Rut</firstname>
+<lastname>Isasi</lastname>
+<email>yuyisasi@hotmail.com</email>
+<password>$1$xdWeke3p$gcDwCQfiHcRIaqQ6s1TP70</password>
+<gender>F</gender>
+<country>Paraguay</country>
+<ipaddress>186.16.47.52</ipaddress>
+<createdate>2009-02-21 11:16:26</createdate>
+<lastupdateddate>2009-09-15 18:29:33</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+        <fav category="default" type="h" num="724">A little bird I am</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+        <fav category="default" type="h" num="788">When thou wakest in the morning</fav>
+    </favourites>
+</user>

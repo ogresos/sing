@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nagtigum mi, Ginoo, nga Lawas Mo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="1107"/><chinese num="ts:611"/><dutch num="109"/><english num="1107"/><french num="38"/><german num="1107"/><korean num="829"/><portuguese num="123"/><russian num="45"/><spanish num="105"/><tagalog num="1107"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ned Nossaman">Translated from N. N.</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nagtigum mi, Ginoo, nga Lawas Mo:
+Bisan daghan, apan usa ra mi.
+Giusahan ang Imong kinabuhi.
+Busa usa ra ming tanang bahin.</stanza>
+	<stanza type="chorus" number="">May usang Lawas sa uniberso,
+Dinhi gipadayag nato;
+Sa lokal nagbarug's pagkausa,
+Usang iglesia makita.</stanza>
+	<stanza type="verse" number="2">Usang tinapay simbolo's lawas Mo;
+Gipikas aron among ambitan;
+Gikaong tinapay ug nagpahayag
+Nausa gyud mi's tanang balaan.</stanza>
+	<stanza type="verse" number="3">Usang tinapay, ug usa nga kopa,
+Nagpakita nga usa ra gyud ta;
+Gitubos N'ya, gihimo nga Lawas N'ya:
+"Amen" ra gayud ang masulti ta.</stanza>
+	<stanza type="verse" number="4">Usang nagbarug, dili gyud mabulag,
+Pagkausa mao si Cristo ra;
+Usang mag-ambit's tinapay ug kopa,
+Dayag makita ang pagkausa.</stanza>
+	<stanza type="verse" number="5">Unsang kalipay dunay pagkausa!
+Mabati Ginoo, natagbaw Ka;
+Naambitan sab namong katagbawan&amp;mdash;
+Pagtilaw's Bana uban's Asawa.</stanza>
+  </lyrics>
+</hymn>

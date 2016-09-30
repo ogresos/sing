@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Santo Pai, Te adoramos</title>
+  <index>true</index>
+  <category>Sua Santidade</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Santo Pai, Te adoramos,
+E alçamos-Te canção;
+Tu és santo e excelso,
+Digno de adoração.</stanza>
+	<stanza type="verse" number="2">É Teu coração amável,
+Justos os caminhos Teus;
+Tua natureza santa,
+Cristo a transmite aos Teus.</stanza>
+	<stanza type="verse" number="3">Tu nos tens santificado
+Pelo sangue do Senhor;
+Pela santa e sã Palavra
+Nos separas em amor.</stanza>
+	<stanza type="verse" number="4">Somos pelo Espír'to Santo
+Santos para Ti assim;
+Nosso espír'to, alma e corpo,
+Santificarás por fim.</stanza>
+	<stanza type="verse" number="5">De Jesus a vida santa
+Pela graça vens nos dar;
+Té da Tua santidade
+Nos farás participar.</stanza>
+	<stanza type="verse" number="6">Quando na Cidade Santa,
+Vamos sempre partilhar
+Tua plena santidade,
+E "És Santo!" declarar.</stanza>
+  </lyrics>
+</hymn>

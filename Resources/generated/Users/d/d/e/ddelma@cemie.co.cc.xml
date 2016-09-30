@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>DELMA</lastname>
+    <email>ddelma@cemie.co.cc</email>
+    <password>JRrrX8SmnuS35jE7HH8iyg%3D%3D</password>
+    <gender>M</gender>
+    <country>bf</country>
+    <ipaddress>217.113.66.233</ipaddress>
+    <createdate>2011-02-17 19:56:19</createdate>
+    <lastupdateddate>2011-07-07 20:09:36</lastupdateddate>
+    <lastlogindate>2011-07-07 19:41:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="7">Glory, glory to the Father</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    </favourites>
+</user>

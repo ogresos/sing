@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James</firstname>
+  <lastname>Temple</lastname>
+  <email>jamesmtemple@gmail.com</email>
+  <password>$2y$10$p6Gh/m5Rt3kS.bKx8vhrBetGmkrUOdAsM0AUXeJqqkto13HRcHrzu</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>136.245.7.181</ipaddress>
+  <createdate>2009-03-17 16:12:56</createdate>
+  <lastupdateddate>2014-12-12 02:39:20</lastupdateddate>
+  <lastlogindate>2014-12-12 02:39:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

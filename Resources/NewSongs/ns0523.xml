@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Local Churches as the Testimony of Jesus</title>
+  <index>true</index>
+  <numbers><chinese num="ns:523c"/><english num="ns:523"/></numbers>
+  <category>The Church&amp;mdash;The Lampstand of Christ</category>
+  <hymncode>51234321711113322123</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - F - | C - G - | C - - - | C - G/B - | Em - Am - | Dm - G - | C - - - | F - G - | Em - Am - | Dm - G - | C - - - | F - G - | Em - Am - | F - G - | C - - - | F - G - | C G/B Am - | Dm - G - | C - - - | F - G - | Em - Am - | F - G - | F - G - | C - - - | F - G - | Em - Am - | Dm - G - | C - - - | F - G - | Em - Am - | F - G - | F - G - | C - - - |</chords>
+  <melody>| 5 1 2. 3// 4// | 3/ 2/ 1/ 7_./ 1 - | 0/ 1// 1// 1/ 3/ 3/ 2/( 2/) 2// 1// (break) | 2/ 3.( 3) - | 5/ 1/ 7_./ 1/ 2 - | 0/ 5/ 5/ 3/ 2/ 1. (break) | 0/ 4// 4// 4/ 3// 3// 3/ 2/( 2/) 1// 7_.// | 1 - - - | 0/ 4/ 4/ 5/ 3/ 2. (break) | 0/ 5/ 5/ 7/ 7/ ._1. | 0/ 4// 4// 4/ 3// 3// 2/ 2/ 1// 2./ | 3( - 4 5) (break) | 0/ 6// 6// 6/ 4/ 2 - | 0/ 7// 7// 7/ 5/ ._1 - | 0/ ._1// ._1// ._1/ 6// 6// 7/ 7/ 7// 6./ (break) | 5( - 5/) (Chorus) 3/ 4/ 5/ | {6 6 ._1} 7. 7// 6// | 5/ 5/ 5// 4./ 3. 4// 3// (break) | 4/ 4/( 4/) 2// 1// 7_. 2/ 6/ | 5( - 5/) 3/ 4/ 5/ | 6/ 6// 6//( 6/) ._1/ 7/ 7/( 7/) 7// 6// (break) | 5/ 5/ 5/ 7/ ._1. 5// 5// | 6/ 6/ 6/ ._1/ 7/ 7/( 7/) 5// 5// | 6/ 6/( 6/) ._1/ ._2/ ._2/ ._1// 7./ (break) | ._1( - ._1/) 3/ 4/ 5/ | {6 6 ._1} 7. 7// 6// | 5/ 5/ 5// 4./ 3. 4// 3// (break) | 4/ 4/( 4/) 2// 1// 7_./ 7_./ 2/ 6/ | 5( - 5/) 3/ 4/ 5/ (break) | 6/ 6// 6//( 6/) ._1/ 7/ 7/( 7/) 7// 6// | 5/ 5/ 5/ 7/ ._1. 5// 5// (break) | 6/ 6/ 6/ ._1/ 7/ 7/( 7/) 5/ | 6/ 6/( 6/) ._1/ ._2/ ._2/ ._1// 7./ | ._1 - - - ||</melody>
+  <layout>
+    <singingstanza>Church -- es shine, Je -- sus' tes -- ti -- mo -- ny bright; They're Christ's re -- pro -- duc -- tion, Spir -- it's re -- print; God Him -- self's their light, their one ex -- pres -- sion; Christ's ap -- pear -- ance and vir -- tues they pos -- sess. New ark we're en -- t'ring, age dark for -- sak -- ing; No -- ah's house, the new king -- dom her -- ald -- ing. Let the word of truth fill and con -- sti -- tute; With our God be in -- fused to Him ex -- press. Lord Je -- sus, take me, break me; I'd hold noth -- ing back from Thee; Fill me till it is no more I that live; That by Your re -- sur -- rec -- tion life, we would Your tes -- ti -- mo -- ny be. We would be the church You long for, tes -- ti -- mo -- ny of Je -- sus on the earth. O Lord, Your dear bride are we, lov -- ing You so cra -- zi -- ly, Fill us whol -- ly, live Your -- self ex -- clu -- sive -- ly; Lord, by Your re -- sur -- rec -- tion pow -- er, make us ful -- ly one with Thee, As Your shin -- ing gold -- en lamp -- stands, Ful -- fill -- ing Your heart's de -- sire to -- day.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+      <midi location="ns" length="102">ns0523.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Churches shine, Jesus' testimony bright;
+They're Christ's reproduction, Spirit's reprint;
+God Himself's their light, their one expression;
+Christ's appearance and virtues they possess.
+New ark we're ent'ring, age dark forsaking;
+Noah's house, the new kingdom heralding.
+Let the word of truth fill and constitute;
+With our God be infused to Him express.</stanza>
+    <stanza type="chorus" number="">Lord Jesus, take me, break me; I'd hold nothing back from Thee;
+Fill me till it is no more I that live;
+That by Your resurrection life, we would Your testimony be.
+We would be the church You long for, testimony of Jesus on the earth.
+O Lord, Your dear bride are we, loving You so crazily,
+Fill us wholly, live Yourself exclusively;
+Lord, by Your resurrection power, make us fully one with Thee,
+As Your shining golden lampstands, Fulfilling Your heart's desire today.</stanza>
+    <stanza type="verse" number="2">Lampstands, gold living trees, incarnate God,
+With God's nature, show forth resurrection;
+Planting new church trees, to all earth spreading;
+Sprouting, growing and blooming, bearing fruit;
+The seven lampstands: one form, one nature;
+Testimony, expression are but one;
+Fellowship and move all are in one flow;
+Just one ministry, and one Body.</stanza>
+  </lyrics>
+</hymn>

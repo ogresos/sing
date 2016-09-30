@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督乃是真葡萄樹</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><chinese num="ts:443"/><english num="1163"/><korean num="846"/><spanish num="266"/></numbers>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5. 5/ 5./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>基 督 乃 是 真 葡 萄 樹， 我 們 是 祂 真 枝 子； 住 在 主 裏， 讓 祂 內 住， 生 命 流 通 永 不 止。 葡 萄 樹， 真 住 處， 是 我 主 與 我 聯 屬； 與 主 互 住 時 刻 無 阻， 我 就 得 識 祂 豐 富。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督乃是真葡萄樹，
+我們是祂真枝子；
+住在主裏，讓祂內住，
+生命流通永不止。</stanza>
+	<stanza type="chorus" number="">葡萄樹，真住處，
+是我主與我聯屬；
+與主互住時刻無阻，
+我就得識祂豐富。</stanza>
+	<stanza type="verse" number="2">祂乃是話內住我靈，
+說話豐富且應時；
+神聖發言儆醒傾聽，
+“互住”經歷纔真實。</stanza>
+	<stanza type="verse" number="3">我們若是全心愛主，
+就必遵行祂吩咐；
+如此必能實際、深入，
+居住祂裏享富足。</stanza>
+	<stanza type="verse" number="4">祂愛住在我們裏面，
+我們也住祂愛裏；
+生命交通和諧、甘甜，
+帶來喜樂無可比。</stanza>
+	<stanza type="verse" number="5">如此互住何等寶貴，
+親密、甜美又豐富，
+結出美果豐碩纍纍，
+神、人喜樂同滿足。</stanza>
+  </lyrics>
+</hymn>

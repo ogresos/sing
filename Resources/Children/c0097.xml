@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Go, Now Go!</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Go Ye!</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="1838-1875" biolink="" fullname="">Georges Bizet</composer>
+  </creators>
+  <hymncode>111545111123211121712</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - G7 - | C - Cmaj7 - | D7 - G7 - | F - C7 - | F - C7 - | F - Dm - | E - G7 - | C - G7 - | C - G7 - | C - Cmaj7 - | D7 - G7 - | Eb - - - | Eb - - - | Eb - G7 - | G7 - C - ||</chords>
+  <melody>| 1 1 1/ 5_./ 4_./ 5_./ | 1 1./ 1// 1/ 2/ 3/ 2/ | 1 1./ 1// 2/ 1/ 7_./ 1/ | 2 - - - | 4 4./(. 4//). 4/( 1/) 7b_./ 1/ | 4 4 4/( 5/) 6/(. 5/). | 4 4/( 3/) 2 2/( 1/) | 7_.(. - - 5_.). | 1 1./ 1// 1/(. 5_./). 4_./ 5_./ | 1 1 1/(. 2/). 3/(. 2/). | 1 1 2/(. 1/). 7_./ 1/ | 2 - - - | 5 5./(. 5//). 5/(. 4/). 3b/ 4/ | 5 5./(. 5//). 5/( 4/) 3b/(. 4/). | 5 5_./(. 6_./). 7_. 5_./(. 3/). | 2( - 1) - ||</melody>
+  <layout>
+    <singingstanza end="-1">Af -- ter He had ris -- en, Je -- sus ap -- peared to His dis -- ci -- ples, de -- clar -- ing un -- to them: Go, now [skip1] go in -- to all the world and pro -- claim the gos -- pel there! [skip1] He who be -- lieves [skip1] and is bap -- tized shall [skip1] be [skip1] saved; be saved and not con -- demned! Preach and pro -- claim [skip1] un -- to all cre -- [skip1] a -- tion, [skip1] go -- ing [skip1] ev -- ery -- [skip1] where.</singingstanza>
+    <singingstanza2>2. Bless -- ing His dis -- ci -- ples, af -- ter [skip1] speak -- ing to them, Je -- sus was tak -- en up to heav'n. Sat at the right hand of God, while they  with [skip1] great joy wor -- shipped Him. Then out the dis -- ci -- ples went, the Lord was work -- ing with them; and con -- fir -- [skip1] ming the Word. Now con -- [skip1] tin -- uous -- ly the gos -- pel pro -- ceeds to the ut -- ter -- most part of the earth!</singingstanza2>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2012 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <links>
+    <link type="ref" url="">cf. Mark 16:14-20</link>
+  </links>
+  <music>
+    <midi location="c" length="33">c0097.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">After He had risen, Jesus appeared to His disciples, declaring unto them:
+Go, now go into all the world and proclaim the gospel there!
+He who believes and is baptized shall be saved; be saved and not condemned!
+Preach and proclaim unto all creation, going everywhere.</stanza>
+    <stanza type="verse" number="2">Blessing His disciples, after speaking to them, Jesus was taken up to heav'n.
+Sat at the right hand of God, while they with great joy worshipped Him.
+Then out the disciples went, the Lord was working with them; and confirming the Word.
+Now continuously the gospel proceeds to the uttermost part of the earth!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2012 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

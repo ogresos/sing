@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Dios, kang Cristo gitingub</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA KAALAM NIYA</category>
+  <numbers><cebuano num="24"/><chinese num="21"/><english num="24"/><german num="24"/><korean num="21"/><portuguese num="21"/><russian num="392"/><spanish num="17"/><tagalog num="24"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 | 1 - - 2 (break) | 3 2 1 3 | 5/( 4/) 3/( 2/) 3 5 | 5 - 5 - | 6 - 5( 4#) | 5 - - 3 (break) | 5 3 1 3 | 2/( 1/) 2/( 3/) 2 1 | 5 - 4 - | 3.( 4/ 2) 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="24"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Dios, kang Cristo gitingub
+Kaalam Mo'g grasya,
+Gihimong kaalam namo
+Igsubay's gawi Mo.</stanza>
+	<stanza type="verse" number="2">Tanang laraw Mo naa N'ya,
+Dalan's grasya Mo S'ya,
+Tanan maangkon diha N'ya,
+Ug mahimaya Ka.</stanza>
+	<stanza type="verse" number="3">S'yang pagkamatarung namo,
+Kan'ya namatarung;
+Siya ang pagkabalaan;
+Kan'ya gibalaan.</stanza>
+	<stanza type="verse" number="4">Pagtubos usab S'ya namo,
+Sumala's plano Mo,
+Aron hingpit nga matubos,
+Magmahingpit nga tawo.</stanza>
+	<stanza type="verse" number="5">O Dios, kaalam Mo Siya,
+Sa patigayon Mo,
+Alang N'ya daygon Ka namo
+Uban's pagpaubos.</stanza>
+	<stanza type="verse" number="6">Kaalam Kan'ya nakita,
+Dato, pagkalalum;
+Apan labi pang kaalam
+Sa gawi Mo mapalgan.</stanza>
+  </lyrics>
+</hymn>

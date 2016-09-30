@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ade</firstname>
+  <lastname>Lawal-Solarin</lastname>
+  <email>monils@gmail.com</email>
+  <password>$2y$10$xo.uOg6Xk.j1FZhtBuVsxuyfz7AM6aujNSie1FbmhDNVdaLcesvGG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.215.229.224</ipaddress>
+  <createdate>2015-01-21 00:49:05</createdate>
+  <lastupdateddate>2016-08-29 11:22:15</lastupdateddate>
+  <lastlogindate>2016-08-29 11:22:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="179">Glory to Christ on high</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+    <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+    <fav category="default" type="h" num="140">Look, ye saints, the sight is glorious</fav>
+    <fav category="default" type="h" num="177">Majestic sweetness sits enthroned</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="146">Rejoice, the Lord is King</fav>
+    <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="238">When morning gilds the skies</fav>
+    <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+  </favourites>
+</user>

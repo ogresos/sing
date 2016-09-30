@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay inam! Tinig ng puri</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KATUBUSAN</category>
+  <numbers><chinese num="98"/><english num="113"/><korean num="98"/><tagalog num="113"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="113"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay inam! Tinig ng puri,
+Sa lahat ng dako't oras;
+Kung wika nati'y tinimpi,
+Sigaw ng bato'y lalabas.</stanza>
+    <stanza type="verse" number="2">Dahil sa dugo'y binili,
+Tayo'y magpuri sa Kanya,
+'Binigay Niya ang Sarili,
+Kamataya'y tinikman Niya.</stanza>
+    <stanza type="verse" number="3">May tanging awit sa mundo,
+Alam ng salaring ligtas,
+Di alam ng ibang tao
+Na di pa nakararanas.</stanza>
+    <stanza type="verse" number="4">Anghel makapagsasabi:
+Habag nagmula sa dugo,
+Nguni't tayo'y may bahagi
+Sa bisa't biyaya nito.</stanza>
+    <stanza type="verse" number="5">Anghel pupuri't sasamba,
+Umaamin na Siya ay Diyos,
+Nguni't maging sa trono, Siya
+Ay may pagka-taong lubos!</stanza>
+    <stanza type="verse" number="6">Pagsinta Mo ang dahilan
+Ng pagkamatay Mo sa krus;
+Pagbalik Mo'y aabangan,
+Papuri't pagsamba'y puspos.</stanza>
+  </lyrics>
+</hymn>

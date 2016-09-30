@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Young-hee</firstname>
+  <lastname>Sohn</lastname>
+  <email>yheesohn@gmail.com</email>
+  <password>$2y$10$2vX7ptVhNHtrcnJmEt.9KO.cyndidBXIE2HQUyURlh6GtuqWZKLNi</password>
+  <gender>M</gender>
+  <country>kr</country>
+  <ipaddress>218.49.9.158</ipaddress>
+  <createdate>2014-06-11 00:14:11</createdate>
+  <lastupdateddate>2016-03-05 22:03:46</lastupdateddate>
+  <lastlogindate>2016-03-05 22:01:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1024">Christ the Savior is just the One you need</fav>
+    <fav category="default" type="h" num="1025">Give up the world, Christ to obtain</fav>
+  </favourites>
+</user>

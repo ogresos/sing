@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>需要</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>32171213456535</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>哦！ 你 今 在 何 處， 天 天 奔 波 又 忙 碌， 卻 是 虛 空、 虛 空、 虛 空 的 生 活！ 你 曾 追 求 過 萬 物， 卻 是 不 能 得 飽 足， 總 覺 得 裡 面 缺 少、 缺 少 些 甚 麼！ 你 需 要 耶 穌！ 宇 宙 之 主！ 你 需 要 享 受 祂 的 豐 富！ 你 的 心 雖 比 萬 物 都 大， 祂 卻 能 彀、 能 彀 使 你 得 著 滿 足！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0820.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦！你今在何處，
+天天奔波又忙碌，
+卻是虛空、虛空、
+虛空的生活！
+你曾追求過萬物，
+卻是不能得飽足，
+總覺得裡面缺少、
+缺少些甚麼！</stanza>
+	<stanza type="chorus" number="">你需要耶穌！宇宙之主！
+你需要享受祂的豐富！
+你的心雖比萬物都大，
+祂卻能彀、
+能彀使你得著滿足！</stanza>
+	<stanza type="verse" number="2">哦！你確是自足，
+世上一切你都有，
+還是不覺、不覺、
+不覺得滿足！
+你的工作有成就，
+學業也可以自負，
+但是在你的深處、
+深處仍缺如！</stanza>
+  </lyrics>
+</hymn>

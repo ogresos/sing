@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kathie</firstname>
+  <lastname>MacPhee</lastname>
+  <email>kathryn.macphee@gmail.com</email>
+  <password>$2y$10$14sEntaz5X5JNkCUpEX0Peqr7QCCxdR7XVEXBWIRNN42n.fcr9loe</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>142.68.254.202</ipaddress>
+  <createdate>2014-07-13 10:40:37</createdate>
+  <lastupdateddate>2014-07-13 11:40:50</lastupdateddate>
+  <lastlogindate>2014-07-13 10:40:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="977">Glorious things of thee are spoken</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="688">I've seen the lightning flashing</fav>
+    <fav category="default" type="h" num="719">Like a river, glorious</fav>
+    <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Carrie</firstname>
+    <lastname>Ann</lastname>
+    <email>cakrause@me.com</email>
+    <password>en8RxHCEvzkV30iL1j%2Bb3A%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>66.41.166.233</ipaddress>
+    <createdate>2013-04-21 22:26:57</createdate>
+    <lastupdateddate>2013-04-21 22:32:31</lastupdateddate>
+    <lastlogindate>2013-04-21 22:26:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="h" num="385">Oh, tame me, Lord! rebellious nature calm</fav>
+    </favourites>
+</user>

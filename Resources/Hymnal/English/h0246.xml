@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Joys are flowing like a river</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Comforter</category>
+  <creators>
+    <author biodate="1850-1932" biolink="">Manie Payne Ferguson</author>
+    <composer biodate="" biolink="">W. S. Marshall</composer>
+    <composer biodate="1854-1945" biolink="">Adapted by James M. Kirk</composer>
+  </creators>
+  <meter>8.7.8.7. with chorus.</meter>
+  <hymncode>34511321617653512</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - C/E | F - Dm | C/E - Am | G/B - G7 | C - C/E | F - Dm | C/G - G | C - - | C - - | F - - | C/E - C | G - - | C - - | F - Dm | C/G - G7 | C - 0 |</chords>
+  <melody>| 0 - 3/ 4/ | 5/( ._1/) ._1 ._3/ ._2/ | ._1/( 6/) ._1 7/ 6/ | 5. 3/ 5/ ._1/ (break) | ._2 - 7/ 6/ | 5/( ._1/) ._1 ._3/ ._2/ | ._1/( 6/) ._1 7/ 6/ | 5. ._1/ 7/ ._2/ (break) | ._1 - (Chorus) 3/ 4/ | 5/ 3/ 5 ._1/ 7/ | 6/ 4/ 6 ._1/ 6/ | 5. 3/ 5/ ._1/ (break) | ._2 - 7/ 6/ | 5/ 3/ 5 ._1/ 7/ | 6/ 4/ 6 ._1/ 6/ | 5/ 5. 7./ ._2// | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>Joys are flow -- ing like a riv -- er, Since the Com -- fort -- er has come; He a -- bides with us for -- ev -- er, Makes the trust -- ing heart His home. Bless -- ed qui -- et -- ness, ho -- ly qui -- et -- ness&amp;mdash; What as -- su -- rance in my soul! On the storm -- y sea He speaks peace to me. How the bil -- lows cease to roll!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj085.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="31">e0246_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Joys are flowing like a river,
+Since the Comforter has come;
+He abides with us forever,
+Makes the trusting heart His home.</stanza>
+    <stanza type="chorus" number="">Blessed quietness, holy quietness&amp;mdash;
+  What assurance in my soul!
+On the stormy sea He speaks peace to me.
+    How the billows cease to roll!</stanza>
+    <stanza type="verse" number="2">Bringing life and health and gladness
+All around, this heavenly Guest
+Banished unbelief and sadness,
+Changed our weariness to rest.</stanza>
+    <stanza type="verse" number="3">Like the rain that falls from heaven,
+Like the sunlight from the sky,
+So the Holy Ghost is given,
+Coming to us from on high.</stanza>
+    <stanza type="verse" number="4">See a fruitful field is growing
+Blessed fruits of righteousness,
+And the streams of life are flowing
+In the lonely wilderness.</stanza>
+    <stanza type="verse" number="5">What a wonderful salvation
+Where we always see His face!
+What a perfect habitation!
+What a quiet resting place!</stanza>
+  </lyrics>
+</hymn>

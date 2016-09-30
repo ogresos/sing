@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Verna</firstname>
+    <lastname>Mom</lastname>
+    <email>verna.sibos@gmail.com</email>
+    <password>aguB1ieNUKwnD7vikZosMg%3D%3D</password>
+    <gender></gender>
+    <country>Australia</country>
+    <ipaddress>121.210.227.6</ipaddress>
+    <createdate>2013-07-09 20:11:21</createdate>
+    <lastupdateddate>2013-07-09 20:34:08</lastupdateddate>
+    <lastlogindate>2013-07-09 20:11:21</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+        <fav category="default" type="nt" num="642">Within the veil</fav>
+    </favourites>
+</user>

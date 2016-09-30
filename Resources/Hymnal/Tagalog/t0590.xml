@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa sisidlang lupang hamak</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;NAGHAHAYAG SA KANYA</category>
+  <numbers><chinese num="431"/><english num="590"/><korean num="431"/><tagalog num="590"/></numbers>
+  <creators>
+    <author biodate="1827-1909" biolink="">Translated from Emma Frances Shuttleworth Bevan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="590"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa sisidlang lupang hamak,
+Sumilay biyaya Niya;
+Pusong 'panglaw niliwanag,
+Ilaw kay Hesus buhat!</stanza>
+    <stanza type="verse" number="2">Kristo, liwanag ng langit,
+Sa lupa sumilay rin;
+Espiritu Niya'y binigay,
+Buhay ating tinaglay.</stanza>
+    <stanza type="verse" number="3">Mula makalangit glorya,
+Diyos Mismo ang dinala;
+Napasa sisidlang lupa,
+Nang tao'y mapahanga.</stanza>
+    <stanza type="verse" number="4">Walang rilag, walang ganda,
+Mga sisidlang lupa;
+Nguni't yamang makalangit,
+Laging walang hihigit.</stanza>
+    <stanza type="verse" number="5">Sisidlang lupa'y mahina,
+Gutom, uhaw binata;
+Nguni't Anak naitanghal,
+Yamang nakapagbigay.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Steve</firstname>
+  <lastname>London</lastname>
+  <email>londonfam@sbcglobal.net</email>
+  <password>$2y$10$.C4.DzvA79kxlcpbZmJYcOdfrhAFpB5.6NZ.CgYt4kuPaUV/sxBUu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.238.203.3</ipaddress>
+  <createdate>2016-05-01 02:57:57</createdate>
+  <lastupdateddate>2016-05-01 03:00:22</lastupdateddate>
+  <lastlogindate>2016-05-01 03:00:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

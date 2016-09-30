@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mi Redentor murió en la cruz</title>
+  <index>true</index>
+  <category>El evangelio&amp;mdash;La sangre</category>
+  <numbers><chinese num="685"/><english num="1005"/><korean num="685"/><spanish num="468"/><tagalog num="1005"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from John G. Foote</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1005"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mi Redentor murió en la cruz,
+Pagó las deudas del pecador;
+Cuando la sangre se ve por señal
+Dios "pasará de vosotros" hoy.</stanza>
+    <stanza type="chorus" number="">Si ve sangre Dios,
+Si ve sangre Dios,
+Si ve sangre Dios,
+Pasará sobre vosotros hoy.</stanza>
+    <stanza type="verse" number="2">A los más malos Dios salvará,
+Como promete, El lo hará;
+Pongan su fe en la sangre͜ eficaz
+Y "de vosotros Dios pasará".</stanza>
+    <stanza type="verse" number="3">Nadie podrá del juicio͜ escapar,
+Un justo pagó͜ a todos dará;
+Hay que creer en la sangre triunfal,
+Y "de vosotros Dios pasará".</stanza>
+    <stanza type="verse" number="4">¡Qué compasión! ¡Oh qué gran amor!
+Cristo mostró por el pecador;
+Bajo Su sangre albérguense hoy
+Y "pasará de vosotros" Dios.</stanza>
+  </lyrics>
+</hymn>

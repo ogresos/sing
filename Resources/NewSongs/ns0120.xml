@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Seek ye first</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><chinese num="ts:211"/><english num="ns:120"/><vsb num="259"/></numbers>
+  <creators>
+    <composer biodate="1971" biolink="">Karen Lafferty</composer>
+  </creators>
+  <hymncode>334532161234543432</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>160</tempo>
+  <chords>| C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | C/E - - - | Dm - - - | G7 - - - | C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | C/E - F - | Gsus4 - G7 - | C - - - |</chords>
+  <melody>| 3 - 3( 4) | 5 - 3( 2) | 1( 6_.) 1 2 | 3 - - - | 4 - 5( 4) | 3 - 4( 3) | 2( - - - | 2) - - 0 | 3 - 3 4 | 5 - 3 2 | 1 6_. 1 2 | 3 - - - | 4 - 5( 4) | 3 - 4 3 | 2 - - - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Seek ye first the king -- dom of God And His righ -- teous -- ness; And all these things shall be add -- ed un -- to you. Hal -- le -- lu, Hal -- le -- lu -- jah!</singingstanza>
+  </layout>
+  <copyright>Karen Lafferty, 1971; 1972 Maranatha! Music</copyright>
+  <links>
+    <link type="ref">Matthew 6:33</link>
+    <link type="ref">Matthew 7:7</link>
+    <link type="ref">Matthew 4:4</link>
+  </links>
+  <music>
+    <midi location="ns" length="24">ns0120.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Seek ye first the kingdom of God
+And His righteousness;
+And all these things shall be added unto you.
+Hallelu, Hallelujah!</stanza>
+    <stanza type="verse" number="2">Ask, and it shall be given unto you;
+Seek, and you shall find.
+Knock, and it shall be opened unto you.
+Hallelu, Hallelujah!</stanza>
+    <stanza type="verse" number="3">Man shall not live by bread alone,
+But by every word
+That proceeds out from the mouth of God.
+Hallelu, Hallelujah!</stanza>
+  </lyrics>
+</hymn>

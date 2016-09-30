@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在召會中鑑賞</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3666167556</hymncode>
+  <key>G Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>在 召 會 中 鑑 賞， 你 的 可 愛， 你 美 麗 吸 引 我 們， 一 同 追 隨。 哦， 阿 利 路 亞！ 哦， 阿 利 路 亞！ 是 你 吸 引 我 們 一 同 追 隨。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0736.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在召會中鑑賞，
+你的可愛，
+你美麗吸引我們，
+一同追隨。
+哦，阿利路亞！
+哦，阿利路亞！
+是你吸引我們一同追隨。</stanza>
+	<stanza type="verse" number="2">在召會中尋到甜美的家，
+在安息裡
+喜樂的享受豐富。
+哦阿利路亞！
+哦阿利路亞！
+安息裡喜樂的享受豐富。</stanza>
+	<stanza type="verse" number="3">在召會中同心來跟隨主，
+直到祂能因我們
+心滿意足。
+哦阿利路亞！
+哦阿利路亞！
+直到祂因我們心滿意足。</stanza>
+	<stanza type="verse" number="4">在召會中我們同是肢體，
+個個都能活潑的
+來盡功用。
+哦阿利路亞！
+哦阿利路亞！
+個個都活潑的來盡功用。</stanza>
+	<stanza type="verse" number="5">在召會中我們彼此相愛，
+個個供應生命
+在愛中建造。
+哦阿利路亞！
+哦阿利路亞！
+個個供應生命愛中建造。</stanza>
+	<stanza type="verse" number="6">在召會中我們天天長大，
+直到長成
+我主豐滿的身量。
+哦阿利路亞！
+哦阿利路亞！
+直到長成我主豐滿身量。</stanza>
+	<stanza type="verse" number="7">我們所有一切都為召會，
+直到榮耀的召會
+完全顯出。
+哦阿利路亞！
+哦阿利路亞！
+直到榮耀召會完全顯出。</stanza>
+  </lyrics>
+</hymn>

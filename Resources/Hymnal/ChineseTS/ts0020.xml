@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>加冠祂萬有主</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><cebuano num="139"/><chinese num="ts:20"/><english num="139"/><french num="25"/><korean num="944"/><portuguese num="67"/><spanish num="71"/><tagalog num="139"/></numbers>
+  <creators>
+	<author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <melody>| 0 - 5 | ._1 - ._2 | ._3./( ._4// ._5) ._1 | ._2( ._1) 7 | ._1 - 7/( 6/) | 5. 5/ 6/ 6/ | 5( ._1) ._1 | 6( ._4) ._4 | ._3 - ._2 (break) | ._1 - ._1/( ._2/) | ._3 - ._3 | ._3( ._2) ._1 | ._2( ._1) 7 (break) | ._1./( ._2// ._3) (Chorus) ._5 | ._4.( ._3/ ._2/ ._4/ | ._3. ._2/ ._1/ ._3/ | ._2. ._1/ 7/ ._2/ | ._1) ._1 0 (break) | ._4 ._4 0 | ._2 ._2 0 | ._3 ._3 ._5 | ._1./( ._2// ._3) ._4 | ._3 - ._2 | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>何 等 權 能！ 耶 穌 尊 名！ 天 使 全 都 俯 伏， 天 使 全 都 俯 伏， 獻 上 冠 冕， 同 心 尊 敬。 加 冠 祂， 加 冠， 加 冠， 加 冠， 加 冠 祂 萬 有 主！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="139"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何等權能！耶穌尊名！
+天使全都俯伏，
+天使全都俯伏，
+獻上冠冕，同心尊敬。</stanza>
+	<stanza type="chorus" number="">加冠祂，加冠，加冠，
+加冠，加冠祂萬有主！</stanza>
+	<stanza type="verse" number="2">你們墮落亞當後代，
+今成被贖聖徒，
+今成被贖聖徒，
+靠恩得救，
+應當敬拜。</stanza>
+	<stanza type="verse" number="3">罪人，你心永不可忘，
+祂的苦膽、酸醋，
+祂的苦膽、酸醋，
+今當到祂面前瞻望。</stanza>
+	<stanza type="verse" number="4">但願地上萬族萬民，
+都向救主俯伏。
+都向救主俯伏，
+榮耀、尊貴都歸祂名。</stanza>
+	<stanza type="verse" number="5">億萬群眾歌聲雷動，
+我也一同歡呼，
+我也一同歡呼，
+直到永遠敬拜稱頌。</stanza>
+  </lyrics>
+</hymn>

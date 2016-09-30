@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Rebekah</firstname>
+    <lastname>Kievlan</lastname>
+    <email>kievlan.2@wright.edu</email>
+    <password>OV3S1Wz%2B6QpfRrBYp1WTew%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>130.108.192.161</ipaddress>
+    <createdate>2012-09-02 15:12:45</createdate>
+    <lastupdateddate>2012-09-02 17:41:43</lastupdateddate>
+    <lastlogindate>2012-09-02 17:40:36</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+        <fav category="default" type="h" num="433">I am the Lord's! O joy beyond expression</fav>
+        <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="h" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    </favourites>
+</user>

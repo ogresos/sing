@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O glorious Christ, Savior mine (Alternate Tune)</title>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.hymns.net/stories/lee.htm">Witness Lee</author>
+    <composer biodate="" biolink="">Mrs. Paul Friedmann</composer>
+  </creators>
+  <numbers><chinese num="382*"></chinese><korean num="382*"></korean><russian num="95"></russian><spanish num="215"></spanish></numbers>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>553217655523476765</hymncode>
+  <key>Ab Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. F. | C - - | Dm. G7. | C - - | G/B. G. | C. Am. | D. D7/F#. | G. G7. | C - - | G - - | G7 - - | C. G7. | C. E7. | Am. F. | C. G7. | C - - |</chords>
+<guitarChords>| C - - | C. F. | C - - | G. G7. | C - - | G. G. | C. C. | D. D7. | G. G7. | C - - | G - - | G7 - - | C. C. | C. E7. | Am. F. | C/G. G7. | C - - |</guitarChords>
+  <melody>| 0. 0 5/ | 5/ ._3/ ._2/ ._1/ 7/ 6/ | 5.( 5) 5// 5// | 2/( 3/) 4/ 7/ 6./ 7// (break) | 6.( 5) 7//( ._1//) | ._2 ._2/ 7 ._1// ._2// | ._3 ._2/ ._1 ._1/ | 6 ._2/ ._2 ._1/ (break) | 7 ._1/ (.._2/ (Chorus) ._3./( ._2//) | ._1 5/ 3/ 5/ ._1/ | ._1 7/ 7 5// 5// | ._2./ ._1#// ._2/ 5/( 7/) ._4/ (break) | ._3.( ._3) 5/ | ._3 ._3/ ._3/( ._2/) 7/ | ._1 ._1/ ._1 6/ | 5/ ._1/ ._3/ ._5 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+    <singingstanza>O glo -- ri -- ous Christ, Sav -- ior mine, Thou art tru -- ly ra -- diance di -- vine; God in -- fi -- nite, in e -- ter -- ni -- ty, Yet man in time, fi -- nite to be. Oh! Christ, ex -- pres -- sion of God, the Great, In -- ex -- haus -- ti -- ble, rich, and sweet! God min -- gled with hu -- man -- i -- ty Lives in me my all to be.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">ohwhatalife.xml</link>
+    <link type="group">hymnal-subj055.xml</link>
+    <link type="relevant" category="h" num="501" />
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0501.html">View Lyrics</link>
+  </links>
+  <music>
+    <midi location="h" length="44">e0501b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O glorious Christ, Savior mine,
+Thou art truly radiance divine;
+God infinite, in eternity,
+Yet man in time, finite to be.</stanza>
+    <stanza type="chorus" number="">Oh! Christ, expression of God, the Great,
+Inexhaustible, rich, and sweet!
+God mingled with humanity
+  Lives in me my all to be.</stanza>
+    <stanza type="verse" number="2">The fulness of God dwells in Thee;
+Thou dost manifest God's glory;
+In flesh Thou hast redemption wrought;
+As Spirit, oneness with me sought.</stanza>
+    <stanza type="verse" number="3">All things of the Father are Thine;
+All Thou art in Spirit is mine;
+The Spirit makes Thee real to me,
+That Thou experienced might be.</stanza>
+    <stanza type="verse" number="4">The Spirit of life causes Thee
+By Thy Word to transfer to me.
+Thy Spirit touched, Thy word received,
+Thy life in me is thus conceived.</stanza>
+    <stanza type="verse" number="5">In spirit while gazing on Thee,
+As a glass reflecting Thy glory,
+Like to Thyself transformed I'll be,
+That Thou might be expressed thru me.</stanza>
+    <stanza type="verse" number="6">In no other way could we be
+Sanctified and share Thy vict'ry;
+Thus only spiritual we'll be
+And touch the life of glory.</stanza>
+    <stanza type="verse" number="7">Thy Spirit will me saturate
+Every part will God permeate,
+Deliv'ring me from the old man,
+With all saints building for His plan.</stanza>
+  </lyrics>
+</hymn>

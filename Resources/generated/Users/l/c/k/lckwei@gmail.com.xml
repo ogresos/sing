@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Karen</firstname>
+    <lastname>Wei</lastname>
+    <email>lckwei@gmail.com</email>
+    <password>$1$fS80HC2D$636/Pe1MLt9KAelHtq3gW.</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>128.249.200.2</ipaddress>
+    <createdate>2008-07-26 01:43:10</createdate>
+    <lastupdateddate>2010-12-09 18:48:33</lastupdateddate>
+    <lastlogindate>2010-12-09 18:48:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+        <fav category="default" type="h" num="1343">A new commandment</fav>
+        <fav category="default" type="h" num="680">All in His hands&amp;mdash;what confidence it brings</fav>
+        <fav category="default" type="nt" num="285">Come and rejoice with me</fav>
+        <fav category="default" type="nt" num="1049">Drawn to the Cross which Thou hast blest</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="nt" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+        <fav category="default" type="nt" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+        <fav category="default" type="nt" num="154">It passeth telling, that dear love of Thine</fav>
+        <fav category="default" type="h" num="1221">Jesus, our wonderful Shepherd</fav>
+        <fav category="default" type="nt" num="12">O God, Thou art the source of life</fav>
+        <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+        <fav category="default" type="nt" num="223">On the table of Thy love</fav>
+        <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+        <fav category="default" type="nt" num="378">Savior, lead me up the mountain</fav>
+        <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+        <fav category="default" type="h" num="852">Thy dwelling place, O Lord, I love</fav>
+        <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Miguel</firstname>
+  <lastname>Basto</lastname>
+  <email>miguelbastopen@icloud.com</email>
+  <password>$2y$10$u5bD4p4iicTB4Ae5ps2vm.p/8Rx/1X21GFPWHTEhg.tL6KW7No0Ym</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>142.129.108.109</ipaddress>
+  <createdate>2015-03-01 05:52:16</createdate>
+  <lastupdateddate>2016-05-07 02:31:50</lastupdateddate>
+  <lastlogindate>2016-05-05 16:21:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="h" num="365">Jesus, Thy life is mine</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="ns" num="511">This Divine Power</fav>
+    <fav category="default" type="ns" num="402">Where is the House</fav>
+  </favourites>
+</user>

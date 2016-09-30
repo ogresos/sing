@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神阿你名何等廣大</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的名</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>神 阿， 你 名 何 等 廣 大 泱 漭！ 我 今 投 身 其 中， 心 頂 安 然； 有 你 彀 了， 無 論 日 有 多 長； 有 你 彀 了， 無 論 夜 有 多 暗。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神阿，你名何等廣大泱漭！
+我今投身其中，心頂安然；
+有你彀了，無論日有多長；
+有你彀了，無論夜有多暗。</stanza>
+	<stanza type="verse" number="2">有你彀了，無論事多紛煩；
+有你彀了，無論境多寂寞；
+有你，我就已經能彀盡歡，
+有你，我就已經能彀唱歌。</stanza>
+	<stanza type="verse" number="3">你是我神！全有！全足！全豐！
+你能為我創造我所缺乏；
+有你自己，在我回家途中，
+無論有何需要，都必無差。</stanza>
+	<stanza type="verse" number="4">我的神阿，你在已過路上，
+曾用愛的神蹟多方眷顧；
+故我敢再投入你的胸膛，
+因信心安，讚美你的道路。</stanza>
+  </lyrics>
+</hymn>

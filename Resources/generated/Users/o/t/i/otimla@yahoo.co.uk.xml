@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lameck</firstname>
+  <lastname/>
+  <email>otimla@yahoo.co.uk</email>
+  <password>$2y$10$Kv/d5sgHlrk45H92FHspp.aRQIHIX9Ese2qTxwxSqtNBsfNalk7d6</password>
+  <gender/>
+  <country>Uganda</country>
+  <ipaddress>41.202.240.12</ipaddress>
+  <createdate>2014-06-09 01:07:42</createdate>
+  <lastupdateddate>2015-03-05 06:17:33</lastupdateddate>
+  <lastlogindate>2015-03-05 06:17:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="539">O Lord, Thou art in me as life</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="c" num="4">This is the day</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О мой Господь, Ты ныне Дух</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;КАК ДУХА</category>
+  <numbers><cebuano num="493"/><chinese num="371"/><english num="493"/><german num="493"/><korean num="371"/><portuguese num="230"/><russian num="91"/><spanish num="207"/><tagalog num="493"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5_. | 3 - 3 | 3( 2) 6_. | 7_.( 1) 2 (break) | 1 - 1 | 4 - 3 | 2 - 1 | 7_. - 1 (break) | 2 - 5_. | 3 - 1 | 6_. - 6_. | 2 - 1 (break) | 7_. - 5_. | 5( 3) 1 | 7_.( 6_.) 1 | 5_.( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>О мой Гос -- подь, Ты ны -- не Дух, Тот Дух, кто жизнь нам раз -- да -- ёт, Сво -- им бо -- гат -- ством у -- кре -- пит.  Как слав -- но! Как бо -- жест -- вен -- но!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="493"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О мой Господь, Ты ныне Дух,
+Тот Дух, кто жизнь нам раздаёт,
+Своим богатством укрепит.
+Как славно! Как божественно!</stanza>
+	<stanza type="verse" number="2">О мой Господь, Ты ныне Дух,
+Кто нас вполне освободил.
+Он в нас теперь руководит
+Законoм жизни изнутри.</stanza>
+	<stanza type="verse" number="3">О мой Господь, Ты ныне Дух,
+Преобразует Он меня,
+С Тобой сообразует Он
+И свет Твой дарит мне всегда.</stanza>
+	<stanza type="verse" number="4">О мой Господь, Ты ныне Дух,
+Чьим домом стал мой дух, и с
+Ним
+Теперь сливается мой дух, –
+И два становятся одним.</stanza>
+	<stanza type="verse" number="5">Учи как дух мой упражнять,
+Тебя касаться, мой Господь.
+Чтоб жил я в истине Твоей
+И в Духе я ходил Твоём.</stanza>
+  </lyrics>
+</hymn>

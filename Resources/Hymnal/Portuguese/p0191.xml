@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cresce em mim, Senhor Jesus</title>
+  <index>true</index>
+  <category>Por Crescimento De Cristo</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+    <author biodate="1741-1801" biolink="">Translated from Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 (break) | 1( - - 1) 0 (Chorus) 5 | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="395"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cresce em mim, Senhor Jesus,
+E o mais faz decrescer;
+Meu coração se achegue a Ti,
+Liberto assim vai ser.</stanza>
+	<stanza type="chorus" number="">Que cada dia Teu poder
+Sustente-me aqui;
+A luz dissipa as trevas, e
+A vida, a morte em mim.</stanza>
+	<stanza type="verse" number="2">Em Tua luz, faz definhar
+O pensamento mau;
+Que nada sou, mas tudo és,
+Ensina-me afinal.</stanza>
+	<stanza type="verse" number="3">Que Tua glória, mais e mais,
+Eu veja, ó Senhor;
+Tua imagem quero ser
+No riso e na dor.</stanza>
+	<stanza type="verse" number="4">Encha-me o gozo celestial,
+Sustém-me com poder;
+Que brilhe Teu imenso amor
+Em todo o meu ser.</stanza>
+	<stanza type="verse" number="5">Faz decrescer meu ego vil,
+Sê Tu o alvo meu;
+Na graça faz-me digno de
+Suster o nome Teu.</stanza>
+  </lyrics>
+</hymn>

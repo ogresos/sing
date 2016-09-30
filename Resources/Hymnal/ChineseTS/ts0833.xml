@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>有一新生命</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55533332133</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>有 一 新 生 命， 美 妙、 喜 樂、 光 明； 你 能 彀 得 到， 只 要 你 決 意。 耶 穌 能 滿 足 你 的 虛 空 心 靈， 祂 使 你 心 中 無 比 的 喜 樂。 你 能 彀 經 歷 人 生 奇 妙 大 改 變， 你 能 彀 進 入 偉 大 的 情 境； 你 能 彀 經 歷 超 越 榮 耀 的 事 情， 如 果 你 讓 救 主 進 入 你 的 心。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0833.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">有一新生命，美妙、喜樂、光明；
+你能彀得到，只要你決意。
+耶穌能滿足你的虛空心靈，
+祂使你心中無比的喜樂。
+你能彀經歷人生奇妙大改變，
+你能彀進入偉大的情境；
+你能彀經歷超越榮耀的事情，
+如果你讓救主進入你的心。</stanza>
+	<stanza type="verse" number="2">現在你心思不需完全明白，
+不必知道為甚麼，或怎樣；
+因祂要給你遠超你心所望，
+遠超你頭腦所領會得來。</stanza>
+  </lyrics>
+</hymn>

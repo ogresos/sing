@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jimmy</firstname>
+    <lastname>hubbs</lastname>
+    <email>lordandme.jh@gmail.com</email>
+    <password>kZKGutM09t%2FKNgxCK%2BXepA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>199.27.128.82</ipaddress>
+    <createdate>2014-01-20 22:14:13</createdate>
+    <lastupdateddate>2014-01-20 22:24:37</lastupdateddate>
+    <lastlogindate>2014-01-20 22:14:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="lb" num="27">Let's go on</fav>
+        <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+    </favourites>
+</user>

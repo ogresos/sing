@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now to Him Who is able</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:353"/><lsmyp num="343"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Heidi Johnsen">H. J.</composer>
+  </creators>
+  <hymncode>46516531117657271176655</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | G/B - - - | Am/F - F - | Gsus4 - - - | G - G7 - | C - - - | F/C - - - | C - - - | F/C - - - | G/B - - - | Am/F - F - | Gsus4 - - - | G - G7/B - | C - G/B - | Am - C/G - | Dm - Dm7/C - | G/B - G7 - | C - G/B - | Am - C/G - | F - Dm7 - | C/G - G7 - | C - - - | F/C - - - | C - - - | C - - - ||</chords>
+  <melody>| 0 - 4_. 6_. | 5_.( - - - | 5_.) - 1 6_. | 5_. - 3_.( - (break) | 3_.) - 1/ 1/ 7_./ 6_./ | 5_. 7_. 2 7_. | 1 1 7_. 6_. | 6_..( 5_./) 5_.( - (break) | 5_.) 0/ 4_./ 4_. 6_. | 5_. - 1 - | 0 1 7_. 6_. | 5_.( - - - (break) | 5_.) 0/ 1/ 1/ 1/ 7_./ 6_./ | 5_. 7_. 2 7_. | 1. 5_./ 3 2 | 2( - - - (break) | 2) 5_./ 5_./ {1 1 2} | 3 - - 2 | 2 3 1. 3/ | 4 - 4 3 (break) | 2. 5_./ {1 1 2} | 3 - 2 1 | 2( 3) 1. 1/ | 6_. 1 - 2 (break) | 1 - 7_. 2 | 1( - - - | 1) - 1( 7_.) | 1( - - - | 1) - 0 - ||</melody>
+  <layout>
+    <singingstanza>Now to Him Who is a -- ble, A -- ble to es -- tab -- lish you ac -- cord -- ing to my gos -- pel; The pro -- cla -- ma -- tion of Je -- sus Christ Ac -- cord -- ing to the rev -- e -- la -- tion of the mys -- ter -- y; To the on -- ly wise God through Je -- sus Christ, The on -- ly wise God, To Him be the glo -- ry for -- ev -- er, For -- ev -- er and ev -- er. A -- men. A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Romans 16:25</link>
+    <link type="ref">Romans 16:27</link>
+  </links>
+  <music>
+    <midi location="ns" length="76">ns0353.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Now to Him Who is able,
+Able to establish you according to my gospel;
+The proclamation of Jesus Christ
+According to the revelation of the mystery;
+To the only wise God through Jesus Christ,
+The only wise God, To Him be the glory forever,
+Forever and ever. Amen. Amen.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love Thy kingdom, Lord</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Attraction</category>
+  <numbers><chinese num="ts:753"/><english num="853"/><lsmyp num="241"/><russian num="430"/><spanish num="366"/></numbers>
+  <creators>
+    <author biodate="1752-1817" biolink="">Timothy Dwight</author>
+    <composer biodate="1731-1776" biolink="">Aaron Williams</composer>
+  </creators>
+  <meter>6.6.8.6.</meter>
+  <hymncode>511321234543432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - - - | G - - - | C - F - | G - - - | C - G - | C - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_. | 1 1 3 2/( 1/) | 2 - - 3/( 4/) | 5 4/( 3/) 4 3 (break) | 2 - - 5 | 3 1 2 5_. | 1 3 5 5 | 6 5/( 4/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I love Thy king -- dom, Lord, The house of Thine a -- bode, The Church our blest Re -- deem -- er bought With His own pre -- cious blood.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">thydwellingplaceolordilove.xml</link>
+    <link type="group">hymnal-subj201.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736323783.html"></link>
+  </links>
+  <music>
+    <midi location="h" length="17">e0853_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I love Thy kingdom, Lord,
+  The house of Thine abode,
+The Church our blest Redeemer bought
+  With His own precious blood.</stanza>
+    <stanza type="verse" number="2">I love the Church, O God!
+  Her walls before Thee stand,
+Dear as the apple of Thine eye
+  And graven on Thy hand.</stanza>
+    <stanza type="verse" number="3">For her my tears shall fall,
+  For her my prayers ascend;
+To her my cares and toils be given
+  Till toils and cares shall end.</stanza>
+    <stanza type="verse" number="4">Beyond my highest joy
+  I prize her heavenly ways,
+Her sweet communion, solemn vows,
+  Her hymns of love and praise.</stanza>
+    <stanza type="verse" number="5">Sure as Thy truth shall last,
+  To Zion shall be given
+The brightest glories earth can yield,
+  And brighter bliss of heaven.</stanza>
+  </lyrics>
+</hymn>

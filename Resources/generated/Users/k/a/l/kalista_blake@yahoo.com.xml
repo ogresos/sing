@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jennifer</firstname>
+  <lastname>Sweet</lastname>
+  <email>kalista_blake@yahoo.com</email>
+  <password>$2y$10$Bvn2BYonV5qRHWirOgCcy.k9ZnJQnz93O8M0xPV/JvxhsbeVhroo.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>209.105.186.73</ipaddress>
+  <createdate>2016-05-19 18:04:25</createdate>
+  <lastupdateddate>2016-05-31 02:23:43</lastupdateddate>
+  <lastlogindate>2016-05-19 18:13:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="657">Can you be obedient</fav>
+    <fav category="default" type="h" num="765">Christian, seek not yet repose</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1001">Free from the law&amp;mdash;oh, happy condition</fav>
+    <fav category="default" type="h" num="977">Glorious things of thee are spoken</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="362">He died for me that I might live</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="332">I hear the words of love</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="721">I'll sing of the wonderful promise</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="705">In some way or other the Lord will provide</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="401">May the mind of Christ my Savior</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="457">My life, my love, I give to Thee</fav>
+    <fav category="default" type="h" num="12b">O God, Thou art the source of life (Alternate Tune)</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    <fav category="default" type="h" num="8511">The Lord knows all that frustrates you</fav>
+    <fav category="default" type="h" num="571">Thou whose name is called Jesus</fav>
+    <fav category="default" type="h" num="704">Though troubles assail</fav>
+    <fav category="default" type="h" num="587">Tis so sweet to walk with Jesus</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="8661">Work, for the night is coming</fav>
+    <fav category="default" type="h" num="1000">Working will not save me</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

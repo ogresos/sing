@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Ramona</firstname>
+<lastname>Small</lastname>
+<email>calicocc@bellsouth.net</email>
+<password>$1$GV8NFPoD$W/4zoaLvoJdtnX7xc0gXZ1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>74.243.231.132</ipaddress>
+<createdate>2008-07-28 14:32:26</createdate>
+<lastupdateddate>2009-09-15 18:25:30</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+    </favourites>
+</user>

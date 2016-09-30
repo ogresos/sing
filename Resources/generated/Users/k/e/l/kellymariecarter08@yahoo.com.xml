@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>kelly</firstname>
+    <lastname>carter</lastname>
+    <email>kellymariecarter08@yahoo.com</email>
+    <password>kby8HsNaLF2yOnLzzmZ7yQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>198.189.14.2</ipaddress>
+    <createdate>2010-10-12 14:32:35</createdate>
+    <lastupdateddate>2010-10-15 22:32:42</lastupdateddate>
+    <lastlogindate>2010-10-15 22:31:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1078">One sat alone beside the highway begging</fav>
+    </favourites>
+</user>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>¡Cuánto amamos proclamar</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su nombre</category>
+  <numbers><cebuano num="1086"/><english num="1086"/><german num="1086"/><korean num="818"/><portuguese num="43"/><russian num="22"/><spanish num="46"/></numbers>
+  <melody>| 0 - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/( 2/) 1/} | 1( - 6_.) (break) | 5_. - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/ 2/ 1/} | 2( - - (break) | 2) - 5_../ 1// | 3. 2#/ 3./ 2// | 1 - {1/ 7_./ 7b_./} | 6_.. 5#_./ 6_../ 1// (break) | 4 - 6./ 6b// | 5. 3/ 1./ 6_.// | 5_.. 4/ 3./ 2// | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1086"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">¡Cuánto amamos proclamar
+El nombre de Jesús!
+En el cielo o͜ en la tierra
+Muy alto͜ está;
+Pues Su nombre͜ al respirar
+Hace͜ huir la͜ oscuridad;
+¡Qué precioso es el nombre de Jesús!</stanza>
+	<stanza type="verse" number="">Nuestra lengua, oh, Señor,
+Tu nombre confiesa hoy
+Para complacer al Padre Dios de͜ amor;
+Alabar Tu nombre͜ así,
+Es un disfrute para mí,
+Invocar Tu nombre es amarte͜ a Ti.</stanza>
+  </lyrics>
+</hymn>

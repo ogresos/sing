@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Shannon</firstname>
+<lastname>Lee</lastname>
+<email>shiawase_84@hotmail.com</email>
+<password>$1$hsH60R43$IyOLGW0Tl71LZKekifi8N0</password>
+<gender>F</gender>
+<country>Singapore</country>
+<ipaddress>220.255.7.158</ipaddress>
+<createdate>2009-03-01 07:37:30</createdate>
+<lastupdateddate>2009-09-15 18:29:36</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="143">On His Father's throne is seated</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="103">Behold! behold the Lamb of God</fav>
+        <fav category="default" type="h" num="62">Dear Lord Jesus, we adore Thee</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+        <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+    </favourites>
+</user>

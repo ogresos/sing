@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela Hollars</firstname>
+  <lastname>Pond</lastname>
+  <email>angelahollars@yahoo.com</email>
+  <password>$2y$10$qMWBFZ..g1dZCYMLB0scD.L2yTQgyWQbx4ykJ/s6B5XoL5TRtwK6q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.90.144.238</ipaddress>
+  <createdate>2016-03-10 19:18:03</createdate>
+  <lastupdateddate>2016-03-10 19:22:33</lastupdateddate>
+  <lastlogindate>2016-03-10 19:19:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+  </favourites>
+</user>

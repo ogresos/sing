@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>2 Corinthians 12:15-16a</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+<!-- 
+  <creators>
+	<author biodate="" biolink="" fullname="Anaheim YP Team">Anaheim YP Team</author>
+	<composer biodate="" biolink="" fullname="Anaheim YP Team">Anaheim YP Team</composer>
+  </creators>
+ -->
+  <hymncode>1565434133216326</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | F - - - | F - - - | Dm - - - | Dm - - - | F - - - | G - - - | C - - - | C - - - | F - - - | F - - - | Dm - - - | Dm - - - | F - - - | Gsus4 - - - | G - - - | F - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - - - |</chords>
+  <melody>| 0 - - 1 | 5( - - - | 5) 6/ 5/( 5/) 4/( 4/) 3/( | 3/) 4/( 4/) 1/( 1) - (break) | 0 3/ 3/ 2/ 1/ 6_. | 3( - - 2)( | 6_.) - 1 1 | 3 - 2/ 1/( 1/) 2/( (break) | 2) - - 1 | 5( - - - | 5) 6/ 5/( 5/) 4/( 4/) 3/( | 3/) 4/( 4/) 1/( 1) - (break) | 0 3/ 3/ 2/ 1/ 6_. | 3( - - 2)( | 6_.) - 1 1 | 3 - 2/ 1/( 1/) 2/( | 2)( - - - (break) | 2) 0 1 1 | 6 - 6 - | 7 7/ 7/( 7/) ._1/( ._1/) 5/( | 5) - - - (break) | 3 3/ 4/( 4/) 5/( 5/) 4/( | 4) - - 3 | 2 - - 1 | 3( - - - (break) | 3) - 1 1 | 6 - 6 - | 7 7/ 7/( 7/) ._1/( ._1/) 5/( | 5) - - - (break) | 3 3/ 4/( 4/) 5/( 5/) 4/( | 4) - - 3 | 2. 1/( 1) 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">But I, I will most glad -- ly spend and be ut -- ter -- ly spent on be -- half of your souls. But I, I will most glad -- ly spend and be ut -- ter -- ly spent on be -- half of your souls. If I love you more a -- bun -- dant -- ly, more a -- bun -- dant -- ly, am I loved less? If I love you more a -- bun -- dant -- ly, more a -- bun -- dant -- ly, but let it be so!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">2 Cor. 12:15-16a</link>
+  </links>
+  <music>
+    <midi location="ns" length="59">ns0524.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But I, I will most gladly spend
+And be utterly spent on behalf of your souls.
+But I, I will most gladly spend
+And be utterly spent on behalf of your souls.
+If I love you more abundantly, more abundantly,
+    Am I loved less?
+If I love you more abundantly, more abundantly,
+    But let it be so!</stanza>
+  </lyrics>
+</hymn>

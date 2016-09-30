@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Walang lugi, walang gana</title>
+  <index>true</index>
+  <category>ANG DAAN NG KRUS&amp;mdash;PAKINABANG DAHIL SA KAWALAN</category>
+  <numbers><chinese num="460"/><english num="623"/><korean num="460"/><tagalog num="623"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Arthur S. Booth-Clibborn</author>
+  </creators>
+  <music>
+    <midiref type="h" num="623"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Walang lugi, walang gana,
+Walang krus walang buhay nga;
+Kung di mamatay ang trigo,
+Pa'nong mamumunga ito?
+Kung magpaparami ako
+Pa'nong di basag at buo?
+Kung magpaparami ako
+Pa'nong di basag at buo?</stanza>
+    <stanza type="verse" number="2">Manghahawak ng kalulwa,
+Kalulwa hinawakan nga;
+Kung alipin na may ginto,
+Alipin din na pareho.
+Saan man puso'y ibaling,
+Ito'y taling nang-alipin
+Saan man puso'y ibaling,
+Ito'y taling nang-alipin.</stanza>
+    <stanza type="verse" number="3">Tanim sa bukid hinog na,
+Gintong kulay pinagpala;
+Bunga ng butil namatay,
+Bago ang ani'y mataglay.
+Kailangang may lumuha,
+Di bigong makipagbaka;
+Dumanas ng pagdurusa,
+Tanim handang anihin na.</stanza>
+  </lyrics>
+</hymn>

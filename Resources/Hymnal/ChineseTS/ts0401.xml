@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>生命之主向我吹氣</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>6633717635653423</hymncode>
+  <key>E Minor</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>生 命 之 主， 向 我 吹 氣， 將 你 活 泉 向 我 開 啟， 從 我 裡 面 將 我 推 動， 生 命 之 光 照 我 心 中。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0401.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">生命之主，向我吹氣，
+將你活泉向我開啟，
+從我裡面將我推動，
+生命之光照我心中。</stanza>
+	<stanza type="verse" number="2">主，何希奇，你在我裡，
+不必天上陰間尋你，
+一回靈裡就得見你，
+靈靈接觸毫無距離。</stanza>
+	<stanza type="verse" number="3">你是我的在天中保，
+又是我的靈中恩膏；
+凡你神前為我所作，
+都在我靈給我摸著。</stanza>
+	<stanza type="verse" number="4">但是我心何等不忠，
+常雖深感仍不順從；
+求主眷憐、吹氣、推動，
+使我全人都盡功用。</stanza>
+	<stanza type="verse" number="5">當我靈裡憋氣，下沉，
+難將你恩向人言陳，
+求你從我裡面吹氣，
+使我完全充滿了你。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vozes celestiais entoam</title>
+  <index>true</index>
+  <category>Seu Reino</category>
+  <numbers><cebuano num="149"/><english num="149"/><portuguese num="73"/><tagalog num="149"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="149"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Vozes celestiais entoam
+Melodia de louvor,
+E em todo o céu ressoa:
+Cristo reina ? Deus de amor!
+E entronizado está
+Sobre o mundo a reinar.</stanza>
+    <stanza type="chorus" number="">Aleluia, Aleluia,
+Aleluia, Amém.</stanza>
+    <stanza type="verse" number="2">Oh! cantemos como Ele,
+Vindo à terra, a cruz tomou;
+O poder Lhe foi entregue,
+Reina em glória o Senhor.
+Esse tema é sem fim;
+Doce é cantá-lo assim.</stanza>
+    <stanza type="verse" number="3">Tua glória é brilhante,
+És da vida o Senhor;
+Teu sorriso, radiante,
+Nos atrai e dá vigor.
+Ao pensar no Teu amor,
+Te amamos, ó Senhor.</stanza>
+    <stanza type="verse" number="4">Reinas sempre, ó Rei da glória!
+Eternal coroa tens;
+De Ti, nada mais aparta
+Os que já fizeste Teus
+Para Teu favor obter,
+E Teu belo rosto ver.</stanza>
+    <stanza type="verse" number="5">Oh! apressa Tua vinda:
+Faz tal dia enfim chegar,
+Quando, em tremendo estrondo,
+Céus e terra hão de passar.
+"Glória ao nosso Rei!", então,
+Teus remidos cantarão.</stanza>
+  </lyrics>
+</hymn>

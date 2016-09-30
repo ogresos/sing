@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There was One who was willing to die</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <numbers><english num="1067"/><tagalog num="1067"/></numbers>
+  <creators>
+    <author biodate="1855-1934" biolink="">Mrs. Frank A. Breck</author>
+    <composer biodate="1869-1950" biolink="">Grant Colfax Tullar</composer>
+  </creators>
+  <meter>12.9.12.9. with chorus.</meter>
+  <hymncode>333123334123</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - F/C | C - - - | F - C - | Dm - G7 - | C - F/C - | C - - - | F - C - | Dm - G7 - | C - - G7 | C - - - | C - Am - | D - D7/F# - | G - G7/B - | C - C/E - | F - C - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 3./ 3// | 3 1./ 2// 3/ 3 3/ | 4 1./ 2// 3 3./ 3// | 3 2./ 1// 7_. 1./ 2// (break) | 1 - - 3./ 3// | 3 1./ 2// 3 3./ 5// | 4 1./ 2// 3 3./ 3// | 3 2./ 1// 7_. 3./ 2// (break) | 1 - - (Chorus) 5./ 5// | 5 4#./ 6// 5 3./ 3// | 3 2#./ 4// 3 3./ 3// | 3 2./ 2// 2/ 3 4#/ (break) | 5 - - 6./ 7// | ._1 7./ 6// 5 5./ 5// | 6 5./ 4// 3 3./ 3// | 3 2./ 2// 1 7_../ 7_.// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There was One who was will -- ing to die in my stead, That a soul so un -- wor -- thy might live, And the path to the cross He was will -- ing to tread All the sins of my life to for -- give. They were borne on the cross, They were borne on the cross, O how much He was will -- ing to bear! With what an -- guish and loss, Je -- sus went to the cross! But He car -- ried my sins with Him there.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="40">e1067_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There was One who was willing to die in my stead,
+  That a soul so unworthy might live,
+And the path to the cross He was willing to tread
+  All the sins of my life to forgive.</stanza>
+    <stanza type="chorus" number="">They were borne on the cross,
+They were borne on the cross,
+O how much He was willing to bear!
+With what anguish and loss,
+Jesus went to the cross!
+But He carried my sins with Him there.</stanza>
+    <stanza type="verse" number="2">He is tender and loving and patient with me,
+  While He cleanses my heart of its dross;
+But "there's no condemnation," I know I am free,
+  For my sins were all borne on the cross.</stanza>
+    <stanza type="verse" number="3">I will cling to my Savior and never depart&amp;mdash;
+  I will joyfully journey each day,
+With a song on my lips and a song in my heart,
+  That my sins have been taken away.</stanza>
+  </lyrics>
+</hymn>

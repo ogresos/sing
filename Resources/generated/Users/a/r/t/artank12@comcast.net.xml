@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Kimmy</firstname>
+<lastname>Tan</lastname>
+<email>artank12@comcast.net</email>
+<password>$1$1a1gjWBq$dijERtD9IRABZn0HOnzfO0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>67.175.155.188</ipaddress>
+<createdate>2009-07-21 11:39:43</createdate>
+<lastupdateddate>2009-09-15 19:16:53</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="ns" num="134">A higher view</fav>
+        <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+        <fav category="default" type="ns" num="41">Another new day</fav>
+        <fav category="default" type="ns" num="41">Another new day</fav>
+        <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+        <fav category="default" type="ns" num="276">Rise up, my love</fav>
+        <fav category="default" type="ns" num="70">I will not let Thee go</fav>
+        <fav category="default" type="ns" num="35">Jesus Lord, I love You</fav>
+        <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+        <fav category="default" type="ns" num="156">Lord, I love You, I desire You</fav>
+        <fav category="default" type="ns" num="95">May my day be full of Christ</fav>
+        <fav category="default" type="lb" num="33">My heart was far from You</fav>
+    </favourites>
+</user>

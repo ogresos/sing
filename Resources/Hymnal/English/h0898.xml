@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The love of Christ constraineth</title>
+  <index>true</index>
+  <category>Service&amp;mdash;Constrained by the Lord's Love</category>
+  <creators>
+    <author biodate="" biolink="">C. B. Evans</author>
+    <composer biodate="" biolink="">Lausanne Psalter</composer>
+  </creators>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>3555513322443</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G7/D - | C/E - Am - | Dm/F - G7 - | C - - G/B | C - G/B - | Am - D7 - | G/D - D7 - | G - - - | C - - - | G - - - | C - - - | G - - - | C - C/E - | F - - - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 3 | 5 5 5 5 | ._1 - 3 3 | 2 2 4 4 (break) | 3 - - 2 | 3 5 5 5 | ._1 - 4# 4# | 5 5 7 6 (break) | 5 - - 7 | ._1 5 4 3 | 3 - 2 7 | ._1 5 4 3 (break) | 2 - - 5_. | 1 3 5. 5#/ | 7 - 6 6 | 5 3 3. 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>The love of Christ con -- strain -- eth; Oh, let the watch -- word ring Till all the world a -- dor -- ing To Je -- sus' feet it bring. Till north and south the king -- doms Shall own His glo -- rious sway, And east and west the na -- tions Re -- joice to see His Day.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="37">e0898_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The love of Christ constraineth;
+  Oh, let the watchword ring
+Till all the world adoring
+  To Jesus' feet it bring.
+Till north and south the kingdoms
+  Shall own His glorious sway,
+And east and west the nations
+  Rejoice to see His Day.</stanza>
+    <stanza type="verse" number="2">The love of Christ constraineth;
+  At home, abroad, where'er
+By sea or shore abiding
+  His Name and mark we bear.
+We ask not that our service
+  Or great or small may be,
+If only Thou wilt own it,
+  Dear Lord, as unto Thee.</stanza>
+    <stanza type="verse" number="3">The love of Christ constraineth;
+  And we who trust His Word,
+Who know and feel its power
+  To gladder service stirred,
+Shall neither faint nor falter,
+  Though dark the night and long,
+And weak our hands that labor;
+  His strength shall make us strong.</stanza>
+    <stanza type="verse" number="4">The love of Christ constraineth,
+  Then let us work and pray,
+And watch the glad appearing
+  Of that triumphant day,
+When Father, Son, and Spirit,
+  By every tongue confessed,
+All earth His broad dominion
+  In His dear love shall rest.</stanza>
+  </lyrics>
+</hymn>

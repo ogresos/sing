@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhing Pulong Ka, Ginoo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA PAGKADIOS NIYA</category>
+  <numbers><cebuano num="58"/><chinese num="53"/><english num="58"/><german num="58"/><korean num="53"/><portuguese num="37"/><russian num="342"/><tagalog num="58"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 2 | 3 - - 5 (break) | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 7_. (break) | 1 - - (Chorus) 3 | 2. 1#/ 2 6 | 5. 3/ 5 3 | 2 5 5/( 4#/) 7/( 6/) | 5 - - 5/( 4/) (break) | 3 3 5 5 | ._1. ._1/ 6 7/( 6/) | 5. 5/ 4 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="58"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Buhing Pulong Ka, Ginoo,
+Uban gayud sa Dios;
+Himaya N'ya gipakita,
+Samtang dinhi's yuta.</stanza>
+	<stanza type="chorus" number="">O buhing Pulong, daygon Ka,
+Ang Dios Kanimo makita;
+Himaya'g kinaiya N'ya,
+Gipadayag Nimo.</stanza>
+	<stanza type="verse" number="2">Gipakita's kabuhatan
+Himaya's Dios tanan;
+Mga butang's Dios nasayran,
+Gahum, kina'yahan.</stanza>
+	<stanza type="verse" number="3">Pulong sa Dios, dato, lalum,
+Nagpanghimatuod;
+Gisaysay Ka ni'ning Pulong,
+Aron Dios maila.</stanza>
+	<stanza type="verse" number="4">Pulong, nahimo Kang unod,
+Nakig-uban sa tawo;
+Paggawi ug pamulong Mo,
+Sa Dios nagpadayag.</stanza>
+	<stanza type="verse" number="5">Pulong, Ikaw kinabuhi,
+Ug buhing kahayag;
+Kami Imong gihayagan,
+Makitang Amahan.</stanza>
+	<stanza type="verse" number="6">Gipaila Mo's paghukom
+Nga ang Dios matarung;
+Nagpadayag sab sa bug-os
+Sa pagkamao's Dios.</stanza>
+	<stanza type="verse" number="7">Hingpit Ikawng pagpadayag's
+Kaugalingon sa Dios;
+Tanan Niyang pagkamao,
+Gipadayag Mo's tawo.</stanza>
+  </lyrics>
+</hymn>

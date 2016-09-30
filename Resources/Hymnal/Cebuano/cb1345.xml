@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kasingkasing kon iliso karon</title>
+  <index>true</index>
+  <category>MGA VERSICULO NGA AWITON</category>
+  <numbers><cebuano num="1345"/><chinese num="ts:405"/><dutch num="46"/><english num="1345"/><german num="1345"/><spanish num="499"/></numbers>
+  <melody>| 0 - 5_. | 1/ 1/( 1) 1 | 3 - 3 | 3/( 2/) 1. 2/ | 3 - 2 | 5 3 1 | 1 1 2 | 3( - - (break) | 2) - 5_. | 1 - 1 | 3 - 3/ 3/ | 3/( 2/) 1. 2/ | 3 - 2/ 2/ | 5 3 1 | 1 1 7_. | 1( - - (break) | 1) - 1/ 1/ | 4 - 4/ 4/ | 6/ 6/( 6/) 6/ 6/ 6/ | 5. 5/ 5/ 6/ | 3/( 2/) 1 1/ 2/ | 3/ 3/ 3 - | 3 2 1 | 2( - - (break) | 2) - 5_. | 1/ 1/( 1) 1 | 3 - 3 | 3/( 2/) 1. 2/ | 3 - 2 | 5 3 1 | 1 1 7_. | 1( - - | 1) - 0 |</melody>
+  <notes>2 Corinto 3:16-17</notes>
+  <music>
+	<midiref type="h" num="1345"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Kasingkasing kon iliso karon,
+Taptap mo kuhaon dayon,
+Busa iliso's Ginoo karon,
+Ug taptap mo kuhaon dayon.
+Ginoo, Espiritu
+Ug hain nganing Espiritu
+May kagawasan&amp;mdash;kagawasan!
+Kasingkasing mo iliso karon
+Taptap mo kuhaon dayon.</stanza>
+  </lyrics>
+</hymn>

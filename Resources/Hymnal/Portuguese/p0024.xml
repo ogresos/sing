@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Antes da criação do mundo</title>
+  <index>true</index>
+  <category>Sua Escolha</category>
+  <numbers><cebuano num="33"/><chinese num="31"/><english num="33"/><german num="33"/><korean num="31"/><portuguese num="24"/><russian num="14"/><tagalog num="33"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+	<author biodate="" biolink="">Translated by Francis P. Jones</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Antes da criação do mundo,
+Escolheste-nos, ó Pai;
+Teu tocante amor profundo
+Veio a Cristo nos chamar,
+E em Cristo, e em Cristo,
+Firmes nos conservará,
+Firmes nos conservará.</stanza>
+	<stanza type="verse" number="2">Mesmo que o mundo mude,
+Deus é o mesmo e tem frescor;
+Sempre estão conosco, firmes,
+Sua aliança e amor.
+Vós, Seus filhos, vós, Seus filhos,
+A Seu nome dai louvor,
+A Seu nome dai louvor.</stanza>
+	<stanza type="verse" number="3">É a compaixão divina
+Minha glória e canção;
+Do princípio ao fim, tal graça
+Conquistou meu coração.
+Por amar-nos, por amar-nos
+Deus nos deu Seu Filho então,
+Deus nos deu Seu Filho então.</stanza>
+	<stanza type="verse" number="4">Pai amado, Te adoramos,
+Exaltamos Teu amor;
+Té o encontro com Teu Filho
+Soaremos o louvor,
+Dando glória, dando glória
+Ao Cordeiro, ao Deus de amor,
+Ao Cordeiro, ao Deus de amor.</stanza>
+  </lyrics>
+</hymn>

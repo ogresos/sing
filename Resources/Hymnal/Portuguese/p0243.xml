@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Há um Homem na glória</title>
+  <index>true</index>
+  <category>Como Vida</category>
+  <numbers><cebuano num="505"/><chinese num="ts:27*"/><dutch num="47"/><english num="505"/><french num="89"/><german num="505"/><korean num="383"/><portuguese num="243"/><russian num="218"/><spanish num="218"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mary E. McDonough</author>
+	<author biodate="" biolink="">Translated from "K" in Rippon's Selection of Hymns, 1787</author>
+  </creators>
+  <melody>| 0 - - ._1/ ._1/ | ._1 - 5 ._1 | ._2 - 5 5 | ._3( ._2) ._3 ._4 (break) | ._3( - ._2) ._1 | ._1 - 7 6 | 7( ._1) ._2 ._3 | 7 - 6. 5/ (break) | 5 - - 5 | ._5 - ._4 ._3 | ._4 - ._3 ._3 | ._2( ._3) ._1 ._2 (break) | 7.( 6/ 5) ._1 | ._1( 7) ._1 ._2 | ._1 - 5 ._3 | ._3( ._2) ._3( ._4) (break) | ._3( - ._2) ._3 | ._4( ._3) ._2 ._1 | 7 - ._1 ._4 | ._3( - ._2.) ._1/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="505"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Há um Homem na glória,
+Que é vida pra mim.
+É puro e santo,
+Triunfante, enfim;
+Quão doce, gracioso!
+Quão terno, amoroso!
+Tal Vida na glória
+É toda pra mim.</stanza>
+	<stanza type="verse" number="2">Há um Homem na glória,
+Que é vida pra mim.
+Ao diabo e seus laços
+Venceu, pôs um fim.
+É régio, grandioso,
+E mui majestoso!
+Tal Vida na glória
+É toda pra mim.</stanza>
+	<stanza type="verse" number="3">Há um Homem na glória,
+Que é vida pra mim.
+Doenças, fraquezas
+Não tem Ele em Si;
+Ele é vigoroso
+E mui poderoso!
+Tal Vida na glória
+É toda pra mim.</stanza>
+	<stanza type="verse" number="4">Há um homem na glória,
+Que é vida pra mim.
+É mui paciente,
+Tem paz que é sem fim.
+Alegre, radioso,
+Quer ver ansioso:
+Tal vida na glória
+Vivida em mim.</stanza>
+  </lyrics>
+</hymn>

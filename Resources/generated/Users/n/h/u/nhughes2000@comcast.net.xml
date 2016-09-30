@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>NORRIS</firstname>
+<lastname>HUGHES</lastname>
+<email>nhughes2000@comcast.net</email>
+<password>$1$kH/Bkz7i$DxynIsdXdqz6K/parZWyM/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>98.203.115.248</ipaddress>
+<createdate>2009-08-11 21:48:06</createdate>
+<lastupdateddate>2009-09-15 19:17:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="271">Always rejoice</fav>
+        <fav category="default" type="ns" num="155">Let the Word of Christ dwell in you</fav>
+        <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+        <fav category="default" type="ns" num="86">Jubilee</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="c" num="163">Now unto the King eternal, immortal, invisible</fav>
+        <fav category="default" type="c" num="161">My treasure is my God</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="ns" num="11">Definition of love</fav>
+        <fav category="default" type="ns" num="26">O the joy of having nothing</fav>
+    </favourites>
+</user>

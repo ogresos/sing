@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>И за хлеб, и за вино –</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ВОСПОМИНАНИЕ ЕГО</category>
+  <numbers><cebuano num="226"/><chinese num="187"/><english num="226"/><korean num="187"/><portuguese num="120"/><russian num="353"/><spanish num="101"/><tagalog num="226"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 3. 3/ 3 3 | 5 4 3 - | 2. 2/ 2 2 | 4 3 2 - (break) | 1. 1/ 2 2 | 3. 2/ 1 - | 2 - 6_. 7_. | 2. 1/ 1 - |</melody>
+  <music>
+    <midiref type="h" num="226"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">И за хлеб, и за вино –
+Знак того, что Бог стал мой, –
+За слова любви святой
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="2">Это хлеб лишь и вино,
+Но священный символ в том
+Верой видеть нам дано.
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="3">За слова, что так влекут
+Взор к Голгофскому кресту,
+В вере нас к Тебе зовут,
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="4">В этих символах простых
+Ароматы слов Твоих.
+Нам Твой мир завещан в них.
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="5">Дух несёт Твои слова,
+Воля нам Твоя ясна:
+Делать так и ждать Тебя.
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="6">И пока Его мы ждём,
+Хлеб вкушая, Им живём.
+Хлебом жизни стал нам Он.
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="7">И пока Его мы ждём,
+Чашу, что даёт Он, пьём.
+К небу взор наш вознесён.
+Благодарим, Господь!</stanza>
+    <stanza type="verse" number="8">Здесь предсказан Твой приход.
+За неведомый день тот
+И за славу, за престол
+Благодарим, Господь!</stanza>
+  </lyrics>
+</hymn>

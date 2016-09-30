@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ron</firstname>
+    <lastname></lastname>
+    <email>rsbevsr@gmail.com</email>
+    <password>p6FnEIhQICqwBBvTdt1gEw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>76.124.132.85</ipaddress>
+    <createdate>2013-11-19 11:44:36</createdate>
+    <lastupdateddate>2013-12-16 23:05:38</lastupdateddate>
+    <lastlogindate>2013-12-16 23:01:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    </favourites>
+</user>

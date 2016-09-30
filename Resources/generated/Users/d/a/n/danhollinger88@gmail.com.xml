@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Daniel</firstname>
+<lastname>Hollinger</lastname>
+<email>danhollinger88@gmail.com</email>
+<password>$1$S455QQ2p$0.HEnn8viOkohh2opLgDg/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>173.72.30.153</ipaddress>
+<createdate>2009-07-29 18:41:07</createdate>
+<lastupdateddate>2009-09-15 19:16:58</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="262">Come, Lord, as the Spirit come</fav>
+        <fav category="default" type="ns" num="134">A higher view</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="108">Man of Sorrows, what a name</fav>
+    </favourites>
+</user>

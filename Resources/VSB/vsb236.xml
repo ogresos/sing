@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, make me to know mine end</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:280"/><vsb num="236"/></numbers>
+  <hymncode>1131654325565543</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | Dm - - | G - - | G7/B - - | C - - | G/B - - | Am - - | C/G - - | F - - | Dm - - | G - - | G7 - - | C - - | F/C - - | C - - | C - - | F - - | Dm - - | G - - | G7/B - - | C - - | G/B - - | Am - - | C/G - - | F - - | Dm - - | G - - | G7 - - | C - - | F/C - - | C - - | C - - | Am - - | Am - - | E - - | E - - | Am - - | Am - - | E - - | E - - | F - - | F - - | C - - | Am - - | D - - | D7/F# - - | G - - | C - - | F - - | Dm - - | G - - | G7/B - - | C - - | G/B - - | Am - - | C/G - - | F - - | Dm - - | G - - | G7 - - | C - - | F/C - - | C - - | C - - ||</chords>
+  <melody>| 0 - 1 | 1 3 ._1 | 6 - 5 | 4( - 3)( | 2) - 5/ 5/ | 6 5 5/ 4/ | 3 - 3/ 2/ | 3( - - | 3) - 0 | 1 2 3 | 4( - 3)( | 2)( - 1)( | 7_.) - 7_. | 7_.( 1) 2 | 1 - 5_. | 6_.( 1) 2 (break) | 1 - (Verse_2) 1 | 1 3 ._1 | 6 - 5 | 4 - 3/ 3/ | 3 2 5/ 5/ | 6 5 4 | 3/ 3/( 3/) 3/ 3/( 2/) | 3( - - | 3) - 0 | 1 2 3 | 4 - 3 | 2 - 1/ 1/ | 7_. 7_.. 7_./ | 7_.. 7_./ 1/ 2/ | 2/ 1/ 1( - | 1) - 2 | 1( - - | 1) - 0 (break) | (Verse_3) 3/ 3/ 3/ 2/ 3 | 3/ 3. 3/ 2/ | 3 3( - | 3) - 0 | 3/ 3/( 3/) 3/ 3/ 2/ | 3 3 2 | 3( - - | 3) - 3 | 4/ 4. 4 | 6/ 6. 6 | 5 - 6 | 3/( 2/)( 1) - | 2 - 3 | 2 - 1 (break) | 7_. - (Verse_4) 1 | 1 3 ._1 | 6 - 5 | 4( - 3)( | 2) - 5 | 6 5 4 | 3( - - | 3)( - - | 3) - 0 | 1 2 3 | 4 - 3 | 2( - 1)( | 7_.) - 7_. | 7_. 1 2 | 1 - 5_. | 6_. 1 2 | 1( - - | 1) - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Lord, make me to know mine end, And the mea -- sure of my days, what it is, That I may know how frail I am, How frail I am. Be -- hold, Thou hast made my days as an hand -- breadth; And mine age is as noth -- ing be -- fore Thee; Ver -- i -- ly ev -- ery man at his best state, Is al -- to -- geth -- er van -- i -- ty. Se -- lah. Sure -- ly ev -- ery man walk -- eth in a vain show; Sure -- ly they are dis -- quiet -- ed in vain; He heap -- eth up rich -- es, and know -- eth not Who shall gath -- er them. And now, Lord, what wait I for? My hope is in Thee. Now Lord, what wait I for? My hope is in Thee. My hope is in Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 39:4-7</link>
+  </links>
+  <music>
+    <midi location="ns" length="98">ns0280.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, make me to know mine end,
+And the measure of my days, what it is,
+That I may know how frail I am,
+How frail I am.</stanza>
+    <stanza type="verse" number="2">Behold, Thou hast made my days as an handbreadth;
+And mine age is as nothing before Thee;
+Verily every man at his best state,
+Is altogether vanity. Selah.</stanza>
+    <stanza type="verse" number="3">Surely every man walketh in a vain show;
+Surely they are disquieted in vain;
+He heapeth up riches, and knoweth not
+Who shall gather them.</stanza>
+    <stanza type="verse" number="4">And now, Lord, what wait I for?
+My hope is in Thee.
+Now Lord, what wait I for?
+My hope is in Thee.
+My hope is in Thee.
+(repeat stanzas 3 and 4)</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Take time to behold Him</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><english num="nt:643"/><vsb num="108"/></numbers>
+  <creators>
+    <author biodate="" biolink="">William Dunn Longstaff</author>
+    <composer biodate="" biolink="" fullname="Heidi Johnsen">Heidi Johnsen</composer>
+  </creators>
+  <hymncode>53432177615</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - | C - - | Am - - | F - - | C/E - - | Am - - | Em - - | Dm7 - - | G - - | C - - | C/G - - | C7 - - | F - - | C/G - - | Am - - | F - G7 | C - F/C | C - - |</chords>
+  <melody>| 0 - 5_. | 3 - 4/ 3/ | 2 1 7_. | 7_. 6_. 1 | 5_. - 5_. | 1 2 3 | 5 3. 5/ | 5 4 3 (break) | 2 - 5_. | 5 - 6/ 5/ | 4 3. 5/ | 5 4 3 | 1 - 5_. | 3 1 5_. | 3 1 5_. | 6_. 1 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Take time to be -- hold Him, Speak oft with Thy Lord, A -- bide in Him al -- ways, And feed on His Word. Wait thou in His pre -- sence, Sub -- mis -- sive and meek, For -- get -- ting in noth -- ing His bless -- ing to seek.</singingstanza>
+  </layout>
+  <date>1998</date>
+  <links>
+    <link type="group">taketime.xml</link>
+    <link type="relevant" category="h" num="643"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="hsfn5loEdqE"/>
+  </videos>
+  <music>
+    <midi location="nt" length="27">e0643_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Take time to behold Him,
+  Speak oft with Thy Lord,
+Abide in Him always,
+  And feed on His Word.
+Wait thou in His presence,
+  Submissive and meek,
+Forgetting in nothing
+  His blessing to seek.</stanza>
+    <stanza type="verse" number="2">Take time to behold Him,
+  The world rushes on;
+Spend much time in secret
+  With Jesus alone.
+By looking to Jesus
+  Like Him thou shalt be;
+Thy friends, in thy conduct,
+  His likeness shall see.</stanza>
+    <stanza type="verse" number="3">Take time to behold Him,
+  Let Him be thy guide;
+And run not before Him
+  Whatever betide;
+In joy or in sorrow
+  Still follow thy Lord,
+And, looking to Jesus,
+  Still trust in His Word.</stanza>
+    <stanza type="verse" number="4">Take time to behold Him,
+  Be calm in thy soul,
+Each thought and each temper
+  Beneath His control.
+Thus led by His Spirit
+  To fountains of love,
+Thou then shalt be fitted
+  His mercy to prove.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jimmy</firstname>
+  <lastname/>
+  <email>jimmy_ricaplaza@yahoo.com</email>
+  <password>$2y$10$MTcWfaIYjIazeAyYmZP8BOUfYPsC.M6IqLHTOgkmSTTdXsutzlzy6</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>120.72.17.10</ipaddress>
+  <createdate>2015-05-18 05:05:03</createdate>
+  <lastupdateddate>2015-05-18 05:22:49</lastupdateddate>
+  <lastlogindate>2015-05-18 05:22:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

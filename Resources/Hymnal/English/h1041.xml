@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus is standing in Pilate's hall</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><english num="1041"/><portuguese num="455"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="" biolink="">M. L. Stocks</composer>
+  </creators>
+  <meter>9.9.9.7. with chorus.</meter>
+  <hymncode>333333433176654433</hymncode>
+  <key>D Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G7/B. C. | Am. Dm. | Am - - | C. C7. | C - - | C. F. | G7. C. | C. F. | C - - | Am. D7. | G. G7. | C. Em. | F. F/A. | C/G. G7. | C - - |</chords>
+  <melody>| 3/ 3/ 3/ 3/ 3/ 3/ | 4 3/ 3. | ._1/ 7/ 6/ 6/ 5/ 4/ | 4 3/ 3. (break) | 1/ 1/ 1/ 3/ 3/ 3/ | 5 5/ ._1. | 3./ 4// 5/ 5 6/ | 2. 3. (break) | (Chorus) 3./ 4// 5/ ._1 6/ | 5. 3. | ._1/ 7/ 6/ 7 ._1/ | 7.( (.7.) (break) | ._1/ ._1/ ._1/ 7/ 7/ 7/ | 6. (.._1. | 3./ 4// 3/ 5 2/ | 3.( 3.) |</melody>
+  <layout>
+    <singingstanza>Je -- sus is stand -- ing in Pi -- late's hall&amp;mdash; Friend -- less, for -- sak -- en, be -- trayed by all: Heark -- en! what mean -- eth the sud -- den call? What will you do with Je -- sus? What will you do with Je -- sus? Neu -- tral you can -- not be; Some day your heart will be ask -- ing, "What will He do with me?"</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj103.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="49">e1041_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus is standing in Pilate's hall&amp;mdash;
+Friendless, forsaken, betrayed by all:
+Hearken! what meaneth the sudden call?
+  What will you do with Jesus?</stanza>
+    <stanza type="chorus" number="">What will you do with Jesus?
+  Neutral you cannot be;
+Some day your heart will be asking,
+    "What will He do with me?"</stanza>
+    <stanza type="verse" number="2">Jesus is standing on trial still,
+You can be false to Him if you will,
+You can be faithful through good or ill:
+  What will you do with Jesus?</stanza>
+    <stanza type="verse" number="3">Will you evade Him as Pilate tried?
+Or will you choose Him, whate'er betide?
+Vainly you struggle from Him to hide:
+  What will you do with Jesus?</stanza>
+    <stanza type="verse" number="4">Will you, like Peter, your Lord deny?
+Or will you scorn from His foes to fly,
+Daring for Jesus to live or die?
+  What will you do with Jesus?</stanza>
+    <stanza type="verse" number="5">"Jesus, I give Thee my heart today!
+Jesus, I'll follow Thee all the way,
+Gladly obeying Thee!" will you say:
+  "This will I do with Jesus!"</stanza>
+  </lyrics>
+</hymn>

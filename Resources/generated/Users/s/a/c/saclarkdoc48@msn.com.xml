@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Scott</firstname>
+    <lastname>Clark</lastname>
+    <email>saclarkdoc48@msn.com</email>
+    <password>PrNtGD76O39H4IGHx5LIfQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-28 17:58:49</createdate>
+    <lastupdateddate>2014-04-28 17:58:49</lastupdateddate>
+    <lastlogindate>2014-04-28 17:58:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    </favourites>
+</user>

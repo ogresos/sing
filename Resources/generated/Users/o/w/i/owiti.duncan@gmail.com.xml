@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Duncan</firstname>
+  <lastname/>
+  <email>owiti.duncan@gmail.com</email>
+  <password>$2y$10$60KWrBFimTGd9xg5QmPtIea8OERnCcxqIrct0BAzDSRCoIvPU6jXy</password>
+  <gender/>
+  <country>Kenya</country>
+  <ipaddress>41.206.43.82</ipaddress>
+  <createdate>2013-02-01 04:56:41</createdate>
+  <lastupdateddate>2015-12-27 08:48:39</lastupdateddate>
+  <lastlogindate>2015-12-27 08:38:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

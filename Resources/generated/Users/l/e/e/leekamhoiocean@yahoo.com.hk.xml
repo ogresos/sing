@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lee</firstname>
+    <lastname>Kam Hoi</lastname>
+    <email>leekamhoiocean@yahoo.com.hk</email>
+    <password>%2B6iFM9vN5eptKA7%2Ft6Yv%2Fg%3D%3D</password>
+    <gender>M</gender>
+    <country>hk</country>
+    <ipaddress>112.119.112.212</ipaddress>
+    <createdate>2011-06-01 10:25:44</createdate>
+    <lastupdateddate>2011-06-05 06:50:20</lastupdateddate>
+    <lastlogindate>2011-06-05 06:45:51</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="124">主你乃是王中王</fav>
+        <fav category="default" type="ch" num="78">你在地上所有行徑</fav>
+        <fav category="default" type="ch" num="86">哦主你是無辜</fav>
+        <fav category="default" type="ch" num="732">哦來我心中</fav>
+        <fav category="default" type="ch" num="680">哦愛奇妙之愛</fav>
+        <fav category="default" type="ch" num="738">救我恩何等豐滿</fav>
+        <fav category="default" type="ch" num="111">神的兒子親愛救主</fav>
+        <fav category="default" type="ch" num="53">讚美你是神的活道</fav>
+        <fav category="default" type="ch" num="95">讚美祂讚美祂</fav>
+        <fav category="default" type="ch" num="105">阿利路亞祂已復活</fav>
+        <fav category="default" type="ch" num="98">頌讚聲音何等難得</fav>
+        <fav category="default" type="ch" num="1001">頌讚與尊貴與榮耀歸你</fav>
+    </favourites>
+</user>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O kay inam at kay buti</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGSASALAMUHA</category>
+  <numbers><english num="856"/><tagalog num="856"/></numbers>
+  <music>
+    <midiref type="h" num="856"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O kay inam at kay buti
+Kung ang kapatiran
+Na'galak sa isa't isa
+At may kaisahan.</stanza>
+    <stanza type="verse" number="2">Gaya'y unggwentong pampahid,
+Binuhos sa ulo;
+Tulad ng umagang hamog,
+Sariwang totoo.</stanza>
+    <stanza type="verse" number="3">Pagpapala'y dadalhin Niya
+Do'n sa kapatiran;
+Gantimpala Niya ay buhay
+Na walang hangganan.</stanza>
+  </lyrics>
+</hymn>

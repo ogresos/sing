@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christus mit Sündern ganz eins war</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Erlösung</category>
+  <numbers><cebuano num="998"/><chinese num="683"/><english num="998"/><french num="195"/><german num="998"/><korean num="683"/><portuguese num="445"/><russian num="162"/><spanish num="463"/><tagalog num="998"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 0/ (break) | 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 5/ (break) | 5 5/ 3/( 4/) 5/ | 6.( 6) 6/ | 5 ._1/ ._1/( 7/) ._1/ | ._2.( ._2) ._1/ (break) | ._3 ._3/ ._4 ._3/ | ._2 6/ ._2 ._1/ | 7 ._1/ 7/( 6/) 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>Chris -- tus mit Sün -- dern ganz eins war, Kam, um bei ih -- nen zu le -- ben, Wur -- de für Sün -- der ge -- kreu -- zigt, Herr -- li -- ches Le -- ben will ge -- ben. Oh Chris -- tus kam für uns, Oh Chris -- tus starb für uns; Oh ja, für uns, für uns, für uns, Er kam und starb für uns.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="998"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Christus mit Sündern ganz eins war,
+Kam, um bei ihnen zu leben,
+Wurde für Sünder gekreuzigt,
+Herrliches Leben will geben.</stanza>
+	<stanza type="verse" number="">Oh Christus kam für uns,
+Oh Christus starb für uns;
+Oh ja, für uns, für uns, für uns,
+Er kam und starb für uns.</stanza>
+  </lyrics>
+</hymn>

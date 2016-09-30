@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>benjamin</firstname>
+    <lastname>go</lastname>
+    <email>bbenjamin1@att.net</email>
+    <password>vH8hoN1pdDsNaVjNGT4j%2BQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>70.194.144.158</ipaddress>
+    <createdate>2013-02-19 21:10:38</createdate>
+    <lastupdateddate>2013-02-19 21:43:13</lastupdateddate>
+    <lastlogindate>2013-02-19 21:10:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="154">It passeth telling, that dear love of Thine</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Katubsanan gihuman N'ya</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG MANLULUWAS</category>
+  <numbers><cebuano num="986"/><chinese num="671"/><english num="986"/><german num="986"/><korean num="671"/><portuguese num="440"/><russian num="160"/><spanish num="460"/><tagalog num="986"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._1 5 5 | 7 6 5 4/ 4/ | 3 - 2 1 (break) | 5 - 5 5 | ._1 ._1 5 5 | 7 6 5 4/ 4/ | 3 - 4 2 (break) | 2 - 1 (Chorus) 1/ 2/ | 3 - 2 1 | 5 - 3 1 | 2 - 1 2 (break) | 3 5 - 5/ 5/ | ._1 - ._1 6 | 5 - 3 1 | 3 - 2 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="986"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Katubsanan gihuman N'ya:
+Katingad-ang Manlul'was!
+Gilukat ta! nabayran na:
+Katingad-ang Manlul'was!</stanza>
+	<stanza type="chorus" number="">Katingad-ang Manlul'was,
+Si Jesus, si Jesus!
+Katingad-ang Manlul'was,
+Ang Ginoo ko!</stanza>
+	<stanza type="verse" number="2">Daygon S'ya's dugong naghinlo,
+Katingad-ang Manlul'was!
+Nagpasig-uli nako's Dios,
+Katingad-ang Manlul'was!</stanza>
+	<stanza type="verse" number="3">Gihinloan's tanang sala,
+Katingad-ang Manlul'was!
+Naghari karon's sulod ko;
+Katingad-ang Manlul'was!</stanza>
+	<stanza type="verse" number="4">Nagpuyo S'ya sa sulod ko,
+Katingad-ang Manlul'was!
+Nag-amping nga mounong N'ya,
+Katingad-ang Manlul'was!</stanza>
+	<stanza type="verse" number="5">Gahum's pagdaug gihatag,
+Katingad-ang Manlul'was!
+Sa tanang gubat modaug,
+Katingad-ang Manlul'was!</stanza>
+	<stanza type="verse" number="6">Tanan gihalad Kaniya,
+Katingad-ang Manlul'was!
+Kalibutan wa nay labut,
+Katingad-ang Manlul'was!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ian</firstname>
+    <lastname>--</lastname>
+    <email>ianroberts9@hotmail.com</email>
+    <password>b%2FOeXA0h44atM36VrOuKBg%3D%3D</password>
+    <gender>M</gender>
+    <country></country>
+    <ipaddress>24.235.185.102</ipaddress>
+    <createdate>2012-04-20 20:16:38</createdate>
+    <lastupdateddate>2013-01-01 20:41:24</lastupdateddate>
+    <lastlogindate>2013-01-01 20:40:51</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

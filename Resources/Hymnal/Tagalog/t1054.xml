@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Poon, huwag akong lampasan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;SUMASAMO SA PANGINOON</category>
+  <numbers><cebuano num="1054"/><chinese num="730"/><english num="1054"/><korean num="730"/><tagalog num="1054"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1054"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Poon, huwag akong lampasan,
+Samo'y pakinggan;
+Nang iba'y Iyong tinatawag,
+Ko'y huwag lampasan.</stanza>
+    <stanza type="chorus" number="">Manliligtas,
+Samo'y pakinggan;
+Nang iba'y Iyong tinatawag,
+'Ko'y huwag lampasan.</stanza>
+    <stanza type="verse" number="2">Sa luklukan ng Iyong awa,
+Kamtan ginhawa;
+Nakaluhod, nagsisisi,
+Sa aking sala.</stanza>
+    <stanza type="verse" number="3">Sa galing Mo'y nagtiwala,
+Hahanapin Ka;
+'Spiritung bagbag lunasan,
+Ng Iyong biyaya.</stanza>
+    <stanza type="verse" number="4">Ika'y batis ng ginhawa,
+Sa 'kin buhay ka;
+Liban sa Iyo ay wala na,
+Dito sa lupa.</stanza>
+  </lyrics>
+</hymn>

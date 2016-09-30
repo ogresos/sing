@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Chola</firstname>
+  <lastname>Mukanga</lastname>
+  <email>chola.mukanga@lost-pages.com</email>
+  <password>$2y$10$6utDbDFOABnVJZpfb6kV.OpFj5U06hcWGKYYEG/i0MF8gjRuT/gTG</password>
+  <gender/>
+  <country>United Kingdom</country>
+  <ipaddress>2.121.206.148</ipaddress>
+  <createdate>2014-05-11 20:47:11</createdate>
+  <lastupdateddate>2016-05-10 07:10:16</lastupdateddate>
+  <lastlogindate>2016-05-10 07:10:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+    <fav category="default" type="h" num="934">I cannot tell why He, whom angels worship</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="72">Jesus, the name high over all</fav>
+    <fav category="default" type="h" num="401">May the mind of Christ my Savior</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+  </favourites>
+</user>

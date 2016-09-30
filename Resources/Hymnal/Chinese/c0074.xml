@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聽阿天使讚高聲</title>
+  <index>true</index>
+  <category>讚美主－祂的成肉身</category>
+  <numbers><cebuano num="84"/><chinese num="74"/><english num="84"/><german num="84"/><korean num="74"/><portuguese num="49"/><russian num="23"/><spanish num="49"/><tagalog num="84"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+	<author biodate="1714-1770" biolink="">Altered by George Whitefield</author>
+  </creators>
+  <melody>| 5_. 1 1. 7_./ | 1 3 3( 2) | 5 5 5. 4/ | 3 2 3 - (break) | 5_. 1 1. 7_./ | 1 3 3( 2) | 5 2 2. 7_./ | 7_. 6_. 5_. - (break) | 5 5 5 1 | 4 3 3( 2) | 5 5 5 1 | 4 3 3( 2) (break) | 6 6 6 5 | 4 3 4 - | 2 3/( 4/) 5. 1/ | 1 2 3 - (break) | 6. 6/ 6 5 | 4 3 4 - | 2 3/( 4/) 5. 1/ | 1 2 1 - |</melody>
+  <layout>
+	<singingstanza>聽 阿， 天 使 讚 高 聲， 頌 揚 救 主 今 誕 生！ 『榮 耀 在 天 歸 與 神， 平 安 在 地 臨 及 人。』 興 起！ 地 上 眾 生 靈， 響 應 天 上 讚 美 聲； 天 唱 地 和 樂 歡 騰， 基 督 誕 生 大 衛 城。 天 唱 地 和 樂 歡 騰， 基 督 誕 生 大 衛 城。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="84"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聽阿，天使讚高聲，
+頌揚救主今誕生！
+『榮耀在天歸與神，
+平安在地臨及人。』
+興起！地上眾生靈，
+響應天上讚美聲；
+天唱地和樂歡騰，
+基督誕生大衛城。
+天唱地和樂歡騰，
+基督誕生大衛城。</stanza>
+	<stanza type="verse" number="2">基督本有神形像，
+基督原居神榮光，
+竟在末世從天降，
+生於童女成人狀；
+神性穿上血肉體，
+道成肉身何奧祕，
+甘願作人同人住，
+以馬內利是耶穌。
+甘願作人同人住，
+以馬內利是耶穌。</stanza>
+	<stanza type="verse" number="3">歡迎，天來和平王！
+歡迎，公義的太陽！
+帶來生命與亮光，
+使人復活，醫人傷；
+虛己，撇下祂榮光，
+降生救人免死亡，
+降生使人得重生，
+降生使人能高升。
+降生使人得重生，
+降生使人能高升。</stanza>
+	<stanza type="verse" number="4">萬國『羨慕，』
+萬民『望，』
+願你安家我心房；
+女人後裔－得勝者，
+在我裡面毀古蛇；
+亞當舊樣全除盡，
+你的形像將我印；
+末後亞當的豐盛，
+使我變成你榮形。
+末後亞當的豐盛，
+使我變成你榮形。</stanza>
+	<stanza type="note" number="">『羨慕』意即所羨慕的那位，
+指基督，引自哈該書二章七節小字。
+『望』指基督是萬民的盼望。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Явим Господа, молясь</title>
+  <index>true</index>
+  <category>МОЛИТВА&amp;mdash;ЯВЛЕНИЕ ГОСПОДА</category>
+  <numbers><cebuano num="785"/><chinese num="567"/><english num="785"/><german num="785"/><korean num="567"/><russian num="285"/><tagalog num="785"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 2. 3/ | 4 2 3 - | 3 5 2. 3/ | 4 2 1 - (break) | 2 3 1. 2/ | 7_. 6_. 5_. - | 3 5 2. 3/ | 4 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="583"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Явим Господа, молясь,
+Не себя, а лишь Его.
+Пусть откроет нам себя
+И желание Своё.</stanza>
+	<stanza type="verse" number="2">Явим Господа, молясь,
+И намеренье Его,
+Наши мысли усмирив,
+Слившись с разумом Его.</stanza>
+	<stanza type="verse" number="3">Явим Господа, молясь,
+Став, как зеркало, пред Ним,
+Чтоб, взирая, отражать
+Его славу изнутри.</stanza>
+	<stanza type="verse" number="4">Явим Господа, молясь,
+Так, чтоб Сам Он в нас просил,
+Чтоб Христос у нас внутри
+В небесах Христа молил.</stanza>
+	<stanza type="verse" number="5">Явим Господа, молясь,
+И учась молиться Им,
+Чтоб молиться не собой,
+А лишь Господом Самим.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa i-yo'y may pag-ibig sa ekklesia</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;PANGKALAHATAN</category>
+  <numbers><cebuano num="1278"/><chinese num="ts:721"/><english num="1278"/><german num="1278"/><russian num="141*"/><tagalog num="1278"/></numbers>
+  <melody>| 0 - 1 2 | 3 - 3 - | 5 4( - 3) | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6 5 - - | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2 ._1 - - | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_. 2 | 1( - - - | 1) - 0 - |</melody>
+  <music>
+	<midiref type="h" num="1278"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa i-yo'y may pag-ibig sa ekklesia,
+Malalim at tunay purong pagsinta;
+Bakit ma'lumbay at maghimutok ka,
+Mayro'n namang panustos sa ekklesia?</stanza>
+	<stanza type="verse" number="2">Sa i-yo'y may buhay sa ekklesia,
+Kasing tamis ng hamog sa umaga;
+Bakit ka ma'ngamba at mag-alala,
+Hesus may malasakit sa ekklesia?</stanza>
+	<stanza type="verse" number="3">Sa i-yo'y may gawa sa ekklesia;
+Maging anghel gagawa nang masaya;
+Bakit hahanap ng gawang dakila,
+Kamay mo'y kailangan na sa ekklesia?</stanza>
+	<stanza type="verse" number="4">Sa i-yo'y may puwang sa ekklesia;
+Mal'wanag, mal'walhati, 'to'y payapa;
+Bakit nga nagpapalabuy-laboy ka pa,
+Mayro'n namang p'wang sa iyo sa ekklesia?</stanza>
+  </lyrics>
+</hymn>

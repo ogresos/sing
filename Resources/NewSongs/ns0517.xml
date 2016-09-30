@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Treasure in Earthen Vessels</title>
+  <index>true</index>
+  <numbers><chinese num="ns:517c"/><english num="ns:517"/></numbers>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <creators>
+	<!--author biodate="" biolink="" fullname="Maryanna Cashmore">Translated by M. C.</author-->
+	<author biodate="" biolink="" fullname="">2014 NCKU Graduates</author>
+	<composer biodate="" biolink="" fullname="">2014 NCKU Graduates</composer>
+  </creators>
+  <hymncode>323213523212321673</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | Am - - - | Em - - - | F - G - | Em - Am - | Dm - G7 - | C - C7 - | F - G - | C - - - | Dm - G - | C - - - | F - G - | Em - Am - | D7 - - - | Gsus4 - G7 - | F - G - | C - C7 - | F - E - | Am - - - | F - G - | Em - A - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 3/ 2/ | 3. 2/ 1 3/ 5/ | 2 - - 3/ 2/ | 1. 2/ 3/ 2/ 1/ 6_./ 7_./ 3.( 3) 1/ 7_./ (break) | 6_. 3 2 3/ 4/ | 5 - 1/ 1/ 2/ 3/ | 4 3 2/ 1/ 7_./ 2/( | 2/) 1.( 1) 4/ 5/ (break) | 6 1 7_./ 7_./( 7_./) 6/ | 5 - - 3/ 5/ | 4/ 4/ 4/ 3/ 2/ 1/( 1/) 2/ | 3 - - 4/ 5/ (break) | 6 4 2 6/ 7/( | 7/) 5.( 5) 3/ 5/ | 6 5/ 4#/( 4#/) 2/ 6/ 7/ | ._1 - 7/ (Chorus) 5/ ._1/ 7/ (break) | 6. 6/ 5 2/ 4/ | 3 - 0/ 1/ 3/ 5/ | 6. 6/ 7 3 | ._1 - - ._1/ 7/ (break) | {6 7 ._1} 7. 5/ | ._2 - ._1# 3/ 5/ | {4 6 ._1} ._1. 7/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Cho -- sen, called, re -- spond -- ing to You, Meet -- ing You has giv -- en my life val -- ue. Though I'm young, I haste to pur -- sue You, To be a ves -- sel Your rich -- es shine through. Con -- se -- crat -- ing, I hes -- i -- tate: Can I that blest goal of glo -- ry at -- tain? In Your light I sud -- den -- ly see: Not my might, but Your un -- ri -- valed mer -- cy! Fresh con -- se -- cra -- tion! Whol -- ly for Thee, I'll close -- ly fol -- low, time re -- deem! Live Your tran -- scen -- dent life, Lord, through me, That the trea -- sure with -- in be seen!</singingstanza>
+  </layout>
+  <music>
+      <midi location="ns" length="64">ns0517.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Chosen, called, responding to You, Meeting You has given my life value.
+Though I'm young, I haste to pursue You, To be a vessel Your riches shine through.
+Consecrating, I hesitate: Can I that blest goal of glory attain?
+In Your light I suddenly see: Not my might, but Your unrivaled mercy!</stanza>
+    <stanza type="chorus" number="">Fresh consecration! Wholly for Thee, I'll closely follow, time redeem!
+Live Your transcendent life, Lord, through me, That the treasure within be seen!</stanza>
+    <stanza type="verse" number="2">Treasure hid in vessels of earth Manifests Your power and transcendence;
+In Your face's light e'er abiding, If nearer Thee, naught more would I desire.
+Pressure, persecutions, and wounds Just bring resurrection life into bloom;
+Though we suffer light trans'ient pain, The eternal weight of glory's gained!</stanza>
+    <stanza type="verse" number="3">God of glory shines, drawing us; Goodbye world, our lives are for God's purpose!
+Precious vessels ready for using, No matter where, as long as it's with Thee.
+We are washed and cleansed by Your word, Unencumbered, holy, transparent, pure;
+Mold us, Lord, conform us to Thee; At Your call, we'd rise up instantly!</stanza>
+    <stanza type="verse" number="4">New Jerusalem is our dream; For her building, steadfast we're pursuing;
+Love outpoured, sweet ointment o'erflowing, Fight boldly for the interests of our God.
+Vital, spread the God-ordained way Till as one the new revival we gain;
+Oh my Lord, my love, quickly come, As You promised, in our generation!</stanza>
+  </lyrics>
+</hymn>

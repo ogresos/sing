@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Oscar</firstname>
+  <lastname>Sagardi</lastname>
+  <email>sagardiaoscar@gmail.com</email>
+  <password>$2y$10$QSMSFPG09baFF8Xg7Ss.t.TuCP8yGMeukfiiU5Hi3hSKCmojSSjFm</password>
+  <gender/>
+  <country>cl</country>
+  <ipaddress>190.162.22.236</ipaddress>
+  <createdate>2015-06-09 05:11:48</createdate>
+  <lastupdateddate>2015-09-17 05:17:52</lastupdateddate>
+  <lastlogindate>2015-09-16 00:03:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+  </favourites>
+</user>

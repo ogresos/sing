@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Victory through Christ's resurrection</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Victory</category>
+  <numbers><english num="ns:174"/><vsb num="53"/></numbers>
+  <hymncode>135154312113515</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Em - | Dm - G7 - | C - Em - | Dm - G7 - | C - C/E - | F E Am - | Dm7 - G7 - | C - - - | G - G7/B - | C - - - | G/B - G7 - | C - - - | G/B - G7 - | C - A7 - | D - D7/F# - | G - G7 - |</chords>
+  <melody>| (Chorus) 0 1/ 3/ 5 ._1 | 5 4/ 3/ 1 2 | 0/ 1/ 1/ 3/ 5 ._1 | 5 - - - (break) | 0 3/ 5/ 5 5 | 6 7 ._1 - | 0. 2/ 2/ 2/ 1/ 7_./ | 1 - - - (break) | (Verse_1) 0. 2/ 2/ 2/ 5/ 4/ | 3 - - - | 0 2/ 2/ 2/ 2/ 1/ 2/ | 3 - - - (break) | 0 2/ 2/ 2/ 2/ 5/ 4/ | 3 5 6. 5/ | 4# 2 3( 4#) | 5 4/ 4/ 3 2 |</melody>
+  <layout>
+    <singingstanza>Vic -- to -- ry through Christ's re -- sur -- rec -- tion The vic -- to -- ry is won! Praise Him for what He has done The vic -- to -- ry is won! The vic -- tory o -- ver death, O -- ver Sa -- tan and the world He de -- feat -- ed them tri -- um -- phant -- ly For all to see, Oh, what a vic -- tory!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="33">ns0174.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Victory through Christ's resurrection
+The victory is won!
+Praise Him for what He has done
+The victory is won!</stanza>
+    <stanza type="verse" number="1">The victory over death,
+Over Satan and the world
+He defeated them triumphantly
+For all to see,
+Oh, what a victory!</stanza>
+    <stanza type="verse" number="2">Designated as the Son
+Bringing man into God
+He uplifted humanity
+Displayed His glory
+Oh, what a victory!</stanza>
+    <stanza type="verse" number="3">He became the Spirit too
+So that He could dwell in us
+He's dispensing into you and me
+Now He's life-giving
+Oh, what a victory!</stanza>
+    <stanza type="verse" number="4">He regenerated us
+Now we're brothers of the Lord
+We're the members of His family
+We're in the Body
+Oh, what a victory!</stanza>
+    <stanza type="verse" number="5">Now we partake of Him
+In His victory we share
+He's available to us daily
+In God's economy
+We're enjoying...</stanza>
+  </lyrics>
+</hymn>

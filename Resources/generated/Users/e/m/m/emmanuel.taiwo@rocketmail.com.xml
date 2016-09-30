@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Emmanuel</firstname>
+    <lastname>Taiwo</lastname>
+    <email>emmanuel.taiwo@rocketmail.com</email>
+    <password>n8zt%2BFXBZEAFNtWHdMyx7A%3D%3D</password>
+    <gender></gender>
+    <country>Canada</country>
+    <ipaddress>70.26.233.37</ipaddress>
+    <createdate>2013-01-12 23:03:49</createdate>
+    <lastupdateddate>2013-02-02 19:34:28</lastupdateddate>
+    <lastlogindate>2013-02-02 19:34:28</lastlogindate>
+    <failedlogincount>9</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+        <fav category="default" type="h" num="907">Not where we elect to go</fav>
+        <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+        <fav category="default" type="h" num="239">Ten thousand thanks to Jesus</fav>
+    </favourites>
+</user>

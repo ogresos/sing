@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sumigaw ang "Sinumang makarinig!"</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><chinese num="709"/><english num="1034"/><korean num="709"/><tagalog num="1034"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1034"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sumigaw ang "Sinumang makarinig!"
+Dalhin balita sa buong daigdig;
+Ang ebanghelyo sa tao'y ihatid:
+"Lumapit ang may ibig!"</stanza>
+    <stanza type="chorus" number="">"Sinumang tao ang nagnanais!"
+Magpahayag sa bundok at dalisdis;
+Tumatawag ang Amang umiibig:
+"Lumapit ang may ibig!"</stanza>
+    <stanza type="verse" number="2">"Ang lumalapit" ay huwag nang
+mabalam,
+Magmaagap, bukas pa ang pintuan;
+Si Hesus ang tunay, Buhay na Daan:
+Lumapit ang may ibig!"</stanza>
+    <stanza type="verse" number="3">"Ang may ibig!", pangako'y nakahanda;
+"Ang may ibig!" ay kailangang magbata;
+"Ang may ibig", buhay na 'di hahanga;
+"Lumapit ang may ibig."</stanza>
+  </lyrics>
+</hymn>

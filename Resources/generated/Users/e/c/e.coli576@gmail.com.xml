@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>王君倫</firstname>
+  <lastname/>
+  <email>e.coli576@gmail.com</email>
+  <password>$2y$10$h78iS3IUcstzDXx39XGjSuLCvAyXmPFIwOWblyFXR0V0kLD7YtC0a</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>111.80.115.198</ipaddress>
+  <createdate>2014-12-18 13:55:58</createdate>
+  <lastupdateddate>2015-04-25 11:06:50</lastupdateddate>
+  <lastlogindate>2015-04-21 22:57:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="323">Behold what manner of love</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="453">I have set before you life and death</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="nt" num="1210">Through God's word, my hope at His returning</fav>
+    <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+    <fav category="default" type="ch" num="648">得勝得勝者</fav>
+  </favourites>
+</user>

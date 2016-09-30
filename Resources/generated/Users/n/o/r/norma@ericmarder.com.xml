@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Norma</firstname>
+<lastname>Zanoni</lastname>
+<email>norma@ericmarder.com</email>
+<password>$1$V9bvczgn$0pw.OFqM1ydHBYvrv8zQc0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>64.51.88.202</ipaddress>
+<createdate>2008-07-26 01:43:15</createdate>
+<lastupdateddate>2009-09-15 18:22:17</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="105">Himself He could not save</fav>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="717">O let us rejoice in the Lord evermore</fav>
+    </favourites>
+</user>

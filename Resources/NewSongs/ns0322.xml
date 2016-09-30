@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We have found a simple way</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><chinese num="ts:230"/><english num="ns:322"/></numbers>
+  <melody>| 0 - - 5./ 5// | 5/ 5/ 5./ 4// 3./ 5// ._1./ ._2// (break) | ._3./ ._3// ._3./ ._2// ._1 ._1./ 7// | 6./ 6// 6./ 7// ._1./ 7// ._1./ 6// (break) | 5./ 6// 5./ 3// 5 5./ 5// | 5./ 5// 5./ 4// 3./ 5// ._1./ ._2// (break) | ._3./ ._3// ._3./ ._2// ._1 ._1 | ._2 ._2/ ._2/ ._1 7 | ._1 - - 0 (break) | (Chorus) 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 0 (break) | 6. 7/ ._1./ 7// ._1./ 6// | 5 - 3 - (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 ._1 (break) | ._2 ._2/ ._2/ ._1 7 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>We have found a sim -- ple way for us to real -- ly touch the Lord: All we do is pray four words, and O what grace He does af -- ford! From our spir -- it now we say them, and we spread the news a -- broad, It's eas -- y to touch the Lord! Oh Lord, A -- men, Hal -- le -- lu -- jah! Oh Lord, A -- men, Hal -- le -- lu -- jah! Oh Lord, A -- men, Hal -- le -- lu -- jah! It's eas -- y to touch the Lord!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="1017"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We have found a simple way for us to really touch the Lord:
+All we do is pray four words, and O what grace He does afford!
+From our spirit now we say them, and we spread the news abroad,
+It's easy to touch the Lord!</stanza>
+    <stanza type="chorus" number="">Oh Lord, Amen, Hallelujah!
+Oh Lord, Amen, Hallelujah!
+Oh Lord, Amen, Hallelujah!
+It's easy to touch the Lord!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Apokalipsis 1:4; 4:5; 5:6</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;ANG PITONG ESPIRITU</category>
+  <numbers><cebuano num="1122"/><chinese num="ts:102"/><english num="1122"/><french num="51"/><german num="1122"/><korean num="814"/><russian num="211"/><spanish num="136"/><tagalog num="1122"/></numbers>
+  <melody>| 0 - 5_./ 5_./ | 1. 7_./ 2/ 1/ | 3 - 3/ 4/ | 2. 5_./ 2/ 3/ | 1 - 5_./ 5_./ (break) | 1. 7_./ 2/ 1/ | 3 - 3/ 3/ | 2. 2/ 3/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | 6. 5/ 4/ 3/ | 4 - 4/ 4/ | 5. 4/ 3/ 2/ (break) | 3 - 5( | 5/) 4/ 3/ 2/ 1/ 7_./ | 6_. - 5_./ 1/ | 1. 7_./ 2/ 1/ | 3 - - (break) | 5/ 4.( 4) | 4/ 3.( 3) | 3/ 2/ 1#/ 2/ (.4/ 3/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="262"/>
+  </music>
+  <lyrics>
+	<stanza type="chorus" number="">Apokalipsis 1:4; 4:5; 5:6</stanza>
+	<stanza type="verse" number="1">Pitong 'Spiritu ng Diyos -
+Panahon bumaling na
+Sa Espiritu lubos,
+Kay Kristo't ekklesia.</stanza>
+	<stanza type="chorus" number="">Halina, Espiritu,
+Pagbabawi Iyong tupdin,
+Ekklesia'y para sa Iyo!
+Kami ay Iyong suriin,
+Pagningasin;
+Ekklesia'y para sa Iyo!</stanza>
+	<stanza type="verse" number="2">'Spiritu'y makapito
+Para sa ekklesia,
+Susuriin ni Kristo,
+Tayo'y bubuhayin Niya.</stanza>
+	<stanza type="verse" number="3">'Spiritu ng ating Diyos
+Ay napatindi ngayon:
+Di isa, makapito -
+Ekklesia'y matustusan!</stanza>
+	<stanza type="verse" number="4">Pitong 'Spiritu nama'y
+Pitong ilawang apoy,
+Di magturo, kundi Siya'y
+Sumunog nang patuloy.</stanza>
+	<stanza type="verse" number="5">Pitong 'Spiritu'y masdan -
+Nagniningas na mata,
+Ang ekklesia'y hantaran,
+Na dinadalisay Niya.</stanza>
+	<stanza type="verse" number="6">Pitong 'Spiritu'y para
+Magamit sa ekklesia;
+Siya ay matatamsa
+Sa lokal na ekklesia.</stanza>
+  </lyrics>
+</hymn>

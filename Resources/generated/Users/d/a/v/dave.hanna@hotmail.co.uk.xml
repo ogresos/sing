@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>DAVID</firstname>
+    <lastname>Hanna</lastname>
+    <email>dave.hanna@hotmail.co.uk</email>
+    <password>dc7NJVYuBnotzJT8qTDBgg%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>78.144.219.106</ipaddress>
+    <createdate>2009-10-04 12:55:37</createdate>
+    <lastupdateddate>2014-01-08 13:02:17</lastupdateddate>
+    <lastlogindate>2014-01-08 13:02:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1148">Come and dine</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="nt" num="673">I take my portion from Thy hand</fav>
+        <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="nt" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="160">King of my life, I crown Thee now</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+    </favourites>
+</user>

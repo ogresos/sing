@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Человек есть во славе</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;КАК ЖИЗНИ</category>
+  <numbers><cebuano num="505"/><chinese num="ts:27*"/><dutch num="47"/><english num="505"/><french num="89"/><german num="505"/><korean num="383"/><portuguese num="243"/><russian num="218"/><spanish num="218"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mary E. McDonough</author>
+	<author biodate="" biolink="">Translated from "K" in Rippon's Selection of Hymns, 1787</author>
+  </creators>
+  <melody>| 0 - - ._1/ ._1/ | ._1 - 5 ._1 | ._2 - 5 5 | ._3( ._2) ._3 ._4 (break) | ._3( - ._2) ._1 | ._1 - 7 6 | 7( ._1) ._2 ._3 | 7 - 6. 5/ (break) | 5 - - 5 | ._5 - ._4 ._3 | ._4 - ._3 ._3 | ._2( ._3) ._1 ._2 (break) | 7.( 6/ 5) ._1 | ._1( 7) ._1 ._2 | ._1 - 5 ._3 | ._3( ._2) ._3 ._4 (break) | ._3( - ._2) ._3 | ._4( ._3) ._2 ._1 | 7 - ._1 ._4 | ._3 - ._2. ._1/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Че -- ло -- век есть во сла -- ве, Чья жизнь_– для ме -- ня, По -- бед -- ный, сво -- бод -- ный, Как чист Он и свят!  Как неж -- но Он лю -- бит, Е -- го нет муд -- рей, И жизнь Е -- го в_сла -- ве Дол -- жна быть мо -- ей.  И жизнь Е -- го в_сла -- ве Дол -- жна быть мо -- ей.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="505"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Человек есть во славе,
+Чья жизнь – для меня,
+Победный, свободный,
+Как чист Он и свят!
+Как нежно Он любит,
+Его нет мудрей,
+И жизнь Его в славе
+Должна быть моей.
+И жизнь Его в славе
+Должна быть моей.</stanza>
+	<stanza type="verse" number="2">Человек есть во славе,
+Чья жизнь – для меня,
+От уз Он свободен,
+Врага Он изгнал.
+Он царствует в жизни,
+Он царь всех царей!
+И жизнь Его в славе
+Должна быть моей.</stanza>
+	<stanza type="verse" number="3">Человек есть во славе,
+Чья жизнь – мне завет.
+И в Нём ни болезни,
+Ни слабости нет.
+Как радостью полон
+Он в жизни Своей!
+И жизнь Его может
+Быть жизнью моей.</stanza>
+	<stanza type="verse" number="4">Человек есть во славе,
+Чья жизнь – для меня.
+О, как терпелив Он,
+Покой Свой храня.
+О, как Он сияет,
+Предвидя вполне,
+Что жизнь Его в славе
+Свершится во мне.</stanza>
+  </lyrics>
+</hymn>

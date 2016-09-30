@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Phil</firstname>
+  <lastname>Chamberlain</lastname>
+  <email>pmchamberlain@xtra.co.nz</email>
+  <password>$2y$10$HM5wbx.DuXY5OuuU7hAaPugIzMtIdTBavo2H.U2BAI.4VIrRA8Pru</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>125.236.191.119</ipaddress>
+  <createdate>2015-09-05 23:13:55</createdate>
+  <lastupdateddate>2016-02-07 17:48:03</lastupdateddate>
+  <lastlogindate>2016-02-07 17:48:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="1028">Jesus is tenderly calling thee home</fav>
+    <fav category="default" type="h" num="205">Jesus, Thou Joy of loving hearts</fav>
+    <fav category="default" type="h" num="365">Jesus, Thy life is mine</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="522">O Christ, in Thee my soul hath found</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+  </favourites>
+</user>

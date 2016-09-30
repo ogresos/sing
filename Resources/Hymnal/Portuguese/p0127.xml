@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Senhor, Tua ceia, reunidos, comemos</title>
+  <index>true</index>
+  <category>Em Memória Dele</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/( 5/) (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="1106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Senhor, Tua ceia, reunidos, comemos,
+Mostrando a unidade que temos em Ti;
+Comendo e bebendo a bênção obtemos,
+Pois confessamos nossa unidade aqui.</stanza>
+	<stanza type="verse" number="2">Comemos do pão, o Teu corpo partido,
+Assim desfrutamos Teu Corpo que é um;
+Um pão sobre a mesa ? um Corpo, a certeza:
+A todos atestar que o Senhor fez-nos um.</stanza>
+	<stanza type="verse" number="3">Do cálix da bênção agora bebemos,
+Do sangue de Cristo real comunhão;
+Remidos, pois cremos, assim recebemos
+Os que a Deus vieram por tal redenção.</stanza>
+	<stanza type="verse" number="4">Que mais nós diremos senão: "Aleluia",
+Por tal realidade que hoje nos dás?
+Teu sangue aplicamos, Teu Corpo gozamos,
+Assim a Tua igreja gloriosa terás.</stanza>
+  </lyrics>
+</hymn>

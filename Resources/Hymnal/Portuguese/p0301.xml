@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que vitória! Que triunfo</title>
+  <index>true</index>
+  <category>Sua Humanidade</category>
+  <numbers><cebuano num="1174"/><chinese num="ts:132"/><dutch num="7"/><english num="1174"/><german num="1174"/><korean num="946"/><portuguese num="301"/><russian num="421"/><spanish num="281"/><tagalog num="1174"/></numbers>
+  <melody>| 1. 2/ 3 1 | 3 4 5 5 | ._1 7/( 6/) 5 ._3 | ._2 ._2 ._1 - (break) | 1. 2/ 3 1 | 3 4 5 5 | ._1 7/( 6/) 5 ._3 | ._2 ._2 ._1 - (break) | ._3 ._3 ._2 ._2 | ._1 ._1 7 7 | 6. 6/ 5 ._1 | ._2 7 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="1174"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Que vitória! Que triunfo!
+Deus aqui se revestiu
+Da humana natureza
+E Seu plano assim cumpriu.
+Destruiu na cruz o diabo;
+Como homem ressurgiu!</stanza>
+	<stanza type="verse" number="2">Tendo humanais virtudes,
+Ao sutil, Jesus prendeu;
+E, do tentador, as provas,
+Como homem as venceu.
+Hoje, Ele e tais virtudes
+Tomo no espír'to meu.</stanza>
+	<stanza type="verse" number="3">Sua fina vida humana
+No Espír'to se incluiu;
+As virtudes elevadas
+Ao Espír'to Ele adiu.
+Oh! que Espír'to abundante
+Para o homem Deus supriu!</stanza>
+	<stanza type="verse" number="4">Misterioso! Mas mui vero!
+Há tal Homem dentro em mim;
+Para meu viver humano,
+Vive e se expande em mim.
+Aleluia! Aleluia!
+Dou-Lhe meu louvor sem fim!</stanza>
+	<stanza type="verse" number="5">Admirável! Glorioso!
+Deus na carne a se mostrar!
+Sua humanidade hoje
+Vem Seu Corpo expressar.
+Sua vida humana tenho
+Para a igreja edificar.</stanza>
+  </lyrics>
+</hymn>

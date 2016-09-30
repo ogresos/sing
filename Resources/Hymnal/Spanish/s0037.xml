@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tu nombre amo yo</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su nombre</category>
+  <numbers><cebuano num="65"/><chinese num="60"/><english num="65"/><german num="65"/><korean num="60"/><portuguese num="44"/><russian num="396"/><spanish num="37"/><tagalog num="65"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 3 - 2 1 | 1. 6_./ 6_. - | 5_. - 1 3 | 2 - - - (break) | 3 - 2 1 | 1. 6_./ 6_. - | 5_.( 1) 7_. 2 | 1 - - - (break) | 5 - 6 5 | 5. 3/ 5 - | 5 - 6 5 | 5. 3/ 2 - (break) | 3 - 2 1 | 1. 6_./ 6_. - | 5_.( 1) 7_. 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="65"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tu nombre amo yo,
+Señor Jesús;
+No͜ hay otro como Tú,
+Señor Jesús.
+Mi todo debes ser;
+Sin Ti no tengo bien;
+Descansa͜ en Ti mi fe,
+Señor Jesús.</stanza>
+	<stanza type="verse" number="2">Como͜ Hijo de͜ Hombre, Tú, 
+Señor Jesús;
+Moriste en la cruz,
+Señor Jesús.
+Más grande fue Tu͜ amor
+Que todo Tu dolor;
+Es sin comparación,
+Señor Jesús.</stanza>
+	<stanza type="verse" number="3">En Ti ya justo soy,
+Señor Jesús;
+Tú mi refugio hoy,
+Señor Jesús.
+¿A quién he de temer?
+¿Al duelo͜ o padecer?
+En Ti yo confiaré,
+Señor Jesús.</stanza>
+	<stanza type="verse" number="4">Muy pronto Tú vendrás,
+Señor Jesús;
+Felices nos harás,
+Señor Jesús.
+Cuando contigo͜ esté,
+Tu rostro yo veré,
+Y te reflejaré,
+Señor Jesús.</stanza>
+  </lyrics>
+</hymn>

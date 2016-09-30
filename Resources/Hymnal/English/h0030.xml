@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What love Thou hast bestowed on us</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Love</category>
+  <numbers><cebuano num="30"/><chinese num="25"/><dutch num="26"/><english num="30"/><french num="5"/><german num="30"/><korean num="25"/><lsmyp num="7"/><portuguese num="12"/><russian num="13"/><spanish num="21"/><tagalog num="30"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 3. 4/ 5 ._1 | ._1. 7/ 7 ._1 | ._2 ._3 ._4 ._3 | ._2 - - ._2 (break) | ._3. ._2/ ._1 7 | 7. 6/ 6 6 | 5 ._1 7. ._1/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>What love Thou hast be -- stowed on us, We thank Thee from our heart; Our Fa -- ther, we would wor -- ship Thee And praise for all Thou art.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj234.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0030.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="11"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">What love Thou hast bestowed on us,
+  We thank Thee from our heart;
+Our Father, we would worship Thee
+  And praise for all Thou art.</stanza>
+	<stanza type="verse" number="2">Thy heart Thou hast revealed to us,
+  Made known th' eternal will;
+Within the Son Thou hast come forth,
+  Thy purpose to fulfill.</stanza>
+	<stanza type="verse" number="3">Thou gavest Thy beloved Son
+  In love to come and die,
+That we may be Thy many sons,
+  As heirs with Him, made nigh.</stanza>
+	<stanza type="verse" number="4">Through Him we have Thy very life
+  And Thou our Father art;
+Thy very nature, all Thyself,
+  Thou dost to us impart.</stanza>
+	<stanza type="verse" number="5">Thy Spirit into ours has come
+  That we may "Abba" cry;
+Of Spirit born, with Spirit sealed,
+  To be transformed thereby.</stanza>
+	<stanza type="verse" number="6">The many sons to glory brought
+  Is Thine eternal goal,
+And to Thy Son's own image wrought,
+  Thou wilt conform the whole.</stanza>
+	<stanza type="verse" number="7">Throughout Thy transformation work
+  Thou dost direct each one,
+From glory unto glory bring
+  Until the work is done.</stanza>
+	<stanza type="verse" number="8">What love Thou, Father, hast bestowed;
+  We'll ever grateful be;
+We'll worship Thee forevermore
+  And praise unceasingly.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Everything's alright in the Father's house</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As God's House</category>
+  <numbers><english num="ns:242"/><vsb num="217"/></numbers>
+  <hymncode>3323121615</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | C - G - | G - C - | C - - - | F - C - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 3/ 3/ 2#/ 3/ 1 - | 2/ 1/ 6_./ 1/ 5_. - | 1/ 1/ 7_./ 1/ 2 - | 2/ 2/ 1/ 2/ 3 - | 3/ 3/ 2#/ 3/ 1 - | 2/ 1/ 6_./ 1/ 5_. 1/ 2/ | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Ev -- ery -- thing's al -- right in the Fa -- ther's house, In the Fa -- ther's house, In the Fa -- ther's house, Ev -- ery -- thing's al -- right in the Fa -- ther's house, In the Fa -- ther's house.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0242.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Everything's alright in the Father's house,
+In the Father's house,
+In the Father's house,
+Everything's alright in the Father's house,
+In the Father's house.</stanza>
+    <stanza type="verse" number="2">We are all at home in the Father's house...</stanza>
+    <stanza type="verse" number="3">We have perfect peace in the Father's house...</stanza>
+    <stanza type="verse" number="4">We are loving God in the Father's house...</stanza>
+    <stanza type="verse" number="5">We smile all day long in the Father's house...</stanza>
+    <stanza type="verse" number="6">We are satisfied in the Father's house...</stanza>
+    <stanza type="verse" number="7">We love Jesus Christ in the Father's house...</stanza>
+    <stanza type="verse" number="8">Bring Your children back to the Father's house...</stanza>
+  </lyrics>
+</hymn>

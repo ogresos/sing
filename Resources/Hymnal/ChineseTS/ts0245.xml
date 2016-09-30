@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們在美地</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="1165"/><chinese num="ts:245"/><english num="1165"/><german num="1165"/><russian num="523"/><tagalog num="1165"/></numbers>
+  <melody>| 0 - 5_./ 5_./ | 1./ 1// 1 2/ 2/ | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 5_./ 5_./ | 1./ 1// 1 2/ 2/ | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 0/ 5/ | 5./ 3// 6. 5/ | 5./ 4// 4 0/ 4/ | 4./ 2// 5. 4/ (break) | 4./ 3// 3 5_./ 5_./ | 1./ 1// 1 2/ 2/ | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. | 2./ 1// 1 0 |</melody>
+  <layout>
+	<singingstanza>我 們 在 美 地， 我 們 在 美 地！ 哦， 阿 利 路 亞！ 在 美 地！ 基 督 是 美 地， 基 督 是 美 地！ 哦， 讚 美 主， 祂 是 美 地！ 祂 就 是 奶， 祂 也 是 蜜； 五 穀 和 油、 新 酒 無 比。 我 們 在 美 地， 我 們 在 美 地！ 哦， 阿 利 路 亞！ 在 美 地！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1165"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們在美地，
+我們在美地！
+哦，阿利路亞！在美地！
+基督是美地，
+基督是美地！
+哦，讚美主，祂是美地！
+祂就是奶，祂也是蜜；
+五穀和油、新酒無比。
+我們在美地，
+我們在美地！
+哦，阿利路亞！在美地！</stanza>
+	<stanza type="verse" number="2">美地之上有許多的豐富：小麥、大麥、各種果樹；
+有泉、源、水流，
+湧流到永遠，
+何等美地擺在眼前！
+為要得著地裡出產，
+我們天天經營無間；
+每逢同聚集都帶來基督─
+『上好』基督作為供物！</stanza>
+  </lyrics>
+</hymn>

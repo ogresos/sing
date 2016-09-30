@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mrs</firstname>
+  <lastname>B</lastname>
+  <email>ambrooks3@gmail.com</email>
+  <password>$2y$10$WyoCc7ya..HCDboNQn.qcOW5fNYE6Zev8U0dcZsNpVkiF8a9B1r1y</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.0.58.112</ipaddress>
+  <createdate>2016-02-01 16:47:14</createdate>
+  <lastupdateddate>2016-02-01 17:36:18</lastupdateddate>
+  <lastlogindate>2016-02-01 16:48:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="495">Christ is God's centrality</fav>
+    <fav category="default" type="h" num="293">Cleansed in our Savior's precious blood</fav>
+    <fav category="default" type="h" num="1160">Jesus is our lovely Bridegroom</fav>
+    <fav category="default" type="h" num="1101">Lo, the kingdom of the world is now</fav>
+  </favourites>
+</user>

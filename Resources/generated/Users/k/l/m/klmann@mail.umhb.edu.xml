@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kelli</firstname>
+  <lastname>Mann</lastname>
+  <email>klmann@mail.umhb.edu</email>
+  <password>$2y$10$YbjDF78BQx932XNr67qw4Ou6wj/pqPGKQyCP2bIzfLNM5wetU8.jS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.79.54.131</ipaddress>
+  <createdate>2016-03-08 12:41:59</createdate>
+  <lastupdateddate>2016-04-23 16:27:56</lastupdateddate>
+  <lastlogindate>2016-04-23 16:26:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+  </favourites>
+</user>

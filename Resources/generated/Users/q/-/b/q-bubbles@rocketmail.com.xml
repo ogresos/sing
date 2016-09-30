@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Irene</firstname>
+    <lastname>Pek</lastname>
+    <email>q-bubbles@rocketmail.com</email>
+    <password>fG5O7XEVWsk4LJRgZ%2F0t2Q%3D%3D</password>
+    <gender>F</gender>
+    <country>sg</country>
+    <ipaddress>218.186.8.10</ipaddress>
+    <createdate>2011-03-20 00:23:45</createdate>
+    <lastupdateddate>2011-10-08 22:15:42</lastupdateddate>
+    <lastlogindate>2011-10-08 21:48:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="26">God, we praise Thee for Thy mercy</fav>
+        <fav category="default" type="h" num="72">Jesus, the name high over all</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="ts" num="3">你名在全地何其美</fav>
+        <fav category="default" type="ch" num="11">哦父你是常新的神</fav>
+        <fav category="default" type="ts" num="2">當以嘴親子</fav>
+        <fav category="default" type="ch" num="568">禱告與主來往交通</fav>
+        <fav category="default" type="ch" num="586">餧我飲我主</fav>
+    </favourites>
+</user>

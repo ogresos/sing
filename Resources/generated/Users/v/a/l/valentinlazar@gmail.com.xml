@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Valentin</firstname>
+<lastname>Lazar</lastname>
+<email>valentinlazar@gmail.com</email>
+<password>$1$8biIUFsF$czMnM3cF4JniCOPXKWhPc1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.144.2.43</ipaddress>
+<createdate>2008-08-19 14:31:06</createdate>
+<lastupdateddate>2009-09-15 18:25:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1194">There are two lines to live by in our living today</fav>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+        <fav category="default" type="h" num="358">Love Divine, all love excelling</fav>
+        <fav category="default" type="h" num="234">Who is He in yonder stall</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="140">Look, ye saints, the sight is glorious</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+        <fav category="default" type="h" num="628">Via Bethlehem we journey</fav>
+        <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="c" num="116">Wonderful, Wonderful</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="c" num="115">The heavens and the earth God made</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="lb" num="37">Awake, awake Deborah</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

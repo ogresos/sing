@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cast all your anxiety on Him</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Not Being Anxious</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Peter Harvey">P. H.</author>
+    <composer biodate="" biolink="" fullname="Peter Harvey">P. H.</composer>
+  </creators>
+  <hymncode>511123566653</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>105</tempo>
+  <chords>| C - - - | C - - - | F - C - | C - Am - | Dm - G7 - | C - C/E - | F - C/E - | F - C/E - | Dm G7 C - | C - - - | F - C - | C - Am - | D7 - G - | C - C/E - | F - C - | F - C/E - | Dm G7 C - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 1/ 1/ 1/ 2/ 3/ 5. | 6 6/ 6/ 5/ 3 5_./ | 1/ 1/ 1/ 2/ 3/ 5/ 5/ 3/ | 4 3/ 3/ 2. 5_./ | 1/ 1/ 1/ 2/ 3/ 5. | 6 ._1/ 6/ 5/ 3 5/ | 6/ 6/ ._1/ 6/ 5/ 3. | 4 3/ 2/ (.1 - (break) | (Chorus) 1 - 1 1/ 1/ | 6_./ 6_./ 6_./ 6_./ 5_. - | 1 1/ 1/ 1 1 | 2/ 2/ 2/ 3/ 2 - | 1 1/ 1/ 1 1 | 6_./ 6_./ 6_./ 6_./ 5_./ 5_./ 5_./ 5_./ | 6_. 1/ 6_./ 5_. - | 6_. 7_./ 7_./ (.1 - |</melody>
+  <layout>
+    <singingstanza>Be -- fore you get the an -- swer, you get the An -- swer; Be -- fore you get the things you ask for, you get the One; Be -- fore you get the ob -- ject, you get the Per -- son; Be -- fore you get the an -- swer, you get the Lord. Cast all your an -- xi -- e -- ty with Him. Give them, com -- mit them, throw them once for all. Throw your whole life with all its cares on Him Be -- cause it mat -- ters to Him con -- cern -- ing you.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="ns" num="142"></link>
+    <link type="ref">1 Peter 5:7</link>
+    <link type="ref">1 John 5:15</link>
+  </links>
+  <music>
+    <midi location="ns" length="41">ns0010.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Before you get the answer, you get the Answer;
+Before you get the things you ask for, you get the One;
+Before you get the object, you get the Person;
+Before you get the answer, you get the Lord.</stanza>
+    <stanza type="chorus" number="">Cast all your anxiety with Him.
+Give them, commit them, throw them once for all.
+Throw your whole life with all its cares on Him
+Because it matters to Him concerning you.</stanza>
+  </lyrics>
+</hymn>

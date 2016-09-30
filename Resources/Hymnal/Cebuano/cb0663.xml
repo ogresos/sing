@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Sulong!" Isinggit ta</title>
+  <index>true</index>
+  <category>PAGDASIG&amp;mdash;NGA MAGPADAYON</category>
+  <numbers><cebuano num="663"/><chinese num="483"/><english num="663"/><korean num="483"/><tagalog num="663"/></numbers>
+  <creators>
+    <author biodate="1810-1871" biolink="">Translated from Henry Alford</author>
+  </creators>
+  <music>
+    <midiref type="h" num="594"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Sulong!" Isinggit ta,
+Ngadto's unahan;
+Magpadayon's tumong,
+Way lingi-lingi;
+Haligi's kalayo
+Maghayag's dalan,
+Kinsay matalawan,
+S'ya ang Kapitan?
+Sulong's kamingawan,
+Sa panggubatan;
+Naghulat kanato
+Ang Gingharian.</stanza>
+    <stanza type="verse" number="2">Dugang nga himaya
+Ang giandam N'ya,
+Alang sa kalag nga
+Nahigugma N'ya;
+Wa pa igkita ta,
+Ni madungog ba;
+Ni mahunahuna,
+Pagkahimaya!
+Sulong sa unahan
+Sa gingharian,
+Hangtud pagtoo ta
+Makita's tanan!</stanza>
+  </lyrics>
+</hymn>

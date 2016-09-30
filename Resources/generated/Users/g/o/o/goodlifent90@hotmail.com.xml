@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Vanderbilt</lastname>
+    <email>goodlifent90@hotmail.com</email>
+    <password>NdsofXxG9QSquMLqXpspSQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>24.16.168.79</ipaddress>
+    <createdate>2013-10-30 15:48:59</createdate>
+    <lastupdateddate>2014-02-28 17:51:59</lastupdateddate>
+    <lastlogindate>2014-02-28 17:51:59</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="c" num="164">Give, said the little stream</fav>
+        <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+        <fav category="default" type="h" num="929">Out in the highways and byways of life</fav>
+    </favourites>
+</user>

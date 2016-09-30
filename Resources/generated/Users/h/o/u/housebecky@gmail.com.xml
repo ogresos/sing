@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>becky</firstname>
+  <lastname>house</lastname>
+  <email>housebecky@gmail.com</email>
+  <password>$2y$10$3q6ZxPg0U7vlCNshuZT4XuPqdp7IE0R2roQTcyhAztB.jshTfZXoa</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>99.129.19.54</ipaddress>
+  <createdate>2012-03-26 12:58:51</createdate>
+  <lastupdateddate>2015-12-20 15:59:03</lastupdateddate>
+  <lastlogindate>2015-12-20 15:59:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kadato N'ya pahimuslan</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;ANG KAHUPNGANAN NI CRISTO</category>
+  <numbers><cebuano num="820"/><chinese num="592"/><english num="820"/><german num="820"/><korean num="592"/><portuguese num="375"/><russian num="330"/><spanish num="349"/><tagalog num="820"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 3./ 4// 5. 5/ | 6 7 ._1. 5/ | ._1 5 4/( 3/) 2/( 1/) | 4 3 2. 2/ (break) | 5 6 7. ._1/ | ._2/( ._1/) 7/( 6/) 5. 5/ | 5 ._1 2 4 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="88"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kadato N'ya pahimuslan,
+Mahimo N'yang kahupnganan;
+Si Cristo mismo ambitan,
+Pamatuod N'ya makit-an.</stanza>
+	<stanza type="verse" number="2">Kadato N'ya mao Siya
+Kanatong mga bahin N'ya;
+Makahupnganan ta Niya,
+Sama's lawas nga iya's tawo.</stanza>
+	<stanza type="verse" number="3">Gihulagwayng kadato N'ya
+Sa mga abut's Canaan,
+Dakong templo nga natukod,
+Hulagway sa Iglesia gyud.</stanza>
+	<stanza type="verse" number="4">Eva kahupnganang Adam,
+Ingon sab Iglesiang Cristo;
+Eva naggikan ni Adam,
+Cristo'y nag-anak's Iglesia.</stanza>
+	<stanza type="verse" number="5">Kadato N'ya Siya mismo,
+Kahupnganan N'ya Iglesia,
+Pagpadayag N'ya, puno N'ya;
+Bug-os nga tinukod Niya.</stanza>
+  </lyrics>
+</hymn>

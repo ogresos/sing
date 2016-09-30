@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>charles</firstname>
+<lastname>nolsch</lastname>
+<email>cnollsch9@aol.com</email>
+<password>$1$DVbe6WN0$kCu0XRJdU2L9eIcq/vgnX1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.104.32.74</ipaddress>
+<createdate>2008-07-27 12:30:36</createdate>
+<lastupdateddate>2009-09-15 18:25:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

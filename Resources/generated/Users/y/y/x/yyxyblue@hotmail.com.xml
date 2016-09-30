@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>grace</firstname>
+    <lastname>young</lastname>
+    <email>yyxyblue@hotmail.com</email>
+    <password>sf%2FGQvGwfIXN0jhCy0tyGQ%3D%3D</password>
+    <gender>F</gender>
+    <country>cn</country>
+    <ipaddress>110.18.9.82</ipaddress>
+    <createdate>2010-05-19 08:31:08</createdate>
+    <lastupdateddate>2010-05-23 04:50:36</lastupdateddate>
+    <lastlogindate>2010-05-19 08:31:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="11">God is love</fav>
+        <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+    </favourites>
+</user>

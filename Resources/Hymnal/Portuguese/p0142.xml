@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Senhor, com Teu Espír'to</title>
+  <index>true</index>
+  <category>O Encher</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="267"/><french num="46"/><german num="267"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="267"/></numbers>
+  <creators>
+	<author biodate="1815-1895" biolink="">Translated from Elwood Haines Stokes</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ó Senhor, com Teu Espír'to,
+Meu espír'to vem encher;
+Com Teu ser mui puro e santo
+Vem agora me encher.</stanza>
+	<stanza type="chorus" number="">Vem me encher! Vem me encher
+Com o Teu Espírito;
+Me esvazia e despoja
+E enche com o Espírito.</stanza>
+	<stanza type="verse" number="2">Podes me encher do Espír'to,
+Quanto eu não sei dizer;
+Mas Te necessito tanto,
+Vem agora me encher.</stanza>
+	<stanza type="verse" number="3">Sou tão cheio de fraquezas,
+A Teus pés prostrado estou;
+Pelo Espírito eterno,
+Vem encher-me com vigor.</stanza>
+	<stanza type="verse" number="4">Oh! me limpa e consola,
+Salvação e bênção traz;
+Meu espír'to quebrantado
+Docemente enchendo estás.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Loh</firstname>
+<lastname>Bee Lian</lastname>
+<email>blian@singnet.com.sg</email>
+<password>$1$mSPWzJ1i$U15RoNSiFnH5KHOLjt0j6/</password>
+<gender>F</gender>
+<country>Singapore</country>
+<ipaddress>203.112.179.202</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+        <fav category="default" type="h" num="755">He healeth me, oh, bless His name</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    </favourites>
+</user>

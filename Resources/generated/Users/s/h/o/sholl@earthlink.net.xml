@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Joyce</firstname>
+  <lastname>Hollander</lastname>
+  <email>sholl@earthlink.net</email>
+  <password>$1$mpanWe3z$wGQ3JP5g4AxhkTK29F12G.</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>69.19.14.20</ipaddress>
+  <createdate>2009-03-06 20:54:54</createdate>
+  <lastupdateddate>2016-06-13 15:42:24</lastupdateddate>
+  <lastlogindate>2016-06-13 15:42:24</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="ns" num="65">I love God because...</fav>
+    <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+    <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+    <fav category="default" type="ns" num="74">Jesus, oh living Word of God</fav>
+    <fav category="default" type="ns" num="155">Let the Word of Christ dwell in you</fav>
+    <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+    <fav category="default" type="ns" num="304">Lord, I love You: Lord, take my heart</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="ns" num="45">The last Adam became a life-giving Spirit</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+  </favourites>
+</user>

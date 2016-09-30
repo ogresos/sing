@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Linda</firstname>
+    <lastname>Blankson</lastname>
+    <email>lenimil@yahoo.co.uk</email>
+    <password>PKJ%2BH5wECJ%2BV0svMveXBNw%3D%3D</password>
+    <gender>M</gender>
+    <country>no</country>
+    <ipaddress>62.249.164.18</ipaddress>
+    <createdate>2010-01-28 12:15:00</createdate>
+    <lastupdateddate>2010-01-28 12:24:02</lastupdateddate>
+    <lastlogindate>2010-01-28 12:15:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="c" num="111">For I am fearfully and wonderfully made</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    </favourites>
+</user>

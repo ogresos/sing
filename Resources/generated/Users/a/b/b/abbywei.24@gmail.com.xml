@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abby</firstname>
+  <lastname/>
+  <email>abbywei.24@gmail.com</email>
+  <password>$2y$10$5Sbsb4QgWOPXXonANKIOhuQ/d4DzppRdzg4JStfJRCkT.Tih73jHy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>129.59.122.16</ipaddress>
+  <createdate>2016-04-07 21:17:43</createdate>
+  <lastupdateddate>2016-07-10 02:19:54</lastupdateddate>
+  <lastlogindate>2016-07-10 02:19:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="531">Fade, fade each earthly joy</fav>
+    <fav category="default" type="h" num="159">Give me a sight, O Savior</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="8393">He is the joy of joys</fav>
+    <fav category="default" type="h" num="268">How I praise Thee, precious Savior</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+    <fav category="default" type="h" num="438">I've turned my back upon the world</fav>
+    <fav category="default" type="h" num="154">It passeth knowledge, that dear love of Thine</fav>
+    <fav category="default" type="ns" num="194">Lord, You are the living spring</fav>
+    <fav category="default" type="ns" num="239">Lord, take my life</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="165">My song shall be of Jesus</fav>
+    <fav category="default" type="h" num="672">Not what I am, O Lord, but what Thou art</fav>
+    <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="643">Take time to behold Him</fav>
+    <fav category="default" type="h" num="623">There is no gain but by a loss</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="651">When is the time to trust</fav>
+  </favourites>
+</user>

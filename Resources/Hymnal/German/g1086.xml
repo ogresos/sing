@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Seinen Namen lieben wir</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Name</category>
+  <numbers><cebuano num="1086"/><english num="1086"/><german num="1086"/><korean num="818"/><portuguese num="43"/><russian num="22"/><spanish num="46"/></numbers>
+  <melody>| 0 - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/( 2/) 1/} | 1( - 6_.) (break) | 5_. - 5_../ 1// | 3. 2#/ 3./ 2// | 1. 3/ {3/( 2/) 1/} | 2( - - (break) | 2) - 5_../ 1// | 3. 2#/ 3./ 2// | 1 - {1/ 7_./ 7b_./} | 6_.. 5#_./ 6_../ 1// (break) | 4 - 6./ 6b// | 5. 3/ 1./ 6_.// | 5_.. 4/ 3./ 2// | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Sei -- nen Na -- men lie -- ben wir! Den Na -- men Je -- sus! Die -- sem höchs -- ten Na -- men brin -- gen wir nun Ehr. At -- men wir den Na -- men ein, Dunk -- les und Tod kann nicht mehr sein; Ru -- fen wir, kommt die Per -- son des Na -- mens her!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1086"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Seinen Namen lieben wir!
+    Den Namen Jesus!
+Diesem höchsten Namen bringen wir nun Ehr.
+    Atmen wir den Namen ein,
+Dunkles und Tod kann nicht mehr sein;
+    Rufen wir, kommt die Person des Namens her!</stanza>
+	<stanza type="verse" number="2">Deinen Namen, liebster Herr,
+    So froh bekennen wir,
+Denn das ehrt den Vater, ist ein süßer Duft.
+    Dich zu preisen für uns ist
+Täglich Genuss, wie süß Du bist!
+    „Oh Herr Jesus!“ unser Herz voll Liebe ruft!</stanza>
+  </lyrics>
+</hymn>

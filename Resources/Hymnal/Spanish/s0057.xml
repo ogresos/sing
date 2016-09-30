@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cristo ha resucitado</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su resurección</category>
+  <numbers><chinese num="101"/><english num="118"/><korean num="101"/><spanish num="57"/><tagalog num="118"/></numbers>
+  <creators>
+    <author biodate="1811-1875" biolink="">Translated from John Samuel Bewley Monsell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="118"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Cristo ha resucitado!
+Nuestra Cabeza triunfó;
+¡Aleluya! Dadle gloria,
+Cristo la muerte venció.
+Con consuelo le͜ adoramos
+Al aparecer Su luz,
+Y gozosos nos postramos
+Con sentida gratitud.</stanza>
+    <stanza type="chorus" number="">¡Cristo ha resucitado!
+Nuestra Cabeza triunfó;
+¡Aleluya! Dadle gloria,
+Cristo la muerte venció.</stanza>
+    <stanza type="verse" number="2">¡Cristo ha resucitado!
+Toda pena ya pasó;
+Levantado͜ en vida nueva
+En Su gloria El entró.
+Todo͜ el Hades y la muerte
+Se postraron a Sus pies;
+Hoy corona de la gloria
+En Sus sienes lleva͜ el Rey.</stanza>
+    <stanza type="verse" number="3">¡Cristo ha resucitado!
+Nada nos cautivará,
+Pues en Cristo͜ eternamente
+Triunfaremos sobre͜ el mal.
+Ya las dudas y temores
+No͜ entrarán al corazón;
+Levantados, celebremos,
+Hoy Su gran resurrección.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'walhati! Si Kristo nga'y buhay</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;BILANG BUHAY</category>
+  <numbers><chinese num="377"/><english num="1356"/><french num="91"/><portuguese num="244"/><russian num="92"/><spanish num="221"/><tagalog num="1356"/></numbers>
+  <music>
+    <midiref type="h" num="1356"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">L'walhati! Si Kristo nga'y buhay!
+L'walhati! Espiritu'y gabay!
+Hina naging lakas; dilim, liwanag!
+L'walhati! Si Kristo nga'y buhay!</stanza>
+    <stanza type="verse" number="2">L'walhati! Mamuhay kay Kristo!
+L'walhati! Sundan Espiritu!
+Taghoy naging awit; bigo'y tagumpay!
+L'walhati! Mamuhay kay Kristo!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Morning Dew</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Attracted by the Lord's Beauty</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Gene Juang">G. J.</author>
+    <composer biodate="" biolink="" fullname="Gene Juang">G. J.</composer>
+  </creators>
+  <hymncode>51212432121233</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - Am - | F - G - | C - - - | G/D D - G | G - - - | C - G - | C - Am - | F - G7 - | C - - - | F - G7 - | C - - - | F - G7 - | C - - - | F - G7 - | C - Am - | F - G7 - | C - - - | F - G7 - | C - - - | F - G7 - | C - - - | F - G7 - | C - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0/ 5_./ 1/ 2/ 1. 2/ | 4/ 3/ 2/ 1/ 2/ 1/ 2/ 3/ | 3 - 0/ 1/ 1/ 1/ | 7_./ 7_./ 6_.. 6_./ 5_./ 5_./( | 5_.) - - - (break) | 0/ 1/ 1/ 2/ 2 - | 0/ 3/ 2/ 3/ 1 - | 0/ 5_./ 1/ 3/ 2/ 2/ 2/ 1/ | 1 - - - (break) | 0/ 6/ 6/ 6/ 5. 4/ | 3 3./ 2// 3/ 4/ 5/ 1/ | 0/ 6/ 6/ 6/ 5 5/ 4/ | 3 3./ 2// 3/ 4/ 5/ 1/ (break) | 0/ 6/ 6/ 6/ 7. 6/ | 5 3/( 2/) 1 - | 0/ 5_./ 1/ 3/ 2/ 2/ 2/ 1/ | 1 - - 0 (break) | (Chorus) 0/ 6/ 6/ 6/ 5. 4/ | 3 - - - | 0/ 6/ 6/ 6/ 5 5/ 4/ | 3 - - - (break) | 0/ 6/ 6/ 6/ 7. 6/ | 5 3/( 2/) 1/ 1/ 2./ 3// | 1/ 5_./ 1/ 3/ 2/ 2/ 2/ 1/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Sun in the day, the moon at night, de -- clare how great is Thy Lov -- ing -- kind -- ness and Thy faith -- ful -- ness Give life and breath to man, Your race Long -- ing for them to seek Your face Loved me, You're not a -- shamed "I have called you by name" Healed me, the brut -- ish and lame "I have held you by hand" Your faith -- ful -- ness, Your love un -- told At last Lord You break my strong -- hold. We con -- se -- crate a -- new Do train, con -- form us to You "May we be like the morn -- ing dew, "How I love You" Young peo -- ple sat -- is -- fy -- ing You."</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Psalms 110:3</link>
+  </links>
+  <music>
+    <midi location="ns" length="62">ns0307.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sun in the day, the moon at night, declare how great is Thy
+Lovingkindness and Thy faithfulness (Psalm 92:2)
+Give life and breath to man, Your race
+Longing for them to seek Your face (Acts 17:25-27)
+Loved me, You're not ashamed
+"I have called you by name" (Isaiah 43:1)
+Healed me, the brutish and lame
+"I have held you by hand" (Psalm 73:23)
+Your faithfulness, Your love untold
+At last Lord You break my stronghold.</stanza>
+    <stanza type="chorus" number="">We consecrate anew
+Do train, conform us to You
+"May we be like the morning dew,
+"How I love You"
+Young people satisfying You." (Psalm 110:3)</stanza>
+    <stanza type="verse" number="2">Your charming self and cheering love drew me to run to You
+I thought I could be absolute
+But how I've failed, how I've stumbled
+To run this race divine by self
+Now I abhor myself
+"Look away unto Me" (Hebrew 12:2)
+I just cannot prevail
+"It is by My Spirit" (Zechariah 4:6)
+I am faithless, You're faithful still (2 Tim 2:13)
+Your love is stronger than my will.</stanza>
+    <stanza type="verse" number="3">Your gracious gifts, Your holy calls are irrevocable (Roman 11:29)
+Though I am not but You are able
+From strength to strength, grace upon grace (Psalm 84:7, John 1:16)
+Sustaining me to win the race
+My life I give to You
+"I will never leave you" (Hebrew 13:5)
+My dreams and future, too
+"Nor will I forsake you" (Hebrew 13:5)
+Oh Lord I do! I do! I do!
+I love You Lord I really do.</stanza>
+  </lyrics>
+</hymn>

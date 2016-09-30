@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Tim</firstname>
+    <lastname>Wong</lastname>
+    <email>timothyw@clear.net.nz</email>
+    <password>$1$p4enJWFC$//zb6tyWfyPSSCnP4c3hp1</password>
+    <gender>M</gender>
+    <country>New Zealand</country>
+    <ipaddress>222.155.217.248</ipaddress>
+    <createdate>2008-12-31 17:22:19</createdate>
+    <lastupdateddate>2011-10-07 22:09:08</lastupdateddate>
+    <lastlogindate>2011-10-07 22:09:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="78">Gracious Lord, Thy name I AM is</fav>
+        <fav category="default" type="h" num="78">Gracious Lord, Thy name I AM is</fav>
+        <fav category="default" type="h" num="78">Gracious Lord, Thy name I AM is</fav>
+        <fav category="default" type="h" num="78">Gracious Lord, Thy name I AM is</fav>
+    </favourites>
+</user>

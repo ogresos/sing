@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>早晨我們播種</title>
+  <index>true</index>
+  <category>傳揚福音－播種</category>
+  <numbers><chinese num="667"/><english num="1349"/><french num="176"/><russian num="149"/><spanish num="421"/><tagalog num="1349"/></numbers>
+  <creators>
+	<author biodate="1834-1878" biolink="">Translated from Knowles Shaw</author>
+  </creators>
+  <melody>| 5/ 5/ 5./ 6// 5 3 | ._1/ ._1/ ._1./ ._2// ._1 6 | 5/ 5/ 5./ 6// 5 3 | 3/ 3/ 2/ 1#/ 2 - (break) | 3/ 5/ 5./ 6// 5 3 | ._1/ ._1/ ._1./ ._2// ._1 6 | 5/ 5/ ._1/ ._2/ ._3 ._1 | ._2/ ._1/ ._3./ ._2// ._1 - (break) | (Chorus) 3/ 5/ 5./ 6// 5 - | 6/ ._1/ ._1./ 6// 5 - | 5/ 5/ ._1/ ._2/ ._3 ._1 | ._3/ ._3/ ._2./ ._1// ._2 - (break) | 3/ 5/ 5./ 6// 5 - | 6/ ._1/ ._1./ 6// 5 - | 5/ 5/ ._1/ ._2/ ._3 ._1 | ._2/ ._1/ ._3./ ._2// ._1 - |</melody>
+  <layout>
+	<singingstanza>早 晨 我 們 播 種， 晌 午 我 們 播 種， 傍 晚 我 們 播 種， 播 出 神 慈 愛； 等 候 成 熟 日 子， 等 候 收 割 點 鐘， 我 們 喜 樂 滿 懷， 禾 捆 帶 回 來。 禾 捆 帶 回 來， 禾 捆 帶 回 來， 我 們 喜 樂 滿 懷， 禾 捆 帶 回 來。 禾 捆 帶 回 來， 禾 捆 帶 回 來， 我 們 喜 樂 滿 懷， 禾 捆 帶 回 來。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1167"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">早晨我們播種，
+晌午我們播種，
+傍晚我們播種，
+播出神慈愛；
+等候成熟日子，
+等候收割點鐘，
+我們喜樂滿懷，
+禾捆帶回來。</stanza>
+	<stanza type="chorus" number="">禾捆帶回來，
+禾捆帶回來，
+我們喜樂滿懷，
+禾捆帶回來。
+禾捆帶回來，
+禾捆帶回來，
+我們喜樂滿懷，
+禾捆帶回來。</stanza>
+	<stanza type="verse" number="2">炎日我們播種，
+陰天我們播種，
+不怕朔風怒號，
+不怕烏雲蓋；
+不久莊稼成熟，
+不久一切完工，
+我們喜樂滿懷，
+禾捆帶回來。</stanza>
+	<stanza type="verse" number="3">起來，前去播種，
+為主流淚播種，
+雖然時遭損失，
+雖然當忍耐，
+哭泣就會過去，
+歡迎就在路終，
+我們喜樂滿懷，
+禾捆帶回來。</stanza>
+  </lyrics>
+</hymn>

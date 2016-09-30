@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fresh as the dew of the morning</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord of Hope</category>
+  <numbers><cebuano num="708"/><chinese num="520"/><english num="708"/><german num="708"/><korean num="520"/><lsmyp num="220"/><portuguese num="332"/><russian num="424"/><tagalog num="708"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1827-1902" biolink="en.wikipedia.org/wiki/Septimus_Winner">Septimus Winner</composer>
+  </creators>
+  <meter>8.7.8.7.D. with chorus.</meter>
+  <hymncode>555176534446543</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | F - - | C - - | C - - | Dm7 - - | G7 - - | C - - | C - - | C - - | C7 - - | F - - | F/A - - | G - - | G7 - - | C - F/C | C - - | C - - | G7 - - | C - - | C/E - - | G/D - - | D7 - - | G - - | G7 - - | C/E - - | F - - | C/G - - | Am - - | Dm - - | G7 - - | C - F/C | C - - | C - - | G7 - - | C - - | Am - - | Dm - - | G7 - - | C - - | C7/E - - | F - - | F/A - - | C - - | Am - - | Dm - - | G7 - - | C - F/C | C - - |</chords>
+<guitarChords>| C - - | F - - | C - - | C - - | G - - | G7 - - | C - - | C - - | C - - | C7 - - | F - - | F - - | G - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | D - - | D7 - - | G - - | G7 - - | C - - | F - - | C - - | C - - | G - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | G - - | G7 - - | C - - | C7 - - | F - - | F - - | C - - | C - - | G - - | G7 - - | C - F | C - - |</guitarChords>
+  <melody>| 5. 5/ 5 | ._1 7 6 | 5 - - | 3 - 0 | 4. 4/ 4 | 6 5 4 | 3( - - | 3) - 0 (break) | 3. 3/ 3 | 3 4 5 | 6 - - | ._1 - 0 | 5. 5/ 5 | 7 6 7 | ._1( - - | ._1) - 0 (break) | 5. 5/ 5 | 5 4# 4 | 3 - - | ._1 - - | 7. 7/ 7 | 7 ._1 6 | 5( - - | 5) - 0 (break) | ._1. ._1/ ._1 | ._1 7 6 | 5 - - | ._1 - 0 | 3. 3/ 3 | 5 4 2 | 1( - - | 1) - 0 (break) | (Chorus) 5( - - | 5) 6 7 | ._1( - - | ._1) 7 ._1 | ._2( - - | ._2) ._1 ._2 | ._3( - - | 5) - - (break) | 6( - - | 6) 7 ._1 | 5( - - | 5) 5 3 | 4 - - | 5 - 4 | 3( - - | 3) - - |</melody>
+  <layout>
+	<singingstanza>Fresh as the dew of the morn -- ing, Bring -- ing a sweet rest un -- heard, Christ, in the gen -- tle a -- noint -- ing, Whis -- pers His com -- fort -- ing word: Stand till the tri -- al is o -- ver, Stand till the tem -- pest is gone, Stand for the glo -- ry of Je -- sus, Stand till the king -- dom is won. Lord of all hope, O how sweet is Thy voice, Mak -- ing my heart in Thy pre -- sence re -- joice.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="relevant" category="nt" num="708"></link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0708.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="69">e0708_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Fresh as the dew of the morning,
+  Bringing a sweet rest unheard,
+Christ, in the gentle anointing,
+  Whispers His comforting word:
+Stand till the trial is over,
+  Stand till the tempest is gone,
+Stand for the glory of Jesus,
+  Stand till the kingdom is won.</stanza>
+	<stanza type="chorus" number="">Lord of all hope,
+O how sweet is Thy voice,
+Making my heart
+In Thy presence rejoice.</stanza>
+	<stanza type="verse" number="2">If in the test of my trouble,
+  Faint be my spirit and heart,
+Faith, with the star of hope glimm'ring,
+  Shall all be taken apart,
+May then Thy faith with Thy life-pow'r
+  Over me hold its full sway
+That all Thy riches of glory
+  Now I may share and for aye.</stanza>
+	<stanza type="verse" number="3">Lord, as the morning sun dawning,
+  Chase all my darkness away,
+And with Thy kind wings of healing
+  Turn all my night into day.
+Come Thou, O come, Lord of comfort,
+  Come to my sad, weary heart,
+Come, O Thou blest hope of glory,
+  Never, O never depart.</stanza>
+  </lyrics>
+</hymn>

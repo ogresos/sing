@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>沒有血沒有壇</title>
+  <index>true</index>
+  <category>敬拜父－祂的救贖</category>
+  <numbers><chinese num="40"/><english num="106"/><korean num="40"/><portuguese num="52"/><tagalog num="106"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 3 3 2/( 1/) | 2 - - 5_. | 2 4 4 3/( 2/) | 3 - - 3/( 4/) (break) | 5 3 1 2/( 3/) | 4 2 (.7_. 5_. | 3/( 2/) 3/( 4/) 3 2 | 1 - - 5_. (break) | 1 1 2 2 | 3 - 6 - | 5 - 4# - | 5 - - 4 (break) | 3 2 3 4 | 5 5_. 6_. 4 | 3 - 2 - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>沒 有 血、 沒 有 壇， 祭 祀 已 成 過 去； 沒 有 煙 冒、 沒 有 火 燃， 犧 牲 再 無 必 需； 更 美 的 血 流 自 更 貴 的 脈， 洗 淨 人 的 污 穢， 清 償 人 的 罪 債。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">沒有血、沒有壇，
+祭祀已成過去；
+沒有煙冒、沒有火燃，
+犧牲再無必需；
+更美的血流自更貴的脈，
+洗淨人的污穢，
+清償人的罪債。</stanza>
+	<stanza type="verse" number="2">神，我們感謝你，
+為你兒子的血，
+靠牠我們被稱為義，
+靠牠我們得捷；
+大勝地獄、死亡、
+黑暗勢力，
+毋需兩次爭戰，
+不留一個仇敵。</stanza>
+	<stanza type="verse" number="3">神，我們感謝你，
+因有天來恩典，
+漫過我們最闊不義，
+赦免最深罪愆。
+我們要讚美你所有的愛，
+像你榮耀、權柄、能力，
+存到萬代。</stanza>
+	<stanza type="verse" number="4">神，我們感謝你，
+因為盼望堅定，
+下沉的靈藉以再起，
+直至晨曦顯明；
+有福的盼望、
+何等的鼓舞、
+最疲倦的曠野、
+最艱難的道路。</stanza>
+	<stanza type="verse" number="5">神，我們感謝你，
+為那榮耀之冠，
+並非只有一時美麗，
+轉眼即已枯殘，
+乃是像寶座不朽到永遠，
+樂哉，能向寶座
+投下所有冠冕。</stanza>
+  </lyrics>
+</hymn>

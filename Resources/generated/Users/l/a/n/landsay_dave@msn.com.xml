@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Clifford</firstname>
+  <lastname/>
+  <email>landsay_dave@msn.com</email>
+  <password>$2y$10$ZC0xGTVhEkPpgREKDwnG3.nO58RXy1.cFHMEmhnkxupTJa/ceqCca</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>140.0.72.38</ipaddress>
+  <createdate>2014-09-23 02:36:19</createdate>
+  <lastupdateddate>2014-11-21 13:35:54</lastupdateddate>
+  <lastlogindate>2014-11-21 13:20:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="677">Art thou sunk in depths of sorrow</fav>
+    <fav category="default" type="h" num="1134">Oh, strengthen my spirit, Lord Jesus</fav>
+  </favourites>
+</user>

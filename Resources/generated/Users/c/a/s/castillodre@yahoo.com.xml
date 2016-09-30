@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Andre</firstname>
+  <lastname>Castillo</lastname>
+  <email>castillodre@yahoo.com</email>
+  <password>$2y$10$vws3xZaC5Dok2nQeKCDNv.N2vom/7EJAv6r7W.PfMTV..3Fm9k9a6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.114.197.235</ipaddress>
+  <createdate>2015-05-23 14:28:33</createdate>
+  <lastupdateddate>2015-05-23 15:12:02</lastupdateddate>
+  <lastlogindate>2015-05-23 14:29:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="341">It is well</fav>
+  </favourites>
+</user>

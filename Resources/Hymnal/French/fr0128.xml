@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Il ne trahit pas Sa parole</title>
+  <index>true</index>
+  <category>L’encouragement&amp;mdash;pour communier avec le Seigneur</category>
+  <numbers><cebuano num="645"/><chinese num="475"/><english num="645"/><french num="128"/><german num="645"/><korean num="475"/><russian num="467"/><tagalog num="645"/></numbers>
+  <creators>
+	<author biodate="1863-1961" biolink="">Translated from Helen Howarth Lemmel</author>
+  </creators>
+  <melody>| 0 - 3 | 3 2# 3 | 5 4 3 | 3 - - | 2 - 6_. | 1 7_. 1 | 3 2 5_. | 3( - - (break) | 3) 0 3 | 3 2# 3 | 6 5 3 | 3 - - | 2 0 2 | 3 4# 5 | 7_. 1 6_. | 5_.( - - | 5_.) - - (break) | (Chorus) 3 - 3 | 5. 3/ 2 | 1 - - | 1 0 1 | 4 4 4 | 6 4 3 | 2( - - (break) | 2) 0 3/ 4/ | 5 - 5 | 5 3 2 | 1 - 1 | 1 0 1/ 2/ | 3. 2/ 3 | 4 3 2 | 1( - - | 1) 0 - |</melody>
+  <music>
+	<midiref type="h" num="645"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Es-tu lasse et troublée, mon âme ?
+Ne vois-tu pas une lueur ?
+Relève-toi et prends courage,
+Jésus est un très grand Sauveur !</stanza>
+	<stanza type="chorus" number="">Oh ! regarde vers Jésus,
+Contemple ce Christ merveilleux !
+Les plaisirs du monde s'estomperont,
+Dans l'éclat de ton Dieu glorieux.</stanza>
+	<stanza type="verse" number="2">Il donne la vie éternelle,
+Ayant triomphé sur la mort.
+Le péché n'a plus son emprise,
+Tu es par Jésus le plus fort.</stanza>
+	<stanza type="verse" number="3">Il ne trahit pas Sa parole,
+En Lui crois et Il sera tien.
+À ce monde qui agonise,
+Dis que Jésus brisa tes liens.</stanza>
+  </lyrics>
+</hymn>

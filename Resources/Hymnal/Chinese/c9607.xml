@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神，祢自古是我幫助</title>
+  <index>true</index>
+  <category>經歷神－作居所</category>
+  <numbers><chinese num="9607"/><english num="607"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - - 5 | 3 6 5 ._1 | ._1 7 ._1 5 | ._1 5 6 4# (break) | 5 - - 7 | ._1 6 ._2 7 | ._1 6 7 5 | 6 ._1 ._2 7 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>神， 祢 自 古 是 我 幫 助， 又 是 將 來 盼 望； 祢 是 風 雨 中 避 難 處， 又 是 永 遠 家 鄉。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="607"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神，祢自古是我幫助，
+又是將來盼望；
+祢是風雨中避難處，
+又是永遠家鄉。</stanza>
+	<stanza type="verse" number="2">在祢寶座蔭庇之下，
+聖徒居住安穩；
+因祢膀臂能力極大，
+周圍保護我們。</stanza>
+	<stanza type="verse" number="3">山岭根基未曾奠定，
+天地尚未構成；
+亙古太初祢就是神，
+歷永世不變更。</stanza>
+	<stanza type="verse" number="4">千年在祢好似一日，
+逝去如過一夕；
+又象夜來五更一盡，
+再見旭日東升。</stanza>
+	<stanza type="verse" number="5">時間猶如長流河川，
+將眾人都沖去；
+往而不返如夢、如幻，
+醒來全都忘記。</stanza>
+	<stanza type="verse" number="6">神，祢自古是我幫助，
+又是將來盼望；
+願祢將我終生保護，
+為我永遠家鄉。</stanza>
+  </lyrics>
+</hymn>

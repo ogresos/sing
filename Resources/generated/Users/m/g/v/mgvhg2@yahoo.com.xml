@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mary</firstname>
+  <lastname>Goebel</lastname>
+  <email>mgvhg2@yahoo.com</email>
+  <password>$2y$10$V8lw5RpO0wGWQt9HsNNfCubGwyIYplOB5I2uEwnGlFWW/2AjcqkhC</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>71.221.124.133</ipaddress>
+  <createdate>2008-11-07 11:11:42</createdate>
+  <lastupdateddate>2016-06-03 22:04:27</lastupdateddate>
+  <lastlogindate>2016-06-03 22:03:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="ns" num="9">Call on Your Name</fav>
+    <fav category="default" type="h" num="240">Glory, honor, praise and power</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="458">Living for Jesus, oh, what peace</fav>
+    <fav category="default" type="ns" num="239">Lord, take my life</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+  </favourites>
+</user>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Noiva</title>
+  <index>true</index>
+  <category>Amá-lo</category>
+  <numbers><chinese num="ts:301"/><english num="1154"/><french num="114"/><german num="1154"/><korean num="788"/><portuguese num="273"/><russian num="318"/><spanish num="277"/><tagalog num="1154"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Dorlea Packila">Translated from D. P.</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3 - - 3 | 2 1 - 1 | 4 - 4 3 | 2 - 3 4 | 5 - 5. 3/ (break) | 2 1 - 1 | 6 - 4 3 | 2 - 3 4 | 5 - 5. 3/ | 2 1 - 1 | 4 - 7_. 7_. (break) | 1 - - 1 | ._1 - - ._1 | 7 7 0 6 | 5. 6/ 5 3 (break) | 2 1 0 1 | 6 - - 6 | 5 - {3 5 3} | 2 - - - (break) | 3 - 0 1 | ._1 - - ._1 | 7 7 0 6 | 5. 6/ 5 3 | 2 1 0 1 | 6 - - 6 | 5 - {3 5 3} | 2 - - - | 1 - - 0 |</melody>
+  <links>
+	<link type="ref">Song of Songs</link>
+  </links>
+  <music>
+	<midiref type="h" num="1154"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Noiva:
+Jesus, Te amo!
+O amor Teu por mim
+Faz-me sempre buscar-Te,
+Correr após Ti.
+Faz-me sempre buscar-Te,
+Correr após Ti.
+Tu és amado,
+Sim, totalmente amável,
+Em quem se apraz meu coração.</stanza>
+	<stanza type="verse" number="2">Noivo:
+Melhor que o vinho
+É teu doce amor;
+O olor dos teus nardos
+É superior.
+O olor dos teus nardos
+É superior.
+És uma fonte,
+Um poço d'águas vivas,
+Torrentes que correm do Líbano.</stanza>
+	<stanza type="verse" number="3">Noiva:
+Ah! meu Amado,
+Vem ao Teu jardim,
+Vem comer os seus frutos
+De excelso sabor.
+Vem comer os seus frutos
+De excelso sabor.
+Noivo:
+Irmã e noiva,
+Já entrei no Meu jardim,
+A desfrutar mel, vinho e leite.</stanza>
+	<stanza type="verse" number="4">Noiva:
+Qual selo põe-me
+No Teu coração;
+É cruel Teu ciúme,
+E forte o amor.
+É cruel Teu ciúme,
+E forte o amor.
+As muitas águas
+Não podem apagá-lo,
+Nem mesmo os rios afogá-lo.</stanza>
+  </lyrics>
+</hymn>

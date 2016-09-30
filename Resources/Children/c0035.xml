@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I Love God! He Put the Fish in the Sea</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Natalie Haynes Serrano">N. H. S.</author>
+    <composer biodate="" biolink="" fullname="Natalie Haynes Serrano">N. H. S.</composer>
+  </creators>
+  <hymncode>15111113565</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | C - - - | F - C - | G - G7 - | C - Dm - | C - G7 - ||</chords>
+  <melody>| 1 5_. 1 - | 0/ 1/ 1/ 1/ 1/ 3/( 3/) 5/ | 6.( 5/)( 5) - (break) | 0/ 5_./ 5_./ 5_./ 5_./ 1/( 1/) 5/ | 4( 4/)( 3/)( 3) - (break) | 0 5_./ 5_./ 5_./ 7_./( 7_./) 2/ | 1 - 2 - | 3.( 2/)( 2) - ||</melody>
+  <layout>
+    <singingstanza>I love God! He put the fish in the sea, He put the leaves on the trees, And the birds in the air, so free!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2013 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="16">c0035.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I love God! He put the fish in the sea,
+He put the leaves on the trees,
+And the birds in the air, so free!</stanza>
+    <stanza type="verse" number="">I love God! He put the color in my eyes;
+And ten toes on my feet, I spy!
+And ten fingers on my hands, waving bye-bye!</stanza>
+    <stanza type="verse" number="">I love God! And I think you'll agree:
+That He perfectly placed me
+In my family!</stanza>
+  </lyrics>
+</hymn>

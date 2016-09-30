@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Justin</firstname>
+    <lastname></lastname>
+    <email>pilotj1999@aol.com</email>
+    <password>m9wDp4yQw3osk9Vy03CfVQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>68.52.105.225</ipaddress>
+    <createdate>2013-08-05 10:06:53</createdate>
+    <lastupdateddate>2013-08-05 10:10:36</lastupdateddate>
+    <lastlogindate>2013-08-05 10:06:53</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="376">Fill Thou my life, O Lord my God</fav>
+        <fav category="default" type="h" num="180">Jesus, our Lord, with what joy we adore Thee</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    </favourites>
+</user>

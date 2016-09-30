@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂傳輸更多恩典</title>
+  <index>true</index>
+  <category>試煉中的安慰－苦難中的享受</category>
+  <numbers><chinese num="9723"/><english num="723"/><russian num="372"/></numbers>
+  <creators>
+	<author biodate="1866-1932" biolink="">Translated from Annie Johnson Flint</author>
+  </creators>
+  <melody>| 0 - - 1 | 3. 3/( 3) 2 | 1. 2/( 2) 3 | 4. 4/( 4) 5 | 3/( 2/)( 2/) 2/( 2) 1 | 3. 3/( 3) 2 | 1. 2/( 2) 3 | 4. 4/( 4) 3 (break) | 2 - - 1 | 3. 3/( 3) 2 | 1. 2/( 2) 3 | 4. 4/( 4) 5 | 3/( 2/ 2/) 2/( 2) 1 | 3. 3/( 3) 2 | 1. 2/( 2) 3 | 4 - - 3 | 2 - 1/( 7_./)( 7_.) | 1( - - - (break) | 1) - - (Chorus) 5 | 5. 3/( 3) 5 | 7. 6/( 6) 6 | 6. 4/( 4) 6 | ._1. 7/( 7) 6 | 5. 3/( 3) 5 | 7 ._1/ 6/( 6) - | 0 ._1 ._1 ._2 (break) | 7/( 6/ 6/ 5/ 5) 5 | ._1. ._1/( ._1) 6 | ._1. ._1/( ._1) 6 | ._1. ._1/( ._1) ._2 (break) | 7/( 6/)( 6/) 5/( 5) 4 | 5. 5/( 5) 4 | 3. 4/( 4) 5 | 4( - - 3) | 2 - 1/( 7_..) | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+	<singingstanza>當 重 擔 加 多， 祂 傳 輸 更 多 恩 典， 當 勞 苦 加 重， 祂 的 力 量 加 添， 臨 患 難 的 困 擾， 祂 憐 憫 更 豐 盈， 臨 諸 多 的 試 煉， 祂 的 平 安 繁 增。 祂 愛 高 深 不 變， 祂 恩 廣 寬 無 邊， 祂 力 量 剛 強 不 倦， 眼 所 未 見； 出 自 耶 穌 基 督 的 豐 富 和 無 限， 祂 賜 給， 又 賜 給， 祂 賜 給 無 間。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="nt" num="723"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當重擔加多，祂傳輸更多恩典，
+當勞苦加重，祂的力量加添，
+臨患難的困擾，祂憐憫更豐盈，
+臨諸多的試煉，祂的平安繁增。</stanza>
+	<stanza type="chorus" number="">祂愛高深不變，祂恩廣寬無邊，
+祂力量剛強不倦，眼所未見；
+出自耶穌基督的豐富和無限，
+祂賜給，又賜給，祂賜給無間。</stanza>
+	<stanza type="verse" number="2">當我們耗盡所有儲存的忍耐，
+當我們精疲力竭，無從依賴，
+當我們已臨及山窮水盡之時，
+我們父神全般的供應才開始。</stanza>
+  </lyrics>
+</hymn>

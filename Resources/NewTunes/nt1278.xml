@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the church of Jesus there is love for you</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Heidi Johnsen">H. J.</composer>
+  </creators>
+  <hymncode>12316116555356453</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | C/E - - | C - - | F - - | C/E - - | Dm - - | G - C/E | F - - | C/E - - | F - G | Am - - | Dm7 - - | F - G7 | F/C - - | C - - |</chords>
+  <melody>| 0 - 1/ 2/ | 3 - 1 | 6_. 1 1/ 6/ | 5 - 5 (break) | 5 - 3/ 5/ | 6 - 4 | 5 3 - | 4. 3/ 2/ 1/ (break) | 2 - ._1/ 7/ | 6 - 5 | 3 5 ._1/ 7/ | 6 - 7 (break) | ._1 - 3/ 1/ | 4. 3/ 2/ 1/ | 6_.. 1/ 1/ 7_./ | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>In the church of Je -- sus there is love for you, Love most pure and ten -- der, love most deep and true; Why should you be lone -- ly, why for friend -- ship sigh, When the church of Je -- sus has a full sup -- ply?</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="1278"></link>
+  </links>
+  <music>
+    <midi location="nt" length="28">e1278_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In the church of Jesus there is love for you,
+Love most pure and tender, love most deep and true;
+Why should you be lonely, why for friendship sigh,
+When the church of Jesus has a full supply?</stanza>
+    <stanza type="verse" number="2">In the church of Jesus there is life for you,
+Warm as summer sunshine, sweet as morning dew;
+Why should you be fearful, why take anxious thought,
+Since the church of Jesus cares for those He bought?</stanza>
+    <stanza type="verse" number="3">In the church of Jesus there is work for you;
+Such as even angels might rejoice to do;
+Why stand idly sighing for some life work grand,
+While the church of Jesus seeks your reaping hand?</stanza>
+    <stanza type="verse" number="4">In the church of Jesus there's a place for you;
+Glorious, bright, and joyous, right and peaceful too;
+Why then like a wand'rer, roam with weary pace,
+If the church of Jesus holds for you a place.</stanza>
+  </lyrics>
+</hymn>

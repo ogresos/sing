@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Loved with everlasting love</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Loved by the Lord</category>
+  <numbers><english num="nt:284"/><vsb num="169"/></numbers>
+  <creators>
+    <author biodate="1838-1877" biolink="">George Wade Robinson</author>
+  </creators>
+  <hymncode>51122366117655</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>140</tempo>
+  <chords>| C - - - | C/E - - - | F - - - | G - - - | C - - - | C/E - - - | F - - - | G - - - | C - - - | C/E - - - | F - - - | G - G7/F - | Em - - - | Am - C/G - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 5_. 1/ 1/( | 1) 2/ 2/( 2/) 3/)( 3/) 6_./( | 6_.) - 6_. 1 | 1 7_. 6_. 5_./ 5_./( (break) | 5_.) - 5_. 1/ 1/( | 1) 2/ 2/( 2/) 3/)( 3/) 6_./( | 6_.) - 6_. 1 | 1 7_. 6_. 5_./ 5_./( (break) | 5_.) 0 5_. 1/ 1/( | 1) 2/ 2/( 2/) 3/( 3/) 4/( | 4) - 4 3 | 2 2 3 4/ 5/( (break) | 5) 0 3 2/ 1/( | 1) 1/ 2/( 2/) 3/)( 3/) 6_./( | 6_.) - 4 3 | 2. 2/ 1/ 7_.. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Loved with ev -- er -- last -- ing love, Led by grace that love to know; Spir -- it, breath -- ing from a -- bove, Thou hast taught me it is so. Oh, this full and per -- fect peace! Oh, this trans -- port all di -- vine! In a love which can -- not cease, I am His, and He is mine.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <notes>This tune has been slightly modified.</notes>
+  <links>
+    <link type="relevant" category="h" num="284"></link>
+    <link type="relevant" category="nt" num="284b"></link>
+  </links>
+  <music>
+    <midi location="nt" length="34">e0284_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Loved with everlasting love,
+Led by grace that love to know;
+Spirit, breathing from above,
+Thou hast taught me it is so.
+Oh, this full and perfect peace!
+Oh, this transport all divine!
+In a love which cannot cease,
+I am His, and He is mine.</stanza>
+    <stanza type="verse" number="2">Heaven above is softer blue,
+Earth around is sweeter green;
+Something lives in every hue
+Christless eyes have never seen:
+Birds with gladder songs o'erflow,
+Flow'rs with deeper beauties shine,
+Since I know, as now I know,
+I am His, and He is mine.</stanza>
+    <stanza type="verse" number="3">Things that once were wild alarms
+Cannot now disturb my rest;
+Closed in everlasting arms,
+Pillowed on the loving breast.
+Oh, to lie forever here,
+Doubt and care and self resign,
+While He whispers in my ear,
+I am His, and He is mine.</stanza>
+    <stanza type="verse" number="4">His forever, only His:
+Who the Lord and me shall part?
+Ah, with what a rest of bliss
+Christ can fill the loving heart.
+Heaven and earth may fade and flee,
+Firstborn light in gloom decline;
+But, while God and I shall be,
+I am His, and He is mine.</stanza>
+  </lyrics>
+</hymn>

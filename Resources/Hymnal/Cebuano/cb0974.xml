@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nangita s'ya's syudad, nagpuyo's tolda</title>
+  <index>true</index>
+  <category>KINASANG-ANG PAGPADAYAG&amp;mdash;ANG TUMONG NATO</category>
+  <numbers><cebuano num="974"/><chinese num="771"/><english num="974"/><korean num="771"/><tagalog num="974"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber, adapted</author>
+  </creators>
+  <music>
+    <midiref type="h" num="974"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nangita s'ya's syudad, nagpuyo's tolda,
+Dumuloong gyud siya sa himaya;
+Saad's Dios naglipay, harianon s'ya,
+Maong wa' mangita's himaya's yuta.</stanza>
+    <stanza type="chorus" number="">Matahum nga syudad!
+Dayong puy-anan's Dios uban's tawo tua didto.</stanza>
+    <stanza type="verse" number="2">Nangita s'ya's syudad, andam's Dios alang n'ya;
+Way mansyon's yutang kaibga'g kapuy-an,
+Giingnan s'ya's Dios, balayng harianon
+Naghulat's dumuloong tumoy's dalan.</stanza>
+    <stanza type="verse" number="3">Usahay manghupaw pagpangita's syudad,
+Nga maglakaw sa yuta mamalibad,
+Makapaawit, hunahuna's syudad,
+Dalan bisan lisud, dili na layo.</stanza>
+    <stanza type="verse" number="4">Nangita s'ya's syudad, tumong atoa sab,
+Nasayud's syudad pahat nga andam's Dios,
+Kay dumuloong man ta ubang Jesus,
+Andam nga tolda lang ang atong atop.</stanza>
+  </lyrics>
+</hymn>

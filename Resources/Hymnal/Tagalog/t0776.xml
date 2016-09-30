@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay Hesus, dum'log sa trono</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;SA PANGALAN NG PANGINOON</category>
+  <numbers><chinese num="561"/><english num="776"/><korean num="561"/><portuguese num="355"/><tagalog num="776"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="664"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay Hesus, dum'log sa trono,
+May pana'lig na buo;
+Sa iyong pagtitiwala,
+Makita Kanyang gawa.</stanza>
+    <stanza type="verse" number="2">Sa pananalig humiling,
+Diyos handa kang sagutin;
+Gagawa Siya nang higit pa,
+Sa iyong inaakala.</stanza>
+    <stanza type="verse" number="3">May panalig na paghiling,
+Tunay na panalangin;
+Lipos ng galak, payapa,
+Sa Diyos lubos umasa.</stanza>
+    <stanza type="verse" number="4">Manalig, huminging taos,
+Hinihintay ka ng Diyos,
+Ang nagbigay-lugod sa Diyos
+Pananalig mong lubos.</stanza>
+  </lyrics>
+</hymn>

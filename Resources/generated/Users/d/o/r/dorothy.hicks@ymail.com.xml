@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dorothy</firstname>
+  <lastname>Hicks</lastname>
+  <email>dorothy.hicks@ymail.com</email>
+  <password>$2y$10$VADsaW.3dXi/H..ZcKNnJeRZyC/vhOMDdlT9H4z5kS6kp/oIL2XUq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.40.7.29</ipaddress>
+  <createdate>2014-10-22 11:52:59</createdate>
+  <lastupdateddate>2016-06-02 09:12:57</lastupdateddate>
+  <lastlogindate>2016-06-02 09:12:57</lastlogindate>
+  <failedlogincount>3</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

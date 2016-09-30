@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elsie</firstname>
+  <lastname>Anyan</lastname>
+  <email>elsie.eb@gmail.com</email>
+  <password>$2y$10$mgGXOpZ6Y.uCwkkQZRAHfOSFjvkgTVVwTVe/b92pvxSHbokYHqlkW</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>60.53.219.214</ipaddress>
+  <createdate>2016-08-14 09:32:00</createdate>
+  <lastupdateddate>2016-08-25 09:18:05</lastupdateddate>
+  <lastlogindate>2016-08-25 09:18:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="565">Under His wings I am safely abiding</fav>
+    <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

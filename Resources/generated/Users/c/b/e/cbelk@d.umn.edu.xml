@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Colleen M</firstname>
+  <lastname>Vouk</lastname>
+  <email>cbelk@d.umn.edu</email>
+  <password>$2y$10$2iVjE2Krahvby8AzYasNqOYWVnfN4pMVO3azkg1wGmrjSf//NIBeC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>205.149.145.2</ipaddress>
+  <createdate>2015-12-05 14:44:36</createdate>
+  <lastupdateddate>2015-12-05 15:24:43</lastupdateddate>
+  <lastlogindate>2015-12-05 15:22:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+  </favourites>
+</user>

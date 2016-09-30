@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ, from whom all blessings flow</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;For the Church</category>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+    <composer biodate="1752-1817" biolink="">Justin Heinrich Knecht</composer>
+  </creators>
+  <meter>7.7.7.7.</meter>
+  <hymncode>32135436712765</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7 - C - | F - D7 - | G - - - | C - F - | Dm - G - | C - Dm - | C/G G7 C - |</chords>
+  <melody>| 3 2 1 3 | 5 4 3 - | 6_. 7_. 1 2 | 7_. 6_. 5_. - (break) | 1 7_. 6_. 1 | 4 3 2 - | 5 4 3 2 | 1 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>Christ, from whom all bless -- ings flow, Per -- fect -- ing the saints be -- low, Hear us, who Thy na -- ture share, Who Thy mys -- tic bo -- dy are.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="19">e0796_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ, from whom all blessings flow,
+Perfecting the saints below,
+Hear us, who Thy nature share,
+Who Thy mystic body are.</stanza>
+    <stanza type="verse" number="2">Join us, in one spirit join,
+Let us still receive of Thine;
+Still for more on Thee we call,
+Thou who fillest all in all.</stanza>
+    <stanza type="verse" number="3">Move, and actuate, and guide:
+Divers gifts to each divide;
+Placed according to Thy will,
+Let us all our work fulfil.</stanza>
+    <stanza type="verse" number="4">Sweetly may we all agree,
+Touched with loving sympathy;
+Kindly for each other care,
+Every member feel its share.</stanza>
+    <stanza type="verse" number="5">Love, like death, hath all destroyed,
+Rendered all distinctions void;
+Names, and sects, and parties fall:
+Thou, O Christ, art all in all.</stanza>
+  </lyrics>
+</hymn>

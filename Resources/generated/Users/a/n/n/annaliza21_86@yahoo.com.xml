@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Annalisa</firstname>
+    <lastname>Gallito</lastname>
+    <email>annaliza21_86@yahoo.com</email>
+    <password>$1$BEEdWY.x$xwK8UhonbpHD5Cyb.Ilph0</password>
+    <gender>F</gender>
+    <country>Philippines</country>
+    <ipaddress>210.5.126.7</ipaddress>
+    <createdate>2009-06-09 20:35:30</createdate>
+    <lastupdateddate>2009-12-06 23:03:41</lastupdateddate>
+    <lastlogindate>2009-12-06 23:03:41</lastlogindate>
+    <failedlogincount>3</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="101">All things work together for good</fav>
+        <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+        <fav category="default" type="nt" num="716">Begone, unbelief</fav>
+        <fav category="default" type="ns" num="289">But the God of all grace</fav>
+        <fav category="default" type="ns" num="9">Call on Your Name</fav>
+        <fav category="default" type="ns" num="11">Definition of love</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+        <fav category="default" type="ns" num="35">Jesus Lord, I love You</fav>
+        <fav category="default" type="lb" num="49">Jesus is Jehovah the Savior</fav>
+        <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+        <fav category="default" type="ns" num="282">The Lord is my light and salvation</fav>
+        <fav category="default" type="lb" num="81">The greatest king on earth</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+        <fav category="default" type="h" num="1323">The voice of my Beloved</fav>
+    </favourites>
+</user>

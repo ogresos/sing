@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Couronnez le Seigneur</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa gloire</category>
+  <numbers><english num="142"/><french num="26"/><portuguese num="69"/><spanish num="72"/></numbers>
+  <creators>
+    <author biodate="1800-1894" biolink="">Translated from Matthew Bridges</author>
+  </creators>
+  <music>
+    <midiref type="h" num="142"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Couronnez-Le d'honneur !
+Lui, l'Agneau sur le trône,
+Entonnez de tout votre cœur,
+Les hymnes du royaume.
+Réveille-toi mon âme,
+Pour chanter ton Sauveur !
+Ton Roi incomparable acclame,
+Lui, le Triomphateur.</stanza>
+    <stanza type="verse" number="2">Couronnez-Le de gloire !
+Lui, Fils né d'une femme,
+Vois la couronne de victoire,
+Qui Son triomphe acclame.
+Voyez le Victorieux,
+Présentant le trophée.
+Il l'acquit par Son sang précieux
+Et en est couronné.</stanza>
+    <stanza type="verse" number="3">Couronnez le Seigneur !
+Lui, qui nous a aimés,
+Fut brisé comme un malfaiteur
+Puis par Dieu élevé.
+Les anges dans les cieux
+Ne saisiront jamais,
+L'amour profond et mystérieux
+Qui nous a rachetés.</stanza>
+    <stanza type="verse" number="4">Couronnez le Seigneur !
+Le Prince de la paix,
+Puissant, Il règne avec splendeur,
+Soumet toute la terre,
+Pour que les guerres cessent,
+S'achève Son dessein
+Et que Son royaume apparaisse.
+Il n'aura pas de fin.</stanza>
+    <stanza type="verse" number="5">Couronnez le Seigneur !
+Voyez l'Ancien des jours,
+De l'univers le Créateur,
+Souverain pour toujours !
+Nous T'acclamons, Sauveur,
+Pour Ton si grand amour,
+À Toi la louange et l'honneur !
+Toi, notre Rédempteur.</stanza>
+  </lyrics>
+</hymn>

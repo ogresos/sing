@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Dios, ang Anak Mo</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA GUGMA NIYA</category>
+  <numbers><cebuano num="29"/><chinese num="27"/><english num="29"/><korean num="27"/><russian num="442"/><spanish num="20"/><tagalog num="29"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Ann Taylor Gilbert</author>
+  </creators>
+  <music>
+    <midiref type="h" num="29"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Dios, ang Anak Mo,
+Nganong gihatag Mo?
+Pinalanggang Anak
+Kanamo namatay?
+Way lain, gugma'y naingnan,
+Nga hatagan's bugtong mahal.</stanza>
+    <stanza type="verse" number="2">Nganong nibiya man,
+Anak Mo sa trono?
+Giula ang dugo,
+Nag-antus, namatay?
+Way lain, gugma'y naingnan,
+Nga kami 'yang pakamatyan.</stanza>
+    <stanza type="verse" number="3">Nganong gipaambit,
+Sa Espiritu Mo,
+Kasingkasing pun-on's
+Gugma ug kalinaw?
+Way lain, gugma'y naingnan,
+Nagtandog kami hatagan.</stanza>
+    <stanza type="verse" number="4">O Dios sa grasya Mo,
+Gugma ihalad ko!
+Mag-awas ang kalag,
+Way undang nga pagdayeg.
+Alang niining gugma Mo,
+Padaygon Mo kami's dayon.</stanza>
+  </lyrics>
+</hymn>

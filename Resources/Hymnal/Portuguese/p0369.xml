@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Venho a Ti, Senhor</title>
+  <index>true</index>
+  <category>Alimentar-se Da Palavra</category>
+  <numbers><cebuano num="812"/><chinese num="588"/><english num="812"/><french num="145"/><german num="812"/><korean num="588"/><portuguese num="369"/><russian num="131"/><spanish num="344"/><tagalog num="812"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 1 | 3 - - | 5 4 3 | 2 - 3 | 2 - - (break) | 3 4 6 | 5 - 3 | 3 - 2 | 4 - 2 | 1( 7_.) 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="812"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Venho a Ti, Senhor,
+Meu ser sedento está;
+De Ti comer, de Ti beber,
+E assim Te desfrutar.</stanza>
+	<stanza type="verse" number="2">Clama meu coração,
+Quer Teu semblante ver;
+De Ti beber anseio mais,
+E me satisfazer.</stanza>
+	<stanza type="verse" number="3">O meu deleite é
+Teu rosto contemplar;
+Sempre aqui habitarei,
+Jamais Te vou deixar.</stanza>
+	<stanza type="verse" number="4">E, nesta comunhão,
+Graça és para mim;
+Alegre está meu coração,
+Achou descanso enfim.</stanza>
+	<stanza type="verse" number="5">Vou demorar-me aqui,
+Inda buscar-Te mais;
+Pela Palavra e oração,
+De mim Tu fluirás.</stanza>
+  </lyrics>
+</hymn>

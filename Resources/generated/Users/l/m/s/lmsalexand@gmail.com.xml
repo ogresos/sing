@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>Alexander</lastname>
+  <email>lmsalexand@gmail.com</email>
+  <password>$2y$10$pnYbBi5ARWoQ2zEt4KUafe5irLXkbfut8gmaCfU6PNoiRa5ulGyXi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.41.33.187</ipaddress>
+  <createdate>2015-11-13 13:55:10</createdate>
+  <lastupdateddate>2015-11-13 14:13:02</lastupdateddate>
+  <lastlogindate>2015-11-13 13:55:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+  </favourites>
+</user>

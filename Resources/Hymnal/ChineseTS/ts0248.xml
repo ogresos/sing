@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>與神和好，由神而生</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="300"/><chinese num="ts:248"/><english num="300b"/><portuguese num="161"/><russian num="358"/><spanish num="144"/><tagalog num="300"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 0 - 1 - | 1 1 5_. 6_. | 5_. - - 5_. | 1 2 3 2 (break) | 1 - - 1 | 3 5 3 1 | 2 - - 2 | 3 1 2 7_. (break) | 1 - - 5_. | 1 1 1 5_. | 6_. 6_. 6_. 1 | 2 2 2 3 (break) | 1 1 1 5_. | 6_. 6_. 6_. 1 | 2 - 7_. - | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>興 起！ 我 魂， 興 起！ 擺 脫 懼 怕 蒙 蔽； 救 主 流 血 作 祭， 神 前 我 蒙 稱 義。 寶 座 之 前 擔 保 確 立， 我 得 安 穩 在 神 手 裏， 我 得 安 穩 在 神 手 裏。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="300b"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">興起！我魂，興起！
+擺脫懼怕蒙蔽；
+救主流血作祭，
+神前我蒙稱義。
+寶座之前擔保確立，
+我得安穩在神手裏，
+我得安穩在神手裏。</stanza>
+	<stanza type="verse" number="2">救主活到永久，
+在天為我代求；
+祂愛贖回萬有，
+祂血滿足要求；
+為救萬族、萬民而流，
+施恩座前功效不朽，
+施恩座前功效不朽。</stanza>
+	<stanza type="verse" number="3">加畧十字架上，
+手足、肋旁受創；
+祂行父旨不忘，
+代求，將罪擔當；
+寬容、赦免無知頂撞，
+蒙贖罪人免去死亡，
+蒙贖罪人免去死亡。</stanza>
+	<stanza type="verse" number="4">禱告蒙父垂聽，
+受膏基督高升；
+救贖大功完成，
+父來稱許、印證；
+祂靈應允寶血之聲，
+宣告我已由神而生，
+宣告我已由神而生。</stanza>
+	<stanza type="verse" number="5">我今與神和好，
+知祂赦免、寬饒；
+兒女將父倚靠，
+憂慮不再攪擾；
+憑信坦然進前宣告：
+阿爸，父阿，與你和好，
+阿爸，父阿，與你和好。</stanza>
+  </lyrics>
+</hymn>

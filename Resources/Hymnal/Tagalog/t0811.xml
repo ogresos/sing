@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Puso'y gutom, espiritu'y uhaw</title>
+  <index>true</index>
+  <category>PAG-AARAL NG SALITA&amp;mdash;KUMAKAIN SA SALITA</category>
+  <numbers><cebuano num="811"/><chinese num="586"/><english num="811"/><french num="144"/><german num="811"/><korean num="586"/><portuguese num="370"/><russian num="130"/><spanish num="343"/><tagalog num="811"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3 6 5 3 ._1 | 7 6 ._2 ._1 - - | ._1 ._1 ._1 ._1 7 ._1 | ._2 ._2 ._3 ._2 - - (break) | ._3 ._2 ._1 ._1 7 6 | 5 6 5 3 - - | 4 2 6 5 3 ._1 | 7 5 ._2 ._1 - - (break) | (Chorus) ._3 ._3 ._3 ._2 ._2. 0/ | ._1 ._1 ._1 7 - 0 | 6 6 6 5 ._1. 0/ | 5 4 3 2 - 0 (break) | 3 3 4 5 - 5/ 5/ | ._1 ._1 7 6 - 0 | 5 3 6 5 3. 0/ | 4 5 4 3 - - |</melody>
+  <music>
+	<midiref type="h" num="811"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Puso'y gutom, espiritu'y uhaw,
+Panginoon, Ikaw ang pangtighaw;
+Tanging Ikaw ang aking kailangan,
+Kasagutan Ka at kasiyahan.</stanza>
+	<stanza type="chorus" number="">O Panginoon, samo'y dinggin,
+Gutom at uhaw, Iyong pawiin;
+Tuwa't kalakasan, Iyong lubusin,
+Pagtatamasa'y mapasa 'kin.</stanza>
+	<stanza type="verse" number="2">Pagkain Ka at tubig ng buhay,
+Dulot sa 'kin ay lakas na tunay;
+Nais Kitang inumin at kanin,
+Sa pagbabasa't pananalangin.</stanza>
+	<stanza type="verse" number="3">Salita ka't kapuspusan ng Diyos,
+Diyos sa Espiritu'y aking tustos;
+Sa Salita'y pagkaing kay yaman,
+Espiritu'y tubig na nakamtan.</stanza>
+	<stanza type="verse" number="4">Pagkain Kang bumaba sa langit,
+Naging inumin sa dusa't sakit;
+Bilang pagkain, yaman Kang tustos,
+Bilang inumin, batis Kang lubos.</stanza>
+	<stanza type="verse" number="5">Sa Salita'y Espiritu't buhay,
+Aking pagkain upang mabuhay;
+Espiritu'y sa 'kin nananahan,
+Sa espiritu Siya'y nakakamtan.</stanza>
+	<stanza type="verse" number="6">Nang matamasa'y lalapit sa Iyo,
+Sa Salita Mo'y kakain ako;
+Sa espiritu'y babaling sa Iyo,
+Upang uhaw ko'y matugunan Mo.</stanza>
+	<stanza type="verse" number="7">Hesus, sa pag-inom ko't pagkain,
+Sa pagbabasa't pananalangin;
+Basa't dalangin, inom at kain,
+O, Panginoon Ikaw ay akin.</stanza>
+	<stanza type="verse" number="8">Ngayon Ika'y aking kagalakan,
+Espiritu't Salita'y kakamtan;
+Nawa'y Ikaw palagi ang pista,
+Kapuspusang aking matamasa.</stanza>
+  </lyrics>
+</hymn>

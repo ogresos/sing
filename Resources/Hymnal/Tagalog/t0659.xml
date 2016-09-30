@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mangagalak sa ating Panginoon</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA SA PAGGALAK SA PANGINOON</category>
+  <numbers><cebuano num="659"/><english num="659"/><tagalog num="659"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from G. M. J.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="659"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mangagalak sa ating Panginoon,
+Kinalag Niya'ng mga gapos,
+Ako'y malaya, tinubos ng dugo,
+Si Hesus ay aking lubos.</stanza>
+    <stanza type="chorus" number="">Kung Diyos ay atin,
+Kung Diyos ay atin,
+Kung Diyos ay atin,
+Sino ang kalaban? Sino nga?
+Sino ang kinatatakutan?</stanza>
+    <stanza type="verse" number="2">Magmalakas sa ating Panginoon,
+Mangagalak sa lakas Niya;
+Kung tayo'y tapat sa katotohanan,
+Siyang maging lakas at kuta.</stanza>
+    <stanza type="verse" number="3">Manalig sa Salita't pangako Niya,
+Kay Kristo'y pawang "Siya Nawa";
+Mundo ma'y lumipas, ang Salita Niya
+Tiyak mananatili pa.</stanza>
+    <stanza type="verse" number="4">Manatili sa ating Panginoon,
+Sa Kanyang kapangyarihan;
+At mula sa kamay ng Panginoon
+Di maagaw ninuman.</stanza>
+  </lyrics>
+</hymn>

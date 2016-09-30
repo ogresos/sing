@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Finley</firstname>
+<lastname>Crowe</lastname>
+<email>fmcrowe@roadrunner.com</email>
+<password>$1$JNZGvySc$3zMjlSmy7zhA74hZe0V.H0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.94.99.46</ipaddress>
+<createdate>2008-07-26 01:43:04</createdate>
+<lastupdateddate>2009-09-15 18:23:58</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    </favourites>
+</user>

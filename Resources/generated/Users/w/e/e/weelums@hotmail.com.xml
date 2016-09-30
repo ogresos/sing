@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Anita</firstname>
+    <lastname>Williams</lastname>
+    <email>weelums@hotmail.com</email>
+    <password>$1$hND4XLBH$i45QL4TlA2070j0oavwUK.</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>69.158.66.86</ipaddress>
+    <createdate>2009-02-25 20:18:50</createdate>
+    <lastupdateddate>2009-10-06 10:28:56</lastupdateddate>
+    <lastlogindate></lastlogindate>
+    <failedlogincount></failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="327">Before the throne of God above</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    </favourites>
+</user>

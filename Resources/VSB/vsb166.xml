@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Simply loving everyday</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:315"/><english num="ns:230"/><vsb num="166"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Edgar Page Stites</author>
+    <composer biodate="1964" biolink="">Gordon Lightfoot</composer>
+  </creators>
+  <hymncode>55554352344321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - Em - | Dm7 - G7 - | C - F/C - | C - C/E - | Dm - Dm/F - | G - G7 - | C - F/C - | C - G7 - | C - Em - | Dm7 - G7 - | C - F/C - | C - C/E - | Dm - Dm/F - | G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 5/ 5/ 5/ 5/ 4/ 3/ | 5 - - - | 0 2/ 3/ 4/ 4/ 3/ 2/ | 1 - - - (break) | 0 5_./ 5_./ 6_./ 6_./ 1/ 1/ | 2.( 1/)( 6_.)( 1)( | 7_.) 2/ 3/ 2/ 1/ 6_./ 1/ | 1 - - - (break) | 0 (Chorus) 5/ 5/ 5/ 5/ 4/ 3/ | 5 - - - | 0 2/ 3/ 4/ 4/ 3/ 2/ | 1 - - - (break) | 0 5_./ 5_./ 6_./ 6_./ 1/ 1/ | 2.( 1/)( 6_.)( 1)( | 7_.) 2/ 3/ 2/ 1/ 6_./ 1/ | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>Sim -- ply lov -- ing ev -- ery -- day; Lov -- ing through a storm -- y way, E -- ven when my faith is small, Lov -- ing Je -- sus, that is all. Lov -- ing as the mo -- ments fly, Lov -- ing as the days go by, Lov -- ing Him what -- e'er be -- fall, Lov -- ing Je -- sus, that is all.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0230.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Simply loving everyday;
+Loving through a stormy way,
+Even when my faith is small,
+Loving Jesus, that is all.</stanza>
+    <stanza type="chorus" number="">Loving as the moments fly,
+Loving as the days go by,
+Loving Him whate'er befall,
+Loving Jesus, that is all.</stanza>
+    <stanza type="verse" number="2">Brightly doth His Spirit shine
+Into this poor heart of mine;
+While He leads I cannot fall,
+Loving Jesus, that is all.</stanza>
+    <stanza type="verse" number="3">Singing if my way be clear,
+Praying if the path be drear;
+If in danger, for Him call,
+Loving Jesus, that is all.</stanza>
+    <stanza type="verse" number="4">Loving Him while life shall last,
+Loving Him till earth is past,
+Till His gracious advent call,
+Loving Jesus, that is all.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Daniel</firstname>
+    <lastname>Kam</lastname>
+    <email>danielchkam@yahoo.com</email>
+    <password>xge5wbCjje1gTVJrjIZLdQ%3D%3D</password>
+    <gender>M</gender>
+    <country>my</country>
+    <ipaddress>175.140.245.63</ipaddress>
+    <createdate>2011-12-23 21:28:06</createdate>
+    <lastupdateddate>2011-12-23 21:32:20</lastupdateddate>
+    <lastlogindate>2011-12-23 21:28:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="930">Must I go, and empty-handed</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

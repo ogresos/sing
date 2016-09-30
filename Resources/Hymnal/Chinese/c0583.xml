@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>願主為我擘開</title>
+  <index>true</index>
+  <category>讀經－尋求主的話</category>
+  <numbers><cebuano num="806"/><chinese num="583"/><english num="806"/><korean num="583"/><spanish num="342"/><tagalog num="806"/></numbers>
+  <creators>
+	<author biodate="1841-1913" biolink="">Translated from Mary Artemesia Lathbury</author>
+  </creators>
+  <melody>| 3 - 1 3 | 5 6 5 - | 3 - 1 3 | 2 - - - (break) | 3 - 1 3 | 5 6 5 6 | 7 - 6 - | 5 - - - (break) | 2 - 3 4 | 6 5 3 - | 5 - 6 6 | 7 - - - (break) | ._1 - 5 3 | 2 4 6 4 | 2 - 5 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>願 主 為 我 擘 開 生 命 的 餅， 就 像 當 日 旁 海 對 眾 所 行。 靠 這 聖 書 引 導， 我 尋 求 你； 我 主， 神 的 活 道， 我 渴 慕 你！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="801"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">願主為我擘開生命的餅，
+就像當日旁海對眾所行。
+靠這聖書引導，我尋求你；
+我主，神的活道，我渴慕你！</stanza>
+	<stanza type="verse" number="2">願主為我擘開生命的餅，
+使我充滿主愛，記念主名！
+釋放我的思想脫離自己，
+好叫我的傾向都在乎你。</stanza>
+	<stanza type="verse" number="3">惟主解開真理，我纔明白
+你的一切信息如何警策；
+使我與你同情，與你同行，
+使我逐日變化，像你榮形。</stanza>
+	<stanza type="verse" number="4">愛主，求你祝福你的真理，
+像你為餅祝福在加利利；
+叫我捆綁都脫，鎖鍊都落，
+自由為你生活，為你工作。</stanza>
+  </lyrics>
+</hymn>

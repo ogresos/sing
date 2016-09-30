@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>cindy</firstname>
+  <lastname/>
+  <email>breeze9600@yahoo.com</email>
+  <password>$2y$10$8LMzXYKRcNhugwV.6gIv7ePxSzRVIEUznNhMeE2ZbgnqR2cdGywLy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>114.95.193.9</ipaddress>
+  <createdate>2016-06-01 01:32:58</createdate>
+  <lastupdateddate>2016-06-01 02:11:32</lastupdateddate>
+  <lastlogindate>2016-06-01 01:35:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="397">More holiness give me</fav>
+    <fav category="default" type="h" num="513">Once it was the blessing</fav>
+  </favourites>
+</user>

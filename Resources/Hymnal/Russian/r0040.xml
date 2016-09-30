@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисус, лишь мысли о Тебе</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;УДОВЛЕТВОРЕНИЕ ИМ</category>
+  <numbers><cebuano num="209"/><chinese num="171"/><english num="209"/><german num="209"/><korean num="171"/><portuguese num="110"/><russian num="40"/><tagalog num="209"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Translated from Bernard of Clairvaux</author>
+	<author biodate="1814-1878" biolink="">Translated by Edward Caswall</author>
+  </creators>
+  <melody>| 3 3 3 | 2 - 3 | 4 - 7_. | 1 - - | 5_. 5_. 5_. | 3 - 2 | 2 - - (break) | 4 4 3 | 2 - 1 | 7_. - 6_. | 5_. - - | 5_. 6_. 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Ии -- сус, лишь мыс -- ли о Те -- бе На -- пол -- нят слад -- ко грудь, Но сла -- ще мне Твой ви -- деть лик, С_То -- бо -- ю от -- дох -- нуть.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="209"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Иисус, лишь мысли о Тебе
+Наполнят сладко грудь,
+Но слаще мне Твой видеть лик,
+С Тобою отдохнуть.</stanza>
+	<stanza type="verse" number="2">Не высказать, не вспомнить мне
+И сердцем не  объять,
+Что слаще имени Иисус,
+Спаситель, может стать.</stanza>
+	<stanza type="verse" number="3">Надеждой сокрушённым стал,
+А кротким радость дал,
+Ты добр к упавшему всегда
+И благ к тем, кто искал.</stanza>
+	<stanza type="verse" number="4">Любви Твоей не описать
+Тем, кто Тебя нашёл.
+Не передать того в словах,
+Какой я дар обрёл.</stanza>
+	<stanza type="verse" number="5">Иисус, источник света Ты
+И жизни, и огня.
+Превыше Ты всего того,
+Что знал и жаждал я.</stanza>
+	<stanza type="verse" number="6">Источника другого нет,
+Чтоб дать душе покой.
+Неисчерпаем, волен, свеж!
+Что ж сможет дать другой?!</stanza>
+	<stanza type="verse" number="7">Ты наша Радость, Иисус,
+И наша Ты Хвала.
+Ты наша Слава и сейчас,
+И в вечности, всегда.</stanza>
+  </lyrics>
+</hymn>

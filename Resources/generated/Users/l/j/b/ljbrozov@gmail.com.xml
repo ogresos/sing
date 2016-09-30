@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>LeAnne</firstname>
+    <lastname>Brozovsky</lastname>
+    <email>ljbrozov@gmail.com</email>
+    <password>kH6kH6QspCO%2FqXXngDXaEA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>152.1.222.30</ipaddress>
+    <createdate>2010-03-01 00:16:20</createdate>
+    <lastupdateddate>2011-09-07 12:01:27</lastupdateddate>
+    <lastlogindate>2011-09-07 11:58:14</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    </favourites>
+</user>

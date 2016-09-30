@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>ck</firstname>
+    <lastname>pai</lastname>
+    <email>ckpai@msn.com</email>
+    <password>ENbx9WpQtPuoJffZvaE5%2BQ%3D%3D</password>
+    <gender>M</gender>
+    <country>tw</country>
+    <ipaddress>114.32.59.1</ipaddress>
+    <createdate>2012-08-11 17:00:00</createdate>
+    <lastupdateddate>2012-08-11 21:23:26</lastupdateddate>
+    <lastlogindate>2012-08-11 21:23:12</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="157">你之所是正合我需</fav>
+        <fav category="default" type="ch" num="9">哦神你是生命源頭</fav>
+        <fav category="default" type="ch" num="176">在你愛的筵席上</fav>
+        <fav category="default" type="ch" num="50">我父我神你愛在子</fav>
+        <fav category="default" type="ch" num="25">父阿你賜何等慈愛</fav>
+        <fav category="default" type="ch" num="44">父阿兒女稱頌你名</fav>
+        <fav category="default" type="ch" num="586">餧我飲我主</fav>
+    </favourites>
+</user>

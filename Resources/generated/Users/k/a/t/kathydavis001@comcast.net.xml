@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kathy</firstname>
+  <lastname>Davis</lastname>
+  <email>kathydavis001@comcast.net</email>
+  <password>$2y$10$KgnQ9yKQJG.sE/9k0kd0COiC.YnhD1c.Vclp893Qod7qw4ixUALBe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.132.201.40</ipaddress>
+  <createdate>2014-10-29 18:33:03</createdate>
+  <lastupdateddate>2014-10-29 18:40:14</lastupdateddate>
+  <lastlogindate>2014-10-29 18:37:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

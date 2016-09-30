@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Vena</firstname>
+  <lastname>Magon</lastname>
+  <email>magonvena83@gmail.com</email>
+  <password>$2y$10$p1p3FkTGREA6r2SpKviGveMMEneGYXfr30wAuOhhVAvnahAtjjd4q</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>110.54.128.20</ipaddress>
+  <createdate>2016-03-31 15:47:07</createdate>
+  <lastupdateddate>2016-03-31 15:55:54</lastupdateddate>
+  <lastlogindate>2016-03-31 15:48:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="593">All I have in Adam is but sin and death</fav>
+    <fav category="default" type="h" num="8438">I've chosen the Lord Jesus</fav>
+  </favourites>
+</user>

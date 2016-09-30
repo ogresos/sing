@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jennifer</firstname>
+  <lastname>Humphrey</lastname>
+  <email>humphreymomofthree@gmail.com</email>
+  <password>$2y$10$VXU9SIhema0sMPNiqsTFz.ir5rCddlQJq3ksiML5/cZFcgh3xh4OO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.190.220.153</ipaddress>
+  <createdate>2016-08-29 10:56:00</createdate>
+  <lastupdateddate>2016-08-29 11:05:37</lastupdateddate>
+  <lastlogindate>2016-08-29 10:57:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+  </favourites>
+</user>

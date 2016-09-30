@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Stender</firstname>
+<lastname>Kwakernaak</lastname>
+<email>stender_kwak@hotmail.com</email>
+<password>$1$tiSgy9kf$15ulGRoNpVunRlfSvYq730</password>
+<gender>M</gender>
+<country>Netherlands</country>
+<ipaddress>86.91.122.220</ipaddress>
+<createdate>2009-01-04 10:04:39</createdate>
+<lastupdateddate>2009-09-15 18:27:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    </favourites>
+</user>

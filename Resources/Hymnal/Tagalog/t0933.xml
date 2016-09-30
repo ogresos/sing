@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May Manliligtas sa glorya'y nagdasal</title>
+  <index>true</index>
+  <category>PAGPAPAHAYAG NG EBANGHELYO&amp;mdash;NANANALANGIN PARA SA IBA</category>
+  <numbers><chinese num="669"/><english num="933"/><korean num="669"/><tagalog num="933"/></numbers>
+  <creators>
+    <author biodate="1837-1910" biolink="">Translated from Samuel O'Malley Clough</author>
+  </creators>
+  <music>
+    <midiref type="h" num="933"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May Manliligtas sa glorya'y nagdasal
+Siya'y kaibig-ibig 'king minamahal;
+Magiliw ngang akong binabantayan Niya,
+Maging Manliligtas mo rin nawa Siya.</stanza>
+    <stanza type="chorus" number="">Ako'y nagdarasal,
+Ako'y nagdarasal,
+Ako'y nagdarasal,
+Para nga sa Iyo.</stanza>
+    <stanza type="verse" number="2">May Ama ako sa aki'y nagbigay
+Pag-asang walang hanggan na siyang tunay;
+Sa kaharian ng langit, tatawagin,
+Nawa'y payag Siyang ika'y aking dalhin.</stanza>
+    <stanza type="verse" number="3">May payapang 'sing tahimik ng ilog,
+Payapang tagamundo'y di maarok;
+Manliligtas ko lamang ang nagkaloob,
+Nawa sa Iyo rin ay ipagkaloob.</stanza>
+  </lyrics>
+</hymn>

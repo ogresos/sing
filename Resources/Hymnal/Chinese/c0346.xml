@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>跟隨跟隨</title>
+  <index>true</index>
+  <category>奉獻－跟隨主</category>
+  <numbers><chinese num="346"/><english num="461"/><korean num="346"/><tagalog num="461"/></numbers>
+  <creators>
+	<author biodate="1823-1902" biolink="">Translated from William Orcutt Cushing</author>
+  </creators>
+  <melody>| 5_. 1./ 2// 3/ 3/ 2/ 1/ | 1/ 1/ 7_./ 6_./ 5_. - | 5_./ 7_./ 7_./ 7_./ 7_./ 2/ 2/ 7_./ | 1 4/ 3/ 2 - (break) | 5_./ 5_./ 1/ 2/ 3/ 3/ 2/ 1/ | 1/ 1/ 7_./ 6_./ 5_. - | 6_./ 7_./ 1/ 2/ 3/ 3/ 5/ 4/ | 3 2 1 - (break) | (Chorus) 3 5 3./( 2//) 1 | 1./ 2// 1/ 6_./ 6_. 5_. | 7_./ 7_./ 7_. 1/ 1/ 1 | 2/ 3/ 4/ 3/ 2 - (break) | 3 5 3./( 2//) 1 | 1./ 2// 1/ 6_./ 6_. 5_. | 6_./ 7_./ 1/ 2/ 3/ 3/ 5/ 4/ | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>我 今 願 跟 隨 耶 穌， 不 論 走 何 路： 或 是 平 坦 大 路， 或 是 崎 嶇 窄 途； 既 有 救 主 親 自 相 輔， 我 就 不 躊 躇， 一 路 跟 隨 耶 穌， 直 到 進 國 度。 跟 隨！ 跟 隨！ 我 願 跟 隨 耶 穌！ 不 論 福， 不 論 苦， 我 必 跟 隨 主！ 跟 隨！ 跟 隨！ 我 願 跟 隨 耶 穌！ 不 論 領 我 何 處， 我 必 跟 隨 主！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="461"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我今願跟隨耶穌，
+不論走何路：
+或是平坦大路，
+或是崎嶇窄途；
+既有救主親自相輔，
+我就不躊躇，
+一路跟隨耶穌，
+直到進國度。</stanza>
+	<stanza type="chorus" number="">跟隨！跟隨！
+我願跟隨耶穌！
+不論福，不論苦，
+我必跟隨主！
+跟隨！跟隨！
+我願跟隨耶穌！
+不論領我何處，
+我必跟隨主！</stanza>
+	<stanza type="verse" number="2">我今願跟隨耶穌，
+不論在何處：
+或在明媚樂土，
+或在死蔭幽谷；
+既有救主親自照護，
+我就不感苦；
+處處跟隨耶穌，
+直到末一步。</stanza>
+	<stanza type="verse" number="3">我今願跟隨耶穌，
+不論時何如：
+或是陽光滿目，
+或是黑雲密佈；
+既有救主親自部署，
+我就無所顧；
+時時跟隨耶穌，
+一直到天曙。</stanza>
+  </lyrics>
+</hymn>

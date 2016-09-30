@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Eden</firstname>
+  <lastname/>
+  <email>lopez.eden53@gmail.com</email>
+  <password>$2y$10$kyH7BliiWDU8F/PVg7Kb9eLmi3AQM9bTTv0IRE1tbHe.6DQMzcu5a</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>23.124.198.63</ipaddress>
+  <createdate>2014-10-19 01:34:12</createdate>
+  <lastupdateddate>2014-10-19 01:39:34</lastupdateddate>
+  <lastlogindate>2014-10-19 01:38:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+  </favourites>
+</user>

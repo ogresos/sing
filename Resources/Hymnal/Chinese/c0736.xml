@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>罪惡途中多年流蕩</title>
+  <index>true</index>
+  <category>福音－見證</category>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>5132434565124721</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>罪 惡 途 中 多 年 流 蕩， 我 魂 被 罪 摧 殘， 等 到 基 督 來 我 心 房， 祂 愛 將 我 裹 纏。 我 救 主， 何 榮 耀！ 從 前 瞎 眼， 阿 利 路 亞， 今 看 見！ 我 救 主， 何 榮 耀！ 從 前 瞎 眼， 今 看 見！</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0736_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">罪惡途中多年流蕩，
+我魂被罪摧殘，
+等到基督來我心房，
+祂愛將我裹纏。</stanza>
+	<stanza type="chorus" number="">我救主，何榮耀！
+從前瞎眼，
+阿利路亞，今看見！
+我救主，何榮耀！
+從前瞎眼，今看見！</stanza>
+	<stanza type="verse" number="2">因我盲眼被主開啟，
+我得見祂榮顏；
+祂愛向我所顯美麗，
+我口難述半點。</stanza>
+	<stanza type="verse" number="3">寶貝救主是我所倚，
+使我凡事得勝；
+我的救主無人能比，
+祂是我愛、我命。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kalinaw, Ikawng tinubdan</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA TANAN</category>
+  <numbers><cebuano num="532"/><chinese num="391"/><english num="532"/><korean num="391"/><portuguese num="260"/><tagalog num="532"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="532"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kalinaw, Ikawng tinubdan,
+Pagkaigo sa gugma Mo;
+Ikawng tabang ug dangpanan,
+Lig-on ko kon akoa Ka;
+Sala, kaulaw'g kasubo,
+Sa ngalan Mo ako motago.</stanza>
+    <stanza type="verse" number="2">Pagkamao Mo m'oy tanan,
+Pahulay ko'g kahupayan;
+Tambal sa kagul-anan ko;
+Kalinaw ko'g kaayohan;
+Purongpurong ug himaya,
+Panahon sa kaulawan.</stanza>
+    <stanza type="verse" number="3">Sa kawalad-on, m'oy sangkap,
+Sa kaluyahon, m'oy gahum;
+Sa gapos ko, kagawasan;
+Kahayag ko's kangitngitan,
+Mabuhi man o mamatay,
+S'yang kalipayng di maasoy.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ich lieb Dich, Jesus</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Ihn lieben</category>
+  <numbers><chinese num="ts:301"/><english num="1154"/><french num="114"/><german num="1154"/><korean num="788"/><portuguese num="273"/><russian num="318"/><spanish num="277"/><tagalog num="1154"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Dorlea Packila">Translated from D. P.</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3 - - 3 | 2 1 1 1 | 4 - 4 3 | 2 - 3 4 (break) | 5 - 5. 3/ | 2 1 - 1 | 6 - 4 3 | 2 - 3 4 | 5 - 5. 3/ | 2 1 - 1 (break) | 4 - 7_. 7_. | 1 - - 1 | ._1 - - ._1 | 7 7 0 6 | 5. 6/ 5 3 | 2 1 0 1 (break) | 6 - - 6 | 5 - {3 5 3} | 2( - - - | 3) - 0 1 | ._1 - - ._1 | 7 7 0 6 (break) | 5. 6/ 5 3 | 2 1 0 1 | 6 - - 6 | 5 - {3 5 3} | 2( - - - | 1) - - 0 |</melody>
+  <layout>
+	<singingstanza>Ich lieb Dich, Je -- sus Dei -- ne Lie -- be zu mir Zieht mich Dich stets zu su -- chen Und nach -- lau -- fen Dir, Zieht mich Dich stets zu su -- chen, Und nach -- lau -- fen Dir, Du bist, Ge -- lieb -- ter, So wun -- der -- bar und lieb -- lich, Mein Herz er -- freut sich nur an Dir. Du bist, Ge -- lieb -- ter, So wun -- der -- bar und lieb -- lich, Mein Herz er -- freut sich nur an Dir.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Song of Songs</link>
+  </links>
+  <music>
+	<midiref type="h" num="1154"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ich lieb Dich, Jesus
+Deine Liebe zu mir
+Zieht mich Dich stets zu suchen
+    Und nachlaufen Dir,
+Zieht mich Dich stets zu suchen,
+    Und nachlaufen Dir,
+        Du bist, Geliebter,
+        So wunderbar und lieblich,
+        Mein Herz erfreut sich nur an Dir.</stanza>
+	<stanza type="verse" number="2">Deine Liebe, Jesus,
+Ist süßer als Wein,
+Und der Duft Deiner Salben
+    Durchströmt nun mein Sein,
+Und der Duft Deiner Salben
+    Durchströmt nun mein Sein,
+        Ein Gartenbrunnen,
+        Ein Quell so voller Leben
+        Fließt reich vom Libanon Gebirge.</stanza>
+	<stanza type="verse" number="3">Oh komm, Geliebter,
+Meinen Garten blas an,
+Dass der Duft der Gewürze
+    Herausströmen kann.
+Dass der Duft der Gewürze
+    Herausströmen kann.
+        Meine Braut und Schwester,
+        Ich komm in meinen Garten,
+        Wein, Milch und Honig hier genieße.</stanza>
+	<stanza type="verse" number="4">Leg mich, Herr Jesus,
+Als Siegel an Dein Herz;
+Eifersucht ist hart wie Scheol,
+    Liebe – stark wie der Tod,
+Eifersucht ist hart wie Scheol,
+    Liebe – stark wie der Tod.
+        Viel Wasser und Fluten
+        Können nicht die Liebe löschen,
+        Kein Schatz in dieser Welt ihr gleichkommt.</stanza>
+	<stanza type="note" number="">(Die letzen drei Zeilen jeder Strophe wiederholen)</stanza>
+  </lyrics>
+</hymn>

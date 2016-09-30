@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Давайте с песней вместе все</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ДОСТОИНСТВО</category>
+  <numbers><cebuano num="183"/><chinese num="146"/><english num="183"/><korean num="146"/><portuguese num="89"/><russian num="507"/><tagalog num="183"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+    <midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Давайте с песней вместе все
+    К престолу подойдём;
+Имей мы сотни языков,
+    Поём мы лишь о Нём:</stanza>
+    <stanza type="verse" number="2">«Достоин Агнец! Он теперь
+    На небо вознесён!
+Достоин Агнец закланный,
+    За нас ведь умер Он!»</stanza>
+    <stanza type="verse" number="3">И честь, и силу получить
+    Достоин Ты, Иисус;
+Благословенья все, Господь,
+    Твоими будут пусть.</stanza>
+    <stanza type="verse" number="4">Святые скоро в небесах
+    Песнь славы воспоют,
+И все, кто на земле живёт,
+    Тебя превознесут.</stanza>
+    <stanza type="verse" number="5">Творенье всё искуплено
+    И славу воздаёт
+Тому, кто на престоле ввек,
+    И Агнцу песнь поёт.</stanza>
+  </lyrics>
+</hymn>

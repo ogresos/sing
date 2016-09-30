@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我神我愛我的永分</title>
+  <index>true</index>
+  <category>經歷神－作永遠的分</category>
+  <numbers><cebuano num="600"/><chinese num="441"/><english num="600"/><korean num="441"/><portuguese num="313"/><russian num="116"/><spanish num="283"/><tagalog num="600"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 1 1/ 2 2/ | 3 2/ 1 5_./ | 6_. 6_./ 1 6_./ | 5_..( 5_.) 5_./ (break) | 1 1/ 2 2/ | 3 4/ 5 3//( 2//) | 1 1/ 2 2/ | 1.( 1) 1/ | 3 3/ 2 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>我 神、 我 愛、 我 的 永 分， 你 永 是 我 一 切； 你 外， 在 天 我 有 何 人， 在 地 有 你 無 缺！ 在 地 有 你 無 缺！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我神、我愛、我的永分，
+你永是我一切；
+你外，在天我有何人，
+在地有你無缺！
+在地有你無缺！</stanza>
+	<stanza type="verse" number="2">天上一切盡都空虛，
+地上更是如此！
+並無一物值得歡娛，
+能與我神相似。</stanza>
+	<stanza type="verse" number="3">你是我的財富、生命，
+我的安穩住處；
+其他事物，我也感領，
+但非我神、我主。</stanza>
+	<stanza type="verse" number="4">閃耀財富，與你相比，
+不過虛空玩具！
+何況其他人之所倚，
+豈不更將人愚？</stanza>
+	<stanza type="verse" number="5">即使全地歸我為業，
+群星也是我的，
+若無你作我的一切，
+我仍可憐至極！</stanza>
+	<stanza type="verse" number="6">讓人伸臂如同大海，
+籠羅一切財富；
+但我只要你的同在，
+此外無所愛慕。</stanza>
+  </lyrics>
+</hymn>

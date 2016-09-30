@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們愛唱基督神子</title>
+  <index>true</index>
+  <category>讚美主－祂的名</category>
+  <numbers><chinese num="67"/><english num="8067"/></numbers>
+  <melody>| 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1 7_. | 1 - (break) | 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1 7_. | 1 - (break) | (Chorus) 5. 6/ | 5 3 | 1 2/( 3/) | 4/( 3/) 2 | 5. 6/ | 5 3 | 1 3 | 2 - (break) | 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1 7_. | 1 - ||</melody>
+  <layout>
+	<singingstanza>大 地 無 名 甜 至 如 此！ 名 甜 至 此 高 天 無！ 祂 離 榮 耀 來 世 界 時， 神 將 這 名 賜 救 主。 我 們 愛 唱： 基 督 神 子， 並 且 稱 祂 為 耶 穌； 因 為 從 來 未 有 文 字， 這 寶、 這 甜， 如 『耶 穌。』</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8067"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">大地無名甜至如此！
+名甜至此高天無！
+祂離榮耀來世界時，
+神將這名賜救主。</stanza>
+	<stanza type="chorus" number="">我們愛唱：基督神子，
+並且稱祂為耶穌；
+因為從來未有文字，
+這寶、這甜，
+如『耶穌。』</stanza>
+	<stanza type="verse" number="2">當人將祂掛在木上，
+他們同時掛這名，
+好叫天下都能欣賞
+我們愛祂的究竟。</stanza>
+	<stanza type="verse" number="3">當祂上升高坐寶座，
+神將這名賞賜祂，
+萬膝跪拜、萬口唱和，
+天上地下都迎駕！</stanza>
+	<stanza type="verse" number="4">主，藉你這名的無比，
+恩典不至漸疲倦；
+今日、昨天，你不更易，
+你是一樣到永遠！</stanza>
+  </lyrics>
+</hymn>

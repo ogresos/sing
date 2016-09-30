@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Встань! Благовествуй всем</title>
+  <index>true</index>
+  <category>БЛАГОВЕСТВОВАНИЕ&amp;mdash;СПАСЕНИЕ ПОГИБАЮЩИХ</category>
+  <numbers><cebuano num="921"/><chinese num="ts:853"/><english num="921"/><korean num="664"/><portuguese num="429"/><russian num="291"/><spanish num="414"/><tagalog num="921"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 6/ 5 0 (break) | 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 7/ ._1 - (break) | (Chorus) ._2 ._1/ ._2/ ._3./ ._2// ._1 | ._2 ._1/ ._2/ ._3 ._1 | ._1 7/ 6/ 5/ ._1/ ._3 | ._2 ._1/ 7/ ._1 - |</melody>
+  <layout>
+    <singingstanza>Встань! Бла -- го -- вест -- вуй всем, Спа -- сай у -- пав -- ших!  Вот мил -- ли -- о -- ны уж гиб -- нут во зле.  Не у -- га -- шай люб -- ви, Брось всё и -- ме -- нье: Встань! Бла -- го -- вест -- вуй, по -- ка е -- щё день. Встань! Бла -- го -- вест -- вуй всем, Спа -- сай у -- пав -- ших!  Мо -- жем ли мы лю -- бовь к_ним у -- дер -- жать?</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="921"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Встань! Благовествуй всем,
+Спасай упавших!
+Вот миллионы уж гибнут во зле.
+Не угашай любви,
+Брось всё именье:
+Встань! Благовествуй, пока ещё день.</stanza>
+    <stanza type="chorus" number="">Встань! Благовествуй всем,
+Спасай упавших!
+Можем ли мы любовь к ним удержать?</stanza>
+  </lyrics>
+</hymn>

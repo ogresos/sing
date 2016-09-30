@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the wilderness for God (Alternate Tune)</title>
+  <category>Longings&amp;mdash;For God as Life</category>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+    <composer biodate="" biolink="">L. W. Lloyd</composer>
+  </creators>
+  <numbers><cebuano num="352"></cebuano><chinese num="272"></chinese><korean num="272"></korean><tagalog num="352"></tagalog></numbers>
+  <meter>7.7.7.7.</meter>
+  <hymncode>321761566432117</hymncode>
+  <key>G Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <melody>| 3. 2/ | 1 7_. | 6_. 1 | 5_. - | 6_. 6_. | 4. 3/ | 2 1 | 1( 7_.) (break) | 1. 2/ | 3 1 | 6_. 4 | 3( 2) | 3 1 | 6_.. 2/ | 1 7_. | 1 - |</melody>
+  <layout>
+    <singingstanza>In the wil -- der -- ness for God! Just a com -- mon bush a -- flame! Thus may I be, bless -- ed Lord, For the glo -- ry of Thy Name.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj132.xml</link>
+    <link type="relevant" category="nt" num="352" />
+    <link type="relevant" category="h" num="352" />
+  </links>
+  <music>
+    <midiref type="h" num="769"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In the wilderness for God!
+Just a common bush aflame!
+Thus may I be, blessed Lord,
+For the glory of Thy Name.</stanza>
+    <stanza type="verse" number="2">Just a common bush to be,
+Something in which God can dwell,
+Something thru which God can speak,
+Something thru which God can tell.</stanza>
+    <stanza type="verse" number="3">All His yearning over men,
+All His purposes of love,
+Flaming with no light of earth,
+But with glory from above:</stanza>
+    <stanza type="verse" number="4">God Himself within the bush,
+Nothing seen but just the flame;
+Make me that, just that, O God,
+For the glory of Thy Name.</stanza>
+  </lyrics>
+</hymn>

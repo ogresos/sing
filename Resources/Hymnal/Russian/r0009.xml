@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Отец, неувядаем Ты</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО НОВИЗНА</category>
+  <numbers><cebuano num="16"/><chinese num="11"/><english num="16"/><german num="16"/><korean num="11"/><portuguese num="10"/><russian num="9"/><spanish num="10"/><tagalog num="16"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 3/ | 2 3/ 5 4/ | 3( - 3/) 5/ (break) | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 6/ | 7 ._1/ 7 6/ (break) | 5( - 5/) (Chorus) 5/ | ._1 ._1/ 7/ 6/ 5/ | 6. 5 5/ | 6 ._1/ 5 3/ | 2( - 2/) 2/ (break) | 3 3/ 5 5/ | ._1 ._1/ ._2/( ._1/) 6/ | 5 5/ 6 7/ | ._1( - ._1/) 0/ |</melody>
+  <layout>
+	<singingstanza>О -- тец, не -- у -- вя -- да -- ем Ты И не -- из -- мен -- но нов.  Жи -- ву -- щий веч -- но Ты Гос -- подь, Свеж, как ро -- сы по -- кров. Ты не -- из -- ме -- нен, О -- тец наш, И не ста -- ре -- ешь Ты.  В_ве -- ках Ты рас -- кры -- ва -- ешь нам Всю све -- жесть но -- виз -- ны.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="16"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Отец, неувядаем Ты
+И неизменно нов.
+Живущий вечно Ты Господь,
+Свеж, как росы покров.</stanza>
+	<stanza type="chorus" number="">Ты неизменен, Отец наш,
+И не стареешь Ты.
+В веках Ты раскрываешь нам
+Всю свежесть новизны.</stanza>
+	<stanza type="verse" number="2">О, Ты есть Бог, и «новый» – Ты;
+Где нет Тебя, там тлен;
+С Тобой же всё всегда свежо
+И через много лет.</stanza>
+	<stanza type="verse" number="3">В благословениях Твоих
+Всегда есть новизна;
+Пути Твои всегда новы,
+Завет Твой нов всегда.</stanza>
+	<stanza type="verse" number="4">Твореньем новым стали мы,
+Дух, сердце новы в нас.
+Нас обновляя, жизнь Свою
+Даёшь нам каждый час.</stanza>
+	<stanza type="verse" number="5">И в новых небе и земле
+Твой новый будет град,
+И каждый месяц – новый плод:
+Ведь всё там новизна.</stanza>
+	<stanza type="verse" number="6">Ты вечно новый, о Отец,
+В Тебе так ново всё!
+И в песне новой, вечной мы
+Хвалу тебе несём.</stanza>
+  </lyrics>
+</hymn>

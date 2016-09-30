@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glória ao Cristo vitorioso</title>
+  <index>true</index>
+  <category>Sua Vitória</category>
+  <numbers><cebuano num="124"/><chinese num="109"/><english num="124"/><french num="22"/><german num="124"/><korean num="109"/><portuguese num="60"/><russian num="26"/><spanish num="59"/><tagalog num="124"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="124"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Glória ao Cristo vitorioso,
+A vitória alcançou!
+O pecado e Adão julgados,
+Plena redenção logrou!
+Sobre o poder maligno,
+No madeiro triunfou.</stanza>
+	<stanza type="verse" number="2">Glória ao Cristo ressurreto,
+A quem Deus ressuscitou!
+Morte e seu poder tragados,
+Vida ao homem dispensou!
+Hades, trevas derrotados ?
+Ele Seu poder mostrou.</stanza>
+	<stanza type="verse" number="3">Glória ao Cristo ascendido,
+Deus ao trono O elevou!
+Sobre todo senhorio,
+Deu-Lhe nome superior!
+Recebida a autoridade,
+Ao maligno derrotou.</stanza>
+	<stanza type="verse" number="4">Glória ao Cristo vitorioso,
+No Calvário triunfou!
+Aleluia! ressurreto,
+A vitória assim mostrou!
+Aleluia! ascendido,
+Reinará, pois, o Senhor!</stanza>
+  </lyrics>
+</hymn>

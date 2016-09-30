@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>頌讚聲音何等難得</title>
+  <index>true</index>
+  <category>讚美主－祂的救贖</category>
+  <numbers><chinese num="98"/><english num="113"/><korean num="98"/><tagalog num="113"/></numbers>
+  <creators>
+	<author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <melody>| 3 - 2# 3 | 1 - 3 - | 2( 3) 4( 5) | 3 - - - (break) | 5 - 4# 5 | 3 - 3( 5) | 5( 4) 4( 3) | 2 - - - (break) | 3 - 2 2 | 1 - 2 - | 3( 4) 5( 6) | 2 - - - (break) | 3 - 5 5 | 4 - - 2 | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>頌 讚 聲 音 何 等 難 得！ 所 以 應 當 無 間 時 刻； 如 果 我 們 自 甘 緘 默， 石 頭 也 要 說 話 相 責。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="113"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">頌讚聲音何等難得！
+所以應當無間時刻；
+如果我們自甘緘默，
+石頭也要說話相責。</stanza>
+	<stanza type="verse" number="2">我們應當高聲頌美
+那用己血買我們的；
+祂替我們備嘗死味，
+祂為我們費盡心力。</stanza>
+	<stanza type="verse" number="3">此世有一特別詩歌，
+惟獨蒙恩罪人會唱；
+此外無人懂那音樂，
+因不知其意義之綱。</stanza>
+	<stanza type="verse" number="4">天使雖能歡然承認
+憐憫如何由血洞曉，
+但是他們不像我們，
+能以證明這血功效。</stanza>
+	<stanza type="verse" number="5">天使雖能讚美拜朝，
+說神是神，向神恭敬；
+我們卻能歡樂唱道：
+祂在寶座還帶人性！</stanza>
+	<stanza type="verse" number="6">哦主，我們讚美那使
+你來流血受死的愛；
+但願不久在天相值，
+向你讚美、向你敬拜。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ashley</firstname>
+    <lastname></lastname>
+    <email>ashley.m.mcghee@gmail.com</email>
+    <password>N%2FAE1aU5G75VLwElBsRiLQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>70.114.0.246</ipaddress>
+    <createdate>2013-10-15 14:35:43</createdate>
+    <lastupdateddate>2013-10-15 14:38:55</lastupdateddate>
+    <lastlogindate>2013-10-15 14:35:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dasigang buhat Mo</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;ARON MADASIG PAG-USAB</category>
+  <numbers><cebuano num="797"/><chinese num="576"/><english num="797"/><korean num="576"/><russian num="529"/><tagalog num="797"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+    <author biodate="1825-1909" biolink="">Adapted from Albert Midlane</author>
+  </creators>
+  <music>
+    <midiref type="h" num="797"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dasigang buhat Mo!
+Padaygan Mo kami!
+Mamulong Ka sa matag usa,
+Katawhan mausa!</stanza>
+    <stanza type="chorus" number="">Dasigang buhat Mo!
+Nagpaabot kami,
+Kaloy-i na, O Ginoo,
+Panalangini mi!</stanza>
+    <stanza type="verse" number="2">Dasigang buhat Mo!
+Ang tanan tandoga;
+Kasingkasing sunoga na
+Sa diosnong kalayo!</stanza>
+    <stanza type="verse" number="3">Dasigang buhat Mo!
+Ngalan Mo ituboy!
+Kasingkasing padilaaba
+Sa langitnong gugma!</stanza>
+    <stanza type="verse" number="4">Dasigang buhat Mo!
+Pinaagi's Pulong!
+Kaputli'g kamatuoran
+Mabati's pagtoo!</stanza>
+    <stanza type="verse" number="5">Dasigang buhat Mo!
+Himoang maisug;
+Aron magbuhat pag-usab
+Sama kaniadto.</stanza>
+    <stanza type="verse" number="6">Dasigang buhat Mo!
+Hatagi mi's ulan!
+Ma-imo ang kadungganan!
+Kami mabulahan!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Akin</firstname>
+  <lastname/>
+  <email>majeedficent@gmail.com</email>
+  <password>$2y$10$4VyAhWAAoMqeffEkgUigAeejsBR1WOLuUdve/6GO295hyThJ9q8nu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>192.108.242.91</ipaddress>
+  <createdate>2016-03-09 13:14:36</createdate>
+  <lastupdateddate>2016-06-02 02:11:51</lastupdateddate>
+  <lastlogindate>2016-06-02 02:11:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

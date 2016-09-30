@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>En Cristo disfrutando</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;En Cristo</category>
+  <numbers><chinese num="229"/><english num="1350"/><french num="65"/><german num="1350"/><russian num="66*"/><spanish num="164"/><tagalog num="1350"/></numbers>
+  <melody>| 0 - - 5 | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 (break) | 5 - - 5 | 7 7 - 6./ 5// | ._1 ._3 - ._1 | 6 ._2 ._2 ._3 (break) | ._2( 5 ._1) ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1 | 5 5 3 4 (break) | 5 ._1 - ._4 | ._3 - ._2 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1350"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">En Cristo disfrutando:
+¡Libertad de Adán!
+Lo viejo ya se hace,
+¡Nuevo y celestial!
+¡Gloria a Dios por el probar de
+Vida, paz y libertad!
+¡En Cristo͜ estoy por la͜ eternidad!</stanza>
+  </lyrics>
+</hymn>

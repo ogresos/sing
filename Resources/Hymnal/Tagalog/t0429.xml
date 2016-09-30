@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nananalig ako</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA BIYAYA</category>
+  <numbers><chinese num="318"/><english num="429"/><korean num="318"/><tagalog num="429"/></numbers>
+  <creators>
+    <author biodate="1808-1887" biolink="">Translated from Ray Palmer</author>
+  </creators>
+  <music>
+    <midiref type="h" num="429"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nananalig ako
+Sa napakong Kristo,
+Panginoon!
+Dinggin Mo ang samo,
+Patawarin ako,
+Ako'y angkinin Mo
+Buhat ngayon.</stanza>
+    <stanza type="verse" number="2">Bigyan ng biyaya,
+Galak, lakas, sigla
+Ang puso ko.
+Iyong dugo'y 'binuhos,
+Mahal Kitang lubos,
+Tunay, wagas, taos,
+Lumalalo.</stanza>
+    <stanza type="verse" number="3">Sa panlupang daan
+May kapighatian,
+Umakay Ka.
+Pahirin luha ko,
+Nang hindi sumuko,
+Ilayo sa tukso,
+At sundin Ka.</stanza>
+    <stanza type="verse" number="4">Buhay&amp;mdash;pangarap lang,
+Halos lunurin ng
+Kamatayan.
+Nawa'y Iyong biyaya
+Al'sin takot, duda;
+Aliw at pag-asa
+Ako'y bigyan.</stanza>
+  </lyrics>
+</hymn>

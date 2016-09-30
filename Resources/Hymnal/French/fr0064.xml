@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'ancre nous tiendra dans les flots de mort</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;sécurisés par la divine provision</category>
+  <numbers><english num="331"/><french num="64"/></numbers>
+  <creators>
+    <author biodate="1829-1907" biolink="">Translated from Priscilla Jane Owens</author>
+  </creators>
+  <music>
+    <midiref type="h" num="331"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">L’ancre de ta vie est-elle fixée,
+Quand l'orage gronde et veut te couler ?
+Quand les ancres tirent sous les marées,
+Pourras-tu tenir, ne point lâcher ?</stanza>
+    <stanza type="chorus" number="">Notre âme à l'ancre tient fermement,
+Sûre et solide sous les grands vents,
+Fixée à l'immuable rocher,
+À l'amour du Fils qui nous a sauvés.</stanza>
+    <stanza type="verse" number="2">Elle est amarrée, défiant tous les flots,
+La main de Dieu veille à mon bateau.
+Les cordages vont de Son cœur au mien,
+Rien ne les rompra : ils sont divins.</stanza>
+    <stanza type="verse" number="3">Lorsque les brisants montrent un récif,
+Rien ne fait trembler mon frêle esquif.
+Sous les coups sauvages de l'ouragan,
+Nulle vague au loin ne le surprend.</stanza>
+    <stanza type="verse" number="4">L'ancre nous tiendra dans les flots de mort,
+Qui font frémir, loin de notre port.
+Elle est sûre et forte dans la marée,
+L'espoir au-delà du voile ancrée.</stanza>
+  </lyrics>
+</hymn>

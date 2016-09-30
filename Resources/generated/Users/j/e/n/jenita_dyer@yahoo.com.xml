@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jenita</firstname>
+  <lastname>Dyer</lastname>
+  <email>jenita_dyer@yahoo.com</email>
+  <password>$2y$10$9pCa7ScTbLmArDAgkf.aXOL8o7Et2S8b3hC5QqkUzw6CInc5DAY82</password>
+  <gender/>
+  <country>bm</country>
+  <ipaddress>64.147.84.248</ipaddress>
+  <createdate>2015-05-01 06:05:17</createdate>
+  <lastupdateddate>2015-05-01 06:08:48</lastupdateddate>
+  <lastlogindate>2015-05-01 06:06:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="655">Feed on His faithfulness, my soul</fav>
+    <fav category="default" type="h" num="1350">I'm in Christ, now rejoicing</fav>
+  </favourites>
+</user>

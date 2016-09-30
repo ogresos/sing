@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主你榮面是我所羨</title>
+  <index>true</index>
+  <category>羨慕－一般</category>
+  <numbers><chinese num="328"/><english num="807"/><korean num="328"/><tagalog num="807"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Clara H. Scott</author>
+  </creators>
+  <melody>| ._1/ 7/ 6/ 5 6/ | 6 5/ 5. | ._2/ 7/ 6/ 5 7/ | 6 5/ 5. (break) | 5#/ 4#/ 5#/ 6 6/ | 7/( 6/) 7/ ._1. | 6/ 7/ ._1/ ._2 7/ | 7 6/ (.5. (break) | (Chorus) ._1/ 7/ 6/ 5 6/ | 6 5/ 5. | ._2/ 7/ 6/ 5 7/ | 6 5/ 5. (break) | ._3/ ._2/ ._1/ ._1 ._1/ | ._2 ._1/ (.6. | 5. ._2 ._1/ | ._1.( ._1.) |</melody>
+  <layout>
+	<singingstanza>主， 你 榮 面 是 我 所 羨， 開 啟 我 眼 使 我 看 見； 願 你 榮 光 照 我 眼 前， 消 除 我 的 一 切 黑 暗。 恩 主， 我 今 尋 求 你 面， 願 你 不 再 向 我 隱 瞞； 開 啟 我 眼， 使 我 看 見 你 的 榮 面！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="807"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，你榮面是我所羨，
+開啟我眼使我看見；
+願你榮光照我眼前，
+消除我的一切黑暗。
+恩主，我今尋求你面，
+願你不再向我隱瞞；
+開啟我眼，使我看見
+你的榮面！</stanza>
+	<stanza type="verse" number="2">主，你慈聲是我所羨，
+開啟我耳使我聽見；
+願你聲音繞我耳邊，
+消除惡者一切謊言。
+恩主，我今尋求你面，
+願你不再向我隱瞞；
+開啟我耳，使我聽見
+你的聖言！</stanza>
+	<stanza type="verse" number="3">主，你自己是我所羨，
+開啟我心使我充滿；
+願你豐滿溢我心間，
+使我失去在你裡面。
+恩主，我今尋求你面，
+願你不再向我隱瞞；
+開啟我心，使我充滿
+你的恩典！</stanza>
+  </lyrics>
+</hymn>

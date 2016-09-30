@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>From my heart comes a melody</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Attracted by the Lord's Beauty</category>
+  <numbers><chinese num="ts:325"/><english num="ns:238"/><vsb num="196"/></numbers>
+  <hymncode>15123432671234321</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Em - | Am - C/G - | Dm - C - | Gsus4 - G - | F - E7 - | Am - Dm/F - | C/G - G7 - | C - - - | C - Em - | Am - C/G - | Dm - C - | Gsus4 - G C/E | F - E7 - | Am - Dm/F - | C/G - G7 - | C - - - | Em - Am - | Em - Am - | Em - B7 - | Em - - - | Dm7 - G7 - | C - Em - | Am - C/G - | Dm - C - | Gsus4 - G C/E | F - E7 - | Am - Dm/F - | C/G - G7 - | C - - - |</chords>
+  <melody>| 1 - 5 - | 1 - - 2/ 3/ | 4 - 3 - | 2 - - - | 6_. - 7_. - | 1 - {2 3 4} | 3 - 2 - | 1 - - - (break) | 1 - 5 - | 1 - - 2/ 3/ | 4 - 3 - | 2 - - 5_. | 6_. - 7_. - | 1 - {2 3 4} | 3 - 2 - | 1 - - - (break) | 7_./ 3/ 5/ 7/ 6 - | 7_./ 3/ 5/ 7/ 6 - | 7_./ 3/ 5/ 7/ 6 4# | 5( - 5/) 3/ 5/ 3/ | 4( - 5) - (break) | 1 - 5 - | 1 - - 2/ 3/ | 4 - 3 - | 2 - - 5_. | 6_. - 7_. - | 1 - {2 3 4} | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>From my heart comes a mel -- o -- dy Of the One who gave His life for me. How can I turn a -- way from Thee; Lord, I have seen Thy change -- less love for me. En -- joy -- ment so full! Life's re -- al -- i -- ty! That's what You're to me: Lord, You have won my heart! Take my heart, take my whole life too; Lord, I can't help giv -- ing my -- self to You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="81">ns0238.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">From my heart comes a melody
+Of the One who gave His life for me.
+How can I turn away from Thee;
+Lord, I have seen Thy changeless love for me.
+Enjoyment so full!
+Life's reality!
+That's what You're to me:
+Lord, You have won my heart!
+Take my heart, take my whole life too;
+Lord, I can't help giving myself to You.</stanza>
+    <stanza type="verse" number="2">From the day that I first met You.
+How could I help falling in love with You?
+Emptiness turned life's pleasures blue;
+No earthly love ever could see me through.
+'Till I turned one day
+Opened up my heart,
+Let Your love flow in
+And fill my deepest part.
+Now I know, Lord, You're one with me;
+And I can't help giving myself to Thee.
+Lord, I can't help giving myself to Thee.</stanza>
+  </lyrics>
+</hymn>

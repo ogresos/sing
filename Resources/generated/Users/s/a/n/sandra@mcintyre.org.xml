@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sandra</firstname>
+  <lastname>McIntyre</lastname>
+  <email>sandra@mcintyre.org</email>
+  <password>$2y$10$HPQxtNkKXuCHGpcD3Y3YXOo.AG.9QzUG5DBFANIYbA/En3HbUDv0u</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>108.60.184.209</ipaddress>
+  <createdate>2014-03-03 06:28:01</createdate>
+  <lastupdateddate>2014-11-22 21:52:11</lastupdateddate>
+  <lastlogindate>2014-11-22 19:28:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    <fav category="default" type="c" num="17">Matthew, the Gospel</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="1115">We have come, we have come to the house of God</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa sala'y mga nabibigatan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><english num="1033"/><tagalog num="1033"/></numbers>
+  <creators>
+    <author biodate="1885-1959" biolink="">Translated from Haldor Lillenas</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1033"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa sala'y mga nabibigatan,
+Dumulog lamang;
+Simulan ang bagong buhay ngayon,
+Lapit sa Pangino'n.</stanza>
+    <stanza type="chorus" number="">Dumulog lamang,
+Panginoo'y lapitan;
+Sala'y bitiwan, kahit ka ganyan,
+Hesus iyong lapitan.</stanza>
+    <stanza type="verse" number="2">Iyong puso sa sala'y napilatan,
+Dumulog lamang;
+Kahit ang Ama iyong nilayuan,
+Dumulog ka lamang.</stanza>
+    <stanza type="verse" number="3">Sinusumbatan, puso'y nasaktan,
+Dumulog lamang;
+Isiping tinubos sa Kalbaryo,
+Hesus lapitan mo.</stanza>
+    <stanza type="verse" number="4">Kasiyahan ng Diyos di makamtan,
+Dumulog lamang;
+Magtiwala sa dugong binubo,
+Hesus lapitan mo.</stanza>
+    <stanza type="verse" number="5">Dalhin iyong dusa't kapighatian,
+Dumulog lamang;
+Manliligtas handa kang tanggapin,
+Lapitan ngayon din.</stanza>
+  </lyrics>
+</hymn>

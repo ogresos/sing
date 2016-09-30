@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kamunduhan, ibig lumaya</title>
+  <index>true</index>
+  <category>ANG SALITA NG DIYOS&amp;mdash;NAGSASABI NG AMEN SA SALITA</category>
+  <numbers><chinese num="ts:414"/><english num="1218"/><german num="1218"/><russian num="132"/><tagalog num="1218"/></numbers>
+  <melody>| 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 3// 1 3 | 2 - - 0 (break) | 3 3./ 4// 3 5_. | 1./ 2// 3./ 4// 5 - | 5 5./ 4// 3 2 | 1 - - 0 (break) | 5 5./ 6// 5 1 | 7_. - - 0 | 2 4./ 5// 7 6 | 5 - - 0 (break) | 3 3./ 4// 5 3 | 4 6./ 6// 6 4 | 3 5./ 4// 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1213"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa kamunduhan, ibig lumaya,
+Amen sa salita!
+Katotohana'y ibig madama,
+Amen sa salita!</stanza>
+	<stanza type="chorus" number="">Sa salita ng Diyos,
+Mag-amen nang lubos!
+Sa salita'y manampalataya,
+Amen sa salita!</stanza>
+	<stanza type="verse" number="2">Upang tapusin ang kasalanan,
+Amen sa salita!
+Upang mabago'ng iyong kaisipan,
+Amen sa salita!</stanza>
+	<stanza type="chorus" number="">Sa salita ng Diyos,
+Mag-amen nang lubos!
+Salita ay nagbibigay-buhay -
+Amen sa salita!</stanza>
+	<stanza type="verse" number="3">Si Kristo ang Mabuting Lupain -
+Amen sa salita!
+Ang puso ay huwag nang patigasin -
+Amen sa salita!</stanza>
+	<stanza type="chorus" number="">Sa salita ng Diyos,
+Mag-amen nang lubos!
+Salita ay may dalawang talim -
+Amen sa salita!</stanza>
+	<stanza type="verse" number="4">Di magtatagal at babalik Siya -
+Amen sa salita!
+Masasabi mo bang handa ka na -
+Amen sa salita!</stanza>
+	<stanza type="chorus" number="">Sa salita ng Diyos,
+Mag-amen nang lubos!
+Huwag maging mangmang,
+at maghanda na -
+Amen sa salita!</stanza>
+  </lyrics>
+</hymn>

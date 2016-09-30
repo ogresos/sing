@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀榮耀基督作生</title>
+  <index>true</index>
+  <category>經歷基督－作生命</category>
+  <numbers><chinese num="377"/><english num="1356"/><french num="91"/><portuguese num="244"/><russian num="92"/><spanish num="221"/><tagalog num="1356"/></numbers>
+  <melody>| ._3 ._3 ._5./ ._4// ._2./ 7// | ._1 ._1 ._3 - | 6 6 ._2./ ._3// ._2./ ._1// | 7 6 5 0 (break) | 5./ 5// 6./ 5// ._3 ._1 | ._2./ ._1// 6./ 7// ._1 - | 7./ ._1// ._2./ ._1// ._3./ ._2// ._4./ 7// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>榮 耀！ 榮 耀！ 基 督 作 生 命， 榮 耀！ 榮 耀！ 聖 靈 來 引 領， 無 力 變 為 有 能， 黑 暗 變 光 明， 榮 耀！ 榮 耀！ 基 督 作 生 命。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1356"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">榮耀！榮耀！
+基督作生命，
+榮耀！榮耀！
+聖靈來引領，
+無力變為有能，
+黑暗變光明，
+榮耀！榮耀！
+基督作生命。</stanza>
+	<stanza type="verse" number="2">榮耀！榮耀！
+靠著主而生，
+榮耀！榮耀！
+隨從靈而行，
+失敗變為得勝，
+歎息變頌稱，
+榮耀！榮耀！
+靠著主而生。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Smith</firstname>
+  <lastname>Tuangswang</lastname>
+  <email>tuangswang@hotmail.com</email>
+  <password>$2y$10$IHrwZP6JJDcu2J058Iv28Ot2K4CK6fiAvCKwC887inEv14ecL1vri</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.168.173.217</ipaddress>
+  <createdate>2015-08-07 21:15:28</createdate>
+  <lastupdateddate>2015-08-07 21:49:26</lastupdateddate>
+  <lastlogindate>2015-08-07 21:37:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="21">Lord Jesus, all our hearts You've gained</fav>
+    <fav category="default" type="ns" num="240">Lord, I give myself to You again today</fav>
+  </favourites>
+</user>

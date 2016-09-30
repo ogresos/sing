@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Миру скорбей неси Христа</title>
+  <index>true</index>
+  <category>БЛАГОВЕСТВОВАНИЕ&amp;mdash;НАДЕЛЕНИЕ ХРИСТОМ</category>
+  <numbers><cebuano num="922"/><chinese num="665"/><english num="922"/><german num="922"/><korean num="665"/><portuguese num="431"/><russian num="230"/><spanish num="415"/><tagalog num="922"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/ 6/ 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/ 5/ 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <layout>
+	<singingstanza>Ми -- ру скор -- бей не -- си Хри -- ста Жиз -- нью, а не на сло -- вах.  Раз -- дай Хри -- ста де -- лом жи -- вым В_ду -- ши жи -- ву -- щих в_скор -- бях.  Ми -- ру скор -- бей не -- си Хри -- ста Яв -- ляй Е -- го день за днём.  Раз -- дай Хри -- ста, кем ты жи -- вёшь, Де -- лись со все -- ми Хри -- стом.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Миру скорбей неси Христа
+Жизнью, а не на словах.
+Раздай Христа делом живым
+В души живущих в скорбях.</stanza>
+	<stanza type="chorus" number="">Миру скорбей неси Христа
+Являй Его день за днём.
+Раздай Христа, кем ты живёшь,
+Делись со всеми Христом.</stanza>
+	<stanza type="verse" number="2">Миру скорбей неси Христа,
+Он драгоценней всего.
+Тем, кого ты любишь, раздай
+Как драгоценность Его.</stanza>
+	<stanza type="verse" number="3">Миру скорбей неси Христа,
+Он наслажденье твоё.
+Раздай Христа своим друзьям –
+Радостью их станет Он.</stanza>
+	<stanza type="verse" number="4">Миру скорбей неси Христа,
+Он твоя жизнь, всё твоё.
+Раздай Христа по всей земле,
+Дай людям падшим Его.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>King Hong</firstname>
+<lastname>Wong</lastname>
+<email>kinghongwong@yahoo.com</email>
+<password>$1$yGBVzYKh$G4OarzpYwwsuSvSYzu6NJ.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>129.186.184.5</ipaddress>
+<createdate>2008-11-05 12:19:32</createdate>
+<lastupdateddate>2009-09-15 18:26:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    </favourites>
+</user>

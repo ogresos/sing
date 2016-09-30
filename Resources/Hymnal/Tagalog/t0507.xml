@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Malayo sa Diyos, may sala</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG BUHAY</category>
+  <numbers><chinese num="ts:120"/><dutch num="53"/><english num="507"/><french num="90"/><german num="507"/><korean num="801"/><portuguese num="237"/><russian num="97"/><spanish num="219"/><tagalog num="507"/></numbers>
+  <creators>
+	<author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <melody>| 0 - - 0 - 5_. | 3 - 2 1 - 1 | 1( 7_.) 6_. 5_. - 5_. | 6_. - 1 4 - 6 (break) | 5( - - 5) - 4 | 3 - 3 3( 2) 3 | 5 - 4 1 - 2 | 3 - - 2 5_. 2 | 1( - - 1) - - (break) | (Chorus) 3 - - 5 4 3 | 2( - - 2) - - | 1 - - 3 2 1 | 7_. - - - - - (break) | 6_. - - 1 4 6 | 5 - 3 1 - 2 | 3 - - 2 5_. 2 | 1( - - 1) - - |</melody>
+  <music>
+	<midiref type="h" num="507"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Malayo sa Diyos, may sala;
+Ilaw di makita;
+Sa Salita Siya'y nakita,
+Sa 'ki'y nanahan Siya.</stanza>
+	<stanza type="chorus" number="">Nasa loob ko,
+Buhay si Kristo;
+O! Anong kaligtasan,
+Sa 'kin Siya'y nanahan.</stanza>
+	<stanza type="verse" number="2">Gaya'y silahis ng araw,
+Nagpapabulaklak;
+Buhay, ilaw at pagsinta,
+Kay Kristo nagmula.</stanza>
+	<stanza type="verse" number="3">Katulad ng isang puno,
+Na nasa 'sang buto;
+Gayon Kanyang Espiritu,
+Nasa 'spiritu ko.</stanza>
+	<stanza type="verse" number="4">Umaasam ang puso ko,
+Na makatulad Mo;
+At Iyong hiwaga'y munihin,
+Ika'y nasa akin.</stanza>
+  </lyrics>
+</hymn>

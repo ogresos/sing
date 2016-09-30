@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神就是愛</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:876"/><english num="lb:11"/><vsb num="21"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 1 - ._1 - | 7/ 5/( 5) - 3 | 4 4/ 4/ 4/ 5/ 6 | 5 - - - (break) | 0 4/ 4/ 4/ 3/ 2 | 0 3/ 3/ 3/ 2/ 1 | 0 2/ 2/ 2/ 1/ 7_. | 1 - - - (break) | 1 - ._1 - | 7/ 5/( 5) - 3 | 4 4/ 4/ 4/ 5/ 6 | 5 - - - (break) | 0 4/ 4/ 4/ 3/ 2 | 0 3/ 3/ 3/ 2/ 1 | 0 2/ 2/ 2/ 1/ 7_. | 1 - - - (break) | (Chorus) 3 6 7 ._1 | 7 5 - 5/ 5/ | 6 - 6/( 5/) 4 | 5 - - - (break) | 3 6 7 ._1 | ._1 ._1 - 6/ 6/ | 5 - - 3 | 2 - - 0 |</melody>
+  <layout>
+	<singingstanza>神 就 是 愛， 祂 差 獨 生 愛 子 前 來； 當 世 人 敗 壞， 正 墮 落 無 奈， 竟 來 與 人 同 在。 我 猶 罪 人， 基 督 即 已 為 我 受 害； 神 莫 測 大 愛， 在 此 就 佈 開， 當 得 我 心 感 戴。 你 既 如 此 不 吝， 捨 你 愛 子 受 害， 父 阿， 因 祂 寶 貴， 我 讚 美 敬 拜。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="lb" num="11"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神就是愛，祂差獨生愛子前來；
+當世人敗壞，正墮落無奈，
+竟來與人同在。
+我猶罪人，基督即已為我受害；
+神莫測大愛，在此就佈開，
+當得我心感戴。</stanza>
+	<stanza type="chorus" number="">你既如此不吝，捨你愛子受害，
+父阿，因祂寶貴，我讚美敬拜。</stanza>
+	<stanza type="verse" number="2">有誰能知，源自父神懷裏奇愛？
+眼雖未曾見，耳雖未曾聞，
+我卻得贖蒙愛。
+哦，神的愛！祂竟生為人子嬰孩，
+咒詛祂擔代，十架上受害，
+流血為將我買。</stanza>
+	<stanza type="chorus" number="">父，感謝你差派獨生愛子前來；
+祂血流自加略，顯明你大愛。</stanza>
+	<stanza type="verse" number="3">神愛世人，甚至將獨生子差來。
+信祂不滅亡，永遠生命享；
+來罷，切勿等待！
+信祂不滅亡，永遠生命享；
+來罷，切勿等待！</stanza>
+  </lyrics>
+</hymn>

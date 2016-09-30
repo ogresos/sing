@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Catherine</firstname>
+  <lastname>Sullivan</lastname>
+  <email>csulli7@gmail.com</email>
+  <password>$2y$10$a2wJZ.34/AaGee4Dfrqla.KwJVGeiIkyg2BvIV0BlEzCv16KTBBJO</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>67.223.209.232</ipaddress>
+  <createdate>2011-11-12 15:55:01</createdate>
+  <lastupdateddate>2016-04-10 16:04:37</lastupdateddate>
+  <lastlogindate>2016-04-10 16:04:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="563">Abide in Thee! in that deep love of Thine</fav>
+    <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+    <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="h" num="365">Jesus, Thy life is mine</fav>
+    <fav category="default" type="ns" num="357">Lord, I love You, I'm charmed by You</fav>
+    <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    <fav category="default" type="h" num="401">May the mind of Christ my Savior</fav>
+    <fav category="default" type="h" num="447">My spirit, soul, and body</fav>
+    <fav category="default" type="h" num="428">O Lord, Thy boundless love to me</fav>
+    <fav category="default" type="ns" num="350">O Lord, we'd know Your heart today</fav>
+    <fav category="default" type="h" num="566">Oh, safe to the Rock that is higher than I</fav>
+    <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    <fav category="default" type="h" num="532">Thou hidden source of calm repose</fav>
+    <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

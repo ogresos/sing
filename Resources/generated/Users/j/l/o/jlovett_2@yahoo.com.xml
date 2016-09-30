@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Sister</firstname>
+    <lastname>Jennifer</lastname>
+    <email>jlovett_2@yahoo.com</email>
+    <password>$1$A3m2CX1E$KwI20Cfpw3SQmMEv5Gdgz0</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>67.80.122.207</ipaddress>
+    <createdate>2008-07-26 01:43:07</createdate>
+    <lastupdateddate>2011-04-07 20:38:12</lastupdateddate>
+    <lastlogindate>2011-04-07 20:05:27</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="7">Glory, glory to the Father</fav>
+        <fav category="default" type="h" num="07">Glory, glory to the Father</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="306">I belong to Jesus</fav>
+        <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+        <fav category="default" type="h" num="1218">If from the world you're longing to be free</fav>
+        <fav category="default" type="h" num="1056">Jesus, my Lord, to Thee I cry</fav>
+        <fav category="default" type="h" num="1221">Jesus, our wonderful Shepherd</fav>
+        <fav category="default" type="h" num="190">O Lord, as we consider Thee</fav>
+        <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+        <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+        <fav category="default" type="h" num="1222">Sing aloud your praises to the Lord of all</fav>
+        <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+        <fav category="default" type="h" num="1153">We have found the Christ who's all in all</fav>
+        <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+        <fav category="default" type="h" num="1107">We're gathered here, O Lord, as Thy one Body</fav>
+    </favourites>
+</user>

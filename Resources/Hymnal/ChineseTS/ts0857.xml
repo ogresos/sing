@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>宣揚直到國度臨</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:857"/><dutch num="96"/><english num="1294"/></numbers>
+  <melody>| 0 - 0/ 5/ 6/ 7/ | ._1 6/ 5/ ._1/ ._1/ 6/ 5/ | ._1 6/ ._1/( ._1/) 5/ 6/ 7/ (break) | ._1 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._2 7/ 5/( 5/) 5/ 6/ 7/ (break) | ._1( - ._1/) ._1/ 7/ 7b/ | 6 - - 6/ 6/ | 5/ 5/ 5/ 5/ 5/ 5/ 5/ 5/ | 5/( 6/) 7/ ._1 0. |</melody>
+  <layout>
+	<singingstanza>應 當 宣 揚， 宣 揚 主 話 使 國 度 來 臨； 盡 力 宣 揚， 宣 揚 主 話 直 到 國 度 臨。 和 平 福 音， 不 該 藏 隱； 應 當 宣 揚， 宣 揚 主 話 直 到 國 度 臨。</singingstanza>
+	<singingstanza2>[skip29] 和平福音， [skip3] 不該藏隱；</singingstanza2>
+  </layout>
+  <music>
+	<midiref type="h" num="1293"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">應當宣揚，宣揚主話使國度來臨；
+盡力宣揚，宣揚主話直到國度臨。
+和平福音，和平福音，
+不該藏隱；不該藏隱；
+應當宣揚，宣揚主話直到國度臨。</stanza>
+	<stanza type="verse" number="2">主話有能，儘管釋放，必不歸徒然；
+憑信撒種，必有結果，絕不歸徒然。
+殷勤撒種，必得亨通；
+主話有能，儘管撒種，必不歸徒然。</stanza>
+	<stanza type="verse" number="3">這是時候！我們傳揚福音徧人間；
+把握今日，傳揚福音不怕人棄嫌。
+不必畏縮，主已工作！
+天程旅客與主合作，不怕人棄嫌。</stanza>
+	<stanza type="verse" number="4">只管傳講，基督必在人心作見證。
+我們傳講，基督就在人心作見證。
+宣揚主恩，為主得人；
+我們傳講，基督就在人心作見證。</stanza>
+	<stanza type="verse" number="5">莊稼已熟！前去收割不必再等候！
+田已發白！前去收割不必再等候！
+基督、召會，豐滿全備─
+完滿福音速速傳揚，滿足人所求。</stanza>
+  </lyrics>
+</hymn>

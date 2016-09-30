@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Charles</firstname>
+  <lastname>Savona</lastname>
+  <email>savona.charles@gmail.com</email>
+  <password>$2y$10$Vl..gFYzTjEwMlSh3TGeJ.frlME2fWLYqxSSXKbygMwGQXEZhGRyy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>32.211.230.248</ipaddress>
+  <createdate>2015-11-09 13:07:34</createdate>
+  <lastupdateddate>2015-11-16 00:29:45</lastupdateddate>
+  <lastlogindate>2015-11-09 13:08:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="326b">He lives, the great Redeemer lives (Alternate Tune)</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="h" num="426">Remove my covering, Lord</fav>
+    <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+  </favourites>
+</user>

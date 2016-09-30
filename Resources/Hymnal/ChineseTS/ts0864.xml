@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我要飛翔</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>345671516715</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 看 見 寬 闊 天 空， 就 想 飛 翔； 振 翼 整 裝， 卻 常 常 迷 惘， 徧 尋 不 到 真 方 向。 主 來， 是 真 光， 帶 我 重 新 啟 航， 知 道 神 造 人 像 神， 將 祂 盛 裝， 為 要 代 表 管 理， 且 作 團 體 顯 彰。 永 遠 的 話 成 肉 身， 且 成 那 靈， 來 使 人 變 化， 有 祂 生 命 性 情。 這 是 神 新 約 的 經 綸 如 同 大 輪， 往 全 地 開 展， 榮 耀， 我 竟 有 分！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0864.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我看見寬闊天空，就想飛翔；
+振翼整裝，卻常常迷惘，
+徧尋不到真方向。
+主來，是真光，
+帶我重新啟航，
+知道神造人像神，
+將祂盛裝，
+為要代表管理，
+且作團體顯彰。</stanza>
+	<stanza type="chorus" number="">永遠的話成肉身，且成那靈，
+來使人變化，有祂生命性情。
+這是神新約的經綸如同大輪，
+往全地開展，榮耀，我竟有分！</stanza>
+	<stanza type="verse" number="2">我今有何等榮景，懷抱雄心；
+國度福音，如生命種子，
+就要百倍結實。
+我去，是奴僕，
+使人作主門徒，
+願祂現在更照耀，
+君王基督那日從天歸回，
+並自我裏透出。</stanza>
+  </lyrics>
+</hymn>

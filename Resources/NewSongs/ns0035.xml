@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Lord, I love You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <hymncode>345321234452</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | F - - - | C/E - - - | Dm - - - | G - - - | C - - - | Am - - - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 3/ 4/ | 5 - - 3/ 2/ | 1 - - 2/ 3/ | 4 - - 4/ 5/ (break) | 2 - - 3/ 4/ | 5 - - 3/ 2/ | 1 - - 2/ 3/ | 4 - - 4/ 5/ | 3 2 - 1/ 1/ (break) | 6 - - 7/ ._1/ | 5 - - 2/ 3/ | 4( - 4/) 3/ 2/ 1/ | 2 - - 3/ 4/ (break) | 5 - - 3/ 2/ | 1 - - 2/ 3/ | 4 - 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus Lord, I love You. Noth -- ing more do I want. Noth -- ing in this whole world Sat -- is -- fies as You do, Lord. Though I wan -- der a -- way, Still Your love seeks af -- ter me, Reach -- ing me; I'm sub -- dued And I turn back to You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="55">ns0035.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Jesus Lord, I love You.
+Nothing more do I want.
+Nothing in this whole world
+Satisfies as You do, Lord.
+Though I wander away,
+Still Your love seeks after me,
+Reaching me; I'm subdued
+And I turn back to You.</stanza>
+  </lyrics>
+</hymn>

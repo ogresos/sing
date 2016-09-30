@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Robert</firstname>
+<lastname>Murphy</lastname>
+<email>robert_andrew_murphy@yahoo.com</email>
+<password>$1$/VMjbG2j$WuTvzrBiba25mMe8WJSfW1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.84.90.65</ipaddress>
+<createdate>2009-03-03 01:16:08</createdate>
+<lastupdateddate>2009-09-15 18:29:36</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="153">Thy word is sweet unto my taste</fav>
+    </favourites>
+</user>

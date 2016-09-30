@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, do unveil</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Deliverance from Self</category>
+  <numbers><english num="ns:206"/><vsb num="124"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Sandra Dee">S. D.</author>
+    <author biodate="" biolink="" fullname="Susan Dee">S. D.</author>
+  </creators>
+  <melody>| 0 - (startrepeat4) 0/ (Verse_1) 5/ 5/ 4/ | 3( - 3/) 3/ 4/ 5/ | 5/ 6/ 4/ 3// 4//( 4) 4/ 3/ (break) | 2( - 2/) 2/ 3/ 4/ | 4/ 5/ 3/ 2// 3//( 3) 3/ 2/ (break) | 1. 2/ 1/ 5_.// 5_.//( 5_./) 5_./ | (alt1) 4 3 1 3 | 2 - 0/ 5/ 5/ 4/ (break) | (alt2) 4 - 3 - | 1 - 2 - | 1( - - - | 1) - 0 - (endalt) |</melody>
+  <layout>
+    <singingstanza>Lord, do un -- veil The more we strive, the more we fail All the strife&amp;mdash; they all come out to no a -- vail. Lord, they're just not for your need By "self", we won't suc -- ceed. Lord, we con -- Christ in us in -- creased.</singingstanza>
+  </layout>
+  <audios>
+    <audio title="Instrumental (Guitar)" location="ns" length="249">ns0209_guitar.mp3</audio>
+  </audios>
+  <music>
+    <midiref type="ns" num="209"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, do unveil
+The more we strive, the more we fail
+All the strife&amp;mdash;they all come out to no avail.
+Lord, they're just not for your need
+By "self", we won't succeed.</stanza>
+    <stanza type="verse" number="2">Lord, we confess
+We are not able, Lord, unless
+We have You; You're all in all&amp;mdash;You're our success!
+All we need, O Lord, is You
+'Cause nothing else will do.</stanza>
+    <stanza type="verse" number="3">O Lord, we pray
+Increase Thyself in us each day
+And the "self"&amp;mdash;decrease it 'til it's done away.
+Lord, we want the growth in life
+We don't want all the strife.</stanza>
+    <stanza type="verse" number="4">Lord, life's begun
+Two spirits mingled into one
+Day by day, walk in the spirit and we've won!
+Then the "self" will be decreased
+And Christ in us increased.</stanza>
+  </lyrics>
+</hymn>

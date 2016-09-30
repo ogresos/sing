@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>速興起傳福音</title>
+  <index>true</index>
+  <category>傳揚福音－搶救靈魂</category>
+  <numbers><chinese num="664"/><english num="1358"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 6/ 5 0 (break) | 5 3/ 4/ 5/ 5/ 5 | ._1 7/ 6/ 6 5 | 5 6/ 7/ ._1 ._2/ ._3/ | ._2 ._1/ 7/ ._1 - (break) | (Chorus) ._2 ._1/ ._2/ ._3./ ._2// ._1 | ._2 ._1/ ._2/ ._3 ._1 | ._1 7/ 6/ 5/ ._1/ ._3 | ._2 ._1/ 7/ ._1 - |</melody>
+  <layout>
+	<singingstanza>速 興 起 傳 福 音！ 速 搶 救 靈 魂！ 請 你 看 千 萬 人 天 天 沉 淪！ 莫 塞 住 憐 憫 心， 莫 看 重 金 銀， 鬆 開 手， 傳 福 音， 趁 著 現 今。 速 興 起 傳 福 音！ 速 搶 救 靈 魂！ 你 為 何 仍 忍 心， 看 人 沉 淪？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="921"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">速興起傳福音！
+速搶救靈魂！
+請你看千萬人天天沉淪！
+莫塞住憐憫心，
+莫看重金銀，
+鬆開手，傳福音，
+趁著現今。</stanza>
+	<stanza type="chorus" number="">速興起傳福音！
+速搶救靈魂！
+你為何仍忍心，
+看人沉淪？</stanza>
+  </lyrics>
+</hymn>

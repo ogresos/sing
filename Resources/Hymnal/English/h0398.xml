@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O to be like Thee</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Likeness to Christ</category>
+  <numbers><cebuano num="398"/><chinese num="301"/><english num="398"/><french num="70"/><german num="398"/><korean num="301"/><portuguese num="194"/><russian num="79"/><spanish num="175"/><tagalog num="398"/></numbers>
+  <creators>
+	<author biodate="1866-1960" biolink="">Thomas Obediah Chisholm</author>
+	<composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>10.9.10.9.D.</meter>
+  <hymncode>1355567153</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - - | C - Am | G - G7 | C - F/C | C - - | G/D - D7 | G - - | F - F/A | C - - | Dm - G7 | C - C7 | F - - | C/E - Am | C/G - G7 | F/C C - |</chords>
+  <guitarChords>| C - - | C - F | C - - | C - - | G - - | C - F | C - - | D7 - - | G - C | F - - | C - - | G - G7 | C - C7 | F - - | C - - | C - G7 | C - - |</guitarChords>
+  <melody>| 0 - {1/ 3/ 5/} | 5 5 {6/ 7/ ._1/} | 5 3 {1/ 3/ 5/} | 5 3 {3/ 4/ 3/} (break) | 2 - {1/ 3/ 5/} | 5 5 {6/ 7/ ._1/} | 5 3 {5/ 4/ 3/} | 2 ._1 {._1/ 7/ 6/} (break) | (.5 - (Chorus) {5/ 4#/ 5/} | 6 4 {._1/ 7/ 6/} | 6 5 {5/ 4/ 3/} | 4 4 {6/ 5/ 4/} (break) | 3 - {5/ 4#/ 5/} | 6 4 {._1/ 7/ 6/} | 6 5 {1/ 3/ 5/} | 5 3 {3/ 1/ 2/} | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>O to be like Thee! bless -- ed Re -- deem -- er; This is my con -- stant long -- ing and prayer; Glad -- ly I'll for -- feit all of earth's trea -- sures, Je -- sus, Thy per -- fect like -- ness to wear. O to be like Thee! O to be like Thee! Bless -- ed Re -- deem -- er, pure as Thou art; Come in Thy sweet -- ness, come in Thy full -- ness; Stamp Thine own i -- mage deep on my heart.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj134.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="49">e0398_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O to be like Thee! blessed Redeemer;
+This is my constant longing and prayer;
+Gladly I'll forfeit all of earth's treasures,
+Jesus, Thy perfect likeness to wear.</stanza>
+	<stanza type="chorus" number="">O to be like Thee! O to be like Thee!
+Blessed Redeemer, pure as Thou art;
+Come in Thy sweetness, come in Thy fullness;
+  Stamp Thine own image deep on my heart.</stanza>
+	<stanza type="verse" number="2">O to be like Thee! full of compassion,
+Loving, forgiving, tender and kind,
+Helping the helpless, cheering the fainting,
+Seeking the wand'ring sinners to find.</stanza>
+	<stanza type="verse" number="3">O to be like Thee! lowly in spirit,
+Holy and harmless, patient and brave;
+Meekly enduring cruel reproaches,
+Willing to suffer, others to save.</stanza>
+	<stanza type="verse" number="4">O to be like Thee! Lord, I am coming,
+Now to receive th' anointing divine;
+All that I am and have I am bringing;
+Lord, from this moment all shall be Thine.</stanza>
+	<stanza type="verse" number="5">O to be like Thee! While I am pleading
+Pour out Thy Spirit, fill with Thy love.
+Make me a temple meet for Thy dwelling,
+Fit for a life which Thou wouldst approve.</stanza>
+  </lyrics>
+</hymn>

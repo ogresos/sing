@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Auf den Berg, oh Retter, führ mich</title>
+  <index>true</index>
+  <category>SEHNSUCHT&amp;mdash;Nach Gemeinschaft mit Christus</category>
+  <numbers><cebuano num="378"/><chinese num="285"/><english num="378"/><german num="378"/><korean num="285"/><russian num="454"/><tagalog num="378"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <melody>| 0 - - - 5. 6/ | 5 - - ._3 ._2 ._1 | 7 6 - - 6. 6/ | ._2 - - ._1 7 ._1 | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 (break) | ._1 - - - (Chorus) ._1. ._1/ | ._4 - - ._4 ._4 ._4 | ._4 ._3 - - ._3. ._3/ | ._3 - - ._2 6. ._2/ | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 | ._1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>Auf den Berg, oh Ret -- ter, führ mich, Wo wir se -- hen Dich al -- lein, Wo wir hö -- ren Dei -- ne Stim -- me, Wo die Luft ist klar und rein. Führ mich hö -- her auf den Berg, Herr, Schenk mit Dir Ge -- mein -- schaft dort; Durch Dein Licht seh ich die Quel -- le, Die mich wäscht im Blut und Wort.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="378"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Auf den Berg, oh Retter, führ mich,
+Wo wir sehen Dich allein,
+Wo wir hören Deine Stimme,
+Wo die Luft ist klar und rein.</stanza>
+	<stanza type="chorus" number="">Führ mich höher auf den Berg, Herr,
+Schenk mit Dir Gemeinschaft dort;
+Durch Dein Licht seh ich die Quelle,
+Die mich wäscht im Blut und Wort.</stanza>
+	<stanza type="verse" number="2">Höher führ, wo Licht verstärkt ist,
+Wo die Welt ist fern von mir,
+Kein Anstrengen mehr ermüdet,
+Herrsch im Leben Christi hier.</stanza>
+	<stanza type="verse" number="3">Auf dem Berg, oh Retter, halt mich,
+Und zum Ziel bring mich voran,
+Bis wir völlig eins in Dir sind,
+Dich in Liebe beten an.</stanza>
+  </lyrics>
+</hymn>

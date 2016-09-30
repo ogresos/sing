@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>沈彤</firstname>
+  <lastname/>
+  <email>franciosechine@gmail.com</email>
+  <password>$2y$10$nqUTQw/pZKiH4Imyw4x8Mef8tU6Lswkwy3t3coy/bifXZRTJ436i2</password>
+  <gender/>
+  <country>Taiwan</country>
+  <ipaddress>123.195.255.185</ipaddress>
+  <createdate>2013-09-11 23:07:08</createdate>
+  <lastupdateddate>2016-02-22 03:38:21</lastupdateddate>
+  <lastlogindate>2016-02-22 03:38:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+    <fav category="default" type="ch" num="163">主你是神的愛子</fav>
+    <fav category="default" type="ch" num="443">何等榮耀何等神聖</fav>
+    <fav category="default" type="ts" num="212">你何微小</fav>
+    <fav category="default" type="ts" num="304">同往葡萄園去</fav>
+    <fav category="default" type="ts" num="216">喝！喫！看！</fav>
+    <fav category="default" type="ts" num="344">愛中牧養</fav>
+    <fav category="default" type="ts" num="836">清晨的日光</fav>
+    <fav category="default" type="ts" num="328">神聖羅曼史</fav>
+    <fav category="default" type="ch" num="568">禱告與主來往交通</fav>
+    <fav category="default" type="ch" num="169">耶穌耶穌最愛救主</fav>
+    <fav category="default" type="ts" num="301">耶穌！我愛你</fav>
+    <fav category="default" type="ts" num="303">至美的享受</fav>
+    <fav category="default" type="ch" num="275">親愛主寶貝主</fav>
+  </favourites>
+</user>

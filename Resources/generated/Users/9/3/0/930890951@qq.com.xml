@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anxin</firstname>
+  <lastname/>
+  <email>930890951@qq.com</email>
+  <password>$2y$10$3JAXe1M8AtBA1cB4eegjI.e9sCoE7vcH4dogz5F/k14Idv7HQUvPq</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>183.218.213.98</ipaddress>
+  <createdate>2014-10-28 14:35:27</createdate>
+  <lastupdateddate>2014-10-29 09:19:54</lastupdateddate>
+  <lastlogindate>2014-10-29 09:14:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="ns" num="483">My love is like a dove</fav>
+  </favourites>
+</user>

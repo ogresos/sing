@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tapat, halina, may tagumpay at saya</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKATAWANG-TAO</category>
+  <numbers><english num="85"/><tagalog num="85"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated by Frederick Oakeley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="85"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tapat, halina, may tagumpay at saya,
+Sa Betlehem pumaritong nagka-isa;
+Tingnan! Sa sabsaban, Diyos nakahiga!</stanza>
+    <stanza type="chorus" number="">O Kristo Panginoon! (3x)
+Mahalin!</stanza>
+    <stanza type="verse" number="2">Mga anghel, awit ng tagumpay laksan,
+Ibuhos papuri sa kalangitan,
+Sa ating Diyos, glorya sa kataasan.</stanza>
+    <stanza type="chorus" number="">O Kristo Panginoon! (3x)
+Mahalin!</stanza>
+    <stanza type="verse" number="3">Isinilang Ka para sa kaligtasan,
+O Hesus sambahin ang Iyong pangalan;
+Salita ng Ama na naging laman.</stanza>
+    <stanza type="chorus" number="">O Kristo Panginoon! (3x)
+Mahalin!</stanza>
+  </lyrics>
+</hymn>

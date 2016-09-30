@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sweet, sweet repose</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Peter Wang">P. W.</author>
+    <composer biodate="" biolink="" fullname="Peter Wang">P. W.</composer>
+  </creators>
+  <hymncode>33451154</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>118</tempo>
+  <chords>| C - - - | C - - - | F - - - | G7 - - - | C - - - | Dm - - - | Dm - - - | G7 - - - | G7 - - - | C - - - | F - - - | G - - - | Am - - - | Dm - - - | Dm - - - | G - - - | G7 - - - | C - - - | Am - - - | Em - - - | Em - - - | F - - - | F - - - | G - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 - 0/ 3/ 3/ 4/ | 5 ._1/ ._1/( ._1) 5/ 4/( | 4) - 0/ 4/ 2/ 3/ | 4 7/ 7/( 7/) 5 2/ | 3 ._1/ ._1/( ._1) 3/( 2/) | 3/( 2/)( 2)( - - | 2) - 0/ 2/ 2/ 3/( | 3) 4/( 3/) 2( - | 2) - - 2 | 3 ._1/ ._1/( ._1.) 3/ | 4 ._1/ ._1/( ._1.) 4/ | 5 ._2/ ._2/( ._2/) 5/ 5/ 5/ | 6 ._3/ ._3/( ._3.) 6/ | ._2/ ._3/( ._3/) ._2/( ._2/) 6/ ._2( | ._2) - - 0/ 6/ | ._2 ._3 ._4/ ._3/( ._3/) ._2/( (break) | ._2) (Chorus) ._3 ._3 ._3 | ._3( ._2/ ._1/)( ._1) - | 0. ._3/ ._2/( ._3/) ._2/ ._3/( | ._3.) ._3/ ._2/( ._3/) ._2/ ._3/( | ._3) ._3 ._3. ._4/ | ._4.( ._2/ ._1) - | 0. ._1/ ._1/ ._1/( ._1/) ._2/( | ._2.) ._3/ ._4/ ._3/( ._3/) ._2/( | ._2) ._3 ._3. ._1/ | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Are You the One who came from heav'n? The migh -- ty God who suf -- fered the curse of sin and died, And they pierced Your side. Rose from the grave, You're ev -- er new; You've sown in me the seed of life that grew From sin -- ner, poor and blind To New Je -- ru -- sa -- lem. I love You more With all my heart, with all my soul, (Oh, Love di -- vine) With all my strength, with all my mind; Sweet, sweet re -- pose.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="54">ns0052.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Are You the One who came from heav'n?
+The mighty God who suffered the curse of sin and died,
+And they pierced Your side.
+Rose from the grave, You're ever new;
+You've sown in me the seed of life that grew
+From sinner, poor and blind
+To New Jerusalem.</stanza>
+    <stanza type="chorus" number="">I love You more
+With all my heart, with all my soul,
+(Oh, Love divine)
+With all my strength, with all my mind;
+Sweet, sweet repose.</stanza>
+    <stanza type="verse" number="2">Are You the One my heart has known?
+Are You the One, my spirit has richly grown to love?
+Oh come, Beloved
+And with my lips, shall I confess
+That deep in You my heart found rest
+And peace as ocean's depth?
+Oh, fill me with Your breath!</stanza>
+  </lyrics>
+</hymn>

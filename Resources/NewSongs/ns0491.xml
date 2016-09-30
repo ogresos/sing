@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jehovah Bless You and Keep You</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;By the Trinity</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Terrance Tay">Adapted by T. T.</author>
+    <composer biodate="" biolink="" fullname="Terrance Tay">T. T.</composer>
+  </creators>
+  <hymncode>3343212321123217717</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Am - - - | Em - - - | F - - - | C - Am - | Em - - - | F - - - | G - - - | C - - - | C - F/C - | C - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | G - - - | C - - - | G7 - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| (startrepeat) 3 3/ 4/ 3 2/ 1/ | 2.( 3/) 2 - | 1 1/ 2/ 3 2/ 1/ | 7_. 7_./ 1/ 7_. - (break) | 6_. 6_. 6_. 4 | 3 - 1 - | 7_. 7_./ 1/ 2 1/ 7_./ (break) | 6_. 6_. 6_. 6_./ 1/ | 7_.( - 7_./) 7_./ 1/ 2/ | (alt1) 1 - - - | (alt2) 1( - - - (endalt) (break) | 1) - 0 (Chorus) 5/ 4/ | 3 3( 3) 5 | 2 - - 3/ 2/ | 1 1( 1) 2/( 3/) (break) | 7_. - - 5_./ 5_./ | 6_. 6_. 6_. 3 | 2 - 1 2 | 3 3( 3) 4/( 3/) (break) | 2 - - 5/ 4/ | 3 3( 3) 5 | 2 - - 3/ 2/ | 1 1( 1) 2/( 3/) (break) | 7_. - - 5_./ 5_./ | 6_. - 6_. 3 | 2 - 1 7_. | 1( - - - | 1) - - 0 ||</melody>
+  <notes>The Crystallization-Study of Genesis (3), Message 33, Outline Point IV.</notes>
+  <layout>
+    <singingstanza end="-1">Je -- ho -- vah bless you and keep you; Je -- ho -- vah make His face shine up -- on you And be gra -- cious to you; Je -- ho -- vah lift up His coun -- te -- nance up -- on you And give you peace. peace. God the Fa -- ther's keep -- ing; God the Son is shin -- ing; God the Spir -- it's coun -- te -- nance Cheer -- ing, up -- lift -- ing you; What a Tri -- une bless -- ing; God Him -- self dis -- pens -- ing, For your rich en -- joy -- ment All your days.</singingstanza>
+  </layout>
+  <music>
+      <midi location="ns" length="98">ns0491.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Jehovah bless you and keep you;
+Jehovah make His face shine upon you
+And be gracious to you;
+Jehovah lift up His countenance upon you
+And give you peace.</stanza>
+    <stanza type="note" number="">(Repeat verse)</stanza>
+    <stanza type="chorus" number="">God the Father's keeping;
+God the Son is shining;
+God the Spirit's countenance
+Cheering, uplifting you;
+What a Triune blessing;
+God Himself dispensing,
+For your rich enjoyment
+All your days.</stanza>
+  </lyrics>
+</hymn>

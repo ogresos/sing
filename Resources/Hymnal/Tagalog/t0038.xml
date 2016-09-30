@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kaloob ng Iyong pag-ibig</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTUBOS</category>
+  <numbers><chinese num="26"/><english num="38"/><korean num="26"/><tagalog num="38"/></numbers>
+  <creators>
+    <author biodate="1731-1800" biolink="">Translated from William Cowper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="38"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kaloob ng Iyong pag-ibig
+Wala nang hihigit,
+Kay Hesus at Kanyang dugo.
+Mabuting Ama ko.</stanza>
+    <stanza type="verse" number="2">Sa gayon ding pag-ibig Mo,
+Pa'nalig matamo;
+Kundi dahil sa biyaya
+Kami'y mawawala.</stanza>
+    <stanza type="verse" number="3">Higit Ka pang papurihan,
+Utang sa Iyo'ng tanan:
+Ang mahal na Manliligtas,
+Nagpamahal, lakas.</stanza>
+  </lyrics>
+</hymn>

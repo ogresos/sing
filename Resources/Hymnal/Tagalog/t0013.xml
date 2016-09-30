@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Diyos na pag-ibig at ilaw</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;BILANG PAG-IBIG AT ILAW</category>
+  <numbers><cebuano num="13"/><chinese num="6"/><english num="13"/><german num="13"/><korean num="6"/><portuguese num="9"/><russian num="6"/><spanish num="8"/><tagalog num="13"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5. 5/ 5./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Diyos na pag-ibig at ilaw,
+Sa Anak, Ika'y buhay;
+Inibig at tinanglawan
+Ako'y binigyang buhay.</stanza>
+	<stanza type="chorus" number="">Pag-ibig at ilaw!
+Sa Anak, Ika'y buhay,
+Inibig at tinanglawan
+Ako'y binigyang buhay.</stanza>
+	<stanza type="verse" number="2">Ang Iyong gawi ay ang ilaw,
+Iyong Sarili'y pag-ibig;
+Sa panlabas nga ay ilaw,
+Sa panloob, pag-ibig.</stanza>
+	<stanza type="verse" number="3">Ang pag-ibig sa biyaya
+Ang lubusang nahayag,
+Sa katotohanan naman
+Nahayag ang liwanag.</stanza>
+	<stanza type="verse" number="4">Sa pag-ibig Iyong sinugo
+Anak, maging buhay ko.
+Ang ilaw nagpaunawa
+Mabisa Kanyang dugo.</stanza>
+	<stanza type="verse" number="5">Dah'l sa pag-ibig, ang buhay
+Nagbigay salamuha;
+Dah'l sa ilaw natanggap ko
+Paglinis, salamuha.</stanza>
+	<stanza type="verse" number="6">Pagtanglaw at paglilinis
+Nagdala ng pagpahid,
+Esensiya Mo ay iragdag
+At buhay ng pag-ibig.</stanza>
+	<stanza type="verse" number="7">Sa pag-ibig, kami'y anak
+Tinatawag Kang Ama;
+Sa ilaw, dilim pinawi,
+Makawangis kami Niya.</stanza>
+	<stanza type="chorus" number="">Totoong liwanag!
+Pag-ibig at biyaya!
+Kami'y nagpapasalamat,
+Pumupuri sa Ama!</stanza>
+  </lyrics>
+</hymn>

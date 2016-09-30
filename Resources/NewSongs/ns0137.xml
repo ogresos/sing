@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I am baptized</title>
+  <index>true</index>
+  <category>Baptism&amp;mdash;Buried and Risen</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Peter Wang">P. W.</author>
+    <composer biodate="" biolink="" fullname="Peter Wang">P. W.</composer>
+  </creators>
+  <hymncode>611555432171217123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>160</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | C - - - | C - - - | F - - - | G - - - | F - - - | C - - - | Dm - - - | G - - - | C - - - | C/E - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 6_. 1 | 1 5_./ 5_./( 5_.) 5_. | 4/ 3/( 3/) 2/( 2) 1 | 7_./ 1/( 1/) 2/( 2) 7_. | 1 - 2 3( | 3) - - 5_. | 6_. 6_./ 6_./( 6_.) 1 | 2 3/ 2/( 2) 1 | 0 - 6_. 1 | 1 5_./ 5_./( 5_.) 5_. | 4/ 3/( 3/) 2/( 2) 1 | 7_./ 1/( 1/) 2/( 2) 7_. | 1 - 5 5( | 5) - - 1 | 2/ 3/( 3/) 2/( 2) 1 (break) | 2/ 3/( 3/) 2/( 2) (Chorus) 1 | 0 5 5/ 5/( 5/) 5/( | 5) 4/ 3/( 3) 2 | 4 3 2 1 | 7_. 1/ 2/( 2/)( 1/) 7_./ 1/( | 1) 5 5/ 5/( 5/) 5/( | 5) 4 3 2 | 4 3 2/ 1/( 1) | 7_. 1/ 2/( 2/)( 1/) 7_./ 1/( | 1) 5 5/ 5/( 5/) 5/( | 5) - - - | 0 - 1 1 | 2 3/ 2/( 2) 1 | 3 4/ 3/( 3) 4/ 3/( | 3) 4/ 3/( 3) 2/ 1/( | 1) - - - | 2 3/ 2/( 2) 7_./ 1/( | 1)( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>I won't say good -- bye Or e -- ven think a -- bout all that I've left be -- hind. This world is worth -- less in my mind; I've crossed the great di -- vide; No look -- ing back, there's no way back to my old life. To Christ I come, to Christ I go. I died to this world, but then He raised me, lift -- ed to The heav -- en -- ly And there I find His per -- fect peace; God and I live in Har -- mo -- ny. Riv -- er of life, flow -- ing free -- ly. Here I'll drink, and drink, and drink, and drink from Now to E -- ter -- ni -- ty.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="51">ns0137.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I won't say goodbye
+Or even think about all that I've left behind.
+This world is worthless in my mind;
+I've crossed the great divide;
+No looking back, there's no way back to my old life.
+To Christ I come, to Christ I go.</stanza>
+    <stanza type="chorus" number="">I died to this world, but then He raised me, lifted to
+The heavenly
+And there I find His perfect peace; God and I live in
+Harmony.
+River of life, flowing freely.
+Here I'll drink, and drink, and drink, and drink from
+Now to Eternity.</stanza>
+    <stanza type="verse" number="2">Raining day and night
+While water rise, I'm safe inside my Christ the ark.
+This world is buried 'neath the dark,
+I've stepped into the light.
+His word I see, I trace the rainbow through the sky.
+To Christ I come, to Christ I go.</stanza>
+  </lyrics>
+</hymn>

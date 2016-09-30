@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My goal is God Himself</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For God</category>
+  <numbers><english num="nt:350"/><vsb num="201"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Frances Brook</author>
+    <composer biodate="" biolink="">Adapted from John D. Loudermilk</composer>
+  </creators>
+  <hymncode>12321612217</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <tempo>90</tempo>
+  <chords>| C - - | Am - - | Dm7 - - | G - - | C - - | Am - - | Dm7 - - | G - - | C - - | Am - - | Dm7 - - | G - - | C - - | Am - - | Dm7 - - | G7 - - | C - - |</chords>
+  <melody>| 0. 1/ 2/ 3/ | 2 1/ 6_. 1/ | 2. 2( 1/) | 7_. - - (break) | 0. 1/ 2/ 3/ | 6 5/ 3 1/ | 1. 1/( 2/ 3/) | 5_. - - (break) | 0. 1/ 2/ 3/ | 6 5/ 3 1/ | 1. 1/( 2/ 3/) | 5_. - - (break) | 0. 1/ 2/ 3/ | 2 1/ 6_. 1/ | 2. 2. | 3.( 3 2/ | 1.) 0. |</melody>
+  <layout>
+    <singingstanza>My goal is God Him -- self, not joy, nor peace, Nor e -- ven bless -- ing, but Him -- self, my God; 'Tis His to lead me there&amp;mdash; not mine, but His&amp;mdash; At a -- ny cost, dear Lord, by a -- ny road.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="relevant" category="h" num="350"></link>
+    <link type="relevant" category="nt" num="350b"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <audios>
+    <audio title="Instrumental (Guitar)" location="nt" length="254">e0350_new_guitar.mp3</audio>
+  </audios>
+  <music>
+    <midi location="nt" length="36">e0350_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My goal is God Himself, not joy, nor peace,
+Nor even blessing, but Himself, my God;
+'Tis His to lead me there&amp;mdash;not mine, but His&amp;mdash;
+At any cost, dear Lord, by any road.</stanza>
+    <stanza type="verse" number="2">So faith bounds forward to its goal in God,
+And love can trust her Lord to lead her there;
+Upheld by Him, my soul is following hard
+Till God hath full fulfilled my deepest prayer.</stanza>
+    <stanza type="verse" number="3">No matter if the way be sometimes dark,
+No matter though the cost be oft-times great,
+He knoweth how I best shall reach the mark,
+The way that leads to Him must needs be strait.</stanza>
+    <stanza type="verse" number="4">One thing I know, I cannot say Him nay;
+One thing I do, I press towards my Lord;
+My God my glory here, from day to day,
+And in the glory there my great Reward.</stanza>
+  </lyrics>
+</hymn>

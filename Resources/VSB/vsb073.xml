@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He who is joined to the Lord is one spirit</title>
+  <index>true</index>
+  <category>Various Aspects of the Inner Life&amp;mdash;The Two Spirits as One</category>
+  <numbers><english num="lb:62"/><vsb num="73"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Bob Freepartner">B. F.</author>
+    <composer biodate="" biolink="" fullname="Bob Freepartner">B. F.</composer>
+  </creators>
+  <hymncode>35556354332</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/G - | C - C/E - | G - G/D - | G - G/D - | G - G/D - | G - G/B - | C - C/G - | C - C/G - | C - C/G - | C - C/E - | F - F/C - | F - - - | Dm - - - | G7 - - - | C - C/G - | C - C/E - | Dm - Dm/A - | Dm - Dm/F - | G - G/D - | G - G7/B - | C - C/G - | C - C/G - | C - C/G - | C7 - C7/E - | F - - - | Dm7 - - - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 3/ 5/ 5/ 5/( 5/) 6/( 6/) 3/ | 5( - 5/) 4/ 3 | 3. 2/( 2)( - (break) | 2) - - 0/ 5/ | 7/ 7/ 7/ 7/( 7.) 7/ |7 7/ ._1/( ._1) ._2 | ._1. 5/( 5)( - | 5) - - 0 (break) | 3 5/ 5/( 5/) 5/ 6/ 3/ | 5 - - - | 6 6/ 6/( 6/) 5/( 5/) 4/ | 6 - 7 ._1 | ._2 - - - | ._2/ ._3/ ._2/ ._1/( ._1/) 6/ 7 (break) | (Chorus) 5 - - - | 3. 5/( 5) 6 | 5.( 2/)( 2)( - | 2) - - 0 (break) | 7 - - - | 5. 6/( 6) 7 | 6.( 5/)( 5)( - | 5) - - 0 (break) | ._1 - - - | 5 5 6 7b | 6( - - 7)( | ._1) - - 0 | 5 - - - | 6 5( 5) 7 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>He who is joined to the Lord is one spir -- it. Our life is a life that's in or -- ga -- nic u -- nion. As a branch is in the vine, Graft -- ed, His life and mine in -- ter -- twine. Lord, I am joined to You! One spir -- it with You; One spir -- it, not two. Lord, we are joined to You: One spir -- it... with You.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="60">lb62.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He who is joined to the Lord is one spirit.
+Our life is a life that's in organic union.
+As a branch is in the vine,
+Grafted, His life and mine intertwine.
+Lord, I am joined to You!</stanza>
+    <stanza type="chorus" number="">One spirit with You;
+One spirit, not two.
+Lord, we are joined to You:
+One spirit... with You.</stanza>
+    <stanza type="verse" number="2">Through resurrection the Lord is now the Spirit.
+Our spirit by Him has been regenerated.
+The Lord, the Spirit, mingling
+With our spirit, is the most wondrous thing.
+Our spirit's mingled, Lord!</stanza>
+    <stanza type="verse" number="3">Do you not know that our bodies
+    are Christ's members?
+This body's a temple of the Holy Spirit
+Who, from God, is now inside,
+Owning us that God may be glorified.
+Lord, we've been bought by You!</stanza>
+    <stanza type="verse" number="4">We are united with Christ in our spirit.
+He dwells within us
+    and makes His home in our heart,
+To our body giving life,
+Purified to be a member of Christ;
+Our every part is Christ!</stanza>
+  </lyrics>
+</hymn>

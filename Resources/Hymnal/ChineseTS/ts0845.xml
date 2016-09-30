@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>至於我和我家</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>36671765567</hymncode>
+  <key>A Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>那 些 愁 苦、 憂 慮 的 日 子， 已 經 一 去 不 再 回， 喜 樂 活 泉 潺 潺 流 不 止， 平 安 在 心 間， 不 消 退； 哦， 主 耶 穌， 我 感 謝 你， 這 都 是 因 你 的 憐 憫， 使 我 全 家 完 全 屬 你， 滿 享 神 的 救 恩。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0845.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">那些愁苦、憂慮的日子，
+已經一去不再回，
+喜樂活泉潺潺流不止，
+平安在心間，不消退；
+哦，主耶穌，我感謝你，
+這都是因你的憐憫，
+使我全家完全屬你，
+滿享神的救恩。</stanza>
+	<stanza type="verse" number="2">我要宣告：
+至於我和我家，
+必定事奉耶和華，
+從大到小個個尊主為大，
+一心成全神計畫；
+哦，主耶穌，我讚美你，
+我的家作你的住處，
+惟願這家聖別歸你，
+多人因此蒙福。</stanza>
+  </lyrics>
+</hymn>

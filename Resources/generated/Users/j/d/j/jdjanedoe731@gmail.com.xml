@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>J</firstname>
+  <lastname/>
+  <email>jdjanedoe731@gmail.com</email>
+  <password>$2y$10$VAYPg.a/78NtjmbHT2IZAOxYehSWbvJ0xMVpdN1mzXvSc8T1KBbCi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.204.182.192</ipaddress>
+  <createdate>2016-03-07 13:21:49</createdate>
+  <lastupdateddate>2016-03-08 01:25:39</lastupdateddate>
+  <lastlogindate>2016-03-08 00:09:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="c" num="163">Now unto the King eternal, immortal, invisible</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+  </favourites>
+</user>

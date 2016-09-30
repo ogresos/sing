@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stanislav</firstname>
+  <lastname>Velicky</lastname>
+  <email>slavek.sv@gmail.com</email>
+  <password>$2y$10$NExobUd1eI5B63K01gbGluRR6132VylrzeLU76hvv0fzPxLeLaGmG</password>
+  <gender/>
+  <country>cz</country>
+  <ipaddress>78.45.0.44</ipaddress>
+  <createdate>2014-11-17 22:15:34</createdate>
+  <lastupdateddate>2014-11-17 22:16:51</lastupdateddate>
+  <lastlogindate>2014-11-17 22:16:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

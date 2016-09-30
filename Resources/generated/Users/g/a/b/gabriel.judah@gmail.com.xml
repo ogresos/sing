@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>JUDAH</firstname>
+    <lastname>GABRIEL</lastname>
+    <email>gabriel.judah@gmail.com</email>
+    <password>ZuV95bsnH4Dgj1rWb9sxug%3D%3D</password>
+    <gender>M</gender>
+    <country>in</country>
+    <ipaddress>122.169.24.161</ipaddress>
+    <createdate>2012-03-17 14:46:07</createdate>
+    <lastupdateddate>2012-04-26 23:06:34</lastupdateddate>
+    <lastlogindate>2012-04-06 13:49:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="564">I have learned the wondrous secret</fav>
+        <fav category="default" type="h" num="211">Jesus, my Savior! Thou art mine</fav>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="h" num="403">Live Thyself, Lord Jesus, through me</fav>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+        <fav category="default" type="ns" num="217">There's a life that's deeper than our mind</fav>
+        <fav category="default" type="h" num="1096">Tis the local church proclaiming</fav>
+    </favourites>
+</user>

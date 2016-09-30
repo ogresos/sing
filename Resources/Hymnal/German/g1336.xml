@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Was soll ich Jehova geben</title>
+  <index>true</index>
+  <category>SCHRIFTSTELLEN ZUM SINGEN</category>
+  <numbers><english num="1336"/><french num="9336"/><german num="1336"/><russian num="187"/></numbers>
+  <melody>| 0 3 3 3/ 3/ | 4 - 5.( 4/) | 3.( 2/) 1( - | 1) - - - (break) | 0 1 1 - | 0 2 2 - | 0 3 3 3 | 4 - 3 - | 2( - - - | 2) - - - (break) | 0 3 3 3 | 4 - 5. 4/ | 3.( 2/) 1( - | 1) - - - (break) | 0 1 1 - | 0 2 2 - | 0 3 3 3 | 4. 3/ 2 - | [2/4] 2. 5/ | [4/4] 3 - - - | 3 - - - |</melody>
+  <layout>
+	<singingstanza>Was soll ich Je -- ho -- va ge -- ben? So viel, so viel hat Er ge -- tan für mich. Ich nehm den Kelch der Er -- ret -- tung, Und ruf, und ruf, und ru -- fe an den Na -- men Je -- ho -- vas.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 116:12-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1336"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Was soll ich Jehova geben?
+So viel, so viel hat Er getan für mich.
+Ich nehm den Kelch der Errettung,
+Und ruf, und ruf, und rufe an den Namen Jehovas.</stanza>
+  </lyrics>
+</hymn>

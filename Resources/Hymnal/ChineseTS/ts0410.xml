@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主，我寶貝這生命的流</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><cebuano num="1191"/><chinese num="ts:410"/><english num="1191"/><german num="1191"/><portuguese num="310"/><russian num="117"/><spanish num="222"/><tagalog num="1191"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">Translated from R. K.</author>
+  </creators>
+  <melody>| 0 - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | 4 5 4 | 3( - - (break) | 3) - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | ._4 ._3 ._2 | ._1( - - (break) | ._1) - (Chorus) 7/ ._1/ | ._2. ._2/ ._2 | ._2 ._1 7 | ._1( - - | ._1) - ._1/ 7/ | 6. 6/ 6 | ._1 7 6 | 5( - - (break) | 5) - 5/ ._1/ | ._3. ._3/ ._3 | ._3 ._4 ._3 | 6( - - | 6) - ._4/ ._4/ | ._3. ._2/ ._1 | 5 7 ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>從 我 靈 裡 深 處， 有 生 命 水 湧 流， 是 三 一 神 在 我 裡 面 流。 父 神 乃 是 源 頭， 主 基 督 乃 是 河， 靈 是 流， 分 賜 生 命 給 我。 主， 我 寶 貝 這 生 命 的 流， 我 的 魂 生 命 不 再 保 留； 哦 主， 加 深 這 生 命 的 流， 願 你 來 時 我 生 命 成 熟。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="618"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">從我靈裡深處，
+有生命水湧流，
+是三一神在我裡面流。
+父神乃是源頭，
+主基督乃是河，
+靈是流，分賜生命給我。</stanza>
+	<stanza type="chorus" number="">主，我寶貝這生命的流，
+我的魂生命不再保留；
+哦主，加深這生命的流，
+願你來時我生命成熟。</stanza>
+	<stanza type="verse" number="2">在鮮嫩草地上，
+在可安歇水邊，
+跟羊群的腳蹤享受主。
+不用勉強掙扎，
+徒然自討苦喫，
+在流裡我就全然蒙福！</stanza>
+	<stanza type="verse" number="3">藉著血我坦然
+進前到至聖所，
+活在祂面前─聯於源頭。
+阿利路亞，祂說，
+切不可離開我，
+當住我裡頭─一直交流。</stanza>
+  </lyrics>
+</hymn>

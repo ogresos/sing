@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Jones</lastname>
+    <email>david.jonathan.jones@googlemail.com</email>
+    <password>$1$q77y3eFL$sbHEh5pkJvSTD7oBKTVlA.</password>
+    <gender>M</gender>
+    <country>United Kingdom</country>
+    <ipaddress>77.100.254.143</ipaddress>
+    <createdate>2009-02-11 13:50:20</createdate>
+    <lastupdateddate>2012-06-28 07:22:20</lastupdateddate>
+    <lastlogindate>2012-06-28 07:22:20</lastlogindate>
+    <failedlogincount>1</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="10">Cast all your anxiety on Him</fav>
+        <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+        <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+        <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="ns" num="48">God wants someone to love Him</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+        <fav category="default" type="ns" num="65">I love God because...</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="h" num="1131">In a low dungeon, hope we had none</fav>
+        <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+        <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+        <fav category="default" type="ns" num="194">Lord, You are the living spring</fav>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+        <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+        <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="ns" num="311">Two Greatest Prayers of Paul</fav>
+        <fav category="default" type="ns" num="138">What things were gains to me</fav>
+        <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+    </favourites>
+</user>

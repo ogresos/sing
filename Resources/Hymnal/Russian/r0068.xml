@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Спаситель дорогой</title>
+  <index>true</index>
+  <category>УВЕРЕННОСТЬ И РАДОСТЬ СПАСЕНИЯ&amp;mdash;СПАСЕНИЕ БЛАГОДАТЬЮ</category>
+  <numbers><english num="317"/><russian num="68"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from A. Hudson</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 5 4 3 | 5 - - ._1 | ._1 ._1 7 6 | 5 - - 5 (break) | 7 7 6 5 | ._1 - - ._1 | ._1 ._1 7 6 | ._2 - - 0 (break) | (Chorus) ._3 - ._4 - | ._3 - - ._2 | ._1 - 7 6 | 5 - - 0 (break) | ._1 - ._3 ._5 | ._5( ._4) ._3 ._2 | ._1 - 7 7 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Спа -- си -- тель до -- ро -- гой, Так слад -- ко по -- вто -- рять, Что ны -- не стал Ты мой, Свя -- то -- е и -- мя звать. Мой! Мой! Мой! Я зна -- ю, Ты_– мой!  О, мой Спа -- си -- тель, Я зна -- ю, Ты_– мой!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="317"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Спаситель дорогой,
+Так сладко повторять,
+Что ныне стал Ты мой,
+Святое имя звать.</stanza>
+    <stanza type="chorus" number="">Мой! Мой! Мой!
+Я знаю, Ты – мой!
+О, мой Спаситель,
+Я знаю, Ты – мой!</stanza>
+    <stanza type="verse" number="2">Ты друг всех тех, чей вопль
+Из мрака грешных дней
+Летит. И я прощён
+По благости твоей.</stanza>
+    <stanza type="verse" number="3">Твой всепрощенья глас
+Мне сердце растопил.
+И мир, и радость я
+Чрез слово получил.</stanza>
+    <stanza type="verse" number="4">О, дай мне петь хвалу
+Тебе лишь одному.
+Я знаю, что я – Твой,
+По слову Твоему.</stanza>
+  </lyrics>
+</hymn>

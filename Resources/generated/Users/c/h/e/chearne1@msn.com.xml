@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Clifford</firstname>
+  <lastname>Hearne</lastname>
+  <email>chearne1@msn.com</email>
+  <password>$2y$10$KGNvx5lTOJni7kwCT8K6o..5lL/10em/fictMCo25y9dr3I.rFq8q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.199.133.184</ipaddress>
+  <createdate>2015-02-19 18:12:17</createdate>
+  <lastupdateddate>2015-02-24 16:09:03</lastupdateddate>
+  <lastlogindate>2015-02-24 15:31:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="1357">What joy fills my heart</fav>
+  </favourites>
+</user>

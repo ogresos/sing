@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>huilin</firstname>
+  <lastname/>
+  <email>zhhuilinsmile@gmail.com</email>
+  <password>$2y$10$EsJXTDR8uoDx0NO8V2/jiuBMoREZsLXXflVAAlSiiQC.UyrlU7EHS</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>74.64.100.220</ipaddress>
+  <createdate>2014-04-05 20:48:15</createdate>
+  <lastupdateddate>2016-01-18 16:00:40</lastupdateddate>
+  <lastlogindate>2016-01-18 16:00:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="33">Father, long before creation</fav>
+  </favourites>
+</user>

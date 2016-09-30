@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I know not what awaits me (Alternate)</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Trusting the Lord</category>
+  <creators>
+    <author biodate="" biolink="">Mary G. Brainard</author>
+    <composer biodate="" biolink="" fullname="Sarah Chappelle">S. C.</composer>
+  </creators>
+  <hymncode>53321171123211</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | C - - - | G7 - - - | Am - - - | F - - - | C - - - | G7 - - - | Am - - - | F - - - | C - - - | G7 - - - | Am - - - | F - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | C - - - | C - - - ||</chords>
+  <melody>| 0. 5_./ 3 3 | 2 1/ 1/( 1) 7_./( 1/)( | 1) - - 1 | 2 3 2 1/ 1/( (break) | 1.) 5_./ 3 5 | 4/ 3 2/ 2 1/ 1/( | 1) - - 1 | 2 3 2 1/ 1/( (break) | 1.) 5_./ 3 5 | 4 3/ 2/( 2) 1/ 1/( | 1) - - 1 | 2 3 2 1/ 1/( | 1 - - - | 1) - - - (break) | (Chorus) 0 - 3/ 4/ 5 | 5/( 4) 4/( 3) 3 | 3( 2/) 1/( 1)( - | 1) - - - (break) | 0. 5_./ 3 5 | 5/( 4. 4) 3 | 3( 2/)( 1/)( 1)( - | 1) - - - (break) | 0. 5_./ 3 5 | 5/( 4) 4/( 3) 3 | 3 2/ 1/( 1)( - | 1) - - 1 (break) | 1 - - 1 | 7_. - - 1( | 1) 1( - - | 1) - - 1 (break) | 1 - - 1 | 7_. - - 1( | 1) 1( - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>I know not what a -- waits me, God kind -- ly veils my eyes, And o'er each step of my on -- ward way He makes new scenes to rise; And ev -- ery joy He sends me comes A sweet and glad sur -- prise. Where He may lead me I'll fol -- low, My trust in Him re -- pose; And ev -- ery ho -- ur in per -- fect peace, I'll sing, "He knows, He knows", I'll sing, "He knows, He knows."</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="711"></link>
+    <link type="relevant" category="nt" num="711"></link>
+  </links>
+  <music>
+    <midi location="nt" length="68">e0711b_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I know not what awaits me,
+  God kindly veils my eyes,
+And o'er each step of my onward way
+  He makes new scenes to rise;
+And every joy He sends me comes
+  A sweet and glad surprise.</stanza>
+    <stanza type="chorus" number="">Where He may lead me I'll follow,
+  My trust in Him repose;
+And every hour in perfect peace,
+  I'll sing, "He knows, He knows",
+  I'll sing, "He knows, He knows."</stanza>
+    <stanza type="verse" number="2">One step I see before me,
+  'Tis all I need to see,
+The light of heaven more brightly shines
+  When earth's illusions flee;
+And sweetly through the silence comes,
+  His loving, "Trust in Me!"</stanza>
+    <stanza type="verse" number="3">Oh, blissful lack of wisdom,
+  'Tis blessed not to know;
+He holds me with His own right hand,
+  And will not let me go,
+And lulls my troubled soul to rest
+  In Him who loves me so.</stanza>
+    <stanza type="verse" number="4">So on I go not knowing;
+  I would not if I might;
+I'd rather walk in the dark with God
+  Than go alone in the light;
+I'd rather walk by faith with Him
+  Than go alone by sight.</stanza>
+  </lyrics>
+</hymn>

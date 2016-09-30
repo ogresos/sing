@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elizabeth</firstname>
+  <lastname>Felix</lastname>
+  <email>elifeli05@gmail.com</email>
+  <password>$2y$10$Ds6v8KX5NIbnH7J7tTKoU.u5ojHXXhBg05yUZUjamXM/c.CeiLf22</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>32.212.114.20</ipaddress>
+  <createdate>2015-05-01 10:40:39</createdate>
+  <lastupdateddate>2015-07-31 15:57:13</lastupdateddate>
+  <lastlogindate>2015-07-31 15:57:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="559">Savior, I by faith am touching Thee</fav>
+    <fav category="default" type="nt" num="378">Savior, lead me up the mountain</fav>
+    <fav category="default" type="h" num="189">Thou art the Son beloved</fav>
+  </favourites>
+</user>

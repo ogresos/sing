@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kinabuhi ang Dios nga Amahan</title>
+  <index>true</index>
+  <category>PAGSINATI SA DIOS&amp;mdash;INGON NGA KINABUHI</category>
+  <numbers><cebuano num="1193"/><chinese num="ts:141"/><dutch num="2"/><english num="1193"/><french num="122"/><german num="1193"/><russian num="369"/><spanish num="223"/></numbers>
+  <melody>| 3/ 3/ 3/ 4/ | 5/ 5/ 5/ 6/ | 3/( 2/) 1( | 1) - | 4/ 4/ 4/ 5/ | 6/ 6/ 5/ 4/ | 5( - | 5) - (break) | 7/ 7/ 6/ 6/ | 5. 4/ | 3/ 6/ 5/ 3/ | 1 - | 4/ 4/ 5/ 6/ | 5/ 5/ 3/ 2/ | 1( - | 1) - |</melody>
+  <music>
+	<midiref type="h" num="1193"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kinabuhi ang Dios nga Amahan,
+Cristong niagayng Espiritu,
+Kalami ning Personaha, maayo!
+Datong kinabuhi nato S'ya.</stanza>
+	<stanza type="verse" number="2">Gipanganak na kita pag-usab
+Sa pagdawat Kaniyang buhi.
+Gisudlan kita's laing kinabuhi,
+Karon napuno kita Niya.</stanza>
+	<stanza type="verse" number="3">S'yang buhing Espiritu's sulod ta,
+Sa espiritu ngadto's kalag,
+Moagay, magtransporma's matag bahin,
+Sa kinabuhing ipaambit.</stanza>
+	<stanza type="verse" number="4">Karon mobulig gayud ta Niya.
+Hunahuna itumong's Anak.
+Magpahilayo's tanang magpasaag,
+Itumong ra N'ya tibu'k kalag.</stanza>
+	<stanza type="verse" number="5">Ginoo, nia Ka's espiritu.
+Apan buhaton pang tuyo Mo;
+Kon b'yaan nang hunahunang nagkatag,
+'Palgang kinabuhi'g kalinaw.</stanza>
+	<stanza type="verse" number="6">Bihaga tanang hunahuna ko,
+Datong magpa'mulos' Pulong Mo;
+Hunahuna magpabilin sa Pulong,
+Sangkapan Mo ug balaanon.</stanza>
+	<stanza type="verse" number="7">Padayon nga buhatong pag-apply,
+Ning kinabuhing magtagad N'ya.
+Daygon S'ya's paagi's pagkinabuhi!
+Hunahuna itumong Nimo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hingahan Mo ako</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGTATAYO</category>
+  <numbers><chinese num="605"/><english num="842"/><korean num="605"/><portuguese num="383"/><tagalog num="842"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="842"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hingahan Mo ako,
+Ibangon 'spiritu;
+Sa kamatayan iligtas,
+Buhay mapalakas.</stanza>
+    <stanza type="verse" number="2">Ako'y Iyong hingahan,
+Bigyang kalakasan,
+Tulad agilang may pakpak
+Di pagod, lalakad.</stanza>
+    <stanza type="verse" number="3">Ako'y hingahan Mo,
+Mapahinga ako;
+'Spiritu't puso may asa
+D'hil sa Iyo'y masaya.</stanza>
+    <stanza type="verse" number="4">Hingahan Mo ako,
+Nang mapunuan Mo!
+Salita't gawa'y si Kristo
+Di na sarili ko.</stanza>
+    <stanza type="verse" number="5">Ako'y Iyong hingahan
+Pagsosolo'y wak'san;
+Mga banal kasamahan,
+Ma'tayo Katawan.</stanza>
+  </lyrics>
+</hymn>

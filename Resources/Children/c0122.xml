@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'd Like to be Found Faithful</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Being Faithful</category>
+  <hymncode>65616561123232</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | G - - - | F - - - | C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | G - - - | F - G7 - | C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 0/ 6_./ | 5_. 6_. 1. 6_./ | 5_. 6_. 1. 1/ | 2 3 2 3 (break) | 2 - - 0/ 3/ | 2 3 5. 3/ | 2 3 5. 3/ | 1 2 1 6_. (break) | 5_. - - 0/ 6_./ | 5_. 6_. 1. 6_./ | 5_. 6_. 1. 1/ | 2 3 2 3 (break) | 2 - - 0/ 3/ | 2 3 5. 3/ | 2 3 5. 3/ | 1 2 1 6_. (break) | 1 (Chorus) 3/ 3/ 4/ 3. | 1( - - - | 1) 1/ 1/ 1/ 7_./( 7_./) 1/ | 2( - - - (break) | 2) 1/ 1/ 1/( 7_./)( 7_./) 1/ | 2( - - - | 2) 2/ 2/ 4 3 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>I'd like to be found faith -- ful in All of the lit -- tle things, My shoes and socks, my toys and blocks En -- trust -- ed un -- to me. Then when I'm grown, the seeds I've sown Will sprout for all to see. I've faith -- ful been with what was giv'n, You can give more to me! Be the faith -- ful ones In the lit -- tl -- est things, In the big -- gest things! Be the faith -- ful ones.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="44">c0122.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I'd like to be found faithful in
+All of the little things,
+My shoes and socks, my toys and blocks
+Entrusted unto me.
+Then when I'm grown, the seeds I've sown
+Will sprout for all to see.
+I've faithful been with what was given,
+You can give more to me!</stanza>
+    <stanza type="chorus" number="">Be the faithful ones
+In the littlest things,
+In the biggest things!
+Be the faithful ones.</stanza>
+  </lyrics>
+</hymn>

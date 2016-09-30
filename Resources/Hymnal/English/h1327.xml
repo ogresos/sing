@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Once I thirsted for a fountain</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><cebuano num="1327"/><chinese num="ts:825"/><english num="1327"/><french num="211"/><german num="1327"/><korean num="957"/><lsmyp num="314"/><spanish num="492"/><tagalog num="1327"/></numbers>
+  <creators>
+	<composer biodate="1940/41" biolink="">Sholom Secunda</composer>
+  </creators>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>367123671236432123</hymncode>
+  <key>D Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - E - | Am - E - | Am - Dm - | F - E - | Am - E - | Am - E - | Am - Dm - | E - Am - | G - G7/B - | C - - - | G - G7/B - | C - - - | G - G7/B - | C G Am Dm/F | Am/E - E - | Am - - - | E/G# - E - | Am - - - | G - G7/B - | C - - - | E/G# - E - | Am - - - | Dm - Am/E E7 | Am Dm/A Am - |</chords>
+<guitarChords>| Am - E - | Am - E - | Am - Dm - | Dm - E - | Am - E - | Am - E - | Am - Dm - | E - Am - | G - G7 - | C - - - | G - G7 - | C - - - | G - G7 - | Am - - - | E - - - | Am - - - | E - - - | Am - - - | G - G7 - | C - - - | E - - - | Am - - - | E - E7 - | Am - - - |</guitarChords>
+  <melody>| 3 6_. 7_./( 1/) 2 | 3 6_. 7_./( 1/) 2 | 0 3/ 3/ 4 3/ 2/ | 1 2 3 - (break) | 3 6_. 7_./( 1/) 2 | 3 6_. 7_./( 1/) 2 | 0 3/ 3/ 4 3/ 2/ | 1 7_. 6_. - (break) | 0 5/ 5/ 5. 4/ | 3/( 2/) 1 - - | 0/ 2/ 2/ 2/ 5 4 | 3 - - - (break) | 0/ 2/ 2/ 2/ 5. 4/ | 3 2 1 2 | 0 3/ 2/ 1/ 7_.. | 6_. 6_./ 7_./ 1 6_. (break) | 7_./ 7_./ 7_./ 7_./ 2 7_. | 1/( 2/) 3 - - | 2/ 2/ 2/ 2/ 5 4 | 3 - - - (break) | 7_. 7_./ 1/ 2 7_. | 1/( 2/) 3 - - | 3/ 7_./ 1/ 2/ 1 7_. | 6_. - - - |</melody>
+  <layout>
+	<singingstanza>Once I thirst -- ed for a foun -- tain, Some -- thing deep that would sat -- is -- fy, But the foun -- tain that I'd drink from, Left me search -- ing and still so dry. Then one day I found Him, He sat -- is -- fied my thirst, Be -- came in me a deep -- er source Whence liv -- ing wa -- ters burst. Now I drink Him! Je -- sus, Je -- sus is my life now, Je -- sus, Je -- sus is my life; I'm ful -- ly sat -- is -- fied now, Je -- sus, Je -- sus is my life.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj098.xml</link>
+  </links>
+  <music>
+	<midi location="hv" length="54">e1327.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Once I thirsted for a fountain,
+Something deep that would satisfy,
+But the fountain that I'd drink from,
+Left me searching and still so dry.
+  Then one day I found Him,
+  He satisfied my thirst,
+  Became in me a deeper source
+  Whence living waters burst.
+    Now I drink Him!
+  Jesus, Jesus is my life now,
+  Jesus, Jesus is my life;
+  I'm fully satisfied now,
+  Jesus, Jesus is my life.</stanza>
+	<stanza type="verse" number="2">After tasting such a fountain,
+Longed my heart for a place of springs;
+Caught a vision on a mountain,
+In Jerusalem's a gathering.
+  Then one day He found me,
+  He brought me to the church,
+  Pleasures here abound fore'er
+  I've given up my search.
+    Hallelujah!
+  Jesus, Jesus is my life now,
+  Jesus, Jesus is my life;
+  I'm fully satisfied now,
+  Jesus, Jesus is my life.</stanza>
+	<stanza type="verse" number="3">Empty wanderer drop the striving&amp;mdash;
+Isn't worth all the troublin';
+Open up your heart believing,
+Call "Lord Jesus" and He'll come in!
+  Then today you'll find Him,
+  And calling on His name,
+  You're joined to Him, you're one with Him&amp;mdash;
+  You'll never be the same.
+    You won't want to!
+  Jesus, Jesus is my life now,
+  Jesus, Jesus is my life;
+  I'm fully satisfied now,
+  Jesus, Jesus is my life.</stanza>
+  </lyrics>
+</hymn>

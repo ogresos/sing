@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ikaw ray takus, Ginoo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAKUS</category>
+  <numbers><cebuano num="182"/><chinese num="149"/><english num="182"/><korean num="149"/><portuguese num="87"/><tagalog num="182"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Mrs. J. A. Trench</author>
+  </creators>
+  <music>
+    <midiref type="h" num="182"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ikaw ray takus, Ginoo,
+Daygon's walay paghunong;
+Kay gugma, grasya'g kaayo,
+Labaw's among maisip.</stanza>
+    <stanza type="verse" number="2">Pasidunggan ang ngalan Mo,
+Uban's mga pagsimba;
+Mga kaluoy nagbaha,
+Bili Mo imantala.</stanza>
+    <stanza type="verse" number="3">Daygon! daygon! Manluluwas!
+Kusga, mga balaan,
+Daygon! hangtud sa himaya,
+Mahingpit Kan'ya magdayeg.</stanza>
+  </lyrics>
+</hymn>

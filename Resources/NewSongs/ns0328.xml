@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Follow the Lamb</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:328"/><lsmyp num="376"/></numbers>
+  <hymncode>12312351144443132</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G - G7 - | C - - - | C - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G - G7 - | C - - - | C - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G7 - - - | C - - - | Am - - - | F - Dm7 - | G - G7 - | C - - - ||</chords>
+  <melody>| 0 - - (Part_1) 1/ 2/ | 3 - 0 1/ 2/ | 3 5 - 0/ 1// 1// | {4 4 4} {4 3 1} | 3 2 0 {1/ 1/ 2/} | 3 - - 1/ 2/ (break) | 3 5 - - | 6. 6/ {6( 7) ._1} | ._1 7 - ._1/ 7/ | ._1 - - ._1/ 7/ | ._1 - - ._1/ 7/ | 6. 4/ {6 6 6} (break) | 7 - - ._1/ 7/ | ._1 - - ._1// ._1// 7/ | 6 - - ._1/ 7/ | 6. 4/ {6 6 6} | 7. 5/ {._2 ._1 7} | ._1 - - 0 (break) | (Part_2) 0 - - - | 0 1/ 7_./ 1 - | 0 1/ 2/ 2/ 1/ 0/ 1// 1// | {4 4 4} {4 3 1} | 3 2 0 - | 0 1/ 7_./ 1 - (break) | 0 1/ 2/ 2 1 | 4. 4/ {4( 5) 6} | 6 5 - - | 0/ 5// 5// 5/ 4/ 4/( 3/) 0 | 0 3/ 5/ 6/( 3/) 3/ 5/ | 4. 1/ {4 4 4} (break) | 5 - - 0 | 0 5/ 4/ 4/ 3/ 0 | 0/ 3/ 3/ 5/ 6 3/ 5/ | 4. 1/ {4 4 4} | 5. 5/ {5 5 4} | 3 - - 0 (break) | (Part_3) 0 - - - | ._1 - 5 - | 6 - 3 - | 6 - 6 6 | 5 - - 0 | ._1.( ._2/) ._1( 7) (break) | ._1( - 6) ._3/ ._3/ | ._4 - ._1 ._1 | ._2 - - 5 | 3 - 5 - | 6( - 3) - | 6 - 6 6 (break) | 7( 6) 5 2 | 3 - 5 - | 1 - - 3 | 4 - 4 3 | 2 2/ 2/ 5 4 | 3 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">And I saw, the Lamb stand -- ing, with a hun -- dred and for -- ty- four thou -- sand, Hav -- ing His name of His Fa -- ther writ -- ten on their fore -- heads. These are they, these are they, these are they who fol -- low the Lamb. These are they from a -- mong men, these are they who fol -- low the Lamb, who fol -- low the Lamb. And be -- hold, on Mount Zi -- on, with a hun -- dred and for -- ty- four thou -- sand, and the name of His Fa -- ther writ -- ten on their fore -- heads. Who are un -- de -- filed, with -- out guile. These are they who fol -- low the Lamb. Who were pur -- chased First -- fruits to God. These are they who fol -- low the Lamb, who fol -- low the Lamb. Those who fol -- low, fol -- low the Lamb, live and walk in the min -- gled spir -- it and are thus led, led by the Spir -- it con -- tin -- ual -- ly, con -- tin -- u -- al -- ly in their dai -- ly life.</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="ref">Revelation 14:1</link>
+    <link type="ref">Revelation 14:4</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="fe7FJ54kt3A"/>
+  </videos>
+  <music>
+    <midi location="ns" length="130">ns0328.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">S: And I saw,
+B:     And behold,
+S: The Lamb standing
+B:     On Mount Zion,
+All: With a hundred and forty-four thousand,
+S: Having His name
+B:     And the name
+S: Of His Father
+B:     Of His Father
+All: Written on their foreheads.</stanza>
+    <stanza type="verse" number="">S: These are they
+B:     Who are undefiled,
+S: These are they
+B:     Without guile.
+All: These are they who follow the Lamb.
+S: These are they
+B:     Who were purchased
+S: From among men,
+B:     Firstfruits to God.
+All: These are they who follow the Lamb, who follow the Lamb.</stanza>
+    <stanza type="verse" number="">Those who follow, follow the Lamb,
+Live and walk in the mingled spirit
+And are thus led, led by the Spirit
+Continually, continually in their daily life.</stanza>
+  </lyrics>
+</hymn>

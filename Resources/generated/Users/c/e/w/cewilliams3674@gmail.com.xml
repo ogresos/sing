@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Charles</firstname>
+    <lastname>Williams</lastname>
+    <email>cewilliams3674@gmail.com</email>
+    <password>fy3KQAHUphmsLvgdolmNsA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>24.32.19.47</ipaddress>
+    <createdate>2011-10-18 09:49:52</createdate>
+    <lastupdateddate>2012-04-02 23:48:05</lastupdateddate>
+    <lastlogindate>2012-04-02 23:48:05</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1032">Come, ye sinners, poor and wretched</fav>
+        <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    </favourites>
+</user>

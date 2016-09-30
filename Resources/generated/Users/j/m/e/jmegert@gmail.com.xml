@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>john</firstname>
+  <lastname/>
+  <email>jmegert@gmail.com</email>
+  <password>$2y$10$8mKjkBvgzty5W4oetjPdAuFV7BMKO3Qu.nIB6AKNhnLrbug/uA8/i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.199.244.90</ipaddress>
+  <createdate>2014-07-19 12:19:51</createdate>
+  <lastupdateddate>2016-08-21 13:15:01</lastupdateddate>
+  <lastlogindate>2016-07-25 18:59:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+    <fav category="default" type="h" num="1199">God's intention in this universe is with humanity</fav>
+    <fav category="default" type="h" num="474">I am one with Thee, Lord Jesus</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="h" num="438">I've turned my back upon the world</fav>
+    <fav category="default" type="h" num="1193">Life is God the Father in Christ Jesus</fav>
+    <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+    <fav category="default" type="h" num="190">O Lord, as we consider Thee</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="499">Oh, what a life! Oh, what a peace</fav>
+    <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="h" num="1205">Press on, press on toward the goal</fav>
+    <fav category="default" type="h" num="1150">We're feeding on the living bread</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jean</firstname>
+  <lastname>Naude</lastname>
+  <email>jean.naude@outlook.com</email>
+  <password>$2y$10$lZu8RJTW3u8hu1h8sclyn.M/TH/3CKBxQuqveAzDAtw1wgWSL910S</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>101.186.146.191</ipaddress>
+  <createdate>2016-01-21 12:59:17</createdate>
+  <lastupdateddate>2016-01-21 13:05:47</lastupdateddate>
+  <lastlogindate>2016-01-21 13:05:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

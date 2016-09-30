@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sem esperança, numa prisão</title>
+  <index>true</index>
+  <category>Reconciliados Com Deus</category>
+  <numbers><cebuano num="1131"/><chinese num="ts:856"/><english num="1131"/><german num="1131"/><korean num="984"/><portuguese num="160"/><russian num="408"/><spanish num="145"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. - | 7_./ 7_. 1/ 2 7_. | 1/ 1 6_./ 5_. - (break) | 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. 6_. | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - (break) | 4/ 4 4/ 4 4 | 3/ 3 2/ 1 - | 2/ 2 2/ 2/( 3/) 4 | 3/ 3 3/ 3 - (break) | 4/ 4 4/ 4 4 | 3/ 3 2/ 1 1 | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - |</melody>
+  <links>
+	<link type="ref">Romans 5:1-11</link>
+  </links>
+  <music>
+	<midiref type="h" num="1131"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sem esperança, numa prisão,
+Tentamos crer, mas sem convicção;
+Mas Deus, em Cristo, livrou-nos disso,
+E nos deu salvação!</stanza>
+	<stanza type="chorus" number="">O sangue fez-nos propiciação,
+Deus nos comprou por tal redenção;
+Não condenados; justificados,
+Temos paz com Deus!</stanza>
+	<stanza type="verse" number="2">Nascidos para a morte em Adão,
+Tão incuráveis e sem perdão;
+Deus mandou Cristo, pôs fim a isso ?
+Oh! que libertação!</stanza>
+	<stanza type="verse" number="3">Deus, ao pecado já condenou,
+Hoje, na graça, a fé nos firmou;
+Deus em nós cresce, té que Se expresse ?
+Que reconciliação!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako ang buhing tinapay</title>
+  <index>true</index>
+  <numbers><arabic num="ns:381ar"/><english num="ns:381"/><cebuano num="ns:381cb"/><estonian num="ns:381es"/><french num="ns:381f"/><portuguese num="ns:381p"/><tagalog num="ns:381tc"/></numbers>
+  <music>
+    <midiref type="ns" num="381"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Ako ang buhing tinapay nga nanaug gikan sa langit;
+bisan kinsa nga mokaon ning tinapaya, mabuhi s'ya hangtud sa dayon;</stanza>
+    <stanza type="verse" number="">Ug ang tinapay nga
+ihatag Ko 
+mao ang Akong unod,
+nga gihatag alang sa kinabuhi sa kalibutan.</stanza>
+    <stanza type="verse" number="">Ako ang buhing tinapay nga nanaug gikan sa langit;
+bisan kinsa nga mokaon ning tinapaya, mabuhi s'ya hangtud sa dayon.</stanza>
+    <stanza type="note" number="">The lyrics is sang continuously (where it should have been a second verse) to accommodate all the words of the entire verse.</stanza>
+  </lyrics>
+</hymn>

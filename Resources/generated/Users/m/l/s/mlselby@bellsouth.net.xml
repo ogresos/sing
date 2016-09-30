@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Mary</firstname>
+    <lastname>Selby</lastname>
+    <email>mlselby@bellsouth.net</email>
+    <password>Qk8zQ4Iu%2Bta%2B8j8%2BqCrTNw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>174.99.52.195</ipaddress>
+    <createdate>2012-03-23 05:44:45</createdate>
+    <lastupdateddate>2012-03-23 05:57:12</lastupdateddate>
+    <lastlogindate>2012-03-23 05:44:47</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1046">Almost persuaded</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="c" num="61">God is light, and in Him there is no darkness at all</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="877">I dare not be defeated</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    </favourites>
+</user>

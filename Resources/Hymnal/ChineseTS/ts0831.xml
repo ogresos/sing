@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>呼召</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3666671766771767</hymncode>
+  <key>A Minor</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>朋 友， 朋 友， 且 聽 這 呼 召， 不 住 地 臨 及 你 心 內； 祂 的 聲 音 是 何 等 柔 細， 卻 又 何 其 實 際。 祂 請 你 分 享 祂 的 愛 情， 來 經 歷 祂 超 越 的 豐 富， 祂 請 你 活 著 為 祂 旨 意， 讓 祂 能 藉 你 得 滿 足。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0831.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">朋友，朋友，
+且聽這呼召，
+不住地臨及你心內；
+祂的聲音是何等柔細，
+卻又何其實際。
+祂請你分享祂的愛情，
+來經歷祂超越的豐富，
+祂請你活著為祂旨意，
+讓祂能藉你得滿足。</stanza>
+	<stanza type="verse" number="2">我愛，我愛，
+這是何奇妙，
+你慈愛柔聲的細語，
+使我的心熔化在你裡，
+使我忘卻自己。
+不僅是一個蒙愛兒女，
+也能跟隨你堅定腳蹤，
+能作你朋友同你心意，
+讓你能藉我得滿足。</stanza>
+  </lyrics>
+</hymn>

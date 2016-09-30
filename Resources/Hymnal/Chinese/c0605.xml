@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>求主向我吹氣</title>
+  <index>true</index>
+  <category>召會－建造</category>
+  <numbers><chinese num="605"/><english num="842"/><korean num="605"/><portuguese num="383"/><tagalog num="842"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 2# 3 | 4 - 3 | 2 - - | 2 1# 2 | 3 - 2 | 1 - - (break) | 1 2 1 | 4 - 3 | 3 - 6_. | 2 - 1 | 7_. - 4 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>求 主 向 我 吹 氣， 使 我 沉 靈 復 起！ 脫 離 憂 悒， 勝 過 死 寂， 進 入 復 興 境 地。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="842"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">求主向我吹氣，
+使我沉靈復起！
+脫離憂悒，勝過死寂，
+進入復興境地。</stanza>
+	<stanza type="verse" number="2">求主向我吹氣，
+使我從新得力！
+作工不乏，行路不疲，
+展騰如駕雙翼。</stanza>
+	<stanza type="verse" number="3">求主向我吹氣，
+使我進入安息！
+靈有所賴，心有所倚，
+因你充滿歡喜。</stanza>
+	<stanza type="verse" number="4">求主向我吹氣，
+使我充滿了你！
+無論行動，或是起意，
+不再是我自己。</stanza>
+	<stanza type="verse" number="5">求主向我吹氣，
+使我活在身體！
+同眾聖徒建造一起，
+永遠不再獨立。</stanza>
+  </lyrics>
+</hymn>

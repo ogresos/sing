@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>恩深逾洋海</title>
+  <index>true</index>
+  <category>讚美主－祂的恩典</category>
+  <numbers><chinese num="137"/><english num="8137"/></numbers>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>恩 主 為 我 捨 棄 尊 貴， 為 我 降 世 處 卑 微， 為 我 飽 嘗 十 架 苦 味， 為 我 擔 當 所 有 罪。 恩 深 逾 洋 海， 真 報 答 不 來！ 惟 有 把 我 全 般 的 愛， 永 獻 我 主 宰。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">恩主為我捨棄尊貴，
+為我降世處卑微，
+為我飽嘗十架苦味，
+為我擔當所有罪。</stanza>
+	<stanza type="chorus" number="">恩深逾洋海，
+真報答不來！
+惟有把我全般的愛，
+永獻我主宰。</stanza>
+  </lyrics>
+</hymn>

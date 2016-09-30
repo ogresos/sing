@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌流寶血，成就平息</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><cebuano num="1131"/><chinese num="ts:856"/><english num="1131"/><german num="1131"/><korean num="984"/><portuguese num="160"/><russian num="408"/><spanish num="145"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. - | 7_./ 7_. 1/ 2 7_. | 1/ 1 6_./ 5_. - (break) | 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. 6_. | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - (break) | 4/ 4 4/ 4 4 | 3/ 3 2/ 1 - | 2/ 2 2/ 2/( 3/) 4 | 3/ 3 3/ 3 - (break) | 4/ 4 4/ 4 4 | 3/ 3 2/ 1 1 | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>前 困 深 牢 中， 全 然 無 望； 試 圖 要 相 信， 仍 舊 徬 徨。 耶 穌 一 顯 現， 天 光 照 明 亮； 大 愛 澆 灌 我 心， 神 今 住 我 心 房！ 耶 穌 流 寶 血， 成 就 平 息； 不 再 有 定 罪， 因 信 稱 義。 我 今 歸 與 神， 因 救 贖 永 定； 藉 著 耶 穌 基 督， 對 神 有 了 和 平！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1131"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">前困深牢中，全然無望；
+試圖要相信，仍舊徬徨。
+耶穌一顯現，天光照明亮；
+大愛澆灌我心，
+神今住我心房！</stanza>
+	<stanza type="chorus" number="">耶穌流寶血，成就平息；
+不再有定罪，因信稱義。
+我今歸與神，因救贖永定；
+藉著耶穌基督，對神有了和平！</stanza>
+	<stanza type="verse" number="2">生在亞當裏，奔向死亡；
+身心全受創，病入膏肓。
+神差祂兒子，了結舊亞當；
+罪、死不再得逞，祂死，我得釋放！</stanza>
+	<stanza type="verse" number="3">今在恩典中，喜樂歡暢；
+罪惡全消蹤，神在流淌。
+神長在我心，我享恩無量─
+在生命裏得救，在生命中作王！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wir preisen Dich, Gott</title>
+  <index>true</index>
+  <category>FÜLLE DES GEISTES&amp;mdash;Als der gleichgestaltende Geist</category>
+  <numbers><cebuano num="1117"/><chinese num="ts:101"/><english num="1117"/><german num="1117"/><korean num="945"/><spanish num="126"/><tagalog num="1117"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 (break) | 6 5 3 | 3 2 2 | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// (break) | 6 5 3 | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Wir prei -- sen Dich, Gott, Denn nun wohnt Chris -- ti Geist, Als das Le -- ben in uns Und uns Gna -- de er -- weist. Hal -- le -- lu -- ja! Nun in uns fließt, Hal -- le -- lu -- ja! Der Geist! Hal -- le -- lu -- ja! Er gibt Le -- ben, Uns kräf -- tigt und speist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="40"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Wir preisen Dich, Gott,
+Denn nun wohnt Christi Geist,
+Als das Leben in uns
+Und uns Gnade erweist.
+    Halleluja! Nun in uns fließt,
+    Halleluja! Der Geist!
+    Halleluja! Er gibt Leben,
+    Uns kräftigt und speist.</stanza>
+	<stanza type="verse" number="2">Im Geist lobsingt Ihm,
+Der als Geist hier traf ein,
+Uns mit Leben versorgt,
+Um mit uns eins zu sein.
+    Halleluja! Dies ist Jesus,
+    Halleluja! Der jetzt,
+    Halleluja! Als der Geist uns
+    Ins Leben versetzt.</stanza>
+	<stanza type="verse" number="3">Im Geist neu geborn,
+Wandelt Er uns nun um,
+Uns gestaltet Ihm gleich,
+Gott sei Ehre und Ruhm.
+    Halleluja! Leben darreicht,
+    Halleluja! Macht neu,
+    Halleluja! Uns verklärt bald,
+    Zum Ziel bringt uns treu.</stanza>
+	<stanza type="verse" number="4">Ihm gleich werden wir,
+Denn wir essen im Geist 
+Stets vom Leben des Herrn, 
+Überreich es uns speist.
+    Halleluja! Volle Rettung!
+    Halleluja! Ihn ehrt!
+    Halleluja! Er erfüllt uns!
+    Welch Leben voll Wert!</stanza>
+  </lyrics>
+</hymn>

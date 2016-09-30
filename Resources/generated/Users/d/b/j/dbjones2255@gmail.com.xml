@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debbie</firstname>
+  <lastname>Jones</lastname>
+  <email>dbjones2255@gmail.com</email>
+  <password>$2y$10$TT7MI8ayj62Zis056VfTC.XBkbTHo1IfvpFFStfki41svXaofUSoW</password>
+  <gender/>
+  <country/>
+  <ipaddress>74.243.190.119</ipaddress>
+  <createdate>2016-03-25 20:07:12</createdate>
+  <lastupdateddate>2016-03-26 00:23:44</lastupdateddate>
+  <lastlogindate>2016-03-26 00:20:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1127">God has saved me from the world</fav>
+  </favourites>
+</user>

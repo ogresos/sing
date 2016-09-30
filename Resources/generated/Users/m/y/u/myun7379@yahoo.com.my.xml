@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>moi yun</firstname>
+  <lastname>yong</lastname>
+  <email>myun7379@yahoo.com.my</email>
+  <password>$2y$10$c05xrIUcCcQr66WVbtUWvuGQG8t9g74utZ13sf8.aBACHQM4M0ITy</password>
+  <gender>F</gender>
+  <country>my</country>
+  <ipaddress>175.140.213.207</ipaddress>
+  <createdate>2012-03-21 21:16:05</createdate>
+  <lastupdateddate>2016-01-23 06:46:00</lastupdateddate>
+  <lastlogindate>2016-01-16 02:10:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="517">Treasure in Earthen Vessels</fav>
+    <fav category="default" type="ns" num="517c">瓦器裏有寶貝</fav>
+  </favourites>
+</user>

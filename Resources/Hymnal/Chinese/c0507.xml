@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主你作我的領港</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的引領</category>
+  <numbers><chinese num="507"/><english num="392"/><korean num="507"/><tagalog num="392"/></numbers>
+  <creators>
+	<author biodate="1816-1888" biolink="">Translated from Edward Hopper</author>
+  </creators>
+  <melody>| 0 - ._3./ ._2// | ._1. 7/ {._2/( ._1/) 6/} | 5 - ._4./ ._3// | ._3. ._2/ ._1/ 7/ (break) | ._1 - ._2./ ._2// | ._2. 5/ 6/ 5/ | ._1 - ._2./ ._2// | ._2. 5/ 6/ 5/ (break) | ._1 - ._3./ ._2// | ._1. 7/ {._2/( ._1/) 6/} | 5 - ._4./ ._3// | ._3. ._2/ ._1/ 7/ | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>主， 你 作 我 的 領 港， 來 過 此 人 生 風 浪； 前 面 是 未 識 水 道， 浮 沙 外 加 上 暗 礁； 你 當 賜 南 針 圖 狀， 主， 你 作 我 的 領 港。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="392"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，你作我的領港，
+來過此人生風浪；
+前面是未識水道，
+浮沙外加上暗礁；
+你當賜南針圖狀，
+主，你作我的領港。</stanza>
+	<stanza type="verse" number="2">慈母能平定嬰孩，
+你也能鎮靜狂海；
+當你說應當安靜，
+風和浪立聽命令；
+你真是奇妙的王，
+主，你作我的領港。</stanza>
+	<stanza type="verse" number="3">到至終我近彼岸，
+可怕的激浪搖撼；
+在我與平安之間，
+當我正倚你身邊，
+讓我聽你對我講：
+不要怕，是我領港。</stanza>
+  </lyrics>
+</hymn>

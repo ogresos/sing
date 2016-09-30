@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Refine My Heart</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Clarence So">C. S.</author>
+    <composer biodate="" biolink="" fullname="Clarence So">C. S.</composer>
+  </creators>
+  <hymncode>1111777566165</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em - - - | Am - - - | G - - - | C - - - | Em - - - | Am - - - | G - - - | C - - - | Em - - - | Am - - - | G - - - | C - - - | Am - - - | Gsus4 - - - | G - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - | Bb - - - | Bb - - - | F - - - | F - - - | Bb - - - | Bb - - - | Asus4 - - - | A - - - | G - - - | A - - - | F#m - - - | Bm - - - | G - - - | A - - - | D - - - | D7 - - - | G - - - | A - - - | F#m - - - | Bm - - - | G - - - | A - - - | D - G/D - | D - - - ||</chords>
+  <melody>| (startrepeat) 0 1/ 1/ 1 1 | 7_. 7_./ 7_./( 7_.) 5_. | 0 6_./(. 6_./). 6_. 1/ 6_./( | 6_./)( 5_./)( 5_.) - - | 0 1/ 1/ 1 1 | 7_. 7_./ 7_./( 7_.) 5_. | 6_.( - - - | 6_.) - - 0 | 0 1/ 1/ 1 1 | 7_. 7_./ 7_./( 7_.) 5_. | 0 6_./ 6_./ 6_. 1/ 6_./( | 6_./)( 5_./)( 5_.) - - | 0 1/ 1/ 1 1 | 1 1/ 1/( 1/) 1/ 2 | 2( - - - (break) | 2) 0 (Chorus) 6_. 5_. | 6_. - 3 - | 2 - 7_. 6_. | 5_. - 2 - | 1 - 1 7_. | 6_. 6_./ 6_./( 6_.) 3 | 2 2 1 2 | 3( - - - | 3) - 1 7_. | 6_. - 3 - | 2 - 7_. 6_. | 5_. 5_./ 5_./( 5_.) 2 | 1 - 1 7_. | 6_. 6_./ 6_./( 6_.) 3 | 2 2/ 2/ 1 7_. | 1( - - - | 1) - - 0 (endrepeat) (break) | (Bridge) 0 2 2 2 | 2 1 7b_. 6_. | 6_. 7b_./ 6_./( 6_.)( - | 6_.) - - - | 0 2/ 2/ 2 2/ 2/ | 2 7b_./ 2/( 2) 3 | 3( - - - (break) | 3) - [A Major] (Chorus) 7_. 6_. | 7_. - 4# - | 3 - 1# 7_. | 6_. - 3 - | 2 - 2 1# | 7_. 7_./ 7_./( 7_.) 4# | 3 3 2 3 | 4#( - - - | 4#) - 2 1# | 7_. - 4# - | 3 - 1# 7_. | 6_. 6_./ 6_./( 6_.) 3 | 2 - 2 1# | 7_. 7_./ 7_./( 7_.) 4# | 3 3/ 3/ 2 1# | 2( - - - | 2) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">In a world full of temp -- ta -- tions, Sor -- [skip1] rows, and sins, Lord, do shine in me that You're the way. On -- ly You can sat -- is -- fy my deep -- est, in -- ward part. Cause Your love to grow with -- in me each day. Lord, re -- fine my heart, Ne'er to be a -- part, Ful -- ly trust -- ing in Your love, Sin -- gle and true. Lord, re -- fine my heart, Spread Your -- self in ev -- ery part, All Your life di -- vine im -- part, 'Till I'm filled with You. Lord, there is none whom I de -- sire but You. I would love You and give my all to You. Lord, re -- fine my heart, Ne'er to be a -- part, Ful -- ly trust -- ing in Your love, Sin -- gle and true. Lord, re -- fine my heart, Spread Your -- self in ev -- ery part, All Your life di -- vine im -- part, Fill me through and through.</singingstanza>
+    <singingstanza2>By Your Spir -- it in our spir -- it&amp;mdash; Work -- ing, break -- ing through, Free us from the self and back to You. We re -- deem each pre -- cious mo -- ment, Spend -- ing time with You, To be -- come the tes -- ti -- mo -- ny of Christ.</singingstanza2>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="170">ns0385.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">In a world full of temptations,
+Sorrows, and sins,
+Lord, do shine in me that You're the way.
+Only You can satisfy my deepest, inward part.
+Cause Your love to grow within me each day.</stanza>
+    <stanza type="chorus" number="">Lord, refine my heart,
+Ne'er to be apart,
+Fully trusting in Your love,
+Single and true.
+Lord, refine my heart,
+Spread Yourself in every part,
+All Your life divine impart,
+'Till I'm filled with You.</stanza>
+    <stanza type="verse" number="">By Your Spirit in our spirit&amp;mdash;
+Working, breaking through,
+Free us from the self and back to You.
+We redeem each precious moment,
+Spending time with You,
+To become the testimony of Christ.</stanza>
+    <stanza type="verse" number="">Lord, there is none whom I desire but You.
+I would love You and give my all to You.</stanza>
+    <stanza type="chorus" number="">Lord, refine my heart,
+Ne'er to be apart,
+Fully trusting in Your love,
+Single and true.
+Lord, refine my heart,
+Spread Yourself in every part,
+All Your life divine impart,
+Fill me through and through.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聽阿罪人慈聲何高</title>
+  <index>true</index>
+  <category>福音－呼求</category>
+  <numbers><cebuano num="1054"/><chinese num="730"/><english num="1054"/><korean num="730"/><tagalog num="1054"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3. 2/ 1./ 7_.// 1./ 6_.// | 5_. - 1 - | 2. 2/ 1 2 | 3 - - 0 (break) | 3. 2/ 1./ 7_.// 1./ 6_.// | 5_. - 1 - | 2. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 5 - 3 - | 2.( 1/) 6_. - | 5_. 1 3 1 | 2 - - 0 (break) | 3. 2/ 1./ 7_.// 1./ 6_.// | 5_. - 1 - | 2. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>聽 阿！ 罪 人， 慈 聲 何 高！ 救 主 在 呼 召； 當 祂 正 把 多 人 尋 找， 莫 讓 祂 漏 掉！ 罪 人！ 罪 人！ 聽 主 在 呼 召； 當 祂 正 把 多 人 尋 找， 莫 讓 祂 漏 掉！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1054"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聽阿！罪人，慈聲何高！
+救主在呼召；
+當祂正把多人尋找，
+莫讓祂漏掉！</stanza>
+	<stanza type="chorus" number="">罪人！罪人！
+聽主在呼召；
+當祂正把多人尋找，
+莫讓祂漏掉！</stanza>
+	<stanza type="verse" number="2">莫我，救主，莫我漏掉！
+聽我恭求告！
+當你正把別人呼召，
+莫把我漏掉！</stanza>
+	<stanza type="chorus" number="">救主！救主！
+聽我恭求告！
+當你正把別人呼召，
+莫把我漏掉！</stanza>
+	<stanza type="verse" number="3">讓我在你施恩座前，
+從你得救恩；
+俯伏痛悔，承認罪愆，
+求你助我信。</stanza>
+	<stanza type="verse" number="4">單單靠賴十架功能，
+我尋求你面；
+醫我傷痛、破碎心、靈，
+救我用恩典。</stanza>
+	<stanza type="verse" number="5">你是我的安慰源頭，
+於我比命貴；
+除你之外，在地何投？
+在天何所歸？</stanza>
+  </lyrics>
+</hymn>

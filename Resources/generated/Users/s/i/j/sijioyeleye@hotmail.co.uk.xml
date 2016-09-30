@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>siji</firstname>
+<lastname>oyeleye</lastname>
+<email>sijioyeleye@hotmail.co.uk</email>
+<password>$1$zDgaMmc2$IzkDKzmRAtoGKWHZK6DSY.</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>81.158.194.166</ipaddress>
+<createdate>2008-07-26 01:43:20</createdate>
+<lastupdateddate>2009-09-15 18:22:22</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="159">Give me a sight, O Savior</fav>
+        <fav category="default" type="h" num="410">Oh, for a heart to praise my God</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    </favourites>
+</user>

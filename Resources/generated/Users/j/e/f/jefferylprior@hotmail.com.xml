@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jeffery</firstname>
+    <lastname>Prior</lastname>
+    <email>jefferylprior@hotmail.com</email>
+    <password>X2fCnDiWERLb2VhHAn78vQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>68.69.86.99</ipaddress>
+    <createdate>2011-07-17 00:45:58</createdate>
+    <lastupdateddate>2011-07-17 01:18:13</lastupdateddate>
+    <lastlogindate>2011-07-17 01:18:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1332">Do you know that you were chosen</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+        <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+        <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+    </favourites>
+</user>

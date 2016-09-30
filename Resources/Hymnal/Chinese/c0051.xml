@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>親愛父神，我們向你歌唱</title>
+  <index>true</index>
+  <category>敬拜父－眾子的讚美</category>
+  <numbers><chinese num="51"/><dutch num="30"/><english num="54"/><french num="11"/><korean num="51"/><portuguese num="35"/><tagalog num="54"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from German</author>
+	<author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - 1 - | 2. 2/ 3 4 | 3 - - - (break) | 3 - 2 1 | 6. 6/ 5 5 | 5 - 4( 3) | 2 - - - (break) | 3 - 3 4 | 5 - 1 - | 6. 6/ 6 3 | 4 - - - (break) | 4 - 3 2 | 5 1 1 4 | 3 - 2 - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>親 愛 父 神， 我 們 向 你 歌 唱， 有 誰 比 你 更 配 我 們 頌 揚。 你 今 要 人 以 靈 以 『真』 敬 拜， 我 們 照 此 向 你 獻 上 感 戴。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">親愛父神，我們向你歌唱，
+有誰比你更配我們頌揚。
+你今要人以靈以『真』敬拜，
+我們照此向你獻上感戴。</stanza>
+	<stanza type="verse" number="2">所有世界是你藉子造成，
+萬有也都由祂大能托撐；
+但我卻是在你愛子裡面，
+與你親近，敬拜何其甘甜。</stanza>
+	<stanza type="verse" number="3">祂今在這蒙福範圍領唱，
+在你召會唱詩向你頌揚；
+何等歡樂，祂有弟兄隨同，
+與祂同享自由，向你歌頌。</stanza>
+	<stanza type="verse" number="4">我們和祂在此同聲歌唱，
+哦父，使你滿足、供你欣賞；
+在你愛子所領讚美之中，
+你可安居，永遠享受稱頌。</stanza>
+	<stanza type="note">『真』指基督。</stanza>
+  </lyrics>
+</hymn>

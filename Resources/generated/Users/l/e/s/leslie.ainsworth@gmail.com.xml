@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Leslie</firstname>
+<lastname>Ainsworth</lastname>
+<email>leslie.ainsworth@gmail.com</email>
+<password>$1$0dN4CRhb$1lV.WIsRVVJbWvRJC5Prg/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>98.22.216.34</ipaddress>
+<createdate>2009-09-04 18:53:53</createdate>
+<lastupdateddate>2009-09-15 19:18:28</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="179">Recall how David swore</fav>
+        <fav category="default" type="lb" num="54">I believe, so I speak</fav>
+        <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+        <fav category="default" type="h" num="1164">Jesus, the all-inclusive land</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+        <fav category="default" type="h" num="135">O my Savior, glorified</fav>
+        <fav category="default" type="h" num="354">Come in, O come! the door stands open now</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+        <fav category="default" type="ns" num="33">True love</fav>
+    </favourites>
+</user>

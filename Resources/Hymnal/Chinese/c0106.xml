@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀歸於你，復活得勝子</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><chinese num="106"/><english num="121"/><french num="20"/><korean num="106"/><portuguese num="55"/><tagalog num="121"/></numbers>
+  <creators>
+	<author biodate="1854-1932" biolink="">Translated from Edmond Louis Budry</author>
+	<author biodate="" biolink="">Translated by Richard B. Hoyle</author>
+  </creators>
+  <melody>| 5 - 3. 4/ | 5 - 1 - | 2/( 3/) 4/( 5/) 4 3 | 2 - - - (break) | 3/( 4/) 5/( 6/) 5 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - (break) | 3/( 2/) 3/( 4/) 3 3 | 2 - 1 - | 4 3 2 1 | 7_. - - - (break) | 1/( 7_./) 1/( 2/) 1 1 | 6 - 4# - | 5 6/( 5/) 4#. 5/ | 5 - - - (break) | (Chorus) 5 - 3. 4/ | 5 - 1 - | 2/( 3/) 4/( 5/) 4 3 | 2 - - - (break) | 3/( 4/) 5/( 6/) 5 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>榮 耀 歸 於 你， 復 活 得 勝 子， 你 已 永 遠 得 勝， 你 已 勝 過 死； 天 使 身 穿 白 衣， 輥 開 墳 墓 石， 憑 著 你 的 空 墓， 你 復 活 啟 示。 榮 耀 歸 於 你， 復 活 得 勝 子， 你 已 永 遠 得 勝， 你 已 勝 過 死。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="121"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">榮耀歸於你，
+復活得勝子，
+你已永遠得勝，
+你已勝過死；
+天使身穿白衣，
+輥開墳墓石，
+憑著你的空墓，
+你復活啟示。</stanza>
+	<stanza type="chorus" number="">榮耀歸於你，
+復活得勝子，
+你已永遠得勝，
+你已勝過死。</stanza>
+	<stanza type="verse" number="2">看！復活基督，
+與我們相見；
+祂那可愛問安，
+驅盡懼與暗；
+但願召會歡樂，
+高唱得勝詩，
+因主現在活著，
+死已失權勢。</stanza>
+	<stanza type="verse" number="3">不再懷疑你，
+榮耀生命王；
+無你就無生命，
+有你勝死亡。
+使我得勝有餘，
+靠復活大能，
+直到進入國度，
+不再有戰爭。</stanza>
+  </lyrics>
+</hymn>

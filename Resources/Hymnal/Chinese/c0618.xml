@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聖徒在基督裏</title>
+  <index>true</index>
+  <category>召會－配搭</category>
+  <numbers><cebuano num="854"/><chinese num="618"/><english num="854"/><korean num="618"/><spanish num="367"/><tagalog num="854"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3 2 2 | 1 - 7_. - | 1 1 2 2 | 3 - - - (break) | 5 5 4 4 | 3 - 2 - | 3 3 2 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>聖 徒 在 基 督 裡， 互 相 作 肢 體， 成 為 一 個 身 體， 配 搭 在 一 起。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="115"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聖徒在基督裡，
+互相作肢體，
+成為一個身體，
+配搭在一起。</stanza>
+	<stanza type="verse" number="2">恩賜雖有不同，
+聖靈是一位；
+職事雖有多種，
+主也是一位。</stanza>
+	<stanza type="verse" number="3">誰也不能無誰，
+不可輕或重；
+各有各的地位，
+各有各功用。</stanza>
+	<stanza type="verse" number="4">蒙恩有多有少，
+恩賜分大小；
+看得合乎中道，
+謙卑不自高。</stanza>
+	<stanza type="verse" number="5">各盡各的職事，
+各顯各功用；
+個個都不鬆弛，
+個個都盡忠。</stanza>
+	<stanza type="verse" number="6">互相供應聯繫，
+彼此多包容；
+毫無不諧嫌隙，
+凡事主為重。</stanza>
+	<stanza type="verse" number="7">基督乃是元首，
+召會是身體；
+聖靈又是膏油，
+我們該是一。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Victoria Toyin</firstname>
+  <lastname>Akinwole</lastname>
+  <email>victoriaakinwole@yahoo.com</email>
+  <password>$2y$10$LrAw8zsGRoHKf2qVbJZf2uLzQ3pIgKX9pJFZzn4AcPEH2qOqZaPIi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.32.53.70</ipaddress>
+  <createdate>2015-11-21 18:07:00</createdate>
+  <lastupdateddate>2015-11-21 18:39:37</lastupdateddate>
+  <lastlogindate>2015-11-21 18:09:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

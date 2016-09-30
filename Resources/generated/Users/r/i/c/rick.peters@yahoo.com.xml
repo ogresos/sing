@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Richard</firstname>
+  <lastname>Peters</lastname>
+  <email>rick.peters@yahoo.com</email>
+  <password>$2y$10$hLGvaazi97mdHVvNXk8bBOm6eq6tmVzphu7kuUrDafcXX9b3NGGcK</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>142.179.135.144</ipaddress>
+  <createdate>2015-02-25 02:48:46</createdate>
+  <lastupdateddate>2015-02-25 02:49:51</lastupdateddate>
+  <lastlogindate>2015-02-25 02:49:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

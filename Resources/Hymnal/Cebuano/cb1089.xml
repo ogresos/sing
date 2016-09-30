@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Way buling nga Cordero's Dios</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KAMATAYON</category>
+  <numbers><cebuano num="1089"/><english num="1089"/><german num="1089"/><russian num="400"/><tagalog num="1089"/></numbers>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Way buling nga Cordero's Dios,
+Gipatay alang namo.
+Dugong giula nagtubos,
+Naghinlos' mansa namo.
+Cordero Ka nga nagtubos,
+Nagkuha's among sala,
+Nagkuha's among sala!</stanza>
+	<stanza type="verse" number="2">Bronseng bitin, sud-ongon Ka,
+Anak sa Tawong giisa;
+Unod's sala gisul-ob Mo,
+Namatay sa dagway's tawo.
+Gitapos Mong kabuhatan,
+Satanas, kalibutan,
+Satanas, kalibutan!</stanza>
+	<stanza type="verse" number="3">Lugas sa trigo usa ra,
+Kon dili mamatay S'ya;
+Kinabuhi di kagawas,
+Kon dili S'ya ipugas.
+Kinabuhi mahubaran,
+Mobunga'g trigong daghan,
+Mobunga'g trigong daghan!</stanza>
+	<stanza type="verse" number="4">Cordero&amp;mdash;lukat's sala ta,
+Bitin&amp;mdash;nagtapos' Yawa,
+Trigo&amp;mdash;nagpasanay Niya,
+Nasakot's daghang trigo.
+Hallelujah, Hallelujah!
+Unsa kamalangkubon
+Sa Iyang kamatayon!</stanza>
+  </lyrics>
+</hymn>

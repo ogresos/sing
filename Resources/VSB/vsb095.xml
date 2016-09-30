@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now Christ is the life-giving Spirit</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Spirit</category>
+  <numbers><chinese num="ts:105"/><english num="ns:103"/><vsb num="95"/></numbers>
+  <creators>
+    <composer biodate="1882" biolink="">H. J. Fulmer</composer>
+    <composer biodate="" biolink="">Charles Pratt</composer>
+  </creators>
+  <hymncode>532121653</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>150</tempo>
+  <chords>| C - - | C - - | F - - | C - - | C - - | C - - | Am - - | D7 - - | G - - | C - - | F - - | Em - - | Am - - | F - - | G - - | C - F/C | C - - | C - - | C/E - - | F - - | Dm - - | G - - | G7 - - | C - - | F/C - - | C - - | C/E - - | F - - | Dm - - | G - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 0 - 5_. | 3. 2/ 1 | 2 1 6_. | 5_. 3_.( - | 3_.) - 5_. | 3. 2/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_. | 3. 2/ 1 | 2 1 6_. | 5_. 3_.( - | 3_.) - 5_. | 6_. 2 1 | 7_. 6_. 7_. | 1( - - | 1) - 0 (break) | (Chorus) 5_. - - | 1 - - | 6_. - - | 2 - - | 7_. 7_. 7_. | 7_. 6_. 7_. | 1( - 2) | 3 - - (break) | 5_. - - | 1 - - | 6_. - - | 2 - - | 7_. 7_. 7_. | 7_. 6_. 7_. | 1 - - | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Now Christ is the life- -- giv -- ing Spir -- it; Now Christ is the Spir -- it to -- day. Now Christ is the life- -- giv -- ing Spir -- it; So turn to your spir -- it and say&amp;mdash; O Lord, A -- men, O Lord, A -- men, Hal -- le -- lu -- jah! O Lord, A -- men, O Lord, A -- men, Hal -- le -- lu -- jah!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="40">ns0103.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Now Christ is the life-giving Spirit;
+Now Christ is the Spirit today.
+Now Christ is the life-giving Spirit;
+So turn to your spirit and say&amp;mdash;</stanza>
+    <stanza type="chorus" number="">O Lord, Amen,
+O Lord, Amen, Hallelujah!
+O Lord, Amen,
+O Lord, Amen, Hallelujah!</stanza>
+    <stanza type="verse" number="2">Now Christ is the life-giving Spirit;
+Now Christ is the living Word too.
+The Spirit will flow in our spirit,
+The Word will be life to us through&amp;mdash;</stanza>
+    <stanza type="chorus" number="">Praying, reading, praising and
+Calling upon His name;
+Praying, reading, praising and
+Calling upon Him.</stanza>
+  </lyrics>
+</hymn>

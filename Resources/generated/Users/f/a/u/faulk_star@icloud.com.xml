@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Starrie</firstname>
+  <lastname>Kadelak</lastname>
+  <email>faulk_star@icloud.com</email>
+  <password>$2y$10$OoRiU8q8vSJ7QZeMHTKsjeP4LnHg/7SDPArn0eZDIhRqQ8gRK1t4q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.178.43.91</ipaddress>
+  <createdate>2014-10-29 05:15:12</createdate>
+  <lastupdateddate>2014-10-29 05:29:51</lastupdateddate>
+  <lastlogindate>2014-10-29 05:16:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="599">Lord, I was blind; I could not see</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="238">When morning gilds the skies</fav>
+  </favourites>
+</user>

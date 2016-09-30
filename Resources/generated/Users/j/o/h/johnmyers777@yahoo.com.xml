@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>John</firstname>
+    <lastname>Myers</lastname>
+    <email>johnmyers777@yahoo.com</email>
+    <password>$1$nF6fYa3j$6gG9KzTyUhunGAwDfJrpe/</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>72.95.62.4</ipaddress>
+    <createdate>2009-03-06 16:33:35</createdate>
+    <lastupdateddate>2013-01-08 18:52:57</lastupdateddate>
+    <lastlogindate>2013-01-08 18:34:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="566">Oh, safe to the Rock that is higher than I</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    </favourites>
+</user>

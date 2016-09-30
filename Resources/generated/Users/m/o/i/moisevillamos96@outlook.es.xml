@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Moises David Sevilla</firstname>
+  <lastname>Ramos</lastname>
+  <email>moisevillamos96@outlook.es</email>
+  <password>$2y$10$NS58ajYqk/f535EwkAzVwe9oMqB.8HdSWsera3anfF.G.4OQvKI5C</password>
+  <gender/>
+  <country>hn</country>
+  <ipaddress>191.103.64.80</ipaddress>
+  <createdate>2016-05-04 16:18:47</createdate>
+  <lastupdateddate>2016-05-04 16:50:04</lastupdateddate>
+  <lastlogindate>2016-05-04 16:23:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="hs" num="242">Señor, la vida en mí eres Tú</fav>
+  </favourites>
+</user>

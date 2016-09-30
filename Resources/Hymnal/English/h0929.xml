@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Out in the highways and byways of life</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;A Channel of Blessing</category>
+  <numbers><english num="929"/><french num="172"/><tagalog num="929"/></numbers>
+  <creators>
+    <author biodate="1880-1950" biolink="">Ira Bishop Wilson</author>
+    <composer biodate="" biolink="">George S. Schuler</composer>
+  </creators>
+  <meter>10.7.10.7. with chorus.</meter>
+  <hymncode>32354323214561765</hymncode>
+  <key>Bb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | G - - C - - | F - - - - - | C - - - - - | Am - - E - - | F - - C/E - - | G/D - - D7 - - | G - - G7 - - | C - - A7 - - | Dm - - Dm/F - - | G - - G7/B - - | C - - C/E - - | F - - F/A - - | C - - A7 - - | D7 - - D7/F# - - | G - - G7/B - - | C - - A7 - - | Dm - - Dm/F - - | G - - F - - | E - - E7 - - | Dm/F - - A7/E - - | Dm - - Dm/F - - | C/G - - G7 - - | C - F/C C - - |</chords>
+  <melody>| 3 2# 3 5 4 3 | 2 3 2 1 - - | 4 5 6 ._1 7 6 | 5( - - 5) - - (break) | ._1 6 ._1 7 5# 7 | 6 4 6 5 - - | 5 6 7 ._1 7 6 | 5( - - 5) - - (break) | (Chorus) 3 - - 5 - 3 | 4 - - 6 - - | 7 - - ._3 - ._2 | ._1 - - 5 - - | 6 - - ._1 - 6 | 5( - - 5) - 3 | 3 - - 2 - - | 2( - - 2) - - (break) | 3 - - 5 - 3 | 4 - - 6 - 6 | 7 - - ._1 - ._2 | ._3( - - ._3) - - | ._2 - - ._3 - ._3 | ._4 - - 6 - ._4 | ._3 - - ._3 - ._2 | ._1( - - ._1) - - |</melody>
+  <layout>
+    <singingstanza>Out in the high -- ways and by -- ways of life, Man -- y are wea -- ry and sad; Car -- ry the sun -- shine where dark -- ness is rife, Mak -- ing the sor -- row -- ing glad. Make me a bless -- ing, make me a bless -- ing, Out of my life may Je -- sus shine; Make me a bless -- ing, O Sav -- ior, I pray, Make me a bless -- ing to some -- one to -- day.</singingstanza>
+  </layout>
+  <copyright>Copyright, 1952. Renewal by George S. Schuler. Assigned to the Rodeheaver Co. All Rights Reserved. Used by permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj174.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="69">e0929_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Out in the highways and byways of life,
+  Many are weary and sad;
+Carry the sunshine where darkness is rife,
+  Making the sorrowing glad.</stanza>
+    <stanza type="chorus" number="">Make me a blessing, make me a blessing,
+Out of my life may Jesus shine;
+Make me a blessing, O Savior, I pray,
+  Make me a blessing to someone today.</stanza>
+    <stanza type="verse" number="2">Tell the sweet story of Christ and His love,
+  Tell of His pow'r to forgive;
+Others will trust Him if only you prove
+  True, every moment you live.</stanza>
+    <stanza type="verse" number="3">Give as 'twas given to you in your need,
+  Love as the Master loved you;
+Be to the helpless a helper indeed,
+  Unto your mission be true.</stanza>
+  </lyrics>
+</hymn>

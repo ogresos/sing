@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jose</firstname>
+  <lastname>Garcia</lastname>
+  <email>gar1225@gmail.com</email>
+  <password>$2y$10$Sny.U2I1QddhPjmSJ/JAXOqNOxOLD9svcfdawvUiR90QL9vX4bVwC</password>
+  <gender/>
+  <country/>
+  <ipaddress>100.36.131.77</ipaddress>
+  <createdate>2016-03-07 22:44:10</createdate>
+  <lastupdateddate>2016-08-16 01:55:04</lastupdateddate>
+  <lastlogindate>2016-08-16 01:55:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="724">A little bird I am</fav>
+    <fav category="default" type="h" num="671">Deep down into the depths of this Thy Name</fav>
+    <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="h" num="840">Freed from self and Adam's nature</fav>
+    <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="h" num="73">Glorious, mighty Name of Jesus</fav>
+    <fav category="default" type="h" num="750">God's intention is to have us</fav>
+    <fav category="default" type="h" num="890">Hallelujah! Christ is Victor</fav>
+    <fav category="default" type="h" num="564">I have learned the wondrous secret</fav>
+    <fav category="default" type="h" num="546">I love my Lord, but with no love of mine</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="h" num="205">Jesus, Thou Joy of loving hearts</fav>
+    <fav category="default" type="h" num="726">Long plunged in sorrow, I resign</fav>
+    <fav category="default" type="h" num="207">Lord Jesus! when we think of Thee</fav>
+    <fav category="default" type="h" num="839">Lord, Thou art a potter skilled</fav>
+    <fav category="default" type="h" num="472">Many crowd the Savior's kingdom</fav>
+    <fav category="default" type="h" num="907">Not where we elect to go</fav>
+    <fav category="default" type="h" num="206">O Christ, He is the fountain</fav>
+    <fav category="default" type="h" num="395">O Jesus Christ, grow Thou in me</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+    <fav category="default" type="h" num="213">On that same night, Lord Jesus</fav>
+    <fav category="default" type="h" num="1116">Pure myrrh and cinnamon</fav>
+    <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    <fav category="default" type="h" num="725">Strong are the walls around me</fav>
+    <fav category="default" type="h" num="1228">The Bible is the Word of God</fav>
+    <fav category="default" type="h" num="617">Thou sweet, beloved will of God</fav>
+    <fav category="default" type="h" num="904">We have a most glorious King</fav>
+  </favourites>
+</user>

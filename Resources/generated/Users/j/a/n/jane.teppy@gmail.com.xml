@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jane</firstname>
+  <lastname>eva</lastname>
+  <email>jane.teppy@gmail.com</email>
+  <password>$2y$10$oF/6U..tbla4C8mfqyQiD.qc5ElPVPVHK4u7Sh.br2Ok4/FytojTC</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>36.85.205.211</ipaddress>
+  <createdate>2015-05-06 12:51:21</createdate>
+  <lastupdateddate>2015-05-06 12:53:58</lastupdateddate>
+  <lastlogindate>2015-05-06 12:53:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

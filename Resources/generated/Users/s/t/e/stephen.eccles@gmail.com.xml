@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stephen</firstname>
+  <lastname>Eccles</lastname>
+  <email>stephen.eccles@gmail.com</email>
+  <password>$2y$10$Jol8u1a2EMbyHMc8nAFg8eX5fEPT7KcTZ5p4zRRYxOhW8//BfxCX6</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>151.228.87.111</ipaddress>
+  <createdate>2014-12-17 13:28:54</createdate>
+  <lastupdateddate>2015-10-16 10:55:36</lastupdateddate>
+  <lastlogindate>2015-10-16 10:55:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="8661">Work, for the night is coming</fav>
+  </favourites>
+</user>

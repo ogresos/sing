@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Remember God Made You</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>553553555434</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | Dm - - - | G7 - - - | G7 - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | C - - - | C - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 - - (Chorus) 5 | 5 3( 3) 5 | 5 3( 3) 5 | 5 5 4 3 | 4 - - 4 (break) | 4 2 - 4 | 4 2 - - | 5. 5/ 6 5 | 3 - - - (break) | (Verse_1) 3 5 5 5 | 6 5 5 - | 5 3 4 5 | 6 - - ._1 (break) | 5 3( 3) 5 | 5 3( 3) 5 | 4 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Re -- mem -- ber, re -- mem -- ber, Re -- mem -- ber God made you. Re -- mem -- ber, re -- mem -- ber, That He loves you too. While your legs can run so fast And can hop and skip, Re -- mem -- ber, re -- mem -- ber, Re -- mem -- ber God made you.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="27">c0123.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Remember, remember,
+Remember God made you.
+Remember, remember,
+That He loves you too.</stanza>
+    <stanza type="verse" number="1">While your legs can run so fast
+And can hop and skip,
+Remember, remember,
+Remember God made you.</stanza>
+    <stanza type="verse" number="2">While your arms can turn a rope
+And can throw a ball,
+Remember, remember,
+Remember God made you.</stanza>
+    <stanza type="verse" number="3">While your ears hear chirping birds
+And quacking ducks,
+Remember, remember,
+Remember God made you.</stanza>
+    <stanza type="verse" number="4">While your eyes see butterflies
+And tiny ants,
+Remember, remember,
+Remember God made you.</stanza>
+  </lyrics>
+</hymn>

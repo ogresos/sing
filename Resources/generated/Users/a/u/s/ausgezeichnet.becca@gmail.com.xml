@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Becca</firstname>
+<lastname>Yeaman</lastname>
+<email>ausgezeichnet.becca@gmail.com</email>
+<password>$1$F2cEjnSK$cJm3Uv8a8ic16jFHRdVuW0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>72.198.27.187</ipaddress>
+<createdate>2008-10-29 23:19:31</createdate>
+<lastupdateddate>2009-09-15 18:26:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="nt" num="724">A little bird I am</fav>
+        <fav category="default" type="ns" num="293">I'm a God-man</fav>
+        <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="299">I'm so attracted by Your love</fav>
+        <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    </favourites>
+</user>

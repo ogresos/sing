@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Je suis le pain vivant</title>
+  <index>true</index>
+  <numbers><arabic num="ns:381ar"/><english num="ns:381"/><cebuano num="ns:381cb"/><estonian num="ns:381es"/><french num="ns:381f"/><portuguese num="ns:381p"/><tagalog num="ns:381tc"/></numbers>
+  <music>
+    <midiref type="ns" num="381"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Je suis le pain vivant descendu du ciel,
+Si quelqu' un mange de ce pain,</stanza>
+    <stanza type="verse" number="">il vivra pour toujours. Et le pain
+que je donnerai, c'est ma chair,
+que je donnerai pour la vie du monde.</stanza>
+    <stanza type="verse" number="">Je suis le pain vivant descendu du ciel,
+Si quelqu' un mange de ce pain.</stanza>
+  </lyrics>
+</hymn>

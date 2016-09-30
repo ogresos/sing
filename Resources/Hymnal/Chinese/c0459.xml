@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>十架越重神越親近</title>
+  <index>true</index>
+  <category>十字架的道路－藉損受益</category>
+  <numbers><chinese num="459"/><english num="624"/><korean num="459"/><tagalog num="624"/></numbers>
+  <creators>
+	<author biodate="1672-1737" biolink="">Translated from Benjamin Schmolk</author>
+	<author biodate="" biolink="">Translated by J. D. Burns and adapted</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3( 5) 3 (break) | 2 - 5 | 5( 3) 5 | 5 - ._1 | ._1( 7) 6 | 5 - 5 | 5( 4) 3 | 2( 3) 4 | 3 - 2 | 1 - 2 | 2.( 3/) 4 | 3 - 5 | 5( 3) 6 | 5 - 6 | ._1 - 6 | 5.( 4/) 3 | 4 - 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>十 架 越 重， 神 越 親 近； 外 無 十 架， 內 即 無 神！ 黑 暗 君 王 必 被 踐 踏， 如 果 我 肯 背 負 十 架。 神 所 置 於 十 架 之 人， 雖 受 損 失， 也 是 歡 欣。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="178"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">十架越重，神越親近；
+外無十架，內即無神！
+黑暗君王必被踐踏，
+如果我肯背負十架。
+神所置於十架之人，
+雖受損失，也是歡欣。</stanza>
+	<stanza type="verse" number="2">十架越重，聖徒越佳，
+這是神的試金估價。
+若無眼睛流淚澆灌，
+園中花木多必枯乾！
+金子經火纔得煉淨，
+聖徒藉苦纔能成聖。</stanza>
+	<stanza type="verse" number="3">十架越重，信心越強；
+樹越負重，根越深長；
+葡萄美果經過壓榨，
+甜美汁水纔能流下；
+苦難來臨，膽量增長，
+珍珠長成，是藉蚌傷。</stanza>
+  </lyrics>
+</hymn>

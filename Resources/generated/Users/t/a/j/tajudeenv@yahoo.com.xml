@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Victor</firstname>
+    <lastname>Sniper</lastname>
+    <email>tajudeenv@yahoo.com</email>
+    <password>91UDicQsy4jZhJdkXLLmUA%3D%3D</password>
+    <gender>M</gender>
+    <country>ng</country>
+    <ipaddress>41.219.194.42</ipaddress>
+    <createdate>2012-08-10 15:40:52</createdate>
+    <lastupdateddate>2012-08-10 15:54:43</lastupdateddate>
+    <lastlogindate>2012-08-10 15:40:54</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    </favourites>
+</user>

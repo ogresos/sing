@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Marcela</firstname>
+  <lastname>Andres</lastname>
+  <email>maa360@mail.harvard.edu</email>
+  <password>$2y$10$.bURCH8qRAZ1YOrXV52qouawDkT3ARMRXqME7XwAmFAoM6ViW3VBK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.192.6.236</ipaddress>
+  <createdate>2015-09-05 17:26:57</createdate>
+  <lastupdateddate>2015-09-05 17:28:53</lastupdateddate>
+  <lastlogindate>2015-09-05 17:27:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+  </favourites>
+</user>

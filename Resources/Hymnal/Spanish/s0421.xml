@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Siembra en el alba, siembra al mediodía</title>
+  <index>true</index>
+  <category>La predicación del evangelio&amp;mdash;La siembra</category>
+  <numbers><chinese num="667"/><english num="1349"/><french num="176"/><russian num="149"/><spanish num="421"/><tagalog num="1349"/></numbers>
+  <creators>
+    <author biodate="1834-1878" biolink="">Translated from Knowles Shaw</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1167"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Siembra en el alba, siembra͜ al mediodía,
+Siembra en la noche, el amor de Dios.
+Con el tiempo llega abundante siega;
+Vendremos gozosos recogiendo͜ el haz.</stanza>
+    <stanza type="chorus" number="">Recogiendo͜ el haz, recogiendo͜ el haz,
+Vendremos gozosos recogiendo͜ el haz;
+Recogiendo͜ el haz, recogiendo͜ el haz,
+Vendremos gozosos recogiendo͜ el haz.</stanza>
+    <stanza type="verse" number="2">Siembra bajó͜ el sol y siembra en la sombra,
+Sin temer las nubes, ni frío͜ invernal.
+Pronto cuando͜ acabe la faena͜ y siega,
+Vendremos gozosos recogiendo͜ el haz.</stanza>
+    <stanza type="verse" number="3">A pesar de penas y de aflicciones
+A la siembra vamos, por nuestro Señor.
+Cuando pase͜ el lloro, El dará͜ acogida;
+Vendremos gozosos recogiendo͜ el haz.</stanza>
+  </lyrics>
+</hymn>

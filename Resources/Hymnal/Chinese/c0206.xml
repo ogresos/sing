@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>求你多賜我們以聖</title>
+  <index>true</index>
+  <category>聖靈的豐滿－火</category>
+  <numbers><chinese num="206"/><tagalog num="c206"/></numbers>
+  <meter>9.7.9.7. with chorus.</meter>
+  <hymncode>5332161511323432</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>主， 我 曾 否 叫 聖 靈 憂 愁， 流 蕩、 隨 便 並 冷 落？ 然 而 我 的 犯 罪 和 退 後， c 0 未 曾 叫 祂 厭 倦 過。 求 你 多 賜 我 們 以 聖 靈， 讓 祂 光 照 並 焚 燒， 將 『你』 供 給 我 們 作 生 命， 使 我 不 住 的 禱 告。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0206_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，我曾否叫聖靈憂愁，
+流蕩、隨便並冷落？
+然而我的犯罪和退後，
+未曾叫祂厭倦過。</stanza>
+	<stanza type="chorus" number="">求你多賜我們以聖靈，
+讓祂光照並焚燒，
+將『你』供給我們
+作生命，
+使我不住的禱告。</stanza>
+	<stanza type="verse" number="2">你的聖靈曾如何忍耐，
+等我慢慢心轉變；
+我曾如何棄絕你熱愛，
+當祂為我憂心煎。</stanza>
+	<stanza type="verse" number="3">你的聖靈今在我心內，
+我要以祂為我主；
+因為愛你使我能敬畏
+你的最小的宣佈。</stanza>
+	<stanza type="verse" number="4">我們現今雖不能愛你，
+如你那樣愛我們；
+你在我心若將火點起，
+牠就不會終冷沉。</stanza>
+  </lyrics>
+</hymn>

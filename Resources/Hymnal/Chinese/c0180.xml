@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在此我要主與你面</title>
+  <index>true</index>
+  <category>讚美主－對祂的記念</category>
+  <numbers><chinese num="180*"/><english num="225*"/><korean num="180*"/><portuguese num="119"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>在 此 我 要， 主， 與 你 面 對 面， 在 此 我 要 用 信 把 握 不 見， 在 此 我 要 更 深 認 識 恩 典， 將 我 疲 勞 都 息 在 主 腳 前。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在此我要，主，與你面對面，
+在此我要用信把握不見，
+在此我要更深認識恩典，
+將我疲勞都息在主腳前。</stanza>
+	<stanza type="verse" number="2">在此我要喫主所賜美物，
+在此我要飲主所遞福杯，
+在此我要忘記一切難處，
+再嘗一次赦罪平安滋味。</stanza>
+	<stanza type="verse" number="3">我雖有罪，但你卻有公義，
+我雖污穢，但你卻有寶血；
+哦主，你的寶血將我清洗，
+你的公義對付我的罪孽。</stanza>
+	<stanza type="verse" number="4">除你之外，我無別的幫助；
+有你賜恩，我就不求人惠；
+有你的愛，我已心意滿足；
+靠你能力，我要站住地位。</stanza>
+	<stanza type="chorus" number="">以下三節在擘餅後唱</stanza>
+	<stanza type="verse" number="5">席撤何速，表記的物已盡！
+酒餅雖無，拯救的愛未亡！
+宴筵已過，你仍在此親近，
+親近有加，作我萬有君王！</stanza>
+	<stanza type="verse" number="6">看哪，雲柱今又離地上升，
+在這野地又要乘夜前征；
+你正招呼，我們緊緊隨行，
+不久我們就到光明天城。</stanza>
+	<stanza type="verse" number="7">上席罷席，次次我們聚散，
+如此聚散，搖指天上佳筵；
+時雖未至，我們卻已豫嘗
+他日天上羔羊婚娶喜宴。</stanza>
+  </lyrics>
+</hymn>

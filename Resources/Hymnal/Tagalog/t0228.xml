@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Matamis na pista</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="228"/><chinese num="186"/><dutch num="60"/><english num="228"/><korean num="186"/><russian num="510"/><tagalog num="228"/></numbers>
+  <creators>
+    <author biodate="1796-1889" biolink="">Translated from Edward Denny</author>
+  </creators>
+  <music>
+    <midiref type="h" num="228"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Matamis na pista,
+Mula sa biyaya,
+Pan at saro tinamasa,
+Ikaw ginunita.</stanza>
+    <stanza type="verse" number="2">Dito nais namin,
+Sa Iyo unawain,
+Layon ng puso ng Ama,
+Bigay Mong biyaya.</stanza>
+    <stanza type="verse" number="3">May siya 'spiritu ko,
+May pagpa'totoo,
+Pan ng Buhay, yaman lubos,
+Sa buhay ko'y tustos.</stanza>
+    <stanza type="verse" number="4">Walang kondenasyon,
+Sa budhi ko ngayon,
+Dugong mahal mapanubos,
+Sagot hiling ng Diyos.</stanza>
+    <stanza type="verse" number="5">Ngayo'y matamis na,
+Tikim ng pagsinta;
+Sa taas, ano pa kaya,
+Pag tayo'y nagkita!</stanza>
+    <stanza type="verse" number="6">Mamamasdan ko na
+Iyong mukhang may glorya,
+Tanan-tanang biyaya Mo,
+Aking patotoo.</stanza>
+  </lyrics>
+</hymn>

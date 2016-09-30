@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>不是我們隨意走</title>
+  <index>true</index>
+  <category>事奉－隨主引領</category>
+  <numbers><cebuano num="907"/><chinese num="650"/><english num="907"/><german num="907"/><korean num="650"/><tagalog num="907"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5 ._1 ._1 7/( 6/) | 5 6 2 - | 3 2 4 3 | 2 1 5 - (break) | ._1 7/( 6/) 5 4 | 3 2/( 1/) 7_. - | 5 6 7 ._1 | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>不 是 我 們 隨 意 走， 乃 是 隨 主 的 引 領； 那 裡 活 水 方 湧 流， 那 裡 心 中 方 光 明。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="907"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">不是我們隨意走，
+乃是隨主的引領；
+那裡活水方湧流，
+那裡心中方光明。</stanza>
+	<stanza type="verse" number="2">不是自擇的工作，
+就能博得祂嘉許；
+乃是完成祂委託，
+纔可領受祂稱譽。</stanza>
+	<stanza type="verse" number="3">不是我們隨自己，
+就能座前獻禱告；
+乃是那靈的歎息，
+摸著更深的需要。</stanza>
+	<stanza type="verse" number="4">如果我們答應『不』，
+當祂輕說『我需要』，
+就是壇上有禮物，
+也不能使祂稱好。</stanza>
+	<stanza type="verse" number="5">我們如此向己死，
+與祂一同活天上，
+如此奉獻而服事，
+祂將自己作恩賞。</stanza>
+  </lyrics>
+</hymn>

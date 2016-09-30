@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Thom</firstname>
+<lastname>Gormley</lastname>
+<email>junk@audioposting.com</email>
+<password>$1$6ACT70TA$g5zJqYfB2bGB5V0lQ6tNa1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>24.152.193.195</ipaddress>
+<createdate>2008-07-26 01:43:08</createdate>
+<lastupdateddate>2009-09-15 18:22:07</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1100">God shall rise, His foes be scattered</fav>
+        <fav category="default" type="h" num="918">Christians, make haste, your mission high fulfilling</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="919">He shall reign o'er all the earth</fav>
+    </favourites>
+</user>

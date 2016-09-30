@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vader God, U bent de levensbron</title>
+  <index>true</index>
+  <category>Aanbidding van de Vader&amp;mdash;Zijn Naam, Zijn Woord, Zijn heerlijkheid</category>
+  <numbers><chinese num="ts:620"/><dutch num="55"/><english num="1081"/><german num="1081"/><korean num="851"/><portuguese num="36"/><russian num="198"/><spanish num="32"/></numbers>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 (Chorus) 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( ._1) - 7./ 6// | 5. 6/ 5/( 3/) 1/( 3/) (break) | 2 - - 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( (.._1) - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <notes>Na de tafel van de Heer</notes>
+  <music>
+	<midiref type="h" num="861"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vader God, U bent de levensbron.
+Uit Uw leven zijn geboren
+al Uw uitverkoren zonen.
+Vader God, U bent de levensbron.</stanza>
+	<stanza type="chorus" number="">In Uw leven, in Uw leven,
+in Uw leven zijn wij één.
+In Uw leven, in Uw leven,
+in Uw leven Vader, zijn wij één.</stanza>
+	<stanza type="verse" number="2">Dankbaar zijn wij dat Uw heilig Woord,
+met Uw leven ons verzadigt;
+In de Zoon ons begenadigt.
+Dank U Vader, voor Uw heilig Woord.</stanza>
+	<stanza type="chorus" number="">Door Uw Woord, door Uw Woord,
+door Uw Woord maakt U ons allen één.
+Door Uw Woord, door Uw Woord,
+door Uw heilig Woord maakt U ons één.</stanza>
+	<stanza type="verse" number="3">O, de glorie van de Vader-God!
+Wij Zijn zonen, wat een zegen!
+In Zijn heerlijkheid te leven,
+o, de glorie van de Vader-God!</stanza>
+	<stanza type="chorus" number="">In Uw glorie, in Uw glorie,
+in Uw glorie zijn wij één.
+In Uw glorie, in Uw glorie,
+in Uw glorie zijn wij allen één!</stanza>
+  </lyrics>
+</hymn>

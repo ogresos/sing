@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cindy</firstname>
+  <lastname/>
+  <email>cindymccaughey@aol.com</email>
+  <password>$2y$10$6Nn4klyaCl/v2rLU4UvNXeG6XsjOH.9WcvSF5JvUuOLOdkwIDHbEm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.176.204.162</ipaddress>
+  <createdate>2014-08-06 15:08:15</createdate>
+  <lastupdateddate>2014-08-06 15:13:44</lastupdateddate>
+  <lastlogindate>2014-08-06 15:12:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="591">Not I, but Christ be honored, loved, exalted</fav>
+  </favourites>
+</user>

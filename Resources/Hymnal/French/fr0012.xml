@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Devant Ton trône nous nous inclinons</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;la louange par Ses nombreux fils</category>
+  <numbers><chinese num="52"/><english num="55"/><french num="12"/><korean num="52"/><tagalog num="55"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from W. B. Dick</author>
+  </creators>
+  <music>
+    <midiref type="h" num="53"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ô Dieu et Père, nous nous approchons,
+Grâce au précieux, précieux sang du Sauveur.
+Tout près de Toi, toujours nous resterons,
+Nous T'adorons, Toi, notre Dieu et Père.</stanza>
+    <stanza type="verse" number="2">Tous réunis, nous voulons présenter
+Le doux parfum de Ton Fils bien-aimé.
+Nous apprécions la grâce illimitée,
+Que par Sa mort Il a pour nous donnée.</stanza>
+    <stanza type="verse" number="3">Nous partageons Ta joie d'être avec Lui,
+Ton bon plaisir délecte notre cœur.
+Sa gloire brille au milieu de la nuit,
+Sur les ténèbres règne le Seigneur !</stanza>
+    <stanza type="verse" number="4">Devant Ton trône nous nous inclinons,
+Nous contemplons l'objet de Ton amour.
+Unis à Lui, ensemble nous chantons :
+À Lui l'honneur, la gloire pour toujours !</stanza>
+  </lyrics>
+</hymn>

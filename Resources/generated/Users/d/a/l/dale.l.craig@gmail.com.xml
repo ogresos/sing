@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dale</firstname>
+  <lastname/>
+  <email>dale.l.craig@gmail.com</email>
+  <password>$2y$10$ualgoq1Ab9U7QABGgn0bc.0iRnJd/rmze/GyD5JETdVsA3pc0G2BS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.111.105.54</ipaddress>
+  <createdate>2014-09-28 03:44:06</createdate>
+  <lastupdateddate>2014-09-28 03:57:44</lastupdateddate>
+  <lastlogindate>2014-09-28 03:51:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+  </favourites>
+</user>

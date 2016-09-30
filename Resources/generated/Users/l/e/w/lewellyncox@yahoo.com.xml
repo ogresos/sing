@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>liz</firstname>
+    <lastname>cox</lastname>
+    <email>lewellyncox@yahoo.com</email>
+    <password>9goh%2B1ufhCfGnXz9j5Fqtw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>99.184.177.236</ipaddress>
+    <createdate>2011-02-25 23:48:51</createdate>
+    <lastupdateddate>2011-03-05 10:16:50</lastupdateddate>
+    <lastlogindate>2011-03-05 10:16:50</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+    </favourites>
+</user>

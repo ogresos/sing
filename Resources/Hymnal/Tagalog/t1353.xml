@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa ilaw ng buhay</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;PAKIKISALAMUHA SA KANYA</category>
+  <numbers><chinese num="476"/><english num="1353"/><russian num="220"/><spanish num="300"/><tagalog num="1353"/></numbers>
+  <music>
+    <midiref type="h" num="8476"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Sa ilaw ng buhay,
+Magmasid, mamuhay:
+Ang pagsalamuha
+Kay tamis sa t'wina;
+Laging nagpupuri,
+Higit ang l'walhati;
+Sa ilaw mamuhay.</stanza>
+  </lyrics>
+</hymn>

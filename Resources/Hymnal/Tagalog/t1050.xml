@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Labas sa gapos, dilim, panglaw</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;LUMALAPIT SA PANGINOON</category>
+  <numbers><cebuano num="1050"/><chinese num="725"/><dutch num="72"/><english num="1050"/><german num="1050"/><korean num="725"/><portuguese num="458"/><russian num="174"/><spanish num="482"/><tagalog num="1050"/></numbers>
+  <creators>
+	<author biodate="1819-1904" biolink="">Translated from William True Sleeper</author>
+  </creators>
+  <melody>| 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 2 - - | 2. 1/ 2 3 - - (break) | 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 3 - 2 | 1( - - 1) - 0 (break) | 1. 7_./ 1 4 - 6_. | 5_.. 4#_./ 5_. 3 - - | 2. 1#/ 2 5 - 7_. | 2. 1/ 6_. 5_. - - (break) | 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 3 - 2 | 1( - - 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1050"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Labas sa gapos, dilim, panglaw,
+Hesus, lumalapit ako!
+Tungo sa laya, galak, ilaw,
+Hesus ako'y sa Iyo!
+Ang sakit naging kalusugan,
+Kawalan naging kayamanan,
+Tungo sa Iyo'y may kaligtasan,
+Hesus, ako'y sa Iyo!</stanza>
+	<stanza type="verse" number="2">Labas sa aking pagkabigo,
+Hesus, lumalapit ako!
+Tungo sa l'walhating Iyong 'tamo,
+Hesus ako'y sa Iyo!
+Walang lumbay, may pag-aliw Mo,
+Bumagyo man, payapa sa Iyo,
+Walang hapis, kundi may salmo,
+Hesus, ako'y sa Iyo!</stanza>
+	<stanza type="verse" number="3">Labas sa 'king kapalaluan,
+Hesus lumalapit ako!
+Tungo sa maypalang kalo'ban,
+Hesus, ako'y sa Iyo!
+Sa pag-ibig Mo'y nananahan,
+Pagbalik Mo'y inaasahan,
+Wari'y ibong pumailanglang,
+Hesus, ako'y sa Iyo!</stanza>
+	<stanza type="verse" number="4">Labas sa takot ng libingan,
+Hesus lumalapit ako!
+Tungo sa buhay walang hanggan,
+Hesus, ako'y sa Iyo!
+Ligtas na sa kapinsalaan,
+At dinala ako sa kawan,
+Mukha Mo'y lagi kong mamasdan,
+Hesus, ako'y sa Iyo!</stanza>
+  </lyrics>
+</hymn>

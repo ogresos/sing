@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cristo tirou-nos do aprisco</title>
+  <index>true</index>
+  <category>Como O Rebanho De Deus</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <links>
+	<link type="ref">John 10</link>
+  </links>
+  <music>
+	<midiref type="h" num="1221"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cristo tirou-nos do aprisco,
+Maravilhoso pastor;
+Para Seu pasto tão rico
+Nos conduziu em amor.</stanza>
+	<stanza type="chorus" number="">Oh! quanta fartura!
+Vida da igreja sem par!
+Aqui, onde há unidade,
+Vida Deus pode ordenar.</stanza>
+	<stanza type="verse" number="2">Nas divisões procurou-nos,
+Pobres, em inanição;
+À boa terra levou-nos,
+Ao nosso espír'to, oh! que bom!</stanza>
+	<stanza type="verse" number="3">Cristo é nossa pastagem,
+Rica e real provisão,
+Que alimenta as ovelhas
+Em cada reunião.</stanza>
+	<stanza type="verse" number="4">Vivemos num alto monte
+Com o orvalho a regar,
+Matando a sede na fonte,
+Água tão viva a jorrar.</stanza>
+	<stanza type="verse" number="5">Cristo é nosso descanso,
+Nosso prazer, proteção;
+Nada as ovelhas receiam,
+Em Sua mão já estão.</stanza>
+  </lyrics>
+</hymn>

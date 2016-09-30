@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們同聚集是好得無比</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><cebuano num="1196"/><chinese num="ts:720"/><english num="1196"/><french num="123"/><german num="1196"/><russian num="118"/><spanish num="286"/><tagalog num="1196"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from WEJ home meeting</author>
+  </creators>
+  <melody>| 0 - 0/ 1/ 2/ 3/ | 4 4. 4/ 1/ 2/ | 3 3. 3/ 1/ 3/ | 2 2. 2/ 1/ 2/ (break) | 3 3. 1/ 2/ 3/ | 4 4. 4/ 1/ 2/ | 3 3 - - | 2/ 2 1/ 7_./ 5_./ 7_./ 2/ | 1 - 0 - |</melody>
+  <layout>
+	<singingstanza>基 督 是 活 神， 說： 阿 利 路 亞！ 祂 活 我 裡 面， 說： 阿 利 路 亞！ 祂 是 我 永 分， 豐 富 又 美 佳； 只 要 喊 『哦， 主』 就 嘗 祂。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1196"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督是活神，
+說：阿利路亞！
+祂活我裡面，
+說：阿利路亞！
+祂是我永分，
+豐富又美佳；
+只要喊『哦，主』
+就嘗祂。</stanza>
+	<stanza type="verse" number="2">我們同聚集
+是好得無比；
+因為在靈裡
+一同作肢體，
+成為主身體
+彰顯祂自己；
+基督是我們的實際。</stanza>
+	<stanza type="verse" number="3">在地方召會
+我們被充滿，
+為使主豐富
+向全地擴展！
+一地又一地，
+一直到地極，
+把活的基督傳出去！</stanza>
+  </lyrics>
+</hymn>

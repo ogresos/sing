@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我已得著歸宿</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5565176544332123</hymncode>
+  <key>Bb Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>前 我 曾 是 個 孤 單 的 人， 追 求 自 己 的 屬 靈， 盼 望 我 能 在 主 前 侍 立， 使 祂 能 歡 喜 滿 意。 多 年 來 雖 屢 覺 得 甜 美， 卻 又 是 時 常 淒 涼， 我 是 已 有 彀 多 的 失 望， 知 道 不 能 再 這 樣。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0703.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">前我曾是個孤單的人，
+追求自己的屬靈，
+盼望我能在主前侍立，
+使祂能歡喜滿意。
+多年來雖屢覺得甜美，
+卻又是時常淒涼，
+我是已有彀多的失望，
+知道不能再這樣。</stanza>
+	<stanza type="verse" number="2">在主裡我尋見了你們，
+如尋見所愛的主，
+我就知我已得著歸宿，
+在家中享受豐富。
+藉你們我能得著力量，
+不知不覺的向前，
+我何願與你們永結聯，
+只望為你們而活。</stanza>
+  </lyrics>
+</hymn>

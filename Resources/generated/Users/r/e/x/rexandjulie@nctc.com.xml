@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rex</firstname>
+  <lastname>Clement</lastname>
+  <email>rexandjulie@nctc.com</email>
+  <password>$2y$10$npws8eUlm4U5yCNVP690POGaLmoBqsqgIn8PXYiNuxwQAIesEOrS6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.240.136.60</ipaddress>
+  <createdate>2014-06-22 13:47:01</createdate>
+  <lastupdateddate>2014-06-22 13:48:33</lastupdateddate>
+  <lastlogindate>2014-06-22 13:48:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

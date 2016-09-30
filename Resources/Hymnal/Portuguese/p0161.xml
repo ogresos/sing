@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Em pé, minh'alma, em pé</title>
+  <index>true</index>
+  <category>Reconciliados Com Deus</category>
+  <numbers><cebuano num="300"/><chinese num="ts:248"/><english num="300"/><portuguese num="161"/><russian num="358"/><spanish num="144"/><tagalog num="300"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="300"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Em pé, minh'alma, em pé,
+Não tenhas mais temor;
+O sangue já verteu
+Por mim o Salvador.
+Perante o trono está, então,
+Meu nome escrito em Suas mãos.</stanza>
+    <stanza type="verse" number="2">O vivo Salvador
+Por mim está a rogar,
+Com redentor amor
+E sangue singular.
+O trono Ele aspergiu no céu
+Co'o sangue que por nós verteu.</stanza>
+    <stanza type="verse" number="3">Na cruz por todos nós
+As chagas suportou,
+Que hoje alçam voz,
+Vertendo seu clamor:
+Ao pecador, perdoa já,
+Resgata-o, comprado está.</stanza>
+    <stanza type="verse" number="4">O Filho amado Seu,
+O Pai O ouve orar;
+Nenhum pedido Seu
+O Pai vai recusar.
+Resposta o Espír'to dá
+Que fui gerado de Deus Pai.</stanza>
+    <stanza type="verse" number="5">Reconciliado estou,
+Perdão já posso ouvir;
+Seu filho hoje sou,
+E não mais temo aqui.
+Com confiança a Ele vou,
+E clamo: Aba, Pai de amor.</stanza>
+  </lyrics>
+</hymn>

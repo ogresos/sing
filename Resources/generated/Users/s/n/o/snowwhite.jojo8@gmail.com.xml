@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>snow</firstname>
+    <lastname>white</lastname>
+    <email>snowwhite.jojo8@gmail.com</email>
+    <password>3PsgZ7pDf27cDHJC%2FuwRBQ%3D%3D</password>
+    <gender>F</gender>
+    <country>my</country>
+    <ipaddress>218.111.247.245</ipaddress>
+    <createdate>2011-03-10 01:58:34</createdate>
+    <lastupdateddate>2011-03-10 04:12:18</lastupdateddate>
+    <lastlogindate>2011-03-10 01:58:37</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    </favourites>
+</user>

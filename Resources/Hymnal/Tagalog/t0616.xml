@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kanluran ang araw</title>
+  <index>true</index>
+  <category>PAGDARANAS SA DIYOS&amp;mdash;NAKIKISALAMUHA SA KANYA</category>
+  <numbers><chinese num="411"/><english num="616"/><korean num="411"/><tagalog num="616"/></numbers>
+  <creators>
+    <author biodate="1841-1913" biolink="">Translated from Mary Artemesia Lathbury</author>
+  </creators>
+  <music>
+    <midiref type="h" num="616"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa kanluran ang araw
+Palubog di matanaw;
+Sa pagdating ng gabi
+Sisilay ilaw munti
+Buong langit.
+Banal, banal, banal
+Diyos ng Hukbo!
+Langit, lupa'y puno Mo,
+Nagpupuri sa Iyo!
+Kay tayog Mo!</stanza>
+    <stanza type="verse" number="2">Sa buong sansinukob,
+Hangad ko'y mukha Mo,
+Sa paligid nais ko,
+Makita l'walhati Mo,
+Pu'nan ako!</stanza>
+    <stanza type="verse" number="3">Nang gabi'y lumalalim
+Puso ko'y nananabik,
+Sa l'walhati biyaya,
+Ang mukha Mo'y makita,
+Di ulila!</stanza>
+    <stanza type="verse" number="4">Naglaho sa 'king mata,
+Araw, gabing panlupa;
+Walang hanggang umaga,
+Dalhin sa 'kin Iyong glorya,
+Gabi'y wala.</stanza>
+  </lyrics>
+</hymn>

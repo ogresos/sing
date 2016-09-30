@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh welch Gewissheit, Jesus ist mein</title>
+  <index>true</index>
+  <category>GEWISSHEIT UND FREUDE DER ERRETTUNG&amp;mdash;Vom Geist geboren</category>
+  <numbers><cebuano num="308"/><chinese num="265"/><english num="308"/><french num="58"/><german num="308"/><korean num="265"/><portuguese num="168"/><russian num="63"/><spanish num="151"/><tagalog num="308"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+ <key>C Major</key>
+  <melody>| 0 - - 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 5/ 3/ 5/ | ._1. 7 7/ 6/ 5/ 4#/ (break) | 5.( 5.) 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1/ 2/ 7_./ (break) | 1.( 1.) (Chorus) 5/ 5/ 5/ | ._1. 5. 6/ 6/ 6/ | 5.( 5.) 5/ 5/ 5/ | 6. ._1. 7/ 7/ 6/ (break) | 7.( 7.) 7/ ._1/ ._2/ | ._1. 5. 6/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1./ 2// 7_./ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>Oh welch Ge -- wiss -- heit, Je -- sus ist mein! Welch Herr -- lich -- keit, bin nun e -- wig -- lich sein! Von Gott er -- kauft, welch Ret -- tung, so gut, Vom Geist ge -- bo -- ren, rein durch Sein Blut. Dies ist mein Zeug -- nis und mein Ge -- sang, Prei -- sen will Je -- sus mein Le -- ben lang. Dies ist mein Zeug -- nis und mein Ge -- sang, Prei -- sen will Je -- sus mein Le -- ben lang.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh welch Gewissheit, Jesus ist mein!
+Welch Herrlichkeit, bin nun ewiglich sein!
+Von Gott erkauft, welch Rettung, so gut,
+Vom Geist geboren, rein durch Sein Blut.</stanza>
+	<stanza type="chorus" number="">Dies ist mein Zeugnis und mein Gesang,
+Preisen will Jesus mein Leben lang.
+Dies ist mein Zeugnis und mein Gesang,
+Preisen will Jesus mein Leben lang.</stanza>
+	<stanza type="verse" number="2">Bin ganz ergeben, und voller Freud,
+Meine Vision ist Entrückung schon heut;
+Auf meinen Pfad streust Du allezeit
+Liebe und große Barmherzigkeit.</stanza>
+	<stanza type="verse" number="3">Bin ganz ergeben, Ruhe zieht ein,
+In meinem Retter gesegnet darf sein,
+Wachend und betend schau ich zu Dir,
+In Deiner Liebe ganz mich verlier.</stanza>
+  </lyrics>
+</hymn>

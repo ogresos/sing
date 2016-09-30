@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What a Friend we have in Jesus</title>
+  <index>true</index>
+  <category>Prayer&amp;mdash;Telling the Lord</category>
+  <creators>
+    <author biodate="" biolink="">Joseph Scriven</author>
+    <composer biodate="" biolink="">Irish Traditional Melody</composer>
+  </creators>
+  <hymncode>1232123565</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>85</tempo>
+  <chords>| C - - - | C - G/B - | F/A - C/G C/E | F - G - | F - G7 - | C - G/B - | F/A - C/G C/E | F - G - | C - - G | C - F - | G - C/E - | F - G - | F/A - G/B - | C - G/B - | F/A - C/G C/E | F - G7 - | F/C - C - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 2/( 1/) 2 3/( 5/) | 6 - 5 ._1/ 5/ | 6 5/( 3/) 2. 1/ (break) | 1 - - 1/ 2/ | 3 2/( 1/) 2 3/( 5/) | 6 - 5 ._1/ 5/ | 6 5/( 3/) 2. 1/ (break) | 1 - - 5/ 5/ | ._1 7/( 5/)  6 ._1 | 7 5( 5) 3/ 5/ | 6 5/( 3/) 5/( 6/) ._1/( ._2/) (break) | ._1 - - 1/ 2/ | 3 2/( 1/) 2 3/( 5/) | 6 - 5 ._1/ 5/ | 6 5/( 3/) 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>What a Friend we have in Je -- sus, All our sins and griefs to bear! What a priv -- i -- lege to car -- ry Ev -- ery -- thing to God in prayer! O what peace we of -- ten for -- feit, O what need -- less pain we bear, All be -- cause we do not car -- ry Ev -- ery -- thing to God in prayer!</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="789"></link>
+  </links>
+  <music>
+    <midi location="nt" length="46">e0789_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What a Friend we have in Jesus,
+  All our sins and griefs to bear!
+What a privilege to carry
+  Everything to God in prayer!
+O what peace we often forfeit,
+  O what needless pain we bear,
+All because we do not carry
+  Everything to God in prayer!</stanza>
+    <stanza type="verse" number="2">Have we trials and temptations?
+  Is there trouble anywhere?
+We should never be discouraged,
+  Take it to the Lord in prayer.
+Can we find a friend so faithful
+  Who will all our sorrows share?
+Jesus knows our every weakness,
+  Take it to the Lord in prayer.</stanza>
+    <stanza type="verse" number="3">Are we weak and heavy-laden,
+  Cumbered with a load of care?
+Precious Savior, still our refuge&amp;mdash;
+  Take it to the Lord in prayer;
+Do thy friends despise, forsake thee?
+  Take it to the Lord in prayer;
+In His arms He'll take and shield thee,
+  Thou wilt find a solace there.</stanza>
+  </lyrics>
+</hymn>

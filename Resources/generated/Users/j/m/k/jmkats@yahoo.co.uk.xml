@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>jay</firstname>
+    <lastname>j</lastname>
+    <email>jmkats@yahoo.co.uk</email>
+    <password>BxxuPrySeEQw8mkfu56eBA%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>94.13.134.157</ipaddress>
+    <createdate>2013-10-01 12:29:27</createdate>
+    <lastupdateddate>2013-10-01 12:35:22</lastupdateddate>
+    <lastlogindate>2013-10-01 12:29:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+    </favourites>
+</user>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ins Allerheiligste komm, berühr den Gnadenthron</title>
+  <index>true</index>
+  <category>GEBET&amp;mdash;Im Allerheiligsten</category>
+  <numbers><cebuano num="770"/><chinese num="557"/><dutch num="68"/><english num="770"/><french num="140"/><german num="770"/><korean num="557"/><portuguese num="354"/><russian num="127"/><spanish num="328"/><tagalog num="770"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <chords>| C - - - | C - - - | C - - - | F - C - | C - Am - | Dm - G7 - | C - - - | F - C - | C - G7 - | C F/C C - | C - C/E - | F - C - | C - Am - | Dm - G7 - | C - - - | F - C - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | F - C - | C - - - | G - G7 - | C - - - | F - C - | C - G7 - | C F C - | C - - - | F - C - | C - - - | C - G7 - | C - - - | F - C - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - 0./ 5// | 5/ 5/ ._1/ ._2// ._2// ._3. ._1/ | ._1./ ._2// ._1./ 6// 5 - | 5/ 5/ ._1./ ._2// ._3 ._4./ ._3// | ._2 - - 0./ 5// (break) | 5/ 5/ ._1/ ._2// ._2// ._3. ._1/ | ._1./ ._2// ._1./ 6// 5 - | 5/ 5/ ._1./ ._2// ._3 ._2./ ._2// | ._1 - - - (break) | (Chorus) ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/ 5/ ._1./ ._2// ._3 ._4./ ._3// | ._2 - - - (break) | ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/ 5/ ._1./ ._2// ._3 ._2./ ._2// | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>Ins Al -- ler -- hei -- ligs -- te komm, be -- rühr den Gna -- den -- thron, Gna -- de herr -- lich fließt wie ein Strom. Ins Al -- ler -- hei -- ligs -- te komm, be -- rühr den Gna -- den -- thron, Gna -- de herr -- lich fließt wie ein Strom. Hal -- le -- lu -- ja! Hal -- le -- lu -- ja! Gna -- de herr -- lich fließt wie ein Strom. Hal -- le -- lu -- ja! Hal -- le -- lu -- ja! Gna -- de herr -- lich fließt wie ein Strom.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="770"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ins Allerheiligste komm, berühr den Gnadenthron,
+    Gnade herrlich fließt wie ein Strom.
+Ins Allerheiligste komm, berühr den Gnadenthron,
+    Gnade herrlich fließt wie ein Strom.</stanza>
+	<stanza type="chorus" number="">Halleluja! Halleluja!
+Gnade herrlich fließt wie ein Strom.
+    Halleluja! Halleluja!
+Gnade herrlich fließt wie ein Strom.</stanza>
+	<stanza type="verse" number="2">Im Allerheiligsten web, vor dem Herrn dort leb,
+    Herrlichkeit wird scheinen durch dich;
+Im Allerheiligsten web, vor dem Herrn dort leb,
+    Herrlichkeit wird scheinen durch dich;</stanza>
+	<stanza type="chorus" number="">Halleluja! Halleluja!
+Herrlichkeit wird scheinen durch dich;
+    Halleluja! Halleluja!
+Herrlichkeit wird scheinen durch dich.</stanza>
+	<stanza type="verse" number="3">Allzeit zum Geist dich wend, und der Weihrauch brennt,
+    Die Quelle des Lebens berühr;
+Allzeit zum Geist dich wend, und der Weihrauch brennt,
+    Die Quelle des Lebens berühr.</stanza>
+	<stanza type="chorus" number="">Halleluja! Halleluja!
+Die Quelle des Lebens berühr;
+    Halleluja! Halleluja!
+Die Quelle des Lebens berühr.</stanza>
+  </lyrics>
+</hymn>

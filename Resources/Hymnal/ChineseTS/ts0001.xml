@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>開口讚美</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><cebuano num="1095"/><chinese num="ts:1"/><english num="1095"/><german num="1095"/><korean num="806"/><portuguese num="65"/><russian num="29"/><spanish num="61"/><tagalog num="1095"/></numbers>
+  <melody>| 0 - - 5_. | 5_.. 6_./ 5_. 1 | 1 - 7_. 7_. | 1 1 4 3 | 2 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. 3/( 2/) | 1 - 0 5_. (break) | 5. 5/ 5 4/( 3/) | 2 - 5_. 5_. | 2. 2/ 2 1/( 2/) | 3 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. (.3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>當 我 們 開 口 讚 美， 主 就 得 著 榮 耀； 當 歡 聲 響 徹 雲 霄， 天 使 拍 手 叫 好！ 我 們 是 活 神 見 證， 該 讓 世 人 知 道； 撒 但 全 軍 必 潰 散， 聞 聲 四 處 竄 逃。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="380"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當我們開口讚美，
+主就得著榮耀；
+當歡聲響徹雲霄，
+天使拍手叫好！
+我們是活神見證，
+該讓世人知道；
+撒但全軍必潰散，
+聞聲四處竄逃。</stanza>
+	<stanza type="verse" number="2">我們閉口就失敗，
+換來魔鬼嘲笑；
+因此為何不開火，
+直到把他趕跑？
+以『讚美為祭』獻上，
+大大歡呼釋放，
+怎能說這是丟臉？
+為神應該發狂！</stanza>
+	<stanza type="verse" number="3">世界從未助我們
+向主獻讚美祭，
+從未向祂歸榮耀，
+從未向祂感激。
+因此我們豈需要，
+得允許而讚美？
+喊出！釋放你的靈！
+祂賜無限恩惠。</stanza>
+	<stanza type="verse" number="4">弟兄們，不要靜默！
+姊妹們，大聲喊！
+將神的得勝祝福，
+傳遍遠近四方。
+現在是讚美之時，
+任何代價不顧！
+因祂救恩而喜樂，
+因祂憐憫歡呼！</stanza>
+  </lyrics>
+</hymn>

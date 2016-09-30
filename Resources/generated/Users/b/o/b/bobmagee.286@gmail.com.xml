@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bob</firstname>
+  <lastname>Magee</lastname>
+  <email>bobmagee.286@gmail.com</email>
+  <password>$2y$10$Pe6ZNNhXTlCXngb2U.NVd.u4iAS9Xcikus.GJ7I5l67g2OipbQvn2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.187.72.165</ipaddress>
+  <createdate>2015-03-26 20:03:27</createdate>
+  <lastupdateddate>2015-03-26 20:06:13</lastupdateddate>
+  <lastlogindate>2015-03-26 20:06:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

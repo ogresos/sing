@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Lord, Jesus Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <numbers><chinese num="ts:403"/><english num="ns:200"/><vsb num="134"/></numbers>
+  <hymncode>3521543334565</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C7/E - - | F - - | Fm - - | C/G - - | Am - - | Dm7 - - | G7 - - | C - - | C7/Bb - - | F/A - - | Fm/Ab - - | C/G - - | G7 - - | F/C - - | C - - | G/B - - | G7 - - | C - - | C7/E - - | F - - | D7/F# - - | G - - | G7/B - - | C - - | C7/Bb - - | F/A - - | Fm/Ab - - | C/G - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 3 - 5 | ._2 - - | ._1 - 5 | 4 - - | 3 - 3 | 3( 4) 5 | 6 - - | 5 - - (break) | | 3 - 5 | ._2 - - | ._1 - 5 | 4 - - | 3 5 5 | 5( 6) 7 | ._1 - - | ._1 - - (break) | ._2. 5/ 5 | 7 6 5 | 3 - 5 | ._1 - - | 6 - ._1 | ._2 - ._1 | 7 - - | 5 - 5 (break) | 3 - 5 | ._2 - - | ._1 - 5 | 4 - - | 3 5 5 | 5( 6) 7 | ._1 - - | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus Lord, Je -- sus Lord. How we long to touch Thee, More and more, more and more, That You may grow with -- in us. "Blos -- som of Gold" may You bloom and grow. Bloom and grow for -- ev -- er Then all will see, all will know, You are the Lord with -- in us.</singingstanza>
+  </layout>
+  <audios>
+    <audio title="Instrumental (Guitar)" location="ns" length="326">ns0200_guitar.mp3</audio>
+  </audios>
+  <music>
+    <midi location="ns" length="57">ns0200.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus Lord, Jesus Lord.
+How we long to touch Thee,
+More and more, more and more,
+That You may grow within us.
+"Blossom of Gold" may You bloom and grow.
+Bloom and grow forever
+Then all will see, all will know,
+You are the Lord within us.</stanza>
+  </lyrics>
+</hymn>

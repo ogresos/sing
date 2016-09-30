@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dalan sa Krus pagpakasakit</title>
+  <index>true</index>
+  <category>ANG DALAN SA KRUS&amp;mdash;ANG DALAN SA KINABUHI</category>
+  <numbers><cebuano num="630"/><chinese num="462"/><english num="630"/><german num="630"/><korean num="462"/><russian num="422"/><spanish num="296"/><tagalog num="630"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mary E. Maxwell</author>
+  </creators>
+  <melody>| 0 - - 3 | 3 3/ 3/ 4 3 | 3 2 1 1/ 1/ | 4 4 1 2 (break) | 3 - - 3/ 3/ | 3 2/ 1/ 4 6_./ 1/ | 1 7_. 6_. 6_. | 5_. 1/( 7_./) 6_. 6_. (break) | 2( - 5_.) (Chorus) 5_./ 5_./ | 1 2/ 3/ 6_. 6_./ 6_./ | 2 3/ 4/ 7_. 7_./ 7_./ | 3 7_./ 2/ 1 7_./ 6_./ (break) | 3 - - 3/ 3/ | 4 3/ 4/ 2 2 | 3 2/( 3/) 1 1 | 3 2/ 6_./ 1 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="630"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dalan sa Krus pagpakasakit,
+Tanan ihalad sa Dios,
+Sa halaran gayud sa kamatayon,
+May kalayong magsunog.</stanza>
+	<stanza type="chorus" number="">Kini dalan sa Krus, lakwon mo ba kini?
+Pas-anon bang Krus alang Niya?
+Ikawng naghalad sa tanan Niya,
+Magmaunongon ka ba?</stanza>
+	<stanza type="verse" number="2">Sa pag-awit ug pag-ampo ta,
+Daling maghalad's tanan;
+Apan may bug-at nga krus sa unahan,
+Higpit pang tulobagon.</stanza>
+	<stanza type="verse" number="3">Mohunong o mag'tinud-anon
+Mamatay's krus sa dalan,
+Hangtud's kahupnganan's kinabuhi N'ya
+Pun-on ka adlaw-adlaw?</stanza>
+	<stanza type="verse" number="4">Pagkamatay mo'g pagkabuhi,
+Plano N'ya's kinabuhi,
+Aron Siyang gibanhaw, gihimaya
+Ikinabuhi nimo.</stanza>
+  </lyrics>
+</hymn>

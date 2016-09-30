@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Einst wanderte ich fern von Gott</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Zum Herrn kommen</category>
+  <numbers><cebuano num="1052"/><chinese num="728"/><english num="1052"/><french num="203"/><german num="1052"/><korean num="728"/><portuguese num="461"/><russian num="176"/><spanish num="484"/><tagalog num="1052"/></numbers>
+  <creators>
+	<author biodate="1838-1921" biolink="">Translated from William James Kirkpatrick</author>
+  </creators>
+  <melody>| 0 - - 5 | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._3/ ._3. | ._2 - - 5 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 (break) | (Chorus) ._3/ ._3. ._1 - | ._1/ ._1. 6 - | 5 ._3 ._3 ._1 | ._2 - - 0 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Einst wan -- der -- te ich fern von Gott, Nun, Herr, komm ich heim; Zu lang schon ging in Sünd und Tod, Herr, ich kom -- me heim. Kom -- me heim, kom -- me heim, Will nie mehr fern sein; Dei -- ne Lie -- be reicht so weit; Herr, ich kom -- me heim.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1052"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Einst wanderte ich fern von Gott,
+    Nun, Herr, komm ich heim;
+Zu lang schon ging in Sünd und Tod,
+    Herr, ich komme heim.</stanza>
+	<stanza type="chorus" number="">Komme heim, komme heim,
+    Will nie mehr fern sein;
+Deine Liebe reicht so weit;
+    Herr, ich komme heim.</stanza>
+	<stanza type="verse" number="2">Vergeudet hab ich manches Jahr
+    Nun, Herr, komm ich heim;
+Bereu mit bittren Tränen gar,
+    Herr, ich komme heim.</stanza>
+	<stanza type="verse" number="3">In Sünden wandern will nicht mehr,
+    Nun, Herr komm ich heim;
+Glaub Deinem Wort, vertrau Dir sehr;
+    Herr, ich komme heim.</stanza>
+	<stanza type="verse" number="4">Die Seele krank, mein Herz verletzt,
+    Nun, Herr komm ich heim;
+Schenk neue Kraft und Hoffnung jetzt;
+    Herr, ich komme heim.</stanza>
+	<stanza type="verse" number="5">Nur eins verteidigt mich vor Gott,
+    Nun, Herr, komm ich heim;
+Dass Jesus litt für mich den Tod;
+    Herr, ich komme heim.</stanza>
+	<stanza type="verse" number="6">Sein Blut, das reinigt, brauche ich,
+    Nun, Herr, komm ich heim;
+Noch weißer als der Schnee wasch mich;
+    Herr, ich komme heim.</stanza>
+  </lyrics>
+</hymn>

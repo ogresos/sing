@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>octavio</firstname>
+    <lastname>ibarra</lastname>
+    <email>octiba2@gmail.com</email>
+    <password>$1$NvjHGIKL$jvVoNRCF00LdSItkspbeA/</password>
+    <gender>M</gender>
+    <country>Ecuador</country>
+    <ipaddress>200.25.197.94</ipaddress>
+    <createdate>2009-08-18 23:03:02</createdate>
+    <lastupdateddate>2010-11-06 13:04:59</lastupdateddate>
+    <lastlogindate>2010-11-06 13:04:59</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+    </favourites>
+</user>

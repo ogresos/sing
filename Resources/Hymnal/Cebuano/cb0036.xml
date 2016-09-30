@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Daygon Ikaw, Amahan</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGTUDLONG-DAAN NIYA</category>
+  <numbers><cebuano num="36"/><chinese num="32"/><english num="36"/><german num="36"/><portuguese num="26"/><russian num="196"/><spanish num="24"/><tagalog num="36"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from P. Van den Berg, from Dutch</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Daygon Ikaw, Amahan,
+Tumong mi's grasya Mo;
+Alang's Imong kalipay,
+Nia's presensya Mo.
+Gitiman-an Mong daan
+Nga alang's himaya,
+Mag-uban mi ni Cristo,
+Nga Pinalangga Mo.</stanza>
+	<stanza type="verse" number="2">Ikaw ra, O Amahan
+Makatuga namo
+Diha sa Imong Anak
+Sa Espiritu Mo;
+Imo na mi'g mag-uban
+Ni Cristo's himaya,
+Magsidlak's dagway Niya,
+Hangtud's dayon, Amen!</stanza>
+  </lyrics>
+</hymn>

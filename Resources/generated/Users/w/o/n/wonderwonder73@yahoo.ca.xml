@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Steve</firstname>
+    <lastname>Walker</lastname>
+    <email>wonderwonder73@yahoo.ca</email>
+    <password>kUbZV7KOjHucutycsiMIIA%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>74.115.197.43</ipaddress>
+    <createdate>2012-06-18 17:26:51</createdate>
+    <lastupdateddate>2012-11-07 22:55:06</lastupdateddate>
+    <lastlogindate>2012-11-07 22:53:24</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    </favourites>
+</user>

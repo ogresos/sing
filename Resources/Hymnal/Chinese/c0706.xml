@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>來家來家</title>
+  <index>true</index>
+  <category>福音－主的呼召</category>
+  <numbers><cebuano num="1027"/><chinese num="706"/><english num="1027"/><korean num="706"/><russian num="172"/><tagalog num="1027"/></numbers>
+  <creators>
+	<author biodate="1847-1909" biolink="">Translated from Will Lamartine Thompson</author>
+  </creators>
+  <melody>| 3./ 2// 1/ 1/ 7_./ 1/ | 2/ 1/ 6_./ 6_./ 5_./ 0/ | 1/ 1/ 1/ 3./ 2// 1/ | 2.( 2) 0/ (break) | 3./ 2// 1/ 1/ 7_./ 1/ | 2/ 1/ 6_./ 6_./ 5_./ 0/ | 1/ 1/ 4/ 3./ 1// 2/ (break) | 1.( 1) (Chorus) 5_./ | 2.( 2) 3/ | 1( 2/ 3.) | 2/ 2/ 2/ 3// 3./ 4#/ | (.5( (.4#/ (.4) 0/ (break) | 3./ 2// 1/ 1/ 7_./ 1/ | 2/ 1/ 6_./ 6_./ 5_./ 0/ | 1// 1./ (.4/ 3// 1./ (.2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>何 等 柔 細 慈 愛， 耶 穌 在 呼 召， 呼 召 他， 也 呼 召 你！ 祂 在 天 上 等 待， 也 來 地 尋 找， 尋 找 他， 也 尋 找 你！ 來 家！ 來 家！ 你 這 疲 乏 人， 來 家！ 何 等 懇 切 慈 愛， 耶 穌 在 呼 召， 呼 召 你， 罪 人， 來 家！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1027"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何等柔細慈愛，
+耶穌在呼召，
+呼召他，也呼召你！
+祂在天上等待，
+也來地尋找，
+尋找他，也尋找你！</stanza>
+	<stanza type="chorus" number="">來家！來家！
+你這疲乏人，來家！
+何等懇切慈愛，
+耶穌在呼召，
+呼召你，罪人，來家！</stanza>
+	<stanza type="verse" number="2">為何糊塗遲延，
+不聽祂懇勸，
+懇勸他，也懇勸你？
+為何躊躇留戀，
+不理祂恩眷，
+恩眷他，也恩眷你？</stanza>
+	<stanza type="verse" number="3">時間急急在逝，
+機會要越過，
+越過他，也越過你；
+陰影漸漸在集，
+死亡要來捉，
+來捉他，也來捉你。</stanza>
+	<stanza type="verse" number="4">哦，那奇妙之愛，
+祂已經應許，
+應許他，也應許你；
+雖然污穢敗壞，
+祂仍必憐恤，
+憐恤他，也憐恤你。</stanza>
+  </lyrics>
+</hymn>

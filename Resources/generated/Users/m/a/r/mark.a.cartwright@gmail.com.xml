@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Mark</firstname>
+<lastname>Cartwright</lastname>
+<email>mark.a.cartwright@gmail.com</email>
+<password>$1$TKwCYbd7$JIKCR9GF9tX15aKvXWNB41</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>72.179.47.209</ipaddress>
+<createdate>2009-03-14 19:27:30</createdate>
+<lastupdateddate>2009-09-15 18:29:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="769">To the holiest place I'd come</fav>
+        <fav category="default" type="h" num="1178">We have seen Christ is reality</fav>
+        <fav category="default" type="h" num="717">O let us rejoice in the Lord evermore</fav>
+        <fav category="default" type="ns" num="257">The church is the house of the living God</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+        <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+        <fav category="default" type="c" num="102">Why was a cup made?</fav>
+        <fav category="default" type="c" num="116">Wonderful, Wonderful</fav>
+    </favourites>
+</user>

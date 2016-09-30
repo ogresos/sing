@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jack</firstname>
+  <lastname/>
+  <email>jack.arapyegon@gmail.com</email>
+  <password>$2y$10$WdWr9URBOIcp8xGECbsbTOtSBRbbPnmzG82rKse8xNwspmkfhwBDe</password>
+  <gender/>
+  <country>ke</country>
+  <ipaddress>197.237.68.14</ipaddress>
+  <createdate>2015-03-27 08:17:05</createdate>
+  <lastupdateddate>2015-03-27 08:18:09</lastupdateddate>
+  <lastlogindate>2015-03-27 08:18:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

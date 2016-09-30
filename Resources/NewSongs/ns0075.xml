@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Water you, water you</title>
+  <index>true</index>
+  <category>Meetings&amp;mdash;Functioning</category>
+  <numbers><chinese num="ts:136"/><english num="ns:75"/><vsb num="76"/></numbers>
+  <hymncode>12332121161</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | C - C7 - | F - - G7 | C - Am - | D7 - G7 - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C G7 | C - - - | C - - - | Dm - Dm7 - | G - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3/ 3.( 3) 2/ 1/ | 2/ 1/ 1/ 6_./ 1 1/ 2/ | 3/ 3.( 3) 2/ 1/ | 2/ 2/ 2/ 3/ 2 1/ 2/ | 3/ 3.( 3) 2/ 1/ | 2/ 1/ 1/ 6_./ 1 1/ 2/ | 3/ 3/ 3/ 1/ 2/ 2/ 3/ 2/ (break) | 1 - - (Chorus) 3/ 4/ | 5 - - 3/ 4/ | 5 - - 3/ 3/ | 4/ 4/ 4/ 4/ 4/ 3/ 2/ 3/ | 4 - - 3/ 4/ | 5/ 5/ 5/ 6/ 5 3/ 2/ | 1/ 1/ 1/ 6_./ 1 1/ 2/ | 3/ 3/ 3/ 1/ 2/ 2/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>From my spir -- it, when I'm sens -- ing the sup -- ply Of God's speak -- ing, from a fount that ne'er runs dry, And with -- in me comes a fresh and sweet sup -- ply, Then I've got to o -- pen up and wa -- ter you. Wa -- ter you, wa -- ter you, From the flow -- ing in my spir -- it wa -- ter you; When the saints need my sup -- ply, Then I'll sure -- ly tes -- ti -- fy, I'll stand up, re -- lease my Christ and wa -- ter you!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="33">ns0075.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">From my spirit, when I'm sensing the supply
+Of God's speaking, from a fount that ne'er runs dry,
+And within me comes a fresh and sweet supply,
+Then I've got to open up and water you.</stanza>
+    <stanza type="chorus" number="">Water you, water you,
+From the flowing in my spirit water you;
+When the saints need my supply,
+Then I'll surely testify,
+I'll stand up, release my Christ and water you!</stanza>
+    <stanza type="verse" number="2">In the meeting, when the spirit's rising high,
+And it seems like we will go beyond the sky&amp;mdash;
+I can't help it, I must speak or else I'll die,
+For my Christ is rising up to water you.</stanza>
+    <stanza type="verse" number="3">Should a pause come, or the meeting ebb real low,
+While within me there's a rich and living flow,
+Then I'll stand up, so that all the saints will know,
+That I'm here to share my Christ and water you.</stanza>
+    <stanza type="verse" number="4">In the church life, in our daily living too,
+In the meeting, and in everything we do,
+Christ is speaking and the Spirit's breaking through,
+That is why there's the supply to water you.</stanza>
+  </lyrics>
+</hymn>

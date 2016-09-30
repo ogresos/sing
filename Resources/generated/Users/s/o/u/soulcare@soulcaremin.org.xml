@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela</firstname>
+  <lastname>Page</lastname>
+  <email>soulcare@soulcaremin.org</email>
+  <password>$2y$10$3FDFtXEyDOsaGDXVG80yh.KPNSTiqCjJXNOZ1iuEl5LxRUttZN5.y</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>45.36.236.124</ipaddress>
+  <createdate>2016-07-08 14:20:35</createdate>
+  <lastupdateddate>2016-07-08 14:38:10</lastupdateddate>
+  <lastlogindate>2016-07-08 14:21:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

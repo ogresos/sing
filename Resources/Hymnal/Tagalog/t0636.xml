@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Kung mamatay," ang mensahe</title>
+  <index>true</index>
+  <category>ANG DAAN NG KRUS&amp;mdash;ANG DAAN NG PAGIGING-MABUNGA</category>
+  <numbers><chinese num="466"/><english num="636"/><korean num="466"/><portuguese num="322"/><tagalog num="636"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="636"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Kung mamatay," ang mensahe
+Poon may sabi;
+"Kung mamatay" mamumunga,
+Nang marami nga.</stanza>
+    <stanza type="verse" number="2">Nais mong matamong buhay,
+Dapat mamatay,
+Namatay at nalibing pa,
+T'yak mamumunga.</stanza>
+    <stanza type="verse" number="3">Di sa dilim iwanan ka,
+Ilaw datnan ka;
+Sa patay ika'y buhayin,
+Buhay puspusin.</stanza>
+    <stanza type="verse" number="4">Nais mo landas tahakin,
+Buhay p'layain?
+'Pag daan mo sa kam'tayan,
+Siya'y masumpungan.</stanza>
+    <stanza type="verse" number="5">Kung walang kamatayan pa,
+Walang buhay nga;
+Kapag buhay ibinuhos
+Ani ay lubos.</stanza>
+  </lyrics>
+</hymn>

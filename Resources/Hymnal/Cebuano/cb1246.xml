@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nitugyang sundong mga iglesia</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;PAGSUNOD</category>
+  <numbers><cebuano num="1246"/><chinese num="ts:756"/><english num="1246"/><german num="1246"/><korean num="821"/><spanish num="380"/></numbers>
+  <melody>| 5 3./ 4// 5 ._1 | ._1 6./ 7// ._1 6 | 5 3./ 4// 5 ._1 | ._2 - - - (break) | ._3 ._1./ ._2// ._3 ._1 | ._1 6./ 7// ._1 6 | 5 ._1./ ._2// ._3 ._2 | ._1 - - - (break) | (Chorus) ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5 ._1./ ._2// ._3 ._3 | ._2 - - 0 (break) | ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5 ._1/ ._2/ ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1246"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nitugyang sundong mga iglesia
+Diha's pagkausa;
+Sundong lihok N'ya's mga iglesia,
+Kita magkausa.</stanza>
+	<stanza type="chorus" number="">Sundon ang Espiritu,
+Uban sa kayano.
+Nia dinhi si Jesus,
+Hingpit S'yang mosunod!</stanza>
+	<stanza type="verse" number="2">Nitugyang mosunod sa nisunod,
+Tinu'd ming nakat-on;
+Di gyud magtinguha nga mangulo,
+Liso's Espiritu.</stanza>
+	<stanza type="verse" number="3">Nitugyang mosunod's tunob's panon,
+Kay na'ng Magbalantay.
+Jesus nanguna's mga iglesia,
+Didto namulong S'ya.</stanza>
+	<stanza type="verse" number="4">Nitugyan mi Nimo's kaugalingon,
+Dili gyud mosimang;
+Asa nganing Cordero, adto mi,
+Bisan pag unsaon.</stanza>
+	<stanza type="verse" number="5">Nitugyang mosulod's gingharian,
+Sa kombira's kasal;
+Paglutos, pagsulay o pag-antus,
+Di kapugong namo.</stanza>
+	<stanza type="verse" number="6">Gusto's Cristo nga may magsusunod
+Nga kasultian N'ya;
+"Kini nakakita's Akong tuyo,
+Hingpit nga nisunod!"</stanza>
+  </lyrics>
+</hymn>

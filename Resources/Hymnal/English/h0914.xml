@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For the Church should be our service</title>
+  <index>true</index>
+  <category>Service&amp;mdash;For the Church</category>
+  <numbers><cebuano num="914"/><chinese num="658"/><english num="914"/><german num="914"/><korean num="658"/><portuguese num="427"/><russian num="231"/><spanish num="412"/><tagalog num="914"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">German melody</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>555565531235432</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 | C - - | C - - | C - - | G7 - - | C - F | C/E - C | F C/G G7 | C - C/E | F - - | C - - | F - - | C - G7 | C - C/E | F - C/E | F C/G G7 | F/C C - |</chords>
+  <guitarChords>| C - - | C - - | C - - | C - - | G7 - - | C - F | C - - | F G G7 | C - - | F - - | C - - | F - - | C - - | C - - | F - - | F G G7 | C - - |</guitarChords>
+  <melody>| 0 - 5/ 5/ | 5. 5/ 6/ 5/ | 5 3 1/ 2/ | 3. 5/ 4/ 3/ (break) | 2 - 5/ 5/ | 5. 5/ 6/ 7/ | ._1 5 5/ 5/ | 6/ ._2/ ._1 7 (break) | ._1 - (Chorus) ._1/ ._1/ | ._1. 6/ 4/ 6/ | 5 3 ._1/ ._1/ | ._1. 6/ 4/ 6/ (break) | 5 - 5/ 5/ | ._1. ._1/ ._1/ ._1/ | 7 6 5/ 5/ | 6/ ._2/ ._1 7 | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>For the Church should be our serv -- ice, 'Tis the per -- fect will of God; 'Tis the on -- ly way of work -- ing Which the Lord's a -- pos -- tles trod. For the Church should be our serv -- ice, Not our aims to sat -- is -- fy; This, the per -- fect will of God is, And with it we must com -- ply.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0914.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="32">e0914_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">For the Church should be our service,
+  'Tis the perfect will of God;
+'Tis the only way of working
+  Which the Lord's apostles trod.</stanza>
+	<stanza type="chorus" number="">For the Church should be our service,
+  Not our aims to satisfy;
+This, the perfect will of God is,
+    And with it we must comply.</stanza>
+	<stanza type="verse" number="2">For 'tis God's eternal purpose
+  That the Church His vessel be;
+He intends that all our service
+  Build His Church continually.</stanza>
+	<stanza type="verse" number="3">All the gifted persons given
+  To the Body by the Head
+Are to aid the Church's building,
+  That to fulness she be led.</stanza>
+	<stanza type="verse" number="4">All the gifts and all the functions,
+  All the spirit's power shown,
+All the ministries are given
+  For the Church and that alone.</stanza>
+	<stanza type="verse" number="5">All the preaching of the Gospel,
+  All the teaching ministry,
+Every other kind of service
+  For the church alone should be.</stanza>
+	<stanza type="verse" number="6">Ministry is for the Churches,
+  Not the Church for ministry;
+All the lampstands are the Churches,
+  Not a form of ministry.</stanza>
+	<stanza type="verse" number="7">This will keep the Church's oneness,
+  Saving us from every sect;
+This will ever test our motives,
+  And our aim will thus correct.</stanza>
+	<stanza type="verse" number="8">Lord, deliver us from our work,
+  From the work of any sect;
+For Thy Church alone we'd labor
+  And its building up effect.</stanza>
+  </lyrics>
+</hymn>

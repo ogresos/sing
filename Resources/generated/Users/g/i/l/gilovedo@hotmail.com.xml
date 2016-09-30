@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Andrea</firstname>
+<lastname>Hill</lastname>
+<email>gilovedo@hotmail.com</email>
+<password>$1$UUFOR8mf$/A3fRfDqk4KHmsphjZ.Fu0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>24.23.47.14</ipaddress>
+<createdate>2008-11-15 06:48:22</createdate>
+<lastupdateddate>2009-09-15 18:26:53</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="179">Glory to Christ on high</fav>
+        <fav category="default" type="h" num="679">Safe in the arms of Jesus</fav>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Cary</firstname>
+    <lastname>Simpson</lastname>
+    <email>ss.reptiles@gmail.com</email>
+    <password>YGoIod3BYxgjtMr8uACRbA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>75.65.88.88</ipaddress>
+    <createdate>2009-12-15 17:28:57</createdate>
+    <lastupdateddate>2009-12-15 17:49:20</lastupdateddate>
+    <lastlogindate>2009-12-15 17:35:20</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

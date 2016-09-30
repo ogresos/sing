@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Nene Ruth</firstname>
+  <lastname>Pascua</lastname>
+  <email>sweetruth2003@gmail.com</email>
+  <password>8oJE3EC%2BWFreRBzWYooaIg%3D%3D</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>208.54.4.226</ipaddress>
+  <createdate>2012-02-20 01:26:52</createdate>
+  <lastupdateddate>2015-06-07 16:41:31</lastupdateddate>
+  <lastlogindate>2015-06-07 16:41:31</lastlogindate>
+  <failedlogincount>3</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="77">A lover of Christ</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+  </favourites>
+</user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Y</firstname>
+    <lastname>chen</lastname>
+    <email>yunhan.chen@gmail.com</email>
+    <password>HETwUnF0twAYKjqdWVjsrg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-18 20:07:36</createdate>
+    <lastupdateddate>2014-05-18 20:07:36</lastupdateddate>
+    <lastlogindate>2014-05-06 20:31:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+        <fav category="default" type="lb" num="79">Life is God the Father</fav>
+        <fav category="default" type="h" num="644">Looking unto Jesus</fav>
+    </favourites>
+</user>

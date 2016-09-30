@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come, every soul by sin oppressed</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><chinese num="717"/><english num="1031"/><korean num="717"/><tagalog num="1031"/></numbers>
+  <creators>
+    <author biodate="1813-1877" biolink="">John Hart Stockton</author>
+    <composer biodate="1813-1877" biolink="">John Hart Stockton</composer>
+  </creators>
+  <meter>8.6.8.6. with chorus.</meter>
+  <hymncode>55651332155312</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - Am - | G/B - G - | C - C7 - | F - - - | C/G - G7 - | C - - - | C - C7 - | F - Dm - | C/E - Am - | Dm - G7 - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_. | 5_.. 6_./ 5_. 1 | 3. 3/ 2 1 | 5 5 3 1 | 2 - - 3 (break) | 5. 5/ 3 1 | 1. 1/ 6_. 5_. | 5_.. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 5. 3/ 3/( 2/) 1 | 1. 6_./ 6_. 5_. | 5_. 1 3 1 | 2 - - 0 (break) | 5. 3/ 3/( 2/) 1 | 1. 6_./ 6_. 5_. | 5_.. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Come, ev -- ery soul by sin op -- pressed, There's mer -- cy with the Lord; And He will sure -- ly give you rest By trust -- ing in His Word. On -- ly trust Him! On -- ly trust Him! On -- ly trust Him now! He will save you! He will save you! He will save you now!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj103.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="35">e1031_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Come, every soul by sin oppressed,
+  There's mercy with the Lord;
+And He will surely give you rest
+  By trusting in His Word.</stanza>
+    <stanza type="chorus" number="">Only trust Him! Only trust Him!
+  Only trust Him now!
+He will save you! He will save you!
+    He will save you now!</stanza>
+    <stanza type="verse" number="2">For Jesus shed His precious blood
+  Rich blessings to bestow;
+Plunge now into the crimson flood
+  That washeth white as snow.</stanza>
+    <stanza type="verse" number="3">Yes, Jesus is the Truth, the Way,
+  That leads you into rest;
+Believe in Him without delay,
+  And you are fully blest.</stanza>
+    <stanza type="verse" number="4">Come then, and join the holy band,
+  And on to glory go;
+In Christ's redemption take your stand,
+  And all His goodness know.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jessica</firstname>
+  <lastname>Han</lastname>
+  <email>jessica.han4552@gmail.com</email>
+  <password>$2y$10$LvEYhQBSjFYpxXNZCjAQBuGfHzb/dumYSzxQ.evrI4L5.HuftFq/G</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>103.14.217.205</ipaddress>
+  <createdate>2015-05-06 20:40:53</createdate>
+  <lastupdateddate>2015-05-06 20:42:26</lastupdateddate>
+  <lastlogindate>2015-05-06 20:41:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+  </favourites>
+</user>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You more today, than any other</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:415"/><spanish num="ns:415s"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</author>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>554323156123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | Am - - - | Em - - - | Gm7 - C7 - | F - - - | D7 - - - | G7 - - - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | Am - - - | Em - - - | Gm7 - C7 - | F - - - | D7 - - - | G7 - - - | C - F/C - | C - F/C - | Gm7 - C7 - | F - - - | Gm7 - C7 - | F - - - | D - - - | D7 - - - | G - G7 - | F - G7 - | C - F/C - | C - - - ||</chords>
+  <melody>| 5 5 4 3 | 2 3/ 1/( 1) - | 0. 5_./ 6_. 1 | 2 3 - - | 5 5 4 3 | 2 3 1 - | 0. 3/ {4 3 4} | 5 - - - (break) | 3/ 3/ 3/ 3/ 3. 6/ | 5/ 6/ 5/ 4/ 3 5 | 4/ 3/ 2/( 1/) 4 3 | 1 - - - | 1/ 1/ 1/ 1/ {1 3 1} | 2 - 6_. 1 | 2 3( - - | 3) - - - (break) | 5 5 4 3 | 2 3/ 1/( 1) - | 0. 5_./ 6_. 1 | 2 3 - - | 5 5 4 3 | 2 3 1 - | 0. 3/ {4 3 4} | 5 - - - (break) | 3/ 3/ 3/ 3/ 3. 6/ | 5/ 6/ 5/ 4/ 3. 5/ | 4/ 3/ 2/ 1/ 4 3 | 2 1( 1.) 1/ | 1/ 1/ 1/ 1/ {1 3 1} | 2 - 6_. 1 | 2 3( - - | 3) - - - (break) | 0 4 3 5 | 1 - - - | 0. 4/ 3/ 4/ 5/ 3/( | 3/) 1.( 1) - (break) | 0 5 4# 6 | 2. 4#/ {4# 3 4#} | 5 - - - | 0 4/ 3/ 1 2 | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Lord, I love You more to -- day, than an -- y oth -- er. Lord, I love You more right now, than ev -- er be -- fore. Lord, You are so dear, how could my heart de -- sire An -- y -- thing that's less than You; Lord, You are the One I must choose; Lord, I love You. Lord, I need You more to -- day, than an -- y oth -- er. Lord, I need You more right now, than ev -- er be -- fore. Lord, You are so near, be ev -- ery -- thing to me, I could -- n't live a day with -- out You; I'm to -- tal -- ly de -- pen -- dent on You; Lord, I need You. Lord, I love You, I'll nev -- er let You go. Lord, I love You, I want You to know, Lord, I love You so.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="100">ns0415.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Lord, I love You more today, than any other.
+Lord, I love You more right now, than ever before.
+Lord, You are so dear, how could my heart desire
+Anything that's less than You;
+Lord, You are the One I must choose;
+Lord, I love You.</stanza>
+    <stanza type="verse" number="">Lord, I need You more today, than any other.
+Lord, I need You more right now, than ever before.
+Lord, You are so near, be everything to me,
+I couldn't live a day without You;
+I'm totally dependent on You;
+Lord, I need You.</stanza>
+    <stanza type="verse" number="">Lord, I love You (Lord, I love You),
+I'll never let You go (won't let You go).
+Lord, I love You,
+I want You to know,
+Lord, I love You so.</stanza>
+  </lyrics>
+</hymn>

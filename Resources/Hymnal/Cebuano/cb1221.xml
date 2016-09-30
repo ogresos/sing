@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Si Jesus Magbalantay ta</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;INGON NGA PANON SA DIOS</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <notes>Juan 10</notes>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Si Jesus Magbalantay ta,
+Sa toril gigawas ta;
+Sa sibsibanan gidala,
+Sa kadagaya Niya.</stanza>
+	<stanza type="chorus" number="">Pagkadagaya!
+Sa pagkaon's iglesia,
+Kinabuhing imando N'ya's
+Nagpuyo's pagkausa.</stanza>
+	<stanza type="verse" number="2">Sa pagkabahi'g kagutom
+Kita 'yang gipangita;
+Gidala's maayong yuta,
+Sa atong espiritu!</stanza>
+	<stanza type="verse" number="3">Jesus mismong sibsibanan,
+Kalan-ong gikaon ta;
+Carnero tang gipakaon,
+Busgon N'ya's matag tigum.</stanza>
+	<stanza type="verse" number="4">Habog nga bungtod gipuy-an,
+Sa yamog linunhawan,
+Tubod nagkuha's kauhaw,
+Buhing tubig, kalunhaw.</stanza>
+	<stanza type="verse" number="5">S'yang pahulay, pagpa'mulos,
+Dinhi way kahadlokan;
+Mga carnero bantayan,
+Sa presensya ampingan.</stanza>
+  </lyrics>
+</hymn>

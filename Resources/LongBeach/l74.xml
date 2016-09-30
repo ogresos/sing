@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>As a lily growing out of a bramble bush</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Incarnation</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5611123332165</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - | C - - | C - - | F - - | C - - | C - - | Am - - | Dm - - | G - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G - - | F - - | C - - | C - - | C - - | C - - | F - - | C - - | C - - | Am - - | Dm - - | G - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G - - | F - - | C - - | C - - | C - - | C - - | F - - | C - - | C - - | Am - - | Dm - - | G - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G - - | F - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 5_./ 6_./ | 1 1 1/ 2/ | 3 - 3/ 3/ | 2( 1) 6_. | 5_. - 3/ 4/ | 5 5 5/ 5/ | 5 4 3 | 2 - 1 (break) | 7_. - 5_./ 6_./ | 1 1 1/ 2/ | 3 - 2/ 1/ | 6( - 5) | 4 - 3/ 2/ | 3 - 4/( 3/) | 2 - 5_./ 5_./ | 6_. 1 2 | 1( - - (break) | 1) - (Verse_2) 5_./ 6_./ | 1/ 1/ 1 1 | 3 - 3/ 3/ | 2 1 6_. | 5_. - | 3/ 4/ 5 5 5 | 5 4 3 | 2 2 1 (break) | 7_. - 5_./ 6_./ | 1 1 1 | 3 - 2/ 1/ | 6 6 5 | 4 - 3/ 2/ | 3 3 4 | 2 5_. 5_. | 6_. 1 2 | 1( - - | 1) - 0 (break) | (Chorus) 5 - 6 | 5 3 2 | 1 - 6_. | 5_. - - | 1 - 1 | 3 5 6/ 5/ | 2 - 3 | 2 - - (break) | 5 - 6 | 5 3 2 | 1. 7_./ 1 | 4 - 1/ 2/ | 3 3 4/ 3/ | 2 - 5_./ 5_./ | 6_.( 1) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>As a li -- ly grow -- ing out of a bram -- ble bush; As a bright star shin -- ing forth in the dark -- est night; Is a sto -- ry ex -- cel -- lent, bright and fra -- grant Of Bo -- az and Ruth in a di -- vine ro -- mance. Ruth the Mo -- ab -- it -- ess joined to God's ho -- ly e -- lect; Bo -- az took care of her and re -- deemed all her debt. First she gleaned from his land, Then got mar -- ried to him. This is how she was joined to God's e -- ter -- nal plan. Lord, I love You and trea -- sure You. Lord, I choose You and res -- pond to You. You're my ev -- ery -- thing, You're a -- bove all, You're my Hus -- band, and my rest, And my all in all.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Ruth</link>
+  </links>
+  <music>
+    <midi location="lb" length="71">lb74.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">As a lily growing out of a bramble bush;
+As a bright star shining forth in the darkest night;
+Is a story excellent, bright and fragrant
+Of Boaz and Ruth in a divine romance.</stanza>
+    <stanza type="verse" number="2">Ruth the Moabitess joined to God's holy elect;
+Boaz took care of her and redeemed all her debt.
+First she gleaned from his land,
+Then got married to him.
+This is how she was joined to God's eternal plan.</stanza>
+    <stanza type="chorus" number="">Lord, I love You and treasure You.
+Lord, I choose You and respond to You.
+You're my everything, You're above all,
+You're my Husband, and my rest,
+And my all in all.</stanza>
+    <stanza type="verse" number="3">The eternal God entered and stepped into time;
+For this He needed persons to carry the line &amp;mdash;
+Those who fulfilled His plan, to bring God into man
+Bringing divinity into humanity.</stanza>
+    <stanza type="verse" number="4">In the universe this is the greatest event,
+That is Christ's incarnation &amp;mdash; in His first advent.
+Ruth became an ancestor in this mystery &amp;mdash;
+God and man to be mingled as one entity.</stanza>
+    <stanza type="verse" number="5">God had promised the seed of a woman for man
+That would crush Satan's head and redeem fallen man;
+To make God and man one, what a glory to Him!
+We are qualified now to partake of Him.</stanza>
+    <stanza type="verse" number="6">We are Moabites too, constituted with sin;
+We are under God's wrath and His condemnation.
+But through Christ's redemption, He's our portion we claim;
+In this organic union, we're married to Him.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>caroline</firstname>
+  <lastname>tee</lastname>
+  <email>carotee@gmail.com</email>
+  <password>$2y$10$88Rb/RD3tqVWs65XeF.LAeQbVvyra7r41VIrbYzTIFIw9EeTjNKmi</password>
+  <gender>F</gender>
+  <country>New Zealand</country>
+  <ipaddress>125.238.12.197</ipaddress>
+  <createdate>2009-08-18 20:49:25</createdate>
+  <lastupdateddate>2016-03-06 02:53:08</lastupdateddate>
+  <lastlogindate>2016-03-06 02:53:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Len</firstname>
+  <lastname>Clift</lastname>
+  <email>lenruth@hotmail.com</email>
+  <password>$2y$10$DcbHx2WqbzaYQuRYWI8apuix.nY2dYi9fUlMIjxRuX9dw21qlptDu</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>94.174.131.232</ipaddress>
+  <createdate>2016-08-31 10:51:29</createdate>
+  <lastupdateddate>2016-08-31 10:53:25</lastupdateddate>
+  <lastlogindate>2016-08-31 10:52:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+  </favourites>
+</user>

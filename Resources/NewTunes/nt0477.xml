@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though Christ a thousand times</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;One with Him</category>
+  <creators>
+    <author biodate="1624-1677" biolink="">Translated from Johann Angelus Silesius</author>
+    <author biodate="1843-1919" biolink="">Chorus by Albert Benjamin Simpson</author>
+    <composer biodate="" biolink="" fullname="Eric Ching">E. C.</composer>
+  </creators>
+  <hymncode>3355442345433</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - - | F - - - | Dm - G7 - | C - - - | C - - - | F - - - | Dm - - - | G - - - | C - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - - - | Dm7 - - - | G - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - - - | G7 - - - | C - C7 - | F - - - | C/G - G7 - | F/C - - - | C - - - |</chords>
+  <melody>| 0 3 3 5 | 5 4/ 4/( 4) - | 0 2/( 3/) 4 5 | 4 3/ 3/( 3) - | 0 3 3 5 | 5 4/ 4/( 4) - | 0 4 4 5 | 6 5/ 5/( 5) - (break) | 0 3 3 5 | 5 4/ 4/( 4) - | 0 2/( 3/) 4 5 | 4 3/ 3/( 3) - | 0 3 3 5 | 5 4/ 4/( 4) - | 0 4 4 5 | 6 5/ 5/( 5) - (break) | 0 6 6 6 | 5 4/ 3/( 3/) 4. | 0 5/( 4/) 3 2 | 3 2/ 1/( 1) - | 0 6 6 6 | 5 5/ 5/( 5) 4 | 5 - - - (break) | 0 6 4 2 | 1 - 7_. 7_./ 1/( | 1)( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Though Christ a thou -- sand times In Beth -- le -- hem be born, If He's not born in thee Thy soul is still for -- lorn. The Cross on Gol -- go -- tha, Will nev -- er save thy soul; The Cross in thine own heart, A -- lone can make thee whole. O, Cross of Christ, I take thee In -- to this heart of mine, That I to my own self may die
+    And rise to thy life Di -- vine.</singingstanza>
+  </layout>
+  <date>February, 2003</date>
+  <links>
+    <link type="relevant" category="h" num="477"></link>
+  </links>
+  <music>
+    <midi location="nt" length="50">e0477_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Though Christ a thousand times
+In Bethlehem be born,
+If He's not born in thee
+Thy soul is still forlorn.
+The Cross on Golgotha,
+Will never save thy soul;
+The Cross in thine own heart,
+Alone can make thee whole.</stanza>
+    <stanza type="chorus" number="">O, Cross of Christ, I take thee
+  Into this heart of mine,
+That I to my own self may die
+    And rise to thy life Divine.</stanza>
+    <stanza type="verse" number="2">What e'er thou lovest, man,
+That too become thou must;
+God, if thou lovest God,
+Dust, if thou lovest dust.
+Go out, God will come in;
+Die thou and let Him live;
+Be not and He will be;
+Wait and He'll all things give.</stanza>
+    <stanza type="verse" number="3">To bring thee to thy God,
+Love takes the shortest route;
+The way which knowledge leads,
+Is but a roundabout.
+Drive out from thee the world,
+And then thy heart shall be
+Filled with the love of God,
+And holy like as He.</stanza>
+  </lyrics>
+</hymn>

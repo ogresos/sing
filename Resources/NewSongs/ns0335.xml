@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For I'm persuaded to believe</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:335"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <links>
+    <link type="ref">Romans 8:38-39</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0335.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">For I'm persuaded to believe
+Nothing can separate us
+From the wonderful love of God;
+For the Lord who has called us
+According to His purpose
+Works all things together for good;
+Neither height, nor depth,
+Nor principalities,
+Things present, nor things to come,
+Though the devil hates us,
+He can never separate us
+From the wonderful love of God.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nancy</firstname>
+  <lastname>Yang</lastname>
+  <email>hsaeyang@gmail.com</email>
+  <password>$2y$10$bRYUgSPeR62LFlpr4MzAZuBIolJMrDUGIbAZpy1uvBw6O1YHiABOm</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>204.50.133.128</ipaddress>
+  <createdate>2014-10-05 10:15:41</createdate>
+  <lastupdateddate>2014-10-05 10:50:16</lastupdateddate>
+  <lastlogindate>2014-10-05 10:16:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

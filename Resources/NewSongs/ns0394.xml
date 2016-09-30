@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Living Vine, a Reality</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Abiding in Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Julie Grize">J. G.</author>
+    <composer biodate="" biolink="" fullname="Julie Grize">J. G.</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>112134444323351222213</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - ||</chords>
+  <melody>| (startrepeat) 0 ._1 ._1 ._2 | ._1( - - 3)( | 4) 4/ 4/ 4 3 | 2 - - - (break) | 0 3 3 5 | 1( - - - | 2) 2/ 2/ 2 1 | 3 - - - (break) | 0 ._1 ._1 ._2 | ._1( - - 3)( | 4) 4/ 4/ 4 3 | 2 - - - (break) | 0 3 3 5 | 4( - - 3)( | 2) 2/(. 2/). 1 7_. | 1 - - - (endrepeat) (break) | (Counter_Melody) 0 3/ 3/ 3/ 1/( 1/) 5/( | 5/) 3/( 3) - - | 0 6/ 6/ 6/ 4. | 7 ._1/ ._2/( ._2) - (break) | 0 ._3 ._3/ ._1. | ._2 ._1/ 6/( 6) - | 0 7/ 7/ 7/ 7 ._1/( | ._1) - - - (break) | 0 3/ 3/ 3/ 1/( 1/) 5/( | 5/) 3/( 3) - - | 0 6/ 6/ 6/ 4. | 7 6/ 5/( 5) - (break) | 0 3/ 3/ 3/ 1. | 4 5/ 6/( 6) - | 0 5/ 5/ 6 7 | ._1 - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">The liv -- ing vine, a re -- al -- i -- ty Of God and man, one or -- gan -- i -- c'lly Mu -- tual a -- bode, or -- gan -- i -- sm sweet. Ex -- pres -- sion full, min -- [skip1] gling com -- plete. Fa -- ther, Cul -- ti -- va -- tor&amp;mdash; Hus -- band -- man, The source is He. Soil, sun -- shine and the air&amp;mdash; Nu -- tri -- ents com -- plete. Son, the liv -- ing vine is&amp;mdash; The em -- bod -- i -- ment of God. And the Spir -- it makes Him real&amp;mdash; As the life juice sweet!</singingstanza>
+    <singingstanza2>2. When we a -- bide, there's a flow with -- in. As branch -- es we&amp;mdash; are ex -- press -- ing Him. Our God needs us, we de -- pend on Him. To bear much fruit, to bring oth -- ers in.</singingstanza2>
+  </layout>
+  <notes>Stanza 3 may be used as a counter melody with Stanzas 1 and 2.</notes>
+  <music>
+    <midi location="ns" length="98">ns0394.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The living vine, a reality
+Of God and man, one organically
+Mutual abode, organism sweet.
+Expression full, mingling complete.</stanza>
+    <stanza type="verse" number="2">When we abide, there's a flow within.
+As branches we&amp;mdash;are expressing Him.
+Our God needs us, we depend on Him.
+To bear much fruit, to bring others in.</stanza>
+    <stanza type="verse" number="3">Father, Cultivator&amp;mdash;Husbandman,
+The source is He.
+Soil, sunshine and the air&amp;mdash;
+Nutrients complete.
+Son, the living vine is&amp;mdash;
+The embodiment of God.
+And the Spirit makes Him real&amp;mdash;
+As the life juice sweet!</stanza>
+  </lyrics>
+</hymn>

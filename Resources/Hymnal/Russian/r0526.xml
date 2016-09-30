@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>От земли идёшь ты к славе</title>
+  <index>true</index>
+  <category>УТЕШЕНИЕ В ИСПЫТАНИЯХ&amp;mdash;ВОДИТЕЛЬСТВОМ ГОСПОДА</category>
+  <numbers><cebuano num="703"/><chinese num="509"/><english num="703"/><german num="703"/><korean num="509"/><russian num="526"/><tagalog num="703"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Nathaniel Niles</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 6_.. 6_.. 6_./( 7_./) 1/ | 2. 2. 2/( 1/) 2/ (break) | 3 - - 3/( 2/) 3/ | 4. 4. 4/( 5/) 6/ | 6. 5. 5/( 4/) 3/ | 2. 2. 2/( 3/) 4#/ (break) | 5 - - (Chorus) 5/( 4/) 3/ | 3. 2. 2/( 3/) 4/ | 4. 3. 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ (break) | 2 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 4. (.6. 6/( 5/) 4/ | 3. 5. 4/( 3/) 2/ | 1 - - 0. |</melody>
+  <music>
+	<midiref type="h" num="703"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">От земли идёшь ты к славе
+    И уже устал в пути,
+Но даёт Бог обещанье:
+    «Буду Я тебя вести».</stanza>
+	<stanza type="chorus" number="">Моё око над тобою,
+    Буду Я тебя вести;
+На пути земном во славу
+    Буду Я тебя вести.</stanza>
+	<stanza type="verse" number="2">Пусть теснят тебя соблазны,
+    Пусть друзья бегут твои,
+Да не смолкнет обещанье:
+    «Буду Я тебя вести».</stanza>
+	<stanza type="verse" number="3">Пусть надежды год за годом
+    Гибнут тайные твои,
+Сохрани лишь обещанье:
+    «Буду Я тебя вести».</stanza>
+	<stanza type="verse" number="4">Смертный час когда настанет,
+    Завершатся жизни дни,
+Проводник твой верный скажет:
+    «Буду Я тебя вести».</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sintang mahal, Anak ng Diyos</title>
+  <index>true</index>
+  <category></category>
+  <numbers><chinese num="111"/><english num="8111"/><portuguese num="61"/><tagalog num="c111"/></numbers>
+  <creators>
+    <author biodate="1802-1884" biolink="">Adapted from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8111"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sintang mahal, Anak ng Diyos,
+Dugo Mo ako'y tinubos.
+Sa sala't kam'tayan;
+Pinagmasdan Kang may saya,
+Naputungan Kang mag glorya,
+Nilouklok sa langit.</stanza>
+    <stanza type="verse" number="2">Amang sinta, âtinaas Ka,
+Sa Iyo lakas, dangal, glorya,
+Sa kanan niluklok;
+Papuri dunong at yaman
+Poon, Iyong-iyo nang lubusan!
+Ika'y walang hanggan.</stanza>
+    <stanza type="verse" number="3">Naluklok Ka do'n, O Ulo,
+Pinagpala bawa't miyembro,
+Ang sa Iyo ay amin:
+Buhay at lakas Ka namin,
+Kami'y pinalakas Mo rin,
+Kaaway dinaig.</stanza>
+    <stanza type="verse" number="4">Mal'walhating araw dar'ting,
+Aakyat ang Iyong nobya rin,
+Hanga sa Iyong ganda.
+Anong galak âka'y Makita!
+Marinig: kami'y Iyo na,
+Lagi Mong kasama.</stanza>
+  </lyrics>
+</hymn>

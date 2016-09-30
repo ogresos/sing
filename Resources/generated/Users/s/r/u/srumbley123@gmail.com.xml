@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>s</firstname>
+  <lastname/>
+  <email>srumbley123@gmail.com</email>
+  <password>$2y$10$Hw9ajF6R1kIb8zqaCyG5Z.e20r013QoBiXc2nQtFSvu8B89ITgdgW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>149.32.192.42</ipaddress>
+  <createdate>2016-04-11 17:39:53</createdate>
+  <lastupdateddate>2016-04-11 17:51:04</lastupdateddate>
+  <lastlogindate>2016-04-11 17:40:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="h" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="nt" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="h" num="65">Jesus! that name we love</fav>
+    <fav category="default" type="h" num="365">Jesus, Thy life is mine</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="171">Lord Jesus Christ, our heart feels sweet</fav>
+    <fav category="default" type="h" num="157">Lord Jesus, are we one with Thee</fav>
+    <fav category="default" type="ns" num="36">Make me wholly Thine</fav>
+    <fav category="default" type="h" num="350">My goal is God Himself, not joy, nor peace</fav>
+    <fav category="default" type="h" num="206">O Christ, He is the fountain</fav>
+    <fav category="default" type="h" num="12">O God, Thou art the source of life</fav>
+    <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="ns" num="276">Rise up, my love</fav>
+    <fav category="default" type="h" num="228">Sweet feast of love divine</fav>
+    <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+    <fav category="default" type="h" num="431">Thy mighty love, O God, constraineth me</fav>
+    <fav category="default" type="ns" num="49">Whispers from above</fav>
+  </favourites>
+</user>

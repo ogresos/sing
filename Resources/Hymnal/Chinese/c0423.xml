@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>意志薄弱能力軟弱</title>
+  <index>true</index>
+  <category>經歷基督－信靠祂</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+    <!-- http://www.churchinmarlboro.org/hymns/my%20will%20is%20weak.htm -->
+    <!-- http://www.livingwaters.cl/magazine/20/poem.htm -->
+	<author biodate="1914" biolink="">Samuel H. Wilkinson</author>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated by Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>意 志 薄 弱， 能 力 軟 弱， 盼 望 已 經 全 都 消 滅； 只 有 信 託 你 的 工 作 將 我 這 人 溫 柔 提 挈。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">意志薄弱，能力軟弱，
+盼望已經全都消滅；
+只有信託你的工作
+將我這人溫柔提挈。</stanza>
+	<stanza type="verse" number="2">盡我所有，所有失敗，
+失敗至今，失敗頻仍；
+無何可信，信你能耐，
+能彀抓我聽你命令。</stanza>
+	<stanza type="verse" number="3">當我的心稍微高仰，
+我就近乎跌倒危地；
+我不敢作，我不敢想，
+事事處處，我需要你。</stanza>
+	<stanza type="verse" number="4">你是救主…剛強…體貼，
+哦主，我今尋求你面；
+雖然我是弱中弱者，
+我的能力是你恩典。</stanza>
+  </lyrics>
+</hymn>

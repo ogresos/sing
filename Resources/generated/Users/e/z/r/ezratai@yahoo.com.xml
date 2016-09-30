@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ezra</firstname>
+  <lastname>Tai</lastname>
+  <email>ezratai@yahoo.com</email>
+  <password>$2y$10$WW1ZiohNoUdAzxKa1SqlI.whtgpJO75bdgHiygVE9SV8DqcQiTaqS</password>
+  <gender/>
+  <country/>
+  <ipaddress>99.100.25.13</ipaddress>
+  <createdate>2014-08-09 22:08:24</createdate>
+  <lastupdateddate>2014-08-09 22:36:50</lastupdateddate>
+  <lastlogindate>2014-08-09 22:35:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="435">Back in My Father's House Again!</fav>
+  </favourites>
+</user>

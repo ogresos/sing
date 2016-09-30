@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Debra</firstname>
+    <lastname>VanOss</lastname>
+    <email>kknockin@gmail.com</email>
+    <password>s2oUrBGm6w0uNK5uOjkwhw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>208.54.86.189</ipaddress>
+    <createdate>2012-07-25 05:37:36</createdate>
+    <lastupdateddate>2012-07-25 14:57:06</lastupdateddate>
+    <lastlogindate>2012-07-25 05:37:40</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

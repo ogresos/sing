@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sinasamba naming Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG KABANALAN</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sinasamba naming Ama,
+Kami sa Iyo'y umawit.
+Kay banal Mo at kay tayog,
+Pagsamba Iyong makamit.</stanza>
+	<stanza type="verse" number="2">Puso Mo, Ama'y pag-ibig,
+Kat'wiran ang gawa Mo;
+Iyong kalikasan ay banal,
+Ikaw ang bahagi ko.</stanza>
+	<stanza type="verse" number="3">Sa dugong mahal ni Hesus,
+Ako'y Iyong pinabanal,
+At sa Iyong katotohanan,
+Nabukod akong sakdal.</stanza>
+	<stanza type="verse" number="4">Sa Iyong Espiritu Santo,
+Napabanal nga kami;
+Sa espiritu, kalulwa,
+At katawan nang lagi.</stanza>
+	<stanza type="verse" number="5">Sa Iyong biyaya'y nakamit:
+Buhay banal ni Kristo.
+Kaya sa Iyong kabanalan,
+Makabahagi ako.</stanza>
+	<stanza type="verse" number="6">Sa banal na Herusalem,
+Kabanalan ko'y puspos.
+Walang hanggan kong pahayag,
+Kabanalan Mo'y lubos.</stanza>
+  </lyrics>
+</hymn>

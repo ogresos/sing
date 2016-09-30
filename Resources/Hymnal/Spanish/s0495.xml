@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Grande es Jehová, y digno de ser alabado</title>
+  <index>true</index>
+  <category>Cantos bíblicos</category>
+  <numbers><cebuano num="1335"/><chinese num="ts:8"/><english num="1335"/><german num="1335"/><korean num="924"/><spanish num="495"/></numbers>
+  <creators>
+	<author biodate="1976" biolink="" fullname="Robert Ewing">Translated from R. E.</author>
+  </creators>
+  <melody>| 3 - 2 1 | 3 - - 1 | 3 3 4 3 | 2 - - 2/ 2/ (break) | 4 4 3 2 | 4 - - 4/ 4/ | 4 4 5. 4/ | 4/ 3/ 3 - - (break) | 3/ 3/ 3/ 3/ 2 1 | 3 3 - 1 | 3 3 4 5 | 4 - - - (break) | 4 4 5/ 5/ 4/ 4/ | 3 3/ 3/ 4 3 | 2/ 2/ 4 3 2 | 1( 2 3) - (break) | 4 4 5/ 5/ 4/ 4/ | 3 3/ 3/ 4 3 | 2/ 2/ 4 3 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="1335"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Grande͜ es Jehová, y digno de ser alabado,
+En la ciudad de nuestro Dios,
+En el monte de Su santidad.
+Hermosa provincia, el gozo de toda la tierra,
+Es el monte de Sión
+A los lados del norte,
+Es el monte de Sión,
+La ciudad del gran Rey.</stanza>
+  </lyrics>
+</hymn>

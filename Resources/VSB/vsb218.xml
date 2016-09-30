@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Manifest, manifest</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <numbers><english num="ns:241"/><vsb num="218"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">LSM Timothy Training Song Tape</composer>
+  </creators>
+  <hymncode>3453453453451176567</hymncode>
+  <key>Bb Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | C - | C/G - | C - | C/G - | C - | C/E - | G - | G - | Dm - | F/C - | G7/B - | F/A - | G - | G7/B - | C - | C/G - | C - | F/C - | C - | C/G - | C - | C7/E - | F - | F - | Dm - | G7 - | C - | Am - | F - | G7 - | C F/C | C - |</chords>
+  <melody>| 0 3/ 4/ | 5 3/ 4/ | 5 3/ 4/ | 5 3/ 4/ | 5 ._1 | ._1 7/ 6/ | 5 6 | 7( - (break) | 7) 2/ 3/ | 4 2/ 3/ | 4 2/ 3/ | 4 2/ 3/ (break) | 4 7/ 7/ | 7/ 7/( 7/) 6/ | 5/ 6/ 5/ 4/ | 3( - | 3) - (break) | ._1 ._1 | ._1 7/ 6/ | 5/ 3.( | 3) - | ._1 ._1 | ._1 5/ 5#/ | 6( - | 6) - (break) | ._2 ._2/ ._2/ | ._2 ._1/ 7/ | ._1/ 5.( | 5) 5/ 5/ | 6/( ._1/) ._1/ 6/ | ._1 7 | ._1( - | ._1) 0 |</melody>
+  <layout>
+    <singingstanza>Man -- i -- fest, man -- i -- fest, man -- i -- fest, man -- i -- fest&amp;mdash; God is man -- i -- fest in us, In the church, in the church, in the church, in the church&amp;mdash; God's great mys -- t'ry, the church life glo -- ri -- ous! Vin -- di -- cat -- ed in Spir -- it, seen by an -- gels and men, Preached and be -- lieved in the na -- tions, And re -- ceived up in -- to glo -- ry.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Timothy 3:16</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0241.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Manifest, manifest, manifest, manifest&amp;mdash;
+God is manifest in us,
+In the church, in the church,
+in the church, in the church&amp;mdash;
+God's great myst'ry, the church life glorious!
+Vindicated in Spirit, seen by angels and men,
+Preached and believed in the nations,
+And received up into glory.</stanza>
+  </lyrics>
+</hymn>

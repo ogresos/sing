@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Lord is the portion of my inheritance</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:270"/><vsb num="247"/></numbers>
+  <hymncode>113453565454343123</hymncode>
+  <key>F Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C. C. | C. C. F. | C. C. F. | C. C. G. | C. C. C. | C. C. F. | C. C. F. | C/G. C/G. G7. | C. C. C7/E. | F. F. F. | C. C. C. | G. G. G. | C. C. C7/E. | F. F. F. | C. C. C. | D7. D7. D7. | G. G. G. ||</chords>
+  <melody>| 0. 0 1/ 1/ 3/ 4/ | 5. 3 5/ 6/( 5/) 4/ | 5 4/ 3. 4. | 3. 1. 2. | 3.( 3) 1/ 1/ 3/ 4/ | 5. 3 5/ 6/( 5/) 4/ | 5 4/ 3. 4. | 3. 1. 2. (break) | 1.( 1.) (Chorus) 1 1/ | 4. 4 4/ 4/( 5/) 6/ | 5.( 5.) 1. | 2. 2 2/ 2/ 1/ 2/ | 3.( 3.) 1 1/ | 4. 4. 4/( 5/) 6/ | 5. 3. 1. | 2.( 2.) 3. | 2.( 2.) 0. ||</melody>
+  <layout>
+    <singingstanza>The Lord is the por -- tion of my in -- her -- i -- tance, And He is my cup. The Lord is the por -- tion of my in -- her -- i -- tance, And He is my cup. Thou wilt show me the path of life; Thy pres -- ence is full -- ness of joy. At Thy right hand there are plea -- sures For -- ev -- er -- more.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 16:5</link>
+    <link type="ref">Psalms 16:8-9</link>
+    <link type="ref">Psalms 16:11</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0270.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Lord is the portion of my inheritance,
+And He is my cup.
+The Lord is the portion of my inheritance,
+And He is my cup.</stanza>
+    <stanza type="chorus" number="">Thou wilt show me the path of life;
+Thy presence is fullness of joy.
+At Thy right hand there are pleasures
+Forevermore.</stanza>
+    <stanza type="verse" number="2">For I have set Jesus forever before me:
+He's at my right hand.
+For I have set Jesus forever before me:
+He's at my right hand.</stanza>
+    <stanza type="verse" number="3">Therefore is my heart glad, My spirit rejoiceth,
+My flesh rests in hope.
+Therefore is my heart glad, My spirit rejoiceth,
+My flesh rests in hope.</stanza>
+  </lyrics>
+</hymn>

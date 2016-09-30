@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>No Santuário entrar, junto ao trono estar</title>
+  <index>true</index>
+  <category>No Santo Dos Santos</category>
+  <numbers><cebuano num="770"/><chinese num="557"/><dutch num="68"/><english num="770"/><french num="140"/><german num="770"/><korean num="557"/><portuguese num="354"/><russian num="127"/><spanish num="328"/><tagalog num="770"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5/ 5/ ._1./ ._2// ._3 - | ._1/ ._2/ ._1./ 6// 5 - | 5 ._1./ ._2// ._3 ._4./ ._3// | ._2 - - 0 (break) | 5/ 5/ ._1./ ._2// ._3 - | ._1/ ._2/ ._1./ 6// 5 - | 5 ._1./ ._2// ._3 ._2./ ._2// | ._1 - - 0 (break) | (Chorus) ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/(. 5/). ._1./ ._2// ._3 ._4./ ._3// | ._2 - - 0 (break) | ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/(. 5/). ._1./ ._2// ._3 ._2./ ._2// | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="770"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">No Santuário entrar, junto ao trono estar,
+Graça como um rio fluirá;
+No Santuário entrar, junto ao trono estar,
+Graça como um rio fluirá.</stanza>
+	<stanza type="chorus" number="">Aleluia! Aleluia!
+Graça como um rio fluirá;
+Aleluia! Aleluia!
+Graça como um rio fluirá.</stanza>
+	<stanza type="verse" number="2">No Santuário entrar, sempre ali viver,
+Luz da glória em mim brilhará;
+No Santuário entrar, sempre ali viver,
+Luz da glória em mim brilhará.</stanza>
+	<stanza type="chorus" number="">Aleluia! Aleluia!
+Luz da glória em mim brilhará;
+Aleluia! Aleluia!
+Luz da glória em mim brilhará.</stanza>
+	<stanza type="verse" number="3">Ao Senhor voltar, no espír'to orar,
+E a fonte viva tocar;
+Ao Senhor voltar, no espír'to orar,
+E a fonte viva tocar.</stanza>
+	<stanza type="chorus" number="">Aleluia! Aleluia!
+E a fonte viva tocar;
+Aleluia! Aleluia!
+E a fonte viva tocar.</stanza>
+  </lyrics>
+</hymn>

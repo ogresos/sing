@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Icaro</firstname>
+    <lastname>Rosson</lastname>
+    <email>inkrosson@gmail.com</email>
+    <password>$1$M1KAIGFg$3t8afjYjz7pDrwuGL7YJs0</password>
+    <gender>M</gender>
+    <country>Australia</country>
+    <ipaddress>58.178.134.61</ipaddress>
+    <createdate>2008-07-26 01:43:07</createdate>
+    <lastupdateddate>2013-11-21 17:46:11</lastupdateddate>
+    <lastlogindate>2013-11-21 17:46:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="lb" num="24">God is man's treasure</fav>
+        <fav category="default" type="ns" num="165">I just existed empty</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    </favourites>
+</user>

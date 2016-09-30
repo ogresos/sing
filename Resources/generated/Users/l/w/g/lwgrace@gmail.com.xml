@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lili</firstname>
+  <lastname>Wu</lastname>
+  <email>lwgrace@gmail.com</email>
+  <password>$2y$10$4JDHxEBaGRleSiFHrkOyquA/bA1b1r9nHQvEID78Z/TPY4VvixYDa</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>94.4.124.228</ipaddress>
+  <createdate>2015-09-06 12:05:48</createdate>
+  <lastupdateddate>2015-09-06 12:07:45</lastupdateddate>
+  <lastlogindate>2015-09-06 12:07:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Leonard</firstname>
+  <lastname>Harvey</lastname>
+  <email>leonard.harvey34@iinet.net.au</email>
+  <password>$2y$10$bxeHPJ2EJyx5aiSBPs0f9eKK3kEn1tSmH4asZh3Aia3bDaAzA3MAq</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>114.198.68.21</ipaddress>
+  <createdate>2015-03-01 23:55:43</createdate>
+  <lastupdateddate>2015-03-01 23:57:19</lastupdateddate>
+  <lastlogindate>2015-03-01 23:57:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

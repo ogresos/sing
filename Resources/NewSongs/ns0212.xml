@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Each time in the morning</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><english num="ns:212"/><vsb num="113"/></numbers>
+  <hymncode>53153156555</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Em - - | F - - | G - - | C - - | Em - - | F - - | G - - | C - - | Em - - | F - - | G - - | C - - | F - G7 | C - F/C | C - - |</chords>
+  <melody>| 0 - 5 | 3 1 5 | 3 1 5 | 6 5 5 | 5 - 5 (break) | ._1 ._2 ._3 | 7 5 3 | 4 5 6 | 5 - 5 (break) | ._1 ._2 ._3 | 7 5 3 | 4 5 6 | 5 - 5 (break) | 3 1 5 | 3 1 1 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Each time in the morn -- ing, a while be -- fore dawn To You, Lord, I whis -- per a praise or a song, And feel Your life stir -- ring so deep with -- in me&amp;mdash; My cup run -- neth o -- ver with joy!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="25">ns0212.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Each time in the morning, a while before dawn
+To You, Lord, I whisper a praise or a song,
+And feel Your life stirring so deep within me&amp;mdash;
+My cup runneth over with joy!</stanza>
+    <stanza type="verse" number="2">And then at the moment my heart turns to Thee,
+The eyes of my spirit Your presence can see;
+While all is so fresh and the sunlight breaks through&amp;mdash;
+My cup runneth over with joy!</stanza>
+    <stanza type="verse" number="3">And when at the noontime I'm hungry and worn
+And feel that the cares of this world have me torn,
+You come as my haven, my rest, and my food&amp;mdash;
+My cup runneth over with joy!</stanza>
+    <stanza type="verse" number="4">And then in the evening when my thoughts are free,
+Remembr'ing that You, Lord, still dwell within me,
+This sweet fact releases a river in me&amp;mdash;
+My cup runneth over with joy!</stanza>
+  </lyrics>
+</hymn>

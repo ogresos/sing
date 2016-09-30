@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>JENNIFER</firstname>
+<lastname>GATHARIA</lastname>
+<email>auntieshiru@hotmail.com</email>
+<password>$1$GLKB3vEf$mQuVvz6MaCDCY9e0pYGl91</password>
+<gender>F</gender>
+<country>Ireland</country>
+<ipaddress>78.137.148.9</ipaddress>
+<createdate>2009-03-02 19:13:38</createdate>
+<lastupdateddate>2009-09-15 18:29:36</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="71">We are so happy we're here today</fav>
+        <fav category="default" type="c" num="115">The heavens and the earth God made</fav>
+        <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+        <fav category="default" type="h" num="1062">I am coming to the cross</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    </favourites>
+</user>

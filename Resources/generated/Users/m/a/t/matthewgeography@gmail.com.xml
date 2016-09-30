@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>M</firstname>
+    <lastname>Y</lastname>
+    <email>matthewgeography@gmail.com</email>
+    <password>FRr6k%2FGoyawWSUURNYnOxw%3D%3D</password>
+    <gender>F</gender>
+    <country>Chad</country>
+    <ipaddress>68.36.203.1</ipaddress>
+    <createdate>2009-08-24 19:21:06</createdate>
+    <lastupdateddate>2013-12-11 15:45:55</lastupdateddate>
+    <lastlogindate>2013-12-11 15:41:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1273">Christ has called us once to Him</fav>
+        <fav category="default" type="cb" num="1273">Gitawag na tang Cristo</fav>
+        <fav category="default" type="h" num="1">Glory be to God</fav>
+        <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+    </favourites>
+</user>

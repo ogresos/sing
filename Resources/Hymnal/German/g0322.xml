@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jahrelang gesucht hab ich nach einem Quell</title>
+  <index>true</index>
+  <category>GEWISSHEIT UND FREUDE DER ERRETTUNG&amp;mdash;Zufrieden gestellt mit Christus</category>
+  <numbers><cebuano num="322"/><chinese num="254"/><english num="322"/><french num="62"/><german num="322"/><korean num="254"/><portuguese num="176"/><russian num="70"/><spanish num="155"/><tagalog num="322"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| 5/ 5/ 5/ 5/ 5/ 4/ 3/ 4/ | 5 ._1 ._1 - | 7/ 7/ 7/ 7/ ._1 ._2 | ._1 - - 0 (break) | 6/ 6/ 6/ 6/ ._1/ ._1/ 7/ 6/ | 5 ._3 ._3 - | ._2/ ._2/ ._2/ ._1/ 7 6 | 5 - - 0 (break) | (Chorus) 5/ 5/ 5/ 5/ 5/ 4#/ 5 | 6/ 6/ 6 6 - | 5/ 5/ 5/ 5/ ._1/ 7/ ._1 | ._2 ._2 ._2 - (break) | ._3/ ._3/ ._3/ ._4/ ._3/ ._1. | ._1/ ._1/ ._1/ 7/ ._2/ ._1/ 7/ 6/ | 5/ 5/ ._1/ ._2/ ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Jah -- re -- lang ge -- sucht hab ich nach ei -- nem Quell, Dass ich nie mehr durs -- tig bin;  Was die Welt mir bot, er -- füll -- te nicht die Seel, Nichts zu -- frie -- den stel -- len schien. Trin -- ke von dem Brun -- nen, der e -- wig -- lich fließt! Trin -- ke von dem Brun -- nen, der Le -- ben ist! Freu -- de und Ver -- gnü -- gen Schmeck in vol -- len Zü -- gen, Wenn ich trink vom Quell, der Le -- ben ist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="322"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jahrelang gesucht hab ich nach einem Quell,
+    Dass ich nie mehr durstig bin; 
+Was die Welt mir bot, erfüllte nicht die Seel,
+    Nichts zufrieden stellen schien.</stanza>
+	<stanza type="chorus" number="">Trinke von dem Brunnen, der ewiglich fließt!
+Trinke von dem Brunnen, der Leben ist!
+    Freude und Vergnügen
+    Schmeck in vollen Zügen,
+Wenn ich trink vom Quell, der Leben ist.</stanza>
+	<stanza type="verse" number="2">Wandern in der Sündenwüste muss nicht mehr,
+    Denn ich fand den Lebensquell,
+Und mein Kelch der Freude überfließt nun sehr,
+    Jesus thront in meiner Seel!</stanza>
+	<stanza type="verse" number="3">Hier gibt Er mir Tag für Tag Zufriedenheit,
+    Seinen Frieden, Seine Ruh;
+Hier schenkt Er mir Seinen Trost zu jeder Zeit,
+    Bin gesegnet immerzu.</stanza>
+	<stanza type="verse" number="4">Hier stellt Er mir Seinen Reichtum stets bereit,
+    Mich erfrischt auf meinem Pfad;
+Ja, zum Quell der Heilung flieh ich allezeit,
+    Meine matte Seele bad.</stanza>
+  </lyrics>
+</hymn>

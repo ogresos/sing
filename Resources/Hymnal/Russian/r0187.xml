@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Что Господу воздам</title>
+  <index>true</index>
+  <category>ТЕКСТЫ ПИСАНИЯ ДЛЯ ПЕНИЯ&amp;mdash;Псалом 115:3-4</category>
+  <numbers><english num="1336"/><french num="9336"/><german num="1336"/><russian num="187"/></numbers>
+  <melody>| 0 3 3 3 | 4 - 5.( 4/) | 3.( 2/ 1)( - | 1) - - - (break) | 0 1 1 - | 0 2 2 - | 0 3 3 3 | 4 4 3 3 | 2( - - - | 2) - - - (break) | 0 3 3 3 | 4 4 5. 4/ | 3.( 2/) 1( - | 1) - - - (break) | 0 1 1 1 | 2 2 2 2 | 3 3 3 3 | 4. 3/ 2 2 | [2/4] 2. 5/ | [4/4] 3( - - - | 3) - - - |</melody>
+  <layout>
+	<singingstanza>Что Гос -- по -- ду воз -- дам За всё, за всё, За всё, что Он со -- де -- лал мне?  Ча -- шу спа -- се -- ни -- я при -- му И при -- зо -- ву, и при -- зо -- ву, И при -- зо -- ву и -- мя Гос -- по -- да.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1336"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Что Господу воздам
+За всё, за всё,
+За всё, что Он соделал мне?
+Чашу спасения приму
+И призову, и призову,
+И призову имя Господа.</stanza>
+  </lyrics>
+</hymn>

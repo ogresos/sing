@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>Huffman</lastname>
+  <email>lhuffmann@aol.com</email>
+  <password>$2y$10$OOo3jOGQR8WLOFGxBdNbIea6UHXGV05hgjWrMpv02P15cxIK6rGcO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>65.33.125.187</ipaddress>
+  <createdate>2014-06-23 15:13:35</createdate>
+  <lastupdateddate>2014-06-23 16:06:39</lastupdateddate>
+  <lastlogindate>2014-06-23 15:34:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+  </favourites>
+</user>

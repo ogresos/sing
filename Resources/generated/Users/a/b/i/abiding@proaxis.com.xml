@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Barbara</firstname>
+  <lastname>harrelson</lastname>
+  <email>abiding@proaxis.com</email>
+  <password>$2y$10$eid4PM49/fFdHmuJOD6HwuwH6DRfwG2pb.Do/vzdQmhUiYHPN.53q</password>
+  <gender/>
+  <country/>
+  <ipaddress>75.164.228.100</ipaddress>
+  <createdate>2015-03-04 19:12:36</createdate>
+  <lastupdateddate>2016-02-12 19:09:36</lastupdateddate>
+  <lastlogindate>2016-02-12 19:06:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="563">Abide in Thee! in that deep love of Thine</fav>
+    <fav category="default" type="h" num="417">Deep in me, Lord, mark Thou Thy holy Cross</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+    <fav category="default" type="h" num="438">I've turned my back upon the world</fav>
+    <fav category="default" type="h" num="553">In the secret of His presence</fav>
+    <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+    <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    <fav category="default" type="h" num="904">We have a most glorious King</fav>
+    <fav category="default" type="h" num="1219">What a wonderful change in my living is wrought</fav>
+  </favourites>
+</user>

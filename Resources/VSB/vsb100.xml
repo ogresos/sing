@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dear Lord Jesus, precious Jesus</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="nt:1158"/><vsb num="100"/></numbers>
+  <creators>
+    <author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <hymncode>465341653</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | G - - - | C - - - | G - - - | C - - - | G - D/F# - | Em - - - | Am - - - | D - - - | Em - - - | C - - - | G - - - | G - - - | Em - - - | C - - - | D - - - | D7 - - - | Em - - - | C - - - | G - - - | C - - - | G/D - - - | D7 - - - | G - - - |</chords>
+  <melody>| 0 - 1 3 | 2. 7_./( 7_.)( - | 1) - 5 3 | 2. 7_./( 7_.)( - | 1) - 1 3 | 2 - - 2 | 5 - - 7_. | 7_./( 6_./)( 6_.)( - - (break) | 6_.) - 5 4# | 5. 3/( 3)( - | 3) - 5 3 | 2. 7_./( 7_.)( - | 7_.) - 5 4# | 5. 3/( 3)( - | 3) - 5 5 | 5 6( - - (break) | 6) - 7 6 | 5. 3/( 3)( - | 3) - 5 3 | 2. 7_./( 7_.)( - | 1) - 5 3 | 2( - - - | 2) 7_. 7_.. 6_./ | 5_. - - - |</melody>
+  <layout>
+    <singingstanza>Dear Lord Je -- sus, pre -- cious Je -- sus, Thou hast won each love from me; Who like Thee&amp;mdash; so fair and come -- ly? Who like Thee&amp;mdash; so sweet and love -- ly? Match -- less One, un -- ri -- valed beau -- ty, None can e'er com -- pete with Thee!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="relevant" category="h" num="1158"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="53">e1158_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dear Lord Jesus, precious Jesus,
+  Thou hast won each love from me;
+Who like Thee&amp;mdash;so fair and comely?
+  Who like Thee&amp;mdash;so sweet and lovely?
+Matchless One, unrivaled beauty,
+  None can e'er compete with Thee!</stanza>
+    <stanza type="verse" number="2">Dear Lord Jesus, precious Jesus,
+  Gladly will I hear Thy call;
+Since Thy voice my heart hath entered,
+  I from all things could but sever;
+Void are all my other seekings,
+  Every pride hath disappeared.</stanza>
+    <stanza type="verse" number="3">Dear Lord Jesus, precious Jesus,
+  How can I still stubborn be?
+At Thy feet cast all my hard'nings,
+  And return with songs and singings;
+'Tis my love to be Thy bondslave,
+  'Tis my joy to Thee obey.</stanza>
+    <stanza type="verse" number="4">Dear Lord Jesus, precious Jesus,
+  Thy way only will I choose;
+Though in tears while I'm obeying,
+  Yet I would not change my standing;
+All I long for is Thy pleasure,
+  And the peace Thy love would bring.</stanza>
+    <stanza type="verse" number="5">Dear Lord Jesus, precious Jesus,
+  When Thy presence does depart,
+Seems the dawn has lost its traces,
+  Hidden are my smiling faces;
+All I yearn for is Thy coming
+  And Thy presence' sweet embrace.</stanza>
+    <stanza type="verse" number="6">Dear Lord Jesus, precious Jesus,
+  Can I tell it all to Thee?
+Thou my love and satisfaction,
+  Thou my everlasting portion;
+Thou art all that I desire,
+  Nothing else I would pursue.</stanza>
+    <stanza type="verse" number="7">Dear Lord Jesus, precious Jesus,
+  All I have I give to Thee;
+Who like Thee&amp;mdash;so fair and comely?
+  Who like Thee&amp;mdash;so sweet and lovely?
+Matchless One, unrivaled beauty,
+  None can e'er compete with Thee!</stanza>
+  </lyrics>
+</hymn>

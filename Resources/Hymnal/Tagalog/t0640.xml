@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhay mula sa kamatayan, Poon</title>
+  <index>true</index>
+  <category>MULING-PAGKABUHAY NA BUHAY&amp;mdash;BUHAY MULA SA KAMATAYAN</category>
+  <numbers><cebuano num="640"/><chinese num="473"/><english num="640"/><german num="640"/><korean num="473"/><russian num="423"/><spanish num="299"/><tagalog num="640"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 2 - 3 4 | 5 - 3 - | 1 1 3 2 | 7_. - - - (break) | 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 6 - 5 4 | 3 5 4 2 | 6_. - 7_. - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Buhay mula sa kamatayan, Poon
+Ngayon o sa dar'ting na panahon,
+Bakit pa mag-antala basagin na,
+Sisidlan sa kamay Niya'y mahulma.</stanza>
+	<stanza type="verse" number="2">Binhing inihasik sa kahinaan,
+Ibinangon sa kapangyarihan;
+Ipinamuhay sa dusa buhay Mo
+Hindi na ako kundi si Kristo.</stanza>
+	<stanza type="verse" number="3">Buhay mula sa kamatayang daan,
+Tahak nila ay krus kinilanlan;
+Napawangis sa Kanyang kamatayan,
+Pagsalamuha'y kay Hesus lamang.</stanza>
+	<stanza type="verse" number="4">Ang pag-aatas na may pagpapala,
+Buhay sa kamatayan nagmula;
+Dala'y bukal ng buhay masagana,
+Di na ka-i-langang mauhaw pa!</stanza>
+  </lyrics>
+</hymn>

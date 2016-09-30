@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>C'est la victoire ! L'ennemi est sous nos pieds</title>
+  <index>true</index>
+  <category>La guerre spirituelle&amp;mdash;à travers la victoire du Seigneur</category>
+  <numbers><cebuano num="1289"/><chinese num="ts:812"/><english num="1289"/><french num="168"/><german num="1289"/><korean num="852"/><portuguese num="419"/><tagalog num="1289"/></numbers>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Sisters:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brothers:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">C'est la victoire ! Christ a vaincu l'ennemi,
+Ce cri de joie en tout lieu retentit.
+Le sang triomphe, nous voici, des victorieux.
+Bientôt le Vainqueur glorieux va venir.</stanza>
+	<stanza type="verse" number="">Soeurs :
+C'est la victoire, ô frères chrétiens !
+C'est la victoire ! Proclamons !
+À Sion crions : « C'est la victoire ! »
+Proclamons-la, crions de joie !</stanza>
+	<stanza type="verse" number="">Frères :
+C'est la victoire, ô sœurs chrétiennes !
+La rédemption est accomplie !
+Par Son triomphe, Il a vaincu pour nous.
+Nous sommes couronnés de joie !</stanza>
+	<stanza type="verse" number="2">Quelle victoire ! Nous avons vaincu Satan !
+Nous proclamons Sa Parole hardiment.
+Dieu a parlé, et Sa Parole est vérité.
+Par elle, l'ennemi est écrasé !</stanza>
+	<stanza type="verse" number="3">C'est la victoire ! L'ennemi est sous nos pieds !
+N'aimant pas notre âme jusqu'à la mort !
+Nous proclamons : « Seigneur, Tu es le Victorieux ! »
+De notre esprit, nous louons notre Dieu.</stanza>
+  </lyrics>
+</hymn>

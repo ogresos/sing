@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂躺臥在墳墓</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+	<author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <melody>| 5 - 5 6 | 6 5 5 - | 5 - 4 6 | 6 - 5 - | 6 - 7 ._1 | ._1 5 5 - | 6 - 5 4# | 5 - - - (break) | (Chorus) 1 1./ 1// 3 5./ 5// | ._1 - - ._1./ ._2// | ._3 ._1 ._2./ ._1// 7./ 6// | 5 - - 7./ ._1// (break) | ._2 ._2 ._2./ ._1// ._2./ ._3// | ._1 6 5 5./ 5// | 6 6 6./ ._2// ._2./ ._1// | 7 ._1 ._2 5./ 5// (break) | ._3 - - ._2./ ._1// | ._4 - - ._3./ ._2// | ._1 5 ._3 ._2 | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>祂 躺 臥 在 墳 墓， 耶 穌 我 救 主！ 靜 待 晨 光 重 睹。 耶 穌 我 主！ 祂 從 墳 墓 已 起 來， 勝 過 仇 敵， 大 大 的 奏 凱， 祂 從 黑 域 起 來， 祂 是 得 勝 者， 活 著 掌 權， 同 祂 眾 聖 徒 聯 合。 祂 起 來！ 祂 起 來！ 阿 利 路 亞！ 主 起 來！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂躺臥在墳墓，
+耶穌我救主！
+靜待晨光重睹。
+耶穌我主！</stanza>
+	<stanza type="chorus" number="">祂從墳墓已起來，
+勝過仇敵，大大的奏凱，
+祂從黑域起來，
+祂是得勝者，活著掌權，
+同祂眾聖徒聯合。
+祂起來！祂起來！
+阿利路亞！主起來！</stanza>
+	<stanza type="verse" number="2">兵丁徒然看守，
+耶穌我救主！
+石頭徒然封口，
+耶穌我主！</stanza>
+	<stanza type="verse" number="3">死亡無法鎖關，
+耶穌我救主！
+祂已打斷柵欄，
+耶穌我主！</stanza>
+  </lyrics>
+</hymn>

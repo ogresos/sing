@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pamela</firstname>
+  <lastname>Gingerich</lastname>
+  <email>pmginger@rogers.com</email>
+  <password>$2y$10$xgprZJiN6f2jqdSh2ulUyOFDezQFq3pEsJvzORN7ztczMTspn2sma</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>99.241.234.254</ipaddress>
+  <createdate>2014-11-22 15:02:59</createdate>
+  <lastupdateddate>2014-11-22 15:12:15</lastupdateddate>
+  <lastlogindate>2014-11-22 15:03:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="300">Arise, my soul, arise</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="317">Dear Savior, Thou art mine</fav>
+    <fav category="default" type="h" num="295">God's Christ, who is my righteousness</fav>
+    <fav category="default" type="h" num="294">Gone from my heart the world and all its charms</fav>
+    <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="1336">What shall I give unto the Lord</fav>
+  </favourites>
+</user>

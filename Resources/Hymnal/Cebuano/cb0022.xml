@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Simbahon Ka, O Amahan</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGKABALAAN NIYA</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Simbahon Ka, O Amahan,
+Ug amo nga awitan;
+Labing habog Ka'g balaan,
+Daygon "Ngalang Balaan."</stanza>
+	<stanza type="verse" number="2">Mapanggaon Ka, Amahan,
+Gawi Mo matarung man;
+Kinaiya Mo balaan,
+Kami gipaambitan.</stanza>
+	<stanza type="verse" number="3">Kami's dayon gibalaan
+Sa dugo sa Ginoo;
+Makasasala gigahin
+Sa Pulong's kamat'oran.</stanza>
+	<stanza type="verse" number="4">Pinaagi's Espiritu,
+Gibalaan mi Nimo;
+Espiritu, kalag, lawas
+Hingpit nga balaanon.</stanza>
+	<stanza type="verse" number="5">O balaang kinabuhi,
+Sa grasya Mo naamo;
+Himoon ming umalambit
+Sa pagkabalaan Mo.</stanza>
+	<stanza type="verse" number="6">Unya sa balaang syudad,
+Hingpit Mong kabalaan,
+Bug-os namong maambitan,
+Isulti, "Balaan Ka."</stanza>
+  </lyrics>
+</hymn>

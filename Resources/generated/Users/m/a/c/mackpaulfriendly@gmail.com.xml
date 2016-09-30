@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Mackenson</firstname>
+    <lastname></lastname>
+    <email>mackpaulfriendly@gmail.com</email>
+    <password>%2FNoeCy6AP4PjZLOUc%2BFBcA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.162.212.160</ipaddress>
+    <createdate>2013-12-31 13:56:21</createdate>
+    <lastupdateddate>2014-01-12 12:19:37</lastupdateddate>
+    <lastlogindate>2013-12-31 13:56:21</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

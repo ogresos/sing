@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Neddie</firstname>
+  <lastname/>
+  <email>nlzinger@gmail.com</email>
+  <password>$2y$10$sUoMKCWBxHh2VmYY4hPTze7AQfxCeR9p.VSO8IWnvPHPgkJHxywdK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.5.230.178</ipaddress>
+  <createdate>2015-05-09 05:22:23</createdate>
+  <lastupdateddate>2015-05-10 02:26:36</lastupdateddate>
+  <lastlogindate>2015-05-10 01:16:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="593">All I have in Adam is but sin and death</fav>
+    <fav category="default" type="h" num="553">In the secret of His presence</fav>
+    <fav category="default" type="h" num="336">Jesus has loved me, wonderful Savior</fav>
+    <fav category="default" type="h" num="511">Jesus only is our message</fav>
+    <fav category="default" type="h" num="392">Jesus, Savior, pilot me</fav>
+    <fav category="default" type="lb" num="79">Life is God the Father</fav>
+    <fav category="default" type="lb" num="50">Zion</fav>
+    <fav category="default" type="hr" num="171">Отвергни мир, Христа прими</fav>
+    <fav category="default" type="hr" num="390">Что за день настал</fav>
+  </favourites>
+</user>

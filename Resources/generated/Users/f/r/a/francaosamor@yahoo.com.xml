@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Franca</firstname>
+<lastname>Osamor</lastname>
+<email>francaosamor@yahoo.com</email>
+<password>$1$D72IXevW$DJw7ZHt6rya3tu2oumnGV1</password>
+<gender>F</gender>
+<country>Nigeria</country>
+<ipaddress>62.173.34.38</ipaddress>
+<createdate>2009-08-18 06:09:47</createdate>
+<lastupdateddate>2009-09-15 19:17:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+        <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

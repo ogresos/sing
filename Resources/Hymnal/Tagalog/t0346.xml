@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Walang galing umunawa</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;PANGKALAHATAN</category>
+  <numbers><chinese num="266"/><english num="346"/><korean num="266"/><tagalog num="346"/></numbers>
+  <creators>
+    <author biodate="1821-1882" biolink="">Translated from Dora Greenwell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="346"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Walang galing umunawa,
+Sa layon ng Diyos, balak Niya;
+Datapuwa't sa Kanyang kanan
+Manliligtas ko nand'yan!</stanza>
+    <stanza type="verse" number="2">Kristo'y nam'tay sa maysala,
+Nabasa ko't naniwala;
+Maging Manliligtas ko Siya
+Ang ka-i-langan ko nga!</stanza>
+    <stanza type="verse" number="3">Pook matayog iniwan,
+Para sa makasalanan,
+Noon aking pinagtakhan
+Ngayon aking nalaman!</stanza>
+    <stanza type="verse" number="4">Nawa sa 'kin makita Niya
+Bunga ng Kanyang pagdusa,
+Nang Siya'y mas'yahan sa gawa,
+Katulad ko sa Kanya.</stanza>
+    <stanza type="verse" number="5">Buhay man o kamatayan
+Siya ang aking kaaliwan;
+Dina'nan Niyang kamatayan
+Haring buhay kailanman.</stanza>
+  </lyrics>
+</hymn>

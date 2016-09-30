@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname>Harms</lastname>
+  <email>xr3t9@yahoo.com.ar</email>
+  <password>$2y$10$t6fiv35osG8NRkYMtyKNRe5.S8Mjv/pZ6uLqveKuG429dZpXKFh/i</password>
+  <gender/>
+  <country>ar</country>
+  <ipaddress>125.238.18.61</ipaddress>
+  <createdate>2014-08-07 06:13:28</createdate>
+  <lastupdateddate>2015-07-17 22:51:13</lastupdateddate>
+  <lastlogindate>2015-07-17 22:48:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1019">A ruler once came to Jesus by night</fav>
+    <fav category="default" type="h" num="463">I love, I love my Master</fav>
+    <fav category="default" type="h" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="h" num="511">Jesus only is our message</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    <fav category="default" type="h" num="436">Thy Life was giv'n for me</fav>
+  </favourites>
+</user>

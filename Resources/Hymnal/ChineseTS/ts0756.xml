@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>單純跟隨莫遲誤</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><cebuano num="1246"/><chinese num="ts:756"/><english num="1246"/><german num="1246"/><korean num="821"/><spanish num="380"/></numbers>
+  <melody>| 5 3./ 4// 5 ._1 | ._1 6./ 7// ._1 6 | 5/ 5/ 3./ 4// 5 ._1 | ._2 - - - (break) | ._3 ._1./ ._2// ._3 ._1 | ._1 6./ 7// ._1 6 | 5/ 5/ ._1./ ._2// ._3 ._2 | ._1 - - - (break) | (Chorus) ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5/ 5/ ._1./ ._2// ._3 ._3 | ._2 - - 0 (break) | ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5/ 5/ ._1/ ._2/ ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 今 樂 意 跟 隨 眾 召 會， 主 裏 是 一， 顯 無 遺； 在 眾 召 會 中， 主 今 正 行 動， 堅 定 跟 隨， 眾 如 一。 跟 隨！ 跟 隨 主 聖 靈， 單 純 跟 隨， 莫 遲 誤！ 跟 隨！ 憑 靈 中 羔 羊， 絕 對 跟 隨， 憑 基 督！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1246"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們今樂意跟隨眾召會，
+主裏是一，顯無遺；
+在眾召會中，主今正行動，
+堅定跟隨，眾如一。</stanza>
+	<stanza type="chorus" number="">跟隨！跟隨主聖靈，
+單純跟隨，莫遲誤！
+跟隨！憑靈中羔羊，
+絕對跟隨，憑基督！</stanza>
+	<stanza type="verse" number="2">我們今學習跟隨眾從者，
+流中往前無己意；
+時刻轉向靈，絕不望領頭，
+首位惟歸主自己。</stanza>
+	<stanza type="verse" number="3">我們今歡然跟羊羣腳蹤，
+享受牧者的照應；
+在眾召會中，主今正引領，
+祂的發言當聆聽。</stanza>
+	<stanza type="verse" number="4">我們今全然獻給主基督，
+緊緊跟隨不他依；
+不管何遭遇，隨羔羊前行，
+無論何往不稍離。</stanza>
+	<stanza type="verse" number="5">一路緊跟隨，宜到進國度，
+羔羊婚筵樂有分；
+今縱有逼迫、痛苦和試煉，
+不過促我享主恩。</stanza>
+	<stanza type="verse" number="6">在眾召會中，主今正召喚，
+忠信從者來得賞；
+我們願答應，全人都拚上，
+神旨成功不延宕。</stanza>
+  </lyrics>
+</hymn>

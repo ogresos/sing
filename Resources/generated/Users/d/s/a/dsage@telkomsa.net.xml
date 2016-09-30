@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>david</firstname>
+  <lastname/>
+  <email>dsage@telkomsa.net</email>
+  <password>$2y$10$vq1N5vrs1/n7UYJC0zsSy.CVuc9cKXkIhPxaTG7OaI0eU2uRT6u5e</password>
+  <gender/>
+  <country>South Africa</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-05-12 08:36:16</createdate>
+  <lastupdateddate>2016-01-24 12:02:14</lastupdateddate>
+  <lastlogindate>2016-01-24 11:51:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="766">Teach me to pray, Lord, teach me to pray</fav>
+    <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+  </favourites>
+</user>

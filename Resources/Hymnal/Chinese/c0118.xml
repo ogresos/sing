@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>從前那戴荊棘的頭</title>
+  <index>true</index>
+  <category>讚美主－祂的榮耀</category>
+  <numbers><cebuano num="141"/><chinese num="118"/><english num="141"/><korean num="118"/><tagalog num="141"/></numbers>
+  <creators>
+	<author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <melody>| 0 - 3/( 4/) | 5 - 5 | ._1 - ._3 | ._2 - ._1 | 6( ._1) 6 | 5 - 5 | ._1 - ._3 | ._2( - - (break) | ._2) - ._3/( ._4/) | ._5 - ._3 | ._1 - ._3 | ._2 - ._1 | 6( ._1) 6 | 5 - ._1 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>從 前 那 戴 荊 棘 的 頭， 今 戴 榮 耀 冠 冕； 救 主 耶 穌， 我 們 元 首， 你 今 已 升 高 天。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">從前那戴荊棘的頭，
+今戴榮耀冠冕；
+救主耶穌，我們元首，
+你今已升高天。</stanza>
+	<stanza type="verse" number="2">你是地上聖徒之樂，
+你是天上之光；
+你今領我飲於愛河，
+使我知其深廣。</stanza>
+	<stanza type="verse" number="3">主，將你的羞辱、權柄，
+一並賜給我們；
+地雖否認你的微名，
+神卻使你高升。</stanza>
+	<stanza type="verse" number="4">凡肯與你在世同苦，
+也要同榮在天，
+所以求主使我堅固，
+鄙視世界恩典。</stanza>
+	<stanza type="verse" number="5">十架於你雖是辱、死，
+在我卻是生命！
+也是我的榮耀、權勢！
+我的永遠安寧！</stanza>
+  </lyrics>
+</hymn>

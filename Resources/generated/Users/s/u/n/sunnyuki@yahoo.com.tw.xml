@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>sunny</firstname>
+    <lastname></lastname>
+    <email>sunnyuki@yahoo.com.tw</email>
+    <password>uPzReRabjWwJ5mgYl805HA%3D%3D</password>
+    <gender></gender>
+    <country>Taiwan</country>
+    <ipaddress>101.12.109.74</ipaddress>
+    <createdate>2013-05-03 02:55:38</createdate>
+    <lastupdateddate>2013-05-28 03:45:18</lastupdateddate>
+    <lastlogindate>2013-05-03 03:11:40</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="588">主阿我來就你</fav>
+        <fav category="default" type="ch" num="170">恩主我心對你所愛</fav>
+        <fav category="default" type="ch" num="265">這是我見證</fav>
+    </favourites>
+</user>

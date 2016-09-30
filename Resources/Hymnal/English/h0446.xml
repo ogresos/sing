@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What shall I give Thee, Master</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Surrendering All to the Lord</category>
+  <numbers><english num="446"/><spanish num="191"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Homer W. Grimes</author>
+    <composer biodate="" biolink="">Homer W. Grimes</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5556667176535</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | Dm - - | G7 - - | C - - | C/E - - | G/D - - | G - - | Dm - - | G7 - - | C - - | C/E - - | G/D - - | D7 - - | G - - | G7 - - | C - - | Am/C - - | Dm - - | G7 - - | C - - | Caug - - | E - - | - - - | F - - | Dm - - | C/E - - | C - - | D - - | D/F# - - | Dm/F - - | G7 - - | C - - | Am/C - - | Dm - - | G7 - - | C - - | A7 - - | Dm - - | - - - | C - - | Ab/C - - | C - - | A7 - - | Dm - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 5 5 5 | 6 - 6 | 6 - - | 7 - - | ._1 7 6 | 5 - 3 | 5( - - | 5) - 0 (break) | ._2 ._2 ._2 | 6 - 7 | ._1 ._1 ._1 | 5 - 6 | 7 ._1 ._2 | ._3 - ._2 | 5( - - | 5) - 0 (break) | (Chorus) ._3 ._2 ._1 | 7 - 6 | 6 - - | 5 - - | ._1 7 6 | 5# - 6 | 7( - - | 7) - 0 (break) | 6 - 6 | ._4 - 6b | 5 - 5 | ._3 - 5 | 4# - 6 | ._3 - 6 | ._2( - - | ._2) - - (break) | ._3 ._2 ._1 | 7 - 6 | 6 - - | 5 - - | ._1 7 ._1 | ._1# - 6 | ._4( - - | ._4) - 0 (break) | ._3 ._3 ._3 | ._2# - ._2# | ._3 ._1 5 | 3 - - | 4 5 6 | ._4 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>What shall I give Thee, Mas -- ter? Thou who didst die for me. Shall I give less of what I pos -- sess, Or shall I give all to Thee? Je -- sus, my Lord and Sav -- ior; Thou hast giv'n all for me; Thou didst leave Thy home a -- bove To die on Cal -- va -- ry. What shall I give Thee, Mas -- ter? Thou hast giv'n all for me; Not just a part or half of my heart, I will give all to Thee.</singingstanza>
+  </layout>
+  <copyright>Copyright 1937 by F. Carlton Booth. All rights assigned to John T. Benson, Jr. International Copyright Secured.</copyright>
+  <links>
+    <link type="group">hymnal-subj039.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="68">e0446_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What shall I give Thee, Master?
+  Thou who didst die for me.
+Shall I give less of what I possess,
+  Or shall I give all to Thee?</stanza>
+    <stanza type="chorus" number="">Jesus, my Lord and Savior;
+  Thou hast giv'n all for me;
+Thou didst leave Thy home above
+  To die on Calvary.
+What shall I give Thee, Master?
+  Thou hast giv'n all for me;
+Not just a part or half of my heart,
+    I will give all to Thee.</stanza>
+    <stanza type="verse" number="2">What shall I give Thee, Master?
+  Thou hast redeemed my soul;
+My gift is small but it is my all&amp;mdash;
+  Surrendered to Thy control.</stanza>
+    <stanza type="verse" number="3">What shall I give Thee, Master?
+  Giver of gifts divine!
+I will not hold time, talents or gold&amp;mdash;
+  For everything shall be Thine.</stanza>
+  </lyrics>
+</hymn>

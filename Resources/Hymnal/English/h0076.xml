@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the Name of Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><english num="76"/><tagalog num="76"/></numbers>
+  <creators>
+    <author biodate="1817-1877" biolink="">Caroline Maria Noel</author>
+    <composer biodate="1823-1889" biolink="">William Henry Monk</composer>
+  </creators>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>35651543211</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | C/G - Am - | Dm - G7 - | C - - - | Am - - - | G/B - Am - | F - C - | C/G - G - | G - G/F - | C/E - G - | D - D7/F# - | G - G/F - | C/E - C - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 3 5 6 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - (break) | 1 3 4 3 | 2( 3) 1 - | 6 5 3 1 | 3( - 2) - (break) | 5 5 6 5 | ._1 - 7 - | 6 5 7 6 | 5 - - - (break) | 1 5 4 3 | 6 - 2 - | 5 1 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>In the Name of Je -- sus Ev -- ery knee shall bow, Ev -- ery tongue con -- fess Him King of glo -- ry now; 'Tis the Fa -- ther's pleas -- ure We should call Him Lord, Who from the be -- gin -- ning Was the Might -- y Word.</singingstanza>
+    <globalstaffsize>15.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj156.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="33">e0076_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In the Name of Jesus
+  Every knee shall bow,
+Every tongue confess Him
+  King of glory now;
+'Tis the Father's pleasure
+  We should call Him Lord,
+Who from the beginning
+  Was the Mighty Word.</stanza>
+    <stanza type="verse" number="2">At His voice creation
+  Sprang at once to sight:
+All the angel faces,
+  All the hosts of light,
+Thrones and dominations,
+  Stars upon their way,
+All the heav'nly orders,
+  In their great array.</stanza>
+    <stanza type="verse" number="3">Humbled for a season,
+  To receive a Name
+From the lips of sinners
+  Unto whom He came,
+Faithfully He bore it
+  Spotless to the last,
+Brought it back victorious,
+  When from death He passed;</stanza>
+    <stanza type="verse" number="4">Bore it up triumphant,
+  With its human light,
+Through all ranks of creatures,
+  To the central height;
+To the throne of Godhead,
+  To the Father's breast,
+Filled it with the glory
+  Of that perfect rest.</stanza>
+    <stanza type="verse" number="5">Name Him, brothers, name Him,
+  With love strong as death,
+But with awe and wonder,
+  And with bated breath;
+He is God the Savior,
+  He is Christ the Lord,
+Ever to be worshiped,
+  Trusted, and adored.</stanza>
+    <stanza type="verse" number="6">In your hearts enthrone Him;
+  There let Him subdue
+All that is not holy,
+  All that is not true;
+Crown Him as your Captain
+  In temptation's hour;
+Let His will enfold you
+  In its light and power.</stanza>
+    <stanza type="verse" number="7">Brothers, this Lord Jesus
+  Shall return again,
+With His Father's glory,
+  With His angel train;
+For all wreaths of empire
+  Meet upon His brow,
+And our hearts confess Him
+  King of glory now.</stanza>
+  </lyrics>
+</hymn>

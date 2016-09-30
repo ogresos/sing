@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>La Jérusalem céleste</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;Sa sainteté</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nous Te vénérons, cher Père !
+Tu es saint et tout-puissant.
+Nous Te louons tous ensemble,
+Tu es digne, Tu es grand.</stanza>
+	<stanza type="verse" number="2">Plein d'amour et de lumière,
+Tout Ton être est sainteté.
+Tous Tes actes sont justice,
+Grande est Ta fidélité.</stanza>
+	<stanza type="verse" number="3">L'aspersion du sang de Jésus,
+Nous a mis à part pour Toi.
+Ta Parole sainte et pure
+Toujours nous sanctifiera.</stanza>
+	<stanza type="verse" number="4">Avec jalousie Tu chéris
+L'Esprit que Tu m'as donné.
+Que ma marche et tout mon être
+Soient du monde séparés.</stanza>
+	<stanza type="verse" number="5">Par Ta grâce, Tu m'as donné,
+En Ton Fils, Ta sainte vie.
+Je prends part à Ta nature,
+De Toi-même je jouis.</stanza>
+	<stanza type="verse" number="6">La Jérusalem céleste
+Est constituée d'or fin.
+De Ta sainteté divine
+Tu satureras Tes saints !</stanza>
+  </lyrics>
+</hymn>

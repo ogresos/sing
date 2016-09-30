@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>As we're sharing of the cup</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><cebuano num="224"/><chinese num="175"/><english num="224"/><german num="224"/><korean num="175"/><portuguese num="122"/><russian num="248"/><spanish num="100"/><tagalog num="224"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1862-1926" biolink="">Herbert Howard Booth</composer>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>33531233353123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F/A G/B C - | C - - - | F/A F E - | Am - Dm - | G - C - | C - G/B C | G/D D7 G - | G - - - | C - - - | C7 - - - | F - - - | A - Dm - | G7 - C - | F - C/E F | C/G G7 C - |</chords>
+ <guitarChords>| C - - - | G - C - | C - - - | G - C - | C - G - | G - C - | C - G - | D - G - | G - - - | C - - - | C7 - - - | C7 - F - | F - - - | C - - - | F - C - | G - C - |</guitarChords>
+  <melody>| 3. 3/ 5 3 | 1 2 3 - | 3. 3/ 5 3 | 1 2 3 - (break) | 3. 3/ 4 4 | 2 2 3 - | 3 4# 5 1 | 7_. 6_. 5_. - (break) | 7_.. 7_./ 2 7_. | 1 2 3 - | 3. 3/ 5 3 | 4 5 6 - (break) | 6. 6/ 4 2 | 5. 5/ 3 - | 4 6 5 1 | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>As we're shar -- ing of the cup, How can we re -- strain our praise; For the blood Thou shedd'st for us, Worth of which none can ap -- praise. O how pre -- cious is Thy blood! All our pro -- blems it re -- solves; In Thine ef -- fi -- ca -- cious blood All our care and fear dis -- solves.</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj163.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0224.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="38">e0224_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">As we're sharing of the cup,
+  How can we restrain our praise;
+For the blood Thou shedd'st for us,
+  Worth of which none can appraise.
+O how precious is Thy blood!
+  All our problems it resolves;
+In Thine efficacious blood
+  All our care and fear dissolves.</stanza>
+	<stanza type="verse" number="2">It is by this blood of worth
+  The new testament was made;
+For this better covenant,
+  'Tis a sure foundation laid.
+We have been redeemed by God,
+  Not with silver or with gold,
+But, Lord, with Thy precious blood,
+  Which Thy love doth e'er unfold.</stanza>
+	<stanza type="verse" number="3">For remission of our sins
+  Thou hast shed Thy cleansing blood.
+Which for us has fully met
+  All the righteous claims of God.
+Thou hast washed us from our sins
+  In Thy pow'rful purging blood;
+And our conscience purged by it,
+  Thus to serve the living God.</stanza>
+	<stanza type="verse" number="4">By Thy separating blood,
+  We have all been sanctified;
+'Tis by Thy preserving blood
+  Holiness is testified.
+By Thy propitiating blood,
+  We have all been justified;
+'Tis by Thy redeeming blood
+  God is fully satisfied.</stanza>
+	<stanza type="verse" number="5">Thru Thy blood shed on the cross,
+  We are reconciled to God,
+That the way to contact Him
+  May in peace by us be trod.
+By partaking of Thy blood,
+  We have Thine eternal life;
+In Thy blood and life received,
+  We have rest, free from all strife.</stanza>
+	<stanza type="verse" number="6">Now, in heav'n Thy sprinkled blood
+  Speaks for us of better things;
+Under its defending pow'r
+  We are kept from Satan's stings.
+By Thine overcoming blood,
+  We defeat the enemy;
+Over our accuser thus,
+  We will have the victory.</stanza>
+	<stanza type="verse" number="7">Of Thy blood, for fellowship,
+  We commune with all Thy saints;
+Under its full covering,
+  Our freed spirit never faints.
+How can we exhaust, in words,
+  The account of Thy dear blood;
+We will need eternity
+  To declare its boundless good.</stanza>
+  </lyrics>
+</hymn>

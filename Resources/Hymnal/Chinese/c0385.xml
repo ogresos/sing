@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主阿你是嗎哪</title>
+  <index>true</index>
+  <category>經歷基督－作食物</category>
+  <numbers><chinese num="385"/><english num="8385"/></numbers>
+  <melody>| 0 3 | 3 3 | 4 3 | (.2 4 | 4 4 | 5 4 | (.3 3 (break) | 3 3 | 4 5 | (.6 4 | [3/4] 3( 5) 3 | 2( 4) 2 | 2( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>主 阿， 你 是 嗎 哪， 已 經 從 天 降 下； 來 作 我 的 食 物， 使 我 得 著 飽 足。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="379"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主阿，你是嗎哪，
+已經從天降下；
+來作我的食物，
+使我得著飽足。</stanza>
+	<stanza type="verse" number="2">你是磐石裂破，
+流出活水為我；
+隨時我都可喝，
+使我免去乾渴。</stanza>
+	<stanza type="verse" number="3">現在我來就你，
+因我又渴又飢；
+用你自己餧我，
+給我活水解渴。</stanza>
+	<stanza type="verse" number="4">我願喫你、喝你，
+吸取你的自己；
+飽嘗你的生命，
+暢飲你的聖靈。</stanza>
+	<stanza type="verse" number="5">若非如此吸取，
+就難免去空虛；
+如此喫你、喝你，
+纔能生活有力。</stanza>
+  </lyrics>
+</hymn>

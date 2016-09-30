@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>b. </firstname>
+  <lastname>streb</lastname>
+  <email>bs456@sbcglobal.net</email>
+  <password>$2y$10$9zIQ4v.33dAaY3SjzG0RAeP5s1kApYXWYZRSqhJTHzjFwdzkVhpWu</password>
+  <gender/>
+  <country/>
+  <ipaddress>69.155.136.215</ipaddress>
+  <createdate>2014-10-04 22:07:34</createdate>
+  <lastupdateddate>2014-10-04 22:13:24</lastupdateddate>
+  <lastlogindate>2014-10-04 22:08:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

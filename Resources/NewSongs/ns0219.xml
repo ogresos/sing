@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sometimes we're caught in a world full of baits</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <numbers><english num="ns:219"/><vsb num="149"/></numbers>
+  <hymncode>55121122356716321235565</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Am - - - | C/G - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | E7 - - - | A - - - | F - - - | Dm - - - | Gsus4 - - - | G7 - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 5_. - 5_. 1 | 2 - - 1/ 1/ | 2 - 2 3 | 5_. - - - | 6_. 7_. 1 6_. | 3 2 1 2 (break) | 3 5_. - 5_./ 6_./ | 5_. - 5_. 5_. | 6_. 6_. 6_. 1 | 7_. 7_. 1 2 | 3 3 3 2 | 1# - - 6_. (break) | 3 2 1 6_. | 3 2/ 1/( 1) 6_. | 2( - - - | 2) - - 0 (break) | (Chorus) 3 - 3 3 | 3 - 2 1 | 2 3/ 2/( 2)( - | 2) - - 1 (break) | 1 2/ 3/( 3) 1 | 1 2/ 3/( 3) 1 | 3 4 - 2/ 1/ | 2 - 5 4 (break) | 3 - - 3 | 3 3 2 1 | 2 3/ 2/( 2)( - | 2) - - 1 (break) | 1 2/ 3/( 3) 1 | 1 2/ 3/( 3) 1 | 3 4/ 2/( 2) - | 0 2 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Some -- times we're caught in a world full of baits Tempt -- ing us to live our lives con -- tra -- ry to Your aim, But Your faith -- ful -- ness and love and mer -- cy Al -- ways will re -- main; Lord, turn us ful -- ly back to You a -- gain. Lord, our whole be -- ing we give to You 'Cause You have bought us with Your blood So we no long -- er live to our -- selves, But ev -- ery -- day our lives we live To You a -- lone, not to our own, Your glo -- ry, Lord, will then be shown.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="56">ns0219.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sometimes we're caught in a world full of baits
+Tempting us to live our lives contrary to Your aim,
+But Your faithfulness and love and mercy
+Always will remain;
+Lord, turn us fully back to You again.</stanza>
+    <stanza type="chorus" number="">Lord, our whole being we give to You
+'Cause You have bought us with Your blood
+So we no longer live to ourselves,
+But everyday our lives we live
+To You alone, not to our own,
+Your glory, Lord, will then be shown.</stanza>
+    <stanza type="verse" number="2">Sometimes we lean only on ourselves,
+Thinking we can do things without asking for Your help,
+But Your Spirit in our spirit's
+Working in and breaking through
+To free us from the "self" and back to You.</stanza>
+  </lyrics>
+</hymn>

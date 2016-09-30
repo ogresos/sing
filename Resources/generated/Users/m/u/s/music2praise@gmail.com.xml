@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Gui Ben</firstname>
+    <lastname>Tan</lastname>
+    <email>music2praise@gmail.com</email>
+    <password>$1$lnMIJgZ3$0JsVyZH2OXIiI7JwzVV291</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>75.5.71.234</ipaddress>
+    <createdate>2008-07-26 01:43:14</createdate>
+    <lastupdateddate>2009-11-07 17:50:19</lastupdateddate>
+    <lastlogindate>2009-11-07 17:50:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="93">A story you should know</fav>
+        <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+        <fav category="default" type="h" num="167">How good is the Lord we adore</fav>
+        <fav category="default" type="h" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="ns" num="98">I'm walking down the road</fav>
+        <fav category="default" type="ns" num="17">It's so easy to love the Lord</fav>
+        <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+        <fav category="default" type="h" num="307">On Calvary's brow my Savior died</fav>
+        <fav category="default" type="ns" num="80">Our Christ is so enjoyable</fav>
+        <fav category="default" type="lb" num="48">The Lord is my strength and my song</fav>
+        <fav category="default" type="nt" num="343">There is sunshine in my soul today</fav>
+        <fav category="default" type="ns" num="54">Welcome</fav>
+        <fav category="default" type="h" num="1174">What a victory! What a triumph</fav>
+    </favourites>
+</user>

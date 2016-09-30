@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Die Gemeinde froh verkündet</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Sieg und Seine Erhöhung</category>
+  <numbers><cebuano num="1096"/><chinese num="ts:515"/><english num="1096"/><german num="1096"/><korean num="807"/><portuguese num="66"/><russian num="504"/><spanish num="62"/><tagalog num="1096"/></numbers>
+  <melody>| 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 (break) | 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 (break) | 4 3 4 5 | 6 5 4 3 | 4. 3/ 2 1 | 3 2 1 7_. (break) | 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Die Ge -- mein -- de froh ver -- kün -- det: Je -- sus ist Herr! Sie ist auf dem Herrn ge -- grün -- det: Je -- sus ist Herr! Je -- sus hat Sein Werk voll -- en -- det, Sa -- tan und sein Heer be -- en -- det, Auf dem Thron sitzt, Le -- ben spen -- det, Je -- sus ist Herr!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1096"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Die Gemeinde froh verkündet:
+    Jesus ist Herr!
+Sie ist auf dem Herrn gegründet:
+    Jesus ist Herr!
+Jesus hat Sein Werk vollendet,
+Satan und sein Heer beendet,
+Auf dem Thron sitzt, Leben spendet,
+    Jesus ist Herr!</stanza>
+	<stanza type="verse" number="2">Jesus als der Geist lebt heute,
+    Jesus ist Herr!
+Er ist hier! Hört zu, ihr Leute:
+    Jesus ist Herr!
+Klagt nicht, Er wird euch erretten;
+Ruft Ihn an, Er wird eintreten,
+Ja, wir wollen Ihn anbeten –
+    Jesus ist Herr!</stanza>
+	<stanza type="verse" number="3">Er wird euch vollauf umwandeln,
+    Jesus ist Herr!
+Reich versorgt in allem Handeln,
+    Jesus ist Herr!
+Er wird euch den Frieden geben,
+Und versorgt euch reich mit Leben,
+Wird euch ganz mit Gott verweben,
+    Jesus ist Herr!</stanza>
+	<stanza type="verse" number="4">Er empfing uns voll Erbarmen,
+    Jesus ist Herr!
+Hält uns fest in Seinen Armen,
+    Jesus ist Herr!
+Seine ganze Fülle sehen
+Wir in Seinem Leib und stehen,
+Satan und sein Werk vergehen –
+    Jesus ist Herr!</stanza>
+  </lyrics>
+</hymn>

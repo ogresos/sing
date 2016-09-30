@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聖化潔淨我們</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><chinese num="ts:440"/><english num="1135"/><korean num="838"/></numbers>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <layout>
+	<singingstanza>哦 主， 聖 化 我 們， 加 添 你 的 自 己； 願 你 寶 貴 人 位 擴 展 在 我 衷 裏， 使 你 榮 耀 召 會 在 此 顯 為 實 際； 哦 主， 求 你 加 添 自 己。 哦 主， 今 日 聖 化 我 們， 捨 此 無 路 滿 足 神 心。 惟 願 你 作 人 位， 擴 展 徧 及 四 圍； 哦 主， 今 日 聖 化 我 們。</singingstanza>
+	<columns>3</columns>
+  </layout>
+  <notes>以弗所五章二十六至二十九節</notes>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主，聖化我們，加添你的自己；
+願你寶貴人位擴展在我衷裏，
+使你榮耀召會在此顯為實際；
+哦主，求你加添自己。</stanza>
+	<stanza type="chorus" number="">哦主，今日聖化我們，
+捨此無路滿足神心。
+惟願你作人位，擴展徧及四圍；
+哦主，今日聖化我們。</stanza>
+	<stanza type="verse" number="2">哦主，潔淨我們，向我們心說話；
+洗滌我們全人，直至聖別無瑕。
+願你活話擴長，來將我們聖化；
+哦主，求你潔淨聖化。</stanza>
+	<stanza type="chorus" number="">哦主，今日潔淨我們，
+不容天然生命留存。
+美麗、榮耀添加，
+皆因你的說話；
+哦主，今日潔淨我們。</stanza>
+	<stanza type="verse" number="3">哦主，滋養我們，惟你是真食物；
+只需喫飽喝足，變化自然顯出。
+惟有得你餧養；我們纔真滿足；
+哦主，求你滋養眷顧。</stanza>
+	<stanza type="chorus" number="">哦主，今日滋養我們，
+老舊、天然洗滌淨盡。
+求你來施潔淨，
+又將我們充盈；
+哦主，今日滋養我們。</stanza>
+	<stanza type="verse" number="4">哦主，顧惜我們，以你柔愛養育；
+藉你溫情撫慰，眷顧我們所需。
+輭化剛硬石心，好來施情佔據；
+哦主，今日顧惜我們。</stanza>
+	<stanza type="chorus" number="">哦主，今日顧惜我們，
+冷淡、死沉全都驅盡。
+當你懷搋緊緊，
+我們能不歡欣？
+哦主，今日顧惜我們。</stanza>
+	<stanza type="verse" number="5">哦主，榮化我們，藉你內裏運行；
+非為個人明亮，乃為召會得榮。
+願你得著新婦，成就你愛經營；
+哦主，求你在我運行。</stanza>
+	<stanza type="chorus" number="">哦主，今日運行我身，
+妝飾新婦迎你再臨。
+願你開展擴充，
+召會榮上加榮，
+哦主，今日榮化我們。</stanza>
+  </lyrics>
+</hymn>

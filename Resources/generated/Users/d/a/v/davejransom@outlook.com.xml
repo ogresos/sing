@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dave</firstname>
+  <lastname>Ransom</lastname>
+  <email>davejransom@outlook.com</email>
+  <password>$2y$10$HWKryrhxHzaEO3JA.UX.zOYHCvDJUAGlsHFBCSPyx/OhWgWqGlxnK</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>89.243.122.82</ipaddress>
+  <createdate>2014-11-04 16:54:54</createdate>
+  <lastupdateddate>2014-11-04 16:56:04</lastupdateddate>
+  <lastlogindate>2014-11-04 16:56:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay Kristo nga makiisa</title>
+  <index>true</index>
+  <category></category>
+  <numbers><chinese num="357"/><tagalog num="c357"/></numbers>
+  <music>
+    <midiref type="h" num="8357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay Kristo nga makiisa,
+Sa gawa ng krus Niya;
+Sa suliranin may kaya,
+'Pagkat may tulong Niya.</stanza>
+    <stanza type="verse" number="2">Muling-nabuhay na Kristo.
+Nakiisa tayo,
+Liwanag ng krus nakita,
+Nabigyang biyaya.</stanza>
+    <stanza type="verse" number="3">Kristong matagumpay kai-sa,
+'Spiritu'y may saya;
+Banal Niyang ngalan tinawag,
+Lakas dyablo'y buwag.</stanza>
+    <stanza type="verse" number="4">Kataas-taasang Isa,
+Sa Iyo nakiisa;
+Dinaig gawa ng d'yablo,
+Sa krus Mo'y panalo.</stanza>
+    <stanza type="verse" number="5">Kay hiwaga! Maugpong na,
+Diyos nga ang may gawa,
+Nagligtas dah'l sa Kordero.
+Purihin Siya mismo.</stanza>
+  </lyrics>
+</hymn>

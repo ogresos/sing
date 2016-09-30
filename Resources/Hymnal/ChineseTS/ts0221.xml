@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>暢飲於活泉</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="1149"/><chinese num="ts:221"/><english num="1149"/><german num="1149"/><korean num="822"/><russian num="464"/><spanish num="229"/></numbers>
+  <melody>| 0. 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 4/ (break) | 6/ 5 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 5/ | 1 - (break) | (Chorus) 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 4/ | 6/ 5. (break) | 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 5/ | 1. 0/ |</melody>
+  <layout>
+	<singingstanza>恩 典 實 際 湧 自 基 督， 儘 管 暢 飲 於 活 泉！ 我 們 讚 美， 歌 唱 不 倦， 在 召 會 （家） 裡 面。 榮 耀 歸 神！ 我 們 暢 飲 於 活 泉！ 榮 耀 歸 神！ 我 們 在 家 裡 面。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1149"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">恩典實際湧自基督，
+儘管暢飲於活泉！
+我們讚美，歌唱不倦，
+在召會（家）裡面。</stanza>
+	<stanza type="chorus" number="">榮耀歸神！
+我們暢飲於活泉！
+榮耀歸神！
+我們在家裡面。</stanza>
+	<stanza type="verse" number="2">主是何等樂意施恩，
+儘管暢飲於活泉！
+不必天涯海角去找，
+祂是在家裡面。</stanza>
+	<stanza type="verse" number="3">任憑撒但多方打岔，
+儘管暢飲於活泉！
+無論何時，撒但不能
+絲毫勝過我們。</stanza>
+	<stanza type="verse" number="4">你若渴了，火速趕來，
+儘管暢飲於活泉！
+只管暢飲，不用擔心，
+你是在家裡面。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌奇妙救主</title>
+  <index>true</index>
+  <category>讚美主－祂的美麗</category>
+  <numbers><chinese num="145"/><english num="176"/><korean num="145"/><tagalog num="176"/></numbers>
+  <creators>
+	<author biodate="1847-1890" biolink="">Translated from Daniel Arthur McGregor</author>
+  </creators>
+  <melody>| 5 - - 5 4 3 | 3 - 2 - 0 - | 4 - - 4 3 2 | 3 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 5 4 3 - 2 - | 1 - - - - - (break) | 7 - - 7 6 5 | 5 - 4# - 0 - | 6 - - 6 5 4# | 5 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 1 2 3 - 2 - | 1 - - - - - |</melody>
+  <layout>
+	<singingstanza>耶 穌， 奇 妙 救 主！ 基 督， 王 中 王！ 天 使 敬 拜 俯 伏， 我 們 也 頌 揚； 他 們 在 天 承 認 你 乃 美 至 極； 我 們 也 在 愛 吟 你 是 最 美 麗。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="176"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌，奇妙救主！
+基督，王中王！
+天使敬拜俯伏，
+我們也頌揚；
+他們在天承認
+你乃美至極；
+我們也在愛吟
+你是最美麗。</stanza>
+	<stanza type="verse" number="2">地上所有安逸，
+盡都是空穴；
+天上缺少了你，
+也變成黑夜。
+基督，你的榮耀
+乃是天上光；
+耶穌，你的榮耀
+使地也明亮。</stanza>
+	<stanza type="verse" number="3">如果與你分開，
+生命變死亡；
+若是有你同在，
+死中生仍旺。
+宇宙、人類、天使，
+全由你造成，
+然而你肯降世，
+穿上人性情。</stanza>
+	<stanza type="verse" number="4">耶穌！一切美善，
+始終全在你；
+神的榮耀光線，
+乃是你自己。
+人若得見你面，
+是蒙了奇恩；
+但願你這恩典，
+我也滿有分。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If you're happy and you know it</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Rejoicing in the Lord</category>
+  <hymncode>55111111712</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G7 - - - | C - C7 - | F - Dm - | C/G - Am - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_./ 5_./ | 1/ 1/ 1/ 1/ 1/ 1/ 7_./ 1/ | 2 - - 5_./ 5_./ (break) | 2/ 2/ 2/ 2/ 2/ 2/ 1/ 2/ | 3 - - 3/ 3/ (break) | 4/ 4/ 4/ 4/ 6_./ 6_./ 4/ 4/ | 3/ 3/ 3/ 2/ 1/ 1/ 3/ 3/ (break) | 2/ 2/ 2/ 1/ 7_./ 7_./ 6_./ 7_./ | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>If you're hap -- py and you know it, Clap your hands. If you're hap -- py and you know it, Clap your hands. If you're hap -- py and you know it, And you real -- ly want to show it, If you're hap -- py and you know it, Clap your hands.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-b.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="19">c0011.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If you're happy and you know it,
+Clap your hands.
+If you're happy and you know it,
+Clap your hands.
+If you're happy and you know it,
+And you really want to show it,
+If you're happy and you know it,
+Clap your hands.</stanza>
+    <stanza type="verse" number="2">If you're happy and you know it,
+Stomp your feet.
+(stomp, stomp)</stanza>
+    <stanza type="verse" number="3">If you're happy and you know it,
+Call, "Oh, Lord".
+(Oh, Lord)</stanza>
+    <stanza type="verse" number="4">If you're happy and you know it,
+Say, "Amen".
+(Amen)</stanza>
+    <stanza type="verse" number="5">If you're happy and you know it,
+Do all four.
+(clap, clap; stomp, stomp; Oh, Lord; Amen.)</stanza>
+  </lyrics>
+</hymn>

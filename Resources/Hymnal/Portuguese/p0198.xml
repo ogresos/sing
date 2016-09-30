@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Teu grande amor constrange-me, ó Deus</title>
+  <index>true</index>
+  <category>A Consagração Constrangidos Pelo Amor Do Senhor</category>
+  <numbers><chinese num="ts:439"/><english num="431"/><portuguese num="198"/><spanish num="183"/></numbers>
+  <creators>
+    <author biodate="1868-1927" biolink="">Translated from Emily May Grimes</author>
+  </creators>
+  <music>
+    <midiref type="h" num="431"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Teu grande amor constrange-me, ó Deus,
+Qual forte onda, vem em mim fluir,
+Buscando em minh'alma um canal,
+Quer as barreiras todas destruir.</stanza>
+    <stanza type="verse" number="2">Não cederei ao constrangido ser?
+E não direi: Flui, ó amor, em mim?
+Meu Deus, me conquistou Teu meigo ser;
+Mi'a vida a mesma não será enfim.</stanza>
+    <stanza type="verse" number="3">Quebra-me a natureza, ó amor,
+Inunda meu querer e emoção,
+Meu pensamento e mente vem limpar;
+Só Sua vida restará então.</stanza>
+    <stanza type="verse" number="4">Por Deus tomado e regido assim,
+Um rio de ternura, graça, amor,
+Livre, espontâneo, fluirá de mim,
+Amando eternamente a quem me amou.</stanza>
+  </lyrics>
+</hymn>

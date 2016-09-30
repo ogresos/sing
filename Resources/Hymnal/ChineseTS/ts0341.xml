@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>願一生愛你</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:341"/><english num="lb:76"/><vsb num="27"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - (break) | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. 1/ 1/ | 3 - - 4/ 3/ | 2 - - 3/ 2/ | 1 - - 2 | 2 - - - (break) | (Verse_2) 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - (break) | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. 1/ 1/ | 3 - - 4/ 3/ | 2 - - 3/ 2/ | 1 - - 2 | 2 - - - (break) | (Verse_3) 1( - - - | 1) 3 4 5 | 4 - 3 - | 2 - - - | 2( - - - | 2) 2 3 4 | 3 - 2 - | 1 - - - (break) | 6( - - - | 6) 6 7 ._1 | 7 - 5 3 | 6( - - - | 6) 6 5 4 | 5( - - - (break) | 5) 5 4 3 | 4( - - - | 4) 4 3 2 | 5_. - 7_. - | 1 - - - (break) | (Chorus) 0 3 4 5 (startrepeat) | 6 - - - | 2 - {2 3 4} | 5 - - 6 | 1 - {1 2 3} | 4. 4/ 4. 3/ (break) | (alt1) 3/( 2.)( 2) 1 | 3/ 5/( 5) - - | 0 3 4 5 | (alt2) 3/( 2.)( 2) 1/ 7_./ | 1( - - - | 1) - - 0 (endalt) |</melody>
+  <layout>
+	<singingstanza end="-1">從 前 沉 溺 罪 惡 地， 良 心 終 日 無 安 息， 深 感 痛 苦、 無 能 力 我 知 罪， 我 自 責， 因 罪 污 不 義。 悲 慘 人 生 無 所 期， 虛 空 世 界 無 意 義， 追 求 快 樂 和 刺 激 如 補 風， 如 捉 影， 既 虛 空 又 無 益。 神！ 我 曾 遠 離 你， 你 至 高、 至 大、 獨 一； 哦！ 你 竟 然 成 為 肉 體， 親 來 尋 覓， 血 將 我 洗， 釘 死 作 我 代 替。 願 一 生 愛 你， 願 與 你 更 親 密， 願 將 生 命 和 一 切 全 獻 給 你。 願 一 生 全 獻 給 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="lb" num="76"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">從前沉溺罪惡地，
+良心終日無安息，
+深感痛苦、無能力我知罪，
+我自責，因罪污不義。</stanza>
+	<stanza type="verse" number="2">悲慘人生無所期，
+虛空世界無意義，
+追求快樂和刺激如補風，
+如捉影，既虛空又無益。</stanza>
+	<stanza type="verse" number="3">神！我曾遠離你，
+你至高、至大、獨一；
+哦！你竟然成為肉體，
+親來尋覓，血將我洗，
+釘死作我代替。</stanza>
+	<stanza type="chorus" number="">願一生愛你，
+願與你更親密，
+願將生命和一切全獻給你。
+願一生愛你，
+願與你更親密，
+願將生命和一切全獻給你。</stanza>
+  </lyrics>
+</hymn>

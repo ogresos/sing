@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Senhor Jesus, oh! que dulçor</title>
+  <index>true</index>
+  <category>Sua Beleza</category>
+  <numbers><cebuano num="171"/><chinese num="141"/><english num="171"/><german num="171"/><korean num="141"/><portuguese num="86"/><russian num="35"/><spanish num="81"/><tagalog num="171"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 0 ._3/ | ._3 ._3/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 3/ 6/( 5/) 3/ (break) | 2.( 2) 5/ | 5 5/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 ._1/ ._3 ._2/ (break) | ._1.( ._1) (Chorus) ._2/ | ._2/ ._2/ ._2/ ._2/ ._3/ ._4/ | ._3. ._1 ._3/ | ._2/ ._2/ ._2/ ._2/ ._1/ 6/ (break) | 5.( 5) 5/ | 5 5/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 ._1/ ._3 ._2/ | ._1.( ._1) 0/ |</melody>
+  <notes>Planta apreciada no mundo antigo por suas fragrantes flores amarelas e brancas (Cântico dos Cânticos 1:14).</notes>
+  <music>
+	<midiref type="h" num="171"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Senhor Jesus, oh! que dulçor
+Há quando penso em Ti!
+Espero e anelo ser
+Arrebatado a Ti.</stanza>
+	<stanza type="chorus" number="">Senhor, és qual flores de hena*
+Mas vinhas de En-Gedi;
+Formoso, deslumbrante és,
+Te aprecio aqui.</stanza>
+	<stanza type="verse" number="2">Não há canção pra entoar
+A graça do Senhor;
+Nem coração pra desfrutar
+O Seu profundo amor.</stanza>
+	<stanza type="verse" number="3">O que me alegra o coração
+Não é só Teu amor;
+Mas é Teu próprio amável ser
+Meu gozo, ó Senhor!</stanza>
+	<stanza type="verse" number="4">Dos belos, o mais belo és,
+Mais doce que o mel;
+Oh! não há outro que me apraz
+Na terra e no céu.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Anthony</firstname>
+    <lastname>Bedford</lastname>
+    <email>be_still@bellsouth.net</email>
+    <password>FdI10kp6pfgQWUmLfHOFaw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>99.173.155.5</ipaddress>
+    <createdate>2011-01-01 02:39:02</createdate>
+    <lastupdateddate>2011-01-01 02:41:02</lastupdateddate>
+    <lastlogindate>2011-01-01 02:39:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

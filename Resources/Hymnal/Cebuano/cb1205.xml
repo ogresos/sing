@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Magpadayon's atong tumong&amp;mdash</title>
+  <index>true</index>
+  <category>PAGDASIG&amp;mdash;NGA MAGPADAYON</category>
+  <numbers><cebuano num="1205"/><chinese num="ts:423"/><english num="1205"/><german num="1205"/><korean num="1006"/><russian num="469"/><spanish num="301"/><tagalog num="1205"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="David Matteson">Translated from D. M.</author>
+  </creators>
+  <melody>| 0 - 5 - | 5 - 5 - | 5 - - 4 | 4 - 3 - | 3 - - 3 | 3 - 3 - | 5 - 3 - | 4( - - - (break) | 4) - 5 - | 5 - 7 - | 7 - - 7 | ._1 - 5 - | 5 - - 5 | 6 - 4 - | 3 - 2 - (break) | 1( - - - | 1) 0 (Chorus) 5. 5/ | 7( - - - | 7) - 5. 5/ | ._1( - - - | ._1) - 5. 5/ | ._2( - - - (break) | ._2) - 5. 5/ | ._3 ._2 ._1 7 | ._1 7 6. 5/ | 7( - - - (break) | 7) - 5. 5/ | ._1( - - - | ._1) - 5 - | 6 - 4 - | 3 - 2 - | 1( - - - | 1) 0 - - |</melody>
+  <music>
+	<midiref type="h" num="1205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Magpadayon's atong tumong&amp;mdash;
+Cristong malangkubon.
+Ganti sa tawag maangkon,
+Basta magpadayon!</stanza>
+	<stanza type="chorus" number="">Padayon! Padayon!
+Padayon! Hallelujah sa ganti
+Nga maangkon! Padayon!
+Magpadayon karon!</stanza>
+	<stanza type="verse" number="2">Isipa nga kapildehan,
+Ang tanang naangkon,
+Kon si Cristo'y mabatonan,
+Mas mahimayaon!</stanza>
+	<stanza type="verse" number="3">Makaila pa gyud Niya
+Ug gahum's pag'banhaw&amp;mdash;
+O kinalabwan ning balus,
+Bisan pag mag-antus!</stanza>
+	<stanza type="verse" number="4">Ato gayud nga timan-an
+Nangagi kalimtan;
+Sulong lang didto's unahan,
+Cristo atua man!</stanza>
+  </lyrics>
+</hymn>

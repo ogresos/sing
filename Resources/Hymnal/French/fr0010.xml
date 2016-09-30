@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Et quel plaisir cette louange donne</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;la louange par Ses nombreux fils</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Père, pour Toi montent, dans Ta présence,
+De doux accents,
+Une réponse à Ton amour immense,
+De joyeux chants.
+Auprès de Toi, les objets de Ta grâce,
+Avec Ton Fils, ont une heureuse place.</stanza>
+	<stanza type="verse" number="2">C'est une scène où l'allégresse est sainte,
+Où tout répond
+À Ton amour, donnant sous Ton étreinte.
+Gloire à Ton nom.
+Dans Ton repos, ceint de splendeur suprême,
+C'est Ton cher Fils qui la louange mène.</stanza>
+	<stanza type="verse" number="3">Et quel plaisir cette louange donne,
+Père à Ton cœur !
+Nous nous joignons à ce chant qu'Il entonne
+En Ton honneur.
+Oui, Tu L'aimais avant que fut le monde,
+Et près de Lui, notre joie est profonde.</stanza>
+  </lyrics>
+</hymn>

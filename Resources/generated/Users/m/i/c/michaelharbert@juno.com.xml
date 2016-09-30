@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michael</firstname>
+  <lastname>Harbert</lastname>
+  <email>michaelharbert@juno.com</email>
+  <password>$2y$10$geKg4eKvTYNRcNiNGj.hHO/fSdT2n7tB9Ans2ET1gejloZ7ESLBT.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>64.134.243.98</ipaddress>
+  <createdate>2015-01-20 03:05:00</createdate>
+  <lastupdateddate>2016-08-19 17:56:36</lastupdateddate>
+  <lastlogindate>2016-08-19 17:56:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="1046">Almost persuaded</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="836">Christ is made the sure foundation</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

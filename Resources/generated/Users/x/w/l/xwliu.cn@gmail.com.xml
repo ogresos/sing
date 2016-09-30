@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michael</firstname>
+  <lastname>Liu</lastname>
+  <email>xwliu.cn@gmail.com</email>
+  <password>$2y$10$1ubjMa5wWK7JF/gP3tumTuZcOvSz1OJSsudIPYwuBb/nGzPL6LTXe</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>70.255.41.177</ipaddress>
+  <createdate>2008-07-26 01:43:29</createdate>
+  <lastupdateddate>2015-12-08 04:46:39</lastupdateddate>
+  <lastlogindate>2015-12-08 04:10:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="1341">Therefore the redeemed of the Lord shall return</fav>
+  </favourites>
+</user>

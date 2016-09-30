@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nearer each day</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Trusting Him</category>
+  <numbers><english num="ns:199"/><vsb num="135"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Jennifer Day">J. D.</author>
+    <composer biodate="" biolink="" fullname="Jennifer Day">J. D.</composer>
+  </creators>
+  <hymncode>34566671255356</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - | F - - | C/E - - | Dm - - | G7 - - | C - - | G/B - - | Am - - | C - - | Dm - - | F/C - - | G7/B - - | G7 - - | C - - | E - - | Am - - | C/G - - | F - - | C/E - - | Dm - - | G7 - - | C - - | G/B - - | Am - - | C/G - C/E | Dm - - | C/E - - | Dm/F - - | G7 - - | C - - | F/C - - | C - - |</chords>
+  <melody>| 3 4 5 | 6 - - | 6 - - | 6 - - | 7 ._1 ._2 | 5 - - | 5.( 3/ 5) | 6 - 6 (break) | 1 2 3 | 4 - - | 4 - - | 4 - 4 | 4 3 2 | 3 - - | 7.( 6/ 7) | ._1 - - (break) | 3 4 5 | 6 - - | 6 - - | 6 - - | 7 ._1 ._2 | ._3 - - | ._2.( ._3/ ._2) | ._1 - - (break) | ._1 ._2 ._3 | ._4 - - | ._3 - - | ._2/( ._1.)( ._1) | 7 ._1 ._2 | ._1( - - | ._1)( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Near -- er each day to me, Dear -- er each day to me, This Per -- son in -- side me is Be -- com -- ing re -- al -- i -- ty. Sav -- ing me, lov -- ing me, Faith and hope giv -- ing me. You're all the world to me Je -- sus, my Lord.</singingstanza>
+  </layout>
+  <videos>
+    <video title="" youtubeid="dZzjCY6qc1c"/>
+  </videos>
+  <music>
+    <midi location="ns" length="45">ns0199.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nearer each day to me,
+Dearer each day to me,
+This Person inside me is
+Becoming reality.
+Saving me, loving me,
+Faith and hope giving me.
+You're all the world to me Jesus, my Lord.</stanza>
+    <stanza type="verse" number="2">Even when faith is small,
+When there's no hope at all,
+I hear Him say to me,
+Trust in Me and you'll see,
+That I'll supply all your needs,
+If only you will believe.
+All anxious doubts will cease,
+While trusting in Me.</stanza>
+  </lyrics>
+</hymn>

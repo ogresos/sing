@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Niyi</firstname>
+<lastname>Adebanjo</lastname>
+<email>nadebanjo@hotmail.com</email>
+<password>$1$MpS.Bun/$yqZNs7qzqQgxE5FMpZinN/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.187.246.9</ipaddress>
+<createdate>2008-07-26 01:43:14</createdate>
+<lastupdateddate>2009-09-15 18:22:16</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+    </favourites>
+</user>

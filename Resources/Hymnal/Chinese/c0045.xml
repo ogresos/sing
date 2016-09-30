@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>父神我們稱頌你</title>
+  <index>true</index>
+  <category>敬拜父－祂兒子名分中的恩典</category>
+  <numbers><cebuano num="48"/><chinese num="45"/><english num="48"/><korean num="45"/><portuguese num="33"/><russian num="197"/><spanish num="29"/><tagalog num="48"/></numbers>
+  <creators>
+	<author biodate="1860-1930" biolink="">Translated from Alexander Carruthers</author>
+  </creators>
+  <melody>| 0 - - 1 | 2 1 4 3 | 2 - 1 3 | 5 ._1 7 5# | 6 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2 1 | 2 - - 2 (break) | 4 3 6 7 | ._1 - ._2 5 | ._3. ._3/ ._2 ._1 | 7 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>父 神， 我 們 稱 頌 你， 你 前 我 們 歡 喜； 永 遠 脫 開 了 死 亡， 與 你 兒 子 一 起。 祂 是 一 『人』 活 你 前， 在 那 清 明 光 中， 在 你 無 限 的 愛 裡， 永 遠 蒙 你 恩 寵。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">父神，我們稱頌你，
+你前我們歡喜；
+永遠脫開了死亡，
+與你兒子一起。
+祂是一『人』活你前，
+在那清明光中，
+在你無限的愛裡，
+永遠蒙你恩寵。</stanza>
+	<stanza type="verse" number="2">祂父就是我們父，
+祂神就是我神；
+祂是你愛的兒子，
+你心所喜所珍。
+祂帶我們親近你，
+有分於祂地位，
+享受你愛的恩寵，
+並你臉上光輝。</stanza>
+	<stanza type="verse" number="3">你愛已將我擁抱，
+這愛永不消沉；
+這愛全都集中，
+在你的愛子一身。
+在祂裡面，你眾子－
+祂的許多弟兄－
+與祂同享你這愛，
+同受你的恩寵。</stanza>
+  </lyrics>
+</hymn>

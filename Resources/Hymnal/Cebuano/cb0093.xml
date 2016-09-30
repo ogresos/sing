@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ginoo, gihandom namo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAG-ANTUS</category>
+  <numbers><cebuano num="93"/><chinese num="87"/><english num="93"/><korean num="87"/><russian num="399"/><tagalog num="93"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from M. W. Biggs</author>
+    <author biodate="1905-1997" biolink="">Translated from Chorus by Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ginoo, gihandom namo
+Ang dalan Mo's kasubo,
+Nagtapos nga kasakitan,
+Labi Kang mahal namo.</stanza>
+    <stanza type="chorus" number="">Manluluwas, O daygon Ka!
+Namatay alang namo!
+Himayaon, himayaon!
+Kinabuhi among naangkon!</stanza>
+    <stanza type="verse" number="2">Kasub-anang naagian
+Walay tawong makatugkad;
+Way naingnan gidagmalan,
+Di maasoy ang tanan.</stanza>
+    <stanza type="verse" number="3">Walay tawo nga makasunod
+Samtang Ikaw nagtubos;
+Kay kadtong mga pag-antus
+Lalum ug di masukod!</stanza>
+    <stanza type="verse" number="4">Gisukod kabug-at's sala,
+Kasuko, pait, tunglo;
+Giluib's tawo, gib'yaan's Dios,
+Nasayud mi's gugma Mo!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Lawrence</firstname>
+    <lastname>Larsen</lastname>
+    <email>lclarsen@comcast.net</email>
+    <password>jbWd3rdc9v72KzMqLgBkFQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>205.225.207.249</ipaddress>
+    <createdate>2011-10-14 17:23:44</createdate>
+    <lastupdateddate>2011-10-14 17:27:52</lastupdateddate>
+    <lastlogindate>2011-10-14 17:27:52</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

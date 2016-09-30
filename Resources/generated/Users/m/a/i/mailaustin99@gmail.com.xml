@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Austin</firstname>
+  <lastname/>
+  <email>mailaustin99@gmail.com</email>
+  <password>$2y$10$jjdpjkazoE7ehwe8FLK0furY4EjwELF9Mwdx33YHANXIhJSN44lS.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.46.129.109</ipaddress>
+  <createdate>2014-08-21 17:27:16</createdate>
+  <lastupdateddate>2016-08-27 21:34:08</lastupdateddate>
+  <lastlogindate>2016-08-27 21:34:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="419">And we have the prophetic word</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+    <fav category="default" type="ns" num="383">These things says the Holy One</fav>
+  </favourites>
+</user>

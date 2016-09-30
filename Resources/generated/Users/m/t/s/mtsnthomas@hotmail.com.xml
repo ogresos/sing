@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Thomas</firstname>
+<lastname>Marrazzo</lastname>
+<email>mtsnthomas@hotmail.com</email>
+<password>$1$U3sXHxZD$hDuMDUJZ.gnSRuIkFOOaK0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.178.149.189</ipaddress>
+<createdate>2008-08-05 20:08:50</createdate>
+<lastupdateddate>2009-09-15 18:25:35</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

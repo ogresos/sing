@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Danny</firstname>
+  <lastname/>
+  <email>djsteier@gmail.com</email>
+  <password>$2y$10$QqoOuDyMIAlBDkSiYb2vJ.zRT3XRxPlJFeTHLCVKALAnYSvRS5Gl2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.142.249.150</ipaddress>
+  <createdate>2014-06-26 15:02:49</createdate>
+  <lastupdateddate>2014-07-06 11:29:59</lastupdateddate>
+  <lastlogindate>2014-07-03 12:38:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

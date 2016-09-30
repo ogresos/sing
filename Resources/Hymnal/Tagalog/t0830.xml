@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panalig ng mga ama</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PANANAMPALATAYA</category>
+  <numbers><english num="830"/><tagalog num="830"/></numbers>
+  <creators>
+    <author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="423"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panalig ng mga ama,
+Buhay sa gitna'ng dusa;
+Maging apoy man o tabak,
+Panampalataya'y tiyak.
+Puso umapaw sa galak,
+Hanggang mamatay ay tapat!</stanza>
+    <stanza type="verse" number="2">Kahit ama'y nabilanggo,
+Malaya ang budhi't puso.
+Tadhana ng mga supling,
+Magiging pagpapala rin;
+Basta sa panalig tapat,
+Kamatayan ma'y kaharap.</stanza>
+    <stanza type="verse" number="3">Panalig ng mga ama,
+Sa iyo tao'y mapadala;
+Mula sa Diyos katot'hanan,
+Tao'y 'bigyang kalayaan.
+Panampalatayang banal,
+Sa iyo'y tapat hanggang mam'tay.</stanza>
+    <stanza type="verse" number="4">Panalig ng mga ama,
+Tanang tao'y aming sinta,
+Aming ipahahayag ka,
+Sa salita man o gawa;
+Hanggang kamatayan kami'y
+Sa iyo maging tapat lagi!</stanza>
+  </lyrics>
+</hymn>

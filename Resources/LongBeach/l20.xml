@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What's the use? There is no hope for me</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Need of Christ</category>
+  <numbers><english num="lb:20"/><vsb num="5"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5655671275</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | F - - - | Em - - - | F - - - | C - - - | Dm7 - - - | G7 - - - | C - - - | G - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | C/E - - - | Dm7 - - - | G7 - - - | C - F/C - | C - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | C - - - | Dm - - - | G - - - | C - - - | G - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 5 - - 6 | 5 - - 5 | 6 7 ._1 ._2 | 7/( 5/)( 5) - - | 6 - - 6 | 5/( 3.)( 3) 1 | 2 - - 6 | 5 - - 2 | 3/( 5/)( 5)( - - | 5) - - - (break) | 5 - - 6 | 5 - - 5/ 5/ | 6 7 ._1 ._2 | 7/( 5/)( 5) - - | 6 - - 6 | 5/( 3.)( 3) 1 | 2 - - 2 | 3( - 3/) 3/ 2 | 1( - - - | 1) - - - (break) | 0 ._3/ ._3/( ._3/)( ._2/) ._1 | ._2. 5/( 5) - | 0 ._1/ ._1/( ._1/) 7/ 6 | 7. 3/( 3) - (break) | 0 6/ 6/( 6/) 5/ 4 | 5.( 1/)( 1) 1 | 2 - - 6 | 7 - - 6 | 5( - - - | 5) - - - (break) | 0 ._3/ ._3/( ._3/) ._2/ ._1 | ._2. 5/( 5) - | 0 ._1/ ._1/( ._1/) 7/ 6 | 7. 3/( 3) - (break) | 0 6/ 6/( 6/) 5/ 4 | 5. 1/( 1) 1 | 6 - - - | 5 - 7 - | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>What's the use? There is no hope for me, Deep in -- side just fear and mis -- er -- y. Man's en -- slaved by this haunt -- ing me -- lo -- dy&amp;mdash; Ev -- ery -- thing, my friend, is temp -- o -- ra -- ry. There is an an -- swer: a won -- der -- ful Per -- son! He's Je -- sus the Lord; He's God's be -- lov -- ed Son! This won -- der -- ful Per -- son is now your so -- lu -- tion. Just take and re -- ceive Him; He's God's First -- born Son!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="96">lb20.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What's the use? There is no hope for me,
+Deep inside just fear and misery.
+Man's enslaved by this haunting melody&amp;mdash;
+Everything, my friend, is temporary.</stanza>
+    <stanza type="chorus" number="">There is an answer: a wonderful Person!
+He's Jesus the Lord; He's God's beloved Son!
+This wonderful Person is now your solution.
+Just take and receive Him; He's God's Firstborn Son!</stanza>
+    <stanza type="verse" number="2">Day by day, I tried to stop this song.
+What is it? There must be something wrong...
+Oh! This life is just a hopelessness!
+Always searching, but tasting emptiness.</stanza>
+    <stanza type="chorus" number="">There is an answer: a wonderful Person!
+He's Jesus the Lord; He's God's beloved Son!
+This wonderful Person is now your solution.
+Just take and receive Him; He's God's Firstborn Son!</stanza>
+    <stanza type="verse" number="3">All day long you play the "same ole song":
+"Good morning", "How are you?", "No, there is nothing wrong."
+You're swept by the world of deceptive vanity,
+A tide looking good, but it's void of reality.</stanza>
+    <stanza type="chorus" number="">Just call "Oh Lord Jesus": the truth you're confessing
+That God raised this Jesus from among the dead.
+Your heart this believing, just call to receive Him.
+He's Jesus the Savior, your great salvation.</stanza>
+    <stanza type="verse" number="4">You're conformed to unreality,
+Trapped in a wheel of human anxiety.
+You are caught, you're in the web already.
+You're spun to this song: you're just the spider's prey.</stanza>
+    <stanza type="chorus" number="">Jesus crushed the devil and overcame evil.
+That kingdom He leveled and destroyed the devil.
+He will free you from sin, from death, world and Satan.
+Just call "Oh Lord Jesus" and He will enter in.</stanza>
+    <stanza type="verse" number="5">Life is a song as a time hour glass,
+Sand by sand, my friend it cannot last.
+You're born, you live, and eventually you die.
+Friend, you can't change it, no need to even try.</stanza>
+    <stanza type="chorus" number="">There is a new song, a wonderful Person!
+He's Jesus the Lord, He's God's beloved Son!
+This wonderful Person is now your solution!
+Just take and receive Him; He's God's Firstborn Son!</stanza>
+  </lyrics>
+</hymn>

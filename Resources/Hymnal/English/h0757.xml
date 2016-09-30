@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>At even when the sun was set</title>
+  <index>true</index>
+  <category>Divine Healing&amp;mdash;Christ the Same as of Old</category>
+  <creators>
+    <author biodate="1823-1900" biolink="">Henry Twells</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 2) 1 | 1( 7_.) 6_. | 5_.( 3) 2 | 1 - 5_. | 5_.( 4) 3 | 3( 2) 1 | 5( 3) 1 (break) | 2 - 5_. | 5_.( 6_.) 7_. | 1 - 5_. | 6_.( 4) 2 | 1( 7_.) 5_. | 6_. - 7_. | 1 - 1 | 1( 7_.) 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>At ev -- en when the sun was set, The sick, O Lord, a -- round Thee lay; O in what di -- vers pains they met! O with what joy they went a -- way!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj042.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">At even when the sun was set,
+The sick, O Lord, around Thee lay;
+O in what divers pains they met!
+O with what joy they went away!</stanza>
+    <stanza type="verse" number="2">Once more 'tis eventide, and we
+Oppressed with various ills draw near;
+What if Thy form we cannot see?
+We know and feel that Thou art here.</stanza>
+    <stanza type="verse" number="3">O Savior Christ, our woes dispel;
+For some are sick, and some are sad,
+And some have never loved Thee well
+And some have lost the love they had;</stanza>
+    <stanza type="verse" number="4">*And some have found the world is vain,
+Yet from the world they break not free;
+And some have friends who give them pain,
+Yet have not sought a friend in Thee;</stanza>
+    <stanza type="verse" number="5">*And none, O Lord, have perfect rest,
+For none are wholly free from sin;
+And they who fain would serve Thee best
+Are conscious most of wrong within.</stanza>
+    <stanza type="verse" number="6">O Savior Christ, Thou too art Man;
+Thou hast been troubled, tempted, tried;
+Thy kind but searching glance can scan
+The very wounds that shame would hide.</stanza>
+    <stanza type="verse" number="7">Thy touch has still its ancient power;
+No word from Thee can fruitless fall;
+Hear in this solemn evening hour,
+And in Thy mercy heal us all.</stanza>
+    <stanza type="note" number="">Vv. 4 and 5 may be omitted if hymn is sung for physical healing.</stanza>
+  </lyrics>
+</hymn>

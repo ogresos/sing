@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Paul</firstname>
+  <lastname>Wu</lastname>
+  <email>kow88888888@hotmail.com</email>
+  <password>$2y$10$3Ewc6Ol9CmzoDFQTRMNGrO60tH5voJ9O2vqodqC7yXpFH1FOht0J.</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>219.69.112.172</ipaddress>
+  <createdate>2014-06-21 09:34:18</createdate>
+  <lastupdateddate>2014-11-08 04:57:45</lastupdateddate>
+  <lastlogindate>2014-11-08 04:57:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="315">一切在於愛耶穌</fav>
+    <fav category="default" type="ts" num="9117">神將你我安置一起</fav>
+  </favourites>
+</user>

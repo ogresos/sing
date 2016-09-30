@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>El nombre de Jes</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su gloria</category>
+  <numbers><cebuano num="139"/><chinese num="ts:20"/><english num="139"/><french num="25"/><korean num="944"/><portuguese num="67"/><spanish num="71"/><tagalog num="139"/></numbers>
+  <creators>
+    <author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <music>
+    <midiref type="h" num="139"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡El nombre de Jesús load!
+Oh, hueste celestial,
+Oh, hueste celestial,
+La re͡al di͡adema hoy traed,</stanza>
+    <stanza type="chorus" number="">Y͜ a Cristo coronadle
+Rey de reyes para siempre,
+Siempre, siempre
+¡A Cristo coronadle Rey!</stanza>
+    <stanza type="verse" number="2">Vosotros hijos de͜ Israel
+Residuos de la ley,
+Residuos de la ley,
+Postrados homenaje dad,</stanza>
+    <stanza type="verse" number="3">Oh, redimidos no͜ olvidéis
+Su͜ amor y compasión,
+Su͜ amor y compasión;
+Trofeos traigan a Sus pies,</stanza>
+    <stanza type="verse" number="4">Que toda tribu, lengua͜ y nación
+Del mundo͜ en derredor,
+Del mundo͜ en derredor,
+Le rindan toda majestad,</stanza>
+    <stanza type="verse" number="5">Hoy con el coro celestial,
+Canción de triunfo͜ y fe,
+Canción de triunfo͜ y fe,
+Cantadle por la͜ eternidad,</stanza>
+  </lyrics>
+</hymn>

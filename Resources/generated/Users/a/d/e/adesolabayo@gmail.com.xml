@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adesola</firstname>
+  <lastname>Adebayo</lastname>
+  <email>adesolabayo@gmail.com</email>
+  <password>$2y$10$lsdGAIykAsrzNKG1mJWXe.tOmrDpEciJ4Y211.JFh5BzJMDHhcAx.</password>
+  <gender>M</gender>
+  <country>Nigeria</country>
+  <ipaddress>196.3.181.93</ipaddress>
+  <createdate>2009-05-23 04:42:25</createdate>
+  <lastupdateddate>2016-03-15 14:35:47</lastupdateddate>
+  <lastlogindate>2016-03-15 14:35:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="765">Christian, seek not yet repose</fav>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="c" num="163">Now unto the King eternal, immortal, invisible</fav>
+    <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="990">The Great Physician now is near</fav>
+    <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

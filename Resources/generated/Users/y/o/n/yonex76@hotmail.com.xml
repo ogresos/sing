@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jonathan</firstname>
+<lastname>samaniego</lastname>
+<email>yonex76@hotmail.com</email>
+<password>$1$1x/VdeS3$gv7Qdr3rQm4aqKjyA0RHH0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>68.8.163.121</ipaddress>
+<createdate>2008-10-12 20:00:32</createdate>
+<lastupdateddate>2009-09-15 18:26:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+    </favourites>
+</user>

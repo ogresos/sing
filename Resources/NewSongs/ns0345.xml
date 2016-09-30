@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be Thou my vision, O Lord of my heart</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Vision of Christ</category>
+  <numbers><english num="ns:345"/></numbers>
+  <creators>
+    <author biodate="530-598" biolink="en.wikipedia.org/wiki/Dall%C3%A1n_Forgaill">Dallan Forgaill</author>
+    <author biodate="1880-1931" biolink="">Translated by Mary Elizabeth Byrne</author>
+    <author biodate="1860-1935" biolink="">Adapted by Eleanor Henrietta Hull</author>
+    <composer biodate="" biolink="">Irish traditional melody</composer>
+  </creators>
+  <hymncode>11216561123</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G - - | Am - G/B | C - - | G/B - - | G/B C C/E | F C/E C | G - - | F - - | C/E - - | C - - | F - G | C - - | Am - - | Dm7 - G7 | C - F/C | C - - |</chords>
+  <melody>| 1 1 2/( 1/) | 6_. 5_. 6_. | 1 1 2 | 3 - - | 2 2 2 | 2 3 5 | 6 5 3 | 5 - - | 6 6/( 7/) ._1/( 7/) | 6( 5) 3 | 5 1 7_. | 6_.( - 5_.) | 1 3 5 | 6/( 5/) 3 1/( 3/) | 2 1 1 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Be Thou my vi -- sion, O Lord of my heart; Naught be all else to me, save that Thou art; Thou my best thought, by day or by night; Wak -- ing or sleep -- ing, Thy pres -- ence my light.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="31">ns0345.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Be Thou my vision, O Lord of my heart;
+Naught be all else to me, save that Thou art;
+Thou my best thought, by day or by night;
+Waking or sleeping, Thy presence my light.</stanza>
+    <stanza type="verse" number="2">Be Thou my wisdom, and Thou my true Word;
+I ever with Thee and Thou with me, Lord;
+Thou my great Father and I, Thy true son;
+Thou in me dwelling, and I with Thee one.</stanza>
+    <stanza type="verse" number="3">Riches I heed not, nor man's empty praise;
+Thou mine inheritance, now and always;
+Thou and Thou only, first in my heart;
+O King of glory, my treasure Thou art.</stanza>
+    <stanza type="verse" number="4">O King of glory, my victory won;
+Rule and reign in me 'til Thy will be done;
+Heart of my own heart, whatever befall;
+Still be my vision, O Ruler of all.</stanza>
+  </lyrics>
+</hymn>

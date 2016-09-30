@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Dan</firstname>
+    <lastname>Subderland</lastname>
+    <email>dan@earthenconcepts.com</email>
+    <password>W7lPM1Sdyew88al16Z5G4Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>174.237.225.186</ipaddress>
+    <createdate>2013-11-18 09:12:01</createdate>
+    <lastupdateddate>2013-11-19 07:30:02</lastupdateddate>
+    <lastlogindate>2013-11-18 09:14:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

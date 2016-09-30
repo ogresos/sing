@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>David</firstname>
+    <lastname>Ueng</lastname>
+    <email>david_ueng@yahoo.com</email>
+    <password>$1$NvJECmIY$OR28swkL2gwtcJZBkFZ081</password>
+    <gender>M</gender>
+    <country>Taiwan</country>
+    <ipaddress>60.250.142.207</ipaddress>
+    <createdate>2009-07-15 03:01:59</createdate>
+    <lastupdateddate>2011-10-21 17:01:34</lastupdateddate>
+    <lastlogindate>2011-10-21 17:01:34</lastlogindate>
+    <failedlogincount>5</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+        <fav category="default" type="ts" num="619">我們在一起</fav>
+        <fav category="default" type="ts" num="514">這是地方召會</fav>
+    </favourites>
+</user>

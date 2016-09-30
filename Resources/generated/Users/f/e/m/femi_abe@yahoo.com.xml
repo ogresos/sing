@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>James</firstname>
+    <lastname>Abe</lastname>
+    <email>femi_abe@yahoo.com</email>
+    <password>1kF3KljkUk433H3oPJFEyw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>166.147.123.23</ipaddress>
+    <createdate>2012-10-06 09:16:03</createdate>
+    <lastupdateddate>2013-06-29 21:45:43</lastupdateddate>
+    <lastlogindate>2013-06-29 21:45:43</lastlogindate>
+    <failedlogincount>7</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

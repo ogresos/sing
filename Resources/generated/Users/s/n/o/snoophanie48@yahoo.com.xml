@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Stephanie</firstname>
+    <lastname>Palanas</lastname>
+    <email>snoophanie48@yahoo.com</email>
+    <password>$1$nDccLUaC$jDqn6NtzlU7CJsZr3XA/d1</password>
+    <gender>F</gender>
+    <country>Philippines</country>
+    <ipaddress>203.84.188.38</ipaddress>
+    <createdate>2008-07-26 01:43:21</createdate>
+    <lastupdateddate>2011-03-28 12:25:30</lastupdateddate>
+    <lastlogindate>2011-03-28 12:25:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    </favourites>
+</user>

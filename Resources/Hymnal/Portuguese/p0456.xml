@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Há uma ovelha que se afastou</title>
+  <index>true</index>
+  <category>A Persuasão</category>
+  <numbers><chinese num="713"/><english num="8713"/><portuguese num="456"/><spanish num="480"/></numbers>
+  <music>
+    <midiref type="h" num="1066"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Há uma ovelha que se afastou,
+Por quem procura o Salvador;
+Uma ovelha das cem faltou.
+Não será você?
+Não será você?
+Não será você?
+Uma ovelha das cem faltou.
+Não será você?</stanza>
+    <stanza type="verse" number="2">Há hoje alguém que demais errou,
+Por quem o Espírito procurou;
+Uma moeda das dez faltou.
+Não será você?
+Não será você?
+Não será você?
+Uma moeda das dez faltou.
+Não será você?</stanza>
+    <stanza type="verse" number="3">Há uma alma que vagueou,
+Por quem o Pai sempre aguardou,
+Que hoje volta ao lar de amor.
+Não será você?
+Não será você?
+Não será você?
+Que hoje volta ao lar de amor.
+Não será você?</stanza>
+  </lyrics>
+</hymn>

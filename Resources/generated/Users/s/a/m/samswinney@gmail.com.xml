@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sam</firstname>
+  <lastname>Swinney</lastname>
+  <email>samswinney@gmail.com</email>
+  <password>$2y$10$z87ea1PpC/rQgOmiTG.7OeyYY9TxhtnFa2kGV13LWlshpqV.P4wDO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>184.3.185.5</ipaddress>
+  <createdate>2014-10-07 12:43:34</createdate>
+  <lastupdateddate>2015-03-25 00:29:22</lastupdateddate>
+  <lastlogindate>2015-03-25 00:29:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

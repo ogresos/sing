@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Djulinda</firstname>
+    <lastname>Then</lastname>
+    <email>djulindathen@ymail.com</email>
+    <password>rhvDau2dL3codn7%2Fjct1vw%3D%3D</password>
+    <gender>F</gender>
+    <country>id</country>
+    <ipaddress>182.9.24.252</ipaddress>
+    <createdate>2011-03-14 23:43:59</createdate>
+    <lastupdateddate>2011-03-15 00:50:47</lastupdateddate>
+    <lastlogindate>2011-03-14 23:44:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    </favourites>
+</user>

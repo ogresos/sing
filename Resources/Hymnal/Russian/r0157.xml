@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Когда придёт Господь Иисус</title>
+  <index>true</index>
+  <category>НАДЕЖДА СЛАВЫ&amp;mdash;ЛИЦОМ К ЛИЦУ С ГОСПОДОМ</category>
+  <numbers><cebuano num="965"/><chinese num="765"/><english num="965"/><french num="185"/><german num="965"/><korean num="765"/><portuguese num="486"/><russian num="157"/><spanish num="441"/><tagalog num="965"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3 3 3/( 2/) 3/( 4/) | 3 2 2 5_. | 2 2 2/( 1/) 2/( 3/) | 2 1 1 5_. (break) | 6_. 6_. 1/( 7_./) 1/( 6_./) | 5_. 1 3 - | 2 - 1 7_. | 1 - - 0 (break) | 6_. - 6_. 6_. | 1 - - - | 3 - 2 1 | 2 - - 5_. (break) | 3 5 4/( 3/) 2/( 1/) | 7_. 6_. 1( 6_.) | 5_. - 5_. 5_. | 5_. - - 0 |</melody>
+  <layout>
+	<singingstanza>Ког -- да при -- дёт Гос -- подь Ии -- сус, От вся -- кой бо -- ли я спа -- сусь.  С_свя -- ты -- ми я за Ним пой -- ду.  Славь -- ся, Гос -- подь! Славь -- ся, Гос -- подь!  Славь -- ся, Гос -- подь!  С_свя -- ты -- ми я за Ним пой -- ду.  Славь -- ся, Гос -- подь!</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>3</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="965"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Когда придёт Господь Иисус,
+От всякой боли я спасусь.
+С святыми я за Ним пойду.
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+С святыми я за Ним пойду.
+Славься, Господь!</stanza>
+	<stanza type="verse" number="2">Его лицо увижу я,
+С Ним буду пребывать всегда,
+В небесной радости поя:
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+В небесной радости поя:
+Славься, Господь!</stanza>
+	<stanza type="verse" number="3">К Его престолу я приду,
+Там все страдания уйдут,
+И я победу обрету,
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+И я победу обрету,
+Славься, Господь!</stanza>
+	<stanza type="verse" number="4">В тот день свидетельство я дам,
+Что с жизнью Господа Христа
+Ничто сравнить не мог бы я,
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+Ничто сравнить не мог бы я,
+Славься, Господь!</stanza>
+	<stanza type="verse" number="5">Его чтоб сердцу угодить,
+Хотим себя мы в Нём сокрыть
+И с Ним вовек едины быть,
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+И с Ним вовек едины быть,
+Славься, Господь!</stanza>
+	<stanza type="verse" number="6">О наш Господь и Царь, приди!
+По обещанью нас прими
+И победивших награди,
+Славься, Господь!</stanza>
+	<stanza type="chorus" number="">Славься, Господь!
+Славься, Господь!
+И победивших награди,
+Славься, Господь!</stanza>
+  </lyrics>
+</hymn>

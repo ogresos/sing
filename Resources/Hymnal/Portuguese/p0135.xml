@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sopra em nós, Senhor</title>
+  <index>true</index>
+  <category>Como O Sopro</category>
+  <numbers><english num="253"/><french num="42"/><portuguese num="135"/></numbers>
+  <creators>
+    <author biodate="1835-1889" biolink="">Translated from Edwin Hatch</author>
+  </creators>
+  <music>
+    <midiref type="h" num="253"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sopra em nós, Senhor,
+Com vida a nos encher,
+Para amar o que amas Tu,
+E Teu querer fazer.</stanza>
+    <stanza type="verse" number="2">Sopra em nós, Senhor,
+Vem-nos purificar,
+Té sermos um com Teu querer:
+Agir ou esperar.</stanza>
+    <stanza type="verse" number="3">Sopra em nós, Senhor,
+Vem nosso ser ganhar,
+E tudo o que é terreno em nós,
+Com fogo Teu queimar.</stanza>
+    <stanza type="verse" number="4">Sopra em nós, Senhor,
+Não vamos mais morrer,
+Mas vida plena, eternal,
+Em Ti iremos ter.</stanza>
+  </lyrics>
+</hymn>

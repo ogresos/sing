@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Where is the House</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:402"/><lsmyp num="336"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>12133212234321</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G/B - - - | F/A - G7 - | C - - - | C - - - | G/B - - - | F - - - | G - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - - - | G/B - - - | F - - - | C/G - G7 - | C - F/C - | C - - - | Em - - - | F - - - | C/E - - - | Em - - - | F - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - - - | G/B - - - | F - - - | C/G - G7 - | C - F/C - | C - - - | C - - - | G/B - - - | F/A - G7 - | C - - - | C - - - | G/B - - - | F - - - | G - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - - - | G/B - - - | F - - - | C/G - G7 - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2) - 0/ 2/ 3/ 4/( | 4.) 3/( 3/) 2 1/( | 1.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2/)( 5.)( 5/) 3/ 5/ 6/( | 6.) 5/( 5/) 3 2/( | 2) - 5/ 6/ 7/ ._1/( | ._1.) 7/( 7) 6/ 7/( | 7/) 5. 0/ 3/ 5/ 6/( | 6.) 5/( 5/) 3 2/( | 2.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2) - 0/ 1/ 7_./ 6_./( | 6_.) - - - | 1. 7_./( 7_..) 1/( | 1)( - - - (break) | 1) 0 {3 4 5} | 5 - {3 4 5} | 5 - - - | 0. 5_./ {3 4 5} | 5. 3/ {3 4 5} | 5. 3/ 3 4/ 3/( | 3/) 1.( 1) - | 0 - 5/ 6/ 7/ ._1/( | ._1) ._1/ 7/( 7) 6/ 7/( | 7/) 5. 0/ 3/( 5/) 6/( | 6.) 5/( 5/) 3 2/( (break) | 2.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/( 2/)( 1/) 2/( | 2) - 0/ 1/ 7_./ 6_./( | 6_.) - - 6_. | 1. 7_./( 7_..) 1/( | 1)( - - - (break) | 1.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2) - 0/ 2/ 3/ 4/( | 4.) 3/( 3/) 2 1/( | 1.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2/)( 5.)( 5/) 3/ 5/ 6/( | 6.) 5/( 5/) 3 2/( | 2) - 5/ 6/ 7/ ._1/( | ._1.) 7/( 7) 6/ 7/( | 7/) 5. 0/ 3/ 5/ 6/( | 6.) 5/( 5/) 3 2/( | 2.) 1/ 1/ 2/ 1/ 3/( | 3) - 3/ 2/ 1/ 2/( | 2) - 0/ 1/ 7_./ 1/( | 1) - - - | 3. 2/( 2.) 1/( | 1)( - - - | 1) - 0 - ||</melody>
+  <layout>
+    <singingstanza end="-1">Where is the house you'll build for Me, And the place of My rest? Where then is the house you'll build for Me, And the place of My rest? Heav -- en is My throne, and the earth The foot -- stool for My feet. Where then is the house you'll build for Me, And the place of My rest? For all these things My hand has made, And so all these things have come in -- to being, de -- clares Je -- ho -- vah. But to this kind of man will I look, to him who is poor And of a con -- trite spir -- it, and who trem -- bles at My word. Where then is the house you'll build for Me, And the place of My rest? Where then is the house you'll build for Me, And the place of My rest? Heav -- en is My throne, and the earth The foot -- stool for My feet. Where then is the house you'll build for Me, And the place of My rest?</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Isaiah 66:1-2</link>
+  </links>
+  <music>
+    <midi location="ns" length="135">ns0402.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Where is the house you'll build for Me,
+And the place of My rest?
+Where then is the house you'll build for Me,
+And the place of My rest?
+Heaven is My throne, and the earth
+The footstool for My feet.
+Where then is the house you'll build for Me,
+And the place of My rest?</stanza>
+    <stanza type="verse" number="">For all these things My hand has made,
+And so all these things have come into being, declares Jehovah.
+But to this kind of man will I look, to him who is poor
+And of a contrite spirit, and who trembles at My word.</stanza>
+    <stanza type="verse" number="">Where then is the house you'll build for Me,
+And the place of My rest?
+Where then is the house you'll build for Me,
+And the place of My rest?
+Heaven is My throne, and the earth
+The footstool for My feet.
+Where then is the house you'll build for Me,
+And the place of My rest?</stanza>
+  </lyrics>
+</hymn>

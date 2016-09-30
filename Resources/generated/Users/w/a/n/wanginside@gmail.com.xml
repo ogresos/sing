@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>tom</firstname>
+  <lastname/>
+  <email>wanginside@gmail.com</email>
+  <password>$2y$10$a6sWsKQabUPFg/Gr8GOm.uNSP1UFRb/2M2xWKNNeePuMEh1qIb/Ni</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.162.94.115</ipaddress>
+  <createdate>2015-08-22 05:28:37</createdate>
+  <lastupdateddate>2015-08-22 09:41:09</lastupdateddate>
+  <lastlogindate>2015-08-22 09:40:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="872">屬天的家鄉</fav>
+  </favourites>
+</user>

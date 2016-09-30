@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname>Anderson</lastname>
+  <email>krablessed@gmail.com</email>
+  <password>$2y$10$nfFrCXzYIawES0Bu5e7sOuZc7kjML.iJVZjoYEEdX7y8ZDZWDbSHW</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.160.6.243</ipaddress>
+  <createdate>2016-01-30 12:00:17</createdate>
+  <lastupdateddate>2016-01-30 12:01:32</lastupdateddate>
+  <lastlogindate>2016-01-30 12:01:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

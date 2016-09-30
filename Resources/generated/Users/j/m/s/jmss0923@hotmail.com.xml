@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>juan</firstname>
+  <lastname>silva</lastname>
+  <email>jmss0923@hotmail.com</email>
+  <password>dMC1eYB4u9FNfzGGFsSYdA%3D%3D</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>68.197.117.76</ipaddress>
+  <createdate>2011-11-22 20:46:45</createdate>
+  <lastupdateddate>2014-07-25 23:46:15</lastupdateddate>
+  <lastlogindate>2014-07-25 23:46:15</lastlogindate>
+  <failedlogincount>12</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="16">For a Child is born to us</fav>
+    <fav category="default" type="h" num="1329">The wedding feast, the peak of man's enjoyment</fav>
+    <fav category="default" type="h" num="1338">This is My rest forever</fav>
+  </favourites>
+</user>

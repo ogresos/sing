@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Souffle sur nous Seigneur</title>
+  <index>true</index>
+  <category>La plénitude de l’Esprit&amp;mdash;en tant que le souffle</category>
+  <numbers><english num="253"/><french num="42"/><portuguese num="135"/></numbers>
+  <creators>
+    <author biodate="1835-1889" biolink="">Translated from Edwin Hatch</author>
+  </creators>
+  <music>
+    <midiref type="h" num="111"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Souffle sur nous Seigneur,
+Infuse-Toi en nous
+Et notre vie témoignera
+Qu'en Toi nous avons tout.</stanza>
+    <stanza type="verse" number="2">Souffle sur nous Seigneur,
+Que nos cœurs soient lavés !
+Pour que nous choisissions Tes voies,
+Prends notre volonté !</stanza>
+    <stanza type="verse" number="3">Souffle sur nous Seigneur,
+Pour que notre être entier
+Soit embrasé par Ton ardeur,
+Qu'il Te soit dévoué !</stanza>
+    <stanza type="verse" number="4">Souffle sur nous Seigneur,
+Jamais nous ne mourrons !
+Sur le péché et sur la mort,
+Par Toi, nous régnerons !</stanza>
+  </lyrics>
+</hymn>

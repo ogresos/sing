@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>有祂無我</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <hymncode>11357735671765</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 有 分 神 聖 工 作， 是 因 祂 恩 永 遠 彀 用； 只 要 向 祂 絕 對、 純 誠， 必 得 祝 福， 無 量 豐 富。</singingstanza>
+  </layout>
+  <notes>本詩歌辭採自一九八九年一月李常受弟兄致福音化臺灣開展隊之弟兄妹的電文。</notes>
+  <music>
+	<midi location="ts" length="">ts0862.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們有分神聖工作，
+是因祂恩永遠彀用；
+只要向祂絕對、純誠，
+必得祝福，無量豐富。</stanza>
+	<stanza type="verse" number="2">有祂無我，捨祂無為；
+彼此之間同心、相愛，
+沒有己意，沒有猜忌，
+必得祝福，無量豐富。</stanza>
+	<stanza type="verse" number="3">存心、行動、為人、工作，
+完全受靈管治約束，
+蒙祂靈的權能同在，
+必定見祂工作成就。</stanza>
+	<stanza type="verse" number="4">時常呼求，凡事禱告，
+只憑信心，不憑眼見，
+必得祝福，無量豐富，
+必定見祂工作成就。</stanza>
+  </lyrics>
+</hymn>

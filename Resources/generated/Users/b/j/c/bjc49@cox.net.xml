@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Bruce</firstname>
+<lastname>Clark</lastname>
+<email>bjc49@cox.net</email>
+<password>$1$WRAJsP/g$xL29onjbUwTaObvrFhcPv/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.191.176.101</ipaddress>
+<createdate>2009-06-10 10:10:48</createdate>
+<lastupdateddate>2009-09-15 19:16:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="888">Soldiers of Christ, arise</fav>
+        <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+        <fav category="default" type="h" num="881">We rest on Thee, our Shield and our Defender</fav>
+    </favourites>
+</user>

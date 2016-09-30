@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>活在生命光中</title>
+  <index>true</index>
+  <category>鼓勵－與主交通</category>
+  <numbers><chinese num="476"/><english num="8476"/><french num="129"/><portuguese num="329"/><russian num="220"/><spanish num="300"/><tagalog num="1353"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+	<author biodate="" biolink="" fullname="Eric Ching">Translated by E. C.</author>
+  </creators>
+  <melody>| 0 - ._1 | ._3. ._2/ ._1/ ._2/ | ._3 - ._1 | ._1. ._2/ ._1/ 6/ (break) | ._1 - 6 | 5. 6/ 5/ 3/ | 5 - 3 | 3. 3/ 2/ 1/ (break) | 2 - 5 | 5. 6/ 5/ 3/ | 5 - ._1 | ._1. ._2/ ._1/ 6/ (break) | ._1 - 6 | 5 - ._1 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>活 在 生 命 光 中， 不 斷 與 主 交 通， 瞻 仰 恩 主 慈 容， 順 從 聖 靈 感 動， 天 天 榮 上 加 榮， 時 時 讚 美 稱 頌， 活 在 生 命 光 中。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8476"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">活在生命光中，
+不斷與主交通，
+瞻仰恩主慈容，
+順從聖靈感動，
+天天榮上加榮，
+時時讚美稱頌，
+活在生命光中。</stanza>
+  </lyrics>
+</hymn>

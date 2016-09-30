@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hast thou no scar</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Following the Lord</category>
+  <numbers><chinese num="467"/><english num="629"/><korean num="467"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Amy Carmichael</author>
+    <composer biodate="1844-1927" biolink="">Frederick Charles Maker</composer>
+  </creators>
+  <meter>4.10.8.8.6.</meter>
+  <hymncode>33323554431122</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C/E - G7/D - | C - Am - | G - - - | C - C/E - | F - - - | F - - D | G7 - C F | C/G - G7 - | C - - - |</chords>
+  <melody>| 0 - - 3 | 3. 3/ 2# 3 | 5 5 4# 4 | 3. 1/ 1 2 (break) | 2 - - 3 | 3. 4/ 5 ._1 | ._1. 7/ 6 6 | 6. 5/ 4 4# (break) | 5 4 3 5 | 1. 1/ 1 2 | 3 - - 0 |</melody>
+  <layout>
+    <singingstanza>Hast thou no scar? No hid -- den scar on foot, or side, or hand? I hear thee sung through -- out the land, I hear them hail thy shin -- ing star, Hast thou no scar? no scar?</singingstanza>
+  </layout>
+  <copyright>Used by permission of the Dohnavur Fellowship.</copyright>
+  <links>
+    <link type="group">hymnal-subj216.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="27">e0629_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hast thou no scar?
+No hidden scar on foot, or side, or hand?
+I hear thee sung throughout the land,
+I hear them hail thy shining star,
+Hast thou no scar? no scar?</stanza>
+    <stanza type="verse" number="2">Hast thou no wound?
+Yet I was wounded by the archers, spent,
+Leaned Me against a tree; and rent
+By ravening beasts 'round Me, I swooned:
+Hast thou no wound? no wound?</stanza>
+    <stanza type="verse" number="3">No wound? no scar?
+Yet, as the Master shall the servant be,
+And pierced the feet that follow Me;
+But whole? can he have followed far
+Who has no wound nor scar?</stanza>
+  </lyrics>
+</hymn>

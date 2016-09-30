@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All sinners are the slaves of sin</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Freedom</category>
+  <numbers><cebuano num="1021"/><chinese num="705"/><english num="1021"/><german num="1021"/><korean num="705"/><russian num="547"/><tagalog num="1021"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">Scotch Air</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>511132123211356</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G/B - G - | Am - C/E - | F - - - | C - Am - | Dm - G - | Am - G7 - | C F/C C - | C - Am - | G - G/B - | C - C7 - | F - G7/F - | C/E - Am - | Dm - G - | Am - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | C - G7 - | C F C - | C - - - | G - - - | C - C7 - | F - - - | C - - - | G - - - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 5_. | 1. 1/ 1 3 | 2. 1/ 2 3/( 2/) | 1. 1/ 3 5 (break) | 6 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 3/( 2/) | 1. 6_./ 6_. 5_. (break) | 1 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 6 | 5. 3/ 3 5 (break) | 6 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 3/( 2/) | 1. 6_./ 6_. 5_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>All sin -- ners are the slaves of sin, All poi -- soned by death's sting; Christ on -- ly can from sin and death A full de -- liv -- erance bring. He is the Ev -- er -- last -- ing One, Who longs to set us free; If we do not be -- lieve in Him, We'll die in mis -- er -- y.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj097.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H1021.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="hv" length="36">e1021.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">All sinners are the slaves of sin,
+  All poisoned by death's sting;
+Christ only can from sin and death
+  A full deliverance bring.
+He is the Everlasting One,
+  Who longs to set us free;
+If we do not believe in Him,
+  We'll die in misery.</stanza>
+  </lyrics>
+</hymn>

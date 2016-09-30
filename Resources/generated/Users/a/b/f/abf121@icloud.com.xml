@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>andrew</firstname>
+  <lastname>feinberg</lastname>
+  <email>abf121@icloud.com</email>
+  <password>$2y$10$KKXc.atXVxximUsT3VWvC.gWjrnhA0LirzTItimz5lq4nbwilvFLi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.165.230.84</ipaddress>
+  <createdate>2015-01-25 00:44:59</createdate>
+  <lastupdateddate>2016-07-11 03:23:31</lastupdateddate>
+  <lastlogindate>2016-07-10 22:12:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+    <fav category="default" type="nt" num="553">In the secret of His presence</fav>
+    <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+  </favourites>
+</user>

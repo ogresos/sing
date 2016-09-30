@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>leslie grace</firstname>
+<lastname>urbano</lastname>
+<email>osmondin09@yahoo.com</email>
+<password>$1$IDFlTotE$jkcmDikWTq9ojb0NOQIK8/</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>202.175.224.131</ipaddress>
+<createdate>2008-07-26 01:43:15</createdate>
+<lastupdateddate>2009-09-15 18:22:17</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="377">If the path I travel</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+    </favourites>
+</user>

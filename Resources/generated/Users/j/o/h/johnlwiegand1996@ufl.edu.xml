@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Wiegand</lastname>
+  <email>johnlwiegand1996@ufl.edu</email>
+  <password>$2y$10$hBVHkCdX1J6Hk6LIxGbWUuDdm9nlDbP4.N3lcGExzAlLKdNrdYTUS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>128.227.124.55</ipaddress>
+  <createdate>2015-09-13 05:44:59</createdate>
+  <lastupdateddate>2015-09-13 05:47:40</lastupdateddate>
+  <lastlogindate>2015-09-13 05:47:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

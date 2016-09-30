@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Хpuc</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;УДОВЛЕТВОРЕНИЕ ИМ</category>
+  <numbers><cebuano num="206"/><chinese num="167"/><english num="206"/><french num="32"/><german num="206"/><korean num="167"/><portuguese num="113"/><russian num="38"/><spanish num="94"/><tagalog num="206"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anne Ross Cousin</author>
+  </creators>
+  <melody>| 0 - - 3 | 3 3 2. 2/ | 1 - 1 1 | 4. 4/ 3 4 | 2 - - 2 (break) | 5. 5/ 4 4 | 3 - 2 2 | 1 1 7_./( 1/) 2/( 7_./) (break) | 1 - - (Chorus) 1 | 1. 1/ 1 2 | 3 - 3 1 | 1. 1/ 1 2 | 3 - - 3/( 4/) (break) | 5 5 6. 5/ | 5 - 4 4 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Хpиc -- тос ис -- точ -- ник жиз -- ни Кри -- сталь -- ной чис -- то -- ты.  Е -- го во -- да жи -- ва -- я_– Спа -- се -- нье от бе -- ды.  Е -- го лю -- бовь и ми -- лость_– Без -- бреж -- ный о -- ке -- ан.  О -- биль -- ной бла -- го -- да -- тью Ис -- пол -- нен Бо -- жий план.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="169"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Хpиcтос источник жизни
+Кристальной чистоты.
+Его вода живая –
+Спасенье от беды.
+Его любовь и милость –
+Безбрежный океан.
+Обильной благодатью
+Исполнен Божий план.</stanza>
+	<stanza type="verse" number="2">Ему принадлежу я
+И знаю: Он со мной.
+Он грешника приводит
+В дом праздника святой.
+Христос – моя опора,
+Иной на свете нет.
+Я Им укрыт надёжно
+От горестей и бед.</stanza>
+	<stanza type="verse" number="3">Невеста не на платье
+Глядит – на жениха.
+Воззрю я не на славу –
+На моего Царя,
+Не на венец, Им данный –
+На раны на руках.
+Мой Агнец – вот вся слава,
+И ей сиять в веках.</stanza>
+  </lyrics>
+</hymn>

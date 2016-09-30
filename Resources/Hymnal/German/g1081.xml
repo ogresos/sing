@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vater Gott, der Quell des Lebens bist</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Sein Name, Sein Wort, Seine Herrlichkeit</category>
+  <numbers><chinese num="ts:620"/><dutch num="55"/><english num="1081"/><german num="1081"/><korean num="851"/><portuguese num="36"/><russian num="198"/><spanish num="32"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <key>Bb Major</key>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 3./ 4// | 5( ._1) ._3 ._2./ ._1// | 6 ._1 - 7./ 6// | 5. 6/ 5/ 3/ 1/ 3/ (break) | 2 - - 3./ 4// | 5( ._1) ._3 ._2./ ._1// | 6 (.._1 - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Va -- ter Gott, der Quell des Le -- bens bist. Durch die Söh -- ne bist zu se -- hen, Die in Dei -- nem Na -- men ge -- hen, Va -- ter Gott, der Quell des Le -- bens bist. Ja, im Le -- ben, ja im Le -- ben, Ja, in Dei -- nem Le -- ben sind wir eins, Ja, im Le -- ben, ja im Le -- ben, Ja, in Dei -- nem Le -- ben sind wir eins.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">John 17</link>
+  </links>
+  <music>
+	<midiref type="h" num="861"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vater Gott, der Quell des Lebens bist.
+Durch die Söhne bist zu sehen,
+Die in Deinem Namen gehen,
+Vater Gott, der Quell des Lebens bist.</stanza>
+	<stanza type="chorus" number="">Ja, im Leben, ja im Leben,
+Ja, in Deinem Leben sind wir eins,
+Ja, im Leben, ja im Leben,
+Ja, in Deinem Leben sind wir eins.</stanza>
+	<stanza type="verse" number="2">Danke Vater, durch Dein reines Wort,
+Wirkst Du ein in uns Dein Wesen;
+Willst die Welt in uns nicht lesen;
+Danke Vater für Dein reines Wort.</stanza>
+	<stanza type="chorus" number="">Durch Dein Wort, durch Dein Wort,
+Durch Dein Wort, oh Vater, sind wir eins.
+Durch Dein Wort, durch Dein Wort,
+Durch Dein Wort, oh Vater, sind wir eins.</stanza>
+	<stanza type="verse" number="3">Herrlichkeit ist der Dreieine Gott!
+Sich uns Söhnen hat gegeben,
+Seine Herrlichkeit zu leben –
+Herrlichkeit ist der Dreieine Gott!</stanza>
+	<stanza type="chorus" number="">In der Herrlichkeit, Herrlichkeit,
+Wir sind eins in Deiner Herrlichkeit,
+In der Herrlichkeit, Herrlichkeit,
+Wir sind eins in Deiner Herrlichkeit!</stanza>
+  </lyrics>
+</hymn>

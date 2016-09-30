@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>憐憫慈愛寬恕</title>
+  <index>true</index>
+  <category>福音－救主</category>
+  <numbers><cebuano num="988"/><chinese num="677"/><english num="988"/><french num="192"/><korean num="677"/><tagalog num="988"/></numbers>
+  <creators>
+    <author biodate="1910-1999" biolink="">曲郇民</author>
+  </creators>
+  <melody>| 3 2#/ 3 2/ | 1. 5_.. | 5 4#/ 6 5/ | 3.( 3.) (break) | ._1 6/ 4 6/ | 5. 3. | 2 6_./ 7_. 1/ | 2.( 2.) (break) | 3 2#/ 3 2/ | 1. 5_.. | 5 4#/ 6 5/ | 3.( 3.) (break) | ._1 6/ 4 6/ | 5. 3. | 2 6_./ 2 5_./ | 1.( 1.) |</melody>
+  <layout>
+	<singingstanza>憐 憫、 慈 愛、 寬 恕、 溫 柔 又 謙 和； 為 了 罪 人 忍 辱， 甘 負 十 架 軛； 捨 命、 流 血、 受 苦， 為 救 失 喪 者： 這 是 基 督 耶 穌， 對 祂 你 如 何？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="988"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">憐憫、慈愛、寬恕、
+溫柔又謙和；
+為了罪人忍辱，
+甘負十架軛；
+捨命、流血、受苦，
+為救失喪者：
+這是基督耶穌，
+對祂你如何？</stanza>
+  </lyrics>
+</hymn>

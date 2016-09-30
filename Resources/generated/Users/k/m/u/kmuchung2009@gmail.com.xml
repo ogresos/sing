@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles/>
+  <firstname>hsing</firstname>
+  <lastname>chung</lastname>
+  <email>kmuchung2009@gmail.com</email>
+  <password>$1$oiFfaLEu$.ZvhjampTCAndJv6o.78T/</password>
+  <gender>M</gender>
+  <country>Taiwan</country>
+  <ipaddress>75.4.3.36</ipaddress>
+  <createdate>2014-05-06 20:12:55</createdate>
+  <lastupdateddate>2016-08-04 07:29:45</lastupdateddate>
+  <lastlogindate>2016-08-04 07:29:45</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="83">All my life I searched for God</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="ts" num="502">神將被擄的帶回錫安</fav>
+  </favourites>
+</user>

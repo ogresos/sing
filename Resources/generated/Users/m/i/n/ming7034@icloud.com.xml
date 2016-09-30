@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joseph</firstname>
+  <lastname>Ming</lastname>
+  <email>ming7034@icloud.com</email>
+  <password>$2y$10$8R9vKpjmKFlHGawaNcETvOpuAraUzoAamZIWQYgG/S07Epb.D6IlS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.41.52</ipaddress>
+  <createdate>2015-09-06 18:31:40</createdate>
+  <lastupdateddate>2016-04-30 23:04:19</lastupdateddate>
+  <lastlogindate>2016-04-24 16:12:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="1293">O I'm a man</fav>
+  </favourites>
+</user>

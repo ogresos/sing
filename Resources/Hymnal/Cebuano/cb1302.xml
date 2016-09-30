@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nia na ang ilhanan</title>
+  <index>true</index>
+  <category>PAGLAUM SA HIMAYA&amp;mdash;MANGANDAM ALANG SA PAGBALIK NI CRISTO</category>
+  <numbers><cebuano num="1302"/><chinese num="ts:901"/><english num="1302"/><german num="1302"/><spanish num="446"/></numbers>
+  <melody>| ._1 7 6 5 4# 5 | 6( - - 6) - - | ._2 ._1 7 6 5# 6 | 7( - - 7) - - (break) | ._3 ._2 ._1 7 7b 7 | ._1( - - ._2) - - | ._3 ._3 ._3 ._2 ._2 ._2 | ._1( - - ._1) - - (break) | (Chorus) 5 - - 6 - 6 | 6( - - 6) - - | 6 - - 7 - 7 | 7( - - 7) - - (break) | ._2 - ._1 7 - 6 | ._1 - 7 6 - - | ._1 - 7 6 - 5/ 5/ | 7 - 6 3 - - (break) | 5 - - 6 - 6 | 6( - - 6) - - | 6 - - 7 - 7 | 7( - - 7) - - (break) | ._1 ._1 ._1 ._2 ._2 ._2 | ._3 ._2 ._1 6 - - | 5 6 ._1 ._4 ._3 ._2 | ._1( - - ._1) - - |</melody>
+  <notes>Mateo 25:1-13</notes>
+  <music>
+	<midiref type="h" num="1302"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nia na ang ilhanan,
+Duol nang katapusan;
+Kita karon mangandam
+Si Jesus mobalik na!</stanza>
+	<stanza type="chorus" number="">Mobalik na, mobalik na,
+Di na gyud S'ya magdugay,
+Tungang gabi' manawag S'ya,
+Mobalik na, mobalik na,
+Maalamong ulay, mangandam ta!
+Si Jesus mobalik na!</stanza>
+	<stanza type="verse" number="2">Ang kalag ta likayan,
+Si Jesus ray tutokan;
+Wala nay panahon pa&amp;mdash;
+Si Jesus mobalik na!</stanza>
+	<stanza type="verse" number="3">Mga buangbuang man
+Kadtong dili mangandam's
+Lana's ilang sudlanan&amp;mdash;
+Si Jesus mobalik na!</stanza>
+	<stanza type="verse" number="4">Di mag-usik's panahon,
+Sa kalibutan karon;
+Magpapuno's esp'ritu&amp;mdash;
+Si Jesus mobalik na!</stanza>
+	<stanza type="verse" number="5">Mangadto ta Kaniya,
+Di lang hinlo ug suga,
+May lana pa nga dala&amp;mdash;
+Si Jesus mobalik na!</stanza>
+	<stanza type="verse" number="6">Nagpaingon na Siya,
+Adlaw wa mo masayri;
+Pagtukaw's presensya N'ya&amp;mdash;
+Si Jesus mobalik na!</stanza>
+  </lyrics>
+</hymn>

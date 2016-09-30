@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa mga bukton ni Jesus</title>
+  <index>true</index>
+  <category>PAGLIPAY SA MGA PAGSULAY&amp;mdash;PINAAGI SA MGA BUKTON SA GINOO</category>
+  <numbers><cebuano num="679"/><chinese num="501"/><english num="679"/><german num="679"/><korean num="501"/><tagalog num="679"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3 2./ 1// 5_. 1 | 3.( 4/) 3 - | 5 6./ 5// 3 1 | 2 - - 0 | 3 2./ 1// 5_. 1 | 3.( 4/) 5 - | 5/( 4/) 3/ 2/ 1 7_. | 1 - - 0 (break) | 2 2./ 3// 2 2 | 2 - 5 - | 4# 4#./ 4#// 3 2 | 2( - 5) 0 | 2 2./ 3// 2 5 | 5 - 3 - | 2 4#./ 5// 6 4# | 5( - - (.4) (break) | (Chorus) 3 2./ 1// 5_. 1 | 3.( 4/) 3 - | 5 6./ 5// 3 1 | 2 - - 0 | 3 2./ 1// 5_. 1 | 3.( 4/) 5 - | 5/( 4/) 3/ 2/ 1 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="679"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa mga bukton ni Jesus,
+Luwas ug malig-on;
+O katam-is sa pahulay,
+Gugma N'ya m'oy nagpandong.
+Awit kining langitnon,
+Tam-is paminawon,
+Espiritu's balaan,
+Pulos nagkauyon.</stanza>
+	<stanza type="chorus" number="">Sa mga bukton ni Jesus,
+Luwas ug malig-on,
+O katam-is sa pahulay,
+Gugma N'ya m'oy nagpandong.</stanza>
+	<stanza type="verse" number="2">Sa mga bukton ni Jesus,
+Wa nay kabalaka,
+Luwas ka's mga pagtintal,
+Ug pagdaut sa sala.
+Magawas sa kasubo,
+Katahap ug kahadlok;
+Gamay na lang pagsulay,
+Gamay nang paghilak.</stanza>
+	<stanza type="verse" number="3">Gipakamatyan ako N'ya,
+Dalangpanan ko S'ya;
+Bato ko nga malig-on,
+Kasaligan's dayon.
+Siya akong hulaton
+Nga mapailubon,
+Hangtud sa kabuntagon,
+Iya kong anhion.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wir nehmen ein das Land, das Gott gegeben hat</title>
+  <index>true</index>
+  <category>GEISTLICHE KRIEGSFÜHRUNG&amp;mdash;Das Land einnehmen</category>
+  <numbers><cebuano num="1287"/><chinese num="ts:243"/><english num="1287"/><german num="1287"/><russian num="146"/><spanish num="404"/><tagalog num="1287"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Schwestern:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brüder:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Wir neh -- men ein das Land, das Gott ge -- ge -- ben hat; In Chris -- tus ü -- ber -- win -- den wir den Feind. Die Aus -- rüs -- tung, es ein -- zu -- neh -- men, gab Er uns: Das Blut, das Wort, den Geist und die Ge -- meind. Lasst uns das Land ein -- neh -- men! Brü -- der, Gott gab es schon in uns -- re Hand, Wir ü -- ber -- win -- den und wir ge -- win -- nen, Das rei -- che, wun -- der -- ba -- re Land! Lasst uns das Land ein -- neh -- men! Schwes -- tern, Auf al -- les, was Er gab, gebt Acht. Er will be -- le -- ben, uns Voll -- macht ge -- ben, An al -- les sorg -- sam hat ge -- dacht!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Wir nehmen ein das Land, das Gott gegeben hat;
+In Christus überwinden wir den Feind.
+Die Ausrüstung, es einzunehmen, gab Er uns:
+Das Blut, das Wort, den Geist und die Gemeind.</stanza>
+	<stanza type="chorus" number="">(Schwestern singen)
+Lasst uns das Land einnehmen! Brüder,
+Gott gab es schon in unsre Hand,
+Wir überwinden und wir gewinnen,
+Das reiche, wunderbare Land!</stanza>
+	<stanza type="chorus" number="">(Brüder singen)
+Lasst uns das Land einnehmen! Schwestern,
+Auf alles, was Er gab, gebt Acht.
+Er will beleben, uns Vollmacht geben,
+An alles sorgsam hat gedacht!</stanza>
+	<stanza type="verse" number="2">Wir haben’s Blut! Ja, Christus unser Opfer ist.
+Er gab Sich hin, erfüllte Gottes Plan;
+So kommen wir nun kühn voran zum Gnadenthron,
+Und wenden Christi Blut beständig an.</stanza>
+	<stanza type="verse" number="3">Wir haben’s Wort! Das täglich unsre Speise ist,
+Wir lesen es mit Glauben und „Amen!“
+In uns wird es nun täglich zum gesprochnen Wort,
+Das uns bewahrt, im Geist den Weg zu gehn.</stanza>
+	<stanza type="verse" number="4">Wir haben auch den Geist der Wirklichkeit in uns,
+Egal wie du dich fühlst, Er füllt dein Sein;
+Er wohnt in uns, lehrt uns zu wohnen auch in Ihm,
+Uns führt in Seine Wirklichkeit hinein.</stanza>
+	<stanza type="verse" number="5">Wir haben die Gemeinde, nehmen ein vereint
+Die Fülle dieser großen Wirklichkeit;
+Ja, Christus, unser allumfassend gutes Land,
+Erobern wir zusammen allezeit!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joe</firstname>
+  <lastname>Odum</lastname>
+  <email>joeodum@hotmail.com</email>
+  <password>$2y$10$QF8VZx14wf41JBpN.dwX6eCANuAIogJaoIUvYYoJ2zDdKCmQ3.Auu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.162.216.236</ipaddress>
+  <createdate>2014-02-23 06:45:59</createdate>
+  <lastupdateddate>2015-04-10 09:05:12</lastupdateddate>
+  <lastlogindate>2015-04-10 09:05:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+    <fav category="default" type="ns" num="172">I had a debt I could not pay</fav>
+  </favourites>
+</user>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord of life, breathe on us now</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Breath</category>
+  <numbers><chinese num="211"/><english num="254"/><korean num="211"/><tagalog num="254"/></numbers>
+  <creators>
+    <author biodate="" biolink="">A. H. Vine</author>
+    <composer biodate="1856-1929" biolink="">Robert Henry Earnshaw</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>33333543117123212</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Am - - | G/B - - | C - - | C - - | C - - | Dm - D7/F# | G - - | C - - | A - - | A7/C# - - | Dm - - | G7 - - | C - F | C/G - G7 | C - - |</chords>
+  <guitarChords>| C - - | C - - | G - - | C - - | C - - | C - - | D - D7 | G - - | C - - | C - - | A7 - - | Dm - - | G7 - - | C - - | G - - | C - - |</guitarChords>
+  <melody>| 3 3 3 | 3 - 3 | 5 - 4 | 3 - - | 1 1 7_. | 1.( 2/) 3 | 2 - 1 | 2 - - (break) | 3 3 3 | 3 - 3 | 6 - 5 | 4 - - | 2 5 4 | 3 - 1 | 1 - 7_. | 1 - - |</melody>
+  <layout>
+    <singingstanza>O Lord of life, breathe on us now. And move with -- in us while we pray: The spring of our new life art Thou, The ve -- ry light of our new day.</singingstanza>
+  </layout>
+  <copyright>Used and altered by permission of Mrs. Alice Tempest.</copyright>
+  <links>
+    <link type="group">hymnal-subj084.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="24">e0254_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Lord of life, breathe on us now.
+  And move within us while we pray:
+The spring of our new life art Thou,
+  The very light of our new day.</stanza>
+    <stanza type="verse" number="2">O strangely art Thou with us, Lord,
+  Neither in height nor depth to seek;
+In nearness shall Thy voice be heard:
+  Spirit to spirit Thou dost speak.</stanza>
+    <stanza type="verse" number="3">Thou art our Advocate on high:
+  He is our Advocate within;
+O plead the truth, and make reply
+  To every argument of sin.</stanza>
+    <stanza type="verse" number="4">But ah, this faithless heart of mine!
+  The way I know, I know my guide;
+Forgive me, O my Friend divine,
+  That I so often turn aside.</stanza>
+    <stanza type="verse" number="5">Be with me when no other friend
+  The myst'ry of my heart can share:
+And be Thou known, when fears transcend.
+  By Thy best name of Comforter.</stanza>
+  </lyrics>
+</hymn>

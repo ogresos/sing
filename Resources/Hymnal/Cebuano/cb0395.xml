@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Magtubo Ka unta nako</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MOTUBO DIHA NI CRISTO</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+    <author biodate="1741-1801" biolink="">Translated from Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) 0 5 (break) | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="261"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Magtubo Ka unta nako,
+Ang uban mangahanaw;
+Paduola adlaw-adlaw,
+Sa sala magawas.</stanza>
+	<stanza type="chorus" number="">Tabangi ko sa kusog Mo
+Sa kaluyahon ko;
+Sa kahayag wad-ang dulom,
+Wad-ang kamatayon.</stanza>
+	<stanza type="verse" number="2">Ang kahayag Mo magwala,
+Dautang hunahuna;
+Wa ko'y bili, Ikawng tanan,
+Imo nga tudloan.</stanza>
+	<stanza type="verse" number="3">Pakit-a pa's himaya Mo,
+Putli Ka ug tinuod;
+Mahimong buhi Mong dagway,
+Sa kasadya'g kasubo.</stanza>
+	<stanza type="verse" number="4">Pun-a's kalipay's itaas,
+Kupti sa diosnong kusog;
+Pasidlaka's dakong gugma Mo,
+Tibuok kong pagkatawo.</stanza>
+	<stanza type="verse" number="5">Pakubsang kaugalingon ko,
+Kinabuhi Ka'g tumong,
+Adlaw-adlaw sa grasya Mo,
+Maangay sa ngalan Mo.</stanza>
+  </lyrics>
+</hymn>

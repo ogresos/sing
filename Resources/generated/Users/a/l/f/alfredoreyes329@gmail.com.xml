@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alfredo</firstname>
+  <lastname>Reyes</lastname>
+  <email>alfredoreyes329@gmail.com</email>
+  <password>$2y$10$AojpmaNe1KoWxRCv7kGIFekGaYhbLBCpS/Q0nVMYs4V6h9X8knhgK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.15.223</ipaddress>
+  <createdate>2015-02-15 18:19:16</createdate>
+  <lastupdateddate>2015-02-21 02:31:06</lastupdateddate>
+  <lastlogindate>2015-02-21 02:31:06</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="hs" num="108">Qué gloriosa es Tu mesa, Señor</fav>
+    <fav category="default" type="hs" num="77">Tu amor, Jesús, excede mi pensar</fav>
+  </favourites>
+</user>

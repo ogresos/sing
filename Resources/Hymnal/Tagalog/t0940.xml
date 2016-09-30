@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>'Sang linggo'y lumipas na</title>
+  <index>true</index>
+  <category>ARAW NG PANGINOON&amp;mdash;PINAKAMAINAM SA ISANG LINGGO</category>
+  <numbers><english num="940"/><tagalog num="940"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">Translated from John Newton</author>
+  </creators>
+  <music>
+    <midiref type="h" num="940"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">'Sang linggo'y lumipas na,
+Binigyan ng tulong Niya;
+Hanapin pagpapala
+Sa araw na gawa Niya;
+Araw pinaka'buti,
+Pahinga sinasabi.</stanza>
+    <stanza type="verse" number="2">Dasal kapatawaran,
+Sa mahal Niyang pangalan;
+Pinagkasundo na nga,
+Inalis aming sala;
+Lumaya sa alala,
+Sa Iyo ay may pahinga.</stanza>
+    <stanza type="verse" number="3">Narito nang purihin,
+Ngalang dapat mahalin;
+Madama Iyong presensya,
+Makita ang Iyong glorya;
+Bigyan kami ng tikim,
+Ng walang hanggang piging.</stanza>
+    <stanza type="verse" number="4">Nawa ang ebanghelyo,
+Sa may sala gumupo;
+Aliwin mga banal,
+Biyaya Mo'y matanghal;
+Sa daing may ginhawa,
+Hanggang sa 'ting pag'kita.</stanza>
+    <stanza type="note" number="">(Ulitin ang huling dalawang linya ng bawa't saknong)</stanza>
+  </lyrics>
+</hymn>

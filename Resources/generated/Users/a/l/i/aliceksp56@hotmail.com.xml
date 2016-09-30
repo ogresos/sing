@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Alice</firstname>
+<lastname>Koh</lastname>
+<email>aliceksp56@hotmail.com</email>
+<password>$1$7Atbhjcc$KTZnF/RTuVVqZzRpD3SeP/</password>
+<gender>F</gender>
+<country>Singapore</country>
+<ipaddress>220.255.7.195</ipaddress>
+<createdate>2008-08-01 05:52:04</createdate>
+<lastupdateddate>2009-09-15 18:25:31</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+    </favourites>
+</user>

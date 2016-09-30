@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carolyn</firstname>
+  <lastname>Duff</lastname>
+  <email>cjd777@gmail.com</email>
+  <password>$2y$10$.eOj.0F5U1tcYWaML2tZte2Jz49DBJko1r8TYREz0crGqw1lTXVlC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.15.25.167</ipaddress>
+  <createdate>2016-02-14 20:56:24</createdate>
+  <lastupdateddate>2016-02-14 21:03:47</lastupdateddate>
+  <lastlogindate>2016-02-14 20:57:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+  </favourites>
+</user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>sofia</firstname>
+  <lastname/>
+  <email>srdlv@hotmail.com</email>
+  <password>$2y$10$aMQ/Y7sJIxp.Jci3wjA/Xe4Qgpr1TAb32AvYSCitYnmNZEr20x/e.</password>
+  <gender/>
+  <country>mx</country>
+  <ipaddress>187.189.156.83</ipaddress>
+  <createdate>2015-07-27 18:50:49</createdate>
+  <lastupdateddate>2015-07-27 19:01:52</lastupdateddate>
+  <lastlogindate>2015-07-27 18:51:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+    <fav category="default" type="ns" num="414">Oneness</fav>
+    <fav category="default" type="ns" num="383">These things says the Holy One</fav>
+  </favourites>
+</user>

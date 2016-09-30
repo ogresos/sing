@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>kate</firstname>
+    <lastname>Butterworth</lastname>
+    <email>skbworth@fsmail.net</email>
+    <password>$1$QK/woC9Z$5R5zzQHXnHLSrgIQ8sdAq0</password>
+    <gender>F</gender>
+    <country>United Kingdom</country>
+    <ipaddress>84.67.132.255</ipaddress>
+    <createdate>2009-07-19 02:41:53</createdate>
+    <lastupdateddate>2013-06-09 15:38:37</lastupdateddate>
+    <lastlogindate>2013-06-09 15:38:37</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    </favourites>
+</user>

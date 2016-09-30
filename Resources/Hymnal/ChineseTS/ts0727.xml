@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我要釋放基督</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>5511176666776711</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>基 督 已 經 將 我 釋 放， 我 也 釋 放 靈 中 基 督； 藉 祂 生 命 我 脫 罪 律， 藉 我 見 證 祂 得 顯 彰。 阿 利 路 亞！ 榮 耀 釋 放！ 神 人 同 工， 成 祂 旨 意。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0727.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督已經將我釋放，
+我也釋放靈中基督；
+藉祂生命我脫罪律，
+藉我見證祂得顯彰。</stanza>
+	<stanza type="chorus" number="">阿利路亞！榮耀釋放！
+神人同工，成祂旨意。</stanza>
+	<stanza type="verse" number="2">在基督裡我得釋放，
+脫離今世所有轄制；
+前途事業盡都撇棄，
+為祂見證活在靈裡。</stanza>
+	<stanza type="verse" number="3">豐富基督住在靈裡，
+等候我來把祂經歷；
+每當釋放靈中基督，
+能力智慧無不我屬。</stanza>
+	<stanza type="verse" number="4">哦主！求你救我脫離
+所有老舊空洞道理；
+天天經營靈中豐富，
+時時釋放榮耀基督。</stanza>
+	<stanza type="verse" number="5">基督藉我得以彰顯，
+祂的榮美為人所見；
+每當我把祂來釋放，
+祂的喜樂滿我心房。</stanza>
+	<stanza type="verse" number="6">主！我今在你前拋棄，
+已往自大
+『屬靈』、『經歷』；
+今後不再自是自覺，
+運用我靈將你釋放。</stanza>
+  </lyrics>
+</hymn>

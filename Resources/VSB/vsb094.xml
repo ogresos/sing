@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If you are hungry, come to the feast</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Coming to the Lord</category>
+  <numbers><english num="ns:191"/><vsb num="94"/></numbers>
+  <hymncode>532355323</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | E7 - - - | A7 - - - | Dm - - - | G - - - | C - - - | D - D7 - | G - G7 - | C - - - | E7 - - - | A7 - - - | Dm - - - | F - - - | C - A7 - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 5_. 3./ 2#// 3 5_. | 5#_. 3./ 2#// 3 - | 6_. 3./ 2#// 3 4 | 3./ 2// 2./ 1#// 2 - | 5_. 2./ 1#// 2 5_. | 5_. 3./ 2#// 3( 3./) 3// | {2/ 2/ 2/} 2./ 1#// 1./ 7_.// 6_../ 5#_.// | 5_../ 5_.// 6_../ 7b_.// 7_../ 7b_.// 6_../ 6b_.// | 5_. 3./ 2#// 3 5_. | 5#_. 3./ 2#// 3 - | 6_. 3./ 2#// 3 4 | 3./ 2// 2./ 1#// 2( 2./) 5// | {5/ 5/ 5/} {5/ 4#/ 4/} 3./ 2#// 2./ 1#// | 1./ 1#// 2./ 2#// 3 5./ 5#// | 6 6 3 3 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>If you are hun -- gry, come to the feast. O -- pen to Je -- sus&amp;mdash; He is all you need. He fed the thou -- sands, now He'll feed you. Just o -- pen your mouth and take Him in&amp;mdash; That's all you have to do. We've found that call -- ing on Je -- sus fills us with -- in. He came as food, so now we take Him in. No doc -- trines or forms that you have to learn To come and meet with us. Just en -- joy the Lord Je -- sus!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0191.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If you are hungry, come to the feast.
+Open to Jesus&amp;mdash;He is all you need.
+He fed the thousands, now He'll feed you.
+Just open your mouth and take Him in&amp;mdash;
+That's all you have to do.
+We've found that calling on Jesus fills us within.
+He came as food, so now we take Him in.
+No doctrines or forms that you have to learn
+To come and meet with us.
+Just enjoy the Lord Jesus!</stanza>
+    <stanza type="verse" number="2">If you are thirsty, He's heard your cry.
+He is a fountain that will not run dry.
+He's quenching our longings, we're satisfied,
+Just eating and drinking the risen Lord!
+Yes, that is why He died;
+So He could become the Spirit, get into us,
+Fill all our being&amp;mdash;Oh, how glorious!
+It's really so simple&amp;mdash;just take and eat;
+That's all you have to do.
+Come enjoy the Lord Jesus.</stanza>
+  </lyrics>
+</hymn>

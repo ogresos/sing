@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kiya</firstname>
+  <lastname/>
+  <email>kj1217@messiah.edu</email>
+  <password>$2y$10$9ifL10jGc/iHkJ7qjlCJQ.YW2wmtPhFG9DeJFjfDtdmaONj2GPHjS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>153.42.207.87</ipaddress>
+  <createdate>2014-11-11 04:09:57</createdate>
+  <lastupdateddate>2015-07-12 23:01:49</lastupdateddate>
+  <lastlogindate>2015-07-12 23:01:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="de" num="1102">Der Herr zu meinem Herrn spricht</fav>
+    <fav category="default" type="de" num="886">Ein feste Burg ist unser Gott</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="1210">Through God's word, my hope at His returning</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

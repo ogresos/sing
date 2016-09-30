@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Jesus! Süß Dein Name klingt</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Name</category>
+  <numbers><cebuano num="71"/><chinese num="63"/><english num="71"/><german num="71"/><korean num="63"/><tagalog num="71"/></numbers>
+  <creators>
+	<author biodate="1813-1856" biolink="">Translated from Mary Bowley Peters</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | ._3 - ._2 | ._1 - ._1 | 7( 6) 5 | ._2 - 4# (break) | 5 - 5 | 5( 6) 7 | ._1 - 5 | 6( ._2) ._1 | 7 - 5 | ._1( ._3) ._2 | ._1 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>Oh Je -- sus! Süß Dein Na -- me klingt Für je -- des off -- ne Ohr; Der Sün -- der, dem ver -- ge -- ben ist, Schätzt ihn wie nie zu -- vor.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="71"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh Jesus! Süß Dein Name klingt
+Für jedes offne Ohr;
+Der Sünder, dem vergeben ist,
+Schätzt ihn wie nie zuvor.</stanza>
+	<stanza type="verse" number="2">In Deinem Namen Gnade fließt,
+Die Gott als Mensch uns gibt;
+Sein eignes Leben sieht Gott nun
+In Dem, der Jesus liebt.</stanza>
+	<stanza type="verse" number="3">Sein Name reich von Liebe spricht,
+Sanftmütig Leiden trägt,
+Sein volles Mitgefühl erzeigt,
+Weiss, was dich niederschlägt.</stanza>
+	<stanza type="verse" number="4">Für uns zur Sünde wurdest Du;
+Gerecht durch Dich sind wir;
+Nach unsrer Liebe sehnst Du Dich,
+Vertrauen wolln wir Dir.</stanza>
+	<stanza type="verse" number="5">Wir rufen Deinen Namen gern,
+Und preisen Dich im Geist;
+Du, Höchster von Zehntausenden,
+In Liebe uns befreist.</stanza>
+  </lyrics>
+</hymn>

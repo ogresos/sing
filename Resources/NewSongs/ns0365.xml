@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>With the kisses of Your mouth</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <hymncode>3333335666665</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Em - - - | Am - - - | Am - - G/B | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Em - - - | Am - - - | Am - - G/B | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Em - - - | Am - - - | Am - - G/B | C - - - | G - - - | F - G - | C - - - ||</chords>
+  <melody>| 0 3/ 3/ 3/ 3/ 3/ 3/ | 5 - - - | 0 6/ 6/ 6 6 | 6( - 5) - | 0 3/ 3/ 3/ 3/ 3/ 3/ | 5.( 2/) 2 - | 0 ._1/ ._1/ ._1 5 | 6( - 5) - | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 ._1/ ._1/ ._1 5 | 4( - 5) - | 0. ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 5/ 5/ 5 5 | 6( - - -| 6) - - 0 (break) | (Verse_2) 0 3/ 3/ 3/ 3/ 3/ 3/ | 5 - 2 - | 0 6/ 6/ 6 6 | 6( - 5) - | 0 3/ 3/ 3/ 3/ 3/ 3/ | 5 - 2 - | 0 ._1/ ._1/ ._1 5 | 6( - 5) - | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 ._1/ ._1/ ._1 5 | 4( - 5) - | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 5/ 5/ 5 5 | 6( - - -| 6) - - 0 (break) | (Verse_3) 0 3/ 3/ 3/ 3/ 3/ 3/ | 5 - 2 - | 0 6/ 6/ 6 6 | 6( - 5) - | 0 3/ 3/ 3/ 3/ 3/ 3/ | 5 - 2 - | 0 ._1/ ._1/ ._1 5 | 6( - 5) - | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3. 7/ 7 - | 0 ._1/ ._1/ ._1 5 | 4( - 5) - | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 5/ 5/ 5 5 | 6( - - -| 6) - - 0 (break) | 0 ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ | ._3.( 7/) 7 - | 0 6/ 6/ 5 7 | ._1 - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">With the kiss -- es of Your mouth, Have You kissed me, Lord. From Your kiss -- es flows a foun -- tain, From a depth un -- known. Gent -- ly tem -- pered by Your touch -- ing Of my deep -- est chords, My heart's re -- newed with glad -- ness, And my love o'er -- flows. Let me kiss You, drink You deep -- er, Ful -- ly sat -- is -- fy All the long -- ings deep with -- in me,  For Your pres -- ence nigh, And a deep -- er, sweet -- er u -- nion, Of Your life with mine That our na -- tures ful -- ly min -- gled, Would our hearts en -- twine. Ev -- er in -- crease, Lord, with -- in me,  My de -- sire for You. Let Your kiss -- es ev -- er kiss me, And that I'd kiss You. Dear Lord Je -- sus, may I ev -- er be,  So be -- trothed to You. May I love You, al -- ways love You, And re -- spond to You. May I love You, al -- ways love You, And re -- spond to You.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="146">ns0365.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">With the kisses of Your mouth,
+Have You kissed me, Lord.
+From Your kisses flows a fountain,
+From a depth unknown.
+Gently tempered by Your touching
+Of my deepest chords,
+My heart's renewed with gladness,
+And my love o'erflows.</stanza>
+    <stanza type="verse" number="2">Let me kiss You, drink You deeper,
+Fully satisfy
+All the longings deep within me,
+For Your presence nigh,
+And a deeper, sweeter union,
+Of Your life with mine
+That our natures fully mingled,
+Would our hearts entwine.</stanza>
+    <stanza type="verse" number="3">Ever increase, Lord, within me,
+My desire for You.
+Let Your kisses ever kiss me,
+And that I'd kiss You.
+Dear Lord Jesus, may I ever be,
+So betrothed to You.
+May I love You, always love You,
+And respond to You.
+May I love You, always love You,
+And respond to You.</stanza>
+  </lyrics>
+</hymn>

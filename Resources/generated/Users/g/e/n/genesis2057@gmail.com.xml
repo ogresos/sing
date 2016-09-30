@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>MineIsJesus</firstname>
+  <lastname/>
+  <email>genesis2057@gmail.com</email>
+  <password>$2y$10$qxF0P0.lkkLwBT2Gwed1eeDE1crzB0dy/EHp1AFwbsJ6nejo8gjbi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>97.89.246.34</ipaddress>
+  <createdate>2015-03-19 22:12:32</createdate>
+  <lastupdateddate>2015-03-19 22:26:15</lastupdateddate>
+  <lastlogindate>2015-03-19 22:12:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="495">God Has Chosen You and Me</fav>
+    <fav category="default" type="h" num="728">I have been through the valley of sorrow and weeping</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="679">Safe in the arms of Jesus</fav>
+  </favourites>
+</user>

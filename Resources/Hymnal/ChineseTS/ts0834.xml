@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>各樣都齊備</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><cebuano num="1330"/><chinese num="ts:834"/><english num="1330"/><french num="212"/><german num="1330"/><korean num="799"/><tagalog num="1330"/></numbers>
+  <creators>
+	<author biodate="1856-1932" biolink="">Translated from Charles Hutchinson Gabriel</author>
+  </creators>
+  <melody>| 5 5./ 5// 6/ 5 0/ | ._3 ._2./ ._2// ._1 - | ._1 6./ 7// ._1./ ._1// 7./ 6// (break) | 5 - - 5 | 5 ._2 ._2 7/( 6/) | 5 ._1 ._1 ._3 | ._2 7./ 7// ._2 ._1 | 7( - 6) - (break) | (Chorus) 5( - 5./) 5// 6./ 7// | ._1 - 5 ._1 | ._2( - ._2./) ._2// ._1./ ._2// (break) | ._3 - - ._1 | ._1( - ._1./) ._1// 7./ 6// | 5 - ._1 ._1 | ._3. ._1/ ._2/ ._2. | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>『各 樣 都 齊 備』， 請 來 赴 席！ 來， 桌 上 已 擺 滿 美 物； 哦， 飢 餓 者， 疲 倦 者， 來， 你 們 就 必 得 飽 足。 聽， 主 正 在 邀 請， 無 論 何 人 願 意， 來 得 神 完 全 救 恩， 無 論 何 人 願 意。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1330"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">『各樣都齊備』，
+請來赴席！
+來，桌上已擺滿美物；
+哦，飢餓者，疲倦者，
+來，你們就必得飽足。</stanza>
+	<stanza type="chorus" number="">聽，主正在邀請，
+無論何人願意，
+來得神完全救恩，
+無論何人願意。</stanza>
+	<stanza type="verse" number="2">『各樣都齊備』，
+請來赴席！
+來，恩門現在正大開；
+尊貴之位為你保留，
+靠近主人的胸懷。</stanza>
+	<stanza type="verse" number="3">『各樣都齊備』，
+請來赴席！
+來，祂等著你嘗恩典；
+今天是時候，莫遲延，
+因不一定有明天。</stanza>
+	<stanza type="verse" number="4">『各樣都齊備』，
+請來赴席！
+脫去罣慮，屬世爭競，
+來，喫神所賜的基督，
+並喝永遠的生命。</stanza>
+  </lyrics>
+</hymn>

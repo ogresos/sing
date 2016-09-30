@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samuel</firstname>
+  <lastname>Solomon</lastname>
+  <email>sollys.jesus@hotmail.com</email>
+  <password>$2y$10$IKf1NfvHaRgjn8qj1nbvdeYVJbXt/e9zQriUrDIR5MkgZDmkl1l.C</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.206.12.33</ipaddress>
+  <createdate>2015-06-30 07:05:26</createdate>
+  <lastupdateddate>2015-06-30 14:31:45</lastupdateddate>
+  <lastlogindate>2015-06-30 14:31:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vater, als Söhne nahen wir uns Dir</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Sein Lobpreis von vielen Söhnen</category>
+  <numbers><cebuano num="51"/><chinese num="46"/><english num="51"/><german num="51"/><korean num="46"/><tagalog num="51"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 2 - 2 3 | 4 - 2 - | 5 4 3 2 | 3 - - 5 (break) | 6 - 5 - | 4 - - 3 | 5 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Va -- ter, als Söh -- ne na -- hen wir uns Dir, Zu Dir uns riefst,  Hei -- li -- ge Frei -- heit, Lie -- be spü -- ren wir Im Geist zu -- tiefst. Herr -- lich! Wie Chris -- tus dürf -- en vie -- le sein, Dies freut Dein Herz und nimmt's für e -- wig ein.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="51"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vater, als Söhne nahen wir uns Dir,
+Zu Dir uns riefst, 
+Heilige Freiheit, Liebe spüren wir
+Im Geist zutiefst.
+Herrlich! Wie Christus dürfen viele sein,
+Dies freut Dein Herz und nimmt's für ewig ein.</stanza>
+	<stanza type="verse" number="2">Wir haben teil an Christus allezeit,
+Uns Gnade gibst. 
+Er füllt Dein Herz, ist Deine Herrlichkeit,
+So sehr Ihn liebst.
+Wir sehen Ihn in Deiner Gegenwart,
+Welch Liebe fließt auf wunderbare Art.</stanza>
+	<stanza type="verse" number="3">Hier singt Er, Vater, freudig Dir allein,
+Und preist Dich sehr,
+So viele Söhne stimmen herzlich ein,
+Zu Deiner Ehr.
+Wir preisen, Höchster, Dich in Harmonie
+Für Deine Liebe und Ökonomie.</stanza>
+  </lyrics>
+</hymn>

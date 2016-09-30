@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, mahal ko</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAGLILINGKOD SA PANGINOON</category>
+  <numbers><cebuano num="463"/><chinese num="ts:850"/><english num="463"/><german num="463"/><russian num="415"/><spanish num="194"/><tagalog num="463"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 0 - - 1 | 2 1 4 3 | 2 - 1 3 | 5 ._1 7 5# | 6 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2 1 | 2 - - 2 (break) | 4 3 6 7 | ._1 - ._2 5 | ._3. ._3/ ._2 ._1 | 7 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoon, mahal ko:
+Ayaw kong lumaya!
+Pagka't Manunubos ko,
+Nagbayad halaga.
+Di lilisang maglingkod,
+Ito'y pinagpala;
+Sa aking pagkapagod,
+Tunay Siya'ng pahinga.</stanza>
+	<stanza type="verse" number="2">Kanyang dugo'y 'binuhos,
+Buhay ko'y mawagi;
+Niligtas 'ko sa gapos
+Ng sala't sarili.
+Kanya akong hinirang
+Na paglingkuran Siya;
+Laya, ako'y binigyan,
+Mamili't magpasiya.</stanza>
+	<stanza type="verse" number="3">Hindi ko hahatiin
+Ang paglilingkod ko;
+Tangi lamang Siya'ng aking
+Pag-'ukulan nito.
+At ngayon ang awit ko
+May galak't pagsamba:
+Panginoon mahal ko,
+Ayaw kong lumaya.</stanza>
+  </lyrics>
+</hymn>

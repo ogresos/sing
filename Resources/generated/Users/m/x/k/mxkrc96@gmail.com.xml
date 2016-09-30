@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Xinke</firstname>
+<lastname>Cao</lastname>
+<email>mxkrc96@gmail.com</email>
+<password>$1$NkqVW2uO$wPiPkt5rbMu7MT1UIRKqH1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>98.160.175.42</ipaddress>
+<createdate>2008-12-31 21:52:01</createdate>
+<lastupdateddate>2009-09-15 18:27:04</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="ts" num="328">神聖羅曼史</fav>
+        <fav category="default" type="ts" num="305">主耶穌，你美麗奪了我心</fav>
+        <fav category="default" type="ts" num="327">主阿，我愛你</fav>
+        <fav category="default" type="ts" num="302">你名如同倒出香膏</fav>
+        <fav category="default" type="ts" num="304">同往葡萄園去</fav>
+        <fav category="default" type="ts" num="301">耶穌！我愛你</fav>
+        <fav category="default" type="ch" num="521">應當時常喜樂</fav>
+        <fav category="default" type="ts" num="839">雲彩</fav>
+        <fav category="default" type="ts" num="848">聽我唱奇妙愛</fav>
+        <fav category="default" type="h" num="1">Glory be to God</fav>
+        <fav category="default" type="h" num="7">Glory, glory to the Father</fav>
+    </favourites>
+</user>

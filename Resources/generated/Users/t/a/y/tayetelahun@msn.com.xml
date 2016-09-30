@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>TAYE</firstname>
+<lastname>TELAHUN</lastname>
+<email>tayetelahun@msn.com</email>
+<password>$1$Ctlo5Byi$thJeas1NpfeKaxRbHGIX60</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.208.241.131</ipaddress>
+<createdate>2008-09-23 22:42:20</createdate>
+<lastupdateddate>2009-09-15 18:25:57</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="903">Lord, speak to me, that I may speak</fav>
+    </favourites>
+</user>

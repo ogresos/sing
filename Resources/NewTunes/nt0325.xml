@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All my life long I had panted</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Satisfied with Christ</category>
+  <creators>
+    <author biodate="1858-1937" biolink="">Clara Tear Williams</author>
+    <composer biodate="" biolink="" fullname="Natalie Pagel">N. P.</composer>
+  </creators>
+  <hymncode>1231433112351765</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - | C - - | F/C - - | C - - | C - - | C - - | Am - - | F - - | G - - | Am - - | F - - | Em - - | Am - - | F - - | Dm - - | G - - | G - - | Am - - | F - - | C - - | C - - | Am - - | F - - | G - - | G - - | Am - - | F - - | C - - | Am - F | C/G - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 0 - 1/ 2/ | 3 - 1 | 4 - 2 | 3 - - | 1 - 1/ 2/ | 3 - 5 | ._1 - 7 | 6( - - (break) | 5) - 6/ 7/ | ._1 - 7 | ._1 - 6 | 5 - - | 3 - 1/ 2/ | 3 - 5 | 4 - 2 | 2( - - (break) | 2) - (Chorus) 6/ 7/ | ._1 - 7 | ._1 - 6 | 5 - - | 3 - 6/ 7/ | ._1 - 7 | ._1 - 6 | 5( - - (break) | 5) - 6/ 7/ | ._1 - 7 | ._2 - ._1 | ._3 - - | ._1 - 6/ 6/ | 5 - ._1 | ._2 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>All my life long I had pant -- ed For a draught from some cool spring, That I hoped would quench the burn -- ing Of the thirst I felt with -- in. Hal -- le -- lu -- jah! I have found Him Whom my soul so long has craved! Je -- sus sa -- tis -- fies my long -- ings; Through His life I now am saved.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="325"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="HWSe9MGhNvk"/>
+  </videos>
+  <music>
+    <midi location="nt" length="47">e0325_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">All my life long I had panted
+  For a draught from some cool spring,
+That I hoped would quench the burning
+  Of the thirst I felt within.</stanza>
+    <stanza type="chorus" number="">Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longings;
+  Through His life I now am saved.</stanza>
+    <stanza type="verse" number="2">Feeding on the husks around me,
+  Till my strength was almost gone,
+Longed my soul for something better,
+  Only still to hunger on.</stanza>
+    <stanza type="verse" number="3">Poor I was, and sought for riches,
+  Something that would satisfy,
+But the dust I gathered round me
+  Only mocked my soul's sad cry.</stanza>
+    <stanza type="verse" number="4">Well of water, ever springing,
+  Bread of life, so rich and free,
+Untold wealth that never faileth,
+  My Redeemer is to me.</stanza>
+  </lyrics>
+</hymn>

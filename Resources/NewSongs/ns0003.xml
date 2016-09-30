@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God has a dream</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As God's Dream</category>
+  <numbers><english num="ns:3"/><vsb num="37"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Colin Ting">C. T.</author>
+    <composer biodate="" biolink="" fullname="Colin Ting">C. T.</composer>
+  </creators>
+  <hymncode>53251176164</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | C - - - | C - - - | Dm7 - - - | Dm7 - - - | F - - - | G - - - | C - - - | G7 - - - | C - - - | C7 - - - | F - - - | Dm - - - | C/G - Am - | Dm7 - G7 - | C - - F/C | C - - - | C - - - | C7 - - - | F - - - | Dm - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | C - - - | C7 - - - | F - - - | Dm - - - | C/G - Am - | Dm7 - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 0/ 5_./ 3/ 2/ | 5_.( - - - | 5_.) 0/ 1/ {1 7_. 6_.} | 1.( 6_./) 4_.( - | 4_.) - 0/ 4_./ 4/ 3/ | 6_.( - - - | 7_.) 0/ 7_./ 7_./ 7_./ 6_./ 5_./ | 3_.( - - - (break) | 3_.) - 0/ 5_./ 3/ 2/ | 5_.( - - - | 5_.) 0/ 1/ {1 2 3} | 2 - - 1 | 6_. - 0/ 4/ 3/ 2/ | 3.( 2/ 1. 6_./ | 5_./) 5_./ 5_./ 5_./ 3/( 2/)( 2/) 1/ | 1( - - - | 1) - - 0 (break) | 5( - {5) 3 2} | 1 - {1 2 3} | 2 - - 1 | 6_. - 7_. 6_. | 5_.. 5_./ 1 2 | 3. 3/ 4 3 | 2( - - - | 2) - - 0 (break) | 5( - {5) 3 2} | 1. 1/ {1 2 3} | 2 - - 1 | 6_. - 0/ 4/ 3/ 2/ | 3.( 2/ 1. 6_./ | 5_./) 5_./ 5_./ 5_./ 3/( 2/)( 2/) 1/ | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>God has a dream, this is what He's want -- ing. God has a dream, and we are part of it. God has a dream... that we may be one with Him. God has a dream... real -- ized in you and me! God, you and me... a dwell -- ing place to be. God in man, and man in God: one en -- ti -- ty. Now, it's my dream... my vi -- sion and life to be! God has a dream... real -- ized in you and me!</singingstanza>
+  </layout>
+  <links>
+    <link type="orderinfo"></link>
+  </links>
+  <music>
+    <midi location="ns" length="62">ns0003.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God has a dream, this is what He's wanting.
+God has a dream, and we are part of it.
+God has a dream...that we may be one with Him.
+God has a dream...realized in you and me!
+God, you and me...a dwelling place to be.
+God in man, and man in God: one entity.
+Now, it's my dream...my vision and life to be!
+God has a dream...realized in you and me!</stanza>
+  </lyrics>
+</hymn>

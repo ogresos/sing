@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>John</firstname>
+<lastname>Kuespert</lastname>
+<email>jkuespert@tampabay.rr.com</email>
+<password>$1$ocxy1h08$JNSyGquYwlO8y5/a0IM2h.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>24.26.23.59</ipaddress>
+<createdate>2008-09-27 20:06:22</createdate>
+<lastupdateddate>2009-09-15 18:25:58</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    </favourites>
+</user>

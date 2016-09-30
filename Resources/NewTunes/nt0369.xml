@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let me love Thee, Thou art claiming</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Love to Christ</category>
+  <hymncode>3451712145613432</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Dm7 - - - | F - G - | Dm7 - - - | G - - - | Dm7 - - - | C/G - G - | C - - - | G - - - | Dm7 - - - | F - G - | Dm7 - - - | G - - - | Dm7 - - - | F - G - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - Am - | F - G - | C - - - |</chords>
+  <melody>| 0 3/ 4/ 5 1 | 7 ._1 ._2 ._1 | 0 4/ 5/ 6 ._1 | ._3 ._4/( ._3/) ._2 - (break) | 0 ._4/ ._3/ ._2. ._1/ | ._1 7 6 5 | 0 4/ 5/ 6 4 | 3 4/( 3/) 2 - (break) | 0 3/ 4/ 5 1 | 7 ._1 ._2 ._1 | 0 4/ 5/ 6 ._1 | ._3 ._4/( ._3/) ._2 - (break) | 0 ._4/ ._3/ ._2. ._1/ | ._1 7 6 5 | 0 4/ 5/ 6 ._1 | ._3 ._4/( ._3/) ._2 - (break) | (Chorus) 0 ._3/ ._4/ ._5 ._1 | ._2.( 7/) 5 - | 0 ._1/ ._2/ ._3 ._1 | ._2.( 7/) 5 - (break) | 0 6/ 7/ ._1 ._4 | ._3.( ._1/) 5. 5/ | 6. ._1/ 7. ._1/ | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Let me love Thee, Thou art claim -- ing Ev -- ery feel -- ing of my soul; Let that love in pow'r pre -- vail -- ing, Ren -- der Thee my life, my all; For life's bur -- dens they are ea -- sy, And life's sor -- rows lose their sting, If they're car -- ried, Lord, to please Thee, If their pain Thy smile should win. Let me love Thee, Sav -- ior, Take my heart for -- ev -- er; Noth -- ing but Thy fa -- vor My soul can sa -- tis -- fy.</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="369"></link>
+  </links>
+  <music>
+    <midi location="nt" length="64">e0369_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let me love Thee, Thou art claiming
+Every feeling of my soul;
+Let that love in pow'r prevailing,
+Render Thee my life, my all;
+For life's burdens they are easy,
+And life's sorrows lose their sting,
+If they're carried, Lord, to please Thee,
+If their pain Thy smile should win.</stanza>
+    <stanza type="chorus" number="">Let me love Thee, Savior,
+Take my heart forever;
+Nothing but Thy favor
+  My soul can satisfy.</stanza>
+    <stanza type="verse" number="2">Let me love Thee, come revealing
+All Thy love has done for me;
+Help my heart, so unbelieving,
+By the sight of Calvary:
+Let me see Thy love despising
+All the shame my sins had brought;
+By Thy torments realizing
+What a price my pardon bought.</stanza>
+    <stanza type="verse" number="3">Let me love Thee, I am gladdest
+When I'm loving Thee, the best;
+For in sunshine or in sadness
+I can find in Thee a rest;
+But without Thee life is fading,
+Treasureless its choicest flowers;
+Taken are its gifts eternal;
+Left, its empty passing hours.</stanza>
+    <stanza type="verse" number="4">Let me love Thee, love is mighty,
+Swaying realms of deed and thought;
+By it I shall walk uprightly,
+I shall serve Thee as I ought:
+Love will soften every sorrow,
+Love will lighten every care,
+Love unquestioning will follow,
+Love will triumph, love will dare.</stanza>
+  </lyrics>
+</hymn>

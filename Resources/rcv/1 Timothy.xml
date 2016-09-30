@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book name="1 Timothy" description="THE FIRST EPISTLE OF PAUL TO TIMOTHY" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\bible.xsd">
+    <info title="Author">The apostle Paul ([link]1:1[/link]).</info>
+    <info title="Time of Writing">Approximately A.D. 65, after Paul's first Roman imprisonment.</info>
+    <info title="Place of Writing">Probably Macedonia ([link]1:3[/link]).</info>
+    <subject>God's Economy concerning the Church</subject>
+    <outlines>
+    <outline type="upper-roman" num="1" ref="1:1-2">Introduction</outline>
+    <outline type="upper-roman" num="2" ref="1:3-17">God's Economy versus Different Teachings</outline>
+    <outline type="upper-roman" num="3" ref="1:18-20">Faith and a Good Conscience Needed for the Keeping of the Faith</outline>
+    <outline type="upper-roman" num="4" ref="2:1-7">Prayer for Man's Salvation</outline>
+    <outline type="upper-roman" num="5" ref="2:8-15">The Normal Life in the Church</outline>
+    <outline type="upper-roman" num="6" ref="3:1-13">Overseers and Deacons for the Church's Administration</outline>
+    <outline type="upper-roman" num="7" ref="3:14-16">The Function of the Church &amp;#8212; The House of the Living God and the Pillar and Base of the Truth</outline>
+    <outline type="upper-roman" num="8" ref="4:1-5">The Prediction of the Decline of the Church</outline>
+    <outline type="upper-roman" num="9" ref="4:6-16">A Good Minister of Christ</outline>
+    <outline type="upper-roman" num="10" ref="5:1-16">Concerning the Saints of Different Ages</outline>
+    <outline type="upper-roman" num="11" ref="5:17-25">Concerning the Elders</outline>
+    <outline type="upper-roman" num="12" ref="6:1-10">Concerning Slaves and Money Lovers</outline>
+    <outline type="upper-roman" num="13" ref="6:11-21a">A Man of God</outline>
+    <outline type="upper-roman" num="14" ref="6:21b">Conclusion</outline>
+    </outlines>
+    <chapters>
+    <chapter num="1">
+        <verse num="1">
+        <text>[note]1[/note]Paul, an [xref]a[/xref]apostle of Christ Jesus [xref]b[/xref]according to the [note]2[/note][xref]c[/xref]command of [note]3[/note][xref]d[/xref]God our Savior and of Christ Jesus our [note]4[/note][xref]e[/xref]hope,</text>
+        <note num="1">First Timothy unveils to us God's economy concerning the church, 2 Timothy inoculates us against the decline of the church, and Titus is concerned with maintaining the order of the church. These are three aspects of one purpose, that is, to preserve the church as the proper expression of the Triune God, as symbolized by the golden lampstands in the ultimate portion of the divine revelation ([link]Rev. 1:12[/link], [link]20[/link]). For the accomplishing of this purpose, the following basic and crucial matters are stressed repeatedly in these three books:[br][br](1) The faith, the contents of the complete gospel according to God's New Testament economy. It is objective and is mentioned in [link]1 Tim. 1:4[/link], [link]19[/link]; [link]2:7[/link]; [link]3:9[/link], [link]13[/link]; [link]4:1[/link], [link]6[/link]; [link]5:8[/link]; [link]6:10[/link], [link]12[/link], [link]21[/link]; [link]2 Tim. 3:8[/link]; [link]4:7[/link]; and [link]Titus 1:1[/link], [link]4[/link], [link]13[/link].[br][br](2) The truth, the reality of the contents of the faith, mentioned in [link]1 Tim. 2:4[/link], [link]7[/link]; [link]3:15[/link]; [link]4:3[/link]; [link]6:5[/link]; [link]2 Tim. 2:15[/link], [link]18[/link], [link]25[/link]; [link]3:7[/link], [link]8[/link]; [link]4:4[/link]; and [link]Titus 1:1[/link], [link]14[/link].[br][br](3) Healthy teaching, in [link]1 Tim. 1:10[/link], [link]2 Tim. 4:3[/link], and [link]Titus 1:9[/link]; [link]2:1[/link]; healthy words, in [link]1 Tim. 6:3[/link] and [link]2 Tim. 1:13[/link]; healthy speech, in [link]Titus 2:8[/link]; and healthy in the faith, in [link]Titus 1:13[/link]; [link]2:2[/link]. All these are related to the condition of life.[br][br](4) Life, the eternal life of God, in [link]1 Tim. 1:16[/link]; [link]6:12[/link], [link]19[/link]; [link]2 Tim. 1:1[/link], [link]10[/link]; and [link]Titus 1:2[/link]; [link]3:7[/link].[br][br](5) Godliness, a living that is the expression of God, mentioned in [link]1 Tim. 2:2[/link], [link]10[/link] ([i]godly[/i]); 3:16; [link]4:7[/link], [link]8[/link]; [link]5:4[/link] ([i]respect[/i]); 6:3, 5, 6, 11; [link]2 Tim. 3:5[/link], [link]12[/link] (godly); and [link]Titus 1:1[/link]; [link]2:12[/link] ([i]godly[/i]). The opposite, ungodliness, is mentioned in [link]1 Tim. 1:9[/link] ([i]ungodly[/i]), [link]2 Tim. 2:16[/link], and [link]Titus 2:12[/link].[br][br](6) Faith, our act of believing in the gospel, in God, and in His word and deeds. It is subjective and is mentioned in [link]1 Tim. 1:2[/link], [link]5[/link], [link]14[/link], [link]19[/link]; [link]2:15[/link]; [link]4:12[/link]; [link]6:11[/link]; [link]2 Tim. 1:5[/link], [link]13[/link]; [link]2:22[/link]; [link]3:10[/link], [link]15[/link]; and [link]Titus 2:2[/link]; [link]3:15[/link].[br][br](7) The conscience, the leading part of our spirit, which justifies or condemns our relationships with God and with man. It is mentioned in [link]1 Tim. 1:5[/link], [link]19[/link]; [link]3:9[/link]; [link]4:2[/link]; [link]2 Tim. 1:3[/link]; and [link]Titus 1:15[/link].[br][br]The faith equals the contents of the economy, the household administration, the dispensation, of God. The truth is the contents, the reality, of the faith according to God's economy. Healthy teaching, healthy words, and healthy speech are the ministry of the truth, ministering to people the reality of the divine truths. Eternal life is the means and power to carry out the divine realities of the faith. Godliness is a living that expresses the divine reality, an expression of God in all His riches. Faith (subjective) is the response to the truth of the faith (objective); such faith receives and participates in the divine realities. The conscience is a test and a check to preserve us in the faith.</note>
+        <note num="2">It was according to the command of God and of Christ that Paul became an apostle. In his earlier Epistles he told us that he was an apostle through the will of God ([link]1 Cor. 1:1[/link]; [link]2 Cor. 1:1[/link]; [link]Eph. 1:1[/link]; [link]Col. 1:1[/link]). The command of God is a definite expression, a further direction, of the will of God.</note>
+        <note num="3">[i]God our Savior[/i] here and like titles in [link]2:3[/link]; [link]4:10[/link] and [link]Titus 1:3[/link]; [link]2:10[/link], [link]13[/link]; [link]3:4[/link] are particular titles ascribed to God in the three books of 1 and 2 Timothy and Titus, which take God's salvation as a strong base for the teachings concerning God's New Testament economy ([link]1:15-16[/link]; [link]2:4-6[/link]; [link]2 Tim. 1:9-10[/link]; [link]2:10[/link]; [link]3:15[/link]; [link]Titus 2:14[/link]; [link]3:5-7[/link]). It was according to the command of such a saving God, a Savior God, not according to the command of the law-giving God, a demanding God, that Paul became an apostle.</note>
+        <note num="4">Christ Jesus is not only God's Anointed (Christ) to be our Savior (Jesus) that we might be saved to gain the eternal life of God, but also our hope to bring us into the full blessing and enjoyment of this eternal life. The hope of eternal life revealed in [link]Titus 1:2[/link], which was the base and condition of Paul's apostleship, and the blessed hope revealed in [link]Titus 2:13[/link], which we are awaiting as the appearing of the glory of the great God and our Savior, are intimately related to the person of God's Messiah, our Savior. Hence, He Himself is our hope, the hope of glory ([link]Col. 1:27[/link]). It was according to the command not only of our Savior God but also of the One who saved us with eternal life and will bring us into the glory of this life that Paul became an apostle. His command is of the eternal life and is to be fulfilled by the eternal life, in contrast to the command of the law-giving God, which was of letters and was to be fulfilled by human effort, without the supply of eternal life.</note>
+        <xref num="a">[link]Acts 14:14[/link]; [link]1 Cor. 9:1-2[/link], [link]5[/link]; [link]2 Cor. 11:5[/link]</xref>
+        <xref num="b">[link]Titus 1:3[/link]; cf. [link]2 Tim. 1:1[/link]; [link]Titus 1:1[/link]</xref>
+        <xref num="c">[link]John 13:34[/link]; [link]Acts 1:2[/link]; [link]Rom. 16:26[/link]; [link]Titus 1:3[/link]; [link]1 John 2:3[/link]; [link]3:23-24[/link]</xref>
+        <xref num="d">[link]1 Tim. 4:10[/link]; [link]Titus 2:13[/link]; [link]1 Tim. 2:3[/link]; [link]Titus 1:3[/link]; [link]2:10[/link]; [link]3:4[/link]; [link]Jude 25[/link]; [link]Psa. 65:5[/link]</xref>
+        <xref num="e">[link]Col. 1:27[/link]; [link]Titus 1:2[/link]; [link]2:13[/link]; [link]3:7[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>To [note]1[/note][xref]a[/xref]Timothy, genuine [xref]b[/xref]child in [note]2[/note]faith: Grace, [xref]c[/xref]mercy, peace from God the Father and Christ Jesus our Lord.</text>
+        <note num="1">The Greek word is composed of [i]honor[/i] and [i]God.[/i] Thus, the name means [i]to honor God.[/i]</note>
+        <note num="2">Timothy became a genuine child of Paul not by natural birth but in faith (i.e., in the sphere and element of faith), not physically but spiritually.</note>
+        <xref num="a">[link]Acts 16:1-3[/link]; [link]1 Cor. 4:17[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:18[/link]; [link]2 Tim. 1:2[/link]; [link]2:1[/link]; [link]1 Cor. 4:17[/link], [link]15[/link]; cf. [link]Titus 1:4[/link]; [link]Philem. 10[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:13[/link], [link]16[/link]; [link]2 Tim. 1:2[/link], [link]16[/link], [link]18[/link]; [link]Titus 3:5[/link]; [link]Rom. 9:15[/link], [link]18[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>Even as I exhorted you, when I was [note]1[/note]going into [xref]a[/xref]Macedonia, to remain in [xref]b[/xref]Ephesus in order that you might charge [note]2[/note]certain ones not to teach [note]3[/note][xref]c[/xref]different things</text>
+        <note num="1">This must have been after the apostle was liberated from his first imprisonment in Rome (see note [link]6[sup]2[/sup] in 2 Tim. 4[/link]). He probably wrote this Epistle from Macedonia (today's northern Greece and southern Bulgaria).</note>
+        <note num="2">Certain dissenting ones, such as those mentioned in [link]v. 6[/link] and [link]Gal. 1:7[/link]; [link]2:12[/link].</note>
+        <note num="3">To teach different things was to teach myths, unending genealogies ([link]v. 4[/link]), and the law ([link]vv. 7-8[/link]). All such teaching was vain talking ([link]v. 6[/link]), differing from the apostles' teaching, which was centered on Christ and the church, that is, on the economy of God.[br][br]Paul's Epistles are the completion of the divine revelation concerning God's eternal purpose and economy ([link]Col. 1:25[/link]). His ministry completes the revelation concerning the all-inclusive Christ and His universal Body, the church as His fullness to express Him. Concerning the church as the Body of Christ there are two sides: life and practice. From Romans through 2 Thessalonians a full revelation is given concerning the life of the church, including the nature, responsibility, and function of the church. Now, from 1 Timothy through Philemon a detailed revelation concerning the practice of the church is presented. This pertains to the administration and shepherding of a local church. For this, the first thing needed is to terminate the different teachings of the dissenters, which distract the saints from the central line and ultimate goal of God's New Testament economy ([link]vv. 4-6[/link]). The different teachings in [link]vv. 3-4[/link], [link]6-7[/link]; [link]6:3-5[/link], [link]20-21[/link] and the heresies in [link]4:1-3[/link] are the seed, the source, of the church's decline, degradation, and deterioration dealt with in 2 Timothy.</note>
+        <xref num="a">[link]Acts 16:9[/link], [link]12[/link]; [link]20:1[/link], [link]3[/link]</xref>
+        <xref num="b">[link]Acts 18:19[/link], [link]24[/link]; [link]19:1[/link]</xref>
+        <xref num="c">[link]1 Tim. 6:3[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>Nor to give heed to [note]1[/note][xref]a[/xref]myths and unending [note]2[/note][xref]b[/xref]genealogies, which produce [xref]c[/xref]questionings rather than God's [note]3[/note][xref]d[/xref]economy, which is in [note]4[/note][xref]e[/xref]faith.</text>
+        <note num="1">The same word is used in [link]4:7[/link] and [link]2 Tim. 4:4[/link]. It refers to words, speeches, and conversations concerning such things as rumors, reports, true or false stories, and fictions. It might include Jewish stories of miracles, rabbinical fabrications, etc. These were profane and old-womanish myths ([link]4:7[/link]) and Jewish myths ([link]Titus 1:14[/link]).</note>
+        <note num="2">Probably referring to Old Testament genealogies adorned with fables ([link]Titus 3:9[/link]).</note>
+        <note num="3">The Greek word means [i]household law,[/i] implying distribution (the base of this word is of the same origin as that for [i]pasture[/i] in [link]John 10:9[/link], implying a distribution of the pasture to the flock). It denotes a household management, a household administration, a household government, and, derivatively, a dispensation, a plan, or an economy for administration (distribution); hence, it is also a household economy. God's economy in faith is His household economy, His household administration (cf. note [link]10[sup]1[/sup] in Eph. 1[/link]; [link]Eph. 3:9[/link]), which is to dispense Himself in Christ into His chosen people that He may have a house to express Himself, which house is the church ([link]3:15[/link]), the Body of Christ. The apostle's ministry was centered on this economy of God ([link]Col. 1:25[/link]; [link]1 Cor. 9:17[/link]), whereas the different teachings of the dissenting ones were used by God's enemy to distract His people from this economy. In the administration and shepherding of a local church, this divine economy must be made fully clear to the saints.[br][br]In the first chapter of this book the apostle Paul presented God's economy in opposition to different teachings. God's economy is in faith ([link]v. 4[/link]), whereas the different teachings are based on the principle of the law and centered on the law ([link]vv. 7-10[/link]). Hence, faith is versus the law, as dealt with in [link]Gal. 3[/link] ([link book="Gal." chapter="3"]vv. 2[/link], [link]5[/link], [link]23-25[/link]). Any teaching that is based on the principle of the law and centered on the law is unhealthy ([link]v. 10[/link]). Only God's economy, which is in faith, in opposition to the teachings that are based on the principle of the law and centered on the law, is healthy and can make it possible for people to believe on Christ unto eternal life ([link]v. 16[/link]) and to thus participate in God's eternal plan, God's economy, which is in faith. This is the gospel of glory with which the blessed God entrusted the apostle Paul ([link]v. 11[/link]). If anyone thrusts away such faith and a good conscience, regarding the faith he becomes shipwrecked on a deep sea ([link]v. 19[/link]).</note>
+        <note num="4">The economy of God is a matter in faith, i.e., a matter that is initiated and developed in the sphere and element of the faith. God's economy, which is to dispense Himself into His chosen people, is not in the natural realm nor in the work of law but in the spiritual sphere of the new creation through regeneration by faith in Christ ([link]Gal. 3:23-26[/link]). By faith we are born of God to be His sons, partaking of His life and nature to express Him. By faith we are put into Christ to become the members of His Body, sharing all that He is for His expression. This is God's plan (dispensation), which is carried out in faith, according to His New Testament economy.</note>
+        <xref num="a">[link]Titus 1:14[/link]</xref>
+        <xref num="b">[link]Titus 3:9[/link]</xref>
+        <xref num="c">[link]1 Tim. 6:4[/link]; [link]2 Tim. 2:23[/link]; [link]Titus 3:9[/link]</xref>
+        <xref num="d">[link]Eph. 1:10[/link]; [link]3:9[/link]; [link]Col. 1:25[/link]; [link]1 Cor. 9:17[/link]</xref>
+        <xref num="e">[link]1 Tim. 2:7[/link]; [link]3:9[/link]; [link]4:1[/link], [link]6[/link]; [link]5:8[/link]; [link]6:10[/link], [link]12[/link], [link]21[/link]; [link]2 Tim. 3:8[/link]; [link]4:7[/link]; [link]Titus 1:13[/link]; [link]Gal. 1:23[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>But the end of the [note]1[/note]charge is [note]2[/note][xref]a[/xref]love out of a [note]3[/note][xref]b[/xref]pure heart and [i]out of[/i] a good [xref]c[/xref]conscience and [i]out of[/i] unfeigned [xref]d[/xref]faith;</text>
+        <note num="1">Referring to the charge in [link]v. 3[/link].</note>
+        <note num="2">The different teachings of the dissenting ones, mentioned in [link]v. 3[/link], caused envy and discord among the believers, which are contrary to love, the end of the apostle's charge. To carry out the apostle's charge, love, which is out of a pure heart, a good conscience, and unfeigned faith, is needed.</note>
+        <note num="3">A pure heart is a single heart without mixture, a heart that seeks only the Lord and takes the Lord as the unique goal. A good conscience is a conscience without offense ([link]Acts 24:16[/link]). Unfeigned faith, related to the faith mentioned in [link]v. 4[/link], is faith without pretense or hypocrisy, faith that purifies the heart ([link]Acts 15:9[/link]) and operates through love ([link]Gal. 5:6[/link]). In the trend of the church's decline and in dealing with the different teachings, all these attributes are required for us to have a pure, true, and genuine love.</note>
+        <xref num="a">[link]John 13:34[/link]; [link]Gal. 5:13-14[/link]</xref>
+        <xref num="b">[link]2 Tim. 2:22[/link]; [link]Matt. 5:8[/link]; [link]1 Pet. 1:22[/link]; [link]Psa. 24:4[/link]; [link]73:1[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:19[/link]; [link]3:9[/link]; [link]4:2[/link]; [link]2 Tim. 1:3[/link]; [link]Titus 1:15[/link]; [link]Acts 23:1[/link]; [link]24:16[/link]; [link]Heb. 9:14[/link]; [link]1 Pet. 3:16[/link], [link]21[/link]</xref>
+        <xref num="d">[link]2 Tim. 1:5[/link]; [link]Gal. 5:6[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>From which things some, having [note]1[/note][xref]a[/xref]misaimed, have turned aside to [note]2[/note][xref]b[/xref]vain talking,</text>
+        <note num="1">I.e., missed the mark, swerved, deviated.</note>
+        <note num="2">Composed of myths and genealogies ([link]v. 4[/link]) and the law ([link]vv. 7-8[/link]).</note>
+        <xref num="a">[link]1 Tim. 6:21[/link]; [link]2 Tim. 2:18[/link]</xref>
+        <xref num="b">[link]Titus 1:10[/link]; [link]Eph. 5:6[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>Desiring to be [note]1[/note][xref]a[/xref]teachers of the law, though they understand neither the things that they say, nor concerning what they [note]2[/note][xref]b[/xref]confidently affirm.</text>
+        <note num="1">Teachers of the law, who teach people what to do and what not to do, are different from ministers of Christ ([link]4:6[/link]), who minister His riches to others.</note>
+        <note num="2">Or, strongly affirm, emphatically affirm. The same word is used in [link]Titus 3:8[/link]. See note 3 there.</note>
+        <xref num="a">[link]Luke 5:17[/link]; [link]Acts 5:34[/link]</xref>
+        <xref num="b">[link]Titus 3:8[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>But we know that the [xref]a[/xref]law is good, if one uses it lawfully</text>
+        <xref num="a">[link]Rom. 7:12[/link], [link]16[/link]; [link]Titus 3:9[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>[i]And[/i] knows this, that the [xref]a[/xref]law is not enacted for a righteous man but for the lawless and [xref]b[/xref]unruly, for the [xref]c[/xref]ungodly and sinners, for the [xref]d[/xref]unholy and [xref]e[/xref]profane, for those who [note]1[/note]strike their fathers and those who [note]1[/note]strike their mothers, for murderers,</text>
+        <note num="1">Or, kill.</note>
+        <xref num="a">[link]Gal. 5:23[/link]</xref>
+        <xref num="b">[link]Titus 1:6[/link], [link]10[/link]</xref>
+        <xref num="c">[link]2 Tim. 2:16[/link]; [link]Titus 2:12[/link]; [link]1 Pet. 4:18[/link]; [link]Jude 15[/link]</xref>
+        <xref num="d">[link]2 Tim. 3:2[/link]</xref>
+        <xref num="e">[link]1 Tim. 4:7[/link]; [link]6:20[/link]; [link]2 Tim. 2:16[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>For fornicators, [xref]a[/xref]homosexuals, kidnappers, liars, perjurers, and whatever other thing that is opposed to the [note]1[/note][xref]b[/xref]healthy teaching,</text>
+        <note num="1">[i]Healthy[/i] implies the matter of life. The sound teaching of the apostles, which is according to the gospel of the glory of God, ministers the healthy teaching as the supply of life to people, either nourishing them or healing them; in contrast, the different teachings of the dissenting ones ([link]v. 3[/link]) sow the seeds of death and poison into others. Any teaching that distracts people from the center and goal of God's New Testament economy is not healthy.</note>
+        <xref num="a">[link]Lev. 18:22[/link]; [link]1 Cor. 6:9[/link]</xref>
+        <xref num="b">[link]2 Tim. 4:3[/link]; [link]Titus 1:9[/link]; [link]2:1[/link]; [link]1 Tim. 6:3[/link]; [link]2 Tim. 1:13[/link]; [link]Titus 2:8[/link]; [link]1:13[/link]; [link]2:2[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>[xref]a[/xref]According to the [note]1[/note][xref]b[/xref]gospel of the glory of the [xref]c[/xref]blessed God, with which I was [xref]d[/xref]entrusted.</text>
+        <note num="1">[i]The gospel of the glory of the blessed God[/i] is an excellent expression. It refers to God's economy, mentioned in [link]v. 4[/link]. The gospel with which the apostle Paul was entrusted is the effulgence of the glory of the blessed God. By dispensing God's life and nature in Christ into God's chosen people, this gospel shines forth God's glory, in which God is blessed among His people. This is the commission and ministry the apostle received of the Lord ([link]v. 12[/link]). This gospel should be commonly taught and preached in a local church.</note>
+        <xref num="a">[link]Rom. 2:16[/link]</xref>
+        <xref num="b">[link]2 Cor. 4:4[/link]</xref>
+        <xref num="c">[link]1 Tim. 6:15[/link]; [link]Rom. 9:5[/link]</xref>
+        <xref num="d">[link]Gal. 2:7[/link]; [link]Titus 1:3[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>I give thanks to Him who [note]1[/note][xref]a[/xref]empowers me, Christ Jesus our Lord, that He has counted me [xref]b[/xref]faithful, [xref]c[/xref]appointing [i]me[/i] to the [xref]d[/xref]ministry,</text>
+        <note num="1">The Lord not only appointed the apostle to the ministry and commissioned him with God's economy outwardly but also empowered him inwardly to carry out His ministry and fulfill His commission. This is altogether a matter of life in the Spirit.</note>
+        <xref num="a">[link]2 Tim. 4:17[/link]; [link]Phil. 4:13[/link]</xref>
+        <xref num="b">[link]Matt. 24:45[/link]; [link]25:21[/link], [link]23[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:7[/link]; [link]2 Tim. 1:11[/link]</xref>
+        <xref num="d">[link]Acts 20:24[/link]; [link]2 Cor. 4:1[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>Who formerly was a [note]1[/note]blasphemer and a [xref]a[/xref]persecutor and an [note]2[/note]insulting person; but I was shown [note]3[/note][xref]b[/xref]mercy because, being [note]4[/note][xref]c[/xref]ignorant, I acted in [note]4[/note][xref]d[/xref]unbelief.</text>
+        <note num="1">A blasphemer is one who blasphemes God, and a persecutor is one who persecutes man. Saul of Tarsus, a strict Pharisee ([link]Acts 22:3[/link]; [link]Phil. 3:4-5[/link]), could never have blasphemed God. But he did speak evilly of the Lord Jesus. Here he confessed that this was blasphemy. This indicates that he believed in the deity of Christ.</note>
+        <note num="2">Saul of Tarsus persecuted the church in an insulting, destructive way ([link]Acts 22:4[/link]; [link]Gal. 1:13[/link], [link]23[/link]), just as the insulting Jews persecuted the Lord Jesus ([link]Matt. 26:59[/link], [link]67[/link]).</note>
+        <note num="3">Saul, a blasphemer and a persecutor, first was shown mercy and then received grace ([link]v. 14[/link]). Mercy reaches farther toward the unworthy one than grace does. Because Saul was one who blasphemed God and persecuted man, God's mercy reached him before the Lord's grace did.</note>
+        <note num="4">To be ignorant is to be in darkness, and unbelief comes from blindness. Saul of Tarsus was in darkness and acted in blindness when he opposed God's New Testament economy.</note>
+        <xref num="a">[link]1 Cor. 15:9[/link]; [link]Phil. 3:6[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:2[/link]; [link]1 Cor. 7:25[/link]; [link]2 Cor. 4:1[/link]</xref>
+        <xref num="c">[link]Luke 23:34[/link]; [link]Acts 3:17[/link]</xref>
+        <xref num="d">[link]Matt. 13:58[/link]; [link]Mark 6:6[/link]; [link]Rom. 11:20[/link], [link]23[/link][br/]See note 13[sup]4[/sup].</xref>
+        </verse>
+        <verse num="14">
+        <text>And the [note]1[/note][xref]a[/xref]grace of our Lord [xref]b[/xref]superabounded with [note]2[/note][xref]c[/xref]faith and love in Christ Jesus.</text>
+        <note num="1">The Lord's grace, coming after God's mercy, visited Saul of Tarsus and not only abounded but superabounded in him with faith and love in Christ. Faith and love are products of the Lord's grace. Mercy and grace come to us from the Lord; faith and love return to the Lord from us. This is a spiritual traffic between the Lord and us.</note>
+        <note num="2">Through faith we receive the Lord ([link]John 1:12[/link]), and through love we enjoy the Lord whom we have received ([link]John 14:21[/link], [link]23[/link]; [link]21:15-17[/link]).</note>
+        <xref num="a">[link]2 Tim. 1:9[/link]; [link]2:1[/link]; [link]Titus 2:11[/link]; [link]3:7[/link]; [link]John 1:17[/link]; [link]1 Cor. 15:10[/link]; [link]2 Cor. 12:9[/link]; [link]13:14[/link]</xref>
+        <xref num="b">[link]Rom. 5:20[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:15[/link]; [link]2 Tim. 1:13[/link]; [link]1 Thes. 5:8[/link]; [link]3:6[/link]; [link]1:3[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>[xref]a[/xref]Faithful is the word and worthy of all acceptance, that Christ Jesus [note]1[/note]came into the world to save [xref]b[/xref]sinners, of whom I am foremost.</text>
+        <note num="1">Christ came into the world by incarnation to be our Savior ([link]John 1:14[/link]). He was God incarnated to be a man that He might save us through His death and resurrection in His human body. In a local church this should be constantly announced as the glad tidings.</note>
+        <xref num="a">[link]1 Tim. 3:1[/link]; [link]4:9[/link]; [link]2 Tim. 2:11[/link]; [link]Titus 3:8[/link]; [link]Rev. 21:5[/link]</xref>
+        <xref num="b">[link]Matt. 9:13[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>But because of this I was shown [xref]a[/xref]mercy, that in me, the foremost, Jesus Christ might display all His long-suffering for a [note]1[/note]pattern to those who are to [xref]b[/xref]believe on Him unto [note]2[/note][xref]c[/xref]eternal life.</text>
+        <note num="1">Saul of Tarsus, the foremost among sinners, became a pattern to sinners, showing that sinners can be visited by God's mercy and saved by the Lord's grace.</note>
+        <note num="2">The uncreated life of God, the ultimate gift and topmost blessing given by God to those who believe on Christ.</note>
+        <xref num="a">[link]1 Tim. 1:2[/link], [link]13[/link]</xref>
+        <xref num="b">[link]John 3:15-16[/link]</xref>
+        <xref num="c">[link]1 Tim. 6:12[/link], [link]19[/link]; [link]2 Tim. 1:1[/link], [link]10[/link]; [link]Titus 1:2[/link]; [link]3:7[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>[note]1[/note]Now to the [xref]a[/xref]King of the ages, [xref]b[/xref]incorruptible, [xref]c[/xref]invisible, the [xref]d[/xref]only God, be [note]2[/note][xref]e[/xref]honor and [xref]f[/xref]glory forever and ever. Amen.</text>
+        <note num="1">Paul's praise to God in this verse is related to the decline of the church. The church may decline, deteriorate, and become degraded, but God is incorruptible. He remains the same. He is the King of eternity. In spite of the church's decline, Paul had a strong faith with an absolute assurance that the very God in whom he believed, the One who had entrusted him with the gospel, is the King of the ages, incorruptible, unchangeable, and worthy of honor and glory.</note>
+        <note num="2">See note [link]9[sup]2[/sup] in Heb. 2[/link].</note>
+        <xref num="a">[link]1 Tim. 6:15[/link]; [link]Rev. 15:3[/link]; [link]Psa. 10:16[/link]</xref>
+        <xref num="b">[link]Rom. 1:23[/link]</xref>
+        <xref num="c">[link]John 1:18[/link]; [link]Col. 1:15[/link]; [link]Heb. 11:27[/link]; [link]1 John 4:12[/link]</xref>
+        <xref num="d">[link]Rom. 16:27[/link]; [link]Jude 25[/link]</xref>
+        <xref num="e">[link]1 Tim. 6:16[/link]; [link]Rev. 4:11[/link]; [link]7:12[/link]</xref>
+        <xref num="f">[link]1 Chron. 29:11[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>This [note]1[/note][xref]a[/xref]charge I commit to you, [i]my[/i] [xref]b[/xref]child Timothy, according to the [note]2[/note][xref]c[/xref]prophecies previously made concerning you, that by them you might [note]3[/note][xref]d[/xref]war the good warfare,</text>
+        <note num="1">To war the good warfare by the prophecies previously given.</note>
+        <note num="2">It might be that some prophetic intimations were made concerning Timothy when he was admitted into the ministry ([link]Acts 16:1-3[/link]).</note>
+        <note num="3">To war the good warfare is to war against the different teachings of the dissenters and to carry out God's economy ([link]v. 4[/link]) according to the apostle's ministry concerning the gospel of grace and eternal life, that the blessed God may be glorified ([link]vv. 11-16[/link]).</note>
+        <xref num="a">[link]1 Tim. 5:21[/link]; [link]6:13[/link]; [link]2 Tim. 4:1[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:2[/link]</xref>
+        <xref num="c">[link]1 Tim. 4:14[/link]</xref>
+        <xref num="d">[link]1 Tim. 6:12[/link]; [link]2 Tim. 4:7[/link]</xref>
+        </verse>
+        <verse num="19">
+        <text>[xref]a[/xref]Holding [note]1[/note][xref]b[/xref]faith and a good [xref]c[/xref]conscience, [i]concerning[/i] which some, thrusting [i]these[/i] away, have become [note]2[/note]shipwrecked regarding the [note]3[/note][xref]d[/xref]faith;</text>
+        <note num="1">Faith and a good conscience (see note [link]5[sup]3[/sup][/link]) go together. Whenever there is an offense in our conscience, there will be a leakage, and our faith will leak away. A good conscience accompanying faith is needed for warring the good warfare ([link]v. 18[/link]) against the different teachings ([link]v. 3[/link]) in a troubled local church.</note>
+        <note num="2">This shows the seriousness of thrusting away faith and a good conscience. To hold faith and a good conscience is a safeguard for our Christian faith and life. The word [i]shipwrecked[/i] implies that the Christian life and the church life are like a ship sailing on a stormy sea, needing to be safeguarded by faith and a good conscience.</note>
+        <note num="3">The faith here is objective, referring to the things in which we believe (see note [link]23[sup]2[/sup] in Gal. 1[/link]), whereas faith at the beginning of this verse is subjective, referring to the act of our believing.</note>
+        <xref num="a">[link]1 Tim. 3:9[/link]; [link]6:12[/link], [link]19[/link]; [link]2 Tim. 1:13[/link]; [link]Titus 1:9[/link]; [link]Eph. 4:15[/link]; [link]Col. 2:19[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:14[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:5[/link]</xref>
+        <xref num="d">[link]1 Tim. 1:4[/link]</xref>
+        </verse>
+        <verse num="20">
+        <text>Of whom are [note]1[/note][xref]a[/xref]Hymenaeus and [note]2[/note][xref]b[/xref]Alexander, whom I have [xref]c[/xref]delivered to Satan that they may be [note]3[/note]disciplined not to [xref]d[/xref]blaspheme.</text>
+        <note num="1">A heretical teacher ([link]2 Tim. 2:17[/link]).</note>
+        <note num="2">An opposer and attacker of the apostle ([link]2 Tim. 4:14-15[/link]).</note>
+        <note num="3">I.e., punished. It may refer to the destruction of their physical body (cf. [link]1 Cor. 5:5[/link]). To deliver persons like Hymenaeus and Alexander to Satan was to exercise the authority that the Lord had given to the apostle and the church ([link]Matt. 16:19[/link]; [link]18:18[/link]) for the administrating of the church to counter Satan's evil plot.</note>
+        <xref num="a">[link]2 Tim. 2:17[/link]</xref>
+        <xref num="b">[link]2 Tim. 4:14[/link]; cf. [link]Acts 19:33[/link]</xref>
+        <xref num="c">[link]1 Cor. 5:5[/link]</xref>
+        <xref num="d">[link]1 Tim. 1:13[/link]; [link]Acts 13:45[/link]; [link]18:6[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="2">
+        <verse num="1">
+        <text>I exhort therefore, first of all, that [note]1[/note][xref]a[/xref]petitions, prayers, [note]2[/note]intercessions, thanksgivings be made on behalf of [xref]b[/xref]all men;</text>
+        <note num="1">A prayer ministry is the prerequisite for the administrating and shepherding of a local church. Concerning the difference between petitions and prayers, see note [link]6[sup]2[/sup] in Phil. 4[/link].</note>
+        <note num="2">The Greek word denotes an approaching of God in a personal and confiding manner, i.e., an intervening, an interfering, before God in others' affairs for their benefit.</note>
+        <xref num="a">[link]Eph. 6:18[/link]; [link]Phil. 4:6[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:4[/link], [link]6[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>On behalf of [xref]a[/xref]kings and all who are in high position, that we may lead a [note]1[/note]quiet and tranquil life in all [note]2[/note][xref]b[/xref]godliness and [note]3[/note][xref]c[/xref]gravity.</text>
+        <note num="1">A quiet and tranquil life is one that is peaceable, still, and without disturbance, not only outwardly in circumstances but also inwardly in our heart and spirit. Such a life enables us to have an enjoyable church life in godliness and gravity.</note>
+        <note num="2">Godlikeness, being like God, expressing God. The Christian life should be a life that expresses God and bears God's likeness in all things.</note>
+        <note num="3">A quality of human character that is worthy of reverence; it implies dignity and inspires and invites honor (see note [link]8[sup]2[/sup] in Phil. 4[/link]). Godliness is the expression of God; gravity is toward man. Our Christian life should express God toward man with an honorable character that invites man's reverence.</note>
+        <xref num="a">[link]Ezra 6:10[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:10[/link]; [link]3:16[/link]; [link]4:7[/link], [link]8[/link]; [link]5:4[/link]; [link]6:3[/link], [link]5[/link], [link]6[/link], [link]11[/link]; [link]2 Tim. 3:5[/link], [link]12[/link]; [link]Titus 1:1[/link]; [link]2:12[/link]; cf. [link]1 Tim. 1:9[/link]; [link]2 Tim. 2:16[/link]; [link]Titus 2:12[/link]</xref>
+        <xref num="c">[link]1 Tim. 3:4[/link]; [link]Titus 2:7[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>This is good and [xref]a[/xref]acceptable in the sight of our [xref]b[/xref]Savior God,</text>
+        <xref num="a">[link]1 Tim. 5:4[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:1[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>Who desires [note]1[/note][xref]a[/xref]all men to be [xref]b[/xref]saved and to come to the [note]2[/note][xref]c[/xref]full knowledge of the [xref]d[/xref]truth.</text>
+        <note num="1">We should pray on behalf of all men ([link]v. 1[/link]) because God our Savior desires all men to be saved and know the truth. Our prayer is required for the carrying out of God's desire.</note>
+        <note num="2">God desires all the saved ones to have the full knowledge of the truth. [i]Truth[/i] means reality, denoting all the real things revealed in God's Word, which are mainly Christ as the embodiment of God and the church as the Body of Christ. Every saved person should have a full knowledge, a complete realization, of these things.[br][br]The object of the two Epistles to Timothy is to deal with the church's decline. In the first Epistle the decline crept in subtly through different teachings ([link]1:3[/link]), and in the second it had developed openly and was worsening through heresies ([link]2 Tim. 2:16-18[/link]). To deal with such a decline, the truth must be maintained. The first Epistle emphasizes that God desires all His saved ones to have the full knowledge of the truth and that the church is the pillar and base of the truth ([link]3:15[/link]). The second Epistle stresses that the word of the truth should be rightly unfolded ([link]2 Tim. 2:15[/link]) and that the ones who have deviated should return to the truth ([link]2 Tim. 2:25[/link]).</note>
+        <xref num="a">[link]1 Tim. 2:1[/link], [link]6[/link]; [link]4:10[/link]</xref>
+        <xref num="b">[link]John 3:17[/link]</xref>
+        <xref num="c">[link]2 Tim. 2:25[/link]; [link]3:7[/link]; [link]Titus 1:1[/link]</xref>
+        <xref num="d">[link]1 Tim. 2:7[/link]; [link]3:15[/link]; [link]4:3[/link]; [link]6:5[/link]; [link]2 Tim. 2:15[/link], [link]18[/link], [link]25[/link]; [link]3:7[/link], [link]8[/link]; [link]4:4[/link]; [link]Titus 1:1[/link], [link]14[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>For there is [note]1[/note][xref]a[/xref]one God and one [note]2[/note][xref]b[/xref]Mediator of God and men, the [note]3[/note][xref]c[/xref]man Christ Jesus,</text>
+        <note num="1">Although God is triune &amp;#8212; the Father, the Son, and the Spirit &amp;#8212; He is still the one God, not three Gods, contrary to what is mistakenly recognized and believed by many Christians.</note>
+        <note num="2">A go-between.</note>
+        <note num="3">The Lord Jesus was God from eternity ([link]John 1:1[/link]). In time He became a man through incarnation ([link]John 1:14[/link]). While He was living on earth as a man, He was also God ([link]3:16[/link]). After His resurrection He is still man, as well as God ([link]Acts 7:56[/link]; [link]John 20:28[/link]). Hence, He is the only One qualified to be the Mediator, the go-between, of God and men.</note>
+        <xref num="a">[link]Rom. 3:30[/link]; [link]1 Cor. 8:4[/link], [link]6[/link]; [link]Isa. 45:5[/link], [link]6[/link], [link]21[/link]</xref>
+        <xref num="b">[link]Heb. 8:6[/link]; [link]9:15[/link]; cf. [link]1 John 2:1[/link]</xref>
+        <xref num="c">[link]Zech. 6:12[/link]; [link]John 19:5[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>Who [note]1[/note]gave Himself as a [note]2[/note][xref]a[/xref]ransom for [xref]b[/xref]all, the [note]3[/note][xref]c[/xref]testimony [i]to be borne[/i] in [xref]d[/xref]its own times.</text>
+        <note num="1">Christ gave Himself for the accomplishing of redemption for all men. This was necessary in order that He might be our Mediator. He is qualified to be the Mediator between God and man, not only in His divine and human person but also in His redemptive work. Both His person and His work are unique.</note>
+        <note num="2">The Greek word means [i]ransom paid in recompense.[/i]</note>
+        <note num="3">The fact that Christ gave Himself a ransom for all men becomes the testimony to be borne in its own times. Whenever this fact is proclaimed, it is borne to men as a testimony in its own times.</note>
+        <xref num="a">[link]Matt. 20:28[/link]; [link]Titus 2:14[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:1[/link], [link]4[/link]</xref>
+        <xref num="c">[link]1 Cor. 1:6[/link]; [link]2 Thes. 1:10[/link]</xref>
+        <xref num="d">[link]1 Tim. 6:15[/link]; [link]Titus 1:3[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>For which I was [xref]a[/xref]appointed a [note]1[/note]herald and an apostle (I speak the truth; I do not [xref]b[/xref]lie), a [note]2[/note]teacher of the [xref]c[/xref]Gentiles in [note]3[/note][xref]d[/xref]faith and [xref]e[/xref]truth.</text>
+        <note num="1">A herald is a proclaimer of the gospel of Christ, an official reporter of God's New Testament economy; an apostle is one sent by God with a divine commission to set up churches for God, an ambassador from God to the world for the carrying out of His purpose; and a teacher is a tutor who teaches, defines, and explains the contents of God's eternal purpose and His New Testament economy. Paul had such a triple status and commission for the Gentiles. See note [link]11[sup]2[/sup] in 2 Tim. 1[/link].</note>
+        <note num="2">I.e., one who teaches the Gentiles how to receive the faith and know the truth.</note>
+        <note num="3">The faith here refers to the faith in Christ ([link]3:13[/link]; [link]Gal. 3:23-25[/link]), and truth refers to the reality of all the things in the economy of God revealed in the New Testament (see note [link]4[sup]2[/sup][/link]). This corresponds with [link]4:3[/link]. It was in the sphere and element of this faith and truth, not in that of the law, types, and prophecies of the Old Testament, that Paul was appointed a herald, an apostle, and a teacher of the New Testament.</note>
+        <xref num="a">[link]1 Tim. 1:12[/link]; [link]2 Tim. 1:11[/link]</xref>
+        <xref num="b">[link]Rom. 9:1[/link]</xref>
+        <xref num="c">[link]Acts 9:15[/link]; [link]Rom. 11:13[/link]; [link]Eph. 3:8[/link]</xref>
+        <xref num="d">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="e">[link]1 Tim. 2:4[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>I desire therefore that men [note]1[/note]pray in every place, [xref]a[/xref]lifting up [note]2[/note]holy [note]3[/note][xref]b[/xref]hands, without [note]4[/note]wrath and [note]5[/note][xref]c[/xref]reasoning;</text>
+        <note num="1">In a local church the leading ones must have a prayer life, as charged in [link]vv. 1-2[/link], to set an example of prayer for all the members to follow by praying always in every place.</note>
+        <note num="2">See note [link]75[sup]1[/sup] in Luke 1[/link].</note>
+        <note num="3">Hands symbolize our doings. Hence, holy hands signify a holy living, a living that is pious and that belongs to God. Such a holy life strengthens our prayer life. If our hands are not holy, our living is not holy and is not for God; we then have no supporting strength to pray, no holy hands to lift up in prayer.</note>
+        <note num="4">Wrath and reasoning kill our prayer. Wrath is of our emotion, and reasoning is of our mind. To have a prayer life and pray unceasingly, our emotion and mind must be regulated to be in a normal condition, under the control of the Spirit in our spirit.</note>
+        <note num="5">Disputatious reasoning.</note>
+        <xref num="a">[link]Psa. 63:4[/link]; [link]Isa. 1:15[/link]</xref>
+        <xref num="b">[link]Job 17:9[/link]; [link]Psa. 24:4[/link]</xref>
+        <xref num="c">[link]Phil. 2:14[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>Similarly, that women [xref]a[/xref]adorn themselves in [note]1[/note]proper clothing with [note]2[/note]modesty and [note]3[/note][xref]b[/xref]sobriety, not with braided hair and gold or pearls or costly clothing,</text>
+        <note num="1">[i]Proper[/i] denotes fitting to the sisters' nature and position as saints of God. In Greek the word for [i]clothing[/i] implies deportment, demeanor. A sister's demeanor, of which clothing is the main sign, must befit her saintly position.</note>
+        <note num="2">Lit., shamefastness; i.e., bound or made fast by an honorable shame (Vincent), implying not forward or overbold but moderate, observing the proprieties of womanhood.</note>
+        <note num="3">Sobermindedness, self-restraint; the restricting of oneself soberly and discreetly. The sisters in a local church should clothe themselves with these two virtues &amp;#8212; shamefastness and self-restraint &amp;#8212; as their demeanor. So also in [link]v. 15[/link].</note>
+        <xref num="a">[link]1 Pet. 3:3[/link]; cf. [link]Isa. 3:18-23[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:15[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>But, what [xref]a[/xref]befits women professing [note]1[/note][xref]b[/xref]godly reverence, by good works.</text>
+        <note num="1">The Greek word has the same base as the word for [i]godliness.[/i] It denotes reverence toward God, a revering and honoring of God, as is fitting for one who worships God.</note>
+        <xref num="a">[link]Titus 2:3[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:2[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>Let a woman learn in [note]1[/note][xref]a[/xref]quietness in all [note]2[/note][xref]b[/xref]subjection;</text>
+        <note num="1">Silence. For sisters to learn in silence and to be in all subjection is for them to realize their position as women. This safeguards the sisters from the presumption of overstepping their position in the local church.</note>
+        <note num="2">The Greek word denotes mainly submission. So also in [link]3:4[/link].</note>
+        <xref num="a">[link]1 Cor. 14:34[/link]</xref>
+        <xref num="b">[link]Eph. 5:24[/link]; [link]Titus 2:5[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>But I do not permit a [xref]a[/xref]woman to [note]1[/note]teach or to assert authority over a man, but to be in [note]2[/note]quietness.</text>
+        <note num="1">To teach here means to teach with authority, to define and decide the meaning of doctrines concerning divine truth. For a woman to teach in this way or to exercise authority over a man is to leave her position. In God's creation man was ordained to be the head, and woman to be in subjection to man ([link]1 Cor. 11:3[/link]). In the church this ordination should be kept.</note>
+        <note num="2">I.e., silence, abstention from speaking.</note>
+        <xref num="a">[link]1 Cor. 14:34[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>For [note]1[/note]Adam was [note]2[/note]formed first, then Eve;</text>
+        <note num="1">This brings us to the beginning. God always wants to bring us back to His beginning ([link]Matt. 19:8[/link]).</note>
+        <note num="2">Lit., molded; the verb means [i]to mold[/i] (the dust) [i]into a shape[/i] ([link]Gen. 2:7[/link]).</note>
+        </verse>
+        <verse num="14">
+        <text>And [note]1[/note]Adam was not deceived; but the [note]2[/note]woman, having been quite [xref]a[/xref]deceived, has fallen into transgression.</text>
+        <note num="1">[link]Verse 13[/link] gives the first reason that woman should subject herself to man. Here the second is presented.</note>
+        <note num="2">Eve was deceived by the serpent ([link]Gen. 3:1-6[/link]) because she did not remain in subjection under the headship of Adam but overstepped her position to contact the evil tempter directly without her head being covered. This is the strong ground for the apostle not to permit the sisters in a local church to teach with authority and to assert authority over men. Rather, the apostle directed them to learn in silence and to remain in all subjection. Man's headship is woman's protection.</note>
+        <xref num="a">[link]Gen. 3:13[/link]; [link]2 Cor. 11:3[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>But she will be saved through her [note]1[/note]childbearing, if they remain in [note]2[/note][xref]a[/xref]faith and love and [xref]b[/xref]holiness with [xref]c[/xref]sobriety.</text>
+        <note num="1">Childbearing is a suffering. Suffering restricts and protects the fallen one from transgression.</note>
+        <note num="2">Faith is for receiving the Lord ([link]John 1:12[/link]), love is for enjoying Him ([link]John 14:21[/link], [link]23[/link]), and holiness is for expressing Him through sanctification. By faith we receive the Lord and thereby please God ([link]Heb. 11:6[/link]); by love we enjoy the Lord and thereby keep His word ([link]John 14:23[/link]); and by holiness we express the Lord and thereby see Him ([link]Heb. 12:14[/link]).[br][br]The first two chapters of this book give the practical instructions for having a proper local church: (1) terminate the distraction of different teachings ([link]1:3-11[/link]); (2) emphasize God's economy, making it the central line and goal of the Christian life ([link]1:4-6[/link]); (3) preach Christ to save sinners ([link]1:12-17[/link]); (4) war a good warfare for God's New Testament economy by holding faith and a good conscience ([link]1:18-19[/link]); (5) deal with the heretical teachers and the opposers of the apostle ([link]1:20[/link]); (6) let the leading ones take the lead to have a prayer life, interceding for all men that Christ's redemption may be testified in due time ([link]vv. 1-7[/link]); (7) let the brothers follow the pattern of prayer, praying at all times ([link]v. 8[/link]); and (8) let the sisters adorn themselves in proper deportment and subject themselves to the brothers, remaining in quietness, faith, love, and holiness with sobriety ([link]vv. 9-15[/link]).</note>
+        <xref num="a">[link]1 Tim. 1:14[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:3-4[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:9[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="3">
+        <verse num="1">
+        <text>[xref]a[/xref]Faithful is the word: If anyone [note]1[/note]aspires to the [note]2[/note]overseership, he desires a good work.</text>
+        <note num="1">Aspiration with a pure motive differs from ambition with an impure motive.</note>
+        <note num="2">A Greek word composed of [i]over[/i] and [i]sight;[/i] hence, overseership, denoting the function of an overseer.</note>
+        <xref num="a">[link]1 Tim. 1:15[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>[xref]a[/xref]The [note]1[/note][xref]b[/xref]overseer then must be [note]2[/note]without reproach, the [note]3[/note]husband of [xref]c[/xref]one wife, [note]4[/note][xref]d[/xref]temperate, [note]5[/note]of a [xref]e[/xref]sober mind, [note]6[/note]orderly, [note]7[/note][xref]f[/xref]hospitable, [note]8[/note]apt to [xref]g[/xref]teach;</text>
+        <note num="1">The Greek word is composed of [i]over[/i] and [i]seer;[/i] hence, overseer. An overseer in a local church is an elder ([link]Acts 20:17[/link], [link]28[/link]). The two titles refer to the same person, [i]elder[/i] denoting a person of maturity, and [i]overseer[/i] denoting the function of an elder. It was Ignatius in the second century who taught that an overseer, a bishop, is higher than an elder. From this erroneous teaching came the hierarchy of bishops, archbishops, cardinals, and the pope. Also, this teaching was the source of the episcopal system of ecclesiastical government. Both the hierarchy and the system are abominable in the eyes of God.</note>
+        <note num="2">This does not denote being perfect in the eyes of God, but being in an irreproachable condition in the eyes of man.</note>
+        <note num="3">This implies the restraining of the flesh, which is highly required of an elder. It keeps an elder in a simple and pure married life, free from the tangle of a complicated and confused marriage.</note>
+        <note num="4">Self-controlled, moderate.</note>
+        <note num="5">Not only keen but also discreet in the understanding of matters.</note>
+        <note num="6">Decorous; meaning fitting the situation.</note>
+        <note num="7">Hospitality requires love, care for people, and endurance. All these virtues are required for an elder to be qualified.</note>
+        <note num="8">Teaching here is similar to parents' teaching of their children. An elder must be apt to render this kind of home teaching to the members of a local church.</note>
+        <xref num="a">[link]vv. 2-7[/link]; [link]Titus 1:5-9[/link]</xref>
+        <xref num="b">[link]Acts 20:28[/link]; [link]Phil. 1:1[/link]</xref>
+        <xref num="c">[link]1 Tim. 3:12[/link]; cf. [link]1 Tim. 5:9[/link]</xref>
+        <xref num="d">[link]1 Tim. 3:11[/link]; [link]Titus 2:2[/link]</xref>
+        <xref num="e">[link]2 Tim. 1:7[/link]; [link]Titus 1:8[/link]; [link]2:2[/link], [link]5-6[/link]; [link]1 Pet. 1:13[/link]; [link]4:7[/link]</xref>
+        <xref num="f">[link]1 Tim. 5:10[/link]</xref>
+        <xref num="g">[link]1 Tim. 5:17[/link]; [link]2 Tim. 2:24[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>[note]1[/note]Not an [xref]a[/xref]excessive drinker; [note]2[/note]not a striker, but [note]3[/note][xref]b[/xref]gentle; [note]4[/note][xref]c[/xref]not contentious; [note]5[/note]not [xref]d[/xref]fond of money;</text>
+        <note num="1">This requires strong self-control.</note>
+        <note num="2">This demands a strong restraining of the temper.</note>
+        <note num="3">Yielding, approachable, mild, reasonable, and considerate in dealing with others, without strictness.</note>
+        <note num="4">Not quarrelsome; peaceable.</note>
+        <note num="5">Money is a test to all men. An elder must be pure in matters related to money, especially since the church fund is under the elders' management ([link]Acts 11:30[/link]).</note>
+        <xref num="a">[link]1 Tim. 3:8[/link]; [link]Titus 2:3[/link]</xref>
+        <xref num="b">[link]Titus 3:2[/link]; [link]Phil. 4:5[/link]</xref>
+        <xref num="c">[link]2 Tim. 2:24[/link]; [link]Titus 3:2[/link]</xref>
+        <xref num="d">[link]1 Tim. 6:10[/link]; [link]1 Pet. 5:2[/link]; [link]Heb. 13:5[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>One who [note]1[/note][xref]a[/xref]manages well his own house, having [i]his[/i] children in subjection with all [note]2[/note][xref]b[/xref]gravity</text>
+        <note num="1">This is proof that one is qualified to take the oversight of a local church.</note>
+        <note num="2">See note [link]2[sup]3[/sup] in ch. 2[/link]. So also for [i]grave[/i] in [link]vv. 8[/link] and [link]11[/link].</note>
+        <xref num="a">[link]1 Tim. 3:12[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:2[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>(But if one does not know how to manage his own house, how will he care for the [xref]a[/xref]church of God?);</text>
+        <xref num="a">[link]Acts 20:28[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>Not a [note]1[/note]new convert, lest being [note]2[/note][xref]a[/xref]blinded with pride he fall into the [note]3[/note]judgment [i]suffered[/i] by the devil.</text>
+        <note num="1">Lit., newly planted one; denoting a person who has recently received the Lord's life but has not yet grown and developed in it.</note>
+        <note num="2">Lit., beclouded with smoke. Pride here is likened to smoke that beclouds the mind, making it blind, besotted with the self-conceit of pride.</note>
+        <note num="3">The judgment suffered by Satan because he was proud of his high position ([link]Ezek. 28:13-17[/link]).</note>
+        <xref num="a">[link]1 Tim. 6:4[/link]; [link]2 Tim. 3:4[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>And he also must have a [note]1[/note][xref]a[/xref]good testimony from [note]2[/note]those outside, that he may not fall into reproach and the [note]3[/note][xref]b[/xref]snare of the [note]4[/note]devil.</text>
+        <note num="1">A walk and living that issue from living out Christ and expressing Christ and are appreciated and praised by others.</note>
+        <note num="2">An elder must be right with himself, with his family, with the church, and with those outside &amp;#8212; the society. And, according to the context, an elder must be right in intention, in motive, in character, in attitude, in word, and in deed.</note>
+        <note num="3">Falling into the judgment suffered by the devil is due to the pride of the elder himself; falling into the snare of the devil is occasioned by the reproach from the outsiders. An elder should be alert not to be proud, on the one hand, and not to be reproachable, on the other, that he may avoid the devil's entanglement.</note>
+        <note num="4">See note [link]10[sup]1[/sup] in Rev. 2[/link].</note>
+        <xref num="a">[link]Acts 6:3[/link]</xref>
+        <xref num="b">[link]2 Tim. 2:26[/link]; [link]1 Tim. 6:9[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>[note]1[/note][xref]a[/xref]Deacons [i]must[/i] similarly [i]be[/i] grave, [note]2[/note]not double-tongued, [note]3[/note]not [xref]b[/xref]addicted to much wine, [note]4[/note]not [xref]c[/xref]greedy for base gain;</text>
+        <note num="1">I.e., the serving ones. The overseers take care of the church; the deacons serve the church under the direction of the elders. These two are the only offices in a local church.</note>
+        <note num="2">A serpent is double-tongued. A deacon in a local church, rendering service to all the saints, may easily be double-tongued in contacting the saints. In being such, he lives out the nature of the devil and brings death into the church life.</note>
+        <note num="3">Being addicted to much wine is a sign of being unable to control oneself. A deacon in the local church service must exercise self-control in a full way.</note>
+        <note num="4">A deacon should not seek gain from his rendering of service to the saints. To seek such gain is to be greedy for base gain (cf. [link]6:5b[/link]).</note>
+        <xref num="a">[link]Phil. 1:1[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:3[/link]; [link]Titus 2:3[/link]; [link]Lev. 10:9[/link]; [link]Ezek. 44:21[/link]</xref>
+        <xref num="c">[link]1 Tim. 3:3[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>[xref]a[/xref]Holding the [note]1[/note][xref]b[/xref]mystery of the [xref]c[/xref]faith in a [note]2[/note][xref]d[/xref]pure conscience.</text>
+        <note num="1">The faith here, as in [link]1:19[/link] and [link]2 Tim. 4:7[/link], is objective, referring to the things we believe in, the things that constitute the gospel. The mystery of the faith is mainly Christ as the mystery of God ([link]Col. 2:2[/link]) and the church as the mystery of Christ ([link]Eph. 3:4[/link]). A deacon in a local church should hold the mystery of the faith with full understanding in a pure conscience for the Lord's testimony.</note>
+        <note num="2">A pure conscience is a conscience purified from any mixture. To hold the mystery of the faith for the Lord's testimony, a deacon needs such a purified conscience.</note>
+        <xref num="a">[link]1 Tim. 1:19[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:16[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="d">[link]2 Tim. 1:3[/link]; cf. [link]1 Tim. 1:5[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>And these also must first [note]1[/note]be [xref]a[/xref]proved; then let them [note]2[/note]minister if they are [note]3[/note][xref]b[/xref]unreprovable.</text>
+        <note num="1">This may imply some apprenticeship.</note>
+        <note num="2">I.e., serve; service is the function of a deacon.</note>
+        <note num="3">Or, blameless.</note>
+        <xref num="a">[link]2 Cor. 8:22[/link]</xref>
+        <xref num="b">[link]Titus 1:6-7[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>[note]1[/note]Women similarly [i]must be[/i] grave, [note]2[/note]not [xref]a[/xref]slanderers, [note]3[/note][xref]b[/xref]temperate, [note]4[/note]faithful in all things.</text>
+        <note num="1">Referring to deaconesses ([link]Rom. 16:1[/link]).</note>
+        <note num="2">Corresponding with [i]not double-tongued[/i] in [link]v. 8[/link]. The devil is a slanderer ([link]Rev. 12:10[/link]). To slander is to live out the nature of the evil slanderer. A sister who is a deaconess, a serving one in a local church among many other sisters, should flee slander, the evil act of the devil.</note>
+        <note num="3">See note [link]2[sup]4[/sup][/link].</note>
+        <note num="4">Corresponding with [i]not greedy[/i] for base gain in [link]v. 8[/link]. A sister who is a deaconess needs to be faithful, trustworthy, in all things, especially in things concerning gain.</note>
+        <xref num="a">[link]2 Tim. 3:3[/link]; [link]Titus 2:3[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:2[/link]; [link]Titus 2:2[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>Deacons must be [note]1[/note]husbands of [xref]a[/xref]one wife, [note]2[/note][xref]b[/xref]managing [i]their[/i] children and their own houses well.</text>
+        <note num="1">See note [link]2[sup]3[/sup][/link].</note>
+        <note num="2">For a brother to manage his children and his own house well proves that he is capable of serving the church.</note>
+        <xref num="a">[link]1 Tim. 3:2[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:4[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>For those who have [note]1[/note]ministered well obtain for themselves a [note]2[/note]good standing and [note]3[/note]much boldness in [xref]a[/xref]faith, which is in Christ Jesus.</text>
+        <note num="1">I.e., served.</note>
+        <note num="2">Referring to a firm and steadfast standing as a believer and a saint before God and man. To serve the church well as a deacon strengthens one's Christian standing.</note>
+        <note num="3">Or, much confidence. To serve the church well also strengthens the boldness, the confidence, of one's Christian faith.</note>
+        <xref num="a">[link]1 Tim. 1:4[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>These things I write to you, hoping to come to you shortly.</text>
+        </verse>
+        <verse num="15">
+        <text>But if I delay, I write that you may know [note]1[/note]how one ought to conduct himself in the [note]2[/note][xref]a[/xref]house of God, which is the [xref]b[/xref]church of the [note]3[/note][xref]c[/xref]living God, the [note]4[/note][xref]d[/xref]pillar and base of the [note]5[/note][xref]e[/xref]truth.</text>
+        <note num="1">This indicates that this book gives instructions concerning the way to take care of a local church.</note>
+        <note num="2">Or, household; the same word as in [link]vv. 4[/link], [link]5[/link], and 12 ([i]houses[/i]). The household, the family, of God is the house of God. The house and the household are one thing &amp;#8212; the assembly that is composed of the believers ([link]Eph. 2:19[/link]; [link]Heb. 3:6[/link]). The reality of this house as the dwelling place of the living God is in our spirit ([link]Eph. 2:22[/link]). We must live and act in our spirit so that in this house God can be manifested as the living God.</note>
+        <note num="3">The living God, who lives in the church, must be subjective to the church rather than objective. The idol in the heathen temple is lifeless. The God who not only lives but also acts, moves, and works in His living temple, the church, is living. Because He is living, the church too is living in Him, by Him, and with Him. A living God and a living church live, move, and work together. The living church is the house and the household of the living God. Hence, it becomes the manifestation of God in the flesh.</note>
+        <note num="4">This is metaphoric speaking. The pillar supports the building, and the base holds the pillar. The church is such a supporting pillar and holding base of the truth.</note>
+        <note num="5">The truth here refers to the real things revealed in the New Testament concerning Christ and the church according to God's New Testament economy. The church is the supporting pillar and holding base of all these realities. A local church should be such a building that holds, bears, and testifies the truth, the reality, of Christ and the church.</note>
+        <xref num="a">[link]Eph. 2:19[/link]; [link]Heb. 3:6[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:5[/link]; [link]1 Cor. 10:32[/link]</xref>
+        <xref num="c">[link]Matt. 16:16[/link]; [link]1 Tim. 4:10[/link]</xref>
+        <xref num="d">[link]1 Kings 7:21[/link]; [link]Gal. 2:9[/link]; [link]Rev. 3:12[/link]</xref>
+        <xref num="e">[link]1 Tim. 2:4[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>And [note]1[/note]confessedly, great is the [note]2[/note][xref]a[/xref]mystery of [xref]b[/xref]godliness:[br/][note]3[/note]He who was [note]4[/note][xref]c[/xref]manifested in the [xref]d[/xref]flesh, / [note]5[/note]Justified in the Spirit, / [note]6[/note]Seen by angels, / [note]7[/note]Preached among the nations, / [note]8[/note]Believed on in the world, / [note]9[/note]Taken up in glory.</text>
+        <note num="1">Or, by common acknowledgment, beyond reasoning, without controversy.</note>
+        <note num="2">According to the context, godliness here refers not only to piety but also to the living of God in the church, i.e., to God as life lived out in the church. This is the great mystery confessed universally by believers in Christ.</note>
+        <note num="3">According to unconfirmed historical accounts, these six lines of poetry made up a song that the saints in the early church loved to sing. [i]He[/i] refers to Christ, who was God manifested in the flesh as the mystery of godliness. The transition from [i]the mystery of godliness[/i] to [i]He[/i] implies that Christ as the manifestation of God in the flesh is the mystery of godliness ([link]Col. 1:27[/link]; [link]Gal. 2:20[/link]). This mystery of godliness is the living of a proper church, and such a living also is the manifestation of God in the flesh.</note>
+        <note num="4">Through incarnation and human living ([link]John 1:1[/link], [link]14[/link]). [i]In the flesh[/i] means in the likeness, in the fashion, of man ([link]Rom. 8:3[/link]; [link]Phil. 2:7-8[/link]). Christ appeared to people in the form of man ([link]2 Cor. 5:16[/link]), yet He was God manifested in man.</note>
+        <note num="5">Or, vindicated. The incarnated Christ in His human living was not only vindicated as the Son of God by the Spirit ([link]Matt. 3:16-17[/link]; [link]Rom. 1:3-4[/link]) but also justified, proved, and approved as right and righteous by the Spirit ([link]Matt. 3:15-16[/link]; [link]4:1[/link]). He was manifested in the flesh but was vindicated and justified in the Spirit. He appeared in the flesh, but He lived in the Spirit ([link]Luke 4:1[/link], [link]14[/link]; [link]Matt. 12:28[/link]) and offered Himself to God through the Spirit ([link]Heb. 9:14[/link]). His transfiguration ([link]Matt. 17:2[/link]) and His resurrection are both justifications in the Spirit. Furthermore, in resurrection He even became the life-giving Spirit ([link]1 Cor. 15:45[/link]; [link]2 Cor. 3:17[/link]) to dwell and live in us ([link]Rom. 8:9-10[/link]) for the manifestation of God in the flesh as the mystery of godliness. Hence, now we know Him and His members no longer according to the flesh but according to the Spirit ([link]2 Cor. 5:16[/link]). Since the manifestation of God in the flesh is justified in the Spirit, and the Spirit is one with our spirit ([link]Rom. 8:16[/link]), we must live and behave in our spirit that this justification may be accomplished.</note>
+        <note num="6">Angels saw the incarnation, human living, and ascension of Christ ([link]Luke 2:9-14[/link]; [link]Matt. 4:11[/link]; [link]Acts 1:10-11[/link]; [link]Rev. 5:6[/link], [link]11-12[/link]).</note>
+        <note num="7">Christ as God's manifestation in the flesh has been preached as the gospel among the nations, including the nation of Israel, from the day of Pentecost ([link]Rom. 16:26[/link]; [link]Eph. 3:8[/link]).</note>
+        <note num="8">Christ as the embodiment of God in the flesh has been believed on, received as Savior and life, by people in the world ([link]Acts 13:48[/link]).</note>
+        <note num="9">This refers to Christ's ascension into glory ([link]Mark 16:19[/link]; [link]Acts 1:9-11[/link]; [link]2:33[/link]; [link]Phil. 2:9[/link]). According to the sequence of historical events, Christ's ascension preceded His being preached among the nations. However, it is listed here as the last step in Christ's being the manifestation of God in the flesh. This must indicate that the church too is taken up in glory. Hence, it implies that not only Christ Himself as the Head but also the church as the Body are the manifestation of God in the flesh. When a church is well taken care of according to the instructions given in the first two chapters, with the oversight of the episcopate and the service of the deacons fully established, as revealed in [link]ch. 3[/link], the church will function as the house and household of the living God for His move on the earth, and as the supporting pillar and holding base of the truth, bearing the divine reality of Christ and His Body as a testimony to the world. Then the church becomes the continuation of Christ as the manifestation of God in the flesh. This is the great mystery of godliness &amp;#8212; Christ lived out of the church as the manifestation of God in the flesh!</note>
+        <xref num="a">[link]1 Tim. 3:9[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:2[/link]</xref>
+        <xref num="c">[link]1 John 1:2[/link]; [link]3:5[/link], [link]8[/link]</xref>
+        <xref num="d">[link]John 1:14[/link]; [link]Rom. 8:3[/link]; [link]Heb. 2:14[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="4">
+        <verse num="1">
+        <text>[note]1[/note]But the [note]2[/note][xref]a[/xref]Spirit says expressly that in [note]3[/note]later times some will [xref]b[/xref]depart from the [note]4[/note][xref]c[/xref]faith, giving heed to [note]5[/note]deceiving [xref]d[/xref]spirits and teachings of [note]6[/note][xref]e[/xref]demons</text>
+        <note num="1">What follows is in contrast to what is mentioned in [link]3:16[/link].</note>
+        <note num="2">This is the Spirit who dwells in our spirit and speaks to us there ([link]Rom. 8:9-11[/link], [link]16[/link]). In order to listen to the Spirit's speaking and be kept from the deceiving spirits and teachings of demons, we need to exercise our spirit that it may become keen and clear.</note>
+        <note num="3">Referring to times after the writing of this book, differing from [i]the last days[/i] in [link]2 Tim. 3:1[/link], which denotes the closing period of this age.</note>
+        <note num="4">Objective faith, the contents of our belief. See notes [link]19[sup]3[/sup] in ch. 1[/link] and [link]9[sup]1[/sup] in ch. 3[/link].</note>
+        <note num="5">The deceiving spirits are in contrast to the Spirit, as mentioned in [link]1 John 4:2[/link], [link]6[/link]. These are the fallen angels, who followed Satan in his rebellion and became his subordinates who work for his kingdom of darkness ([link]Matt. 25:41[/link]; [link]Eph. 6:12[/link] and note 2).</note>
+        <note num="6">These are the unclean and evil spirits ([link]Matt. 12:22[/link], [link]43[/link]; [link]Luke 8:2[/link]) of the races that lived on earth in the preadamic age and that joined Satan's rebellion and were judged by God (see [i]Life-study of Genesis,[/i] Message Two). After being judged, they became demons, who work on earth for Satan's kingdom. They are different from the deceiving spirits.</note>
+        <xref num="a">[link]Rev. 2:7[/link]</xref>
+        <xref num="b">[link]1 Tim. 6:10[/link]; [link]2 Thes. 2:3[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="d">[link]1 John 4:6[/link]; [link]Rev. 16:14[/link]</xref>
+        <xref num="e">[link]James 3:15[/link]; [link]Rev. 9:20[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>[note]1[/note]By means of the [xref]a[/xref]hypocrisy of men who speak [xref]b[/xref]lies, of men who are [note]2[/note][xref]c[/xref]branded in their own conscience as with a [note]3[/note]hot iron,</text>
+        <note num="1">This phrase modifies [i]teachings of demons[/i] in [link]v. 1[/link]. The teachings of demons are carried out by means of the hypocrisy of men who speak lies. This indicates that demons and those who speak lies collaborate to deceive people.</note>
+        <note num="2">The conscience of hypocritical liars has lost its sense, as if branded with a hot iron. This book strongly stresses the conscience. In the church life the love that is contrary to envy and discord is out of a good conscience ([link]1:5[/link]). Those who thrust away a good conscience become shipwrecked regarding the faith ([link]1:19[/link]). The serving ones in the church must hold the mystery of the faith in a pure conscience ([link]3:9[/link]). To keep a good and pure conscience is to keep the conscience sensitive in its function. This will safeguard us from the demonic and hypocritical teachings of deceiving liars.</note>
+        <note num="3">A hot iron that brands the slaves and cattle of a certain owner.</note>
+        <xref num="a">[link]Matt. 23:13[/link], [link]15[/link]</xref>
+        <xref num="b">[link]2 Thes. 2:11[/link]</xref>
+        <xref num="c">[link]Eph. 4:19[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>Who forbid [note]1[/note][xref]a[/xref]marriage [i]and command[/i] [xref]b[/xref]abstaining from [note]1[/note][xref]c[/xref]foods, which [note]2[/note]God has created to be partaken of with [xref]d[/xref]thanksgiving by those who [note]3[/note][xref]e[/xref]believe and have [note]4[/note][xref]f[/xref]full knowledge of the truth.</text>
+        <note num="1">Marriage and eating were ordained by God. Eating is for the existence of mankind, and marriage is for the continuation and multiplication of mankind. On the one hand, Satan causes men to abuse these two things in the indulgence of their lustful flesh; on the other hand, he overstresses asceticism in forbidding men to marry and in commanding men to abstain from certain foods. This is a demonic teaching!</note>
+        <note num="2">All edible things were created by God for men to live on. We should partake of them with thanksgiving to God out of a grateful heart.</note>
+        <note num="3">To believe is to be saved and thus begin the spiritual life; to have full knowledge of the truth is to realize God's purpose in His economy and to grow unto maturity in the spiritual life.</note>
+        <note num="4">See note [link]4[sup]2[/sup] in ch. 2[/link].</note>
+        <xref num="a">cf. [link]Heb. 13:4[/link]</xref>
+        <xref num="b">[link]Col. 2:20-23[/link]</xref>
+        <xref num="c">[link]Gen. 1:29[/link]; [link]9:3[/link]; [link]1 Cor. 8:8[/link]; [link]Col. 2:16[/link][br/]See note 3[sup]1[/sup].</xref>
+        <xref num="d">[link]Rom. 14:6[/link]; [link]1 Cor. 10:30[/link]</xref>
+        <xref num="e">[link]John 20:31[/link]</xref>
+        <xref num="f">[link]1 Tim. 2:4[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>For [note]1[/note]every creature of God is [xref]a[/xref]good, and nothing is to be rejected if received with thanksgiving;</text>
+        <note num="1">This is contrary to Gnosticism, which teaches that some created things are evil, and to certain ascetic teachings that command men to abstain from certain foods.</note>
+        <xref num="a">[link]Gen. 1:25[/link], [link]31[/link]; [link]Rom. 14:2[/link], [link]14[/link], [link]20[/link]; [link]Titus 1:15[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>For it is [note]1[/note][xref]a[/xref]sanctified through the [note]2[/note]word of God and [note]3[/note][xref]b[/xref]intercession.</text>
+        <note num="1">Separated unto God for His purpose.</note>
+        <note num="2">The word of our prayer addressed to God, of which part could be quotations from the Scriptures, and part could be messages we hear and read.</note>
+        <note num="3">See note [link]1[sup]2[/sup] in ch. 2[/link]. Here intercession refers to our prayer to God for the food we eat, which separates our food from being common and sanctifies it unto God for His purpose, i.e., to nourish us so that we may live for Him.</note>
+        <xref num="a">cf. [link]Acts 10:15[/link]</xref>
+        <xref num="b">[link]1 Sam. 9:13[/link]; [link]Matt. 14:19[/link]; [link]15:36[/link]; [link]Acts 27:35[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>If you lay these things before the brothers, you will be a good [note]1[/note][xref]a[/xref]minister of Christ Jesus, [note]2[/note]being nourished with the words of the [note]3[/note][xref]b[/xref]faith and of the [note]4[/note]good teaching which you [note]5[/note]have [xref]c[/xref]closely followed.</text>
+        <note num="1">A minister of Christ is one who serves people with Christ, ministering Christ as Savior, life, life supply, and every positive thing to people. He differs from the teacher of the law and of other things ([link]1:7[/link], [link]3[/link]).</note>
+        <note num="2">Or, nourishing yourself. Being nourished is for growth in life, which is a matter of life; it differs from being merely taught, which is a matter of knowledge. To minister Christ to others requires that first we ourselves be nourished with the words of life concerning Christ.</note>
+        <note num="3">See note [link]1[sup]4[/sup][/link]. The words of the faith are the words of the full gospel concerning God's New Testament economy.</note>
+        <note num="4">The words of the good teaching are the sweet words that contain and convey the riches of Christ to nourish, edify, and strengthen His believers.</note>
+        <note num="5">We must first closely follow the words which we would teach others.</note>
+        <xref num="a">[link]2 Cor. 11:23[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="c">[link]2 Tim. 3:10[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>But the [note]1[/note][xref]a[/xref]profane and old-womanish [note]2[/note][xref]b[/xref]myths [note]3[/note]refuse, and [note]4[/note]exercise yourself unto [xref]c[/xref]godliness.</text>
+        <note num="1">Touching and being touched by worldliness; contrary to being holy.</note>
+        <note num="2">See note [link]4[sup]1[/sup] in ch. 1[/link].</note>
+        <note num="3">Or, reject, avoid.</note>
+        <note num="4">As in gymnastics. [i]Unto godliness[/i] means with a view to godliness. Godliness is Christ lived out of us to be the manifestation of God (see notes [link chapter="3"]16[sup]2[/sup][/link] and [link]16[sup]3[/sup] in ch. 3[/link]). Today this very Christ is the Spirit dwelling in our spirit ([link]2 Cor. 3:17[/link]; [link]Rom. 8:9-10[/link]; [link]2 Tim. 4:22[/link]). Hence, to exercise ourselves unto godliness is to exercise our spirit to live Christ in our daily life.</note>
+        <xref num="a">[link]1 Tim. 1:9[/link]; [link]6:20[/link]; [link]2 Tim. 2:16[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:4[/link]; [link]2 Tim. 4:4[/link]; [link]Titus 1:14[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:2[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>For bodily exercise is profitable for [note]1[/note]a little, but [xref]a[/xref]godliness is profitable for [note]2[/note][xref]b[/xref]all things, having [note]3[/note]promise of the present life and of that which is to come.</text>
+        <note num="1">In contrast to [i]all things.[/i] Denoting a few things, to a small part of our being.</note>
+        <note num="2">Things that are not only of one part of our being but of all parts &amp;#8212; physical, psychological, and spiritual, temporal and eternal.</note>
+        <note num="3">The promise of the present life, a life that is in this age, is like the promises in [link]Matt. 6:33[/link]; [link]John 16:33[/link]; [link]Phil. 4:6-7[/link]; [link]1 Pet. 5:8-10[/link]; etc. The promise of the coming life, a life that is in the next age and in eternity, is like those in [link]2 Pet. 1:10-11[/link]; [link]2 Tim. 2:12[/link]; [link]Rev. 2:7[/link], [link]17[/link]; [link]21:6-7[/link]; etc. A promise like that in [link]Mark 10:29-30[/link] is of both the present life and the coming life.</note>
+        <xref num="a">[link]1 Tim. 2:2[/link]; [link]6:6[/link]</xref>
+        <xref num="b">[link]Rom. 8:28[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>[xref]a[/xref]Faithful is the word and worthy of all acceptance.</text>
+        <xref num="a">[link]1 Tim. 1:15[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>For to this end we [xref]a[/xref]labor and strive, because we have set our [xref]b[/xref]hope on the [note]1[/note][xref]c[/xref]living God, who is the [xref]d[/xref]Savior of [xref]e[/xref]all men, [xref]f[/xref]especially of those who believe.</text>
+        <note num="1">Because our God is living, we can set our hope on Him.</note>
+        <xref num="a">[link]Col. 1:29[/link]</xref>
+        <xref num="b">[link]1 Tim. 5:5[/link]; [link]6:17[/link]</xref>
+        <xref num="c">[link]Dan. 6:20[/link], [link]26[/link]; [link]Matt. 16:16[/link]; [link]1 Tim. 3:15[/link]</xref>
+        <xref num="d">[link]1 Tim. 1:1[/link]; [link]John 4:42[/link]</xref>
+        <xref num="e">[link]1 Tim. 2:4[/link]</xref>
+        <xref num="f">cf. [link]Gal. 6:10[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>[xref]a[/xref]Charge and [xref]b[/xref]teach these things.</text>
+        <xref num="a">[link]1 Tim. 5:7[/link]; [link]6:17[/link]; [link]2 Tim. 2:14[/link]</xref>
+        <xref num="b">[link]1 Tim. 4:13[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>Let no one [xref]a[/xref]despise your [note]1[/note][xref]b[/xref]youth, but be a [xref]c[/xref]pattern to the believers in [note]2[/note]word, in conduct, in love, in faith, in [note]3[/note][xref]d[/xref]purity.</text>
+        <note num="1">Although Timothy was young, he was charged by the apostle to bear the responsibility of caring for the building up of a local church and appointing elders and deacons. For the carrying out of such a responsibility, he was charged not to be childish but to be a pattern to the believers.</note>
+        <note num="2">Or, utterance.</note>
+        <note num="3">Pure in motive and action, without mixture.</note>
+        <xref num="a">[link]Titus 2:15[/link]; [link]1 Cor. 16:11[/link]</xref>
+        <xref num="b">[link]2 Tim. 2:22[/link]</xref>
+        <xref num="c">[link]Titus 2:7[/link]; [link]1 Pet. 5:3[/link]</xref>
+        <xref num="d">[link]Phil. 4:8[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>Until I come, attend to the public [note]1[/note][xref]a[/xref]reading, to the [xref]b[/xref]exhortation, to the [xref]c[/xref]teaching.</text>
+        <note num="1">Reading not in the sense of study but aloud in public. According to the context, this kind of public reading may be for exhortation and teaching.</note>
+        <xref num="a">[link]Acts 13:15[/link]; [link]2 Cor. 3:14[/link]</xref>
+        <xref num="b">[link]1 Tim. 6:2[/link]; [link]2 Tim. 4:2[/link]</xref>
+        <xref num="c">[link]1 Tim. 4:11[/link]; [link]6:2[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>Do not neglect the [note]1[/note][xref]a[/xref]gift which is [note]2[/note]in you, which was given to you by means of [note]3[/note][xref]b[/xref]prophecy with the [note]4[/note][xref]c[/xref]laying on of the hands of the [note]5[/note][xref]d[/xref]presbytery.</text>
+        <note num="1">Probably a teaching gift, according to the context of [link]vv. 11[/link], [link]13[/link], and 16. The following verses also may confirm this: [link]1 Tim. 1:3[/link]; [link]4:6[/link]; [link]5:7[/link]; [link]6:2[/link], [link]12[/link], [link]20[/link]; [link]2 Tim. 1:13-14[/link]; [link]2:2[/link], [link]14-15[/link], [link]24-25[/link]; [link]4:2[/link], [link]5[/link].</note>
+        <note num="2">This indicates that the gift mentioned here is not an outward endowment but the inward ability of life that enables one to minister to others. It is not a miraculous gift, such as speaking in tongues and healing ([link]1 Cor. 12:28[/link]), but a gift of grace, such as teaching and exhorting ([link]Rom. 12:7-8[/link]).</note>
+        <note num="3">See note [link]18[sup]2[/sup] in ch. 1[/link].</note>
+        <note num="4">The laying on of hands has two functions: one for identification, as in [link]Lev. 1:4[/link], and the other for impartation, as here. Impartation is based on identification; without identification, there is no basis for imparting something. Through identification, signified by the laying on of the hands of the elders and the apostle Paul ([link]2 Tim. 1:6[/link]), the gift of grace was imparted to Timothy.</note>
+        <note num="5">Meaning not merely the elders but the body of elders, the elderhood, implying that they were in one accord, all acting as one. The elders, who are the overseers ([link]3:2[/link]), represent a local church, which is the expression of the Body of Christ. The laying on of the hands of the presbytery signifies that the Body of Christ participated with God in imparting the gift of grace to Timothy. This was not a personal matter but a Body matter.</note>
+        <xref num="a">[link]2 Tim. 1:6[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:18[/link]</xref>
+        <xref num="c">[link]2 Tim. 1:6[/link]; [link]1 Tim. 5:22[/link]; [link]Acts 6:6[/link]; [link]8:17[/link]; [link]19:6[/link]</xref>
+        <xref num="d">[link]Acts 20:28[/link]; [link]1 Pet. 5:1[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>Practice these things; [note]1[/note]be in them, that your [note]2[/note]progress may be manifest to all.</text>
+        <note num="1">I.e., be immersed in.</note>
+        <note num="2">Or, advancement.</note>
+        </verse>
+        <verse num="16">
+        <text>[note]1[/note][xref]a[/xref]Take heed to yourself and to your teaching; continue in these things; for in doing this you will save both [xref]b[/xref]yourself and [xref]c[/xref]those who hear you.</text>
+        <note num="1">Or, pay close attention to.</note>
+        <xref num="a">[link]Acts 20:28[/link]</xref>
+        <xref num="b">[link]Ezek. 33:9[/link]</xref>
+        <xref num="c">[link]Rom. 11:14[/link]; [link]1 Cor. 9:22[/link]; [link]James 5:20[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="5">
+        <verse num="1">
+        <text>Do not [note]1[/note]upbraid an [xref]a[/xref]elderly man, but exhort [i]him[/i] as a father, [xref]b[/xref]younger men as brothers,</text>
+        <note num="1">Rebuke sharply.</note>
+        <xref num="a">[link]Titus 2:2[/link]; [link]Lev. 19:32[/link]</xref>
+        <xref num="b">[link]Titus 2:6[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>[xref]a[/xref]Elderly women as mothers, younger women as sisters, in all purity.</text>
+        <xref num="a">[link]Titus 2:3[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>[note]1[/note]Honor widows who are really [xref]a[/xref]widows.</text>
+        <note num="1">The stress is on the supplying of material things.</note>
+        <xref num="a">[link]1 Tim. 5:5[/link], [link]9[/link], [link]16[/link]; [link]Acts 6:1[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>But if any widow has children or grandchildren, let them first learn to [note]1[/note]show [xref]a[/xref]respect toward their own household and to render a [note]2[/note]return to their [xref]b[/xref]parents; for this is [xref]c[/xref]acceptable in the sight of God.</text>
+        <note num="1">The verb form of the Greek word for [i]godliness.[/i] See note [link]16[sup]2[/sup] in ch. 3[/link].</note>
+        <note num="2">Requital, recompense, offered to show gratitude to one's parents.</note>
+        <xref num="a">[link]1 Tim. 2:2[/link]</xref>
+        <xref num="b">[link]Eph. 6:1-3[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:3[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>Now she who is really a widow and is left alone has set her [xref]a[/xref]hope on God and continues in petitions and [xref]b[/xref]prayers night and day.</text>
+        <xref num="a">[link]1 Tim. 4:10[/link]</xref>
+        <xref num="b">[link]Luke 2:37[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>But she who gives herself to [xref]a[/xref]pleasure is [xref]b[/xref]dead while living.</text>
+        <xref num="a">[link]James 5:5[/link]</xref>
+        <xref num="b">[link]Rev. 3:1[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>These things also [xref]a[/xref]charge, that they may be without reproach.</text>
+        <xref num="a">[link]1 Tim. 4:11[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>But if anyone does not provide for [note]1[/note]his own, and especially for those of [i]his[/i] household, he has [xref]a[/xref]denied the [note]2[/note]faith and is worse than an unbeliever.</text>
+        <note num="1">I.e., his relatives. All the instructions in this chapter are very human, normal, and ordinary; nothing is special, miraculous, or supernatural, including even the matter of healing. The whole book is written in the same principle. This is necessary for the church life.</note>
+        <note num="2">See notes [link]19[sup]3[/sup] in ch. 1[/link] and [link]9[sup]1[/sup] in ch. 3[/link].</note>
+        <xref num="a">[link]Titus 1:16[/link]; [link]2 Pet. 2:1[/link]; [link]Jude 4[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>Let a widow be enrolled, not under sixty years old, [i]having been[/i] the [xref]a[/xref]wife of one man,</text>
+        <xref num="a">[link]1 Tim. 3:2[/link], [link]12[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>[note]1[/note]Well attested for good works, if she has brought up children, if she has shown [xref]a[/xref]hospitality to strangers, if she has [xref]b[/xref]washed the saints' feet, if she has [xref]c[/xref]assisted the afflicted, if she has diligently followed every [xref]d[/xref]good work.</text>
+        <note num="1">See note [link]7[sup]1[/sup] in ch. 3[/link].</note>
+        <xref num="a">[link]1 Tim. 3:2[/link]; [link]Titus 1:8[/link]</xref>
+        <xref num="b">[link]Gen. 18:4[/link]; [link]19:2[/link]; [link]Luke 7:44[/link]; [link]John 13:14[/link]</xref>
+        <xref num="c">[link]1 Tim. 5:16[/link]</xref>
+        <xref num="d">[link]1 Tim. 6:18[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>But younger widows refuse; for when they follow their passions in disregard of Christ, they desire to marry,</text>
+        </verse>
+        <verse num="12">
+        <text>[i]And thus[/i] have condemnation because they have set aside their first [note]1[/note]pledge.</text>
+        <note num="1">Lit., faith; denoting a pledge, a promise. This indicates that some promised, pledged, to devote themselves in their widowhood to some service of the church.</note>
+        </verse>
+        <verse num="13">
+        <text>And at the same time they also learn to be idle, going around from house to house; and [i]they are[/i] not only idle but also gossips and [xref]a[/xref]busybodies, speaking [xref]b[/xref]things which they ought not.</text>
+        <xref num="a">[link]2 Thes. 3:11[/link]; [link]1 Pet. 4:15[/link]</xref>
+        <xref num="b">[link]Titus 1:11[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>I will therefore that [note]1[/note]younger [i]widows[/i] [xref]a[/xref]marry, [note]2[/note]bear children, [xref]b[/xref]keep house, give no opportunity to the opposer for reproach;</text>
+        <note num="1">The word in [link]1 Cor. 7:8[/link] was the apostle's wish in his earlier ministry. In this verse is the apostle's advice in his later ministry, given according to his experiences concerning young widows.</note>
+        <note num="2">Childbearing and housekeeping are a rescue and safeguard to the idle busybodies ([link]v. 13[/link]). This is God's ordination in order to restrict and protect fallen women ([link]Gen. 3:16[/link]).</note>
+        <xref num="a">[link]1 Cor. 7:9[/link]</xref>
+        <xref num="b">Titus; [link]2:5[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>For already some have turned aside after [xref]a[/xref]Satan.</text>
+        <xref num="a">[link]1 Tim. 1:20[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>If any believing woman has widows [i]in her family,[/i] let her assist them, and let not the church be burdened, that it may assist those who are really [xref]a[/xref]widows.</text>
+        <xref num="a">[link]1 Tim. 5:3[/link], [link]5[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>Let the [xref]a[/xref]elders who [xref]b[/xref]take the lead well be counted worthy of double [note]1[/note]honor, [note]2[/note]especially those who labor in [note]3[/note]word and teaching.</text>
+        <note num="1">The noun form of [i]honor[/i] in [link]v. 3[/link]. According to [link]v. 18[/link], the emphasis here is on material supply.</note>
+        <note num="2">All elders should be able to take the lead in a local church, but some, not all, have a special capacity for teaching.</note>
+        <note num="3">[i]Word[/i] here denotes the general speaking of doctrines; [i]teaching[/i] denotes special instruction concerning particular things.</note>
+        <xref num="a">[link]Acts 11:30[/link]</xref>
+        <xref num="b">[link]Rom. 12:8[/link]; [link]1 Thes. 5:12[/link]; [link]Heb. 13:7[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>For the Scripture says, [xref]a[/xref]"You shall not muzzle an ox that is treading out [i]the grain,"[/i] and, [xref]b[/xref]"The workman is worthy of his pay."</text>
+        <xref num="a">[link]Deut. 25:4[/link]; [link]1 Cor. 9:9[/link]</xref>
+        <xref num="b">[link]Lev. 19:13[/link]; [link]Matt. 10:10[/link]; [link]Luke 10:7[/link]</xref>
+        </verse>
+        <verse num="19">
+        <text>Against an elder do not [note]1[/note]receive an accusation, except based upon two or three [xref]a[/xref]witnesses.</text>
+        <note num="1">Timothy was charged by the apostle Paul to receive an accusation against an elder. This indicates that after they have appointed men as elders, the apostles still have the authority to deal with the elders.</note>
+        <xref num="a">[link]Deut. 19:15[/link]; [link]Matt. 18:16[/link]</xref>
+        </verse>
+        <verse num="20">
+        <text>The ones who sin [note]1[/note][xref]a[/xref]reprove [xref]b[/xref]before [note]2[/note]all that the rest also may have fear.</text>
+        <note num="1">This too indicates the apostles' authority over the elders.</note>
+        <note num="2">Referring to the whole church. A sinning elder should receive public reproof because of his public position.</note>
+        <xref num="a">[link]Titus 2:15[/link]</xref>
+        <xref num="b">[link]Gal. 2:14[/link]</xref>
+        </verse>
+        <verse num="21">
+        <text>I solemnly [xref]a[/xref]charge [i]you[/i] before God and Christ Jesus and the chosen [note]1[/note]angels that you keep these things without [note]2[/note]prejudice, doing nothing by way of [note]3[/note]partiality.</text>
+        <note num="1">The elders in a local church are God's deputy authority. Dealing with the elders is a solemn thing before God. Hence, the apostle solemnly charged Timothy before God, Christ, and the angels to carry out such a dealing, that the chosen angels, the good angels with God's authority, might see that His authority was established and was being maintained among His redeemed people on earth.</note>
+        <note num="2">Prejudgment, condemnation, formed or applied before hearing the case.</note>
+        <note num="3">Inclination, favor, bias. [i]Without prejudice[/i] implies that no prejudgment should be made to the credit of the accuser; [i]nothing by way of partiality[/i] implies that no perverted favor should be shown to the accused (elder).</note>
+        <xref num="a">[link]1 Tim. 1:18[/link]</xref>
+        </verse>
+        <verse num="22">
+        <text>[note]1[/note][xref]a[/xref]Lay hands [note]2[/note]quickly on no man, nor [xref]b[/xref]participate in others' sins; [xref]c[/xref]keep yourself pure.</text>
+        <note num="1">See note [link]14[sup]4[/sup] in ch. 4[/link]. According to the context of the previous verses, the laying on of hands here refers primarily to the laying of hands on the elders.</note>
+        <note num="2">Or, hastily.</note>
+        <xref num="a">[link]1 Tim. 4:14[/link]</xref>
+        <xref num="b">[link]2 John 11[/link]</xref>
+        <xref num="c">[link]James 1:27[/link]; [link]1 John 5:18[/link]</xref>
+        </verse>
+        <verse num="23">
+        <text>[note]1[/note]No longer drink water [i]only,[/i] but use a little wine for the sake of your stomach and your frequent [note]2[/note]illnesses.</text>
+        <note num="1">According to the context, this verse implies that the state of one's physical health may affect his dealing with others spiritually.</note>
+        <note num="2">Or, weaknesses.</note>
+        </verse>
+        <verse num="24">
+        <text>The [note]1[/note]sins of some men are openly [note]2[/note]manifest, going before to judgment; and for others, [note]3[/note]they [note]4[/note]also follow after.</text>
+        <note num="1">This word indicates that [link]v. 24[/link] is a continuation of [link]v. 22[/link]. It explains that the sins of some people are openly manifest earlier, and the sins of others, later. Hence, one should not lay hands on people in haste.</note>
+        <note num="2">What is mentioned here concerning the judging of sins is a principle that is applicable to both man's judgment and God's.</note>
+        <note num="3">Referring to sins.</note>
+        <note num="4">The sins of others also will be manifest, going to judgment later.</note>
+        </verse>
+        <verse num="25">
+        <text>Likewise also the [note]1[/note]good works are openly manifest, and those that are otherwise cannot be [xref]a[/xref]hidden.</text>
+        <note num="1">The implication of the apostle's charge to Timothy in these two verses is that one should not approve a person hastily because his sins are not openly manifest, nor condemn a person in haste because his good works are not manifest.</note>
+        <xref num="a">[link]Matt. 10:26[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="6">
+        <verse num="1">
+        <text>As many as are [xref]a[/xref]slaves under the yoke should regard their own masters as worthy of all honor, lest the [xref]b[/xref]name of God and [note]1[/note]our [xref]c[/xref]teaching be [note]2[/note]blasphemed.</text>
+        <note num="1">Lit., the teaching; referring to the teaching of the apostles ([link]Acts 2:42[/link]).</note>
+        <note num="2">Ill spoken of, reproached.</note>
+        <xref num="a">[link]Titus 2:9[/link]; [link]1 Pet. 2:18[/link]; [link]Eph. 6:5[/link]</xref>
+        <xref num="b">[link]Isa. 52:5[/link]; [link]Rom. 2:24[/link]</xref>
+        <xref num="c">[link]Titus 2:5[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>And those who have believing masters should not despise [i]them,[/i] because they are [xref]a[/xref]brothers; but rather they should [note]1[/note]serve [i]them,[/i] because those who recompense [i]them[/i] for the kindly service [i]received[/i] are believers and beloved. These things [xref]b[/xref]teach and [xref]c[/xref]exhort.</text>
+        <note num="1">Lit., serve as slaves.</note>
+        <xref num="a">[link]Philem. 16[/link]; [link]Matt. 23:8[/link]</xref>
+        <xref num="b">[link]1 Tim. 4:11[/link], [link]13[/link]</xref>
+        <xref num="c">[link]2 Tim. 4:2[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>If anyone teaches [note]1[/note][xref]a[/xref]different things and does not consent to [note]2[/note][xref]b[/xref]healthy words, those of our Lord Jesus Christ, and the teaching which is according to [note]3[/note][xref]c[/xref]godliness,</text>
+        <note num="1">See note [link]3[sup]3[/sup] in ch. 1[/link].</note>
+        <note num="2">See note [link]10[sup]1[/sup] in ch. 1[/link]. The words of our Lord Jesus Christ are words of life ([link]John 6:63[/link]); hence, they are healthy words.</note>
+        <note num="3">See notes [link]2[sup]2[/sup] in ch. 2[/link], [link chapter="3"]16[sup]2[/sup][/link] and [link]16[sup]3[/sup] in ch. 3[/link], and [link]7[sup]4[/sup] in ch. 4[/link]. The healthy words of the Lord are the source of the teaching that is according to godliness. When the Lord's words of life are taught, particularly in certain aspects, they become the teaching that is according to godliness. The living words of the Lord always bring forth godliness &amp;#8212; a life that lives Christ and expresses God in Christ.</note>
+        <xref num="a">[link]1 Tim. 1:3[/link]</xref>
+        <xref num="b">[link]2 Tim. 1:13[/link]; [link]1 Tim. 1:10[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:2[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>He is [note]1[/note][xref]a[/xref]blinded with pride, understanding [xref]b[/xref]nothing, but is [note]2[/note]diseased with [xref]c[/xref]questionings and [xref]d[/xref]contentions of words, out of which come [xref]e[/xref]envy, [xref]f[/xref]strife, [note]3[/note]slanders, evil suspicions,</text>
+        <note num="1">See note [link]6[sup]2[/sup] in ch. 3[/link]. Teachings that differ from the healthy words of the Lord always issue from people's pride and self-conceit, which blind them.</note>
+        <note num="2">To question and contend about words is a disease. [i]Diseased[/i] here is in contrast to [i]healthy[/i] in [link]v. 3[/link].</note>
+        <note num="3">Lit., blasphemies; referring here, as in [link]Col. 3:8[/link], to slanders and railings toward man, not blasphemies toward God.</note>
+        <xref num="a">[link]1 Tim. 3:6[/link]; [link]2 Tim. 3:4[/link]</xref>
+        <xref num="b">[link]1 Cor. 8:2[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:4[/link]; [link]2 Tim. 2:23[/link]; [link]Titus 3:9[/link]</xref>
+        <xref num="d">[link]2 Tim. 2:14[/link], [link]23[/link]; [link]Titus 3:9[/link]</xref>
+        <xref num="e">[link]Titus 3:3[/link]; [link]Gal. 5:21[/link]</xref>
+        <xref num="f">[link]Titus 3:9[/link]; [link]2 Cor. 12:20[/link]; [link]Gal. 5:20[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>[note]1[/note]Perpetual wranglings of men [xref]a[/xref]corrupted in mind and [note]2[/note]deprived of the [note]3[/note]truth, [note]4[/note]supposing [xref]b[/xref]godliness to be a [i]means of[/i] [xref]c[/xref]gain.</text>
+        <note num="1">Or, incessant quarrels.</note>
+        <note num="2">Or, bereft, destitute. The Greek here implies that they had once possessed the truth, but that now it was put away from them. Hence, they were destitute of the truth.</note>
+        <note num="3">See note [link]15[sup]5[/sup] in ch. 3[/link].</note>
+        <note num="4">Making godliness a way to gain (material profit), a gain-making trade.</note>
+        <xref num="a">[link]2 Tim. 3:8[/link]; [link]Eph. 4:22[/link]</xref>
+        <xref num="b">[link]1 Tim. 2:2[/link]</xref>
+        <xref num="c">[link]Titus 1:11[/link]; [link]2 Pet. 2:3[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>But [xref]a[/xref]godliness with [note]1[/note][xref]b[/xref]contentment is [note]2[/note][xref]c[/xref]great gain;</text>
+        <note num="1">"An inward self-sufficiency, as opposed to the lack or the desire of outward things. It was a favorite Stoic word" (Vincent).</note>
+        <note num="2">I.e., the best way to gain. The word [i]gain[/i] here refers mainly to the blessings in this age &amp;#8212; godliness plus self-sufficiency and the ability to dispense with greediness and the cares of this age.</note>
+        <xref num="a">[link]1 Tim. 2:2[/link]</xref>
+        <xref num="b">[link]Phil. 4:11[/link]; [link]Heb. 13:5[/link]</xref>
+        <xref num="c">[link]1 Tim. 4:8[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>For [note]1[/note]we have brought [xref]a[/xref]nothing into the world, because [xref]b[/xref]neither can we carry anything out.</text>
+        <note num="1">This is wisely ordained by God that we may trust in Him for our needs and live by Him in order to express Him, without preoccupation or distraction.</note>
+        <xref num="a">[link]Job 1:21[/link]; [link]Eccl. 5:15[/link]</xref>
+        <xref num="b">[link]Psa. 49:17[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>But having [xref]a[/xref]food and [note]1[/note]covering, with these we will be [note]2[/note][xref]b[/xref]content.</text>
+        <note num="1">Although this refers to clothing, it may include a dwelling.</note>
+        <note num="2">Sufficiently provided for.</note>
+        <xref num="a">[link]Gen. 28:20[/link]; [link]Prov. 30:8[/link]</xref>
+        <xref num="b">[link]1 Tim. 6:6[/link]; [link]Heb. 13:5[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>But those who [note]1[/note]intend to be [xref]a[/xref]rich fall into temptation and a [xref]b[/xref]snare and many foolish and harmful [note]2[/note]desires, which [note]3[/note]plunge men into [note]4[/note]destruction and ruin.</text>
+        <note num="1">With a strong desire to be rich. This is the love, not the possession, of riches, which leads the avaricious into temptation. Some are actually rich; some desire to be rich. This evil desire ruins and destroys them.</note>
+        <note num="2">Lustful desires, lusts.</note>
+        <note num="3">Or, drown, sink.</note>
+        <note num="4">Destruction implies ruin, and ruin implies temporal and eternal perdition.</note>
+        <xref num="a">[link]Prov. 15:27[/link]; [link]28:20[/link]; [link]Matt. 13:22[/link]; [link]James 5:1-3[/link]</xref>
+        <xref num="b">[link]1 Tim. 3:7[/link]; [link]2 Tim. 2:26[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>For the [xref]a[/xref]love of money is [note]1[/note]a root of all evils, [i]because of[/i] which some, [note]2[/note]aspiring after [i]money,[/i] have [note]3[/note]been [xref]b[/xref]led away from the [note]4[/note][xref]c[/xref]faith and pierced themselves through with many pains.</text>
+        <note num="1">Not the only root.</note>
+        <note num="2">Craving for, longing for.</note>
+        <note num="3">Or, wandered.</note>
+        <note num="4">See note [link]9[sup]1[/sup] in ch. 3[/link]. So also in [link]vv. 12[/link], [link]21[/link].</note>
+        <xref num="a">[link]1 Tim. 3:3[/link]; [link]Col. 3:5[/link]</xref>
+        <xref num="b">[link]1 Tim. 4:1[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:4[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>But you, O [note]1[/note][xref]a[/xref]man of God, [xref]b[/xref]flee these things, and [xref]c[/xref]pursue [note]2[/note][xref]d[/xref]righteousness, [note]3[/note][xref]e[/xref]godliness, [note]4[/note][xref]f[/xref]faith, [note]5[/note]love, [note]6[/note]endurance, [note]7[/note]meekness.</text>
+        <note num="1">One who partakes of God's life and nature ([link]John 1:13[/link]; [link]2 Pet. 1:4[/link]), thus being one with God in His life and nature ([link]1 Cor. 6:17[/link]) and thereby expressing Him. This corresponds with the mystery of godliness, which is God manifested in the flesh ([link]3:16[/link]).</note>
+        <note num="2">To be right with people before God according to His righteous and strict requirements.</note>
+        <note num="3">To live a daily life that manifests God. See note [link]16[sup]2[/sup] in ch. 3[/link].</note>
+        <note num="4">To believe in God and His word and to trust in Him and His word.</note>
+        <note num="5">To love others by the love of God ([link]1 John 4:7-8[/link], [link]19-21[/link]).</note>
+        <note num="6">To endure sufferings and persecutions.</note>
+        <note num="7">A proper attitude in facing opposition. See note [link]5[sup]1[/sup] in Matt. 5[/link].</note>
+        <xref num="a">[link]2 Tim. 3:17[/link]</xref>
+        <xref num="b">[link]2 Tim. 2:22[/link]; cf. [link]2 Tim. 2:16[/link]; [link]Titus 3:9[/link]; [link]1 Tim. 6:20[/link]; [link]2 Tim. 3:5[/link]</xref>
+        <xref num="c">[link]2 Tim. 2:22[/link]; [link]Rom. 14:19[/link]; [link]Heb. 12:14[/link]; [link]Phil. 3:12[/link], [link]14[/link]</xref>
+        <xref num="d">[link]Prov. 15:9[/link]</xref>
+        <xref num="e">[link]1 Tim. 2:2[/link]</xref>
+        <xref num="f">[link]2 Tim. 3:10[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>[note]1[/note][xref]a[/xref]Fight the good fight of the [xref]b[/xref]faith; lay [xref]c[/xref]hold on the [note]2[/note]eternal life, [note]3[/note]to which you were [xref]d[/xref]called and have [note]4[/note][xref]e[/xref]confessed the good confession before many [xref]f[/xref]witnesses.</text>
+        <note num="1">Lit., Struggle the good struggle of the faith.</note>
+        <note num="2">I.e., the divine life, the uncreated life of God, which is eternal. [i]Eternal[/i] denotes the nature more than the time element of the divine life. To fight the good fight of the faith in the Christian life, and especially in the Christian ministry, we need to lay hold on this divine life, not trusting in our human life. Hence, in 1 and 2 Timothy and Titus, eternal life is stressed again and again ([link]1:16[/link]; [link]6:19[/link]; [link]2 Tim. 1:1[/link], [link]10[/link]; [link]Titus 1:2[/link]; [link]3:7[/link]). To carry out God's economy concerning the church, as seen in 1 Timothy, to confront the downward trend of the church's decline, as seen in 2 Timothy, and to maintain good order in the church, as seen in Titus, this life is a prerequisite.</note>
+        <note num="3">Lit., into; i.e., to participate in, to enjoy. We have been called into the eternal life of God. We were born of the human natural life, but we were reborn of the divine eternal life when we were called by God in Christ.</note>
+        <note num="4">The good confession refers to the good faith, the full gospel that Christians believe. Probably at his baptism, Timothy confessed the good confession, confessing to the eternal life before many witnesses, believing and being assured that he had received the life of God. We all should confess such a good confession.</note>
+        <xref num="a">[link]1 Tim. 1:18[/link]; [link]2 Tim. 4:7[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="c">[link]1 Tim. 6:19[/link]; [link]1:19[/link]</xref>
+        <xref num="d">[link]2 Tim. 1:9[/link]; [link]Rom. 8:30[/link]; [link]Eph. 1:18[/link]; [link]1 Cor. 1:9[/link]; [link]Col. 3:15[/link]; [link]1 Pet. 5:10[/link]</xref>
+        <xref num="e">[link]2 Cor. 9:13[/link]</xref>
+        <xref num="f">[link]2 Tim. 2:2[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>I [xref]a[/xref]charge you before God, who preserves all things in life, and Christ Jesus, who [xref]b[/xref]testified the good confession before [xref]c[/xref]Pontius Pilate,</text>
+        <xref num="a">[link]1 Tim. 1:18[/link]</xref>
+        <xref num="b">[link]Rev. 1:5[/link]; [link]3:14[/link]</xref>
+        <xref num="c">[link]Luke 3:1[/link]; [link]Acts 4:27[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>To keep [note]1[/note]the commandment spotless, [xref]a[/xref]without reproach, until the [note]2[/note][xref]b[/xref]appearing of our Lord Jesus Christ,</text>
+        <note num="1">This commandment should refer to the charge in [link]vv. 11-12[/link].</note>
+        <note num="2">I.e., the Lord's second coming.</note>
+        <xref num="a">[link]Col. 1:22[/link]</xref>
+        <xref num="b">[link]2 Tim. 4:1[/link], [link]8[/link]; [link]Titus 2:13[/link]; [link]2 Thes. 2:8[/link]; [link]Heb. 9:28[/link]; cf. [link]2 Tim. 1:10[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>[note]1[/note]Which in [xref]a[/xref]its own times [note]2[/note]the [xref]b[/xref]blessed and [xref]c[/xref]only Sovereign will show, the [xref]d[/xref]King of those who reign as kings and [xref]e[/xref]Lord of those who rule as lords,</text>
+        <note num="1">Referring to [i]appearing[/i] in [link]v. 14[/link].</note>
+        <note num="2">Referring to God the Father, according to [link]Acts 1:7[/link].</note>
+        <xref num="a">[link]1 Tim. 2:6[/link]; [link]Titus 1:3[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:11[/link]</xref>
+        <xref num="c">[link]1 Tim. 1:17[/link]</xref>
+        <xref num="d">[link]Rev. 17:14[/link]; [link]19:16[/link]</xref>
+        <xref num="e">[link]Deut. 10:17[/link]; [link]Psa. 136:3[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>Who alone has [xref]a[/xref]immortality, dwelling in unapproachable [xref]b[/xref]light, whom [xref]c[/xref]no man has seen nor can see, to whom be [xref]d[/xref]honor and eternal [xref]e[/xref]might. Amen.</text>
+        <xref num="a">[link]1 Cor. 15:53-54[/link]</xref>
+        <xref num="b">[link]Psa. 104:2[/link]; [link]James 1:17[/link]; [link]1 John 1:5[/link]</xref>
+        <xref num="c">[link]Exo. 33:20[/link]; [link]John 1:18[/link]</xref>
+        <xref num="d">[link]1 Tim. 1:17[/link]</xref>
+        <xref num="e">[link]1 Pet. 4:11[/link]; [link]5:11[/link]; [link]Rev. 1:6[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>[xref]a[/xref]Charge those who are rich in the [xref]b[/xref]present age not to be [xref]c[/xref]high-minded, nor to set their [xref]d[/xref]hope on the [xref]e[/xref]uncertainty of riches but on God, who [xref]f[/xref]affords us all things [xref]g[/xref]richly for [i]our[/i] enjoyment;</text>
+        <xref num="a">[link]1 Tim. 4:11[/link]</xref>
+        <xref num="b">[link]2 Tim. 4:10[/link]; [link]Titus 2:12[/link]; [link]Matt. 12:32[/link]</xref>
+        <xref num="c">[link]Rom. 11:20[/link]; [link]12:16[/link]</xref>
+        <xref num="d">[link]Job 31:24[/link]; [link]Psa. 52:7[/link]; [link]Mark 10:24[/link]; cf. [link]1 Tim. 4:10[/link]</xref>
+        <xref num="e">[link]Prov. 23:5[/link]; [link]Matt. 13:22[/link]</xref>
+        <xref num="f">[link]Eccl. 5:18-19[/link]; [link]Acts 17:25[/link]</xref>
+        <xref num="g">[link]Titus 3:6[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>To do [note]1[/note][xref]a[/xref]good, to be [note]2[/note][xref]b[/xref]rich in good works, to be ready to [xref]c[/xref]distribute, to be ones willing to share;</text>
+        <note num="1">Referring to the distributing of material things readily to the needy, and to the sharing of riches willingly with them.</note>
+        <note num="2">Not merely rich in material things but rich in good works according to God's pleasure ([link]Eph. 2:10[/link]).</note>
+        <xref num="a">[link]1 Tim. 5:10[/link]; [link]Heb. 13:16[/link]</xref>
+        <xref num="b">[link]Luke 12:21[/link]; [link]James 2:5[/link]</xref>
+        <xref num="c">[link]Rom. 12:8[/link]</xref>
+        </verse>
+        <verse num="19">
+        <text>[xref]a[/xref]Laying away for themselves a good [xref]b[/xref]foundation as a [xref]c[/xref]treasure for the [note]1[/note]future, that they may lay [xref]d[/xref]hold on [note]2[/note]that which is really life.</text>
+        <note num="1">The future here refers to the next age (as compared with the present age in [link]v. 17[/link]), the kingdom age, when the overcoming saints will enjoy the Lord's reward. For this we all need to lay a good foundation in the present age as a treasure for us to enjoy in the future.</note>
+        <note num="2">I.e., the eternal life referred to in [link]v. 12[/link]. Material riches are for the human natural life in this age, a life that is temporal and, hence, not real. If we do good with material things, we will accomplish something for the real life, laying away a treasure for our enjoyment in the eternal life in the next age. This requires that we lay hold on God's eternal life, which is the real life. Otherwise, we will lay hold on our human natural life in laying away a treasure of material riches in this age for a life that is not real. We should care for the eternal life rather than the natural life. Both [link]v. 12[/link] and this verse stress the eternal life of God. This indicates that the divine life is a factor that is crucial and vital to our Christian life.</note>
+        <xref num="a">[link]Matt. 6:19-20[/link]; [link]Luke 16:9[/link]</xref>
+        <xref num="b">[link]Luke 6:48[/link]</xref>
+        <xref num="c">[link]Matt. 19:21[/link]</xref>
+        <xref num="d">[link]1 Tim. 6:12[/link]</xref>
+        </verse>
+        <verse num="20">
+        <text>O Timothy, [xref]a[/xref]guard the [note]1[/note]deposit, [xref]b[/xref]turning away from [xref]c[/xref]profane, [xref]d[/xref]vain babblings and oppositions from [note]2[/note]what is falsely called knowledge,</text>
+        <note num="1">That which was committed and entrusted to Timothy, the healthy words that he received from Paul, not only for himself but also for others. See note [link]14[sup]1[/sup] in 2 Tim. 1[/link].</note>
+        <note num="2">The teaching of the false teachers, which they called knowledge (probably related to Gnostic knowledge). Such teaching replaced the genuine knowledge of the healthy word of God that was entrusted to Timothy.</note>
+        <xref num="a">[link]2 Tim. 1:14[/link]; cf. [link]2 Tim. 1:12[/link]</xref>
+        <xref num="b">[link]2 Tim. 3:5[/link]; [link]Rom. 16:17[/link]</xref>
+        <xref num="c">[link]1 Tim. 4:7[/link]</xref>
+        <xref num="d">[link]2 Tim. 2:16[/link]; [link]1 Tim. 1:6[/link]; [link]Titus 1:10[/link]; [link]Col. 2:8[/link]</xref>
+        </verse>
+        <verse num="21">
+        <text>[i]Because of[/i] which some, professing [i]this,[/i] have [note]1[/note][xref]a[/xref]misaimed regarding the [xref]b[/xref]faith.[separator][xref]c[/xref]Grace be with you.</text>
+        <note num="1">Missed the mark, as in shooting.</note>
+        <xref num="a">[link]1 Tim. 1:6[/link]; [link]2 Tim. 2:18[/link]</xref>
+        <xref num="b">[link]1 Tim. 1:4[/link]</xref>
+        <xref num="c">[link]2 Tim. 4:22[/link]</xref>
+        </verse>
+    </chapter>
+    </chapters>
+</book>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michelle A J</firstname>
+  <lastname>Duke</lastname>
+  <email>chellduke50@hotmail.com</email>
+  <password>$2y$10$NMYF4JN8BVNGfIaKsNvQ7u85zmCVDk5g5uFT.35XATMQu7heYSGiC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.54.40.212</ipaddress>
+  <createdate>2014-09-02 21:23:53</createdate>
+  <lastupdateddate>2014-09-02 21:42:00</lastupdateddate>
+  <lastlogindate>2014-09-02 21:25:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="1333">What a happy day</fav>
+  </favourites>
+</user>

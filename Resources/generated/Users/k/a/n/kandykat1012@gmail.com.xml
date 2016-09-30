@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cindy</firstname>
+  <lastname/>
+  <email>kandykat1012@gmail.com</email>
+  <password>$2y$10$FhZBSI8kED./Ns.hrOY2huRd35FPMqB7xkWr9bJn.porYdgSMrbri</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.197.97.195</ipaddress>
+  <createdate>2015-08-16 01:51:37</createdate>
+  <lastupdateddate>2015-09-27 23:53:27</lastupdateddate>
+  <lastlogindate>2015-09-27 23:53:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="nt" num="350">My goal is God Himself</fav>
+  </favourites>
+</user>

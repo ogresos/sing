@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Wendy</firstname>
+    <lastname>Buchanan</lastname>
+    <email>wdbuchanan4@yahoo.com</email>
+    <password>4KVq48Mjo4QKc2jUWOsxMw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>76.183.76.199</ipaddress>
+    <createdate>2011-01-11 08:24:10</createdate>
+    <lastupdateddate>2011-04-11 21:06:50</lastupdateddate>
+    <lastlogindate>2011-04-11 21:04:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+        <fav category="default" type="ns" num="163">If you wish to find the Lord</fav>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    </favourites>
+</user>

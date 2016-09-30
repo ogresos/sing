@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ivan</firstname>
+  <lastname>Madrid</lastname>
+  <email>pp_madrid88@live.com</email>
+  <password>$2y$10$zMrAKJg1sVqFWaSueuB20un0QPyYoV1MGsdhRU.R/jwdbxizqkJWq</password>
+  <gender/>
+  <country>mx</country>
+  <ipaddress>187.132.7.89</ipaddress>
+  <createdate>2015-04-30 16:44:03</createdate>
+  <lastupdateddate>2015-04-30 16:46:18</lastupdateddate>
+  <lastlogindate>2015-04-30 16:46:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

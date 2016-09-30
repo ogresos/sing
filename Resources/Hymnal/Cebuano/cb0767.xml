@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tudloi mi sa pag-ampo</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;ANG PAGTUDLO</category>
+  <numbers><cebuano num="767"/><chinese num="554"/><english num="767"/><french num="139"/><german num="767"/><korean num="554"/><portuguese num="352"/><russian num="282"/><tagalog num="767"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3. 3/ 3 - 2 - | 1. 1/ 1 - 2 - | 3 5 4 - 3 - | 3( - (.2) - 4 - (break) | 3. 3/ 3 - 6 - | 5. 5/ 5 - 1 - | 2 4 3 - 2 - | 1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="767"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tudloi mi sa pag-ampo,
+Pag-abog's kaaway,
+Paggapos n'ya, pagbuhi sa
+Binilanggo niya.</stanza>
+	<stanza type="verse" number="2">Tudloi mi sa pag-ampo,
+Malig-ong magbarug,
+Pagsulong-gun-ob's 'yang kuta,
+Kaaway mahadlok.</stanza>
+	<stanza type="verse" number="3">Tudloi paggamit's sungkod's
+Madaugong ampo,
+Sa dugo Mo uyogon gyud
+Gahum's kahanginan.</stanza>
+	<stanza type="verse" number="4">Sa pag-ampo ug pagtoo
+Mobulig Kanimo,
+Kadaugan, pagbulot-an
+Amoa nang tanan.</stanza>
+  </lyrics>
+</hymn>

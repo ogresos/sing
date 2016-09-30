@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debbie</firstname>
+  <lastname>Fowler</lastname>
+  <email>fowlerd59@yahoo.com</email>
+  <password>$2y$10$QjXiuvAdyMiiREiNCdxD6eS6pSLHusJgrPmOO9fNbXbFZgpYO4pxe</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-04-16 15:13:29</createdate>
+  <lastupdateddate>2015-05-18 14:27:19</lastupdateddate>
+  <lastlogindate>2015-05-18 14:27:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1019">A ruler once came to Jesus by night</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+    <fav category="default" type="h" num="994">Oh, how dark the night that wrapt my spirit round</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+    <fav category="default" type="h" num="1004">Precious, precious blood of Jesus</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

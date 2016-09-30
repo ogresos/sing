@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>King</firstname>
+<lastname>Daks</lastname>
+<email>afferent26@yahoo.com</email>
+<password>$1$sKgxM3ow$tGzVQtXgZuA0Lh2.qy1x60</password>
+<gender>M</gender>
+<country>Egypt</country>
+<ipaddress>149.136.33.253</ipaddress>
+<createdate>2009-08-18 15:29:58</createdate>
+<lastupdateddate>2009-09-15 19:17:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+        <fav category="default" type="h" num="355">O blessed, living Lord</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The old rugged cross</title>
+  <index>true</index>
+  <category>Glorying in the Cross&amp;mdash;The Old Rugged Cross</category>
+  <numbers><chinese num="454"/><english num="618"/><korean num="454"/><spanish num="293"/><tagalog num="618"/></numbers>
+  <creators>
+    <author biodate="1873-1958" biolink="">George Bennard</author>
+    <composer biodate="1873-1958" biolink="">George Bennard</composer>
+  </creators>
+  <meter>12.8.12.8. with chorus.</meter>
+  <hymncode>345465556576</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C/E - - | F - - | Dm - - | G - - | G7 - - | C - - | G7 - - | C - - | C/E - - | F - - | Dm - - | G - - | G7/B - - | F/C - - | C - - | G - - | E7/G# - - | Am - - | C/G - - | D/F# - - | D7 - - | G - - | G7 - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G7 - - | F/C - - | C - - |</chords>
+<guitarChords>| C - - | C - - | C - - | F - - | F - - | G - - | G7 - - | C - - | G7 - - | C - - | C - - | F - - | F - - | G - - | G7 - - | C - - | C - - | G - - | G - - | C - - | C - - | F - - | F - - | C - - | C - - | C - - | C - - | F - - | F - - | C - - | G7 - - | C - - | C - - |</guitarChords>
+  <melody>| 0 - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6 | 7. 6/ 5 | 4 5 4 | 3( - - (break) | 3) - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | ._4 ._3 ._2 | ._1( - - (break) | ._1) - (Chorus) 7/ ._1/ | ._2. ._2/ ._2 | ._2 ._1 7 | ._1( - - | ._1) - ._1/ 7/ | 6. 6/ 6 | ._1 7 6 | 5( - - (break) | 5) - 5/ ._1/ | ._3. ._3/ ._3 | ._3 ._4 ._3 | 6( - - | 6) - ._4/ ._4/ | ._3. ._2/ ._1 | 5 7 ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>On a hill far a -- way stood an old rug -- ged cross, The em -- blem of suf -- f'ring and shame, And I love that old cross where the Dear -- est and Best For a world of lost sin -- ners was slain. So I'll che -- rish the old rug -- ged cross, Till my tro -- phies at last I lay down; I will cling to the old rug -- ged cross, And ex -- change it some day for a crown.</singingstanza>
+  </layout>
+  <copyright>Copyright, 1941 Renewal. Rodeheaver Co. Owner. All Rights Reserved. Used by Permission.</copyright>
+  <music>
+    <midi location="h" length="64">e0618_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">On a hill far away stood an old rugged cross,
+  The emblem of suff'ring and shame,
+And I love that old cross where the Dearest and Best
+  For a world of lost sinners was slain.</stanza>
+    <stanza type="chorus" number="">So I'll cherish the old rugged cross,
+Till my trophies at last I lay down;
+I will cling to the old rugged cross,
+  And exchange it some day for a crown.</stanza>
+    <stanza type="verse" number="2">Oh, that old rugged cross, so despised by the world,
+  Has a wondrous attraction for me;
+For the dear Lamb of God left His glory above,
+  To bear it to dark Calvary.</stanza>
+    <stanza type="verse" number="3">In the old rugged cross, stained with blood so divine,
+  A wondrous beauty I see;
+For 'twas on that old cross Jesus suffered and died,
+  To pardon and sanctify me.</stanza>
+  </lyrics>
+</hymn>

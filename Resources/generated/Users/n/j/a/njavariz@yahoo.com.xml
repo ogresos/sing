@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Norma E.</firstname>
+    <lastname>Javariz</lastname>
+    <email>njavariz@yahoo.com</email>
+    <password>KfhntJtAktjv7OAQa61EpQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>98.254.51.39</ipaddress>
+    <createdate>2010-05-10 13:19:11</createdate>
+    <lastupdateddate>2011-06-10 15:13:21</lastupdateddate>
+    <lastlogindate>2011-06-10 15:13:21</lastlogindate>
+    <failedlogincount>3</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+        <fav category="default" type="lb" num="16">Nothing compares to You</fav>
+        <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Iyong Katawan, kami'y nagkakatipon</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="1107"/><chinese num="ts:611"/><dutch num="109"/><english num="1107"/><french num="38"/><german num="1107"/><korean num="829"/><portuguese num="123"/><russian num="45"/><spanish num="105"/><tagalog num="1107"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ned Nossaman">Translated from N. N.</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Iyong Katawan, kami'y nagkakatipon:
+Marami man, subali't iisa;
+Bilang sangkap, kami'y bumabahagi
+Ng buhay Mo, kaya't nagkaisa.</stanza>
+	<stanza type="chorus" number="">Sa sansinukob, may 'sang Katawan,
+Dito sa lupa'y nahayag;
+Sa bawa't lokalidad ay isa
+Upang makita ng lahat.</stanza>
+	<stanza type="verse" number="2">Tanda ng Katawan Mo'y 'sang tinapay
+Nabasag para sa mga banal;
+Habang ang tinapay ay kinakain,
+Kaisahan nami'y tinatanghal.</stanza>
+	<stanza type="verse" number="3">'Sang tinapay, 'sang saro nasa dulang,
+Inihayag ang pagkakaisa;
+Tinubos at inangking Katawan Niya:
+"Amen, Panginoon, kami'y isa!"</stanza>
+	<stanza type="verse" number="4">Nakatayong buo, di mahahati,
+Dahil si Kristo ang kaisahan;
+Lumalahok sa 'sang saro't tinapay,
+Kaya't kaisaha'y mamamasdan.</stanza>
+	<stanza type="verse" number="5">O, kay saya, taglay ang kaisahan!
+Dama naming Ika'y nasisiyahan;
+Kami'y nagkaroon ng kagalakan -
+Aming natitikman ang kasalan.</stanza>
+  </lyrics>
+</hymn>

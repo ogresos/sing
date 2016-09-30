@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shushant</firstname>
+  <lastname/>
+  <email>shushantsanwarey@gmail.com</email>
+  <password>$2y$10$GcffGQX7IWFq3XOXgrChj.nFHmgtB3hbUQlgUjaqj/Hx5Zbi5ykwa</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>111.93.93.130</ipaddress>
+  <createdate>2014-07-25 09:18:36</createdate>
+  <lastupdateddate>2014-07-25 09:23:34</lastupdateddate>
+  <lastlogindate>2014-07-25 09:20:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+  </favourites>
+</user>

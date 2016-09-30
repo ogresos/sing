@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>用我的詩歌向我所愛的主</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>555656132237635</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>用 我 的 詩 歌， 向 我 所 愛 的 主， 唱 出 我 心 聲， 也 唱 出 我 愁 楚。 年 來 所 行 路， 是 備 嘗 人 世 苦， 除 了 我 的 主， 還 有 誰 可 傾 訴？ 除 了 我 的 主， 還 有 誰 可 傾 訴？</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0346.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">用我的詩歌，向我所愛的主，
+唱出我心聲，也唱出我愁楚。
+年來所行路，是備嘗人世苦，
+除了我的主，還有誰可傾訴？
+除了我的主，還有誰可傾訴？</stanza>
+	<stanza type="verse" number="2">用我的詩歌，向我所愛的主，
+獻上我讚美，也傾吐我思慕。
+雖然所行路，是淒酸多雲霧，
+但主手領我，仍前進不後顧。
+但主手領我，仍前進不後顧。</stanza>
+	<stanza type="verse" number="3">用我的詩歌，向我所愛的主，
+表示我願意，一直走此窄路。
+雖然所飲杯，是苦膽調酸醋，
+我亦無怨言，我亦樂意順服。
+我亦無怨言，我亦樂意順服。</stanza>
+	<stanza type="verse" number="4">用我的詩歌，向我所愛的主，
+唱這十架路，是我惟一歸途。
+雖然所經過，是傷心流淚谷，
+但主卻領我，由此路通國度。
+但主卻領我，由此路通國度。</stanza>
+  </lyrics>
+</hymn>

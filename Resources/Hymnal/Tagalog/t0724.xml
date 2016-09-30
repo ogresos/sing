@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>'Ko'y ibong maliit</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;DAHIL SA PAGTATAMASA SA PAGDURUSA</category>
+  <numbers><cebuano num="724"/><chinese num="524*"/><english num="724"/><german num="724"/><korean num="524"/><russian num="373"/><tagalog num="724"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Translated from Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 5 6 7 | ._1 - - ._1/( 7/) | 6 5 4 3 (break) | 3( - 2) 3/( 4/) | 5 ._1 6 7 | ._1. 7/ ._1 ._2 | ._3 ._2/( ._1/) 7 6 (break) | 5 - - 3/( 4/) | 5 6 5 3/( 4/) | 5 6 (.5 5 (break) | ._1 - ._2 - | ._3.( ._2/ ._1) 6 | 5 - 7 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="724"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">'Ko'y ibong maliit,
+Sa hawla'y napiit,
+Gayunpama'y kumakanta
+Sa Kanyang nagpas'ya;
+Mabilanggo ma'y may tuwa,
+Pagka't Diyos ko ay may siya.</stanza>
+	<stanza type="verse" number="2">Wala 'kong magawa,
+Bu'ng araw kakanta;
+Sa awit ko nakikinig Siya,
+Bigyan lugod ko'y Siya;
+Aking pakpak binihag Mo;
+Pinakinggan Mo awit ko.</stanza>
+	<stanza type="verse" number="3">Iyong tainga'y nakinig,
+Iyong puso'y umibig;
+Kahit nota ko'y magaspang,
+Iyo ring pinakinggan;
+Sapagka't Iyong nababatid,
+Pag-ibig nga ang naghatid.</stanza>
+	<stanza type="verse" number="4">Nakulong sa hawla,
+Di makalipad nga;
+Pakpak ko'y natalian Mo,
+Malaya puso ko;
+Bilangguan di ma'pigil,
+Kaluluwa di masiil.</stanza>
+	<stanza type="verse" number="5">Ang pumailanglang
+Lampas sa bilangguan!
+Tungo sa Kanya, mahal ko,
+Sa Kanya mahal ko;
+Makita sa Iyong kalo'ban
+Saya ng 'king kaisipan.</stanza>
+  </lyrics>
+</hymn>

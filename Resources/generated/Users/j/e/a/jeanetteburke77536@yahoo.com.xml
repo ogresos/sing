@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jeanette</firstname>
+    <lastname>Burke</lastname>
+    <email>jeanetteburke77536@yahoo.com</email>
+    <password>CFNoRBh9ACWLWodyUQ98eA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>70.139.194.20</ipaddress>
+    <createdate>2013-02-22 22:41:11</createdate>
+    <lastupdateddate>2013-02-22 22:50:40</lastupdateddate>
+    <lastlogindate>2013-02-22 22:41:12</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    </favourites>
+</user>

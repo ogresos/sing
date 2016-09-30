@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God is processed, this I know</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;His Dispensing</category>
+  <numbers><english num="ns:343"/><lsmyp num="211"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Dennis Cooley">D. C.</author>
+  </creators>
+  <melody>| 5 3 3 2 | 3 5 5 - | 6 6 ._1 6 | 6 5 5 - (break) | 5 3 3 2 | 3 5 5 - | 6 6 5 1 | 3 2 1 - (break) | (Chorus) 5 - 3 5 | 6 ._1 - - | 5 - 3 1 | 3 2 - - (break) | 5 - 3 5 | 6 ._1 - 6/ 6/ | 5 1 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God is pro -- cessed, this I know, For the Bi -- ble tells me so. In -- car -- nat -- ed as a man, Lived and died and raised a -- gain. Yes, God is pro -- cessed, Now He's the Spir -- it To con -- sti -- tute us With the pro -- cessed Tri -- une God.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="c" num="32"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God is processed, this I know,
+For the Bible tells me so.
+Incarnated as a man,
+Lived and died and raised again.</stanza>
+    <stanza type="chorus" number="">Yes, God is processed,
+Now He's the Spirit
+To constitute us
+With the processed Triune God.</stanza>
+    <stanza type="verse" number="2">Incarnation: mingled makes,
+Crucifixion: terminates,
+Resurrection: germinates,
+Life divine now animates.</stanza>
+    <stanza type="verse" number="3">Incarnated so He can
+Have the living of a man.
+Crucified and raised that He
+Could impart His life to me.</stanza>
+  </lyrics>
+</hymn>

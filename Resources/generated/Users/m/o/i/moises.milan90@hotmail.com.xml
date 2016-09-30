@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Moisés</firstname>
+  <lastname/>
+  <email>moises.milan90@hotmail.com</email>
+  <password>$2y$10$6w7ncmBl5kkwRjIKg3aqmu1wV5dAlQdVs.5CkDEClfPVDF7uPgEhO</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>201.80.218.197</ipaddress>
+  <createdate>2014-12-26 20:48:13</createdate>
+  <lastupdateddate>2015-09-23 04:19:03</lastupdateddate>
+  <lastlogindate>2015-09-07 19:50:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+    <fav category="default" type="ns" num="437">Now I See</fav>
+    <fav category="default" type="ns" num="292">Though the world may promise me more</fav>
+  </favourites>
+</user>

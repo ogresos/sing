@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Toi seul, Seigneur, est ce dont Tes enfants</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;l’amour pour Lui</category>
+  <numbers><cebuano num="546"/><chinese num="ts:333"/><english num="546"/><french num="98"/><german num="546"/><portuguese num="271"/><russian num="521"/><spanish num="255"/><tagalog num="546"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Translated from Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+  </creators>
+  <melody>| 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - 3 | 5 5 4 4 | 3 - - - (break) | 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - ._1 | ._1 ._1 7 7 | ._1 - - - (break) | ._4 - ._1 ._2 | ._3 - 5 - | 6 ._1 7 6 | 5 - - - (break) | 6 - 7 ._1 | ._3 5 6 ._2 | ._1 - 7 - | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="546"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Seigneur, je T'aime, mais de Ton amour,
+Car je n'ai pas d'amour.
+L'amour que j'ai pour Toi, Seigneur, je sais
+N'est rien d'autre que Toi.
+Vide, inutile, je n'ai rien sans Toi.
+Je suis perdu et immergé en Toi.</stanza>
+	<stanza type="verse" number="2">Toi seul, Seigneur, est ce dont Tes enfants
+Ont maintenant besoin.
+Quand en Toi nous demeurons, nous avons
+Ta vie si abondante.
+Source de vie et grâce illimitée,
+Notre univers, notre centre et demeure.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Guárdame en Tu cruz, Señor</title>
+  <index>true</index>
+  <category>El evangelio&amp;mdash;Clamando al Señor</category>
+  <numbers><cebuano num="1059"/><chinese num="456"/><english num="1059"/><french num="204"/><german num="1059"/><korean num="456"/><portuguese num="464"/><russian num="178"/><spanish num="486"/><tagalog num="1059"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 3/ | 3. 2 0/ (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ (break) | (Chorus) 3 5/ 5. | 4 6/ 6. | 5 6/ 5 3/ | 3. 2. (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ |</melody>
+  <music>
+	<midiref type="h" num="1059"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Guárdame͜ en Tu cruz, Señor;
+Su preciosa fuente
+Del Calvario trae salud,
+Abundantemente.</stanza>
+	<stanza type="chorus" number="">En la cruz, en la cruz,
+Se͡a mi gloria siempre;
+A Tu cruz se͜ aferrará
+Mi͜ alma͜ eternamente.</stanza>
+	<stanza type="verse" number="2">En la cruz un pecador,
+Por Tu͜ amor hallaste;
+Estrella de Resplandor 
+Sobre mí brillaste.</stanza>
+	<stanza type="verse" number="3">Cerca de la cruz, Señor,
+Tráeme sus escenas,
+Para que yo pueda͜ andar
+En su sombra plena.</stanza>
+	<stanza type="verse" number="4">Cerca de la cruz, aquí
+Vigilo y͜ espero;
+Hasta contemplar Tu faz,
+Salvador, me͜ esmero.</stanza>
+  </lyrics>
+</hymn>

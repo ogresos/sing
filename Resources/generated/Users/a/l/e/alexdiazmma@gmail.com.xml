@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John Alexander</firstname>
+  <lastname>Díaz</lastname>
+  <email>alexdiazmma@gmail.com</email>
+  <password>$2y$10$naty13WRUYrsb4mGvFP8y.oFkj5Er9mOQUroGXbTFlctZ5xFcKJOG</password>
+  <gender/>
+  <country>co</country>
+  <ipaddress>181.58.157.28</ipaddress>
+  <createdate>2015-10-22 01:24:40</createdate>
+  <lastupdateddate>2015-12-15 03:00:20</lastupdateddate>
+  <lastlogindate>2015-11-23 00:24:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="hs" num="438">Desde aquel día cuando en Betania</fav>
+    <fav category="default" type="hs" num="326">Guardo silencio frente a Ti, Señor</fav>
+    <fav category="default" type="hs" num="278">Mi Señor cautivo en Tu belleza</fav>
+    <fav category="default" type="hs" num="31">Padre, a Ti un cantico alzamos</fav>
+    <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+  </favourites>
+</user>

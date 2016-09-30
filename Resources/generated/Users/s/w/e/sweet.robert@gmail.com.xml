@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Robert</firstname>
+    <lastname>Sweet</lastname>
+    <email>sweet.robert@gmail.com</email>
+    <password>dcwZFNms%2Bbtshyx3wyLq7Q%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>174.108.110.231</ipaddress>
+    <createdate>2012-02-25 00:34:46</createdate>
+    <lastupdateddate>2012-02-25 01:12:57</lastupdateddate>
+    <lastlogindate>2012-02-25 00:34:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+    </favourites>
+</user>

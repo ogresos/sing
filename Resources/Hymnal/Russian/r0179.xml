@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Там, где Спаситель мой шёл на крест</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;СВИДЕТЕЛЬСТВО</category>
+  <numbers><cebuano num="1066"/><chinese num="739"/><english num="1066"/><french num="205"/><german num="1066"/><korean num="739"/><portuguese num="465"/><russian num="179"/><spanish num="488"/><tagalog num="1066"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3 3./ 3// 5 5./ 3// | 1 3 2 - (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 1. 1/ 1 6_. | 5_..( 6_./ 1) 0 | 3. 3/ 3 1 | 2.( 3/ 2) 0 (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Там, где Спа -- си -- тель мой шёл на крест, Там, где я пла -- кал, о -- чи -- щен весь, Там Сво -- ей кро -- вью Он смыл мой грех.  О, хва -- ла Е -- му!  О, хва -- ла Е -- му! О, хва -- ла Е -- му!  Там Сво -- ей кро -- вью Он смыл мой грех.  О, хва -- ла Ему!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1066"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Там, где Спаситель мой шёл на крест,
+Там, где я плакал, очищен весь,
+Там Своей кровью Он смыл мой грех.
+О, хвала Ему!</stanza>
+	<stanza type="chorus" number="">О, хвала Ему! О, хвала Ему!
+Там Своей кровью Он смыл мой грех.
+О, хвала Ему!</stanza>
+	<stanza type="verse" number="2">Дивно я был от греха спасён;
+Сладко в меня Иисус вселён.
+Там у креста меня принял Он,
+О, хвала Ему!</stanza>
+	<stanza type="verse" number="3">Грех исчезает в струях святых,
+Радуюсь я, что омылся в них.
+Там Он спасает, и в Нём я чист.
+О, хвала Ему!</stanza>
+  </lyrics>
+</hymn>

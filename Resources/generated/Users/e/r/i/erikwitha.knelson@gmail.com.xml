@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Erik</firstname>
+  <lastname>Nelson</lastname>
+  <email>erikwitha.knelson@gmail.com</email>
+  <password>$2y$10$zuAuNkS7YAJRieLoHW0PC.deSpXbed2N3NklyQO4pPS2Jk/AIQe2C</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.149.148.117</ipaddress>
+  <createdate>2016-02-23 21:31:01</createdate>
+  <lastupdateddate>2016-04-27 00:16:58</lastupdateddate>
+  <lastlogindate>2016-04-27 00:16:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1318">Camel Train</fav>
+    <fav category="default" type="h" num="117">Christ the Lord is ris'n indeed</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1018">The whole world was lost in the darkness of sin</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+  </favourites>
+</user>

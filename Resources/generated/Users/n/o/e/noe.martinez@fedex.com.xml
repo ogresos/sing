@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Noe</firstname>
+  <lastname>Martinez</lastname>
+  <email>noe.martinez@fedex.com</email>
+  <password>$2y$10$TV6oPbYp8f9yTvsZihfRGejn3vfIc1zAgfhXKCat4KPjzmt5C8QEe</password>
+  <gender/>
+  <country>mx</country>
+  <ipaddress>198.140.5.39</ipaddress>
+  <createdate>2016-06-27 16:10:13</createdate>
+  <lastupdateddate>2016-06-27 16:11:00</lastupdateddate>
+  <lastlogindate>2016-06-27 16:11:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

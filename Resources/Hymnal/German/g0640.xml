@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Leben entspringt dem Tod! – Oh liebster Meister</title>
+  <index>true</index>
+  <category>DAS AUFERSTEHUNGSLEBEN&amp;mdash;Leben entspringt dem Tod</category>
+  <numbers><cebuano num="640"/><chinese num="473"/><english num="640"/><german num="640"/><korean num="473"/><russian num="423"/><spanish num="299"/><tagalog num="640"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <melody>| 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 2 - 3 4 | 5 - 3 - | 1 1 3 2 | 7_. - - - (break) | 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 6 - 5 4 | 3 5 4 2 | 6_. - 7_. - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Le -- ben ent -- springt dem Tod!_&amp;mdash; Oh liebs -- ter Meis -- ter, Gilts hier schon o -- der erst im neu -- en Land? Nein, wo -- rauf war -- ten? Das Ge -- fäss, zer -- bro -- chen,  Jetzt wird ge -- formt durch Got -- tes Töp -- fer- -- Hand.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Jeremiah 18:4</link>
+	<link type="ref">1 Corinthians 15:43</link>
+	<link type="ref">John 7:37-38</link>
+  </links>
+  <music>
+	<midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Leben entspringt dem Tod! – Oh liebster Meister,
+Gilts hier schon oder erst im neuen Land?
+Nein, worauf warten? Das Gefäss, zerbrochen, 
+Jetzt wird geformt durch Gottes Töpfer-Hand.</stanza>
+	<stanza type="verse" number="2">Leben entspringt dem Tod! Welch Auferstehung!
+Erst sind wir schwach, dann auferweckt in Kraft;
+Dein Leben ausgelebt in Müh und Plagen,
+„Christus, nicht ich“ Dir Herrlichkeit verschafft.</stanza>
+	<stanza type="verse" number="3">Leben entspringt dem Tod – der Pilger, einsam,
+Rühmt sich des Kreuzes, diesen Weg will gehn;
+Lebt in Gemeinschaft stets mit „Jesus einzig“,
+Eitlen Gewinn um Seinetwilln lässt stehn.</stanza>
+	<stanza type="verse" number="4">Leben entspringt dem Tod – oh welch ein Auftrag: 
+Wasser des Lebens fließen lass aus dir,
+Reich andern diesen klaren, reinen Strom dar,
+Durstige Seelen dürsten nimmer hier.</stanza>
+  </lyrics>
+</hymn>

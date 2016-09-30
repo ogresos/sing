@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O sa ekklesia na aking tahanan</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;BILANG ATING TAHANAN AT KAPAHINGAHAN</category>
+  <numbers><cebuano num="1233"/><chinese num="ts:709"/><english num="1233"/><french num="156"/><german num="1233"/><korean num="826"/><portuguese num="397"/><russian num="535"/><tagalog num="1233"/></numbers>
+  <melody>| 0 - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 3/ 4/ | 5. 1/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - - (break) | (Chorus) 5 - - | 4. 3/ 2 | 3( - - | 3) - 5_./ 5_./ | 1. 1/ 1 | 1. 7_./ 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_.. 4/ 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1233"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O sa ekklesia na aking tahanan,
+Paghahanap nati'y humangga;
+Nagagalak ang mga kapatiran
+Pagka't Kristo'y buhay ng tanan.</stanza>
+	<stanza type="chorus" number="">O sa ekklesia,
+Ang tahanan ko'y natagpuan;
+At sa tuwina
+Pupurihin ko Siya!
+"Aleluya&amp;mdash;Kristo't ekklesia!"</stanza>
+	<stanza type="verse" number="2">O sa ekklesia, Diyos ay napahinga;
+Puso Niya'y laging natutuwa!
+Ang ating puso ay Kanyang tahanan,
+Itatanyag Niya nang lubusan.</stanza>
+	<stanza type="chorus" number="">O sa ekklesia,
+Paghanap ng Diyos ay humangga;
+At sa tuwina
+Pupurihin ko Siya!
+"Aleluya&amp;mdash;Kristo't akklesia!"</stanza>
+  </lyrics>
+</hymn>

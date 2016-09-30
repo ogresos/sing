@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>George</firstname>
+    <lastname>Corey</lastname>
+    <email>gpcorey@frontiernet.net</email>
+    <password>$1$iOrWx2Ks$KLonGwu9OOggWJGbHUeHs1</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>70.101.29.4</ipaddress>
+    <createdate>2009-02-20 09:04:27</createdate>
+    <lastupdateddate>2010-08-21 14:54:36</lastupdateddate>
+    <lastlogindate>2010-08-21 14:54:36</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="289">I stand all amazed at the love Jesus offers me</fav>
+        <fav category="default" type="h" num="464">My glorious Victor, Prince Divine</fav>
+    </favourites>
+</user>

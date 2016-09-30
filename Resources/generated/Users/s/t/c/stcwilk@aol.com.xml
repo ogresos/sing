@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>stacia</firstname>
+  <lastname>wilkin</lastname>
+  <email>stcwilk@aol.com</email>
+  <password>$2y$10$qzi.Tm5CucEUBtsA1hHA8eMGz74O3c/leX.RMfS6ZISUOPNufobTK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.3.167.16</ipaddress>
+  <createdate>2015-02-07 13:41:43</createdate>
+  <lastupdateddate>2015-02-07 14:04:24</lastupdateddate>
+  <lastlogindate>2015-02-07 13:43:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

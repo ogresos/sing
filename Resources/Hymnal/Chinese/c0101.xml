@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督復活阿利路亞</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><chinese num="101"/><english num="118"/><korean num="101"/><spanish num="57"/><tagalog num="118"/></numbers>
+  <creators>
+	<author biodate="1811-1875" biolink="">Translated from John Samuel Bewley Monsell</author>
+  </creators>
+  <melody>| 1. 1/ 1 5_. | 1 2 3 1 | 6_.. 6_./ 5_. 1 | 4 3 2 - (break) | 2. 2/ 2 6_. | 2 3 4 2 | 7_.. 7_./ 1 3 | 3 2 1 - (break) | 7_.. 6_./ 5_. 3 | 2 6_. 7_. 5_. | 7_.. 1/ 2 5_. | 1 7_. 6_. - (break) | 7_.. 6_./ 5_. 3 | 2 6_. 7_. 5_. | 7_.. 1/ 2 1 | 7_. 6_. 5_. - (break) | (Chorus) 1. 1/ 1 5_. | 1 2 3 1 | 6_.. 6_./ 5_. 1 | 4 3 2 - (break) | 2. 2/ 2 6_. | 2 3 4 2 | 7_.. 7_./ 1 3 | 5 - 5 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>基 督 復 活！ 阿 利 路 亞！ 得 勝 的 主 已 復 活； 向 祂 高 歌， 阿 利 路 亞！ 基 督 死 過 又 活 著。 我 心 感 戴， 向 祂 敬 拜， 因 祂 面 光 又 重 顯； 祂 前 俯 伏， 歡 樂 奏 凱， 勝 過 痛 苦 與 憂 患。 基 督 復 活！ 阿 利 路 亞！ 得 勝 的 主 已 復 活； 向 祂 高 歌， 阿 利 路 亞！ 基 督 死 過 又 活 著。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督復活！阿利路亞！
+得勝的主已復活；
+向祂高歌，阿利路亞！
+基督死過又活著。
+我心感戴，向祂敬拜，
+因祂面光又重顯；
+祂前俯伏，歡樂奏凱，
+勝過痛苦與憂患。</stanza>
+	<stanza type="chorus" number="">基督復活！阿利路亞！
+得勝的主已復活；
+向祂高歌，阿利路亞！
+基督死過又活著。</stanza>
+	<stanza type="verse" number="2">基督復活！何等歡欣！
+地上艱苦都過去；
+經過歡樂敞開之門，
+祂又回到生命域；
+死亡陰間全都征服，
+復活作了得勝者；
+天使觀看祂的步武，
+榮冕戴祂傷過額。</stanza>
+	<stanza type="verse" number="3">基督復活，何等超脫！
+死亡、陰間難困我；
+我屬基督，憑祂活著，
+一切就都全勝過；
+所有疑惑、一切頹喪，
+從我慄心全止息；
+復活之日應該歡暢，
+興起來赴這筵席。</stanza>
+  </lyrics>
+</hymn>

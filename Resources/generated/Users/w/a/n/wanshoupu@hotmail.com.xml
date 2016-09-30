@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shoupu</firstname>
+  <lastname>Wan</lastname>
+  <email>wanshoupu@hotmail.com</email>
+  <password>$2y$10$wzSU4QJUB9Sy/M.LEUJUtug4qBvil/21tCxJt.I80HJtJIQq.jhOi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>162.232.174.63</ipaddress>
+  <createdate>2015-03-30 04:59:29</createdate>
+  <lastupdateddate>2015-03-30 05:02:38</lastupdateddate>
+  <lastlogindate>2015-03-30 05:00:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="31">父阿久在創世之前</fav>
+  </favourites>
+</user>

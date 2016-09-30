@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我聽救主聲音</title>
+  <index>true</index>
+  <category>福音－救贖</category>
+  <numbers><cebuano num="997"/><chinese num="682"/><english num="997"/><korean num="682"/><tagalog num="997"/></numbers>
+  <creators>
+	<author biodate="1822-1889" biolink="">Translated from Elvina Mable Reynolds Hall</author>
+  </creators>
+  <melody>| 0 - 1/( 3/) | 5. 6/ 5/ 3/ | 1 - 1 | 2. 2/ 1/ 2/ (break) | 3 - 1/( 3/) | 5. 6/ 5/ 3/ | 1 - 1/( 2/) | 3. 4/ 3/ 2/ | 1 - - (break) | (Chorus) 5. 6/ 5/ 3/ | ._1 - 0 | 5. 6/ 5/ 3/ | 2 - 0 (break) | 5. 6/ 5/ 3/ | ._1/ 7/ (.6 ._1 | 3. 4/ 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>我 聽 救 主 聲 音， 說 我 能 力 薄 弱， 若 非 誠 心 相 信， 不 能 免 去 罪 過。 我 欠 千 萬 金， 主 替 我 還 盡； 一 生 犯 罪 真 苦 辛， 主 今 赦 免、 憐 憫。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="997"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我聽救主聲音，
+說我能力薄弱，
+若非誠心相信，
+不能免去罪過。</stanza>
+	<stanza type="chorus" number="">我欠千萬金，
+主替我還盡；
+一生犯罪真苦辛，
+主今赦免、憐憫。</stanza>
+	<stanza type="verse" number="2">主，我今纔看明，
+惟你有這力量，
+能洗污穢潔淨，
+能使軟弱剛強。</stanza>
+	<stanza type="verse" number="3">我真沒有善良，
+可以得主救恩；
+但主特別體諒，
+用愛救我罪人。</stanza>
+	<stanza type="verse" number="4">即云我要離世，
+我仍不至戰兢；
+因我所欠罪值，
+主早替我還清。</stanza>
+	<stanza type="verse" number="5">將來立在神前，
+神必不再追問；
+因主為我缺欠，
+已經流血受審。</stanza>
+  </lyrics>
+</hymn>

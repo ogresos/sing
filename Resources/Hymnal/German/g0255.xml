@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hauche Deinen Geist in mich, Herr</title>
+  <index>true</index>
+  <category>FÜLLE DES GEISTES&amp;mdash;Als der Atem</category>
+  <numbers><cebuano num="255"/><chinese num="210"/><dutch num="12"/><english num="255"/><french num="43"/><german num="255"/><korean num="210"/><portuguese num="136"/><russian num="50"/><spanish num="119"/><tagalog num="255"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| 0 - 5/ 5/ | 5. 3/ ._1/ 6/ | 5 3 3/ 3/ | 4. 2/ 5/ 4/ | 3 - 5/ ._1/ (break) | ._3. ._2/ ._1/ 7/ | 7 6 ._1/ 6/ | 5/ ._1/ ._2 7 (break) | ._1 - (Chorus) 5/ 5/ | ._2. ._2/ ._1/ ._2/ | ._3 ._1 - | ._4. ._3/ ._2/ 6/ | ._2 - 5/ 5/ (break) | ._1. ._2/ ._3/ ._1/ | ._1 6 - | 5. ._4/ ._3/ ._2/ | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>Hau -- che Dei -- nen Geist in mich, Herr, Lehr mich ein -- zu -- at -- men Dich, Und in Dei -- nen Schoß zu le -- gen Mei -- ne Sün -- de, Selbst, mein Ich. At -- me aus all mei -- ne Sor -- gen, Auch mein al -- tes Sein Und ich at -- me, at -- me, at -- me Dei -- ne Fül -- le ein.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hauche Deinen Geist in mich, Herr,
+    Lehr mich einzuatmen Dich,
+Und in Deinen Schoß zu legen
+    Meine Sünde, Selbst, mein Ich.</stanza>
+	<stanza type="chorus" number="">Atme aus all meine Sorgen,
+    Auch mein altes Sein
+Und ich atme, atme, atme
+    Deine Fülle ein.</stanza>
+	<stanza type="verse" number="2">Atme aus mein eignes Leben,
+    Füll mich, Herr, mit Dir allein;
+Eigne Kraft und Schwachheit lass ich,
+    Atme Gottes Leben ein.</stanza>
+	<stanza type="verse" number="3">Atme aus nun meine Sünde,
+    Diese Last nahmst Du von mir;
+Atme ein nun Deine Reinheit,
+    Find mein Leben ganz in Dir.</stanza>
+	<stanza type="verse" number="4">Atme aus all meine Sorgen,
+    Schenkst Dein Ohr mir immerzu;
+Atme ein jetzt Deinen Frieden,
+    Deine Freude, Trost und Ruh.</stanza>
+	<stanza type="verse" number="5">Atme aus all meine Krankheit.
+    Ihre Last trugst Du so treu;
+Atme ein all Deine Heilung,
+    Längst verheißen, immer neu.</stanza>
+	<stanza type="verse" number="6">Atme aus all meine Sehnsucht
+    In Dein offnes Ohr, oh Herr;
+Atme ein nun Deine Antwort,
+    Zweifel hab ich keine mehr.</stanza>
+	<stanza type="verse" number="7">Allezeit bin ich am Atmen,
+    Zieh mein Leben ganz aus Dir,
+Leb durch Dich mit jedem Atmen,
+    Atme Du als Geist in mir.</stanza>
+  </lyrics>
+</hymn>

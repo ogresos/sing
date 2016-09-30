@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>達到錫安</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1237671512354323</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>神 心 所 傾， 撒 冷 美 麗； 錫 安 高 峯， 滿 祂 情 衷。 神 人 合 併， 互 為 安 息， 至 深 美 意， 願 否 響 應？ 親 愛 良 人， 我 願 隨 你 同 行； 榮 耀 君 王， 今 你 據 我 全 心。 作 得 勝 者， 被 提 滿 足 你 意， 錫 安 山 上 同 你 站 立。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0465.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神心所傾，撒冷美麗；
+錫安高峯，滿祂情衷。
+神人合併，互為安息，
+至深美意，願否響應？</stanza>
+	<stanza type="chorus" number="">親愛良人，我願隨你同行；
+榮耀君王，今你據我全心。
+作得勝者，被提滿足你意，
+錫安山上同你站立。</stanza>
+	<stanza type="verse" number="2">平凡如我，竟入聖城；
+心羨錫安：得勝赤誠。
+榮耀異象，引我腳蹤，
+撇下纏累，踏上旅程。</stanza>
+	<stanza type="verse" number="3">主恩眷臨，祂愛激勵；
+憑信築壇，“以撒”為祭。
+世途成燼，馨香盈溢，
+神聖經綸，此生意義。</stanza>
+	<stanza type="verse" number="4">雲彩圍繞，同奔向前；
+靈中爭戰，配搭無間。
+己意棄絕，身體得建，
+高峯在望，實際出現。</stanza>
+	<stanza type="verse" number="5">愛裏同工，勞苦不息；
+流中跟隨，同魂同心。
+國度福音，徧傳全地，
+建造錫安，迎你再臨。</stanza>
+  </lyrics>
+</hymn>

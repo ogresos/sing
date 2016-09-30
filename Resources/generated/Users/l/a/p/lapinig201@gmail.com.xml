@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cheing2x</firstname>
+  <lastname/>
+  <email>lapinig201@gmail.com</email>
+  <password>$2y$10$yYdquokwkK6SErrAgQComO/Tf.ILUQ3Yh9msR36WadeAUzc1uX9m2</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>222.127.5.197</ipaddress>
+  <createdate>2016-04-08 18:29:39</createdate>
+  <lastupdateddate>2016-04-08 23:20:10</lastupdateddate>
+  <lastlogindate>2016-04-08 18:31:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="68">By listening I can obey</fav>
+    <fav category="default" type="c" num="37">Heaven's for earth</fav>
+    <fav category="default" type="c" num="126">If You Want a Great Big Smile</fav>
+    <fav category="default" type="c" num="44">Our God is so big</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+  </favourites>
+</user>

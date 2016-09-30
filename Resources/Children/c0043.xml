@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Whatever Jehovah pleases</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>511155311225671</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | C - - | C - - | G - - | G7 - - | C - - | C - - | C - - | C - - | C - - | C - - | G - - | G7 - - | C - - | C - - | G - - | G - - | G7 - - | G7 - - | C - - | C - - | C - - | C - - | C - - | C - - | C - - | C - - | G - - | G7 - - | C - F/C | C - - ||</chords>
+  <melody>| 0 - 5_. | 1 1 1 | 5_. - 5_. | 3 - - | 1 - 1 | 2 - 2 | 5_. 6_. 7_. | 1 - - (break) | 0 - 5_. | 1 1 1 | 5_. - 5_. | 3 - - | 1 - 1 | 2 - 2 | 5_. 6_. 7_. | 1 - - (break) | 0 - 1 | 2 2 2 | 2 - 2 | 2( - 3) | 4 - 4 | 3 - 3 | 3 - 3 | 3 - 4 | 5 - - (break) | 1 - - | 5_. - - | 3 - - | 1 - - | 2 - 2 | 5_.( 6_.) 7_. | 1 - - | 0 - - ||</melody>
+  <layout>
+    <singingstanza>What -- ev -- er Je -- ho -- vah pleas -- es He does in heaven and on earth. What -- ev -- er Je -- ho -- vah pleas -- es He does in heaven and on earth. What -- ev -- er Je -- ho -- vah pleas -- es He does in heav -- en and on earth. Psalm one hun -- dred thir -- ty five, verse six.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 135:6</link>
+  </links>
+  <music>
+    <midi location="c" length="41">c0043.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Whatever Jehovah pleases
+He does in heaven and on earth.
+Whatever Jehovah pleases
+He does in heaven and on earth.
+Whatever Jehovah pleases
+He does in heaven and on earth.
+Whatever Jehovah pleases
+He does in heaven and on earth.
+Psalm one hundred thirty five, verse six.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angel</firstname>
+  <lastname>Baker</lastname>
+  <email>ajabrlynn73@gmail.com</email>
+  <password>$2y$10$XL9/Ui95/Fasb52zPnFzU.IAbhvgLXnOUrc.iiePVYEHBi9NYElUe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.254.45.209</ipaddress>
+  <createdate>2016-01-30 05:21:53</createdate>
+  <lastupdateddate>2016-01-30 06:40:37</lastupdateddate>
+  <lastlogindate>2016-01-30 06:40:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="48">We bless Thee, God and Father</fav>
+  </favourites>
+</user>

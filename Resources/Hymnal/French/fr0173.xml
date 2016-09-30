@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Levons-nous et soyons fidèles</title>
+  <index>true</index>
+  <category>La prédication de l’évangile&amp;mdash;les mains vides ?</category>
+  <numbers><cebuano num="930"/><chinese num="668"/><english num="930"/><french num="173"/><korean num="668"/><russian num="148"/><spanish num="418"/><tagalog num="930"/></numbers>
+  <creators>
+    <author biodate="1847-1924" biolink="www.hymns.net/stories/luther.htm">Translated from Charles Carroll Luther</author>
+  </creators>
+  <music>
+    <midiref type="h" num="930"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dois-je donc bras et mains vidés,
+Mon Rédempteur rencontrer ?
+Être un serviteur indigne,
+Sans trophée à Lui donner ?</stanza>
+    <stanza type="chorus" number="">Devrais-je donc, bras et mains vides,
+Au Sauveur me présenter ?
+Et comme une femme stérile,
+Sans enfants me présenter ?</stanza>
+    <stanza type="verse" number="2">La mort ne me fait pas trembler :
+Mon salut est assuré.
+Mais mon tourment, c'est de penser,
+Qu'à Lui j'irai, sans trophée.</stanza>
+    <stanza type="verse" number="3">Tant d'années gâchées au péché !
+Si je pouvais les refaire,
+Au Sauveur je les donnerai,
+Pour Son des Sein satisfaire.</stanza>
+    <stanza type="verse" number="4">Levons-nous et soyons fidèles !
+Tant qu'il fait jour, travaillons !
+Avant que la mort ne nous prenne,
+Pour les âmes combattons !</stanza>
+  </lyrics>
+</hymn>

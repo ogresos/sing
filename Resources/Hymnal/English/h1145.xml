@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God gave His Son to man to be</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><cebuano num="1145"/><chinese num="ts:210"/><dutch num="86"/><english num="1145"/><german num="1145"/><lsmyp num="162"/><russian num="110"/><spanish num="226"/><tagalog num="1145"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0. 0 1/ | 3 3/ 3 4/ | 3 2/ 1 3/ | 5 5/ 5 6/ (break) | 5 2/ 3 5/ | 6 6/ 6/( 7/) ._1/ | 5 5/ 3 1/ | 3 4/ 3 2/ (break) | 1.( 1) (Chorus) 1/ | 3 3/ 3 2/ | 1.( 1) 3/ | 5 5/ 5 4/ (break) | 3.( 3) 5/ | 6 6/ 6/( 7/) ._1/ | 5 5/ 3 1/ | 3 4/ 3 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>God gave His Son to man to be The tree of life so rich and free, That ev -- ery man may taste and see That God is good for food. Yes, God is good for food! Yes, God is good for food! We've tast -- ed and we test -- i -- fy That God is good for food!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj054.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="791"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">God gave His Son to man to be
+The tree of life so rich and free,
+That every man may taste and see
+  That God is good for food.
+    Yes, God is good for food!
+    Yes, God is good for food!
+    We've tasted and we testify
+    That God is good for food!</stanza>
+	<stanza type="verse" number="2">We eat this feast and take God in,
+And as we eat we live by Him,
+For all the elements within
+  This feast are God Himself.
+    Yes, Jesus is our feast!
+    Yes, Jesus is our feast!
+    We eat this feast and live by Him,
+    For Jesus is our feast!</stanza>
+	<stanza type="verse" number="3">Christ Jesus is the food we eat;
+He is our bread, He is our meat;
+He is our life-supply complete;
+  We daily eat of Him.
+    We daily eat of Him,
+    We daily eat of Him.
+    He is our life-supply complete;
+    We daily eat of Him.</stanza>
+	<stanza type="verse" number="4">This feast is so enjoyable;
+To men it's so available,
+For God said whosoever will
+  May come and freely eat.
+    Yes, come and freely eat;
+    Yes, come and freely eat.
+    For God said whosoever will
+    May come and freely eat.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主已復活死的審判</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><cebuano num="120"/><chinese num="100"/><english num="120"/><korean num="100"/><russian num="25"/><tagalog num="120"/></numbers>
+  <creators>
+	<author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 5 3. 4/ | 5 5 6 7 | ._1 - - ._2 (break) | ._3 ._2 7 5 | 7. ._1/ 7 6 | 5 - - 5 (break) | ._1 5 3 4 | 5 7 ._1 ._2 | ._3 - - ._1 (break) | ._2 ._3 ._4 ._1 | ._3. ._4/ ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>主 已 復 活， 死 的 審 判 已 過； 在 祂 裡 面， 死 亡 難 再 淹 沒。 主 已 復 活， 我 今 不 再 定 罪； 祂 的 空 墓 作 證 最 具 權 威。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="120"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主已復活，
+死的審判已過；
+在祂裡面，
+死亡難再淹沒。
+主已復活，
+我今不再定罪；
+祂的空墓作證最具權威。</stanza>
+	<stanza type="verse" number="2">主已復活，
+我也同祂復活；
+在祂墓中，
+仇敵全都埋沒。
+主已復活，
+我得脫離死寨；
+在祂裡面，
+復活生命倚賴。</stanza>
+	<stanza type="verse" number="3">主已復活，
+我已得蒙拯救，
+今在曠野
+跟祂腳蹤行走。
+主已復活，
+我得進至聖所，
+與祂一同
+在神面光生活。</stanza>
+	<stanza type="verse" number="4">主已復活，
+作了幔內先鋒，
+使我營外來作祂的見證。
+主已復活，
+我要高唱凱歌：
+『你已得勝！
+你民已脫捆索！』</stanza>
+  </lyrics>
+</hymn>

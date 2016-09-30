@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>當你說『主』</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3456671211776655</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>當 你 說 『主』， 你 是 把 難 以 形 容 的 一 語 道 出； 當 你 說 『主』， 你 宣 告 你 所 要 的 只 是 那 『萬 主 之 主』。 除 祂 再 無 愛 慕， 萬 事 盡 是 虛 無； 祂 是 一 切 一 切， 在 祂 一 無 所 缺。 當 你 說 『主 耶 穌』， 你 說 出 一 切。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0232.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當你說『主』，你是把
+難以形容的一語道出；
+當你說『主』，
+你宣告你所要的
+只是那『萬主之主』。
+除祂再無愛慕，
+萬事盡是虛無；
+祂是一切一切，
+在祂一無所缺。
+當你說『主耶穌』，
+你說出一切。</stanza>
+  </lyrics>
+</hymn>

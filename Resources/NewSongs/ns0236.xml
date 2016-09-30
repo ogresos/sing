@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, in these days I want to set my heart</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For a Closer Walk with Christ</category>
+  <numbers><english num="ns:236"/><vsb num="200"/></numbers>
+  <hymncode>3123334325571222321</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C - - - | G - - - | F - - - | G - - - | F - - - | G - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| ._3/ ._1/ ._2/ ._3/( ._3) ._3 | ._3/ ._4/ ._3/ ._2/( ._2.) 5/ | 5/ 7/ ._1/ ._2/( ._2) ._2 | ._2/ ._3/ ._2/ ._1/( ._1) - (break) | 5/ ._1/ ._2/ ._3/( ._3) ._3/ ._3/ | ._3/ ._4/ ._3/ ._2/( ._2.) 5/ | 5/ 7/ ._1/ ._2/( ._2) ._2 | ._2/ ._3/ ._2/ ._1/( ._1) - (break) | (Chorus) ._3/ ._1/ 5/ 3/( 3/) 5/ ._1/ ._3/ | ._2 7/ 5/( 5) - | ._1/ 6/ 4/ 1/( 1) ._1 | 7/ 7/ 6/ 5/( 5) - | 4/ 5/ 6/ ._1/( ._1) ._1 | ._2( ._1/) 7/( 7) - | 4/ 5/ 6/ ._1/( ._1) ._1 | ._2/ ._2/ ._1/ 7/( 7/)( ._1/) ._2 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, write Your law, in -- scribe on our hearts, That this law of life, would of us be part, We are so hope -- less, yet we hope in Him, Pre -- par -- ing a way for Christ to come in. Lord, in these days I want to set my heart, Ev -- er and on -- ly, al -- ways on You, That I would not de -- filed be, Keep -- ing my heart so sin -- gle and pure for Thee.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0236.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, write Your law, inscribe on our hearts,
+That this law of life, would of us be part,
+We are so hopeless, yet we hope in Him,
+Preparing a way for Christ to come in.</stanza>
+    <stanza type="chorus" number="">Lord, in these days I want to set my heart,
+Ever and only, always on You,
+That I would not defiled be,
+Keeping my heart so single and pure for Thee.</stanza>
+    <stanza type="verse" number="2">Lord, as the fountain You'd want us to drink,
+Always supplying, it's my only link,
+Staying connected to this precious flow,
+Planting my roots here that they would grow.</stanza>
+    <stanza type="verse" number="3">You are the Potter, we are the clay,
+Form now the church, Your expression today,
+In Christ there's nothing that we may lack,
+As now Your Body, we'd bring You back.</stanza>
+  </lyrics>
+</hymn>

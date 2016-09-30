@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa malayong burol, may magaspang na krus</title>
+  <index>true</index>
+  <category>NALULUWALHATI SA KRUS&amp;mdash;ANG LUMANG MAGASPANG NA KRUS</category>
+  <numbers><chinese num="454"/><english num="618"/><korean num="454"/><spanish num="293"/><tagalog num="618"/></numbers>
+  <creators>
+    <author biodate="1873-1958" biolink="">Translated from George Bennard</author>
+  </creators>
+  <music>
+    <midiref type="h" num="618"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa malayong burol, may magaspang na krus,
+Tanda ng dusa't kahih'yan,
+At mahal ko ang krus, kung saan namatay
+Siya par' sa makasalanan.
+Iibigin ko ang lumang krus,
+Hanggang karangala'y maiwan;
+Kakapit sa magaspang na krus,
+Sa hinaharap maputungan.</stanza>
+    <stanza type="verse" number="2">Magaspang, lumang krus, hinamak ng mundo,
+Lubhang binighani ako;
+Langit ay iniwan ng Kordero ng Diyos,
+Krus pinasan sa Kalbaryo.</stanza>
+    <stanza type="verse" number="3">Sa magaspang na krus, may bahid ng dugo,
+Kagandaha'y makikita;
+'Pagka't do'n si Hesus nagdusa't namatay,
+Ako'y napawalang-sala.</stanza>
+  </lyrics>
+</hymn>

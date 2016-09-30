@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Te loamos, oh Dios</title>
+  <index>true</index>
+  <category>Adoración al Padre&amp;mdash;Su redención</category>
+  <numbers><cebuano num="40"/><chinese num="35"/><english num="40"/><french num="7"/><german num="40"/><korean num="35"/><portuguese num="32"/><russian num="16"/><spanish num="26"/><tagalog num="40"/></numbers>
+  <creators>
+	<author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 | 6 5 3 | 3 2 2 (break) | 2 - (Chorus) 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// | 6 5 3 (break) | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="40"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Te loamos, oh Dios!
+Por Tu Hijo de͜ amor,
+Quien murió por salvarnos
+Y͜ al trono͜ ascendió.</stanza>
+	<stanza type="chorus" number="">¡Aleluya! ¡Te alabamos!
+¡Cuán grande͜ es Tu amor!
+¡Aleluya! ¡Te͜ adoramos!
+Con gloria y͜ honor.</stanza>
+	<stanza type="verse" number="2">¡Te loamos, oh Dios!
+Por Tu Espíritu,
+Que͜ anuló nuestra noche
+Trayéndonos luz.</stanza>
+	<stanza type="verse" number="3">La gloria͜ y honor
+Se͡a͜ al Padre de͜ amor,
+Que͜ ofreciendo Su Hijo
+Nos dio redención.</stanza>
+	<stanza type="verse" number="4">Te damos loor,
+Pues nos llena Tu͜ amor
+Con el fuego divino
+En el corazón.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The veil is rent! Lo! Jesus stands</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Redemption</category>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+    <composer biodate="" biolink="">Donizetti</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>53347211765456553</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G7/D - - | C/E - - | F - - | C/G - - | G7 - - | C - - | C/G - - | C - - | G7/D - - | C/E - - | F - - | C/G - - | G7 - - | F/C - - | C - 0 |</chords>
+  <melody>| 0 - 5 | ._3 - ._3 | ._4 - 7 | ._2 - ._1 | ._1( 7) 6 | 5( 4#) 5 | 6 - 5 | 5( - - (break) | 3) - 5 | ._3 - ._3 | ._4 - 7 | ._2 - ._1 | ._1( 7) 6 | 5( ._1) ._3 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>The veil is rent! Lo! Je -- sus stands Be -- fore the throne of grace; And clouds of in -- cense from His hands Fill all that glo -- rious place.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj157.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="23">e0109_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The veil is rent! Lo! Jesus stands
+  Before the throne of grace;
+And clouds of incense from His hands
+  Fill all that glorious place.</stanza>
+    <stanza type="verse" number="2">His precious blood is sprinkled there,
+  Before and on the throne;
+And His own wounds in heav'n declare
+  His work on earth is done.</stanza>
+    <stanza type="verse" number="3">'Tis finished!" on the cross He said,
+  In agonies and blood;
+'Tis finished: now He lives to plead
+  Before the face of God.</stanza>
+    <stanza type="verse" number="4">'Tis finished!" Here our souls can rest,
+  His work can never fail;
+By Him, our Sacrifice and Priest
+  We enter through the veil.</stanza>
+  </lyrics>
+</hymn>

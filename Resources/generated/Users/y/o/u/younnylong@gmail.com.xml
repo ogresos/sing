@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>younny</firstname>
+    <lastname>long</lastname>
+    <email>younnylong@gmail.com</email>
+    <password>hh5942TIRq3vq3BXYmatsA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>68.230.150.227</ipaddress>
+    <createdate>2011-04-10 13:59:20</createdate>
+    <lastupdateddate>2011-04-14 12:53:08</lastupdateddate>
+    <lastlogindate>2011-04-10 13:59:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="224">As we're sharing of the cup</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1183">On the Lord's day, John, in spirit</fav>
+        <fav category="default" type="h" num="121">Thine be the glory, risen, conqu'ring Son</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+    </favourites>
+</user>

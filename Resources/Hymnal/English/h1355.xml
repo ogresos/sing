@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God has forgiven all my sins</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Forgiven by God</category>
+  <numbers><chinese num="233"/><english num="1355"/><french num="53"/><portuguese num="169"/><russian num="60"/><spanish num="140"/><tagalog num="1355"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3. 2/ 1/ 3_./ 5_./ 1/ | 7_. - - 7_. | 7_.. 4/ 6_./ 7_./ 6_./ 5_./ (break) | 3 - - 5_. | 3. 2/ 1/ 3_./ 5_./ 7b_./ | 6_. - - 4 | 4 0/ 3/ 3/ 2/ 6_./ 7_./ (break) | 1( - 1/) (Chorus) 2/ 2/ 2/ | [3/4] 2. 2/ 3/ 2/ | 5. 5/ 2/ 5/ | 4#. 2/ 1/ 6_./ (break) | [4/4] 5_. - - 5_. | 3. 2/ 1/ 3_./ 5_./ 1/ | 3( 4 5.) 5/ | 5 0/ 4/ 6_./ 4/ 3./ 2// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God has for -- giv -- en all my sins; Be -- hind His back they all are cast. He'll nev -- er call to mind a -- gain The sins He van -- quished in the past. God has for -- giv -- en all my sins, And as a gloom -- y cloud is blown, My sins are van -- ished all a -- way! No more will they be seen or known.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="715"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God has forgiven all my sins;
+Behind His back they all are cast.
+He'll never call to mind again
+The sins He vanquished in the past.</stanza>
+    <stanza type="chorus" number="">God has forgiven all my sins,
+And as a gloomy cloud is blown,
+My sins are vanished all away!
+No more will they be seen or known.</stanza>
+    <stanza type="verse" number="2">My sins were like a heavy stone
+God cast and buried in the sea.
+As east so far from west is thrown,
+My sins have been removed from me!</stanza>
+  </lyrics>
+</hymn>

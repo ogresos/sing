@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Luya, di ko makabuot</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;MOSALIG NIYA</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Luya, di ko makabuot,
+Halos wa na koy paglaum;
+Saligan lang Kang mobuhat,
+Magdala nako's unahan.</stanza>
+	<stanza type="verse" number="2">Pakyas, bisan naningkamot,
+Sige gihapong masayop;
+Pailub Mo m'oy saligan,
+Sa pulong Mo magpatuman.</stanza>
+	<stanza type="verse" number="3">Magpagarbo na ngani ko,
+Halos katumbahon na gyud;
+Di mangahas sa paglihok,
+Kin'hanglan Ka, O Ginoo.</stanza>
+	<stanza type="verse" number="4">Kusog Ka nako'g kalig-on,
+Nia, nangita's nawong Mo;
+Bisan labing maluyahon,
+Grasya Mo ang akong kusog.</stanza>
+  </lyrics>
+</hymn>

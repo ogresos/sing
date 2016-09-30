@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Brennen, brennen, Licht wir spenden</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Ihr örtlicher Ausdruck</category>
+  <numbers><cebuano num="1266"/><chinese num="ts:530"/><english num="1266"/><german num="1266"/><korean num="993"/><russian num="490"/><tagalog num="1266"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <key>Bb Major</key>
+  <melody>| 1/ 1/ 1/ 1/ 1/ 1/ 3/ 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 3/ 1/ (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2 5./ 5// 5 5/ 5/ (break) | 1/ 1/ 1/ 1/ 1/ 1/ 3/ 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 3/ 1/ (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2 1/( 7_./) 1 - (break) | (Chorus) ._2 ._2./ ._2// ._2/ 7/ 5/ 5/ | ._1 ._3./ ._2// ._1/ 6/ 5/ 5/ (break) | ._1 ._1/ ._1/ 7 7 | 6/ ._1/ 7/ 6/ 5 - (break) | 1/ 1/ 1/ 1/ 1/ 1/ 3/ 5/ | ._1/ ._1// ._1// ._1/ ._1/ ._1/ 5/ 3/ 1// 1// (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2/ 2/ 1/ 7_./ 1 - |</melody>
+  <layout>
+	<singingstanza>Bren -- nen, bren -- nen, Licht wir spen -- den, Stets zu uns -- rem Geist uns wen -- den, Eins für Dei -- nen fes -- ten Vor -- satz, eins sind im Geist; Auf dem Orts -- grund stehn wir wie -- der, Gott in Ein -- heit sin -- gen Lie -- der, Nur ein Leib, doch vie -- le Glie -- der,  Chris -- tus ist das Haupt. Chris -- tus und die Ge -- mein -- de, Chris -- tus und die Ge -- mein -- de, Chris -- tus und die Ge -- mein -- de lie -- ben wir, Hal -- le -- lu -- ja! Hal -- le -- lu -- ja! Wir ge -- ben un -- ser Le -- ben Dir, Für den Auf -- bau Dei -- nes Lei -- bes,  Bau uns auf in Lie -- be hier.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1264"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Brennen, brennen, Licht wir spenden,
+Stets zu unsrem Geist uns wenden,
+Eins für Deinen festen Vorsatz, eins sind im Geist;
+Auf dem Ortsgrund stehn wir wieder,
+Gott in Einheit singen Lieder,
+Nur ein Leib, doch viele Glieder, 
+Christus ist das Haupt.</stanza>
+	<stanza type="chorus" number="">Christus und die Gemeinde,
+Christus und die Gemeinde,
+Christus und die Gemeinde lieben wir,
+Hallelujah! Hallelujah!
+Wir geben unser Leben Dir,
+Für den Aufbau Deines Leibes, 
+Bau uns auf in Liebe hier.</stanza>
+	<stanza type="verse" number="2">Atmen, atmen, bis wir leben,
+Neues Leben Er will geben,
+Umgewandelt werden wir, das Alte wird neu;
+Altheit atmen aus soeben,
+Atmen ein das neue Leben,
+Ja, wir atmen Jesus ein, 
+Erfüllt mit Ihm wolln sein.</stanza>
+  </lyrics>
+</hymn>

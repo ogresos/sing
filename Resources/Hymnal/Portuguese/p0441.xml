@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Um dia, quando os céus O louvavam</title>
+  <index>true</index>
+  <category>O Salvador</category>
+  <numbers><chinese num="672"/><english num="987"/><korean num="672"/><portuguese num="441"/><tagalog num="987"/></numbers>
+  <creators>
+    <author biodate="1859-1918" biolink="">Translated from John Wilbur Chapman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="987"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Um dia, quando os céus O louvavam,
+Um dia, negro era nosso pecar,
+Veio Jesus e nasceu duma virgem,
+Deus entre os homens ? é meu exemplar.</stanza>
+    <stanza type="chorus" number="">Vivo, amou-me; morto, salvou-me;
+Os meus pecados na tumba enterrou;
+Ressuscitado, justificou-me,
+Um dia, em glória, virá o Senhor.</stanza>
+    <stanza type="verse" number="2">Um dia foi conduzido ao Calvário,
+Um dia sobre a cruz expirou;
+Teve angústia, desprezo e escárnio,
+Levou-me a culpa ? é meu Redentor.</stanza>
+    <stanza type="verse" number="3">Um dia, só, no jardim, foi deixado;
+Um dia teve descanso da dor;
+Anjos vieram guardar Seu sepulcro.
+Nele espero ? é meu Salvador.</stanza>
+    <stanza type="verse" number="4">Um dia a tumba não mais O reteve,
+Um dia a pedra da entrada rolou;
+Ressuscitou, triunfou sobre a morte,
+Hoje ascendido, é meu Rei, Senhor.</stanza>
+    <stanza type="verse" number="5">Um dia vai ressoar a trombeta,
+Um dia os céus mostrarão Sua luz;
+Ajuntará Ele então os amados;
+Que Salvador glorioso é Jesus!</stanza>
+  </lyrics>
+</hymn>

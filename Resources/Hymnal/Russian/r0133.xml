@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Жизнь моя, Господь, Ты</title>
+  <index>true</index>
+  <category>ЦЕРКОВЬ&amp;mdash;ЕЁ СОЗИДАНИЕ</category>
+  <numbers><cebuano num="841"/><chinese num="381"/><dutch num="3"/><english num="841"/><french num="149"/><german num="841"/><korean num="381"/><portuguese num="236"/><russian num="133"/><spanish num="359"/><tagalog num="841"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 3 2 | 1 - 6_. - | 4. 3/ 2 1 | 7_. - - - (break) | 5 2 3 4 | 3 - 1 - | 2. 1/ 7_. 6_. | 5_. - - - (break) | 5_. 5_. 6_. 7_. | 2 - 1 - | 1 1 4 4 | 3 - - - (break) | 1 2 3 4 | 5 - 5_. - | 6_. 4 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Жизнь мо -- я, Гос -- подь, Ты; Ты во мне жи -- вёшь; Пол -- но -- ту всю Бо -- жью Мне пе -- ре -- да -- ёшь.  Чрез Тво -- ю при -- ро -- ду Де -- ла -- юсь свя -- тым, Мне да -- ёшь по -- бе -- ду Вос -- кре -- се -- ньем Ты.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="841"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Жизнь моя, Господь, Ты;
+Ты во мне живёшь;
+Полноту всю Божью
+Мне передаёшь.
+Чрез Твою природу
+Делаюсь святым,
+Мне даёшь победу
+Воскресеньем Ты.</stanza>
+	<stanza type="verse" number="2">Озаряя светом,
+Жизнь Твоя течёт
+И с Тобой общенье
+В духе мне даёт;
+В нуждах всех снабжает,
+Обличает грех,
+Чтоб я очищался
+И стоял в Тебе.</stanza>
+	<stanza type="verse" number="3">Чрез движенье Духа
+Проникай в меня,
+Чтоб в душе и духе
+Был пропитан я.
+Вкладывай всё больше
+Образ Свой в меня,
+Ростом Твоей жизни
+К зрелости ведя.</stanza>
+	<stanza type="verse" number="4">Жизнь Твоя обильно
+Чрез меня течёт,
+Освежает полно,
+Силу мне даёт.
+Смерть сменилась жизнью,
+Слабость – крепостью,
+Узы тьмы распались,
+В радости пою.</stanza>
+	<stanza type="verse" number="5">Отдаю себя я
+Полностью Тебе,
+Чтоб желанья сердца
+Ты достиг во мне.
+Не пытаюсь больше
+Улучшать себя,
+Чтобы мог работать
+Ты внутри меня.</stanza>
+	<stanza type="verse" number="6">Прекращу борьбу я,
+Чтобы жизнь Твоя
+Мне дала свободу,
+Изменив меня!
+Вместе со святыми
+Созидай меня,
+Чтобы нам во славе
+Выражать Тебя.</stanza>
+  </lyrics>
+</hymn>

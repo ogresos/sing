@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lydia</firstname>
+  <lastname>Wong</lastname>
+  <email>lydiayjwong@gmail.com</email>
+  <password>$2y$10$B1MHoXJqG.K7L8oAoiexueV2J31folNTCItTybgMAC58E6w47MmVq</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-14 01:36:52</createdate>
+  <lastupdateddate>2015-02-08 11:44:41</lastupdateddate>
+  <lastlogindate>2015-02-08 11:44:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

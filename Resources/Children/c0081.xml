@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus bids us shine</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Light</category>
+  <hymncode>1555512177</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - C/E - | F - C/E - | C - Am F | C/G G7 C - |</chords>
+  <melody>| 1/ 5_./ 5_./ 5_./ 5_. 1/ 2/ | 1 7_. 7_. - (break) | 2/ 5_./ 5_./ 5_./ 5_. 2 | 2/ 1/ 1/ 2/ 3 - (break) | 3/ 4/ 3/ 2/ 1 5_. | 6_./ 1/ 7_./( 6_./) 5_. - (break) | 5_./ 5_./ 1/( 2/) 3/ 5 4/ | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Je -- sus bids us shine with a clear, pure light, Like a lit -- tle can -- dle burn -- ing in the night; In this world of dark -- ness, we must shine, You in your small corn -- er and I in mine.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="23">c0081.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus bids us shine with a clear, pure light,
+Like a little candle burning in the night;
+In this world of darkness, we must shine,
+You in your small corner and I in mine.</stanza>
+    <stanza type="verse" number="2">Jesus bids us shine, then, for all around
+Many kinds of darkness in this world abound&amp;mdash;
+Sin and want and sorrow; we must shine,
+You in your small corner, and I in mine.</stanza>
+  </lyrics>
+</hymn>

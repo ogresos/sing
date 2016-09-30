@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus is Jehovah the Savior</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His All-Inclusiveness</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Scott Shepherd">S. S.</author>
+    <composer biodate="" biolink="" fullname="Scott Shepherd">S. S.</composer>
+  </creators>
+  <hymncode>311232127</hymncode>
+  <key>Bb Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G - - | G - - | Am - - | Am - - | F - - | G - - | C - - | C - - | G - - | G - - | Am - - | Am - - | F - - | G - - | Bb - - | Gm - - | Eb. F. | Gm - - | Gm. F/A. | Bb - - | Eb. Cm. | D7 - - |</chords>
+  <melody>| ._3/ ._1( ._1.)( | ._1/) ._1/ ._2/ ._3/ ._2/ ._1/ | ._2/ 7( 7.)( | 7.)( 7) 7/ | ._1/ 6( 6.)( | 6/) 6/ 7/ ._1/ 7/ 6/ | 4. 4/ 6/ ._1/ (break) | 5.( 5) 5/ | ._3/ ._1( ._1.)( | ._1/) ._1/( ._2/) ._3/ ._2/ ._1/ | ._2/( 7)( 7.)( | 7) - - | ._1/ 6( 6.)( | 6/) 6/ 7/ ._1/ 7/ 6/ | 4. 4/( 6/) ._1/ | 5 - - (break) | [Bb Major] 7b 7b/ ._1/ ._1/ ._1/ | ._2 ._1/ 7b 5/ | 7b 7b/ ._1/( 7b/) ._1/ | ._2 - - (break) | 7b 7b/ ._1 ._1/ | ._2 ._1/ 7b 5/ | 7b. ._1/( 7b/ ._1/) | ._2 - - |</melody>
+  <layout>
+    <singingstanza>Je -- sus is Je -- ho -- vah the Sav -- ior. Em -- ma -- nuel, He is God with us and He is the King. Bap -- tiz -- er, the Teach -- er, the Light, Heal -- er, the For -- giv -- er and He's our Bride -- groom. He's the She -- pherd and He's the Friend, The Wis -- dom and the Rest. He's the great -- er Tem -- ple And the real Da -- vid.</singingstanza>
+  </layout>
+  <music>
+    <midi location="lb" length="42">lb49.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus is Jehovah the Savior.
+Emmanuel, He is God with us and He is the King.
+Baptizer, the Teacher, the Light,
+Healer, the Forgiver and He's our Bridegroom.</stanza>
+    <stanza type="chorus" number="">He's the Shepherd and He's the Friend,
+The Wisdom and the Rest.
+He's the greater Temple
+And the real David.</stanza>
+    <stanza type="verse" number="2">Lord! He's the Lord of the Sabbath.
+Jonah and Solomon &amp;mdash; He's the greater One.
+Sower, He's the Seed and the Feeder,
+Bread: the crumbs under the table He is.</stanza>
+    <stanza type="chorus" number="">The Christ, the Son of the living God,
+He's the Rock for the church.
+And He is the Builder of,
+The Builder of the church.</stanza>
+    <stanza type="verse" number="3">Founder of the Kingdom He is.
+Moses and Elijah &amp;mdash; the present One of these two.
+The Head of the cornerstone.
+The Lord, the resurrected One He is.</stanza>
+    <stanza type="chorus" number="">As such a One He is
+The One with authority,
+The ever-present One to His
+People in resurrection.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Banal, Banal, Banal, Makapangyarihan</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG PAGSAMBA</category>
+  <numbers><chinese num="4"/><english num="6"/><german num="6"/><korean num="4"/><portuguese num="3"/><russian num="3"/><tagalog num="6"/></numbers>
+  <creators>
+	<author biodate="1783-1826" biolink="">Translated from Reginald Heber</author>
+  </creators>
+  <melody>| 1 1 3 3 | 5 - 5 - | 6 - 6 6 | 5 - 3 - | 5. 5/ 5 5 | ._1 ._1 7 5 | 2 5 6. 5/ | 5 - - - (break) | 1 1 3 3 | 5 - 5 - | 6. 6/ 6 6 | 5 - 5 - | ._1 - 5 5 | 6 - 3 - | 4 2 2. 1/ | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="6"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Banal, Banal, Banal, Makapangyarihan!
+Awit mapasa Iyo hanggang sa walang hanggan;
+Banal, Banal, Banal ang Diyos na Tres-uno;
+Iisang Diyos, may panig na tatlo.</stanza>
+	<stanza type="verse" number="2">Banal, Banal, Banal, Ika'y sinisinta;
+Mga matanda, putong inilagay nila
+Sa Iyong harapan, nagsisamba ang tanan,
+Iyong noon, ngayon, walang hanggan.</stanza>
+	<stanza type="verse" number="3">Banal, Banal, Banal, kahit nakakubli
+Di man makita ng maysala Iyong l'walhati;
+Tanging Ikaw ang banal, wala nang iba,
+Sakdal sa kadalisaya't pwersa.</stanza>
+  </lyrics>
+</hymn>

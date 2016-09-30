@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>讚美父乃祝福之源</title>
+  <index>true</index>
+  <category>頌讚三一神－對祂的讚美</category>
+  <numbers><cebuano num="8"/><chinese num="5"/><dutch num="8"/><english num="8"/><german num="8"/><korean num="5"/><portuguese num="2"/><russian num="1"/><spanish num="4"/><tagalog num="8"/></numbers>
+  <creators>
+	<author biodate="1637-1711" biolink="">Translated from Thomas Ken</author>
+  </creators>
+  <melody>| 0 - - 1 | 1 7_. 6_. 5_. | 1 2 3( - | 3) 3 3 3 | 2 1 4 3 | 2 - - 1 (break) | 2 3 2 1 | 6_. 7_. 1( - | 1) 5 3 1 | 2 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>讚 美 父 乃 祝 福 之 源， 讚 美 子 將 救 贖 成 全， 讚 美 靈 來 實 施、 運 行， 讚 美 聖 父、 聖 子、 聖 靈！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">讚美父乃祝福之源，
+讚美子將救贖成全，
+讚美靈來實施、運行，
+讚美聖父、聖子、聖靈！</stanza>
+	<stanza type="verse" number="2">讚美父是永活源頭，
+讚美子作生命湧流，
+讚美靈已流入我心，
+讚美三一神是我分。</stanza>
+  </lyrics>
+</hymn>

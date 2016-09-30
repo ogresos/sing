@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>一路跑盡</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><cebuano num="1206"/><chinese num="ts:424"/><english num="1206"/><german num="1206"/><portuguese num="328"/><russian num="121"/><spanish num="302"/><tagalog num="1206"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="John Ingalls">Translated from J. I.</author>
+  </creators>
+  <melody>| 0 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2 | 1/ 1/ 1/ 1/ 7_. 2 (break) | 1 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2 | 1/ 1/ 1/ 1/ 7_. 2 (break) | 1 - - (Chorus) 5./ 5// | 5( - 5/) 3/ 2/ 1/ | 5 - - 5./ 5// | 5 3 2 4# (break) | 5 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2 | 1/ 1/ 1/ 1/ 7_. 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 有 當 跑 的 路， 阿 利 路 亞！ 當 一 路 跑 盡， 莫 停 下！ 對 所 有 在 跑 的 人， 阿 利 路 亞！ 神 說： 『當 望 斷 及 於 祂！』 當 望 斷 以 及 於 祂！ 一 路 跑 盡， 莫 停 下！ 望 斷 一 切 身 外 物， 注 視 耶 穌， 當 望 斷 一 切 及 於 祂！</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Hebrews 12:1-2</link>
+  </links>
+  <music>
+	<midiref type="h" num="1206"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們有當跑的路，
+阿利路亞！
+當一路跑盡，莫停下！
+對所有在跑的人，
+阿利路亞！
+神說：
+『當望斷及於祂！』</stanza>
+	<stanza type="chorus" number="">當望斷以及於祂！
+一路跑盡，莫停下！
+望斷一切身外物，
+注視耶穌，
+當望斷一切及於祂！</stanza>
+	<stanza type="verse" number="2">望斷周遭的事物，
+阿利路亞！
+當望斷擾嚷與掙扎；
+專一注視安息主，
+阿利路亞！
+當望斷一切及於祂！</stanza>
+	<stanza type="verse" number="3">望斷起伏的心緒，
+阿利路亞！
+別管你自己好或差；
+專一注視那標竿，
+阿利路亞！
+當望斷一切及於祂！</stanza>
+	<stanza type="verse" number="4">望斷背後的一切，
+阿利路亞！
+好或壞完全不管它；
+持守那位活的主，
+阿利路亞！
+當望斷一切及於祂！</stanza>
+	<stanza type="verse" number="5">專一注視祂榮臉，
+阿利路亞！
+祂是阿拉法、俄梅嘎；
+領受恩典向前跑，
+阿利路亞！
+當望斷一切及於祂！</stanza>
+  </lyrics>
+</hymn>

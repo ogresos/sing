@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Si Hesus ating kaibigan</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;SINASABI SA PANGINOON</category>
+  <numbers><cebuano num="789"/><chinese num="571"/><english num="789"/><french num="142"/><korean num="571"/><tagalog num="789"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Joseph Scriven</author>
+  </creators>
+  <music>
+    <midiref type="h" num="628"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Si Hesus ating kaibigan,
+Hirap nati'y pinasan,
+Nagbigay ng karapatan
+Diyos ay madalanginan!
+Gaanong lumbay at dusa
+Ang ating binabata
+Pagka't di natin nilagak
+Sa Diyos ang ating lahat.</stanza>
+    <stanza type="verse" number="2">May tukso ba't kaguluhan?
+Tayo'y sinusubukan?
+Hindi dapat manglupaypay,
+Sa Diyos natin isaysay.
+Si Kristo ba'y may katulad
+Sa pagdamay sa hirap?
+Talos Niya ang kahinaan,
+Sa Kanya ipapasan.</stanza>
+    <stanza type="verse" number="3">Mabigat ba ang pasanin,
+Mga alalahanin?
+Kay Hesus mo idalangin,
+At Kanyang aalisin.
+Kung kaibigan mo'y lumimot,
+Idalangin mo sa Diyos;
+Kanyang kamay ang iyong taklob,
+Panatag ang iyong loob.</stanza>
+  </lyrics>
+</hymn>

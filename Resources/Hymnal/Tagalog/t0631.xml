@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lakas pagkabuhay-muli</title>
+  <index>true</index>
+  <category>ANG DAAN NG KRUS&amp;mdash;ANG DAAN NG BUHAY</category>
+  <numbers><cebuano num="631"/><chinese num="464"/><english num="631"/><german num="631"/><korean num="464"/><portuguese num="321"/><russian num="244"/><spanish num="297"/><tagalog num="631"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lakas pagkabuhay-muli
+Upang aking kilanlin;
+Dapat krus aking ibigin,
+Lugi'y aking tanggapin.
+Walang kam'tayan,
+Wala ngang buhay;
+Mula lang sa kamatayan,
+Babangon'ng buhay.</stanza>
+	<stanza type="verse" number="2">Kristo'y maihubog sa 'kin
+Ako'y dapat tapusin;
+Buhay sa krus panatil'hin,
+Kaluluwa'y patayin.</stanza>
+	<stanza type="verse" number="3">Walang hanggang Espiritu
+Gam'tin ng Diyos pagpako;
+Sa 'kin kalakip ni Kristo
+Nang buhay Niya'y mabubo.</stanza>
+  </lyrics>
+</hymn>

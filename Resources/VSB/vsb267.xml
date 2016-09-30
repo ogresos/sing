@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The church is the house of the living God</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:257"/><vsb num="267"/></numbers>
+  <melody>| 0 - 5_. | 1 1 2 | 3 3 2 | 1( 2) 7_. (break) | 1 - 1 | 4 4 4 | 3 3 2 | 1 7_. 1 | 2 - 5_. (break) | 3 3 2 | 1 1 2/( 3/) | 4 - 3 (break) | 2 - 2 | 5 5/( 4/) 3/ 4/ | 5( 3) 1 | 2( 1) 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>The church is the house of the liv -- ing God; The church is the pil -- lar and base of the truth. And great is the mys -- t'ry of god -- li -- ness; That God was man -- i -- fest -- ed in the flesh.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Timothy 3:15-16</link>
+  </links>
+  <music>
+    <midiref type="h" num="278"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The church is the house of the living God;
+The church is the pillar and base of the truth.
+And great is the myst'ry of godliness;
+That God was manifested in the flesh.</stanza>
+  </lyrics>
+</hymn>

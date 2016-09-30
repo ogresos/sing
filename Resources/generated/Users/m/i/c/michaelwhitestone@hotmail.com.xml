@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Michael</firstname>
+    <lastname></lastname>
+    <email>michaelwhitestone@hotmail.com</email>
+    <password>HAZNpNiIl7DhVx3c6oz0mA%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>115.30.41.152</ipaddress>
+    <createdate>2013-12-25 01:31:04</createdate>
+    <lastupdateddate>2013-12-25 05:46:04</lastupdateddate>
+    <lastlogindate>2013-12-25 01:31:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="562">Abiding, oh, so wondrous sweet</fav>
+        <fav category="default" type="h" num="1127">God has saved me from the world</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+        <fav category="default" type="h" num="564">I have learned the wondrous secret</fav>
+        <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+        <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+        <fav category="default" type="h" num="336">Jesus has loved me, wonderful Savior</fav>
+        <fav category="default" type="h" num="567">O Lamb of God, still keep me</fav>
+        <fav category="default" type="h" num="355">O blessed, living Lord</fav>
+        <fav category="default" type="h" num="566">Oh, safe to the Rock that is higher than I</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="356">Thou Magnet of my soul</fav>
+        <fav category="default" type="h" num="565">Under His wings I am safely abiding</fav>
+        <fav category="default" type="h" num="1162">We've found the secret of living</fav>
+        <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+    </favourites>
+</user>

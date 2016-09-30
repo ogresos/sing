@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kristo't Kanyang mapanubos na gawa</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG KAISAHAN</category>
+  <numbers><cebuano num="832"/><chinese num="601"/><english num="832"/><german num="832"/><korean num="601"/><portuguese num="377"/><russian num="379"/><spanish num="354"/><tagalog num="832"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 2# 3 | 4 - 3 - | 3 2 1 2 | 3 - - 0 | 3. 3/ 4 3 | 3 - 6 - | 5 4# 3 4# | 5 - - - (break) | 5. 2/ 3 2 | 2 - 1 - | 5 3 4 5 | 6 - - - | 6. 6/ 7 6 | 5 3 1 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="790"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kristo't Kanyang mapanubos na gawa,
+Nagligtas sa nananampalataya.
+Ibang doktrina'y wala na sa kredo
+Pansinin gawa't persona ni Kristo.</stanza>
+	<stanza type="verse" number="2">Turong ginagamit nang hindi tama,
+"Doktrinang hangin" pagkai-sa sinira
+Banal hinipang palayo sa Ulo
+Katawa'y pininsala di matayo.</stanza>
+	<stanza type="verse" number="3">Kaya bitiwan lahat ng doktrina
+Panghawakan kredo ng pagkakai-sa.
+Sa Pangino'ng 'Spiritu tayo'y isa,
+Pagkai-sa lamang, iba'y bitiwan na.</stanza>
+	<stanza type="verse" number="4">Hawakan katotohanan&amp;mdash;si Kristo,
+Mapalaya sa mga sekta tayo,
+Lumago tungo kay Kristo na Ulo,
+Kapuspusan ng Katawan matamo.</stanza>
+	<stanza type="verse" number="5">Pagkai-sa sa pananalig abutin,
+"Hangin ng pagtuturo" h'wag pansinin;
+Realidad nati'y Kristong 'Spiritu
+Hawakan nang Katawa'y mapalago.</stanza>
+  </lyrics>
+</hymn>

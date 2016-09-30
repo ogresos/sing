@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Antonette</firstname>
+  <lastname/>
+  <email>amapp7@yahoo.com</email>
+  <password>$2y$10$V.vJbp9eJps44m4qbK29lODZNq4ARJBH32x9pHrSijKqF4GdWZJHC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.87.153.238</ipaddress>
+  <createdate>2016-08-22 12:03:32</createdate>
+  <lastupdateddate>2016-08-31 08:59:11</lastupdateddate>
+  <lastlogindate>2016-08-22 12:06:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="103">Behold! behold the Lamb of God</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+    <fav category="default" type="h" num="587">Tis so sweet to walk with Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ in You, the Hope of Glory</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Terrance Tay">T. T.</composer>
+  </creators>
+  <hymncode>55555432251112337</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Csus2 - - - | Csus2 - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | Dm - - - | G7 - - - | Csus2 - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | Dm - G7 - | C - - - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C - - - ||</chords>
+  <melody>| 0 - - 0/ 5_./ | 5 5/ 5/ 5 4 | 3 2/ 2/( 2.) 5_./ | 1 1 1 2/ 3/ (break) | 3. 7_./( 7_.) 5_. | 6_. - 6_. 6_. | 5_.. 1/( 1.) 1/ | 2 - 2 - (break) | 4 - - 0/ 5_./ | 5. 5/( 5) 5 | 4/ 3 2/( 2.) 5_./ | 1 1 1 2/ 3/ | 3. 7_./( 7_.) - (break) | 6_. - 6_. - | 5_.. 1/( 1.) 1/ | 2. 2/ 2/ 7_./ 2 | 1( - - - (break) | 1) - - 0/ 5_./ | 6 - 6 ._1 | 7 6/ 6/( 6/) 5. | 5 - 1 - (break) | 6 - - 0/ 1/ | 4 - 4 5/ 6/ | 5/ 5. {5 5 4} | 5/ 3.( 3)( - (break) | 3) - - 1/ 1/ | 6 - 6 6/ ._1/ | ._2 ._1/ 7/( 7.) 6/ | 5 - 5 ._2 (break) | ._1 - - 6/ 6/ | 6 - - 6 | 5. 5/ {5 3 2} | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>Of which I be -- came a min -- is -- ter ac -- cord -- ing to the ste -- ward -- ship of God, which was giv -- en to me for you, to com -- plete the word of God, The mys -- tery which has been hid -- den from the ag -- es and from the gen -- er -- a -- tions but now has been man -- i -- fest -- ed to His saints; To whom God willed to make known what are the rich -- es of the glo -- ry of this mys -- ter -- y a -- mong the Gen -- tiles, which is Christ in you, the hope of glo -- ry.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Colossians 1:25-27</link>
+  </links>
+  <music>
+    <midi location="ns" length="66">ns0423.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Of which I became a minister
+According to the stewardship
+Of God, which was given
+To me for you,
+To complete the word of God,
+The mystery which has been hidden
+From the ages and from the generations
+But now has been manifested
+To His saints;
+To whom God willed to make known
+What are the riches
+Of the glory of this mystery
+Among the Gentiles,
+Which is Christ in you,
+The hope of glory.</stanza>
+  </lyrics>
+</hymn>

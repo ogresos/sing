@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa tinapay at saro</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="226"/><chinese num="187"/><english num="226"/><korean num="187"/><portuguese num="120"/><russian num="353"/><spanish num="101"/><tagalog num="226"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="226"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa tinapay at saro,
+Sa Iyong ipinangako,
+Akin Ka nang totoo,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="2">Tanging tinapay, saro,
+Sa panalig 'batid ko,
+Mga tandang dibino,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="3">D'hil kami'y Iyong tinawag,
+Sa Iyo kami'y umasa,
+Nanalig, nagtiwala,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="4">D'hil minsan nag-utos Ka,
+Nang Ikaw magunita.
+Maamo Ka at dukha,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="5">Sa salita'y nabatid,
+Inihayag Iyong nais,
+"Gawin hanggang pagdating"
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="6">Hanggang sa Iyong pagdating,
+Tinapay puputulin,
+Ika'y gugunitain,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="7">Hanggang sa pagbalik Mo,
+Iinuman Iyong saro,
+Pagpapala'y matamo,
+Pangino'n, salamat.</stanza>
+    <stanza type="verse" number="8">Para sa pagdating Mo,
+Araw na di matanto,
+Sa luwalhati't trono,
+Pangino'n, salamat.</stanza>
+  </lyrics>
+</hymn>

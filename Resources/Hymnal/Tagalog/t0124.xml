@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Puri, puri! Purihin Siya</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG TAGUMPAY</category>
+  <numbers><cebuano num="124"/><chinese num="109"/><english num="124"/><french num="22"/><german num="124"/><korean num="109"/><portuguese num="60"/><russian num="26"/><spanish num="59"/><tagalog num="124"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 (break) | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Puri, puri! Purihin Siya!
+Nagtagumpay si Kristo.
+Sala't Adam dinaig Niya,
+Katubusan nabuo!
+Lakas ni Satanas talo,
+Sa krus nagwagi tayo.</stanza>
+	<stanza type="verse" number="2">Puri, puri! Purihin Siya!
+Kristo'y muling nabuhay!
+Kamataya'y nilulon Niya,
+Tao ay pinalaya!
+Hades at dilim winasak,
+Pagkabuhay nahayag.</stanza>
+	<stanza type="verse" number="3">Puri! Kristo'y sumalangit!
+Kapangyariha'y Kanya!
+Kataas-taasang ngalan
+Ibinigay sa Kanya!
+Lahat ng namumunuan
+Gagawin Niyang tuntungan.</stanza>
+	<stanza type="verse" number="4">Aleluya! Purihin Siya!
+Sa Kalbaryo'y nagwagi!
+Puri! Muling nabuhay Siya,
+Aleluya! nagwagi!
+Aleluya! Sumalangit,
+Hari ng mga hari!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My song is love unknown</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Suffering</category>
+  <creators>
+    <author biodate="1623-1683" biolink="">Samuel Crossman</author>
+    <composer biodate="1879-1962" biolink="">John Ireland</composer>
+  </creators>
+  <hymncode>356321234516</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>75</tempo>
+  <chords>| C - G/B - | Am - C7/G - | F - G - | Am - D7 - | G - | Dm - - - | C - Am G/B | C - G7 - | C - - - |</chords>
+  <melody>| 3 5/ 6/ 3 2 | 1. 2/ 3/ 4/ 5/ 1/ | 6. 6/ 7/ 6/ 5/ 5/ | ._1/ 7/ 6/ 5/ 5/( 3/)( 3/) 4#/ (break) | [2/4] 5. 5/ | [4/4] 7b/ 6/ 4 - 0/ 4/ | {6 5 1(} 1.) 2/ | 3/ 4/ 5/ 3/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>My song is love un -- known, My Sav -- ior's love to me; Love to the love -- less shown, That they might love -- ly be. O who am I, That for my sake My Lord should take Frail flesh, and die?</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="96"></link>
+  </links>
+  <music>
+    <midi location="nt" length="32">e0096_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My song is love unknown,
+  My Savior's love to me;
+Love to the loveless shown,
+  That they might lovely be.
+    O who am I,
+    That for my sake
+    My Lord should take
+    Frail flesh, and die?</stanza>
+    <stanza type="verse" number="2">He came from His blest throne
+  Salvation to bestow;
+But men made strange, and none
+  The longed-for Christ would know:
+    But oh, my Friend,
+    My Friend indeed,
+    Who at my need
+    His life did spend.</stanza>
+    <stanza type="verse" number="3">Sometimes they strew His way,
+  And His sweet praises sing;
+Resounding all the day
+  Hosannas to their King:
+    Then "Crucify!"
+    Is all their breath,
+    And for His death
+    They thirst and cry.</stanza>
+    <stanza type="verse" number="4">They rise and needs will have
+  My dear Lord made away;
+A murderer they save,
+  The Prince of life they slay.
+    Yet cheerful He
+    To suffering goes,
+    That He His foes
+    From thence might free.</stanza>
+    <stanza type="verse" number="5">In life, no house, no home
+  My Lord on earth might have;
+In death, no friendly tomb,
+  But what a stranger gave.
+    What may I say?
+    Heav'n was His home;
+    But mine the tomb
+    Wherein He lay.</stanza>
+    <stanza type="verse" number="6">Here might I stay and sing,
+  No story so divine;
+Never was love, dear King,
+  Never was grief like Thine.
+    This is my Friend,
+    In whose sweet praise
+    I all my days
+    Could gladly spend.</stanza>
+  </lyrics>
+</hymn>

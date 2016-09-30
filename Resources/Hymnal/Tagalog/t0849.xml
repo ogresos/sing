@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Para sa pagtatayo</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGTATAYO</category>
+  <numbers><cebuano num="849"/><chinese num="613*"/><english num="849"/><german num="849"/><korean num="613"/><tagalog num="849"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 1 1 | 3. 2/ 1 - | 2 2 2 2 | 4. 3/ 2 - (break) | 3 3 3 2 | 5 5 5 6/ 7/ | ._1 3 3 4 | 2( - 1) - (break) | (Chorus) 5 5 5 5 | 7. 6/ 5 - | 2 2 2 2 | 4. 3/ 2 - (break) | 3 3 3 2 | 5 5 5 6/ 7/ | ._1 3 3 4 | 2( - 1) - |</melody>
+  <music>
+	<midiref type="h" num="849"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Para sa pagtatayo
+Pawang buhay na bato
+'To'y mga saserdote
+Dalangin ang may bale.</stanza>
+	<stanza type="chorus" number="">Sa kabanal-banalan
+Hipuin ang luklukan
+Sa 'spiritu'y magdasal
+Pagtatayo'y iiral.</stanza>
+	<stanza type="verse" number="2">May pagkasaserdote
+Nang maging batong buhay,
+Bawa't isa'y gumawa
+Pangsyon nila'y makita.</stanza>
+	<stanza type="verse" number="3">Saserdote at tolda
+Palaging magkasama
+Saserdoteng naglingkod
+Sa tolda naibuklod.</stanza>
+	<stanza type="verse" number="4">Pagkasaserdote at
+Pagtatayo'y iisa;
+Pansaserdoteng gawa,
+Bahay naitayo nga.</stanza>
+	<stanza type="verse" number="5">Sa mga saserdote
+Pagtatayo may bale;
+Natayo ang ekklesia
+Sa pagpapangsyon nila.</stanza>
+	<stanza type="verse" number="6">Pinagkai-sa tao't Diyos
+Kanilang gawang lubos
+Sa salamuha sa Diyos
+Banal natayong lubos.</stanza>
+	<stanza type="verse" number="7">Sa dalangi'y mahalo,
+Magkasamang natayo;
+Pagkasaserdote ngang
+Naghahain sa Kanya.</stanza>
+	<stanza type="verse" number="8">Poon kami'y b'yayaan
+Nang aming pahal'gahan
+Maglingkod sa 'spiritu,
+Ekklesia'y maitayo.</stanza>
+  </lyrics>
+</hymn>

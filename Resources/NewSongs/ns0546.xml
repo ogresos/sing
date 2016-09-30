@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And the God of peace Himself sanctify you wholly</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:546"/><lsmyp num="357"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>4561765465443</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - G - | C - - - | F - G - | C - - - | F - G - | C - Am - | F - G - | F - G - | F - G - | C - - - | C - - - | F - G - | C - - - | G - - - | F - C - | F - - - | C - - - | G - - - | F - C - | G - - - | C - - - | F - C - | G - C - | F - C - | G - C - | F - C - | G - C - | Dm7 - G - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 4 5 | (startrepeat) 6. ._1/ 7. 6/( | 6/) 5.( 5) - | 4. 6/ 5 4 (break) | 4 3( 3.) 1/ | 6 ._1 7/ 7/ 6 | 5 1 2 3 | 4. 6/ 5. 3/ | 4/ 4/ 6 5 2/ 3/ (break) | (alt1) 4/ 4/ 4/ 3/ 2 1/ 7_./( | 7_./) 1.( 1)( - | 1) - 4 5 | (alt2)  4/ 4/ 4/ 3/ 2 1/ 7_./( | 7_./) 1.( 1) 0 (endalt) (break) | 7 7/ ._1/ ._2 5 | 6.( 5/) 5 3 | 4. 3/( 3) 2 | 6 5 - - (break) | 7 7/ ._1/ ._2 5 | 6.( 5/) 5 ._1 | ._2. ._1/( ._1) 7 | ._2 ._1( ._1.) ._1/ (break) | 6 ._1 5 3 | 4 2 3 - | 6 ._1 5 ._1 | 7/ ._1/ ._1 ._1 ._1/ ._1/ (break) | 6 ._1 5 3 | 4 2 3 3/ 5/ | 4 3 2/ 1/( 1/) 7_./( | 7_./) 1.( 1)( - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza end="-1">And the God of peace Him -- self sanc -- ti -- fy you whol -- ly, And may your spir -- it and soul and bod -- y Be pre -- served com -- plete, with -- out blame, At the com -- ing of our Lord Je -- sus Christ. And the com -- ing of our Lord Je -- sus Christ. Faith -- ful is He who calls you, who al -- so will do it. Faith -- ful is He who calls you, who al -- so will do it. The faith -- ful God who has called us, He will al -- so sanc -- ti -- fy us, Sanc -- ti -- fy us whol -- ly, and pre -- serve Our en -- tir -- e be -- ing com -- plete.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Thessalonians 5:23-24</link>
+  </links>
+  <music>
+    <midi location="ns" length="87">ns0546.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">And the God of peace Himself sanctify you wholly,
+And may your spirit and soul and body
+Be preserved complete, without blame,
+At the coming of our Lord Jesus Christ.</stanza>
+    <stanza type="note">(Repeat)</stanza>
+    <stanza type="verse" number="">Faithful is He who calls you, who also will do it.
+Faithful is He who calls you, who also will do it.
+The faithful God who has called us,
+He will also sanctify us,
+Sanctify us wholly, and preserve
+Our entire being complete.</stanza>
+  </lyrics>
+</hymn>

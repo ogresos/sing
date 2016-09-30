@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Mavis</firstname>
+    <lastname></lastname>
+    <email>mavis.a@mac.com</email>
+    <password>J%2BQxgb7CyjN6RhJpJFCY7A%3D%3D</password>
+    <gender></gender>
+    <country>France</country>
+    <ipaddress>173.245.53.91</ipaddress>
+    <createdate>2014-01-05 17:09:10</createdate>
+    <lastupdateddate>2014-01-05 17:15:38</lastupdateddate>
+    <lastlogindate>2014-01-05 17:09:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+    </favourites>
+</user>

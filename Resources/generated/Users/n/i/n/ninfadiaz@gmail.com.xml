@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ninfa</firstname>
+  <lastname>Diaz</lastname>
+  <email>ninfadiaz@gmail.com</email>
+  <password>$2y$10$52/xK8gmRwXXWqB0gOFKwerERL973qCdFeHVTAxUyPILh11mSYq96</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>71.229.111.49</ipaddress>
+  <createdate>2010-01-15 20:44:35</createdate>
+  <lastupdateddate>2014-07-19 01:33:44</lastupdateddate>
+  <lastlogindate>2014-07-19 01:30:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+  </favourites>
+</user>

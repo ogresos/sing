@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pforsich</firstname>
+  <lastname/>
+  <email>pforsich@csus.edu</email>
+  <password>$2y$10$mRUKe/Nv5yKZU86ygPs/wORK75ceT6gE8U9D/ArrCMFqhgEwoaq5.</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>70.199.227.112</ipaddress>
+  <createdate>2014-04-11 21:56:10</createdate>
+  <lastupdateddate>2016-08-22 04:31:41</lastupdateddate>
+  <lastlogindate>2016-08-22 04:31:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="245">How glorious is Thy church, Oh Lord</fav>
+    <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="ns" num="359">Shepherding in Love</fav>
+    <fav category="default" type="nt" num="356">Thou Magnet of my soul</fav>
+  </favourites>
+</user>

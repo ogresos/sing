@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Terry</firstname>
+    <lastname></lastname>
+    <email>tdc3719@yahoo.com</email>
+    <password>cRC6mfp8KwCWiDs3z%2For8Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.245.63.210</ipaddress>
+    <createdate>2014-03-01 13:27:46</createdate>
+    <lastupdateddate>2014-03-01 15:25:39</lastupdateddate>
+    <lastlogindate>2014-03-01 13:27:46</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="719">Like a river, glorious</fav>
+        <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+    </favourites>
+</user>

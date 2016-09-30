@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O nasiak nga Bato</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;NAGTUAW NGADTO SA GINOO</category>
+  <numbers><cebuano num="1058"/><chinese num="731"/><english num="1058"/><korean num="731"/><spanish num="485"/><tagalog num="1058"/></numbers>
+  <creators>
+    <author biodate="1740-1778" biolink="">Translated from Augustus Montague Toplady</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1058"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O nasiak nga Bato,
+Patagoa's sulod Mo;
+Dugo'g tubig niagay,
+Sa kilid Mong gidughang,
+Dobleng pag-ayo's sala,
+Luwasa's gahum's sala.</stanza>
+    <stanza type="verse" number="2">Dili ang paghago ko
+Ang magtuman's sugo Mo;
+Bisan di mopahulay,
+Luha ko sigeng agay,
+Di 'ni magpala's sala,
+L'wasa gyud ko's grasya Mo.</stanza>
+    <stanza type="verse" number="3">Kamot ko walay dala,
+Krus Mo m'oy saligan ra;
+Hubo, ako bistihe,
+Way mahimo, grasyahi,
+Hugaw, adto's tuboran,
+Hugasi, kay mamatay.</stanza>
+    <stanza type="verse" number="4">Kon ginhawa mohunong,
+Mga mata mopiyong,
+Moadto's wa masayri,
+Moatubang's hukmanan,
+O nasiak nga Bato,
+Patagoa's sulod Mo.</stanza>
+  </lyrics>
+</hymn>

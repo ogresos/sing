@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Diem</firstname>
+  <lastname>Tran</lastname>
+  <email>ngocdiem.tranthi@gmail.com</email>
+  <password>$2y$10$gxuuVBJWEJRKHoSm/pRLhuzswcHR2dHiUR9kGUlUMCoNZuZI5/E.S</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>58.182.168.76</ipaddress>
+  <createdate>2014-08-03 06:44:21</createdate>
+  <lastupdateddate>2014-08-03 06:45:29</lastupdateddate>
+  <lastlogindate>2014-08-03 06:45:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+  </favourites>
+</user>

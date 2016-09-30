@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督使我心中喜樂</title>
+  <index>true</index>
+  <category>得救的證實與快樂－因基督得滿足</category>
+  <numbers><cebuano num="348"/><chinese num="256"/><english num="348"/><korean num="256"/><portuguese num="181"/><russian num="255"/><spanish num="165"/><tagalog num="348"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. F. Butler</author>
+  </creators>
+  <melody>| 0. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 3./ 1// (break) | 2. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 2./ 1// (break) | 1. (Chorus) 1/ 4./ 4// | 4. 4/ 3./ 1// | 3. 3/ 3./ 3// | 5. 3/ 3/ 1/ (break) | 2. 5_./ 1./ 2// | 3. 5_./ 6_./ 1/ | 1. 1/ 7_./ 6_./ | 5_.. 3/ 2./ 1// | 1. 0. |</melody>
+  <layout>
+	<singingstanza>基 督 使 我 心 中 喜 樂， 基 督 使 我 口 中 高 歌； 有 祂 同 在， 就 能 歡 暢， 有 祂 同 在， 就 能 歌 唱！ 阿 利 路 亞， 真 能 歌 唱！ 阿 利 路 亞， 真 能 歡 暢！ 有 祂 同 在， 就 能 歡 暢， 有 祂 同 在， 就 能 歌 唱！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="348"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督使我心中喜樂，
+基督使我口中高歌；
+有祂同在，就能歡暢，
+有祂同在，就能歌唱！</stanza>
+	<stanza type="chorus" number="">阿利路亞，真能歌唱！
+阿利路亞，真能歡暢！
+有祂同在，就能歡暢，
+有祂同在，就能歌唱！</stanza>
+	<stanza type="verse" number="2">從前心身全是重擔，
+今日裡外都是平安；
+祂已赦我一切罪愆，
+祂已擔我一切為難。</stanza>
+	<stanza type="verse" number="3">從前瞎眼，暗如夜半，
+今日看見，明如中天；
+祂已救我脫離迷途，
+祂今領我行走正路。</stanza>
+	<stanza type="verse" number="4">從前一人寂寞、孤單，
+今日有祂作我同伴，
+天天相隨，時時相偕，
+處處體諒，事事體貼。</stanza>
+	<stanza type="verse" number="5">祂愛甘甜，激我走路，
+祂恩豐滿，使我順服；
+祂的愛心將我拯救，
+祂的恩手將我保守。</stanza>
+	<stanza type="verse" number="6">除祂以外，在天有誰？
+除祂以外，在地無歸！
+祂之愛我，直到萬代！
+我之愛祂，豈只現在？</stanza>
+  </lyrics>
+</hymn>

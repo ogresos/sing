@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pam</firstname>
+  <lastname/>
+  <email>phopper@woh.rr.com</email>
+  <password>$2y$10$TZ9pOIEij0ayzr2nFCh.yeNIKxzE.1MFGE6MQ5y1eN0Q7s2f3VV4i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.165.108.9</ipaddress>
+  <createdate>2015-01-04 18:28:48</createdate>
+  <lastupdateddate>2015-01-04 18:31:44</lastupdateddate>
+  <lastlogindate>2015-01-04 18:29:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+  </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tanging Hesus, ating paksa</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG LAHAT-LAHAT</category>
+  <numbers><cebuano num="511"/><chinese num="395"/><english num="511"/><german num="511"/><korean num="395"/><portuguese num="252"/><russian num="518"/><tagalog num="511"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - - 5_./( 4#_./) 5_./ | 1. 1. 1/( 7_./) 1/ | 2. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 1/( 7_./) 1/ (break) | 2.( 2.) 5_./( 6_./) 5_./ | 1. 1. 1/( 2/) 3/ | 4. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 7_./( 6_./) 7_./ (break) | 1.( 1.) (Chorus) 1/( 2/) 3/ | 4. 4. 4/( 3/) 2/ | 3. 3. 3/( 2/) 1/ | 2.( 2) 2/ 2/( 3/) 2/ (break) | 5.( 5.) 5_./( 6_./) 5_./ | 1.( 1) 1/ 1/ 2/ 3/ | 4. 6_.. 1/ 7_./ 6_./ | 5_.. 1. 7_./( 6_./) 7_./ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="511"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tanging Hesus, ating paksa,
+Siya'ng tanging mensahe rin;
+Tanging Hesus itaas nga,
+Siya'ng pagmasdan at sundin.</stanza>
+	<stanza type="chorus" number="">Tanging Hesus, laging Hesus,
+L'walhatiin si Hesus,
+Manggagamot at Manunubos,
+Buhay natin, Hari, Diyos.</stanza>
+	<stanza type="verse" number="2">Tanging Hesus, Manunubos,
+Pinasan ang sala ko;
+Sa walang hanggang pagtubos
+Biyaya'y natamo ko.</stanza>
+	<stanza type="verse" number="3">Tanging Hesus, Nagpabanal,
+Sala't sarili'y talo;
+Ang Espiritu Mong mahal,
+Nagpuspos sa puso ko.</stanza>
+	<stanza type="verse" number="4">Tanging Hesus, Manggagamot,
+Sakit ko ay pinaram;
+Buhay, kapuspusa'y dulot
+Sa sangkap ng Katawan.</stanza>
+	<stanza type="verse" number="5">Tanging Hesus, kalakasan,
+Pentecostes 'binigay;
+Espiritu, kami'y hipan,
+Lakas aming mataglay.</stanza>
+	<stanza type="verse" number="6">Hesus, hinihintay natin,
+Pagdating Niya'y makita;
+Hesus hanggang sa wakas din,
+Tanging Hesus, lahat Siya.</stanza>
+  </lyrics>
+</hymn>

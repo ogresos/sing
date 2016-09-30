@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Er hat gesiegt! Der Herr hat schon den Feind besiegt</title>
+  <index>true</index>
+  <category>GEISTLICHE KRIEGSFÜHRUNG&amp;mdash;Voran gehen</category>
+  <numbers><cebuano num="1289"/><chinese num="ts:812"/><english num="1289"/><french num="168"/><german num="1289"/><korean num="852"/><portuguese num="419"/><tagalog num="1289"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Schwestern:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brüder:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Er hat ge -- siegt! Der Herr hat schon den Feind be -- siegt! Der Sie -- ges -- schrei ist hör -- bar nah und fern! Sein Blut herrscht vor! Durchs Blut er -- lan -- gen wir den Sieg! Und bald wird Er als Sie -- ger wie -- der -- kehrn. Er hat ge -- siegt! Oh Chris -- ten- -- Brü -- der, Er hat ge -- siegt! Bringt Ihm Lob -- preis! In Zi -- on wei -- len, den Sieg hier fei -- ern, Und fülln mit Lob den Er -- den -- kreis. Er hat ge -- siegt! Oh Chris -- ten- -- Schwes -- tern, Das gro -- ße Werk hat Er voll -- bracht! Den Feind be -- zwun -- gen, den Sieg er -- run -- gen– Uns e -- wig Freu -- de hat ver -- macht!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Er hat gesiegt! Der Herr hat schon den Feind besiegt!
+Der Siegesschrei ist hörbar nah und fern!
+Sein Blut herrscht vor! Durchs Blut erlangen wir den Sieg!
+Und bald wird Er als Sieger wiederkehrn.</stanza>
+	<stanza type="chorus" number="">(Schwestern singen)
+Er hat gesiegt! Oh Christen-Brüder,
+Er hat gesiegt! Bringt Ihm Lobpreis!
+In Zion weilen, den Sieg hier feiern,
+Und fülln mit Lob den Erdenkreis.</stanza>
+	<stanza type="chorus" number="">(Brüder singen)
+Er hat gesiegt! Oh Christen-Schwestern,
+Das große Werk hat Er vollbracht!
+Den Feind bezwungen, den Sieg errungen –
+Uns ewig Freude hat vermacht!</stanza>
+	<stanza type="verse" number="2">Er hat gesiegt! Wir überwinden Gottes Feind,
+Bezeugen kühn und mutig Gottes Wort.
+Gott spricht Sein Wort, das Leben und Befreiung schenkt, 
+Wenn wir es sprechen, weicht der Feind sofort.</stanza>
+	<stanza type="verse" number="3">Er hat gesiegt! Der Feind ist unter unsrem Fuß,
+Ja, wir verleugnen uns bis in den Tod; 
+Wir rufen froh: „Herr Jesus, Du bist unser Sieg!“
+Im Geist gestärkt verehrn wir unsren Gott.</stanza>
+  </lyrics>
+</hymn>

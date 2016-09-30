@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>EDWIN</firstname>
+    <lastname>BAIYE</lastname>
+    <email>ebaiye@yahoo.com</email>
+    <password>$1$qLdb71ge$HOBLxqRZJDr6DL17v/iqd.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>98.197.112.70</ipaddress>
+    <createdate>2008-08-19 20:02:39</createdate>
+    <lastupdateddate>2012-04-24 07:08:10</lastupdateddate>
+    <lastlogindate>2012-04-24 07:08:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

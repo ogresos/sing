@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>興起！角聲發出！</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:852"/><english num="920"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from J. H. Stuart</author>
+  </creators>
+  <melody>| 1 - 1. 1/ | 1 5_. 1 - | 2 - 3. 4/ | 3 - - - (break) | 3 - 3. 2/ | 1 7_. 6_. - | 2 - 7_.. 6_./ | 5_. - - - (break) | 5_. - 1 5_. | 6_.. 6_./ 6_. - | 6_. - 4 3 | 2 1 7_. - (break) | 1 - 2 3 | 5 4 1( 2) | 3 - 3. 2/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>興 起！ 角 聲 發 出， 喜 信 傳 佈； 宣 揚 萬 主 之 主─ 救 主 耶 穌； 述 說 祂 名 寶 貴， 高 舉 祂 的 尊 位， 好 使 萬 眾 來 歸─ 耶 穌 是 主！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="920"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">興起！角聲發出，喜信傳佈；
+宣揚萬主之主─救主耶穌；
+述說祂名寶貴，高舉祂的尊位，
+好使萬眾來歸─耶穌是主！</stanza>
+	<stanza type="verse" number="2">誰願為祂前去？誰願興起？
+地愛迷人難拒，為祂全棄：
+鄙視屬地榮華，萬事看為卑下，
+惟誇救主十架；誰願興起？</stanza>
+	<stanza type="verse" number="3">得賞之日不遠，奮勇向前；
+晨星快要出現，不再遲延。
+高舉十架救恩，征服偶像、判民；
+惟盼有福之晨，與主相見。</stanza>
+	<stanza type="verse" number="4">請聽勝利角聲，耶穌為王！
+基督登極執政，無能違抗：
+全地復歸祂有，惟祂居高為首，
+座前無不拜叩─耶穌為王！</stanza>
+  </lyrics>
+</hymn>

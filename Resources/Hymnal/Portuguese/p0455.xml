@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ante Pilatos está Jesus</title>
+  <index>true</index>
+  <category>A Persuasão</category>
+  <numbers><english num="1041"/><portuguese num="455"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1041"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ante Pilatos está Jesus,
+Só e traído, aguarda a cruz;
+Uma pergunta o juiz conduz:
+"Que farei eu de Cristo?"</stanza>
+    <stanza type="chorus" number="">Que farás tu de Cristo?
+Decide-te hoje enfim;
+Senão dirás tu um dia:
+"Que Ele fará de mim?"</stanza>
+    <stanza type="verse" number="2">Mudo em juízo Jesus está:
+Podes ser falso e O rejeitar,
+Ou ser fiel e O aceitar ?
+Que farás tu de Cristo?</stanza>
+    <stanza type="verse" number="3">Como Pilatos, vais-te evadir
+Ou escolher a Jesus seguir?
+Em vão procuras te omitir;
+Que farás tu de Cristo?</stanza>
+    <stanza type="verse" number="4">Vais, como Pedro, a Jesus negar,
+Ou defendê-Lo em qualquer lugar,
+Ousando a vida por Ele dar?
+Que farás tu de Cristo?</stanza>
+    <stanza type="verse" number="5">"Dou-Te, Jesus, o meu coração,
+Para seguir-Te com devoção
+E obedecer-Te!" ? dirás então ?
+"Isso farei de Cristo!"</stanza>
+  </lyrics>
+</hymn>

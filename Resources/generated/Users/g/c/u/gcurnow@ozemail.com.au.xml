@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Greg</firstname>
+    <lastname>Curnow</lastname>
+    <email>gcurnow@ozemail.com.au</email>
+    <password>MAaPfeC0%2Fhi8H7K7O%2FExEA%3D%3D</password>
+    <gender>M</gender>
+    <country>au</country>
+    <ipaddress>124.171.188.55</ipaddress>
+    <createdate>2011-02-09 20:04:50</createdate>
+    <lastupdateddate>2011-02-10 20:26:10</lastupdateddate>
+    <lastlogindate>2011-02-09 21:06:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+        <fav category="default" type="h" num="85">O come, all ye faithful! joyfully triumphant</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="995">There is a green hill far away</fav>
+        <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+        <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+    </favourites>
+</user>

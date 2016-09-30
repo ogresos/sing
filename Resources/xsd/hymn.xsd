@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.hymnal.net/hymn" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="hymn" type="hymn:hymnType" xmlns:hymn="http://www.hymnal.net/hymn"/>
+  <xs:complexType name="estonianType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="creatorsType">
+    <xs:sequence>
+      <xs:element type="hymn:authorType" name="author" maxOccurs="unbounded" minOccurs="0" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element type="hymn:composerType" name="composer" maxOccurs="unbounded" minOccurs="0" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="portugueseType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="lyricsType">
+    <xs:sequence>
+      <xs:element type="hymn:stanzaType" name="stanza" maxOccurs="unbounded" minOccurs="0" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="gifscoreType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="location"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="linksType">
+    <xs:sequence>
+      <xs:element type="hymn:linkType" name="link" maxOccurs="unbounded" minOccurs="0" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="mp3Type">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="location"/>
+        <xs:attribute type="xs:string" name="length"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="dutchType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="videosType">
+    <xs:sequence>
+      <xs:element type="hymn:videoType" name="video" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="midirefType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type"/>
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="arabicType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="frenchType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="germanType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="midiType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="location"/>
+        <xs:attribute type="xs:string" name="length"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="cebuanoType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="spanishType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="singingstanzaType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="end"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="videoType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="title"/>
+        <xs:attribute type="xs:string" name="youtubeid"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="audioType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="title"/>
+        <xs:attribute type="xs:string" name="location"/>
+        <xs:attribute type="xs:string" name="length"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="chineseType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="numbersType">
+    <xs:sequence>
+      <xs:element minOccurs="0" type="hymn:arabicType" name="arabic" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:cebuanoType" name="cebuano" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:chineseType" name="chinese" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:dutchType" name="dutch" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:englishType" name="english" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:estonianType" name="estonian" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:frenchType" name="french" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:germanType" name="german" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:koreanType" name="korean" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:lsmypType" name="lsmyp" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:portugueseType" name="portuguese" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:russianType" name="russian" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:spanishType" name="spanish" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:tagalogType" name="tagalog" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:vsbType" name="vsb" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="altmidiType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="location"/>
+        <xs:attribute type="xs:string" name="length"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="audiosType">
+    <xs:sequence>
+      <xs:element type="hymn:audioType" name="audio" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="composerType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="biodate" use="optional"/>
+        <xs:attribute type="xs:string" name="biolink" use="optional"/>
+        <xs:attribute type="xs:string" name="fullname" use="optional"/>
+        <xs:attribute type="xs:string" name="email" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="tagalogType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="linkType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+        <xs:attribute type="xs:string" name="category" use="optional"/>
+        <xs:attribute type="xs:string" name="num" use="optional"/>
+        <xs:attribute type="xs:string" name="url" use="optional"/>
+        <xs:attribute type="xs:string" name="title" use="optional"/>
+        <xs:attribute type="xs:string" name="year" use="optional"/>
+        <xs:attribute type="xs:string" name="format" use="optional"/>
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+        <xs:attribute type="xs:string" name="location" use="optional"/>
+        <xs:attribute type="xs:string" name="email" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="vsbType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="authorType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="biodate" use="optional"/>
+        <xs:attribute type="xs:string" name="biolink" use="optional"/>
+        <xs:attribute type="xs:string" name="fullname" use="optional"/>
+        <xs:attribute type="xs:string" name="email" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="musicType">
+    <xs:sequence>
+      <xs:element minOccurs="0" type="hymn:midiType" name="midi" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:midirefType" name="midiref" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:altmidiType" name="altmidi" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:mp3Type" name="mp3" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:gifscoreType" name="gifscore" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:pdfscoreType" name="pdfscore" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="russianType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="koreanType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="layoutType">
+    <xs:sequence>
+      <xs:element type="hymn:singingstanzaType" name="singingstanza" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="xs:string" name="singingstanza2"/>
+      <xs:element minOccurs="0" type="xs:string" name="singingstanza3"/>
+      <xs:element minOccurs="0" type="xs:string" name="globalstaffsize"/>
+      <xs:element minOccurs="0" type="xs:string" name="topmargin"/>
+      <xs:element minOccurs="0" type="xs:string" name="bottommargin"/>
+      <xs:element minOccurs="0" type="xs:string" name="columns"/>
+      <xs:element minOccurs="0" type="xs:string" name="sheetcopyright"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="lsmypType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="pdfscoreType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="location"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="hymnType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="title"/>
+      <xs:element minOccurs="0" type="xs:string" name="index"/>
+      <xs:element type="xs:string" name="category"/>
+      <xs:element minOccurs="0" type="hymn:numbersType" name="numbers" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:creatorsType" name="creators" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="xs:string" name="meter"/>
+      <xs:element minOccurs="0" type="xs:string" name="hymncode"/>
+      <xs:element minOccurs="0" type="xs:string" name="key"/>
+      <xs:element minOccurs="0" type="xs:string" name="time"/>
+      <xs:element minOccurs="0" type="xs:string" name="tempo"/>
+      <xs:element minOccurs="0" type="xs:string" name="chords"/>
+      <xs:element minOccurs="0" type="xs:string" name="guitarChords"/>
+      <xs:element minOccurs="0" type="xs:string" name="melody"/>
+      <xs:element minOccurs="0" type="hymn:layoutType" name="layout" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="xs:string" name="notes"/>
+      <xs:element minOccurs="0" type="xs:string" name="date"/>
+      <xs:element minOccurs="0" type="xs:string" name="copyright"/>
+      <xs:element minOccurs="0" type="hymn:linksType" name="links" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:audiosType" name="audios" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:videosType" name="videos" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element minOccurs="0" type="hymn:musicType" name="music" xmlns:hymn="http://www.hymnal.net/hymn"/>
+      <xs:element type="hymn:lyricsType" name="lyrics" xmlns:hymn="http://www.hymnal.net/hymn"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="stanzaType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+        <xs:attribute type="xs:string" name="number" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="englishType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="num"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>

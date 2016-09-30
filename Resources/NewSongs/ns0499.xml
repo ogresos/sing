@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Vision of God's Building</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;The New Jerusalem</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>111133556535</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | G - - - | C - Cm - | C - - - | Am - - - | D - G - | C - - - | C - - - | C - - - | F - G - | C - - - | C - - - | A7 - - - | D - - - | G - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | A7 - - - | D - G7 - | C - - - | D - G7 - | C - - - ||</chords>
+  <melody>| 1./ 1// 1./ 1// 3./ 3// 5./ 5// | 6 5 3 5 (break) | 5./ 5// 5./ 5// 5./ 5// 5./(. 5//). | 6 5 3b/( 2/) 1 (break) | ._1./ ._1// ._1./ ._1// ._1./ ._1// 5./ 5// | 6./(. 6//). 6./(. 6//). 6 3./ 3// (break) | 3./ 3// 3./ 3// 2./ 5_.// 6_../ 1// | 1 - - (Chorus) 7 (break) | ._1( - - - | ._1/) 0/ 6./ 6// 5./ 5// 6./ 6// (break) | 1 1 1 2/ 3/( | 3)( - 3/) 5/ 6 | ._1( - - - (break) | 6) 6/ 5/( 5) 6 | 2 2 6/ 6. | 5 - - - (break) | ._1 ._1./ ._1// ._1./ ._1// 6./ 5// | ._1./ ._1// ._1./ ._1// ._3 - (break) | ._1./ ._1// ._1./ ._1// ._1./ ._1// 6./ 5// | ._1 ._1 ._3 - (break) | ._1./ ._1// ._1./ ._1// ._1./ ._1// 6./ 5// | 6./ 5// 6./ 5// 6( 6./) 5// (break) | 6 6./ 6// 5./ 3// 2./ 3// | 1 - - 0./ 5// | 6 6 5./ 3// 2 | 1 - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">Ja -- cob saw the vi -- sion of a dream in Beth -- el, Mos -- es saw the vi -- sion on a moun -- tain, do tell, Da -- vid saw the vi -- sion of the ho -- [skip1] ly [skip1] tem -- ple, E -- ze -- kiel saw the vi -- sion of the house. Then John.... saw the vi -- sion of the New Je -- ru -- sa -- lem, Well, it's God.... dis -- pensed and God built in -- to men, We need a vi -- sion so we o -- pen to the Lord, Seek -- ing rev -- e -- la -- tion in the Ho -- ly Word, Turn -- ing to the spir -- it for the build -- ing of the church, The church is the full -- ness of the One. (Eph -- e -- sians one: twen -- ty three)</singingstanza>
+    <singingstanza2>Zech -- a -- ri -- ah's vi -- sion was for God's re -- cov -- 'ry, Dan -- iel had a vi -- sion of [skip1] Christ in vic -- t'ry, Paul and Pe -- ter's vi -- sion of the build -- ing of the Bod -- y Com -- plete the rev -- e -- la -- tion of the age.</singingstanza2>
+  </layout>
+  <music>
+    <midi location="ns" length="56">ns0499.mid</midi>
+  </music>
+  <notes>Adapted from 2014 Spring ITERO, Message 7.</notes>
+  <lyrics>
+    <stanza type="verse" number="1">Jacob saw the vision of a dream in Bethel,
+Moses saw the vision on a mountain, do tell,
+David saw the vision of the holy temple,
+Ezekiel saw the vision of the house.</stanza>
+    <stanza type="chorus" number="">Then John.... saw the vision of the New Jerusalem,
+Well, it's God.... dispensed and God built into men,
+We need a vision so we open to the Lord,
+Seeking revelation in the Holy Word,
+Turning to the spirit for the building of the church,
+The church is the fullness of the One.
+(Ephesians one: twenty three)</stanza>
+    <stanza type="verse" number="2">Zechariah's vision was for God's recovery,
+Daniel had a vision of Christ in victory,
+Paul and Peter's vision of the building of the Body
+Complete the revelation of the age.</stanza>
+  </lyrics>
+</hymn>

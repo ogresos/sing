@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, labing gihigugma</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;KATAGBAWAN DIHA NIYA</category>
+  <numbers><cebuano num="208"/><chinese num="169"/><english num="208"/><french num="34"/><german num="208"/><korean num="169"/><portuguese num="112"/><russian num="39"/><spanish num="95"/><tagalog num="208"/></numbers>
+  <creators>
+	<author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+	<author biodate="1849-1928" biolink="">Translated from Russell Kelso Carter, chorus</author>
+  </creators>
+  <melody>| 0 - - 0 - 3 | 3 - 3 3 - 3 | 5 - 5 ._1 - 5 | 6 - 4 4( 5) 6 | 5( - - 5) - 5 (break) | 5 - 2 2( 3) 4 | 3 - 1 5 - 5 | 5 - 2 2( 3) 4 (break) | 3( - - 5) - (Chorus) 5 | 6 - 6 6 - 6 | 5# - 6 7 - 3 | ._1 - ._1 ._1 - ._1 | 7 - ._1 ._2 - 5 (break) | ._3 - ._2 ._1 - 7 | ._2 - ._1 6 - 4 | 5 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <music>
+	<midiref type="h" num="208"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, labing gihigugma,
+Tungod sa gugma Mo,
+Pasangpita sa ngalan Mo
+Bisan's makalibo.</stanza>
+	<stanza type="chorus" number="">Jesus, pabilin kanako,
+Bisan unsay mahitabo;
+Pahiyom Mo kalipay ko,
+Gihigugma ko Ikaw.</stanza>
+	<stanza type="verse" number="2">Paghigugmang di kapugngan,
+Maoy kalipay ko;
+Daw kalayo ang gugma Mo,
+Nikaylap ning kalag.</stanza>
+	<stanza type="verse" number="3">Kay Ikawng tanan sa tanan,
+Dungog ug kadato;
+Pangandoy's kasingkasing ko,
+Kalig-on sa kalag.</stanza>
+	<stanza type="verse" number="4">Adlaw'g gabi' nagdilaab,
+Gugma Mo's sulod ko;
+Biya sa yutan-ong gugma,
+Gisunog, giwala.</stanza>
+	<stanza type="verse" number="5">Kahayag Ka sa kangitngit,
+Dinhi's yuta, langit;
+Jesus, gugma ko'g bahandi,
+Way nasayud's bili.</stanza>
+	<stanza type="verse" number="6">Asa kutob kining gugma?
+Unsay makapugong?
+Gugma Mo nagkatam-is pa
+Karon sa gahapon.</stanza>
+  </lyrics>
+</hymn>

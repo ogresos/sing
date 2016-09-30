@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在主的召會中</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><cebuano num="1278"/><chinese num="ts:721"/><english num="1278"/><german num="1278"/><russian num="141*"/><tagalog num="1278"/></numbers>
+  <melody>| 0 - 1 2 | 3 - 3 - | 5 4( - 3) | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6 5 - - | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2 ._1 - - | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_. 2 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>在 主 的 召 會 中， 有 愛 為 著 你； 愛 是 純 潔 溫 柔， 深 摯 又 真 切。 何 必 常 感 孤 單， 嘆 息 無 友 伴？ 在 主 召 會 之 中 有 豐 富 供 應！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1278"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在主的召會中，
+有愛為著你；
+愛是純潔溫柔，
+深摯又真切。
+何必常感孤單，
+嘆息無友伴？
+在主召會之中
+有豐富供應！</stanza>
+	<stanza type="verse" number="2">在主的召會中，
+有生命為你；
+溫熱如同太陽，
+新鮮像甘露。
+何必感到懼怕，
+煩惱又焦慮？
+召會必定看顧，
+主所贖的人！</stanza>
+	<stanza type="verse" number="3">在主的召會中，
+有事工為你；
+甚至天使也會
+樂意來有分。
+何必閒站等候，
+要作更大事？
+召會正在需要
+你來盡功用！</stanza>
+	<stanza type="verse" number="4">在主的召會中，
+有住處為你；
+榮耀、光明、喜樂、
+公義又安息。
+何必像浪蕩者；
+疲倦而流落？
+在主召會之中
+有你的住處。</stanza>
+  </lyrics>
+</hymn>

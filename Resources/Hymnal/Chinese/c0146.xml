@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們當來同聲歡呼</title>
+  <index>true</index>
+  <category>讚美主－祂的配得</category>
+  <numbers><cebuano num="183"/><chinese num="146"/><english num="183"/><korean num="146"/><portuguese num="89"/><russian num="507"/><tagalog num="183"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 當 來 同 聲 歡 呼， 稱 頌 神 的 基 督； 我 們 若 有 千 萬 舌 頭， 詩 歌 只 有 一 首。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們當來同聲歡呼，
+稱頌神的基督；
+我們若有千萬舌頭，
+詩歌只有一首。</stanza>
+	<stanza type="verse" number="2">『升天羔羊，你真是配，
+來得這樣讚美！』
+我們喊說：『你真是配，
+因你為我降卑！』</stanza>
+	<stanza type="verse" number="3">救主耶穌配得尊貴、
+權柄、榮耀、智慧；
+還有許多獻上不及，
+主阿，永都歸你！</stanza>
+	<stanza type="verse" number="4">不久聖徒快要上升，
+同發讚美之聲；
+一切住在青天之下，
+都要頌揚不暇！</stanza>
+	<stanza type="verse" number="5">待贖宇宙合而為一，
+頌讚羔羊不已；
+因祂降世，親臨死地，
+現今榮耀無比。</stanza>
+  </lyrics>
+</hymn>

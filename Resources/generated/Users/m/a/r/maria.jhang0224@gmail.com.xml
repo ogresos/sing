@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Maria.jhang</firstname>
+  <lastname/>
+  <email>maria.jhang0224@gmail.com</email>
+  <password>$2y$10$aZ0ZYQsWhspC1kJqumJIRObQ3wbr8x59TZxor6C2UzGN3E8DYXoke</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>36.233.232.225</ipaddress>
+  <createdate>2015-08-14 06:03:28</createdate>
+  <lastupdateddate>2016-07-13 07:45:21</lastupdateddate>
+  <lastlogindate>2016-07-13 07:44:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+    <fav category="default" type="h" num="1145">God gave His Son to man to be</fav>
+    <fav category="default" type="ns" num="476">God's Dream</fav>
+    <fav category="default" type="ns" num="504">He gives power to the faint</fav>
+    <fav category="default" type="nt" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="ns" num="366">My heart longs for absolute surrender</fav>
+    <fav category="default" type="ns" num="518">Simon, son of John</fav>
+    <fav category="default" type="ns" num="321">The Uniqueness of the Lord's Recovery</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="ns" num="383">These things says the Holy One</fav>
+    <fav category="default" type="ns" num="511">This Divine Power</fav>
+    <fav category="default" type="ns" num="517">Treasure in Earthen Vessels</fav>
+    <fav category="default" type="ns" num="516">Your People Will Offer Themselves</fav>
+    <fav category="default" type="ns" num="514">Your People Will Offer Themselves Willingly</fav>
+    <fav category="default" type="h" num="1187">Your ministry, O Lord</fav>
+    <fav category="default" type="ts" num="250">我已尋得一生命泉源</fav>
+    <fav category="default" type="ts" num="525">為著召會的恢復</fav>
+    <fav category="default" type="ns" num="476c">神的夢</fav>
+    <fav category="default" type="ch" num="543">聖殿深處是至聖所</fav>
+    <fav category="default" type="ts" num="465">達到錫安</fav>
+  </favourites>
+</user>

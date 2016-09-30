@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kasama Siyang magpagal</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;NAGPAPAGAL KASAMA NG PANGINOON</category>
+  <numbers><cebuano num="786"/><chinese num="569"/><english num="786"/><german num="786"/><korean num="569"/><russian num="286"/><spanish num="337"/><tagalog num="786"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 3. 2/ | 1 6_. 5_. - | 1 1 4. 3/ | 2 1 7_. - (break) | 2 3/( 2/) 5. 1/ | 7_. 4 3 - | 1 1 3. 2/ | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="786"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kasama Siyang magpagal,
+Daa'y buksan sa dasal;
+Pakilusin tayo't Siya,
+Mula sentro't gilid pa.</stanza>
+	<stanza type="verse" number="2">Kasamang magpagal Siya,
+Makilalang kai-sa Niya.
+Sa dalangi't layunin
+Pagpala'y pabahain.</stanza>
+	<stanza type="verse" number="3">Kasama Siyang magpagal,
+Ambisyon ko'y matanggal;
+Maging sariling pasya
+Kundi layon lamang Niya.</stanza>
+	<stanza type="verse" number="4">Kasama Siyang magpagal,
+Manguna Siya sa dasal;
+Lahat ng gawa't plano,
+Ang nagtupad Siya't ako.</stanza>
+	<stanza type="verse" number="5">Kasama Siyang magpagal,
+Kasama Siyang magdasal;
+Hanggang gulong umikot;
+Ekklesia ay sumunod.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In God's green pastures feeding</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As the Shepherd</category>
+  <creators>
+    <author biodate="1956" biolink="">Orien G. Johnson</author>
+  </creators>
+  <melody>| 0 - - 5/ 4/ | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 5_./ 7_./ 2 - | 2 5_./ 7_./ 2/ 4/ 3/ 2/ | 3 1 5_. 5/ 4/ (break) | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 6_./ 2/ 4 - | 3.( 1/) 3 2 | 1 - - (Sis:) ._1/ 7/ (break) | 6 (Bro:) 1/ 4/ 6/ 4/ (Sis:) 7/ 6/ | 5 (Bro:) 1/ 3/ 5/ 3/ (Sis:) 6/ 5/ (break) | 4 7_./( 2/) (Bro:) 4/ 6/ 5/ 4/ | (All:) 5/ 4/ 3/ 4/ 5 (Sis:) ._1/ 7/ (break) | 6 (Bro:) 1/ 4/ 6/ 4/ (Sis:) 7/ 6/ | 5 (Bro:) 1/ 3/ 5/ 3/ (Sis:) 6/ 5/ (break) | 4 (Bro:) 7_./ 2/ 4/ (All:) 6/ 5/ 4/ 3 - - 0 |</melody>
+  <layout>
+    <singingstanza>In God's green pas -- tures feed -- ing by His cool wa -- ters lie; Soft in the eve -- ning walk my Lord and I, All the sheep of His pas -- ture Fare so won -- drous -- ly fine; His sheep am I. Wa -- ters cool, In the val -- ley; Pas -- tures green, On the moun -- tain, In the eve -- ning In the eve -- ning Walk my Lord and I. Dark the night, In the val -- ley, Rough the way, On the moun -- tain, Step by step... Step by step. My Lord and I.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-e.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="1197"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In God's green pastures feeding by His cool waters lie;
+Soft in the evening walk my Lord and I,
+All the sheep of His pasture
+Fare so wondrously fine; His sheep am I.</stanza>
+    <stanza type="chorus" number="">Sisters: Waters cool,
+Brothers: In the valley;
+Sisters: Pastures green,
+Brothers: On the mountain,
+Sisters: In the evening
+Brothers: In the evening
+Everyone: Walk my Lord and I.</stanza>
+    <stanza type="chorus" number="">Sisters: Dark the night,
+Brothers: In the valley,
+Sisters: Rough the way,
+Brothers: On the mountain,
+Sisters: Step by step...
+Brothers: Step by step.
+Everyone: My Lord and I.</stanza>
+    <stanza type="verse" number="2">Through the streets of the city in the darkness of the night,
+Far from the fold, He heard my lonely cry.
+Now I sit at His table in the palace of light;
+His sheep am I.</stanza>
+  </lyrics>
+</hymn>

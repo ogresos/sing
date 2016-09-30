@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Otis (Lee)</firstname>
+  <lastname>Gaston</lastname>
+  <email>otisgaston@bellsouth.net</email>
+  <password>$2y$10$vGQEP/Ja4fcqPSudkUPQfuX29/peMYQaFy5uNb.tcd3PzfyscMF4S</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.0.249.86</ipaddress>
+  <createdate>2015-05-15 15:21:05</createdate>
+  <lastupdateddate>2015-06-05 15:24:54</lastupdateddate>
+  <lastlogindate>2015-06-05 15:24:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="766">Teach me to pray, Lord, teach me to pray</fav>
+  </favourites>
+</user>

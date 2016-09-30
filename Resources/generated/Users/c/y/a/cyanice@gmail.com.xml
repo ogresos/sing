@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname/>
+  <email>cyanice@gmail.com</email>
+  <password>$2y$10$VayJw5hB2FwZFn9zET0azOLvjZtnsI779poNaGSNBZ2Gzuu.LH4CG</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>108.162.219.194</ipaddress>
+  <createdate>2014-01-07 22:43:19</createdate>
+  <lastupdateddate>2014-09-06 07:13:25</lastupdateddate>
+  <lastlogindate>2014-09-06 07:13:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="593">All I have in Adam is but sin and death</fav>
+    <fav category="default" type="h" num="193">Dear Lord, Thou art so much to us</fav>
+    <fav category="default" type="h" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="h" num="589">God in heaven hath a treasure</fav>
+    <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+    <fav category="default" type="nt" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="h" num="946">Lo, the glory! Lo, the splendor</fav>
+    <fav category="default" type="h" num="395">O Jesus Christ, grow Thou in me</fav>
+    <fav category="default" type="h" num="426">Remove my covering, Lord</fav>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+    <fav category="default" type="ts" num="337">一件美事</fav>
+    <fav category="default" type="ts" num="540">主恢復的獨特</fav>
+    <fav category="default" type="ts" num="762">同活在主身體中</fav>
+    <fav category="default" type="ts" num="345">我深知惟有你是我所愛</fav>
+  </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌只要一想到你</title>
+  <index>true</index>
+  <category>讚美主－對祂的滿足</category>
+  <numbers><cebuano num="209"/><chinese num="171"/><english num="209"/><german num="209"/><korean num="171"/><portuguese num="110"/><russian num="40"/><tagalog num="209"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Translated from Bernard of Clairvaux</author>
+	<author biodate="1814-1878" biolink="">Translated by Edward Caswall</author>
+  </creators>
+  <melody>| 3 3 3 | 2 - 3 | 4 - 7_. | 1 - - | 5_. 5_. 5_. | 3 - 2 | 2 - - (break) | 4 4 3 | 2 - 1 | 7_. - 6_. | 5_. - - | 5_. 6_. 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>耶 穌， 只 要 一 想 到 你， 我 心 就 滿 甘 甜； 但 這 甘 甜 還 遠 不 及 親 眼 看 見 你 面。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="209"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌，只要一想到你，
+我心就滿甘甜；
+但這甘甜還遠不及
+親眼看見你面。</stanza>
+	<stanza type="verse" number="2">無口能唱，無心能思，
+也無記性能憶
+一種聲音比你名字
+更為甘甜、可喜。</stanza>
+	<stanza type="verse" number="3">你是痛悔者的希望，
+溫柔者的喜樂；
+你對尋求者何善良，
+跌倒者何仁德。</stanza>
+	<stanza type="verse" number="4">但對尋得你者如何？
+無口無筆能述；
+耶穌的愛，其深、其闊，
+惟被愛者略熟。</stanza>
+	<stanza type="verse" number="5">耶穌！你是世人之光，
+你是生命之源！
+遠超一切我之所享、
+一切我所能羨。</stanza>
+	<stanza type="verse" number="6">你外我無別的源頭
+能解我心乾渴；
+無窮寶泉！活水湧流！
+別流全都乾涸。</stanza>
+	<stanza type="verse" number="7">耶穌，你今是我喜樂，
+將來是我賞賜；
+你是我的榮耀、詩歌，
+從今直到永世。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Himayaon si Cristo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAKUS</category>
+  <numbers><cebuano num="179"/><chinese num="147"/><english num="179"/><german num="179"/><korean num="147"/><portuguese num="88"/><tagalog num="179"/></numbers>
+  <creators>
+	<author biodate="1734-1804" biolink="">Translated from James Allen</author>
+  </creators>
+  <melody>| 5 3 1 | 2( 1) 7_. | 1 - - | 1 2 3 | 4/( 5/ 4) 3 | 2 - - (break) | 5 3 1 | 5_. - - | 2 3 4 | 3. 2/ 1 | 2 3 4 | 3. 2/ 1 (break) | 1 3 5 | 5. 6/ 5 | 4 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="3"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Himayaon si Cristo!
+Langit pun-on's pagdayeg!
+Daygon Siya:
+Nagpas-an's kasubo;
+Gisimba sa langit,
+Balaan nagsinggit,
+"Takus Siya!"</stanza>
+	<stanza type="verse" number="2">Sa trono N'ya maglibot,
+Malipayong magdayeg
+Sa ngalan N'ya:
+Nasayud's dugo N'ya,
+May pakigdait's Dios,
+Isangyawng ngalan N'ya,
+Takus Siya!</stanza>
+	<stanza type="verse" number="3">Maghiusang katawhan
+Sa pagdayeg kang Cristo,
+Daygon Siya:
+Magkalipay Kan'ya,
+Uban sa paghugyaw,
+Tingog palanoga,
+"Takus Siya!"</stanza>
+	<stanza type="verse" number="4">Bisan kita mabalhin,
+Kasingkasing way hunong,
+Magdayeg N'ya:
+Maghalad Kaniya,
+Haring puno's grasya,
+Padayong awita,
+"Takus Siya!"</stanza>
+  </lyrics>
+</hymn>

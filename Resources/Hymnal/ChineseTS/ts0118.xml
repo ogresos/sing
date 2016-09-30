@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>三一神作生命</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><chinese num="ts:118"/><english num="ns:354"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+  </creators>
+  <melody>| 0 - 3/ 4/ | 5 - 5/ 5/ | ._1 - ._3/ ._3/ | ._2 - ._1/ ._1/ (break) | 6/( ._1.) 6/ 6/ | 5 - 5/ 5/ | ._1 - ._3/ ._3/ (break) | ._2 - ._3/ ._4/ | ._5 - ._5/ ._5/ | ._3 - ._3/ ._3/ | ._2 - ._1/ ._1/ (break) | 6/( ._1.) 6/ 6/ | 5 - ._1/ ._2/ | ._5/( (.._3/) - ._2/ ._1/ | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>哦 我 神， 在 你 裡， 有 永 遠 的 生 命， 這 生 命 在 子 裡 得 顯 明。 如 今 主 復 活 裡 已 成 為 生 命 靈， 在 我 裡 點 活 我， 賜 生 命。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="354"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦我神，在你裡，
+有永遠的生命，
+這生命在子裡得顯明。
+如今主復活裡
+已成為生命靈，
+在我裡點活我，賜生命。</stanza>
+	<stanza type="verse" number="2">哦看哪！
+從神和羔羊的寶座間，
+已流出這一道生命河；
+神乃是生命源，
+主乃是生命泉，
+三一神湧流成生命河。</stanza>
+	<stanza type="verse" number="3">主耶穌，主耶穌，
+我向你敞開靈，
+從深處呼你名將你飲；
+主耶穌，主耶穌，
+向這河我全傾，
+三一神漫全人作生命。</stanza>
+  </lyrics>
+</hymn>

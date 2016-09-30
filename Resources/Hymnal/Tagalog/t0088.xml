@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sumilay ang kaamuan</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG BUHAY</category>
+  <numbers><chinese num="76"/><english num="88"/><korean num="76"/><tagalog num="88"/></numbers>
+  <creators>
+    <author biodate="1818-1896" biolink="">Translated from Arthur Cleveland Coxe</author>
+  </creators>
+  <music>
+    <midiref type="h" num="88"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sumilay ang kaamuan,
+Ng dibinong kalikasan,
+Sa landas na nag-isa Ka,
+Nagliwanag ng pagsinta.</stanza>
+    <stanza type="verse" number="2">O sino nga ang gaya Mo
+Maliwanag at maamo?
+Katulad Mong mapagtiyaga
+Hirap dinanas sa lupa?</stanza>
+    <stanza type="verse" number="3">Sino ang mapagkumbaba
+At nagtiis ng pagdusta
+Gaya Mong tiniis, dusta?
+Anong amo, anong baba!</stanza>
+    <stanza type="verse" number="4">Kamatayan Iyong binata,
+Nang may sala mapalaya
+'Pinahayag Iyong pagsinta,
+Kasama ng dugo'y awa.</stanza>
+    <stanza type="verse" number="5">Pangino'ng kamangha-mangha,
+Mapawangis sa Iyo nawa,
+Matuto sa kababaan
+Sundan, tahakin Iyong daan.</stanza>
+  </lyrics>
+</hymn>

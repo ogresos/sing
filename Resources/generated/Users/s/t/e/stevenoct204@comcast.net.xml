@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Steven</firstname>
+    <lastname>Clements</lastname>
+    <email>stevenoct204@comcast.net</email>
+    <password>xrPh1SgWXuKFv450RSZQqw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>71.62.13.248</ipaddress>
+    <createdate>2012-08-12 08:30:51</createdate>
+    <lastupdateddate>2012-08-12 08:43:24</lastupdateddate>
+    <lastlogindate>2012-08-12 08:31:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1030">I hear my risen Savior say</fav>
+        <fav category="default" type="h" num="997">I hear the Savior say</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+    </favourites>
+</user>

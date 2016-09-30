@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Draw me, Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For a Closer Walk with Christ</category>
+  <hymncode>53123454321431</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>80</tempo>
+  <chords>| C - G/B - | Am - C/E - | Dm - C/E - | F - G7 - | C - G/B - | Am - C/E - | Dm - C/E - | F - G7 - | C - G/B - | Am - C/G - | F - C/E - | Dm - G7 - |</chords>
+  <melody>| 5 - 3 - | 1 - - 2/ 3/ | 4/ 5// 4//( 4/) 3/ 2. 1/ | 4 3 1 - (break) | 5 - 3 - | 1 - - 2/ 3/ | 4/ 5// 4//( 4/) 3/ 2. 1/ | 4 3 1 - (break) | (Chorus) 5 - 5 - | 3( 2// 1//)( 1//)( 2// 3)( 3) - | 5 - 5 - | 3/( 2// 1//)( 1//) 2// 3/)( 3) - |</melody>
+  <layout>
+    <singingstanza>Draw me, Lord; Lest these earth -- ly cares con -- sume My driv -- en soul. Move me Lord; As a cours -- ing riv -- er turns With -- in Thine hands. Draw me, Lord! Draw me, Lord!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="36">ns0121.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Draw me, Lord;
+Lest these earthly cares consume
+My driven soul.
+Move me Lord;
+As a coursing river turns
+Within Thine hands.</stanza>
+    <stanza type="chorus" number="">Draw me, Lord!
+Draw me, Lord!</stanza>
+    <stanza type="verse" number="2">Capture me;
+Be the conqueror of this
+Wild, charging mare.
+Win me Lord,
+And subdue all pow'r of self
+To yield to Thee.</stanza>
+    <stanza type="verse" number="3">Draw me, Lord;
+Ev'ry heartbeat tends to drift
+My course from Thee.
+Draw me, Lord;
+I would gladly let Thee win
+And yield my sword.</stanza>
+    <stanza type="verse" number="4">Draw me, Lord;
+Oh, Thy love compels me as
+An ocean's tide!
+Draw me, Lord;
+For Thy drawing maketh hearts
+To fast pursue.</stanza>
+  </lyrics>
+</hymn>

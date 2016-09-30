@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Subadha</lastname>
+  <email>vsbs@hotmail.com</email>
+  <password>$2y$10$9eh33BHQx6uE7vRnEGPpXe3UL4Q2zBurEk8bqHhZ8AmubpmjUhi7W</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>82.3.77.60</ipaddress>
+  <createdate>2016-04-11 20:34:05</createdate>
+  <lastupdateddate>2016-04-11 21:05:28</lastupdateddate>
+  <lastlogindate>2016-04-11 21:01:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="ns" num="326">You shall love the Lord with all your heart</fav>
+  </favourites>
+</user>

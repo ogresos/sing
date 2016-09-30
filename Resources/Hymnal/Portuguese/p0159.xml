@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A mente em plena paz com Deus</title>
+  <index>true</index>
+  <category>Reconciliados Com Deus</category>
+  <numbers><chinese num="240*"/><english num="299"/><french num="55"/><german num="299"/><korean num="240*"/><portuguese num="159"/><russian num="61"/><spanish num="143"/><tagalog num="299"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. Paget</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="299"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">A mente em plena paz com Deus ?
+Que bênção isso traz!
+O sangue me reconciliou;
+De fato isso é paz!</stanza>
+	<stanza type="verse" number="2">Em natureza e ações,
+Distante estava eu;
+A graça fez-me aproximar
+Por fé no sangue Seu.</stanza>
+	<stanza type="verse" number="3">Tão perto como o Filho está,
+Assim estou de Deus;
+Mais perto eu não posso estar:
+Já estou no Filho Seu.</stanza>
+	<stanza type="verse" number="4">Sou mui querido para Deus,
+Querido Dele, sim;
+Me ama como ao Filho Seu,
+Me ama Deus, assim.</stanza>
+	<stanza type="verse" number="5">Que ansiedades posso ter,
+Se esse Deus é meu?
+Zeloso, dia e noite diz:
+"O que é Meu é teu."</stanza>
+  </lyrics>
+</hymn>

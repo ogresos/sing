@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sam</firstname>
+  <lastname/>
+  <email>frettyboy212@gmail.com</email>
+  <password>$2y$10$n0tfaxvbnPSQ10m9kk3S0ep5R66Oxt1esSin5c5zL5etR.6BapSxq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.183.89.78</ipaddress>
+  <createdate>2016-01-18 21:59:30</createdate>
+  <lastupdateddate>2016-01-18 22:26:38</lastupdateddate>
+  <lastlogindate>2016-01-18 22:04:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="h" num="1113">Now the Triune God has come to dwell within</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="h" num="452">Tell me not of earthly pleasures</fav>
+    <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    <fav category="default" type="h" num="1152">To Jesus every day we find our hearts are closer drawn</fav>
+    <fav category="default" type="h" num="1153">We have found the Christ who's all in all</fav>
+    <fav category="default" type="h" num="1308">We have oil in our lamps&amp;mdash;we are burning</fav>
+    <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+  </favourites>
+</user>

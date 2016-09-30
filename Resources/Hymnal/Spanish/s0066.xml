@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Miles de voces van proclamando</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su exaltación</category>
+  <numbers><cebuano num="127"/><chinese num="110"/><english num="127"/><german num="127"/><korean num="110"/><portuguese num="62"/><russian num="203"/><spanish num="66"/><tagalog num="127"/></numbers>
+  <creators>
+	<author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 5_./ | 1. 3. 3/( 2/) 1/ | 2. 5_.. 5_./( 6_./) 5_./ | 2. 4. 4/( 3/) 2/ (break) | 3 - - 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ | 1. 6_.. 2/( 1/) 6_./ | 5_.. 1. 3 2/ | 1 - - 0. |</melody>
+  <music>
+	<midiref type="h" num="127"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Miles de voces van proclamando
+A una voz, "¡Cordero de Dios!"
+Miles de santos van respondiendo
+Dándole eco͜ a su clamor.</stanza>
+	<stanza type="verse" number="2">Resuena͜ el cielo, "¡Gloria͜ al Cordero!",
+Todos le rinden esta canción;
+Con voz potente participando
+En Su͜ eternal adoración.</stanza>
+	<stanza type="verse" number="3">Esta͜ alabanza como͜ el incienso
+Asciende͜ al trono del Padre Dios;
+Todos se͜ inclinan a Jesucristo,
+Todas sus mentes una son.</stanza>
+	<stanza type="verse" number="4">Por Su consejo͜ el Padre reclama:
+Dadle al Hijo͜ el mismo honor;
+Toda la gloria de Dios el Padre
+Expresa͜ el Hijo͜ en Su͜ esplendor.</stanza>
+	<stanza type="verse" number="5">Huestes del cielo frente͜ al Cordero,
+Por el Espíritu del Señor
+Son coronados con luz y gozo,
+Para͜ alabar al gran "YO SOY".</stanza>
+	<stanza type="verse" number="6">Descansa hoy sin ningún estorbo
+La jubilosa nueva cre͡ación,
+Tan bendecida en Jesucristo
+Por Su completa salvación.</stanza>
+	<stanza type="verse" number="7">Desborda͜ el cielo con alabanzas
+Por la creciente͜ eterna canción;
+"¡Amén!" resuena por todo͜ el orbe,
+"¡Amén!" responde la cre͡ación.</stanza>
+  </lyrics>
+</hymn>

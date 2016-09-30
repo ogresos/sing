@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Under an eastern sky</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Belonging to the Lord</category>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1872-1962" biolink="">Isaac Hickman Meredith</composer>
+  </creators>
+  <meter>6.6.6.4.</meter>
+  <hymncode>33355653335565</hymncode>
+  <key>Db Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C/E - | C - G/B - | Am - G - | Am - Em - | F - C - | Dm - G7 - | C - - - |</chords>
+  <melody>| 3 3/ 3/ 5 5 | 6( - 5) 0 | 3 3/ 3/ 5 5 | 6( - 5) 5 (break) | ._1 ._1 7 3 | 6( - 5) 1 | 4( - (.4) 4 | (.3 - - 0 |</melody>
+  <layout>
+    <singingstanza>Un -- der an east -- ern sky, A -- mid a rab -- ble's cry, A Man went forth to die, For me! for me!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj032.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="22">e0453_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Under an eastern sky,
+Amid a rabble's cry,
+A Man went forth to die,
+  For me! for me!</stanza>
+    <stanza type="verse" number="2">Thorn-crowned His blessed head,
+Blood-stained His every tread;
+Cross-laden He was led,
+  For me! for me!</stanza>
+    <stanza type="verse" number="3">Pierced His hands and feet,
+Three hours o'er Him beat
+Fierce rays of noon-tide heat,
+  For me! for me!</stanza>
+    <stanza type="verse" number="4">Thus wert Thou made all mine;
+Lord, make me wholly Thine;
+Grant grace and strength divine
+  To me! to me!</stanza>
+    <stanza type="verse" number="5">In thought and word and deed,
+Thy will to do, O lead
+My soul, e'en though it bleed,
+  To Thee, to Thee.</stanza>
+  </lyrics>
+</hymn>

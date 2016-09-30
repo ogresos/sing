@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alexis</firstname>
+  <lastname/>
+  <email>alexistsings@aol.com</email>
+  <password>$2y$10$8NHavFjvGpvuyJn9.8gdCujCpMo/7DjyaspQd4DTzG7UdSCzTwooy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.34.163.114</ipaddress>
+  <createdate>2015-03-09 02:46:47</createdate>
+  <lastupdateddate>2015-03-09 03:00:39</lastupdateddate>
+  <lastlogindate>2015-03-09 02:56:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+  </favourites>
+</user>

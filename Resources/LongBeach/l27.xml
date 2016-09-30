@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let's go on</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Surrending All to the Lord</category>
+  <numbers><english num="lb:27"/><lsmyp num="107"/><vsb num="181"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>43243251132166555234</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| F C | G - - - | F C | G - - - | C - F - | C - G - | C - F - | C - G - | F C | G - - - | Dm C | G - - - | F C | G - - - | C - C/E - | F - - G | C - Am - | G/B - G - | C - C/E - | F - F/A - | C - Am - | G - - - | Am - - - | G - - - | F - - - | C - - - | F - - - | C - Am - | Dm - G - | C - - - |</chords>
+  <melody>| [2/4] 4 3 | [4/4] 2 - - - | [2/4] 4 3 | [4/4] 2 - - 0/ 5_./ | 1 1/ 3/ 2/ 1/ 6_./ 6_./ | 5_. 5_./ 5_./ 2/( 3/) 4/ 4/ | 3 3/ 3/ 2/( 1/) 6_. | 5_. 5_./ 5_./ 2/( 3/) 4 | [2/4] 4 3 | [4/4] 2 - - - | [2/4] 4 3 | [4/4] 2 - - - | [2/4] 4 3 | [4/4] 2 - - - (break) | (Chorus) 5. 3/( 3) 1 | 6_.. 1/( 1) 2 | 3. 3/( 3/)( 1/) 3 | 2 - - - (break) | 5. 3/( 3) 1 | 6_.. 1/( 1) 2/ 2/ | 3. 3/( 3/)( 1/) 3 | 2 - - - (break) | 3. 3/( 3) 6 | 5. 2/( 2) 2/ 2/ | 4 - - 1 | 3 - - - (break) | 6_./ 1/ 1 1/ 2. | 1. 5_./( 5_.) 1/ 1/ | 2.( 3/)( 3) 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Let's go on! For -- ward come! A heart that is lov -- ing Him, A heart that is will -- ing, A heart that's up -- lift -- ed, No, not de -- feat -- ed! Let's go on! For -- ward come To the Son! We are Your ves -- sels, Cre -- at -- ed to be Man in Your i -- mage To be filled up with Thee. You're my en -- joy -- ment O -- ver -- flow -- ing me! I'm a man in Your i -- mage, Thus ex -- press -- ing Thee!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>3</columns>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="56">lb27.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let's go on!
+Forward come!</stanza>
+    <stanza type="chorus" number="">A heart that is loving Him,
+A heart that is willing,
+A heart that's uplifted,
+No, not defeated!</stanza>
+    <stanza type="chorus" number="">Let's go on!
+Forward come
+To the Son!</stanza>
+    <stanza type="chorus" number="">We are Your vessels,
+Created to be
+Man in Your image
+To be filled up with Thee.
+You're my enjoyment
+Overflowing me!
+I'm a man in Your image,
+Thus expressing Thee!</stanza>
+    <stanza type="verse" number="2">Let's go on!
+Forward come!</stanza>
+    <stanza type="chorus" number="">A spirit that's burning,
+A heart that is bubbling,
+Saints that are eating
+And always drinking!</stanza>
+    <stanza type="chorus" number="">Let's go on!
+Forward come
+To the Son!</stanza>
+    <stanza type="verse" number="3">Let's go on!
+Forward come!</stanza>
+    <stanza type="chorus" number="">Spirit releasing,
+Saints that are feasting,
+Not analyzing,
+Or criticizing.</stanza>
+    <stanza type="chorus" number="">Let's go on!
+Forward come
+To the Son!</stanza>
+    <stanza type="verse" number="4">Let's go on!
+Forward come!</stanza>
+    <stanza type="chorus" number="">Life so enjoyable,
+Else it be terrible,
+But He's so wonderful,
+And so available!</stanza>
+    <stanza type="chorus" number="">Let's go on!
+Forward come
+To the Son!</stanza>
+  </lyrics>
+</hymn>

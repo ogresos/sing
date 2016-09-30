@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Umari Ka, Ginoo</title>
+  <index>true</index>
+  <category>KAHUPNGANAN SA ESPIRITU&amp;mdash;INGON NGA KALAYO</category>
+  <numbers><cebuano num="262"/><chinese num="208"/><english num="262"/><korean num="208"/><tagalog num="262"/></numbers>
+  <creators>
+    <author biodate="1838-1882" biolink="">Translated from Charles William Fry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="262"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Umari Ka, Ginoo,
+Ingon nga Espiritu;
+Amahan ngadto's Anak
+Pakit-a's himaya Mo.</stanza>
+    <stanza type="chorus" number="">Umari Ka, Ginoo!
+Tapusa nang buhat Mo!
+Hingpitang pangandoy ko,
+Naghulat mi's kalayo,
+Naghulat mi.
+Sa kalayo, Ginoo.</stanza>
+    <stanza type="verse" number="2">Maghalad kami karon,
+Lawas, kalag, esp'ritu;
+Tangtangan's kailibgon,
+Imo kami nga pun-on.</stanza>
+    <stanza type="verse" number="3">Halad nga gitugyan ko,
+Daw toong mata&amp;mdash;mahal,
+Alang's Manlul'was nako,
+Nga nagdugo, namatay.</stanza>
+    <stanza type="verse" number="4">Giangkon ko's pagtoo,
+Gasang gipalit's dugo,
+Sa madaugong Ngalan,
+Ang tanang saad ako.</stanza>
+  </lyrics>
+</hymn>

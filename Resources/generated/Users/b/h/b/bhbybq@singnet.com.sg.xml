@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>leong</firstname>
+    <lastname>doreen</lastname>
+    <email>bhbybq@singnet.com.sg</email>
+    <password>$1$Ljz4ZGbz$z80xx3pW4z9TsmQFM/xBo1</password>
+    <gender>F</gender>
+    <country>Singapore</country>
+    <ipaddress>220.255.7.141</ipaddress>
+    <createdate>2009-06-30 09:07:36</createdate>
+    <lastupdateddate>2010-04-03 04:14:59</lastupdateddate>
+    <lastlogindate>2010-04-03 04:14:59</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="11">God is love</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+        <fav category="default" type="ns" num="16">It's no longer I that liveth</fav>
+        <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+        <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+        <fav category="default" type="lb" num="16">Nothing compares to You</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+        <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+        <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+        <fav category="default" type="c" num="3">The birds upon the tree tops</fav>
+        <fav category="default" type="ns" num="45">The last Adam became a life-giving Spirit</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="c" num="162">Yesterday, today, forever</fav>
+    </favourites>
+</user>

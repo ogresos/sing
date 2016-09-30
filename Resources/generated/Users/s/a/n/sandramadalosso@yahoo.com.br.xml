@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sandra</firstname>
+  <lastname/>
+  <email>sandramadalosso@yahoo.com.br</email>
+  <password>$2y$10$i5Td4ncn2v5Oum1jgktWZ.L0XaKVsx9drXUtgyGhwlhLa80LCO1eW</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>201.14.147.195</ipaddress>
+  <createdate>2015-11-03 07:44:37</createdate>
+  <lastupdateddate>2016-02-21 20:34:18</lastupdateddate>
+  <lastlogindate>2016-02-21 19:04:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="c" num="38">Look at all the flowers</fav>
+    <fav category="default" type="h" num="68">Lord, Thy Name is called Jesus</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    <fav category="default" type="c" num="39">Never forget! That it's God who created you</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

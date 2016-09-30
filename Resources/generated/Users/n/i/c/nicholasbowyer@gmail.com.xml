@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nicholas</firstname>
+  <lastname>Bowyer</lastname>
+  <email>nicholasbowyer@gmail.com</email>
+  <password>$2y$10$koLwUots5UBLMBoO2YzSBOrwSP9MUGJHaEQQSDwt0wCNINc5DzS6O</password>
+  <gender>M</gender>
+  <country>nz</country>
+  <ipaddress>122.61.223.182</ipaddress>
+  <createdate>2012-07-20 00:05:47</createdate>
+  <lastupdateddate>2015-03-09 01:48:17</lastupdateddate>
+  <lastlogindate>2015-03-09 01:43:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1">Glory be to God the Father</fav>
+    <fav category="default" type="h" num="61">O Lord, Thou art the Son of man</fav>
+  </favourites>
+</user>

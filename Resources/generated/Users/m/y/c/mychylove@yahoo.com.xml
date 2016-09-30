@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Christina</firstname>
+<lastname>D</lastname>
+<email>mychylove@yahoo.com</email>
+<password>$1$pf8Tm2nM$YEy3zDuLUnf8ttzIZwZ4m/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>71.114.4.33</ipaddress>
+<createdate>2008-09-17 12:33:16</createdate>
+<lastupdateddate>2009-09-15 18:25:55</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="328">Complete in Thee! no work of mine</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="376">Fill Thou my life, O Lord my God</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="378">Savior, lead me up the mountain</fav>
+        <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    </favourites>
+</user>

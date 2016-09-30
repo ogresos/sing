@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Christine</firstname>
+<lastname>Tolmie</lastname>
+<email>christine.tolmie@gmail.com</email>
+<password>$1$O1rJn6UF$RgQ7Kq82ji91Fc1xhmWVk0</password>
+<gender>F</gender>
+<country>United Kingdom</country>
+<ipaddress>89.240.206.69</ipaddress>
+<createdate>2009-02-16 14:46:55</createdate>
+<lastupdateddate>2009-09-15 18:29:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+    </favourites>
+</user>

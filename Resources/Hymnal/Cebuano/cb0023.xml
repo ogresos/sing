@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Amahan, sa kaalam</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA KAALAM NIYA</category>
+  <numbers><cebuano num="23"/><chinese num="20"/><english num="23"/><german num="23"/><korean num="20"/><portuguese num="20"/><russian num="241"/><spanish num="16"/><tagalog num="23"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 3/ 3 5 | 5. 2/ 2 3 | 4 5 6 7 | 5 - - 5 (break) | 5. 3/ 3 5 | 5. 2/ 2 ._2 | ._1# ._2 ._3 6 (break) | ._2 - - (Chorus) 5 | ._3. ._3/ ._2 ._1 | ._1. 7/ 7 ._1 | ._2 7 6 5 | ._1 - - ._1 (break) | ._1. 6/ 6 ._1 | ._1. 5/ 5 5 | 6 ._1 5 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="18"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Amahan, sa kaalam
+Ug kabubut-on Mo,
+Way katapusang tuyo Mo
+Tumanon sa Anak.</stanza>
+	<stanza type="chorus" number="">Pagkalalum's kaalam Mo,
+Kinsay makatugkad?
+Dios Amahan's kaalam Mo
+Kami gikaloy-an!</stanza>
+	<stanza type="verse" number="2">Ang buhat Mo katingad-an,
+Amo bang masabtan?
+Gikan, alang Nimong tanan,
+Kaalam mapalgan.</stanza>
+	<stanza type="verse" number="3">Tanan gibutang sa sala,
+Kaluoy makita;
+Aron way ikapagarbo
+Kami gawas Nimo.</stanza>
+	<stanza type="verse" number="4">Sa kaalam, pina'gi's krus,
+Imo ming gitubos;
+Aron's espiritu namo,
+Bahandi Ka namo.</stanza>
+	<stanza type="verse" number="5">Ipahibalo's Iglesia
+Sa mga punoan;
+Nagkadaiyang kaalam,
+Makita's kalangitan.</stanza>
+	<stanza type="verse" number="6">Unya's Bag-ong Jerusalem,
+Kaluoy m'oy garbo;
+Maila gyung kaalam Mo,
+Sa kahingpitan gyud.</stanza>
+  </lyrics>
+</hymn>

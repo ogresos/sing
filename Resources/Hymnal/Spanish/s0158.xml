@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mi corazón entona un salmo</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Satisfechos con Cristo</category>
+  <numbers><chinese num="255"/><english num="8255"/><portuguese num="175"/><russian num="71"/><spanish num="158"/></numbers>
+  <music>
+    <midiref type="h" num="8255"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mi corazón entona͜ un salmo,
+El Señor es mi cantar;
+No hubo nunca tal canción en mí;
+¡Tengo gozo celestial!</stanza>
+    <stanza type="chorus" number="">De mi corazón brota un salmo,
+Sí, un dulce salmo,
+Salmo celestial;
+De mi corazón brota un salmo,
+Brota͜ un salmo de amor.</stanza>
+    <stanza type="verse" number="2">Su gran amor me dio Su vida,
+Recibí la salvación;
+¡Qué bendición! Por Cristo vivo yo,
+Canto con gozo Su͜ amor.</stanza>
+    <stanza type="verse" number="3">¡Qué luz! Jesús mis pasos guía,
+Con graduales salmos voy;
+¡Qué paz! Que Cristo͜ ahora vive͜ en mí,
+Alabanzas yo le doy.</stanza>
+    <stanza type="verse" number="4">¡Qué libertad! Seré raptado,
+Y͜ en victoria͜ he de cantar;
+¡Qué honra! Reinaré con el Señor,
+Gozo de͜ ángeles se͜ oirá.</stanza>
+    <stanza type="verse" number="5">¡Qué bendición! La Ciudad Santa,
+Aguas de vida͜ a beber;
+El árbol de la vida nos dará
+De sus frutos a comer.</stanza>
+  </lyrics>
+</hymn>

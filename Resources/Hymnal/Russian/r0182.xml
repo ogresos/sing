@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О, что за тайна – мой Спаситель</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ТАЙНА</category>
+  <numbers><cebuano num="1074"/><chinese num="264"/><english num="1074"/><french num="208"/><german num="1074"/><korean num="264"/><portuguese num="182"/><russian num="182"/><spanish num="166"/><tagalog num="1074"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 - 3 1 | 2 - - 0 (break) | 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 3./ 1// 2 2 | 1 - - 0 (break) | 7. ._1/ ._2 5 | 5. 6/ 5 ._1 | ._1 6 4 6 | 5 - - 0 (break) | 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 3./ 1// 2 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>О, что за тай -- на_– мой Спа -- си -- тель Со мно -- ю слит!  О, что за чуд -- но -- е спа -- се -- нье В_Сы -- не мне Бог да -- рит!  Ал -- ли -- луй -- я! Ал -- ли -- луй -- я!  Тай -- на ве -- ли -- ка!  Нас раз -- де -- лить нич -- то не мо -- жет, Гос -- по -- да и ме -- ня!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1074"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">О, что за тайна – мой Спаситель
+Со мною слит!
+О, что за чудное спасенье
+В Сыне мне Бог дарит!
+Аллилуйя! Аллилуйя!
+Тайна велика!
+Нас разделить ничто не может,
+Господа и меня!</stanza>
+  </lyrics>
+</hymn>

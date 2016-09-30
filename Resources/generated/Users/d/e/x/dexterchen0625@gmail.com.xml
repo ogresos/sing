@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dexter</firstname>
+  <lastname/>
+  <email>dexterchen0625@gmail.com</email>
+  <password>$2y$10$HbemYJTNvWuIu72/HI321uTjwp.IgVND4SK0ZfM9p5jxEsIU2QYpe</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>122.117.226.223</ipaddress>
+  <createdate>2016-05-16 05:19:01</createdate>
+  <lastupdateddate>2016-05-16 05:20:16</lastupdateddate>
+  <lastlogindate>2016-05-16 05:19:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="762">同活在主身體中</fav>
+  </favourites>
+</user>

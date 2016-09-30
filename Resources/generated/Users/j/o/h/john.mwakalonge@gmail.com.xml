@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Mwakalonge</lastname>
+  <email>john.mwakalonge@gmail.com</email>
+  <password>$2y$10$sxN/nRHL9X6IhbRCHpU9helSSmDnWkN7h03P3HgAWThbZKF2BGo26</password>
+  <gender/>
+  <country>Tanzania</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-05-16 13:06:48</createdate>
+  <lastupdateddate>2016-07-29 12:00:54</lastupdateddate>
+  <lastlogindate>2016-07-29 12:00:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1302">All the signs point to the end</fav>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    <fav category="default" type="ns" num="435">Back in My Father's House Again!</fav>
+    <fav category="default" type="ns" num="429">Being Saved in His Life</fav>
+    <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="ns" num="34">He knows, He knows</fav>
+    <fav category="default" type="ns" num="136">I'm a sinner without one plea</fav>
+    <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+    <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+    <fav category="default" type="c" num="42">Remember your Creator</fav>
+    <fav category="default" type="h" num="664">Rise, my soul, thy God directs thee</fav>
+    <fav category="default" type="ns" num="150">Secret to be content</fav>
+    <fav category="default" type="h" num="8511">The Lord knows all that frustrates you</fav>
+    <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+    <fav category="default" type="c" num="71">We are so happy we're here today</fav>
+  </favourites>
+</user>

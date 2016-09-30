@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你要給人</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <melody>| 0 - 1 | 7_./ 1/ 2 3 | 5/ 3/ 2 3 | 2/ 1/ 6_. 5_. (break) | 1/ 2/ 1 1 | 5/ 5/ 6 5 | 3/ 2/ 2 2 | 3/ 1/ 6_. 5_. | 1/ 2/ 1 0 |</melody>
+  <layout>
+	<singingstanza>你 要 給 人 神 必 給 你， 並 且 要 用 十 足 升 斗， 連 搖 帶 按， 上 尖 下 流， 倒 在 你 懷， 倒 在 你 懷。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8444"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你要給人神必給你，
+並且要用十足升斗，
+連搖帶按，上尖下流，
+倒在你懷，倒在你懷。</stanza>
+  </lyrics>
+</hymn>

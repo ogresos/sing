@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Maureen</firstname>
+    <lastname>Stohlmeyer</lastname>
+    <email>m.stohlmeyer@gmail.com</email>
+    <password>19bYMHXiI4v0ypepSpIZHA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>129.186.242.94</ipaddress>
+    <createdate>2010-10-19 10:54:37</createdate>
+    <lastupdateddate>2010-10-19 11:36:55</lastupdateddate>
+    <lastlogindate>2010-10-19 10:54:39</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="1032">Come, ye sinners, poor and wretched</fav>
+        <fav category="default" type="h" num="675">God moves in a mysterious way</fav>
+        <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+    </favourites>
+</user>

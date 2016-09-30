@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God is Licht</title>
+  <index>true</index>
+  <category>Ervaren van God&amp;mdash;Als licht</category>
+  <numbers><chinese num="ts:444"/><dutch num="14"/><english num="1197"/><korean num="797"/><portuguese num="311"/><tagalog num="1197"/></numbers>
+  <music>
+    <midiref type="h" num="1197"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God is Licht en in Hem bevindt zich geen duisternis.
+Hoe goed te toeven dichtbij Hem die ik dien.
+In dit Licht worden wij volkomen heilig en vrij
+van alle  kwaad.</stanza>
+    <stanza type="chorus" number="">Zusters:    In het Licht.
+Broeders:    Voluit meegaan.
+Zusters:    Samen zijn.
+Broeders:    Zingend opgaan.
+Zusters:    En het bloed
+Broeders:    van Gods Zoon
+Iedereen:    wast ons volkomen schoon.</stanza>
+    <stanza type="chorus" number="">Zusters:    Zeggen wij:
+Broeders:    Hij is waardig,
+Zusters:    en vergeeft.
+Broeders:    Hij, rechtvaardig,
+Zusters:    groot in trouw.
+Broeders:    Reinigt mij,
+Iedereen:    en maakt mij vrij.</stanza>
+  </lyrics>
+</hymn>

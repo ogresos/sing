@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>仇敵不能勝過召會</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:760"/><english num="1291"/></numbers>
+  <melody>| 0 - - 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5/ 5 3/ 5 5/ 5/ | 6/ ._1 6/ 5/ 3/ 2/ 1/ (break) | 3/ 2 3/ 2 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5 5 6 6/ 7/ | ._1/ ._1 6/ 5/ 3/ 2/ 1/ (break) | 3/ 3 2/ (.1 (Chorus) 5/ 5/ | ._1/ ._1 ._1/ 6/ 5/ 3/ 4/ | 5/ 5 6/ 5 5/ 5/ | ._1/ ._1 ._1/ 6/ 5/ 3/ 1/ (break) | 3/ 2 3/ 2 5/ 5/ | 3/ 3 3/ 2/ 1/ 1/ 3/ | 5 5 6 6/ 7/ | ._1/ ._1 6/ 5/ 3/ 2/ 1/ | 3/ 3 2/ 1 0 |</melody>
+  <layout>
+	<singingstanza>救 主 耶 穌 受 死 前， 曾 對 彼 得 囑 咐： 仇 敵 會 像 篩 麥 子， 想 要 得 著 門 徒； 但 祂 為 我 們 祈 求─ 真 實 且 有 能； 阿 利 路 亞， 仇 敵 必 不 能 得 著 我 們！ 每 天 生 活 中 都 會 經 歷 屬 靈 爭 戰， 走 主 道 路 者 必 定 遇 見 試 煉、 艱 難 祂 在 一 切 境 遇 中， 為 我 們 代 禱， 祂 的 全 備 供 應 也 滿 足 我 們 需 要。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1194"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主耶穌受死前，曾對彼得囑咐：
+仇敵會像篩麥子，想要得著門徒；
+但祂為我們祈求─真實且有能；
+阿利路亞，仇敵必不能得著我們！</stanza>
+	<stanza type="chorus" number="">每天生活中都會經歷屬靈爭戰，
+走主道路者必定遇見試煉、艱難
+祂在一切境遇中，為我們代禱，
+祂的全備供應也滿足我們需要。</stanza>
+	<stanza type="verse" number="2">單獨、孤立基督徒，無論如何剛強，
+在仇敵詭計之下仍然難以抵擋、
+我們活在身體中，就堅，定站立；
+阿利路亞，仇敵必不能勝過身體！</stanza>
+	<stanza type="verse" number="3">神為我們所命定旨意何等美妙；
+經歷變化，與基督同王，真是榮耀！
+我們有基督召會，仇敵不可畏；
+阿利路亞，仇敵必不能勝過召會！</stanza>
+  </lyrics>
+</hymn>

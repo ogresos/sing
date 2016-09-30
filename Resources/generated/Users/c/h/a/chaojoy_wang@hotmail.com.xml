@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Chao</firstname>
+<lastname>Wang</lastname>
+<email>chaojoy_wang@hotmail.com</email>
+<password>$1$v6iNUO8C$4A5iJSC9QwGeMjl0UORyq.</password>
+<gender>M</gender>
+<country>New Zealand</country>
+<ipaddress>202.27.218.168</ipaddress>
+<createdate>2008-09-12 20:05:50</createdate>
+<lastupdateddate>2009-09-15 18:25:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    </favourites>
+</user>

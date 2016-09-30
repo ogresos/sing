@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gozaos, gozaos! El Novio viene</title>
+  <index>true</index>
+  <category>Esperanza de Glória&amp;mdash;El dia de las bodas</category>
+  <numbers><cebuano num="1315"/><chinese num="ts:905"/><english num="1315"/><german num="1315"/><russian num="498"/><spanish num="448"/></numbers>
+  <melody>| 0 - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. (break) | 1 - - (Chorus) 7_./( 1/) | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 6_. 3 (break) | 3( - 2) 7_./( 1/) | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 7_. 6_. (break) | 5_. - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1315"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Goza͡os, goza͡os! El Novio viene
+Y no tardará͜ en llegar.
+El día de Sus gratas bodas
+Se͜ alzará canción triunfal.</stanza>
+	<stanza type="chorus" number="">¡Oh, dí͡a feliz! ¡Oh, qué mañana!
+Cuando llega͜ el Cristo͜ amado;
+Con vasos llenos esperemos
+Y las lámparas con luz.
+¡Goza͡os, goza͡os! El Novio viene
+Y no tardará͜ en llegar.
+El día de Sus gratas bodas
+Se͜ alzará canción triunfal.</stanza>
+	<stanza type="verse" number="2">Oh, redimamos hoy el tiempo,
+¡Más aceite͜ hay que comprar!
+Antes del grito͜ a medianoche
+Cada vaso͜ hay que llenar.</stanza>
+	<stanza type="verse" number="3">¡Qué gozo es el prepararse
+Para unirnos al Señor!
+Aunque pasemos aflicciones
+Por ganar el galardón.</stanza>
+	<stanza type="verse" number="4">Con rapto͜ excelso͜ y regocijo
+Esas bodas han de ser;
+Luego le siguen los mil años
+De celebración con El.</stanza>
+  </lyrics>
+</hymn>

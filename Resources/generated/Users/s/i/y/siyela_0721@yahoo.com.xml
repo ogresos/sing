@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shelah</firstname>
+  <lastname/>
+  <email>siyela_0721@yahoo.com</email>
+  <password>$2y$10$nBgSA0bdmWEkbB2obGimH..QygA44rWU1Ah75Sue3S73R8FfH1m6a</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>49.144.97.54</ipaddress>
+  <createdate>2015-05-16 10:40:06</createdate>
+  <lastupdateddate>2015-06-27 18:51:57</lastupdateddate>
+  <lastlogindate>2015-06-27 18:51:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="101">Daniel was a child like me</fav>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="c" num="164">Give, said the little stream</fav>
+    <fav category="default" type="c" num="66">I love to sing a joyful song</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="18">I'm spending time now</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+    <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+    <fav category="default" type="c" num="67">Remember your Creator while you are young</fav>
+    <fav category="default" type="c" num="3">The birds upon the tree tops</fav>
+    <fav category="default" type="c" num="63">The fish need water</fav>
+    <fav category="default" type="c" num="62">Trust in the Lord with all your heart</fav>
+    <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+    <fav category="default" type="c" num="71">We are so happy we're here today</fav>
+    <fav category="default" type="c" num="41">We would love the Lord our God</fav>
+    <fav category="default" type="c" num="9">You come to me with a sword and a spear</fav>
+  </favourites>
+</user>

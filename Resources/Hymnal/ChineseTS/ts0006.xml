@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>湧出美辭</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><chinese num="ts:6"/><english num="1098"/><german num="1098"/><spanish num="64"/></numbers>
+  <melody>| 0 - - 1 | 3 5 5 6 | 5 - 3 1 | 7_. 1 4 3 | 3( - 2) 1 (break) | 3 5 5 6 | 5 - 3 2 | 3 6 5 4# | 5 - - 5 (break) | ._1 5 4 3 | 6 - 5 7 | ._1 5 5/( 4/) 3 | 3( - 2) 1 (break) | 3 5 5 6 | 5 - 3 1 | 2 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>從 我 們 心 的 深 處， 不 斷 湧 出 美 辭─ 論 到 我 們 至 高 王， 論 到 祂 的 所 是。 我 們 舌 如 快 手 筆， 篇 篇 見 證 待 寫─ 我 們 新 郎 的 榮 美， 我 們 所 愛 所 悅。</singingstanza>
+  </layout>
+  <notes>Based on Part 1 of Psalm 45.</notes>
+  <links>
+	<link type="ref">Psalms 45</link>
+  </links>
+  <music>
+	<midiref type="h" num="15"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">從我們心的深處，
+不斷湧出美辭─
+論到我們至高王，
+論到祂的所是。
+我們舌如快手筆，
+篇篇見證待寫─
+我們新郎的榮美，
+我們所愛所悅。</stanza>
+	<stanza type="verse" number="2">主耶穌，你的美麗
+超過所有世人；
+你的良善真無比─
+你是人中之人。
+從你聖潔的嘴裡，
+流出豐盛恩惠；
+所以神賜福給你，
+賜福直到永遠。</stanza>
+	<stanza type="verse" number="3">你是大能的勇士，
+赫然坐車前往；
+大有榮耀和得勝，
+所向顯你雄威！
+萬民倒在你以下，
+誰能阻你前進？
+你的箭極其鋒利，
+射中撒但之心。</stanza>
+	<stanza type="verse" number="4">神阿，你坐的寶座，
+是永永遠遠的；
+你的國度與王權，
+是完全正直的。
+所以神，就是你神，
+用喜樂油膏你，
+勝過膏你的同伴─
+你是何等的配！</stanza>
+	<stanza type="verse" number="5">沒藥、沉香和肉桂，
+是你衣服香氣；
+你的受死與復活，
+表明你的功績。
+從眾地方召會中，
+讚美之聲四起，
+讚美再加上讚美，
+使你稱心如意。</stanza>
+  </lyrics>
+</hymn>

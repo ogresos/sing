@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Meiling</firstname>
+    <lastname>Chee</lastname>
+    <email>mchee101@gmail.com</email>
+    <password>cOH%2BW2cM53MwStnUsC7Omw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>69.105.233.48</ipaddress>
+    <createdate>2010-04-16 13:38:40</createdate>
+    <lastupdateddate>2013-10-22 10:36:05</lastupdateddate>
+    <lastlogindate>2013-10-22 10:36:05</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

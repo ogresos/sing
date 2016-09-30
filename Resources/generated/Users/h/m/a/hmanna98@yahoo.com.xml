@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Lai Yen</firstname>
+    <lastname>Choo</lastname>
+    <email>hmanna98@yahoo.com</email>
+    <password>$1$9cVPYsZU$FImbOO2UVhHb2ToOxxmGG1</password>
+    <gender>F</gender>
+    <country>Malaysia</country>
+    <ipaddress>60.53.169.241</ipaddress>
+    <createdate>2009-08-11 05:54:30</createdate>
+    <lastupdateddate>2009-09-16 02:39:00</lastupdateddate>
+    <lastlogindate></lastlogindate>
+    <failedlogincount></failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    </favourites>
+</user>

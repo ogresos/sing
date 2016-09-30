@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>james</firstname>
+  <lastname>wang</lastname>
+  <email>wang550919@gmail.com</email>
+  <password>$2y$10$CDIQpQdeAk6fdjx3GRoceuP/t5tMvb.cZcaOXw1Tw7zVnRpDfgGLC</password>
+  <gender>M</gender>
+  <country>tw</country>
+  <ipaddress>220.136.110.49</ipaddress>
+  <createdate>2009-11-11 05:16:06</createdate>
+  <lastupdateddate>2015-09-09 03:29:52</lastupdateddate>
+  <lastlogindate>2015-09-09 03:29:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="761">主耶穌主耶穌</fav>
+    <fav category="default" type="ch" num="736">罪惡途中多年流蕩</fav>
+    <fav category="default" type="ch" num="752">耶穌要來獎賞祂的</fav>
+    <fav category="default" type="ch" num="744">藉水得救此言奧妙</fav>
+  </favourites>
+</user>

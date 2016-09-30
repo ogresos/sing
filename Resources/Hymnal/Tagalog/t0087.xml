@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus, t'wing maisip Kita</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG BUHAY</category>
+  <numbers><cebuano num="87"/><chinese num="79"/><english num="87"/><korean num="79"/><tagalog num="87"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="56"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus, t'wing maisip Kita
+Nang nasa lupa Ka:
+Sa tao'y mapagbiyaya,
+Sa Diyos tapat Ka nga.</stanza>
+    <stanza type="verse" number="2">Pag-ibig Mo'y hamakin man,
+Daig kamatayan;
+Sibat sa Iyong tagiliran,
+Dugo't tubig kamtan.</stanza>
+    <stanza type="verse" number="3">Kahit lubha Kang nagdusa,
+Gawa Mo'y mabuti;
+Walang daing, tanggap Mo pa
+Lahat ng pighati.</stanza>
+    <stanza type="verse" number="4">Tao'y taksil, ika'y tapat,
+Dilim siya, Ilaw Ka,
+Layunin ay Iyong tinupad,
+Kalo'ban ng Ama.</stanza>
+    <stanza type="verse" number="5">Di Ka natinag sa dusa
+O lalang ng diyablo,
+Sa kamatayan, nag-isa,
+Walang karamay Mo.</stanza>
+    <stanza type="verse" number="6">Nais kong makatulad Mo
+Sa Iyong kaamuan,
+Lahat sa Iyo ay matuto -
+May kapayapaan.</stanza>
+  </lyrics>
+</hymn>

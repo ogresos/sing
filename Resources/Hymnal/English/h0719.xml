@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Like a river, glorious</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Peace in the Lord</category>
+  <creators>
+    <author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>11223544223</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | C - C/E - | G7/D - G7/B - | C - - - | C/E - G/B - | C - C/E - | G/D - D7 - | G - - - | C/E - C - | F - C/E - | Dm - C - | G - - - | C - G - | Am - F - | C/G - G7 - | C - - - | C/E - C - | F - C/E - | Dm - C - | G - - - | C - G - | Am - F - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 1 1 2 2 | 3 - 5 - | 4 4 2 2 | 3 - - - (break) | 1 1 2 2 | 3 - 1 - | 7_. 7_. 6_. 6_. | 5_. - - - (break) | 5 5 5 5 | 6 - 5 - | 4 4 3 3 | 2 - - - (break) | 3 3 2 2 | 1 - 2 - | 3 3 2 2 | 1 - - - (break) | (Chorus) 5 5 5 5 | 6 - 5 - | 4 4 3 3 | 2 - - - (break) | 3 3 2 2 | 1 - 2 - | 3 3 2 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Like a riv -- er, glo -- rious Is God's per -- fect peace, O -- ver all vic -- tor -- ious In its bright in -- crease; Per -- fect, yet it flow -- eth Full -- er ev -- ery day, Per -- fect, yet it grow -- eth Deep -- er all the way. Stayed up -- on Christ Je -- sus, Hearts are ful -- ly blest; Find -- ing, as He prom -- ised, Per -- fect peace and rest.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj018.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="48">e0719_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Like a river, glorious
+  Is God's perfect peace,
+Over all victorious
+  In its bright increase;
+Perfect, yet it floweth
+  Fuller every day,
+Perfect, yet it groweth
+  Deeper all the way.</stanza>
+    <stanza type="chorus" number="">Stayed upon Christ Jesus,
+Hearts are fully blest;
+Finding, as He promised,
+  Perfect peace and rest.</stanza>
+    <stanza type="verse" number="2">Hidden in the hollow
+  Of His blessed hand,
+Never foe can follow,
+  Never traitor stand;
+Not a surge of worry,
+  Not a shade of care,
+Not a blast of hurry
+  Touch the spirit there.</stanza>
+    <stanza type="verse" number="3">Every joy or trial
+  Falleth from above,
+Traced upon our dial
+  By the Sun of Love.
+We may trust Him fully
+  All for us to do;
+They who trust Him wholly
+  Find Him wholly true.</stanza>
+  </lyrics>
+</hymn>

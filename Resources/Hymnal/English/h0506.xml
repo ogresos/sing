@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus lives! thy terrors now</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <creators>
+    <author biodate="1715-1769" biolink="">Christian Furchtegott Gellert</author>
+    <author biodate="" biolink="">Translated by Elizabeth Cox, and others</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>7.8.7.8.4.</meter>
+  <hymncode>551565665432132</hymncode>
+  <key>B Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - G7 - | C - - - C/E - | F - - - - - | Dm - C - | G/B - G - G7/B - | C - - - F G | C - C/E G | C - Am - | C/G - Am C/G | Dm/F - G7 - | C - - - |</chords>
+  <melody>| 0 - - - 5. 5/ | ._1 - - 5 6 5 | 6 - - - 6 5 | [4/4] 4 3 2 1 (break) | [3/2] 3 - 2 - 3 4 | 5 - - 5 6 7 | [4/4] ._1 - ._1 ._2 (break) | ._3. ._2/ ._1 6 | 5 3 2 1 | 2 - - - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Je -- sus lives! thy ter -- rors now Can, O Death, no more ap -- pall us; Je -- sus lives! by this we know Thou, O Grave, canst not en -- thrall us. Hal -- le -- lu -- jah!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj055.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="20">e0506_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus lives! thy terrors now
+Can, O Death, no more appall us;
+Jesus lives! by this we know
+Thou, O Grave, canst not enthrall us.
+    Hallelujah!</stanza>
+    <stanza type="verse" number="2">Jesus lives! henceforth is death
+But the gate of Life immortal;
+This shall calm our trembling breath,
+When we pass its gloomy portal.
+    Hallelujah!</stanza>
+    <stanza type="verse" number="3">Jesus lives! for us He died;
+Then alone to Jesus living,
+Pure in heart may we abide,
+Glory to our Savior giving.
+    Hallelujah!</stanza>
+    <stanza type="verse" number="4">Jesus lives! our hearts know well
+Naught from us His love shall sever;
+Life, nor death, nor powers of hell
+Tear us from His keeping ever.
+    Hallelujah!</stanza>
+    <stanza type="verse" number="5">Jesus lives! to Him the Throne
+Over all the world is given;
+We, in spirit with Him one,
+Rest and reign with Him in heaven.
+    Hallelujah!</stanza>
+  </lyrics>
+</hymn>

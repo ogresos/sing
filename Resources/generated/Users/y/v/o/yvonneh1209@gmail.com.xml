@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>yvonne</firstname>
+  <lastname/>
+  <email>yvonneh1209@gmail.com</email>
+  <password>$2y$10$4i4gmUh/sCZJwvuzrV4AUeYjY.NdJtMjaDk3PvrOoJwdLevwr9sTe</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>24.86.170.221</ipaddress>
+  <createdate>2014-11-16 04:04:17</createdate>
+  <lastupdateddate>2015-01-25 04:23:48</lastupdateddate>
+  <lastlogindate>2015-01-25 04:02:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

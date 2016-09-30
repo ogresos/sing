@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nous semons en pleurant, moissonnons en chantant</title>
+  <index>true</index>
+  <category>La prédication de l’évangile&amp;mdash;semer</category>
+  <numbers><chinese num="667"/><english num="1349"/><french num="176"/><russian num="149"/><spanish num="421"/><tagalog num="1349"/></numbers>
+  <creators>
+    <author biodate="1834-1878" biolink="">Translated from Knowles Shaw</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1167"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Le matin nous sortons semer Sa parole.
+Tout le jour, nous voulons témoigner de Lui.
+Lors de la récolte, rassemblons les gerbes,
+Avec allégresse, récoltons les fruits.</stanza>
+    <stanza type="chorus" number="">Récoltons les fruits, récoltons les fruits,
+Avec allégresse récoltons les fruits !
+Récoltons les fruits, récoltons les fruits,
+Avec allégresse récoltons les fruits !</stanza>
+    <stanza type="verse" number="2">De l'aube à l'aurore, semons Sa parole,
+Qu'il vente ou qu'il pleuve, dispensons Sa vie !
+Après avoir œuvré, labouré et semé,
+Avec allégresse, récoltons les fruits.</stanza>
+    <stanza type="verse" number="3">Nous semons en pleurant, moissonnons en chantant,
+Toute perte afflige, mais restons hardis.
+Attendons le Maître, car Il va paraître,
+Avec allégresse, récoltons les fruits.</stanza>
+  </lyrics>
+</hymn>

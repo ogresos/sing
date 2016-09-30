@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jubilee</firstname>
+<lastname>Hsu</lastname>
+<email>jubileeleung@yahoo.com</email>
+<password>$1$jiZpvyoi$GaB7IFjRU4cGrOVV/TO5s/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>76.185.68.202</ipaddress>
+<createdate>2008-10-11 13:35:14</createdate>
+<lastupdateddate>2009-09-15 18:26:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+    </favourites>
+</user>

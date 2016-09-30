@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聽哪天上有聲喊說</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的話</category>
+  <numbers><chinese num="503"/><english num="690"/><korean num="503"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| ._3 ._3/ ._3/( ._2/) ._1/ | 6/( ._1/) 6/ 5/ 3 | 5. 6( ._1/) | ._1.( ._1) 0/ (break) | ._3 ._3/ ._3/( ._2/) ._1/ | 6/( ._1/) 6/ 5/ 3 | ._2. 7. | ._1.( ._1) 0/ (break) | (Chorus) 5 5/ 5 6/ | ._1 6/ 5. | 6 6/ 6/( ._1/) 6/ | ._2/( ._1/) 6/ 5. (break) | ._3 ._3/ ._3 ._1/ | 6 6/ ._4. | ._2 ._2/ ._3 ._2/ | ._1 7/ ._1. (break) | 5. 6. | ._1. 5. | ._4( ._3/) ._2( ._1/) | ._2.( ._2) 0/ (break) | ._3. ._4. | ._5. ._1. | ._3. ._2. | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>聽 哪， 天 上 有 聲 喊 說： 『已 成 了；』 信 心 立 即 回 聲 答 說： 『已 成 了。』 請 聽 寶 座 的 話 語， 你 可 來 領 神 應 許； 神 口 曾 說： 『已 成 了，』 信 心 也 說： 『已 成 了；』 祈 禱 已 過 讚 美 始， 阿 利 路 亞， 『已 成 了。』</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="690"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聽哪，天上有聲喊說：
+『已成了；』
+信心立即回聲答說：
+『已成了。』</stanza>
+	<stanza type="chorus" number="">請聽寶座的話語，
+你可來領神應許；
+神口曾說：
+『已成了，』
+信心也說：
+『已成了；』
+祈禱已過讚美始，
+阿利路亞，
+『已成了。』</stanza>
+	<stanza type="verse" number="2">接受主的完全救恩，
+『已成了；』
+應當絕對奉獻全身，
+『已成了。』</stanza>
+	<stanza type="verse" number="3">領取神的醫治恩約，
+『已成了；』
+只要相信，不要感覺，
+『已成了。』</stanza>
+	<stanza type="verse" number="4">對神應許應當說道：
+『已成了；』
+對神話語應當認道：
+『已成了。』</stanza>
+	<stanza type="verse" number="5">按祂所說來相信祂，
+『已成了；』
+這個就是接受祕法，
+『已成了。』</stanza>
+  </lyrics>
+</hymn>

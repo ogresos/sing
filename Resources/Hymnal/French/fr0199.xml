@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Second Refrain</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;la vie</category>
+  <numbers><cebuano num="1017"/><chinese num="693*"/><english num="1017"/><french num="199"/><german num="1017"/><korean num="693"/><portuguese num="452"/><russian num="181"/><spanish num="474"/><tagalog num="1017"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5./ 5// | 5/ 5/ 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1./ 7// | 6./ 6// 6./ 7// ._1./ 7// ._1./ 6// | 5./ 6// 5./ 3// 5 5./ 5// (break) | 5./ 5// 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 (break) | (Chorus) 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 0 | 6. 7/ ._1./ 7// ._1./ 6// | 5 - 3 - (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1017"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Christ prit ma nature humaine, devenant semblable à moi.
+Il me libéra du vieil homme en me clouant à la croix.
+Il ressuscita, devint l'Esprit, afin d'entrer en moi,
+Pour devenir ma vie.</stanza>
+	<stanza type="verse" number="">Premier Refrain:
+Gloire ! Gloire ! Alléluia !
+Gloire ! Gloire ! Alléluia !
+Gloire ! Gloire ! Alléluia !
+Jésus-Christ est ma vie !</stanza>
+	<stanza type="verse" number="">Second Refrain:
+Victoire ! Amen ! Alléluia !
+Victoire ! Amen ! Alléluia !
+Victoire ! Amen ! Alléluia !
+Oui, Christ est tout pour moi !</stanza>
+  </lyrics>
+</hymn>

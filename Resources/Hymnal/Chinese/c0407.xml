@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>救主耶穌我的太陽</title>
+  <index>true</index>
+  <category>經歷基督－與祂交通</category>
+  <numbers><chinese num="407"/><english num="374"/><korean num="407"/><tagalog num="374"/></numbers>
+  <creators>
+	<author biodate="1792-1866" biolink="">Translated from John Keble</author>
+  </creators>
+  <melody>| 1 1 1 | 1( 7_.) 1 | 2( 3) 2 | 1 - - (break) | 3 3 3 | 3( 2) 3 | 5( 4) 3 | 2 - - (break) | 2 2 3 | 4 - 2 | 3 - 4 | 5 - - (break) | 6 6 6 | 5 - 3 | 4( 3) 2 | 1 - - |</melody>
+  <layout>
+	<singingstanza>救 主 耶 穌， 我 的 太 陽， 有 你 同 在 夜 也 明 亮， 勿 讓 人 世 有 雲 遮 掩 僕 人 心 眼 不 見 慈 顏。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="374"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主耶穌，我的太陽，
+有你同在夜也明亮，
+勿讓人世有雲遮掩
+僕人心眼不見慈顏。</stanza>
+	<stanza type="verse" number="2">倦眼欲合，頻頻催眠，
+睡如甘露，潤我夕薦，
+深願今晚最後思念，
+乃是永世息你胸前。</stanza>
+	<stanza type="verse" number="3">與我同在自晨至夕，
+離你我覺生無意義，
+無你我懼死蔭臨到，
+求你相偕自晚至朝。</stanza>
+	<stanza type="verse" number="4">當我睡醒，求主賜福，
+扶我行走人生路途，
+直至那日被提你旁，
+溶化在你愛的海洋。</stanza>
+  </lyrics>
+</hymn>

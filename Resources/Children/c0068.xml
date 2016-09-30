@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>By listening I can obey</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <hymncode>3231323117125653</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | C - C7 - | F - - - | C - - - | Dm - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - 0/ 3/ 2#/ 3/ | 1 - 0/ 3/ 2#/ 3/ | 1 - 0/ 1/ 7_./ 1/ (break) | 2 - 0/ 5/ 6/ 5/ | 3 - 0/ 1/ 2/ 3/ | 4/ 4/ 4/ 4/ 4 5/ 4/ (break) | 3/ 3/ 3/ 2/ 1 1/ 3/ | 2/ 2/ 2/ 1/ 7_./ 5_./ 3/ 2/ | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>By lis -- ten -- ing I can o -- bey All of the words My par -- ents say. O -- be -- di -- ence, love, joy, and peace, Dai -- ly these must all in -- crease In the prop -- er boys and girls Who are the Lord's.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="22">c0068.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">By listening (echo)
+I can obey (echo)
+All of the words (echo)
+My parents say. (echo)</stanza>
+    <stanza type="chorus" number="">Obedience, love, joy, and peace,
+Daily these must all increase
+In the proper boys and girls
+Who are the Lord's.</stanza>
+    <stanza type="verse" number="2">A heart of love (echo)
+Is one that's kind, (echo)
+Forgiving is (echo)
+One of its signs. (echo)</stanza>
+    <stanza type="verse" number="3">I, child of joy (echo)
+When friends are sad (echo)
+With tearful words, (echo)
+Will make them glad. (echo)</stanza>
+    <stanza type="verse" number="4">Peacemakers are (echo)
+What we should be; (echo)
+Speaking kind words (echo)
+Making harmony. (echo)</stanza>
+  </lyrics>
+</hymn>

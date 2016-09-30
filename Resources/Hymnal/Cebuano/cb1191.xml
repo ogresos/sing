@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa espiritu ko may tubod nag-awas</title>
+  <index>true</index>
+  <category>PAGSINATI SA DIOS&amp;mdash;INGON NGA KINABUHI</category>
+  <numbers><cebuano num="1191"/><chinese num="ts:410"/><english num="1191"/><german num="1191"/><portuguese num="310"/><russian num="117"/><spanish num="222"/><tagalog num="1191"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">Translated from R. K.</author>
+  </creators>
+  <melody>| 0 - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6 | 7. 6/ 5 | 4 5 4 | 3( - - (break) | 3) - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | ._4 ._3 ._2 | ._1( - - (break) | ._1) - (Chorus) 7/ ._1/ | ._2. ._2/ ._2 | ._2 ._1 7 | ._1( - - | ._1) - ._1/ 7/ | 6. 6/ 6 | ._1 7 6 | 5( - - (break) | 5) - 5/ ._1/ | ._3. ._3/ ._3 | ._3 ._4 ._3 | 6( - - | 6) - ._4/ ._4/ | ._3. ._2/ ._1 | 5 7 ._2 | ._1( - - | ._1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="618"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa espiritu ko may tubod nag-awas,
+Tulo-usang Dios nag-agay;
+Amahan tinubdan, Anak agianan,
+Espiritu nagpaambit.</stanza>
+	<stanza type="chorus" number="">Mahal kong agay's kinabuhi,
+Sa kalag ako magdumili;
+Niining agay magpalalum
+Aron kinabuhi mahamtong.</stanza>
+	<stanza type="verse" number="2">Sa lunhaw nga sagbut gipahigda ako;
+Gidala's tubig's pahulay;
+Wala nay kaugalingon nga paningkamot;
+Mabulahan sa 'yang agay.</stanza>
+	<stanza type="verse" number="3">Gitawag sa Dapit nga Labing Balaan,
+Papuy-on sa presensya N'ya;
+Hallelujah, gidasig ako sa pulong:
+"Pabilin kay ikaw sanga."</stanza>
+  </lyrics>
+</hymn>

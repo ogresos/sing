@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gott hat Kraftlosen verheißen</title>
+  <index>true</index>
+  <category>TROST IN TRÜBSAL&amp;mdash;Durch die Leitung des Herrn</category>
+  <numbers><cebuano num="703"/><chinese num="509"/><english num="703"/><german num="703"/><korean num="509"/><russian num="526"/><tagalog num="703"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Nathaniel Niles</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 6_.. 6_.. 6_./( 7_./) 1/ | 2. 2. 2/( 1/) 2/ (break) | 3 - - 3/( 2/) 3/ | 4. 4. 4/( 5/) 6/ | 6. 5. 5/( 4/) 3/ | 2. 2. 2/( 3/) 4#/ (break) | 5 - - (Chorus) 5/( 4/) 3/ | 3. 2. 2/( 3/) 4/ | 4. 3. 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ (break) | 2 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 4. (.6. 6/( 5/) 4/ | 3. 5. 4/( 3/) 2/ | 1 - - 0. |</melody>
+  <layout>
+	<singingstanza>Gott hat Kraft -- lo -- sen ver -- hei -- ßen:_&amp;mdash; Oh wie kost -- bar! Welch Ge -- spür!  In die Herr -- lich -- keit willst rei -- sen_&amp;mdash; „Dich mit Mei -- nen Au -- gen führ.“ Dich nun führ Ich, dich nun führ Ich, „Dich mit Mei -- nen Au -- gen führ.“ Hörst auf dei -- ner Rei -- se deut -- lich: „In die Herr -- lich -- keit dich führ.“</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 32:8</link>
+  </links>
+  <music>
+	<midiref type="h" num="703"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gott hat Kraftlosen verheißen:
+- Oh wie kostbar! Welch Gespür! 
+In die Herrlichkeit willst reisen –
+„Dich mit Meinen Augen führ.“</stanza>
+	<stanza type="chorus" number="">Dich nun führ Ich, dich nun führ Ich,
+„Dich mit Meinen Augen führ.“
+Hörst auf deiner Reise deutlich:
+„In die Herrlichkeit dich führ.“</stanza>
+	<stanza type="verse" number="2">Wenn vertraute Helfer fliehen,
+In Versuchung mich zuschnür,
+Die Verheißung will mich ziehen:
+„Dich mit Meinen Augen führ.“</stanza>
+	<stanza type="verse" number="3">Wenn die kleinste Hoffnung schwindet
+Sich verschließt stets jede Tür,
+Gott an Sich mit Trost mich bindet:
+„Dich mit Meinen Augen führ.“</stanza>
+	<stanza type="verse" number="4">Wenn die Lebensschatten fallen,
+Ich die Sterbensstunde spür,
+Hör ich ich meinen Lotsen schallen,
+„Dich mit Meinen Augen führ.“</stanza>
+  </lyrics>
+</hymn>

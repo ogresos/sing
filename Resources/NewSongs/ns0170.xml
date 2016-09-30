@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Everybody ought to know</title>
+  <index>true</index>
+  <category>Fullness of the Spirit&amp;mdash;As the Indwelling Spirit</category>
+  <numbers><chinese num="ts:107"/><english num="ns:170"/><lsmyp num="56"/><vsb num="6"/></numbers>
+  <creators>
+    <composer biodate="1940" biolink="">Harry Dixon Loes</composer>
+    <!--<composer biodate="" biolink="">Arranged by The Rodeheaver Co.</composer>-->
+  </creators>
+  <hymncode>55654535565453</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/G - | C - C/G - | C - C/G - | C - C/G - | C - - - | Dm - Dm/F - | G - G7/B - | C - F/C - | C - G7 - | C - F/C - | C - G7 - | C - C7/E - | F - Dm - | Em - Am - | Dm - G7 - | C - C7/E - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 5_../ 5_.// 6_../ 5_.// 4#_../ 5_.// | (startrepeat) 3 - - - | 0 5_../ 5_.// 6_../ 5_.// 4#_../ 5_.// | 3 - - - (break) | 0 3./ 3// 4./ 4// 3./ 3// | 2 - - - | 0 4 3 2 | (alt1) 1( - - - (break) | 1) 5_../ 5_.// 6_../ 5_.// 4#_../ 5_.// | (alt2) 1( - - - | 1) - - 0 (endalt) (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 1/ 5/ 3/ | 2 - - 0 (break) | 5. 5/ 6/ 5/ 3/ 1/ | 1 - 6_. 0 | 5_.. 1/ 3/ 2/ 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Ev -- ery -- bod -- y ought to know; Ev -- ery -- bod -- y ought to know; Ev -- ery -- bod -- y ought to know; Where Je -- sus dwells. Ev -- ery -- bod -- y ought to dwells. He is dwell -- ing in our spir -- it; He is Breath and Life to us; We are one with Him in spir -- it. Ev -- ery -- bod -- y ought to know.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="54">ns0170.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Everybody ought to know; (Everybody ought to know)
+Everybody ought to know; (Everybody ought to know)
+Everybody ought to know; (Everybody ought to know)
+Where Jesus dwells.
+(Repeat)</stanza>
+    <stanza type="chorus" number="">He is dwelling in our spirit;
+He is Breath and Life to us;
+We are one with Him in spirit.
+Everybody ought to know.</stanza>
+    <stanza type="verse" number="2">Everybody ought to know;
+Everybody ought to know;
+Everybody ought to know;
+The living Christ.
+(Repeat)</stanza>
+    <stanza type="chorus" number="">Christ is the life-giving Spirit;
+All God's fullness He contains;
+We partake of all His riches
+Just by calling on His Name.</stanza>
+  </lyrics>
+</hymn>

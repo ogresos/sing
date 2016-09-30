@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>hh</firstname>
+    <lastname>tsai</lastname>
+    <email>tsaihh@yahoo.com.tw</email>
+    <password>tbJm3c4RbzdAgrvYNRJ%2BqQ%3D%3D</password>
+    <gender>F</gender>
+    <country>tw</country>
+    <ipaddress>123.194.176.92</ipaddress>
+    <createdate>2011-08-14 04:16:08</createdate>
+    <lastupdateddate>2011-08-30 01:05:28</lastupdateddate>
+    <lastlogindate>2011-08-30 01:05:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="ns" num="360">And Confessedly, Great is the Mystery</fav>
+        <fav category="default" type="h" num="1163">He's the vine and we're the branches</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="359">Shepherding in Love</fav>
+        <fav category="default" type="ns" num="6c">神的愛使我們成為婚配</fav>
+    </favourites>
+</user>

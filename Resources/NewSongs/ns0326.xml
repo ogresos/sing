@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>You shall love the Lord with all your heart</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Loving the Lord</category>
+  <numbers><english num="ns:326"/></numbers>
+  <hymncode>551234564557123453</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | Am - - - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - - -| G7 - - - | C - - - | Am - - - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Am - - - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | F/C - - - | C - - - |</chords>
+  <melody>| (Verse_1) 5_. 5_. 1 2/ 3/( | 3) 4/ 5/( 5) 6( | 6) 4( - - | 4) - - - (break) | 5_. 5_. 7_. 1/ 2/( | 2) 3/ 4/( 4) 5( | 5) 3( - - | 3) - - - (break) | 5_. 5_. 1 2/ 3/( | 3) 3/ 2/( 2) 1/( 2/) | 2( - - - (break) | 2.) 5_./ 7_. 1 | 2. 5_./ 7_. 1 | 2. 2/ 1 7_. | 1( - - - (break) | 1.) (Verse_2) 2/ 3 4 | 5 - - - | 1 - - 0/ 5/ | 5 4/ 4/( 4) 3/ 4/( (break) | 4.) 2/ 3 4 | 4 - - - | 5_. - - 0/ 4/ | 4 5/ 3/( 3) 2/ 3/( (break) | 3.) 1/ 2 3 | 3 - - - | 6_. - - - | 3 4 2 1/ 2/( (break) | 2.) 5_./ 7_. 1 | 2. 5_./ 7_. 1 | 2. 2/ 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">You shall love the Lord with all your heart You shall love the Lord with all your soul, You shall love the Lord with all your mind, With all your heart, with all your soul, with all your mind. Oh, Lord I love You for all the things You are! Oh, Lord I love You for all the things You do! Oh, Lord I love You. Help me love You more, With all my heart, with all my soul, with all my mind.</singingstanza>
+  </layout>
+  <copyright>Maranatha! Music</copyright>
+  <music>
+    <midi location="ns" length="54">ns0326.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">You shall love the Lord with all your heart
+You shall love the Lord with all your soul,
+You shall love the Lord with all your mind,
+With all your heart, with all your soul, with all your mind.</stanza>
+    <stanza type="verse" number="">Oh, Lord I love You for all the things You are!
+Oh, Lord I love You for all the things You do!
+Oh, Lord I love You. Help me love You more,
+With all my heart, with all my soul, with all my mind.</stanza>
+    <stanza type="note" number="">(The two parts can be sung simultaneously)</stanza>
+  </lyrics>
+</hymn>

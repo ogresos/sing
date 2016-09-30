@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kahiladman sa Imong Ngalan</title>
+  <index>true</index>
+  <category>PAGLIPAY SA MGA PAGSULAY&amp;mdash;PINAAGI SA NGALAN SA GINOO</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa kahiladman sa Imong Ngalan,
+Nitidlom ko'g puyo sa kalipay;
+Igo Ka bisan taas ang adlaw,
+Bisan gabii labi kadulom.</stanza>
+	<stanza type="verse" number="2">Ikaw akong Dios&amp;mdash;ang Igo's-tanan,
+Mamugna Mong panginahanglan ko;
+Gisabwag Mo's mamingaw kong dalan
+Ang milagro's gugma'g pag-atiman.</stanza>
+	<stanza type="verse" number="3">Kining nisalig mangahas pa gyud
+Pagdangop Nimo, O akoang Dios,
+Gisimbang paagi Mo's pagtoo,
+Sa hilom nga pahulay's pagtoo.</stanza>
+  </lyrics>
+</hymn>

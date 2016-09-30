@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>召會是我甜美家</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:705"/><english num="6705"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+  </creators>
+  <melody>| 0 - - 1 | 3 - 2 5 | 3. 2/ 1 5_. | 6_. - 5_. 1 (break) | 3 - 2 5_. | 3.( 4/) 3 1 | 4.( 6/) 5 4/ 3/ | 2. 6_./ 7_. 5_. (break) | 1 - - 2 | 2 - 7_. 5_. | 1.( 2/) 3 6 | 5 - 3 1 (break) | 4.( 3/) 2 2 | 2.( 3/) 2 4 | 3 - - 2 | 7.( 6/) 5 6 (break) | 5 - - 5 | 3 - 2 1 | 4.( 6/) 5 4/ 3/ | 2. 6_./ 7_. 2 | 1 - - 0 ||</melody>
+  <layout>
+	<singingstanza>恩 主 是 我 所 至 愛， 我 心 我 命 所 歸。 是 我 時 刻 扶 持， 也 是 我 體 恤 安 慰。 前 捨 命 成 救 贖， 今 是 生 命 泉 源， 成 為 我 安 息， 是 我 的 喜 樂。 恩 主 阿！ 我 愛 你， 我 愛 你， 你， 到 永 遠！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="6705"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">恩主是我所至愛，
+我心我命所歸。
+是我時刻扶持，
+也是我體恤安慰。
+前捨命成救贖，
+今是生命泉源，
+成為我安息，
+是我的喜樂。
+恩主阿！我愛你，
+我愛你，你，到永遠！</stanza>
+	<stanza type="verse" number="2">召會是我甜美家，
+滿足我的心懷。
+是主心愛配偶，
+也是我終生所投。
+在這家中有愛，
+扶持供應無限，
+使我有力量，
+引領我前往。
+召會阿！我愛你，
+我愛你，你，甜美家！</stanza>
+  </lyrics>
+</hymn>

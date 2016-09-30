@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Geh doch voran, zu Christus lauf –</title>
+  <index>true</index>
+  <category>ERMUTIGUNG&amp;mdash;Zum voran gehen</category>
+  <numbers><cebuano num="1205"/><chinese num="ts:423"/><english num="1205"/><german num="1205"/><korean num="1006"/><russian num="469"/><spanish num="301"/><tagalog num="1205"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="David Matteson">Translated from D. M.</author>
+  </creators>
+  <key>Bb Major</key>
+  <melody>| 0 - 5 - | 5 - 5 - | 5 - - 4 | 4 - 3 - | 3 - - 3 | 3 - 3 - | 5 - 3 - | 4( - - - (break) | 4) - 5 - | 5 - 7 - | 7 - - 7 | ._1 - 5 - | 5 - - 5 | 6 - 4 - | 3 - 2 - (break) | 1( - - - | 1) 0 (Chorus) 5. 5/ | 7( - - - | 7) - 5. 5/ | ._1( - - - | ._1) - 5. 5/ | ._2( - - - (break) | ._2) - 5. 5/ | ._3 ._2 ._1 7 | ._1 7 6. 5/ | 7( - - - (break) | 7) - 5. 5/ | ._1( - - - | ._1) - 5 - | 6 - 4 - | 3 - 2 - | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+	<singingstanza>Geh doch vo -- ran, zu Chris -- tus lauf_&amp;mdash;  Dem Ziel auf dei -- ner Bahn. Ge -- winn den Preis von Got -- tes Ruf, Zu Chris -- tus geh vo -- ran! Geh vo -- ran! Geh vo -- ran! Geh vo -- ran! Hal -- le -- lu -- ja für den Preis! Oh, geh vo -- ran! Geh vo -- ran! Zu Chris -- tus lauf mit Fleiß!</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Philippians 3:10-14</link>
+  </links>
+  <music>
+	<midiref type="h" num="1205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Geh doch voran, zu Christus lauf – 
+    Dem Ziel auf deiner Bahn.
+Gewinn den Preis von Gottes Ruf,
+    Zu Christus geh voran!</stanza>
+	<stanza type="chorus" number="">Geh voran! Geh voran!
+Geh voran! Halleluja für den Preis!
+Oh, geh voran! Geh voran!
+Zu Christus lauf mit Fleiß!</stanza>
+	<stanza type="verse" number="2">Geh doch voran, es ist Verlust,
+    Was uns Gewinn einst war,
+Gewinn den Preis, der Christus ist!
+    Denn Er ist wunderbar!</stanza>
+	<stanza type="verse" number="3">Geh doch voran, erkenn den Herrn
+    Und Auferstehungskraft – 
+Denn dies ist unser höchster Lohn,
+    In Leiden Sieg verschafft.</stanza>
+	<stanza type="verse" number="4">Geh doch voran, dies eine tu,
+    Vergiss, was liegt zurück;
+Geh doch voran, zu Christus lauf,
+    Lauf jeden Tag ein Stück.</stanza>
+  </lyrics>
+</hymn>

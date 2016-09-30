@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>John</firstname>
+<lastname>Lindberg</lastname>
+<email>azlindy2@hotmail.com</email>
+<password>$1$PZlYPsFo$rhAJ0QhpDQfUcHzBVlKF/1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.101.200.72</ipaddress>
+<createdate>2008-07-26 01:42:59</createdate>
+<lastupdateddate>2009-09-15 18:23:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1077">There were ninety and nine that safely lay</fav>
+    </favourites>
+</user>

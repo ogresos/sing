@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang Iyong Salita'y imbakan</title>
+  <index>true</index>
+  <category>PAG-AARAL NG SALITA&amp;mdash;ANG GAWAIN NG SALITA</category>
+  <numbers><chinese num="ts:437"/><english num="804"/><tagalog num="804"/></numbers>
+  <creators>
+    <author biodate="1837-1904" biolink="">Translated from Edwin Hodder, vv. 1-3</author>
+    <author biodate="1784-1849" biolink="">Translated from Bernard Barton, v. 4</author>
+  </creators>
+  <music>
+    <midiref type="h" num="804"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ang Iyong Salita'y imbakan,
+Panustos, kay yaman
+Ang may nais, pumarito
+Upang makisalo.
+Minahan ang Iyong Salita,
+Hiyas na bihira;
+Nakakubli sa ilalim,
+Upang 'ting hanapin.</stanza>
+    <stanza type="verse" number="2">Iyong Salita'y tila bituin,
+Marami't maningning,
+Liwanag sa manlalakbay,
+Giya at patnubay.
+Iyong Salita ay sakbatan,
+Do'n matatagpuan
+Mga sandatang kailangan,
+Para sa labanan.</stanza>
+    <stanza type="verse" number="3">Salita Mo'y iibigin,
+Mina'y saliksikin,
+Kayamanan nito'y kamtim,
+Ilaw ay magningning.
+Baluti ko'y Iyong Salita,
+Tabak ay pag-asa;
+Matutuhan kong labanan.
+Lahat ng kalaban.</stanza>
+    <stanza type="verse" number="4">Salita ng buhay na Diyos,
+Kalo'ban ni Hesus;
+Diyos at Kristo'y di makuha.
+Kung Salita'y wala.
+Nawa'y aming matutuhan,
+Kanyang karunungan,
+At sa aral makalangit,
+Puso'y mapalapit.</stanza>
+  </lyrics>
+</hymn>

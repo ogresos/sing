@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Herr, wir hörten Deinen Ruf klar</title>
+  <index>true</index>
+  <category>GEBET&amp;mdash;Im Allerheiligsten</category>
+  <numbers><cebuano num="1217"/><english num="1217"/><french num="141"/><german num="1217"/><russian num="428"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Herr, wir hör -- ten Dei -- nen Ruf klar: „Kommt ins Hei -- ligs -- te all -- zeit!“ Kommt und seht auf Sei -- nem Ant -- litz Die Sche -- ki -- na Herr -- lich -- keit. In das Hei -- ligs -- te kommt vor -- wärts Durch den Weih -- rauch, das Ge -- bet, Fort der Vor -- hang ist, der trenn -- te, Froh und kühn hin -- ein nun geht.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Herr, wir hörten Deinen Ruf klar:
+„Kommt ins Heiligste allzeit!“
+Kommt und seht auf Seinem Antlitz
+Die Schekina Herrlichkeit.</stanza>
+	<stanza type="chorus" number="">In das Heiligste kommt vorwärts
+Durch den Weihrauch, das Gebet,
+Fort der Vorhang ist, der trennte,
+Froh und kühn hinein nun geht.</stanza>
+	<stanza type="verse" number="2">Durch den neuen Weg kommt vorwärts,
+In das Heiligste hinein,
+Herrlich offen ist der Zugang,
+Und so wird’s für ewig sein.</stanza>
+	<stanza type="verse" number="3">Vorwärts kommt zu unsrem Gott nun,
+Der auf Seinem Thron hier ruht;
+Frei der Weg zur Herrlichkeit ist
+Durch Sein Kreuz und durch Sein Blut.</stanza>
+	<stanza type="verse" number="4">In die Gnadenzeit kommt vorwärts,
+Kühn und sicher dürft ihr sein.
+Wollt ihr Gottes Plan genießen, 
+Nicht aufs Alte lasst euch ein.</stanza>
+	<stanza type="verse" number="5">Herr, zu Dir sind wir gekommen.
+Und im Heiligsten sehn wir:
+Unser Gott bist, wir Dein Volk sind;
+Ewig bleiben wolln wir hier.</stanza>
+  </lyrics>
+</hymn>
+

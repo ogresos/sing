@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! aleluia pela cruz</title>
+  <index>true</index>
+  <category>Sua Morte</category>
+  <numbers><english num="1087"/><portuguese num="50"/></numbers>
+  <music>
+    <midiref type="h" num="1087"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh! aleluia pela cruz!
+Que morte houve ali!
+Não foi só Cristo que morreu,
+Mas tudo o mais se abrangeu:
+Pois nela estava Deus,
+Também você e eu.
+Oh! aleluia por essa cruz!</stanza>
+    <stanza type="verse" number="2">Glória ao Senhor, pois eu em Deus
+Morri e tive fim!
+Do velho homem livre estou,
+Pois Deus em mim o eliminou!
+Que morte sem igual,
+Que morte sem igual!
+Oh! aleluia por esse fim!</stanza>
+    <stanza type="verse" number="3">Glória ao Senhor, no homem, Deus
+Morreu e ressurgiu!
+Um Grão de trigo se plantou,
+Na terra, se multiplicou,
+Tornou-se muitos grãos
+Com Sua vida então;
+Oh! aleluia, que vida é!</stanza>
+    <stanza type="verse" number="4">Nós Te louvamos pela cruz,
+Tal morte foi total!
+Eterno é o seu valor,
+E tudo gira ao seu redor!
+Amamos Tua cruz,
+Amamos Tua cruz;
+Oh! aleluia por Tua cruz.</stanza>
+  </lyrics>
+</hymn>

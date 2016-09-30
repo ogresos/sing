@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Por el bautismo hay unidad</title>
+  <index>true</index>
+  <category>El bautizmo&amp;mdash;Sepultado y levantado</category>
+  <numbers><cebuano num="937"/><chinese num="742"/><english num="937"/><german num="937"/><korean num="742"/><russian num="433"/><spanish num="424"/><tagalog num="937"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3. 3/ 3 - 2 - | 1. 1/ 1 - 2 - | 3 5 4 - 3 - | 3( - (.2) - 4 - (break) | 3. 3/ 3 - 6 - | 5. 5/ 5 - 1 - | 2 4 3 - 2 - | 1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="767"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Por el bautismo͜ hay unidad
+Con Tu muerte, Señor;
+Oh, por Tu gracia͜ y Tu piedad,
+Revela su valor.</stanza>
+	<stanza type="verse" number="2">Contigo sepultado soy,
+En Ti me bauticé;
+Para͜ el pecado muerto͜ estoy,
+No tiene más poder.</stanza>
+	<stanza type="verse" number="3">Por el bautismo muerto soy
+Contigo mi Señor;
+Así por siempre libre͜ estoy
+Del mundo͜ usurpador.</stanza>
+	<stanza type="verse" number="4">Contigo Dios nos levantó,
+De muerte nos libró;
+El fruto de la santidad
+Tu vida nos legó.</stanza>
+	<stanza type="verse" number="5">Me bauticé͜ en Tu nombre yo,
+Y mío ya no soy;
+Uno contigo vivo͜ aquí,
+Tus pasos sigo hoy.</stanza>
+  </lyrics>
+</hymn>

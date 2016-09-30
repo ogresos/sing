@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nagtipon nanalangin</title>
+  <index>true</index>
+  <category>PANALANGIN&amp;mdash;SA KABANAL-BANALAN</category>
+  <numbers><cebuano num="772"/><chinese num="555"/><english num="772"/><german num="772"/><korean num="555"/><russian num="324"/><tagalog num="772"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 6 5 | 5. 4/ 3 - | ._1 7 6 5 | 3 1 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - (break) | (Chorus) 1 4 3 4 | 7b 6 5 - | 6 6 7 ._1 | 4 3 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - |</melody>
+  <music>
+	<midiref type="h" num="772"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nagtipon nanalangin,
+Nagkaisa Kang hanapin;
+Saserdote nga kami
+Nakabantay sa Hari.</stanza>
+	<stanza type="chorus" number="">Sa aming panalangin,
+Mabuti Mo'y hipuin;
+Ming 'Spiritu'y maghalo
+Ekklesia'y maitayo.</stanza>
+	<stanza type="verse" number="2">Magpakasaserdote,
+Nasa 'spiritu lagi;
+Batid Iyong kalooban,
+Layon may katuparan.</stanza>
+	<stanza type="verse" number="3">Sa kabanal-banalan
+Hipo'y b'yayang luklukan;
+'Spiritu Mo sa amin,
+Patuloy paraanin.</stanza>
+	<stanza type="verse" number="4">Sa luklukan ng awa,
+Daloy ilog ng b'yaya;
+Hanggang sa 'spiritu ko,
+Tulong aking natamo.</stanza>
+	<stanza type="verse" number="5">Nawa'y aming dalangin,
+Bigkas ng Iyong damdamin;
+Di ayon sa sarili,
+Kundi sa Iyo ang hingi.</stanza>
+	<stanza type="verse" number="6">Kahit maraming bagay,
+Dapat sa Iyo isaysay,
+Nguni't Iyong ka-i-langan
+Di dapat maunahan.</stanza>
+	<stanza type="verse" number="7">Nawa kami'y pakinggan,
+Tubig ng buhay bigyan;
+Busugin sa biyaya
+Tupdin namin Iyong gawa.</stanza>
+  </lyrics>
+</hymn>

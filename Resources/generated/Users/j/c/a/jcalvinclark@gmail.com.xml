@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Calvin</firstname>
+    <lastname>Clark</lastname>
+    <email>jcalvinclark@gmail.com</email>
+    <password>Y7EWQdSTfGaxGpCnCWWdIQ%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>209.121.95.134</ipaddress>
+    <createdate>2012-02-03 21:46:28</createdate>
+    <lastupdateddate>2012-02-03 21:51:02</lastupdateddate>
+    <lastlogindate>2012-02-03 21:46:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    </favourites>
+</user>

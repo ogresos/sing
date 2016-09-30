@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wala nang dambana</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KATUBUSAN</category>
+  <numbers><chinese num="40"/><english num="106"/><korean num="40"/><portuguese num="52"/><tagalog num="106"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="106"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Wala nang dambana,
+Dugo at hain pa;
+Walang usok, walang apoy.
+Wala nang panaghoy.
+Maharlikang dugo dumaloy na,
+Dungis hinuhugasan, pinatawad sala.</stanza>
+    <stanza type="verse" number="2">Salamat Diyos Ama,
+Sa dugo ng Anak.
+Kami'y naging mga matuwid,
+Pagtubos nakamit,
+Naligtas sa Hades, sala't dilim.
+Buhay na walang hanggang napasaamin.</stanza>
+    <stanza type="verse" number="3">Salamat Diyos Ama,
+Sa I-yong biyaya;
+Lawak ng di-makatwiran,
+Nilagom lubusan.
+Pinupuri namin Iyong pagsinta,
+L'walhati't lakas mapasa Iyo, Siya nawa.</stanza>
+    <stanza type="verse" number="4">Salamat Diyos Ama.
+Sa putong na glorya
+Nananatili ang ganda,
+Hindi malalanta.
+Gaya ng trono di nasisira,
+Dapat sa Iyo pa rin ang mga putong nga.</stanza>
+    <stanza type="note" number="">(Ang Tagalog ay isinalin mula sa Intsik)</stanza>
+  </lyrics>
+</hymn>

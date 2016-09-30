@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Douglas</firstname>
+  <lastname>McPherson</lastname>
+  <email>mcpherson.douglas@gmail.com</email>
+  <password>$2y$10$RlAVaUNGnIpMgZqNTtDoeuHcY.UkhL6N7d0UoU45qdYs2DciEKCpa</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>220.233.69.96</ipaddress>
+  <createdate>2015-02-13 00:17:27</createdate>
+  <lastupdateddate>2015-02-13 00:19:04</lastupdateddate>
+  <lastlogindate>2015-02-13 00:19:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

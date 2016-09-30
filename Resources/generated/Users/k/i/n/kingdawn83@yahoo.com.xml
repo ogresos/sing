@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Doile A.</firstname>
+  <lastname>King</lastname>
+  <email>kingdawn83@yahoo.com</email>
+  <password>$2y$10$XfeqRdXbIMPoD.pUt3oE0ut4w0CV1CMw8wL0I9Nw/Pfhb/0YbqOfm</password>
+  <gender/>
+  <country/>
+  <ipaddress>73.43.102.130</ipaddress>
+  <createdate>2015-06-07 22:46:54</createdate>
+  <lastupdateddate>2015-06-07 22:48:36</lastupdateddate>
+  <lastlogindate>2015-06-07 22:47:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

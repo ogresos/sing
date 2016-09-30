@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主要再臨</title>
+  <index>true</index>
+  <category>盼望與豫備</category>
+  <numbers><cebuano num="1302"/><chinese num="ts:901"/><english num="1302"/><german num="1302"/><spanish num="446"/></numbers>
+  <melody>| ._1 7 6 5 4# 5 | 6( - - 6) - - | ._2 ._1 7 6 5# 6 | 7( - - 7) - - (break) | ._3 ._2 ._1 7 7b 7 | ._1( - - ._2) - - | ._3 ._3 ._3 ._2 ._2 ._2 | ._1( - - ._1) - - (break) | (Chorus) 5 - - 6 - 6 | 6( - - 6) - - | 6 - - 7 - 7 | 7( - - 7) - - (break) | ._2 - ._1 7 - 6 | ._1 - 7 6 - - | ._1 - 7 6 - 5/ 5/ | 7 - 6 3 - - (break) | 5 - - 6 - 6 | 6( - - 6) - - | 6 - - 7 - 7 | 7( - - 7) - - (break) | ._1 ._1 ._1 ._2 ._2 ._2 | ._3 ._2 ._1 6 - - | 5 6 ._1 ._4 ._3 ._2 | ._1( - - ._1) - - |</melody>
+  <layout>
+	<singingstanza>末 期 豫 兆 在 指 明， 基 督 快 要 再 降 臨， 我 們 豫 備 當 儆 醒─ 恩 主 耶 穌 要 再 臨！ 主 要 再 臨， 主 要 再 臨， 時 間 飛 逝 不 稍 等， 不 久 即 聞 半 夜 喊 聲！ 主 要 再 臨， 主 要 再 臨， 我 們 須 豫 備 像 聰 明 童 女， 恩 主 耶 穌 要 再 臨！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1302"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">末期豫兆在指明，
+基督快要再降臨，
+我們豫備當儆醒─
+恩主耶穌要再臨！</stanza>
+	<stanza type="chorus" number="">主要再臨，主要再臨，
+時間飛逝不稍等，
+不久即聞半夜喊聲！
+主要再臨，主要再臨，
+我們須豫備像聰明童女，
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="2">當從魂和你自己，
+轉眼望主不稍離，
+沒有時間再遲疑─
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="3">愚拙童女戀世界，
+到主來時纔發覺，
+器皿裡面油空缺─
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="4">聰明童女常殷勤，
+世界的酒不醉飲，
+她們發光，靈充盈─
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="5">我們出去迎新郎，
+必須將燈修明亮，
+也須買油免燈暗─
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="6">聰明童女都進去，
+作祂新婦同坐席，
+門向她們不關閉─
+恩主耶穌要再臨！</stanza>
+	<stanza type="verse" number="7">主今就在歸途中，
+無人知道那點鐘，
+儆醒與主時交通─
+恩主耶穌要再臨！</stanza>
+  </lyrics>
+</hymn>

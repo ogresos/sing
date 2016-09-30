@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debra</firstname>
+  <lastname/>
+  <email>familybrooks@windstream.net</email>
+  <password>$2y$10$9mlTk/509Ntay2uGbZx2R.l5KcN0OjjclO0441hMG3n5Nczdttj5u</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.26.115</ipaddress>
+  <createdate>2016-04-18 12:08:38</createdate>
+  <lastupdateddate>2016-05-04 11:37:32</lastupdateddate>
+  <lastlogindate>2016-04-18 12:24:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+  </favourites>
+</user>

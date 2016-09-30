@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Just to be in You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Abiding in Him</category>
+  <numbers><chinese num="ts:258"/><english num="lb:23"/><lsmyp num="154"/><vsb num="47"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>1354332123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G - | Am - - - | F - - G | C - - - | C - Dm - | G - - - | F - - G | C - - - | C - G/B - | Am - - C/G | F - - G | C - - - | C - Dm - | G - - - | F - - G | C - - - | G - - - | C - - - | G/B - G - | C - - - | G/B - G - | C - - - | Dm - C - | G - - - |</chords>
+  <melody>| 0 1/ 3/ 5. 4/ | 3 - - 3 | 2/( 1.)( 1) 2 | 3 - - - (break) | 0 5_./ 1/ 4 3 | 2 - - 2 | 6_./( 1.)( 1) 2 | 1 - - - (break) | 0 1/ 3/ 5. 4/ | 3 - - 3 | 2/( 1.)( 1) 2 | 3 - - - (break) | 0 5_./ 1/ 4 3 | 2 - - 2 | 6_./( 1.)( 1) 2 | 1 - - - (break) | (Chorus) 0 2/ 2/ 5 2 | 0 3/ 3/ 5/ 5/ 3 | 0 2/ 2/ 5 2/ 3/( | 3) - - - (break) | 0 2/ 2/ 5 2 | 0 3/ 3/ 5 3 | 4. 4/ 3/( 2/) 1 | 2 - - - |</melody>
+  <layout>
+    <singingstanza>Just to be in You as You're in me. Just a -- bide in You, Lord, con -- stant -- ly. Here I'm one with You, as You're with me. Here we're joined as one, Lord, mu -- tual -- ly. God's dis -- pen -- sing, His e -- co -- nom -- y, In His Trin -- i -- ty, He's trans -- fus -- ing, and He's min -- gling All He is to me.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="51">lb23.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Just to be in You as You're in me.
+Just abide in You, Lord, constantly.
+Here I'm one with You, as You're with me.
+Here we're joined as one, Lord, mutually.</stanza>
+    <stanza type="chorus" number="">God's dispensing, His economy,
+In His Trinity,
+He's transfusing, and He's mingling
+All He is to me.</stanza>
+    <stanza type="verse" number="2">I am just a branch, and You're the vine.
+As I dwell in You, everything is fine.
+Here I'd like to be, Lord, all the time.
+Here I'm Yours, dear Lord, and You are mine.</stanza>
+    <stanza type="verse" number="3">I'm a branch that's been, Lord, grafted in.
+I'm supplied in You in this life union.
+Here Your riches, Lord, in this sweet life flow.
+As I dwell in You, I will surely grow.</stanza>
+    <stanza type="verse" number="4">As I dwell in You, and You in me,
+Here I'm joined to You, Lord, practically.
+As I stay with You, as You're with me,
+We will mingle, Lord, subjectively.</stanza>
+    <stanza type="verse" number="5">As I'm loving You and enjoying You, Lord,
+You become in me the rhema word.
+Here I'll pray in You as You pray in me.
+You'll bear fruit in me, Lord, abundantly.</stanza>
+    <stanza type="verse" number="6">As I dwell in You, Lord You're flowing through.
+Lord, You're filling me, overflowing too.
+Here we all are one and expressing You.
+Here our joy is full as we dwell in You.</stanza>
+  </lyrics>
+</hymn>

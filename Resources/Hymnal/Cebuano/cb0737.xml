@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kinabuhing dayon</title>
+  <index>true</index>
+  <category>NAGKALAINLAING ASPETO SA KINABUHI SA SULOD&amp;mdash;ANG PAKIG-AMBITAY SA KINABUHI</category>
+  <numbers><cebuano num="737"/><chinese num="533"/><english num="737"/><german num="737"/><korean num="533"/><portuguese num="340"/><russian num="427"/><spanish num="309"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1. 1/ 2 6 | 5 - 3 - | 3. 3/ 4# 4# | 5 - - - (break) | ._1. ._1/ 5 5# | 6 - 6 - | 5. 3/ 4 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="399"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kinabuhing dayon
+Nagdala nato,
+Sa pakig-ambitay
+Sa kinabuhi.</stanza>
+	<stanza type="verse" number="2">Ang pakig-ambitay
+Sa kinabuhi,
+M'oy mag-usa nato
+Sa Espiritu.</stanza>
+	<stanza type="verse" number="3">Masangkapan kita
+Sa Iyang grasya,
+Sa pakig-ambitay
+Sa Espiritu.</stanza>
+	<stanza type="verse" number="4">Ang pakig-ambitay
+Sa Espiritu,
+Magdala kanato
+Diha's kahayag.</stanza>
+	<stanza type="verse" number="5">Pakig-ambitay ta
+Ampingan gayud,
+Pinaagi's dihog
+Dugong maghinlo.</stanza>
+	<stanza type="verse" number="6">Paladmon nato's krus
+Ang ambitayay;
+Ginhawa's Esp'ritu
+Mag-usbaw ni'ni.</stanza>
+	<stanza type="verse" number="7">Magpagawas nato
+Ang ambitayay,
+Gikan's kaugalingon,
+Magda' nato's Dios.</stanza>
+  </lyrics>
+</hymn>

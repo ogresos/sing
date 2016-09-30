@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, who's like our Jesus</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:228"/><vsb num="175"/></numbers>
+  <hymncode>555611123223</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm - G - | C - - - | Am - - - | F - - - | C/G - G7 - | C - - - | C - - - | Am - - - | Dm/F - G - | Am - - C/E | F - - - | Dm7 - - - | C/G - G7 - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 5_. - 5_. 6_. | 1 - 1 1 | 2.( 3/) 2 2 (break) | 3 - - 3/( 2/) | 1 - 1 1/( 7_./) | 6_. - 6_. 6_. | 5_. - 6_. 1 (break) | 1 - - 5_. | 5_. - 5_. 6_. | 1 - 1 1 | 2.( 3/) 2 2 (break) | 3 - - 3/( 2/) | 1 - 1 1/( 7_./) | 6_. - 6_. 6_. | 5_. - 6_. 1 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Oh, who's like our Je -- sus? He's all we de -- sire! His love draws us near&amp;mdash; sets our spir -- its a -- fire! We can -- not but love Him&amp;mdash; As one we pro -- claim: "Lord Je -- sus, we love Thee&amp;mdash; ex -- alt Thy dear name!"</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="36">ns0228.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, who's like our Jesus? He's all we desire!
+His love draws us near&amp;mdash;sets our spirits afire!
+We cannot but love Him&amp;mdash;As one we proclaim:
+"Lord Jesus, we love Thee&amp;mdash;exalt Thy dear name!"</stanza>
+    <stanza type="verse" number="2">O Jesus, our Jesus, with Thee we are blest&amp;mdash;
+Our Life, our Enjoyment, our Peace and our Rest:
+Thy name be our theme, and Thy love be our song;
+Thy love has inspired both our heart and our tongue!</stanza>
+    <stanza type="verse" number="3">O Jesus, our Jesus, how can we express
+Thy dearness, so precious, and Thy loveliness?
+When we see Thy beauty, all else fades away&amp;mdash;
+All shadows must flee at the breaking of day!</stanza>
+    <stanza type="verse" number="4">We love Thee, we love Thee, we love Thee, O Lord.
+We love Thee, our Jesus, we love Thee, our God!
+We love Thee, we love Thee, and that Thou dost know;
+As we're in Thy presence, love for Thee will grow!</stanza>
+  </lyrics>
+</hymn>

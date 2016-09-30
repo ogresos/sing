@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pinupuri Ka Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG BIYAYA SA PAGKA-ANAK</category>
+  <numbers><cebuano num="48"/><chinese num="45"/><english num="48"/><korean num="45"/><portuguese num="33"/><russian num="197"/><spanish num="29"/><tagalog num="48"/></numbers>
+  <creators>
+    <author biodate="1860-1930" biolink="">Translated from Alexander Carruthers</author>
+  </creators>
+  <music>
+    <midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Pinupuri Ka Ama,
+Kami'y nagsasaya;
+Sa Kanyang katayuan,
+Walang kamatayan,
+Nabubuhay 'sang Tao,
+Sa kanan ng trono;
+Patuloy na pagsinta,
+Mayamang biyaya!</stanza>
+    <stanza type="verse" number="2">Ama Niya'y Ama namin,
+Diyos Niya'y,Diyos din namin.
+Siya ay Iyong Sinisinta,
+Sa puso'y ligaya.
+Kami'y Kanya, Siya'y amin,
+Bahagi'y maangkin.
+Malaman Iyong biyaya
+Pag-ibig at mukha!</stanza>
+    <stanza type="verse" number="3">Kailanma'y di lalamig,
+Yakap ng pag-ibig
+Nakatuon sa Kanya,
+Taos na pagsinta!
+Sa Kanya'y may pahinga,
+L'walhati't pagsinta.
+Sa Kanya'y napalapit,
+Maraming kapatid.</stanza>
+  </lyrics>
+</hymn>

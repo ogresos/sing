@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rebecca</firstname>
+  <lastname>Zhang</lastname>
+  <email>rebeccazhang12345@gmail.com</email>
+  <password>$2y$10$grAo0nSoCEWZmlCWZccVhOD7/U1KMkJvfJPQptdcXQ/ctE.FquVk.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.130.93.123</ipaddress>
+  <createdate>2015-08-04 23:54:27</createdate>
+  <lastupdateddate>2016-07-03 00:14:30</lastupdateddate>
+  <lastlogindate>2016-07-03 00:14:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="134">A higher view</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    <fav category="default" type="ns" num="499">The Vision of God's Building</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="ns" num="204">When all around my sky is falling</fav>
+  </favourites>
+</user>

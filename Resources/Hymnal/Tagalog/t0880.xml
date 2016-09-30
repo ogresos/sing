@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa Ama ako'y sasang-ayon</title>
+  <index>true</index>
+  <category>ESPIRITUWAL NA PAGLALABAN&amp;mdash;SA PAMAMAGITAN NG PAGTALIMA</category>
+  <numbers><cebuano num="880"/><chinese num="640"/><english num="880"/><german num="880"/><korean num="640"/><russian num="144"/><spanish num="396"/><tagalog num="880"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 0 (break) | 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 3 - 3/ 3/ | 2 6 5 4 | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 (.._1 - 1/ 2/ | 3 5 4. 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="314"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa Ama ako'y sasang-ayon,
+Sa kaaway tatanggi;
+Nang ang Kanyang payo't layon
+Magawang may pagwagi.
+Kapag sumusunod ako,
+Awtoridad bigyan Mo,
+Upang matupad layon Mo,
+Sa lakas ng 'Spiritu.</stanza>
+	<stanza type="verse" number="2">Sa Ama ako'y sasang-ayon,
+Sa kaaway tatanggi;
+Ingatan ng Panginoon,
+Saloobin ko't gawi.
+Kung sa aking pagtalima,
+Satanas ay humadlang,
+Hesus, bigyan akong awa;
+Utos Mo'y mapakinggan.</stanza>
+	<stanza type="verse" number="3">Sa Ama ako'y sasang-ayon,
+Sa kaaway tatanggi;
+Ako'y susunod sa Kanya
+Ang dusa ma'y mang-api.
+Kung ako ay iingatan
+Ng aking Panginoon;
+Pagsubok man o kalaban,
+Ako'y di mahadlangan.</stanza>
+  </lyrics>
+</hymn>

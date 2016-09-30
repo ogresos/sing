@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>meiko</firstname>
+<lastname>bender</lastname>
+<email>meiko.bender@gmail.com</email>
+<password>$1$HZ59qsIJ$X38qg4HToBR8g.ebFsJQL.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>76.107.219.243</ipaddress>
+<createdate>2009-04-23 08:10:57</createdate>
+<lastupdateddate>2009-09-15 18:29:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="790">Keep the incense burning</fav>
+    </favourites>
+</user>

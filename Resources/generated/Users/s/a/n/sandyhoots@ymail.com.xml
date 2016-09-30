@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Sandy</firstname>
+    <lastname>Hoots</lastname>
+    <email>sandyhoots@ymail.com</email>
+    <password>l6AA9kyIFBXfc5YQLU5l%2Fg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>69.35.216.186</ipaddress>
+    <createdate>2013-07-28 22:15:23</createdate>
+    <lastupdateddate>2013-07-29 21:42:50</lastupdateddate>
+    <lastlogindate>2013-07-29 21:42:50</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="8127">Jesus is my King all-glorious</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

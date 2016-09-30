@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fill My Cup, Lord</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;General</category>
+  <numbers><english num="ns:340"/><lsmyp num="207"/></numbers>
+  <creators>
+    <author biodate="1925-2004" biolink="">Richard Blanchard</author>
+    <composer biodate="1925-2004" biolink="">Richard Blanchard</composer>
+  </creators>
+  <hymncode>55533335652</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G - G7 - | C - - - | C - C7/E - | F - Dm - | G - G7 - | C - G7 - | C - - - | G - - - | Dm - G7 - | C - - - | C - C7/E - | F - Dm - | G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5/ 5/ | 5/ 3/ 3/ 3/ 3 5/ 6/ | 5/ 2/( 2) - 0/ 5/ (break) | 7. 6/ 5/ 6/ 5/ 4/ | 3 - - 0/ 5/ (break) | ._1. ._1/ ._1/ ._1/ ._2/ ._3/ | ._2/ ._1/( ._1.) ._1/ ._1/ 6/ | 7. 5/ 7/ 7/ ._1/ ._2/ (break) | ._1 - - (Chorus) 5/ 6/ | 6/ 5/( 5)( 5/) 5/ 7/ ._1/ | ._1/ 7/( 7) - 7/ ._1/ (break) | ._2. ._2/ ._3/ ._2/ ._1/ ._2/ | ._3 - - ._1/ ._2/ | ._3/ ._3. ._3/ ._3/ ._2/ ._1/ (break) | ._2 ._1 6 6/ ._1/ | 7 6/ 5/ 7/ 7/ ._1/ ._2/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Like the wo -- man at the well, I was seek -- ing For things that could not sat -- is -- fy. And then I heard my Sav -- ior speak -- ing&amp;mdash; "Draw from My well that nev -- er shall run dry." Fill my cup Lord; I lift it up Lord; Come and quench this thirst -- ing of my soul. Bread of Heav -- en, feed me till I want no more. Fill my cup, fill it up and make me whole.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0340.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Like the woman at the well, I was seeking
+For things that could not satisfy.
+And then I heard my Savior speaking&amp;mdash;
+"Draw from My well that never shall run dry."</stanza>
+    <stanza type="chorus" number="">Fill my cup, Lord;
+I lift it up Lord;
+Come and quench this thirsting of my soul.
+Bread of Heaven, feed me till I want no more.
+Fill my cup, fill it up and make me whole.</stanza>
+    <stanza type="verse" number="2">There are millions in this world who are seeking
+For pleasures earthly goods afford.
+But none can match the wondrous treasure
+That I find in Jesus Christ my Lord.</stanza>
+    <stanza type="verse" number="3">So my brother if the things that this world gives you
+Leave hungers that won't pass away,
+My blessed Lord will come and save you
+If you kneel to Him and humbly pray&amp;mdash;</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Invisible, God is Invisible</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <composer biodate="" biolink="1892-1991">Jack Yellen</composer>
+    <composer biodate="" biolink="1886-1942">George L. Cobb</composer>
+  </creators>
+  <hymncode>6536536536</hymncode>
+  <key>G Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| A - | A - | A - | A - | D - | D - | D - | D - | G - | G - | D7 - | G - | C - | C - | C - | C - | C - | C - | A - | A - | A - | A - | Dm - | Dm - | Dm - | Dm - | C - | E7 - | F - | C - | D7 - | G7 - | C F/C | C - |</chords>
+  <melody>| 6_./ 5_./ 3_./ 6_./( | 6_./) 5_. 3_./ | 6_./ 5_./ 3_./ 6_./( | 6_.) - (break) | 6_./ 4#_./ 2_./ 6_./( | 6_./) 4#_. 2_./ | 6_./ 4#_./ 2_./ 6_./( | 6_.) - (break) | 0/ 7_./ 7_./ 6#_./ | 7_./ 6_./ 5_./ 5#_./ | 6_./ 5#_./ 6_./ 7_./( | 7_.) - (break) | 1/ 7_./ 1/ 6_./( | 6_./) 5_./ 3_. | 1/ 7_./ 1/ 6_./( | 6_./) 5_./ 3_. | 0 - (break) | 0 5#_. | 6_./( 5_./) 3_./ 6_./( | 6_./) 5_. 3_./ | 6_./( 5_./) 3_./ 6_./( | 6_.) - (break) | 2_./ 1#_./ 2_./ 3_./ | 4_./ 3_./ 4_./ 5_./ | 6_./ 6_. 6_./( | 6_./) 7_./ 1/ 2/ (break) | 3 3 | 3 3/ 2/ | 1/ 7_./ 6_./ 5_./( (break) | 5_.) 4#_./ 5_./ | 6_./ 1/ 6_./ 1/ | 2/ 5_. 1/( | 1)( - | 1) 0 |</melody>
+  <layout>
+    <singingstanza end="-1">In -- vis -- i -- ble, God is in -- vis -- i -- ble! In -- vis -- i -- ble, yes, He's in -- vis -- i -- ble! No man has ev -- er seen Him Or ev -- er could! For He's in -- vis -- i -- ble, God is in -- vis -- i -- ble. So pow -- er -- ful, God is pow -- er -- ful! All cre -- a -- tion shows us He's so pow -- er -- ful! Al -- though we can't see God, We can see what He's made! He's in -- vis -- i -- ble and pow -- er -- ful!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2016 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <links>
+    <link type="ref">cf. Romans 1:20</link>
+    <link type="ref">cf. Colossians 1:15</link>
+    <link type="ref">cf. 1 Timothy 1:17</link>
+  </links>
+  <music>
+    <midi location="c" length="37">c0134.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Invisible, God is invisible!
+Invisible, yes, He's invisible!
+No man has ever seen Him
+Or ever could!
+For He's invisible,
+God is invisible.</stanza>
+    <stanza type="verse" number="">So powerful, God is powerful!
+All creation shows us
+He's so powerful!
+Although we can't see God,
+We can see what He's made!
+He's invisible and powerful!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2016 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

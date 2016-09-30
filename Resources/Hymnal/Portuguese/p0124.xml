@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Senhor Jesus, à Tua mesa vimos</title>
+  <index>true</index>
+  <category>Em Memória Dele</category>
+  <numbers><cebuano num="1110"/><chinese num="ts:212"/><english num="1110"/><german num="1110"/><portuguese num="124"/><russian num="46"/><spanish num="107"/><tagalog num="1110"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.hymns.net/stories/lee.htm">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="1110"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Senhor Jesus, à Tua mesa vimos,
+Teu vinho e pão podemos contemplar;
+E Te louvamos pois és alimento
+Que todo homem pode desfrutar.</stanza>
+	<stanza type="chorus" number="">Louvor a Ti entoa nosso ser:
+Pequeno és Tu! Pequeno és Tu!
+Por todo o sempre vamos-Te comer,
+Pequeno és Tu! Pequeno és Tu.</stanza>
+	<stanza type="verse" number="2">Que lamentável! quando aqui vieste
+A Tua rica vida dispensar,
+Que o homem preferisse os ensinos
+E tais riquezas não quis aplicar.</stanza>
+	<stanza type="chorus" number="">Mas precisamos só de Ti comer:
+Excelso és Tu! Glorioso és Tu!
+Ao Te comermos vens nos refazer,
+Té sermos plenos como Tu.</stanza>
+	<stanza type="verse" number="3">Senhor Jesus, ao homem não vieste
+Para o reger de forma exterior,
+Mas, como alimento que o sacia,
+E o guia em vida no interior.</stanza>
+	<stanza type="chorus" number="">(Primeiro coro)</stanza>
+	<stanza type="verse" number="4">Oh! Te louvamos pois és mui grandioso,
+Por Tua majestade e poder;
+Mas graças mui especiais Te damos
+Pois o que és podemos, sim, comer.</stanza>
+	<stanza type="chorus" number="">(Primeiro coro)</stanza>
+  </lyrics>
+</hymn>

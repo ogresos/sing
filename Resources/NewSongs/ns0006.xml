@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A divine, romantic story</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ns:6c"/><english num="ns:6"/><indonesian num="ns:6i"/><lsmyp num="195"/><vsb num="38"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Harris Gumulja">H. G.</author>
+    <author biodate="" biolink="" fullname="Eric Ching">Translated by E. C.</author>
+    <composer biodate="" biolink="" fullname="Harris Gumulja">H. G.</composer>
+    <composer biodate="" biolink="" fullname="Eric Ching">Modified by E. C.</composer>
+  </creators>
+  <hymncode>112133332175</hymncode>
+  <key>Db Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. G7. | C - - | C - - | Em - - | Em - - | F - - | Dm - - | G - - | G7 - - | C - - | C - - | Em - - | Em - - | F - - | Dm - - | G - - | G7 - - | C - - | C - - | Am - - | Am - - | F - - | Dm - - | G - - | G7 - - | C - - | C - - | Am - - | Am - - | F - - | Dm - - | C/G - - | G - - | G7 - - | C. F/C. | C - - |</chords>
+  <melody>| 0 1/ 1/ 2/ 1/ | 3. 3.( | 3) 3/ 3/ 2/ 1/ | 7_.. 5.( | 5) 1/ 1/ 2/ 3/ | 4. 6_..( | 6_.) 4/ 4/ 5/ 4/ | 3. 2.( (break) | 2) 1/ 1/ 2/ 1/ | 3. 3.( | 3) 3/ 3/ 2/ 1/ | 7_.. 5.( | 5) 1/ 1/ 2/ 3/ | 4. 6_..( | 6_.) 4/ 4/ 5/ 6/ | 6. 5.( (break) | 5) (Chorus) 5/ 5/ 6/ 7/ | ._1. ._1.( | ._1) 5/ 5/ ._1/ 7/ | 7. 6.( | 6) ._1/ ._1/ ._1/ 7/ | 7 6/ 6.( | 6) 6/ 6/ 7/ ._1/ | ._1. 7.( (break) | 7) 5/ 5/ 6/ 7/ | ._1. ._1.( | ._1) 5/ 5/ ._1/ 7/ | 7. 6.( | 6) ._1/ ._1/ ._1/ 7/ | 7. 6.( | 6) 6/ 6/ 5/ 4/ | 3 3/ 3/ 4/ 3/ | 3. 2.( | 2) 5/ 3 2/ | 1( - - | 1) 0 - |</melody>
+  <layout>
+    <singingstanza>There is a great mys -- tery, A won -- der -- ful sto -- ry; For a -- ges 'twas hid -- den, Now shown in His wis -- dom; 'Tis a di -- vine ro -- mance Of God and man in time; Be -- yond un -- der -- stand -- ing, Yet seen in God's speak -- ing. God fell in love with man; For on -- ly God's love can Make man just the same as He In life and in na -- ture. We are His ex -- pres -- sion, His bride, His en -- large -- ment; For -- ev -- er, to -- geth -- er, As liv -- ing, in -- sep -- 'ra -- ble as one cou -- ple E -- ter -- nal -- ly.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <videos>
+    <video title="" youtubeid="LeaQhPDaEVE"/>
+  </videos>
+  <music>
+    <midi location="ns" length="64">ns0006.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There is a great mystery,
+A wonderful story;
+For ages 'twas hidden,
+Now shown in His wisdom;
+'Tis a divine romance
+Of God and man in time;
+Beyond understanding,
+Yet seen in God's speaking.</stanza>
+    <stanza type="chorus" number="">God fell in love with man;
+For only God's love can
+Make man just the same as He
+In life and in nature.
+We are His expression,
+His bride, His enlargement;
+Forever, together,
+As living, insep'rable as one couple
+Eternally.</stanza>
+    <stanza type="verse" number="2">Though He was rejected
+By men who were blinded;
+His love is constraining,
+His heart still unchanging;
+Thus in incarnation
+Came He as salvation;
+His name is called Jesus,
+And He came to seek us.</stanza>
+    <stanza type="verse" number="3">Though born as a sinner,
+His blood has redeemed me.
+He suffered on Calv'ry,
+Then raised up in glory,
+To regenerate me.
+Now joined in one spirit
+I love to enjoy Him,
+For I've been forgiven!</stanza>
+    <stanza type="verse" number="4">His love is so tender,
+To Him I'll surrender;
+His name is so precious,
+I gladly call, "Jesus!"
+His Person's so charming,
+My heart ever winning;
+I'll hold back no longer,
+I'll love Him forever.</stanza>
+  </lyrics>
+</hymn>

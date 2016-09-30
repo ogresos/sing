@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Richard</firstname>
+  <lastname>Liu</lastname>
+  <email>richzyl@yahoo.com</email>
+  <password>$2y$10$qY51kmbXTceuKCXl.9nvJelpAnLa6JYBF7SlYKtm78SmSYhzSDiSe</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>60.225.44.58</ipaddress>
+  <createdate>2015-06-05 10:21:03</createdate>
+  <lastupdateddate>2015-06-11 23:39:33</lastupdateddate>
+  <lastlogindate>2015-06-11 23:39:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="163b">O for a thousand tongues to sing (Alternate Tune)</fav>
+    <fav category="default" type="ch" num="386">基督就是我的世界</fav>
+    <fav category="default" type="ch" num="234">救主流血所成救恩</fav>
+    <fav category="default" type="ch" num="66">耶穌這名甜美芬芳</fav>
+  </favourites>
+</user>

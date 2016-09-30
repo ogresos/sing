@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art my Beloved, the most lovely Beloved</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Colin Ting">C. T.</author>
+    <composer biodate="" biolink="" fullname="Colin Ting">C. T.</composer>
+  </creators>
+  <hymncode>3331271117675</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | D7 - - - | G - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - F/C - | C - - - | C - - - | Em - - - | F - - - | C - - - | F - - - | C - - - | D7 - - - | G7 - - - | C - - - | G - - - | F - - - | Em - - - | F - - - | G7 - - - | C - - - | G7 - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | C - - - | D7 - - - | G7 - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3 1 | 2. 7_./( 7_.) - | 0 1/ 1/ 1/ 7_./ 6_. | 7_.. 5_./( 5_.) 3_. | 4_.. 1/( 1) 4_. | 3_..( 1/)( 1) 5_. | 0 6_./ 6_./ 1 3 | 2 - - - (break) | 0 3/ 3/ 3 1 | 2. 7_./( 7_.) - | 0 1/ 1/ 1/ 7_./ 6_. | 7_.. 5_./( 5_.) 3_. | 4_.. 1/( 1) 4_. | 5_.. 3/( 3) 2 | 1( - - - | 1) - - 0 (break) | 1. 1/( 1) 1 | 7_. - - - | 6_.. 6_./( 6_.) 6_. | 5_. - - - | 6_.. 6_./( 6_.) 6_. | 5_.. 1/( 1) - | 0 6_./ 6_./ 7_. 1 | 7_. - - - (break) | 1. 1/( 1) 1 | 7_. - - - | 6_.. 6_./( 6_.) 6_. | 5_. - - - | 6_.. 6_./( 6_.) 6_./ 6_./ | 5_.. 5_./( 5_.) 6_. | 5_.( - - - | 5_.) - - 0 (break) | 0 5/ 5/ 5 5 | 5. 2/( 2) 2 | 1 - - - | 3 4/ 3/( 3) 2 | 1 - - - | 5_.. 1/( 1) 5_. | 0 4#/ 4#/ 4# 4# | 5 - - - (break) | 0 5/ 5/ 5 5 | 5. 2/( 2) 2 | 1 - - - | 3 4/ 3/( 3) 2 | 1 - - - | 5_. 5_./ 3/( 3) 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Thou art my Be -- lov -- ed, The most love -- ly Be -- lov -- ed, My heart and my soul are Seek -- ing af -- ter Thee; Thou art my Be -- lov -- ed, The most love -- ly Be -- lov -- ed, My heart I o -- pen wide to Thee. Come now! Fill me! With Thy Spir -- it! Fill up this ves -- sel! I be -- long to Thee! Come now! Fill me! With Thy Spir -- it! That I Your ex -- pres -- sion may be! Come and fill me, Lord, to the brim! Yes, Lord, e -- ven me! Cap -- ture me, nev -- er let me win! Come and fill me, Lord, to the brim! O -- ver -- flow in me! O -- ver -- come in me!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="92">ns0301.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Thou art my Beloved,
+The most lovely Beloved,
+My heart and my soul are
+Seeking after Thee;
+Thou art my Beloved,
+The most lovely Beloved,
+My heart I open wide to Thee.</stanza>
+    <stanza type="chorus" number="">Come now! Fill me! With Thy Spirit!
+Fill up this vessel! I belong to Thee!
+Come now! Fill me! With Thy Spirit!
+That I Your expression may be!</stanza>
+    <stanza type="chorus" number="">Come and fill me, Lord, to the brim!
+Yes, Lord, even me!
+Capture me, never let me win!
+Come and fill me, Lord, to the brim!
+Overflow in me!
+Overcome in me!</stanza>
+  </lyrics>
+</hymn>

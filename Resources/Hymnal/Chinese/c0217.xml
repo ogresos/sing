@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>何等榮耀何等福氣</title>
+  <index>true</index>
+  <category>聖靈的豐滿－充滿</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="1360"/><german num="267"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="1360"/></numbers>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <layout>
+	<singingstanza>何 等 榮 耀， 何 等 福 氣， 真 理 聖 靈 在 我 心， 見 證 救 主， 啟 示 真 理， 光 照、 安 慰 並 指 引。 充 滿 我！ 充 滿 我！ 願 主 聖 靈 充 滿 我； 將 我 倒 空， 將 我 剝 奪， 願 主 聖 靈 充 滿 我。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何等榮耀，何等福氣，
+真理聖靈在我心，
+見證救主，啟示真理，
+光照、安慰並指引。</stanza>
+	<stanza type="chorus" number="">充滿我！充滿我！
+願主聖靈充滿我；
+將我倒空，將我剝奪，
+願主聖靈充滿我。</stanza>
+	<stanza type="verse" number="2">願主所說在我證實，
+生命聖靈將我釋，
+使我脫離罪律轄制，
+脫離死亡的權勢。</stanza>
+	<stanza type="verse" number="3">我如困鹿切慕溪水，
+深願聖靈解我渴，
+使我嘗到豐滿滋味，
+流出活水的江河。</stanza>
+	<stanza type="verse" number="4">願我自己被置死地，
+使我充滿主聖靈；
+願我全人歸主管理，
+使我變成主榮形。</stanza>
+  </lyrics>
+</hymn>

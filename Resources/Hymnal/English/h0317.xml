@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dear Savior, Thou art mine</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved by Grace</category>
+  <numbers><english num="317"/><lsmyp num="74"/><russian num="68"/></numbers>
+  <creators>
+    <author biodate="" biolink="">A. Hudson</author>
+    <composer biodate="" biolink="">R. F. Lehman</composer>
+  </creators>
+  <meter>6.6.6.6. with chorus.</meter>
+  <hymncode>555435111765</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - C/E - | F - - - | C - - - | G - - - | Am - - - | D7 - - - | G7 - - - | C - F/C - | C - C7 - | F - - - | C - - - | C - C/E - | F - Dm - | C/G - G7 - | C F/C C 0|</chords>
+  <melody>| 0 - - 5 | 5 5 4 3 | 5 - - ._1 | ._1 ._1 7 6 | 5 - - 5 (break) | 7 7 6 5 | ._1 - - ._1 | ._1 ._1 7 6 | ._2 - - 0 (break) | (Chorus) ._3 - ._4 - | ._3 - - ._2 | ._1 - 7 6 | 5 - - 0 (break) | ._1 - ._3 ._5 | ._5( ._4) ._3 ._2 | ._1 - 7 7 | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Dear Sav -- ior, Thou art mine, How sweet the thought to me; Let me re -- peat Thy name, And lift my heart to Thee. Mine! Mine! Mine! I know Thou art mine; Sav -- ior, dear Sav -- ior, I know Thou art mine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj010.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="34">e0317_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dear Savior, Thou art mine,
+How sweet the thought to me;
+Let me repeat Thy name,
+And lift my heart to Thee.</stanza>
+    <stanza type="chorus" number="">Mine! Mine! Mine!
+I know Thou art mine;
+Savior, dear Savior,
+  I know Thou art mine.</stanza>
+    <stanza type="verse" number="2">Thou art the sinner's friend,
+So I Thy friendship claim,
+A sinner saved by grace,
+When Thy sweet message came.</stanza>
+    <stanza type="verse" number="3">My hardened heart was touched;
+Thy pard'ning voice I heard;
+And joy and peace came in
+While list'ning to Thy word.</stanza>
+    <stanza type="verse" number="4">So let me sing Thy praise,
+So let me call Thee mine.
+I cannot doubt Thy word,
+I know that I am Thine.</stanza>
+  </lyrics>
+</hymn>

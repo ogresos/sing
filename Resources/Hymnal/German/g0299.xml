@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nun mein Verstand im Frieden ist</title>
+  <index>true</index>
+  <category>GEWISSHEIT UND FREUDE DER ERRETTUNG&amp;mdash;Versöhnt mit Gott</category>
+  <numbers><chinese num="240*"/><english num="299"/><french num="55"/><german num="299"/><korean num="240*"/><portuguese num="159"/><russian num="61"/><spanish num="143"/><tagalog num="299"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. Paget</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Nun mein Ver -- stand im Frie -- den ist Mit dem Drei -- ei -- nen Gott, Als Sün -- der bin ver -- söhnt durch's Blut, Und al -- les ist im Lot.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nun mein Verstand im Frieden ist
+Mit dem Dreieinen Gott,
+Als Sünder bin versöhnt durch's Blut,
+Und alles ist im Lot.</stanza>
+	<stanza type="verse" number="2">In Taten und Natur war fern,
+Von Gott war wirklich fern;
+Doch nun durch Gnade nahte Ihm, 
+Und durch das Blut des Herrn.</stanza>
+	<stanza type="verse" number="3">So nah, so wirklich nah bei Gott,
+Noch näher geht nicht mehr;
+In Seinem Sohn Ihm nahe bin,
+Ich bin so nah wie Er.</stanza>
+	<stanza type="verse" number="4">Bin teuer, voller Wert für Gott,
+Noch teurer geht nicht mehr;
+Wie liebte Er doch Seinen Sohn,
+Auch mich liebt Er so sehr.</stanza>
+	<stanza type="verse" number="5">Weshalb soll ich noch ängstlich sein,
+Wenn solch ein Gott ist mein?
+Er wacht beständig über mir
+Und sagt mir „Mein ist dein“.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bago mundo'y naitakda</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKA-DIYOS</category>
+  <numbers><english num="60"/><tagalog num="60"/></numbers>
+  <creators>
+    <author biodate="348-circa 413" biolink="">Translated from Aurelius Clemens Prudentius</author>
+    <author biodate="1818-1866" biolink="">Translated by John Mason Neale</author>
+  </creators>
+  <music>
+    <midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Bago mundo'y naitakda,
+Bugtong na Anak, Sinta;
+Pinagmulan, hanggana'y Siya,
+Ang Alpha at Omega.
+Mga bagay na sa ngayon
+Sa darating at noon
+Magpakailanpaman.</stanza>
+    <stanza type="verse" number="2">Ito nga Siyang noong una,
+Pinag-usapan nila;
+'Pinangako sa Salita,
+At ng mga propeta.
+Nagniningning na Siya ngayon
+Purihin ang Pangino'n
+Magpakailanpaman.</stanza>
+    <stanza type="verse" number="3">Kataas-taasang langit,
+Sa Kanya'y magsiawit;
+Sa Kanya ay magyukuran
+Lahat ng pamunuan
+Lahat ng dila'y pupuri
+Sa mal'walhating Hari
+Magpakailanpaman.</stanza>
+    <stanza type="verse" number="4">Sa Diyos Ama, Sa Iyo, Kristo,
+Sa Espiritu Santo:
+Awit, pasalamat, himno.
+Papuring walang hinto;
+Tagumpay na walang hanggan,
+L'walhati't karangalan.
+Magpakailanpaman.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Sue</firstname>
+<lastname>Chen</lastname>
+<email>suechen8@gmail.com</email>
+<password>$1$yWrPr/Y1$Ub33IBEtQACHcWTxw32d7.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>24.17.126.39</ipaddress>
+<createdate>2008-10-19 19:00:13</createdate>
+<lastupdateddate>2009-09-15 18:26:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+        <fav category="default" type="ch" num="210">我是呼出我的愁苦</fav>
+    </favourites>
+</user>

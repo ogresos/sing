@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anak sa Dios, Manlul'was</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KATUBSANAN</category>
+  <numbers><cebuano num="996"/><english num="996"/><french num="194"/></numbers>
+  <creators>
+    <author biodate="1833" biolink="">Translated from Bickersteth's Christian Psalmody</author>
+  </creators>
+  <music>
+    <midiref type="h" num="782"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Anak sa Dios, Manlul'was,
+Tigpas-an's among sala,
+Tigbugto's among gapos,
+Tighinlo's among mansa,</stanza>
+    <stanza type="verse" number="2">Namatay Kang daw sad-an,
+Sa krus Ikaw gilansang;
+Alang sa among sala,
+Ikaw ang gisilotan.</stanza>
+    <stanza type="verse" number="3">Cordero's Dios, Pasalig,
+Gipalit mi's dugo Mo;
+Utang gipapas tanan,
+Wala na miy bayranan;</stanza>
+    <stanza type="verse" number="4">Wa na miy pas-anon pa,
+Way tabangag pangako;
+Kalipay'g pasaylo ra,
+May gugma'g kalinaw pa.</stanza>
+    <stanza type="verse" number="5">Mosalig ko Kanimo,
+Sa pagsalig magdayeg,
+Magpagaan, mag-ayo,
+Ang pagsalig ko Nimo.</stanza>
+    <stanza type="verse" number="6">Jesus, Manlul'was namo,
+Tigpas-an's among kargo;
+Mosaka ko Kanimo,
+Mahigugma, magdayeg.</stanza>
+  </lyrics>
+</hymn>

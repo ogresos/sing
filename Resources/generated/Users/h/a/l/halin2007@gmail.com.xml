@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Hailey</firstname>
+    <lastname>Lin</lastname>
+    <email>halin2007@gmail.com</email>
+    <password>$1$p.IZtCLl$CG8cmm9cTIs1/RUJwjmPP.</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>129.2.175.84</ipaddress>
+    <createdate>2008-07-26 01:43:06</createdate>
+    <lastupdateddate>2010-02-23 22:13:46</lastupdateddate>
+    <lastlogindate>2010-02-23 22:03:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="113">Bless me, Lord, with days and nights</fav>
+        <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+        <fav category="default" type="ns" num="128">Draw me, dear Lord, with Your beauty</fav>
+        <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+        <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+        <fav category="default" type="ns" num="137">I am baptized</fav>
+        <fav category="default" type="lb" num="46">I bow my knees unto the Father</fav>
+        <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+        <fav category="default" type="nt" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+        <fav category="default" type="ns" num="112">I want to tell You, Lord</fav>
+        <fav category="default" type="ns" num="35">Jesus Lord, I love You</fav>
+        <fav category="default" type="ns" num="69">Jesus won't You come</fav>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+        <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="lb" num="16">Nothing compares to You</fav>
+        <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="ns" num="153">Thy word is sweet unto my taste</fav>
+        <fav category="default" type="nt" num="1174">What a victory! What a triumph!</fav>
+        <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+        <fav category="default" type="ns" num="49">Whispers from above</fav>
+    </favourites>
+</user>

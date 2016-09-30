@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rafael</firstname>
+  <lastname>Velez</lastname>
+  <email>rvelez33@gmail.com</email>
+  <password>$2y$10$bhwiT5vluQX5RkCs1dFsSeDLf5UitsE7lsIkHWkVlhCWhs.GwibqW</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>173.220.110.2</ipaddress>
+  <createdate>2012-08-14 14:12:10</createdate>
+  <lastupdateddate>2015-04-26 00:56:33</lastupdateddate>
+  <lastlogindate>2015-04-26 00:56:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

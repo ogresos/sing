@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Awit ng buhay sa ekklesi-a'y napakinggan</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;BILANG ATING TAHANAN AT KAPAHINGAHAN</category>
+  <numbers><cebuano num="1236"/><chinese num="ts:716"/><english num="1236"/><german num="1236"/><russian num="536"/><tagalog num="1236"/></numbers>
+  <melody>| ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - (break) | 6. 7/ ._1 6 | ._1. 5/ 5 ._1 | 6 ._2 ._2 ._3 | ._2 - - 0 (break) | ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 | 5 ._1 - ._4 | ._3 - ._2 - (break) | ._1 - - (Chorus) 5 | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 (break) | 5 - - 5 | 7 7 - 6./ 5// | ._1 ._3 - ._1 | 6 ._2 ._2 ._3 (break) | ._2 5 ._1 ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1 | 5 5 3 4 (break) | 5 ._1 - ._4 | ._3 - ._2 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="324"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Awit ng buhay sa ekklesi-a'y napakinggan,
+Kristo ang ating galak, Siya'y may kahayagan;
+Babilonia't sanlibutan tapos na sa atin,
+Tayo'y nasa magandang lupain.</stanza>
+	<stanza type="chorus" number="">Nag-eeklesia tayo,
+Sa ating espiritu;
+Sa lupang-batayan nga,
+Buo 'ting pamilya.
+O, mga ekklesia'y kasama,
+Aawit buong lupa:
+Aleluya kay Kristong lupa!</stanza>
+	<stanza type="verse" number="2">Lahat ng doktrina't lumipas, lubos iniwan;
+Makamundong nasa at sala'y binitiwan.
+Dakilang pag-ibig ni Kristo sa 'kin umapaw;
+Kay Kristong lupa di na bibitaw.</stanza>
+	<stanza type="verse" number="3">"Aking ekklesia itatayo ko sa batong 'to";
+Nakita natin ang Kanyang layon at plano.
+Mga sangkap sa katawan pinagkoordina,
+Nang maitayo kay Kristong lupa.</stanza>
+	<stanza type="verse" number="4">Pagbabawi lumalaganap sa 'ting panahon;
+Lahat ng ekklesia'y inutusan ang Poon:
+"Punuan ang lupa ng dalangin at pagbasa
+At Aleluya kay Kristong lupa!"</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Aimee</firstname>
+  <lastname/>
+  <email>aimee@discovernewhope.com</email>
+  <password>$2y$10$U9s6B9dK/oEQ81jjKQs5teTa5e8AlDHbza7I9bVrDIYXt.AnvhyHK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.28.25.229</ipaddress>
+  <createdate>2014-08-12 17:13:03</createdate>
+  <lastupdateddate>2014-08-29 15:13:57</lastupdateddate>
+  <lastlogindate>2014-08-14 14:32:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="461">Down in the valley with my Savior I would go</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+  </favourites>
+</user>

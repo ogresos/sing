@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>尋找、光照、接納</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:868"/><english num="lb:22"/><vsb num="49"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 1/ 5_..( 5_.) 3 | 2/ 5_..( 5_.) 5_. | 4. 4/ 3 1 | 2 - - - (break) | 3 6/ 6/( 6) 7 | 5/ 2.( 2) 2 | 4. 4/ 3/ 3/ 7_. (break) | 1 - - 1/ 1/ | 1/ 6_..( 6_.) 1/ 1/ | 1/ 5_..( 5_.) 1 | 2 - 1 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>耶 穌─ 好 牧 人， 尋 找 稅 吏、 罪 人； 祂 是 神 成 肉 身， 拯 救 世 人 脫 沉 淪； 肩 負 疲 魂， 喜 樂、 情 深， 領 迷 羊 歸 神。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="lb" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌─好牧人，尋找稅吏、罪人；
+祂是神成肉身，拯救世人脫沉淪；
+肩負疲魂，喜樂、情深，領迷羊歸神。</stanza>
+	<stanza type="verse" number="2">那靈─光照者，正尋覓失落者；
+生命之光照射，要世人佑罪自責；
+銀幣蒙塵，祂心不捨，終被祂尋得。</stanza>
+	<stanza type="verse" number="3">父神─親愛父，憐憫世上罪奴；
+放蕩揮霍無度，不知何時纔醒悟？
+慈愛天父，朝思夜慕，浪子上歸途。</stanza>
+	<stanza type="verse" number="4">父神─接納者，親吻那流浪者；
+披華美，罪全赦，享肥甘，不再飢渴；
+死而復活，失而又得，神、人同歡樂。</stanza>
+  </lyrics>
+</hymn>

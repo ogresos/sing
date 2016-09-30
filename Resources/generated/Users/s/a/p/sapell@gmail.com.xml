@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>steven</firstname>
+  <lastname>Apell</lastname>
+  <email>sapell@gmail.com</email>
+  <password>$2y$10$f3pLJ7zCgSYxpCQ9AFA8ZeZTXM7owPt8433un4Kbia.jBe7HwTXcq</password>
+  <gender/>
+  <country/>
+  <ipaddress>41.210.146.47</ipaddress>
+  <createdate>2016-05-10 15:42:32</createdate>
+  <lastupdateddate>2016-05-10 15:46:28</lastupdateddate>
+  <lastlogindate>2016-05-10 15:45:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="483">My love is like a dove</fav>
+  </favourites>
+</user>

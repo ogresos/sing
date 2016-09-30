@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jojo</firstname>
+  <lastname>Loro</lastname>
+  <email>jojoloro@yahoo.com</email>
+  <password>$2y$10$7I9/gCfMD37HnyL5X2K0Re4Co/r5omx4XQQj8DQjvdCfkukZCNbRC</password>
+  <gender>M</gender>
+  <country>Philippines</country>
+  <ipaddress>121.97.139.183</ipaddress>
+  <createdate>2008-07-26 01:43:08</createdate>
+  <lastupdateddate>2015-11-02 00:18:07</lastupdateddate>
+  <lastlogindate>2015-11-02 00:18:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+  </favourites>
+</user>

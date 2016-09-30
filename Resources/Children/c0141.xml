@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'm just a little flower</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Trusting Him</category>
+  <numbers><chinese num="ts:418"/><english num="c:141"/></numbers>
+  <hymncode>51232151332</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C - C7/E - | F - Fm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 2/ | 3/ 2/ 1( 1/) 5_./ 1/ 3/ (break) | 3/( 2.)( 2/) 5_./ 7_./ 1/ | 2/ 1/ 7_.( 7_./) 5_./ 7_./ 2/ (break) | 2/( 1.)( 1/) 5_./ 1/ 2/ | 3/ 2/ 1( 1/) 5/ 5/ 5/ (break) | 5/( 4.)( 4/) 4/ 4/ 4/ | 3/( 2/) 1 2 7_. | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>I'm just a lit -- tle flower With o -- pen face; I'm ful -- ly turned to God, Re -- ceiv -- ing grace. I don't know how to try&amp;mdash; This is my case&amp;mdash; I'm just a li -- ly trust -- ing God.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="20">c0141.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'm just a little flower
+With open face;
+I'm fully turned to God,
+Receiving grace.
+I don't know how to try&amp;mdash;
+This is my case&amp;mdash;
+I'm just a lily trusting God.</stanza>
+  </lyrics>
+</hymn>

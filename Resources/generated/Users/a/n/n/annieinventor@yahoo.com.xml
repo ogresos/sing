@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Annie</firstname>
+    <lastname>Inventor</lastname>
+    <email>annieinventor@yahoo.com</email>
+    <password>yUfm6Ndg52TEwAvYbUl4ZQ%3D%3D</password>
+    <gender></gender>
+    <country>Philippines</country>
+    <ipaddress>115.84.76.221</ipaddress>
+    <createdate>2013-02-16 09:54:23</createdate>
+    <lastupdateddate>2013-02-16 11:29:19</lastupdateddate>
+    <lastlogindate>2013-02-16 09:54:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="882">Faith is the Victory</fav>
+        <fav category="default" type="h" num="1043">Life at best is very brief</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Brothers, I do not account of myself</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:255"/><vsb num="273"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Sherlon Orth">S. O.</author>
+    <composer biodate="" biolink="" fullname="Sherlon Orth">S. O.</composer>
+  </creators>
+  <hymncode>11111122176533</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - |</chords>
+  <melody>| 1 1/ 1/ 1 1/ 1/ | 2 2/ 1/ 7_. 6_./ 5_./ | 3 - 3 - | 4 4/( 5/) 5. 4/ (break) | 3 3/ 2/ 1 6_. | 2 2/( 3/) 4 3/( 2/) | 1 7_. 6_. 3/ 3/ | 2 2/ 2/ 5_. - (break) | 3 1/( 2/) 3 1 | 4 4/( 3/) 2 - | 5 3/( 4/) 5 1/ 1/ | 6 6/( 5/) 5 5/ 4/ (break) | 3 5/ 5/ 5( 1) | 2 4 4( 3/)( 2/) | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Broth -- ers, I do not ac -- count of my -- self to have laid hold; But one thing&amp;mdash; For -- get -- ting the things which are be -- hind And stretch -- ing for -- ward to what is be -- fore, I pur -- sue to -- ward the goal For the prize of the high call -- ing The high call -- ing of God in Christ Je -- sus.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Philippians 3:13-14</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0255.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Brothers, I do not account of myself to have laid hold;
+But one thing&amp;mdash;
+Forgetting the things which are behind
+And stretching forward to what is before,
+I pursue toward the goal
+For the prize of the high calling
+The high calling of God in Christ Jesus.</stanza>
+  </lyrics>
+</hymn>

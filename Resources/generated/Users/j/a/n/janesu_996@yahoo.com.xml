@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>JANE</firstname>
+<lastname>SU</lastname>
+<email>janesu_996@yahoo.com</email>
+<password>$1$AlKB4Mxv$vrDWk5WgKKqyTrzFlaAdB0</password>
+<gender>F</gender>
+<country>China</country>
+<ipaddress>222.221.253.34</ipaddress>
+<createdate>2009-09-06 23:39:18</createdate>
+<lastupdateddate>2009-09-15 19:18:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+        <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+        <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+    </favourites>
+</user>

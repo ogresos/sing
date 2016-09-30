@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You. Thank You for opening my eyes</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:229"/><vsb num="173"/></numbers>
+  <hymncode>5145551144432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | C - - - | Em - - - | F - - - | G7 - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | C - - - | F/C - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| (Chorus) 5 - - - | 1 - - - | 4( - - 5) | 5 - - - | 5 - - - | 1 - - 1 | 4 4/ 4/( 4) 3 | 2 - - - (break) | ._1 - - - | 7 - - - | {6 - 6 - 5 -} | 5 - - - | 5 - - - | 1 - - - | 4 - - 3 | {2 - 1 - 7_. -} | 1( - - - | 1) - - 0 (break) | (Verse_1) 5 - - - | 1 - - 1 | {4 - 4 - 3 -} | 2 - - - | 5 - - - | ._1 - - - | 7 7/ 7/( 7) 6 | 5 - - - (break) | 5 - - - | ._1 - - - | {7 - 7 - 6 -} | 5 - - - | 5 - - - | 1 - - - | 4 - - 3 | {2 - 1 - 7_. -} | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, I love You. Thank You for o -- pen -- ing my eyes. Lord I've seen who You are, And I can't help fall -- ing in love. One day so des -- p'rate for You, Pray -- ing earn -- est -- ly to You. Lord, I'm not sat -- is -- fied. Show me, Lord, how love -- ly You are.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="61">ns0229.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Lord, I love You.
+Thank You for opening my eyes.
+Lord I've seen who You are,
+And I can't help falling in love.</stanza>
+    <stanza type="verse" number="1">One day so desperate for You,
+Praying earnestly to You.
+Lord, I'm not satisfied.
+Show me, Lord, how lovely You are.</stanza>
+    <stanza type="verse" number="2">Thank You for Your faithfulness.
+I have seen Thy preciousness.
+Now, Lord, I can't deny
+Your beauty has captured my heart.</stanza>
+    <stanza type="verse" number="3">Now, Lord, You're all I want.
+I waste all that I have.
+No one compares to You.
+Here in love, Lord, will I remain.</stanza>
+  </lyrics>
+</hymn>

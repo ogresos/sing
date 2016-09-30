@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>It is not a message that I've heard</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Need of Christ</category>
+  <numbers><english num="ns:198"/><vsb num="136"/></numbers>
+  <hymncode>345555543444432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Em - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 3/ 4/ | 5 5/ 5/( 5.) 5/ | 5 4/ 3/( 3) - | 0 4/ 4/ 4 - | 4/ 3/( 3/) 2/( 2) - (break) | 0 3/ 3/ 3. 3/ | 3 2/ 1/( 1) 5_. | 2( - - - | 2) - - 3/ 4/ (break) | 5 5/ 5/( 5.) 5/ | 5 4/ 3/( 3) - | 0 4/ 4/ 4. 5/ | 4 3/ 2/( 2) 3/ 4/ (break) | 3 - - - | 3 2/ 1/( 1) - | 0 - 2 - | 1 - 7_. - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>It is not a mes -- sage that I've heard, Not some points that I've learned, Not a song or verse I know by heart, That can meet your need, or wash your feet, Touch your heart, or fill the void, But it's Christ, just the Christ, That I've en -- joyed.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="37">ns0198.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">It is not a message that I've heard, (Just the Christ, in the word,)
+Not some points that I've learned, (The Christ in all I've heard,)
+Not a song or verse I know by heart, (But Christ in every song or verse,)
+That can meet your need, or wash your feet, (Christ can meet your need,)
+Touch your heart, or fill the void,
+But it's Christ, just the Christ, (Just this Christ,)
+That I've enjoyed. (Just this Christ enjoyed.)</stanza>
+    <stanza type="verse" number="2">It is nothing good that is of myself, (Just the Christ, in you and me,)
+Nothing of my natural life, (The Christ who's all to be,)
+Not the best of fruit from the knowledge tree, (Only Christ we'd know,)
+That can touch your life, or turn your heart, (Christ can touch your life,)
+Refresh you in your deepest part,
+But it's Christ, just the Christ, (Just this Christ,)
+Lived out through me. (Just the Christ in me.)</stanza>
+  </lyrics>
+</hymn>

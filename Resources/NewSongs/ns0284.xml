@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Having been regenerated</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:284"/><lsmyp num="370"/><vsb num="231"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Mike Jones">M. J.</composer>
+  </creators>
+  <hymncode>55156511565111156576767</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | G - - - | G - - - | G - - - | G7 - - - | C - C7 - | F - - - | F - - - | C - - - | C - - - | D - - - | D7 - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | G - - - | G - - - | G - - - | G7 - - - | C F/C C - |</chords>
+  <melody>| 0 - - 5_./ 5_./ | 1( - 1/) 5_./ 6_./ 5_./ | 1/ 1.( 1/) 5_./ 6_./ 5_./ (break) | 1/ 1/ 1 1/ 5_./ 6_./( 5_./) | 7_./ 6_./ 7_./ 6_./ 7_. 5_./ 5_./ | 7_./ 7_..( 7_.) 5_./ 5_./ (break) | 7_./ 7_./ 7_./ 7_./ 7_. 5_./ 5_./ | 5/ 5/ 5/ 5/ 5/ 4/ 3/ 2/ (break) | 1 - - (Verse_2) 1 | 4 4 4 - | 4 4/ 4/ 5 4 | 3 3/ 2/ 3 - (break) | 0 3 4 3 | 2 2/( 1/) 2 - | 0 2 3 4# | 5( - 4)( - (break) | 3) - 2 (Verse_1) 5_./ 5_./ | 1( - 1/) 5_./ 6_./ 5_./ | 1/ 1.( 1/) 5_./ 6_./ 5_./ (break) | 1/ 1/ 1 1/ 5_./ 6_./( 5_./) | 7_./ 6_./ 7_./ 6_./ 7_. 5_./ 5_./ | 7_./ 7_..( 7_.) 5_./ 5_./ (break) | 7_./ 7_./ 7_./ 7_./ 7_. 5_./ 5_./ | 5/ 5/ 5/ 5/ 5/ 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Hav -- ing been re -- gen -- er -- at -- ed Not of cor -- rupt -- i -- ble seed but of in -- cor -- rupt -- i -- ble. Through the liv -- ing and a -- bid -- ing word of God; Through the liv -- ing and a -- bid -- ing word of God. As new -- born babes long for the Guile -- less milk of the word That by it you may grow un -- to Sal -- va -- tion... Hav -- ing been re -- gen -- er -- at -- ed Not of cor -- rupt -- i -- ble seed but of in -- cor -- rupt -- i -- ble. Through the liv -- ing and a -- bid -- ing word of God; Through the liv -- ing and a -- bid -- ing word of God.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Peter 1:23</link>
+    <link type="ref">1 Peter 2:2</link>
+  </links>
+  <music>
+    <midi location="ns" length="46">ns0284.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Having been regenerated
+Not of corruptible seed but of incorruptible.
+Through the living and abiding word of God;
+Through the living and abiding word of God.</stanza>
+    <stanza type="verse" number="2">As newborn babes long for the
+Guileless milk of the word
+That by it you may grow unto
+Salvation...
+(Repeat stanza 1)</stanza>
+  </lyrics>
+</hymn>

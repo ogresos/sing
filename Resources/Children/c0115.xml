@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The heavens and the earth God made</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <melody>| 0. 0 1/ | 3 3/ 3 4/ | 3 2/ 1 3/ | 5 5/ 5 6/ (break) | 5 2/ 3 5/ | 6 6/ 6/( 7/) ._1/ | 5 5/ 3 1/ | 3 4/ 3 2/ (break) | 1.( 1) (Chorus) 1/ | 3 3/ 3 2/ | 1.( 1) 3/ | 5 5/ 5 4/ (break) | 3.( 3) 5/ | 6 6/ 6/( 7/) ._1/ | 5 5/ 3 1/ | 3 4/ 3 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>The heav -- en and the earth God made. Foun -- da -- tions of the earth He laid. And His great pow -- er was dis -- played&amp;mdash; The an -- gels sang for joy. The an -- gels sang for joy, The an -- gels sang for joy, The heav -- ens and the earth God made, The an -- gels sang for joy.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-p.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="791"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The heaven and the earth God made.
+Foundations of the earth He laid.
+And His great power was displayed&amp;mdash;
+The angels sang for joy.</stanza>
+    <stanza type="chorus" number="">The angels sang for joy,
+The angels sang for joy,
+The heavens and the earth God made,
+The angels sang for joy.</stanza>
+    <stanza type="verse" number="2">The earth became as dark as night,
+And then God said, Let there be light,
+And there was light, yes, there was light,
+And God saw it was good.</stanza>
+    <stanza type="chorus" number="">And God saw it was good,
+And God saw it was good,
+Let there be light: and there was light,
+And God saw it was good.</stanza>
+  </lyrics>
+</hymn>

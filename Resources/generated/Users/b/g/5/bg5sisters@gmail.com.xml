@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bertha</firstname>
+  <lastname>Gordon</lastname>
+  <email>bg5sisters@gmail.com</email>
+  <password>$2y$10$2UVqHjBbwKH4rmi7BoWdRuB53FSMDrmT9qsv3OzIKDOPwwgKwaq/m</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>65.32.135.45</ipaddress>
+  <createdate>2016-07-13 12:26:21</createdate>
+  <lastupdateddate>2016-07-17 11:50:32</lastupdateddate>
+  <lastlogindate>2016-07-17 11:37:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+  </favourites>
+</user>

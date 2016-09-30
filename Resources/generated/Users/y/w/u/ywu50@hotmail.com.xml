@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeff</firstname>
+  <lastname>Wu</lastname>
+  <email>ywu50@hotmail.com</email>
+  <password>$2y$10$bXXw.C4E1jmrFTPT4bjY5um99DpoT.xuFcdnInFyQGYqiTIrThbi6</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>99.109.252.244</ipaddress>
+  <createdate>2014-06-06 18:49:42</createdate>
+  <lastupdateddate>2015-08-11 03:06:33</lastupdateddate>
+  <lastlogindate>2015-08-11 02:37:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="179">Glory to Christ on high</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    <fav category="default" type="h" num="993">O how sweet the glorious message</fav>
+    <fav category="default" type="h" num="124">Praise Him! praise Him! Christ is Victor</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="ch" num="739">榮耀歸主名</fav>
+    <fav category="default" type="ch" num="12">當我觀賞父你廣大</fav>
+    <fav category="default" type="ch" num="68">頌讚主尊名</fav>
+  </favourites>
+</user>

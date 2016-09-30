@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kenia</firstname>
+  <lastname>Sanches</lastname>
+  <email>kbbsanches@gmail.com</email>
+  <password>$2y$10$LEGyLvckOKCP.nII5ruCqO3/vzeNBedFdG20BQv0jIoaVqNdpE7Ma</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>89.175.134.113</ipaddress>
+  <createdate>2015-03-24 06:49:57</createdate>
+  <lastupdateddate>2015-08-13 08:57:32</lastupdateddate>
+  <lastlogindate>2015-08-13 08:57:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="467">But for Me I Will Wait on Jehovah</fav>
+    <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+    <fav category="default" type="ns" num="133">I Love My Master</fav>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="ns" num="36">Make me wholly Thine</fav>
+    <fav category="default" type="ns" num="366">My heart longs for absolute surrender</fav>
+    <fav category="default" type="nt" num="383">Sweet Will of God</fav>
+    <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+    <fav category="default" type="ns" num="402">Where is the House</fav>
+  </favourites>
+</user>

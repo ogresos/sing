@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我是個新約福音祭司</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5123343231</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 是 個 新 約 福 音 祭 司， 帶 罪 人 歸 神 是 我 天 職， 挨 家 去 尋 訪 平 安 之 子， 神 生 命 湧 流 不 止； 傳 揚 福 音 救 罪 人， 當 作 祭 物 獻 給 神， 天 上 都 因 此 喜 樂 歡 欣， 我 神 也 喜 悅 滿 心。 何 榮 耀！ 這 樣 的 工 作， 使 我 天 天 新 又 活， 何 美 妙！ 這 樣 的 生 活， 使 我 常 常 結 新 果。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0844.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我是個新約福音祭司，
+帶罪人歸神是我天職，
+挨家去尋訪平安之子，
+神生命湧流不止；
+傳揚福音救罪人，
+當作祭物獻給神，
+天上都因此喜樂歡欣，
+我神也喜悅滿心。</stanza>
+	<stanza type="chorus" number="">何榮耀！這樣的工作，
+使我天天新又活，
+何美妙！這樣的生活，
+使我常常結新果。</stanza>
+	<stanza type="verse" number="2">我是個新約福音祭司，
+帶領人歸神，勞苦不辭，
+使人能甘心獻上自己，
+作活祭滿足神心意；
+宣揚基督供應人，
+警戒、教導，成全人，
+直等到將人在基督裡，
+成熟的獻上給神。</stanza>
+  </lyrics>
+</hymn>

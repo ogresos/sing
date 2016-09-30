@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hast gehört, gesehn, erkannt Ihn</title>
+  <index>true</index>
+  <category>HINGABE&amp;mdash;Angezogen von der Schönheit des Herrn</category>
+  <numbers><cebuano num="437"/><chinese num="333*"/><english num="437"/><german num="437"/><korean num="333"/><lsmyp num="103"/><spanish num="186"/><tagalog num="c333"/></numbers>
+  <creators>
+	<author biodate="1834-1879" biolink="">Translated from Ora Rowan</author>
+  </creators>
+  <melody>| 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 5. 3/ | 2 1 2 - (break) | 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - (break) | (Chorus) 3 5 5 3 | 2 1 3 2 | 3 5 5. 3/ | 2 1 2 - (break) | 3 2 1 5_. | 4. 6_./ 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Hast ge -- hört, ge -- sehn, er -- kannt Ihn? Brennt für Ihn dein Herz noch nicht? Füh -- rer von Zehn -- tau -- send wolln Ihn; Wähl Ihn, eh der Tag an -- bricht. Lass dich ziehn von Sei -- ner Schön -- heit, Nichts gleicht Sei -- ner Kost -- bar -- keit; Ei -- le, brin -- ge Ihm die Eh -- re, Krön zum Kö -- nig Ihn all -- zeit.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="437"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hast gehört, gesehn, erkannt Ihn?
+    Brennt für Ihn dein Herz noch nicht?
+Führer von Zehntausend wolln Ihn;
+    Wähl Ihn, eh der Tag anbricht.</stanza>
+	<stanza type="chorus" number="">Lass dich ziehn von Seiner Schönheit,
+Nichts gleicht Seiner Kostbarkeit;
+Eile, bringe Ihm die Ehre,
+Krön zum König Ihn allzeit.</stanza>
+	<stanza type="verse" number="2">Einst die Götzen dich entzückten,
+    Flitterglanz fing deinen Sinn;
+Sünd in goldnem Kleid betrog dich,
+    Honigsüß hielt sie dich hin.</stanza>
+	<stanza type="verse" number="3">Was hat abgestreift die „Schönheit“
+    Von den Götzen dieser Zeit?
+Nicht der Sinn für Recht und Pflichten,
+    Doch das Sehn von Kostbarkeit.</stanza>
+	<stanza type="verse" number="4">Nicht der Bruch mit diesen Götzen,
+    Was zu Leere führt und Schmerz,
+Doch das Strahlen Seiner Schönheit
+    Und was offenbart Sein Herz.</stanza>
+	<stanza type="verse" number="5">Wer löscht denn schon aus die Kerzen,
+    Eh die Morgensonne strahlt?
+Wer legt ab die Winterkleidung,
+    Eh der Sommer zeigt Gestalt?</stanza>
+	<stanza type="verse" number="6">Dieser Blick, der Petrus hinschmolz,
+    Das Gesicht, das Steph’nus sah,
+’s Herz, das mit Maria weinte,
+    Bringt von Götzen weg, Gott nah.</stanza>
+	<stanza type="verse" number="7">Zieh, gewinn, füll uns vollkommen,
+    Bis der Becher überfließt;
+Was solln wir mit toten Götzen?
+    Unvergleichlich schöner bist!</stanza>
+  </lyrics>
+</hymn>

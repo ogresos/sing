@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ayon sa wika Mong b'yaya</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="214"/><chinese num="173*"/><english num="214"/><korean num="173*"/><portuguese num="114"/><tagalog num="214"/></numbers>
+  <creators>
+    <author biodate="1771-1854" biolink="">Translated from James Montgomery</author>
+  </creators>
+  <music>
+    <midiref type="h" num="214"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ayon sa wika Mong b'yaya,
+Ako'y pakumbaba,
+Panginoon, gumagawa,
+Nitong pagtatanda.</stanza>
+    <stanza type="verse" number="2">Katawan dahil sa akin,
+Nagkaputol-putol,
+Tipa'y aking iinumin,
+Pagkain patungkol.</stanza>
+    <stanza type="verse" number="3">Getsemani, malimot ba?
+Hirap Mo'y nakita,
+Madugong pawis at dusa,
+Di Ka maala'la?</stanza>
+    <stanza type="verse" number="4">Kalbaryo ang aking tingnan,
+Sa krus humingalay,
+Kordero, di malimutan,
+Siyang hain kong tunay.</stanza>
+    <stanza type="verse" number="5">Lagi isaisip Kita,
+Hirap Mo't pag-ibig,
+Hangga't taglay ko'ng hininga
+Di Ka iwawaglit.</stanza>
+    <stanza type="verse" number="6">At sa muling pagdating Mo,
+Puspos luwalhati,
+Ang pinatay na Kordero,
+Ang isip kong lagi.</stanza>
+  </lyrics>
+</hymn>

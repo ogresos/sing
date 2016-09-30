@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daniel</firstname>
+  <lastname>Chou</lastname>
+  <email>chouite@gmail.com</email>
+  <password>$2y$10$GiFJK/D/MkxrHr.RlbRTd.4p5LrCoUyluTyw5hgoTU5iHgxBJmSVa</password>
+  <gender>M</gender>
+  <country>tw</country>
+  <ipaddress>118.167.135.85</ipaddress>
+  <createdate>2011-11-13 10:25:40</createdate>
+  <lastupdateddate>2015-10-08 04:38:23</lastupdateddate>
+  <lastlogindate>2015-10-08 04:38:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Marilyn</firstname>
+    <lastname>Panglijin</lastname>
+    <email>marilyn.panglijin@gmail.com</email>
+    <password>z8kdFJeavYJVwUrSqcOiNvVuK9cduU3F0D7hQDTxrSw%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>98.237.212.195</ipaddress>
+    <createdate>2013-09-17 09:30:07</createdate>
+    <lastupdateddate>2013-09-17 10:03:30</lastupdateddate>
+    <lastlogindate>2013-09-17 09:30:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="732">My Father is rich in houses and lands</fav>
+        <fav category="default" type="h" num="85">O come, all ye faithful! joyfully triumphant</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+        <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+        <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

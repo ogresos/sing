@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>FAITH</firstname>
+<lastname>MUCHIYANJA</lastname>
+<email>faytru@yahoo.co.uk</email>
+<password>$1$9nc60i9K$Pl16wx5NgNZtF.w4E0ixg.</password>
+<gender>F</gender>
+<country>Ireland</country>
+<ipaddress>85.134.139.67</ipaddress>
+<createdate>2009-04-27 18:30:06</createdate>
+<lastupdateddate>2009-09-15 18:29:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>李佩珊</firstname>
+  <lastname/>
+  <email>integritymaple@yahoo.com.tw</email>
+  <password>$2y$10$5o7ssA94gZZj5n4V.tX13.NoRgONZRtomDpwkO43wzHRbNW8EPVh2</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>49.214.89.68</ipaddress>
+  <createdate>2014-12-08 13:28:56</createdate>
+  <lastupdateddate>2014-12-08 13:31:34</lastupdateddate>
+  <lastlogindate>2014-12-08 13:30:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="154">遠在時間尚未起首</fav>
+  </favourites>
+</user>

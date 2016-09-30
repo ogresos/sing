@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>George</firstname>
+    <lastname>Stotts</lastname>
+    <email>grstotts@grstotts.com</email>
+    <password>biXHW7b1lcD20WCAxURtNQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>173.175.201.254</ipaddress>
+    <createdate>2011-12-21 16:06:24</createdate>
+    <lastupdateddate>2011-12-21 21:52:58</lastupdateddate>
+    <lastlogindate>2011-12-21 16:06:26</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="172">I had a debt I could not pay</fav>
+    </favourites>
+</user>

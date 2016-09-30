@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kong</firstname>
+  <lastname>MuFeng</lastname>
+  <email>beekingkong@live.com</email>
+  <password>$2y$10$5wvZ/9HfHTOTcvyweLH09uJuwPqZLvn9YgY9Pib3v/HbGGcud6qU6</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>118.101.165.245</ipaddress>
+  <createdate>2013-11-18 23:34:15</createdate>
+  <lastupdateddate>2015-02-27 11:03:10</lastupdateddate>
+  <lastlogindate>2015-02-27 11:03:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+  </favourites>
+</user>

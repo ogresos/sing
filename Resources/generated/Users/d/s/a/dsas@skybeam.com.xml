@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Annie</firstname>
+  <lastname>Sparks</lastname>
+  <email>dsas@skybeam.com</email>
+  <password>$2y$10$Drp.7lv8FxRB4olWWvmQ8uZU2Jt2Dr9qumwxNvsPj67gIcmFJjiwW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>206.225.70.85</ipaddress>
+  <createdate>2014-06-18 20:29:52</createdate>
+  <lastupdateddate>2014-06-18 21:22:05</lastupdateddate>
+  <lastlogindate>2014-06-18 21:22:05</lastlogindate>
+  <failedlogincount>3</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

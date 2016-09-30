@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>今世福樂沒滅</title>
+  <index>true</index>
+  <category>經歷基督－作一切</category>
+  <numbers><cebuano num="531"/><chinese num="389"/><english num="531"/><korean num="389"/><portuguese num="254"/><tagalog num="531"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Jane C. Bonar</author>
+  </creators>
+  <melody>| 5. 6 5/ | 3 2/ 1. | 2. 1 2/ | 3.( 5.) (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 1/) 2 2/ | 1 - - (break) | 2. 5 2/ | 3 4/ 5. | 6. ._1 6/ | 5 3/ 2. (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 5/) 2 3/ | 1 - - |</melody>
+  <layout>
+	<singingstanza>今 世 福 樂 沒 滅， 基 督 屬 我！ 地 上 愛 情 斷 絕， 基 督 屬 我！ 在 此 幽 暗 野 地， 無 處 可 以 安 息， 惟 有 基 督 可 倚， 基 督 屬 我！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="531"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">今世福樂沒滅，
+基督屬我！
+地上愛情斷絕，
+基督屬我！
+在此幽暗野地，
+無處可以安息，
+惟有基督可倚，
+基督屬我！</stanza>
+	<stanza type="verse" number="2">莫誘我心離開，
+基督屬我！
+我願與主同在，
+基督屬我！
+你這今世歡娛，
+一時騙人之局，
+從我心中離去，
+基督屬我！
+去罷，今世幻夢，
+基督屬我！
+我今已經清醒，
+基督屬我！
+凡我從前所慕，
+不過使我痛苦；
+惟主使我滿足，
+基督屬我！</stanza>
+	<stanza type="verse" number="4">去罷，短暫今時，
+基督屬我！
+來罷，長久永世，
+基督屬我！
+來罷，可愛福氣！
+來罷，甜美安息！
+來罷，恩主自己！
+基督屬我！</stanza>
+  </lyrics>
+</hymn>

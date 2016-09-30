@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adolfo</firstname>
+  <lastname>Montiel</lastname>
+  <email>amontiel2122@gmail.com</email>
+  <password>$2y$10$M4Mru1TFTBSUcRgQTFCFCeN8sch0q7pVNtpvYZP9EG/SEQI/Y7yGK</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>172.3.5.117</ipaddress>
+  <createdate>2013-01-29 14:24:49</createdate>
+  <lastupdateddate>2016-05-08 05:13:03</lastupdateddate>
+  <lastlogindate>2016-05-08 05:13:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="721">I'll sing of the wonderful promise</fav>
+  </favourites>
+</user>

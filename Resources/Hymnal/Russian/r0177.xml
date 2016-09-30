@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Я греховен, безнадёжен</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ПРИХОД К ГОСПОДУ</category>
+  <numbers><english num="1055"/><german num="1055"/><portuguese num="463"/><russian num="177"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <layout>
+	<singingstanza>Я гре -- хо -- вен, без -- на -- дё -- жен, По -- лон бо -- ли, смер -- ти, тьмы.  И сей -- час, о мой Спа -- си -- тель, Я мо -- лю, скло -- нясь: Спа -- си! О, спа -- си! О, спа -- си!  В_э тот миг ос -- во -- бо -- ди!  Я гре -- хо -- вен, я по -- те -- рян.  В_э -- тот миг ме -- ня спа -- си!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Я греховен, безнадёжен,
+Полон боли, смерти, тьмы.
+И сейчас, о мой Спаситель,
+Я молю, склонясь: Спаси!</stanza>
+	<stanza type="verse" number="">О, спаси! О, спаси!
+В этот миг освободи!
+Я греховен, я потерян.
+В этот миг меня спаси!</stanza>
+  </lyrics>
+</hymn>

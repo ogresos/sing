@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Du Gott, der Ewig-Vater bist</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Als der Ewige</category>
+  <numbers><cebuano num="10"/><chinese num="7*"/><english num="10"/><german num="10"/><korean num="7*"/><portuguese num="5"/><russian num="4"/><spanish num="5"/><tagalog num="10"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 2) 1 | 1( 7_.) 6_. | 5_.( 3) 2 | 1 - 5_. (break) | 5_.( 4) 3 | 3( 2) 1 | 5( 3) 1 | 2 - 5_. (break) | 5_.( 6_.) 7_. | 1 - 5_. | 6_.( 4) 2 | 1( 7_.) 5_. (break) | 6_. - 7_. | 1 - 1 | 1( 7_.) 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Du Gott, der E -- wig -- Va -- ter bist, Der un -- er -- schaf -- fe -- ne „Ich -- Bin“! Bist äl -- ter als die Al -- ten sind, Im An -- fang warst und vor Be -- ginn!</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="de" num="10"></link>
+  </links>
+  <music>
+    <midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Du Gott, der Ewig-Vater bist,
+Der unerschaffene „Ich-Bin“!
+Bist älter als die Alten sind,
+Im Anfang warst und vor Beginn!</stanza>
+    <stanza type="verse" number="2">Seit Ewigkeiten bist Du Gott,
+Du übersteigst den Raum und Zeit!
+Der Anfang bist, das Ende auch,
+Die Fülle aller Ewigkeit!</stanza>
+    <stanza type="verse" number="3">Als Quell von allem ewig bist,
+Du bist, bevor die Welt begann!
+Der Erstling aller, Gott, bist Du,
+Sogar dem Anfang gehst voran!</stanza>
+    <stanza type="verse" number="4">Das Leben bist, das ewig währt,
+Du endest nicht in Ewigkeit!
+Du überdauerst alles hier,
+Das Höchste übersteigst Du weit!</stanza>
+    <stanza type="verse" number="5">Das Alpha als der Erste und
+Das Omega als Letzter bist!
+Von A bis O bist makellos,
+Vollkommenheit aus Dir nur fließt!</stanza>
+    <stanza type="verse" number="6">Wir preisen Dich, Du Ewiger,
+Denn grenzenlos bist Du allein,
+Wie herrlich Deine Fülle ist,
+Und so vollkommen ist Dein Sein!</stanza>
+  </lyrics>
+</hymn>

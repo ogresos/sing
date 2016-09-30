@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kahimtang, way gisaligan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;MODUOL SA GINOO</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa kahimtang, way gisaligan,
+Apan gipakamatyan Mo,
+Gidapit moanha Nimo,
+Cordero's Dios, nia ako!</stanza>
+	<stanza type="verse" number="2">Nia, wa maghulat, sala
+Mapapas ba'g bisan gamay;
+Kay's tanan makahinlo Ka;
+Cordero's Dios, nia ako!</stanza>
+	<stanza type="verse" number="3">Nia, bisan wa kaseguro,
+Daghang sumpaki'g pagduda;
+Bingkil's sulod, kulba's gawas,
+Cordero's Dios, nia ako!</stanza>
+	<stanza type="verse" number="4">Nia, buta, ug dautan,
+Diha Kanimo mapalgan
+Ang kadato ug kaayo,
+Cordero's Dios, nia ako!</stanza>
+	<stanza type="verse" number="5">Nia suma's kahimtang ko,
+Pasayloon, hinloan Mo;
+Sa saad Mo nitoo ko,
+Cordero's Dios, nia ako!</stanza>
+	<stanza type="verse" number="6">Nia suma's kahimtang ko,
+Gugma magguba's nag-ulang;
+Maimoha ra gyud ako,
+Cordero's Dios, nia ako!</stanza>
+  </lyrics>
+</hymn>

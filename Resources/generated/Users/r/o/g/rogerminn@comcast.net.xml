@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Roger</firstname>
+  <lastname>Jones</lastname>
+  <email>rogerminn@comcast.net</email>
+  <password>$2y$10$qGZ5RpzrJOND82jT81nUCObbMPaYz/ppEtGrH3Msv80pt6TLYboNG</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>75.72.110.19</ipaddress>
+  <createdate>2008-11-17 12:40:31</createdate>
+  <lastupdateddate>2016-06-26 11:56:36</lastupdateddate>
+  <lastlogindate>2016-06-26 11:56:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="815">Christ is the Word and Spirit too</fav>
+    <fav category="default" type="h" num="474">I am one with Thee, Lord Jesus</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+  </favourites>
+</user>

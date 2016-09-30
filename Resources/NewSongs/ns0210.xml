@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He understands you thoroughly</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Pressing On</category>
+  <numbers><english num="ns:210"/><lsmyp num="215"/><vsb num="115"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Sisters in Ipswich, England</author>
+    <composer biodate="" biolink="">Sisters in Ipswich, England</composer>
+  </creators>
+  <hymncode>333333421666565</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7 - - - | F - - - | G7 - - - | C - - - | G7 - - - | F - - - | G7 - - - | F - - - | G7 - - - | Em - - - | A7 - - - | Dm7 - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0/ 3/ 3/ 3/ 3 3 | 3 4/ 2/( 2) 1 | 6_./ 6_./( 6_.) 6/ 5/ 6/ 5/( | 5) - - - (break) | 0 3/ 3/ 3/ 3/ 3 | 3 4/ 2/( 2) 1 | 6_./ 6_./( 6_.) 6/( 5/) 6/ 5/( | 5) - - - (break) | 6 ._1 ._1 ._1 | 7 6/ 5/( 5/) 4/( 4) | 0 5/ 5/ 5 5 | 6 5/ 4/( 4/) 3/( 3/) 3/ (break) | 2/ 2/ 3/ 4/( 4) - | 0 4/ 4/ 4/( 3/) 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>He un -- der -- stands you tho -- rough -- ly; There's noth -- ing He does not know. All your pro -- blems and weak -- ness -- es Don't say it is -- n't so! He's your Help -- er, sym -- pa -- thiz -- ing. He's the Spir -- it. Don't ne -- glect Him. He's pray -- ing for you And sus -- tain -- ing you.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="31">ns0210.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He understands you thoroughly;
+There's nothing He does not know.
+All your problems and weaknesses
+Don't say it isn't so!
+He's your Helper, sympathizing.
+He's the Spirit. Don't neglect Him.
+He's praying for you
+And sustaining you.</stanza>
+    <stanza type="verse" number="2">He gives support and comforts you,
+Interceding night and day.
+And when you're weak He groans for you
+With words you cannot say.
+He's the Spirit, interceding.
+He's the Spirit. Don't neglect this
+Wonderful One,
+Who is praying for you.</stanza>
+    <stanza type="verse" number="3">So many times we are so weak,
+But Someone deep within
+Supplies the very help we need,
+And we're upheld by Him.
+He says, "Don't be disappointed."
+He knows all your fears and failures;
+He's praying for you
+As no one else can do.</stanza>
+  </lyrics>
+</hymn>

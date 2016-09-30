@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kalooban ko'y mahina</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;NAGTITIWALA SA KANYA</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kalooban ko'y mahina,
+Pag-asa ko'y nawalang tanan;
+Sa Iyong gawa'y nagtitiwala,
+Ako'y marahan Mong gabayan.</stanza>
+	<stanza type="verse" number="2">Gumawa nguni't nabigo,
+Tulad ng dati'y natisod pa;
+Tiwala'y nasa pagti'is Mo,
+Na Iyong ingatan sa salita.</stanza>
+	<stanza type="verse" number="3">T'wing puso ko'y magpalalo,
+Malapit na sa katisuran;
+Di mangahas gumawa ako
+'Pagka't Kita'y aking kailangan.</stanza>
+	<stanza type="verse" number="4">Tagapagligtas lakas ko,
+O hinahangad ko Iyong mukha;
+Kahit pinakamahina 'ko,
+Lakas ko'y Iyo lamang biyaya.</stanza>
+  </lyrics>
+</hymn>

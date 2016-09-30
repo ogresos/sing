@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Cheryl</firstname>
+    <lastname></lastname>
+    <email>cheryl.addae@gmail.com</email>
+    <password>TlRxp4%2Bvx0VbtDk43Uw0Hg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.71.196.225</ipaddress>
+    <createdate>2013-06-28 14:45:16</createdate>
+    <lastupdateddate>2013-06-28 16:51:31</lastupdateddate>
+    <lastlogindate>2013-06-28 14:45:16</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+        <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+    </favourites>
+</user>

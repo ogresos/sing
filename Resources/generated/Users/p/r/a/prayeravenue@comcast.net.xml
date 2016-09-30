@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Becki</firstname>
+  <lastname>Fortner</lastname>
+  <email>prayeravenue@comcast.net</email>
+  <password>$2y$10$WJRvjnSNQP7HVOkRVBcr2.QU58jHDEB.wqXQTqvDNNhOtOT/.5.JC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.245.50.45</ipaddress>
+  <createdate>2015-03-16 01:04:48</createdate>
+  <lastupdateddate>2015-03-16 01:10:52</lastupdateddate>
+  <lastlogindate>2015-03-16 01:09:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+  </favourites>
+</user>

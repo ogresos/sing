@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carl</firstname>
+  <lastname>Wu</lastname>
+  <email>c.wu987@gmail.com</email>
+  <password>$2y$10$VHMwiHSq1nSakc7pl.7WReCpHWulxcId7AvtQu4mgHcxqRh8egNfy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.182.222.186</ipaddress>
+  <createdate>2015-12-19 20:27:58</createdate>
+  <lastupdateddate>2015-12-19 20:36:00</lastupdateddate>
+  <lastlogindate>2015-12-19 20:36:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

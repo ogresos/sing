@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Isinggit ang hallelujah</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAKUS</category>
+  <numbers><cebuano num="185"/><chinese num="ts:24"/><english num="185"/><german num="185"/><tagalog num="185"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Isinggit ang hallelujah
+Ginoo daygon.
+Unsa Ka gyud kabililhon,
+Di masugilon!</stanza>
+	<stanza type="chorus" number="">Takus ang Cordero, daygon!
+Hangtud gyud's dayon.
+Hallelujah! Hallelujah!
+Daygon S'ya! Amen.</stanza>
+	<stanza type="verse" number="2">Daygon Ka, O, Ikaw takus,
+Among Tagtubos,
+Gihimo ming mga hari
+Ug sacerdote!</stanza>
+	<stanza type="verse" number="3">Hallelujah! gihigugma's
+Way katapusan,
+Nausa Nimo, Imoha,
+Sa kahangturan.</stanza>
+	<stanza type="verse" number="4">Daygon Ka! O, Hallelujah!
+Makahilom ba?
+Duyogan's mga balaan
+Sa kanasuran.</stanza>
+  </lyrics>
+</hymn>

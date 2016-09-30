@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Faith</firstname>
+    <lastname>Ragland</lastname>
+    <email>faithrag@yahoo.com</email>
+    <password>$1$IEo4SR3o$XVZQho5ELAp03Y7NeXLJ60</password>
+    <gender>M</gender>
+    <country>India</country>
+    <ipaddress>117.241.56.50</ipaddress>
+    <createdate>2009-07-02 10:25:02</createdate>
+    <lastupdateddate>2011-08-15 07:16:48</lastupdateddate>
+    <lastlogindate>2011-08-15 07:16:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="867">As members of the Body</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+        <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+        <fav category="default" type="h" num="1177">Oh, Christ in all His glory put on humanity</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+        <fav category="default" type="h" num="1178">We have seen Christ is reality</fav>
+    </favourites>
+</user>

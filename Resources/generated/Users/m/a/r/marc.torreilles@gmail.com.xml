@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Marc</firstname>
+  <lastname>Torreilles</lastname>
+  <email>marc.torreilles@gmail.com</email>
+  <password>$2y$10$.qyo8zj30uFSckxjNyK8VeBgcYb3BGytpqrk6kHD854B0DBUpXETq</password>
+  <gender/>
+  <country>Switzerland</country>
+  <ipaddress>77.56.173.26</ipaddress>
+  <createdate>2013-12-16 20:23:47</createdate>
+  <lastupdateddate>2014-08-22 16:29:46</lastupdateddate>
+  <lastlogindate>2014-08-22 16:29:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="725">Strong are the walls around me</fav>
+    <fav category="default" type="h" num="1152">To Jesus every day we find our hearts are closer drawn</fav>
+    <fav category="default" type="h" num="1162">We've found the secret of living</fav>
+  </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿利路亞耶穌得勝</title>
+  <index>true</index>
+  <category>屬靈的爭戰－藉主的得勝</category>
+  <numbers><cebuano num="890"/><chinese num="644"/><dutch num="71"/><english num="890"/><german num="890"/><korean num="644"/><portuguese num="420"/><russian num="145"/><spanish num="401"/><tagalog num="890"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <layout>
+	<singingstanza>阿 利 路 亞， 耶 穌 得 勝！ 大 聲 唱 凱 歌！ 耶 穌 得 勝， 仍 舊 得 勝， 勝 過 罪、 死、 魔！ 阿 利 路 亞， 耶 穌 得 勝！ 榮 耀 的 消 息！ 耶 穌 得 勝， 仍 舊 得 勝， 勝 過 眾 仇 敵！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿利路亞，耶穌得勝！
+大聲唱凱歌！
+耶穌得勝，仍舊得勝，
+勝過罪、死、魔！</stanza>
+	<stanza type="chorus" number="">阿利路亞，耶穌得勝！
+榮耀的消息！
+耶穌得勝，仍舊得勝，
+勝過眾仇敵！</stanza>
+	<stanza type="verse" number="2">阿利路亞，耶穌得勝！
+寶血有能力！
+仗祂十架，時時誇勝，
+魔鬼就逃匿。</stanza>
+	<stanza type="verse" number="3">阿利路亞，耶穌得勝！
+疾病也消殺！
+因藉耶穌，完全得勝，
+成於各各他。</stanza>
+	<stanza type="verse" number="4">阿利路亞，耶穌得勝！
+故剛強有為！
+無論何處，祂有遣徵，
+當應命勿畏。</stanza>
+	<stanza type="verse" number="5">阿利路亞，耶穌得勝！
+勿懼，勿讓步！
+前途縱有黑暗權能，
+耶穌必開路。</stanza>
+	<stanza type="verse" number="6">阿利路亞，耶穌得勝！
+耶穌快再臨！
+所有同祂得勝的人，
+前來同歡欣！</stanza>
+  </lyrics>
+</hymn>

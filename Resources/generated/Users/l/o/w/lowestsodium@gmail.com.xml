@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>J.C</firstname>
+  <lastname/>
+  <email>lowestsodium@gmail.com</email>
+  <password>$2y$10$qorMnELdcRLAhZLqFrQ5l.tIFZiIxGgSu8NLmudE.POlLVze13h7i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-06 23:58:48</createdate>
+  <lastupdateddate>2015-01-12 02:16:58</lastupdateddate>
+  <lastlogindate>2015-01-12 02:16:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+    <fav category="default" type="ns" num="55">Call, call, won't you call Jesus' name</fav>
+    <fav category="default" type="lb" num="78">I am young and I'm in love</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+    <fav category="default" type="lb" num="15">I need You, dear Lord Jesus</fav>
+    <fav category="default" type="h" num="377">If the path I travel</fav>
+    <fav category="default" type="h" num="775">In the mighty Name of Jesus</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="lb" num="23">Just to be in You</fav>
+    <fav category="default" type="lb" num="27">Let's go on</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="h" num="595">There is always something over</fav>
+  </favourites>
+</user>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa panalig hipuin Ka</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;PAKIKISALAMUHA SA KANYA</category>
+  <numbers><cebuano num="559"/><chinese num="412"/><english num="559"/><german num="559"/><korean num="412"/><russian num="460"/><tagalog num="559"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Bertha Fennell</author>
+  </creators>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa panalig hipuin Ka,
+Tustos sa Iyo nagmula;
+Ginamit kalakasan Mo,
+Tinanggap sa Iyong dugo.</stanza>
+	<stanza type="chorus" number="">Tustos ng buhay nahipo,
+Sa ningas ng 'spiritu;
+Linisan, alisan, pu'nan,
+Tam'hin Iyong kayamanan.</stanza>
+	<stanza type="verse" number="2">Sa panalig hipuin Ka,
+Yaman Mo'y gamitin na;
+Bukas buong katauhan,
+Ako ay Iyong punuan.</stanza>
+	<stanza type="verse" number="3">Mas malalim, hipuin Ka,
+Hipuin Iyong sagana;
+Biyaya tanggapin sa Iyo,
+Buhay Mo dinaloy ko.</stanza>
+	<stanza type="verse" number="4">Lakas, dunong, kailangan ko,
+Galing, b'yaya'y tustos Mo;
+Hipuin Kita't mahalin,
+Yaman Mo'y 'king angkinin.</stanza>
+  </lyrics>
+</hymn>

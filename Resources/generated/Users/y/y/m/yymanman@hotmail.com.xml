@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Steven</firstname>
+    <lastname></lastname>
+    <email>yymanman@hotmail.com</email>
+    <password>tyhTMY248LnP4YHLla0pMg%3D%3D</password>
+    <gender></gender>
+    <country>中國</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-21 03:46:05</createdate>
+    <lastupdateddate>2014-04-21 03:46:05</lastupdateddate>
+    <lastlogindate>2014-04-21 03:12:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="521">應當時常喜樂</fav>
+        <fav category="default" type="ch" num="444">是愛的神作我牧人</fav>
+    </favourites>
+</user>

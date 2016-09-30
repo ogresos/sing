@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Örtliche Gemeinden stehn</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Ihr örtlicher Ausdruck</category>
+  <numbers><cebuano num="1260"/><chinese num="ts:516"/><english num="1260"/><french num="161"/><german num="1260"/><russian num="540"/><spanish num="386"/><tagalog num="1260"/></numbers>
+  <key>B Major</key>
+  <melody>| 1 - - - | 3 - 5 5 | 6( - - 3) | 6 - - - | ._1 - - ._1 | ._2 - 5 - | ._1( - - - | ._1) - - - (break) | 6 - - - | ._1 - 6 - | 5 - 6 - | 7 - ._1 - | 4# - 6 - | ._2 - ._1 - | 7( - 5 - | 4 - 2) - (break) | 1 - - - | 3 - 5 - | 6 - - 3 | 6 - - - | ._1 - - - | ._2 - 5 - | ._1( - - - | ._1) - - - (break) | 6 - - - | ._1 - 6 - | 5 - 6 - | 7 - ._1 - | ._3. 5/ 4# 5 | ._2. 5/ 4# 5 | ._1( - - - | ._1) - - - |</melody>
+  <layout>
+	<singingstanza>Ört -- li -- che Ge -- mein -- den stehn Auf Got -- tes Grund; Chris -- tus ist un -- ser Le -- ben, Un -- ser neu -- er Bund. „Im Geist und auf dem Grund“_&amp;mdash; Stehn wir zu -- gleich; Hier ü -- ber -- win -- den wir den Feind, Und füh -- ren ein das Kö -- nig -- reich.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Örtliche Gemeinden stehn
+    Auf Gottes Grund;
+Christus ist unser Leben,
+    Unser neuer Bund.
+„Im Geist und auf dem Grund“ –
+    Stehn wir zugleich;
+Hier überwinden wir den Feind,
+    Und führen ein das Königreich.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Yo tengo un himno de loor</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Redimidos por la sangre</category>
+  <numbers><cebuano num="302"/><chinese num="ts:18"/><english num="302"/><portuguese num="163"/><russian num="62"/><spanish num="146"/><tagalog num="302"/></numbers>
+  <creators>
+    <author biodate="1851-1921" biolink="">Translated from Edwin Othello Excell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="302"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Yo tengo͜ un himno de loor,
+Ya que me redimió,
+Para mi Rey y Redentor,
+Ya que me redimió.</stanza>
+    <stanza type="chorus" number="">Ya que me redimió,
+Ya que me redimió,
+Yo Su nombre͜ ensalzaré;
+Ya que me redimió,
+A mi Salvador ensalzaré.</stanza>
+    <stanza type="verse" number="2">Me satisface Cristo hoy,
+Ya que me redimió,
+No tengo dudas ni temor,
+Ya que me redimió.</stanza>
+    <stanza type="verse" number="3">En mí Su͜ Espíritu está,
+Ya que me redimió,
+Me place͜ hacer Su voluntad,
+Ya que me redimió.</stanza>
+    <stanza type="verse" number="4">Yo tengo͜ un Dios que es para mí,
+Ya que me redimió,
+No puedo͜ el gozo describir,
+Ya que me redimió.</stanza>
+    <stanza type="verse" number="5">Mi Cristo mi justicia es,
+Ya que me redimió,
+Con El por siempre moraré,
+Ya que me redimió.</stanza>
+  </lyrics>
+</hymn>

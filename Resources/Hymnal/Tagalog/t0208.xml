@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Hesus, Hesus mahal ko</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;KASIYAHAN SA KANYA</category>
+  <numbers><cebuano num="208"/><chinese num="169"/><english num="208"/><french num="34"/><german num="208"/><korean num="169"/><portuguese num="112"/><russian num="39"/><spanish num="95"/><tagalog num="208"/></numbers>
+  <creators>
+	<author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+	<author biodate="1849-1928" biolink="">Translated from Russell Kelso Carter, chorus</author>
+  </creators>
+  <melody>| 0 - - 0 - 3 | 3 - 3 3 - 3 | 5 - 5 ._1 - 5 | 6 - 4 4( 5) 6 | 5( - - 5) - 5 (break) | 5 - 2 2( 3) 4 | 3 - 1 5 - 5 | 5 - 2 2( 3) 4 (break) | 3( - - 5) - (Chorus) 5 | 6 - 6 6 - 6 | 5# - 6 7 - 3 | ._1 - ._1 ._1 - ._1 | 7 - ._1 ._2 - 5 (break) | ._3 - ._2 ._1 - 7 | ._2 - ._1 6 - 4 | 5 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <music>
+	<midiref type="h" num="208"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Hesus, Hesus mahal ko
+Ako'y patawarin Mo,
+Araw-araw ay makalibo,
+Nasasambit ang Ngalan Mo.
+Hesus ako'y Iyong samahan;
+Ako'y Iyo maging anuman;
+Ang ngiti Mo'y gantimpala;
+Hesus mahal Kita.</stanza>
+	<stanza type="verse" number="2">Mahal Kita, di-mapigil
+Damdami'y di masiil;
+Ang pag-ibig Mo'y umaalab
+Sa puso ko'y tumatalab.</stanza>
+	<stanza type="verse" number="3">Lahat-lahat Ka sa akin;
+Karangalan, yaman din;
+Nasa ng puso, kalakasan,
+Walang hanggang kalusugan.</stanza>
+	<stanza type="verse" number="4">Magningas Ka sa puso ko,
+Gabi't araw, Irog ko.
+Hanggang sa matupok ang yagit
+Ng makalupang pag-ibig.</stanza>
+	<stanza type="verse" number="5">Liwanag sa kadiliman,
+Buhay ng langit nand'yan;
+Hesus mahal ko, aking yaman,
+Ga'nong Iyong kahalagahan!</stanza>
+	<stanza type="verse" number="6">Anong hanggana't pagtiis?
+Pag-ibig ubod tamis?
+Panginoon higit Ka ngayon
+Marilag kaysa kahapon.</stanza>
+  </lyrics>
+</hymn>

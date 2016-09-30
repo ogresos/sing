@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>WILLIAM</firstname>
+<lastname>TAN</lastname>
+<email>william123tan@hotmail.com</email>
+<password>$1$Ab/74wSr$R3NaJc4i5xwnZIS2o5g4N1</password>
+<gender>M</gender>
+<country>Singapore</country>
+<ipaddress>218.186.198.19</ipaddress>
+<createdate>2008-07-26 01:43:28</createdate>
+<lastupdateddate>2009-09-15 18:25:23</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="580">Resting on the faithfulness of Christ our Lord</fav>
+    </favourites>
+</user>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Amy</firstname>
+  <lastname>Huang</lastname>
+  <email>sunglincom18@yahoo.com.tw</email>
+  <password>$2y$10$KVh7XLkTdYaeRvNkTux15uIzcDoPCnhjsgjC2PwOPS2I9l9LECEma</password>
+  <gender/>
+  <country/>
+  <ipaddress>111.251.217.136</ipaddress>
+  <createdate>2014-06-01 07:15:12</createdate>
+  <lastupdateddate>2015-06-24 03:04:26</lastupdateddate>
+  <lastlogindate>2015-06-24 03:02:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="398">A Person of Life</fav>
+    <fav category="default" type="ns" num="34">He knows, He knows</fav>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="190">I want to be filled with the Triune God</fav>
+    <fav category="default" type="ns" num="112">I want to tell You, Lord</fav>
+    <fav category="default" type="ns" num="461">Let him kiss me with the kisses of his mouth</fav>
+    <fav category="default" type="ns" num="492">Lord, I give my heart to You, Surrender myself unto Thee</fav>
+    <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="ns" num="239">Lord, take my life</fav>
+    <fav category="default" type="ns" num="159">The Issue of Christ being Glorified by the Father with the Divine Glory</fav>
+    <fav category="default" type="lb" num="60">The Son with the Father by the Spirit</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+  </favourites>
+</user>

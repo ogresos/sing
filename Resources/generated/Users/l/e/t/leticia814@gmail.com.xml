@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Leticia</firstname>
+    <lastname>Jiang</lastname>
+    <email>leticia814@gmail.com</email>
+    <password>$1$ZjE8gvUw$5zqd0T2nwPcenBftu22hY/</password>
+    <gender>F</gender>
+    <country>Taiwan</country>
+    <ipaddress>218.170.103.33</ipaddress>
+    <createdate>2008-09-29 04:49:15</createdate>
+    <lastupdateddate>2010-11-19 07:30:26</lastupdateddate>
+    <lastlogindate>2010-11-19 07:30:26</lastlogindate>
+    <failedlogincount>2</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="790">Keep the incense burning</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Emily</firstname>
+  <lastname/>
+  <email>emily6161997@gmail.com</email>
+  <password>$2y$10$OsRRAHJyha4QZKx5Esj20eQA7W9zHjuhHEfCgcPG.Rgixlblgo.LK</password>
+  <gender/>
+  <country/>
+  <ipaddress>68.226.184.117</ipaddress>
+  <createdate>2016-03-19 13:52:12</createdate>
+  <lastupdateddate>2016-03-19 13:54:37</lastupdateddate>
+  <lastlogindate>2016-03-19 13:53:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

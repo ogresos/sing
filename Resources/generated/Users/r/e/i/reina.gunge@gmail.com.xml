@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Reina</firstname>
+  <lastname/>
+  <email>reina.gunge@gmail.com</email>
+  <password>$2y$10$rAoCdBDT9nqP8lJEDqWyIelcusbqfIc21G9Mr6eCW8jly3CC5km1C</password>
+  <gender/>
+  <country>jp</country>
+  <ipaddress>210.186.233.30</ipaddress>
+  <createdate>2016-02-10 13:38:09</createdate>
+  <lastupdateddate>2016-04-11 10:30:49</lastupdateddate>
+  <lastlogindate>2016-04-11 10:30:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="c" num="93">All Scripture is God-breathed</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="nt" num="321">Full salvation! Full salvation</fav>
+    <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+    <fav category="default" type="ns" num="115">Good morning, Lord Jesus</fav>
+    <fav category="default" type="ns" num="65">I love God because...</fav>
+    <fav category="default" type="lb" num="23">Just to be in You</fav>
+    <fav category="default" type="lb" num="27">Let's go on</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+    <fav category="default" type="lb" num="69">Someone</fav>
+    <fav category="default" type="lb" num="60">The Son with the Father by the Spirit</fav>
+  </favourites>
+</user>

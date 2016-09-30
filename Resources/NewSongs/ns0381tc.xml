@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako ang tinapay na buhay</title>
+  <index>true</index>
+  <numbers><arabic num="ns:381ar"/><english num="ns:381"/><cebuano num="ns:381cb"/><estonian num="ns:381es"/><french num="ns:381f"/><portuguese num="ns:381p"/><tagalog num="ns:381tc"/></numbers>
+  <music>
+    <midiref type="ns" num="381"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Ako ang tinapay na buhay na bumabang galing sa langit:
+kung ang sinoman ay kumain ng tinapay na ito, siya'y mabubuhay magpakailan man:</stanza>
+    <stanza type="verse" number="">oo at ang tinapay na aking ibibigay ay ang aking laman, sa ikabubuhay ng sanglibutan.</stanza>
+    <stanza type="verse" number="">Ako ang tinapay na buhay na bumabang galing sa langit:
+kung ang sinoman ay kumain ng tinapay na ito, siya'y mabubuhay magpakailan man:</stanza>
+  </lyrics>
+</hymn>

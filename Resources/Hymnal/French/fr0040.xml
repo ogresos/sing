@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cette table nous remplit d'espoir</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;le souvenir de Lui</category>
+  <numbers><chinese num="ts:623"/><dutch num="40"/><english num="1112"/><french num="40"/><german num="1112"/><portuguese num="125"/><russian num="208"/><spanish num="108"/></numbers>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 (Chorus) 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( ._1) - 7./ 6// | 5. 6/ 5/( 3/) 1/( 3/) (break) | 2 - - 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( (.._1) - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="861"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ô Seigneur, que Ta table est glorieuse !
+Rassemblant ici tous Tes saints,
+Tu as préparé ce festin.
+O Seigneur, que Ta table est glorieuse !</stanza>
+	<stanza type="verse" number="">Refrain :
+Alléluia, alléluia !
+Alléluia, quel festin !
+Alléluia, alléluia !
+Ô Seigneur, que Ta table est glorieuse !</stanza>
+	<stanza type="verse" number="2">Cette table nous remplit de joie,
+Quand nous communions autour d'elle.
+Nous l'avons trouvée, qu'elle est belle !
+Cette table nous remplit de joie !</stanza>
+	<stanza type="verse" number="3">Ô Seigneur, Ta table nous est chère !
+Partageant Ton corps et Ton sang,
+Dans l'amour nous Te contemplons.
+Ô Seigneur, Ta table nous est chère !</stanza>
+	<stanza type="verse" number="4">Ô Seigneur, Ta table est importante !
+Nous voyons Ton Corps grâce au pain :
+En mangeant nous sommes tous un.
+Ô Seigneur, Ta table est importante !</stanza>
+	<stanza type="verse" number="5">Ô Seigneur, Ta table rassasie !
+Accessible de jour en jour,
+Tu nous satisfais pour toujours.
+Ô Seigneur, Ta table rassasie !</stanza>
+	<stanza type="verse" number="6">Cette table nous remplit d'espoir !
+L'espérance de Ton retour
+Affermit nos cœurs dans l'amour.
+Cette table nous remplit d'espoir !</stanza>
+  </lyrics>
+</hymn>

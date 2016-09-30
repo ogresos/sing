@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Zuhause sind wir</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Als unser Zuhause und unsere Ruhe</category>
+  <numbers><cebuano num="1233"/><chinese num="ts:709"/><english num="1233"/><french num="156"/><german num="1233"/><korean num="826"/><portuguese num="397"/><russian num="535"/><tagalog num="1233"/></numbers>
+  <melody>| 0 - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 3/ 4/ | 5. 1/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_./ 5_./ | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - - (break) | 5 - - | 4. 3/ 2 | 3( - - | 3) - 5_./ 5_./ | 1. 1/ 1 | 1. 7_./ 1 | 2( - - (break) | 2) - 5_./ 5_./ | 5_. 1 2 | 3 - 1/ 7_./ | 6_.. 4/ 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Zu -- hau -- se sind wir, Die Ge -- mein -- de zeigts hier, Und wir freun uns im Herrn al -- le -- zeit; Un -- ser Le -- ben ist Er, Strei -- ten tun wir nicht mehr, Sind da -- heim und in Ein -- mü -- tig -- keit! Hier in der Ge -- meind,  Sind wir end -- lich zu Haus und ver -- eint, Und den gan -- zen Tag lang Prei -- sen wir mit Ge -- sang, Eh -- ren Chris -- tus und Sei -- ne Ge -- meind!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1233"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Zuhause sind wir,
+Die Gemeinde zeigts hier,
+Und wir freun uns im Herrn allezeit;
+Unser Leben ist Er,
+Streiten tun wir nicht mehr,
+Sind daheim und in Einmütigkeit!</stanza>
+	<stanza type="chorus" number="">Hier in der Gemeind, 
+Sind wir endlich zu Haus und vereint,
+Und den ganzen Tag lang
+Preisen wir mit Gesang,
+Ehren Christus und Seine Gemeind!</stanza>
+	<stanza type="verse" number="2">Sie ist Gottes Ruh,
+Und Sein Schatz noch dazu – 
+Oh, wie freut Sich der Herr immerfort.
+Unser Herz ist Sein Haus
+Und der Feind muss hinaus,
+Gottes Herrlichkeit füllt diesen Ort.</stanza>
+	<stanza type="chorus" number="">Hier in der Gemeind
+Ist Gott endlich zu Haus und erscheint,
+Und den ganzen Tag lang
+Preisen wir mit Gesang,
+Ehren Christus und Seine Gemeind!</stanza>
+  </lyrics>
+</hymn>

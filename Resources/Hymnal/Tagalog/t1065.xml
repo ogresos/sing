@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dakilang kaligtasan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PATOTOO</category>
+  <numbers><cebuano num="1065"/><chinese num="738"/><english num="1065"/><korean num="738"/><spanish num="487"/><tagalog num="1065"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Composite</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1065"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dakilang kaligtasan!
+Dakilang kaligtasan!
+Dakilang kaligtasan!
+Hesus nagligtas!</stanza>
+    <stanza type="chorus" number="">Kinalas tanang gapos!
+Kinalas tanang gapos!
+Kinalas tanang gapos!
+Siyang nagpalaya!</stanza>
+    <stanza type="verse" number="2">Sala ko'y pinatawad!
+Mga gapos kinalas!
+Puso ko'y mapayapa!
+Hesus nagligtas!</stanza>
+    <stanza type="verse" number="3">Ni sala man o tukso,
+Ni pang'yamot ng Dyablo,
+Ni pang-akit ng mundo.
+Sa 'ki'y gumupo!</stanza>
+    <stanza type="verse" number="4">Aawit aleluya!
+Aawit aleluya!
+Aawit aleluya!
+Ako'y naligtas!</stanza>
+  </lyrics>
+</hymn>

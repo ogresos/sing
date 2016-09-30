@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>新局面出現</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>53333344444</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>新 局 面 出 現， 眾 聖 徒 正 往 前， 看！ 神 的 榮 耀 在 地 上 彰 顯！ 召 會 復 興 的 徵 象， 前 後 左 右 皆 可 見， 阿 利 路 亞， 新 局 面 出 現。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0807.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">新局面出現，
+眾聖徒正往前，看！
+神的榮耀在地上彰顯！
+召會復興的徵象，
+前後左右皆可見，
+阿利路亞，新局面出現。</stanza>
+  </lyrics>
+</hymn>

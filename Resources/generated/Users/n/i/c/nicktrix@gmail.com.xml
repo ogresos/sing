@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Nick</firstname>
+<lastname>Sanchez</lastname>
+<email>nicktrix@gmail.com</email>
+<password>$1$US2i0JoW$DSMIfjNGYF6XpFtaULQFC.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.104.144.158</ipaddress>
+<createdate>2009-05-22 06:50:23</createdate>
+<lastupdateddate>2009-09-15 19:16:41</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+    </favourites>
+</user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>yessica</firstname>
+  <lastname>bernal</lastname>
+  <email>yessica468@gmail.com</email>
+  <password>kEE2ev%2FfdpKaqTL17J9wUA%3D%3D</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>99.201.234.177</ipaddress>
+  <createdate>2011-09-11 22:00:25</createdate>
+  <lastupdateddate>2014-10-12 01:22:11</lastupdateddate>
+  <lastlogindate>2014-10-12 01:22:11</lastlogindate>
+  <failedlogincount>3</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="182">Christ is our light, our food, our air</fav>
+    <fav category="default" type="h" num="770">In the holiest place</fav>
+  </favourites>
+</user>

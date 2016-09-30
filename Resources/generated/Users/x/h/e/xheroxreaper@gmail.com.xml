@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ziting</firstname>
+  <lastname>Wang</lastname>
+  <email>xheroxreaper@gmail.com</email>
+  <password>$2y$10$K2/OfRMt1YYseFrZaAXYueFOY91WzRfU9JviPmVlaL64u8fbIZtR2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>32.208.172.118</ipaddress>
+  <createdate>2016-04-26 23:57:17</createdate>
+  <lastupdateddate>2016-04-26 23:58:15</lastupdateddate>
+  <lastlogindate>2016-04-26 23:58:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+  </favourites>
+</user>

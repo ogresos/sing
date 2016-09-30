@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kann nicht genug Dich atmen, Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Schönheit</category>
+  <numbers><cebuano num="172"/><chinese num="142"/><english num="172"/><german num="172"/><korean num="142"/><portuguese num="84"/><russian num="204"/><spanish num="82"/><tagalog num="172"/></numbers>
+  <creators>
+	<author biodate="1850-1906" biolink="">Translated from William Spencer Walton</author>
+  </creators>
+  <melody>| 0. 5_./ 6_./ 7_./ | 1. 7_./ 1/ 2/ | 7_.. 5_./ 7_./ 2/ | 5 - 4 | 3. 3/ 3/ 3/ (break) | 6. 3/ 5./ 4// | 4. 4/ 4/ 4/ | 5. 2/ 4./ 3// | 3 - 1 (break) | 1. 1/ 2/ 1/ | 3 - 5_. | 5_.. 5_./ 6_./ 5_./ | 1. 0. |</melody>
+  <layout>
+	<singingstanza>Kann nicht ge -- nug Dich at -- men, Herr, Oh mil -- de, sü -- ße Luft; Den Duft der Myr -- te lieb ich sehr, Doch den der Hen -- na noch viel mehr, Ein Him -- mels- -- Bal -- sam -- duft. Ein Him -- mels -- bal -- sam -- duft.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="172"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kann nicht genug Dich atmen, Herr,
+    Oh milde, süße Luft;
+Den Duft der Myrte lieb ich sehr,
+Doch den der Henna noch viel mehr,
+    Ein Himmels-Balsamduft.</stanza>
+	<stanza type="verse" number="2">Kann nicht genug anschauen Dich,
+    Mit Dir den Schönsten hab;
+Mit Deinen Augen strahlst Du still,
+Mein Herz vor Freude bersten will,
+    An Dir mich täglich lab.</stanza>
+	<stanza type="verse" number="3">Kann nicht genug mich geben Dir,
+    Mein Retter, Meister, Schatz;
+Nicht frei ausgehen wünsch ich mir,
+Doch willig dienen möcht ich hier,
+    Bis hin zum Siegesplatz.</stanza>
+	<stanza type="verse" number="4">Kann nicht genug lobpreisen Dich,
+    Den schönsten Namen hier;
+Ein Lied voll Harmonie sing ich,
+Aus tiefstem Herzen ewiglich,
+    Voll Freude dank ich Dir.</stanza>
+	<stanza type="verse" number="5">Kann nicht genug erzähln von Dir,
+    Ich brenn für Dich wie Glut;
+Dein Herz, es schlägt so zart für mich,
+Wenn Du mich ziehst so nah an Dich,
+    Und sprichst: „'s ist alles gut“.</stanza>
+	<stanza type="note" number="">(Die letzte Zeile jeder Strophe wird wiederholt.)</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Steve</firstname>
+  <lastname>Pfleghaar</lastname>
+  <email>spfleghaar@live.com</email>
+  <password>$2y$10$mHNGeFhg9pDK1ydA5KN7L.iAdSvxbYjtr7soCeyMBLdBXj3OmhvqK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.38.67.128</ipaddress>
+  <createdate>2014-11-20 13:52:16</createdate>
+  <lastupdateddate>2014-11-20 13:52:50</lastupdateddate>
+  <lastlogindate>2014-11-20 13:52:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

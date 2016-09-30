@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Karen</firstname>
+    <lastname>Langston</lastname>
+    <email>pstch_nt621@yahoo.com</email>
+    <password>W7SQ8cmANnznfc74bcYLGQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>209.12.237.61</ipaddress>
+    <createdate>2012-06-11 08:38:56</createdate>
+    <lastupdateddate>2012-06-11 09:22:14</lastupdateddate>
+    <lastlogindate>2012-06-11 08:38:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

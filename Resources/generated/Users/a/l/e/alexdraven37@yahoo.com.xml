@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alvero</firstname>
+  <lastname>Ducusin</lastname>
+  <email>alexdraven37@yahoo.com</email>
+  <password>$2y$10$LjQRidL3KSr5o/iykhZZnOezRsi7cAg0M3Zl7FMNO.JLcvlO86MOO</password>
+  <gender>M</gender>
+  <country>ph</country>
+  <ipaddress>124.6.181.42</ipaddress>
+  <createdate>2011-01-03 00:10:17</createdate>
+  <lastupdateddate>2014-10-26 10:38:46</lastupdateddate>
+  <lastlogindate>2014-10-26 10:37:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="711b">I know not what awaits me (Alternate)</fav>
+    <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+    <fav category="default" type="h" num="1107">We're gathered here, O Lord, as Thy one Body</fav>
+  </favourites>
+</user>

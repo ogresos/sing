@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦那不肯放我之愛</title>
+  <index>true</index>
+  <category>奉獻－主愛激勵</category>
+  <numbers><chinese num="332"/><english num="432"/><french num="73"/><korean num="332"/><portuguese num="199"/><tagalog num="432"/></numbers>
+  <creators>
+	<author biodate="1842-1906" biolink="">Translated from George Matheson</author>
+  </creators>
+  <melody>| 0 - - 5_. | 5_.. 5_./ 5_./ 6_./ 7_./ 1/ | 1( - 7_.) 7_. | 7_.. 7_./ 7_./ 1/ 2/ 3/ | 5( - 4) 4 (break) | 3. 3/ 3/ 2/ 1/ 7_./ | 2( - 1) 1 | 1. 1/ 1/ 1/ 7_./ 6_./ | 5_.. 6_./ 7_. 1 | 3 - - 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>哦， 那 不 肯 放 我 之 愛， 我 將 疲 魂 安 息 於 你； 我 把 所 欠 餘 生 歸 來， 好 使 牠 在 你 這 深 海， 得 更 豐 滿 洋 溢。</singingstanza>
+  </layout>
+  <notes>The author was inspired to write this hymn in 5 minutes during a time of distress.</notes>
+  <music>
+	<midiref type="h" num="432"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦，那不肯放我之愛，
+我將疲魂安息於你；
+我把所欠餘生歸來，
+好使牠在你這深海，
+得更豐滿洋溢。</stanza>
+	<stanza type="verse" number="2">哦，那照耀我路之光，
+我將殘燈帶來交你；
+我心因得你光復亮，
+牠的日子藉你太陽，
+得更光明美麗。</stanza>
+	<stanza type="verse" number="3">哦，那苦中尋我之樂，
+我心不能向你關閉；
+我在雨中彩虹尋得，
+知你應許不會空說，
+天亮便無淚涕。</stanza>
+	<stanza type="verse" number="4">哦，那使我抬頭十架，
+我不敢求與你稍離；
+今生虛榮死葬土下，
+那土長出生命紅花，
+永遠開放不已。</stanza>
+  </lyrics>
+</hymn>

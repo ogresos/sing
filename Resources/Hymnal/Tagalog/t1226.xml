@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anong l'walhati ng ekklesi-a't bahagi tayo -</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;BLANG ANG KATAWAN NI KRISTO</category>
+  <numbers><cebuano num="1226"/><chinese num="ts:508"/><dutch num="78"/><english num="1226"/><french num="154"/><german num="1226"/><korean num="998"/><portuguese num="394"/><russian num="137"/><spanish num="373"/><tagalog num="1226"/></numbers>
+  <melody>| 0 - - 1./ 2// | 3./ 3// 3./ 3// 3./ 2// 1./ 1// | 2./ 1// 1./ 6_.// 5_. 1./ 2// | 3./ 3// 3./ 3// 3./ 3// 2./ 1// (break) | 2 - - 1./ 2// | 3./ 3// 3./ 3// 3./ 2// 1./ 1// | 2./ 1// 1./ 6_.// 5_. 1./ 2// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// (break) | 1 - - (Chorus) 3./ 4// | 5( - 5./) 4// 3./ 4// | 5 - 3 3./ 3// | 4( - 4./) 3// 2./ 3// (break) | 4 - 2 3./ 4// | 5( - 5./) 3// 2./ 1// | 1 - 4 4./ 2// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1226"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Anong l'walhati ng ekklesi-a't bahagi tayo -
+Ginawang isa ng Pangino'n tayo!
+May 'sang Katawan sa sansinukob't bahagi tayo -
+Ginawang isa ng Pangino'n tayo!</stanza>
+	<stanza type="chorus" number="">Aleluya sa Katawan!
+Sangkap tayo ng Katawan!
+Lubos para sa Katawan!
+Ginawa tayong isa ng Pangino'n!</stanza>
+	<stanza type="verse" number="2">'Di na Kristiyanong indibid'wal, kundi sama-sama -
+Tamuhin ng Diyos ang kahayagan Niya;
+'Di ekklesiang isa-isa, kundi isang Katawan -
+Aleluya, tayo'y nasa Katawan!</stanza>
+	<stanza type="chorus" number="">Aleluya sa Katawan!
+Dyablo'y nanginig sa Kat'wan!
+Tagumpay tayo sa Kat'wan!
+Aleluya, tayo'y nasa Katawan!</stanza>
+	<stanza type="verse" number="3">May pitong dibinong gintong patungan-ng-ilawan -
+Walang likas na bagay sa Katawan.
+Kalikasan ng Diyos kabahagi't kaisa natin -
+Patungan-ng-ilawan nagniningning!</stanza>
+	<stanza type="chorus" number="">Aleluya sa Katawan!
+Sa patungan-ng-ilawan!
+Sa ginintuang Katawan!
+Aleluya! Nagningning na ngayon!</stanza>
+	<stanza type="verse" number="4">Nagkakaisa, maging diibino't nagniningning pa,
+Sa pagkain kay Hesus nakukuha!
+Siya ang puno ng buhay, piging, laging bago't manna -
+Aleluya, Siya'y kainin tuwina!</stanza>
+	<stanza type="chorus" number="">D'hil sa pagkain kay Hesus,
+Nagkakaisa nang lubos!
+Nagniningning at dibino!
+Aleluya! Pagkain ang daan ko!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Richard</firstname>
+  <lastname>Glosup</lastname>
+  <email>rglosupd@hotmail.com</email>
+  <password>$2y$10$DqIF1nfxTT2acsilh5Y4qegnCeo960kTgjsXbCY/ElLtS6p21uzS2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.5.212.243</ipaddress>
+  <createdate>2014-11-16 22:16:06</createdate>
+  <lastupdateddate>2014-11-16 22:17:31</lastupdateddate>
+  <lastlogindate>2014-11-16 22:17:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

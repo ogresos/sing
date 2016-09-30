@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lower and lower, dear Lord, at Thy feet</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Deliverance from Self</category>
+  <creators>
+    <author biodate="1851-1920" biolink="">Eliza Edmunds Hewitt</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>5365317521</hymncode>
+  <key>Bb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | G - - Am - - | Am - - C/G - - | D/F# - - G - - | C - - F - - | Em - - Am - - | G7 - - C - - | G7 - - C - - | C - - G/B - - | Am - - E - - | F - - C - - | C - - G7 - - | C - - - - - | C - - F - - | C/G - - Am - - | Dm - G7 C - - |</chords>
+  <melody>| 5 3 6 5 3 ._1 | 7 5 ._2 ._1 - - | ._1. ._1/ ._1 ._1 7 ._1 | ._2 ._2 ._3 ._2 - - (break) | ._3 ._2 ._1 ._1 7 6 | 5 6 5 3 - - | 4 2 6 5 3 ._1 | 7 5 ._2 ._1 - - (break) | (Chorus) ._3 ._3 ._3 ._2 ._2. 0/ | ._1 ._1 ._1 7 - 0 | 6. 6/ 6 5 ._1. 0/ | 5 4 3 2 - 0 (break) | 3 3 4 5 - 5/ 5/ | ._1 ._1 7 6 - 0 | 5 3 6 5 3. 0/ | 4 5 4 3 - - |</melody>
+  <layout>
+    <singingstanza>Low -- er and low -- er, dear Lord, at Thy feet, Seek -- ing Thy Spir -- it, Thy mer -- cy so sweet; Down in our need, bless -- ed Mas -- ter, we fall, Low -- er and low -- er; be Thou all in all. Low -- er and low -- er, down at Thy cross, All the world's trea -- sure count -- ing but dross; Down at Thy feet, bless -- ed Sav -- ior, we fall, Low -- er, still low -- er, Christ all in all!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj126.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="52">e0416_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lower and lower, dear Lord, at Thy feet,
+Seeking Thy Spirit, Thy mercy so sweet;
+Down in our need, blessed Master, we fall,
+Lower and lower; be Thou all in all.</stanza>
+    <stanza type="chorus" number="">Lower and lower, down at Thy cross,
+All the world's treasure counting but dross;
+Down at Thy feet, blessed Savior, we fall,
+  Lower, still lower, Christ all in all!</stanza>
+    <stanza type="verse" number="2">Lower and lower, dear Savior, we pray,
+Losing the self-life still more every day;
+Weak and unworthy, we're looking above:
+Empty us wholly; then fill us with love.</stanza>
+    <stanza type="verse" number="3">Lower and lower; yet higher we rise
+Lifted in Christ, freed from all the earth ties:
+Humbly we follow the way of the cross.
+Then, crowns of glory, and gain for all loss.</stanza>
+  </lyrics>
+</hymn>

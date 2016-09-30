@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tilawi ug makita nimo</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;LINANGKOB</category>
+  <numbers><cebuano num="1331"/><dutch num="18"/><english num="1331"/><german num="1331"/><korean num="961"/><portuguese num="468"/><russian num="186"/><spanish num="493"/></numbers>
+  <melody>| 0 - 0/ 5_./ 6_./ 7_./ | 1( - 1/) 3/ 2// 1// 6_./ (break) | 1( - 1/) 1/ 1/ 1/ | 5( - 5/) 6// 6// 6/ 6/ (break) | 5( - 5/) 5/ 6/ 7/ | ._1( - ._1/) 5// 5// 6/ 5/ (break) | 4( - 4/) 1// 1// 2// 2// 1/ | 5( - 5/) 5_./ 6_./ 7_./ | 1( - 1/) 0. |</melody>
+  <music>
+	<midiref type="h" num="1331"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tilawi ug makita nimo,
+Nga maayo gyud ang Ginoo.
+Maayo Siya alang nimo,
+Busa tilawi gyud ang Ginoo.</stanza>
+	<stanza type="verse" number="2">Tawga lang S'ya, O Ginoo,
+Ug mag-usab Siya kanimo;
+Hatagan ka's dakong grasya,
+Busa tawga gyud ang Ginoo.</stanza>
+	<stanza type="verse" number="3">Gugmang tinuod mabati mo,
+Sulod sa kasingkasing mo;
+Agay gikan sa Dios mismo,
+Masayran gugmang matuod.</stanza>
+	<stanza type="verse" number="4">Dayga ang Dios nga kinabuhi,
+Nga naa na diha kanimo;
+Gibubo N'ya datong Cristo,
+Busa dayga ang Ginoo!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Rebecca</firstname>
+<lastname>Sykes</lastname>
+<email>rebeccasykes@gmail.com</email>
+<password>$1$/WHq00ZN$amQ.vR3KC1H0X5KrvMUt/1</password>
+<gender>F</gender>
+<country>United Kingdom</country>
+<ipaddress>79.70.178.44</ipaddress>
+<createdate>2009-04-15 17:25:06</createdate>
+<lastupdateddate>2009-09-15 18:29:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lorraine</firstname>
+    <lastname>Jacob</lastname>
+    <email>jacobsilvalorraine@yahoo.com</email>
+    <password>4CrdgJ046e9bzQxoKbK7KA%3D%3D</password>
+    <gender>F</gender>
+    <country>in</country>
+    <ipaddress>122.169.208.179</ipaddress>
+    <createdate>2010-09-26 15:21:59</createdate>
+    <lastupdateddate>2010-09-26 15:56:06</lastupdateddate>
+    <lastlogindate>2010-09-26 15:22:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+        <fav category="default" type="h" num="325">All my life long I had panted</fav>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+        <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Curtis</firstname>
+  <lastname>Hatchell</lastname>
+  <email>curtis.hatchell@gmail.com</email>
+  <password>$2y$10$5Cgch4ZLM3qpwdagv5xtieLJEwQ/Duu8XxTEYUJv/tVMChCHXjdZu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.7.37.20</ipaddress>
+  <createdate>2015-09-21 03:23:25</createdate>
+  <lastupdateddate>2015-09-21 03:33:39</lastupdateddate>
+  <lastlogindate>2015-09-21 03:24:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

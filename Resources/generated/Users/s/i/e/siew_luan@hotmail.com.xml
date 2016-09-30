@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>siew</firstname>
+    <lastname>luan</lastname>
+    <email>siew_luan@hotmail.com</email>
+    <password>qhdSWC5mB9s6FNUtsVSyWw%3D%3D</password>
+    <gender></gender>
+    <country>Malaysia</country>
+    <ipaddress>203.106.151.254</ipaddress>
+    <createdate>2014-04-02 15:27:58</createdate>
+    <lastupdateddate>2014-04-02 15:27:58</lastupdateddate>
+    <lastlogindate>2014-03-10 15:26:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="608">What mystery, the Father, Son, and Spirit</fav>
+        <fav category="default" type="ts" num="211">人活著不是單靠食物</fav>
+        <fav category="default" type="ch" num="447">何等奧祕父子靈</fav>
+        <fav category="default" type="ts" num="601">建造是神的目標</fav>
+        <fav category="default" type="ts" num="603">建造當趁今日</fav>
+        <fav category="default" type="ts" num="602">為你計畫我們獻自己</fav>
+        <fav category="default" type="ts" num="620">父使我們成為一</fav>
+    </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The spirit of the prophet</title>
+  <index>true</index>
+  <category>Meetings&amp;mdash;Functioning</category>
+  <numbers><english num="ns:185"/><vsb num="77"/></numbers>
+  <hymncode>51111122333321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/G - | C - C/E - | G - G/D - | G - G/D - | G - G/D - | G7 - G7/B - | C - C/G - | C - C/G - | C - C/G - | C7 - C7/E - | F - - A/E | Dm - Dm/A Dm | C/G G G/D - | C/G G7 G7/B - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 1/ 1/ 1/ 1/ 1/ 2/ 2/ 3/( | 3/) 3/ 3/ 3/ 2/ 1/( 1/) 1/ | 7_. 7_. 7_./ 1/( 1/) 2/( | 2) - - - (break) | 2/ 2/ 2/ 2/ 2/ 3/( 3/) 3/ | 4 4/ 3/( 3/) 2/( 2/) 2/ | 1/ 1/ 1 1/ 1/ 2/ 3/( | 3) - - - (break) | 5/ 5/ 5/ 5/ 5 5/ 5/( | 5/) 5/ 5/ 5/ 4/ 3/( 3/) 3/ | 2 2/ 2/ 2/ 3/( 3/) 4/( (break) | 4) - - 4/ 4/ | 3( 2) - 4/ 4/ | 3( 2) - 3 | 2.( 1/) 1( - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>The spir -- it of the pro -- phet Is sub -- ject to the pro -- phet; The word de -- clares it so. I don't have to wait for an in -- spir -- a -- tion, My spir -- it is rea -- dy to go. I don't have to live ac -- cord -- ing to my feel -- ings, Or wait for a bet -- ter day. I can turn, I can call, "Lord Je -- sus!"</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Corinthians 14:32</link>
+  </links>
+  <music>
+    <midi location="ns" length="43">ns0185.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The spirit of the prophet
+Is subject to the prophet;
+The word declares it so.
+I don't have to wait for an inspiration,
+My spirit is ready to go.
+I don't have to live according to my feelings,
+Or wait for a better day.
+I can turn, I can call, "Lord Jesus!"</stanza>
+  </lyrics>
+</hymn>

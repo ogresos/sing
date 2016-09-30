@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gilansang nang daang tawo uban N'ya</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA PERSONA NATO</category>
+  <numbers><cebuano num="1179"/><english num="1179"/><german num="1179"/><russian num="465"/><spanish num="250"/></numbers>
+  <melody>| 0 - - 5 | ._1. ._1/ 7 6 | 6/ 5/ 4#/ 5/ 3. 5/ (break) | 5 2 3. 4/ | 6/ 5/ 4#/ 5/ 3. 5/ (break) | ._1. ._1/ ._2/ ._1/ 7/ 6/ | 6 ._1 5. 5/ (break) | ._1. ._1/ ._2. ._2/ | ._3 ._3 ._4/ ._3/ ._2/ ._1/ | ._1 - 7 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="154"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gilansang nang daang tawo uban N'ya,
+Uban's bahong kadunot niini;
+Gilubong halasnong kinaiya,
+Dakong kamat'oran natapos na,
+Hawiran ta.</stanza>
+	<stanza type="verse" number="2">Karon may Persona's espiritu,
+Ikatandi sa batang masuso;
+Magtubo's lunsayng gatas sa Pulong,
+Tawo sa sulod magmadaugon
+Mag-angkon nako.</stanza>
+	<stanza type="verse" number="3">Sa kasingkasing S'ya manag-iya,
+Sa tanang bahin mag-una gyud S'ya.
+Bisan samokon's kanhing agalon,
+Hunahuna, pagbati, sudlon Mo,
+Dawaton ko.</stanza>
+	<stanza type="verse" number="4">Masagol, mausa's espiritu,
+Ug mahiusa ang Dios ug tawo;
+Hustong galamhan kinahanglan Mo,
+Aron tibu'k Mong personalidad
+Mapadayag!</stanza>
+	<stanza type="verse" number="5">Kasingkasing ihalad Kanimo,
+Sa tanang paagi mapuy-an Mo;
+Himoang dapit pahulayan Mo,
+Ang buhat's pahiuli mahingpit,
+Sa bag-ong tawo.</stanza>
+  </lyrics>
+</hymn>

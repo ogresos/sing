@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>終日呼喊主</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>11233212315</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>在 早 晨 我 們 呼 喊： 『哦， 主 耶 穌！』 午 間 我 們 呼 喊： 『哦， 主 耶 穌！』 在 晚 上 我 們 呼 喊： 『哦， 主 耶 穌！』 終 日 我 們 呼 喊： 『哦， 主 耶 穌！』 祂 就 住 在 靈 裡 面； 勿 別 處 浪 費 時 間。 讚 美 主！ 讚 美 主！ 哦 …</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0237.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在早晨我們呼喊：
+『哦，主耶穌！』
+午間我們呼喊：
+『哦，主耶穌！』
+在晚上我們呼喊：
+『哦，主耶穌！』
+終日我們呼喊：
+『哦，主耶穌！』
+祂就住在靈裡面；
+勿別處浪費時間。
+讚美主！讚美主！哦…</stanza>
+	<stanza type="verse" number="2">在靈裡呼喊，
+享受祂的豐富；
+在靈裡歎息，
+必能摸著主；
+在靈裡禱告，
+直到焚燒，高昂；
+住在靈裡面，
+必像祂剛強。
+有分祂豐盛生命，
+漸漸變成主榮形。
+榮耀，阿利路亞！
+榮耀歸主名！
+榮耀，阿利路亞！
+榮耀歸主名！</stanza>
+  </lyrics>
+</hymn>

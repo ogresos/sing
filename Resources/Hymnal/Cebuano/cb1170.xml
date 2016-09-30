@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ginoo akong Magbalantay</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA MAGBALANTAY</category>
+  <numbers><cebuano num="1170"/><chinese num="ts:33"/><english num="1170"/><german num="1170"/><russian num="368"/><spanish num="248"/></numbers>
+  <melody>| 0 - 5_. | 1 1 1 | 3 2 1 | 6_. 1( - | 1) - 1 | 2 2 2 | 2( 1) 2 | 3( - - (break) | 3) - 5_. | 1 1 1 | 3 2 1 | 6_. 4( - | 4) - 4 | 3 2 1 | 7_.( 6_.) 7_. | 1( - - (break) | 1) - (Chorus) 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5.( 6/) 5/( 1/) | 3 - 3./ 3// | 2 - 2./ 2// | 2 1 2 | 3.( 2#/ 3/)( 2/)( (break) | 1) - 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5.( 6/) 5/( 1/) | 3 - 3./ 3// | 2 - 2./ 2// | 2 3 2 | 1( - - (break) | 1) - {._1/ ._1/ ._1/} | ._1 - ._1./ ._1// | ._1 7 6 | 5 - 6 | 5 3 {._1/ ._1/ ._1/} | ._1 - ._1./ ._1// | ._1 6 7/ ._1/ | 7( - 6 (break) | 5) - 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5.( 6/) 5/( 1/) | 3 - 3./ 3// | 2 - 2./ 2// | 2 3 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1170"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ginoo akong Magbalantay,
+Ako 'yang gipapahulay,
+Gida' N'ya's tubig nga malinaw,
+O unsa S'ya makatagbaw!</stanza>
+	<stanza type="chorus" number="">Ang kaayo'g kaluoy magsunod gyud
+Kanako sa tanan nga adlaw;
+Ang kaayo'g kaluoy magsunod gyud
+Kanako sa tanan nga adlaw.
+Ug magpuyo ako sa balay sa Ginoo,
+Ug mokaon sa talad nga andam N'ya;
+Ang kaayo'g kaluoy magsunod gyud
+Kanako sa tanan nga adlaw.</stanza>
+	<stanza type="verse" number="2">S'ya mismo akong sibsibanan,
+Tubig sa kapahulayan;
+Mokaon ko sa 'yang kadato,
+Moinom sa Espiritu.</stanza>
+	<stanza type="verse" number="3">Sa kalag ko Siya moayo,
+Hunahuna ko'g pagbuot;
+Maglakaw man ako sa walog,
+Kauban S'ya, way kahadlok.</stanza>
+	<stanza type="verse" number="4">Talad giandam's Magbalantay,
+Atubangan gyud's kaaway;
+Ulo ko gidihogag lana,
+Kopa nag-awas' kalipay!</stanza>
+	<stanza type="verse" number="5">Karon nagpuyo's Iyang balay,
+Nagpa'mulos kaayo's Dios;
+Di ko ikaasoyng kalipay!
+Kalipay ko ang Ginoo!</stanza>
+  </lyrics>
+</hymn>

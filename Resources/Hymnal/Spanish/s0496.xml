@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cuando Jehová hiciere volver la cautividad de Sión</title>
+  <index>true</index>
+  <category>Cantos bíblicos</category>
+  <numbers><chinese num="ts:502"/><english num="1337"/><german num="1337"/><korean num="923"/><spanish num="496"/></numbers>
+  <melody>| 0 1/ 2/ | 3 3/ 3/ | 4 4/ 4/ | 5./ 5// 5/ 5/ | 4/ 3/ 0/ 1// 7_.// (break) | 6_.. 1// 2// | 3. 1// 7_.// | 6_.. 1// 2// | (vv._1,_3,_4,_6) 1( - (break) | 1) (vv._2,_5_only) 1/ 2/ | 3 3/ 3/ | 4 4/ 4/ | 5./ 5// 5/ 5/ | 4/ 3/ 0/ 1// 7_.// | 6_.( 6_.//) 6_.// 1// 2// | 3/ 3/( 3/) 1//( 7_.//) (break) | 6_.( 6_.//) 6_.// 1// 2// | 3. 6_./ | 6_./ 6_./ 1/ 2/ | 3./ 2// 1( (break) | 1.) (Chorus) 5/ (vv._2,_5_only) | 6 - | 0/ 6/ 6//( 5//) 4/ | 5./ 4// 3( | 3.) 3/ | 4( - | 4) 3/ 1/ | 2( - (break) | 2.) 5/ | 6 - | 0/ 6/ 6//( 5//) 4/ | 5./ 4// 3( | 3.) 3/ | 4( - | 4) 4/ 5/ | 5( - | 5) 0 |</melody>
+  <music>
+	<midiref type="h" num="1337"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cuando Jehová hiciere volver la cautividad de Sión,
+Seremos como los que sueñan,
+Seremos como los que sueñan.</stanza>
+	<stanza type="verse" number="2">Entonces nuestra boca se llenará de risa,
+Y de alabanza;
+Entonces dirán entre las naciones:</stanza>
+	<stanza type="chorus" number="">Grandes cosas ha͜ hecho Jehová con éstos.
+Grandes cosas ha͜ hecho Jehová con nosotros;
+Grandes cosas ha͜ hecho Jehová,
+Estaremos alegres.</stanza>
+	<stanza type="verse" number="3">Haz volver nuestra cautividad, oh, Jehová,
+Como los arroyos del Neguev.</stanza>
+	<stanza type="verse" number="4">Los que sembraron con lágrimas segarán
+con regocijo.
+Irá͜ andando͜ y llorando el que lleva
+la preciosa semilla.</stanza>
+	<stanza type="verse" number="5">Mas volverá͜ a venir, a venir con regocijo,
+Trayendo sus gavillas,
+Trayendo sus gavillas.</stanza>
+	<stanza type="chorus" number="">Grandes cosas ha͜ hecho Jehová con éstos.
+Grandes cosas ha͜ hecho Jehová con nosotros;
+Grandes cosas ha͜ hecho Jehová,
+Estaremos alegres.</stanza>
+	<stanza type="verse" number="6">Cuando Jehová hiciere volver la cautividad de Sión,
+Seremos como los que sueñan,
+Seremos como los que sueñan.</stanza>
+  </lyrics>
+</hymn>

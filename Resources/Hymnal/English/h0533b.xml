@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For every sin however deep (Alternate Tune)</title>
+  <category>Experience of Christ&amp;mdash;As the All-Sufficient One</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <numbers><chinese num="387"></chinese><korean num="387"></korean><tagalog num="533"></tagalog></numbers>
+  <meter>8.8.8.6.</meter>
+  <hymncode>3434332154565765</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C/G - Am - | C/E - - - | G/D D7 G - | F - Dm - | Am F C/G G7/F | C/E - G7 - | C F/C C - |</chords>
+  <melody>| 3 4/ 3/ 4 3 | 3. 2/ 1 - | 5 4#/ 5/ 6 5 | 7. 6/ 5 - (break) | 6 4/ 3/ 2 ._2 | ._1 6/( 4/) 3( 2) | 1 7_./ 1/ 5. 7_./ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>For ev -- ery sin how -- ev -- er deep, For ev -- ery path how -- ev -- er steep, For all the wea -- ry ones who weep, Thou art suf -- fi -- cient, Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj057.xml</link>
+    <link type="relevant" category="h" num="533" />
+  </links>
+  <music>
+    <midi location="h" length="20">e0533b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">For every sin however deep,
+For every path however steep,
+For all the weary ones who weep,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="2">For every trial great or small,
+For every care that would appall,
+For all the stumbling feet that fall,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="3">When earthly things bring sweet delight,
+When all is well, and skies are bright,
+When ease would cloud the heavenly light,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="4">When sorrow darkens all the day,
+When disappointments bar the way,
+When hearts are numb and cannot pray,
+  Thou art sufficient, Lord.</stanza>
+    <stanza type="verse" number="5">Whate'er my circumstances be,
+Help me in all Thy hand to see,
+So wilt Thou then be unto me,
+  My all-sufficient Lord.</stanza>
+  </lyrics>
+</hymn>

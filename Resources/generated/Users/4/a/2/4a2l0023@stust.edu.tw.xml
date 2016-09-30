@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>邱瑋文</firstname>
+  <lastname/>
+  <email>4a2l0023@stust.edu.tw</email>
+  <password>$2y$10$pu1SP0ykTJ/XeSDW3cqgmO.rmfESiGtPczB6BDokwdiQCPWRuvnSS</password>
+  <gender/>
+  <country>tg</country>
+  <ipaddress>218.164.99.193</ipaddress>
+  <createdate>2014-08-10 05:49:09</createdate>
+  <lastupdateddate>2014-08-10 05:49:58</lastupdateddate>
+  <lastlogindate>2014-08-10 05:49:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="461">十架窄路</fav>
+  </favourites>
+</user>

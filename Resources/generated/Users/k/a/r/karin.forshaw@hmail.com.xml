@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>karin</firstname>
+    <lastname>forshaw</lastname>
+    <email>karin.forshaw@hmail.com</email>
+    <password>WHJrwG7d%2F4sdVvENkgu5LQ%3D%3D</password>
+    <gender></gender>
+    <country>South Africa</country>
+    <ipaddress>41.208.48.201</ipaddress>
+    <createdate>2013-05-19 11:05:12</createdate>
+    <lastupdateddate>2013-05-20 01:35:28</lastupdateddate>
+    <lastlogindate>2013-05-19 11:05:12</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="300">Arise, my soul, arise</fav>
+        <fav category="default" type="h" num="650">O doubting, struggling Christian</fav>
+        <fav category="default" type="h" num="651">When is the time to trust</fav>
+    </favourites>
+</user>

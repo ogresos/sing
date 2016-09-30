@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>為我荊棘冠冕你肯</title>
+  <index>true</index>
+  <category>奉獻－全都獻主</category>
+  <numbers><cebuano num="445"/><chinese num="339"/><english num="1359"/><german num="445"/><korean num="339"/><portuguese num="205"/><russian num="84"/><spanish num="192"/><tagalog num="1359"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="www.hymns.net/stories/havergal.htm">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <meter>7.7.7.7. with repeat.</meter>
+  <hymncode>33365132226523</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | C - - - | C - - - | F - - - | C/G - G7 - | C - C7 - | F - - - | C - Am - | F - - - | Gsus4 - G7 - | C - - - | F - C - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 3 3 3./ 6// 5./ 1// | 3 - - 0 | 2 2 2./ 6// 5./ 2// | 3 - - 0 (break) | 5 5 5./ 5// ._1./ 7// | 6 - - 0 | 5 5 5./ 5// 6./ 7// | ._1 - - 0 (break) | (Chorus) 6./ 6// 6./ 6// 6./ ._1// 7./ 6// | 5 - - 0 | 6./ 6// 6./ 6// 6./ ._1// 7./ 6// | 5 - - 0 (break) | ._1./ ._1// ._1./ ._1// ._1. 5/ | 6./ 6// 6./ 6// 5 - | 3 3 5./ 5// 4./ 2// | 1 - - 0 ||</melody>
+  <layout>
+	<singingstanza>主， 你 得 著 我 一 生， 使 牠 歸 你 成 為 聖； 得 著 我 日 與 我 時， 歸 你 使 用 永 無 止。 為 我 荊 棘 冠 冕 你 肯 戴， 為 我 釘 死 苦 架 你 受 害； 為 你 我 願 獻 上 我 命 與 我 愛， 事 你、 愛 你 到 萬 代。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="38">c0339_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，你得著我一生，
+使牠歸你成為聖；
+得著我日與我時，
+歸你使用永無止。</stanza>
+	<stanza type="chorus" number="">為我荊棘冠冕你肯戴，
+為我釘死苦架你受害；
+為你我願獻上
+我命與我愛，
+事你、愛你到萬代。</stanza>
+	<stanza type="verse" number="2">得著我手與我足，
+勤作你工，奔你路；
+得著我口與我舌，
+傳揚你話，頌你德。</stanza>
+	<stanza type="verse" number="3">得著我金與我銀，
+分文不由我留存；
+得著我才與我智，
+運用全照你指示。</stanza>
+	<stanza type="verse" number="4">得著我心與我意，
+全歸於你不他依；
+得著我愛與我情，
+全注於你不別傾。</stanza>
+	<stanza type="verse" number="5">主，你得著我一切，
+我願與你永聯結，
+愛你、念你、事奉你，
+永遠失去在你裡。</stanza>
+  </lyrics>
+</hymn>

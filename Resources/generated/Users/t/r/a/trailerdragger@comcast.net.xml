@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Bob</firstname>
+    <lastname>Holmes</lastname>
+    <email>trailerdragger@comcast.net</email>
+    <password>$1$NyEszDPd$6Q9c9S9KghFicYr7Uw2iH.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>68.41.241.224</ipaddress>
+    <createdate>2014-03-15 19:34:33</createdate>
+    <lastupdateddate>2014-03-15 19:34:33</lastupdateddate>
+    <lastlogindate>2014-03-15 19:34:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+    </favourites>
+</user>

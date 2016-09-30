@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anong ganda ng Iyong yapak</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG BUHAY</category>
+  <numbers><chinese num="78*"/><english num="89"/><korean num="78*"/><tagalog num="89"/></numbers>
+  <creators>
+    <author biodate="1796-1889" biolink="">Translated from Edward Denny</author>
+  </creators>
+  <music>
+    <midiref type="h" num="89"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Anong ganda ng Iyong yapak
+Dito'y Iyong tinahak!
+Sa gitna ng Iyong dinanas
+Pag-ibig namalas.</stanza>
+    <stanza type="verse" number="2">Sa pusong nabibigatan,
+At may kalungkutan;
+Di narinig mula sa Iyo
+An'mang pagreklamo.</stanza>
+    <stanza type="verse" number="3">Kaaway sa Iyo'y namuhi,
+Kaibigan Mo'y imbi;
+Di namagod magpatawad,
+Pag-ibig ang hangad.</stanza>
+  </lyrics>
+</hymn>

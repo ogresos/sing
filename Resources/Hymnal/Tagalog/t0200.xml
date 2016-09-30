@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Araw ng katuwiran Ka</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KASAKLAWAN</category>
+  <numbers><cebuano num="200"/><chinese num="156"/><english num="200"/><german num="200"/><korean num="156"/><portuguese num="108"/><russian num="508"/><tagalog num="200"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5_. | 3 - 2 | 1 - 7_. | 7_.( 6_.) 1 | 5_. - 5 | 5( 4) 3 | 3( 2) 1 | 1( 7_.) 5_. (break) | 3 - 2 | 1 - 7_. | 7_. 6_. 1 | 5_. - 5 | 5( 4) 2 | 1( 3) 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="200"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Araw ng katuwiran Ka,
+Pakpak panlunas pa;
+Mal'walhati Mong pagsilay,
+May payapa't buhay.</stanza>
+	<stanza type="verse" number="2">Diyos ng pag-ibig at awa,
+Pinaparito Ka;
+Nang mga sa kadiliman,
+Iyong maliwanagan.</stanza>
+	<stanza type="verse" number="3">Umagang walang ulap Ka.
+Sinag ng umaga;
+Kami'y gayang lunting damo
+Sa Iyo lumalago.</stanza>
+	<stanza type="verse" number="4">Magiliw na pagsilay Mo,
+Sinikatan ako;
+Patungo ang pagliwanag,
+Sa tanghaling tapat.</stanza>
+	<stanza type="verse" number="5">Ang pagsilay ng liwanag,
+Nilampasang hirap;
+Dala'y pag-ibig at habag,
+Tuloy na pagsikat.</stanza>
+	<stanza type="verse" number="6">Ika'y tala sa umaga
+Aming gantimpala;
+Sinilayan, mga sa Iyo
+Umibig nang husto.</stanza>
+	<stanza type="verse" number="7">Sa liwanag paibigin,
+Mata ko'y linawin;
+Magbantay at manalangin,
+Ikaw ay hintayin.</stanza>
+  </lyrics>
+</hymn>

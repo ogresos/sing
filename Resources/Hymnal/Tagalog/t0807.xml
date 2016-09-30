@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Iyong buksan ang aking mata</title>
+  <index>true</index>
+  <category>PAG-AARAL NG SALITA&amp;mdash;NAGHAHANAP SA SALITA</category>
+  <numbers><chinese num="328"/><english num="807"/><korean num="328"/><tagalog num="807"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Clara H. Scott</author>
+  </creators>
+  <music>
+    <midiref type="h" num="807"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Iyong buksan ang aking mata,
+Katotohana'y makita;
+Bin'gay susing kahanga-hanga,
+Sa aki'y magpapalaya.</stanza>
+    <stanza type="chorus" number="">Tahimik naghintay ako,
+Handang tingnan kalo'ban Mo;
+Bigyang ilaw paningin ko,
+O 'Spiritu!</stanza>
+    <stanza type="verse" number="2">Pandinig ko ay Iyong buksan,
+Marinig katotohanan;
+Habang binubulungan ako,
+Lahat na h'wad maglalaho.</stanza>
+    <stanza type="verse" number="3">Aking bibig ay buksan Mo,
+Ilahad ang ebanghelyo;
+Buksan puso ko't maghahanda,
+Pag-ibig Mo'y ibahagi nga.</stanza>
+    <stanza type="verse" number="4">Buksan Mo ang aking isip,
+Pag-ibig Mo ay malirip;
+Ano pa ang aking pangamba,
+Habang Ika'y nangunguna?</stanza>
+  </lyrics>
+</hymn>

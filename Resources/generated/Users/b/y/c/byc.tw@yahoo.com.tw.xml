@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Ty</firstname>
+    <lastname>Chen</lastname>
+    <email>byc.tw@yahoo.com.tw</email>
+    <password>p18cEge3m6%2Fp1mWEktVBzQ%3D%3D</password>
+    <gender>M</gender>
+    <country>tw</country>
+    <ipaddress>61.62.230.107</ipaddress>
+    <createdate>2011-01-11 01:04:18</createdate>
+    <lastupdateddate>2011-06-09 08:17:52</lastupdateddate>
+    <lastlogindate>2011-05-26 10:25:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="16">Nothing compares to You</fav>
+        <fav category="default" type="ch" num="446">我的居所乃是神的</fav>
+    </favourites>
+</user>

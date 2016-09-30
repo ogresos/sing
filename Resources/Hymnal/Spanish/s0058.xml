@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>La tumba le encerro</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su resurección</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">La tumba le͜ encerró,
+Cristo, mi Cristo;
+El alba͜ allí͜ esperó,
+Cristo͜ el Señor.</stanza>
+    <stanza type="chorus" number="">Cristo la tumba venció,
+Y con gran poder resucitó;
+Del sepulcro͜ y muerte
+Cristo͜ es vencedor,
+Vive para siempre nuestro 
+Salvador;
+¡Gloria a Dios!
+¡Gloria a Dios!
+El Señor resucitó.</stanza>
+    <stanza type="verse" number="2">De guardas escapó,
+Cristo, mi Cristo;
+El sello destruyó,
+Cristo͜ el Señor.</stanza>
+    <stanza type="verse" number="3">La muerte dominó,
+Cristo, mi Cristo;
+Y su poder venció,
+Cristo͜ el Señor.</stanza>
+  </lyrics>
+</hymn>

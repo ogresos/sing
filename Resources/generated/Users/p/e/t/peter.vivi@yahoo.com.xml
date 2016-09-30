@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Peter</firstname>
+  <lastname/>
+  <email>peter.vivi@yahoo.com</email>
+  <password>$2y$10$auU2aTqAkSnrw8pmZUMlIu0Zv8Hxsey1z6RxPSuNhsq016wDgkeZy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.31.216.236</ipaddress>
+  <createdate>2014-07-19 22:41:17</createdate>
+  <lastupdateddate>2016-08-10 05:20:58</lastupdateddate>
+  <lastlogindate>2016-08-07 23:53:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+    <fav category="default" type="h" num="267">Fill me with Thy gracious Spirit</fav>
+    <fav category="default" type="h" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    <fav category="default" type="nt" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="h" num="523">I have come to the Fountain of Life</fav>
+    <fav category="default" type="ns" num="294">Jesus Christ, You are the Man-Savior</fav>
+    <fav category="default" type="lb" num="27">Let's go on</fav>
+    <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+    <fav category="default" type="lb" num="18">Lord, I've set my heart</fav>
+    <fav category="default" type="ns" num="194">Lord, You are the living spring</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="ns" num="221">More of our heart</fav>
+    <fav category="default" type="ns" num="169">Morning dawn had arisen</fav>
+    <fav category="default" type="nt" num="350">My goal is God Himself</fav>
+    <fav category="default" type="nt" num="350b">My goal is God Himself (Alternate)</fav>
+    <fav category="default" type="ns" num="544">O Lord, You Know What's in My Heart</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="ns" num="81">Reigning life</fav>
+    <fav category="default" type="h" num="251">Rivers of living water</fav>
+    <fav category="default" type="ns" num="518">Simon, son of John</fav>
+    <fav category="default" type="nt" num="374">Sun of my soul, Thou Savior dear</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="1107">We're gathered here, O Lord, as Thy one Body</fav>
+    <fav category="default" type="h" num="1103">What He is: He's the Father</fav>
+  </favourites>
+</user>

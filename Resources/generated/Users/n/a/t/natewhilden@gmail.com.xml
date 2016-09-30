@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nate</firstname>
+  <lastname>Whilden</lastname>
+  <email>natewhilden@gmail.com</email>
+  <password>$2y$10$2wJfU.o.N2iwBfoP7IvvbuyW662huQdB2yWoQo9obgyC7wvErBsxm</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>70.177.160.164</ipaddress>
+  <createdate>2009-10-10 01:15:11</createdate>
+  <lastupdateddate>2015-08-25 17:44:01</lastupdateddate>
+  <lastlogindate>2015-08-25 17:44:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1343">A new commandment</fav>
+    <fav category="default" type="c" num="93">All Scripture is God-breathed</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="163b">O for a thousand tongues to sing (Alternate Tune)</fav>
+  </favourites>
+</user>

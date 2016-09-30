@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tu reino amo, oh, Dios</title>
+  <index>true</index>
+  <category>La iglesia&amp;mdash;Su atracción</category>
+  <numbers><chinese num="ts:753"/><english num="853"/><russian num="430"/><spanish num="366"/></numbers>
+  <creators>
+    <author biodate="1752-1817" biolink="">Translated from Timothy Dwight</author>
+  </creators>
+  <music>
+    <midiref type="h" num="853"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Tu reino amo,͜ oh, Dios!
+Tu casa y͜ expresión,
+El pueblo que͜ en Jesús halló
+Completa redención,</stanza>
+    <stanza type="verse" number="2">Tu͜ iglesia, mi Señor,
+Tu templo, Tu hogar,
+La͜ iglesia que guiando͜ estás
+Con mano paternal.</stanza>
+    <stanza type="verse" number="3">Por ella mi͜ oración,
+Mis lágrimas, mi͜ amor,
+Solicitud, cuidado,͜ afán,
+Por ella son, Señor.</stanza>
+    <stanza type="verse" number="4">Un gozo sin igual
+En Sion hallado͜ está,
+Y͜ andando͜ aquí su comunión
+Anhelo disfrutar.</stanza>
+    <stanza type="verse" number="5">Ella perdurará,
+Oh Dios, cual Tu verdad,
+Y victoriosa llegará
+Hasta la͜ eternidad.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stephanus</firstname>
+  <lastname>Theron</lastname>
+  <email>satheron@gmail.com</email>
+  <password>$2y$10$aP9wPDRjuMTXTDgXztiPfOgRWTH74xaPrLzB2XFvNqa7uRgIHMwLu</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>41.192.255.123</ipaddress>
+  <createdate>2016-02-01 08:00:50</createdate>
+  <lastupdateddate>2016-03-05 16:22:39</lastupdateddate>
+  <lastlogindate>2016-03-05 16:22:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

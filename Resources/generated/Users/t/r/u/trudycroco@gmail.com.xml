@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Trudy</firstname>
+  <lastname>Croco</lastname>
+  <email>trudycroco@gmail.com</email>
+  <password>$2y$10$EJDqYdyFD9JQG1J.ikDEBui1x.66p7Uzv357kn4rJDulinb8CFIUO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.100.170.70</ipaddress>
+  <createdate>2016-02-24 19:41:02</createdate>
+  <lastupdateddate>2016-02-24 19:56:43</lastupdateddate>
+  <lastlogindate>2016-02-24 19:41:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="27">Before God put the leaves on the trees</fav>
+    <fav category="default" type="c" num="68">By listening I can obey</fav>
+    <fav category="default" type="c" num="37">Heaven's for earth</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="126">If You Want a Great Big Smile</fav>
+    <fav category="default" type="c" num="14">In the ten commandments</fav>
+    <fav category="default" type="c" num="69">Listen, listen your conscience speaks to you</fav>
+    <fav category="default" type="c" num="49">People like to know</fav>
+    <fav category="default" type="c" num="63">The fish need water</fav>
+    <fav category="default" type="c" num="32">There's a part inside of me</fav>
+    <fav category="default" type="c" num="50">You can train a dog to shake hands for fun</fav>
+  </favourites>
+</user>

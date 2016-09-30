@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Henrich</firstname>
+  <lastname>Brockhaus</lastname>
+  <email>henrich.brockhaus@wwu.edu</email>
+  <password>$2y$10$Mj.dwFQPNWS4zLUe1C13FuvZDF6jO9ikZm/5seywwWZ0qNK3bSgbK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>97.113.122.56</ipaddress>
+  <createdate>2014-10-07 16:12:12</createdate>
+  <lastupdateddate>2016-02-15 18:04:57</lastupdateddate>
+  <lastlogindate>2016-02-15 18:04:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="689">O child of the Kingdom in doubt and distress</fav>
+  </favourites>
+</user>

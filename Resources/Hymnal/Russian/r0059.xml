@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Надеюсь только на Христа</title>
+  <index>true</index>
+  <category>УВЕРЕННОСТЬ И РАДОСТЬ СПАСЕНИЯ&amp;mdash;ОПРАВДАНИЕ В ХРИСТЕ</category>
+  <numbers><cebuano num="298"/><chinese num="238"/><english num="298"/><korean num="238"/><russian num="59"/><spanish num="142"/><tagalog num="298"/></numbers>
+  <creators>
+    <author biodate="1797-1874" biolink="">Translated from Edward Mote</author>
+  </creators>
+  <melody>| 0 - 5_. | 1/ 3/ 5 3 | 3/ 2/ 2 3 | 4/ 4/ 4 2 | 1/ 7_./ 1 5_. (break) | 1/ 3/ 5 3 | 3/ 2/ 2 3 | 4/ 4/ 4 2 (break) | 1/ 7_./ 1 (Chorus) 5 | 5/ 5/ 5 5 | 6/ 6/ 6 6 | 5/ 3/ 3 1 | 3/ 3/ 2 5_. (break) | 1/ 1/ 1 3 | 2/ 2/ (.1 0 |</melody>
+  <layout>
+    <singingstanza>На -- де -- юсь толь -- ко на Хри -- ста, Во -- век о -- по -- ра в_Нём мо -- я; В_Нём ви -- жу пра -- вед -- ность сво -- ю, И -- ных и -- мён не при -- зна -- ю.  Сто -- ю я на ска -- ле Хри -- ста; В_дру -- гих ос -- но -- вах лишь пе -- сок, В_дру -- гих ос -- но -- вах лишь пе -- сок.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="298"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Надеюсь только на Христа,
+Вовек опора в Нём моя;
+В Нём вижу праведность свою,
+Иных имён не признаю.</stanza>
+    <stanza type="chorus" number="">Стою я на скале Христа;
+В других основах лишь песок,
+В других основах лишь песок.</stanza>
+    <stanza type="verse" number="2">Лицо ль Его сокроет мгла
+Среди волнений, бурь и зла?
+Я благодатию креплюсь,
+На якоре Его держусь.</stanza>
+    <stanza type="verse" number="3">Его святой крови завет
+Хранит меня в потоках бед;
+Когда всё рушится кругом,
+Я нахожу опору в Нём.</stanza>
+    <stanza type="verse" number="4">Когда ж со славой Он придёт,
+Пусть верным Он меня найдёт,
+Одетым в праведность, святым,
+Чтоб без пятна предстать пред Ним.</stanza>
+  </lyrics>
+</hymn>

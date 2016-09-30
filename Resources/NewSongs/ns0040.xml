@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord Jesus, draw me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For a Closer Walk with Christ</category>
+  <hymncode>176656535</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>110</tempo>
+  <chords>| Am - - | Em - - | F - G | C - - | Am - - | G/B - - | C - - | G - - | C - - | E7 - - | Am - - | Em - - | F - - | G - - | F/C - - | C - - |</chords>
+  <melody>| 1 7_. 6_. | 6_. 5_. - | 6_. - 5_. | 3_. 5_. - | 1 6_. 1 | 2 7_. 2 | 3.( 4/ 3 | 2) - - | 5 4 3 | 2 3 4 | 3( 6_. 1) | 7_. - - | 1 1 3 | 2 1 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Lord Je -- sus, draw me one step fur -- ther; Draw me, Lord from where I am. I've been here too long al -- read -- y. Move me, Lord, I know You can.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">cd-come_away.xml</link>
+    <link type="orderinfo" url="http://www.churchinnewington.org"></link>
+  </links>
+  <music>
+    <midi location="ns" length="27">ns0040.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord Jesus, draw me one step further;
+Draw me, Lord from where I am.
+I've been here too long already.
+Move me, Lord, I know You can.</stanza>
+    <stanza type="verse" number="2">Your whisper, Lord, so softly sounding,
+Deep within my heart does burn.
+Let Your stillness now subdue me
+That Your feeling I discern.</stanza>
+    <stanza type="verse" number="3">All idle thoughts and impure feelings,
+Lord, remove from mind and heart.
+Wash me in the crystal water
+And more life to me impart.</stanza>
+    <stanza type="verse" number="4">All hidden things that block my vision,
+Rocks of self-ambition, pride;
+Now expose and burn away, Lord
+By Your look intensified.</stanza>
+    <stanza type="verse" number="5">Increase the weight of glory in me,
+Let Your Spirit now transform,
+That all things would not be wasted
+But would work to save me more.</stanza>
+    <stanza type="verse" number="6">Lord Jesus, oh how much I need You!
+Thank You, Lord, that You are here,
+Ever present as the Body.
+I would always seek You there.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We are one in the spirit, by His life we are one</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Oneness</category>
+  <numbers><chinese num="ts:626"/><english num="1243"/><spanish num="355"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3566561356656</hymncode>
+  <key>F Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - - - | Am - - - | Am - - - | Dm - - - | Am - - - | Dm - - - | Am - - - | Am - - - | Am - Dm - | Am/E - Dm - | Am - - - | Dm - - - | Am - - - |</chords>
+  <melody>| 0 - - 3_./ 5_./ | 6_. 6_./ 5_./ 6_./ 1/ 3_./ 5_./ | 6_. 6_./ 5_./ 6_. 6_./ 3/ | 2 2/ 1/ 2/ 1/ 6_./ 5_./ (break) | 6_. 6_./ 5_./ 6_. 6_./ 3/ | 2 2/ 1/ 2/ 1/ 6_./ 5_./ | 6_. 6_./ 5_./ 6_. (Bro:) 3_./ 5_./ | 6_. 6_./ 5_./ 6_./ 1/ 3_./ 5_./ | 6_. 6_./ 1/ 2 (Sis:) 1/ 2/ | 3/( 2/) 1/ 6_./ 2/ 1/ 6_./ 5_./ (break) | 6_. 6_./ 5_./ 6_. (All:) 6_./ 3/ | 2/ 2/ 2/ 1/ 2/ 1/ 6_./ 5_./ | 6_. 6_./ 5_./ 6_. 0 |</melody>
+  <layout>
+    <singingstanza>We are one in the spir -- it, by His life we are one, We have left all di -- vi -- sions, Bod -- y- -- life has be -- gun, For the Lord broke all bar -- riers, pro -- claim -- ing, "It is done." In the church we are broth -- ers, Praise the Lord, praise the Lord! In the church we are sis -- ters, Praise the Lord, praise the Lord! And we praise Him that our u -- ni -- ty has now been re -- stored.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj209.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="27">e1243.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We are one in the spirit, by His life we are one,
+We have left all divisions, Body-life has begun,
+For the Lord broke all barriers, proclaiming,
+  "It is done."</stanza>
+    <stanza type="chorus" number="">Brothers:
+In the church we are brothers,
+Praise the Lord, praise the Lord!
+
+Sisters:
+In the church we are sisters,
+Praise the Lord, praise the Lord!
+  (Praise the Lord!)
+
+Everyone:
+And we praise Him that our unity
+  has now been restored.</stanza>
+    <stanza type="verse" number="2">We are one in the spirit, yet it goes deeper still,
+For this oneness is spreading to our mind, emotion, will,
+As we all stand together that His purpose He fulfill.</stanza>
+    <stanza type="verse" number="3">We are one in the spirit, we are one actually,
+Not in talk nor in theory, but in fact, practically,
+In the churches we're all enjoying this reality.</stanza>
+    <stanza type="verse" number="4">We are one in the spirit in each locality,
+For the Lord's own intention we would consecrated be,
+That the oneness He's given us the whole world may see.</stanza>
+  </lyrics>
+</hymn>

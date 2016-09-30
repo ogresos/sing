@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>愛中牧養</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:344"/><english num="ns:359"/></numbers>
+  <melody>| 0 - - 3/ 4/ | 5( - 5/) 5/ ._1/ 7/ | 6. 5/ 4 2/ 3/ | 4( - 4/) 2/ 5/ 4/ (break) | 3 - - 3/ 4/ | 5( - 5/) 5/ 3/ 5/ | 4 - - 2/ 3/ | 4( - 4/) 4/ 3/ 2/ (break) | 1 - - 5/ 5/ | ._1( - ._1/) ._1/ 5/ 3/ | 6 - - 6/ 6/ | ._2( - ._2/) ._1/ ._2/ ._1/ (break) | 7( - 7/) 7/ 6/ 5/ | ._3( - ._3/) ._3/ ._2/ ._1/ | 6 - - 6/ 6/ | 5( - 5/) 5/ ._1/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>祂 尋 我 如 同 尋 找 迷 羊， 祂 贖 我 捨 了 性 命； 使 我 能 得 祂 生 命， 經 歷 祂 享 受 不 盡。 哦， 我 主， 我 真 愛 你， 不 自 禁 消 失 你 裡， 因 你 的 愛 困 迫 激 勵， 願 一 生 奉 獻 給 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="359"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂尋我如同尋找迷羊，
+祂贖我捨了性命；
+使我能得祂生命，
+經歷祂享受不盡。
+哦，我主，我真愛你，
+不自禁消失你裡，
+因你的愛困迫激勵，
+願一生奉獻給你。</stanza>
+	<stanza type="verse" number="2">你甘美如草場、如溪水，
+我甦醒來走義路；
+憑信心生活有力，
+引導我能活出義。
+但世界時來攪擾，
+世代流行如浪潮，
+而你的愛永不動搖，
+牧養顧惜不減少。</stanza>
+	<stanza type="verse" number="3">忽不覺你寶貴的同在，
+摸不著可愛的你，
+我的心不住猶疑，
+你杖竿安慰不已。
+深領會憑信而活，
+我牧人引我行走，
+面對仇敵享你筵席，
+真經歷福杯滿溢。</stanza>
+	<stanza type="verse" number="4">我牧長，我願意跟隨你，
+牧養你託付羊群，
+體貼你心中美意，
+永遠活在經綸裡。
+哦，我主，我感謝你，
+你恩慈隨我不離，
+願永住在你的殿裡，
+彰顯你榮耀身體。</stanza>
+  </lyrics>
+</hymn>

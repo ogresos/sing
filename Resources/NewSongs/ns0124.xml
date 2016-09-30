@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Calling, O Lord Jesus</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><chinese num="ts:233"/><english num="ns:124"/></numbers>
+  <hymncode>3333213333217</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | C - - - | G - - - | Dm - - - | G7 - - - | C - - - | C - - - | C7 - - - | F - - - | Fm - - - | C/G - Am - | Dm - G7 - | F/C - - - | C - - - |</chords>
+  <melody>| 3/ 3/ 3/ 3/ 2 1 | 3/ 3/ 3/ 3/ 2 1 | 7_. - - - (break) | 4/ 4/ 4/ 4/ 3 2 | 4/ 4/ 4/ 4/ 3 2 | 1 - - 1 (break) | 3/ 3/( 3/) 3/ 2 1/ 1/ | 3 3/ 3/ 2/ 1/( 1/) 1/ (break) | 4 4/ 4/ 6_. 1/ 1/ | 4 4/ 4/ 5/ 4/( 4) (break) | 3/ 3/ 3/ 3/ 2 1 | 2/ 2/ 2/ 2/ 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Call -- ing, "O Lord Je -- sus!" Oh, it makes our spir -- it strong! We can real -- ly touch Him, And our gloom is turned to song! Don't lis -- ten to Sa -- tan, with all His dis -- trac -- tion; Just turn to your spir -- it, and spring in -- to ac -- tion! Call -- ing, "O Lord Je -- sus!" You'll en -- joy Him all day long!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="27">ns0124.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Calling, "O Lord Jesus!"
+Oh, it makes our spirit strong!
+We can really touch Him,
+And our gloom is turned to song!
+Don't listen to Satan, with all His distraction;
+Just turn to your spirit, and spring into action!
+Calling, "O Lord Jesus!"
+You'll enjoy Him all day long!</stanza>
+  </lyrics>
+</hymn>

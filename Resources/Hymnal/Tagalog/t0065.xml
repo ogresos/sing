@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus, ang pangalan</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PANGALAN</category>
+  <numbers><cebuano num="65"/><chinese num="60"/><english num="65"/><german num="65"/><korean num="60"/><portuguese num="44"/><russian num="396"/><spanish num="37"/><tagalog num="65"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 3 - 2 1 | 1. 6_./ 6_. - | 5_. - 1 3 | 2 - - - (break) | 3 - 2 1 | 1. 6_./ 6_. - | 5_.( 1) 7_. 2 | 1 - - - (break) | 5 - 6 5 | 5. 3/ 5 - | 5 - 6 5 | 5. 3/ 2 - (break) | 3 - 2 1 | 1. 6_./ 6_. - | 5_.( 1) 7_. 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="65"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hesus, ang pangalan,
+Aming mahal;
+Kataas-taasan,
+Ngalang Hesus!
+Lahat Ka sa amin,
+Buhay at mana rin,
+Hindi kakapusin,
+Panginoon!</stanza>
+	<stanza type="verse" number="2">Nagkatawang-tao
+O Hesus ko,
+Sa krus ipinako,
+Doo'y nagdugo!
+Dakilang pagsinta,
+Pagtubos ganap na,
+Walang kapantay Ka,
+Panginoon!</stanza>
+	<stanza type="verse" number="3">Ikaw ang nagbigay
+Ng buhay ko,
+At aking tagumpay
+Buhat sa Iyo!
+Takot pa ba ako
+Sa dusa, demonyo?
+Ika'y Taga-alo,
+Panginoon!</stanza>
+	<stanza type="verse" number="4">Babalik Kang muli,
+Hesus namin!
+Mangagalak kami
+Sa Iyong pagdating!
+Magkikita-kita,
+Makawangis Mo pa,
+Lagi Kang kasama,
+Panginoon!</stanza>
+  </lyrics>
+</hymn>

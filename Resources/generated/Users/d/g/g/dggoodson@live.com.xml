@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Goodson</lastname>
+  <email>dggoodson@live.com</email>
+  <password>$2y$10$y3cotKiO/Ep.bnOuZMIZd.5RPdWrjepfJx7QPgW59HaYjFBNApV8q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.45.114.3</ipaddress>
+  <createdate>2016-03-28 13:05:25</createdate>
+  <lastupdateddate>2016-03-28 13:06:26</lastupdateddate>
+  <lastlogindate>2016-03-28 13:06:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

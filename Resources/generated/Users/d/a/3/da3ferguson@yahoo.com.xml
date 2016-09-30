@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dawn A.</firstname>
+  <lastname>Ferguson</lastname>
+  <email>da3ferguson@yahoo.com</email>
+  <password>$2y$10$97h2YU9UK4ui0yqa.XL4Xe2Ej/Z6uBBuTV8ovUDzW94oh0uYf8V7u</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.215.120.74</ipaddress>
+  <createdate>2016-06-30 19:08:39</createdate>
+  <lastupdateddate>2016-06-30 19:11:33</lastupdateddate>
+  <lastlogindate>2016-06-30 19:09:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+  </favourites>
+</user>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Libre des craintes et des angoisses</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;libérés par le Seigneur</category>
+  <numbers><cebuano num="310"/><chinese num="246"/><english num="310"/><french num="61"/><german num="310"/><korean num="246"/><portuguese num="173"/><russian num="65"/><spanish num="153"/><tagalog num="310"/></numbers>
+  <creators>
+	<author biodate="1885-1959" biolink="">Translated from Haldor Lillenas</author>
+  </creators>
+  <melody>| 0 - - 5/ 6/ 5/ | 3. 1. 2/ 1/ 2/ | 3. 5. 5/ 6/ 5/ | 3. 1. 3/ 2/ 1/ (break) | 2.( 2.) 5/ 6/ 5/ | 3. 1. 2/ 1/ 2/ | 3. 5. ._1/ 7/ 6/ | 5. 3. 2/ 1/ 2/ (break) | 1.( 1.) (Chorus) ._1/ ._1/ ._1/ | ._1. 5. ._1/ ._1/ ._1/ | ._1. 6. 5/ 6/ 5/ | 3. 1. 3/ 2/ 1/ (break) | 2.( 2.) 5/ 6/ 5/ | 3. 1. 2/ 1/ 2/ | 3. 5. ._1/ 7/ 6/ | 5. 3. 2/ 1/ 2/ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="310"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">J'étais esclave, lié dans mes chaînes,
+Couvert de honte, luttant en vain.
+Alors Jésus vint prendre mes peines,
+Pour m'affranchir et briser mes liens.</stanza>
+	<stanza type="chorus" number="">Quelle merveille d'être enfin libre,
+De ne plus geindre dans mes péchés !
+Le grand Sauveur, Celui que j'adore,
+Il est à moi pour l'éternité !</stanza>
+	<stanza type="verse" number="2">Libre de toute passion charnelle,
+Des préférences, des jalousies.
+Je n'assouvis plus mes passions vaines,
+Désormais, rien ne ternit ma vie !</stanza>
+	<stanza type="verse" number="3">Libre des vaines gloires du monde,
+Des convoitises et de l'argent,
+De mes colères, de mes caprices,
+Je servirai Dieu en Le louant !</stanza>
+	<stanza type="verse" number="4">Libre des craintes et des angoisses,
+De toute peine, de tout souci.
+Libre en Celui qui brisa mes chaînes,
+J'exalterai mon Sauveur béni !</stanza>
+  </lyrics>
+</hymn>

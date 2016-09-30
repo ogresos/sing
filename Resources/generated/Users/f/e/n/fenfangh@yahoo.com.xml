@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Esther</firstname>
+    <lastname>Hsu</lastname>
+    <email>fenfangh@yahoo.com</email>
+    <password>$1$hacOD9ut$07i1o0ZMlS/ISwrweGX.i1</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>71.107.103.26</ipaddress>
+    <createdate>2008-08-08 22:20:32</createdate>
+    <lastupdateddate>2013-12-27 22:33:28</lastupdateddate>
+    <lastlogindate>2013-12-27 22:33:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="h" num="1305">Our faith to God-ward must in these days spread abroad</fav>
+    </favourites>
+</user>

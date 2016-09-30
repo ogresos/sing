@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Cian</firstname>
+    <lastname>Carroll</lastname>
+    <email>cian_carroll@hotmail.com</email>
+    <password>niUFBP6jah8gA1HYn%2BYSAQ%3D%3D</password>
+    <gender></gender>
+    <country>Ireland</country>
+    <ipaddress>95.44.72.67</ipaddress>
+    <createdate>2013-10-09 08:37:42</createdate>
+    <lastupdateddate>2013-11-12 00:25:17</lastupdateddate>
+    <lastlogindate>2013-11-07 09:14:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="327">Before the throne of God above</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="483">Buried with Christ, and raised with Him too</fav>
+        <fav category="default" type="h" num="293">Cleansed in our Savior's precious blood</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="328">Complete in Thee! no work of mine</fav>
+        <fav category="default" type="h" num="5">God, our Father, we adore Thee</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="160">King of my life, I crown Thee now</fav>
+        <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="h" num="108">Man of Sorrows, what a name</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

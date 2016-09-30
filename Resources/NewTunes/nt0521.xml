@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I thank Thee, Lord, that Thou hast shown</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><english num="nt:498"/><lsmyp num="144"/></numbers>
+  <creators>
+    <author biodate="1852-1937" biolink="">Annie Wright Marston</author>
+    <composer biodate="" biolink="" fullname="Maria Kim">M. K.</composer>
+  </creators>
+  <hymncode>534511765577712</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C - | G - - - | G7 - - - | C - F - | Dm - G C/E | F - G7 - | C - C7 - | F - G7 - | C - Am - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 5_. 3_./ 4_./ 5_.. 1/ | 1 7_./( 6_./) 5_.. 5_./ | 7_.. 7_./ 7_. 1 (break) | 2 - - 0/ 5_./ | 3. 1/ 6_.. 6_./ | 4 3 2. 5_./ | 6_.. 1/ 1 7_. (break) | 1 - 0/ 1/ 2/ 3/ | 4. 3/ 2 1/( 2/) | 3 - 0/ 1/ 2/ 3/ | 4. 3/ 2 1/( 7_./) | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I thank Thee, Lord, that Thou hast shown, And I be -- gin to see, What Thou canst be to all Thine own, What they may be to Thee; If on -- ly they will yield Thee all, And trust -- ing -- ly o -- bey Thy call.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="521"></link>
+  </links>
+  <music>
+    <midi location="nt" length="29">e0521_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I thank Thee, Lord, that Thou hast shown,
+  And I begin to see,
+What Thou canst be to all Thine own,
+  What they may be to Thee;
+If only they will yield Thee all,
+And trustingly obey Thy call.</stanza>
+    <stanza type="verse" number="2">How wonderful! I never knew
+  That I might trust Thee so;
+That Thou wouldst be so much to me.
+  In all the way I go,
+That every need Thou wouldst supply.
+And all my longings satisfy.</stanza>
+    <stanza type="verse" number="3">I take Thee as my keeper now
+  And I commit to Thee
+My soul, my way, my works, my cause.
+  In Thy sole charge to be;
+And my deposit, Thou, I know
+Wilt guard secure from every foe.</stanza>
+    <stanza type="verse" number="4">I take Thee for my peace, O Lord.
+  My heart to keep and fill
+Thine own great calm, amid earth's storms
+  Shall keep me always still;
+And as Thy kingdom doth increase,
+So shall Thine ever-deep'ning peace.</stanza>
+    <stanza type="verse" number="5">I take Thee as my wisdom too
+  For wisdom's sum Thou art;
+Thou, who dost choose the foolish things.
+  Set me henceforth apart,
+That I may speak and work for Thee
+As Thou shalt work and speak in me.</stanza>
+    <stanza type="verse" number="6">I take Thee, Lord, to be my all.
+  Since all Thou art is mine;
+I nothing have, and nothing am;
+  That nothing, Lord, is Thine.
+Thou shalt be everything to me
+In all things my sufficiency.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles/>
+  <firstname>Sandy</firstname>
+  <lastname>Tsai</lastname>
+  <email>shouje@gmail.com</email>
+  <password>$2y$10$1XKqufCJ7QV0DpfXkHfYXuXcmIaev6K67Y0ysldJwlFk7uekdc7bm</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>75.25.124.42</ipaddress>
+  <createdate>2009-05-26 21:23:59</createdate>
+  <lastupdateddate>2015-06-11 05:50:59</lastupdateddate>
+  <lastlogindate>2015-06-11 05:50:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="313">願我愛全歸你</fav>
+  </favourites>
+</user>

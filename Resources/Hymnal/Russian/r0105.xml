@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Аллилуйя, аллилуйя</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;ОБЩЕНИЕ С НИМ</category>
+  <numbers><cebuano num="551"/><chinese num="416"/><dutch num="67"/><english num="551"/><french num="99"/><german num="551"/><korean num="416"/><portuguese num="279"/><russian num="105*"/><spanish num="258"/><tagalog num="551"/></numbers>
+  <creators>
+	<author biodate="1865-1949" biolink="">Translated from Charles Price Jones</author>
+  </creators>
+  <melody>| 0 - - ._1./ ._2// | ._3 - ._1 ._4./ ._4// | ._3 - ._1 7./ ._1// | ._2./ ._2// ._2./ ._2// ._3 ._2./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5 - ._1 ._1./ ._2// | ._3 - ._1 ._1./ ._1// | ._2./ ._2// ._2./ ._2// ._1./ ._1// 7./ 7// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Ал -- ли -- луй -- я, ал -- ли -- луй -- я!  Чрез за -- ве -- су я про -- шёл!  Здесь всей сла -- вы нет кон -- ца!  Ал -- ли -- луй -- я, ал -- ли -- луй -- я!  Я жи -- ву те -- перь в_при -- сут -- стви -- и Ца -- ря!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="551"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Аллилуйя, аллилуйя!
+Чрез завесу я прошёл!
+Здесь всей славы нет конца!
+Аллилуйя, аллилуйя!
+Я живу теперь в присутствии Царя!</stanza>
+  </lyrics>
+</hymn>

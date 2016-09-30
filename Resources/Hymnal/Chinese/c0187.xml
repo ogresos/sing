@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>為著這餅和這杯</title>
+  <index>true</index>
+  <category>讚美主－對祂的記念</category>
+  <numbers><cebuano num="226"/><chinese num="187"/><english num="226"/><korean num="187"/><portuguese num="120"/><russian num="353"/><spanish num="101"/><tagalog num="226"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 3. 3/ 3 3 | 5 4 3 - | 2. 2/ 2 2 | 4 3 2 - (break) | 1. 1/ 2 2 | 3. 2/ 1 - | 2 - 6_. 7_. | 2. 1/ 1 - |</melody>
+  <layout>
+	<singingstanza>為 著 這 餅 和 這 杯， 為 著 神 子 曾 降 卑， 為 著 神 恩 如 雨 沛， 主， 我 們 感 謝 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="226"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">為著這餅和這杯，
+為著神子曾降卑，
+為著神恩如雨沛，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="2">依然是酒、依然餅，
+藉此信心卻看明
+愛心神聖的小影，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="3">為著你曾召我們，
+舉目仰望你救恩，
+藉著信心近你身，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="4">為著你曾發命令，
+要我記念你行徑－
+何等溫柔、何等貧，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="5">為著你曾用慈愛，
+引我想家在天外－
+『行此直等到我來，』
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="6">直到祂來，我擘餅，
+表明祂作我生命，
+為我睡了、為我醒，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="7">直到祂來，我飲杯，
+表明祂賜福全備，
+使我站在新地位，
+主，我們感謝你。</stanza>
+	<stanza type="verse" number="8">為著再來的囑咐，
+為著那日的緊速，
+為著榮耀和國度，
+主，我們感謝你。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Turuan Mo ako</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PARAAN NG PANGINOON</category>
+  <numbers><cebuano num="406"/><english num="406"/><tagalog num="406"/></numbers>
+  <creators>
+    <author biodate="1849-1923" biolink="">Translated from Benjamin Mansell Ramsey</author>
+  </creators>
+  <music>
+    <midiref type="h" num="406"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Turuan Mo ako
+Ng Iyong daan;
+Biyaya't tulong Mo,
+Ako'y bigyan.
+It'wid Mo'ng lakad ko,
+'Ko'y manalig sa Iyo,
+Liwanagan ako,
+'Ko'y turuan.</stanza>
+    <stanza type="verse" number="2">Kung may takot, duda,
+'Ko'y turuan;
+Kahit bumagyo pa,
+'Ko'y turuan.
+May ulan ma't ulap,
+Pighati at hirap,
+Daan Mo'y mahanap,
+'Ko'y turuan.</stanza>
+    <stanza type="verse" number="3">Habang buhay kami'y
+Iyong turuan,
+Anumang mangyari,
+Iyong turuan.
+Hanggang matapos na,
+Takbo't pagbabaka,
+Kamtan gantimpala,
+Iyong turuan.</stanza>
+  </lyrics>
+</hymn>

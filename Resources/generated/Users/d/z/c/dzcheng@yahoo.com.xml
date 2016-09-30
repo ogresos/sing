@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>dazhi</firstname>
+<lastname>cheng</lastname>
+<email>dzcheng@yahoo.com</email>
+<password>$1$/KyRrcva$7ukJlYzdU86HvDLJil46B1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.98.108.26</ipaddress>
+<createdate>2008-07-26 01:43:03</createdate>
+<lastupdateddate>2009-09-15 18:23:54</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="33">True love</fav>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+        <fav category="default" type="ts" num="427">為神永遠的經綸</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="h" num="1255">We are for the Lord's recovery</fav>
+        <fav category="default" type="h" num="1097">O Lord, our Lord, how excellent</fav>
+    </favourites>
+</user>

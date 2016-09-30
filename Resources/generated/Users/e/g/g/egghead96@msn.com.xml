@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Diane</firstname>
+    <lastname>Burdick</lastname>
+    <email>egghead96@msn.com</email>
+    <password>r4bl6KFH%2BE5kxdUmnjJSyg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>184.36.132.220</ipaddress>
+    <createdate>2010-11-09 17:37:56</createdate>
+    <lastupdateddate>2011-01-11 08:42:39</lastupdateddate>
+    <lastlogindate>2011-01-11 08:33:59</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="253b">Breathe on us, Lord of life (Alternate Tune)</fav>
+        <fav category="default" type="lb" num="24">God is man's treasure</fav>
+        <fav category="default" type="h" num="353">I need Jesus, my need I now confess</fav>
+        <fav category="default" type="ns" num="139">I thought I knew You</fav>
+        <fav category="default" type="ns" num="313">I'm pressing on the God-man way</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+        <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+        <fav category="default" type="ns" num="91">Make me a hungry seeker</fav>
+        <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+    </favourites>
+</user>

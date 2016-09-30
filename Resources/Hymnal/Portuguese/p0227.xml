@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>De toda obra, ó Senhor</title>
+  <index>true</index>
+  <category>No Espírito</category>
+  <numbers><cebuano num="492"/><chinese num="367"/><english num="492"/><german num="492"/><korean num="367"/><portuguese num="227"/><russian num="459"/><tagalog num="492"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 1 - 3 4 | 5 - 6( 7) | ._1 - 7( 6) | 5 - - - (break) | 5 - 5 5 | 6 - 5 - | 4 - 3 - | 2 - - - (break) | 3 - 3 2 | 1( 3) 5( ._1) | 6( 5) 4( 3) | 2 - - - (break) | 5 - 6 7 | ._1 - - 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="492"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">De toda obra, ó Senhor,
+Na cruz vieste a descansar;
+Mas hoje trabalhando estás,
+Em outra forma a Te expressar.</stanza>
+	<stanza type="verse" number="2">Hoje ainda vens salvar,
+Iluminar, falar, guiar,
+Pois o Espír'to hoje és
+Para a muitos conquistar.</stanza>
+	<stanza type="verse" number="3">Inda trabalhas sem cessar,
+Por Teu Espírito, Senhor:
+Falas, consolas, vens livrar,
+Dás-nos coragem e vigor.</stanza>
+	<stanza type="verse" number="4">Com o Espírito és um,
+Quando Ele vem, és Tu quem vem;
+Já que o Espír'to hoje és,
+Seu habitar é Teu também.</stanza>
+	<stanza type="verse" number="5">Faz Ele no meu coração
+O Teu querer e ordenar;
+Como o querer do Pai, Senhor,
+Vieste aqui realizar.</stanza>
+	<stanza type="verse" number="6">Por Ele eu conheço a Ti,
+Obedecê-Lo é Te seguir;
+Deixar que Ele encha a mim,
+É ser enchido, sim, por Ti.</stanza>
+	<stanza type="verse" number="7">Longe no céu Tu não estás,
+Deixando os Teus aqui mui sós,
+Mas nesta terra ainda estás,
+Pois hoje vives dentro em nós.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Randy</firstname>
+  <lastname>Rumple</lastname>
+  <email>randy.rumple.rr@gmail.com</email>
+  <password>$2y$10$K0LSK/0LlMmf7ettb1BaNeMUyivga6PuBXsVlwB7u09MADDPf66UO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.104.153.29</ipaddress>
+  <createdate>2015-06-14 19:18:46</createdate>
+  <lastupdateddate>2015-06-20 19:14:27</lastupdateddate>
+  <lastlogindate>2015-06-20 19:14:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

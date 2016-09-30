@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Diane</firstname>
+    <lastname>Arnold</lastname>
+    <email>frog_ladee@yahoo.com</email>
+    <password>iZha4FdgLnT147Pq7vK7JA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.64.52.246</ipaddress>
+    <createdate>2013-10-27 17:18:33</createdate>
+    <lastupdateddate>2013-10-27 17:27:05</lastupdateddate>
+    <lastlogindate>2013-10-27 17:18:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    </favourites>
+</user>

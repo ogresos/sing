@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anong kahanga-hanga</title>
+  <index>true</index>
+  <category>PAGKAKAISA KAY KRISTO&amp;mdash;KAISA NIYA</category>
+  <numbers><cebuano num="479"/><chinese num="358"/><english num="479"/><korean num="358"/><tagalog num="479"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="479"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Anong kahanga-hanga,
+Ang mapakay Kristo nga;
+Niligtas ng biyaya,
+Matulad na sa Kanya.
+Mahayag magkasama,
+Ako't Siya magkagaya;
+Sa paglakad kasama,
+Ako ay katulad Niya.</stanza>
+    <stanza type="chorus" number="">Katulad Niya, Katulad Niya,
+Mapahanga, katulad Niya;
+Niligtas ng Kanyang biyaya,
+Kami'y magkai-sa't magkagaya.</stanza>
+    <stanza type="verse" number="2">Kasama Niyang namatay,
+Maging sa pagkabuhay;
+Sa sumpa napalaya,
+Nabuhay kasama Niya.
+Sa pag-akyat kasama,
+Sa pagka-anak kai-sa;
+Tulad ng mag-asawa,
+Nagkai-sa puno't sanga.</stanza>
+    <stanza type="verse" number="3">Sa natupad kaisa,
+Sa dalangin kaisa;
+Kanyang kahalagahan,
+Aking katamasahan.
+Sa panalig, pagsinta,
+Sa buhay pawang kai-sa;
+'Spiritu Niya kasama,
+Naging banal tulad Niya.</stanza>
+  </lyrics>
+</hymn>

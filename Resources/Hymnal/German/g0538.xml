@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Es ist Gottes Wohlgefallen</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Als der Innewohnende</category>
+  <numbers><cebuano num="538"/><chinese num="399"/><dutch num="23"/><english num="538"/><french num="96"/><german num="538"/><korean num="399"/><portuguese num="265"/><russian num="99"/><spanish num="241"/><tagalog num="538"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_.. 1/ 7_./ 1/ (break) | 2 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_./ 1/ 2 7_. (break) | 1 - (Chorus) 3./ 4// | 5. 3/ 4/ 3/ | 3 2 2./ 3// | 4. 2/ 3/ 4/ (break) | 3 - 3./ 2// | 1. 2/ 1/ 7_./ | 6_. 1 1./ 2// | 3/ 1/ 2 7_. | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Es ist Got -- tes Wohl -- ge -- fal -- len: Chris -- tus of -- fen -- bart in mir. Kei -- ne äuß -- re Re -- li -- gion mehr, Chris -- tus le -- ben soll in mir. Es ist Got -- tes Wohl -- ge -- fal -- len: Chris -- tus ein -- ge -- wirkt in mir; Nichts von mir, kein äuß -- res Ab -- mühn, Chris -- tus al -- les ist in mir.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="538"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Es ist Gottes Wohlgefallen:
+    Christus offenbart in mir.
+Keine äußre Religion mehr,
+    Christus leben soll in mir.</stanza>
+	<stanza type="chorus" number="">Es ist Gottes Wohlgefallen:
+    Christus eingewirkt in mir;
+Nichts von mir, kein äußres Abmühn,
+    Christus alles ist in mir.</stanza>
+	<stanza type="verse" number="2">Es ist Gottes Wohlgefallen:
+    Christus leben soll in mir;
+Sich nicht gut verhalten, sondern
+    Christus alles wirkt in mir.</stanza>
+	<stanza type="verse" number="3">Es ist Gottes Wohlgefallen:
+    Christus wird geformt in mir;
+Nicht den äußren Formen folgen,
+    Christus spriesst und wächst in mir.</stanza>
+	<stanza type="verse" number="4">Es ist Gottes Wohlgefallen:
+    Christus wohnen soll in mir;
+Nicht nur äußerlich Ihm dienen
+    Christus Wohnung macht in mir.</stanza>
+	<stanza type="verse" number="5">Es ist Gottes Wohlgefallen:
+    Christus meine Hoffnung sei;
+Nicht nur äussre Herrlichkeit möcht,
+    Innre Herrlichkeit Er sei.</stanza>
+	<stanza type="verse" number="6">Es ist Gottes Wohlgefallen,
+    Christus soll mir alles sein;
+Nicht nur äußerlich als Namen,
+    Christus innerlich ist mein.</stanza>
+  </lyrics>
+</hymn>

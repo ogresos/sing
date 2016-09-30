@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神的活水湧流</title>
+  <index>true</index>
+  <category>聖靈的豐滿－活水</category>
+  <numbers><chinese num="205"/><english num="8205"/></numbers>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3. ._3/ ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <layout>
+	<singingstanza>活 水 湧 流， 活 水 湧 流， 湧 自 榮 耀 的 聖 殿， 經 過 聖 殿 出 入 之 口， 並 祂 分 別 的 界 限。 神 的 活 水 湧 流， 帶 來 新 鮮 的 供 應， 吞 滅 死 亡， 不 稍 存 留， 顯 出 生 命 的 豐 盛。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">活水湧流，活水湧流，
+湧自榮耀的聖殿，
+經過聖殿出入之口，
+並祂分別的界限。</stanza>
+	<stanza type="chorus" number="">神的活水湧流，
+帶來新鮮的供應，
+吞滅死亡，不稍存留，
+顯出生命的豐盛。</stanza>
+	<stanza type="verse" number="2">活水湧流，湧流通暢，
+為著神聖的榮耀，
+一切全獻祭壇之上，
+凡事以此為首要。</stanza>
+	<stanza type="verse" number="3">活水湧流，湧流無限，
+凡事都由神量過，
+經過神的量度審判，
+一切全歸神得著。</stanza>
+	<stanza type="verse" number="4">活水湧流，越流越盛，
+成為洶湧的江河，
+人就無法再有所行，
+只能靠恩而生活。</stanza>
+  </lyrics>
+</hymn>

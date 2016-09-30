@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Virginia</firstname>
+  <lastname>Hutchinson</lastname>
+  <email>vehutchinson622@gmail.com</email>
+  <password>$2y$10$1hwJv48ny3I7Q7Diw0uNlOMdVC2E6VRUUc29bo2Lqqx6tahFbnmRG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.82.138.26</ipaddress>
+  <createdate>2014-11-01 00:48:51</createdate>
+  <lastupdateddate>2016-01-30 01:20:43</lastupdateddate>
+  <lastlogindate>2016-01-30 01:20:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+  </favourites>
+</user>

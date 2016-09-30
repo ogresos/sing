@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>sue</firstname>
+  <lastname>Boylan</lastname>
+  <email>sunnyflowersue@yahoo.co.uk</email>
+  <password>$2y$10$QJtb4kmefRezh8b9amay2OMkJwL/nJhh9Vf5M3ITCm1FrxvS6xTu.</password>
+  <gender>F</gender>
+  <country>uk</country>
+  <ipaddress>86.181.70.107</ipaddress>
+  <createdate>2012-03-12 17:27:40</createdate>
+  <lastupdateddate>2015-08-27 08:16:22</lastupdateddate>
+  <lastlogindate>2015-08-27 08:16:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="851">How lovely is Thy dwelling place</fav>
+    <fav category="default" type="h" num="1223">O walk about, walk about Zion</fav>
+    <fav category="default" type="h" num="13">Thou art love and Thou art light, Lord</fav>
+  </favourites>
+</user>

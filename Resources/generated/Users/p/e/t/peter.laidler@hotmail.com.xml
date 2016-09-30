@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>peter</firstname>
+  <lastname>laidler</lastname>
+  <email>peter.laidler@hotmail.com</email>
+  <password>$2y$10$r.BsnC542xy0v0ArSoswpOTK3mV/OtH8uJwKgfLXsbXXei4mm6wdO</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>94.1.129.82</ipaddress>
+  <createdate>2014-08-22 16:06:21</createdate>
+  <lastupdateddate>2014-08-22 16:11:23</lastupdateddate>
+  <lastlogindate>2014-08-22 16:11:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

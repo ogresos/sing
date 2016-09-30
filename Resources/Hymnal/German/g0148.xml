@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Allerhöchster König, Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Königreich</category>
+  <numbers><cebuano num="148"/><chinese num="124"/><english num="148"/><german num="148"/><korean num="124"/><portuguese num="74"/><russian num="345"/><spanish num="74"/><tagalog num="148"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 2 - 4 | 3.( 2/) 1 | 2 - 2 | 2( - 5_.) (break) | 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 1 - 3 | 2.( 1/) 7_. | 7_. - 6_. | 5_. - - (break) | 5 - 5 | 3.( 2/) 1 | 5 - 5 | 3 - - | 3 - 5 | 4( 3) 2 | 1 - 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>Al -- ler -- höchs -- ter Kö -- nig, Herr, Dei -- ne Ge -- gen -- wart freut sehr; Der Ge -- salb -- te Got -- tes bist, Nur zu Dir der Lob -- preis fließt. Höchs -- ter Kö -- nig, Du bist's wert, Un -- ser Herz Dich preist und ehrt!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Allerhöchster König, Herr,
+Deine Gegenwart freut sehr;
+Der Gesalbte Gottes bist,
+Nur zu Dir der Lobpreis fließt.
+Höchster König, Du bist's wert,
+Unser Herz Dich preist und ehrt!</stanza>
+	<stanza type="verse" number="2">Deine Vollmacht, Deine Kraft
+Überall sich Sieg verschafft!
+Alles soll von früh bis spät
+Dienen Dir, oh Majestät!
+Höchster König, Du bist's wert,
+Unser Herz Dich preist und ehrt!</stanza>
+	<stanza type="verse" number="3">Über allem steht Dein Reich
+Und Dein Thron ist stets siegreich!
+Deine Kraft und Herrlichkeit
+Rühmen wir in Ewigkeit!
+Höchster König, Du bist's wert,
+Unser Herz Dich preist und ehrt!</stanza>
+	<stanza type="verse" number="4">Souveräner König, Herr,
+Deinem Namen sei die Ehr,
+Ja, Dein Reich, Herr, lieben wir, 
+Bring's in Fülle bald mit Dir, 
+Höchster König, Du bist's wert,
+Unser Herz Dich preist und ehrt!</stanza>
+  </lyrics>
+</hymn>

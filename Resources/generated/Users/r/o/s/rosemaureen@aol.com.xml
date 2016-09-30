@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Maureen</firstname>
+  <lastname>Rose</lastname>
+  <email>rosemaureen@aol.com</email>
+  <password>$2y$10$0pbhWwqvzhVBqlM5N8E2EOEiEfZMGBrLpet7bXhOIFX37atHxWNHS</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.163.127.130</ipaddress>
+  <createdate>2016-08-18 14:28:40</createdate>
+  <lastupdateddate>2016-08-19 18:34:01</lastupdateddate>
+  <lastlogindate>2016-08-19 18:34:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

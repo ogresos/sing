@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dans le fleuve divin, nous servons le Seigneur</title>
+  <index>true</index>
+  <category>Le service&amp;mdash;dans le courant</category>
+  <numbers><cebuano num="909"/><chinese num="653"/><dutch num="45"/><english num="909"/><french num="169"/><german num="909"/><korean num="653"/><portuguese num="423"/><russian num="431"/><spanish num="407"/><tagalog num="909"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 2/ 3/ | 4 4./ 3// 4 3/ 4/ (break) | 6 5./ 4#// (.5 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 3/ 3/ | 2 5/ 5/ 4# 5/ 6/ (break) | 7 7./ 6// (.5 (Chorus) 3./ 4// | 5 - - ._1./ 3// | 2 - - 2./ 3// | 4 - - 5./ 4// (break) | 3 - - 3./ 4// | 5 - - ._1./ 7// | 6 - - 7 | ._1/ 5/ 6./ 4// 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="895"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dans le fleuve divin, nous servons le Seigneur,
+Connaissant Sa pensée, Sa Parole et Son cœur.
+Dans ce courant de vie, vêtus de Sa puissance,
+Pour Son Corps, Son royaume et sous Son intendance.</stanza>
+	<stanza type="chorus" number="">Dans le fleuve divin,
+Travaillons dans le fleuve !
+Dans le fleuve divin,
+Servons toujours dans ce courant.</stanza>
+	<stanza type="verse" number="2">Dans le fleuve divin, nous servons le Seigneur,
+Sa Parole en nous vit, dans le courant demeure !
+N'œuvre pas solitairement et désuni,
+Mais sois coordonné, en parfaite harmonie.</stanza>
+	<stanza type="verse" number="3">Dans le fleuve divin, nous servons le Seigneur,
+Dans le commun accord, les saints ont un seul cœur.
+Sers aux gens la Parole, en dispensant la vie,
+Dans ce fleuve, le dessein de Dieu s'accomplit.</stanza>
+  </lyrics>
+</hymn>

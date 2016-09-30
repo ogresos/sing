@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我當如何愛我的主</title>
+  <index>true</index>
+  <category>奉獻－跟隨主</category>
+  <numbers><cebuano num="462"/><chinese num="345"/><english num="462"/><korean num="345"/><tagalog num="462"/></numbers>
+  <creators>
+	<author biodate="1789-1855" biolink="">Translated from Josiah Conder</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>我 當 如 何 愛 我 的 主？ 如 何 奉 獻 使 祂 歡 喜？ 不 稍 離 開 祂 的 道 路， 學 習 如 何 與 祂 親 密？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我當如何愛我的主？
+如何奉獻使祂歡喜？
+不稍離開祂的道路，
+學習如何與祂親密？</stanza>
+	<stanza type="verse" number="2">我的途徑若是痛苦，
+主，我求你，禁我退縮，
+使我仍然向你順服，
+追憶你的十架重負。</stanza>
+	<stanza type="verse" number="3">讓我思念，你曾如何
+離開許多純潔樂事，
+來憂、來餓、來倦、來渴，
+無家之夜，不息之日。</stanza>
+	<stanza type="verse" number="4">為我來憂、來倦、來死，
+你來不求自己喜悅；
+地上安逸雖難恝置，
+我豈愛你不勝這些？</stanza>
+	<stanza type="verse" number="5">是的，我算萬事為損，
+為要來得你的注意；
+丟棄萬事雖如土糞，
+為著愛你有何可惜？</stanza>
+  <stanza type="note">第四節的『恝置，』
+意思是淡然置之。</stanza>
+  </lyrics>
+</hymn>

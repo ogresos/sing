@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>You can train a dog to shake hands for fun</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>5435171645</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | G7 - - - | C - - - | F - - - | C - Am - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - - 5./ 4// | 3 5 ._1./ 7// ._1 | 6 4 5 5./ 5// (break) | 4 4./ 4// 4./ 3// 2./ 4// | 3 4 5 0./ 5// (break) | 6 6./ ._1// ._2 ._1 | 5 7 (.._1 0./ ._1// | 6 6./ ._1// ._2 - (break) | 0 ._2./ ._1// 7./ ._1// ._2 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>You can train a dog to shake hands for fun; But the paw is for walk -- ing when the trick is done. A paw is de -- signed to run and stand. The dog has a paw, and the man has a hand.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="23">c0050.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">You can train a dog to shake hands for fun;
+But the paw is for walking when the trick is done.
+A paw is designed to run and stand.
+The dog has a paw, and the man has a hand.</stanza>
+  </lyrics>
+</hymn>

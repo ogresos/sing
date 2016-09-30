@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Roberto</firstname>
+    <lastname>Prado</lastname>
+    <email>rupi1810@hotmail.com</email>
+    <password>$1$fCeCoWl7$AwULH2Z.9JmREzQzg.c2H0</password>
+    <gender>M</gender>
+    <country>Bolivia</country>
+    <ipaddress>200.87.152.201</ipaddress>
+    <createdate>2009-08-14 15:03:20</createdate>
+    <lastupdateddate>2011-05-09 12:34:25</lastupdateddate>
+    <lastlogindate>2011-05-09 08:44:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="25">Father, to us Thy mercy Thou hast shown</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+        <fav category="default" type="h" num="1144">In the Word of old, we are clearly told</fav>
+        <fav category="default" type="h" num="1144">In the Word of old, we are clearly told</fav>
+        <fav category="default" type="h" num="171">Lord Jesus Christ, our heart feels sweet</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1254">This is the time for building the temple of the Lord</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="h" num="628">Via Bethlehem we journey</fav>
+        <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+    </favourites>
+</user>

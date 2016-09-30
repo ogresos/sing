@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>KC</firstname>
+  <lastname/>
+  <email>w66327@hotmail.com</email>
+  <password>$2y$10$/t.sotp1EDayRzezclGbk.YxhNFrinffFCLAfPnW54cF/n1cT9H92</password>
+  <gender>F</gender>
+  <country>au</country>
+  <ipaddress>218.215.0.108</ipaddress>
+  <createdate>2008-08-12 08:20:03</createdate>
+  <lastupdateddate>2016-02-03 10:15:27</lastupdateddate>
+  <lastlogindate>2016-02-03 10:13:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="77">A lover of Christ</fav>
+    <fav category="default" type="c" num="10">Can you say, How do you do?</fav>
+    <fav category="default" type="ns" num="211">Consecration: To Become the Testimony of Jesus</fav>
+    <fav category="default" type="ns" num="157">Here a Little, There a Little</fav>
+    <fav category="default" type="h" num="849">Holy priests are living stones</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+    <fav category="default" type="h" num="8283">North Wind, arise, awaken</fav>
+    <fav category="default" type="nt" num="252">Thou Breath from still eternity</fav>
+  </favourites>
+</user>

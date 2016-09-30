@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Feeyong</firstname>
+  <lastname/>
+  <email>fee_andy@yahoo.com</email>
+  <password>8az70k%2BDKMp8p%2FrxDmFc3A%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>173.57.157.191</ipaddress>
+  <createdate>2014-06-01 14:26:16</createdate>
+  <lastupdateddate>2016-06-06 02:26:57</lastupdateddate>
+  <lastlogindate>2016-06-06 02:26:57</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="15">B-I-B-L-E</fav>
+    <fav category="default" type="c" num="33">Did the mountains and the trees just happen</fav>
+    <fav category="default" type="c" num="70">Friends</fav>
+    <fav category="default" type="c" num="35">God is so good</fav>
+    <fav category="default" type="c" num="91">I love the Bible, the Word of God</fav>
+    <fav category="default" type="c" num="48">I want to thank God for making me</fav>
+    <fav category="default" type="c" num="14">In the ten commandments</fav>
+    <fav category="default" type="c" num="31">Lord, today, keep my heart</fav>
+    <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+    <fav category="default" type="c" num="42">Remember your Creator</fav>
+    <fav category="default" type="c" num="63">The fish need water</fav>
+    <fav category="default" type="c" num="62">Trust in the Lord with all your heart</fav>
+    <fav category="default" type="c" num="71">We are so happy we're here today</fav>
+  </favourites>
+</user>

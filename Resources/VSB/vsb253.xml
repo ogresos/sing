@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I will sing of the mercies of the Lord forever</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><chinese num="ts:13"/><english num="ns:266"/><vsb num="253"/></numbers>
+  <hymncode>1233332345153432543</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G7/D - | C/E - Am - | Dm - G7 - | C - G7 - | C - G7/D - | C/E - Am - | Dm - G7 - | C - C7/E - | F - - - | Em - Am - | Dm - G7 - | C - C7/E - | F - - - | Em - Am - | G/D - - - | D7 - G - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 3./ 3// 3/ 2/ 3/ 4/ | 5 ._1 5/ 3/ 4/ 3/ | 2 - - 5/ 4/ (break) | 3 - - 1/ 2/ | 3 3./ 3// 3/ 2/ 3/ 4/ | 5 ._1 5/ 3/ 4/ 3/ | 2 5./ 5// 5/ 4/ 3/ 2/ (break) | 1 - - (Chorus) 5/ 5/ | 6( - 6/) ._1/ 7/ 6/ | 5 - - 3 | 2./ 3// 4 - 6 (break) | 6./ 5// 5 - 5/ 5/ | 6( - 6/) ._1/ 7/ 6/ | 5 - - 3 | 2/ 5/ 5/ 6/ 7 5/ 7/ | 6 - 5 0 |</melody>
+  <layout>
+    <singingstanza>I will sing of the mer -- cies of the Lord for -- ev -- er, I will sing, I will sing; What a mer -- cy that I am in the church for -- ev -- er; I will sing of the mer -- cies of the Lord. With my mouth will I make known Thy faith -- ful -- ness, Thy faith -- ful -- ness, With my mouth will I make known Thy faith -- ful -- ness to all gen -- er -- a -- tions.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 89:1</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0266.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I will sing of the mercies of the Lord forever,
+I will sing, I will sing;
+What a mercy that I am in the church forever;
+I will sing of the mercies of the Lord.</stanza>
+    <stanza type="chorus" number="">With my mouth will I make known
+Thy faithfulness, Thy faithfulness,
+With my mouth will I make known
+Thy faithfulness to all generations.</stanza>
+    <stanza type="verse" number="2">I will sing of the mercies of the Lord forever,
+I will sing, I will sing;
+What a mercy that I am in the church forever;
+I will sing of the mercies of the Lord.
+(Do not repeat chorus)</stanza>
+  </lyrics>
+</hymn>

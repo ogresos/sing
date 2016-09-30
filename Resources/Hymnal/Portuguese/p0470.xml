@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Morto estou, morto estou</title>
+  <index>true</index>
+  <category>O Batismo Não Mais Eu</category>
+  <numbers><cebuano num="938"/><chinese num="743"/><english num="938"/><french num="178"/><german num="938"/><korean num="743"/><portuguese num="470"/><russian num="153"/><spanish num="425"/><tagalog num="938"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6 ._1./( ._2//) ._1./( 6//) | 5 ._2 ._2 - (break) | 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6 ._1./( ._2//) ._1./( 6//) | 5 ._2 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="938"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Morto estou, morto estou ?
+O meu velho homem terminou;
+Morto estou, morto estou ?
+O meu velho homem terminou.</stanza>
+	<stanza type="verse" number="2">Tudo acabou, tudo acabou ?
+O que era meu chegou ao fim;
+Tudo acabou, tudo acabou ?
+O que era meu chegou ao fim.</stanza>
+	<stanza type="verse" number="3">Já não sou eu, já não sou eu,
+Mas agora Cristo vive em mim;
+Já não sou eu, já não sou eu,
+Mas agora Cristo vive em mim.</stanza>
+  </lyrics>
+</hymn>

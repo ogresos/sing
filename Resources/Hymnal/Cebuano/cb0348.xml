@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sukad gil'was ko ni Cristo</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;LINANGKOB</category>
+  <numbers><cebuano num="348"/><chinese num="256"/><english num="348"/><korean num="256"/><portuguese num="181"/><russian num="255"/><spanish num="165"/><tagalog num="348"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from C. F. Butler</author>
+  </creators>
+  <music>
+    <midiref type="h" num="348"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sukad gil'was ko ni Cristo,
+Kalipay nang nabuhi ko;
+Diha's kasub-anan's yuta,
+Si Jesus ang kalipay ko.</stanza>
+    <stanza type="chorus" number="">O hallelujah, kalipay!
+Kay Cristo napa'muslan ko!
+Yuta, dagat, bisan asa,
+Kon na' S'ya, na'ng kalipay ko.</stanza>
+    <stanza type="verse" number="2">Yuta kanhi pagkapait,
+Gipahiyoman, na-langit;
+Na' nang kalipay su'd's kalag,
+Kini wa gyuy katapusan.</stanza>
+    <stanza type="verse" number="3">Bisan asa ang puy-anan,
+Ma-bukid o ma-walog man;
+Ma-payag ba o palasyo,
+Si Jesus ray kalipay ko.</stanza>
+  </lyrics>
+</hymn>

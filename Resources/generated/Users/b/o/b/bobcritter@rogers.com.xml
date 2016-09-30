@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bobette</firstname>
+  <lastname>Crittenden</lastname>
+  <email>bobcritter@rogers.com</email>
+  <password>$2y$10$vQO./Tkzz6YU58.6PHZPXevvNPsLK8prvtMdO6iuA5hzzDDGfuwc.</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>99.234.0.70</ipaddress>
+  <createdate>2014-08-05 13:42:42</createdate>
+  <lastupdateddate>2016-08-17 00:37:24</lastupdateddate>
+  <lastlogindate>2016-08-17 00:37:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="nt" num="716">Begone, unbelief</fav>
+    <fav category="default" type="ns" num="8">Blend us, Lord, Blend us, Lord</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="893">Conflict today is fierce</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="ns" num="121">Draw me, Lord</fav>
+    <fav category="default" type="h" num="882">Faith is the Victory</fav>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="h" num="686">Fear not, I am with thee</fav>
+    <fav category="default" type="h" num="655">Feed on His faithfulness, my soul</fav>
+    <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+    <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+    <fav category="default" type="h" num="1275">Glorious things to thee are spoken</fav>
+    <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+    <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+    <fav category="default" type="h" num="1085">His Name is Wonderful</fav>
+    <fav category="default" type="h" num="167">How good is the Lord we adore</fav>
+    <fav category="default" type="c" num="36">I believe the promises of God</fav>
+    <fav category="default" type="h" num="877">I dare not be defeated</fav>
+    <fav category="default" type="ns" num="201">I just keep calling, O Lord</fav>
+    <fav category="default" type="h" num="853">I love Thy kingdom, Lord</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="nt" num="389">Lord Jesus, I long in Thy presence to live</fav>
+    <fav category="default" type="ns" num="220">Lord, keep me from this evil and perverted age</fav>
+    <fav category="default" type="h" num="903">Lord, speak to me, that I may speak</fav>
+    <fav category="default" type="c" num="31">Lord, today, keep my heart</fav>
+    <fav category="default" type="h" num="793">My soul, be silent, wait upon the Lord</fav>
+    <fav category="default" type="ns" num="7">O Father God, how faithful You are</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="905">O Master, let me walk with Thee</fav>
+    <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="161">Praise the Savior, ye who know Him</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="888">Soldiers of Christ, arise</fav>
+    <fav category="default" type="h" num="725">Strong are the walls around me</fav>
+    <fav category="default" type="lb" num="48">The Lord is my strength and my song</fav>
+    <fav category="default" type="h" num="8511">The Lord knows all that frustrates you</fav>
+    <fav category="default" type="c" num="3">The birds upon the tree tops</fav>
+    <fav category="default" type="h" num="514">There is One amid all changes</fav>
+    <fav category="default" type="h" num="375">There is a place of quiet rest</fav>
+    <fav category="default" type="h" num="1077">There were ninety and nine that safely lay</fav>
+    <fav category="default" type="h" num="704">Though troubles assail</fav>
+    <fav category="default" type="nt" num="1210">Through God's word, my hope at His returning</fav>
+    <fav category="default" type="h" num="181b">Tis the Church triumphant singing (Alternate Tune)</fav>
+    <fav category="default" type="ns" num="75">Water you, water you</fav>
+    <fav category="default" type="h" num="1117">We praise Thee, O God (as the Spirit)</fav>
+    <fav category="default" type="h" num="881">We rest on Thee, our Shield and our Defender</fav>
+    <fav category="default" type="h" num="238">When morning gilds the skies</fav>
+    <fav category="default" type="h" num="731">Why should I fear the darkest hour</fav>
+    <fav category="default" type="h" num="892">With all the pow'r in heav'n and earth</fav>
+    <fav category="default" type="c" num="46">Wonderf'lly, Wonderf'lly</fav>
+    <fav category="default" type="c" num="9">You come to me with a sword and a spear</fav>
+  </favourites>
+</user>

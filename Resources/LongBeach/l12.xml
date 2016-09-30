@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I just love You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="lb:12"/><french num="lb:12f"/><lsmyp num="179"/><spanish num="lb:12s"/><vsb num="154"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>556133343132</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | C - - - | Dm - - - | C/E - - F | G - - - | G - - - | C - - - | Em - - - | Am - - - | Em - Dm - | G - - - | G - - - | F - - - | Fm - - - | C - - - | C - - - |</chords>
+  <melody>| 5_. - - 5_. | 6_. - - 1 | 3( - - - | 3) - - 3/ 3/ | 4 - - - | 3/( 1/)( 1) - 3 | 2( - - - (break) | 2) - - 2/ 2/ | 3 - - 3/ 5/ | 5 - - 5 | 6. 6/ 3 6 | 5( 3) 2( 1) | 2( - - - (break) | 2) - - 2 | 2 (.1 - - | 6_. - 1 - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, I just love You. And there's no one like You. In the whole u -- ni -- verse I have no oth -- er one like You. Lord Je -- sus, I love You.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="OdW4NJn2R1M"/>
+  </videos>
+  <music>
+    <midi location="lb" length="52">lb12.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I just love You.
+And there's no one like You.
+In the whole universe
+I have no other one like You.
+Lord Jesus, I love You.</stanza>
+  </lyrics>
+</hymn>

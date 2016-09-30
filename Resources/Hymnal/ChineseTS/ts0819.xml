@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>歸入甜美的你</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:819"/><english num="6819"/></numbers>
+  <layout>
+	<singingstanza>我 們 曾 遍 尋 各 處 的 山 嶺 高 崗， 盼 望 得 知 人 生 的 真 相， 但 是 一 次 一 次 我 們 換 得 失 望， 知 道 世 事 不 過 是 這 樣。 直 到 一 天 你 來 途 中 遇 見 我 們， 將 你 可 愛 的 胸 懷 敞 露， 我 們 就 被 吸 引 歸 入 甜 美 的 你， 得 著 人 生 的 真 諦 實 意。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="6819"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們曾遍尋各處的山嶺高崗，
+盼望得知人生的真相，
+但是一次一次我們換得失望，
+知道世事不過是這樣。
+直到一天你來途中遇見我們，
+將你可愛的胸懷敞露，
+我們就被吸引歸入甜美的你，
+得著人生的真諦實意。</stanza>
+	<stanza type="verse" number="2">我們看見你那復活裡的榮臉，
+知道你曾戴荊棘冠冕；
+你那可親的手是我所依所傾，
+因手上釘痕依然顯明。
+我們現今在此享受可愛的你，
+日復一日更覺你實際，
+猶如潺潺流水歸回無垠大海，
+不知不覺失去在你裡。</stanza>
+  </lyrics>
+</hymn>

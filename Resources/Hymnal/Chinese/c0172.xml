@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主你是人心之樂</title>
+  <index>true</index>
+  <category>讚美主－對祂的滿足</category>
+  <numbers><chinese num="172"/><english num="205"/><korean num="172"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Translated from Bernard of Clairvaux</author>
+	<author biodate="1808-1887" biolink="">Translated by Ray Palmer</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>哦 主， 你 是 人 心 之 樂， 生 命 之 源， 人 們 之 光， 從 地 所 給 最 佳 福 樂， 空 心 轉 來 向 你 仰 望。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主，你是人心之樂，
+生命之源，人們之光，
+從地所給最佳福樂，
+空心轉來向你仰望。</stanza>
+	<stanza type="verse" number="2">你的真實永存不變，
+凡求你者，你都提挈：
+對尋求者，你是慈善，
+對尋得者，你是一切。</stanza>
+	<stanza type="verse" number="3">生命的糧，我已嘗過，
+仍是切慕嘗食不已；
+活水的泉，我飲雖多，
+仍是渴望更多飲你。</stanza>
+	<stanza type="verse" number="4">當那易變之福改變，
+不安的靈對你渴慕；
+歡喜，因見你的笑臉，
+有福，憑信將你抓住。</stanza>
+	<stanza type="verse" number="5">願你作我力量、維持！
+使我時時寧靜、明亮，
+驅盡黑暗罪惡之思，
+向我倒下你的聖光。</stanza>
+  </lyrics>
+</hymn>

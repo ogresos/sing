@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus sa aki'y lumago</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGLAGO KAY KRISTO</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+		<author biodate="1741-1801" biolink="">Translated from Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) 0 5 (break) | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="261"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hesus sa aki'y lumago
+Hiling walang iba;
+Ilapit sa Iyo puso ko,
+Iligtas sa sala.</stanza>
+	<stanza type="chorus" number="">Bawa't araw sa Iyong lakas,
+Hina ko'y napawi;
+Dilim, kamataya'y wakas,
+Buhay Mo'y nagwagi.</stanza>
+	<stanza type="verse" number="2">Kasamaan ay naglaho
+Sa pagliwanag Mo;
+Ika'y lahat, hungkag ako,
+Sa 'kin ituro Mo.</stanza>
+	<stanza type="chorus" number="">Bawa't araw sa Iyong lakas,
+Hina ko'y napawi;
+Dilim, kamataya'y wakas,
+Buhay Mo'y nagwagi.</stanza>
+	<stanza type="verse" number="3">Ikaw na Banal at Tunay,
+Gloria Mo'y pagmasdan;
+Maging Iyong larawang buh
+Ã¡y,
+Sa tuwa't dusa man.</stanza>
+	<stanza type="chorus" number="">Bawa't araw sa Iyong lakas,
+Hina ko'y napawi;
+Dilim, kamataya'y wakas,
+Buhay Mo'y nagwagi.</stanza>
+	<stanza type="verse" number="4">Iyong galak ako'y puspusan,
+Hawakan ng lakas;
+Mula sa 'king katauhan:
+Pag-ibig 'pamalas.</stanza>
+	<stanza type="chorus" number="">Bawa't araw sa Iyong lakas,
+Hina ko'y napawi;
+Dilim, kamataya'y wakas,
+Buhay Mo'y nagwagi.</stanza>
+	<stanza type="verse" number="5">Iyong pawiin sarili ko,
+Buhay ka't layunin;
+Papagindapatin ako,
+Iyong ngala'y taglayin.</stanza>
+	<stanza type="chorus" number="">Bawa't araw sa Iyong lakas,
+Hina ko'y napawi;
+Dilim, kamataya'y wakas,
+Buhay Mo'y nagwagi.</stanza>
+  </lyrics>
+</hymn>

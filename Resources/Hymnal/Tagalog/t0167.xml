@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon kay buti Mo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KABUTIHAN</category>
+  <numbers><english num="167"/><tagalog num="167"/></numbers>
+  <creators>
+    <author biodate="1712-1768" biolink="">Translated from Joseph Hart</author>
+  </creators>
+  <music>
+    <midiref type="h" num="167"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panginoon kay buti Mo
+Tapat at di-nagbabago;
+Dakila ang pag-ibig Mo
+Walang sukat, walang dulo.</stanza>
+    <stanza type="verse" number="2">Si Hesus Alpa't Omega,
+Gabay sa trono ng glorya;
+Sa lumipas, purihin Siya
+Sa hinaharap, tiwala.</stanza>
+  </lyrics>
+</hymn>

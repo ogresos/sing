@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>William</firstname>
+<lastname>Silverthorn</lastname>
+<email>wds@pobox.com</email>
+<password>$1$.q.s74jG$2LhhP4bjl08T1BpUIRi.B/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>68.26.76.250</ipaddress>
+<createdate>2008-10-01 20:39:11</createdate>
+<lastupdateddate>2009-09-15 18:26:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="1308">We have oil in our lamps&amp;mdash;we are burning</fav>
+        <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

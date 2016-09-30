@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>ANFGC</firstname>
+  <lastname>Edmonton</lastname>
+  <email>anfgcedmonton@gmail.com</email>
+  <password>$2y$10$Aw8vpyjieVv.2BHduNX2B.kNE1HFWg0GAXagg1ds2gq2Dl9sLTtWy</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>75.158.49.221</ipaddress>
+  <createdate>2014-10-03 19:41:59</createdate>
+  <lastupdateddate>2014-12-23 03:52:30</lastupdateddate>
+  <lastlogindate>2014-12-23 03:15:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="ns" num="323">Behold what manner of love</fav>
+    <fav category="default" type="h" num="118">Christ is risen! Hallelujah</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1145">God gave His Son to man to be</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="960">My King will soon come back again</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

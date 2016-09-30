@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Мне дорог Господин мой</title>
+  <index>true</index>
+  <category>ПОСВЯЩЕНИЕ&amp;mdash;СЛУЖЕНИЕ ГОСПОДУ</category>
+  <numbers><cebuano num="463"/><chinese num="ts:850"/><english num="463"/><german num="463"/><russian num="415"/><spanish num="194"/><tagalog num="463"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 0 - - 1 | 2 1 4 3 | 2 - 1 3 | 5 ._1 7 5# | 6 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2 1 | 2 - - 2 (break) | 4 3 6 7 | ._1 - ._2 5 | ._3. ._3/ ._2 ._1 | 7 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Мне дорог Господин мой,
+Не рвусь на волю я,
+Ведь Он – мой Искупитель,
+Он выкупил меня.
+Служить Ему так сладко –
+Не брошу службы той,
+И в трудный час даёт Он
+Мне истинный покой.</stanza>
+	<stanza type="verse" number="2">Ценою Его жизни
+Жизнь куплена моя,
+И мною не владеют
+Ни грех, ни моё «я»;
+Избрал меня Он к службе
+И силу дал избрать
+Блаженную свободу,
+Что ввек не потерять.</stanza>
+	<stanza type="verse" number="3">И лишь ему желаю
+Служить отныне я,
+Тому, кто возлюбил так,
+Себя дал за меня.
+Полна любви, веселья
+Отныне песнь моя:
+Мне дорог Господин мой,
+Не рвусь на волю я.</stanza>
+  </lyrics>
+</hymn>

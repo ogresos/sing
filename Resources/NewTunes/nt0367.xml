@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be Thou supreme, O Jesus Christ</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For the Supremacy of Christ</category>
+  <creators>
+    <author biodate="" biolink="">J. Temperley Grey</author>
+    <composer biodate="" biolink="" fullname="Eric Ching">E. C.</composer>
+  </creators>
+  <hymncode>34523211443212</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>90</tempo>
+  <chords>| C - G/B - | Am - - C/E | Dm - C/E F | G - G7 - | C - G/B - | Am - C/G - | F - G7 - | C - C7 - | F - G - | C - Am - | F - G - | C - Am - | F - E - | Am - F - | Dm7 - G7 - | F/C - C - |</chords>
+  <melody>| 0/ 3/ 4/ 5/ 2. 3/ | 2/ 1/ 1 - - | 0/ 4/ 4/ 3/ 2 1 | 2 - - - (break) | 0/ 3/ 4/ 5/ 2. 3/ | 2/ 1/ 3 - - | 0/ 6_./ 1/ 3/ 2. 1/ (break) | 1 - 0/ (Chorus) 5/ 3/ 5/ | 6( - 6/) 5/ 3/ 2/ | 3( - 3/) 5/ 3/ 5/ | 6 - - 5 (break) | 3( - 3/) 5/ 3/ 5/ | 6 - 7 - | ._1/ 7/ 6 - - | 0/ 6_./ 1/ 3/ 2. 1/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Be Thou su -- preme, O Je -- sus Christ, Thy love has con -- quered me; Be -- neath Thy Cross I die to self, And live a -- lone to Thee. Be Thou su -- preme, O Je -- sus Christ, Nor creed, nor form, nor word, Nor ho -- ly Church, nor hu -- man love, Com -- pare with Thee, my Lord!</singingstanza>
+  </layout>
+  <date>March 2, 2002</date>
+  <links>
+    <link type="relevant" category="h" num="367"></link>
+  </links>
+  <audios>
+    <audio title="Singing" location="nt" length="183">e0367_new_singing.mp3</audio>
+  </audios>
+  <music>
+    <midi location="nt" length="43">e0367_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Be Thou supreme, O Jesus Christ,
+  Thy love has conquered me;
+Beneath Thy Cross I die to self,
+  And live alone to Thee.</stanza>
+    <stanza type="chorus" number="">Be Thou supreme, O Jesus Christ,
+  Nor creed, nor form, nor word,
+Nor holy Church, nor human love,
+  Compare with Thee, my Lord!</stanza>
+    <stanza type="verse" number="2">Be Thou supreme, O Jesus Christ,
+  My inmost being fill;
+So shall I think as Thou dost think,
+  And will as Thou dost will.</stanza>
+    <stanza type="verse" number="3">Be Thou supreme, O Jesus Christ,
+  Thy life transfigure mine;
+And through this veil of mortal flesh,
+  Lord, let Thy splendor shine.</stanza>
+    <stanza type="verse" number="4">Be Thou supreme, O Jesus Christ,
+  My soul exults in Thee;
+To be Thy slave, to do Thy will,
+  Is my felicity.</stanza>
+  </lyrics>
+</hymn>

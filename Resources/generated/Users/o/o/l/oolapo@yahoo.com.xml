@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ola</firstname>
+  <lastname>Olapo</lastname>
+  <email>oolapo@yahoo.com</email>
+  <password>$2y$10$9FIMjJacAPo0cTjnWEPbo.F7H1BC3/T3WiNR3o5qpdosQR.tkKfrO</password>
+  <gender/>
+  <country>um</country>
+  <ipaddress>184.58.170.165</ipaddress>
+  <createdate>2015-09-16 23:48:00</createdate>
+  <lastupdateddate>2015-10-28 18:33:03</lastupdateddate>
+  <lastlogindate>2015-10-28 18:33:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Don</firstname>
+    <lastname>Paulsen</lastname>
+    <email>termite29@gmail.com</email>
+    <password>rWPk1DsU4Gd%2FD520iniubQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>174.240.96.29</ipaddress>
+    <createdate>2013-08-24 20:02:44</createdate>
+    <lastupdateddate>2013-08-24 20:33:44</lastupdateddate>
+    <lastlogindate>2013-08-24 20:23:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="300b">Arise, my soul, arise (Alternate Tune)</fav>
+        <fav category="default" type="h" num="1216">We have an inner life; that's for our daily life</fav>
+    </favourites>
+</user>

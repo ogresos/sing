@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Leva tu contigo o nome</title>
+  <index>true</index>
+  <category>O Consolo Nas Provações Pelo Nome Do Senhor</category>
+  <numbers><chinese num="498"/><english num="670"/><korean num="498"/><portuguese num="330"/></numbers>
+  <creators>
+    <author biodate="1809-1874" biolink="www.hymns.net/stories/baxter.htm">Translated from Lydia Odell Baxter</author>
+  </creators>
+  <music>
+    <midiref type="h" num="670"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Leva tu contigo o nome
+De Jesus, o Salvador;
+Este nome dá conforto,
+Hoje, sempre e onde for.</stanza>
+    <stanza type="chorus" number="">Nome bom! Doce é!
+Esperança do porvir!
+Nome bom! Doce é!
+Esperança do porvir!</stanza>
+    <stanza type="verse" number="2">Leva sempre este Nome
+Qual escudo em tua mão;
+Se as tentações te cercam,
+Toma o Nome em oração.</stanza>
+    <stanza type="verse" number="3">Oh! que Nome precioso!
+Faz a alma exultar;
+Do Pai, as misericórdias,
+Nós podemos desfrutar.</stanza>
+    <stanza type="verse" number="4">Tu, curvado ante o Nome,
+E aos pés do Teu Senhor,
+Clama: Nome vitorioso
+Que derrota o tentador.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abraham is the father of faith to all</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><english num="ns:260"/><vsb num="264"/></numbers>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <links>
+    <link type="ref">Romans 4</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0260.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Abraham is the father of faith to all,
+He was counted as righteous by heeding God's call.
+Did you know all your works never justify?
+Believe! You are justified by faith in Him.</stanza>
+    <stanza type="verse" number="2">I believe, He gives life to the dead;
+I believe, He creates righteous men;
+All your works never justify the sins you've done.
+Believe! He creates His righteousness within.</stanza>
+  </lyrics>
+</hymn>

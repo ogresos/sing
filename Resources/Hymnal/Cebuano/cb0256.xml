@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Huypi na, Ginoo, samtang naghulat mi</title>
+  <index>true</index>
+  <category>KAHUPNGANAN SA ESPIRITU&amp;mdash;INGON NGA HANGIN</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Huypi na, Ginoo, samtang naghulat mi,
+Mahigawas kami, sa hangin Mo huypi,
+Huyopi hangtud madasig mi'g mabuhi,
+O Ginoo huypi kami!</stanza>
+	<stanza type="chorus" number="">Huyopi na kami karon!
+Huypi na ang katulogon!
+Huyopi ang among
+Pagsibog katapul,
+O huypi na mi, Ginoo!</stanza>
+	<stanza type="verse" number="2">Huypi's diosnong gugma ug padilaaba,
+Ginhawai's langit ang amo nga kalag;
+Huyping kawalay pagtagad's usag usa,
+O huypi na, O Ginoo!</stanza>
+	<stanza type="verse" number="3">Huypi's gahum Mo, dasigang espiritu,
+Huypi, buhia ug pun-a's tinguha Mo;
+Huypi hangtud magdilaab kami's bug-os,
+O huypi na, O Ginoo!</stanza>
+  </lyrics>
+</hymn>

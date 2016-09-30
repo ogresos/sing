@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神的基督榮耀的主</title>
+  <index>true</index>
+  <category>讚美主－祂的榮耀</category>
+  <numbers><chinese num="123"/><english num="144"/><korean num="123"/><tagalog num="144"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from R. Holden</author>
+  </creators>
+  <melody>| 1 - 2 - | 3 1 4 3 | 3 - 2 - | 1 4 3 2 | 1 - 7_. - | 1 - - - (break) | 1 - 2 - | 3 1 4 3 | 3 - 2 - | 1 4 3 2 | 1 - 7_. - | 1 - - - (break) | 5 - 6 - | 5 - 3 - | 5 - 6 - | 5 - - - | 1 2 3 2 | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>神 的 基 督、 榮 耀 的 主， 你 的 心 慈、 你 恩 溥！ 我 們 現 在 全 魂、 全 心， 到 你 面 前 來 朝 覲； 我 敬 拜 你、 讚 美 你， 你 的 道 路 無 可 比！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="144"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神的基督、榮耀的主，
+你的心慈、你恩溥！
+我們現在全魂、全心，
+到你面前來朝覲；
+我敬拜你、讚美你，
+你的道路無可比！</stanza>
+	<stanza type="verse" number="2">受膏的王、一切的主，
+進入榮耀得萬福！
+前曾被人譏笑、厭棄，
+你欲救人，人絕你；
+我敬愛你、稱頌你，
+今得尊榮至無極。</stanza>
+	<stanza type="verse" number="3">你曾死過，生命的主，
+祝福人者竟受詛！
+你是父神所愛所重，
+竟受苦難學順從；
+我仰望你、記念你，
+為我親歷憂患地。</stanza>
+	<stanza type="verse" number="4">不久華冠將加你首，
+不久鐵杖操你手！
+神的基督，我們現今
+等候你從天降臨；
+我敬愛你、順服你，
+永遠認你為基督。</stanza>
+  </lyrics>
+</hymn>

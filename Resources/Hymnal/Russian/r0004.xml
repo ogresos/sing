@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О Бог, Ты – вечности Отец</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;КАК ТОМУ КТО ВЕЧЕН</category>
+  <numbers><cebuano num="10"/><chinese num="7*"/><english num="10"/><german num="10"/><korean num="7*"/><portuguese num="5"/><russian num="4"/><spanish num="5"/><tagalog num="10"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 2) 1 | 1( 7_.) 6_. | 5_.( 3) 2 | 1 - 5_. (break) | 5_.( 4) 3 | 3( 2) 1 | 5( 3) 1 | 2 - 5_. (break) | 5_.( 6_.) 7_. | 1 - 5_. | 6_.( 4) 2 | 1( 7_.) 5_. (break) | 6_. - 7_. | 1 - 1 | 1( 7_.) 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>О Бог, Ты_– веч -- но -- сти О -- тец, Не -- со -- тво -- рён -- ный Ты «Я ЕСТЬ»!  Древ -- не -- е древ -- них Ты лю -- дей И преж -- де, чем на -- чаль -- ный век!
+    </singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О Бог, Ты – вечности Отец,
+Несотворённый Ты «Я ЕСТЬ»!
+Древнее древних Ты людей
+И прежде, чем начальный век!</stanza>
+	<stanza type="verse" number="2">Из бесконечности Ты Бог,
+И вечности Ты полнота!
+Ты вне пространства и времён,
+Ты без начала, без конца!</stanza>
+	<stanza type="verse" number="3">До сотворения небес
+Источник вечный Ты всего!
+Из самых первых первый Ты,
+Перед Тобой нет ничего!</stanza>
+	<stanza type="verse" number="4">От века к веку без конца
+Ты – нескончаемая жизнь!
+Ты длишься долее, чем всё,
+За всем последним Ты стоишь!</stanza>
+	<stanza type="verse" number="5">Как Альфа – первый Ты во всём,
+Последний как Омега Ты!
+И совершенен Ты, и полн,
+Нет у Тебя ни в чём нужды!</stanza>
+	<stanza type="verse" number="6">За совершенство, полноту,
+За бесконечные года,
+За безграничность славим мы
+И превозносим мы Тебя!</stanza>
+  </lyrics>
+</hymn>

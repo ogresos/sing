@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Наш Господь Христос воскрес</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ВОСКРЕСЕНИЕ</category>
+  <numbers><cebuano num="117"/><chinese num="102"/><english num="117"/><french num="19"/><german num="117"/><korean num="102"/><portuguese num="57"/><russian num="24"/><spanish num="56"/><tagalog num="117"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/( ._1/ ._2/ 5/ ._1) 7/( ._1/) | 7( 6) 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/( 7/  ._1/ 5/ 6/ 7/) ._1/( ._2/) | ._1( 7) ._1 - |</melody>
+  <layout>
+	<singingstanza>Наш Гос -- подь Хрис -- тос вос -- крес, Ал -- ли -- луй -- я!  На -- шим нуж -- дам Он от -- вет, Ал -- ли -- луй -- я!  Пой -- те не -- бе -- са Е -- му, Ал -- ли -- луй -- я!  И зем -- ля во -- век хва -- лу, Ал -- ли -- луй -- я!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Наш Господь Христос воскрес,
+Аллилуйя!
+Нашим нуждам Он ответ,
+Аллилуйя!
+Пойте небеса Ему,
+Аллилуйя!
+И земля вовек хвалу,
+Аллилуйя!</stanza>
+	<stanza type="verse" number="2">Славный Царь опять живёт,
+Аллилуйя!
+О, где жало, смерть, твоё?
+Аллилуйя!
+Смерть Его спасла всех нас,
+Аллилуйя!
+Где твоя победа, ад?
+Аллилуйя!</stanza>
+	<stanza type="verse" number="3">Искупленье Он свершил,
+Аллилуйя!
+Смерть победой поглотил,
+Аллилуйя!
+Был из смерти поднят Он,
+Аллилуйя!
+Выше неба вознесён,
+Аллилуйя!</stanza>
+	<stanza type="verse" number="4">Ныне в высях мы с Христом,
+Аллилуйя!
+И Главу мы видим в Нём,
+Аллилуйя!
+Со Христом воскрешены,
+Аллилуйя!
+От земного спасены
+Аллилуйя!</stanza>
+  </lyrics>
+</hymn>

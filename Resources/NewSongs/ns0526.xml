@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Numbering Our Days</title>
+  <index>true</index>
+  <numbers><chinese num="ts:36"/><english num="ns:526"/></numbers>
+  <category>Scriptures for Singing</category>
+  <creators>
+	<author biodate="" biolink="" fullname="覃瑞清">Translated from T. R. Q.</author>
+	<composer biodate="" biolink="" fullname="Juby Kuo">J. K.</composer>
+  </creators>
+  <hymncode>1233321354431</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - - - | F - - - | Fm - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | Fm - - - | C - - - | Am - - - | F - G - | C - - - | Am - - - | Em - - - | F - - - | C - - - | Am - - - | Em - - - | F - - - | D - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Em - - - | F - - - | D - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Em - - - | F - - - | D - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Em - - - | F - - - | D - - - | G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 3/ 3/ 2 1/ 3/( | 3) - - - | 5 4 4 3/ 1/( (break) | 1) - - 1/ 2/ | 3 5 5 6/ ._1/( | ._1) - - - | 4 4/ 5/ 3/ 2/ 1/ 2/( (break) | 2) - - 1/ 2/ | 3 3 2 1/ 3/( | 3) - - - | 5 4/ 4/ 4/ 3/ 1/ 1/( (break) | 1) - - 1/ 2/ | 3 5 5 6/ ._1/( | ._1) - - - | 4 5 3/( 1/) 2/ 1/( (break) | 1) - - 6/ 7/ | ._1/ ._1/ ._1/ ._1/ ._1. ._1/ | 7 6/ 5/( 5) 4/ 5/ (break) | 6/ 6/ 6/ 6/ 6/( 5/) 4/ 5/( | 5) - 0/ 1/ 1/ 2/ | 3/ 3/( 3/) 3/( 3) 3/ ._1/ (break) | 7/ 6/ 5/ 5/( 5.) 5/ | 6 5/ 6/( 6) - | 0/ ._3/ ._3/ ._3/ ._3/( ._2/) ._1/ 5/( | 5)( - - - (break) | 5) - - ._1/ ._2/ | ._3 ._4 ._3/ ._2/ ._1/ ._3/( | ._3) - - - | ._3/ ._2/ ._2/ ._1/ ._1 5/ 5/( (break) | 5) - - 6/ 7/ | ._1/ ._1/ ._1/ ._1/ ._1/ 7/ 6/ ._1/( | ._1) ._3/ ._3/ ._3 ._2/ ._1/ | ._2( - - - (break) | ._2) - - ._1/ ._2/ | ._3 ._4 ._3/ ._2/ ._1/ ._3/( | ._3) - - - | ._3 ._3/ ._3/ ._3/ ._2/ ._1/ 5/( (break) | 5) - - 6/ 7/ | ._1/ ._1/ ._1/ ._1/ ._1/ ._1/ 6/ ._1/( | ._1) ._3/ ._3/ ._3 ._2/ ._1/ | ._2( - - - (break) | ._2) - - ._1/ ._2/ | ._3 ._4 ._3/ ._2/ ._1/ ._3/( | ._3) - - - | ._3 ._3/ ._3/ ._2/ ._2/ ._1/ 5/( (break) | 5)( - 5/) 6/ 6/ 7/ | ._1/ ._1/ ._1 ._1/ 7/ 6/ ._1/( | ._1) ._3/ ._3/ ._2 ._1 (break) | ._2( - - - | ._2) ._1/ ._2/ ._1 7 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Thou hast set our in -- iq -- ui -- ties, Lord, be -- fore Thy face; E'en our se -- cret hid -- den sins, Light of Thy coun -- te -- nance traced. For in Thine o'er -- flow -- ing wrath Have our days whol -- ly gone by; And our years come to an end Like a whis -- pered sigh. Oh, the days of all our years are sev -- en -- ty, Or, if due to strength, they eight -- y be; Yet what's their pride and boast? Toil and sor -- row and woe. All soon will fade; And we, too, fly a -- way. Teach us then to num -- ber our days, Heart of wis -- dom to ob -- tain. O Lord, teach us then to num -- ber our days, Heart of wis -- dom to gain. Sat -- is -- fy us, Lord, in the morn With lov -- ing -- kind -- ness out -- poured, That a joy -- ful ring -- ing shout may a -- rise All the days of our life. Lord, ac -- cord -- ing to all the days That we af -- flic -- tions have faced, And to the years where -- in e -- vil we've seen, Make us glad in Thee, Make us glad in Thee.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="ref">Psalms 90:8-15</link>
+  </links>
+  <music>
+    <midi location="ns" length="109">ns0526.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Thou hast set our iniquities,
+Lord, before Thy face;
+E'en our secret hidden sins,
+Light of Thy countenance traced.
+For in Thine o'erflowing wrath
+Have our days wholly gone by;
+And our years come to an end
+Like a whispered sigh.</stanza>
+    <stanza type="verse" number="">Oh, the days of all our years are seventy,
+Or, if due to strength, they eighty be;
+Yet what's their pride and boast?
+Toil and sorrow and woe.
+All soon will fade;
+And we, too, fly away.</stanza>
+    <stanza type="verse" number="">Teach us then to number our days,
+Heart of wisdom to obtain.
+O Lord, teach us then to number our days,
+Heart of wisdom to gain.
+Satisfy us, Lord, in the morn
+With lovingkindness outpoured,
+That a joyful ringing shout may arise
+All the days of our life.
+Lord, according to all the days
+That we afflictions have faced,
+And to the years wherein evil we've seen,
+Make us glad in Thee,
+Make us glad in Thee.</stanza>
+  </lyrics>
+</hymn>

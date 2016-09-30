@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我是個罪人蒙主恩</title>
+  <index>true</index>
+  <category>得救的證實與快樂－藉恩得救</category>
+  <numbers><cebuano num="311"/><chinese num="251"/><english num="311"/><korean num="251"/><portuguese num="174"/><tagalog num="311"/></numbers>
+  <creators>
+	<author biodate="1851-1935" biolink="">Translated from James Martin Gray</author>
+  </creators>
+  <melody>| 5 3./ 4// 5/ ._1 7/ | 6 ._1./ 6// 5 - | 4 2./ 3// 4/ 7 6/ | 5 6./ 4// 3 - (break) | 5 3./ 4// 5/ ._1. | ._2 6./ 6// ._2. ._1/ | 7 7./ 6// 5/ ._1. | ._2 7 ._1 - (break) | (Chorus) 5 5./ 5// 6/ 5. | 1 2 3 - | 5 ._1./ ._1// ._2/ ._1. | ._1 ._2 (.._3 - (break) | ._3 ._3./ ._2// ._2/ ._1 ._1/ | ._1 ._1./ 6// 6/ 5 5/ | 6 ._1./ 6// 5/ ._1. | ._2 7 ._1 - |</melody>
+  <layout>
+	<singingstanza>一 切 我 所 有， 無 非 是 接 受； 全 是 恩 所 賜， 在 我 信 之 後； 所 以 不 自 誇， 也 不 自 尊， 我 是 一 個 罪 人 蒙 主 恩！ 我 是 個 罪 人 蒙 主 恩！ 我 是 個 罪 人 蒙 主 恩！ 這 是 我 身 分， 榮 耀 歸 給 神， 我 是 個 罪 人 蒙 主 恩！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="311"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">一切我所有，無非是接受；
+全是恩所賜，在我信之後；
+所以不自誇，也不自尊，
+我是一個罪人蒙主恩！</stanza>
+	<stanza type="chorus" number="">我是個罪人蒙主恩！
+我是個罪人蒙主恩！
+這是我身分，榮耀歸給神，
+我是個罪人蒙主恩！</stanza>
+	<stanza type="verse" number="2">從前我愚昧，罪惡轄我心，
+使我的腳步完全遠離神；
+今被主尋回，能不歡欣？
+現今是個罪人蒙主恩！</stanza>
+	<stanza type="verse" number="3">流淚有何用，功行有何效？
+若非神憐憫，滅亡怎能逃？
+前我因有罪，不敢近神，
+現今是個罪人蒙主恩！</stanza>
+	<stanza type="verse" number="4">我愛我救主，心中樂歡騰，
+我這蒙恩人不能不說明；
+讓我再說明－用盡聲音－
+我是一個罪人蒙主恩！</stanza>
+  </lyrics>
+</hymn>

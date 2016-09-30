@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>邪惡之日要站住</title>
+  <index>true</index>
+  <category>屬靈的爭戰－站穩</category>
+  <numbers><chinese num="636"/><english num="874"/><korean num="636"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 5_. 5_. 6_. 5_. | 1 1 7_. - | 2 2 3 4 | 7_. 1 2 - (break) | 3 3 5 4 | 3 2 1 - | 6_. 1 1 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>邪 惡 之 日 要 站 住， 人 說 甚 麼 不 必 顧， 泥 土 之 臉 何 必 睹， 站 住， 主 精 兵。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="874"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">邪惡之日要站住，
+人說甚麼不必顧，
+泥土之臉何必睹，
+站住，主精兵。</stanza>
+	<stanza type="verse" number="2">站住因有神的話，
+站住，甘願出代價，
+追隨眾聖的步法，
+站住，主精兵。</stanza>
+	<stanza type="verse" number="3">站住，勝過敵詭計，
+站住，不被樂所迷，
+站住，不為人所欺，
+站住，主精兵。</stanza>
+	<stanza type="verse" number="4">站住，直到那日到，
+站住，因主，無所要，
+站住，儆醒且禱告，
+站住，主精兵。</stanza>
+  </lyrics>
+</hymn>

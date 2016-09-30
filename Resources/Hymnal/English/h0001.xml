@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glory be to God the Father</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Plan</category>
+  <numbers><cebuano num="1"/><chinese num="1"/><english num="1"/><german num="1"/><korean num="1"/><russian num="191"/><spanish num="1"/><tagalog num="1"/></numbers>
+  <creators>
+	<author biodate="" biolink="">J. F. Garland</author>
+	<composer biodate="1840-1908" biolink="">Ira David Sankey</composer>
+  </creators>
+  <meter>8.5.8.3.</meter>
+  <hymncode>5553216153222</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - - - | G - F - | C - D7 - | G - - - | E - E7 - | Am - F - | C/G - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 5 5 5 ._3 | ._2 ._1 6 ._1 | 5 ._3 ._2 ._2 | ._2 - - - (break) | ._3 ._3 ._3 ._2 | ._1 ._1 ._1 6 | 5 - 6( 7) | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>Glo -- ry be to God the Fa -- ther,  And to Christ the Son,  Glo -- ry to the Hol -- y Spir -- it&amp;mdash;  Ev -- er One.</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="21">e0001_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Glory be to God the Father,
+  And to Christ the Son,
+Glory to the Holy Spirit&amp;mdash;
+    Ever One.</stanza>
+	<stanza type="verse" number="2">As we view the vast creation,
+  Planned with wondrous skill,
+So our hearts would move to worship,
+    And be still.</stanza>
+	<stanza type="verse" number="3">But, our God, how great Thy yearning
+  To have sons who love
+In the Son e'en now to praise Thee,
+    Love to prove!</stanza>
+	<stanza type="verse" number="4">'Twas Thy thought in revelation,
+  To present to men
+Secrets of Thine own affections,
+    Theirs to win.</stanza>
+	<stanza type="verse" number="5">So in Christ, through His redemption
+  (Vanquished evil powers!)
+Thou hast brought, in new creation,
+    Worshippers!</stanza>
+	<stanza type="verse" number="6">Glory be to God the Father,
+  And to Christ the Son,
+Glory to the Holy Spirit&amp;mdash;
+    Ever One.</stanza>
+  </lyrics>
+</hymn>

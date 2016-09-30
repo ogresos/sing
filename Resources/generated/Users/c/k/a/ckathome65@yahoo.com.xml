@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Cindy</firstname>
+    <lastname>Davis</lastname>
+    <email>ckathome65@yahoo.com</email>
+    <password>INVIWznZ5OFWlBzpYK%2FWFw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>50.42.75.93</ipaddress>
+    <createdate>2011-10-31 10:23:08</createdate>
+    <lastupdateddate>2011-10-31 10:59:24</lastupdateddate>
+    <lastlogindate>2011-10-31 10:23:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

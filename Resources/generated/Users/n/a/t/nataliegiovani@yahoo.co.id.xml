@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Natalie</firstname>
+  <lastname>Giovani</lastname>
+  <email>nataliegiovani@yahoo.co.id</email>
+  <password>$2y$10$5bwZKQvGCuHj6ymIgRXHu..wyvz9TgZfaV4cRq1/hozSwG0RPrCi2</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-16 02:46:45</createdate>
+  <lastupdateddate>2014-06-16 04:11:17</lastupdateddate>
+  <lastlogindate>2014-06-16 02:46:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+    <fav category="default" type="h" num="986">Christ has a full redemption made</fav>
+    <fav category="default" type="h" num="998">Christ has become one with sinners</fav>
+    <fav category="default" type="h" num="1005">Christ our Redeemer died on the cross</fav>
+    <fav category="default" type="h" num="1032">Come, ye sinners, poor and wretched</fav>
+    <fav category="default" type="h" num="1073">Hark, here is a hidden myst'ry</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="1028">Jesus is tenderly calling thee home</fav>
+    <fav category="default" type="h" num="989">Jesus, my Savior, to Bethlehem came</fav>
+    <fav category="default" type="h" num="988">Merciful and loving</fav>
+    <fav category="default" type="h" num="993">O how sweet the glorious message</fav>
+    <fav category="default" type="h" num="994">Oh, how dark the night that wrapt my spirit round</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+    <fav category="default" type="h" num="1037">Though your sins be as scarlet</fav>
+    <fav category="default" type="h" num="1014">Verily, verily</fav>
+    <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

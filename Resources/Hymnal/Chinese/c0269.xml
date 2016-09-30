@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我如困鹿切慕溪水</title>
+  <index>true</index>
+  <category>羨慕－神</category>
+  <numbers><cebuano num="349"/><chinese num="269"/><english num="349"/><korean num="269"/><tagalog num="349"/></numbers>
+  <creators>
+	<author biodate="1652-1715" biolink="">Translated from N. Tate</author>
+	<author biodate="1639-1726" biolink="">Translated from N. Brady</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>我 如 困 鹿 切 慕 溪 水， 裡 面 乾 渴 難 言； 哦 神， 我 心 惟 你 是 追， 並 你 復 甦 恩 典。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我如困鹿切慕溪水，
+裡面乾渴難言；
+哦神，我心惟你是追，
+並你復甦恩典。</stanza>
+	<stanza type="verse" number="2">活的神阿，你是我神，
+我心飢渴要你；
+深願全人與你相親，
+盡享你的自己。</stanza>
+	<stanza type="verse" number="3">你是我的生命、力量，
+也是我的居所；
+你在基督給我飽嘗，
+在祂給我得著。</stanza>
+	<stanza type="verse" number="4">你的笑臉是我拯救，
+我今向你仰望；
+你的同在是我所求，
+願你多多恩賞。</stanza>
+	<stanza type="verse" number="5">我如困鹿切慕溪水，
+願你賞我所欲；
+哦神，除你何能施惠？
+惟你是我所需。</stanza>
+  </lyrics>
+</hymn>

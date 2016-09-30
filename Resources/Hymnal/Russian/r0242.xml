@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Отче, Твой Сын ведёт нашу хвалу</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ХВАЛА ЕМУ ОТ МНОГИХ СЫНОВЕЙ</category>
+  <numbers><cebuano num="50"/><chinese num="48"/><english num="50"/><french num="9"/><korean num="48"/><russian num="242"/><spanish num="30"/><tagalog num="50"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Robert Allen</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - 3 - | 6 5 4 4 | 3 - - - (break) | ._1 - 7 6 | 5 - 6 - | 7 5 6 6 | 5 - - - (break) | 5 - 5 5 | 7 - 6 - | 5 6 7 ._1 | ._2 - - - (break) | ._3 - ._2 ._1 | 7 6 5 ._1 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Отче, Твой Сын ведёт нашу хвалу
+После того, как пир наш завершён.
+Как сладка для Тебя Его хвала!
+В ней каждый с Ним в одно соединён.</stanza>
+    <stanza type="verse" number="2">Большей не нужно благости, чем Ты,
+Меньшей любви не ищем, чем Твоя.
+Зная Твою божественную жизнь,
+Здесь восхваляем, о Отец, Тебя.</stanza>
+    <stanza type="verse" number="3">Наша любовь к Тебе в Твоей любви,
+Узы земные превзойдя, растёт.
+В радостное присутствие Твоё
+Наши сердца Твоя любовь ведёт.</stanza>
+    <stanza type="verse" number="4">С Сыном Твоим соединившись, мы
+С радостью вновь несём Тебе хвалы.
+И, насыщаясь от Твоей любви,
+Имя Твоё вкушаем как сыны.</stanza>
+  </lyrics>
+</hymn>

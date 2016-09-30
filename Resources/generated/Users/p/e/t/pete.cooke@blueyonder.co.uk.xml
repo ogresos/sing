@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Peter</firstname>
+  <lastname>Cooke</lastname>
+  <email>pete.cooke@blueyonder.co.uk</email>
+  <password>$2y$10$8.gVVDsqBoNJfYObL6mciOctvwKGgU7.8Plkg5LQNB3q/bZaC0Uve</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.25.92.218</ipaddress>
+  <createdate>2015-01-25 04:14:06</createdate>
+  <lastupdateddate>2015-03-15 05:13:45</lastupdateddate>
+  <lastlogindate>2015-03-15 05:13:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

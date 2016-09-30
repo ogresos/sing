@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gary</firstname>
+  <lastname>Roaseboro</lastname>
+  <email>deaconroseboro@comcast.net</email>
+  <password>$2y$10$aX7yOxa7tqjSeciCNjiN.ucZvEx8foi5pwB62GPUQ.H1tVrAIAnlS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.49.212.174</ipaddress>
+  <createdate>2014-10-09 14:14:27</createdate>
+  <lastupdateddate>2015-04-11 00:40:48</lastupdateddate>
+  <lastlogindate>2015-04-11 00:31:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="83">All my life I searched for God</fav>
+  </favourites>
+</user>

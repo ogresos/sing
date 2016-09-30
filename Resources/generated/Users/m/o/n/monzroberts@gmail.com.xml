@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Monica</firstname>
+  <lastname>Roberts</lastname>
+  <email>monzroberts@gmail.com</email>
+  <password>$2y$10$5OlbaagqyqFJHPgJ9T9ldOf2B9cikk04Tr5R37d9D1Ow/c2fb1tH2</password>
+  <gender/>
+  <country/>
+  <ipaddress>125.236.162.64</ipaddress>
+  <createdate>2015-09-01 08:55:54</createdate>
+  <lastupdateddate>2015-09-01 09:03:01</lastupdateddate>
+  <lastlogindate>2015-09-01 08:57:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="830">Faith of our fathers, living still</fav>
+  </favourites>
+</user>

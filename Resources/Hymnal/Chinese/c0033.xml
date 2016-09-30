@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>父神阿你在羔羊裏</title>
+  <index>true</index>
+  <category>敬拜父－祂的救贖</category>
+  <numbers><chinese num="33"/><english num="37"/><korean num="33"/><tagalog num="37"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 2) 1 | 1( 7_.) 6_. | 5_.( 3) 2 | 1 - 5_. (break) | 5_.( 4) 3 | 3( 2) 1 | 5( 3) 1 | 2 - 5_. (break) | 5_.( 6_.) 7_. | 1 - 5_. | 6_.( 4) 2 | 1( 7_.) 5_. (break) | 6_. - 7_. | 1 - 1 | 1( 7_.) 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>父 神 阿， 你 在 羔 羊 裡 是 我 的 希 望 和 安 息， 你 名 所 表 一 切 慈 仁， 都 是 為 著 賜 福 我 們。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">父神阿，你在羔羊裡
+是我的希望和安息，
+你名所表一切慈仁，
+都是為著賜福我們。</stanza>
+	<stanza type="verse" number="2">你大而智、你公而仁，
+你是我父、又是我神；
+我們屬你，是藉寶血，
+作你兒女，永遠聯結。</stanza>
+	<stanza type="verse" number="3">我們今帶疲倦的靈，
+來到你前仰望你名；
+煩悶艱苦，尋求恩惠，
+如同困鹿渴慕溪水。</stanza>
+	<stanza type="verse" number="4">既是這樣，願你施恩，
+好叫我們親近你身；
+你的同在作我居所，
+你的大愛作我喜樂。</stanza>
+	<stanza type="verse" number="5">這叫我們永遠歡騰，
+這叫黑夜變為光明；
+若有微息尚能稱頌，
+必引弱聲向你歌誦。</stanza>
+  </lyrics>
+</hymn>

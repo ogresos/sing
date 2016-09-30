@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>讓主作工我身</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:851"/><english num="903"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3 3 3 4/( 3/) | 2 1/( 2/) 3 5_. | 6_. 7_. 1 2 (break) | 7_. 6_. 5_. 5_. | 3 3 3 4/( 3/) | 2 1/( 2/) 3 5_. | 6_. 7_. 1 3/( 2/) | 1 7_. (.1 0 |</melody>
+  <layout>
+	<singingstanza>求 主 發 言， 教 導 我 舌， 使 我 能 言， 照 你 心 意； 尋 回 愚 蒙 並 失 迷 者， 像 你 愛 中 細 細 尋 覓。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="822"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">求主發言，教導我舌，
+使我能言，照你心意；
+尋回愚蒙並失迷者，
+像你愛中細細尋覓。</stanza>
+	<stanza type="verse" number="2">求主引導，使我有光，
+領浪蕩者歸回正途；
+供我飲食，使我有糧，
+餧養飢渴之徒無數。</stanza>
+	<stanza type="verse" number="3">求主加力，使我得以
+穩踏基督磐石之上，
+且能伸出愛的膀臂，
+風暴海中救援喪亡。</stanza>
+	<stanza type="verse" number="4">求主教我如何將你
+寶貴救恩向人陳述，
+使我言辭如有雙翼，
+及於人心，觸人深處。</stanza>
+	<stanza type="verse" number="5">賜我以你甜美安息，
+使我言語應時如你，
+能施安撫，復甦、加力，
+使疲乏者都得再起。</stanza>
+	<stanza type="verse" number="6">用你豐富充滿我心，
+直至滿溢恩典美辭：
+述說你愛，頌揚你恩，
+分賜生命、亮光不止。</stanza>
+	<stanza type="verse" number="7">我雖不堪，願主使用，
+隨時、隨處照你喜悅；
+直至見你，榮耀之中，
+同享安息，喜樂不絕。</stanza>
+  </lyrics>
+</hymn>

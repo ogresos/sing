@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mundo'y iwan, Kristo'y kamtan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KAILANGAN SI KRISTO</category>
+  <numbers><cebuano num="1025"/><chinese num="437"/><english num="1025"/><german num="1025"/><korean num="437"/><portuguese num="300"/><russian num="171"/><spanish num="274"/><tagalog num="1025"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/ 6/ 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/ 5/ 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Mundo'y iwan, Kristo'y kamtan,
+Sa puso ko, kasiyahan;
+Tanging Kristo, aking mahal,
+Ang mundo'y pawang sukal!</stanza>
+	<stanza type="chorus" number="">Ang yaman Niya di mabigkas
+Nguni't aking talastas;
+Tamis Niyang kaaya-aya,
+Aking natatamasa.</stanza>
+	<stanza type="verse" number="2">Mundo'y iwan, Kristo'y kamtan,
+Walang ibang kailangan;
+Mundo'y kamtan, may kulang pa,
+Kristo'y kamtan, sapat na.</stanza>
+	<stanza type="verse" number="3">Munting puso di mapuno,
+Malaki man ang mundo;
+Munting puso'y laging salat
+Kristo lang makasapat.</stanza>
+	<stanza type="verse" number="4">Kung may Kristo, nalulugod;
+Walang Kristo, malungkot;
+Kristo'y aking kayamanan;
+At Siya'y aking tahanan.</stanza>
+  </lyrics>
+</hymn>

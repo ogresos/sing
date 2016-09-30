@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa dasal ihayag Siya</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;HINAHAYAG ANG PANGINOON</category>
+  <numbers><cebuano num="785"/><chinese num="567"/><english num="785"/><german num="785"/><korean num="567"/><russian num="285"/><tagalog num="785"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 2. 3/ | 4 2 3 - | 3 5 2. 3/ | 4 2 1 - (break) | 2 3 1. 2/ | 7_. 6_. 5_. - | 3 5 2. 3/ | 4 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="583"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa dasal ihayag Siya,
+Di ating sarili nga.
+Kundi si Kristo Mismo
+Makintal Kanyang gusto.</stanza>
+	<stanza type="verse" number="2">Sa dasal ihayag Siya,
+Bigkasin intensyon Niya;
+Isip patahimikin
+Sa Kanya lang haluin.</stanza>
+	<stanza type="verse" number="3">Sa dasal ihayag Siya,
+Tumitingin sa Kanya;
+Tulad nang sa salamin,
+Glorya Niya'y aninagin.</stanza>
+	<stanza type="verse" number="4">Sa dasal ihayag Siya,
+Siyang Kristong nagsalita:
+Kristo sa loob natin,
+Sa Kristong nasa langit.</stanza>
+	<stanza type="verse" number="5">Sa dasal ihayag Siya,
+Hindi sa sarili nga;
+Lubusang kasama Siya,
+Sa pamamagitan Niya.</stanza>
+  </lyrics>
+</hymn>

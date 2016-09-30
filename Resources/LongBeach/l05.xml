@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Bible is a romance</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Christ's Bride</category>
+  <numbers><english num="lb:5"/><lsmyp num="249"/><vsb num="48"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Bob Freepartner">B. F.</author>
+    <composer biodate="" biolink="" fullname="Paul Cozza">P. C.</composer>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5511231132165</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm/F - - - | G - - - | C - - - | Am - - - | Dm - D/F# - | G - - - | F - - - | C - - - | F - C/E F | G - - - | Am - - - | F - - - | Dm7 - - - | G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 5_./ 1/( 1) - 1/ 2/ | 3/ 1/( 1) - 1/ 3/ | 2 - 1 6_. (break) | 5_. - - 1/( 3/) | 5. 5/ 5 5 | 6. 3/( 3) 3 | 2. 3/ 2 3 (break) | 2 - - 2 | 4. 4/ 6 6 | 5. 3/( 3) 1 | 4. 5/ 3 5 (break) | 2 - - 3/( 2/) | 1. 6_./ 6_. 5_. | 6_.. 1/( 1) 2 | 1 - - 6_. | 5_. - - 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>The Bi -- ble is a ro -- mance In the most ho -- ly sense: God and His chos -- en peo -- ple In love it so pre -- sents. This U -- ni -- vers -- al Cou -- ple Through -- out it is dis -- played; God in Christ is the Bride -- groom, His saints, the Bride, por -- trayed.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="44">lb05.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Bible is a romance
+In the most holy sense:
+God and His chosen people
+In love it so presents.
+This Universal Couple
+Throughout it is displayed;
+God in Christ is the Bridegroom,
+His saints, the Bride, portrayed.</stanza>
+    <stanza type="verse" number="2">Through shadows, types and figures,
+God's deepest thought is known;
+As typified by Adam,
+The Husband, Christ, is shown.
+A rib brought forth from Adam
+Reveals the source of life
+By which God built a woman:
+Eve, as the church, His wife.</stanza>
+    <stanza type="verse" number="3">To be His people's Husband,
+To take them as His wife:
+This is what God desires
+To live in marriage life.
+Their sacrifice and worship
+Alone could not content;
+But with them to be married
+Was God's foremost intent.</stanza>
+    <stanza type="verse" number="4">This romance is the finest
+As seen in Song of Songs;
+For her Beloved's kisses
+His seeking lover longs.
+Love's work in her produces
+No person of her own,
+But she becomes the City,
+Her Person, Christ alone.</stanza>
+    <stanza type="verse" number="5">Christ is our coming Bridegroom;
+We are the Church, His Bride,
+Redeemed, regenerated,
+The issue of His side,
+In source, in life, in nature
+And person fully one,
+His counterpart forever,
+The New Jerusalem.</stanza>
+  </lyrics>
+</hymn>

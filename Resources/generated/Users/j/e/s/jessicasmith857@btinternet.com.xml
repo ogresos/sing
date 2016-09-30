@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jessica</firstname>
+    <lastname>Smith</lastname>
+    <email>jessicasmith857@btinternet.com</email>
+    <password>rMsS7hrjms3juLKor1D%2Fig%3D%3D</password>
+    <gender>F</gender>
+    <country>uk</country>
+    <ipaddress>86.138.72.194</ipaddress>
+    <createdate>2012-10-31 14:21:26</createdate>
+    <lastupdateddate>2012-10-31 17:17:19</lastupdateddate>
+    <lastlogindate>2012-10-31 17:17:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+        <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="121">Thine be the glory, risen, conqu'ring Son</fav>
+        <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+    </favourites>
+</user>

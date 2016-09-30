@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Thapa</lastname>
+  <email>thapa.john@outlook.com</email>
+  <password>$2y$10$rHaCd3SzVb9TP.NIF54vKeHbhtui2J2xlHY9Qa9FsQ6EMV0LL8lDC</password>
+  <gender/>
+  <country>np</country>
+  <ipaddress>27.33.63.160</ipaddress>
+  <createdate>2014-10-09 06:24:46</createdate>
+  <lastupdateddate>2014-10-09 06:28:26</lastupdateddate>
+  <lastlogindate>2014-10-09 06:28:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

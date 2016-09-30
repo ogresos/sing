@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿利路亞阿利路亞</title>
+  <index>true</index>
+  <category>經歷基督－與祂交通</category>
+  <numbers><cebuano num="551"/><chinese num="416"/><dutch num="67"/><english num="551"/><french num="99"/><german num="551"/><korean num="416"/><portuguese num="279"/><russian num="105*"/><spanish num="258"/><tagalog num="551"/></numbers>
+  <creators>
+	<author biodate="1865-1949" biolink="">Translated from Charles Price Jones</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5./ 5// 5./ 5// 5 ._3./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5./ 5// 5./ 5// 5 ._1./ ._1// | ._2./ ._2// ._2./ ._3// ._2 3./ 4// (break) | 5./ 5// 5./ 5// 5 ._3./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5./ 5// ._1./ ._2// ._3 ._1./ ._1// | ._2./ ._2// ._1./ 7// (.._1 (Chorus) ._1./ ._2// (break) | ._3 - ._1 ._4./ ._4// | ._3 - ._1 7./ ._1// | ._2./ ._2// ._2./ ._2// ._3 ._2./ ._2// | ._1./ ._1// 7./ 6// 5 3./ 4// (break) | 5 - ._1 ._1./ ._2// | ._3 - ._1 ._1./ ._1// | ._2./ ._2// ._2./ ._2// ._1./ ._1// 7./ 7// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 已 相 信 真 事 實， 我 已 接 受 主 的 死， 我 已 經 過 外 院 子， 阿 利 路 亞， 讚 美 主！ 藉 主 贖 罪 的 寶 血， 我 得 歸 神 成 聖 潔， 不 再 有 分 於 罪 孽， 阿 利 路 亞， 讚 美 主！ 阿 利 路 亞！ 阿 利 路 亞！ 裂 開 幔 子 我 已 過， 這 裡 榮 耀 不 敗 落！ 阿 利 路 亞！ 阿 利 路 亞！ 我 今 在 我 王 的 面 前 過 生 活！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="551"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我已相信真事實，
+我已接受主的死，
+我已經過外院子，
+阿利路亞，讚美主！
+藉主贖罪的寶血，
+我得歸神成聖潔，
+不再有分於罪孽，
+阿利路亞，讚美主！</stanza>
+	<stanza type="chorus" number="">阿利路亞！阿利路亞！
+裂開幔子我已過，
+這裡榮耀不敗落！
+阿利路亞！阿利路亞！
+我今在我王的面前
+過生活！</stanza>
+	<stanza type="verse" number="2">外層幔子我已過，
+進入頭層的聖所，
+神聖供應全得著，
+阿利路亞，讚美主！
+我今與神已和諧，
+經過祭壇全聖別，
+神外世界永棄絕，
+阿利路亞，讚美主！</stanza>
+	<stanza type="verse" number="3">內層幔子我也過，
+進入二層至聖所，
+來到神的施恩座，
+阿利路亞，讚美主！
+今在神前過生活，
+以神作我的居所，
+不再有己的間隔，
+阿利路亞，讚美主！</stanza>
+	<stanza type="verse" number="4">我今是神的祭司，
+經過救贖纔如此，
+身分地位何確實，
+阿利路亞，讚美主！
+我今是在靈裡面，
+活在神的榮耀前，
+夜以繼晝不間斷，
+阿利路亞，讚美主！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>忠信牧養神賜產業</title>
+  <index>true</index>
+  <numbers><chinese num="ns:510c"/><english num="ns:510"/></numbers>
+  <category>鼓勵&amp;mdash;牧養兒童</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Benjamin Chuang">B. C.</author>
+    <author biodate="" biolink="" fullname="Rebecca Chuang">R. C.</author>
+  </creators>
+  <melody>| 0. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ (break) | 5_.. 1/ 3/ 1/ | 2. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ (break) | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 (break) | 1. (Chorus) 5_./ 1/ 3/ | 5. 5/ 4/ 3/ | 4. 5_./ 7_./ 2/ (break) | 4. 4/ 3/ 2/ | 3. 5/ 5/ 3/ | 1. 3/ 2/ 1/ (break) | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 | 1. 0. |</melody>
+  <layout>
+    <singingstanza>神 賜 兒 女 作 為 產 業， 交 託 父 母 照 顧 餵 養。 我 需 先 得 屬 靈 裝 備， 方 能 照 神 心 意 牧 養。 把 握 機 會 忠 信 牧 養， 正 確 信 仰 殷 勤 傳 輸， 高 尚 品 格 趁 早 建 立， 時 代 器 皿 呈 獻 于 主。</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="396"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">神賜兒女作為產業，
+交託父母照顧餵養。
+我需先得屬靈裝備，
+方能照神心意牧養。</stanza>
+    <stanza type="chorus" number="">忠信牧養把握機會，
+正確信仰殷勤傳輸，
+高尚品格趁早建立，
+時代器皿呈獻于主。</stanza>
+    <stanza type="verse" number="2">天天享受基督恩典，
+時時活出神人新樣。
+儆醒代禱適當成全，
+良好榜樣最佳牧養。</stanza>
+    <stanza type="verse" number="3">世代彎曲污染遍地，
+惟獨召會聖別美地。
+肢體配搭扶持牧養，
+貴重器皿讓神滿意。</stanza>
+  </lyrics>
+</hymn>

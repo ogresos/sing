@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gott in Christus wurde Fleisch, zu einem Menschen, so wie ich</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Das Leben</category>
+  <numbers><cebuano num="1017"/><chinese num="693*"/><english num="1017"/><french num="199"/><german num="1017"/><korean num="693"/><portuguese num="452"/><russian num="181"/><spanish num="474"/><tagalog num="1017"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5./ 5// | 5/ 5/ 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1./ 7// (break) | 6./ 6// 6./ 7// ._1./ 7// ._1./ 6// | 5./ 6// 5./ 3// 5 5./ 5// (break) | 5./ 5// 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 0 | 6. 7/ ._1./ 7// ._1./ 6// | 5 - 3 - (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Gott in Chris -- tus wur -- de Fleisch, zu ei -- nem Men -- schen, so wie ich, Dort am Kreuz vom al -- ten A -- dam wun -- der -- bar be -- frei -- te mich, Auf -- er -- stand, um als der Geist in mir zu le -- ben e -- wig -- lich, Mein Le -- ben ist der Herr. Preist den Herrn! Oh Hal -- le -- lu -- ja! Preist den Herrn! Oh Hal -- le -- lu -- ja! Preist den Herrn! Oh Hal -- le -- lu -- ja! Denn Chris -- tus lebt in mir!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1017"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gott in Christus wurde Fleisch, zu einem Menschen, so wie ich,
+Dort am Kreuz vom alten Adam wunderbar befreite mich,
+Auferstand, um als der Geist in mir zu leben ewiglich,
+Mein Leben ist der Herr.</stanza>
+	<stanza type="chorus" number="">Preist den Herrn! Oh Halleluja!
+Preist den Herrn! Oh Halleluja!
+Preist den Herrn! Oh Halleluja!
+Denn Christus lebt in mir!</stanza>
+	<stanza type="verse" number="2">Gott in Christus wurde Fleisch, zu einem Menschen, so wie ich,
+Dort am Kreuz vom alten Adam wunderbar befreite mich,
+Auferstand, um als der Geist in mir zu leben ewiglich,
+Mein Leben ist der Herr.</stanza>
+	<stanza type="chorus" number="">Welch ein Sieg! Oh Halleluja!
+Welch ein Sieg! Oh Halleluja!
+Welch ein Sieg! Oh Halleluja!
+Denn Christus lebt in mir!</stanza>
+  </lyrics>
+</hymn>

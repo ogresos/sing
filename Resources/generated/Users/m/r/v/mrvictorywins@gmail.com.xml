@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Victor</firstname>
+  <lastname>Gonzalez</lastname>
+  <email>mrvictorywins@gmail.com</email>
+  <password>$2y$10$aHpGEKDrfHuFE4iD57GYgOnihlOtrOi09NX6GT.7Cz9KHX32ffOkK</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>76.89.196.139</ipaddress>
+  <createdate>2013-08-31 16:51:43</createdate>
+  <lastupdateddate>2016-02-21 03:10:24</lastupdateddate>
+  <lastlogindate>2016-02-21 03:10:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="435">Back in My Father's House Again!</fav>
+    <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="12">O God, Thou art the source of life</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="ns" num="382">Ordinary Days</fav>
+    <fav category="default" type="nt" num="426">Remove My Covering, Lord</fav>
+    <fav category="default" type="ns" num="276">Rise up, my love</fav>
+  </favourites>
+</user>

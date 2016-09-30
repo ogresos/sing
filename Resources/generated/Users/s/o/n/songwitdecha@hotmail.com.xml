@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>songwit</firstname>
+    <lastname>decha</lastname>
+    <email>songwitdecha@hotmail.com</email>
+    <password>$1$0qb4WctB$kmjU2DIoyzFqli6OhGv/B.</password>
+    <gender>M</gender>
+    <country>Thailand</country>
+    <ipaddress>125.24.213.73</ipaddress>
+    <createdate>2008-07-26 01:43:21</createdate>
+    <lastupdateddate>2013-02-20 21:13:22</lastupdateddate>
+    <lastlogindate>2013-02-20 21:13:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    </favourites>
+</user>

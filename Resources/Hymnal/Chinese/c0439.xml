@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>都因著你</title>
+  <index>true</index>
+  <category>經歷基督－一般</category>
+  <numbers><chinese num="439"/><english num="8439"/><tagalog num="c439"/></numbers>
+  <melody>| 0 - 0/ ._1/ 7/ 6/ | 5. 5/ 4#/ 5/ 6/ 3/ | 5( - 5/) ._1/ 7/ 6/ | 4. 4/ 3/ 4/ 6/ 7/ (break) | 5( - 5/) ._1/ 7/ 6/ | 5. 5/ 5#/ 5#/ 6/ 7/ | ._1( - ._1/) 6/ 7/ ._1/ | ._2. 7/ 7/ 6/ 5/ 4#/ (break) | 5( - 5/) (Chorus) 5/ 6/ 7/ | ._1( - ._1/) ._1/ 7/ 7b/ | 6( - 6/) ._4/ ._3/ ._2/ | ._1 6/ (.5/ ._1/ ._1 7/ | ._1( - ._1/) 0. ||</melody>
+  <layout>
+	<singingstanza>今 日 我 心 因 歡 樂 而 歌 唱， 我 主， 因 你 是 我 生 命、 安 康； 親 愛 的 主， 前 途 我 全 藉 你， 我 也 知 道 父 神 是 為 我 的。 都 因 著 你！ 都 因 著 你！ 都 因 著 各 各 他！ 都 因 著 你！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8439"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">今日我心因歡樂而歌唱，
+我主，因你是我生命、安康；
+親愛的主，前途我全藉你，
+我也知道父神是為我的。</stanza>
+	<stanza type="chorus" number="">都因著你！
+都因著你！
+都因著各各他！
+都因著你！</stanza>
+	<stanza type="verse" number="2">前有一日，我因懼怕永死，
+就用行為將我自己裝飾，
+盼望能彀避免神的刑罰，
+但我今知你是惟一救法。</stanza>
+	<stanza type="verse" number="3">將來罪人雖然都要痛哭，
+但你召會卻要被提得福，
+因為藉你所灑幔裡寶血，
+她能勝過陰府所有猖獗。</stanza>
+	<stanza type="verse" number="4">神的羔羊為我擔當罪惡，
+使我得救，今後永遠生活，
+你為我喝公義忿怒的杯，
+審判已過，現今再無死味。</stanza>
+	<stanza type="verse" number="5">你使我在青草地場躺臥，
+平安的神將祂最好給我，
+因我現今倚在你的胸懷，
+與你交通，並嘗你的大愛。</stanza>
+	<stanza type="verse" number="6">願你保守我的生命佳美，
+使我雖然遇見譏嘲、謗毀，
+也能因信時常仰望父神，
+學習交託，受苦仍能歡欣。</stanza>
+	<stanza type="verse" number="7">求主教我拒絕人世名聲，
+面如堅石，經過火熱水深，
+願意與主同受羞辱、挫折，
+為主的名作一個殉道者！</stanza>
+	<stanza type="verse" number="8">當我被提，在人子前站立，
+釘十架者要成我的詩題；
+你從天來經歷人生苦楚，
+又在加略捨去生命血肉。</stanza>
+	<stanza type="chorus" number="">都因著我！
+都因著我！
+都因著我一人！
+都因著我！</stanza>
+  </lyrics>
+</hymn>

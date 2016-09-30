@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ignacio</firstname>
+  <lastname>Miller</lastname>
+  <email>naciosr@cneteps.com</email>
+  <password>$2y$10$RbJwxIUNQSVdjA6VRneshePbm/l0yFPwK.KfQP42K72borJwgKRcu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.201.8.0</ipaddress>
+  <createdate>2014-12-07 17:35:09</createdate>
+  <lastupdateddate>2014-12-07 17:38:00</lastupdateddate>
+  <lastlogindate>2014-12-07 17:38:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

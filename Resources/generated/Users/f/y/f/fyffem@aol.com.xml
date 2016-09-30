@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michael</firstname>
+  <lastname>Fyffe</lastname>
+  <email>fyffem@aol.com</email>
+  <password>$2y$10$rbkSOLQuIINEAvC8.oQove5Sv4euGlJqo7BGDbGH4E1PJUUkNvF4q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.41.156.140</ipaddress>
+  <createdate>2015-02-08 15:15:04</createdate>
+  <lastupdateddate>2015-02-08 15:17:03</lastupdateddate>
+  <lastlogindate>2015-02-08 15:17:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

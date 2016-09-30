@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Obi</firstname>
+    <lastname>Oji</lastname>
+    <email>obi.oji@gmail.com</email>
+    <password>$1$bqLpy1Md$4HRssuJ5Opix/ckcqq2IE0</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>129.107.240.1</ipaddress>
+    <createdate>2008-07-26 01:43:15</createdate>
+    <lastupdateddate>2013-11-18 17:16:51</lastupdateddate>
+    <lastlogindate>2013-11-18 17:14:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="494">Christ is the testimony true</fav>
+        <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+        <fav category="default" type="h" num="1">Glory be to God the Father</fav>
+        <fav category="default" type="h" num="1163">He's the vine and we're the branches</fav>
+        <fav category="default" type="h" num="268">How I praise Thee, precious Savior</fav>
+        <fav category="default" type="h" num="112">How sweet is the story of Christ's boundless love</fav>
+        <fav category="default" type="h" num="1247">If our hearts would be established</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="211">Jesus, my Savior! Thou art mine</fav>
+        <fav category="default" type="lb" num="23">Just to be in You</fav>
+        <fav category="default" type="h" num="1104">Lord, Thou art our peace offering</fav>
+        <fav category="default" type="h" num="1303">The kingdom of God is at hand</fav>
+        <fav category="default" type="h" num="1082">The living of Christ when He sojourned on earth</fav>
+    </favourites>
+</user>

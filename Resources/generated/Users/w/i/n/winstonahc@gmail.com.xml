@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>winston</firstname>
+    <lastname>au</lastname>
+    <email>winstonahc@gmail.com</email>
+    <password>JbY%2BBQu55buTQExLdUuWJg%3D%3D</password>
+    <gender>M</gender>
+    <country>ae</country>
+    <ipaddress>82.12.106.41</ipaddress>
+    <createdate>2010-06-04 18:08:28</createdate>
+    <lastupdateddate>2010-08-14 12:05:25</lastupdateddate>
+    <lastlogindate>2010-08-14 12:05:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+        <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+    </favourites>
+</user>

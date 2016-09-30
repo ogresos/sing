@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Min Hui</firstname>
+<lastname>Lin</lastname>
+<email>linmhu@gmail.com</email>
+<password>$1$mb.k5jHb$rc2Fyl0wCYpSpqCb3Mvaf0</password>
+<gender>F</gender>
+<country>Taiwan</country>
+<ipaddress>59.172.240.59</ipaddress>
+<createdate>2008-07-26 01:43:11</createdate>
+<lastupdateddate>2009-09-15 18:22:12</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="58">The Bible is God's breath</fav>
+    </favourites>
+</user>

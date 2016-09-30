@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Betty</firstname>
+    <lastname>McCoy</lastname>
+    <email>bettymccoy44@icloud.com</email>
+    <password>F9t5HWViLKFKsBvraqiXug%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>174.238.0.8</ipaddress>
+    <createdate>2014-03-25 15:39:03</createdate>
+    <lastupdateddate>2014-03-25 15:39:03</lastupdateddate>
+    <lastlogindate>2014-03-06 12:33:16</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1198">A mighty flowing-out is God</fav>
+        <fav category="default" type="h" num="1145">God gave His Son to man to be</fav>
+        <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+        <fav category="default" type="h" num="1085">His Name is Wonderful</fav>
+        <fav category="default" type="h" num="812">I come to Thee, dear Lord</fav>
+        <fav category="default" type="h" num="600">My God, my Portion, and my Love</fav>
+        <fav category="default" type="h" num="811">My heart is hungry, my spirit doth thirst</fav>
+        <fav category="default" type="h" num="12">O God, Thou art the source of life</fav>
+    </favourites>
+</user>

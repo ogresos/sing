@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que mon vieil homme soit détruit</title>
+  <index>true</index>
+  <category>Les désirs&amp;mdash;de grandir en Christ</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+    <author biodate="1741-1801" biolink="">Translated from Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) 0 5 (break) | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="261"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Seigneur Jésus, grandis en moi
+Et que toute ombre fuie.
+Que mon cœur soit toujours à Toi,
+De tout lien affranchi.</stanza>
+	<stanza type="chorus" number="">Sois mon soutien dans mes faiblesses,
+Exauce ma prière.
+Que davantage je connaisse
+Ta vie et Ta lumière.</stanza>
+	<stanza type="verse" number="2">L'éclat de Tes rayons divins
+Dévoile mes pensées,
+Me montrant que je ne suis rien
+Sans Toi, mon bien-aimé !</stanza>
+	<stanza type="verse" number="3">Ô Véritable, Sage et Saint !
+Je veux Te contempler.
+En tout malheur comme en tout bien,
+Toi seul j'exprimerai.</stanza>
+	<stanza type="verse" number="4">Accorde-moi la joie d'en haut,
+Demeure mon rocher.
+Que Ton amour à jamais soit
+Dans mon cœur attisé !</stanza>
+	<stanza type="verse" number="5">Que mon vieil homme soit détruit,
+Que j'en sois dépouillé !
+Que par Ta grâce dans ma vie,
+Ton nom soit honoré !</stanza>
+  </lyrics>
+</hymn>

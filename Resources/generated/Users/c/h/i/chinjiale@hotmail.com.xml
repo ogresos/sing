@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Chin</firstname>
+<lastname>Jia LE</lastname>
+<email>chinjiale@hotmail.com</email>
+<password>$1$Wr9jIWVi$qMOt1J8huGRr9N/6nkAS0/</password>
+<gender>F</gender>
+<country>Singapore</country>
+<ipaddress>220.255.7.191</ipaddress>
+<createdate>2008-09-29 00:21:10</createdate>
+<lastupdateddate>2009-09-15 18:25:59</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cords of a Man, Bands of Love</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;His Humanity</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>123532171234643212</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | G - - - | Am - - - | Am - - - | F - - - | C - - - | G - - - | G7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | Dm - - - | G - - - | G - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | Em - - - | C - - - | G - - - | Am - - - | C - - - | C - - - | G - - - | F - - - | Dm - - - | G - - - | G - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - - 1/ 2/ | 3. 5_./( 5_.) 3 | 2. 1/( 1) 7_. | 1( - - - | 1) - - 2/ 3/ | 4. 6_./( 6_.) 4 | 3. 2/( 2) 1 | 2( - - - (break) | 2) - 2 3 | 4. 6_./( 6_.) 4 | 2 - - 1/ 2/ | 3. 7_./( 7_.) 2 | 1 - - 3 | 4. 4/( 4) 4 (break) | 4. 4/( 4) 5 | 5( - - - | 5) - 2 3 | 4. 4/( 4) 3 | 2. 1/( 1) 7_. | 1( - - - | 1) - - 0 (break) | (Chorus) 0 ._1 ._1/ 7/( 7/) 6/ | 5 5/ 6/ 5 3 | 5 - - 3 | 2 - - - (break) | 0 ._1 ._1/ 7/( 7/) 6/ | 5/ 5/( 5/) 6/ 5/ 4/( 4/) 3/ | 5. 6/ 5 3 | 2 - - 2/( 3/) (break) | 4. 4/( 4)( - | 4) 0 4 5 | 5( - - - | 5) - 2 3 | 4. 4/( 4) 3 | 2 - 1/ 7_.. | 1( - - - | 1) 0 - - ||</melody>
+  <layout>
+    <singingstanza>I was drawn to the world and it's sin, I was seek -- ing but emp -- ty with -- in; Then this man crossed my path, And in -- stead of God's wrath He loved me and o -- pened God's heart! Je -- sus loves me and wa -- ters my heart. He drew me with cords of a man, With bands of love; Christ's com -- ing His liv -- ing, His dy -- ing, His ris -- ing far a -- bove, Des -- cend -- ing... like a dove; Reach -- ing me, e -- ven me, With God's love.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="64">ns0466.mid</midi>
+  </music>
+  <links>
+    <link type="ref">cf. Hosea 11:4</link>
+  </links>
+  <lyrics>
+    <stanza type="verse" number="1">I was drawn to the world and it's sin,
+I was seeking but empty within;
+Then this man crossed my path,
+And instead of God's wrath
+He loved me and opened God's heart!
+Jesus loves me and waters my heart.</stanza>
+    <stanza type="chorus" number="">He drew me with cords of a man,
+With bands of love;
+Christ's coming His living, His dying,
+His rising far above,
+Descending... like a dove;
+Reaching me, even me,
+With God's love.</stanza>
+    <stanza type="verse" number="2">I was seeking the world and it's things,
+I was wealthy and yet could not see
+It was Christ I desired,
+Of the world I was tired,
+He loved me and came to my house!
+Jesus loves me and saves all my house!</stanza>
+    <stanza type="verse" number="3">I was happy with friends, all my mates,
+With my music, wild parties and dates;
+Yet when Christ came to call,
+I have gladly left all!
+He loved me and He gave His all!
+Jesus loves me, I answer His call!</stanza>
+  </lyrics>
+</hymn>

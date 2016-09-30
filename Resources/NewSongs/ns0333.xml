@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O how glorious! O how precious!</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;The Filling</category>
+  <numbers><english num="ns:333"/><lsmyp num="53"/></numbers>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <layout>
+    <singingstanza>O how glo -- ri -- ous! O how pre -- cious! Now the Spir -- it dwells in me. Life im -- part -- ing, truth re -- veal -- ing, Shin -- ing, lead -- ing con -- stant -- ly. Fill me now! Fill me now! Fill me with Thy Spir -- it now! Strip me whol -- ly, emp -- ty thorough -- ly, Fill me with Thy Spir -- it now!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O how glorious! O how precious!
+Now the Spirit dwells in me.
+Life imparting, truth revealing,
+Shining, leading constantly.</stanza>
+    <stanza type="chorus" number="">Fill me now! Fill me now!
+Fill me with Thy Spirit now!
+Strip me wholly, empty thoroughly,
+Fill me with Thy Spirit now!</stanza>
+    <stanza type="verse" number="2">Word of promise, real within me,
+Life divine now freeing me&amp;mdash;
+From sin's cruel control releasing,
+From death's power setting free.</stanza>
+    <stanza type="verse" number="3">Deepest springs of life dispensing,
+Like the hart I thirst for Thee;
+Desp'rate, may I drink Thy fullness
+Till Thy river flows through me.</stanza>
+    <stanza type="verse" number="4">May my self be put to death, Lord,
+Under Thy control I'd be.
+Transformed to Thy living image,
+I'd forever flow out Thee.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dawn</firstname>
+  <lastname/>
+  <email>dmbrown73521@gmail.com</email>
+  <password>$2y$10$YbAU8zZG8vmWC0z45aUKT.LIwClnT1PzuuDCWgGSyLVziNaLyOsKO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>160.3.57.199</ipaddress>
+  <createdate>2016-06-07 22:30:20</createdate>
+  <lastupdateddate>2016-06-07 22:32:33</lastupdateddate>
+  <lastlogindate>2016-06-07 22:31:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+  </favourites>
+</user>

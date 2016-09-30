@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Known of my Father</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Salvation</category>
+  <numbers><english num="ns:47"/><vsb num="55"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Patrick Casey">P. C.</author>
+    <composer biodate="" biolink="" fullname="Patrick Casey">P. C.</composer>
+  </creators>
+  <hymncode>1111111512</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>165</tempo>
+  <chords>| C - - | G/B - - | Am - - | G - - | C - - | F - - | C - - | G - - | C - - G7/D - - | C/E - F | G - - | C - - | F - - | C/G - G | C - - | C - - | F - - | C - - | G7 - - | C - - | F - - | C/G - - | G - - | C - - | F - - | C - - | G7 - - | C - - | F - - | C/G - G7 | C - - |</chords>
+  <melody>| 1 1 1 | 1 1 1 | 1 5_. 1 | 2 - - | 3 2 1 | 4( 3) 2 | 3 3 3 | 2 - - | 1 1 1 | 1 1 1 | 1 5_. 1 | 2 - - | 3( 2) 1 | 4( 3) 2 | 3 3 2 | 1 - - (break) | (Chorus) 3 - - | 6 - - | 5.( 4/ 3) | 4( 3 2) | 3( 2) 1 | 4( 3) 2 | 3 3 3 | 2 - 0 (break) | 3 - - | 6 - - | 5.( 4/ 3) | 4( 3 2) | 3( 2) 1 | 4( 3) 2 | 3 3 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Known of my Fa -- ther be -- fore time be -- gan, Washed in the sprin -- kling blood of the Lamb, Now in the spir -- it I am a God- -- man, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah! Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah, Hal -- le -- lu -- jah.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="35">ns0047.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Known of my Father before time began,
+Washed in the sprinkling blood of the Lamb,
+Now in the spirit I am a God-man,
+Hallelujah, Hallelujah!</stanza>
+    <stanza type="chorus" number="">Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah, Hallelujah.</stanza>
+    <stanza type="verse" number="2">Father, You knew me a long time ago.
+In Your foreknowledge, Your mercy to show,
+You foreordained me Your glory to know,
+Hallelujah, Hallelujah!</stanza>
+    <stanza type="verse" number="3">Son, in Your blood, the most precious of all,
+I have been purchased and saved from the fall.
+Your resurrection's my reason to call,
+Hallelujah, Hallelujah!</stanza>
+    <stanza type="verse" number="4">Spirit, You came and You sanctified me.
+You gave me faith when my eyes couldn't see.
+Now You're the Spirit of life within me,
+Hallelujah, Hallelujah!</stanza>
+    <stanza type="verse" number="5">You are my Father and I have Your seed!
+I have been purchased and I am redeemed!
+I have the Spirit within me indeed!
+Hallelujah, Hallelujah!</stanza>
+  </lyrics>
+</hymn>

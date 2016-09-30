@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Roger</firstname>
+  <lastname>Keller</lastname>
+  <email>prkeller@consolidated.net</email>
+  <password>$2y$10$R0syetQlDxA2Uiy7RitK2ev1s8eXnWfv05GeNcT49Zabb.v0bXeWe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.179.132.227</ipaddress>
+  <createdate>2015-08-24 20:30:24</createdate>
+  <lastupdateddate>2015-08-24 20:49:45</lastupdateddate>
+  <lastlogindate>2015-08-24 20:34:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

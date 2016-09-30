@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Mark</firstname>
+<lastname>Whilden</lastname>
+<email>mwhilden@mitre.org</email>
+<password>$1$zGAfZWy6$G7/25B.7/FFsOXKKns2Tb/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>72.192.241.202</ipaddress>
+<createdate>2008-11-09 20:50:16</createdate>
+<lastupdateddate>2009-09-15 18:26:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="50">Zion</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    </favourites>
+</user>

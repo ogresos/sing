@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unsaon ko pag-awat N'ya</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;MAGSUNOD SA GINOO</category>
+  <numbers><cebuano num="462"/><chinese num="345"/><english num="462"/><korean num="345"/><tagalog num="462"/></numbers>
+  <creators>
+    <author biodate="1789-1855" biolink="">Translated from Josiah Conder</author>
+  </creators>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Unsaon ko pag-awat N'ya
+Nga gialagaran's gugma?
+Di gayud mosimang's dalan,
+Nga maghatud sa trono N'ya.</stanza>
+    <stanza type="verse" number="2">Kaguol, pagbiaybiay,
+Hago'g ubos nga pagpuyo,
+Pagbudhi'g koronang tunok&amp;mdash;
+Dalan ba's mga naghalad?</stanza>
+    <stanza type="verse" number="3">Akong panaw kon malisud,
+Ayaw itugot magmulo;
+Pahandoma's Calvario Mo,
+Di magtagad's kasakit ko.</stanza>
+    <stanza type="verse" number="4">Pahandoma kong wa gyud Ka
+Motilaw's tanang kalipay,
+Giuhaw, gigutom, gikapoy,
+Way gihigdaan's gabii.</stanza>
+    <stanza type="verse" number="5">Nag-antus Ka alang nako!
+Wa magtagad's kalipay Mo;
+Bisan yuta madanihon,
+Labaw Ka nga higugmaon.</stanza>
+  </lyrics>
+</hymn>

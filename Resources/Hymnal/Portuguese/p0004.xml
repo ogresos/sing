@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Deus Pai, Te adoramos</title>
+  <index>true</index>
+  <category>Sua Paternidade</category>
+  <numbers><english num="5"/><portuguese num="4"/><spanish num="2"/><tagalog num="5"/></numbers>
+  <creators>
+    <author biodate="1840-1896" biolink="">Translated from George West Frazer</author>
+  </creators>
+  <music>
+    <midiref type="h" num="5"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ó Deus Pai, Te adoramos,
+Hoje somos filhos Teus;
+Nós, em Cristo escolhidos,
+Santos, como és, ó Deus.
+Aba, Pai, Te adoramos,
+Proclamando o nome Teu.
+Aba, Pai, Te adoramos,
+Proclamando o nome Teu.</stanza>
+    <stanza type="verse" number="2">Filho eterno, Te louvamos,
+Pois no trono estás, Senhor!
+Do Pai nos aproximaste,
+Ó Cordeiro redentor.
+Ó Deus Filho, Te adoramos
+Pois morreste por amor.
+Ó Deus Filho, Te adoramos
+Pois morreste por amor.</stanza>
+    <stanza type="verse" number="3">Ó Pai, Filho e Espír'to,
+Vamos mais Te adorar;
+Hoje como Teus herdeiros,
+Vimos nossa voz alçar.
+Deus Triúno, Te adoramos,
+Bendizendo sem cessar.
+Deus Triúno, Te adoramos,
+Bendizendo sem cessar.</stanza>
+  </lyrics>
+</hymn>

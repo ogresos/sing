@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>向前進</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><cebuano num="1282"/><chinese num="ts:806"/><english num="1282"/><german num="1282"/></numbers>
+  <melody>| 0 - 5 3 | 5 - 5 3 | 5 - 5 3 | 5 6 5 3 | 5 - 3 4 | 5 4 - 2 | 5 4 - 2 | 1( - - - (break) | 1) - 5 3 | 5 - 5 3 | 5 - 5 3 | 5 6 5 3 | 5 - 3 4 | 5 4 - 2 | 5 4 - 2 | 1( - - - (break) | 1) 0 5 5 | ._1 0 ._1 0 | 5 - 5 - | 6 7 ._1 6 | 5 - - 5 | ._1 ._1 - 7 | 6 7 ._1 6 | ._2( - - - (break) | ._2) - 0 5 | ._1 - ._1 - | 7 - - 7 | 6 7 ._1 6 | 5 - 3 4 | 5 4 - 2 | 5 4 - 2 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>向 前 進， 向 前 進， 在 聖 靈 裡 向 前 進， 阿 利 路 亞， 隨 召 會 前 進。 向 前 進， 向 前 進， 在 聖 靈 裡 向 前 進， 阿 利 路 亞， 隨 召 會 前 進。 我 們 今 看 見 主 召 會 的 恢 復， 隨 著 七 倍 之 靈 前 進。 無 論 往 那 裡， 使 世 人 都 知 道， 在 這 時 代 主 一 直 前 進！ 在 這 時 代 主， 一 直 前 進！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1282"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">向前進，向前進，
+在聖靈裡向前進，
+阿利路亞，隨召會前進。
+向前進，向前進，
+在聖靈裡向前進，
+阿利路亞，隨召會前進。
+我們今看見
+主召會的恢復，
+隨著七倍之靈前進。
+無論往那裡，
+使世人都知道，
+在這時代主一直前進！
+在這時代主，一直前進！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>À la croix, je veille et prie</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;geindre au Seigneur</category>
+  <numbers><cebuano num="1059"/><chinese num="456"/><english num="1059"/><french num="204"/><german num="1059"/><korean num="456"/><portuguese num="464"/><russian num="178"/><spanish num="486"/><tagalog num="1059"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 3/ | 3. 2 0/ (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ (break) | (Chorus) 3 5/ 5. | 4 6/ 6. | 5 6/ 5 3/ | 3. 2. (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ |</melody>
+  <music>
+	<midiref type="h" num="1059"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Garde-moi près de Ta croix,
+Où Ton sang fut versé,
+Pour me sauver, me guérir,
+Pour ôter mes péchés.</stanza>
+	<stanza type="chorus" number="">À la croix, à la croix,
+Sois ma gloire à jamais.
+Là, mon âme rachetée
+Trouve un repos parfait.</stanza>
+	<stanza type="verse" number="2">Pauvre et tremblant, je reçus,
+À la croix, grâce.
+Là, l'étoile du matin,
+Brilla sur ma face.</stanza>
+	<stanza type="verse" number="3">Que la scène de la croix,
+Dans mon cœur demeure.
+À son ombre, je voudrais
+Marcher d'heure en heure.</stanza>
+	<stanza type="verse" number="4">À la croix, je veille et prie,
+Son retour j'espère.
+De mes yeux, je veux Le voir.
+Telle est ma prière.</stanza>
+  </lyrics>
+</hymn>

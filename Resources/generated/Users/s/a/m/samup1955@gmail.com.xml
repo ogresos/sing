@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sam</firstname>
+  <lastname>Upchurch</lastname>
+  <email>samup1955@gmail.com</email>
+  <password>$2y$10$QvviuFP2WWnKqhhkalmqtedfxBkhYOlZfV22YiyamV9jzTnmDk.Nm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.68.102.249</ipaddress>
+  <createdate>2016-06-25 13:14:48</createdate>
+  <lastupdateddate>2016-06-25 13:16:03</lastupdateddate>
+  <lastlogindate>2016-06-25 13:16:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nahayag sa Anak Iyong pagsinta</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;PAPURI MULA SA MARAMING ANAK</category>
+  <numbers><cebuano num="53"/><chinese num="50"/><english num="53"/><korean num="50"/><russian num="443"/><tagalog num="53"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from German</author>
+    <author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="53"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nahayag sa Anak Iyong pagsinta,
+Papurihan Iyong Ngalan, Diyos Ama.
+Kanyang hinamak ang kahihiyan.
+Upang matupad Iyong kalooban.</stanza>
+    <stanza type="verse" number="2">Nanguna sa maraming kapatid,
+Panganay na Anak sa pag-awit.
+May 'tinaas Niyang tinig nagpuri,
+Sa 'spiritu nagpuri rin kami!</stanza>
+    <stanza type="verse" number="3">Sa Sinisintang Anak pinili,
+Sa Iyong kagalaka'y may bahagi;
+Bago pa ng mundo'y naitakda,
+Makabahagi sa buhay, b'yaya.</stanza>
+    <stanza type="verse" number="4">Mga nagtamo ng pag-ibig Mo
+Sa 'spiritu'y lubusang nabago.
+Bawa't isa may katangian Niya,
+Walang hanggang galak ay sa Kanya.</stanza>
+  </lyrics>
+</hymn>

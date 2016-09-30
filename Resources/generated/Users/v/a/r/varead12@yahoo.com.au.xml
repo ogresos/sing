@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Vanessa</firstname>
+  <lastname>Read</lastname>
+  <email>varead12@yahoo.com.au</email>
+  <password>$2y$10$.dNeZz/nKYHpCILCK7jkbOwb0kS8kbyobIbCJg1ZeOTTsfpMhbS9C</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>118.92.59.143</ipaddress>
+  <createdate>2015-08-04 00:28:23</createdate>
+  <lastupdateddate>2015-08-04 00:35:14</lastupdateddate>
+  <lastlogindate>2015-08-04 00:31:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="24">God is man's treasure</fav>
+    <fav category="default" type="lb" num="71">I never thought that God would be enjoyable</fav>
+  </favourites>
+</user>

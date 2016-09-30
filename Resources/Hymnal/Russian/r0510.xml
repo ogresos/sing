@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О сладкий пир любви</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ВОСПОМИНАНИЕ ЕГО</category>
+  <numbers><cebuano num="228"/><chinese num="186"/><dutch num="60"/><english num="228"/><korean num="186"/><russian num="510"/><tagalog num="228"/></numbers>
+  <creators>
+    <author biodate="1796-1889" biolink="">Translated from Edward Denny</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3. 3/ 4 3 | 3( - 2) 3/( 2/) | 1. 1/ 2 5 | 3 - - 5 (break) | 6. 5/ 4 3 | 5. 4/ 3 2 | 1. 2/ 3 2 | 1 - - 0 |</melody>
+  <music>
+    <midiref type="h" num="228"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">О сладкий пир любви!
+    Какая благодать
+В воспоминанье о Тебе
+    Хлеб и вино вкушать!</stanza>
+    <stanza type="verse" number="2">Господь, как жаждут все
+    Здесь чрез Тебя познать,
+Что скрыто в сердце у Отца
+    И что есть благодать.</stanza>
+    <stanza type="verse" number="3">В покое совесть здесь,
+    Здесь верой познают
+Живого Хлеба сладость всю,
+    Любовь, Господь, Твою.</stanza>
+    <stanza type="verse" number="4">Здесь символ крови той,
+    Что пролита за грех,
+Даёт в блаженстве сознавать,
+    Что Ты нас любишь всех.</stanza>
+    <stanza type="verse" number="5">Божественной любви
+    Так сладок этот миг!
+Что будет, о Господь, когда
+    Увидим мы Твой лик!</stanza>
+    <stanza type="verse" number="6">Мы встретимся с Тобой
+    В подобии Твоём,
+И благодать Твою, Господь,
+    В веках мы воспоём.</stanza>
+  </lyrics>
+</hymn>

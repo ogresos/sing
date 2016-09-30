@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>yulanda</firstname>
+  <lastname>pei</lastname>
+  <email>yulanda.pei@gmail.com</email>
+  <password>$2y$10$d2eaqQKnfjXbSD4wdx5mb.8ia3BAa6y4x9J/K1JaaXklARFvzjdPq</password>
+  <gender>F</gender>
+  <country>New Zealand</country>
+  <ipaddress>60.234.139.113</ipaddress>
+  <createdate>2008-10-25 23:28:50</createdate>
+  <lastupdateddate>2016-04-03 12:49:47</lastupdateddate>
+  <lastlogindate>2016-04-03 12:47:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+  </favourites>
+</user>

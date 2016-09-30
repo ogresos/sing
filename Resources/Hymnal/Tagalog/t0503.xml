@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhay na Panginoon pinaglilingkuran</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG BUHAY</category>
+  <numbers><english num="503"/><portuguese num="241"/><russian num="96"/><spanish num="217"/><tagalog num="503"/></numbers>
+  <creators>
+    <author biodate="1887-1960" biolink="">Translated from Alfred Henry Ackley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="503"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Buhay na Panginoon pinaglilingkuran;
+Anuman ang sabihin ng sangkatauhan;
+Tanaw ang Kanyang kamay, dinig ang tinig Niya;
+At kapag nangailangan, malapit Siya.</stanza>
+    <stanza type="chorus" number="">Kristo'y buhay, si Hesus nabubuhay!
+Kasama ko, kausap ko sa landas ng buhay.
+Siya ay buhay, dala'y kaligtasan!
+Tanong mo'y, Bakit ko alam?
+Puso ko'y tahanan.</stanza>
+    <stanza type="verse" number="2">Sa buong sanlibutan, hayag pag-ibig Niya;
+At kahit napapagod, Siya'y aking pag-asa;
+Ako'y ginagabayan sa mabagyong mundo;
+Araw ng paghahayag ang hintay ko.</stanza>
+    <stanza type="verse" number="3">Mangagalak Kristiyano, itaas tinig mo,
+Umawit aleluya, sa Haring si Kristo;
+Bawat pangangailangan, pag-asa't tulong Siya;
+Wala nang hihigit pa sa buti Niya.</stanza>
+  </lyrics>
+</hymn>

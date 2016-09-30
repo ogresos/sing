@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela</firstname>
+  <lastname>Richie</lastname>
+  <email>angela.richie.78@gmail.com</email>
+  <password>$2y$10$BZp9y3EP8p9Qh0zx.VDbrutRByAHCpmOJg1IlzycReDx1objK4yJS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.77.160.23</ipaddress>
+  <createdate>2016-05-29 16:50:37</createdate>
+  <lastupdateddate>2016-05-29 22:18:39</lastupdateddate>
+  <lastlogindate>2016-05-29 22:13:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

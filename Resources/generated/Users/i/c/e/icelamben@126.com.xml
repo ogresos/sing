@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ben</firstname>
+  <lastname>Lam</lastname>
+  <email>icelamben@126.com</email>
+  <password>$2y$10$iOcJJHI6YEGypWHemvbmc.LfqGVoz.LmVEmNj5z65K3fh518oz3W2</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>223.74.93.148</ipaddress>
+  <createdate>2016-07-16 13:51:42</createdate>
+  <lastupdateddate>2016-07-16 14:13:22</lastupdateddate>
+  <lastlogindate>2016-07-16 13:53:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

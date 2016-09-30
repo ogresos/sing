@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>David</firstname>
+<lastname>Pavesi</lastname>
+<email>dpavesi@hotmail.com</email>
+<password>$1$S.A.1j98$PzIt4rnyHV90/0U1YEKUV1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>24.5.254.94</ipaddress>
+<createdate>2008-09-13 17:26:43</createdate>
+<lastupdateddate>2009-09-15 18:25:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+        <fav category="default" type="h" num="1236">In the church the sound of life upon our ear is falling</fav>
+    </favourites>
+</user>

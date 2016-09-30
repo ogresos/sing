@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Frankye</firstname>
+  <lastname>Parham</lastname>
+  <email>frankyep@msn.com</email>
+  <password>kAYWPa4FdqamqU9HkprbnQ%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>172.5.16.209</ipaddress>
+  <createdate>2014-04-17 18:00:28</createdate>
+  <lastupdateddate>2014-12-12 00:53:20</lastupdateddate>
+  <lastlogindate>2014-12-12 00:53:20</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

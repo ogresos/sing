@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Laurel</firstname>
+    <lastname>Kuntz</lastname>
+    <email>musicadulce@gmail.com</email>
+    <password>$1$ljf/dhHg$sfDfEd74gygVZQ1sW8RrJ1</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>75.5.79.52</ipaddress>
+    <createdate>2008-07-26 01:43:14</createdate>
+    <lastupdateddate>2013-04-20 11:34:54</lastupdateddate>
+    <lastlogindate>2013-04-20 11:34:54</lastlogindate>
+    <failedlogincount>1</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="676">All thy griefs by Him are ordered</fav>
+        <fav category="default" type="h" num="1046">Almost persuaded</fav>
+        <fav category="default" type="h" num="716">Begone, unbelief</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="765">Christian, seek not yet repose</fav>
+        <fav category="default" type="h" num="695">Does Jesus care when my heart is pained</fav>
+        <fav category="default" type="h" num="1001">Free from the law&amp;mdash;oh, happy condition</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="711">I know not what awaits me</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="726">Long plunged in sorrow, I resign</fav>
+        <fav category="default" type="h" num="810">Lord, hast Thou not one word for me</fav>
+        <fav category="default" type="h" num="397">More holiness give me</fav>
+        <fav category="default" type="h" num="1190">O Lord, You've called to us, and Canaan we would win</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="h" num="725">Strong are the walls around me</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="415">There is a foe whose hidden pow'r</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="238">When morning gilds the skies</fav>
+        <fav category="default" type="h" num="1034">Whosoever heareth! shout, shout the sound</fav>
+    </favourites>
+</user>

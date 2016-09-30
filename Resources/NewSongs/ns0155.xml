@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let the Word of Christ dwell in you</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:155"/><vsb num="270"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</author>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>13555653555653</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | G - - - | Dm - G7 - | Dm - G7 - | Dm - G7 - | C - C7/E - | F - C/E - | Am - C/E - | Dm - G7 - | C - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 1/ 3/ | 5/ 5/ 5/ 6/ 5/ 3. | 5/ 5/ 5/ 6/ 5/ 3. | 5/ 5/ 5/ 6/ 5/ 4/ 3/ 3// 3// | 4/ 2.( 2.) 3/ (break) | 4. 3/ 2. 3/ | 4 4/ 3/ 2 - | 5 5/ 6/ 5/( 4/) 3/ 2/ | 1 1/ 3/ 5 5/ 5/ | 6 6/ 6/ 5. 5/ | ._1 ._1/ ._1/ 1. 3/ (break) | 4 4/ 3/ 2 1/ 7_./ | 1 1/ 3/ 5. 3/ | 4 4/ 3/ 2 1/ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Let the word of Christ dwell in you Rich -- ly, in all wis -- dom Teach -- ing and ad -- mon -- ish -- ing one an -- oth -- er In psalms, and hymns, and spir -- i -- tual songs, Sing -- ing with grace in your hearts to the Lord And what -- ev -- er you do, in word or in work Do all in the name of our Lord Je -- sus Christ, Do all in the name of our Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Colossians 3:16-17</link>
+  </links>
+  <music>
+    <midi location="ns" length="34">ns0155.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Let the word of Christ dwell in you
+Richly, in all wisdom
+Teaching and admonishing one another
+In psalms, and hymns, and spiritual songs,
+Singing with grace in your hearts to the Lord
+And whatever you do, in word or in work
+Do all in the name of our Lord Jesus Christ,
+Do all in the name of our Lord.</stanza>
+  </lyrics>
+</hymn>

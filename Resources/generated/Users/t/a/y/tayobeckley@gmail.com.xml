@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tayo</firstname>
+  <lastname>Beckley</lastname>
+  <email>tayobeckley@gmail.com</email>
+  <password>$2y$10$YSlR2XXOkA1/yoBBdb4L0Osy8XiTLPV.U.e425oMGT64Rrczp7afK</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.58.92.8</ipaddress>
+  <createdate>2015-10-04 18:46:05</createdate>
+  <lastupdateddate>2015-11-01 18:21:04</lastupdateddate>
+  <lastlogindate>2015-10-04 18:47:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

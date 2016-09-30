@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nabanhaw S'ya, paghukom wala na</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAGKABANHAW</category>
+  <numbers><cebuano num="120"/><chinese num="100"/><english num="120"/><korean num="100"/><russian num="25"/><tagalog num="120"/></numbers>
+  <creators>
+    <author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <music>
+    <midiref type="h" num="120"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nabanhaw S'ya, paghukom wala na,
+Kay gipalit ta sa dugo Niya.
+Di na masudya pa's tanang sala,
+Basyo nang lubnganan, nabanhaw S'ya.</stanza>
+    <stanza type="verse" number="2">Nabanhaw S'ya, nabanhaw sab kita,
+Gilaglag N'ya tanang kaaway ta.
+Pagkabanhaw na m'oy gibarugan,
+Wala na gyud sa pagkahinukman.</stanza>
+    <stanza type="verse" number="3">Nabanhaw S'ya, gitubos na kita
+Nagsunod's dalang gilakwan Niya.
+Balaang puy-anan nay dapit ta,
+Presensya's Amaha'y gipuy-an ta.</stanza>
+    <stanza type="verse" number="4">Nabanhaw S'ya, Ginoo nag-una.
+Pangandoy S'ya, ug di makasala.
+Nabanhaw S'ya: maoy isinggit ta,
+"Nidaug Ka! Kami nagawas na!"</stanza>
+  </lyrics>
+</hymn>

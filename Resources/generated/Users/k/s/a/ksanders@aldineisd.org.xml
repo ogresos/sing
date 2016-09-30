@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Keith</firstname>
+  <lastname>Sanders</lastname>
+  <email>ksanders@aldineisd.org</email>
+  <password>$2y$10$6VZ9QA3f0oRkYVnIn7SUHuWornrCiVtUq1fg6j8v0hT7yO/vuSYVu</password>
+  <gender/>
+  <country/>
+  <ipaddress>198.63.171.24</ipaddress>
+  <createdate>2015-01-12 17:46:00</createdate>
+  <lastupdateddate>2015-01-12 17:47:16</lastupdateddate>
+  <lastlogindate>2015-01-12 17:47:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

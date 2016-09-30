@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Emmanuel, Emmanuel</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><english num="ns:334"/><lsmyp num="12"/></numbers>
+  <hymncode>5176476536542543</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G7 - - - | Em - - - | A7 - - - | Dm - - - | G7 - - - | C - - - | C7 - - - | F - - - | G7 - - - | Em - - - | A7 - - - | Dm - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 5 ._1. 7/ | 6 - - - | 0 ._1 7. 6/ | 5( - {3)( 4)( 5)(} (break) | 6) 3 6. 5/ | 5.( 4//)( 3//)( 4) - | 0 2 5. 2/ | 3( - - 4)( (break) | 5) - ._1. 7/ | 6 - - - | 0 ._1 7. 6/ | 5( - {3)( 4)( 5)(} (break) | 6) 3 6. 5/ | 5.( 4//)( 3//)( 4) - | 0 4 3. 2/ | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>Em -- ma -- nu -- el, Em -- ma -- nu -- el, His name is called Em -- ma -- nu -- el. God with us, re -- vealed in us, His name is called Em -- ma -- nu -- el.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0334.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Emmanuel, Emmanuel,
+His name is called Emmanuel.
+God with us, revealed in us,
+His name is called Emmanuel.</stanza>
+  </lyrics>
+</hymn>

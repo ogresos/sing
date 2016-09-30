@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Erna</firstname>
+  <lastname/>
+  <email>ernatr@mweb.co.za</email>
+  <password>$2y$10$yRjMeyKG1x4h.Tjqa3dFl.NZD/f0F4.Y0dm7VjGorN2bADtGW6wka</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>41.132.19.80</ipaddress>
+  <createdate>2016-02-03 20:36:07</createdate>
+  <lastupdateddate>2016-02-03 21:01:06</lastupdateddate>
+  <lastlogindate>2016-02-03 20:37:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

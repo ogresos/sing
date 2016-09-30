@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debbie</firstname>
+  <lastname>Tovar</lastname>
+  <email>dtovar@ca.rr.com</email>
+  <password>$2y$10$c87iM12DwTWjaZGgJhA4tOFKel7BSxSniNxYZWhq6RdvDvoKGMBe2</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>76.90.71.104</ipaddress>
+  <createdate>2013-11-20 09:46:39</createdate>
+  <lastupdateddate>2016-08-16 00:13:08</lastupdateddate>
+  <lastlogindate>2016-08-13 15:38:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="742">Man is a being of three parts</fav>
+    <fav category="default" type="h" num="738">There is a certain sense of life</fav>
+  </favourites>
+</user>

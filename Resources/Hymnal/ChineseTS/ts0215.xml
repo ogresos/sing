@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你們來喫</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="1148"/><chinese num="ts:215"/><english num="1148"/><german num="1148"/><korean num="1019"/><portuguese num="248"/><russian num="367"/><spanish num="228"/><tagalog num="1148"/></numbers>
+  <melody>| 0 - - 5// 5// ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 4// 4// 6/ | 5 - - 5/ 5/ | 6./ 6// 6/ 6/ 6/ 6/ 7/ ._1/ (break) | ._2 - - ._1/ ._2/ | ._3./ ._3// ._3/ ._2/ ._1 7/ ._1/ (break) | ._2./ ._1// ._1/ 7/ 6 6// 6// ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 7// 7// ._2/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>『你 們 來 喫，』 主 正 在 呼 召， 『你 們 來 喫。』 我 們 可 以 隨 時 隨 刻 喫 喝 主！ 祂 是 『日 用 的 飲 食，』 祂 纔 能 叫 人 滿 足。 『你 們 來 喫，』 主 正 在 呼 召， 『你 們 來 喫。』</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">『你們來喫，』
+主正在呼召，
+『你們來喫。』
+我們可以隨時隨刻
+喫喝主！
+祂是『日用的飲食，』
+祂纔能叫人滿足。
+『你們來喫，』
+主正在呼召，
+『你們來喫。』</stanza>
+	<stanza type="verse" number="2">『你們來喫，』
+主正在呼召，
+『你們來喫。』
+我們若是隨時隨刻
+喫喝主，
+祂就作我們生命，
+一直到生命滿出！
+『你們來喫，』
+主正在呼召，
+『你們來喫。』</stanza>
+  </lyrics>
+</hymn>

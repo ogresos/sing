@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dios, Ikaw gugma'g kahayag</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;INGON NGA GUGMA UG KAHAYAG</category>
+  <numbers><cebuano num="13"/><chinese num="6"/><english num="13"/><german num="13"/><korean num="6"/><portuguese num="9"/><russian num="6"/><spanish num="8"/><tagalog num="13"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5. 5/ 5./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dios, Ikaw gugma'g kahayag,
+Sa Anak kinabuhi;
+Gugmang nadayag, nagdan-ag,
+Ug kami nangabuhi.</stanza>
+	<stanza type="chorus" number="">Gugma Ka'g kahayag!
+Sa Anak kinabuhi;
+Gugmang nadayag, nagdan-ag,
+Ug kami nangabuhi!</stanza>
+	<stanza type="verse" number="2">Gugma m'oy pagkamao Mo,
+Buhat Nimo kahayag;
+Gugma's sulod, dan-ag's gawas,
+Gugma uban's kahayag.</stanza>
+	<stanza type="verse" number="3">Sa grasya gugma nadayag,
+Kamat'oran kahayag;
+Sa gugma napa'muslan Ka,
+Sa kahayag naila.</stanza>
+	<stanza type="verse" number="4">Gida' Ka's gugma's Calvario,
+Kinabuhi naamo;
+Sa kahayag Mo nasabtan,
+Magamit Imong dugo.</stanza>
+	<stanza type="verse" number="5">Sa gugma kinabuhi Ka,
+Nisulod, makig-ambit;
+Sa kahayag nagpahinlo,
+Mabuhi's pakig-ambit.</stanza>
+	<stanza type="verse" number="6">Sa lamdag, dugo naghinlo,
+Nasayrang pagdihog Mo;
+Labi nang nag-agay namo,
+Kinabuhi's gugma Mo.</stanza>
+	<stanza type="verse" number="7">Sa gugma gipanganak Mo,
+Tawgon Ka nga Amahan;
+Kahayag magwa's kangitngit,
+Hangtud masama Nimo.</stanza>
+	<stanza type="chorus" number="">O grasyang matuod!
+Gugma Ka'g kahayag!
+Magdayeg mi's way paghunong,
+Ikaw gugma'g kahayag!</stanza>
+  </lyrics>
+</hymn>

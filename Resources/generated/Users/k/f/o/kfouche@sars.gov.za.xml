@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kerryn</firstname>
+  <lastname>Fouche</lastname>
+  <email>kfouche@sars.gov.za</email>
+  <password>$2y$10$upMxI7kTDzyur9FhkRAt0uxm/mjgAxjo.yxTxMIqfAAuS.cFSA5NK</password>
+  <gender/>
+  <country>South Africa</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-05-20 11:44:51</createdate>
+  <lastupdateddate>2014-07-08 07:29:26</lastupdateddate>
+  <lastlogindate>2014-07-08 07:29:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

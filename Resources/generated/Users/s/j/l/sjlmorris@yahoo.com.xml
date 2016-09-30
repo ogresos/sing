@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname>Morris</lastname>
+  <email>sjlmorris@yahoo.com</email>
+  <password>$2y$10$xypo5duCnmjmviW0o4Ug/uKQ4o9NMmiw231pvoA3O8BepdJO2dEtq</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>1.123.140.66</ipaddress>
+  <createdate>2016-07-09 23:18:49</createdate>
+  <lastupdateddate>2016-07-09 23:24:03</lastupdateddate>
+  <lastlogindate>2016-07-09 23:23:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

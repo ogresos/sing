@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>吴厚欽</firstname>
+  <lastname/>
+  <email>nguhiewking@yahoo.com</email>
+  <password>$2y$10$pgi2VBLaVk/X.0aeA8bfPuEB2CcKeFXo3Yc37Jfd9zTg3sn24UJ9S</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>110.159.65.214</ipaddress>
+  <createdate>2015-11-11 12:40:36</createdate>
+  <lastupdateddate>2015-11-11 12:46:10</lastupdateddate>
+  <lastlogindate>2015-11-11 12:42:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="927">新耶路撒冷的構成</fav>
+  </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O anong dusa at kahihiyan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG TAGAPAGLIGTAS</category>
+  <numbers><chinese num="673"/><english num="989"/><korean num="673"/><tagalog num="989"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="989"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O anong dusa at kahihiyan,
+Hesus ay nahimlay sa sabsaban;
+O kamangha-mangha! Purihin Siya!
+Ako'y hinanap Niya!</stanza>
+    <stanza type="chorus" number="">Ako'y hinanap Niya!
+Ako'y hinanap Niya!
+O kamangha-mangha! Purihin Siya!
+Ako'y hinanap Niya!</stanza>
+    <stanza type="verse" number="2">Dahil sa akin Hesus namatay,
+Sa krus ng Kalbaryo'y nabayubay;
+Aking kasalana'y binayaran,
+Ng Iyong kamatayan!</stanza>
+    <stanza type="verse" number="3">Hesus di nagmamaliw kailanman,
+Habang ako ay nasa karimlan,
+Sumasamo sa aking kalulwa,
+Matimyas, tawag Niya!</stanza>
+    <stanza type="verse" number="4">Hesus Tagapagligtas darating,
+Kay tamis ng pangako sa akin.
+Matatanaw ko Kanyang pagdating
+Na para sa akin!</stanza>
+  </lyrics>
+</hymn>

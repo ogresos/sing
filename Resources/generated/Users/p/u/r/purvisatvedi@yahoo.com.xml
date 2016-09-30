@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>purvi</firstname>
+  <lastname/>
+  <email>purvisatvedi@yahoo.com</email>
+  <password>$2y$10$FNsEbH1D1GaGDMYm4FumkOGzMxyYkuIQ1UpjXVEaeRFAlm0XuSliK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.208.118.33</ipaddress>
+  <createdate>2015-09-30 17:12:42</createdate>
+  <lastupdateddate>2016-01-22 16:23:58</lastupdateddate>
+  <lastlogindate>2016-01-22 16:22:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

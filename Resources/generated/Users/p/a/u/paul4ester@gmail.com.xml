@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Isaac</firstname>
+  <lastname>Paul</lastname>
+  <email>paul4ester@gmail.com</email>
+  <password>$2y$10$6cpQ3XQAeEhvrvzpd.xu7.f6gJQ7w5f72Xw6Op1QPAyaVqCD7uZmO</password>
+  <gender>M</gender>
+  <country>in</country>
+  <ipaddress>116.203.128.33</ipaddress>
+  <createdate>2014-04-09 16:33:50</createdate>
+  <lastupdateddate>2016-04-12 16:04:37</lastupdateddate>
+  <lastlogindate>2016-04-12 16:04:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="461">Down in the valley with my Savior I would go</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="nt" num="377">If the path I travel</fav>
+    <fav category="default" type="h" num="1068">In tenderness He sought me</fav>
+    <fav category="default" type="h" num="719">Like a river, glorious</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="513">Once it was the blessing</fav>
+    <fav category="default" type="h" num="1060">Thou didst leave Thy throne and Thy kingly crown</fav>
+    <fav category="default" type="c" num="102">Why was a cup made?</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

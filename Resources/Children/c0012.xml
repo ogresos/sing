@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deep and wide</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;General</category>
+  <hymncode>535161765565532</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - Dm - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5. 3/ 5 - | ._1. 6/ ._1 7/ 6/ | 5 5 6/ 5/ 5/ 3/ | 2 - - 0 (break) | 5. 3/ 5 - | ._1. 6/ ._1 7/ 6/ | 5 5 7/ 7/ 6/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Deep and wide, deep and wide, There's a foun -- tain flow -- ing deep and wide. Deep and wide, deep and wide, There's a foun -- tain flow -- ing deep and wide.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-b.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="15">c0012.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Deep and wide, deep and wide,
+There's a fountain flowing deep and wide.
+Deep and wide, deep and wide,
+There's a fountain flowing deep and wide.</stanza>
+  </lyrics>
+</hymn>

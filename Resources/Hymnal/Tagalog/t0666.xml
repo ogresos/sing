@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Patapos na ang gabi</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA SA PAGBABANTAY</category>
+  <numbers><cebuano num="666"/><chinese num="486"/><english num="666"/><german num="666"/><korean num="486"/><portuguese num="326"/><russian num="468"/><spanish num="303"/><tagalog num="666"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3./ 4// 5 5 | 6 - 5 - | 1 1./ 1// 1 2 | 3 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - (break) | 2 2./ 2// 2 3 | 4.( 3/) 2 - | 3 3./ 3// 3 4# | 5 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="666"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Patapos na ang gabi,
+Magbantay mabuti;
+Ang mundo'y huwag hanapin,
+Huwag 'matulugin!
+Panginoo'y darating
+Magbantay at gising:
+Sa pag'hintay sa Kanya,
+Hindi pabaya.</stanza>
+	<stanza type="verse" number="2">Magbantay at maglingkod,
+Hindi maghimagod;
+Magbantay at magpagal,
+Di na tatagal.
+Magbantay magsandata,
+Upang maging handa;
+'Spiritu palakasin,
+Dyablo'y gapiin.</stanza>
+	<stanza type="verse" number="3">Magbantay sa pagdating,
+Manliligtas natin;
+Habuling kaharian,
+Kahit masaktan.
+Magbantay, laging gising,
+Gabing tatapusin,
+Hahayag l'walhati Niya,
+Siya'y babalik na.</stanza>
+  </lyrics>
+</hymn>

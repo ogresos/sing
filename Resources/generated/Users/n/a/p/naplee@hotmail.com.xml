@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Nap</firstname>
+<lastname>Lee</lastname>
+<email>naplee@hotmail.com</email>
+<password>$1$ccYkcMYK$I0ydUrkdE7Jqw6KNrAqkk.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>65.78.175.246</ipaddress>
+<createdate>2008-09-28 15:26:03</createdate>
+<lastupdateddate>2009-09-15 18:25:59</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="412">Lord, reveal Thyself to me</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="h" num="1103">What He is: He's the Father</fav>
+        <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="h" num="510">I've found the One of peerless worth</fav>
+        <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+        <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+        <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="13">Thou art love and Thou art light, Lord</fav>
+        <fav category="default" type="h" num="551">I've believed the true report</fav>
+        <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+        <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+        <fav category="default" type="h" num="1149">Of Him whence grace and truth did spring</fav>
+        <fav category="default" type="h" num="169">Thou, Lord, to God art precious</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+        <fav category="default" type="h" num="52">Father, to Thee a joyful song we raise</fav>
+        <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+        <fav category="default" type="h" num="1131">In a low dungeon, hope we had none</fav>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="h" num="1206">There's a race for us to run&amp;mdash;Hallelujah</fav>
+    </favourites>
+</user>

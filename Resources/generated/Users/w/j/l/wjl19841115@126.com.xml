@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>wang</firstname>
+<lastname>jueli</lastname>
+<email>wjl19841115@126.com</email>
+<password>$1$YY2zLh2/$4ujdcHbiqqKxnHBGwlqrN/</password>
+<gender>M</gender>
+<country>China</country>
+<ipaddress>221.6.39.134</ipaddress>
+<createdate>2009-08-08 23:22:18</createdate>
+<lastupdateddate>2009-09-15 19:17:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="27">Oh! the joy</fav>
+        <fav category="default" type="ns" num="26">O the joy of having nothing</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="9">Call on Your Name</fav>
+    </favourites>
+</user>

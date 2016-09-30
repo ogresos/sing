@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ressurgiu! oh! aleluia</title>
+  <index>true</index>
+  <category>Sua Ressurreição</category>
+  <numbers><cebuano num="119"/><chinese num="105"/><english num="119"/><korean num="105"/><portuguese num="56"/><russian num="402"/><tagalog num="119"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="119"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ressurgiu! oh! aleluia!
+Cristo ao céu já ascendeu!
+Livres das prisões da morte,
+Alegrai-vos, santos Seus.
+Eis Jesus ressuscitado,
+Vida hoje dá aos Seus.</stanza>
+    <stanza type="verse" number="2">Ressurgiu! oh! aleluia!
+E de tudo é Senhor!
+Enviou-nos o Espír'to
+Como nosso Intercessor.
+Eis Jesus ressuscitado,
+Ele nos justificou.</stanza>
+    <stanza type="verse" number="3">Ressurgiu! oh! aleluia!
+Para a morte aniquilar!
+Pois o Cristo ressurreto
+Quer da morte nos livrar.
+Eis Jesus ressuscitado,
+Vive e breve vai voltar.</stanza>
+  </lyrics>
+</hymn>

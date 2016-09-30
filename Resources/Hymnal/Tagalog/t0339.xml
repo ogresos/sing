@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mga banal, kay tibay na saligan</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;MATIBAY NA SALIGAN</category>
+  <numbers><cebuano num="339"/><chinese num="260"/><english num="339"/><korean num="260"/><portuguese num="179"/><russian num="254"/><tagalog num="339"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from "K" in Rippon's Selection of Hymns, 1787</author>
+  </creators>
+  <music>
+    <midiref type="h" num="339"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mga banal, kay tibay na saligan
+Ang Salitang sinampalatayanan!
+Ti-yak Niya kayong pinapangakuan,
+Kayong lumapit kay Hesus, kanlungan.</stanza>
+    <stanza type="verse" number="2">Huwag kang matakot, Ako'y iyong kasama,
+Ako ang Diyos mong laang sumaklolo;
+Palalakasin ka, tutulungan ka,
+Hahawakan ka ng mga kamay Ko.</stanza>
+    <stanza type="verse" number="3">Sa lalim ng tubig kung suguin ka
+Sa agos ng ilog, walang pangamba;
+Sa mga pagsubok Ako'y kasama,
+Sa iyong dusa ma'y babanalin kita.</stanza>
+    <stanza type="verse" number="4">Maapoy man ang pagsubok sa iyong daan,
+Sapat ang biyaya Kong ibibigay;
+Apoy man nito'y di ka masasaktan,
+Kundi sa Iyo'y paglinis, pagdalisay.</stanza>
+    <stanza type="verse" number="5">Kalulwang kay Kristo'y namamahinga
+Hindi Ko iiwan sa kabaka niya.
+Kahit ang Hades ay pangatugin siya,
+Ako'y hinding-hindi magpapabaya!</stanza>
+  </lyrics>
+</hymn>

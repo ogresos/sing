@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Roxane</firstname>
+    <lastname>Mann</lastname>
+    <email>roxanemann@cinergymetro.net</email>
+    <password>h8caM9WDv7QTPw8MUGeVgw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>69.174.148.63</ipaddress>
+    <createdate>2013-05-26 23:59:29</createdate>
+    <lastupdateddate>2013-05-27 20:28:34</lastupdateddate>
+    <lastlogindate>2013-05-26 23:59:29</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="294">Gone from my heart the world and all its charms</fav>
+        <fav category="default" type="ns" num="381">I am the living bread</fav>
+        <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+    </favourites>
+</user>

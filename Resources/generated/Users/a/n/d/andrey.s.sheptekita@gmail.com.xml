@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Andrey</firstname>
+  <lastname>sheptekita</lastname>
+  <email>andrey.s.sheptekita@gmail.com</email>
+  <password>$2y$10$ZVR5boPeZNZOC4HRA1mAEub4fYx6P1WwlGLztqXrUAcT0PThgN.Zq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.147.80.29</ipaddress>
+  <createdate>2014-10-05 18:46:19</createdate>
+  <lastupdateddate>2016-04-17 18:15:58</lastupdateddate>
+  <lastlogindate>2016-04-17 18:15:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+    <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="196">Lord, the ancient types and symbols</fav>
+    <fav category="default" type="h" num="221">Lord, we thank Thee for the table</fav>
+    <fav category="default" type="h" num="165">My song shall be of Jesus</fav>
+    <fav category="default" type="h" num="190">O Lord, as we consider Thee</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    <fav category="default" type="h" num="233">O what a miracle, my Lord</fav>
+    <fav category="default" type="h" num="223">On the table of Thy love</fav>
+    <fav category="default" type="h" num="547">Something every heart is loving</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+  </favourites>
+</user>

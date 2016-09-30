@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa daan ng buhay, mga pagod</title>
+  <index>true</index>
+  <category>PAGPAPAHAYAG NG EBANGHELYO&amp;mdash;ISANG DALUYAN NG PAGPAPALA</category>
+  <numbers><english num="929"/><french num="172"/><tagalog num="929"/></numbers>
+  <creators>
+    <author biodate="1880-1950" biolink="">Translated from Ira Bishop Wilson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="929"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa daan ng buhay, mga pagod
+Marami at malungkot;
+Sa dilim dalhin mo ang liwanag,
+Malungkot bigyang-galak.</stanza>
+    <stanza type="chorus" number="">Gawin Mo akong 'sang pagpapala,
+Sa 'kin, Hesus ay makita;
+Panalangin ko, O Panginoon,
+Gawin akong pagpapala ngayon.</stanza>
+    <stanza type="verse" number="2">Saysayin si Kristo't pag-ibig Niya,
+Siya'y nagpapatawad nga;
+Iba sa Kanya'y magtitiwala
+Kung iyong ipamuhay Siya.</stanza>
+    <stanza type="verse" number="3">Gaya'ng pagbigay sa Iyo, mamigay,
+Gaya Niya sa pag'mahal;
+Maging tulong sa walang tutulong,
+Tuparin ang iyong misyon.</stanza>
+  </lyrics>
+</hymn>

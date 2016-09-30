@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa matag handom ko sa krus</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAG-ANTUS</category>
+  <numbers><cebuano num="101"/><chinese num="85"/><english num="101"/><korean num="85"/><spanish num="51"/><tagalog num="101"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="101"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa matag handom ko sa krus
+Nga gikamatyan's Ginoo;
+Isipon nga kapildehan,
+Tanang naangkon, kagarbo.</stanza>
+    <stanza type="verse" number="2">Did-an unta's pagpangandak,
+Gawas sa kamatayon N'ya;
+Nagdani nga kakawangan,
+Ihalad ko sa dugo N'ya.</stanza>
+    <stanza type="verse" number="3">Sa ulo N'ya, kamot, tiil,
+Nagsagol kasubo'g gugma;
+Mag-abot bang gugma'g kasubo,
+Tunok nga himo'ng korona?</stanza>
+    <stanza type="verse" number="4">Dugong niagay sa ulo,
+Nagbasa's tibuok lawas;
+Namatay ko's kalibutan,
+Kini namatay sab nako.</stanza>
+    <stanza type="verse" number="5">Kon ako pang kinaiyahan,
+Gamay ra kon ihalad ko;
+Sa gugma nga labaw's tanan,
+Ihalad nako ang tanan.</stanza>
+  </lyrics>
+</hymn>

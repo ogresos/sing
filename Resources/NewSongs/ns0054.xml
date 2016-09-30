@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Welcome</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <numbers><english num="ns:54"/><german num="ns:54de"/></numbers>
+  <hymncode>51333432166671</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>105</tempo>
+  <chords>| C - - - | C - - - | F - G - | C - Am - | F - G - | C - - - | F - G - | C - - - | G - - - | F - - - | G - - - | C - Em - | F - G7 - | C - Am - | Dm - G - | C - Em - | F - - - | F - - - | Dm - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | F - - - | C - - - | F - G - | C - - - | F - - - | C - - - | G - - - | F - - - | G - - - | C - - - | F - - - | C - - - | Dm - G - | C - - - | F - - - | C - - - | F - G7 - | C - - - |</guitarChords>
+  <melody>| 0 - - 5_./ 1/ | 3 3/ 3/ 4/ 3/ 2/ 1/ | 6_./ 6_./ 6_./ 7_./ 1 3/ 4/ | 5 4/ 3/ 5 4/ 3/ | 6/ 5/ 4/ 6/ 5 5_./ 1/ | 3 3/ 3/ 4/ 3/ 2/ 1/ | 6_./ 6_./ 6_./ 7_./ 1 {3/ 2/ 1/} | 1 - - 3/ 6/ | 5 - - 3/ 2/ | 1 1 1 6_. (break) | 5_. - - (Chorus) 5/ 5/ | 5 4/ 3/ 5 5/ 5/ | 6/ 5/ 5/ 4/ 4 3/ 4/ | 5 3/( 2/) 1 7_./ 1/ | 2 2/ 3/ 2 5/ 5/ | 5/ 5/ 4/ 3/ 5 5/ 5/ | 6/ 5/ 5/ 4/ (.._1 1/ 2/ | 4/ 3/ 2/ 1/ 1 1/ 2/ | 4/ 3/ 2/ 1/ 1 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>We don't care where you come from, We don't care where you would go. Since we meet in the Lord, Let us all meet joy -- ful -- ly. Things may come to dis -- cour -- age And they leave you some -- what sad; Let it all go, let it go! And let's sing a mel -- o -- dy. Wel -- come here, our dear friend, We're so glad that you have come, Here we all love you, And the Lord loves you most. In the church we need you now, Ev -- ery -- thing here is for you. We wait for you to re -- turn, Just re -- mem -- ber that we'll think of you.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="45">ns0054.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We don't care where you come from,
+We don't care where you would go.
+Since we meet in the Lord,
+Let us all meet joyfully.
+Things may come to discourage
+And they leave you somewhat sad;
+Let it all go, let it go!
+And let's sing a melody.</stanza>
+    <stanza type="chorus" number="">Welcome here, our dear friend,
+We're so glad that you have come,
+Here we all love you,
+And the Lord loves you most.
+In the church we need you now,
+Everything here is for you.
+We wait for you to return,
+Just remember that we'll think of you.</stanza>
+    <stanza type="verse" number="2">Won't you cast off your burdens,
+Put aside all your restraints,
+Sing a song full of joy,
+Breathe in the refreshing air
+Let's enjoy holy feelings
+Savour sweetness and repose 
+Let's bring home peace and this joy
+So we'll never be distressed.</stanza>
+  </lyrics>
+</hymn>

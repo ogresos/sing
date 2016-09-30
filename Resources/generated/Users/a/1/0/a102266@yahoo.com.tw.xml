@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Rainbow</firstname>
+<lastname>Huang</lastname>
+<email>a102266@yahoo.com.tw</email>
+<password>$1$404lNqlG$qbZnaKMEqhT.1f6pjcwH8/</password>
+<gender>M</gender>
+<country>Taiwan</country>
+<ipaddress>218.160.74.236</ipaddress>
+<createdate>2008-07-26 01:42:58</createdate>
+<lastupdateddate>2009-09-15 18:23:45</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ch" num="246">榮耀的釋放</fav>
+    </favourites>
+</user>

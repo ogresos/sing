@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sally</firstname>
+  <lastname>Lee</lastname>
+  <email>slbbpdx@gmail.com</email>
+  <password>$2y$10$yiF7izd7wHS8l0/rAv1IVevcqfTTxBUnd2HWc6VEzThjObZjzoSMi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.22.9.114</ipaddress>
+  <createdate>2014-09-13 05:29:12</createdate>
+  <lastupdateddate>2014-09-13 05:37:02</lastupdateddate>
+  <lastlogindate>2014-09-13 05:31:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="695">Does Jesus care when my heart is pained</fav>
+  </favourites>
+</user>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dili sa pagpili ta</title>
+  <index>true</index>
+  <category>PAG-ALAGAD&amp;mdash;SA PAGGIYA SA GINOO</category>
+  <numbers><cebuano num="907"/><chinese num="650"/><english num="907"/><german num="907"/><korean num="650"/><tagalog num="907"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5 ._1 ._1 7/( 6/) | 5 6 2 - | 3 2 4 3 | 2 1 5 - (break) | ._1 7/( 6/) 5 4 | 3 2/( 1/) 7_. - | 5 6 7 ._1 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="907"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dili sa pagpili ta,
+Kondi's Iyang paggiya,
+Buhing tubig mag-agay,
+Dulom him'ong kahayag.</stanza>
+	<stanza type="verse" number="2">Di ang gipiling buhat,
+Ang unya Iyang daygon;
+Kondi' ang alang ra N'ya,
+Ug wa ta pangayoa.</stanza>
+	<stanza type="verse" number="3">Di pangandoyng iampo
+Pagluhod sa 'yang Trono,
+Kondi' ang pangin'hanglang
+Giagulo's Esp'ritu.</stanza>
+	<stanza type="verse" number="4">Di ang garbong gihalad
+Ang Iya nga gitagad,
+Kon sulod ta nidili
+Sa gikinahanglan N'ya.</stanza>
+	<stanza type="verse" number="5">Pagkamatay, mabuhi's
+Kalangitan uban N'ya;
+Niana mosilbe, ampo,
+Cristo mismo balus ta.</stanza>
+  </lyrics>
+</hymn>

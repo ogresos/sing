@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Silro</firstname>
+<lastname>Lee</lastname>
+<email>silrolove@hotmail.com</email>
+<password>$1$GerGPJzl$59zdSpRhpk0DDjoOeE4MG0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>72.200.211.246</ipaddress>
+<createdate>2008-09-20 23:07:29</createdate>
+<lastupdateddate>2009-09-15 18:25:56</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="ns" num="276">Rise up, my love</fav>
+        <fav category="default" type="h" num="1216">We have an inner life; that's for our daily life</fav>
+    </favourites>
+</user>

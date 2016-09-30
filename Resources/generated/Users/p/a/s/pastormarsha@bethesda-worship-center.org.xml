@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Pastor</firstname>
+    <lastname>M</lastname>
+    <email>pastormarsha@bethesda-worship-center.org</email>
+    <password>FmL2t6wt1lbFqKnUZ1YY2w%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>67.76.83.244</ipaddress>
+    <createdate>2011-01-21 15:25:59</createdate>
+    <lastupdateddate>2011-01-21 15:53:55</lastupdateddate>
+    <lastlogindate>2011-01-21 15:26:02</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

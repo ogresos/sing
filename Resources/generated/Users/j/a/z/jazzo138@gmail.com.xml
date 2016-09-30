@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles/>
+  <firstname>Jasmine</firstname>
+  <lastname>Tan</lastname>
+  <email>jazzo138@gmail.com</email>
+  <password>$2y$10$4SjWDNjzlDrD3mH6fIy7aeHPe2hVkY8P5AOErwwmm5M5dFnSCJEoS</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>75.60.184.113</ipaddress>
+  <createdate>2014-05-31 22:04:40</createdate>
+  <lastupdateddate>2014-06-23 22:44:33</lastupdateddate>
+  <lastlogindate>2014-06-23 22:44:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+  </favourites>
+</user>

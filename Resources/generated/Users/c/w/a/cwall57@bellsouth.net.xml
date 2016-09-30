@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Charles</firstname>
+    <lastname>Wall</lastname>
+    <email>cwall57@bellsouth.net</email>
+    <password>$1$QszUKmk2$Xvji/f0DcEKUZUoKTkEPx0</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>66.157.85.86</ipaddress>
+    <createdate>2009-03-06 10:15:45</createdate>
+    <lastupdateddate>2011-06-01 18:50:59</lastupdateddate>
+    <lastlogindate>2011-06-01 17:46:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="15">I am crucified with Christ (U.S.A.)</fav>
+        <fav category="default" type="ns" num="16">It's no longer I that liveth</fav>
+        <fav category="default" type="ns" num="135">Thank You, Lord Jesus, for dying for me</fav>
+    </favourites>
+</user>

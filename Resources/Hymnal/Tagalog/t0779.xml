@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hindi ayon sa isip ko</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;NA MAY ISANG PUSO'T KAISIPAN</category>
+  <numbers><cebuano num="779"/><chinese num="563*"/><english num="779"/><german num="779"/><korean num="563*"/><portuguese num="356"/><russian num="483"/><spanish num="331"/><tagalog num="779"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5_./ 1/ | 3 1 6_./ 1/ | 6_. 5_. 5_./ 1/ | 7_.. 1/ 2/ 3/ (break) | 2 - 5_./ 1/ | 3 1 6_./ 1/ | 6_. 5_. 5_./ 1/ | 7_.. 1/ 2/ 3/ (break) | 1 - (Chorus) 3/ 4/ | 2 2 2/ 3/ | 1 1 1/ 7_./ | 6_. 6_. 1/ 6_./ (break) | 5_. - 3/ 4/ | 2 2 2/ 3/ | 1 1 2/ 3/ | (.4 6_. (.7_../ 1// | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="268"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hindi ayon sa isip ko,
+Dalangi'y sa 'spiritu;
+Ayon sa pagpapahid Mo,
+Tupdin ang hangarin Mo.</stanza>
+	<stanza type="chorus" number="">Hindi ayon sa isip ko
+Dalangi'y sa 'spiritu;
+Ayon sa pagpapahid Mo,
+Tupdin ang hangarin Mo.</stanza>
+	<stanza type="verse" number="2">Itakwil ang sarili ko,
+Dalangi'y sa 'spiritu;
+Lahat ng intensyon, nasa,
+'Spiritu'y mamahala.</stanza>
+	<stanza type="verse" number="3">Nasa langit nakaupo,
+Dalangi'y sa 'spiritu;
+Dinaig ang pamunuan,
+Panlupa'y niyurakan.</stanza>
+	<stanza type="verse" number="4">Kasama ang mga banal,
+Sa 'spiritu ang dasal;
+Hinahanap ang Iyong nasa,
+Pagkai-sa napreserba.</stanza>
+	<stanza type="verse" number="5">Mapagbantay sa pagdasal,
+Sa 'spiritu ang dasal;
+Para sa kaharian Niya,
+Magpuyat, magdasal ka!</stanza>
+	<stanza type="verse" number="6">Sa panalangi'y magkai-sa
+Sa paghanap magkai-sa;
+Sa 'Spiritu ng Katawan,
+Kai-sa magpakai-lanman.</stanza>
+  </lyrics>
+</hymn>

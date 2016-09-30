@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Emily</firstname>
+    <lastname>Chen</lastname>
+    <email>emily.chen226@gmail.com</email>
+    <password>ecC%2BQK0btBpBd7GexprcZQ%3D%3D</password>
+    <gender>F</gender>
+    <country>tw</country>
+    <ipaddress>123.192.66.248</ipaddress>
+    <createdate>2010-11-24 22:56:52</createdate>
+    <lastupdateddate>2010-12-02 17:32:11</lastupdateddate>
+    <lastlogindate>2010-12-02 17:32:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    </favourites>
+</user>

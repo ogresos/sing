@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Josiah</firstname>
+  <lastname>Arzabe</lastname>
+  <email>josiah.arzabe@gmail.com</email>
+  <password>$2y$10$uaEGFll0EUGZE7O4WYlfoeksXeWl3deczQy8oJZhdIbFvMZeytcQm</password>
+  <gender/>
+  <country/>
+  <ipaddress>72.145.226.66</ipaddress>
+  <createdate>2014-06-12 00:35:21</createdate>
+  <lastupdateddate>2014-07-29 17:57:09</lastupdateddate>
+  <lastlogindate>2014-07-29 17:54:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="h" num="1131">In a low dungeon, hope we had none</fav>
+    <fav category="default" type="ns" num="443">Man Lives Not By Bread Alone</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="lb" num="61">The Good Samaritan</fav>
+    <fav category="default" type="ns" num="394">The Living Vine, a Reality</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+  </favourites>
+</user>

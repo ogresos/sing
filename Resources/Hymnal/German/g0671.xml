@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tief tauch ich ein in Deinen Namen, Herr</title>
+  <index>true</index>
+  <category>TROST IN TRÜBSAL&amp;mdash;Durch den Namen des Herrn</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Tief tauch ich ein in Dei -- nen Na -- men, Herr, Hast stil -- le Freu -- de ü -- ber mich ge -- bracht; Du, Herr, ge -- nügst, e -- gal wie lang der Tag, Du, Herr, ge -- nügst, e -- gal wie schwarz die Nacht.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tief tauch ich ein in Deinen Namen, Herr,
+Hast stille Freude über mich gebracht;
+Du, Herr, genügst, egal wie lang der Tag,
+Du, Herr, genügst, egal wie schwarz die Nacht.</stanza>
+	<stanza type="verse" number="2">Du bist der Allgenügende, mein Gott,
+Du kannst erschaffen, was mir mangelt sehr;
+Auf meiner Bahn, so einsam, hast gestreut
+Wunder der Liebe und Versorgung, Herr.</stanza>
+	<stanza type="verse" number="3">Dir möcht ich, liebster Herr, vertrauen treu,
+An Deine Brust zu lehnen wag ich mich,
+Dort preis ich Deinen Weg in tiefster Ruh,
+In stiller Glaubensruh anbete Dich.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gidaug na sa Ginoo ang kaaway</title>
+  <index>true</index>
+  <category>ESPIRITUHANONG PAKIGGUBAT&amp;mdash;PINAAGI SA KADAUGAN SA GINOO</category>
+  <numbers><cebuano num="1289"/><chinese num="ts:812"/><english num="1289"/><french num="168"/><german num="1289"/><korean num="852"/><portuguese num="419"/><tagalog num="1289"/></numbers>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Sisters:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brothers:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gidaug na sa Ginoo ang kaaway!
+Isinggit ta ang lanog sa layo!
+Ang dugo N'ya naghatag ug kadaugan!
+Di madugay Mananaug nia na.</stanza>
+	<stanza type="chorus" number="">(Mga sister moawit)
+Gidaug na! Mga igsoon,
+Gidaug na! Isinggit ta!
+Kadaugan ta gikan sa Sion,
+Ang yuta's pagdayeg pun-on.</stanza>
+	<stanza type="chorus" number="">(Mga brother moawit)
+Gidaug na! Mga igsoon,
+Gamhanang buhat tapos na!
+Ginoo nibuntog alang nato&amp;mdash;
+Kalipayng dayon ato na.</stanza>
+	<stanza type="verse" number="2">Gidaug na! Kaaway ta gibuntog na.
+Pulong sa Dios gipamatud-an ta.
+Nia ni'ning kinabuhi'g kagawasan,
+Sa Pulong N'ya kaaway ta suklan.</stanza>
+	<stanza type="verse" number="3">Gidaug na! Yawa nahimong tumbanan,
+Kay way kahadlok bisag mamatay;
+Isinggit ta, "Ikaw among kadaugan!"
+Dios daygon's espiritu ug kusog.</stanza>
+  </lyrics>
+</hymn>

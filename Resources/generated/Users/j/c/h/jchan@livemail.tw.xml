@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jack</firstname>
+  <lastname>Chan</lastname>
+  <email>jchan@livemail.tw</email>
+  <password>$2y$10$uljfO5s7RHanA5bQ9Gbanu/ZxfNfcfBiRLQRDYpuMsYL2Vy31ZV6K</password>
+  <gender/>
+  <country>Taiwan</country>
+  <ipaddress>118.161.175.133</ipaddress>
+  <createdate>2014-03-17 06:40:32</createdate>
+  <lastupdateddate>2014-08-12 03:40:53</lastupdateddate>
+  <lastlogindate>2014-08-12 03:40:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

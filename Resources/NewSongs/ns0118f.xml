@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jésus, mon premier amour</title>
+  <category></category>
+  <numbers><chinese num="ts:316"/><english num="ns:118" /><vsb num="172"/></numbers>
+  <creators>
+    <composer biodate="1953" biolink="">Sammy Fain</composer>
+  </creators>
+  <hymncode>54312351234562</hymncode>
+  <music>
+    <midiref type="ns" num="118"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jésus, mon premier amour
+Tu es le plus cher au monde
+Quand nos coeurs vers Toi se tourn'nt
+La joie et la paix abondent.</stanza>
+    <stanza type="verse" number="2">Nous T'aimons pour Ta Personne
+Non pour ce que Tu nous donnes
+Rien n'est semblable à la joie
+De T'aimer, de Te goûter.</stanza>
+    <stanza type="chorus" number="">Tant de choses m'ont dérouté
+De Toi-mêm' m'ont éloigné
+Mais mon coeur se repent pour chanter
+Tu es mon premier amour</stanza>
+    <stanza type="verse" number="3">Rien ne peut Te remplacer
+Toi, l'objet de nos désirs
+Nous voulons pour Toi brûler
+Être remplis de Ta vie.</stanza>
+    <stanza type="verse" number="4">Jesus mon premier amour
+Tu es le plus cher au monde
+Quand nos coeurs vers Toi se tourn'nt
+La joie et la paix abondent.</stanza>
+  </lyrics>
+</hymn>

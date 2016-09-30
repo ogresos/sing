@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname/>
+  <email>didicichristo@inbox.com</email>
+  <password>$2y$10$aV4ljWZZpVT2y8A0BNgEu.Krpwg5P5nHy8DlLa5P1MHZFE1C57LvW</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>173.206.170.146</ipaddress>
+  <createdate>2015-03-03 04:56:43</createdate>
+  <lastupdateddate>2015-03-20 01:12:17</lastupdateddate>
+  <lastlogindate>2015-03-20 00:53:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+    <fav category="default" type="lb" num="6">And He showed me a river</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="ns" num="497">Begin the day with God</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="ns" num="12">Father, I know that all my life</fav>
+    <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="339">How firm a foundation, ye saints of the Lord</fav>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="nt" num="553">In the secret of His presence</fav>
+    <fav category="default" type="h" num="336">Jesus has loved me, wonderful Savior</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="nt" num="1057">Jesus, lover of my soul</fav>
+    <fav category="default" type="h" num="246">Joys are flowing like a river</fav>
+    <fav category="default" type="h" num="1089">Lamb of God so pure and spotless</fav>
+    <fav category="default" type="lb" num="2">Lord, I love You. Lord, I need You</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="284b">Loved with everlasting love (Alternate)</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="478">Once I stood in condemnation</fav>
+    <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+    <fav category="default" type="ns" num="150">Secret to be content</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="ns" num="373">The Law of the Spirit of Life</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

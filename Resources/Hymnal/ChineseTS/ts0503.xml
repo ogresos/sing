@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>回耶路撒冷</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <numbers><cebuano num="1252"/><chinese num="ts:503"/><english num="1252"/><german num="1252"/><korean num="999"/><spanish num="383"/></numbers>
+  <melody>| 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - (break) | (Chorus) 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>落 到 巴 比 倫， 在 被 擄 之 地， 哦 主， 將 我 們 的 靈 激 起！ 分 散 在 各 處， 失 去 了 合 一， 哦 主， 將 我 們 的 靈 激 起！ 激 起！ 激 起！ 哦 主， 將 我 們 的 靈 激 起！ 激 起！ 激 起！ 哦 主， 將 我 們 的 靈 激 起！</singingstanza>
+  </layout>
+  <notes>註：原文裡共有五個up: Stir up</notes>
+  <links>
+	<link type="ref">Ezra 1</link>
+  </links>
+  <music>
+	<midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">落到巴比倫，
+在被擄之地，
+哦主，將我們的靈激起！
+分散在各處，
+失去了合一，
+哦主，將我們的靈激起！
+激起！激起！哦主，
+將我們的靈激起！
+激起！激起！哦主，
+將我們的靈激起！</stanza>
+	<stanza type="verse" number="2">離開巴比倫，
+各宗各派之地，
+從分裂中我們都起來！
+因為巴比倫，
+並非神所立，
+從分裂中我們都起來！
+起來！起來！
+從分裂中我們都起來！
+（重複最後一行，下同）</stanza>
+	<stanza type="verse" number="3">從被擄之地，
+回耶路撒冷，
+有神同在，我們都上來！
+在獨一立場，
+作合一見證，
+有神同在，我們都上來！
+上來！上來！有神同在，
+我們都上來！</stanza>
+	<stanza type="verse" number="4">盤裡滿基督，
+碗裡滿聖靈，
+將所有的器皿都帶來！
+帶到召會裡，
+照神所命定，
+將所有的器皿都帶來！
+帶來！帶來！
+將所有的器皿都帶來！</stanza>
+	<stanza type="verse" number="5">在耶路撒冷，
+神所選之地，
+神的聖殿我們同建立！
+眾聖同事奉，
+都一心一意，
+神的聖殿我們同建立！
+建立！建立！
+神的聖殿我們同建立！</stanza>
+  </lyrics>
+</hymn>

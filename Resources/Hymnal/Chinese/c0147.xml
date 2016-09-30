@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀歸於我主</title>
+  <index>true</index>
+  <category>讚美主－祂的配得</category>
+  <numbers><cebuano num="179"/><chinese num="147"/><english num="179"/><german num="179"/><korean num="147"/><portuguese num="88"/><tagalog num="179"/></numbers>
+  <creators>
+	<author biodate="1734-1804" biolink="">Translated from James Allen</author>
+  </creators>
+  <melody>| 5 3 1 | 2( 1) 7_. | 1 - - | 1 2 3 | 4/( 5/ 4) 3 | 2 - - (break) | 5 3 1 | 5_. - - | 2 3 4 | 3. 2/ 1 | 2 3 4 | 3. 2/ 1 (break) | 1 3 5 | 5. 6/ 5 | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>榮 耀 歸 於 我 主， 天 地 齊 來 歡 呼， 向 祂 讚 美； 祂 的 恩 典、 慈 愛， 除 我 死 亡、 悲 哀； 高 唱 直 到 萬 代， 『羔 羊 是 配。』</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="3"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">榮耀歸於我主，
+天地齊來歡呼，
+向祂讚美；
+祂的恩典、慈愛，
+除我死亡、悲哀；
+高唱直到萬代，
+『羔羊是配。』</stanza>
+	<stanza type="verse" number="2">蒙恩人們都來，
+環繞寶座敬拜，
+向祂讚美；
+為我寶血流出，
+與神和好無阻；
+讚頌之聲四佈，
+『羔羊是配。』</stanza>
+	<stanza type="verse" number="3">被贖族類都來，
+同心向主敬拜，
+向祂讚美；
+因祂我得歡樂，
+發出感恩詩歌，
+起來，口唱心和，
+『羔羊是配。』</stanza>
+	<stanza type="verse" number="4">事物雖然改遷，
+但我依舊不變，
+向祂讚美；
+詩歌不絕頌揚，
+尊祂我主我王，
+歡聲上達穹蒼，
+『羔羊是配。』</stanza>
+  </lyrics>
+</hymn>

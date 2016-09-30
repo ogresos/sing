@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, You have searched me and You have known me</title>
+  <index>true</index>
+  <category>Various Aspects of the Inner Life&amp;mdash;Dealing with the Heart</category>
+  <numbers><english num="ns:332"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Emily Parrino">E. P.</author>
+    <composer biodate="" biolink="" fullname="Emily Parrino">E. P.</composer>
+  </creators>
+  <hymncode>3334443231</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | C - - - | C - - - | F - - - | C - - - | C - - - | C - - - | Bb - - - | F - - - | C - - - | C - - - | F - - - | C - - - | Bb - - - | F - - - | C - - - | C - - - | C - - - | F - - - | Bb - - - | C - - - | C - - - | F - - - | Bb - - - | C - - - |</chords>
+  <melody>| 3 3/ 3/( 3) - | 4 4/ 4/( 4/) 3/ 2 | 3 1( - - | 1) - - 0/ 5_./ | 3 3/ 3/( 3) 1 | 6( 5/) 5/( 5) 4 | 3( - - - | 3) - - 0/ 5_./ | 3 3/ 3/( 3) 3/( 2/) | 2( - 2/) 2/ 2/ 2/ | 1 1/ 6_./ 1 6_./ 5_./( | 5_./)( 3.)( 3.) 5_./ | 3 3/ 3/( 3) 1 | 6( 5/) 5/( 5) 4 | 3( - - - | 3) - - 1/ 1/ | 2 2/ 2/( 2) 4 | 1 - - 1/( 2/) | 2/( 1/) 1( - - | 1) - - 0 (break) | (Chorus) 3 3/ 2/ 3. 4/ | 4 2/ 1/( 1) - | 2 2/ 1/ 2 2/ 4/ | 3 2/ 1/( 1) - (break) | 3 3/ 2/ 3 3/ 4/ | 4/ 4/ 2/ 1/( 1.) 1/ | 2/ 2/ 2/ 1/ 2 2/ 4/ | 3 1 - - |</melody>
+  <layout>
+    <singingstanza>Lord, You have searched me and You have known me. You un -- der -- stand my thoughts from a -- far! You com -- pre -- hend my path and are ac -- quaint -- ed with all my ways, For there is not a word on my tongue, But be -- hold You know it all to -- geth -- er! Search me, O God, and know my heart; Try me and know my anx -- i -- e -- ties; See if there is an -- y wick -- ed in me, And lead me in the way ev -- er -- last -- ing!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Psalms 139</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0332.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, You have searched me and You have known me.
+You understand my thoughts from afar!
+You comprehend my path and are acquainted with all my ways,
+For there is not a word on my tongue,
+But behold You know it all together!</stanza>
+    <stanza type="chorus" number="">Search me, O God, and know my heart;
+Try me and know my anxieties;
+See if there is any wicked in me,
+And lead me in the way everlasting!</stanza>
+    <stanza type="verse" number="2">Lord, You have touched me and You have shown me
+That I am not so simple as I thought.
+I often run and hide, prone to an errant heart.
+But there is not a pause and You pursue!
+And behold You've caught me altogether!</stanza>
+    <stanza type="chorus" number="">Where can I go from Your Spirit, O Lord?
+I can't flee from Your presence, You're inside me.
+I've climbed the steep mountains, but You still are there,
+Descend to the valleys but You find me.</stanza>
+    <stanza type="verse" number="3">Now I see, there's something more to this pattern:
+You want to show me all that You are.
+So You've drawn me from this strife, into the family life.
+As one, our prayers can match Your deep desires.
+Now behold we follow You together!</stanza>
+  </lyrics>
+</hymn>

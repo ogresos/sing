@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>án dulce el nombre de Jesús</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su nombre</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from W. C. Martin</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <music>
+	<midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Cuán dulce͜ el nombre de Jesús!
+Su música͜ amo entonar,
+De gozo me͜ hace desbordar,
+¡Jesús, precioso nombre!</stanza>
+	<stanza type="chorus" number="">¡Jesús! nombre dulce es,
+¡Jesús! cada día͜ igual,
+¡Jesús! santos proclamad,
+Es digno de͜ alabanza.</stanza>
+	<stanza type="verse" number="2">Yo amo͜ el nombre de Jesús,
+Conoce͜ y lleva mi dolor,
+De mi͜ ansiedad quita͜ el temor,
+¡Jesús, amado nombre!</stanza>
+	<stanza type="verse" number="3">Amo͜ escuchar el nombre͜ aquel,
+Que siempre͜ alegra͜ el corazón,
+Y seca͜ el llanto su canción,
+¡Oh, exaltad Su nombre!</stanza>
+	<stanza type="verse" number="4">Nadie podrá jamás decir
+Cuán dulce͜ el nombre͜ es para mí;
+¡Oh, cuánto hay que bendecir,
+Jesús, Tu dulce nombre!</stanza>
+  </lyrics>
+</hymn>

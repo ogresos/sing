@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Arthur</firstname>
+  <lastname/>
+  <email>kuanak@gmail.com</email>
+  <password>$2y$10$E043ugG9WvteeSQXbt3/3.SxbTvzkMU5azq7Q0WND8WA9bIG9n7Qe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.176.56.154</ipaddress>
+  <createdate>2014-11-16 17:45:30</createdate>
+  <lastupdateddate>2014-11-16 18:10:42</lastupdateddate>
+  <lastlogindate>2014-11-16 17:57:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+  </favourites>
+</user>

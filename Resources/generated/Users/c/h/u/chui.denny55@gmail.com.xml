@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>chui</firstname>
+  <lastname>denny</lastname>
+  <email>chui.denny55@gmail.com</email>
+  <password>$2y$10$D/UtZs9Ys6Ko4zkKng3CneEjEqzInP8YXzvtDf208J8I5cjXcj4yC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.184.109.200</ipaddress>
+  <createdate>2015-01-08 16:44:55</createdate>
+  <lastupdateddate>2015-01-08 17:09:09</lastupdateddate>
+  <lastlogindate>2015-01-08 16:51:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="376">Fill Thou my life, O Lord my God</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="h" num="511">Jesus only is our message</fav>
+    <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+  </favourites>
+</user>

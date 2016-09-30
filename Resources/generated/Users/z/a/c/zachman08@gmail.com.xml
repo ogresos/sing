@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Zach</firstname>
+  <lastname/>
+  <email>zachman08@gmail.com</email>
+  <password>$2y$10$1fQzkgriF4JvmdT.xgDfQOwFGvks5jfc235YRLaKWKH4YG9qDxCyW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.102.140.200</ipaddress>
+  <createdate>2013-07-30 08:30:21</createdate>
+  <lastupdateddate>2016-08-26 22:47:30</lastupdateddate>
+  <lastlogindate>2016-08-26 22:47:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="524">2 Corinthians 12:15-16a</fav>
+    <fav category="default" type="ns" num="482">And let them make a sanctuary for Me</fav>
+    <fav category="default" type="ns" num="218">Day One, You came to me</fav>
+    <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+    <fav category="default" type="ns" num="295">Lord, I give my heart to You</fav>
+    <fav category="default" type="lb" num="18">Lord, I've set my heart</fav>
+    <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="h" num="578">My will is weak, my strength is frail</fav>
+    <fav category="default" type="ns" num="515">Reigning in Life</fav>
+    <fav category="default" type="lb" num="81">The greatest king on earth</fav>
+    <fav category="default" type="ns" num="143">To You, dear Lord</fav>
+    <fav category="default" type="ns" num="44">We love You, Lord, we love You</fav>
+  </favourites>
+</user>

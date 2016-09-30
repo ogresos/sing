@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Nancy</firstname>
+<lastname>Santos</lastname>
+<email>nancy_p_s@yahoo.com.br</email>
+<password>$1$KrtDTC4X$QVUi2KvOZNJ2sxKIxvJyF1</password>
+<gender>F</gender>
+<country>Brazil</country>
+<ipaddress>200.232.137.238</ipaddress>
+<createdate>2008-07-26 01:43:14</createdate>
+<lastupdateddate>2009-09-15 18:22:16</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

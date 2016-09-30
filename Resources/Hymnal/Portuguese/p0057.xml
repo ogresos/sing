@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cristo já ressuscitou</title>
+  <index>true</index>
+  <category>Sua Ressurreição</category>
+  <numbers><cebuano num="117"/><chinese num="102"/><english num="117"/><french num="19"/><german num="117"/><korean num="102"/><portuguese num="57"/><russian num="24"/><spanish num="56"/><tagalog num="117"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/( ._1/ ._2/ 5/ ._1) 7/( ._1/) | 7( 6) 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/( 7/  ._1/ 5/ 6/ 7/) ._1/( ._2/) | ._1( 7) ._1 - |</melody>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cristo já ressuscitou,
+Aleluia!
+Sobre a morte triunfou,
+Aleluia!
+Céus e terra, exultai,
+Aleluia!
+Vós, remidos, O louvai,
+Aleluia!</stanza>
+	<stanza type="verse" number="2">Cristo, a morte, aniquilou,
+Aleluia!
+O seu aguilhão quebrou,
+Aleluia!
+Sim, morreu e nos salvou,
+Aleluia!
+E a serpente esmagou,
+Aleluia!</stanza>
+	<stanza type="verse" number="3">Uma vez na cruz sofreu,
+Aleluia!
+Uma vez por nós morreu,
+Aleluia!
+Mas agora vivo está,
+Aleluia!
+Para sempre reinará!
+Aleluia!</stanza>
+	<stanza type="verse" number="4">Ressurgimos co'o Senhor,
+Aleluia!
+Junto a Ele em esplendor!
+Aleluia!
+Deste mundo nos atrai
+Aleluia!
+Para a glória de Deus Pai,
+Aleluia!</stanza>
+  </lyrics>
+</hymn>

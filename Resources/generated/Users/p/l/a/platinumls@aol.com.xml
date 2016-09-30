@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>L.</firstname>
+  <lastname>Smith</lastname>
+  <email>platinumls@aol.com</email>
+  <password>$2y$10$sK46yPBzynqwLmIxz1gu8.MrhPP/noM8qxF7vOWVfkIxYgN9yE7wm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.58.168.203</ipaddress>
+  <createdate>2016-04-13 19:00:46</createdate>
+  <lastupdateddate>2016-04-13 19:07:31</lastupdateddate>
+  <lastlogindate>2016-04-13 19:07:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

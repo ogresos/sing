@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ is everything, I need Him</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><english num="ns:162"/><vsb num="26"/></numbers>
+  <hymncode>33321432122222174321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | Dm - Dm/F - | G7 - C - | F - - - | F - F/A - | C/G - G7 - | C F/C C - | C - - - | F - C - | F - C - | G - C - | C - - - | F - C - | F - C/G - | G7 - C - |</chords>
+  <melody>| (Chorus) 3 3/ 3/( 3/) 2/ 1 | 0 4 3/( 2/) 1 | 2/ 2/ 2/ 2/ 2/ 1/ 7_. | 0 4 3/( 2/) 1 (break) | 6_. 1/ 1/ 2 1 | 0 2 1 6_. | 5_./ 5_./ 1/ 1/ 2/( 1/) 7_. | 1 - - - (break) | (Verse_1) 3/ 3/ 3/ 3/( 3) 3/ 3/ | 4 4/ 3/( 3/)( 2/) 1 | 4/ 4/ 4/ 3/( 3) 1/ 1/ | 2 2/ 3/( 3) - (break) | 3/ 3/ 3/ 3/( 3) 3 | 4 4/ 3/( 3/)( 2/) 1 | 4/ 4/ 4/ 3/( 3) 1/ 1/ | 2/( 1/) 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>Christ is ev -- ery -- thing, I need Him. He is ev -- ery -- thing you need, be -- lieve Him. Life is a per -- son, re -- ceive Him, O -- pen up your heart and sing. O -- pen your -- self to the new cre -- a -- tion. O -- pen your eyes to the joy of change. Life is a fruit of God's cre -- a -- tion. Ev -- ery new birth is a soul re -- gained.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0162.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Christ is everything, I need Him.
+He is everything you need, believe Him.
+Life is a person, receive Him,
+Open up your heart and sing.</stanza>
+    <stanza type="verse" number="1">Open yourself to the new creation.
+Open your eyes to the joy of change.
+Life is a fruit of God's creation.
+Every new birth is a soul regained.</stanza>
+    <stanza type="verse" number="2">Drinking His life from a silver fountain.
+Sweet water running inside of me.
+Oh, how I love to live on the mountain,
+Ever since Jesus set me free.</stanza>
+    <stanza type="verse" number="3">Follow the Lord like a charging stallion.
+Race for the Son with all your might.
+Guard your heart like a gold medallion,
+Keep the kingdom full in sight.</stanza>
+  </lyrics>
+</hymn>

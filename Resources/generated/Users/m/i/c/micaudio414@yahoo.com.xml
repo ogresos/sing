@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Michael</firstname>
+    <lastname>Hall</lastname>
+    <email>micaudio414@yahoo.com</email>
+    <password>vKMva6WwhKR%2BW6fD4omtkA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>98.247.42.99</ipaddress>
+    <createdate>2012-01-27 01:19:31</createdate>
+    <lastupdateddate>2012-01-27 01:34:36</lastupdateddate>
+    <lastlogindate>2012-01-27 01:19:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="543">I give my heart to Thee</fav>
+        <fav category="default" type="h" num="111">Jesus, the sinner's Friend</fav>
+    </favourites>
+</user>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Have you seen God's salvation</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food</category>
+  <creators>
+    <author biodate="" biolink="" fullname="John Liu">J. L.</author>
+    <composer biodate="" biolink="" fullname="John Liu">J. L.</composer>
+  </creators>
+  <hymncode>13543321354332</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G7 - - - | C - - - | C - - - ||</chords>
+  <melody>| 0 - 1 3/ 5/( | 5) - - - | 0 - 4 3/ 3/( | 3/) 2.( 2) - | 0 - 1 3/ 5/( | 5) - - - (break) | 0 - 4 3/ 3/( | 3/) 2. 6 7 | ._1 - 7 - | 6 - 5 - | 6 - 3 2 | 0 - 1 3 | 4 - 3. 3/ (break) | 2 1( 1) 2 | 3( - - - | 3) - 2 3 | 4 - 3. 3/ | 2 1( 1) 7_. | 1( - - - | 1) - - - (break) | (Chorus) 6 - - 6 | 5 - - 2/ 3/( | 3) 5( - - | 5) - - 0 | 6 - - 6 | 5 - - 2/ 3/( | 3)( - - - | 3) - - 0 (break) | 6 - - 6 | 7 - - 7/ ._1/( | ._1) 6( - - | 6) - - 0 | 4 - - 3 | 2 - - 1 | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>Have you seen God's sal -- va -- tion? Do you feel His pro -- vi -- sion? Have you won the vic -- t'ry o'er the flesh? Have you en -- tered the king -- dom of God? Have you en -- tered the king -- dom of God? Have you climbed the moun -- tain? Are you in the light? Have you changed your di -- et? Are you eat -- ing Christ?</singingstanza>
+  </layout>
+  <notes>Composed during the 2013 European Young People's Conference in Poland.</notes>
+  <music>
+    <midi location="ns" length="54">ns0421.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Have you seen God's salvation?
+Do you feel His provision?
+Have you won the victory o'er the flesh?
+Have you entered the kingdom of God?</stanza>
+    <stanza type="chorus" number="">Have you climbed the mountain?
+Are you in the light?
+Have you changed your diet?
+Are you eating Christ?</stanza>
+    <stanza type="verse" number="2">Do you long for His presence?
+Do you know His intention
+Is to make us just the same as He?
+And to love Him constantly?</stanza>
+    <stanza type="verse" number="3">Will you be a loving seeker?
+Not a poor, dead law keeper?
+We can read His word day by day,
+Infuse us Lord, we pray.</stanza>
+    <stanza type="verse" number="4">Are you in His recovery?
+Do you know the highest story
+Is the mingling of both God and man
+To fulfill His eternal plan?</stanza>
+    <stanza type="chorus" number="">We have climbed the mountain,
+We are in the light,
+We have changed our diet,
+We are eating Christ!</stanza>
+    <stanza type="note" number="">(Repeat the last line of each verse)</stanza>
+  </lyrics>
+</hymn>

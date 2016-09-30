@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'wasang mangalaglag</title>
+  <index>true</index>
+  <category>PAGSANGYAW SA EBANGHELYO&amp;mdash;PAGLUWAS SA MANGALAGLAG</category>
+  <numbers><cebuano num="921"/><chinese num="ts:853"/><english num="921"/><korean num="664"/><portuguese num="429"/><russian num="291"/><spanish num="414"/><tagalog num="921"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="921"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">L'wasang mangalaglag,
+Ug himalatyon,
+Iloga sa sala'g kamatayon;
+Bakhoi'g bangona
+Ang nangatumba,
+Jesus moluwas sultii sila.</stanza>
+    <stanza type="chorus" number="">L'wasang mangalaglag,
+Ug himalatyon;
+Jesus maluloy-on,
+S'ya moluwas.</stanza>
+    <stanza type="verse" number="2">Naghuwat gihapon S'ya
+Bisan wa tagda,
+Nga maghinulsol kay dawaton N'ya;
+Sa tumang kalomo
+Ug kasibut gyud,
+Hangyoon sila nga motoo na.</stanza>
+    <stanza type="verse" number="3">Kasingkasing sa tawo
+Gidugmok's yawa,
+Ang grasya ra ang makapaayo;
+Gugma'g kaayo Mo
+M'oy makatandog
+Sa nalubong nga mga pagbati.</stanza>
+    <stanza type="verse" number="4">L'wasang mangalaglag,
+M'oy kaakohan;
+Ginoo magsangkap nimo's kusog,
+Sa tumang pasensya,
+Sila kabiga,
+Manlul'was namatay alang nila.</stanza>
+  </lyrics>
+</hymn>

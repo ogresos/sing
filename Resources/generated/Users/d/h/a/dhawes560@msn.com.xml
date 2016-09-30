@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Dawn</firstname>
+<lastname>Hawes</lastname>
+<email>dhawes560@msn.com</email>
+<password>$1$75WQW5DG$xvi1lig1Hv75EqXRBjKfD.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>70.59.67.191</ipaddress>
+<createdate>2008-07-26 01:43:02</createdate>
+<lastupdateddate>2009-09-15 18:23:53</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1046">Almost persuaded</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    </favourites>
+</user>

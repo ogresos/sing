@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>john</firstname>
+  <lastname>beal</lastname>
+  <email>jbeal08@comcast.net</email>
+  <password>$2y$10$/bO0I1vpggqA76i3nAT6l.X6txXUukxjWoGh1IG2Pk3ZxW8ncQEk6</password>
+  <gender/>
+  <country/>
+  <ipaddress>76.104.236.218</ipaddress>
+  <createdate>2015-04-04 20:39:18</createdate>
+  <lastupdateddate>2015-04-04 20:41:28</lastupdateddate>
+  <lastlogindate>2015-04-04 20:41:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

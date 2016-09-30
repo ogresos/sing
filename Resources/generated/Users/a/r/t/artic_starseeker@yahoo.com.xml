@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Trisha</firstname>
+    <lastname>Leonardo</lastname>
+    <email>artic_starseeker@yahoo.com</email>
+    <password>yTRBCHzp5FZoHXFRJx1Hjg%3D%3D</password>
+    <gender>F</gender>
+    <country>id</country>
+    <ipaddress>110.138.15.12</ipaddress>
+    <createdate>2012-04-03 10:46:59</createdate>
+    <lastupdateddate>2013-09-18 01:07:41</lastupdateddate>
+    <lastlogindate>2013-09-18 01:07:41</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="997">I hear the Savior say</fav>
+        <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    </favourites>
+</user>

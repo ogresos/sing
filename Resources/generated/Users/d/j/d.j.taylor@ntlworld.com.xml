@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dave</firstname>
+  <lastname>Taylor</lastname>
+  <email>d.j.taylor@ntlworld.com</email>
+  <password>$2y$10$lcIueUEnEt0WWIUDnT53C.2tmEZ1opTUzcULtzSanW46KDx6i5axu</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.14.200.138</ipaddress>
+  <createdate>2014-12-12 11:20:20</createdate>
+  <lastupdateddate>2014-12-12 11:21:38</lastupdateddate>
+  <lastlogindate>2014-12-12 11:21:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Walter</firstname>
+  <lastname>Dill</lastname>
+  <email>w.dill@jumpx.de</email>
+  <password>$2y$10$g39wSKr5aocvA3nHxHME3ensRa4xKueekTqQh3knjtcmjjOkc6BkK</password>
+  <gender/>
+  <country>de</country>
+  <ipaddress>87.180.218.145</ipaddress>
+  <createdate>2015-12-24 12:01:48</createdate>
+  <lastupdateddate>2015-12-24 12:03:50</lastupdateddate>
+  <lastlogindate>2015-12-24 12:03:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="hr" num="23">Вести ангельской внемли</fav>
+  </favourites>
+</user>

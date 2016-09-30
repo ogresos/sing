@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mirad cuán bueno y delicioso es</title>
+  <index>true</index>
+  <category>Cantos bíblicos</category>
+  <numbers><chinese num="ts:628"/><english num="1339"/><korean num="798"/><russian num="550"/><spanish num="497"/></numbers>
+  <music>
+    <midiref type="h" num="1339"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Mirad cuán bueno y delicioso es,
+Habitar los hermanos juntos en armonía!
+¡Mirad cuán bueno y delicioso es,
+Habitar los hermanos juntos en armonía!</stanza>
+    <stanza type="chorus" number="">Es como͜ el buen óleo sobre la cabeza,
+El cual desciende sobre
+La barba de͜ Aarón:
+Y baja͜ hasta͜ el borde de sus vestiduras.</stanza>
+    <stanza type="verse" number="2">¡Mirad cuán bueno y delicioso es,
+Habitar los hermanos juntos en armonía!
+Es como͜ el buen óleo sobre la cabeza,
+El cual desciende sobre
+La barba de͜ Aarón:
+Y baja͜ hasta͜ el borde de sus vestiduras.</stanza>
+    <stanza type="verse" number="3">Como͜ el rocío de͜ Hermón
+Que desciende sobre
+Los montes de Sión;
+Porque͜ allí envía Jehová bendición:
+La vida eterna.</stanza>
+  </lyrics>
+</hymn>

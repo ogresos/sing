@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bet und arbeit mit dem Herrn</title>
+  <index>true</index>
+  <category>GEBET&amp;mdash;Mit dem Herrn arbeiten</category>
+  <numbers><cebuano num="786"/><chinese num="569"/><english num="786"/><german num="786"/><korean num="569"/><russian num="286"/><spanish num="337"/><tagalog num="786"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 3. 2/ | 1 6_. 5_. - | 1 1 4. 3/ | 2 1 7_. - (break) | 2 3/( 2/) 5. 1/ | 7_. 4 3 - | 1 1 3. 2/ | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Bet und ar -- beit mit dem Herrn, Ihm den Weg bahn im Ver -- stand,  Ihn lass gehn vom Geist zur Seel, Von der Na -- be bis zum Rand.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="de" num="786b" />
+  </links>
+  <music>
+	<midiref type="h" num="786"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Bet und arbeit mit dem Herrn,
+Ihm den Weg bahn im Verstand, 
+Ihn lass gehn vom Geist zur Seel,
+Von der Nabe bis zum Rand.</stanza>
+	<stanza type="verse" number="2">Bet und arbeit mit dem Herrn,
+Bet dich ganz in Ihn hinein,
+Seinen Vorsatz und Sein Ziel,
+Bis Sein Segen füllt dein Sein.</stanza>
+	<stanza type="verse" number="3">Bet und arbeit mit dem Herrn,
+Ehrgeiz, Eigenwilln veracht,
+Lehne sie beständig ab, 
+Bis Sein Vorsatz ist vollbracht.</stanza>
+	<stanza type="verse" number="4">Bet und arbeit mit dem Herrn,
+Lass Ihn führn und leiten ein
+Jeden Plan und jedes Werk;
+Dann wirkt Er auch durch dein Sein.</stanza>
+	<stanza type="verse" number="5">Bet und arbeit mit dem Herrn,
+Bis das Rad sich dreht voran;
+Bet bis die Gemeinde hier
+Seine Kraft ausstellen kann.</stanza>
+  </lyrics>
+</hymn>

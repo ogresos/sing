@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Eric</firstname>
+  <lastname>Herrera</lastname>
+  <email>eofa@mac.com</email>
+  <password>$2y$10$UV08Ipoe3464zOgLMZE8Yeyom5wmPcIocB/QWWdpdcyyuckQbOR4a</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.34.151.80</ipaddress>
+  <createdate>2015-05-16 17:49:39</createdate>
+  <lastupdateddate>2015-10-22 04:57:43</lastupdateddate>
+  <lastlogindate>2015-10-22 04:57:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

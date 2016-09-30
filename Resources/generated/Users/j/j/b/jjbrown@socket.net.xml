@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jeff</firstname>
+    <lastname>Brown</lastname>
+    <email>jjbrown@socket.net</email>
+    <password>f887JsbG%2FzjKz1Q6S5Y3ug%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>166.182.80.33</ipaddress>
+    <createdate>2013-10-29 22:45:29</createdate>
+    <lastupdateddate>2013-10-29 22:50:20</lastupdateddate>
+    <lastlogindate>2013-10-29 22:45:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Sa bukas, h'wag mabahala,"</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;DAHIL SA PAG-AALAGA NG PANGINOON</category>
+  <numbers><english num="700"/><tagalog num="700"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from J. H. S.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="700"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Sa bukas, h'wag mabahala,"
+Sabi Niya.
+Bakit ka pa mag-alala?
+'Tiwala!
+Sa oras ng panga-ilangan,
+B'yaya Niya'y masumpungan.</stanza>
+    <stanza type="verse" number="2">Ilagak ang ating yaman
+Sa Kanya,
+Kanyang mapangalagaan,
+W'lang duda!
+Sa Kanya manalig lamang,
+T'yak ang Diyos may paraan.</stanza>
+  </lyrics>
+</hymn>

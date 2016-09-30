@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>作貴重器皿</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <melody>| 0 - - 5 | ._1 ._1 7 6 | 5. 6/ 5 5 | 6 ._2 ._1 7 (break) | ._1 - - 5 | ._1 ._1 7 6 | 5. 6/ 5 ._3 | ._2 ._1 7 6 (break) | 5 - - 5 | 7 5 ._1 5 | ._2 5 ._3 ._1 | ._4 ._3 ._2 ._1 (break) | ._1 - 7 5 | ._1 ._1 7 6 | 5. 6/ 5 5 | 6 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>大 戶 人 家 器 皿 眾 多， 你 是 屬 那 一 流？ 金 器、 銀 器、 木 器、 瓦 器， 貴 重 卑 賤 都 有！ 純 潔 自 己 並 脫 離 卑 賤， 必 作 貴 重 器 皿； 成 為 聖 別， 合 乎 主 用， 使 我 顯 主 榮 美！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="804"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">大戶人家器皿眾多，
+你是屬那一流？
+金器、銀器、
+木器、瓦器，
+貴重卑賤都有！</stanza>
+	<stanza type="chorus" number="">純潔自己並脫離卑賤，
+必作貴重器皿；
+成為聖別，合乎主用，
+使我顯主榮美！</stanza>
+	<stanza type="verse" number="2">木器─憋氣，
+瓦器─洩氣，
+你看多麼難過！
+金器─神氣，
+銀器─爭氣，
+你看多麼榮耀！</stanza>
+	<stanza type="verse" number="3">活在心思，考慮分析，
+就成木器、瓦器。
+順從膏油，釋放我靈，
+就是金器、銀器。</stanza>
+  </lyrics>
+</hymn>

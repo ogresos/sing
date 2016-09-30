@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeanne</firstname>
+  <lastname/>
+  <email>jeanned117@yahoo.com</email>
+  <password>$2y$10$hbmvVFVQAoMRzaminTu7tOG0Dd2oPZJTQ6.JjVwPh5jme9iz4f0Hq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.148.108.99</ipaddress>
+  <createdate>2016-03-24 13:57:29</createdate>
+  <lastupdateddate>2016-07-03 13:11:54</lastupdateddate>
+  <lastlogindate>2016-07-03 13:09:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

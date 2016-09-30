@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carmi</firstname>
+  <lastname>Chiong</lastname>
+  <email>chamscb@yahoo.com</email>
+  <password>$2y$10$DGQYyYRs78LMNiNbCFPRReN2aWGtz5dnU.HI1Nh0DSCqRXeHUPMJu</password>
+  <gender/>
+  <country>Philippines</country>
+  <ipaddress>108.162.222.197</ipaddress>
+  <createdate>2014-01-30 00:25:48</createdate>
+  <lastupdateddate>2015-06-09 03:25:49</lastupdateddate>
+  <lastlogindate>2015-06-09 03:25:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1308">We have oil in our lamps&amp;mdash;we are burning</fav>
+    <fav category="default" type="c" num="102">Why was a cup made?</fav>
+  </favourites>
+</user>

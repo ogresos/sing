@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Came Proclaiming</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="" fullname="Paula King">P. K.</composer>
+    <composer biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</composer>
+  </creators>
+  <hymncode>555653111121</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | Am - G7 - | C - - - | F - - - | C - - - | G7 - C - | C - - - | F - C - | C - - - | D7 - G7 - | C - - - | F - C - | C - - - | G7 - C - ||</chords>
+  <melody>| 5/ 5/ 5/ 6/ 5/ 3/( 3/) 1/ | ._1/ ._1/ ._1/ ._2/ ._1. 1/ | 5/ 5/ 5/ 6/ 5/ 3. (break) | 3/ 3/ 2/ 1/ 2. 3/ | 5/ 5/ 5/ 6/ 5. 6/ | ._1/ ._1/ ._1/ ._2/ ._1 - (break) | 5/ 5/ ._1/ ._2/ ._3 ._1/ ._1/ | ._2/ ._1/ ._3/ ._2/ ._1. (Chorus) 3/ (break) | 5./ 5//( 5/) 6/ 5. 6/ | ._1./ ._1//( ._1/) 6/ 5 - | 5/ 5/ ._1/ ._2/ ._3 ._1/ ._1/ (break) | ._2./ ._2//( ._2/) ._3/ ._2. 3/ | 5/ 5/ 5/ 6// 5//( 5) 5/ 6/ | ._1/ ._1/ ._1/ 6// 5//( 5) - (break) | 5/ 5/ ._1/ ._2/ ._3 ._1/ ._1/ | ._2./ ._3//( ._3/) ._2/ ._1 - ||</melody>
+  <layout>
+    <singingstanza end="-1">Je -- sus came pro -- claim -- ing: God's king -- dom has drawn near! For this your way of think -- ing Must be fresh and clear. Re -- pent and change your view! Con -- sid -- er Him a -- new. Je -- sus came pro -- claim -- ing And He says this to you: Re -- pent and be -- lieve! Re -- pent and be -- lieve! Je -- sus came pro -- claim -- ing: Re -- pent and be -- lieve! R -- E -- P -- E -- N -- T! B -- E -- L -- I -- E -- V -- E! Je -- sus came pro -- claim -- ing: Re -- pent and be -- lieve!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2012 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="42">c0100.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus came proclaiming:
+God's kingdom has drawn near!
+For this your way of thinking
+Must be fresh and clear.
+Repent and change your view!
+Consider Him anew.
+Jesus came proclaiming
+And He says this to you:</stanza>
+    <stanza type="chorus" number="">Repent and believe!
+Repent and believe!
+Jesus came proclaiming:
+Repent and believe!
+R-E-P-E-N-T!
+B-E-L-I-E-V-E!
+Jesus came proclaiming:
+Repent and believe!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2012 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

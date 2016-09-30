@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Fannon</lastname>
+    <email>fannie9@northstate.net</email>
+    <password>$1$hVJaX3Ae$xgcctUG.TVSnzqi8IPLTY/</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>66.110.231.50</ipaddress>
+    <createdate>2009-07-03 19:57:20</createdate>
+    <lastupdateddate>2009-10-06 21:16:35</lastupdateddate>
+    <lastlogindate>2009-10-06 21:14:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+    </favourites>
+</user>

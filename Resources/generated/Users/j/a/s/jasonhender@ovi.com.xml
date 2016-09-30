@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jason</firstname>
+  <lastname/>
+  <email>jasonhender@ovi.com</email>
+  <password>$2y$10$TIbGFtFSS8dSxTwRbm2leukqI5t1x1IauY2GTTpZX9jVeRxEEy3MS</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>41.162.184.2</ipaddress>
+  <createdate>2014-10-28 08:25:54</createdate>
+  <lastupdateddate>2014-10-28 09:07:08</lastupdateddate>
+  <lastlogindate>2014-10-28 08:27:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="970">For the glorious revelation</fav>
+    <fav category="default" type="h" num="9">Glory be to God</fav>
+    <fav category="default" type="h" num="511">Jesus only is our message</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="731">Why should I fear the darkest hour</fav>
+  </favourites>
+</user>

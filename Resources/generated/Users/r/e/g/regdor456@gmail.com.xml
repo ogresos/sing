@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rodger</firstname>
+  <lastname/>
+  <email>regdor456@gmail.com</email>
+  <password>$2y$10$gZMHSQ/WH4ZRq02PL6SfbO3bh3NrHhWTeDcRy93AmIa2zXSF2ZpC2</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>108.181.191.210</ipaddress>
+  <createdate>2016-08-06 17:34:07</createdate>
+  <lastupdateddate>2016-08-06 17:38:22</lastupdateddate>
+  <lastlogindate>2016-08-06 17:36:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

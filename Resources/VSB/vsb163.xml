@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let me stand behind You, Lord</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:330"/><english num="lb:1"/><vsb num="163"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>1233432334556545</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - - - | C/E - F - | C - - - | G - - - | Am - - - | D - D7 - | G - - - | C - F/C - | C - - - | F - - - | F - - - | C - - - | C - - - | C/E - - - | Am - - - | D7 - - - | G7 - - - | C - - - | Am - - - | F - - - | F - - - | C/G - Am - | Dm - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3. 3/ 4 3/( 2/) | 3 - - 3/ 4/ | 5. 5/ 6 5/ 4/ | 5 - - 5/ 6/ | 5/ 2/( 2) - 5/ 4/ | 3 - - 3/ 3/ | 2/ 6_./( 6_.) - 3/ 3/ | 2 5_. - 2/ 3/ | 2.( 1/) 1( - (break) | 1) - - 1 | ._1.( 6/) 6( - | 6) - {._1 7 6} | ._1.( 5/) 5( - | 5) - - 3/ 4/ | 5 5 5 5 | 6( 5) - 3 | 2( - - - (break) | 2) - - 3/ 4/ | 5. 6/ 5 3 | 2/( 1/)( 1) - 1/ 1/ | ._1. ._2/ ._1 7 | 6( - 6/) 6/ 7/ ._1/ | 5/ 3/ 1 - 1 | 2 - 3 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Let me stand be -- hind You, Lord. Let me wash Your feet with my tears. Let me wipe them with my hair. Let me kiss them and a -- noint them With the oint -- ment. I love You! Je -- sus, I love You! May I waste my all and life on You. Let me pour the oint -- ment pure On Your head and on Your feet, On You, most pre -- cious One Be -- cause I love You.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="ref">Luke 7:36-50</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="71">lb01.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let me stand behind You, Lord.
+Let me wash Your feet with my tears.
+Let me wipe them with my hair.
+Let me kiss them and anoint them
+    With the ointment.
+
+I love You!
+Jesus, I love You!
+May I waste my all and life on You.
+Let me pour the ointment pure
+On Your head and on Your feet,
+On You, most precious One
+Because I love You.</stanza>
+    <stanza type="verse" number="2">Let me take a pound of ointment pure
+Of great value to anoint Your feet
+And wipe them with my hair
+That the house be filled with the fragrance
+    Of the ointment.
+
+I love You!
+Jesus, I love You!
+May I waste my all and life on You.
+Let me pour the ointment pure
+On Your head and on Your feet,
+On You, most precious One
+Because I love You.</stanza>
+    <stanza type="verse" number="3">Lord, they said if You were a prophet,
+You should know who and what I am.
+I'm a sinner that toucheth You,
+A woman not worthy to anoint You.
+
+But I love You!
+Jesus, I love You!
+You forgave me the most
+    now I love You, Lord, the most.
+Let me pour the ointment pure
+On Your head and on Your feet,
+On You, most precious One,
+Because You love me.</stanza>
+    <stanza type="verse" number="4">Let my love from my being wash Your feet
+And my glory without wipe them too
+Let me kiss them where the nails would pierce.
+All my love, Lord, and glory I'll waste on You.
+
+I love You!
+Jesus, I love You!
+All my glory and love I pour
+    and waste on You.
+Receive my ointment, Lord.
+It's all I have, dear Lord.
+For You, most precious One,
+Because I love You.</stanza>
+  </lyrics>
+</hymn>

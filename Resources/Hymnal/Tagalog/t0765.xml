@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Huwag munang magpahinga</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;ANG PAGTAWAG</category>
+  <numbers><english num="765"/><russian num="281"/><tagalog num="765"/></numbers>
+  <creators>
+    <author biodate="1789-1871" biolink="">Translated from Charlotte Elliott</author>
+  </creators>
+  <music>
+    <midiref type="h" num="765"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Huwag munang magpahinga,
+Pakinggan Siyang mab'yaya:
+Kalaban marami pa
+Magdasal!</stanza>
+    <stanza type="verse" number="2">Pamunuan ng dilim,
+Nagtipon hukbong lagim
+Pabaya Mo'y hinihintay,
+Magbantay!</stanza>
+    <stanza type="verse" number="3">Isuot kutamaya
+Gabi't araw ihanda
+Masama nag-aamba,
+Magdasal!</stanza>
+    <stanza type="verse" number="4">Mandaraig pakinggan
+Mandirigma pagmasdan
+Pareho ang salita:
+Magbantay!</stanza>
+    <stanza type="verse" number="5">Sa Pangin'on makinig,
+Sundin iyong Iniibig;
+Hawakan salita Niya
+Magdasal!</stanza>
+    <stanza type="verse" number="6">Magbantay sa buong araw
+Nang dumating ang tanglaw
+Tulong na kai-langan pa
+Magbantay!</stanza>
+  </lyrics>
+</hymn>

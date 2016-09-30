@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О милость! Я очами видел Бога</title>
+  <index>true</index>
+  <category>БЛАГОВЕСТВОВАНИЕ&amp;mdash;СПАСЕНИЕ СЕМЬИ</category>
+  <numbers><chinese num="ts:835"/><english num="1351"/><french num="175"/><russian num="150"/><spanish num="422"/></numbers>
+  <layout>
+    <singingstanza>О ми -- лость! Я о -- ча -- ми ви -- дел Бо -- га, О счас -- тье! Я пе -- ре -- не -- сён во свет.  О бла -- го -- дать! Он да -- ром дал спа -- се -- нье.  Нуж -- ды в_мо -- их у -- силь -- ях боль -- ше нет.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="20">e1351_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">О милость! Я очами видел Бога,
+О счастье! Я перенесён во свет.
+О благодать! Он даром дал спасенье.
+Нужды в моих усильях больше нет.</stanza>
+    <stanza type="verse" number="2">Твой путь открыт. Прошу Тебя за близких.
+Спаси их, Боже, как Ты спас меня.
+Исполни обещанье Твоё ныне:
+"В Христа поверь – спасётся вся семья".</stanza>
+    <stanza type="verse" number="3">Услышь, Господь, спаси мой дом от смерти.
+Горит в душе обет Тебе такой:
+"Я и мой дом – рабы Твои навеки!"
+Ты верен, Бог, падём перед Тобой.</stanza>
+  </lyrics>
+</hymn>

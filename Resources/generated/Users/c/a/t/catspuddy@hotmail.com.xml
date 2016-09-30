@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>GEORGIE</firstname>
+  <lastname/>
+  <email>catspuddy@hotmail.com</email>
+  <password>$2y$10$XlmfDLUHEoCjs8tts9321efr6q08r8VSuHQ3vwD9lLYw21L5hBMta</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.215.44.45</ipaddress>
+  <createdate>2015-02-11 16:45:32</createdate>
+  <lastupdateddate>2016-01-27 22:33:06</lastupdateddate>
+  <lastlogindate>2016-01-27 22:33:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="h" num="442">Fully surrendered&amp;mdash;Lord, I would be</fav>
+    <fav category="default" type="h" num="1127">God has saved me from the world</fav>
+    <fav category="default" type="h" num="433">I am the Lord's! O joy beyond expression</fav>
+    <fav category="default" type="h" num="812">I come to Thee, dear Lord</fav>
+    <fav category="default" type="h" num="510">I've found the One of peerless worth</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+    <fav category="default" type="h" num="508">Made free! Made free! O captive</fav>
+    <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+    <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    <fav category="default" type="c" num="84">There is a place within me</fav>
+    <fav category="default" type="nt" num="477">Though Christ a thousand times</fav>
+    <fav category="default" type="h" num="8773">When I've run the race before me</fav>
+    <fav category="default" type="h" num="1337">When the Lord turned again the captivity of Zion</fav>
+  </favourites>
+</user>

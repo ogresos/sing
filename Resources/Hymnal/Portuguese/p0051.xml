@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! que doce história do amor de Jesus</title>
+  <index>true</index>
+  <category>Sua Redenção</category>
+  <numbers><cebuano num="112"/><chinese num="95"/><english num="112"/><german num="112"/><korean num="95"/><portuguese num="51"/><russian num="401"/><spanish num="54"/><tagalog num="112"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from R. D. Edwards</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 4 6_. 4 | 3 1 3 | 3 2 6_. (break) | 2 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 (break) | 1 - (Chorus) 3/ 4/ | 5 - 3/ 4/ | 5 - 5/ 3/ | 1 2 3 (break) | 2 - 2/ 3/ | 4 - 2/ 3/ | 4 - 4/ 2/ | 5 5 4 (break) | 3 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="112"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh! que doce história do amor de Jesus:
+Deixou Ele a glória e morreu sobre a cruz!
+Sofreu o castigo em nosso lugar,
+Logrou redenção para assim nos livrar.</stanza>
+	<stanza type="chorus" number="">Exultai, exultai, consumado está!
+Ao Senhor, o louvor pela graça sem par!
+Oh! nós entoamos infindo louvor
+Ao nosso glorioso Jesus Salvador!</stanza>
+	<stanza type="verse" number="2">Que maravilhosa é a redenção!
+O sangue de Cristo nos traz o perdão.
+Jesus já cumpriu a justiça de Deus;
+Estão mui contentes os homens e Deus.</stanza>
+	<stanza type="verse" number="3">Fulgente é a glória de Cristo, o Senhor;
+Jesus, nome excelso, tão superior!
+É Rei coroado de glória e poder,
+E digno de todo louvor receber.</stanza>
+  </lyrics>
+</hymn>

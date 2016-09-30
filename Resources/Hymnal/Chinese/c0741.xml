@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督死葬我隨同</title>
+  <index>true</index>
+  <category>受浸－埋葬與復活</category>
+  <numbers><cebuano num="936"/><chinese num="741"/><english num="936"/><french num="177"/><german num="936"/><korean num="741"/><portuguese num="471"/><russian num="149"/><spanish num="423"/><tagalog num="936"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/ 4/ 5/ 1/ 4 3/ 4/ | 3 2 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/ 4/ 5/ 1/ 4 3/ 4/ | 3 2 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/ ._1/ ._2/ 5/ ._1 7/ ._1/ | 7 6 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/ 7/  ._1/ 5/ 6/( 7/) ._1/ ._2/ | ._1 7 ._1 - |</melody>
+  <layout>
+	<singingstanza>基 督 死 葬 我 隨 同， 走 進 死 水 中， 與 祂 同 歸 終； 世 界、 撒 但 勢 雖 兇， 到 此 便 消 蹤， 不 能 再 追 攻。 基 督 復 活 我 與 共， 走 出 死 水 中， 與 祂 同 行 動； 生 命 聖 靈 力 無 窮， 使 我 蒙 恩 寵， 榮 上 又 加 榮。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督死葬我隨同，
+走進死水中，
+與祂同歸終；
+世界、撒但勢雖兇，
+到此便消蹤，
+不能再追攻。
+基督復活我與共，
+走出死水中，
+與祂同行動；
+生命聖靈力無窮，
+使我蒙恩寵，
+榮上又加榮。</stanza>
+  </lyrics>
+</hymn>

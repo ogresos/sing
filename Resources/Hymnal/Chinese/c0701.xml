@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>空空空</title>
+  <index>true</index>
+  <category>福音－虛空與痛苦</category>
+  <numbers><cebuano num="1080"/><chinese num="701"/><english num="1080"/><french num="210"/><german num="1080"/><korean num="701"/><portuguese num="467"/><russian num="184"/><spanish num="491"/><tagalog num="1080"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 1./( 2//) | 3 3 3./ 3// 2#./ 3// | 1 - - 3 | 5 5 5./ 3// 2./ 4// (break) | 3 - - 5 | ._1 ._1 ._1./ ._1// 7./ 6// | 5 - - 4 | 3 - 2. 2/ (break) | 1 - - (Chorus) 1./ 2// | 3 - - 7_../ 2// | 1 - - 3./ 3// | 5 - - 2./ 4// (break) | 3 - - 5 | ._1 - - 7/ 6/ | 5 - - 4/ 4/ | 3 - - 2./ 2// | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>日 光 下 勞 碌， 有 何 益？ 令 人 厭， 萬 事 無 新 奇！ 一 過 去， 無 人 再 記 憶！ 虛 空 的 虛 空！ 空 空 空！ 空 空 空！ 空 空 空！ 空 空 空！ 凡 事 都 虛 空， 如 捉 影， 如 捕 風。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1045"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">日光下勞碌，有何益？
+令人厭，萬事無新奇！
+一過去，無人再記憶！
+虛空的虛空！</stanza>
+	<stanza type="chorus" number="">空空空！空空空！
+空空空！空空空！
+凡事都虛空，
+如捉影，如捕風。</stanza>
+	<stanza type="verse" number="2">人生的經驗是苦難：
+多有了智慧，多愁煩！
+增加了知識，增悲歎！
+虛空的虛空！</stanza>
+	<stanza type="verse" number="3">富有與享受，有何效？
+縱你有妻子與財寶，
+也一樣連累你煩惱！
+虛空的虛空！</stanza>
+	<stanza type="verse" number="4">勞苦成愁苦，夜不安：
+你所得，即使不遭患，
+死來了，一切也是完！
+虛空的虛空！</stanza>
+	<stanza type="verse" number="5">趁幼年，當念造你主！
+敬愛祂，纔是樂與福！
+有了祂，心滿意也足！
+惟祂不虛空！</stanza>
+	<stanza type="chorus" number="">沒有主，就虛空，
+有了主，就不空！
+凡事都虛空！
+惟有主，不虛空。</stanza>
+  </lyrics>
+</hymn>

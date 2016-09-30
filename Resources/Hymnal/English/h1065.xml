@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O how great His salvation</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <numbers><cebuano num="1065"/><chinese num="738"/><english num="1065"/><korean num="738"/><spanish num="487"/><tagalog num="1065"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Composite</author>
+    <composer biodate="" biolink="">Old melody</composer>
+  </creators>
+  <meter>7.7.7.5.D.</meter>
+  <hymncode>34565511233221</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - F/C - | C - G - | C - G/B - | Am - C/G - | F - F/A - | C - Am - | Dm7 - G7 - | C - G7 - | C - G7/D - | C/E - G/B - | C - G - | Am - C/E - | F - F/A - | C - C/E - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 - 3 4 | 5 - 6. 5/ | 5 ._1 ._1. ._2/ | ._3 - ._3. ._2/ (break) | ._2 ._1 ._1 7 | 6 - ._1. 6/ | 6 5 3 5 | ._1 - ._2 - (break) | ._1 - (Chorus) 3 4 | 5 - 6. 5/ | 5 ._1 ._1. ._2/ | ._3 - ._3. ._2/ (break) | ._2 ._1 ._1 7 | 6 - ._1. 6/ | 6 5 3 5 | ._1 - ._2 - | ._1 - 0 - |</melody>
+  <layout>
+    <singingstanza>O how great His sal -- va -- tion! O how great His sal -- va -- tion! O how great His sal -- va -- tion! Je -- sus saves me now! Je -- sus breaks ev -- ery fet -- ter! Je -- sus breaks ev -- ery fet -- ter! Je -- sus breaks ev -- ery fet -- ter! Je -- sus sets me free!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="28">e1065_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O how great His salvation!
+O how great His salvation!
+O how great His salvation!
+  Jesus saves me now!</stanza>
+    <stanza type="chorus" number="">Jesus breaks every fetter!
+Jesus breaks every fetter!
+Jesus breaks every fetter!
+    Jesus sets me free!</stanza>
+    <stanza type="verse" number="2">All my sins are forgiven!
+All my fetters are riven!
+I enjoy peace of heaven!
+  Jesus saves me now!</stanza>
+    <stanza type="verse" number="3">Neither sin nor temptation,
+Neither Satan's vexation,
+Nor the world's best elation
+  Can enslave me now!</stanza>
+    <stanza type="verse" number="4">I will sing Hallelujah!
+I will sing Hallelujah!
+I will sing Hallelujah!
+  Jesus saves me now!</stanza>
+  </lyrics>
+</hymn>

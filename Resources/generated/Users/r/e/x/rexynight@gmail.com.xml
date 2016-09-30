@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rexy</firstname>
+  <lastname/>
+  <email>rexynight@gmail.com</email>
+  <password>$2y$10$2nGTNDFwa0jncGeXLE26r.CZVbwc9AxqY/clMvz9Tm4F8rH/K2Dvm</password>
+  <gender/>
+  <country>gh</country>
+  <ipaddress>41.189.162.15</ipaddress>
+  <createdate>2015-12-02 22:08:28</createdate>
+  <lastupdateddate>2015-12-02 23:52:46</lastupdateddate>
+  <lastlogindate>2015-12-02 22:10:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+  </favourites>
+</user>

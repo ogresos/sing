@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's a little word that the Lord has giv'n</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Word</category>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1843-1919" biolink="">Albert Benjamin Simpson</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1216131615</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | F - C - | G/B - G - | C - - - | G/B - G - | C - F - | C/G - Dm - | G - - - | C - G/B - | C - - - | C/E - F - | C - - - | C/E - G - | C - - F | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 1/ 2/ 1/ 6_./ 1 3/ 1/ | 6_. 1 5_. 5_./ 5_./ | 2 2/ 2/ 1 2 (break) | 3 - - 5_./ 5_./ | 2/ 2/ 2 2 1/ 2/ | 3 1 6_. 1/ 6_./ | 5_. 1 2 2 (break) | 5 - - (Chorus) 3/ 2/ | 1/ 1. 2/ 2. | 3/ 5.( 5) 3/ 2/ | 1/ 1. 6_./ 6_. 1/ (break) | 5_. - - 5_. | 1. 1/ 2. 2// 2// | 3/ 5.( 5.) 6/ | 5 3 2/ 5. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There's a lit -- tle word that the Lord has giv'n For our help in the hour of need: Let us rec -- kon our -- selves to be dead to sin, To be dead and dead in -- deed. Let us rec -- kon, rec -- kon, rec -- kon, Let us rec -- kon, rath -- er than feel; Let us be true to the rec -- k'ning, And He will make it real.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj027.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="34">e0692.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's a little word that the Lord has giv'n
+  For our help in the hour of need:
+Let us reckon ourselves to be dead to sin,
+  To be dead and dead indeed.</stanza>
+    <stanza type="chorus" number="">Let us reckon, reckon, reckon,
+Let us reckon, rather than feel;
+Let us be true to the reck'ning,
+    And He will make it real.</stanza>
+    <stanza type="verse" number="2">There's another word that the Lord has giv'n,
+  In the very same verse we read,
+Let us reckon ourselves as alive in Him,
+  As alive and alive indeed.</stanza>
+    <stanza type="verse" number="3">While we trust in feeling or inward frames
+  We shall always be tossed about,
+Let us anchor fast to the Word of God,
+  And reckon away our doubt.</stanza>
+    <stanza type="verse" number="4">As the mariner, when the skies are dim.
+  Sails on by his compass true;
+So our faith would cling to the promise firm.
+  And reckon the journey through.</stanza>
+    <stanza type="verse" number="5">O how sweet it is to be anchored fast
+  To a hope that can never fail;
+Let us reckon on with a firmer trust,
+  Till we anchor within the veil.</stanza>
+    <stanza type="verse" number="6">You may claim the promise from every pain,
+  You may know His power to heal;
+But your faith must rest in His word alone,
+  And reckon, rather than feel.</stanza>
+  </lyrics>
+</hymn>

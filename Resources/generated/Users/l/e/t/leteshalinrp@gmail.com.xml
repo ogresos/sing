@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>letesha</firstname>
+  <lastname>Parker</lastname>
+  <email>leteshalinrp@gmail.com</email>
+  <password>$2y$10$gXLN6vwbaxu2x5tutvb9VOMg8hcEF.wDOoZ24OkdMVaxIYqAb4rmC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>65.96.55.96</ipaddress>
+  <createdate>2015-09-14 20:30:31</createdate>
+  <lastupdateddate>2016-07-14 11:40:00</lastupdateddate>
+  <lastlogindate>2016-07-11 08:28:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+    <fav category="default" type="h" num="8255">Within my heart a praise o'erflowing</fav>
+  </favourites>
+</user>

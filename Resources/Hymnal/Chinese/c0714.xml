@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>此時當就耶穌</title>
+  <index>true</index>
+  <category>福音－勸導</category>
+  <numbers><chinese num="714"/><english num="8714"/></numbers>
+  <melody>| 5. 6 5/ | 3 2/ 1. | 2. 1 2/ | 3.( 5.) (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 1/) 2 2/ | 1 - - (break) | 2. 5 2/ | 3 4/ 5. | 6. ._1 6/ | 5 3/ 2. (break) | 5. 6 5/ | 3 2/ 1( 2/) | 3( 5/) 2 3/ | 1 - - |</melody>
+  <layout>
+	<singingstanza>此 時 當 就 耶 穌， 耶 穌 在 此； 不 可 再 行 死 路， 耶 穌 在 此； 眾 人 攏 總 當 來， 時 日 機 會 不 再， 不 可 遲 延 等 待， 耶 穌 在 此。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="531"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">此時當就耶穌，
+耶穌在此；
+不可再行死路，
+耶穌在此；
+眾人攏總當來，
+時日機會不再，
+不可遲延等待，
+耶穌在此。</stanza>
+	<stanza type="verse" number="2">此時當就耶穌，
+耶穌在此；
+不可因循自誤，
+耶穌在此；
+救主歡喜施恩，
+救你免得淪沉；
+不可再戀紅塵，
+耶穌在此。</stanza>
+	<stanza type="verse" number="3">此時當就耶穌，
+耶穌在此；
+不可疑惑躊躇，
+耶穌在此；
+罪惡雖然極重，
+救主仍然愛鍾；
+不必絕望惶恐，
+耶穌在此。</stanza>
+	<stanza type="verse" number="4">此時當就耶穌，
+耶穌在此；
+天下再無別路，
+耶穌在此；
+救主成功救贖，
+救主尚在招呼；
+你當火速就主，
+耶穌在此。</stanza>
+  </lyrics>
+</hymn>

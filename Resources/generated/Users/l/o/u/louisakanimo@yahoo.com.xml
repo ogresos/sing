@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Louis</firstname>
+    <lastname>Akanimo</lastname>
+    <email>louisakanimo@yahoo.com</email>
+    <password>0g8TFJFbbnOox9V%2FOje9Wg%3D%3D</password>
+    <gender>M</gender>
+    <country>Netherlands</country>
+    <ipaddress>217.42.163.101</ipaddress>
+    <createdate>2008-09-28 04:46:13</createdate>
+    <lastupdateddate>2010-02-13 06:44:10</lastupdateddate>
+    <lastlogindate>2010-02-13 06:44:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="1078">One sat alone beside the highway begging</fav>
+    </favourites>
+</user>

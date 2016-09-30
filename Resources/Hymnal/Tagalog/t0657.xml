@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa Panginoon ba'y</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA SA PAGTALIMA SA PANGINOON</category>
+  <numbers><cebuano num="657"/><chinese num="480"/><english num="657"/><korean num="480"/><tagalog num="657"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="76"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa Panginoon ba'y
+Masunurin ka?
+Kahit langit, lupa'y
+Pawang magiba?
+Manampalataya,
+Kahit may dusa?
+Kay Kristo'y umasa
+Di mapahiya.</stanza>
+    <stanza type="verse" number="2">Masunurin ba sa
+Paglilingkod mo?
+Di ka mangangamba,
+Di ka liliko?
+Kahit ang hakbang mo
+Ay kamatayan,
+Hindi ka susuko,
+Sumunod lamang?</stanza>
+    <stanza type="verse" number="3">Sa Pinuno mo ba'y
+Masunurin ka?
+Kung sa pagsalakay
+Ika'y manguna?
+Malugod, handa ba
+Sumugod lagi?
+Makikipagbaka
+Hanggang magwagi?</stanza>
+    <stanza type="verse" number="4">Kapatid, si Kristo
+Ay naghihintay,
+Utos Niya'y sundin mo,
+Walang pagsuway.
+Kung mabuting kawal,
+Sa pagsapit Niya,
+Sa iyo maggagawad,
+Kung "tapat ka!" nga.</stanza>
+  </lyrics>
+</hymn>

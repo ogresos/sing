@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Heaven's for earth</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>5355356543234</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | G - G7 - | C - - - | C - - - | Dm - - - | G7 - C - ||</chords>
+  <melody>| 5 3 5 - | 5 3 5 - | 6 5 4 3 | 2./ 2// 3 4 3./ 4// | 5 1 1 - | 1/( 2/) 3/( 4/) 5 - | 5 2 2 4 | 3 2 1 - ||</melody>
+  <layout>
+    <singingstanza>Heaven's for earth, Earth's for man, Man's for God, and That's what I am; I'm a man for God. Yes -- sir -- ee! I'm for God and He made ME!</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="14">c0037.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Heaven's for earth,
+Earth's for man,
+Man's for God, and
+That's what I am;
+I'm a man for God.
+Yessiree!
+I'm for God and He made ME!</stanza>
+  </lyrics>
+</hymn>

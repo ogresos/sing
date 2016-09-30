@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Aus meinen Ketten, Sorgen und Nacht</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Zum Herrn kommen</category>
+  <numbers><cebuano num="1050"/><chinese num="725"/><dutch num="72"/><english num="1050"/><german num="1050"/><korean num="725"/><portuguese num="458"/><russian num="174"/><spanish num="482"/><tagalog num="1050"/></numbers>
+  <creators>
+	<author biodate="1819-1904" biolink="">Translated from William True Sleeper</author>
+  </creators>
+  <melody>| 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 2 - - | 2. 1/ 2 3 - - (break) | 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 3 - 2 | 1( - - 1) - 0 (break) | 1. 7_./ 1 4 - 6_. | 5_.. 4#_./ 5_. 3 - - | 2. 1#/ 2 5 - 7_. | 2. 1/ 6_. 5_. - - (break) | 5_.. 4#_./ 5_. 3 - 2 | 1. 7_./ 6_. 5_. - - | 1. 7_./ 1 3 - 2 | 1( - - 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Aus mei -- nen Ket -- ten, Sor -- gen und Nacht, Je -- sus, ich komm! Je -- sus, ich komm! In Dei -- ne Frei -- heit, Freu -- de und Pracht, Je -- sus, ich komm zu Dir! In Dei -- ne Hei -- lung, Krank -- heit muss gehn, In Dei -- nen Reich -- tum, Wün -- sche lass stehn, Kom -- me in Dich, die Sün -- den ver -- gehn, Je -- sus, ich komm zu Dir!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1050"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Aus meinen Ketten, Sorgen und Nacht,
+Jesus, ich komm! Jesus, ich komm!
+In Deine Freiheit, Freude und Pracht,
+Jesus, ich komm zu Dir!
+In Deine Heilung, Krankheit muss gehn,
+In Deinen Reichtum, Wünsche lass stehn,
+Komme in Dich, die Sünden vergehn,
+Jesus, ich komm zu Dir!</stanza>
+	<stanza type="verse" number="2">Aus dem Versagen, was mir misslang,
+Jesus, ich komm! Jesus, ich komm!
+In das, was Dir am Kreuz dort gelang,
+Jesus, ich komm zu Dir!
+In Deinen Balsam, Sorgen lass gehn,
+In Deine Ruh, lass Alltags-Sturm stehn,
+In den Gesang, die Klagen vergehn,
+Jesus, ich komm zu Dir!</stanza>
+	<stanza type="verse" number="3">Aus meiner Unruh, eigenen Ehr,
+Jesus, ich komm! Jesus, ich komm!
+In Deinem Willen bleiben möcht, Herr,
+Jesus, ich komm zu Dir!
+In Deine Liebe, Eitles lass gehn,
+In die Entrückung, Schwermut lass stehn,
+Schwing mich zu Dir, möcht Herrlichkeit sehn,
+Jesus, ich komm zu Dir!</stanza>
+	<stanza type="verse" number="4">Aus aller Angst, wenn's Grab mich bedroht,
+Jesus, ich komm! Jesus, ich komm!
+In Deine Friedensfreude, oh Gott,
+Jesus, ich komm zu Dir!
+In die Errettung, Welt lass ich stehn,
+In Deine Herde, Spaltung muss gehn,
+Möcht in Dein liebes Angesicht sehn,
+Jesus, ich komm zu Dir!</stanza>
+  </lyrics>
+</hymn>

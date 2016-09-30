@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>當我遇見試煉災殃</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的看顧</category>
+  <numbers><cebuano num="698"/><chinese num="496"/><english num="698"/><german num="698"/><korean num="496"/><russian num="473"/><tagalog num="698"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from E. D. Mund</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_./ 3/ 3 1/( 2/) | 1/ 7_./ 7_. 5_. | 5_./ 4/ 4 2/( 3/) (break) | 2/ 1/ 1 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 (break) | 1 - (Chorus) 5 | 5/ 3/ 5 6 | 2 - 4 | 4/ 2/ 4 5 (break) | 3 - 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>當 我 遇 見 試 煉 災 殃， 經 過 荊 棘 豺 狼 之 疆， 我 有 一 個 甘 美 思 想， 就 是 主 懷 念 我。 主， 你 正 懷 念 我！ 主， 你 正 懷 念 我！ 我 怕 甚 麼？ 有 你 親 近， 並 且 還 懷 念 我！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="698"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當我遇見試煉災殃，
+經過荊棘豺狼之疆，
+我有一個甘美思想，
+就是主懷念我。</stanza>
+	<stanza type="chorus" number="">主，你正懷念我！
+主，你正懷念我！
+我怕甚麼？
+有你親近，
+並且還懷念我！</stanza>
+	<stanza type="verse" number="2">今生憂慮、苦難、折磨，
+使我心思都變昏黑，
+但是苦境使我記得：
+主，你正懷念我！</stanza>
+	<stanza type="verse" number="3">所以，無論愁雲多少，
+無論安樂，或是苦惱，
+我已滿足，因我知道：
+主還是懷念我。</stanza>
+  </lyrics>
+</hymn>

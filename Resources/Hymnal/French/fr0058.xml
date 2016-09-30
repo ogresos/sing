@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Aux pieds du Maître, je suis en paix</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;nés de l’Esprit</category>
+  <numbers><cebuano num="308"/><chinese num="265"/><english num="308"/><french num="58"/><german num="308"/><korean num="265"/><portuguese num="168"/><russian num="63"/><spanish num="151"/><tagalog num="308"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - - 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 5/ 3/ 5/ | ._1. 7 7/ 6/ 5/ 4#/ (break) | 5.( 5.) 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1/ 2/ 7_./ (break) | 1.( 1.) (Chorus) 5/ 5/ 5/ | ._1. 5. 6/ 6/ 6/ | 5.( 5.) 5/ 5/ 5/ | 6. ._1. 7/ 7/ 6/ (break) | 7.( 7.) 7/ ._1/ ._2/ | ._1. 5. 6/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1./ 2// 7_./ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Quelle assurance : Christ est à moi !
+Quel avant-goût d'une glorieuse joie !
+Dieu m'a sauvé, je suis racheté,
+Né de l'Esprit, dans Son sang lavé.</stanza>
+	<stanza type="chorus" number="">C'est mon histoire, c'est là mon chant,
+Louer mon Sauveur le jour durant.
+C'est mon histoire, c'est là mon chant,
+Louer mon Sauveur le jour durant.</stanza>
+	<stanza type="verse" number="2">Soumis à Lui, je suis dans la joie !
+Tout voile Il ôte pour que je le voie.
+Quel autre au ciel aurais-je que Lui ?
+Sur terre, Jésus seul me réjouit.</stanza>
+	<stanza type="verse" number="3">Aux pieds du Maître, je suis en paix,
+La joie m'inonde, Il me satisfait !
+Je veille et prie, je m'attends à Lui,
+En abondance reçois Sa vie.</stanza>
+  </lyrics>
+</hymn>

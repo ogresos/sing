@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Sean</firstname>
+    <lastname>Chang</lastname>
+    <email>cchinghsiang@gmail.com</email>
+    <password>PQrxhbKQjE96FV8jnVgk8g%3D%3D</password>
+    <gender>M</gender>
+    <country>tw</country>
+    <ipaddress>115.80.255.143</ipaddress>
+    <createdate>2011-01-08 06:06:49</createdate>
+    <lastupdateddate>2013-02-13 11:01:34</lastupdateddate>
+    <lastlogindate>2013-02-13 11:01:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+        <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+        <fav category="default" type="ns" num="351">Dear Lord Jesus, Thou'rt my best love</fav>
+        <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    </favourites>
+</user>

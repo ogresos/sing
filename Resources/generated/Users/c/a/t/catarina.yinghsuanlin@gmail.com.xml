@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Catarina</firstname>
+<lastname>Lin</lastname>
+<email>catarina.yinghsuanlin@gmail.com</email>
+<password>$1$UtBlvA8H$2LsvYOEBvL3iefIexyrTL1</password>
+<gender>F</gender>
+<country>Taiwan</country>
+<ipaddress>24.163.35.161</ipaddress>
+<createdate>2009-06-16 01:26:10</createdate>
+<lastupdateddate>2009-09-15 19:16:46</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+    </favourites>
+</user>

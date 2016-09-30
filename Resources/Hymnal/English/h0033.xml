@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Father, long before creation</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Election</category>
+  <numbers><cebuano num="33"/><chinese num="31"/><english num="33"/><german num="33"/><korean num="31"/><lsmyp num="9"/><portuguese num="24"/><russian num="14"/><tagalog num="33"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Chinese</author>
+	<author biodate="" biolink="">Translated by Francis P. Jones</author>
+	<composer biodate="1873-1932" biolink="">John Hughes</composer>
+  </creators>
+  <meter>8.7.8.7.8.7.</meter>
+  <hymncode>56511712323164321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C F/C C - | C - - G | C - F - | G7 - C - | C F/C C - | C - - G | C - - F | C/G G7 C - | G/B - G7 - | C - - - | C/E - C - | G/B - G - | C - - F | C/G G7 C - |</chords>
+<guitarChords>| C - - - | C - G - | C - F - | G7 - C - | C - - - | C - G - | C - - - | G G7 C - | G - G7 - | C - - - | C - - - | G - - - | C - - - | G G7 C - |</guitarChords>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Fa -- ther, long be -- fore cre -- a -- tion, Thou hadst chos -- en us in love; And that love, so deep, so mov -- ing, Draws us close to Christ a -- bove, And will keep us, and will keep us, Firm -- ly fixed in Christ a -- lone, Firm -- ly fixed in Christ a -- lone.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj231.xml</link>
+	<link type="relevant" category="nt" num="33"></link>
+  </links>
+  <music>
+	<midi location="h" length="33">e0033_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Father, long before creation,
+  Thou hadst chosen us in love;
+And that love, so deep, so moving,
+  Draws us close to Christ above,
+And will keep us, and will keep us,
+  Firmly fixed in Christ alone,
+  Firmly fixed in Christ alone.</stanza>
+	<stanza type="verse" number="2">Though the world may change its fashion,
+  Yet our God is e'er the same;
+His compassion and His cov'nant
+  Through all ages will remain.
+God's own children, God's own children,
+  Must forever praise His name,
+  Must forever praise His name.</stanza>
+	<stanza type="verse" number="3">God's compassion is my story,
+  Is my boasting all the day;
+Mercy free and never failing
+  Moves my will, directs my way.
+God so loved us, God so loved us,
+  That His only Son He gave,
+  That His only Son He gave.</stanza>
+	<stanza type="verse" number="4">Loving Father, now before Thee
+  We will ever praise Thy love;
+And our song will sound unceasing
+  Till we meet Thy Son above,
+Giving glory, giving glory,
+  To our God and to the Lamb,
+  To our God and to the Lamb.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michella</firstname>
+  <lastname>Schroeder</lastname>
+  <email>schroedermichella@gmail.com</email>
+  <password>$2y$10$C7mnQA2VJWcm0QEsIo6s0OjgmSjmaXg6F5bc5fEfW2zFZdvuPaQNW</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>96.44.123.46</ipaddress>
+  <createdate>2015-11-09 23:04:41</createdate>
+  <lastupdateddate>2015-11-09 23:07:10</lastupdateddate>
+  <lastlogindate>2015-11-09 23:07:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

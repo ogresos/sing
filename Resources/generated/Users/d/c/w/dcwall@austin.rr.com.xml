@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Carol</firstname>
+    <lastname>Wallace</lastname>
+    <email>dcwall@austin.rr.com</email>
+    <password>lXGWDE075JS3rTfWoBrBaw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>70.113.33.130</ipaddress>
+    <createdate>2010-12-30 00:01:18</createdate>
+    <lastupdateddate>2011-01-08 12:17:34</lastupdateddate>
+    <lastlogindate>2010-12-30 00:01:20</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="877">I dare not be defeated</fav>
+        <fav category="default" type="h" num="711">I know not what awaits me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In nothing be anxious</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Eric Ching">E. C.</composer>
+  </creators>
+  <hymncode>332162333212</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | F - - G7 | C - Am - | D7 - G7 - | C - - - | F - - - | Dm7 - - - | G7 - - - | C - C7 - | F - Fm - | C/G - G7 - | C - - - | C - C7/E - | F - - - | C - - - | G - - - | C - C7/E - | F - - - | C - - - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| (startrepeat2) 0 3/ 3/( 3/) 2/ 1 | 6_. 2 - - | 0 3/ 3/ 3/( 2/) 1 | 2 - - - | 0 3/ 3/( 3/) 2/ 1 | 6_. 2 - - | 0 1/ 1/( 1/)( 2/) 3 | 2 - - - (break) | 0 3/ 3/( 3/) 2/ 1 | 0 4/ 4/( 4/) 3/ 2 | 0 3/ 3/ 2/( 1/) 2 | (alt1) 1 - - - | (alt2) 1 - - 1/ 1/ | (endalt) 4 4/ 4/( 4.) 5/ | 4/ 3/( 3/) 3/( 3) - | 2/ 2/ 2 1 2 (break) | 3/( 2/)( 2/) 1/( 1.) 1/ | 4 4/ 4/( 4.) 5/ | 4 3/ 3/( 3) - | 0 2 2/( 1/) 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>In noth -- ing be anx -- ious, But in ev -- ery -- thing, By prayer and pe -- ti -- tion With thanks -- giv -- ing, Let your re -- quests, let your re -- quests Be made known to God; God; And the peace of God, Which sur -- pass -- es Ev -- ery man's un -- der -- stand -- ing, Will guard your hearts Will guard your thoughts In Christ Je -- sus.</singingstanza>
+  </layout>
+  <date>September 15, 2003</date>
+  <links>
+    <link type="relevant" category="ns" num="10"></link>
+    <link type="ref">Philippians 4:6-7</link>
+  </links>
+  <music>
+    <midi location="ns" length="64">ns0142.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In nothing be anxious,
+But in everything,
+By prayer and petition
+With thanksgiving,
+Let your requests, let your requests
+Be made known to God;
+
+In nothing be anxious,
+But in everything,
+By prayer and petition
+With thanksgiving,
+Let your requests, let your requests
+Be made known to God;
+
+And the peace of God,
+Which surpasses
+Every man's understanding,
+Will guard your hearts
+Will guard your thoughts
+In Christ Jesus.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Junto à cruz almejo estar</title>
+  <index>true</index>
+  <category>Clamar Ao Senhor</category>
+  <numbers><cebuano num="1059"/><chinese num="456"/><english num="1059"/><french num="204"/><german num="1059"/><korean num="456"/><portuguese num="464"/><russian num="178"/><spanish num="486"/><tagalog num="1059"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 3/ | 3. 2 0/ (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ (break) | (Chorus) 3 5/ 5. | 4 6/ 6. | 5 6/ 5 3/ | 3. 2. (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ |</melody>
+  <music>
+	<midiref type="h" num="1059"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Junto à cruz almejo estar,
+Onde rica fonte
+Corre franca, salutar,
+Do Calvário, monte.</stanza>
+	<stanza type="chorus" number="">Sim, na cruz, só na cruz,
+Devo gloriar-me;
+Dela nada e ninguém
+Há de apartar-me.</stanza>
+	<stanza type="verse" number="2">Junto à cruz e em tremor,
+Graça eterna achou-me;
+Lá a Estrela da Manhã
+Raios seus mandou-me.</stanza>
+	<stanza type="verse" number="3">Desta cruz, ó Salvador,
+Sempre vem lembrar-me;
+Dela à sombra, meu Senhor,
+Queiras abrigar-me.</stanza>
+	<stanza type="verse" number="4">Junto à cruz a vigiar,
+Mui fiel espero,
+Té Teu rosto contemplar,
+Em Teu reino eterno.</stanza>
+  </lyrics>
+</hymn>

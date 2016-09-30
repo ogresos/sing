@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let the word of Christ dwell in you richly</title>
+  <index>true</index>
+  <category>The Word of God&amp;mdash;Indwelling Word</category>
+  <numbers><english num="ns:539"/><lsmyp num="317"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</author>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>55555435654444423454</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | Fm - - - | C - G7 - | Am - D - | F - - - | G7 - - - | C - - - | C - - - | C - - - | C - - - | F - - - | Fm - - - | C - G7 - | Am - D - | F - - - | G7 - - - | C - - - | C - - - | F - - - | C - - - | F - - - | C - - - | F - C - | F - C - | D - D7 - | G - - - | G7 - - - | C - - - | C - - - | F - - - | Fm - - - | C - G7 - | Am - D - | F - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 5/ 5/ 5/ 5/ 5 4/ 3/ | 5 6 5 - | 4/ 4/ 4/ 4/ 4 2/ 3/ (break) | 4 5 4. 4/ | 5 3 4 2 | 3/ 3/ 1 2 - (break) | 6/ 5.( 5.) 5/ | 5 4/ 4/ 3 2 | 1( - - - | 1) - - - (break) | 5/ 5/ 5/ 5/ 5 4/ 3/ | 5 6 5 - | 4/ 4/ 4/ 4/ 4 2/ 3/ (break) | 4 5 4. 4/ | 5 3 4 2 | 3/ 3/ 1 2 - (break) | 6/ 5.( 5.) 5/ | 5 4/ 4/ 3 2 | 1( - - - (break) | 1) - - (Chorus) 1 | 6 - - 7 | 6 5 - - | 4 4/ 4/ 5 4 (break) | 4 3( 3.) 1/ | 6 6 5 3 | 4/ 4/ 4 3 - (break) | 2/ 2/ 2 2/ 2/ 3/ 4#/ | 5 4/ 4/ 3( 2)( | 2) - - - (break) | 5/ 5/ 5/ 5/ 5 4/ 3/ | 5 6 5 - | 4/ 4/ 4/ 4/ 4 2/ 3/ (break) | 4 5 4. 4/ | 5 3 4 2 | 3/ 3/ 1 2 - (break) | 6/ 5.( 5.) 5/ | 5 4/ 4/ 3 2 | 1( - - - | 1) - - - | </melody>
+  <!--audio>http://scripturesongs.us/Col3_16_Eph_5_18-19.mp3</audio-->
+  <layout>
+    <singingstanza>Let the word of Christ dwell in you rich -- ly, Let the word of Christ dwell in you rich -- ly, In psalms and hymns and spir -- i -- tual songs, Sing -- ing with grace in your hearts to God. Let the word of Christ dwell in you rich -- ly, Let the word of Christ dwell in you rich -- ly, In psalms and hymns and spir -- i -- tual songs, Sing -- ing with grace in your hearts to God. Be filled in spir -- it, Speak -- ing to one an -- oth -- er In psalms and hymns and spir -- i -- tual songs, Sing -- ing and psalm -- ing with your heart to the Lord. Let the word of Christ dwell in you rich -- ly, Let the word of Christ dwell in you rich -- ly, In psalms and hymns and spir -- i -- tual songs, Sing -- ing with grace in your hearts to God.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Colossians 3:16</link>
+    <link type="ref">Ephesians 5:18-19</link>
+  </links>
+  <music>
+    <midi location="ns" length="89">ns0539.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let the word of Christ dwell in you richly,
+Let the word of Christ dwell in you richly,
+In psalms and hymns and spiritual songs,
+Singing with grace in your hearts to God.</stanza>
+    <stanza type="note">(repeat)</stanza>
+    <stanza type="chorus" number="">Be filled in spirit,
+Speaking to one another
+In psalms and hymns and spiritual songs,
+Singing and psalming with your heart to the Lord.</stanza>
+    <stanza type="note">(repeat Verse 1)</stanza>
+  </lyrics>
+</hymn>

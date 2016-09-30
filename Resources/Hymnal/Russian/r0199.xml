@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ты – образ Бога, о Господь</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО БОЖЕСТВЕННОСТЬ</category>
+  <numbers><cebuano num="57"/><english num="57"/><german num="57"/><russian num="199"/><spanish num="34"/><tagalog num="57"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 3/( 4/) | 5 - 5 | ._1 - ._3 | ._2 - ._1 | 6( ._1) 6 | 5 - 5 | ._1 - ._3 | ._2( - - (break) | ._2) - ._3/( ._4/) | ._5 - ._3 | ._1 - ._3 | ._2 - ._1 | 6 ._1 6 | 5 - ._1 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>Ты_– об -- раз Бо -- га, о Гос -- подь!  Ты нам я -- вил От -- ца.  В_Те -- бе те -- лес -- но о -- би -- та -- ет Вся Бо -- га пол -- но -- та.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ты – образ Бога, о Господь!
+Ты нам явил Отца.
+В Тебе телесно обитает
+Вся Бога полнота.</stanza>
+	<stanza type="verse" number="2">Ты – Слово Божие, Господь,
+Божественная жизнь.
+Действительность и благодать
+В Тебе для нас даны.</stanza>
+	<stanza type="verse" number="3">Ты – вечный Божий Сын, Господь,
+Ты – Божьей славы блеск.
+И сущность Бога самого
+Мы признаём в Тебе.</stanza>
+	<stanza type="verse" number="4">Ты – Бога воплощение,
+Ты с Ним – навек одно.
+Ничто не может так, как Ты,
+Нам выразить Его.</stanza>
+	<stanza type="verse" number="5">И наслаждаемся в Тебе
+Как жизнью Богом мы;
+Мы славим Бога и Тебя,
+Хвалой навек полны.</stanza>
+  </lyrics>
+</hymn>

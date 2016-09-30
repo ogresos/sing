@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kasingkasing kanhi</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GIHIGUGMA SA GINOO</category>
+  <numbers><cebuano num="285"/><chinese num="ts:28"/><english num="285"/><korean num="232"/></numbers>
+  <creators>
+    <author biodate="1828-1896" biolink="">Translated from Elizabeth Rundle Charles</author>
+  </creators>
+  <music>
+    <midiref type="h" num="111"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kasingkasing kanhi
+Labihan kapobre,
+Karon gugmang di makabsan,
+Magkalipay kita!</stanza>
+    <stanza type="verse" number="2">Kasingkasing kanhi
+Labihang nasakit,
+Nakit-ang moayo ni'ni,
+Magkalipay kita!</stanza>
+    <stanza type="verse" number="3">Labihang naluya,
+Gikuptan ko N'ya nga
+Magpahulay's mga bukton;
+Magkalipay kita!</stanza>
+    <stanza type="verse" number="4">Labihang paglaag,
+Gipapauli N'ya,
+Nakit-an S'yang panimalay,
+Magkalipay kita!</stanza>
+    <stanza type="verse" number="5">Nakit-an kong Abyan,
+Nasayud sa tanan,
+Apan nagmahal gihapon,
+Magkalipay kita!</stanza>
+    <stanza type="verse" number="6">Ako wa masayud
+Dugay nang gimahal,
+Gugmang lalum, maunongon,
+Malomo'g malig-on.</stanza>
+    <stanza type="verse" number="7">Nasayran nang tanan,
+Naila 'yang tingog,
+Adlaw-adlaw nga nadungog,
+Nganong di maghugyaw?</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jahrelang beim Kreuz so sorgenvoll</title>
+  <index>true</index>
+  <category>ERMUTIGUNG&amp;mdash;In das Allerheiligste einzutreten</category>
+  <numbers><english num="1208"/><german num="1208"/><korean num="834"/><russian num="279"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 5. 5/ 5./ 4// 3./ 4// | 5 6 5 - | 7. 7/ 7./ 6// 5./ 4// | 3 6 5 - (break) | 5. 5/ 5./ 4// 3./ 4// | 5 6 5 ._1 | ._2 - 7 - | ._1 - - 0 (break) | (Chorus) ._1. 7/ ._1./ 7// ._1./ 6// | 6 5 5 - (break) | 7. 6/ 7./ 6// 7./ 6// | 5 ._1 ._1 - (break) | ._1. 7/ ._1./ 7// ._1./ 6// | 6 5 5 ._1 | ._2 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Jah -- re -- lang beim Kreuz so sor -- gen -- voll Tat ich Bus -- se ü -- ber Sünd und Groll, Dann den Fluss durch -- schritt ver -- trau -- ens -- voll, Den Thron be -- rühr. Reich Barm -- her -- zig -- keit und Gna -- de fließt_&amp;mdash; Nun mein Herz ge -- stärkt im Wett -- lauf ist! Kühn kommt es zu Dir, und Dich ge -- nießt, Ge -- lieb -- ter Herr.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="342"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jahrelang beim Kreuz so sorgenvoll
+Tat ich Busse über Sünd und Groll,
+Dann den Fluss durchschritt vertrauensvoll,
+    Den Thron berühr.</stanza>
+	<stanza type="chorus" number="">Reich Barmherzigkeit und Gnade fließt –
+Nun mein Herz gestärkt im Wettlauf ist!
+Kühn kommt es zu Dir, und Dich genießt,
+    Geliebter Herr.</stanza>
+	<stanza type="verse" number="2">Tag für Tag versagte ich, welch Qual!
+Folgte dem Altarruf jedes Mal,
+Doch nun geh ich weiter, traf die Wahl,
+    Den Thron berühr.</stanza>
+	<stanza type="verse" number="3">Drängt ins Allerheiligste voran;
+Lasst die Sünden, lauft nach Seinem Plan,
+Preist den Herrn! Er hat Sein Werk getan – 
+    Der Vorhang riss!</stanza>
+	<stanza type="verse" number="4">Manna hinterm Vorhang nun genießt,
+Das Gesetz des Lebens, Stab der sprießt;
+Lebt in Christus, der die Lade ist, 
+    Halleluja!</stanza>
+  </lyrics>
+</hymn>

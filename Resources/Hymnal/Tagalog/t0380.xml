@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Tinapay sa banal</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGKAIN KAY KRISTO</category>
+  <numbers><cebuano num="380"/><chinese num="299"/><english num="380"/><korean num="299"/><russian num="76"/><tagalog num="380"/></numbers>
+  <creators>
+    <author biodate="" biolink="">From Latin</author>
+    <author biodate="1808-1887" biolink="">Translated by Ray Palmer</author>
+  </creators>
+  <music>
+    <midiref type="h" num="380"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Tinapay sa banal,
+At sa manlalakbay,
+Mulang langit na Manna,
+Angkop sa kanila.
+Amin nang Sarili Mo,
+Kami'y punuin Mo;
+Hanggang lupa'y mapun'an,
+Ng Iyong kasiyahan.</stanza>
+    <stanza type="verse" number="2">Ika'y buhay na tubig,
+Sa batong nabitak;
+Tubig na anong tamis,
+Bukal ng pag-ibig.
+Malaya Kang inumin,
+Uhaw ko'y pawiin;
+Hanggang kawalang-hanggan
+Tanging Ikaw lamang.</stanza>
+    <stanza type="verse" number="3">Inumin Ka't kainin,
+Salamat ihain;
+Iyong 'Spiritu't Salita,
+Handog Mong tamasa.
+Sa Iyo kami'y lalago,
+Mamumuhay sa Iyo;
+Upang sa Iyo matulad,
+Lubos Kang ihayag.</stanza>
+  </lyrics>
+</hymn>

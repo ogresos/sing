@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Terence</firstname>
+  <lastname/>
+  <email>riceydor@aol.com</email>
+  <password>$2y$10$gdX3dSPKBASSJwbKZ2Xda.Q003qIH16x1ht6.uHK0v2YpWUlCIv0W</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>2.25.241.27</ipaddress>
+  <createdate>2016-02-02 17:22:59</createdate>
+  <lastupdateddate>2016-02-02 17:32:41</lastupdateddate>
+  <lastlogindate>2016-02-02 17:31:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+  </favourites>
+</user>

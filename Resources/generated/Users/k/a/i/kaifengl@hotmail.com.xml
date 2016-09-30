@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>kaifeng</firstname>
+<lastname>liu</lastname>
+<email>kaifengl@hotmail.com</email>
+<password>$1$xen46imq$dPuU1ccnunOVFkZwXvren/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>134.174.21.2</ipaddress>
+<createdate>2009-01-04 15:32:46</createdate>
+<lastupdateddate>2009-09-15 18:27:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+        <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    </favourites>
+</user>

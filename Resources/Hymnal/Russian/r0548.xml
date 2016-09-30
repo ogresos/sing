@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Нищий, слабый и слепой</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;УПОВАНИЕ НА ГОСПОДА</category>
+  <numbers><cebuano num="1062"/><chinese num="727"/><english num="1062"/><korean num="727"/><russian num="548"/></numbers>
+  <creators>
+    <author biodate="1820-1901" biolink="">Translated from William McDonald</author>
+  </creators>
+  <melody>| 0 - 5_./ 1/ | 3. 1/ 2./ 3// | 1 - 3/ 4/ | 5. 6/ 5./ 3// (break) | 2 - 1/ 2/ | 3. 1/ 2./ 3// | 1 - 6_./ 6_./ | 5_.. 1/ 3./ 2// (break) | 1 - (Chorus) 5_./ 1/ | 3. 1/ 2./ 3// | 1 - 3/ 4/ | 5. 6/ 5./ 3// (break) | 2 - 1/ 2/ | 3. 1/ 2./ 3// | 1 - 6_./ 6_./ | 5_.. 1/ 3./ 2// | 1 - 0 |</melody>
+  <music>
+    <midiref type="h" num="1062"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Нищий слабый и слепой,
+Прихожу, Господь, к кресту;
+Всё считаю я тщетой;
+Здесь спасенье обрету.</stanza>
+    <stanza type="chorus" number="">О голгофский Агнец мой,
+С упованьем и мольбой
+Пред крестом склоняюсь я:
+О Иисус, спаси меня.</stanza>
+    <stanza type="verse" number="2">О Тебе давно вздыхал,
+Жило долго зло во мне;
+Нежно мне Иисус сказал:
+«От грехов очищу всех».</stanza>
+    <stanza type="verse" number="3">Всё, чем здесь я дорожу,
+Жизнь, друзей Тебе отдам,
+Чтобы телом и душой
+Мне Твоим быть навсегда.</stanza>
+    <stanza type="verse" number="4">Обещаньям верю всем;
+Кровь так действенна Твоя!
+Я повержен в прах и тлен;
+Со Христом распят и я.</stanza>
+  </lyrics>
+</hymn>

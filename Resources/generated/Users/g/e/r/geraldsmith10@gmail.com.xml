@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gerald</firstname>
+  <lastname>Smith</lastname>
+  <email>geraldsmith10@gmail.com</email>
+  <password>$2y$10$.exSYnHJtA/q94Soz9oV9u9rkK6c4OqmrYIvod0Uvtgh3Ze97DMHC</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>106.68.47.100</ipaddress>
+  <createdate>2014-09-13 09:25:41</createdate>
+  <lastupdateddate>2014-09-13 09:26:50</lastupdateddate>
+  <lastlogindate>2014-09-13 09:26:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

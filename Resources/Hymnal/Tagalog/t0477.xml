@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>'Sanlibong beses man</title>
+  <index>true</index>
+  <category>PAGKAKAISA KAY KRISTO&amp;mdash;KAISA NIYA</category>
+  <numbers><cebuano num="477"/><chinese num="366"/><english num="477"/><german num="477"/><korean num="366"/><russian num="216"/><tagalog num="477"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Unknown</author>
+    <author biodate="" biolink="">Translated from Albert Benjamin Simpson, chorus</author>
+  </creators>
+  <music>
+    <midiref type="h" num="477"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">'Sanlibong beses man,
+Sa Bethlehem 'silang;
+Nguni't kung di sa iyo,
+Kaligtasan di iyo!
+Di maliligtas ka,
+Ng Krus sa Golgotha,
+Ang Krus sa iyong puso,
+Magpagaling sa iyo.</stanza>
+    <stanza type="chorus" number="">O krus Mo Kristo'y akin,
+Sa puso'y tanggapin;
+Patay sa aking sarili,
+Sa Iyo mananatili.</stanza>
+    <stanza type="verse" number="2">Anong mahal mo nga,
+Magiging gayon ka;
+Diyos, kung Diyos mahal mo
+L'wad, kung siyang gusto mo.
+Sarili'y lisanin,
+Diyos iyong papasukin,
+Ikaw ay mamatay
+Nang Siya ay mabuhay.</stanza>
+    <stanza type="verse" number="3">Pinakamaikli
+Daan iyong mapili
+Sa Diyos, madala ka:
+Pag-ibig sa Kanya.
+Alisin ang mundo,
+Mula sa iyong puso;
+Glorya ng Diyos Mismo,
+Magpupuno sa iyo.</stanza>
+  </lyrics>
+</hymn>

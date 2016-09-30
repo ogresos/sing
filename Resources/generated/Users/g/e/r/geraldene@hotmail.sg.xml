@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Geraldene</firstname>
+  <lastname>Tay</lastname>
+  <email>geraldene@hotmail.sg</email>
+  <password>$2y$10$SMiDV2T3z3PGbrnFa6Zp5.a9w1G0IzcihpHMMcK.eIITSoGRC.bnK</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>183.90.69.16</ipaddress>
+  <createdate>2015-09-13 05:37:21</createdate>
+  <lastupdateddate>2015-09-13 06:15:54</lastupdateddate>
+  <lastlogindate>2015-09-13 05:39:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="192">Some, these days, would tell us that our Jesus is not food</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+  </favourites>
+</user>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ravens-_Rock@gmx.com</firstname>
+    <lastname></lastname>
+    <email>ravens_rock@gmx.com</email>
+    <password>d88jItVusCsB6N4hyghYmg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-14 15:34:23</createdate>
+    <lastupdateddate>2014-05-14 15:34:23</lastupdateddate>
+    <lastlogindate>2014-05-14 15:10:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing Grace</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

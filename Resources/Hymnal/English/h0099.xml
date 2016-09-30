@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tis midnight, and on Olive's brow</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Suffering</category>
+  <numbers><chinese num="83"/><english num="99"/><korean num="83"/><tagalog num="99"/></numbers>
+  <creators>
+    <author biodate="1794-1849" biolink="">William Bingham Tappan</author>
+    <composer biodate="1816-1868" biolink="">William Batchelder Bradbury</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>5556655511123221</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C - | C - G - | C - - - | C - C/E F | G - G7 - | C - - - | G/B - G - | D - D/F# - | G - G/F - | C/E - F - | Dm7 - G7 - | C - - 0 |</chords>
+  <melody>| 0 - 5 - | 5 5 6 6 | 5 - 5 - | 5 - ._1 - | ._1 ._1 ._2 ._3 | ._2 - ._2 - (break) | ._1 - ._3 - | ._2 ._2 ._2 ._2  | ._2 - ._1 - | 7 - 7 - | ._1 ._1 ._1 6 | 5 - 5 - | 5 - 0 - |</melody>
+  <layout>
+    <singingstanza>'Tis mid -- night, and on O -- live's brow The star is dimmed that late -- ly shone; 'Tis mid -- night in the gar -- den now, The suf -- f'ring Sav -- ior prays a -- lone.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj159.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="21">e0099_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">'Tis midnight, and on Olive's brow
+  The star is dimmed that lately shone;
+'Tis midnight in the garden now,
+  The suff'ring Savior prays alone.</stanza>
+    <stanza type="verse" number="2">'Tis midnight, and from all removed,
+  The Savior wrestles lone with fears&amp;mdash;
+E'en that disciple whom He loved
+  Heeds not his Master's grief and tears.</stanza>
+    <stanza type="verse" number="3">'Tis midnight, and for other's guilt
+  The Man of Sorrows weeps in blood;
+Yet He that hath in anguish knelt
+  Is not forsaken by His God.</stanza>
+    <stanza type="verse" number="4">'Tis midnight, and from ether-plains
+  Is borne the song that angels know
+Unheard by mortals are the strains
+  That sweetly soothe the Savior's woe.</stanza>
+  </lyrics>
+</hymn>

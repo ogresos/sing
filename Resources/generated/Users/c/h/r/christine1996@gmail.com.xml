@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Christine</firstname>
+  <lastname>Kang</lastname>
+  <email>christine1996@gmail.com</email>
+  <password>$2y$10$NX.Z4nXBDxUcGQr9fPKCG.2jz37fxqsl1vy7M.HQqUPuwdXbHFniy</password>
+  <gender/>
+  <country>ge</country>
+  <ipaddress>5.178.194.61</ipaddress>
+  <createdate>2014-06-17 19:20:21</createdate>
+  <lastupdateddate>2016-03-12 08:51:36</lastupdateddate>
+  <lastlogindate>2016-03-09 16:15:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="720">God Hath Not Promised</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="1052">I've wandered far away from God</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="408">Lord Jesus, I long to be perfectly whole</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="569">Simply trusting every day</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

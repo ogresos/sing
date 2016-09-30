@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Отец, Ты милость к нам Свою явил</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО МИЛОСТЬ</category>
+  <numbers><cebuano num="25"/><chinese num="23"/><english num="25"/><german num="25"/><korean num="23"/><portuguese num="22"/><russian num="441"/><tagalog num="25"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Отец, Ты милость к нам Свою явил
+В путях Твоих;
+Из нас, из грешных, сделать Ты
+решил
+Сынов Своих.
+Сосуды милости – Ты создал нас,
+В сосудах чести явлен Ты сейчас.</stanza>
+	<stanza type="verse" number="2">"Не жертвы Я, а милости хочу",
+Ты объявил;
+Ко всем нам благосклонность так Свою
+Ты проявил.
+Не от того, кто хочет, кто бежит,
+А от Тебя, кто милость нам дарит.</stanza>
+	<stanza type="verse" number="3">Ты дал нам с милостью Свою любовь
+И благодать,
+Чтоб вечно в милости перед Тобой
+Нам пребывать.
+Отец, мы ныне и в веках Тебе
+За милость будем поклоняться все.</stanza>
+  </lyrics>
+</hymn>

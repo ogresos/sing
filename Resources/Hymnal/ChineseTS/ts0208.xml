@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>靠耶和華得的喜樂</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5112321543221</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>靠 耶 和 華 得 的 喜 樂 是 你 的 力 量。 靠 耶 和 華 得 的 喜 樂 是 你 的 力 量。 喫 肥 美 的， 喝 甘 甜 的， 今 日 是 我 們 主 的 聖 日。 靠 耶 和 華 得 的 喜 樂 是 你 的 力 量。</singingstanza>
+  </layout>
+  <notes>尼希米八章</notes>
+  <music>
+	<midi location="ts" length="">ts0208.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">靠耶和華得的喜樂
+是你的力量。
+靠耶和華得的喜樂
+是你的力量。
+喫肥美的，喝甘甜的，
+今日是我們主的聖日。
+靠耶和華得的喜樂
+是你的力量。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ann</firstname>
+  <lastname>Miller</lastname>
+  <email>pamiller53@hotmail.com</email>
+  <password>$2y$10$MMj6jdUbB2klFXAcV8ihQ.qoNlcD2cw/XjdfcYkAI6LZa68TC/FlW</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>101.191.175.5</ipaddress>
+  <createdate>2015-11-27 09:03:47</createdate>
+  <lastupdateddate>2016-04-15 08:09:26</lastupdateddate>
+  <lastlogindate>2016-04-15 08:07:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

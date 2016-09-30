@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Phoebe</firstname>
+  <lastname>Chiu</lastname>
+  <email>phoebechiu04@gmail.com</email>
+  <password>$2y$10$72OnjpQF/qcaxNQm.HCR7e/K.y.VK1QatH.eM16WIWWcmh88xOfeC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>23.28.232.57</ipaddress>
+  <createdate>2015-06-19 22:46:48</createdate>
+  <lastupdateddate>2016-08-24 16:12:36</lastupdateddate>
+  <lastlogindate>2016-08-24 16:09:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="403">For God so loved the world</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="ns" num="98">I'm walking down the road</fav>
+    <fav category="default" type="ns" num="224">I've given up the world because</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="515">Reigning in Life</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="ns" num="499">The Vision of God's Building</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+  </favourites>
+</user>

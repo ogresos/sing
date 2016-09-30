@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦耶穌我主我救主</title>
+  <index>true</index>
+  <category>羨慕－為主而活</category>
+  <numbers><cebuano num="362"/><chinese num="306"/><english num="362"/><korean num="306"/><russian num="514"/><tagalog num="362"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0. 0 5/ | 3 4/ 5 5/ | 6/( 7/) ._1/ 6/( 5) | 7/ 7/ ._1/ ._2 5/ (break) | ._3.( ._3) 5/ | 6 6/ 6/( ._4/) 6/ | 5 5/ 5/( ._3/) ._1/ | 7 ._1/ ._2./( ._4//) ._3//( ._2//) (break) | [4/4] ._1.( ._1) 0/ (Chorus) ._1 | 7 7/ 7/ 7 ._1/( ._2/) | ._1 - 5 ._3 | ._2. ._3/ ._2/ ._1/ 7/ 6/ (break) | 7 - - 5 | ._3. ._2/ ._1/ ._1/ ._2/ ._3/ | ._4 - 6. 6/ | 5. ._1/ ._1/ 7/ ._1/ ._2/ | ._1( - (.._1) 0 |</melody>
+  <layout>
+	<singingstanza>祂 為 我 死， 我 纔 能 活； 我 今 為 祂 活 著， 我 命、 我 愛， 我 都 獻 給 那 為 我 釘 死 的。 哦 耶 穌 我 主， 我 救 主！ 使 我 能 專 心 跟 從 主； 你 怎 樣 為 我 而 死 而 活， 讓 我 照 樣 為 你 死 活。</singingstanza>
+  </layout>
+  <copyright>Used by Permission of Christian Publications. Inc., Harrisburg, Pa.</copyright>
+  <music>
+	<midiref type="h" num="362"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂為我死，我纔能活；
+我今為祂活著，
+我命、我愛，我都獻給
+那為我釘死的。</stanza>
+	<stanza type="chorus" number="">哦耶穌我主，我救主！
+使我能專心跟從主；
+你怎樣為我而死而活，
+讓我照樣為你死活。</stanza>
+	<stanza type="verse" number="2">祂為我死，我纔能死，
+脫離罪、己、俗世。
+哦，死何奧！
+哦，生何高！
+願我聯合倚靠！</stanza>
+	<stanza type="verse" number="3">祂為我活，我纔能活，
+像祂那樣『無我；』
+求主從我顯你性情，
+活出你的生命。</stanza>
+	<stanza type="verse" number="4">祂為我活，我願一生
+把祂分給眾人；
+讓我像主為人而活，
+跟隨主的領率。</stanza>
+  </lyrics>
+</hymn>

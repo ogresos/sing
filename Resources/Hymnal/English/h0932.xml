@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, lay some soul upon my heart</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Love for Souls</category>
+  <creators>
+    <author biodate="" biolink="">Anon., v. 1</author>
+    <author biodate="" biolink="">Mack Weaver &amp; Baylus Benjamin McKinney, vv. 2 &amp; 3</author>
+    <composer biodate="1886-1952" biolink="">Baylus Benjamin McKinney</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>55431231144123</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - Am - - | G - - C - - | F - - F/A - G/B | C - - - - - | C - - Am - - | Dm - - - - - | C/G - - G7 - - | C - F/C C - - | F - - - - - | C - - - - - | G/D - - D7 - - | G - - G7 - - | C - - Am - - | F - - Dm - - | C/G - - G7 - - | C - F/C C - - |</chords>
+  <melody>| 0 - - 0 - 5 | 5 - 4 3 - 1 | 2 - 3 1 - 1 | 4 - 4 1 - 2 (break) | 3( - - 3) - 5 | 5 - 4 3 - 1 | 2 - 3 4 - 6 | 5 - 3 2 - 3 (break) | 1( - - 1) - (Chorus) 1 | 4 - 4 6 - 4 | 3 - 3 5 - 3 | 2 - 5 4#( 3) 4# (break) | 5( - - 5) - 5 | 5 - 4 3 - 1 | 6 - 5 4 - 3/( 2/) | 5 - 3 2 - 3 | 1( - - 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, lay some soul up -- on my heart, And love that soul through me; And may I brave -- ly do my part To win that soul for Thee. Some soul for Thee, some soul for Thee, This is my earn -- est plea; Help me each day, on life's high -- way, To win some soul for Thee.</singingstanza>
+  </layout>
+  <copyright>Copyright 1940, The Sunday School Board of the Southern Baptist Convention. Stanza three altered by special permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj175.xml</link>
+  </links>
+  <music>
+    <midi location="hv" length="36">e0932.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, lay some soul upon my heart,
+  And love that soul through me;
+And may I bravely do my part
+  To win that soul for Thee.</stanza>
+    <stanza type="chorus" number="">Some soul for Thee, some soul for Thee,
+  This is my earnest plea;
+Help me each day, on life's highway,
+    To win some soul for Thee.</stanza>
+    <stanza type="verse" number="2">Lord, lead me to some soul in sin,
+  And grant that I may be
+Endued with power and love to win
+  That soul, dear Lord, for Thee.</stanza>
+    <stanza type="verse" number="3">To win that soul for Thee, my Lord,
+  Will be my constant prayer;
+That when I've won Thy full reward
+  I'll with that dear one share.</stanza>
+  </lyrics>
+</hymn>

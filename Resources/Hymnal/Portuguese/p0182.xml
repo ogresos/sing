@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Salvador é um comigo</title>
+  <index>true</index>
+  <category>Diversos</category>
+  <numbers><cebuano num="1074"/><chinese num="264"/><english num="1074"/><french num="208"/><german num="1074"/><korean num="264"/><portuguese num="182"/><russian num="182"/><spanish num="166"/><tagalog num="1074"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 - 3 1 | 2 - - 0 (break) | 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 3./ 1// 2 2 | 1 - - 0 (break) | 7. ._1/ ._2 5 | 5. 6/ 5 ._1 | ._1 6 4 6 | 5 - - 0 (break) | 3 - 2/ 1/ 3/ 2/ | 1 ._1 6/ ._1. | 5 3./ 1// 2 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1074"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Salvador é um comigo,
+Que união!
+Deus em Seu Filho me concede
+Tão grande salvação.
+Aleluia! Aleluia!
+Um co'o Salvador!
+No mundo nada me separa
+De Cristo, meu Senhor!</stanza>
+	<stanza type="verse" number="2">Meu Salvador é transcendente,
+Ressuscitou;
+Livrou-me do poder da morte,
+Vivo com Ele estou.
+Aleluia! Aleluia!
+Grande é Seu favor!
+Oh! que mistério, hoje e sempre,
+Com Cristo um eu sou!</stanza>
+  </lyrics>
+</hymn>

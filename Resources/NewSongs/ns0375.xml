@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come Forward</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><chinese num="ns:375c"/><english num="ns:375"/><lsmyp num="369"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Mario Rosado">M. R.</composer>
+  </creators>
+  <hymncode>53321122232</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>140</tempo>
+  <chords>| C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - ||</chords>
+  <melody>| 5 3 3 2 | 1 - - 1 | 2 2 2 3 | 2 - - 1 | 1 - 1 2 | 2 1 1 7_. | 6_. - 1 - | 4 - - - (break) | 5 3 3 2 | 1 - - - | 2 2 2 3 | 5 - 3 2 | 1 - 1 2 | 2 - 1 - | 0 - 1 2 | 2 - 1 - (break) | 5 - 3 - | 0 5 5 3 | 2 - 5( - | 5) - 5( 4) | 3 - 1( - | 1) - 1 7_. | 6_. - 1 - | 4 - - - (break) | 5 - 3( - | 3) - 5 5 | 5 - 2 - | 3 - 4 - | 3 - 1( - | 1) - 1( 7_.) | 6_.( - - - | 1) - - 2 | 1( - - - | 1) 0 - - ||</melody>
+  <layout>
+    <singingstanza end="-1">For we do not have a High Priest who can -- not be touched with the feel -- ing of our weak -- ness -- es, but One who has been tempt -- ed in all re -- spects like us, yet with -- out sin, yet with -- out sin. Let us there -- fore come for -- ward with bold -- ness to the throne of grace that we may re -- ceive mer -- cy and find grace for time -- ly help.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Hebrews 4:15-16</link>
+  </links>
+  <music>
+    <midi location="ns" length="45">ns0375.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">For we do not have a High Priest who cannot
+Be touched with the feeling of our weaknesses,
+But One who has been tempted in all respects like us,
+Yet without sin, yet without sin.</stanza>
+    <stanza type="verse" number="">Let us therefore come forward
+With boldness to the throne of grace
+That we may receive mercy and find grace
+For timely help.</stanza>
+  </lyrics>
+</hymn>

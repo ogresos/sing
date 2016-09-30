@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисус, Господь мой дорогой</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;УДОВЛЕТВОРЕНИЕ ИМ</category>
+  <numbers><cebuano num="208"/><chinese num="169"/><english num="208"/><french num="34"/><german num="208"/><korean num="169"/><portuguese num="112"/><russian num="39"/><spanish num="95"/><tagalog num="208"/></numbers>
+  <creators>
+	<author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+	<author biodate="1849-1928" biolink="">Translated from Russell Kelso Carter, chorus</author>
+  </creators>
+  <melody>| 0 - - 0 - 3 | 3 - 3 3 - 3 | 5 - 5 ._1 - 5 | 6 - 4 4( 5) 6 | 5( - - 5) - 5 (break) | 5 - 2 2( 3) 4 | 3 - 1 5 - 5 | 5 - 2 2( 3) 4 (break) | 3( - - 5) - (Chorus) 5 | 6 - 6 6 - 6 | 5# - 6 7 - 3 | ._1 - ._1 ._1 - ._1 | 7 - ._1 ._2 - 5 (break) | ._3 - ._2 ._1 - 7 | ._2 - ._1 6 - 4 | 5 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <layout>
+	<singingstanza>Ии -- сус, Гос -- подь мой до -- ро -- гой, Про -- сти, что вновь и вновь Твер -- жу свя -- то -- е и -- мя я, При -- ми мо -- ю лю -- бовь. Гос -- подь Ии -- сус, пре -- будь со мной, Где б_ни был я, Ты мой по -- кой, У -- лыб -- ка све -- тит мне Тво -- я, О, я лю -- блю Те -- бя.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="208"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Иисус, Господь мой дорогой,
+Прости, что вновь и вновь
+Твержу святое имя я,
+Прими мою любовь.</stanza>
+	<stanza type="chorus" number="">Господь Иисус, пребудь со мной,
+Где б ни был я, Ты мой покой,
+Улыбка светит мне Твоя,
+О, я люблю Тебя.</stanza>
+	<stanza type="verse" number="2">Не знаю, как порыв своей
+Любви сдержать в себе.
+Твоя любовь огнём горит
+В самой моей души.</stanza>
+	<stanza type="verse" number="3">Ведь для меня Ты – всё во всём,
+Хвала, богатство, честь,
+Желанье сердца, тела мощь,
+Души целебный свет.</stanza>
+	<stanza type="verse" number="4">Любовь пылай в мое  груди,
+Пылай и день и ночь,
+Пока весь прах земной любви
+Не будет выжжен прочь.</stanza>
+	<stanza type="verse" number="5">Ты – свет во тьме, и на земле
+Небесная Ты жизнь.
+О, Иисус, исчислит кто
+Достоинства Твои?</stanza>
+	<stanza type="verse" number="6">Предела нет Твоей любви,
+Полёта нет конца.
+Ты слаще нам, Господь Иисус,
+Сегодня, чем вчера.</stanza>
+  </lyrics>
+</hymn>

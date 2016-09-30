@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus, Anak ng Tao Ka</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKA-TAO</category>
+  <numbers><cebuano num="61"/><chinese num="57"/><english num="61"/><german num="61"/><korean num="57"/><russian num="395"/><spanish num="35"/><tagalog num="61"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hesus, Anak ng Tao Ka,
+Taglay Mo ang pagka-tao,
+Isinilang ng dalaga,
+May katawan&amp;mdash;laman, dugo.</stanza>
+	<stanza type="verse" number="2">Naging abang alipin Ka,
+Lumakad sa mundong api,
+Tiniis lahat ng dusa,
+Di-mabigkas na pighati.</stanza>
+	<stanza type="verse" number="3">Ika'y sanggol sa sabsaban,
+Dukhang sa ilang tumubo,
+Anluwaging nanungkulan,
+Tila salarin, napako.</stanza>
+	<stanza type="verse" number="4">Binuhay Ka muli ng Diyos,
+Pagka-tao taglay pa rin.
+May anyo Ka ng pagka-Diyos,
+Sa langit, Tao Ka pa rin.</stanza>
+	<stanza type="verse" number="5">Sa luklukan naghari Ka,
+Tao Ka pa rin sa glorya.
+Tao Kang kasama ng Diyos,
+At kasiyahan Niyang lubos.</stanza>
+	<stanza type="verse" number="6">Sa l'walhati babalik Ka,
+Tao pa ring mapakita,
+Hari ng mga hari Ka
+Na may pantaong esensiya.</stanza>
+	<stanza type="verse" number="7">Sa langit at lupang bago,
+Sa lahat Ikaw ang sentro;
+Magpakailanma'y dibino,
+At umiiral na Tao.</stanza>
+  </lyrics>
+</hymn>

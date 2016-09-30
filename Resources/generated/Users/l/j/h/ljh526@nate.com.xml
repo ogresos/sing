@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>samuel</firstname>
+    <lastname>Lee</lastname>
+    <email>ljh526@nate.com</email>
+    <password>$1$3ezgFvdm$dJXQt9HaMfsflG/izzWB4/</password>
+    <gender>M</gender>
+    <country>South Korea</country>
+    <ipaddress>125.128.124.188</ipaddress>
+    <createdate>2009-06-24 21:44:09</createdate>
+    <lastupdateddate>2012-06-06 06:12:33</lastupdateddate>
+    <lastlogindate>2012-05-24 07:23:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+        <fav category="default" type="nt" num="293">Cleansed in our Savior's precious blood</fav>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+        <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+        <fav category="default" type="nt" num="531">Fade, fade each earthly joy</fav>
+        <fav category="default" type="nt" num="857">How sweet, how heav'nly is the sight</fav>
+        <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="h" num="847">I long for fellowship in spirit</fav>
+        <fav category="default" type="h" num="847">I long for fellowship in spirit</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="ns" num="47">Known of my Father</fav>
+        <fav category="default" type="ns" num="229">Lord, I love You. Thank You for opening my eyes</fav>
+        <fav category="default" type="nt" num="96">My song is love unknown</fav>
+        <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+        <fav category="default" type="ns" num="298">The love of Christ is Christ Himself</fav>
+        <fav category="default" type="nt" num="995">There is a green hill far away</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+    </favourites>
+</user>

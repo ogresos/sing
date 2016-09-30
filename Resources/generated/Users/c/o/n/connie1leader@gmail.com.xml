@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Connie</firstname>
+  <lastname>Leader</lastname>
+  <email>connie1leader@gmail.com</email>
+  <password>$2y$10$0EvWQ0V6d5pFFViS19c7aOsDXuhq4UKEkWAzqK5ognRJnj9X86mXa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.222.132.54</ipaddress>
+  <createdate>2016-06-16 13:34:30</createdate>
+  <lastupdateddate>2016-06-16 13:44:19</lastupdateddate>
+  <lastlogindate>2016-06-16 13:42:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+  </favourites>
+</user>

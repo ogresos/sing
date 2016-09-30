@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa bagong langit lupa</title>
+  <index>true</index>
+  <category>SUKDULANG PAGPAPAKITA&amp;mdash;ANG BAGONG HERUSALEM</category>
+  <numbers><cebuano num="978"/><chinese num="777"/><english num="978"/><korean num="777"/><spanish num="456"/><tagalog num="978"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="978"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa bagong langit lupa,
+May Bagong Her'salem;
+Diyos nagsilang sa kanya,
+May sinag ng glorya.</stanza>
+    <stanza type="chorus" number="">Taglay larawan ng Diyos;
+Bahagi'y glorya ng Diyos;
+Pangino'n naro'n Mismo,
+Lunsod ng Diyos ito!</stanza>
+    <stanza type="verse" number="2">Perlas lahat ng pinto;
+Sa lunsod na ginto,
+May ginintuang kalye,
+Pundasyon ay dose.</stanza>
+    <stanza type="verse" number="3">Dala'y buhay sa lunsod,
+Ng kristal na ilog;
+Puno ng buhay naman,
+Dulot kasiyahan.</stanza>
+    <stanza type="verse" number="4">Sa lunsod maliwanag,
+Diyos ay lahat-lahat;
+Diyos sa lo'b ng Kordero,
+Ilaw na totoo.</stanza>
+  </lyrics>
+</hymn>

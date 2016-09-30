@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Purihin Ka sa kat'wiran</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG KATUWIRAN</category>
+  <numbers><cebuano num="21"/><chinese num="16"/><english num="21"/><german num="21"/><korean num="16"/><portuguese num="18"/><russian num="194"/><spanish num="14"/><tagalog num="21"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3 3 3 - 2 - | 5 5 5 - 5 - | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 5 - (break) | ._1 ._1 ._1 - ._3 - | ._2 ._1 ._2 - ._3( ._2) | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="21"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Purihin Ka sa kat'wiran,
+Maging sa Iyong katarungan,
+Pinatotohanan,
+Hukom ng sangkatauhan,
+Lahat Mo'y makatarungan.
+Walang kamalian.</stanza>
+	<stanza type="verse" number="2">O, Ama ng kabanalan,
+Trono Mo'y inalalayan
+Ng Iyong katuwiran.
+Sa pamamagitan nito,
+Naghari b'yaya ni Kristo,
+Payapa'y natamo.</stanza>
+	<stanza type="verse" number="3">Nagsanhi ang katwiran Mo,
+Sa krus namatay Anak Mo;
+Pantubos natamo.
+Nang tinanggap katubusan,
+Kami'y naging makatwiran
+Na may kaligtasan.</stanza>
+	<stanza type="verse" number="4">Iyong katwiran pinakita,
+May patawad, pagpapala,
+Sa sinauna nga;
+Nang nakita Iyong katwiran,
+Tanggap Iyong kapatawaran
+Sa makasalanan.</stanza>
+	<stanza type="verse" number="5">Lahat ay hahatulan Mo,
+Nang mahayag katwiran Mo;
+Huhukom si Kristo.
+Sa Iyong katwiran tatayo,
+Biyaya'y bibigyan ako,
+Magpapatotoo.</stanza>
+	<stanza type="verse" number="6">Kaharia'y may katwiran,
+Maitatag kapayapa'n
+Masayang samahan.
+Sa lupa't langit na bago,
+Hihigit pa katwiran Mo.
+Tutupdin pangako.</stanza>
+  </lyrics>
+</hymn>

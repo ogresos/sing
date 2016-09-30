@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Chloe</firstname>
+<lastname>Lee</lastname>
+<email>sueun50@hotmail.com</email>
+<password>$1$7ZHKBXq2$llATrEui01ld.R.ucwj4w.</password>
+<gender>F</gender>
+<country>Australia</country>
+<ipaddress>203.171.99.253</ipaddress>
+<createdate>2009-04-03 13:39:22</createdate>
+<lastupdateddate>2009-09-15 18:29:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+    </favourites>
+</user>

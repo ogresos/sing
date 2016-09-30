@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sinasamba Ka, O Ama</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG PAGKAAMA</category>
+  <numbers><english num="5"/><portuguese num="4"/><spanish num="2"/><tagalog num="5"/></numbers>
+  <creators>
+    <author biodate="1840-1896" biolink="">Translated from George West Frazer</author>
+  </creators>
+  <music>
+    <midiref type="h" num="5"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sinasamba Ka, O Ama!
+Iyong ngala'y pinagpala!
+Nang walang kapintasan.
+Sa Iyo sumasamba kami,
+Sa Abba, laksang puri.
+Sa Iyo sumasamba kami,
+Sa Abba, laksang puri.</stanza>
+    <stanza type="verse" number="2">O Anak pagsamba'y sa Iyo,
+Korderong nasa trono;
+Dinala Mo bayan ng Diyos
+Palapit sa Iyong lubos.
+Anak ng Diyos na namatay,
+Nang bigyan kaming buhay;
+Anak ng Diyos, aming mahal,
+Sambahin Ka't itanghal.</stanza>
+    <stanza type="verse" number="3">Ama, Anak, Espiritu,
+Purihin Ka, Tres-uno!
+Sa minana naming yaman
+Ikaw ay papurihan.
+Purihin Kang walang hanggan,
+Sambahin Ka't kalugdan.
+Purihin Kang walang hanggan,
+Sambahin Ka't kalugdan.</stanza>
+  </lyrics>
+</hymn>

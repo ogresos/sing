@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌耶穌何等可靠</title>
+  <index>true</index>
+  <category>試煉中的安慰－信靠主</category>
+  <numbers><chinese num="516"/><english num="568"/><korean num="516"/><portuguese num="291"/><tagalog num="568"/></numbers>
+  <creators>
+	<author biodate="circa 1850-1917" biolink="">Translated from Louisa M. R. Stead</author>
+  </creators>
+  <melody>| 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 5. 3/ | 2 1 2 - (break) | 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - (break) | (Chorus) 3 5 5 3 | 2 1 3 2 | 3 5 5. 3/ | 2 1 2 - (break) | 3 2 1 5_. | 4. 6_./ 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>信 靠 耶 穌 何 其 甘 甜， 抓 祂 話 語 作 把 握， 安 息 在 祂 應 許 上 面， 只 知 主 曾 如 此 說。 耶 穌、 耶 穌， 何 等 可 靠， 我 曾 試 祂 多 少 次； 耶 穌、 耶 穌， 我 的 至 寶， 祂 是 活 神 不 誤 事。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="437"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">信靠耶穌何其甘甜，
+抓祂話語作把握，
+安息在祂應許上面，
+只知主曾如此說。</stanza>
+	<stanza type="chorus" number="">耶穌、耶穌，何等可靠，
+我曾試祂多少次；
+耶穌、耶穌，我的至寶，
+祂是活神不誤事。</stanza>
+	<stanza type="verse" number="2">信靠耶穌，何其甘甜，
+信祂寶血能洗淨；
+信心簡單，血有效驗，
+疾病醫治，罪洗清。</stanza>
+	<stanza type="verse" number="3">信靠耶穌，真是甘甜，
+救我遠離罪與己；
+從祂接受無限恩典：
+生命、喜樂和安息。</stanza>
+	<stanza type="verse" number="4">何等喜樂，我能信你，
+至寶耶穌，我救主！
+信你與我是在一起，
+一直一起到永古。</stanza>
+  </lyrics>
+</hymn>

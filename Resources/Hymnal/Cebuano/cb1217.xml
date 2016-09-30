@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang tawag among nadunggan</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;SA DAPIT LABING BALAAN</category>
+  <numbers><cebuano num="1217"/><english num="1217"/><french num="141"/><german num="1217"/><russian num="428"/></numbers>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang tawag among nadunggan,
+"Duol's Labing Balaan,"
+Aron himaya masud-ong
+Kasanag's Imong nawong.</stanza>
+	<stanza type="chorus" number="">Moduol's Labing Balaan,
+Pina'gi's incienso man;
+Tabil nga nagbulag wa na,
+May kaisug sudlon ta.</stanza>
+	<stanza type="verse" number="2">Moduol's Labing Balaan
+Agi's bag-o nga dalan,
+Bag-o pa gyud nga gibuksan;
+Pagkamahimayaon.</stanza>
+	<stanza type="verse" number="3">Moduol kita's atong Dios,
+Nga naglingkod sa trono;
+Dalan's himaya gibuksan
+Sa krus ug Iyang dugo.</stanza>
+	<stanza type="verse" number="4">Moduol's bag-ong panahon,
+Maisug, masaligon.
+Magpa'mulos' tuyong dayon,
+Daan di na lingion.</stanza>
+	<stanza type="verse" number="5">Daygon kay kaduolan man,
+Sulod's Labing Balaan,
+Dios Ka namo'g tawo mi Nimo;
+Dinhi magpuyo's dayon.</stanza>
+  </lyrics>
+</hymn>

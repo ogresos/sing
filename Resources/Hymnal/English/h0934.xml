@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I cannot tell why He, whom angels worship</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Myriads Won</category>
+  <creators>
+    <author biodate="1857-1932" biolink="">William Young Fullerton</author>
+    <composer biodate="" biolink="">English tune</composer>
+    <!--<composer biodate="" biolink="">Arranged by D. P. B.</composer>-->
+  </creators>
+  <meter>11.10.11.10.11.10.11.12.</meter>
+  <hymncode>712323653216</hymncode>
+  <key>C Major</key>
+  <time>4/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - C - - - | C - - - C - Am - | F - - - F - - - | Em - - - Am - C/G - | Dm/F - - - G7 - - - | C - - - C - C7 - | F - - - D7/F# - - - | C/G - Am - Dm - G7 - | C - F/C - C - G7 - | C - C/E - F - F/A - | C - - - C - G/B - | Am - C/G - F - Em - | Dm - D7/F# - G - G7/B - | C - C7/E - F - F/A - | C/G - Am - F - G7 - | C - Am - F - G7 - | C - F/C - C - - - |</chords>
+  <guitarChords>| C - - - C - - - | C - - - C - - - | F - - - F - - - | C - - - C - - - | G - - - G - - - | C - - - C - C7 - | F - - - - - - - | C - - - G - - - | C - - - C - - - | C - - - F - - - | C - - - C - - - | C - - - F - - - | G - - - G - G7 - | C - - - F - - - | C - - - C - - - | C - - - G - G7 - | C - F - C - - - |</guitarChords>
+  <melody>| 0 - - - 0 7_. 1 2 | 3 - - 2 3 6 5 3 | 2( 1) 6_. - - 1 3 4 | 5 - - 6 5 3 1 3 (break) | 2( - - - 2) 7_. 1 2 | 3 - - 2 3 6 5 3 | 2( 1) 6_. - - 7_. 1 2 | 3 - - 4 3 2 1 2 (break) | 1( - - - 1) 5 6 7 | ._1 - - 7 7 6 5 3 | 5( 3) 1 - - 5 6 7 | ._1 - - 7 7 6 5 3 (break) | 2( - - - 2) 5 5 5 | ._3 - - ._2 ._2 ._1 6 ._1 | 5( 3) 1 - - 7_. 1 2 | 3 (.6 5 3 2 1 6_. 7_. | 1( - - - 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>I can -- not tell why He, whom an -- gels wor -- ship, Should set His love up -- on the sons of men, Or why, as Sheph -- erd, He should seek the wan -- d'rers, To bring them back, they know not how or when. But this I know, that He was born of Ma -- ry, When Beth -- l'hem's man -- ger was His on -- ly home, And that He lived at Naz -- a -- reth and la -- bored, And so the Sav -- ior, Sav -- ior of the world, is come.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <copyright>Used by permission of The Carey Kingsgate Press Ltd.</copyright>
+  <music>
+    <midi location="h" length="76">e0934_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I cannot tell why He, whom angels worship,
+  Should set His love upon the sons of men,
+Or why, as Shepherd, He should seek the wand'rers,
+  To bring them back, they know not how or when.
+But this I know, that He was born of Mary,
+  When Bethl'hem's manger was His only home,
+And that He lived at Nazareth and labored,
+  And so the Savior, Savior of the world, is come.</stanza>
+    <stanza type="verse" number="2">I cannot tell how silently He suffered,
+  As with His peace He graced this place of tears,
+Or how His heart upon the Cross was broken,
+  The crown of pain to three and thirty years.
+But this I know, He heals the broken-hearted,
+  And stays our sin, and calms our lurking fear,
+And lifts the burden from the heavy laden,
+  For yet the Savior, Savior of the world, is here.</stanza>
+    <stanza type="verse" number="3">I cannot tell how He will win the nations,
+  How He will claim His earthly heritage,
+How satisfy the needs and aspirations
+  Of east and west, of sinner and of sage.
+But this I know, all flesh shall see His glory,
+  And He shall reap the harvest He has sown,
+And some glad day His sun shall shine in splendor
+  When He the Savior, Savior of the world, is known.</stanza>
+    <stanza type="verse" number="4">I cannot tell how all the lands shall worship,
+  When, at His bidding, every storm is stilled,
+Or who can say how great the jubilation
+  When all the hearts of men with love are filled.
+But this I know, the skies will thrill with rapture,
+  And myriad, myriad human voices sing,
+And earth to heaven, and heaven to earth, will answer:
+  At last the Savior, Savior of the world, is King.</stanza>
+  </lyrics>
+</hymn>

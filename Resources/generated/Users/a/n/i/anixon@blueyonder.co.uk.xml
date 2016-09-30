@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Alan</firstname>
+    <lastname>Nixon</lastname>
+    <email>anixon@blueyonder.co.uk</email>
+    <password>uVKwy3DHS%2FmaFUEWw7beHQ%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>92.234.205.128</ipaddress>
+    <createdate>2010-04-03 07:14:25</createdate>
+    <lastupdateddate>2010-04-03 07:17:14</lastupdateddate>
+    <lastlogindate>2010-04-03 07:14:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    </favourites>
+</user>

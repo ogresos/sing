@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Roman</firstname>
+  <lastname/>
+  <email>romansadriev@gmail.com</email>
+  <password>$2y$10$LieXGfunYdUIOj8V9ThTVOb2eDa8FuP1sr/PoyfVtln.5EbhKn9Ce</password>
+  <gender/>
+  <country>kz</country>
+  <ipaddress>5.34.68.143</ipaddress>
+  <createdate>2013-01-27 11:42:10</createdate>
+  <lastupdateddate>2016-03-30 12:05:31</lastupdateddate>
+  <lastlogindate>2016-03-30 12:05:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="hr" num="511">Бесконечную любовь</fav>
+    <fav category="default" type="hr" num="222">Бог намерен во вселенной с человечеством пребыть</fav>
+    <fav category="default" type="hr" num="463">Бог сокровищем бесценным</fav>
+    <fav category="default" type="hr" num="121">В состязанье мы бежим, – аллилуйя</fav>
+    <fav category="default" type="hr" num="99">В том отрада Божьей воли</fav>
+    <fav category="default" type="hr" num="518">Говорим лишь об Иисусе</fav>
+    <fav category="default" type="hr" num="279">Годы горевал я у креста</fav>
+    <fav category="default" type="hr" num="100">Господь мой, Ты во мне как жизнь</fav>
+    <fav category="default" type="hr" num="398">Господь, Ты Бог, Ты так велик</fav>
+    <fav category="default" type="hr" num="467">Душа, от тревог ты устала</fav>
+    <fav category="default" type="hr" num="113">Иисус к Себе сердца влечёт сильней день ото дня</fav>
+    <fav category="default" type="hr" num="114">Мы нашли Христа, кто всё во всём</fav>
+    <fav category="default" type="hr" num="221">Нет, не меня! Христа во мне пусть видят</fav>
+    <fav category="default" type="hr" num="273">О, Иисус – моя земля</fav>
+    <fav category="default" type="hr" num="466">Пред Господом медли</fav>
+    <fav category="default" type="hr" num="391">Ради праведности, Отче</fav>
+    <fav category="default" type="hr" num="524">Сладко так ходить с Иисусом</fav>
+  </favourites>
+</user>

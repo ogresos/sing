@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thank You, Lord, You died for me</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Redemption</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Noni Parker">N. P.</author>
+    <composer biodate="" biolink="" fullname="Noni Parker">N. P.</composer>
+  </creators>
+  <hymncode>543432232344411</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | C - - - | Bb - - - | Bb - - - | Gm - - - | Bb - - - | F - - - | F - G - | C - - - | C - - - | Bb - - - | Bb - - - | Gm - - - | Bb - - - | G - - - | G - - - | Am - - - | Am - - - | Em - - - | Em - - - | Am - - - | Am - - - | G - - - | G - - - | Am - - - | Am - - - | Em - - - | Em - - - | Am - - - | Am - - - | G - - - | G - - - |</chords>
+  <melody>| 0 - 5 4/ 3/( | 3) - - 4( | 4/) 3/( 3/) 2/ 2( - | 2) - - 3 | 2. 3/( 3) - | 4 - - 4 | 4 1/ 1/( 1)( - | 1) - - - (break) | 0 - 5 4/ 3/( | 3) - - 4( | 4/) 3/( 3/) 2/ 2( - | 2) - - 3 | 2. 3/( 3) - | 4.( 3/)( 3.) 4/ | 5( - - - | 5) - - - (break) | 0 - ._1 7/ 6/( | 6) - - 7( | 7/) 5/( 5/) 3/ 3( - | 3) - - - (break) | 0 - ._1 7/ 6/( | 6) - - 6 | 5.( 6/)( 6)( 7)( | 7) - 6/ 7. | ._1 - - 7/ 6/( | 6) - - 7( | 7/) 5/( 5/) 3/ 3( - (break) | 3) - - - | 0 - ._1 7/ 6/( | 6) - 6/ 6. | 5( - - - | 5) - - - |</melody>
+  <layout>
+    <singingstanza>Thank You, Lord, You died for me. You took my place u -- pon the tree. All my sins were laid on Thee; You bore them all a -- way... I was just an e -- ne -- my, Lost and sold to sin. But You came to shed Your blood for me, You the One with no sin!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="62">lb55.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thank You, Lord, You died for me.
+You took my place upon the tree.
+All my sins were laid on Thee;
+You bore them all away...
+I was just an enemy,
+Lost and sold to sin.
+But You came to shed
+Your blood for me,
+You the One with no sin!</stanza>
+    <stanza type="verse" number="2">Many plotted to kill You,
+Judas he betrayed You.
+Disciples, they forsook You,
+False witnesses were hired.
+Then Peter, he denied You,
+Three times in one night.
+An illegal trial condemned You.
+How we afflicted You!</stanza>
+    <stanza type="verse" number="3">They smote You with their palms,
+And spit into Your precious face.
+Buffeting and mocking,
+They led You away!
+Pilate and Herod
+Sent You back and forth.
+Then the soldiers, they scourged You
+And made a crown of thorns.</stanza>
+    <stanza type="verse" number="4">With a reed, they beat Your head,
+Pressing the thorns much deeper.
+Stripping You, they nailed You
+Up on a cross of wood.
+In front of You, they gambled
+For Your clothes and seamless coat.
+All the people passed, despising You.
+Then God forsook You too!</stanza>
+    <stanza type="verse" number="5">The two thieves on either side,
+As they hung, reviled You.
+Though You were dead, a soldier
+Still would pierce Your side.
+Blood and water poured out,
+Out from Your broken heart.
+That same blood and water saved me!
+Lord, how I love You!</stanza>
+    <stanza type="verse" number="6">When I see the price You paid,
+You chose to pay my every debt!
+Willingly, You bore such shame
+And tasted death for me!
+How could I ever love the world
+That crucified You, dear One?
+I am not my own, bought with a price.
+I give myself to You!</stanza>
+  </lyrics>
+</hymn>

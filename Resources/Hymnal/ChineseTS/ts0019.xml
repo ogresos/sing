@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我在拿撒勒人耶穌面前</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><chinese num="ts:19"/><english num="290"/><korean num="823"/></numbers>
+  <creators>
+	<author biodate="1856-1932" biolink="">Translated from Charles Hutchinson Gabriel</author>
+  </creators>
+  <melody>| 0 - - 5_. | 5_. 3_. 5_. 1./ 2// | 3 - 1 1 | 7_. 7_../ 7_.// 1 2 | 1 - - 5_. (break) | 6_. 6_. 1 7_../ 6_.// | 5_. - 1 2 | 3 3./ 3// 2 2 | 1 - - 0 (break) | (Chorus) 3 - 3./ 2// 1 | 5 - 5./ 4// 3 | 2 2 2. 3/ | 4 3 2 - (break) | 3 - 3./ 2// 1 | 5 - 5./ 4// 3 | 2 3/( 4/) 3. 2/ | 1 7_. (.1 0 |</melody>
+  <layout>
+	<singingstanza>我 在 拿 撒 勒 人 耶 穌 面 前 驚 異 的 站 立， 希 奇， 不 潔 罪 人 如 我， 祂 愛 竟 然 能 臨 及。 何 等 希 奇！ 何 等 奇 妙！ 我 要 歌 唱 到 萬 代， 何 等 希 奇！ 何 等 奇 妙！ 是 我 救 主 的 大 愛！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="290"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我在拿撒勒人耶穌面前
+驚異的站立，
+希奇，不潔罪人如我，
+祂愛竟然能臨及。</stanza>
+	<stanza type="chorus" number="">何等希奇！何等奇妙！
+我要歌唱到萬代，
+何等希奇！何等奇妙！
+是我救主的大愛！</stanza>
+	<stanza type="verse" number="2">為我祂在園中禱告：
+『只要照你的旨意；』
+祂無眼淚為己憂傷，
+為我流汗如血滴。</stanza>
+	<stanza type="verse" number="3">天使看見就憐恤祂，
+從光明之中顯現；
+在那極其傷痛晚上，
+使祂力量得加添。</stanza>
+	<stanza type="verse" number="4">祂除去我罪與我憂，
+將其全歸祂自己；
+祂負重擔到各各他，
+獨自受苦並受死。</stanza>
+	<stanza type="verse" number="5">當那日與蒙贖的人，
+在榮耀裡見祂面，
+何等歡樂歌唱祂愛，
+一直到千萬億年。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Cristo, em Ti minh'alma achou</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><cebuano num="522"/><chinese num="258"/><english num="522"/><korean num="258"/><portuguese num="256"/><russian num="519"/><spanish num="237"/><tagalog num="522"/></numbers>
+  <creators>
+    <author biodate="1827-1909" biolink="">Translated from Emma Frances Shuttleworth Bevan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="522"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ó Cristo, em Ti minh'alma achou,
+Sim, só achou em Ti
+A paz, o gozo e o favor
+Que tanto quis aqui.</stanza>
+    <stanza type="chorus" number="">Ó Cristo, és quem me satisfaz,
+Ninguém além de Ti;
+Há vida, gozo, amor e paz,
+Senhor Jesus, em Ti.</stanza>
+    <stanza type="verse" number="2">Por paz e gozo anelei
+E não por Ti, Senhor;
+Mas quando eu por Ti passei,
+Ganhou-me Teu amor.</stanza>
+    <stanza type="verse" number="3">Cisternas rotas fui buscar,
+Mas águas não achei;
+Não pude a sede saciar,
+E triste lamentei.</stanza>
+    <stanza type="verse" number="4">Por vãos prazeres pranteei,
+Porém jamais por Ti;
+Té que o Teu favor ganhei
+E Teu encanto vi.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Frank</firstname>
+  <lastname>Dolecki</lastname>
+  <email>mi.raiderfan@yahoo.com</email>
+  <password>$2y$10$RIEaJRcodiWjvhN1Oxns3ucCKXbU1Y557WmsqLBc0m88YwCo598Re</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.36.205.249</ipaddress>
+  <createdate>2016-07-30 16:18:55</createdate>
+  <lastupdateddate>2016-07-30 16:55:05</lastupdateddate>
+  <lastlogindate>2016-07-30 16:20:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+  </favourites>
+</user>

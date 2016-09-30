@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Mercedita</firstname>
+<lastname>Durac</lastname>
+<email>merce8328@yahoo.com</email>
+<password>$1$4zyAdOFf$qnE4HyZ/hm9jtM1xJ9DQa/</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>203.111.235.43</ipaddress>
+<createdate>2008-12-09 10:11:25</createdate>
+<lastupdateddate>2009-09-15 18:27:00</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="81">The greatest king on earth</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+        <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+    </favourites>
+</user>

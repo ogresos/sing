@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lori</firstname>
+  <lastname>Raska</lastname>
+  <email>lori@raskafamily.com</email>
+  <password>$2y$10$NJSt2mO6jIqZG3CiuKAljOR2Jy7V.eCfT1BJK2xpJN85b0C7ggKuO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.99.218.74</ipaddress>
+  <createdate>2016-03-30 15:29:25</createdate>
+  <lastupdateddate>2016-03-30 15:33:05</lastupdateddate>
+  <lastlogindate>2016-03-30 15:31:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

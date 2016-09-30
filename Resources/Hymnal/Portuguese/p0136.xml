@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sopra em mim, Senhor, o Espír'to</title>
+  <index>true</index>
+  <category>Como O Sopro</category>
+  <numbers><cebuano num="255"/><chinese num="210"/><dutch num="12"/><english num="255"/><french num="43"/><german num="255"/><korean num="210"/><portuguese num="136"/><russian num="50"/><spanish num="119"/><tagalog num="255"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - 5/ 5/ | 5. 3/ ._1/ 6/ | 5 3 3/ 3/ | 4. 2/ 5/ 4/ | 3 - 5/ ._1/ (break) | ._3. ._2/ ._1/ 7/ | 7 6 ._1/ 6/ | 5/ ._1/ ._2 7 (break) | ._1 - (Chorus) 5/ 5/ | ._2. ._2/ ._1/ ._2/ | ._3 ._1 - | ._4. ._3/ ._2/ 6/ | ._2 - 5/ 5/ (break) | ._1. ._2/ ._3/ ._1/ | ._1 6 - | 5. ._4/ ._3/ ._2/ | ._1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sopra em mim, Senhor, o Espír'to,
+Me ensina a Te inspirar;
+Do meu ego e pecados
+Vem, assim, me libertar.</stanza>
+	<stanza type="chorus" number="">Expirando as tristezas,
+E os pecados meus;
+Te inspiro, Te inspiro,
+Ó Senhor, meu Deus.</stanza>
+	<stanza type="verse" number="2">Eu expiro minha vida
+Para a Tua me encher;
+Inspirando Tua vida,
+Deixo as coisas do meu ser.</stanza>
+	<stanza type="verse" number="3">Eu expiro meus pecados,
+Já os carregaste aqui;
+A pureza Tua inspiro,
+E acho minha vida em Ti.</stanza>
+	<stanza type="verse" number="4">Eu expiro a tristeza
+Em Teu seio que me praz;
+E inspiro Teu conforto,
+Teu descanso, gozo e paz.</stanza>
+	<stanza type="verse" number="5">Minha enfermidade, expiro,
+A tomaste sobre Ti;
+Tua cura nova e certa
+Eu inspiro sempre aqui.</stanza>
+	<stanza type="verse" number="6">Eu expiro meus anseios
+Aos ouvidos Teus, Senhor;
+Inspirando o Teu cuidado,
+Vai-se todo o meu temor.</stanza>
+	<stanza type="verse" number="7">Todo o tempo respirando,
+De Ti ganho vida assim;
+Por Ti vivo, sopro a sopro,
+Sopra Teu Espír'to em mim.</stanza>
+  </lyrics>
+</hymn>

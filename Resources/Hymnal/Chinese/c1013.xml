@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>唯有耶穌大愛</title>
+  <index>true</index>
+  <category>讚美主－祂的愛</category>
+  <numbers><cebuano num="1013"/><chinese num="1013"/><english num="1013"/><german num="1013"/><portuguese num="451"/><russian num="396"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <layout>
+	<singingstanza>什 麼 能 保 守 流 浪 者 不 誤 入 歧 途？ 唯 有 大 愛 來 自 耶 穌！ 什 麼 能 引 領 墮 落 人 回 頭 走 正 路？ 唯 有 大 愛 來 自 耶 穌！ 唯 有 耶 穌 大 愛 能 時 刻 管 束， 唯 有 耶 穌 大 愛 能 永 遠 托 住， 天 地 之 間 誰 能 將 罪 人 救 贖? 唯 有 大 愛 來 自 耶 穌！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1013"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">什麼能保守流浪者不誤入歧途？
+唯有大愛來自耶穌！
+什麼能引領墮落人回頭走正路？
+唯有大愛來自耶穌！</stanza>
+	<stanza type="chorus" number="">唯有耶穌大愛能時刻管束，
+唯有耶穌大愛能永遠托住，
+天地之間誰能將罪人救贖?
+唯有大愛來自耶穌！</stanza>
+	<stanza type="verse" number="2">什麼能驅散患難者一切的苦楚？
+唯有大愛來自耶穌！
+什麼能擦去悲傷者所有的淚珠？
+唯有大愛來自耶穌！</stanza>
+	<stanza type="verse" number="3">什麼像藥膏塗抹使心傷口恢復？
+唯有大愛來自耶穌！
+什麼像久旱甘霖讓絕望人歡呼？
+唯有大愛來自耶穌！</stanza>
+	<stanza type="verse" number="4">什麼能填滿人生的空洞和虛無？
+唯有大愛來自耶穌！
+什麼能吞滅死亡的權勢和恐怖？
+唯有大愛來自耶穌！</stanza>
+  </lyrics>
+</hymn>

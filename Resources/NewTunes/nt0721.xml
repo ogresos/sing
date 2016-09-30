@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'll sing of the wonderful promise</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Grace for Suffering</category>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+  </creators>
+  <hymncode>155554341</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | C - C/E - | F - F/A - | G - G7/B - | C - G7 - | C - C/E - | F - F/A - | G - G7/B - | C - C7/E - | F - - - | C/E - Am - | Dm - G7 - | C - C7/E - | F - - - | C/E - Am - | Dm - G7 - | C - - - | F - - - | C/E - Am - | Dm - G7 - | C - C7/E - | F - - - | C/E - Am - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 0/ 1/ | 5/ 5/ 5/ 5/( 5/) 4/ 3 | 4/ 1.( 1.) 1/ | 2/ 2/ 2/ 5/( 5/) 5 4/ (break) | 3 - - 0/ 1/ | 5/ 5/ 5/ 5/( 5/) 4/ 3 | 4/ 1.( 1.) 1/ | 2/ 2/ 2/ 2/( 2/) 1 7_./ (break) | 1 - - 0/ 1/ | 6/ 6/ 6/ 7/( 7/) ._1 ._1/ | ._1/ 5.( 5.) 1/ | 2/ 2/ 2/ 5/( 5/) 5 4/ (break) | 3 - - 0/ 1/ | 6/ 6/ 6/ 7/( 7/) ._1 ._1/ | ._1/ 5.( 5.) 3/ | 5/ 5/ 5/ 4/( 4/) 3 2/ (break) | 1 - - 0/ (Chorus) 1/ | 6/ 6/ 6/ 7/( 7/) ._1 ._1/ | ._1/ 5.( 5.) 1/ | 2/ 2/ 2/ 5/( 5/) 5 4/ (break) | 3 - - 0/ 1/ | 6/ 6/ 6/ 7/( 7/) ._1 ._1/ | ._1/ 5.( 5.) 3/ | 5/ 5/ 5/ 4/( 4/) 3 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I'll sing of the won -- der -- ful prom -- ise That Je -- sus has giv -- en to me; "My strength is made per -- fect in weak -- ness, My grace is suf -- fi -- cient for thee." And lest my poor heart should for -- get it, Or e -- ver for -- get -- ful should be, He still keeps re -- peat -- ing the prom -- ise, My grace is suf -- fi -- cient for thee. Yes, o -- ver and o -- ver and o -- ver, My Sa -- vior keeps say -- ing to me; My strength is made per -- fect in weak -- ness, My grace is suf -- fi -- cient for thee.</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="721"></link>
+  </links>
+  <music>
+    <midi location="nt" length="49">e0721_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'll sing of the wonderful promise
+That Jesus has given to me;
+"My strength is made perfect in weakness,
+My grace is sufficient for thee."
+And lest my poor heart should forget it,
+Or ever forgetful should be,
+He still keeps repeating the promise,
+My grace is sufficient for thee.</stanza>
+    <stanza type="chorus" number="">Yes, over and over and over,
+My Savior keeps saying to me;
+My strength is made perfect in weakness,
+  My grace is sufficient for thee.</stanza>
+    <stanza type="verse" number="2">His grace is sufficient to save me,
+And cleanse me from guilt and from sin;
+Sufficient to sanctify wholly,
+And give me His Spirit within.
+His grace is sufficient for trials,
+No matter how hard they may be,
+This promise stands over against them,
+My grace is sufficient for thee.</stanza>
+    <stanza type="verse" number="3">His grace is sufficient for sickness,
+Sustaining and making me whole;
+His grace is sufficient when sorrows
+Like billows roll over the soul.
+His grace is sufficient for service,
+It sets us from selfishness free,
+And sends us to tell to the tried ones,
+His grace is sufficient for thee.</stanza>
+    <stanza type="verse" number="4">His grace is sufficient to live by,
+And should we be summoned to die
+'Twill light up the valley of shadows,
+And bear us away to Him nigh.
+Or when we shall stand in His vict'ry,
+And Christ in His glory shall see,
+We'll fall at His footstool confessing,
+Thy grace was sufficient for me.</stanza>
+    <stanza type="verse" number="5">It is not our grace that's sufficient,
+But His grace, it ever must be:
+Our graces are transient and changing;
+His grace is unfailing as He.
+And so I am ever repeating
+His wonderful promise to me,
+My strength is made perfect in weakness,
+My grace is sufficient for thee.</stanza>
+  </lyrics>
+</hymn>

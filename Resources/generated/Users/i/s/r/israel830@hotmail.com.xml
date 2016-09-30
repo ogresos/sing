@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>israel</firstname>
+    <lastname>torres</lastname>
+    <email>israel830@hotmail.com</email>
+    <password>3KxJlmYYdB5BvdSlLst%2FyA%3D%3D</password>
+    <gender>M</gender>
+    <country>mx</country>
+    <ipaddress>189.224.152.192</ipaddress>
+    <createdate>2011-02-21 01:53:39</createdate>
+    <lastupdateddate>2011-02-21 02:56:24</lastupdateddate>
+    <lastlogindate>2011-02-21 01:53:42</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    </favourites>
+</user>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>S</firstname>
+    <lastname>George</lastname>
+    <email>bkmus9@aol.com</email>
+    <password>iXeMJ7CTyk3cM%2BK5KJ%2F3HQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.162.212.160</ipaddress>
+    <createdate>2014-02-23 11:04:24</createdate>
+    <lastupdateddate>2014-02-23 11:15:41</lastupdateddate>
+    <lastlogindate>2014-02-23 11:13:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    </favourites>
+</user>

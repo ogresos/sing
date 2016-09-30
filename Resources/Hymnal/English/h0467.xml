@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>This day the Lord has spoken</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Acknowledging the Lord's Reign</category>
+  <creators>
+    <author biodate="" biolink="">Annie W. Marston</author>
+    <composer biodate="" biolink="">German</composer>
+  </creators>
+  <meter>7.6.7.6.</meter>
+  <hymncode>5333221544332</hymncode>
+  <key>F Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G - - | C - - G/B - - | Am - - C/G - C/E | Dm - - Dm/F - - | G - - G/F - - | C/E - - G/D - C | F - - D/F# - - | C/G - - G7 - - | F/C - - C - - |</chords>
+  <melody>| 0 - - 0 - 5_. | 3 - 3 3 - 2 | 2 - - 1 - 5_. | 4 - 4 3 - 3 | 2 - - 0 - 5_. (break) | 5 - 5 4 - 3 | 6 - - 2 - 2# | 3 - 3 2( 3) 2 | 1 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>This day the Lord has spok -- en, This day my choice is made: I will be all for Je -- sus, Who all for me has paid.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj030.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="24">e0467_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">This day the Lord has spoken,
+  This day my choice is made:
+I will be all for Jesus,
+  Who all for me has paid.</stanza>
+    <stanza type="verse" number="2">Now His shall be the empire,
+  In all things over me;
+And I will be His bond slave,
+  Yet gloriously free.</stanza>
+    <stanza type="verse" number="3">From henceforth, owning nothing,
+  I cannot lose at all;
+I cannot well be poorer,
+  Whatever may befall.</stanza>
+    <stanza type="verse" number="4">Yet could I not be richer,
+  If I the world should gain;
+For heav'n and earth shall perish,
+  But Jesus will remain.</stanza>
+    <stanza type="verse" number="5">And He will be my treasure,
+  And He my boundless store;
+And those who live on Jesus,
+  Will never hunger more.</stanza>
+    <stanza type="verse" number="6">Though I am utter weakness,
+  In Him I shall prevail;
+And though my love may falter,
+  Yet His will never fail.</stanza>
+  </lyrics>
+</hymn>

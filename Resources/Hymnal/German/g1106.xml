@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Zum Mahl des Herrn sind wir zusammen gekommen</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Erinnerung an Ihn</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/ 5/ (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Zum Mahl des Herrn sind wir zu -- sam -- men ge -- kom -- men: Durch Es -- sen und Trin -- ken die Ein -- heit er -- klärn. Der Herr gibt uns Le -- ben, ver -- eint wir Ihn er -- he -- ben, Welch Se -- gen wir er -- fah -- ren beim Fest mit dem Herrn.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Zum Mahl des Herrn sind wir zusammen gekommen:
+Durch Essen und Trinken die Einheit erklärn.
+Der Herr gibt uns Leben, vereint wir Ihn erheben,
+Welch Segen wir erfahren beim Fest mit dem Herrn.</stanza>
+	<stanza type="verse" number="2">Wir essen das Brot als Sein Leib, einst zerbrochen,
+Genießen den Leib nun, der eins ist im Herrn;
+Ein Brotlaib will zeigen: Ein Leib ist Ihm zu eigen;
+Dass Christus uns vereinte bezeugen wir gern.</stanza>
+	<stanza type="verse" number="3">Auch trinken wir dankbar den Kelch Seines Segens,
+Und haben Gemeinschaft im Blut unsres Herrn;
+Erlöst sind durch Glauben, empfangen und erlauben
+Erlösten mitzufeiern, Gott freudig zu ehrn.</stanza>
+	<stanza type="verse" number="4">Was können wir sagen sonst als „Halleluja!“,
+Da unsere Einheit voll Wirklichkeit ist.
+Dein Blut stets anwenden, wird Deinen Leib vollenden,
+Bis Du in der Gemeinde nur Herrlichkeit siehst.</stanza>
+  </lyrics>
+</hymn>

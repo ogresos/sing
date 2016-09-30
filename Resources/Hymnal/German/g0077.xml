@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Preist Seinen Namen! Tut Ihn kund</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Name</category>
+  <numbers><cebuano num="77"/><english num="77"/><german num="77"/><portuguese num="41"/><russian num="344"/><spanish num="42"/><tagalog num="77"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 3 3 | 5 - 1 | 2 - 2 | 3 - - | 5 5 5 | 4 - 5 | 3 - 4 | 2 - - (break) | 2 2 2 | 2 - 2 | 4# - 4# | 5 - - | 3 3 3 | 3( 2) 1 | 1 - 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>Preist Sei -- nen Na -- men! Tut Ihn kund! Je -- sus er -- hebt mit Herz und Mund! Sieg -- reich der Kö -- nig kehrt bald ein. Er -- de lob -- sing, preis Ihn al -- lein!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="77"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Preist Seinen Namen! Tut Ihn kund!
+Jesus erhebt mit Herz und Mund!
+Siegreich der König kehrt bald ein,
+Erde lobsing, preis Ihn allein.</stanza>
+	<stanza type="verse" number="2">Preist Seinen Namen! Sucht im Sturm
+Zuflucht bei Ihm als unsrem Turm;
+Frieden schenkt Er in jedem Krieg,
+In Jesu Name ist der Sieg.</stanza>
+	<stanza type="verse" number="3">Preist Seinen Namen! Bis Er dann
+Mächtig die Erde führen kann,
+Nicht mehr herrscht Sünde, Tod, noch Pein,
+Christus, der Herr, regiert allein.</stanza>
+	<stanza type="verse" number="4">Preist Seinen Namen! Jesus bald
+Könige anführt, hell erstrahlt;
+Jesus, den höchsten Namen ehrt,
+Denn Jesu Name ist es wert.</stanza>
+	<stanza type="verse" number="5">Preist Seinen Namen! Bald sich beugt
+Jeder Mensch und den Herrn bezeugt,
+Jesus Frucht Seines Kreuzes sieht,
+Wenn alles Ihm zum Ruhm geschieht.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carol</firstname>
+  <lastname>Houston</lastname>
+  <email>finance@firstpresgreenbay.org</email>
+  <password>$2y$10$cCyAVFESbcbPIP0IpsFYieafeMfwG4Dgt2ZNj4u7GTdr3.ZHQNvrq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.131.36.231</ipaddress>
+  <createdate>2015-09-24 19:20:18</createdate>
+  <lastupdateddate>2015-09-24 20:06:29</lastupdateddate>
+  <lastlogindate>2015-09-24 19:24:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+  </favourites>
+</user>

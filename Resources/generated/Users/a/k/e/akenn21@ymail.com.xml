@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sally</firstname>
+  <lastname>Nwanneka</lastname>
+  <email>akenn21@ymail.com</email>
+  <password>$2y$10$XizlFU2JllroB3NaH6QxBOIe8jH5aVmFtifTlOZX6/ex5nCDCta7.</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-08 13:15:17</createdate>
+  <lastupdateddate>2016-08-24 15:34:03</lastupdateddate>
+  <lastlogindate>2016-08-19 15:08:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="570">All my doubts I give to Jesus</fav>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="698">Amid the trials that I meet</fav>
+    <fav category="default" type="h" num="349">As pants the hart for cooling streams</fav>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+    <fav category="default" type="h" num="712">Be still, my heart! these anxious cares</fav>
+    <fav category="default" type="h" num="411">Bless'd are the pure in heart</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="696">Cast thou thy care upon the Lord</fav>
+    <fav category="default" type="h" num="696b">Cast thou thy care upon the Lord (Alternate Tune)</fav>
+    <fav category="default" type="h" num="155">Christ delivered me when bound</fav>
+    <fav category="default" type="h" num="796">Christ, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="879">Christian, dost thou see them</fav>
+    <fav category="default" type="h" num="765">Christian, seek not yet repose</fav>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+    <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="184">Come, let us sing the song of songs</fav>
+    <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="671">Deep down into the depths of this Thy Name</fav>
+    <fav category="default" type="h" num="603">Eternal Light! Eternal Light</fav>
+    <fav category="default" type="h" num="1081">Father God, Thou art the source of life</fav>
+    <fav category="default" type="h" num="4">Father of heav'n, whose love profound</fav>
+    <fav category="default" type="h" num="470">Father, Son and Holy Ghost</fav>
+    <fav category="default" type="h" num="47b">Father, Thy name our souls would bless (Alternate Tune)</fav>
+    <fav category="default" type="h" num="33">Father, long before creation</fav>
+    <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+    <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+    <fav category="default" type="h" num="774b">From every stormy wind that blows (Alternate Tune)</fav>
+    <fav category="default" type="h" num="977">Glorious things of thee are spoken</fav>
+    <fav category="default" type="h" num="9">Glory be to God</fav>
+    <fav category="default" type="h" num="115">Glory be to Jesus</fav>
+    <fav category="default" type="h" num="896">Go, labor on; spend, and be spent</fav>
+    <fav category="default" type="h" num="861">God be with you till we meet again</fav>
+    <fav category="default" type="h" num="8239">God laid my sins on Jesus</fav>
+    <fav category="default" type="h" num="675">God moves in a mysterious way</fav>
+    <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+    <fav category="default" type="h" num="5">God, our Father, we adore Thee</fav>
+    <fav category="default" type="ns" num="115">Good morning, Lord Jesus</fav>
+    <fav category="default" type="h" num="49">Gracious God, we worship Thee</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+    <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+    <fav category="default" type="h" num="391b">Guide me, O Thou gracious Savior (Alternate Tune)</fav>
+    <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+    <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+    <fav category="default" type="h" num="691">Hark! the voice of love and mercy</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="693">He faileth not, for He is God</fav>
+    <fav category="default" type="h" num="755">He healeth me, oh, bless His name</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="112">How sweet is the story of Christ's boundless love</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="752">I am the Lord that healeth thee</fav>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="h" num="379">I hunger and I thirst</fav>
+    <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+    <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="678">I will not be afraid</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="76">In the Name of Jesus</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+    <fav category="default" type="h" num="336">Jesus has loved me, wonderful Savior</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+    <fav category="default" type="h" num="205b">Jesus, Thou Joy of loving hearts (Alternate Tune)</fav>
+    <fav category="default" type="h" num="413">Jesus, cast a look on me</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+    <fav category="default" type="h" num="211">Jesus, my Savior! Thou art mine</fav>
+    <fav category="default" type="h" num="989">Jesus, my Savior, to Bethlehem came</fav>
+    <fav category="default" type="h" num="209">Jesus, the very thought of Thee</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="773">Lord Jesus Christ, we seek Thy face</fav>
+    <fav category="default" type="ns" num="24">Lord, You are more precious than silver</fav>
+    <fav category="default" type="h" num="810">Lord, hast Thou not one word for me</fav>
+    <fav category="default" type="h" num="358">Love Divine, all love excelling</fav>
+    <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    <fav category="default" type="h" num="808">Master, speak! Thy servant heareth</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+    <fav category="default" type="h" num="632b">Never further than Thy Cross (Alternate Tune)</fav>
+    <fav category="default" type="h" num="907b">Not where we elect to go (Alternate Tune)</fav>
+    <fav category="default" type="h" num="85">O Come All Ye Faithful</fav>
+    <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+    <fav category="default" type="h" num="163b">O for a thousand tongues to sing (Alternate Tune)</fav>
+    <fav category="default" type="h" num="717">O let us rejoice in the Lord evermore</fav>
+    <fav category="default" type="h" num="566">Oh, safe to the Rock that is higher than I</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="718">Peace, perfect peace, in this dark world of sin</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="425">Prince of peace, control my will</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="888b">Soldiers of Christ, arise (Alternate Tune)</fav>
+    <fav category="default" type="h" num="706">Sometimes a light surprises</fav>
+    <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+    <fav category="default" type="h" num="874b">Standing in the evil day (Alternate Tune)</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    <fav category="default" type="h" num="528">The King of love my Shepherd is</fav>
+    <fav category="default" type="h" num="8511">The Lord knows all that frustrates you</fav>
+    <fav category="default" type="h" num="527">The Lord's my Shepherd, I'll not want</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="393">Thy way, not mine, O Lord</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="957">Watch! for the morning is breaking</fav>
+    <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="788">When thou wakest in the morning</fav>
+    <fav category="default" type="nt" num="788">When thou wakest in the morning</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+    <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+  </favourites>
+</user>

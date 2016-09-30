@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Я един с Тобой, Господь мой</title>
+  <index>true</index>
+  <category>СОЮЗ С ХРИСТОМ&amp;mdash;ЕДИНСТВО С НИМ</category>
+  <numbers><cebuano num="474"/><chinese num="359"/><dutch num="87"/><english num="474"/><french num="81"/><german num="474"/><korean num="359"/><portuguese num="217"/><russian num="88"/><spanish num="197"/><tagalog num="474"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mrs. Donald Davison</author>
+  </creators>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5. 5/ 5./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Я е -- дин с_То -- бой, Гос -- подь мой, В_ду -- хе я од -- но с_То -- бой; Ты во мне жи -- вёшь от -- ны -- не, В_пол -- но -- те те -- перь Ты мой. Ты и я_– мы од -- но.  Всё бо -- гат -- [skip1] ство Тво -- ё День за днём я раз -- де -- ля -- ю, Для ме -- ня те -- перь ты всё.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Я един с Тобой, Господь мой,
+В духе я одно с Тобой;
+Ты во мне живёшь отныне,
+В полноте теперь Ты мой.</stanza>
+	<stanza type="chorus" number="">Ты и я – мы одно.
+Всё богатство Твоё
+День за днём я разделяю,
+Для меня теперь ты всё.</stanza>
+	<stanza type="verse" number="2">Жизнь Твою как человека
+Разделяю ныне я,
+Твоя полная покорность
+Так доступно для меня.</stanza>
+	<stanza type="verse" number="3">Я един с Тобой в распятье,
+Смерть Твою я разделил;
+Я для мира мёртв, Господь мой,
+Для меня стал мёртвым мир.</stanza>
+	<stanza type="verse" number="4">Мы едины в воскресенье,
+Я воскрес, чтоб жить в Тебе;
+Эта жизнь, Господь, есть Сам Ты,
+Эта жизнь теперь во мне.</stanza>
+	<stanza type="verse" number="5">Мы едины в воснесенье,
+Я с Тобой на небесах;
+Жизнь моя в Тебе сокрыта,
+На земле пришелец я.</stanza>
+	<stanza type="verse" number="6">Мы едины на престоле:
+Власть Твоя даётся мне
+В этой жизни, что Ты дал мне, –
+Я в Тебе и Ты во мне.</stanza>
+  </lyrics>
+</hymn>

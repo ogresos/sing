@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Matamis sa Kanyang noo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KAGANDAHAN</category>
+  <numbers><cebuano num="177"/><chinese num="139"/><english num="177"/><korean num="139"/><russian num="506"/><tagalog num="177"/></numbers>
+  <creators>
+    <author biodate="1727-1795" biolink="">Translated from Samuel Stennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Matamis sa Kanyang noo,
+Marangal, dibino;
+Naputungan Siya ng glorya,
+Bibig Niya'y mab'yaya.</stanza>
+    <stanza type="verse" number="2">Di maihambing sa Kanya,
+Taong nasa lupa;
+Hukbong anghel nasa langit
+Hindi rin hihigit.</stanza>
+    <stanza type="verse" number="3">Siya'y aking buhay, hininga,
+Lahat kong ligaya;
+Pandaig sa kamatayan,
+Maging sa libingan.</stanza>
+    <stanza type="verse" number="4">Sa Diyos Ama, tahanan ko,
+Ako'y dinala Mo;
+Glorya ng Diyos 'pinakita,
+Ganap aking saya.</stanza>
+    <stanza type="verse" number="5">Sa Kanyang b'yaya'y nabatid,
+Dakilang pag-ibig;
+Kung may isanlibong puso,
+Lahat pawang sa Iyo!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lindsey</firstname>
+  <lastname>Christenbury</lastname>
+  <email>mrs.christenbury@yahoo.com</email>
+  <password>$2y$10$1ekEwwOaorarGRBWUlrjbuTIvEkfRZyGmHImvLUVTXLUjic7dh.kG</password>
+  <gender/>
+  <country/>
+  <ipaddress>172.74.190.107</ipaddress>
+  <createdate>2016-08-11 15:31:57</createdate>
+  <lastupdateddate>2016-08-14 23:59:46</lastupdateddate>
+  <lastlogindate>2016-08-11 15:32:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="546">And the God of peace Himself sanctify you wholly</fav>
+    <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+    <fav category="default" type="h" num="325">Satisfied</fav>
+    <fav category="default" type="c" num="3">The birds upon the tree tops</fav>
+    <fav category="default" type="c" num="62">Trust in the Lord with all your heart</fav>
+    <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+    <fav category="default" type="h" num="8255">Within my heart a praise o'erflowing</fav>
+    <fav category="default" type="c" num="162">Yesterday, today, forever</fav>
+  </favourites>
+</user>

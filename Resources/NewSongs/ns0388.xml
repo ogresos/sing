@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Song of Songs 7:10-12</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Jessie Wang">J. W.</composer>
+  </creators>
+  <hymncode>671217552222323</hymncode>
+  <key>D Minor</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - - | Am - - | G - - | G - - | C - - | F - - | C - - | Dm - - | E - - | Dm - - | E7 - - | Am - Dm/A | Am - - | Am - - | Am - - | F - - | C - - | F - - | C - - | Dm - - | Am - - | Dm - - | E7 - - | Am - Dm/A | Am - - ||</chords>
+  <melody>| 0 - 6_./ 7_./ | 1 - 2/( 1/) | 7_. 5_. 5_. | 2/ 2/ 2/ 2/ 3/ 2/ (break) | 3 - 1 | 4 - 5/( 4/) | 3 1 2/ 1/ | 7_. 7_./ 6_./ 5#_./ 6_./ (break) | 7_. - 3_. | 2 2 1 | 7_. 6_. 5#_. | 6_.( - - (break) | 6_.) - 1/ 2/ | 3/ 2#/ 3/ 2#/ 3/ 4/ | 3 6_. 6_./ 6_./ | 4/ 4/ 4/ 4/ 5/( 4/) (break) | 3/( 2/) 3 - | 6/ 6/ 6/ 6/ 6 | 5 1 1/ 1/ | 4/ 4/ 4/ 4/ 5/ 4/ (break) | 3 - - | 2 2 1 | 7_. 6_. 5#_. | 6_.( - - | 6_.) - 0 ||</melody>
+  <layout>
+    <singingstanza>I am my be -- lov -- ed's, and his de -- sir -- e is for me. Come, my be -- lov -- ed, let us go forth in -- to the fields; Let us lodge in the vil -- lag -- es. Let us rise up ear -- ly for the vine -- yards; let us see if the vine has bud -- ded, if the blos -- som is o -- pen, if the pom -- e -- gra -- nates are in bloom; there I will give you my love.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 7:10-12</link>
+  </links>
+  <music>
+    <midi location="ns" length="38">ns0388.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="" number="">I am my beloved's,
+And his desire is for me.</stanza>
+    <stanza type="" number="">Come, my beloved,
+Let us go forth into the fields;
+Let us lodge in the villages.</stanza>
+    <stanza type="" number="">Let us rise up early for the vineyards;
+Let us see if the vine has budded,
+If the blossom is open,
+If the pomegranates are in bloom;
+There I will give you my love.</stanza>
+  </lyrics>
+</hymn>

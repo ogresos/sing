@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>waisiki</firstname>
+    <lastname>kaitani</lastname>
+    <email>waisikikaitani_u@yahoo.com</email>
+    <password>$1$xqWVw9MS$nqG0CuomfDeFC3kla0/rF.</password>
+    <gender>M</gender>
+    <country>Fiji</country>
+    <ipaddress>62.3.32.27</ipaddress>
+    <createdate>2014-05-27 21:33:04</createdate>
+    <lastupdateddate>2014-05-27 21:33:04</lastupdateddate>
+    <lastlogindate>2014-05-27 21:33:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+        <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+        <fav category="default" type="h" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="ns" num="145">In my spirit, I can see You as You are</fav>
+        <fav category="default" type="ns" num="300">Lord, I do thank You for another day</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+        <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+        <fav category="default" type="lb" num="21">O God of glory</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+        <fav category="default" type="lb" num="50">Zion</fav>
+    </favourites>
+</user>

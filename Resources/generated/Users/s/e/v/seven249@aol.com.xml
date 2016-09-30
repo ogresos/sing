@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Henry</firstname>
+<lastname>Orlando</lastname>
+<email>seven249@aol.com</email>
+<password>$1$jI0usLPP$o6dqv91P/y.nObmgy3ye7/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>162.84.138.97</ipaddress>
+<createdate>2009-09-15 10:36:16</createdate>
+<lastupdateddate>2009-09-15 19:18:31</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="526">Lord, Thou hast made Thyself to me</fav>
+        <fav category="default" type="h" num="1060">Thou didst leave Thy throne and Thy kingly crown</fav>
+        <fav category="default" type="h" num="560">Come, O Thou Traveler unknown</fav>
+        <fav category="default" type="h" num="1276">Oh, the Lord is quickly coming</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="28">The love of God is greater far</fav>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    </favourites>
+</user>

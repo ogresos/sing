@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Brian</firstname>
+    <lastname>Dodge</lastname>
+    <email>badodge@live.com</email>
+    <password>cW%2Fu7J66mwv4dUPJzEggWA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>72.79.195.162</ipaddress>
+    <createdate>2013-03-31 02:32:18</createdate>
+    <lastupdateddate>2013-03-31 02:50:10</lastupdateddate>
+    <lastlogindate>2013-03-31 02:32:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    </favourites>
+</user>

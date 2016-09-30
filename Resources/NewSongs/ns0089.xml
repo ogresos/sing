@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The good Shepherd</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Shepherd</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Susan Dapo">S. D.</author>
+    <composer biodate="" biolink="" fullname="Susan Dapo">S. D.</composer>
+  </creators>
+  <hymncode>34322321161223</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | Dm - G - | C - Am - | F - G - | C - - - | Dm - G/B - | Em - Am - | Dm - G7 - | C - - - | G - - - | C - - - | F - D7/F# - | G - - - | F - G7/F - | Em - Am - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 3 | 4. 3/ 2 2 | 3. 2/ 1 1 | 6_. 1 2. 2/ | 3 - - 3 (break) | 4. 3/ 2 2 | 5 3 1 1 | 4 3 2. 1/ | 1 - - 1 (break) | 7_.. 6_./ 5_. 2 | 1 2 3 3 | 4 3 2 1 | 5 - - 5 (break) | 6. 6/ 5 4 | 5 5 1 1 | 4 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>My Sav -- ior the good Shep -- herd is, He'll nev -- er leave the flock. The One Who tru -- ly loves the sheep, Be -- came the Lamb of God. De -- spised, af -- flict -- ed in my stead, He spent His soul for me. And to the slaugh -- ter He was led, That I not thirs -- ty be.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="36">ns0089.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My Savior the good Shepherd is,
+He'll never leave the flock.
+The One Who truly loves the sheep,
+Became the Lamb of God.
+Despised, afflicted in my stead,
+He spent His soul for me.
+And to the slaughter He was led,
+That I not thirsty be.</stanza>
+    <stanza type="verse" number="2">My Shepherd is the Lamb of God,
+He calls to me each day,
+To drink the waters flowing free,
+From His pierced side of grace.
+Yet when I stray or choose my way,
+He still would search for me,
+And bring me home on shoulders strong.
+Do I not His love see?</stanza>
+    <stanza type="verse" number="3">My Shepherd's face is how I live,
+I love to look at Him.
+Though He might lead through shearing trial,
+But still I follow Him.
+Just as the Father's presence cheered 
+Him through each suffering day,
+'Tis once I saw His tender care
+That here I want to stay.</stanza>
+    <stanza type="verse" number="4">Oh, Father thank You for Your Son,
+He shares Your heart for us.
+That gladly He would bear us to
+The bosom of Your love.
+No greater Shepherd could there be,
+That He would not lose one!
+And lead us all to dwell with You.
+Sweet Pasture, Living Stream.</stanza>
+  </lyrics>
+</hymn>

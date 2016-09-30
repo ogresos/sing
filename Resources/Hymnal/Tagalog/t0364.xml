@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, buhay Kita</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;KAY KRISTO BILANG BUHAY</category>
+  <numbers><chinese num="280"/><english num="364"/><korean num="280"/><tagalog num="364"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="364"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panginoon, buhay Kita,
+Panustos pa Kita;
+Espiritung tagabantay,
+Yaman ng 'king buhay.</stanza>
+    <stanza type="verse" number="2">Iyong pinagamit 'Spiritu,
+Hiningahan ako;
+Mawangis sa Iyong kam'ayan,
+Krus ay maranasan.</stanza>
+    <stanza type="verse" number="3">Hades, Satanas daig Mo,
+Ako di pa talo
+Gumawa Ka sa loob ko,
+Kitlin, buhayin Mo.</stanza>
+    <stanza type="verse" number="4">Natural ko Iyong patayin,
+Ako'y Iyong gamitin;
+Nang mabuhay kalakip Mo,
+Ilibing muna 'ko.</stanza>
+    <stanza type="verse" number="5">Maghari Ka sa loob ko,
+Ako'y kaisa Mo;
+Sarili Mo'y ibuhay nga,
+Nang mahayag Kita.</stanza>
+    <stanza type="verse" number="6">Ang sala ko'y Iyong linisin
+Ako'y bahay Mo rin;
+Iyong l'walhati babaran 'ko,
+Mahayag Diyos Mismo.</stanza>
+  </lyrics>
+</hymn>

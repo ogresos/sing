@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Auferstanden ist der Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;seine Auferstehung</category>
+  <numbers><cebuano num="117"/><chinese num="102"/><english num="117"/><french num="19"/><german num="117"/><korean num="102"/><portuguese num="57"/><russian num="24"/><spanish num="56"/><tagalog num="117"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/( ._1/ ._2/ 5/ ._1) 7/( ._1/) | 7( 6) 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/( 7/  ._1/ 5/ 6/ 7/) ._1/( ._2/) | ._1( 7) ._1 - |</melody>
+  <layout>
+	<singingstanza>Auf -- er -- stan -- den ist der Herr, Hal -- le -- lu -- ja! Was wir brau -- chen, das gab Er, Hal -- le -- lu -- ja! Freu -- de und Tri -- umph er -- hebt, Hal -- le -- lu -- ja! Ihr Er -- lös -- ten Ant -- wort gebt, Hal -- le -- lu -- ja!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Auferstanden ist der Herr,
+    Halleluja!
+Was wir brauchen, das gab Er,
+    Halleluja!
+Freude und Triumph erhebt,
+    Halleluja!
+Ihr Erlösten Antwort gebt,
+    Halleluja!</stanza>
+	<stanza type="verse" number="2">Unser König auferstand,
+    Halleluja!
+Todesstachel überwand.
+    Halleluja!
+Durch den Tod uns Rettung gab,
+    Halleluja!
+Wo ist nun dein Sieg, oh Grab?
+    Halleluja!</stanza>
+	<stanza type="verse" number="3">Die Erlösung ist vollbracht,
+    Halleluja!
+Unser Herr gewann die Schlacht,
+    Halleluja!
+Nichts hielt Ihn, Er auferstand,
+    Halleluja!
+Sitzt zu Gottes rechter Hand,
+    Halleluja!</stanza>
+	<stanza type="verse" number="4">Mit Ihm schweben wir nun droben,
+    Halleluja!
+Folgen unsrem Haupt im Loben,
+    Halleluja!
+Auferstehen gleich wie Er, 
+    Halleluja!
+Frei sind! Nichts uns bindet mehr!
+    Halleluja!</stanza>
+  </lyrics>
+</hymn>

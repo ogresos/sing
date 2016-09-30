@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alléluia, la vie est dans l'esprit</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;dans l’Esprit</category>
+  <numbers><cebuano num="1141"/><chinese num="ts:116"/><english num="1141"/><french num="109"/><german num="1141"/><korean num="902"/><portuguese num="229"/><russian num="109"/><spanish num="206"/><tagalog num="1141"/></numbers>
+  <melody>| 0 - - 5_./ 1/ | 3 3/ 3/ 3 2/ 3/ | 2/ 1.( 1) 5_./ 1/ | 3 1/ 3/ 5 4/ 3/ (break) | 2 - - 5/ 4/ | 3 3/ 2/ 1 2/ 3/ | 5/ 4/( 4) - 6_./ 6_./ | 5_. 7_./ 1/ 2 3/ 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1141"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nous chantons au Seigneur de notre esprit,
+Nous chantons de notre être intérieur,
+Nous chantons : Jésus-Christ, alléluia !
+Notre esprit est uni avec Lui.</stanza>
+	<stanza type="verse" number="2">Durant des années nous avons cherché,
+Nous avons erré dans nos pensées,
+Nous avons été dans la religion,
+Cherchant toujours désespérément.</stanza>
+	<stanza type="verse" number="3">Maintenant, vers l'esprit nous nous tournons,
+Apprenant à manger Jésus.
+Désormais déchargés de nos efforts,
+Nous nous ouvrons à Lui simplement.</stanza>
+	<stanza type="verse" number="4">Alléluia, la vie est dans l'esprit !
+Alléluia, par Lui, nous marchons.
+En tout temps, vers l'esprit, nous nous tournons,
+Jésus-Christ devient notre portion.</stanza>
+  </lyrics>
+</hymn>

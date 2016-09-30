@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Paula</firstname>
+  <lastname/>
+  <email>pasaftei@hotmail.com</email>
+  <password>$2y$10$Lq7Bt1o4aCLqa18PlgiF6.q1Wuu6/ol/fMe.VixzzG9QcCha1Mtbi</password>
+  <gender/>
+  <country>es</country>
+  <ipaddress>79.109.200.78</ipaddress>
+  <createdate>2016-03-17 20:30:22</createdate>
+  <lastupdateddate>2016-03-17 20:33:51</lastupdateddate>
+  <lastlogindate>2016-03-17 20:31:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="227">Through the bread and cup, Lord Jesus</fav>
+  </favourites>
+</user>

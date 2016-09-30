@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Williams</lastname>
+    <email>linda.mwilliams@bigpond.com</email>
+    <password>WRO%2BZDDkkIlR%2BDj4sHZ5xA%3D%3D</password>
+    <gender>F</gender>
+    <country>au</country>
+    <ipaddress>121.215.25.232</ipaddress>
+    <createdate>2012-08-12 01:16:27</createdate>
+    <lastupdateddate>2013-01-16 05:52:04</lastupdateddate>
+    <lastlogindate>2013-01-16 05:52:04</lastlogindate>
+    <failedlogincount>1</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    </favourites>
+</user>

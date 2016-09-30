@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adam</firstname>
+  <lastname>Tyler</lastname>
+  <email>adamwtyler@gmail.com</email>
+  <password>$2y$10$ddNFZzmGtDJxpp5CIrWTlu.QfQBItUhXcf/L10RaQ1YJO/qGeEYAG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>198.153.118.212</ipaddress>
+  <createdate>2014-09-30 10:45:30</createdate>
+  <lastupdateddate>2014-12-12 08:01:44</lastupdateddate>
+  <lastlogindate>2014-12-12 08:01:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="1068">In tenderness He sought me</fav>
+    <fav category="default" type="h" num="808">Master, speak! Thy servant heareth</fav>
+  </favourites>
+</user>

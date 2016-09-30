@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tali sa 'ting puso&amp;mdash</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGSASALAMUHA</category>
+  <numbers><cebuano num="860"/><chinese num="621"/><english num="860"/><korean num="621"/><tagalog num="860"/></numbers>
+  <creators>
+    <author biodate="1740-1817" biolink="">Translated from John Fawcett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="615"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tali sa 'ting puso&amp;mdash;
+Krist'yanong pag-ibig;
+Salamuha sa 'spiritu
+Ay tulad sa langit.</stanza>
+    <stanza type="verse" number="2">Sa trono ng Ama,
+Dalhin ating hiling;
+Magsama sa lungkot, asa,
+Aliw, at layunin.</stanza>
+    <stanza type="verse" number="3">Tayo'y magtulungan,
+At magpasensiyahan;
+Makitangis sa nasaktan,
+Puso'y magdamayan.</stanza>
+    <stanza type="verse" number="4">Tuwing maghiwalay,
+Puso'y nasasaktan;
+Nguni't umaasang muli
+Magpapangitaan.</stanza>
+    <stanza type="verse" number="5">Maligtas sa hapis,
+At sa kasalanan;
+Pag-ibig lalong matamis,
+Galak walang-hanggan.</stanza>
+  </lyrics>
+</hymn>

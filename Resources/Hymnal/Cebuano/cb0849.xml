@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang mga sacerdote</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;ANG PAGTUKOD NIYA</category>
+  <numbers><cebuano num="849"/><chinese num="613*"/><english num="849"/><german num="849"/><korean num="613"/><tagalog num="849"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 1 1 | 3. 2/ 1 - | 2 2 2 2 | 4. 3/ 2 - (break) | 3 3 3 2 | 5 5 5 6/ 7/ | ._1 3 3 4 | 2( - 1) - (break) | (Chorus) 5 5 5 5 | 7. 6/ 5 - | 2 2 2 2 | 4. 3/ 2 - (break) | 3 3 3 2 | 5 5 5 6/ 7/ | ._1 3 3 4 | 2( - 1) - |</melody>
+  <music>
+	<midiref type="h" num="849"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang mga sacerdote
+Mao ang batong buhi;
+Kini sila mabalay
+Sa pag-ampo kanunay.</stanza>
+	<stanza type="chorus" number="">Dapit labing balaan,
+Kanunay nga abutan;
+Mag-ampo sa Ginoo,
+Pagtukod N'ya mahimo.</stanza>
+	<stanza type="verse" number="2">Sacerdoteng magsilbe,
+Mahimong batong buhi;
+Kinahanglan magtuman
+Sa ilang katungdanan.</stanza>
+	<stanza type="verse" number="3">Kanhi ang sacerdote,
+Mag-uban gyud sa tolda;
+I'gsilbe's sacerdote,
+Mag-usa kining duha.</stanza>
+	<stanza type="verse" number="4">Balayng espirituwal,
+Usa sa sacerdote;
+Pagtukod's balay karon
+Buhat sa sacerdote.</stanza>
+	<stanza type="verse" number="5">Ang mga sacerdote
+M'oy mopuno's pagtukod;
+Makompletong balay's Dios
+Kon mobuhat na sila.</stanza>
+	<stanza type="verse" number="6">Pagtukod sa Dios ug tawo
+M'oy buhat's sacerdote;
+Ning diosnong ambitayay
+Balaan magkausa.</stanza>
+	<stanza type="verse" number="7">Kon esp'ritu masakot
+Sa pag-ampo, matukod,
+Masacerdote kita,
+Maghalad sa Ginoo.</stanza>
+	<stanza type="verse" number="8">Mahalon ko, Ginoo,
+Ang pagkasacerdote;
+Mag-alagad, mag-ampo,
+Iglesia Mo matukod.</stanza>
+  </lyrics>
+</hymn>

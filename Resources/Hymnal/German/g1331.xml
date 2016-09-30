@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Schmeck doch und sieh: ja, der Herr ist gut</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Allgemein</category>
+  <numbers><cebuano num="1331"/><dutch num="18"/><english num="1331"/><german num="1331"/><korean num="961"/><portuguese num="468"/><russian num="186"/><spanish num="493"/></numbers>
+  <melody>| 0 - 0/ 5_./ 6_./ 7_./ | 1( - 1/) 3// 3// 2//( 1//) 6_./ (break) | 1( - 1/) 1/ 3/ 5/ | 5( - 5/) 6// 6// 6//( 5//) 6/ (break) | 6/( 5) - 5/ 6/ 7/ | ._1( - ._1/) 5/ 6/ 5/ (break) | 4( - 4/) 1/ 2/ 1/ | 3/( 5 6/ 5/) 5_./ 6_./ 7_./ | 1( - 1/) 0. |</melody>
+  <layout>
+	<singingstanza>Schmeck doch und sieh: ja, der Herr ist gut. Schmeck doch und sieh: ja, der Herr ist gut. Ist gut für dich, und auch für mich. Was du auch tust, schmeck doch und sieh.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1331"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Schmeck doch und sieh: ja, der Herr ist gut.
+Schmeck doch und sieh: ja, der Herr ist gut.
+Ist gut für dich, und auch für mich.
+Was du auch tust, schmeck doch und sieh.</stanza>
+	<stanza type="verse" number="2">Ruf doch: „Oh Herr!“ – Er verändert dich;
+Ruf doch: „Oh Herr!“ – Er verändert dich;
+Die Gnade fließt beständig mehr,
+Wenn du froh rufst: “Oh Herr! Oh Herr!“</stanza>
+	<stanza type="verse" number="3">Die Liebe fließt in dein Herz hinein,
+Die Liebe fließt in dein Herz hinein,
+Sie strömt aus Gott – dein Herz erfasst;
+Ja, wahre Liebe gefunden hast.</stanza>
+	<stanza type="verse" number="4">Drum preis den Herrn für Sein Leben in dir;
+Ja, preis den Herrn für Sein Leben in dir;
+Etwas von Sich goss Er so gern
+Jetzt in dein Leben, drum preis den Herrn!</stanza>
+  </lyrics>
+</hymn>
+
+

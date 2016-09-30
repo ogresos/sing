@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pag-ibig ng Diyos ay dakila</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAG-IBIG</category>
+  <numbers><cebuano num="28"/><chinese num="24"/><english num="28"/><french num="4"/><german num="28"/><korean num="24"/><portuguese num="13"/><russian num="12"/><spanish num="19"/><tagalog num="28"/></numbers>
+  <creators>
+	<author biodate="1868-1953" biolink="">Translated from Frederick Martin Lehman</author>
+  </creators>
+  <melody>| 0. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 3. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 1. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 4 (break) | 3. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 (break) | 1. (Chorus) ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 6 (break) | 5. ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 | 1. 0. |</melody>
+  <music>
+	<midiref type="h" num="28"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pag-ibig ng Diyos ay dakila
+Kaysa maisasatula.
+Lampas sa malayong tala
+Sagad sa napakababa.
+Unang pares ang nagkasala,
+Hesus nama'y nagtubos;
+Silang lahat pinagkasundo,
+Pinatawad nang lubos.</stanza>
+	<stanza type="chorus" number="">Wagas na pagsinta ng Diyos
+Tapat at di masukat!
+Awit ng banal at anghel
+Ay di makasapat.</stanza>
+	<stanza type="verse" number="2">'Pag panahon ay lumipas,
+Kaharia'y magsibagsak,
+Kapag tanan di manalangin,
+Sa bundok ay magsitawag;
+Ang pagsinta ng Diyos ay wagas
+At di matitinag;
+Mapanubos na biyaya
+Kay Adam 'nilagak.</stanza>
+	<stanza type="verse" number="3">Ang dagat ma'y maging tinta,
+Bawa't sanga'y gawing pluma;
+Ang langit ma'y maging panulat,
+Bawa't isa'y manunulat;
+Ang dagat ay maiiga,
+Langit ma'y kulang pa,
+Kung isulat na talaga
+Ang Kanyang pagsinta.</stanza>
+  </lyrics>
+</hymn>

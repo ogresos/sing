@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, Anak Mo ang nangunguna</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;PAPURI MULA SA MARAMING ANAK</category>
+  <numbers><cebuano num="50"/><chinese num="48"/><english num="50"/><french num="9"/><korean num="48"/><russian num="242"/><spanish num="30"/><tagalog num="50"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Robert Allen</author>
+  </creators>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ama, Anak Mo ang nangunguna,
+Magpuri matapos ng handaan;
+Kay tamis, kay mahal sa Iyo, Ama,
+Awit at puri sa kaisahan.</stanza>
+    <stanza type="verse" number="2">Bukod sa Iyo, walang kabutihan,
+Walang higit pa sa pag-ibig Mo;
+Sinasamba Ka, pagka't natikman
+Kasarapan ng buhay dibino.</stanza>
+    <stanza type="verse" number="3">Sa Iyong pag-ibig ang pag-ibig ko
+Lumago, daig ang kamunduhan;
+Sa kalakasan ang pag-ibig Mo,
+Dalhin ako sa galak sukdulan.</stanza>
+    <stanza type="verse" number="4">Ama, ang Iyong Anak aming sundan,
+Papurihan Ka nang walang hanggan;
+Pag-ibig Mo'y aming kasiyahan,
+Natamasa tamis ng Iyong ngalan.</stanza>
+  </lyrics>
+</hymn>

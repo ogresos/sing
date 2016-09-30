@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title> &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mein Vater Gott, wenn ich die Schöpfung sehe</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Größe</category>
+  <numbers><cebuano num="17"/><chinese num="12"/><english num="17"/><german num="17"/><korean num="12"/><portuguese num="11"/><russian num="10"/><spanish num="11"/><tagalog num="17"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <layout>
+	<singingstanza> Mein Va -- ter Gott, wenn ich die Schö -- pfung se -- he, Die vie -- len Wun -- der, groß und klein be -- tracht, Ehr -- furcht mich füllt, wenn ich vor Dir nun ste -- he, Seh Dei -- ne Kraft, die sicht -- bar wird ge -- macht; Dann jauchzt mein Herz Dir zu und preist und lobt! Wie wun -- der -- bar! Wie groß bist Du! Dies sing ich Dir für e -- wig, Va -- ter Gott, Wie wun -- der -- bar! Wie groß bist Du!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">     Mein Vater Gott, wenn ich die Schöpfung sehe,
+Die vielen Wunder, groß und klein betracht,
+Ehrfurcht mich füllt, wenn ich vor Dir nun stehe,
+Seh Deine Kraft, die sichtbar wird gemacht;</stanza>
+	<stanza type="chorus" number="">Dann jauchzt mein Herz Dir zu und preist und lobt!
+    Wie wunderbar! Wie groß bist Du!
+Dies sing ich Dir für ewig, Vater Gott,
+    Wie wunderbar! Wie groß bist Du!</stanza>
+	<stanza type="verse" number="2">Wenn ich genieß, wie Du mir Rettung brachtest,
+Uns hast erlöst durch Deinen eignen Sohn;
+Du uns durch Ihn zur neuen Schöpfung machtest,
+Kommst nun durch uns zum Ausdruck heute schon;</stanza>
+	<stanza type="verse" number="3">Wenn ich nun seh, wie Du in der Gemeinde
+In Millionen Menschen Leben bist,
+Dein Geist zu Deiner Wohnung sie vereinte,
+Und Deine Fülle nun aus ihnen fließt;</stanza>
+	<stanza type="verse" number="4">Wenn ich nun hoff, dass ich bei Dir sein werde,
+Und mich schon freu aufs Neu Jerusalem,
+Und auf die neuen Himmel, neue Erde,
+Wo Du zum Ausdruck kommst in alledem;</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeanie</firstname>
+  <lastname>Perkins</lastname>
+  <email>gjperskins@gmail.com</email>
+  <password>$2y$10$L5wlMZrMkMjnHvQPaqbQweMNZUiyUDBgw/Ztznmib3oqRYRL3Uy.e</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.217.83.148</ipaddress>
+  <createdate>2015-01-27 13:06:38</createdate>
+  <lastupdateddate>2015-01-27 13:14:45</lastupdateddate>
+  <lastlogindate>2015-01-27 13:10:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="8661">Work, for the night is coming</fav>
+  </favourites>
+</user>

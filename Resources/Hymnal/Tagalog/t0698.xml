@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa gitna ng mga 'subok</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;DAHIL SA PAG-AALAGA NG PANGINOON</category>
+  <numbers><cebuano num="698"/><chinese num="496"/><english num="698"/><german num="698"/><korean num="496"/><russian num="473"/><tagalog num="698"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from E. D. Mund</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_./ 3/ 3 1/( 2/) | 1/ 7_./ 7_. 5_. | 5_./ 4/ 4 2/( 3/) (break) | 2/ 1/ 1 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 (break) | 1 - (Chorus) 5 | 5/ 3/ 5 6 | 2 - 4 | 4/ 2/ 4 5 (break) | 3 - 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="698"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa gitna ng mga 'subok,
+Sa buhay na 'salimuot,
+Kay tamis sa aking loob,
+'Ko'y iniisip Mo.</stanza>
+	<stanza type="chorus" number="">'Ko'y iniisip Mo! 'Ko'y iniisip Mo!
+Takot pa ba? Malapit Ka,
+At iniisip Mo!</stanza>
+	<stanza type="verse" number="2">Mga balisa ng buhay
+Sa puso'y nagpalupaypay,
+Nagpaalaala lumbay,
+'Ko'y iniisip Mo.</stanza>
+	<stanza type="verse" number="3">Maaraw man o maulap,
+Matamis man o masaklap,
+Nasisiyahan ako pagka't
+'Ko'y iniisip Mo.</stanza>
+  </lyrics>
+</hymn>

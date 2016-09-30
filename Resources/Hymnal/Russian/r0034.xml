@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О Господь, Жених прекрасный</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО КРАСОТА</category>
+  <numbers><cebuano num="170"/><chinese num="140"/><english num="170"/><german num="170"/><korean num="140"/><portuguese num="83"/><russian num="34"/><spanish num="80"/><tagalog num="170"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>О Гос -- подь, Же -- них пре -- крас -- ный, Бо -- гом дан -- ный, до -- рог нам, При -- тя -- га -- те -- лен и сла -- док, Мил Ты на -- шим всем серд -- цам.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О Господь, Жених прекрасный,
+Богом данный, дорог нам,
+Притягателен и сладок,
+Мил Ты нашим всем сердцам.</stanza>
+	<stanza type="verse" number="2">О Возлюбленный, кто в силах
+Прелесть описать Твою?
+Ты для нас так драгоценен!
+Мы храним любовь Твою.</stanza>
+	<stanza type="verse" number="3">Ты прекраснее прекрасных,
+Слаще сладких, сллавный Ты,
+Так смирен и так велик Ты,
+Несравним ни с кем простым.</stanza>
+	<stanza type="verse" number="4">Полны миррой одеянья,
+Благодать точат уста.
+В благовониях страданий
+Обнимаем мы Тебя.</stanza>
+	<stanza type="verse" number="5">Это радости елеем
+Твой помазал Бог Тебя.
+Из дворцов слоновой кости
+Будет восходить хвала.</stanza>
+	<stanza type="verse" number="6">Ты благословен вовеки,
+Одержал победу Ты;
+Ныне воцарился в славе,
+Власти и величии.</stanza>
+	<stanza type="verse" number="7">Ты – народов вожделенье,
+Лучше тысяч Ты других.
+Вечно петь  хвалу мы будем
+О достоинствах Твоих.</stanza>
+  </lyrics>
+</hymn>

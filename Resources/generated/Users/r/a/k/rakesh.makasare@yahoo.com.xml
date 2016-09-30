@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>rakesh</firstname>
+    <lastname>makasare</lastname>
+    <email>rakesh.makasare@yahoo.com</email>
+    <password>k6Id2c8SBQs402hz5N01eQ%3D%3D</password>
+    <gender>M</gender>
+    <country>in</country>
+    <ipaddress>180.151.255.44</ipaddress>
+    <createdate>2012-07-30 12:27:00</createdate>
+    <lastupdateddate>2012-08-01 13:48:09</lastupdateddate>
+    <lastlogindate>2012-08-01 13:45:21</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+    </favourites>
+</user>

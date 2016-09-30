@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>deborah</firstname>
+    <lastname></lastname>
+    <email>deborahkoya@hotmail.com</email>
+    <password>Zy1azBeJcJj0GEEIKgUlyA%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>213.205.240.37</ipaddress>
+    <createdate>2013-11-08 00:31:12</createdate>
+    <lastupdateddate>2013-11-08 01:20:17</lastupdateddate>
+    <lastlogindate>2013-11-08 00:31:12</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="851">How lovely is Thy dwelling place</fav>
+        <fav category="default" type="h" num="718">Peace, perfect peace, in this dark world of sin</fav>
+        <fav category="default" type="h" num="653">Rest, rest thee, weary heart</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

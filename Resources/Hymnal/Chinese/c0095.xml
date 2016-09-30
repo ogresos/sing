@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>讚美祂讚美祂</title>
+  <index>true</index>
+  <category>讚美主－祂的救贖</category>
+  <numbers><cebuano num="112"/><chinese num="95"/><english num="112"/><german num="112"/><korean num="95"/><portuguese num="51"/><russian num="401"/><spanish num="54"/><tagalog num="112"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from R. D. Edwards</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 4 6_. 4 | 3 1 3 | 3 2 6_. (break) | 2 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 (break) | 1 - (Chorus) 3/ 4/ | 5 - 3/ 4/ | 5 - 5/ 3/ | 1 2 3 (break) | 2 - 2/ 3/ | 4 - 2/ 3/ | 4 - 4/( 2/) | 5 5 4 (break) | 3 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>這 個 真 是 何 等 甘 美 的 故 事， 神 用 無 限 的 愛 差 遣 祂 兒 子， 來 自 天 上 榮 耀， 死 於 十 字 架， 成 功 救 贖， 好 使 我 們 進 神 家。 讚 美 祂！ 讚 美 祂！ 工 作 已 經 成 功！ 感 謝 祂！ 感 謝 祂！ 恩 典 真 寬 宏！ 我 們 榮 耀 耶 穌， 我 們 的 救 主， 我 們 歌 唱 耶 穌， 永 遠 不 止 住。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="39"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">這個真是何等
+甘美的故事，
+神用無限的愛
+差遣祂兒子，
+來自天上榮耀，
+死於十字架，
+成功救贖，
+好使我們進神家。</stanza>
+	<stanza type="chorus" number="">讚美祂！讚美祂！
+工作已經成功！
+感謝祂！感謝祂！
+恩典真寬宏！
+我們榮耀耶穌，
+我們的救主，
+我們歌唱耶穌，
+永遠不止住。</stanza>
+	<stanza type="verse" number="2">這個真是何等
+奇妙的故事，
+寶座要求，
+因著寶血就停止，
+公義審判，
+竟被神兒子擔負，
+因此神就心滿，
+罪人也意足。</stanza>
+	<stanza type="verse" number="3">基督已登寶座，
+榮耀何光輝！
+耶穌已被高舉，
+名字何尊貴！
+是的，我們救主，
+得華冠的主，
+配得所有聖徒
+永遠的稱祝。</stanza>
+  </lyrics>
+</hymn>

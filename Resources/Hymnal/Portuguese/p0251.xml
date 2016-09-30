@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Longe, no trono, estás, Senhor</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><english num="516"/><portuguese num="251"/></numbers>
+  <creators>
+    <author biodate="1809-1894" biolink="">Translated from Oliver Wendell Holmes</author>
+  </creators>
+  <music>
+    <midiref type="h" num="516"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Longe, no trono, estás, Senhor,
+Ao sol e estrelas, superior;
+Do universo, centro e luz,
+Mas tão chegado a nós, Jesus.</stanza>
+    <stanza type="verse" number="2">Qual Sol da vida a nos guiar,
+Vens nossa senda iluminar;
+És qual Estrela, terna luz,
+Que nas vigílias nos conduz.</stanza>
+    <stanza type="verse" number="3">Sem Teu sorrir só trevas há,
+Mas Tua aurora é luz sem par;
+Teu arco-íris lá no céu
+Mostra a mercê do Deus fiel.</stanza>
+    <stanza type="verse" number="4">A Tua luz verdade traz
+E Teu calor, amor veraz;
+Ante Teu trono de esplendor,
+Vai-se o nosso vão fulgor.</stanza>
+    <stanza type="verse" number="5">Tua verdade, vem-nos dar,
+E coração de Te amar,
+Té Teus altares vivos ter
+Chama celeste a arder.</stanza>
+  </lyrics>
+</hymn>

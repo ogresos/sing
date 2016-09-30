@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Христос, Ты – праведность моя</title>
+  <index>true</index>
+  <category>УВЕРЕННОСТЬ И РАДОСТЬ СПАСЕНИЯ&amp;mdash;ОПРАВДАНИЕ В ХРИСТЕ</category>
+  <numbers><cebuano num="295"/><chinese num="237"/><english num="295"/><korean num="237"/><russian num="212"/><tagalog num="295"/></numbers>
+  <creators>
+    <author biodate="1700-1760" biolink="countzinzendorf.ccws.org">Translated from Nicolaus L. Zinzendorf</author>
+    <author biodate="1703-1791" biolink="">Translated by John Wesley</author>
+  </creators>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>Хрис -- тос, Ты_– пра -- вед -- ность мо -- я, Кра -- са и слав -- ный мой на -- ряд; Сре -- ди пы -- ла -- ю -- щих ми -- ров Ли -- ку -- ю я_– Ты мой по -- кров.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Христос, Ты – праведность моя,
+Краса и славный мой наряд;
+Среди пылающих миров
+Ликую я – Ты мой покров.</stanza>
+    <stanza type="verse" number="2">Господь, я верю, кровь Твоя
+Была излита за меня.
+К престолу милости она
+Молить за всех принесена.</stanza>
+    <stanza type="verse" number="3">Господь, будь грешников поток
+Обильней, чем морской песок,
+За всех Ты выкуп заплатил
+И в полной мере искупил.</stanza>
+    <stanza type="verse" number="4">Могу бесстрашно я стоять.
+Меня кто сможет обвинять?
+Тобой оправдан навсегда
+Я от греха, вины, стыда.</stanza>
+    <stanza type="verse" number="5">Пусть годы в прах всё обратят,
+Но белоснежный мой наряд
+Века не смогут изменить,
+Ему навечно в славе быть.</stanza>
+    <stanza type="verse" number="6">О, Ты Бог силы, Бог любви,
+Да явим милости Твои.
+Краса и славный наш наряд,
+Христос, Ты – праведность моя.</stanza>
+  </lyrics>
+</hymn>

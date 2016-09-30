@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Christian</firstname>
+  <lastname>Clark</lastname>
+  <email>christiansclark@gmail.com</email>
+  <password>$2y$10$355b.AZ8GYupr/9KnGYJEuU4IcajnaczCv9SS2S8Db4bMJLCcoEYa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.57.58.141</ipaddress>
+  <createdate>2015-09-24 13:52:37</createdate>
+  <lastupdateddate>2015-09-24 13:54:39</lastupdateddate>
+  <lastlogindate>2015-09-24 13:53:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1003">Why should I worry, doubt and fear</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>leona</firstname>
+  <lastname>smith</lastname>
+  <email>leonasmith2016@yahoo.com</email>
+  <password>$2y$10$iL.CsGqm/zq2yRtiEMsLcOWrtTxFDrwXDnzEJ9vM06s4SiPGlpTjq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>174.126.231.150</ipaddress>
+  <createdate>2015-05-12 01:11:00</createdate>
+  <lastupdateddate>2015-05-12 01:16:30</lastupdateddate>
+  <lastlogindate>2015-05-12 01:16:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Turn to your spirit, where the Spirit of Jesus is</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Turning to the Spirit</category>
+  <numbers><chinese num="ts:113"/><english num="ns:187"/><vsb num="74"/></numbers>
+  <hymncode>5321511176712</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G - | G7 - - - | G7/B - C - | C - - - | C7 - F - | C - Am - | Dm7 G7 C - |</chords>
+  <melody>| 5_. 3./ 2// 1 5_. | 1./ 1// {1/ 7_./ 6_./} 7_../ 1// 2 (break) | 5_. 4./ 3// 2 5_. | 2 2./ 2// 1./ 2// 3 (break) | 5_. 3./ 2// 1 5_. | 1./ 1// {1/ 2/ 3/} 5./ 4// 4 (break) | 3 3./ 2// 1( 1./) 5_.// | 6_. 7_../ 7_.// 1 - |</melody>
+  <layout>
+    <singingstanza>Turn to your spir -- it, where the Spir -- it of Je -- sus is; Turn to your spir -- it&amp;mdash; Oh, how it makes you sing! Turn to your spir -- it in the mid -- dle of ev -- ery -- thing. Turn to the Lord. Oh, turn to the Lord!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0187.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Turn to your spirit, where the Spirit of Jesus is;
+Turn to your spirit&amp;mdash;Oh, how it makes you sing!
+Turn to your spirit in the middle of everything.
+Turn to the Lord. Oh, turn to the Lord!</stanza>
+    <stanza type="verse" number="2">Turn to your spirit, where the Spirit of Jesus is,
+Turn to your spirit&amp;mdash;where life is really found.
+Turn to your spirit if you're up or if you're down,
+Turn to the Lord. Oh, turn to the Lord!</stanza>
+    <stanza type="verse" number="3">Turn to your spirit, where the Spirit of Jesus is,
+Turn to your spirit, calling upon His name&amp;mdash;
+Now and forever, Jesus is the very same.
+Turn to the Lord. Oh, turn to the Lord!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! que amor nos deste, ó Pai</title>
+  <index>true</index>
+  <category>Seu Amor</category>
+  <numbers><cebuano num="30"/><chinese num="25"/><dutch num="26"/><english num="30"/><french num="5"/><german num="30"/><korean num="25"/><portuguese num="12"/><russian num="13"/><spanish num="21"/><tagalog num="30"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 3. 4/ 5 ._1 | ._1. 7/ 7 ._1 | ._2 ._3 ._4 ._3 | ._2 - - ._2 (break) | ._3. ._2/ ._1 7 | 7. 6/ 6 6 | 5 ._1 7. ._1/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="30"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh! que amor nos deste, ó Pai!
+Mui gratos somos nós;
+Assim, por tudo que Tu és,
+Alçamos nossa voz.</stanza>
+	<stanza type="verse" number="2">Teu coração e bom prazer
+Mostraste-nos, ó Deus;
+Vieste no Teu Filho a nós
+Cumprir o plano Teu.</stanza>
+	<stanza type="verse" number="3">Teu Filho amado deste, ó Pai:
+Por nós aqui morreu;
+Os muitos filhos Teus nos fez,
+Com Ele herdeiros Teus.</stanza>
+	<stanza type="verse" number="4">No Filho, deste vida a nós,
+Agora és nosso Pai;
+A Tua natureza e ser
+São nosso desfrutar.</stanza>
+	<stanza type="verse" number="5">O Espírito em nós entrou,
+Clamamos: "Aba, Pai!"
+Gerou-nos e também selou
+E nos transformará.</stanza>
+	<stanza type="verse" number="6">Teu alvo: os muitos filhos Teus
+À glória enfim levar;
+À imagem do Teu Filho, então,
+Hás de nos conformar.</stanza>
+	<stanza type="verse" number="7">No estágio da transformação
+Estás a nos guiar,
+De glória em glória, até ter fim
+Tal obra singular.</stanza>
+	<stanza type="verse" number="8">Tão grande amor nos deste, ó Pai,
+Tens nossa gratidão;
+Pra sempre vamos Te louvar,
+E dar-Te adoração.</stanza>
+  </lyrics>
+</hymn>

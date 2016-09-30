@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Someone</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><english num="lb:69"/><vsb num="105"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5533333123432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>85</tempo>
+  <chords>| C - - - | C - Cmaj7 - | C - Cmaj7 - | Dm - - - | G - - - | Dm7 - - - | G7 - - - | C - Cmaj7 - | C - Cmaj7 - | C - Cmaj7 - | C - C7 - | F - - - | Dm7 - - - | C/G - - - | G7 - - - | C - - - | C - G7 - | C - Cmaj7 - | C - Cmaj7 - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - Cmaj7 - | C - Cmaj7 - | C - Cmaj7 - | C7 - - - | F - - - | Dm - - - | C/G - - - | G7 - - - | F/C - - - | C - - - |</chords>
+  <melody>| 0 - - 5/ 5/ | 3/ 3.( 3) 3/ 3/ | 3( - 3/) 1/ 2/ 3/ | 4 - - 3 | 2 - - 0/ 5_./ | 4/ 4.( 4/) 4/ 4/ 4/ | 4( - 4/) 2/ 3/ 4/ | 5 - - 4 (break) | 3 - - 0/ 5_./ | 5/ 5.( 5) 5/ 5/ | 5/ 3.( 3) 4/ 5/ | 6 - 6 5 | 4 4 5 4 | 3/ 1/( 1) - - | 2 - 7_. - | 1 - - - (break) | (Chorus) 0 5 6 7 | 6 - 3 - | 0 3/ 3/ 3/ 3/ 2/ 3/ | 4 - - - | 0 5 6 7 | 6 - 4 - | 0 2/ 2/ 2/ 2/ 1/ 2/ | 3 - - - (break) | 0 ._1 ._1 ._2 | ._1 - 5 - | 0 ._1 ._1 ._2 | ._1( - 7) - | 6 6 5 4 | 3/ 1.( 1) 3 | 2 - 7_. 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Is there some -- one who's a friend That I can o -- pen to? A some -- one who un -- der -- stands All that I'm go -- ing through? A some -- one when there's no one I can al -- ways come to? There is no some -- one like this One. There is a some -- one; Some -- one you can o -- pen to. There is a some -- one; Some -- one who will take you through. There is a some -- one when there is no one; There is a some -- one, a won -- der -- ful One.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="91">lb69.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Is there someone who's a friend
+That I can open to?
+A someone who understands
+All that I'm going through?
+A someone when there's no one
+I can always come to?
+There is no someone like this One.</stanza>
+    <stanza type="chorus" number="">There is a someone;
+Someone you can open to.
+There is a someone;
+Someone who will take you through.
+There is a someone when there is no one;
+There is a someone, a wonderful One.</stanza>
+    <stanza type="verse" number="2">Is there someone who can care
+Through all my hardest times?
+A someone always there
+Though it may rain or shine?
+A someone I can lean on
+When the stormy times come?
+There is no someone like this One.</stanza>
+    <stanza type="chorus" number="">There is a someone;
+Someone in my hardest times.
+There is a someone,
+Always there through rain or shine.
+There is a someone
+When there is no one;
+There is a someone, a special One.</stanza>
+    <stanza type="verse" number="3">Is there someone who will take
+Take me just as I am?
+A someone who'll not forsake
+One I can trust to the end?
+A someone who knows me
+Yet he still wants me?
+There is no someone like this One.</stanza>
+    <stanza type="chorus" number="">There is a someone
+Who will take you as you are.
+There is a someone;
+He will reach you near or far.
+There is a someone;
+He's the most lovely One.
+Just take this someone, the loveliest One.</stanza>
+    <stanza type="verse" number="4">Is there someone who can reach
+Down to the depths of my being?
+A someone who can fix
+All of my broken heart strings?
+A someone who can love me
+When there's no love in me?
+There is no someone like this One.</stanza>
+    <stanza type="chorus" number="">There is a someone
+Who can touch your inmost being.
+There is a someone;
+He can make your heart to sing.
+There is a someone,
+Love is this precious One.
+Just love this someone, the wonderful One.</stanza>
+    <stanza type="chorus" number="">Christ is this someone
+Who can touch your inmost being.
+Christ is this someone&amp;mdash;
+He can make your heart to sing.
+Christ is this someone.
+Christ is this precious One.
+Just love this someone, the wonderful One.</stanza>
+  </lyrics>
+</hymn>

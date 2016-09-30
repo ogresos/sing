@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>todd</firstname>
+  <lastname>ulmer</lastname>
+  <email>tulmer1979@gmail.com</email>
+  <password>$2y$10$BIBNmcHdovyPkAZVoLPGnemYBkoaHCKTUfQfZ0P29QYHaSzn8wpn2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.21.12.114</ipaddress>
+  <createdate>2014-06-08 03:32:01</createdate>
+  <lastupdateddate>2016-08-20 18:17:51</lastupdateddate>
+  <lastlogindate>2016-08-20 18:17:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+  </favourites>
+</user>

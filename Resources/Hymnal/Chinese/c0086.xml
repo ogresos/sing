@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主你是無辜</title>
+  <index>true</index>
+  <category>讚美主－祂的受苦</category>
+  <numbers><chinese num="86"/><english num="8086"/></numbers>
+  <melody>| 3 5 3 1 | 7_. 1 2 3 | 4 3 2 5 | 7 6 5 - (break) | 3 5 3 1 | 7_. 1 2 3 | 4 3 6 5 | 3 2 1 - (break) | 3 5 ._1 6 | 5 1 4 3 | 2 3 5 4 | 1 2 3 - (break) | 3 5 ._1 6 | 5 1 4 3 | 2 3 5 4 | 6_. 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>屈 身， 低 首， 強 暴 壓 逼， 背 著 十 架 向 前 行； 如 羊 牽 到 宰 殺 之 地， 忍 辱、 忍 怨， 無 反 應。 哦 主， 你 是 無 辜， 竟 肯 為 我 罪 愆 受 委 屈！ 愛 既 如 此 長 闊 高 深， 餘 生 屬 你 永 不 渝。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="236"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">屈身，低首，強暴壓逼，
+背著十架向前行；
+如羊牽到宰殺之地，
+忍辱、忍怨，無反應。</stanza>
+	<stanza type="chorus" number="">哦主，你是無辜，竟肯
+為我罪愆受委屈！
+愛既如此長闊高深，
+餘生屬你永不渝。</stanza>
+	<stanza type="verse" number="2">頭戴荊冕，身懸木上，
+手足被釘，肋中槍，
+父神離棄，敵魔猖狂，
+身靈受創痛難當。</stanza>
+	<stanza type="verse" number="3">未肯從你十架跳下，
+未求天使來營救；
+任人擺佈，甘受傾軋，
+正為滿足神要求。</stanza>
+	<stanza type="verse" number="4">太陽掩面不忍再睹，
+無疵羔羊慘喪身。
+殿幔裂出新活的路，
+罪人坦然親近神。</stanza>
+  </lyrics>
+</hymn>

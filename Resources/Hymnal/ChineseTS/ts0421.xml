@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>奔跑</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55135311116666</hymncode>
+  <key>A Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 只 有 一 個 心 志， 向 著 標 竿 一 直 跑， 要 得 上 面 獎 賞； 背 後 一 切 都 忘 記， 萬 事 也 當 作 有 損， 惟 有 祂 纔 是 至 寶。 丟 棄 萬 事 如 糞 土， 竭 力 追 求 不 稍 弛， 為 要 認 識 這 位 復 活 的 基 督。 雖 然 四 圍 是 艱 難， 要 使 我 灰 心 喪 膽， 我 知 所 信 是 誰； 無 論 是 生 或 是 死， 凡 事 我 都 能 放 膽， 祂 要 在 我 身 顯 大。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0421.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我只有一個心志，
+向著標竿一直跑，
+要得上面獎賞；
+背後一切都忘記，
+萬事也當作有損，
+惟有祂纔是至寶。
+丟棄萬事如糞土，
+竭力追求不稍弛，
+為要認識
+這位復活的基督。
+雖然四圍是艱難，
+要使我灰心喪膽，
+我知所信是誰；
+無論是生或是死，
+凡事我都能放膽，
+祂要在我身顯大。</stanza>
+  </lyrics>
+</hymn>

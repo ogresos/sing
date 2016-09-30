@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>daada</firstname>
+<lastname>nyebuk</lastname>
+<email>nyebukdaniel@yahoo.com</email>
+<password>$1$1dwAQq3Y$kseGAuNXmqAb21ZUdOZiI.</password>
+<gender>F</gender>
+<country>Nigeria</country>
+<ipaddress>62.56.136.172</ipaddress>
+<createdate>2009-05-08 13:59:41</createdate>
+<lastupdateddate>2009-09-15 19:16:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="833">The Church's one foundation</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="h" num="458">Living for Jesus, oh, what peace</fav>
+    </favourites>
+</user>

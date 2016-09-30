@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sammy</firstname>
+  <lastname/>
+  <email>sammysambu@gmail.com</email>
+  <password>$2y$10$vMzEug8kzghuZsGQVxkiouRIM7hN2PiPchZqrgEKLEwe6JjHezgjO</password>
+  <gender/>
+  <country>be</country>
+  <ipaddress>94.225.235.168</ipaddress>
+  <createdate>2014-11-08 21:08:31</createdate>
+  <lastupdateddate>2014-11-08 21:09:47</lastupdateddate>
+  <lastlogindate>2014-11-08 21:09:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Yunyun</firstname>
+  <lastname>Xu</lastname>
+  <email>1195050775@qq.com</email>
+  <password>$2y$10$Adnt.6SZewL41WnMgWZ7NOoyQKECVnc.KnyWbWOCkdFVtxCx/49GG</password>
+  <gender>F</gender>
+  <country>de</country>
+  <ipaddress>137.132.3.10</ipaddress>
+  <createdate>2012-11-22 02:09:48</createdate>
+  <lastupdateddate>2016-07-11 08:45:21</lastupdateddate>
+  <lastlogindate>2016-07-04 20:54:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="639">Death cannot hold the resurrection life</fav>
+    <fav category="default" type="ns" num="351">Deep Within I know You're My Only Love</fav>
+    <fav category="default" type="h" num="1025">Give up the world, Christ to obtain</fav>
+    <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="h" num="369">Let me love Thee, Thou art claiming</fav>
+    <fav category="default" type="ns" num="19">Let me love and not be requited</fav>
+    <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+    <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    <fav category="default" type="ns" num="236">Lord, in these days I want to set my heart</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    <fav category="default" type="ns" num="397">My only hope is the Lord</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="h" num="626">Olives that have known no pressure</fav>
+    <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    <fav category="default" type="h" num="679">Safe in the arms of Jesus</fav>
+    <fav category="default" type="ns" num="396">Take me Lord, and fill me with Your dear Self</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="h" num="200">Thou art the Sun of righteousness</fav>
+    <fav category="default" type="ns" num="49">Whispers from above</fav>
+    <fav category="default" type="ns" num="290c">佳偶的歌</fav>
+    <fav category="default" type="ts" num="603">建造當趁今日</fav>
+    <fav category="default" type="ts" num="231">每當我喊主耶穌</fav>
+  </favourites>
+</user>

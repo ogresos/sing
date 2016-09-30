@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abba, Father, we approach Thee</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Redemption</category>
+  <numbers><chinese num="37"/><english num="43"/><korean num="37"/><lsmyp num="10"/><portuguese num="30"/><spanish num="28"/><tagalog num="43"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+  </creators>
+  <melody>| 1. 2/ 3 2 | 4 3 2/( 7_./) 1 | 6 5 4 3 | 2 3/( 1/) 5 - (break) | 1. 2/ 3 2 | 4 3 2/( 7_./) 1 | 6 5 4 3 | 2 3/( 1/) 5 - (break) | 2 3 2/( 7_./) 5_. | 4 3 2/( 7_./) 5_. | 5 4 3. 3/ | 4#. 4#/ 5 - (break) | ._1. 7/ 6 5 | 6. 5/ 5/( 4/) 3 | 2 3/( 4/) 5/( 6/) 4/( 2/) | 1 3/( 2/) 1 - |</melody>
+  <layout>
+    <singingstanza>"Ab -- ba, Fa -- ther," we ap -- proach Thee In our Sav -- ior's pre -- cious name. We, Thy child -- ren, here as -- sem -- bling, Now the prom -- ised bless -- ing claim. From our guilt His blood has washed us, 'Tis through Him our souls draw nigh, And Thy Spir -- it too has taught us "Ab -- ba, Fa -- ther," thus to cry.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj238.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="20"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Abba, Father," we approach Thee
+  In our Savior's precious name.
+We, Thy children, here assembling,
+  Now the promised blessing claim.
+From our guilt His blood has washed us,
+  'Tis through Him our souls draw nigh,
+And Thy Spirit too has taught us
+  "Abba, Father," thus to cry.</stanza>
+    <stanza type="verse" number="2">Once as prodigals we wandered,
+  In our folly, far from Thee;
+But Thy grace, o'er sin abounding,
+  Rescued us from misery.
+Clothed in garments of salvation
+  At Thy table is our place;
+We rejoice, and Thou rejoicest,
+  In the riches of Thy grace.</stanza>
+    <stanza type="verse" number="3">Thou the prodigal hast pardoned,
+  "Kissed us" with a Father's love;
+"Killed the fatted calf," and made us
+  Fit Thy purpose to approve.
+"It is meet," we hear Thee saying,
+  "We should merry be and glad;
+I have found My once-lost children,
+  Now they live who once were dead."</stanza>
+    <stanza type="verse" number="4">"Abba, Father," we adore Thee,
+  While the hosts in heaven above
+E'en in us now learn the wonders
+  Of Thy wisdom, grace, and love.
+Soon before Thy throne assembled,
+  All Thy children shall proclaim
+Abba's love shown in redemption,
+  And how full is Abba's name!</stanza>
+  </lyrics>
+</hymn>

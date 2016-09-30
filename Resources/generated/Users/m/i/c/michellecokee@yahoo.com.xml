@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michelle</firstname>
+  <lastname>Cokee</lastname>
+  <email>michellecokee@yahoo.com</email>
+  <password>$2y$10$7JFfw5OA1jluccEVeTUJn.4vgDzO0qvIzTD.Bq9e0.H3LU42AInvC</password>
+  <gender>F</gender>
+  <country>ph</country>
+  <ipaddress>112.206.5.27</ipaddress>
+  <createdate>2012-02-07 06:19:54</createdate>
+  <lastupdateddate>2016-06-18 12:39:34</lastupdateddate>
+  <lastlogindate>2016-06-18 12:39:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="849">Holy priests are living stones</fav>
+  </favourites>
+</user>

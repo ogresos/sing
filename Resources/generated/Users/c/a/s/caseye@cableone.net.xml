@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>casey</firstname>
+  <lastname>erickson</lastname>
+  <email>caseye@cableone.net</email>
+  <password>$2y$10$RMWV4zq/HF.m1pOGMTtS3OP925vGQxjhtLnT6O54X80DW8UB3hVU2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-08 11:05:41</createdate>
+  <lastupdateddate>2016-08-06 11:42:03</lastupdateddate>
+  <lastlogindate>2016-08-06 11:42:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="716">Begone, unbelief</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="155">Christ delivered me when bound</fav>
+    <fav category="default" type="h" num="496">Christ is the one reality of all</fav>
+    <fav category="default" type="h" num="357">Come, Jesus, Lord, with holy fire</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="ns" num="12">Father, I know that all my life</fav>
+    <fav category="default" type="h" num="8015">Forgiveness when no blood was shed</fav>
+    <fav category="default" type="h" num="977">Glorious things of thee are spoken</fav>
+    <fav category="default" type="h" num="351">God the Almighty, Uncreated Life</fav>
+    <fav category="default" type="h" num="471">How can I ever stay away</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="529">How tedious and tasteless the hours</fav>
+    <fav category="default" type="h" num="631">If I'd know Christ's risen power</fav>
+    <fav category="default" type="h" num="729">Is it raining, little flower</fav>
+    <fav category="default" type="h" num="413b">Jesus, cast a look on me (Alternate Tune)</fav>
+    <fav category="default" type="h" num="727">Light after darkness</fav>
+    <fav category="default" type="h" num="283">Lord, Thou knowest all the hunger</fav>
+    <fav category="default" type="h" num="932">Lord, lay some soul upon my heart</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="h" num="964">Midst the darkness, storm, and sorrow</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    <fav category="default" type="h" num="428">O Lord, Thy boundless love to me</fav>
+    <fav category="default" type="h" num="427">O Love divine, how sweet Thou art</fav>
+    <fav category="default" type="h" num="173">Thou art fairer than the morning</fav>
+    <fav category="default" type="h" num="704">Though troubles assail</fav>
+    <fav category="default" type="h" num="556">Thy name is sweet as ointment poured forth</fav>
+    <fav category="default" type="h" num="625">Tis my happiness below</fav>
+    <fav category="default" type="h" num="682">When I survey life's varied scene</fav>
+  </favourites>
+</user>

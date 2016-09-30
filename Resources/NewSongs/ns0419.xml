@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And we have the prophetic word</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Ray Huff">R. H.</author>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>533312221222321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | Dm - - - | F - - - | C - - - | G - - - | Dm - - - | F - - - | C - - - | G - - - | Dm - - - | F - G7 - | C - - - | G - - - | Dm - - - | F - G7 - | C - - - | C - - - ||</chords>
+  <melody>| 0 - - 0/ 5_./ | 3/ 3 3/( 3.) 1/ | 2/ 2 2/( 2.) 1/( | 2/) 2 2/( 2.) 3/ | 2/ 1 1/( 1/) 2. (break) | 3/ 3 3/( 3.) 1/ | 2/ 2 2/( 2) - | 2/ 2 2/( 2) 3/ 2/( | 2/) 1.( 1.) 5_./ (break) | 5/ 5 5/( 5/)( 3) 2/( | 2) - - 2/ 3/ | 4/ 4 4/( 4.) 4/( | 4/) 3 1/( 1/) 2 1/ (break) | 5/ 5 5/( 5/)( 3) 2/( | 2) - - 2/ 3/ | 4/ 4 4/( 4.) 4/( | 4/) 3 1/( 1/) 2. | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">And we have the pro -- phet -- ic word made more firm, to which you do well to give heed as to a lamp shin -- ing in a dark place, un -- til the day dawns and the morn -- ing star ris -- es in your hearts.</singingstanza>
+    <singingstanza2>[skip43] un -- til the day dawns and the morn -- ing star ris -- es in your hearts.</singingstanza2>
+  </layout>
+  <links>
+    <link type="ref">2 Peter 1:19</link>
+  </links>
+  <music>
+    <midi location="ns" length="41">ns0419.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">And we have the prophetic word
+Made more firm, to which you do well
+To give heed as to a lamp
+Shining in a dark place,</stanza>
+    <stanza type="verse" number="">Until the day dawns
+And the morning star
+Rises in your hearts.
+(repeat)</stanza>
+  </lyrics>
+</hymn>

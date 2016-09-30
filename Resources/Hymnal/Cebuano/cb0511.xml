@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus lang ang mensahe ta</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA TANAN</category>
+  <numbers><cebuano num="511"/><chinese num="395"/><english num="511"/><german num="511"/><korean num="395"/><portuguese num="252"/><russian num="518"/><tagalog num="511"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - - 5_./( 4#_./) 5_./ | 1. 1. 1/( 7_./) 1/ | 2. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 1/( 7_./) 1/ (break) | 2.( 2.) 5_./( 6_./) 5_./ | 1. 1. 1/( 2/) 3/ | 4. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 7_./( 6_./) 7_./ (break) | 1.( 1.) (Chorus) 1/( 2/) 3/ | 4. 4. 4/( 3/) 2/ | 3. 3. 3/( 2/) 1/ | 2.( 2) 2/ 2/( 3/) 2/ (break) | 5.( 5.) 5_./( 6_./) 5_./ | 1.( 1) 1/ 1/ 2/ 3/ | 4. 6_.. 1/ 7_./ 6_./ | 5_.. 1. 7_./( 6_./) 7_./ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="511"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus lang ang mensahe ta,
+M'oy tema nato's tanan;
+Si Jesus lang ang ituboy,
+Si Jesus ray makita.</stanza>
+	<stanza type="chorus" number="">Si Jesus ra, S'ya ra gayud,
+Awiton ta sa tanan,
+Manluluwas ug Mananambal,
+Ginoo'g Haring moabot.</stanza>
+	<stanza type="verse" number="2">Si Jesus ray Manlul'was ta,
+Tanang sala giako N'ya,
+Pagkamatarung S'ya's dayon,
+S'yang kusog adlawng tanan.</stanza>
+	<stanza type="verse" number="3">Tigbalaang nagl'was nato,
+Sa sala'g kaugalingon,
+Kahupnganan's Esp'ritu N'ya,
+Magpuno's kasingkasing ta.</stanza>
+	<stanza type="verse" number="4">Si Jesus ray Mananambal ta,
+Nag-ayo's balatian;
+Kinabuhi'g pagkabanhaw,
+Maambitan gihapon.</stanza>
+	<stanza type="verse" number="5">Si Jesus ray atong Gahum,
+Gasa S'ya's Pentecostes;
+Ginhawai mi, O Jesus,
+Pun-a sa Espiritu.</stanza>
+	<stanza type="verse" number="6">Ug naghulat ta ni Jesus,
+Mamati sa tawag N'ya;
+Apan Jesus lang gihapon,
+S'ya ra gyud hangtud's dayon.</stanza>
+  </lyrics>
+</hymn>

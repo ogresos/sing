@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus 'ko'y Iyong sulyapan</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGKALIGTAS MULA SA SARILI</category>
+  <numbers><cebuano num="413"/><chinese num="311"/><english num="413"/><korean num="311"/><russian num="457"/><tagalog num="413"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus 'ko'y Iyong sulyapan
+Kasimplihan ay bigyan;
+Dukhain, pababain
+Kilanlin Ka'y naisin.</stanza>
+    <stanza type="verse" number="2">Sa sariling palalo
+Hidhid sa yamang, ako
+Pag-uyam at papuri
+Iwalay ang sarili.</stanza>
+    <stanza type="verse" number="3">Mayabang na sarili
+Lalo pang isantabi
+Sumuko sa Iyong gusto
+Sa paa Mo'y yumuko.</stanza>
+    <stanza type="verse" number="4">Matulad sa 'sang bata
+Lakas, dunong masira;
+Ang Iyong ilaw at lakas
+Masdan, lumakad wagas.</stanza>
+    <stanza type="verse" number="5">Pagod na kaluluwa
+Sa Iyo'y nagpapahinga;
+Kapayapaan ng Diyos
+'Ramdam dugong umagos.</stanza>
+    <stanza type="verse" number="6">Mamuhay na ganito
+Nagpupuri sa Iyo;
+Mamatay mang ganito
+Hosanna pa rin sa Iyo.</stanza>
+  </lyrics>
+</hymn>

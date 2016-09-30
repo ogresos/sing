@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>William</firstname>
+  <lastname/>
+  <email>waccardwell@gmail.com</email>
+  <password>$2y$10$4wo5tS2K6iLERuzlVEDWjuJrYMn0BJ1hrGHUh0mbcI3/ujkp15KOO</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>173.66.131.237</ipaddress>
+  <createdate>2013-02-10 21:40:45</createdate>
+  <lastupdateddate>2015-03-24 19:28:05</lastupdateddate>
+  <lastlogindate>2015-03-24 19:28:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="336">Jesus has loved me, wonderful Savior</fav>
+    <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+    <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+    <fav category="default" type="h" num="710">The days may yet grow darker</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="565">Under His wings I am safely abiding</fav>
+    <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+  </favourites>
+</user>

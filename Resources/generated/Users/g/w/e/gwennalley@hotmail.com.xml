@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Darla</firstname>
+  <lastname>Nalley</lastname>
+  <email>gwennalley@hotmail.com</email>
+  <password>$2y$10$cL9u7cR0pTBViky5iFp/ueGOpVwqJ3tQworNvkYLtizyEdk55.X.a</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>70.196.33.0</ipaddress>
+  <createdate>2013-02-21 10:10:04</createdate>
+  <lastupdateddate>2016-07-03 16:09:01</lastupdateddate>
+  <lastlogindate>2016-07-03 15:51:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+  </favourites>
+</user>

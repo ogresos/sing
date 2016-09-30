@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Windy</firstname>
+  <lastname>Jones</lastname>
+  <email>windybjones@gmail.com</email>
+  <password>$2y$10$BJd9VI/wQyN7UY.ka/qYhOn3clFw/srJX8FPLv/L0n7WklMIB43oe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>216.227.124.149</ipaddress>
+  <createdate>2015-11-07 11:17:12</createdate>
+  <lastupdateddate>2015-11-07 11:19:09</lastupdateddate>
+  <lastlogindate>2015-11-07 11:19:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

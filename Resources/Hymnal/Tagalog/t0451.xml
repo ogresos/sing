@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kumapit huwag magpumiglas</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAGBIBIGAY-DAAN SA PANGINOON</category>
+  <numbers><chinese num="343"/><english num="451"/><korean num="343"/><tagalog num="451"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from J. H. Stuart</author>
+  </creators>
+  <music>
+    <midiref type="h" num="451"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kumapit huwag magpumiglas,
+Mapapalakas;
+Pagpiglas, lungkot ang dala,
+Kapit, pahinga.</stanza>
+    <stanza type="verse" number="2">Pigilin sariling sikap,
+Hinto pagpiglas;
+Payapa ng Diyos matamo,
+Sa iyong pagsuko.</stanza>
+    <stanza type="verse" number="3">Na kay Hesus buong bigat,
+Sa 'kin nagligtas;
+Pag-ibig Niya ang umangkin,
+Ako'y alipin.</stanza>
+    <stanza type="verse" number="4">Ang sumunod at mamatay,
+May wagi't buhay;
+"Di aking layon kundi Iyo"
+Ang tagumpay ko.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Paul</firstname>
+<lastname>Garrett</lastname>
+<email>garrett3254@earthlink.net</email>
+<password>$1$rVFlBP3G$z3WEaK19GgfeBNlZ6bi9G1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>24.9.147.244</ipaddress>
+<createdate>2009-06-03 13:40:55</createdate>
+<lastupdateddate>2009-09-15 19:16:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I just keep calling, O Lord</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Name</category>
+  <numbers><chinese num="ts:235"/><english num="ns:201"/><vsb num="133"/></numbers>
+  <hymncode>561333333217</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | G - - - | Dm - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | F - - - | C/G - - - | Dm - G7 - | C - F/C - | C - - - | Dm - - - | G7 - - - | C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | F - - - | C/G - - - | Dm - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 5_. 6_. 1 | 3./ 3// 3./ 3//( 3) - | 0 3./ 3// 2 1 | 7_. - - - (break) | 0 5_. 6_. 1 | 4./ 4// 4./ 4//( 4) - | 0 4./ 4// 3 2# | 3 - - - (break) | 0 5_../ 5_.// 6_. 1 | 3./ 3// 3./ 3//( 3) - | 0 3./ 3// 2 1 | 4 - - - (break) | 0 4 4 4# | 5./ 5// 5./ 5//( 5) - | 0 4./ 4// 3 2 | 1 - - - (break) | 0 1./ 1// 7_. 1 | 2 - - - | 0 5./ 5// 6 5 | 3 - - - (break) | 0 1./ 1// 7_. 1 | 2 - - - | 0 5./ 5// 6 5 | 3 - - - (break) | 0 5_../ 5_.// 6_. 1 | 3./ 3// 3./ 3//( 3) - | 0 3./ 3// 2 1 | 4 - - - (break) | 0 4 4 4# | 5./ 5// 5./ 5//( 5) - | 0 4./ 4// 3 2 | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>I just keep call -- ing, "O Lord!" As I walk a -- long; I just keep call -- ing, "O Lord" And He gives a song. Though the storm clouds dark -- en the sky, O'er the up -- ward trail; I just keep call -- ing, "O Lord"; He will nev -- er fail. He's a faith -- ful friend, Such a faith -- ful friend; I can count on Him To the ver -- y end. Though the storm clouds dark -- en the sky, O'er the up -- ward trail; I just keep call -- ing, "O Lord" He will nev -- er fail.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0201.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I just keep calling, "O Lord!"
+As I walk along;
+I just keep calling, "O Lord"
+And He gives a song.
+Though the storm clouds darken the sky,
+O'er the upward trail;
+I just keep calling, "O Lord";
+He will never fail.
+He's a faithful friend,
+Such a faithful friend;
+I can count on Him
+To the very end.
+Though the storm clouds darken the sky,
+O'er the upward trail;
+I just keep calling, "O Lord"
+He will never fail.</stanza>
+  </lyrics>
+</hymn>

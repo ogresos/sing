@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Elias</firstname>
+    <lastname>Farias</lastname>
+    <email>elias.farias@gmail.com</email>
+    <password>uNM4CsKLEyAtnbvSNDO%2F5Q%3D%3D</password>
+    <gender>M</gender>
+    <country>br</country>
+    <ipaddress>187.38.126.136</ipaddress>
+    <createdate>2012-11-16 10:49:14</createdate>
+    <lastupdateddate>2012-11-16 11:49:39</lastupdateddate>
+    <lastlogindate>2012-11-16 11:34:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="889">By the blood of Christ the Victor</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="1028">Jesus is tenderly calling thee home</fav>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+        <fav category="default" type="h" num="959">Since Thy departure from Olivet's Mountain</fav>
+        <fav category="default" type="h" num="1071">Sinners Jesus will receive</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="1285">The faith which once for all was giv'n</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+    </favourites>
+</user>

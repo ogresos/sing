@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jonathan</firstname>
+    <lastname>Tien</lastname>
+    <email>jonathan.tien@gmail.com</email>
+    <password>$1$GLwpaOJA$jckd1.AebTE/kV79Jk.R3/</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>24.23.183.172</ipaddress>
+    <createdate>2009-02-02 19:17:17</createdate>
+    <lastupdateddate>2009-11-10 16:40:48</lastupdateddate>
+    <lastlogindate>2009-10-20 16:05:24</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+        <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+        <fav category="default" type="h" num="947">God's Kingdom today is a real exercise</fav>
+        <fav category="default" type="h" num="1199">God's intention in this universe is with humanity</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="205">Nothing can content me more</fav>
+        <fav category="default" type="ns" num="186">Now the Lord is the Spirit&amp;mdash;that's how</fav>
+        <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+        <fav category="default" type="h" num="1112">Oh, how glorious is Thy table, Lord</fav>
+        <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+        <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+        <fav category="default" type="h" num="1248">Recall how David swore</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="ns" num="268">Search me, O God, and know my heart</fav>
+        <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+        <fav category="default" type="ns" num="185">The spirit of the prophet</fav>
+        <fav category="default" type="ns" num="208">There are three kinds of life in our existence today</fav>
+    </favourites>
+</user>

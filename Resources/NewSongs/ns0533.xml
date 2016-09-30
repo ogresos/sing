@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When I grow up</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For God as Life</category>
+  <hymncode>333333333324</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | C - - - | A7 - - - | Dm7 - - - | G - - - | C - Am - | Dm - G7 - | C - Am - | Dm - G7 - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | C - - - | A7 - - - | Dm7 - - - | G - - - | C - - - | C - - - | F - - - | G - - - | F - G - | C - - - | E - - - | E7 - - - | F - - - | G7 - - - |</chords>
+  <melody>| 0 3 3 3 | 3 3 3/ 3/ 3/ 3/ | 3. 2/( 2) 4( | 4) - - - (break) | 0. 5/ 5/ 5/ 5 | 5 5 5/ 5. | 5 - 6 6/( 5/)( | 5) - - 0/ 7/ (break) | ._1/ ._1/ 7 6/ 5. | 6 - - - | 0 5/ 5/ 5. 5/ | 6 5 4/( 3/)( 3/)( 4/)( (break) | 4) 5/ 4/( 4/)( 4/) 3/ 2/( | 2) - 3 - | 1 3/ 3/ 6_./ 6_./ 3/ 2/( (break) | 2/) 2/ 4/ 4/ 3/ 3/ 2 | 1/ 1/ 3/ 3/ 6_. 3/ 3/ | 2 4/ 1/ 3/ 1/ 2 (break) | 0 3 3 3 | 3 3 3/ 3/ 3/ 3/ | 3. 2/( 2) 4( | 4) - - - (break) | 0. 5/ 5/ 5/ 5 | 5 5 5/ 5. | 5 - 6 6/( 5/)( | 5) - - 0/ 7/ (break) | ._1/ ._1/ 7 6/ 5. | 6 - - - | 0 5/ 5/ 5. 5/ | 6 5 4/( 3/)( 3/)( 4/)( (break) | 4) 5/ 4/( 4/)( 4/) 3/ 2/( | 2) - 3 - | 1( - - - | 1) - - 0 (break) | 0/ 4/ 6/ 6/ ._1 ._1 | 0 7/ 6/ 5. 3/ | 4 6 5 5/ 5/( | 5) - - 0/ 3/ (break) | 3 3 5# 5# | 7/ 7/( 7/) 7/( 7.) 3/ | ._1 6 7 6/ 6/ | 5/ 5/ 4/ 4/ 3/ 3/ 2 |</melody>
+  <layout>
+    <singingstanza end="-1">When I grow up, I want to be a man of God. I want to be some -- one who is full of life. I want to be some -- one who loves the Lord, And so I choose to be a man of God. There is noth -- ing else in the world I'd ra -- ther be, There is noth -- ing else in the world that I'd ra -- ther be. When I grow up, I want to be a man of God. I want to be some -- one who is full of life. I want to be some -- one who loves the Lord, And so I choose to be a man of God. And e -- ven though I'm still a kid, The choice is clear to me. A man of God is what I am&amp;mdash; A man of God, that's ex -- act -- ly what I want to be.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="74">ns0533.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">When I grow up, I want to be a man of God.
+I want to be someone who is full of life.
+I want to be someone who loves the Lord,
+And so I choose to be a man of God.
+There is nothing else in the world I'd rather be,
+There is nothing else in the world that I'd rather be.</stanza>
+    <stanza type="verse" number="">When I grow up, I want to be a man of God.
+I want to be someone who is full of life.
+I want to be someone who loves the Lord,
+And so I choose to be a man of God.</stanza>
+    <stanza type="verse" number="">And even though I'm still a kid,
+The choice is clear to me.
+A man of God is what I am&amp;mdash;
+A man of God, that's exactly what I want to be.</stanza>
+  </lyrics>
+</hymn>

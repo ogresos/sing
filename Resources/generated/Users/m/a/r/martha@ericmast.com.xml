@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Martha</firstname>
+  <lastname>Mast</lastname>
+  <email>martha@ericmast.com</email>
+  <password>$2y$10$34peCD7.LsstcHUQB5boMut9s.gZFNirTsDMHhyuxyhDooAZI3bu2</password>
+  <gender/>
+  <country/>
+  <ipaddress>24.6.255.122</ipaddress>
+  <createdate>2014-08-10 03:01:29</createdate>
+  <lastupdateddate>2014-08-10 03:02:21</lastupdateddate>
+  <lastlogindate>2014-08-10 03:02:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

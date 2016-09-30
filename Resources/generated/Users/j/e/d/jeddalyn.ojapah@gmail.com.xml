@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeddalyn</firstname>
+  <lastname>Ojapah</lastname>
+  <email>jeddalyn.ojapah@gmail.com</email>
+  <password>$2y$10$8yU6An3mj3MYX3NNHE2mkumzyPu7wXS6rCGH1ABql.F5arBX0XwVu</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>90.219.29.37</ipaddress>
+  <createdate>2016-03-22 16:12:48</createdate>
+  <lastupdateddate>2016-03-23 20:07:29</lastupdateddate>
+  <lastlogindate>2016-03-22 16:13:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+  </favourites>
+</user>

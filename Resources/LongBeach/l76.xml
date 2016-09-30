@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>That's Why I Love Him</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Redemption</category>
+  <numbers><chinese num="ts:341"/><english num="lb:76"/><lsmyp num="291"/><vsb num="27"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>51352165135216</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | F - - - | C - - - | F - - - | C/G - - - | G - - - | F/A - - - | G/B - - - | C - - - | F - - - | C - - - | F - - - | C - - - | F - - - | C/G - - - | G - - - | F/A - - - | G/B - - - | C - - - | C - - - | Dm - - - | G - - - | Dm - - - | G - - - | C - G/B - | Am - - - | Am - - - | Am - - - | Em - - - | F - - - | Dm - G7 - | C - - - | Am - - - | Dm - - - | Dm - - - | G - G7 - | C - - - | C7 - - - | F - - - | G - G7/F - | Em - - - | Am - C/G - | F - Dm - | G - G7 - | C - - - | C7 - - - | G - G7 - | F/C - - - | C - - - |</chords>
+  <melody>| 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - (break) | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. 1/ 1/ | 3 - - 4/( 3/) | 2 - - 3/( 2/) | 1 - - 2 | 2 - - - (break) | (Verse_2) 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. - (break) | 0 5_./ 1/ 3 5 | 0 2/ 1/ 6_. 1/ 1/ | 3 - - 4/ 3/ | 2 - - 3/( 2/) | 1 - - 2 | 2 - - - (break) | (Verse_3) 1( - - - | 1) 3 4 5 | 4 - 3 - | 2 - - - | 2( - - - | 2) 2 3 4 | 3 - 2 - | 1 - - - (break) | 6( - - - | 6) 6 7 ._1 | 7 - 5 3 | 6( - - - | 6) 6 5 4 | 5( - - - (break) | 5) 5 4 3 | 4( - - - | 4) 4 3 2 | 5_. - 7_. - | 1 - - - (break) | (Chorus) 0 3 4 5 (startrepeat) | 6 - - - | 2 - {2 3 4} | 5 - - 6 | 1 - {1 2 3} | 4. 4/ 4. 3/ (break) | (alt1) 3/( 2.)( 2) 1 | 3/( 5/)( 5) - - | 0 3 4 5 | (alt2) 3/( 2.)( 2) 1/( 7_./) | 1( - - - | 1) - - 0 (endalt) |</melody>
+  <layout>
+    <singingstanza end="-1">What a -- bout my sin -- ful past? And my con -- science has no rest. Deep with -- in I feel the pain. I'm con -- demned from all my guilt -- y stains. O my life of mis -- e -- ry, In the world of van -- i -- ty, As I searched for hap -- pi -- ness, My re -- ward I re -- ceived just emp -- ti -- ness. God was far a -- way from me, Great and high -- est One is He. Yet You took on hu -- man -- i -- ty. You came for me, Hung on a tree, Bled there to die for me. That's why I love Him. That's why I trea -- sure Him. That's why I give my life and all to Him. That's why I all to Him.</singingstanza>
+    <globalstaffsize>14.5</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="150">lb76.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What about my sinful past?
+And my conscience has no rest.
+Deep within I feel the pain.
+I'm condemned from all my guilty stains.</stanza>
+    <stanza type="verse" number="2">O my life of misery,
+In this world of vanity,
+As I searched for happiness,
+My reward I received just emptiness.</stanza>
+    <stanza type="verse" number="3">God was far away from me,
+Great and highest One is He.
+Yet You took on humanity.
+You came for me,
+Hung on a tree,
+Bled there to die for me.</stanza>
+    <stanza type="chorus" number="">That's why I love Him.
+That's why I treasure Him.
+That's why I give my life and all to Him.
+That's why I love Him.
+That's why I treasure Him.
+That's why I give my life and all to Him.</stanza>
+  </lyrics>
+</hymn>

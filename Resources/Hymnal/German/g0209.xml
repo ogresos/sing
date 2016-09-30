@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Denk ich an Jesus fließt der Dank</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Zufriedengestellt mit Ihm</category>
+  <numbers><cebuano num="209"/><chinese num="171"/><english num="209"/><german num="209"/><korean num="171"/><portuguese num="110"/><russian num="40"/><tagalog num="209"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Translated from Bernard of Clairvaux</author>
+	<author biodate="1814-1878" biolink="">Translated by Edward Caswall</author>
+  </creators>
+  <melody>| 3 3 3 | 2 - 3 | 4 - 7_. | 1 - - | 5_. 5_. 5_. | 3 - 2 | 2 - - (break) | 4 4 3 | 2 - 1 | 7_. - 6_. | 5_. - - | 5_. 6_. 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Denk ich an Je -- sus fließt der Dank In mei -- nem Her -- zen reich; Sü -- ßer noch ists bei Dir zu sein, Ru -- hen bei Dir zu -- gleich.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="209"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Denk ich an Jesus fließt der Dank
+In meinem Herzen reich;
+Süßer noch ists bei Dir zu sein,
+Ruhen bei Dir zugleich.</stanza>
+	<stanza type="verse" number="2">Süßeres niemand denken kann,
+Und gar nichts Schöner klingt
+Als Dein geliebter Name, Herr, 
+Rettung der Menschheit bringt!</stanza>
+	<stanza type="verse" number="3">Hoffnung fürs reuevolle Herz,
+Freude dem Sanften gibst,
+Gütig bist Du mit dem, der fällt!
+Den, der Dich sucht, so liebst!</stanza>
+	<stanza type="verse" number="4">Nichts Deine Liebe schildern kann, 
+Wenn jemand, Dich, Herr, fand;
+Denn Jesu Liebe kennt nur der, 
+Der sich mit Dir verband.</stanza>
+	<stanza type="verse" number="5">Jesus, der Quell vom Leben, Licht
+Und auch vom Feuer bist,
+Mehr als wir bitten, tust Du, Herr,
+Freude reich überfließt.</stanza>
+	<stanza type="verse" number="6">Kein andrer Quell wie Du uns stillt,
+Macht unsre Seele frei;
+Bist unerschöpflich, ewiglich,
+Trockenheit ist vorbei.</stanza>
+	<stanza type="verse" number="7">Du nur sollst unsre Freude sein,
+Und unsre Herrlichkeit;
+Du bist der schönste Lohn für uns,
+Jetzt und in Ewigkeit.</stanza>
+  </lyrics>
+</hymn>

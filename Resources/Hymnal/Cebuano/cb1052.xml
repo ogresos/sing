@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nahilayo ako sa Dios</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;MODUOL SA GINOO</category>
+  <numbers><cebuano num="1052"/><chinese num="728"/><english num="1052"/><french num="203"/><german num="1052"/><korean num="728"/><portuguese num="461"/><russian num="176"/><spanish num="484"/><tagalog num="1052"/></numbers>
+  <creators>
+	<author biodate="1838-1921" biolink="">Translated from William James Kirkpatrick</author>
+  </creators>
+  <melody>| 0 - - 5 | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._3/ ._3. | ._2 - - 5 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 (break) | (Chorus) ._3/ ._3. ._1 - | ._1/ ._1. 6 - | 5 ._3 ._3 ._1 | ._2 - - 0 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1052"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nahilayo ako sa Dios,
+Karon mouli;
+Dugay nang nagpakasala,
+Karon mouli.</stanza>
+	<stanza type="chorus" number="">Mouli, mouli,
+Di na maglaag;
+Buksing bukton Mo's gugma;
+Mouli na ko.</stanza>
+	<stanza type="verse" number="2">Giusikang mga tuig,
+Karon mouli;
+Maghinulsol uban's luha,
+Ako mouli.</stanza>
+	<stanza type="verse" number="3">Gikapoy's sala'g paglaag,
+Karon mouli;
+Mosalig ko sa gugma Mo;
+Ako mouli.</stanza>
+	<stanza type="verse" number="4">Kalag nasakit, guol gyud,
+Karon mouli;
+Bag-ohang kusog, paglaum:
+Ako mouli.</stanza>
+	<stanza type="verse" number="5">Bugtong hangyo'g paglaum ko,
+Karon mouli;
+Namatay Ka alang nako;
+Ako mouli.</stanza>
+	<stanza type="verse" number="6">Gikin'hanglan kong dugo N'ya,
+Karon mouli;
+Putia ko labaw's nieve;
+Ako mouli.</stanza>
+  </lyrics>
+</hymn>

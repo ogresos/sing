@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Danette</firstname>
+  <lastname>Besley</lastname>
+  <email>jdbesley@na-mail.com</email>
+  <password>$2y$10$mdwLFwSp8Ee1Q5bxjJM7GOhmf83cX.GycppcB8Gf/0Fnnna7wNO.u</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>191.96.49.66</ipaddress>
+  <createdate>2016-03-21 10:05:01</createdate>
+  <lastupdateddate>2016-03-21 10:07:32</lastupdateddate>
+  <lastlogindate>2016-03-21 10:05:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="551">I've believed the true report</fav>
+  </favourites>
+</user>

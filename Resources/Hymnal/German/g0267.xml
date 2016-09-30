@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Füll mich mit dem Geist der Gnade</title>
+  <index>true</index>
+  <category>FÜLLE DES GEISTES&amp;mdash;Das Erfüllen</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="267"/><french num="46"/><german num="267"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="267"/></numbers>
+  <creators>
+	<author biodate="1815-1895" biolink="">Translated from Elwood Haines Stokes</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <layout>
+	<singingstanza>Füll mich mit dem Geist der Gna -- de, Mei -- nen Geist er -- füll stets mehr; Füll mit Dei -- ner Ge -- gen -- wart mich, Komm und füll mich, liebs -- ter Herr. Füll mich jetzt! Füll mich jetzt!  Füll mich nun mit Dei -- nem Geist! Mich ent -- lee -- re, Dir zur Eh -- re, Füll mich nun mit Dei -- nem Geist!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Füll mich mit dem Geist der Gnade,
+Meinen Geist erfüll stets mehr;
+Füll mit Deiner Gegenwart mich,
+Komm und füll mich, liebster Herr.</stanza>
+	<stanza type="chorus" number="">Füll mich jetzt! Füll mich jetzt! 
+Füll mich nun mit Deinem Geist!
+Mich entleere, Dir zur Ehre,
+Füll mich nun mit Deinem Geist!</stanza>
+	<stanza type="verse" number="2">Du allein nur kannst mich füllen
+Über Bitten und Verstehn;
+Herr, ich brauch Dich, brauch Dich wirklich;
+„Komm und füll mich!“ ist mein Flehn.</stanza>
+	<stanza type="verse" number="3">Bin zerbrechlich, voller Schwachheit,
+Sitz vor Dir und glaub an Dich;
+Segne mich durch Deinen Geist, Herr,
+Komm, mit Deiner Kraft füll mich.</stanza>
+	<stanza type="verse" number="4">Rett und tröste, wasch und heile;
+Den zerbrochnen Geist erfüll!
+Du ermutigst und errettest,
+Süß mit Dir mich nun umhüll.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>elaine</firstname>
+    <lastname>weaver</lastname>
+    <email>mayiscool1@gmail.com</email>
+    <password>$1$N04kJ0M8$b9i5ExxHlIHrJjJK48rnl0</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>66.232.253.26</ipaddress>
+    <createdate>2009-08-14 11:35:34</createdate>
+    <lastupdateddate>2010-05-10 12:08:28</lastupdateddate>
+    <lastlogindate>2010-05-10 12:08:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="724">A little bird I am</fav>
+        <fav category="default" type="h" num="1291">At the end of Luke's gospel, chapter twenty and two</fav>
+        <fav category="default" type="ns" num="55">Call, call, won't you call Jesus' name</fav>
+        <fav category="default" type="ns" num="183">Christ is a genuine man</fav>
+        <fav category="default" type="c" num="8">D-A-V-I-D</fav>
+        <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+        <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="c" num="61">God is light, and in Him there is no darkness at all</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+        <fav category="default" type="c" num="2">Let the glory of the Lord endure forever</fav>
+        <fav category="default" type="ns" num="110">Life's too short</fav>
+        <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+        <fav category="default" type="nt" num="1299">Man's Creator has a purpose</fav>
+        <fav category="default" type="c" num="163">Now unto the King eternal, immortal, invisible</fav>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+        <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+        <fav category="default" type="ns" num="153">Thy word is sweet unto my taste</fav>
+        <fav category="default" type="h" num="1318">Twas a day in early springtime</fav>
+        <fav category="default" type="c" num="116">Wonderful, Wonderful</fav>
+    </favourites>
+</user>

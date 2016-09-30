@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>McGee</lastname>
+  <email>dmcgee@ntl.sympatico.ca</email>
+  <password>$2y$10$BCNWppxSM5sMSNC5pxvmG.g/HZtcapG04zjIwbDTy2QUJB7WiLnP6</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>208.101.69.198</ipaddress>
+  <createdate>2016-01-14 17:07:17</createdate>
+  <lastupdateddate>2016-01-14 17:10:09</lastupdateddate>
+  <lastlogindate>2016-01-14 17:10:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

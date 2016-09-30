@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Un hombre de noche llegó a Jesús</title>
+  <index>true</index>
+  <category>El evangelio&amp;mdash;La regeneración</category>
+  <numbers><cebuano num="1019"/><chinese num="692"/><english num="1019"/><korean num="692"/><russian num="439"/><spanish num="475"/></numbers>
+  <creators>
+    <author biodate="1819-1904" biolink="">Translated from William True Sleeper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1019"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Un hombre de noche llegó a Jesús,
+Buscando la senda de vida͜ y de luz;
+Y Cristo le dijo: "Para͜ el Reino ver,
+Tendrás que renacer"</stanza>
+    <stanza type="chorus" number="">"¡Tendrás que renacer!"
+"¡Tendrás que renacer!"
+"De cierto, de cierto te digo a ti:
+¡Tendrás que renacer!"</stanza>
+    <stanza type="verse" number="2">Oh, hombre, no debes jamás desechar
+Las serias palabras de Cristo͜ en Su hablar,
+Porque si no quieres tu alma perder,
+Tendrás que renacer.</stanza>
+    <stanza type="verse" number="3">Si hoy tú quisieras al Reino entrar,
+Y con los benditos en gloria͜ exultar,
+Si vida͜ eternal tú quisieras tener,
+Tendrás que renacer.</stanza>
+  </lyrics>
+</hymn>

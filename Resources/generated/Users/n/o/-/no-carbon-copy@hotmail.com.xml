@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Victor</firstname>
+<lastname>Atex</lastname>
+<email>no-carbon-copy@hotmail.com</email>
+<password>$1$11WgaMJj$l.Fje5z6e9rIzlRY/sIUC.</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>217.44.109.213</ipaddress>
+<createdate>2008-07-26 01:43:15</createdate>
+<lastupdateddate>2009-09-15 18:22:16</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

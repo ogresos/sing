@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abba Father</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Love</category>
+  <numbers><english num="lb:45"/><lsmyp num="6"/><vsb num="81"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>11112173333432</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G7 - - - |</chords>
+  <melody>| 1 - - 1 | 1 - - 1 | 2 - - 1 | 7_. - - - | 3 - - 3 | 3 - - 3 | 4 - - 3 | 2 - - - (break) | (Chorus) 5 - - - | 1 - - - | 4 - - - | 7_. - - - | 3 - - - | 6_. - - - | 2 - - - | 5_. - - - |</melody>
+  <layout>
+    <singingstanza>Ab -- ba, Fa -- ther, hear our cry, Min -- gled spir -- it deep with -- in. Ab -- ba, Fa -- ther, Ab -- ba, Fa -- ther.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="39">lb45.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Abba, Father, hear our cry,
+Mingled spirit deep within.</stanza>
+    <stanza type="chorus" number="">Abba, Father,
+Abba, Father.</stanza>
+    <stanza type="verse" number="2">Thank You, Father, for sending Him;
+The Spirit of Your Son Who cries within.</stanza>
+    <stanza type="verse" number="3">Oh! How sweet is Abba's Name
+From our spirit through our heart.</stanza>
+    <stanza type="verse" number="4">Every moment this mingled cry;
+To Your Beloved we're joined thereby.</stanza>
+    <stanza type="verse" number="5">Day by day, this cry so new;
+In Your Son we come back to You.</stanza>
+    <stanza type="verse" number="6">In Your bosom here we'll stay,
+In Your Son and never stray.</stanza>
+  </lyrics>
+</hymn>

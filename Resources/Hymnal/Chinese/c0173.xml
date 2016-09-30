@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們照你恩惠話語</title>
+  <index>true</index>
+  <category>讚美主－對祂的記念</category>
+  <numbers><cebuano num="214"/><chinese num="173*"/><english num="214*"/><korean num="173*"/><portuguese num="114"/><tagalog num="214"/></numbers>
+  <creators>
+	<author biodate="1771-1854" biolink="">Translated from James Montgomery</author>
+  </creators>
+  <melody>| 0 - 1/( 2/) | 3 - 2 | 1 - 7_. | 7_. - 6_. | 6_. - 2/( 3/) | 4 - 3 | 2 - 1 | 1( - - (break) | 7_.) - 5_. | 3 - 2 | 4 - 3 | 6 - 3 | 5( 4) 2 | 1 - 5_. | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 照 你 恩 惠 話 語， 帶 著 謙 卑 心 意， 受 死 的 主， 我 們 會 聚， 現 今 來 記 念 你。</singingstanza>
+  </layout>
+  <date>1851</date>
+  <music>
+	<midiref type="h" num="214"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們照你恩惠話語，
+帶著謙卑心意，
+受死的主，我們會聚，
+現今來記念你。</stanza>
+	<stanza type="verse" number="2">你的身體為我裂開，
+要成我的供給；
+我今舉起立約杯來，
+為的是記念你。</stanza>
+	<stanza type="verse" number="3">能否我忘客西馬尼，
+或看你的孤寂、
+你的血汗和你哭泣，
+而不來記念你？</stanza>
+	<stanza type="verse" number="4">當我轉眼看十字架，
+看你在髑髏地，
+神的羔羊，我的救法，
+我必須記念你。</stanza>
+	<stanza type="verse" number="5">記念你和你的苦痛、
+和你對我愛意，
+一息尚存、一脈尚動，
+我必定記念你。</stanza>
+	<stanza type="verse" number="6">當我漸衰，嘴脣無音，
+思想、記憶軟弱，
+當你在你國度降臨，
+主，求你記念我。</stanza>
+  </lyrics>
+</hymn>

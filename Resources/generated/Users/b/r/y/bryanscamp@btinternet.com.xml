@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Bryan</firstname>
+    <lastname>Scamp</lastname>
+    <email>bryanscamp@btinternet.com</email>
+    <password>3aDaIrmDVA5Ipgf4oDiAZA%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>86.155.204.222</ipaddress>
+    <createdate>2013-02-16 12:31:21</createdate>
+    <lastupdateddate>2013-02-16 20:43:02</lastupdateddate>
+    <lastlogindate>2013-02-16 20:41:29</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+        <fav category="default" type="h" num="528">The King of love my Shepherd is</fav>
+        <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+    </favourites>
+</user>

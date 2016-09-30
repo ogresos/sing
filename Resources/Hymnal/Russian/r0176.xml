@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Я был от Бога вдалеке</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ПРИХОД К ГОСПОДУ</category>
+  <numbers><cebuano num="1052"/><chinese num="728"/><english num="1052"/><french num="203"/><german num="1052"/><korean num="728"/><portuguese num="461"/><russian num="176"/><spanish num="484"/><tagalog num="1052"/></numbers>
+  <creators>
+	<author biodate="1838-1921" biolink="">Translated from William James Kirkpatrick</author>
+  </creators>
+  <melody>| 0 - - 5 | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._3/ ._3. | ._2 - - 5 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 (break) | (Chorus) ._3/ ._3. ._1 - | ._1/ ._1. 6 - | 5 ._3 ._3 ._1 | ._2 - - 0 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Я был от Бо -- га вда -- ле -- ке, Но и -- ду до -- мой.  Как дол -- го я блуж -- дал в_гре -- хе!  Я и -- ду до -- мой. О Гос -- подь, я и -- ду, Я и -- ду до -- мой!  О Гос -- подь, встре -- чай ме -- ня!  Я и -- ду до -- мой.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1052"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Я был от Бога вдалеке,
+Но иду домой.
+Как долго я блуждал в грехе!
+Я иду домой.</stanza>
+	<stanza type="chorus" number="">О Господь, я иду,
+Я иду домой!
+О Господь, встречай меня!
+Я иду домой.</stanza>
+	<stanza type="verse" number="2">Впустую много лет прошло,
+Но иду домой.
+в слезах раскаянье пришло.
+Я иду домой.</stanza>
+	<stanza type="verse" number="3">Устав скитаться и грешить,
+Я иду домой.
+Доверюсь слову и любви,
+Я иду домой.</stanza>
+	<stanza type="verse" number="4">Болит душа, и в сердце боль.
+Я иду домой.
+Дай сил, надеяться позволь!
+Я иду домой.</stanza>
+	<stanza type="verse" number="5">Лишь упованием держусь,
+Я иду домой.
+Что умер за меня Иисус.
+Я иду домой!</stanza>
+	<stanza type="verse" number="6">Очищусь в крови я Твоей.
+Я иду домой.
+Омой, чтоб снега стал белей.
+Я иду домой!</stanza>
+  </lyrics>
+</hymn>

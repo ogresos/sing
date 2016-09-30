@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Steven</firstname>
+<lastname>Randall</lastname>
+<email>smplcntrymech@yahoo.com</email>
+<password>$1$0PakjH2S$MgsualxB.gmsuwBRbjtO40</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.126.130.49</ipaddress>
+<createdate>2009-08-17 21:07:55</createdate>
+<lastupdateddate>2009-09-15 19:17:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="262">Come, Lord, as the Spirit come</fav>
+        <fav category="default" type="h" num="755">He healeth me, oh, bless His name</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    </favourites>
+</user>

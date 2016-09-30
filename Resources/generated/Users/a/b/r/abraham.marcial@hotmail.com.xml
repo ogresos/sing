@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abraham</firstname>
+  <lastname>Macial</lastname>
+  <email>abraham.marcial@hotmail.com</email>
+  <password>$2y$10$0s5yaj92jD6nGLJXi8pXaOUUWv6qw11vor8DQSjZ/gz6LsS0xlk8q</password>
+  <gender/>
+  <country>mx</country>
+  <ipaddress>201.141.152.214</ipaddress>
+  <createdate>2016-02-22 02:21:09</createdate>
+  <lastupdateddate>2016-08-01 15:03:46</lastupdateddate>
+  <lastlogindate>2016-08-01 15:03:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+  </favourites>
+</user>

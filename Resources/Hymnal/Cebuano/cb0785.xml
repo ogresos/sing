@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ampong mapadayag S'ya</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;MAGPADAYAG SA GINOO</category>
+  <numbers><cebuano num="785"/><chinese num="567"/><english num="785"/><german num="785"/><korean num="567"/><russian num="285"/><tagalog num="785"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 2. 3/ | 4 2 3 - | 3 5 2. 3/ | 4 2 1 - (break) | 2 3 1. 2/ | 7_. 6_. 5_. - | 3 5 2. 3/ | 4 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="583"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ampong mapadayag S'ya,
+Di kitay mapadayag;
+Papadaygon ta's Cristo,
+Patagdon ta's tuyo N'ya.</stanza>
+	<stanza type="verse" number="2">Ampong mapadayag S'ya,
+Isulti gyung tuyo N'ya,
+Pangagpas ta hilomon,
+Masagol sa Iyaha.</stanza>
+	<stanza type="verse" number="3">Ampong mapadayag S'ya,
+Mohangad kanunay N'ya,
+Saming mopasumbalik's
+Himaya N'ya gikan's su'd.</stanza>
+	<stanza type="verse" number="4">Ampong mapadayag S'ya,
+Papangamuyoon S'ya;
+S'yang nagpuyo-ampo's su'd
+Ni Cristong naa's langit.</stanza>
+	<stanza type="verse" number="5">Ampong mapadayag S'ya,
+Di akoy tuo'g ampo;
+Ampong bug-os uban N'ya,
+Nga pina'gi ra gyud N'ya.</stanza>
+  </lyrics>
+</hymn>

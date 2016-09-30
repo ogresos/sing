@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>susan</firstname>
+  <lastname/>
+  <email>luvsusie@gmail.com</email>
+  <password>$2y$10$xbPOkXfizX78N4kHHjYEKOR8NbpK673jb4tWyHLNpe6AedQ3m0lLu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>96.232.32.191</ipaddress>
+  <createdate>2015-08-02 12:15:20</createdate>
+  <lastupdateddate>2015-08-04 20:45:26</lastupdateddate>
+  <lastlogindate>2015-08-04 19:51:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+    <fav category="default" type="ns" num="497">Begin the day with God</fav>
+    <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+    <fav category="default" type="nt" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="ns" num="157">Here a Little, There a Little</fav>
+    <fav category="default" type="h" num="1157">His banner over me is love</fav>
+    <fav category="default" type="lb" num="86">If we would love the Lord</fav>
+    <fav category="default" type="ns" num="110">Life's too short</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="c" num="117">Mathew, Mark and Luke and John</fav>
+    <fav category="default" type="ns" num="95">May my day be full of Christ</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

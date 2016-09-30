@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang himnong ito ay isinulat ng may-akda nang bagung-bago pa lamang</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA KALUGURAN NG PANGINOON</category>
+  <numbers><cebuano num="405"/><chinese num="308"/><english num="405"/><german num="405"/><korean num="308"/><russian num="257"/><spanish num="178"/><tagalog num="405"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 (break) | (Chorus) 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="405"/>
+  </music>
+  <lyrics>
+	<stanza type="chorus" number="">Ang himnong ito ay isinulat ng may-akda nang bagung-bago pa lamang
+siyang nakakita. Siya ay isinilang na bulag.</stanza>
+	<stanza type="verse" number="1">Nang makita mundong rilag,
+Nais muling mabulag;
+Baka mahal Niyang Presensya,
+Sa akin mawala pa.</stanza>
+	<stanza type="chorus" number="">Nang makita mundong rilag,
+Nais muling mabulag;
+Baka mahal Niyang Presensya,
+Sa akin mawala pa.</stanza>
+	<stanza type="verse" number="2">Bukang-liwayway at buwan,
+Sa paraiso tingnan;
+Sa lupa may Kanyang habag,
+Sa 'kin makasasapat.</stanza>
+	<stanza type="verse" number="3">Sa tinik ayaw lumaya,
+Dagdagan lamang b'yaya,
+Nasa l'ob ng tabing ako,
+Silayan ng glorya Mo.</stanza>
+	<stanza type="verse" number="4">Ganda Niya'y aking nakita,
+Sa pa'nampalataya;
+Mal'walhati Kanyang mukha,
+Bagama't Siya'y minata.</stanza>
+	<stanza type="verse" number="5">Araw at b'wan di ma'hambing,
+Maging sansinukob din;
+Sa l'walhating sumisilay
+Sa ulong nabayubay.</stanza>
+  </lyrics>
+</hymn>

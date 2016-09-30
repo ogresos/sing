@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bukal dumadaloy mula sa 'spiritu</title>
+  <index>true</index>
+  <category>PAGDARANAS SA DIYOS&amp;mdash;BILANG BUHAY</category>
+  <numbers><cebuano num="1191"/><chinese num="ts:410"/><english num="1191"/><german num="1191"/><portuguese num="310"/><russian num="117"/><spanish num="222"/><tagalog num="1191"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">Translated from R. K.</author>
+  </creators>
+  <melody>| 0 - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6 | 7. 6/ 5 | 4 5 4 | 3( - - (break) | 3) - 3/ 4/ | 5. 4#/ 6 | 5 - 5/ 5/ | 6. 5#/ 7 | 6 - 6/ 6/ | 7. 6/ 5 | ._4 ._3 ._2 | ._1( - - (break) | ._1) - (Chorus) 7/ ._1/ | ._2. ._2/ ._2 | ._2 ._1 7 | ._1( - - | ._1) - ._1/ 7/ | 6. 6/ 6 | ._1 7 6 | 5( - - (break) | 5) - 5/ ._1/ | ._3. ._3/ ._3 | ._3 ._4 ._3 | 6( - - | 6) - ._4/ ._4/ | ._3. ._2/ ._1 | 5 7 ._2 | ._1( - - | ._1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="618"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Bukal dumadaloy mula sa 'spiritu,
+Umagos Diyos Tres-uno;
+Ama'y pinagmulan, Kristong Anak gabay,
+Espiritu'y nagbigay-buhay.</stanza>
+	<stanza type="chorus" number="">Agos-buhay, pah'lagahan,
+Buhay-kalulwa'y bitiwan;
+Palalimin ang agos-buhay,
+Pagdating Mo, putong mataglay.</stanza>
+	<stanza type="verse" number="2">Sa lunting pastulan, ako'y pinahiga,
+Sa batis ako'y dinala;
+Walang pagpumiglas, walang sar'ling-sikap,
+Sa agos, pala 'king natanggap.</stanza>
+	<stanza type="verse" number="3">Sa kabanal-banal ako'y tinawag Niya,
+Mamuhay sa presensya Niya;
+Manatili ako sa Kanya, sabi Niya,
+'Pagka't Siya'ng puno, ako'y sanga.</stanza>
+  </lyrics>
+</hymn>

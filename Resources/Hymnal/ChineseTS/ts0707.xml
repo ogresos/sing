@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>何喜樂</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:707"/><english num="6707"/></numbers>
+  <melody>| 5. 6/ 3 - | 2./ 1// 1/ 6_./ 1 0 (break) | 5. 6/ 3 1 | 2/ 2/ 2/ 3/ 2. 3/ (break) | 5. 6/ 5 3 | 2./ 1// 1/ 6_./ 1 1/ 2/ (break) | 3./ 3// 3/ 3/ 2// 2./ 3/ 2/ | 1 - - 0 ||</melody>
+  <layout>
+	<singingstanza>何 喜 樂， 神 的 眾 兒 女， 在 家 裡 主 面 前 同 歡 聚， 同 述 說 蒙 主 奇 恩 的 故 事， 靈 裡 高 昂 引 聲 頌 揚 永 不 止。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="6707"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何喜樂，神的眾兒女，
+在家裡主面前同歡聚，
+同述說蒙主奇恩的故事，
+靈裡高昂
+引聲頌揚永不止。</stanza>
+  </lyrics>
+</hymn>

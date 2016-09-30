@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kenny</firstname>
+  <lastname>Baker</lastname>
+  <email>pastorkennybaker@gmail.com</email>
+  <password>$2y$10$fjyrampSciNX4kVMjlV4veMhBw27qs64LZmvDH0Z.9/niUQkPy.Bq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.44.21.224</ipaddress>
+  <createdate>2014-07-08 15:56:12</createdate>
+  <lastupdateddate>2014-07-08 16:12:44</lastupdateddate>
+  <lastlogindate>2014-07-08 16:12:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

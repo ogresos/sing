@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang buot Mo tumana, Jesus</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;MAGPASAKOP SA GINOO</category>
+  <numbers><cebuano num="449"/><chinese num="344"/><english num="449"/><korean num="344"/><portuguese num="206"/><russian num="516"/><spanish num="193"/><tagalog num="449"/></numbers>
+  <creators>
+    <author biodate="1862-1934" biolink="">Translated from Adelaide Addison Pollard</author>
+  </creators>
+  <music>
+    <midiref type="h" num="449"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ang buot Mo tumana, Jesus,
+Magkokolon Ka, kolonon ko;
+Umola ingon sa buot Mo,
+Samtang naghulat ako's hilom.</stanza>
+    <stanza type="verse" number="2">Ang buot Mo tumana Jesus,
+Kasingkasing ko susihon Mo.
+Hugasi, putia pa's nieve,
+Samtang maubsanong nagyukbo.</stanza>
+    <stanza type="verse" number="3">Ang buot Mo tumana, Jesus,
+Samdan, gikapoy, tabangi ko.
+Ikaw gamhanan sa ngatanan,
+Hikapa ako ug ayoha.</stanza>
+    <stanza type="verse" number="4">Ang buot Mo tumana, Jesus,
+Ikawng magbuot's akong lihok,
+Pun-a's Espiritu'g pakit-a,
+Si Cristo lamang ang mabuhi.</stanza>
+  </lyrics>
+</hymn>

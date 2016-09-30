@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>james</firstname>
+<lastname>Richard</lastname>
+<email>jamesrichard2007@yahoo.com</email>
+<password>$1$6I9mc9qO$XR4U2SvIvaLPK5pXJBara1</password>
+<gender>M</gender>
+<country>Kenya</country>
+<ipaddress>212.49.89.126</ipaddress>
+<createdate>2008-07-26 01:43:07</createdate>
+<lastupdateddate>2009-09-15 18:24:04</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+        <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+    </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou hast won, at length I yield</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><english num="nt:434"/><vsb num="195"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+    <composer biodate="" biolink="" fullname="John Berglund">J. B.</composer>
+  </creators>
+  <hymncode>5543443231</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - - - | C - - - | F/C - - - | C - - - | C - - - | C - - - | F - - - | C/G - - - | G - - - | C - C/E - | F - - - | C/E - - - | F - - - | C/G - - - | G - - - | G7 - - - |</chords>
+  <melody>| 0 - - 5_. | 5 - - 4/( 3/) | 4( - 4/) 4/ 3/ 2/ | 3/( 1/)( 1)( - - (break) | 1) - - 5_. | 5 - - 4/( 3/) | 4( - 4/) 4/ 3/ 2/ | 1. 1/ 1/ 2/ 3/ 1/ (break) | 2 - - 5_. | 1 1 1 1 | 2 1/ 1/( 1.) 5_./ | 1 1 1 1 (break) | 2 1/ 1/( 1)( - | 1.) 1/ 1/ 2/ 3/ 4/ | 5( - - - | 5) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, Thou hast won, at length I yield; My heart by might -- y grace com -- pelled Sur -- ren -- ders all to Thee; A -- gainst Thy ter -- rors long I strove, But who can stand a -- gainst Thy love? Love con -- quers e -- ven me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="relevant" category="h" num="434"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="39">e0434_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Thou hast won, at length I yield;
+My heart by mighty grace compelled
+  Surrenders all to Thee;
+Against Thy terrors long I strove,
+But who can stand against Thy love?
+  Love conquers even me.</stanza>
+    <stanza type="verse" number="2">If Thou hadst bid Thy thunders roll,
+And light'nings flash, to blast my soul,
+  I still had stubborn been;
+But mercy has my heart subdued,
+A bleeding Savior I have viewed,
+  And now I hate my sin.</stanza>
+    <stanza type="verse" number="3">Now, Lord, I would be Thine alone,
+Come, take possession of Thine own,
+  For Thou hast set me free;
+Released from Satan's hard command,
+See all my powers waiting stand,
+  To be employed by Thee.</stanza>
+  </lyrics>
+</hymn>

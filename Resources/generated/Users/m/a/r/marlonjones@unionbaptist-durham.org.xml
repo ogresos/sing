@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>marlon</firstname>
+<lastname>jones</lastname>
+<email>marlonjones@unionbaptist-durham.org</email>
+<password>$1$/BYx0y5w$JXM/SlJZU0wCkNwo8yVge/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.111.255.194</ipaddress>
+<createdate>2008-09-25 18:10:19</createdate>
+<lastupdateddate>2009-09-15 18:25:57</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+    </favourites>
+</user>

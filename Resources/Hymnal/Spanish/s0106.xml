@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come el pan, oh pueblo del Señor</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;En memoria de El</category>
+  <numbers><cebuano num="1108"/><chinese num="ts:621"/><english num="1108"/><german num="1108"/><korean num="982"/><russian num="407"/><spanish num="106"/><tagalog num="1108"/></numbers>
+  <melody>| 0 - - 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 7_. 5_. (break) | 1 2 3 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 1/ 7_./ 6_./ 7_./ (break) | 1 - - (Chorus) 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5( - 5/) 0/ 3/ 5/ | 4. 2/ 7_. 4 (break) | 3( - 3/) 0/ 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5 - - 3/ 4/ | 5 5 6 7/( ._1/) | 7 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1108"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Come͜ el pan, oh pueblo del Señor,
+Alabad Su nombre͜ en unidad.
+Hoy venimos para͜ así comer
+Con la͜ iglesia de Su heredad.</stanza>
+	<stanza type="chorus" number="">¡Con el vino come de͜ este pan!
+Somos uno siempre͜ en El.
+Sobre el terreno firme͜ estad
+Hoy en la localidad.</stanza>
+	<stanza type="verse" number="2">Bebe͜ el vino, pueblo del Señor,
+Somos la iglesia que͜ El compró;
+Redimidos para uno ser,
+Es la meta que͜ El siempre buscó.</stanza>
+	<stanza type="verse" number="3">Uno sed, oh pueblo del Señor,
+No seáis un grano͜ individual.
+Somos uno, amasados bien,
+Como͜ un pan en la localidad.</stanza>
+	<stanza type="verse" number="4">Somos uno,͜ oh pueblo del Señor,
+Declaramos hoy nuestra͜ unidad;
+Testifica lo que Dios obró;
+No palabras, sino re͡alidad.</stanza>
+	<stanza type="verse" number="5">Come͜ el pan, oh pueblo del Señor,
+Alabad Su nombre͜ en unidad.
+Hoy venimos para͜ así comer
+Con la͜ iglesia de Su heredad.</stanza>
+	<stanza type="note" number="">(No se repite el coro después de la última estrofa.)</stanza>
+  </lyrics>
+</hymn>

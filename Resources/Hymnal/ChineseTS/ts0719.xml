@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>新酒灌滿</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5535355454</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 與 偶 像， 不 再 有 關 涉， 基 督 是 我 們 惟 一 的 享 受！ 我 們 不 再 受 世 界 的 迷 惑， 召 會 是 我 們 實 際 的 生 活。 哦， 對 付 以 後， 何 等 的 享 受！ 高 山 上 滴 酒、 滴 酒、 滴 酒、 滴 甜 酒！ 哦！ 當 讚 美 主， 何 等 的 豐 富， 小 山 上 流 奶、 流 奶、 流 奶 子！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0719.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們與偶像，
+不再有關涉，
+基督是我們惟一的享受！
+我們不再受世界的迷惑，
+召會是我們實際的生活。</stanza>
+	<stanza type="chorus" number="">哦，對付以後，
+何等的享受！
+高山上滴酒、滴酒、
+滴酒、滴甜酒！
+哦！當讚美主，
+何等的豐富，
+小山上流奶、
+流奶、流奶子！</stanza>
+	<stanza type="verse" number="2">不再有形式，
+不再有老套，
+新酒灌滿了，
+自然有高潮！
+老年作異夢，
+少年見異象，
+有何比聚集，
+更令人嚮往？</stanza>
+	<stanza type="verse" number="3">活在靈裡面，
+恢復真是快，
+多年被喫去，
+統統補回來！
+人人都活躍，
+來供應基督─
+我們的聚集，
+越過越豐富。</stanza>
+  </lyrics>
+</hymn>

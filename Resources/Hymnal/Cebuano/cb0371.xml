@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gikinahanglan Ka</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MAKIG-AMBITAY NI CRISTO</category>
+  <numbers><cebuano num="371"/><chinese num="286"/><english num="371"/><korean num="286"/><portuguese num="186"/><tagalog num="371"/></numbers>
+  <creators>
+    <author biodate="1836-1918" biolink="">Translated from Annie Sherwood Hawks</author>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry, chorus</author>
+  </creators>
+  <music>
+    <midiref type="h" num="371"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gikinahanglan Ka,
+Maluloy-ong Jesus;
+Malomong tingog Mo,
+Kalinaw ko.</stanza>
+    <stanza type="chorus" number="">Akong gikinahanglan
+Sa tanang panahon;
+Panalangini karon,
+Ikaw duolon.</stanza>
+    <stanza type="verse" number="2">Gikinahanglan Ka,
+Pabilin kanako;
+Panulay way gahum
+Kon duol Ka.</stanza>
+    <stanza type="verse" number="3">Gikinahanglan Ka's
+Kasubo'g kalipay,
+Kinabuhi kawang
+Kon wala Ka.</stanza>
+    <stanza type="verse" number="4">Sa kabubut-on Mo
+Tudloi, Ginoo,
+Tumanang saad Mo
+Nganhi nako.</stanza>
+    <stanza type="verse" number="5">Gikinahanglan Ka,
+Balaan sa tanan;
+Imoha na ako,
+O Ginoo.</stanza>
+  </lyrics>
+</hymn>

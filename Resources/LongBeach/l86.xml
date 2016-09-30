@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If we would love the Lord</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="lb:86"/><lsmyp num="178"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>51233334443231</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>92</tempo>
+  <chords>| C - - - | C - - - | F - - - | C - - - | C - - - | C - - - | Am - - - | G - - - | G - - - | C - - - | C7 - - - | F - - - | Fm - - - | C/G - - - | G - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 2/ | 3 3/ 3/( 3.) 3/ | 4 4/ 4/( 4/) 3/ 2 | 3/ 1/( 1)( - - (break) | 1) - 0/ 5_./ 1/ 2/ | 3 3/ 3/( 3/) 3 3/ | 3 3/ 6/( 6/) 5. | 2( - - - (break) | 2.) 5/ 5/ 5/ 6/ 5/ | ._1 ._1/ ._1/( ._1/)( 5.) | 7b/ 7b/( 7b) - 7b | 6. 6/( 6) 6 (break) | 5/ 2/( 2) - 1/ 2/ | 3 3/ 3/( 3/) 1. | 2/ 2/ 2/ 2/ 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>If we would love the Lord And care for His u -- nique Bo -- dy, The Lord will pour Him -- self out And move with -- in us as The se -- ven -- fold in -- ten -- si -- fied Spir -- it To blend us to -- ge -- ther For the con -- sum -- ma -- tion Of the New Je -- ru -- sa -- lem.</singingstanza>
+  </layout>
+  <music>
+    <midi location="lb" length="43">lb86.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If we would love the Lord
+And care for His unique Body,
+The Lord will pour Himself out
+And move within us as
+The sevenfold intensified Spirit
+To blend us together
+For the consummation
+Of the New Jerusalem.</stanza>
+  </lyrics>
+</hymn>

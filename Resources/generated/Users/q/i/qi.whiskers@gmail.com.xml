@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Louisa</firstname>
+  <lastname/>
+  <email>qi.whiskers@gmail.com</email>
+  <password>$2y$10$D8u5s9ufXpnZ5tG/nYv92uCRxM4.LkW/EYRsIuVRbi6.ELpFR1Sj6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.183.225.177</ipaddress>
+  <createdate>2016-06-20 19:06:05</createdate>
+  <lastupdateddate>2016-08-14 15:03:08</lastupdateddate>
+  <lastlogindate>2016-08-14 15:03:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="ns" num="210">He understands you thoroughly</fav>
+    <fav category="default" type="nt" num="1057">Jesus, lover of my soul</fav>
+    <fav category="default" type="ns" num="24">Lord, You are more precious than silver</fav>
+    <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="ns" num="276">Rise up, my love</fav>
+    <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+  </favourites>
+</user>

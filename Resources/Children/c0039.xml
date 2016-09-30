@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Never forget! That it's God who created you</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>353532112165</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | F - C - | G - G7 - | C - - - | F - C - | F - C - | G7 - C - | G - | G - C - | G - C - | G - C - | D7 - G - ||</chords>
+  <melody>| (Coda) 3/ 5/( 5/) 3/ 5 3/ 2/ | 1 1./ 2// 1/ 6_./ 5_. | 6_./ 1/( 1/) 6_./ 5_. 5_./ 5_./ | {6 5 3} 5 - (break) | 3/ 5/( 5/) 3/ 5 3/ 2/ | 1 1./ 2// 1/ 6_./ 5_. | 6_./ 1/( 1/) 6_./ 5_./ 1/( 1/) 2/ | 3/ 3/( 3/) 2/ 1 - (Fine) (break) | [2/4] (.7_. (.1 | [4/4] 2/ 7_./ 5_. 3/ 1/ 1/ 1// 1// | 2/ 2/ 7_./ 5_./ 3 1 | 2/ 2/ 7_.// 7_.// 5_./ 3/ 3/ 1// 1// 1// 1// | 2/ 2/ 3/ (.4#/ 5/ 5/ (.5 (DS) ||</melody>
+  <layout>
+    <singingstanza end="-1">Nev -- er for -- get! That it's God who cre -- at -- ed you, Nev -- er for -- get He's a won -- der -- ful God. Nev -- er for -- get! That it's God who cre -- at -- ed you, Won -- der -- ful, won -- der -- ful Cre -- a -- tor God. You have... Arms that bend, knees that bend and a back that bends right o -- ver, Toes that wig -- gle and hands that tick -- le, and a mouth that gig -- gles&amp;mdash; 'hee hee hee.'</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="50">c0039.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Never forget! That it's God who created you,
+Never forget He's a wonderful God.
+Never forget! That it's God who created you,
+Wonderful, wonderful Creator God.
+You have...</stanza>
+    <stanza type="verse" number="">Arms that bend, knees that bend and a back that bends right over,
+Toes that wiggle and hands that tickle, and a mouth that
+giggles&amp;mdash;'hee hee hee.'</stanza>
+  </lyrics>
+</hymn>

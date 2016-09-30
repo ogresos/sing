@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've given up the world because</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Attracted by the Lord's Beauty</category>
+  <numbers><english num="ns:224"/><vsb num="143"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</author>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>5111115566666</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - - G | C - Am - | D7 - G - | C - C/E - | F - - - | G - - - | G7 - C - | F - - - | C - - - | F - Dm - | C/G - G7 - | C F/C C F/C | C F/C C - ||</chords>
+  <melody>| 0 - - 0/ 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 5 | 6/ 6/ 6/ 6/ 6. 5/ | ._1/ ._1/ ._1 ._1/ ._1// ._1./ ._1/ | ._2/ ._1/ 7/ 6/ 5. 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 3// 3./ 3/ | 4/ 4/ 4/ 5/ 6. 6/ | 5/ 5// 7./ 6/ 5/ 5// 7//( 7) (break) | 5/ 5/ 6/ 7/ ._1/ (Chorus) ._1/ ._1/ ._1// ._1//( | ._1/) 6. 0/ ._1/ ._1/ ._1/ | ._1 5 0/ ._1/ ._1/ ._1// ._1//( | ._1/) 6. 0/ 6/ 7/ ._1/ | ._3 ._2 ._1( 7) | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>I've giv -- en up the world be -- cause I've found some -- thing more: He's bet -- ter than an -- y -- thing I've ev -- er found be -- fore. Yes, I have found the Liv -- ing One, Oh, how my spir -- it soars! I called His name, I'm not the same, I am for the Lord! I'm for the Lord! I'm lov -- ing Je -- sus! I'm for the Lord! I'm call -- ing O Lord Je -- sus!</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="36">ns0224.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I've given up the world because
+I've found something more:
+He's better than anything
+I've ever found before.
+Yes, I have found the Living One,
+Oh, how my spirit soars!
+I called His name, I'm not the same,
+I am for the Lord!</stanza>
+    <stanza type="chorus" number="">I'm for the Lord!
+I'm loving Jesus!
+I'm for the Lord!
+I'm calling O Lord Jesus!</stanza>
+    <stanza type="verse" number="2">I've given up the world because
+I've found something better:
+I have found the Living One
+And He breaks every fetter.
+Yes, He's the One who set me free.
+Oh, how my spirit soars!
+I called His name, I'm not the same,
+I am for the Lord!</stanza>
+    <stanza type="verse" number="3">And now I'm really happy,
+Yes I'm fully satisfied.
+I have found the Living One,
+And He lives right inside
+Of you and me, so come and see
+Now our spirits soar!
+We called His name, we're not the same,
+We are for the Lord!</stanza>
+    <stanza type="chorus" number="">We're for the Lord!
+We're loving Jesus!
+We're for the Lord!
+We're calling O Lord Jesus!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We are the generation</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Loving the Lord</category>
+  <numbers><english num="ns:223"/><vsb num="145"/></numbers>
+  <hymncode>5153124515315</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - Am - | Dm - G7 - | C - - - | Dm - G - | F - G - | C - C7/E - | F - G - | C - C7/E - | F - G - | Am - C - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 (startrepeat) - - (Verse_1) 5_. | 1 5 3 1/ 2/( | 2/) 4/( 4) - 0/ 5_./ | 1 5 3 1/ 5/( (break) | 5) - - 5/ ._1/ | 6 4 2 5/ 3/( | 3/) 1/( 1) - 5/ ._1/ | 6 4 2 5/ 3/( (break) | 3/) 1/( 1) - 5/ ._1/ | 6 4 2 5 | ._1 6/ 3/( 3.) ._1/ | 6 4 2 7_. | 1 - - 0 (endrepeat) (break) | (Chorus) 4/ 4/ 4/ 5/( 5) 6 | 3 2/ 1/( 1/) 2/ 3 | 4/ 4/ 4/ 5/( 5) 6 | 3 - - - (break) | 4/ 4/ 4/ 5/( 5) 6 | 3 2/ 1/( 1) - | 2/ 2/ 2/ 2/ 4#/ 4#/ 6 | 5 - - 0 |</melody>
+  <layout>
+    <singingstanza end="3">We are the gen -- er -- a -- tion The Lord has wait -- ed for. He has sought us and pur -- sued us. When we touched Him, He re -- newed us. Now the time has come For all the young To be in touch with Him! Once we were search -- ing, Al -- ways wor -- ry -- ing&amp;mdash; When would we end our search? Now we're re -- born; Our veils are torn, Since He brought us in -- to the church!</singingstanza>
+    <singingstanza2>2. God loves this gen -- er -- a -- tion&amp;mdash; He chose us for His plan. We were young and dis -- il -- lu -- sioned In the age of mass con -- fu -- sion. Now we are His choice, We all re -- joice&amp;mdash; To God we say "A -- men."</singingstanza2>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0223.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We are the generation
+The Lord has waited for.
+He has sought us and pursued us.
+When we touched Him, He renewed us.
+Now the time has come
+For all the young
+To be in touch with Him!</stanza>
+    <stanza type="verse" number="2">God loves this generation&amp;mdash;
+He chose us for His plan.
+We were young and disillusioned
+In the age of mass confusion.
+Now we are His choice,
+We all rejoice&amp;mdash;
+To God we say "Amen."</stanza>
+    <stanza type="chorus" number="">Once we were searching,
+Always worrying&amp;mdash;
+When would we end our search?
+Now we're reborn;
+Our veils are torn,
+Since He brought us into the church!</stanza>
+    <stanza type="verse" number="3">At last our search has ended;
+Our praises fill the air.
+We're the chosen generation!
+Jesus loves this generation!
+And the time has come
+For all the young
+To be in love with Him!</stanza>
+  </lyrics>
+</hymn>

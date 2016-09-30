@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Eu tenho um hino de louvor</title>
+  <index>true</index>
+  <category>Redimidos Pelo Sangue</category>
+  <numbers><cebuano num="302"/><chinese num="ts:18"/><english num="302"/><portuguese num="163"/><russian num="62"/><spanish num="146"/><tagalog num="302"/></numbers>
+  <creators>
+    <author biodate="1851-1921" biolink="">Translated from Edwin Othello Excell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="302"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Eu tenho um hino de louvor,
+Porque remido fui;
+Ao meu Senhor e Redentor,
+Porque remido fui.</stanza>
+    <stanza type="chorus" number="">Porque remido fui,
+Porque remido fui,
+No Senhor me gloriarei.
+Porque remido fui,
+Em Seu nome eu me gloriarei.</stanza>
+    <stanza type="verse" number="2">Eu tenho um Cristo que me apraz,
+Porque remido fui;
+E agradá-Lo me compraz,
+Porque remido fui.</stanza>
+    <stanza type="verse" number="3">Eu tenho Testemunha em mim,
+Porque remido fui;
+À dúvida e temor põe fim,
+Porque remido fui.</stanza>
+    <stanza type="verse" number="4">Eu tenho tal satisfação,
+Porque remido fui;
+Por Cristo, minha retidão,
+Porque remido fui.</stanza>
+    <stanza type="verse" number="5">Eu tenho um Deus que é por mim,
+Porque remido fui;
+Com quem sempre estarei enfim,
+Porque remido fui.</stanza>
+  </lyrics>
+</hymn>

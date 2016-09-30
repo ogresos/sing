@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Isaac</firstname>
+    <lastname>Yao</lastname>
+    <email>isaac.yao@gmail.com</email>
+    <password>FH147cDR3TJiJc8ksgN7lQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>118.160.200.63</ipaddress>
+    <createdate>2010-06-19 06:20:46</createdate>
+    <lastupdateddate>2010-12-11 18:13:57</lastupdateddate>
+    <lastlogindate>2010-12-11 18:12:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="48">God wants someone to love Him</fav>
+        <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+        <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+        <fav category="default" type="ns" num="209">Lord now I see</fav>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    </favourites>
+</user>

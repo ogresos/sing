@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My heart today would sing with joyfulness</title>
+  <index>false</index>
+  <category>Experience of Christ&amp;mdash;General</category>
+  <numbers><chinese num="439"/><english num="8439"/><tagalog num="c439"/></numbers>
+  <meter>10.10.10.10. with chorus.</meter>
+  <hymncode>1765545635</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Dm - G7 - | C - - - | C - E7 - | Am - - - | G/D - D7 - | G - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - 0/ ._1/ 7/ 6/ | 5. 5/ 4#/ 5/ 6/ 3/ | 5( - 5/) ._1/ 7/ 6/ | 4. 4/ 3/ 4/ 6/ 7/ (break) | 5( - 5/) ._1/ 7/ 6/ | 5. 5/ 5#/ 5#/ 6/ 7/ | ._1( - ._1/) 6/ 7/ ._1/ | ._2. 7/ 7/ 6/ 5/ 4#/ (break) | 5( - 5/) (Chorus) 5/ 6/ 7/ | ._1( - ._1/) ._1/ 7/ 7b/ | 6( - 6/) ._4/ ._3/ ._2/ | ._1 6/ (.5/ ._1/ ._1 7/ | ._1( - ._1/) 0. ||</melody>
+  <layout>
+    <singingstanza>My heart to -- day would sing with joy -- ful -- ness: My Lord, Thou hast be -- come my life and peace. Dear Je -- sus, Lord, my fu -- ture is with Thee, The Fa -- ther God I now know is for me. Be -- cause of Thee! Be -- cause of Thee! Be -- cause of Gol -- go -- tha! Be -- cause of Thee!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="h" length="">e8439_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My heart today would sing with joyfulness:
+My Lord, Thou hast become my life and peace.
+Dear Jesus, Lord, my future is with Thee,
+The Father God I now know is for me.</stanza>
+    <stanza type="chorus" number="">Because of Thee! Because of Thee!
+Because of Golgotha! Because of Thee!</stanza>
+    <stanza type="verse" number="2">Once was a day, because I feared to die,
+I clothed myself in works, virtue to buy,
+Tried to avoid God's laws encompassing,
+But now I know He is my righteous King.</stanza>
+    <stanza type="verse" number="3">Though days may come when nations cry with pain,
+Thy raptured church shall Thy true blessings gain.
+By Thine own blood sprinkled inside the veil,
+She conquers all the violence of hell.</stanza>
+    <stanza type="verse" number="4">The Lamb of God indeed my sorrows bore,
+The Lamb of God has saved me evermore;
+The cup of righteousness He drank for me,
+The taste of death is gone eternally.</stanza>
+    <stanza type="verse" number="5">In pastures green Thou caused me to recline,
+Thou leadest me, the God of peace is mine;
+Because of grace I lie upon Thy breast,
+I taste of love the highest and the best.</stanza>
+    <stanza type="verse" number="6">Each hour sweetly keeps me by Thy life,
+Though evil spirits threat with daring strife.
+Unto my Father I may look always,
+Learning to trust midst darkness as in days.</stanza>
+    <stanza type="verse" number="7">Lord, teach me to refuse the worldly fames,
+To waver not through water deep or flames,
+Willing to suffer shame and loss with Thee;
+For Thy name's sake a martyr I may be.</stanza>
+    <stanza type="verse" number="8">When I am raptured, brought before Thy face,
+The Crucified shall be my song of grace;
+From glory Thou didst come, didst suff'rings know:
+On Calvary poured out redemption's flow.</stanza>
+    <stanza type="chorus" number="">Because of me! Because of me!
+Because of sinful men! Because of me!</stanza>
+  </lyrics>
+</hymn>

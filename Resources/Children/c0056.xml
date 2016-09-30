@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vessel, I Am a Vessel</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="1882-1967" biolink="" fullname="">Geoffrey O'hara</composer>
+  </creators>
+  <hymncode>5671554326</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - A7 - | D7 - - - | G7 - - - | C C#dim G7/D G7 | C - A7 - | D7 - - - | G7 - - - | C F/C C G7 | C - A7 - | D7 - - - | G7 - - - | C C#dim G7/D G7 | C - A7 - | D7 - - - | G7 - - - | C F/C C - ||</chords>
+  <melody>| 0 - - {5/ 6/ 7/} | ._1 5( 5) {5/ 4/ 3/} | 2 6( 6) 7./ 6// (break) | {5/ 5/ 6/} 7./ 6// {5/ 5/ 4/} 3./ 2// | 5( - {5/) 5/ 5/} {5/ 6/ 7/} (break) | ._1 5( {5/) 5/ 5/} {5/ 4/ 3/} | 2 6( 6) 7./ 6// (break) | 5./ 6// 7./ 6// 5./ 4// 3./ 2// | 1 - - 0 (break) | (Verse_2) 3 - 1# - | 6_. - 2 - | 7_. - 7_. - | 1( 1# 2) - (break) | 3 - 1# - | 6_. - 2 - | 7_. - 7_. - | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">V- v- v- ves -- sel! I am a ves -- sel! I'm a v- v- v- ves -- sel ma- ma- ma- made by God! V- V- Ves -- sel of mer -- cy, Ch- ch- ch- ch- ch- cho -- sen, Use -- ful to the Mas -- ter, for good work pre -- pared. Ves -- sel, ves -- sel, made by God! Mer -- cy! Cho -- sen! Work pre -- pared!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2014 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="39">c0056.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">V-v-v-vessel! I am a vessel!
+I'm a v-v-v-vessel ma-ma-ma-made by God!
+V-V-Vessel of mercy, Ch-ch-ch-ch-ch-chosen,
+Useful to the Master, for good work prepared.</stanza>
+    <stanza type="verse" number="2">Vessel, vessel,
+Made by God!
+Mercy! Chosen!
+Work prepared!</stanza>
+  </lyrics>
+</hymn>

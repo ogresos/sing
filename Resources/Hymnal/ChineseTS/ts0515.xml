@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>這是地方召會宣告</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <numbers><cebuano num="1096"/><chinese num="ts:515"/><english num="1096"/><german num="1096"/><korean num="807"/><portuguese num="66"/><russian num="504"/><spanish num="62"/><tagalog num="1096"/></numbers>
+  <melody>| 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 (break) | 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 (break) | 4 3 4 5 | 6 5 4 3 | 4. 3/ 2 1 | 3 2 1 7_. (break) | 1. 7_./ 6_. 1 | 2. 1/ 7_. 5_. | 6_. - 7_.. 7_./ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>這 是 地 方 召 會 宣 告： 耶 穌 是 主！ 所 有 聖 徒 歡 樂 稱 呼： 耶 穌 是 主！ 祂 已 完 成 一 切 工 作， 撒 但 全 軍 已 被 征 服， 祂 已 登 上 榮 耀 寶 座， 耶 穌 是 主。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1096"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">這是地方召會宣告：
+耶穌是主！
+所有聖徒歡樂稱呼：
+耶穌是主！
+祂已完成一切工作，
+撒但全軍已被征服，
+祂已登上榮耀寶座，
+耶穌是主。</stanza>
+	<stanza type="verse" number="2">如今祂是那位活靈，
+耶穌是主！
+祂今在此眾民要聽：
+耶穌是主！
+不須再有哀慟祈求，
+呼求祂名，祂就進入，
+成為你的榮耀人位，
+耶穌是主！</stanza>
+	<stanza type="verse" number="3">祂要變化你的生活，
+耶穌是主！
+將祂一切豐富賜你，
+耶穌是主！
+祂要不斷滿足你心，
+天天供應真實生命，
+使你與神完全結聯，
+耶穌是主！</stanza>
+	<stanza type="verse" number="4">因祂憐憫接納我們，
+耶穌是主！
+祂必永不撇下我們，
+耶穌是主！
+在身體中我們看見，
+祂的本性一切豐盛，
+仇敵魔鬼遠遠逃避，
+耶穌是主！</stanza>
+  </lyrics>
+</hymn>

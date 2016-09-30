@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kinabuhing hatag</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;GIPUGOS SA GUGMA SA GINOO</category>
+  <numbers><cebuano num="436"/><chinese num="331"/><english num="436"/><french num="75"/><german num="436"/><korean num="331"/><portuguese num="201"/><russian num="81"/><spanish num="185"/><tagalog num="436"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 0. 0 5/ | 5 5/ 3 5/ | 6.( ._1/ 7/) 6/ | 5 5/ 4 5/ (break) | 3.( 3) 5/ | 5 5/ 3 5/ | 6.( ._1/ 7/) 6/ | 5 5/ 7/( 6/) 7/ (break) | ._1.( ._1) ._1/ | ._2 ._2/ ._2/( ._1/) 7/ | ._1 ._1/ 5 ._1/ | 7 7/ 7/( 6/) 7/ (break) | ._1.( ._1) ._1/ | ._2 ._2/ ._2/( ._1/) 7/ | ._1 ._1/ 5 ._1/ | 7 7/ 7/( 6/) 7/ | ._1.( ._1) 0/ |</melody>
+  <music>
+	<midiref type="h" num="436"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kinabuhing hatag,
+Dugong giula Mo,
+Naglukat, nagbuhi
+Kanako, Ginoo.
+Kinabuhi gihatag Mo,
+Unsay gihatag ko?</stanza>
+	<stanza type="verse" number="2">Nigugol Ka'g mga
+Tuig sa kasakit,
+Aron masayran ko
+Ang himaya's dayon;
+Nigugol Ka'g mga tuig,
+Unsay gibalus ko?</stanza>
+	<stanza type="verse" number="3">Puy-anang mahayag
+Ug Imo nga trono,
+Gib'yaan Mong tanan
+Dinhi nagdumu'ong;
+Tungod nako gib'yaan Mo,
+Unsay gib'yaan ko?</stanza>
+	<stanza type="verse" number="4">Kapait giantus
+Walay makaasoy,
+Luwason lang ako
+Gikan sa impyerno;
+Alang nako giantus Mo,
+Unsay ibalus ko?</stanza>
+	<stanza type="verse" number="5">Gidad-an Mo's hingpit
+Kal'wasang way bayad,
+Pagpasaylo'g gugma
+Nga gikan's itaas;
+Dagkong gasa gihatag Mo,
+Unsa ang balus ko?</stanza>
+	<stanza type="verse" number="6">Kinabuhi halad
+Alang lang Kanimo,
+Kalipayng Kanimo
+Mag-antus' kalisud;
+Gitugyan Mong Kaugalingon,
+Maghalad ko Nimo.</stanza>
+  </lyrics>
+</hymn>

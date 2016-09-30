@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>應當住在神的翅下</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的看顧</category>
+  <numbers><chinese num="493"/><english num="694"/><french num="132"/><korean num="493"/><tagalog num="694"/></numbers>
+  <creators>
+	<author biodate="1866-1948" biolink="">Translated from Civilla Durfee Martin</author>
+  </creators>
+  <melody>| 3/ 4/ 4#/ 5/( ._1/) ._2/ | ._3 ._2/ ._1. | 5/ 7/ 6/ 4 6/ | 5.( 3.) (break) | 3/ 4/ 4#/ 5/( ._1/) ._2/ | ._3 ._2/ ._1. | 5/ 7/ 6/ 5 ._2/ | ._1.( ._1.) (break) | (Chorus) ._1. 7 6/ | 6 5/ 5. | 5/ 7/ 6/ 4. | 4/ 6/ 5/ 3. (break) | 5. ._1 ._1/ | ._2/( ._1/) ._2/ (.._3. | ._2/ ._1/ 6/ 5/( ._1/) 7/ | ._1.( ._1.) |</melody>
+  <layout>
+	<singingstanza>應 當 住 在 神 的 翅 下， 神 必 定 顧 念 你； 任 何 遭 遇 不 要 驚 怕， 神 必 定 顧 念 你。 神 必 定 顧 念 你， 時 時 顧 念， 處 處 顧 念， 祂 必 定 顧 念 你， 神 必 定 顧 念 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="694"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">應當住在神的翅下，
+神必定顧念你；
+任何遭遇不要驚怕，
+神必定顧念你。</stanza>
+	<stanza type="chorus" number="">神必定顧念你，
+時時顧念，處處顧念，
+祂必定顧念你，
+神必定顧念你。</stanza>
+	<stanza type="verse" number="2">時因困難心中失望，
+神必定顧念你；
+時遇險惡無處隱藏，
+神必定顧念你。</stanza>
+	<stanza type="verse" number="3">無一祈求祂會推諉，
+神必定顧念你；
+所有需要祂必豫備，
+神必定顧念你。</stanza>
+	<stanza type="verse" number="4">無論你遇何種試煉，
+神必定顧念你；
+疲倦的人，靠祂胸前，
+神必定顧念你。</stanza>
+  </lyrics>
+</hymn>

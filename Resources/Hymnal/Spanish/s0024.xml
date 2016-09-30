@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Padre, te adoramos</title>
+  <index>true</index>
+  <category>Adoración al Padre&amp;mdash;Su predestinación</category>
+  <numbers><cebuano num="36"/><chinese num="32"/><english num="36"/><german num="36"/><portuguese num="26"/><russian num="196"/><spanish num="24"/><tagalog num="36"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from P. Van den Berg, from Dutch</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh Padre, te͜ adoramos,
+Tus hijos en verdad,
+Los que por gracia pueden
+Hoy contemplar Tu faz;
+Marcados para gloria
+Desde la͜ eternidad,
+Con Cristo͜ el buen Amado
+Tu͜ enfoque eternal.</stanza>
+	<stanza type="verse" number="2">¿Quién más sino Tú, Padre,
+En Tu Hijo puede dar
+Tu͜ Espíritu divino:
+La bendición filial?
+Nos cuentas como propios,
+Y pronto nos verás
+Con Cristo͜ en plena gloria
+Delante de Tu faz.</stanza>
+  </lyrics>
+</hymn>

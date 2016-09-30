@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Steve</firstname>
+  <lastname>Dill</lastname>
+  <email>dillivered@msn.com</email>
+  <password>$2y$10$hhVEwJCbGyEcFIHTHKZRoOtDvqXbl2W39cAqdiquRLZzQzVyTaqT.</password>
+  <gender/>
+  <country/>
+  <ipaddress>72.128.208.139</ipaddress>
+  <createdate>2013-03-19 11:04:51</createdate>
+  <lastupdateddate>2016-02-20 21:03:01</lastupdateddate>
+  <lastlogindate>2016-02-20 21:03:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

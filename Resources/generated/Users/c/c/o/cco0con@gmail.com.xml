@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>wanting</firstname>
+  <lastname/>
+  <email>cco0con@gmail.com</email>
+  <password>$2y$10$YL9pSRg90ln4bhNiF9XemOIzD.PLHpT5OY6wTMOdG/N4RTGasnOMe</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>114.33.95.21</ipaddress>
+  <createdate>2015-05-22 13:27:29</createdate>
+  <lastupdateddate>2015-09-20 12:31:11</lastupdateddate>
+  <lastlogindate>2015-09-20 12:31:11</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+  </favourites>
+</user>

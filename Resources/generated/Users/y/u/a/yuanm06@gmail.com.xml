@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Yuan</firstname>
+  <lastname/>
+  <email>yuanm06@gmail.com</email>
+  <password>$2y$10$SczpyvUrtywuRn9Ie9D4CupMC52YI0/kGK7Cam6/zBWfKgakvRMAa</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>192.192.154.49</ipaddress>
+  <createdate>2016-03-23 03:27:05</createdate>
+  <lastupdateddate>2016-03-23 03:33:59</lastupdateddate>
+  <lastlogindate>2016-03-23 03:29:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="31">父阿久在創世之前</fav>
+  </favourites>
+</user>

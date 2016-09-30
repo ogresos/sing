@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mathew, Mark and Luke and John</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+  </creators>
+  <hymncode>1155665443333221</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | F - C - | G7 - C - | C - F - | C - G7 - | C - F - | C - G7 - | C - - - | F - C - | F - C - | G7 - C - | C - F - | C - G7 - | C - F - | C - G7 - | C - - - | F - C - | F - C - | G7 - C - |</chords>
+  <melody>| 1 1 5 5 | 6 6 5 - (break) | 4 4 3/ 3/ 3/ 3/ | 2 2 1 - (break) | 5/ 5/ 5 4/ 4/ 4/ 4/ | 3 - 2. 2/ (break) | 5 5/ 5/ 4/ 4/ 4/ 4/ | 3 - 2 - (break) | 1 1 5 5 | 6/ 6/ 6/ 6/ 5 - (break) | 4 4 3 3 | 2 2 1 - (break) | 5 5/ 5/ 4 4 | 3 3 2 - (break) | 5 5 4 4 | 3 - 2 - (break) | 1 1 5 5 | 6 - 5 - (break) | 4 4 3 3 | 2 - 1 - |</melody>
+  <layout>
+    <singingstanza end="-1">Mat -- thew, Mark and Luke and John, Acts and Ro -- mans, First Cor -- in -- thi -- ans, Sec -- ond Cor -- in -- thi -- ans, Ga -- la -- tians, Eph -- e -- sians, Phil -- ip -- pi -- ans, Col -- os -- sians, First and Sec -- ond Thes -- sa -- lo -- ni -- ans, First and Sec -- ond Tim -- o -- thy, Ti -- tus, Phi -- le -- mon, He -- brews, James, First and Sec -- ond Pe -- ter, First and Sec -- ond, Third John, Jude and Rev -- e -- la -- tion.</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2007 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="43">c0117.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mathew, Mark and Luke and John,
+Acts and Romans, First Corinthians,
+Second Corinthians, Galatians,
+Ephesians, Philippians, Colossians,
+First and Second Thessalonians,
+First and Second Timothy,
+Titus, Philemon, Hebrews, James,
+First and Second Peter,
+First and Second, Third John,
+Jude and Revelation.</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2007 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

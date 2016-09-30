@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus nang maisip Kita</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;KASIYAHAN SA KANYA</category>
+  <numbers><cebuano num="207"/><chinese num="168"/><english num="207"/><french num="33"/><korean num="168"/><russian num="509"/><tagalog num="207"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="207"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus nang maisip Kita
+At ang Iyong biyaya,
+Espiritu'y umaasa
+Ganda Mo'y makita.</stanza>
+    <stanza type="verse" number="2">Kahit sa ilang dumaan,
+Uhaw, takot, lumbay,
+Tinik at dawag, saanman
+Dakong may kaaway.</stanza>
+    <stanza type="verse" number="3">Pag-ibig Mo kay halaga,
+Talos ng puso ko,
+Nang biyaya'y nakilala,
+Nagpupuri sa Iyo.</stanza>
+    <stanza type="verse" number="4">Buhay, lakas, at awit Ka,
+Bato at kalasag,
+Tuwing Kita'y magunita,
+Ako'y nagagalak.</stanza>
+    <stanza type="verse" number="5">Hesus, kami'y ingatan Mo
+Mahigpit Kang sundan,
+Hanggang sa pagbabalik Mo,
+Mukha Mo'y mamasdan.</stanza>
+  </lyrics>
+</hymn>

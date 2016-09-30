@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lucy G.</firstname>
+  <lastname>Velásquez</lastname>
+  <email>lucyvelasquez2@hotmail.com</email>
+  <password>$2y$10$a.4xckce1wxna6ivkDV2XeOFP97wnOQrQvwGfkbLYZ3Oe3TxFk5Ga</password>
+  <gender/>
+  <country>il</country>
+  <ipaddress>85.250.26.10</ipaddress>
+  <createdate>2014-08-17 13:00:45</createdate>
+  <lastupdateddate>2014-08-17 13:04:38</lastupdateddate>
+  <lastlogindate>2014-08-17 13:01:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="378">A Life of No Regrets</fav>
+    <fav category="default" type="ns" num="211">Consecration: To Become the Testimony of Jesus</fav>
+    <fav category="default" type="ns" num="476">God's Dream</fav>
+    <fav category="default" type="nt" num="377">If the path I travel</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+  </favourites>
+</user>

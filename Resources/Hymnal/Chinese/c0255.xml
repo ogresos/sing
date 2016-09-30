@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我心中奏一甜美音</title>
+  <index>true</index>
+  <category>得救的證實與快樂－因基督得滿足</category>
+  <numbers><chinese num="255"/><english num="8255"/><portuguese num="175"/><russian num="71"/><spanish num="158"/></numbers>
+  <melody>| 0 - 0/ ._3/ ._2#./ ._3// | ._4 7 ._3 ._2 | ._1 5 - 5./ ._1// | 7 6 5 ._4 | ._3( - ._3/) ._3/ ._2#./ ._3// (break) | ._4 7 ._3 ._2 | ._1./( ._2//) ._3 - ._3./ ._3// | ._2 ._2 ._3 ._4# | ._5 - - 0 (break) | (Chorus) ._5 ._4 ._3 ._2 | ._1./ ._2// ._3./ ._1// 5 5 | 5./ 6// 7./ 6// 5 5 | 5./ 6// ._1./ 6// 5 0 (break) | ._5 ._4 ._3 ._2 | ._1./ ._2// ._3./ ._1// 5 5 | 5./ 6// 7./ 6// 5 ._2 | ._1( - ._1/) 0. |</melody>
+  <layout>
+	<singingstanza>我 心 中 奏 一 甜 美 音 樂， 恩 主 耶 穌 是 我 歌； 從 無 一 音 樂 如 此 妙 絕， 使 我 嘗 到 天 上 樂。 在 我 心 中 唱 一 甜 美 詩 歌， 唱 一 甜 美 詩 歌， 唱 天 上 樂 歌； 在 我 心 中 唱 一 甜 美 詩 歌， 唱 那 奇 妙 愛 之 歌。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我心中奏一甜美音樂，
+恩主耶穌是我歌；
+從無一音樂如此妙絕，
+使我嘗到天上樂。</stanza>
+	<stanza type="chorus" number="">在我心中唱一甜美詩歌，
+唱一甜美詩歌，
+唱天上樂歌；
+在我心中唱一甜美詩歌，
+唱那奇妙愛之歌。</stanza>
+	<stanza type="verse" number="2">奇妙愛！耶穌將我救活，
+使我得著救恩樂；
+何大恩！基督替我活著，
+使我歡唱恩愛歌。</stanza>
+	<stanza type="verse" number="3">何光明！耶穌領我行路，
+步步唱著上行詩；
+何平安！基督與我同住，
+時時湧出讚美辭。</stanza>
+	<stanza type="verse" number="4">何超脫！我要被提上升，
+聖徒必唱凱旋歌；
+何尊榮！我要同主執政，
+天使必奏同聲賀。</stanza>
+	<stanza type="verse" number="5">何福氣！還要進到聖城，
+永飲生命的樂河；
+何快樂！且要享主豐盛，
+飽嘗生命的美果。</stanza>
+  </lyrics>
+</hymn>

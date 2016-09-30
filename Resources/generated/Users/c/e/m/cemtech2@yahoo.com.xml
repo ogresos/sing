@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>James</firstname>
+<lastname>Vunora</lastname>
+<email>cemtech2@yahoo.com</email>
+<password>$1$MjSBcb9i$nfYtG8c7TMzPFvzo9AXEv.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.61.72.110</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+        <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+        <fav category="default" type="h" num="1219">What a wonderful change in my living is wrought</fav>
+        <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="h" num="408">Lord Jesus, I long to be perfectly whole</fav>
+        <fav category="default" type="h" num="325">All my life long I had panted</fav>
+        <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+        <fav category="default" type="h" num="366">Christ, whose glory fills the skies</fav>
+    </favourites>
+</user>

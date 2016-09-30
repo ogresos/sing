@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>除了耶穌以外</title>
+  <index>true</index>
+  <category>福音－救主</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>543321543321</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <layout>
+	<singingstanza>除 了 耶 穌 以 外， 除 了 耶 穌 以 外， 沒 有 別 的 拯 救， 沒 有 別 的 拯 救； 因 為 在 天 下 人 間， 因 為 在 天 下 人 間， 沒 有 賜 下 別 名， 人 可 靠 著 得 生。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0678_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">除了耶穌以外，
+除了耶穌以外，
+沒有別的拯救，
+沒有別的拯救；
+因為在天下人間，
+因為在天下人間，
+沒有賜下別名，
+人可靠著得生。</stanza>
+  </lyrics>
+</hymn>

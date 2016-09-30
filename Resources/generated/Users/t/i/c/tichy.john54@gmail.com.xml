@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>tichy</lastname>
+  <email>tichy.john54@gmail.com</email>
+  <password>$2y$10$qXsxkYAIlkU8fVUAIAW6k.KRK7T5onEx.78wX13VzMhUSjNM8H9wy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>54.149.208.51</ipaddress>
+  <createdate>2015-03-25 02:07:38</createdate>
+  <lastupdateddate>2015-03-25 02:09:35</lastupdateddate>
+  <lastlogindate>2015-03-25 02:09:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

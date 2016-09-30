@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Tammy</firstname>
+<lastname>churchill</lastname>
+<email>willandtam@yahoo.com</email>
+<password>$1$nLZPMVtF$8TQBpPL2URRNXwesv1lSR/</password>
+<gender>F</gender>
+<country>Canada</country>
+<ipaddress>199.126.48.194</ipaddress>
+<createdate>2008-07-26 01:43:28</createdate>
+<lastupdateddate>2009-09-15 18:25:23</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="ns" num="142">In nothing be anxious</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+        <fav category="default" type="h" num="691">Hark! the voice of love and mercy</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="117">Christ the Lord is ris'n indeed</fav>
+        <fav category="default" type="h" num="241">Blessing and honor and glory be Thine</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="422">Make me a captive, Lord</fav>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="895">To the work! to the work! we are servants of God</fav>
+        <fav category="default" type="h" num="1117">We praise Thee, O God (as the Spirit)</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+        <fav category="default" type="h" num="1133">O Father of glory, now grant unto me</fav>
+        <fav category="default" type="h" num="114">Hail, Thou once despised Jesus</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="894">Will you be an overcomer</fav>
+        <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+        <fav category="default" type="h" num="848">What a blessing, what a priv'lege</fav>
+        <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+    </favourites>
+</user>

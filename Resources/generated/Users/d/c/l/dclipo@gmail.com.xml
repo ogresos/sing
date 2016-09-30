@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Liposchak</lastname>
+    <email>dclipo@gmail.com</email>
+    <password>JipRtb0i6UKGRkV6YxRs%2Bg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>97.121.56.31</ipaddress>
+    <createdate>2011-02-18 15:12:50</createdate>
+    <lastupdateddate>2011-02-19 14:58:57</lastupdateddate>
+    <lastlogindate>2011-02-19 14:57:21</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="4">Jesus, dear Jesus, You're so glorious</fav>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+        <fav category="default" type="lb" num="69">Someone</fav>
+    </favourites>
+</user>

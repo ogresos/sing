@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ruth</firstname>
+    <lastname>Fong</lastname>
+    <email>ruthfong@xtra.co.nz</email>
+    <password>gWchF0X8FMV43zYxk0EeOw%3D%3D</password>
+    <gender></gender>
+    <country>New Zealand</country>
+    <ipaddress>125.237.144.156</ipaddress>
+    <createdate>2013-07-18 16:13:52</createdate>
+    <lastupdateddate>2013-07-18 16:16:09</lastupdateddate>
+    <lastlogindate>2013-07-18 16:15:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1233">O home in the church</fav>
+    </favourites>
+</user>

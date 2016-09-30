@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kung minamasdan ko ang krus</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGDURUSA</category>
+  <numbers><cebuano num="101"/><chinese num="85"/><english num="101"/><korean num="85"/><spanish num="51"/><tagalog num="101"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="101"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kung minamasdan ko ang krus,
+Kung sa'n napako si Hesus,
+Pakinabang ko'y winak'san,
+Tinakwil kapalaluan.</stanza>
+    <stanza type="verse" number="2">'Di magmamapuri ako
+Maliban sa Krus ni Kristo;
+Inibig kong rangya't dangal,
+Ngayo'y inari kong sukal.</stanza>
+    <stanza type="verse" number="3">Mula paa, hanggang ulo,
+Pag-ibig sabay sa dugo,
+Naghalo dusa't pag-ibig
+Taglay Mo'y putong na tinik.</stanza>
+    <stanza type="verse" number="4">Masdan, katawan ni Hesus,
+Babad sa dugong nabuhos.
+Sa mundo'y patay na ako,
+Sa 'ki'y patay na rin ito.</stanza>
+    <stanza type="verse" number="5">Akin man ang kalikasan
+Ay wala ring kabuluhan;
+Sa pag-ibig na dalisay,
+Puso't buhay ko'y ialay.</stanza>
+  </lyrics>
+</hymn>

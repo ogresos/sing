@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jane</firstname>
+    <lastname>Anderson</lastname>
+    <email>jcaroleanderson@gmail.com</email>
+    <password>gkNbPUjQ6k%2BqKKfEhU6bTw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>173.57.106.166</ipaddress>
+    <createdate>2011-12-31 08:11:37</createdate>
+    <lastupdateddate>2011-12-31 08:27:36</lastupdateddate>
+    <lastlogindate>2011-12-31 08:11:39</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+        <fav category="default" type="h" num="677">Art thou sunk in depths of sorrow</fav>
+        <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+        <fav category="default" type="h" num="683">God holds the key of all unknown</fav>
+        <fav category="default" type="h" num="675">God moves in a mysterious way</fav>
+        <fav category="default" type="h" num="693">He faileth not, for He is God</fav>
+        <fav category="default" type="ns" num="34">He knows, He knows</fav>
+        <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+        <fav category="default" type="h" num="727">Light after darkness</fav>
+        <fav category="default" type="h" num="715">Not now, but in the coming years</fav>
+        <fav category="default" type="h" num="681">Our times are in Thy hand</fav>
+        <fav category="default" type="h" num="730">Pressed out of measure, pressed beyond all length</fav>
+        <fav category="default" type="h" num="725">Strong are the walls around me</fav>
+        <fav category="default" type="h" num="674">The Lord will silently plan for thee</fav>
+        <fav category="default" type="h" num="1099">The queen in gold of Ophir</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

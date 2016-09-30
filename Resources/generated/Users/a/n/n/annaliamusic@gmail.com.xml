@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anna</firstname>
+  <lastname/>
+  <email>annaliamusic@gmail.com</email>
+  <password>$2y$10$Ok6NyO9b7NeR0/Il5s0aBuW51zd87176zj1VArW59itNAKLj.zktC</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>121.44.16.253</ipaddress>
+  <createdate>2014-12-21 01:50:18</createdate>
+  <lastupdateddate>2016-07-28 06:24:33</lastupdateddate>
+  <lastlogindate>2016-07-22 16:10:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="858">All praise to our redeeming Lord</fav>
+    <fav category="default" type="h" num="1281">All the meetings Christ appointed</fav>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="ns" num="423">Christ in You, the Hope of Glory</fav>
+    <fav category="default" type="h" num="366">Christ, whose glory fills the skies</fav>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="720">God Hath Not Promised</fav>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+    <fav category="default" type="h" num="683">God holds the key of all unknown</fav>
+    <fav category="default" type="h" num="691">Hark! the voice of love and mercy</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="433">I am the Lord's! O joy beyond expression</fav>
+    <fav category="default" type="h" num="711">I know not what awaits me</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="721">I'll sing of the wonderful promise</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="h" num="1133">O Father of glory, now grant unto me</fav>
+    <fav category="default" type="h" num="730">Pressed out of measure, pressed beyond all length</fav>
+    <fav category="default" type="h" num="378">Savior, lead me up the mountain</fav>
+    <fav category="default" type="h" num="1319">That which for long the prophets sought</fav>
+    <fav category="default" type="h" num="710">The days may yet grow darker</fav>
+    <fav category="default" type="h" num="1403">The heavens God's glory declare</fav>
+    <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+  </favourites>
+</user>

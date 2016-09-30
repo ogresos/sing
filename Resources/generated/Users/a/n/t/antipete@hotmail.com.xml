@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>PETE</firstname>
+<lastname>COLLINS</lastname>
+<email>antipete@hotmail.com</email>
+<password>$1$VDO83uIy$rczSU7Z4EtxXGU1QnT0m3.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.173.134.155</ipaddress>
+<createdate>2008-09-18 16:05:05</createdate>
+<lastupdateddate>2009-09-15 18:25:55</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="698">Amid the trials that I meet</fav>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+    </favourites>
+</user>

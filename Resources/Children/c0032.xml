@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's a part inside of me</title>
+  <index>true</index>
+  <category>Various Aspects of the Inner Life&amp;mdash;Dealing with the Heart</category>
+  <hymncode>53323556616655</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - C/G - | F - G7/F - | C/E - G - | C - G/B - | Am - C/G - | F - C/E D7/F# | C/G G7 C - | C - C7/E - | F - G7/F - | Em - Am - | Dm7 - G7 - | C - C7/E - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 5 3 3 2 | 3 5 5 - | 6 6 ._1 6 | 6 5 5 - (break) | 5 3 3 2 | 3 5 5 - | 6 6 5 1 | 3 2 1 - (break) | (Chorus) 5 - 3 5 | 6 ._1 - - | 5 - 3 1 | 3 2 - - (break) | 5 - 3 5 | 6 ._1 - 6 | 5 1 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>There's a part in -- side of me&amp;mdash; It's my con -- science, and I see, If I lis -- ten and o -- bey, I will be pre -- served this way. Yes, I will lis -- ten, Yes, to my con -- science; If I will lis -- ten, Then I will be pre -- served.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-d.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="31">c0032.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's a part inside of me&amp;mdash;
+It's my conscience, and I see,
+If I listen and obey,
+I will be preserved this way.</stanza>
+    <stanza type="chorus" number="">Yes, I will listen,
+Yes, to my conscience;
+If I will listen,
+Then I will be preserved.</stanza>
+  </lyrics>
+</hymn>

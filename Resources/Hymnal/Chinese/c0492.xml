@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在祂翼下在祂翼下</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的同在</category>
+  <numbers><chinese num="492"/><english num="565"/><korean num="492"/></numbers>
+  <creators>
+	<author biodate="1823-1902" biolink="">Translated from William Orcutt Cushing</author>
+  </creators>
+  <melody>| 3 4 4# 5 - 5/ 5/ | 5 6 3 5 4 - | 2 3 4 6 5 5 | 5 2 2# 3 - - (break) | 3 4 4# 5 5 ._1 | ._2 ._1 6 6 5 - | 6 7 ._1 ._1 5 3 | 5 4 2 1 - - (break) | (Chorus) 5 3 5 ._1 - - | 7 6 7 ._1 - - | ._1 5 3 6( 5) 3 | 3 2( - 2) - 0 (break) | 1 3 5 ._1 - 7 | ._2 ._1 6 5 - - | 6 7 ._1 5( 3) 1 | 2 - - 1 - 0 |</melody>
+  <layout>
+	<singingstanza>在 祂 翼 下， 平 安 穩 妥 我 居 住， 不 管 夜 色 多 深， 且 有 風 雨； 但 我 能 信 靠， 我 知 祂 必 眷 顧， 因 祂 已 救 我， 我 是 祂 兒 女。 在 祂 翼 下， 在 祂 翼 下， 誰 能 使 我 離 祂 愛！ 在 祂 翼 下， 這 是 我 的 家， 我 必 與 主 永 同 在。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="565"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在祂翼下，
+平安穩妥我居住，
+不管夜色多深，
+且有風雨；
+但我能信靠，
+我知祂必眷顧，
+因祂已救我，
+我是祂兒女。</stanza>
+	<stanza type="chorus" number="">在祂翼下，
+在祂翼下，
+誰能使我離祂愛！
+在祂翼下，
+這是我的家，
+我必與主永同在。</stanza>
+	<stanza type="verse" number="2">在祂翼下，
+我能躲過我憂傷，
+我心滿足，
+我能在此安歇，
+世上並無膏油
+可治我病創，
+在此我得祝福，
+我得慰藉。</stanza>
+	<stanza type="verse" number="3">在祂翼下，
+何等寶貴的享受！
+一生在此，
+直到試煉過去；
+有主保護蔭庇，
+無何再添愁，
+安息於主，
+我是永遠無虞。</stanza>
+  </lyrics>
+</hymn>

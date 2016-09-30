@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Pastor Godwin E</firstname>
+    <lastname>Morka</lastname>
+    <email>gemorka@gmail.com</email>
+    <password>HjrnlhdsKMpddv54XOGiog%3D%3D</password>
+    <gender></gender>
+    <country>Nigeria</country>
+    <ipaddress>41.78.81.61</ipaddress>
+    <createdate>2014-04-04 09:49:04</createdate>
+    <lastupdateddate>2014-04-04 09:49:04</lastupdateddate>
+    <lastlogindate>2014-03-27 12:22:50</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="300">Arise, my soul, arise</fav>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+        <fav category="default" type="h" num="183">Come, let us join our cheerful songs</fav>
+        <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+        <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+        <fav category="default" type="ns" num="432">Lord, You are the General</fav>
+        <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+        <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+        <fav category="default" type="ns" num="325">Rejoice in the Lord always</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+    </favourites>
+</user>

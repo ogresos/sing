@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Peter</firstname>
+  <lastname>Marotta</lastname>
+  <email>peter.marotta.jr@gmail.com</email>
+  <password>$2y$10$rn3yqCMOFWJW1TrgckTeau/HvGnADrUTxfuOO3dzhAK0b.s..Xn22</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>174.99.112.25</ipaddress>
+  <createdate>2016-04-13 22:05:12</createdate>
+  <lastupdateddate>2016-04-14 10:58:13</lastupdateddate>
+  <lastlogindate>2016-04-14 10:55:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+  </favourites>
+</user>

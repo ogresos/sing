@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Rio da água da vida</title>
+  <index>true</index>
+  <category>Vida Na Eternidade</category>
+  <numbers><cebuano num="984"/><chinese num="204"/><english num="984"/><german num="984"/><korean num="204"/><portuguese num="500"/><russian num="294"/><tagalog num="984"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 4 3 2( 6_.) 7_. | 1 - - 5_. - - | 1 2 1 6_. 7_. 1 | 2 - - - - - (break) | 3 2 1 1 7_. 6_. | 5_. - - 1 - - | 1 7_. 6_. 7_. 5_. 2 | 1 - - - - - (break) | (Chorus) 3 3 3 3( 4) 5 | 5 - - 2 - - | 2 2 2 2 1 2 | 3 - - - - - (break) | 3 3 3 3 4 5 | 5 - - 4# - - | 5 4 1# 2 3 2 | 1 - - - - - |</melody>
+  <music>
+	<midiref type="h" num="984"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Rio da água da vida,
+Que flui do trono de Deus,
+Traz comunhão e expressa
+Autoridade de Deus.</stanza>
+	<stanza type="chorus" number="">Rio da água da vida,
+Que comunhão atribui,
+Traz também autoridade,
+Aonde quer que ele flui.</stanza>
+	<stanza type="verse" number="2">Água da vida é o Espír'to,
+Nele qual vida Deus flui;
+Traz também Seu senhorio
+A toda parte que aflui.</stanza>
+	<stanza type="verse" number="3">Corre na rua de ouro,
+Para o caminho mostrar;
+Na natureza de Deus flui,
+Faz-nos assim caminhar.</stanza>
+	<stanza type="verse" number="4">Perto, a árv're da vida
+Deus, qual comida, nos traz;
+Tal plenitude gozamos,
+Pelo fluir, mais e mais.</stanza>
+  </lyrics>
+</hymn>

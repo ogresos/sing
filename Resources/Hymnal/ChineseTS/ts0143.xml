@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>吹動！覆罩！焚燒！顯耀！</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><chinese num="ts:143"/><english num="1200"/></numbers>
+  <melody>| 0 - - 5_./ 5_./ | 1 1 1/ 5_./ 1./ 2// | 3 3 3 4./ 3// | 2 - - 3./ 2// (break) | 1 - - 5_./ 5_./ | 1 1 1/ 5_./ 1/ 2/ | 3 3 3 4./ 3// | 2 - - 3/ 2/ (break) | 1 - - (Chorus) 3/ 4/ | 5( - 5/) 6/ 5/ 4/ | 3 3 3 4/ 3/ | 2( - 2/) 4/ 3/ 2/ (break) | 3 - - 3/ 4/ | 5( - 5/) 6/ 5/ 4/ | 3 3 3 4/ 3/ | 2( - 2/) 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>看 哪， 暴 風 颳 自 北 方， 力 無 窮； 來 吹 動！ 來 吹 動！ 是 神 眷 臨 使 人 翻 轉 得 復 興； 來 吹 動！ 來 吹 動！ 來 吹 動！ 聖 靈 強 風 吹 動， 使 我 悔 改 得 生 命！ 來 吹 動！ 恩 典 大 風 吹 動， 使 我 主 裏 得 復 興！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1200"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">看哪，暴風颳自北方，力無窮；
+來吹動！來吹動！
+是神眷臨使人翻轉得復興；
+來吹動！來吹動！</stanza>
+	<stanza type="chorus" number="">來吹動！聖靈強風吹動，
+使我悔改得生命！
+來吹動！恩典大風吹動，
+使我主裏得復興！</stanza>
+	<stanza type="verse" number="2">看哪，還有一朵大雲隨風到；
+來覆罩！來覆罩！
+主同在如雲滿足所有需要；
+來覆罩！來覆罩！</stanza>
+	<stanza type="chorus" number="">來覆罩！神來與人相交，
+覆庇、加力又照料！
+來覆罩！神恩如雲圍繞，
+帶來安慰和榮耀！</stanza>
+	<stanza type="verse" number="3">雲中又有烈火不斷的閃爍；
+來焚燒！來焚燒！
+罪肉體魂生命再無處可躲；
+來焚燒！來焚燒！</stanza>
+	<stanza type="chorus" number="">來焚燒！神聖嫉妒烈火
+燒遍全人每角落！
+來焚燒！神外一切盡脫，
+天然、舊造都滅沒！</stanza>
+	<stanza type="verse" number="4">火中發出金銀合金顯光耀；
+在顯耀！在顯耀！
+救贖之神經歷寶貴又高超；
+在顯耀！在顯耀！</stanza>
+	<stanza type="chorus" number="">在顯耀！我們今已嘗到
+羔羊神豐美味道！
+在顯耀！救贖之神榮耀，
+彰顯於人何奇妙！</stanza>
+	<stanza type="verse" number="5">風雲、火金的經歷將人點活；
+多又多！多又多！
+願這循環將我重構永不輟；
+多又多！多又多！</stanza>
+	<stanza type="chorus" number="">風吹到！雲覆罩！火焚燒！
+金銀合金顯榮耀！
+願與主如此全然相調，
+使主榮形得顯照！</stanza>
+  </lyrics>
+</hymn>

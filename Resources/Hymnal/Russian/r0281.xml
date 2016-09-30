@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О, не спи, христианин</title>
+  <index>true</index>
+  <category>МОЛИТВА&amp;mdash;ПРИЗЫВ</category>
+  <numbers><english num="765"/><russian num="281"/><tagalog num="765"/></numbers>
+  <creators>
+    <author biodate="1789-1871" biolink="">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 3 3 4 3 | 6. 6/ 5 - | 3. 3/ 3 3 | 3 4 2 - (break) | 3. 3/ 4 5 | 6 5 1 - | 4 - - 2 | 1 - - - |</melody>
+  <music>
+    <midiref type="h" num="765"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">О, не спи, христианин,
+И Спасителю внемли;
+В гуще лютых ты врагов –
+Бодрствуй и молись!</stanza>
+    <stanza type="verse" number="2">Вот в невидимом строю
+Власти, силы собрались,
+Ждут, когда заснёшь ты, брат –
+Бодрствуй и молись!</stanza>
+    <stanza type="verse" number="3">Слушай тех, кто победил,
+И примера их держись;
+Восклицают, как один:
+«Бодрствуй и молись!»</stanza>
+    <stanza type="verse" number="4">Если Господа во всём
+Слушаться желаешь ты,
+В сердце слово спрячь Его:
+«Бодрствуй и молись!»</stanza>
+    <stanza type="verse" number="5">Бодрствуй, словно от того
+Вся твоя зависит жизнь,
+Свыше помощи проси –
+Бодрствуй и молись!</stanza>
+    <stanza type="verse" number="6">В Божьи все доспехи ты,
+Как член Тела, облекись.
+День и ночь в них проводи;
+Бодрствуй и молись!</stanza>
+  </lyrics>
+</hymn>

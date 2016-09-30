@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>Schulz</lastname>
+  <email>lindaschulzalaska@gmail.com</email>
+  <password>$2y$10$29XXe0fQ4wE6.4QxAPdHXeEUxhp9dLt/uzolmY7tOCo.opd3hDxQW</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>66.230.108.51</ipaddress>
+  <createdate>2012-08-08 17:20:47</createdate>
+  <lastupdateddate>2014-12-19 03:19:59</lastupdateddate>
+  <lastlogindate>2014-12-19 03:19:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

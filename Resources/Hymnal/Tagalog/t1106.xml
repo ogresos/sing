@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tayo'y sa hapag Niya nagtitipun-tipon</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/( 5/) (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="1106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tayo'y sa hapag Niya nagtitipun-tipon:
+Tinatanghal sa pagkain, pag-inom.
+Inihayag pagkakaisa sa Kanya,
+Nababatid lubos ang pagpapala Niya.</stanza>
+	<stanza type="verse" number="2">Ang tinapay ng katawan Niyang nabasag
+Ating tinatamasa na sa hapag:
+Iisang tinapay&amp;mdash;iisang Katawan,
+Pagkakaisa ay pinatotohanan.</stanza>
+	<stanza type="verse" number="3">Ating iniinom saro'ng pagpapala,
+Salamuhang tunay ng ekklesia;
+Lahat ng tinubos ating tinatanggap,
+Mga sumasampalataya nang ganap.</stanza>
+	<stanza type="verse" number="4">"Aleluya" lamang, masasabi natin
+Sa katotohanang napasa atin.
+Ang dugo't Katawan Mo'y aming tamasa;
+Mapasa Iyo ang mal'walhating ekklesia.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tief eingekerkert, hoffnungslos, bang</title>
+  <index>true</index>
+  <category>GEWISSHEIT UND SICHERHEIT DER ERRETTUNG&amp;mdash;Versöhnt mit Gott</category>
+  <numbers><cebuano num="1131"/><chinese num="ts:856"/><english num="1131"/><german num="1131"/><korean num="984"/><portuguese num="160"/><russian num="408"/><spanish num="145"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. - | 7_./ 7_. 1/ 2 7_. | 1/ 1 6_./ 5_. - (break) | 1/ 1 1/ 1 1 | 6_./ 6_. 6_./ 6_. 6_. | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - (break) | (Chorus) 4/ 4 4/ 4 4 | 3/ 3 2/ 1 - | 2/ 2 2/ 2/( 3/) 4 | 3/ 3 3/ 3 - (break) | 4/ 4 4/ 4 4 | 3/ 3 2/ 1 1 | 0 7_./ 1/ 2/ 1/ 7_. | 1( - 5_. 1 | 7_.) 7_./ 1/ 2/ 1/ 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Tief ein -- ge -- ker -- kert, hoff -- nungs -- los, bang; Wir woll -- ten glau -- ben, was nicht ge -- lang; Gott nimmt die Schlei -- er, zeigt den Be -- frei -- er, Kommt in un -- se -- ren Geist! Kommt in un -- se -- ren Geist! Je -- sus ver -- söhn -- te uns durch Sein Blut, Hat uns er -- löst, er -- kauft, oh wie gut! Nicht mehr ver -- lo -- ren, neu sind ge -- bo -- ren! Jetzt herrscht Frie -- den mit Gott! Jetzt herrscht Frie -- den mit Gott!</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Romans 5:1-11</link>
+  </links>
+  <music>
+	<midiref type="h" num="1131"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tief eingekerkert, hoffnungslos, bang;
+Wir wollten glauben, was nicht gelang;
+Gott nimmt die Schleier, zeigt den Befreier,
+Kommt in unseren Geist!
+Kommt in unseren Geist!</stanza>
+	<stanza type="chorus" number="">Jesus versöhnte uns durch Sein Blut,
+Hat uns erlöst, erkauft, oh wie gut!
+Nicht mehr verloren, neu sind geboren!
+Jetzt herrscht Frieden mit Gott!
+Jetzt herrscht Frieden mit Gott!</stanza>
+	<stanza type="verse" number="2">Sterben in Adam ist uns bestimmt;
+Niemand uns dieses Leiden abnimmt.
+Doch Gott im Sohn kam, Adam ganz weg nahm;
+Er ist tot, wir sind frei!
+Er ist tot, wir sind frei!</stanza>
+	<stanza type="verse" number="3">Freude und Gnade füllt unser Sein,
+Oh Halleluja! Von Sünden rein!
+Gott kann nun fließen, und in uns spriessen
+Rettet uns durch Sein Leben!
+Rettet uns durch Sein Leben!</stanza>
+  </lyrics>
+</hymn>

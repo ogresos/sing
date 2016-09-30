@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>John</firstname>
+    <lastname>Foster</lastname>
+    <email>fonjoster@gmail.com</email>
+    <password>%2FnlUNji%2BlGbiwnF8GOJLLA%3D%3D</password>
+    <gender>M</gender>
+    <country>nz</country>
+    <ipaddress>121.73.178.98</ipaddress>
+    <createdate>2011-11-24 14:30:53</createdate>
+    <lastupdateddate>2011-11-24 14:44:06</lastupdateddate>
+    <lastlogindate>2011-11-24 14:42:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="527">The Lord's my Shepherd, I'll not want</fav>
+    </favourites>
+</user>

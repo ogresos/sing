@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nganong mabalaka ako</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KATUBSANAN</category>
+  <numbers><cebuano num="1003"/><chinese num="235"/><english num="1003"/><french num="196"/><german num="1003"/><korean num="235"/><portuguese num="443"/><russian num="164"/><spanish num="466"/><tagalog num="1003"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3 3 3 - 2 - | 5 5 5 - 5 - | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 5 - (break) | ._1 ._1 ._1 - ._3 - | ._2 ._1 ._2 - ._3( ._2) | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="21"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nganong mabalaka ako?
+Di ba gipapas-an's Anak
+Sa Dios ang sala ko?
+Utang nabayran nang Cristo,
+Paninglon pa ba kanako
+Sa Dios nga matarung?</stanza>
+	<stanza type="verse" number="2">Hingpit ang 'yang katubsanan,
+Tanang utang 'yang gibayran,
+Wa na's kasugoan.
+Way kahadlok's kasuko's Dios,
+Sinabligan man's 'yang dugo,
+Nga nagtabon nako.</stanza>
+	<stanza type="verse" number="3">S'yay nagbaton alang nako,
+Sa hingpit nga pagpasaylo,
+Utang ko naimpas;
+Dios di gyud maningil's duha,
+Una's 'yang Anak, dayon nako,
+Anak Kalig-onan.</stanza>
+	<stanza type="verse" number="4">Busa may kalinaw'g pahuway,
+Nabuhat N'yang labing ma'yo,
+Nahigawas na ko;
+Sa epektibo N'yang dugo,
+Di na gyud ko hukman sa Dios,
+S'ya may puli nako!</stanza>
+  </lyrics>
+</hymn>

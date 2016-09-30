@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Não fui redimido com prata nem ouro</title>
+  <index>true</index>
+  <category>Redimidos Pelo Sangue</category>
+  <numbers><english num="303"/><portuguese num="164"/><russian num="512"/><spanish num="147"/><tagalog num="303"/></numbers>
+  <creators>
+    <author biodate="1851-1935" biolink="">Translated from James Martin Gray</author>
+  </creators>
+  <music>
+    <midiref type="h" num="303"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Não fui redimido com prata nem ouro,
+Nem toda a riqueza minh'alma salvou.
+O sangue na cruz: minha única base;
+A morte do meu Salvador me curou.</stanza>
+    <stanza type="chorus" number="">Deus me remiu, mas não com prata;
+Nem com ouro me comprou;
+Mas com o sangue de Seu Filho ?
+Alto preço de amor.</stanza>
+    <stanza type="verse" number="2">Não fui redimido com prata nem ouro,
+A culpa na minha consciência pesou.
+O sangue na cruz: minha única base;
+A morte do meu Salvador me comprou.</stanza>
+    <stanza type="verse" number="3">Não fui redimido com prata nem ouro,
+De aproximar-me a lei me impediu.
+O sangue na cruz: minha única base;
+A morte do meu Salvador me atraiu.</stanza>
+    <stanza type="verse" number="4">Não fui redimido com prata nem ouro,
+Entrada no reino, não compra o que é vil.
+O sangue na cruz: minha única base;
+A morte do meu Salvador me remiu.</stanza>
+  </lyrics>
+</hymn>

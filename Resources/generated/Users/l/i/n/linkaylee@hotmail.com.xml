@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>kaylee</firstname>
+<lastname>lin</lastname>
+<email>linkaylee@hotmail.com</email>
+<password>$1$e8mNjNhV$hSqW6qjUhjx0P0QVwEybq0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>97.113.15.173</ipaddress>
+<createdate>2008-08-11 00:46:25</createdate>
+<lastupdateddate>2009-09-15 18:25:36</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="135">Thank You, Lord Jesus, for dying for me</fav>
+        <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+        <fav category="default" type="h" num="1131">In a low dungeon, hope we had none</fav>
+        <fav category="default" type="ns" num="79">Praise the Lord, God sent His Son</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+        <fav category="default" type="h" num="1017">Christ has put on human nature</fav>
+        <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+        <fav category="default" type="ns" num="57">Have you found your human spirit</fav>
+        <fav category="default" type="c" num="93">All Scripture is God-breathed</fav>
+        <fav category="default" type="ns" num="58">The Bible is God's breath</fav>
+        <fav category="default" type="ns" num="74">Jesus, oh living Word of God</fav>
+        <fav category="default" type="h" num="1287">Let's take the land! The land that God has given us</fav>
+        <fav category="default" type="ns" num="14">I am crucified with Christ (New Zealand)</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="c" num="61">God is light, and in Him there is no darkness at all</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="c" num="31">Lord, today, keep my heart</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+    </favourites>
+</user>

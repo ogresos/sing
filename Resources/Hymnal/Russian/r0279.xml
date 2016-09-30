@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Годы горевал я у креста</title>
+  <index>true</index>
+  <category>ПОБУЖДЕНИЕ&amp;mdash;К ВХОЖДЕНИЮ В СВЯТОЕ СВЯТЫХ</category>
+  <numbers><english num="1208"/><german num="1208"/><korean num="834"/><russian num="279"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 5. 5/ 5./ 4// 3./ 4// | 5 6 5 - | 7. 7/ 7./ 6// 5./ 4// | 3 6 5 - (break) | 5. 5/ 5./ 4// 3./ 4// | 5 6 5 ._1 | ._2 - 7 - | ._1 - - 0 (break) | (Chorus) ._1. 7/ ._1./ 7// ._1./ 6// | 6 5 5 - (break) | 7. 6/ 7./ 6// 7./ 6// | 5 ._1 ._1 - (break) | ._1. 7/ ._1./ 7// ._1./ 6// | 6 5 5 ._1 | ._2 - 7 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="342"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Годы горевал я у креста,
+Каялся в грехах я без конца,
+Но коснулся, реку перейдя,
+Престола я.</stanza>
+	<stanza type="chorus" number="">Милость в Нём нашёл и благодать,
+Чтобы на ристалище бежать.
+Смело я сейчас иду опять
+Христа вкушать.</stanza>
+	<stanza type="verse" number="2">Каждый раз когда призыв звучал,
+Я был рад и каяться вставал,
+Ежедневно падал, но теперь
+Престол познал.</stanza>
+	<stanza type="verse" number="3">Братья, будем смело приступать,
+Оставлять грехи, вперёд бежать.
+Нет завесы, чтоб препятствовать
+И вход скрывать.</stanza>
+	<stanza type="verse" number="4">За завесой наслажденье – Бог,
+Жезл, и манна, и живой закон;
+Сам Христос – ковчег, чтоб жить нам в Нём,
+Аллилуйя!</stanza>
+  </lyrics>
+</hymn>

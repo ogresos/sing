@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joseph</firstname>
+  <lastname>Tsai</lastname>
+  <email>josephtsai30@yahoo.com</email>
+  <password>$2y$10$xvkR7WlMo9FTywS2vm.gCeR/s.RPpjbdfsl84KftMqRW4FDbr6vBK</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>70.137.181.44</ipaddress>
+  <createdate>2008-07-26 01:43:08</createdate>
+  <lastupdateddate>2016-07-22 19:45:32</lastupdateddate>
+  <lastlogindate>2016-07-22 19:45:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="252">Thou Breath from still eternity</fav>
+  </favourites>
+</user>

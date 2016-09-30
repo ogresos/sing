@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dako ang pagkamatinumanon Mo</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGKAMATINUMANON NIYA</category>
+  <numbers><cebuano num="19"/><chinese num="13"/><english num="19"/><korean num="13"/><portuguese num="15"/><russian num="11"/><tagalog num="19"/></numbers>
+  <creators>
+    <author biodate="1866-1960" biolink="">Translated from Thomas Obediah Chisholm</author>
+  </creators>
+  <music>
+    <midiref type="h" num="19"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dako ang pagkamatinumanon Mo,
+Dios Amahan wa Kay pagkausab;
+Kaluoy Mo wala gyuy pagkapakyas,
+Unsa Ka kanhi mao sa dayon.</stanza>
+    <stanza type="chorus" number="">Matinumanon Ka! Matinumanon Ka!
+Matag buntag bag-ong kaluoy Mo;
+Naghatag Ka sa tanang kinahanglan,
+Pagkamatinumanon Mo gayud!</stanza>
+    <stanza type="verse" number="2">Ting-init, tingtugnaw ug tingbuklad ba,
+Adlaw, Bulan ug kabitoonan;
+Niduyog pagsaksi's kinaiyahan,
+Sa Imong pagkamatinumanon.</stanza>
+    <stanza type="verse" number="3">Gipasaylo's sala, kalinawng lungtad,
+Presensyang naglipay ug naggiya;
+Kusog ko karon, paglaum sa ugma,
+Kabulahan naako'g daghan pa!</stanza>
+  </lyrics>
+</hymn>

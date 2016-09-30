@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We all with unveiled face</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:342"/></numbers>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <links>
+    <link type="ref">2 Corinthians 3:18</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0342.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">We all with unveiled face,
+Beholding and reflecting as a mirror
+The glory of the Lord,
+Are being transformed into the same image</stanza>
+    <stanza type="verse" number="">(Sing the following in rounds; brothers start first)</stanza>
+    <stanza type="verse" number="">From glory to glory, from glory to glory,
+From glory to glory, we are being transformed.</stanza>
+    <stanza type="verse" number="">(Brothers:) From glory to glory, from glory to glory,
+(Sisters:) ...From glory to glory,
+(Everyone:) From glory to glory,
+Even as from the Lord Spirit.</stanza>
+  </lyrics>
+</hymn>

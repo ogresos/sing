@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daniel</firstname>
+  <lastname>Jacobs</lastname>
+  <email>danieljacob348@gmail.com</email>
+  <password>$2y$10$txmUAsw9sWUR43gLlQX9kuYsILzjP/V5TItrxWGjlmbd2Aoy64fce</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>154.118.75.214</ipaddress>
+  <createdate>2016-07-06 16:58:19</createdate>
+  <lastupdateddate>2016-08-15 18:58:17</lastupdateddate>
+  <lastlogindate>2016-08-09 16:07:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

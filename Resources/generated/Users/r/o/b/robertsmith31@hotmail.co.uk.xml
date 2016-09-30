@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Bobsmith</firstname>
+    <lastname></lastname>
+    <email>robertsmith31@hotmail.co.uk</email>
+    <password>FF7G7TMVEynTx785jdDIIQ%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>141.101.98.109</ipaddress>
+    <createdate>2014-01-18 16:02:29</createdate>
+    <lastupdateddate>2014-01-18 17:26:23</lastupdateddate>
+    <lastlogindate>2014-01-18 16:04:07</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="358">Love Divine, all love excelling</fav>
+        <fav category="default" type="h" num="1150">We're feeding on the living bread</fav>
+    </favourites>
+</user>

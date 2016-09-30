@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Pag-ibig, 'ko'y inangkin</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAPILIT NG PAG-IBIG NG PANGINOON</category>
+  <numbers><chinese num="332"/><english num="432"/><french num="73"/><korean num="332"/><portuguese num="199"/><tagalog num="432"/></numbers>
+  <creators>
+    <author biodate="1842-1906" biolink="">Translated from George Matheson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="432"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Pag-ibig, 'ko'y inangkin,
+Ako'y namahinga sa Iyo;
+Buhay ko sa Iyo'y ihain,
+Nang sa lalim ng dagat Mo
+Ito'y payamanin.</stanza>
+    <stanza type="verse" number="2">O Ilaw, gabay ko sa daan,
+Suko ko aking ilawan;
+Puso ko nang Iyong sikatan,
+Higit na naliwanagan;
+Mas ang kagandahan.</stanza>
+    <stanza type="verse" number="3">O Galak&amp;mdash;nag-alis lumbay,
+Di ko sasarhan puso ko;
+Bahaghari ang patunay
+Sa Iyong tiyak na pangako,
+Umagang makulay.</stanza>
+    <stanza type="verse" number="4">O Krus, sa 'kin nagtingala,
+Hindi kita maiiwan;
+Pangmundo'y nailibing na
+Ang buhay na walang hanggan
+Ay namulalak na.</stanza>
+  </lyrics>
+</hymn>

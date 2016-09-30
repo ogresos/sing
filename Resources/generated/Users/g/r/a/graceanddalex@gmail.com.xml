@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Grace</firstname>
+    <lastname>Lin</lastname>
+    <email>graceanddalex@gmail.com</email>
+    <password>oqZJiUQhb8q7wVzWQxW%2BOw%3D%3D</password>
+    <gender></gender>
+    <country>China</country>
+    <ipaddress>218.103.182.122</ipaddress>
+    <createdate>2014-05-23 15:21:12</createdate>
+    <lastupdateddate>2014-05-23 15:21:12</lastupdateddate>
+    <lastlogindate>2014-05-23 14:53:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="154">It passeth knowledge, that dear love of Thine</fav>
+        <fav category="default" type="ch" num="330">主愛長闊高深</fav>
+        <fav category="default" type="ch" num="127">耶穌我主榮耀主</fav>
+        <fav category="default" type="ch" num="346">跟隨跟隨</fav>
+        <fav category="default" type="ch" num="338">都歸基督都歸基督</fav>
+    </favourites>
+</user>

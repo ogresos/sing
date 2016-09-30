@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Herr, unsre Hallelujas</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Würdigkeit</category>
+  <numbers><cebuano num="185"/><chinese num="ts:24"/><english num="185"/><german num="185"/><tagalog num="185"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <layout>
+	<singingstanza>Oh Herr, uns -- re Hal -- le -- lu -- jas Stei -- gen auf ver -- mehrt. Wor -- te kön -- nen nicht ge -- büh -- rend Rüh -- men Dei -- nen Wert. Preist das Lamm, denn Es ist wür -- dig! E -- wig bleibt be -- stehn. Hal -- le -- lu -- ja! Hal -- le -- lu -- ja! Preist den Herrn! A -- men.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh Herr, unsre Hallelujas
+Steigen auf vermehrt.
+Worte können nicht gebührend
+Rühmen Deinen Wert.</stanza>
+	<stanza type="chorus" number="">Preist das Lamm, denn Es ist würdig!
+Ewig bleibt bestehn.
+Halleluja! Halleluja!
+Preist den Herrn! Amen.</stanza>
+	<stanza type="verse" number="2">Preist das Lamm! Denn Es ist würdig,
+Uns erlöst vom Tod,
+Durch Sein Blut zu Königen
+Und Priestern macht für Gott.</stanza>
+	<stanza type="verse" number="3">Halleluja! Gottes Liebe
+Fließt so reich aus Dir;
+Wir gehören Dir für ewig,
+Eins mit Dir sind wir.</stanza>
+	<stanza type="verse" number="4">Preist den Herrn! Ja, halleluja!
+Er ist's wert allein.
+Singt mit den Erlösten freudig,
+Völker, stimmt mit ein!</stanza>
+  </lyrics>
+</hymn>

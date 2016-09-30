@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tosin</firstname>
+  <lastname>Kupoluyi</lastname>
+  <email>kuptosin@gmail.com</email>
+  <password>$2y$10$1OcdtA5SPXL864BS7VbqYe5.ZF3/nQCHuuMB97c5UlhAtiZMWDqfK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.52.88.199</ipaddress>
+  <createdate>2016-01-23 23:24:44</createdate>
+  <lastupdateddate>2016-02-28 22:16:46</lastupdateddate>
+  <lastlogindate>2016-02-28 22:15:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="860">Blest be the tie that binds</fav>
+    <fav category="default" type="h" num="398">O to be like Thee</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

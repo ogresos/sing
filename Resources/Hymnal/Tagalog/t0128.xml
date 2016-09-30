@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Higit sa lahat ang Manliligtas</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKADAKILA</category>
+  <numbers><chinese num="117"/><english num="128"/><korean num="117"/><spanish num="67"/><tagalog num="128"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from H. E. G.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="128"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Higit sa lahat ang Manliligtas
+Sa salarin, Kordero ang lunas,
+Nabubuhay nang ating matawag,
+Tinaas ng Diyos higit sa lahat.</stanza>
+    <stanza type="chorus" number="">Humihigit Siya sa lahat!
+Kristo napako, higit sa lahat!
+Tayo'y sangkap Niya na tumatawag,
+Tinaas ng Diyos higit sa lahat!</stanza>
+    <stanza type="verse" number="2">Matinding alon na lumalamon;
+Kaligtasa'y nasa Panginoon,
+Tingnan si Hesus, tayo'y tangan Niya,
+Lumakad sa alon nang payapa.</stanza>
+    <stanza type="verse" number="3">May hadlang sa atin sa lansangan,
+Mga balakid sa 'ting daanan;
+Walang takot tayo ay lalakad
+Sa Kanya tayo'y higit sa lahat.</stanza>
+    <stanza type="verse" number="4">Tanging sa Kanya ang kaharian,
+Saklaw ang tanang kapanahunan,
+Kasama'y matagumpay na banal,
+Maharlika na higit sa lahat.</stanza>
+  </lyrics>
+</hymn>

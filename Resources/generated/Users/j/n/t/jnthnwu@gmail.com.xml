@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jonathan</firstname>
+  <lastname>Wu</lastname>
+  <email>jnthnwu@gmail.com</email>
+  <password>$2y$10$ke2pNUdtfALB6fHtGk.Vmebg/MSnAcdjU5Diw92DgpojMyS/HsPFa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.35.101</ipaddress>
+  <createdate>2015-04-22 18:26:10</createdate>
+  <lastupdateddate>2016-02-05 10:34:05</lastupdateddate>
+  <lastlogindate>2016-02-05 10:34:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="419">And we have the prophetic word</fav>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="nt" num="531">Fade, fade each earthly joy</fav>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+    <fav category="default" type="nt" num="720b">God Hath Not Promised (2)</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="h" num="6848">Hear my song, wondrous love</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="nt" num="1278">In the church of Jesus there is love for you</fav>
+    <fav category="default" type="nt" num="154">It passeth telling, that dear love of Thine</fav>
+    <fav category="default" type="h" num="287">Jesus, Jesus, Jesus</fav>
+    <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+    <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+    <fav category="default" type="nt" num="383">Sweet Will of God</fav>
+    <fav category="default" type="ns" num="286">We Have a Father</fav>
+    <fav category="default" type="ts" num="848">聽我唱奇妙愛</fav>
+  </favourites>
+</user>

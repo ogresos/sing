@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Full salvation! Full salvation</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved by Grace</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>345176543451132</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - G - | C - - - | F - G - | C - - - | F - G - | C - - - | G7 - C - | Am - - - | C/G - F - | C - - - | G7 - C - |</chords>
+  <melody>| 3. 4/ 5 ._1 | 7 6 5 4 | 3 4 5 ._1 | ._1 ._3 ._2 - (break) | ._3. ._2/ ._1 7 | 6 ._1 6 5 | 3 4 5 ._1 | ._2. ._1/ ._1 - (break) | (Chorus) ._3. ._3/ ._3/( ._2/) ._1 | ._3. ._3/ ._3/( ._2/) ._1 | 3 4 5 ._1 | ._2. ._1/ ._1 - |</melody>
+  <layout>
+    <singingstanza>Full sal -- va -- tion! Full sal -- va -- tion! Lo, the foun -- tain o -- pened wide, Streams through ev -- ery land and na -- tion From the Sav -- ior's wound -- ed side. Full sal -- va -- tion! Full sal -- va -- tion! Streams an end -- less crim -- son tide. Streams an end -- less crim -- son tide.</singingstanza>
+    <columns>2</columns>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="321"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="X_GLOESuf-s"/>
+  </videos>
+  <music>
+    <midi location="nt" length="27">e0321_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Full salvation! Full salvation!
+  Lo, the fountain opened wide,
+Streams through every land and nation
+  From the Savior's wounded side.
+Full salvation! Full salvation!
+  Streams an endless crimson tide.</stanza>
+    <stanza type="verse" number="2">Oh, the glorious revelation!
+  See the cleansing current flow,
+Washing stains of condemnation
+  Whiter than the driven snow:
+Full salvation! Full salvation!
+  Oh, the rapturous bliss to know.</stanza>
+    <stanza type="verse" number="3">Love's resistless current sweeping
+  All the regions deep within;
+Thought, and wish, and senses keeping
+  Now, and every instant, clean:
+Full salvation! Full salvation!
+  From the guilt and power of sin.</stanza>
+    <stanza type="verse" number="4">Life immortal, Christ descending,
+  Lo! my heart the Spirit's shrine:
+God and man in oneness blending,
+  Oh, what fellowship is mine!
+Full salvation! Full salvation!
+  Raised in Christ to life divine!</stanza>
+    <stanza type="verse" number="5">Care and doubting, gloom and sorrow,
+  Fear and shame are mine no more;
+Faith knows naught of dark tomorrow,
+  For my Savior goes before:
+Full salvation! Full salvation!
+  Full and free for evermore!</stanza>
+  </lyrics>
+</hymn>

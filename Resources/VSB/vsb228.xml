@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The new covenant ministry&amp;mdash;a ministry of God</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Minister of the New Covenant</category>
+  <numbers><english num="ns:251"/><vsb num="228"/></numbers>
+  <hymncode>51123255544565</hymncode>
+  <key>Db Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/B. G. | F - - | C - - | F - - | C - - | D - - | G - - | F - - | G - - | C - - | C - - | F - - | G - - | C. G/B. | Am. C/G. | F - - | G - - | C - - | C7 - - | F - - | G - - | C - - | F - - | C/G. Am. | Dm. G7. | C. F/C. | C - - | C - - | G/B. G. | F - - | C - - | F - - | C - - | D - - | G - - | F - - | G - - | C - - | C - - | F - - | G - - | C. G/B. | Am. C/G. | F - - | G - - | C - - | C7 - - | F - - | G - - | C - - | F - - | C/G. Am. | Dm. G7. | C. F/C. | C - - |</chords>
+  <melody>| 0. 0 (Verse_1) 5/ | 1. 1/ 2/ 3/ | 2 5/ 5 5/ | 4 4/ 5 6/ | 5. 0/ 3/ 5/ | 6 6/ 6/ 5/ 4/ | 5 3/ 4 3/ | 2. 5 6/ | 5. 0/ 1/ 7_./ | 6_. 7_./ 1. | 7_./ 7_./ 1/ 2/ 1/ 7_./ | 1 - - (break) | 0/ (Verse_2) 1/ 1/ 1/ 1/ 7_./ | 6_. 7_./ 1 4/ | 3/ 2( 2) 2/ | 3 3/ 3/ 5/ 3/ | 1. 1/ 7_./ 1/ | 4. 4 3/ | 2. 1 2/ | 3/ 5( 5.) | 0 1/ 1/( 7_./) 1/ | 4. 4 4/ | 5. 5/ 6/ 7/ | ._1 ._1/ ._1 5/ | 6. 0/ 6/ 6/ | 5 3/ 3 1/ | 2. 2. | 1( - - (break) | 1.) 0 (Verse_3) 5/ | 1. 1/ 2/ 3/ | 2 5/ 5 5// 5// | 4 4/ 5 6/ | 5. 3/ 4/ 5/ | 6.( 6) 6/ | 5 3/ 4 3/ | 2 2/ 2 3/ | 3/ 2 0/ 1/ 7_./ | 6_./ 6_./ 7_./ 1 6_.// 6_.// | 7_. 1/ 2/( 1/) 7_./ | 1 - - (break) | 0/ (Verse_4) 1/ 1/ 1/ 1/ 7_./ | 6_.. 1 4/ | 3/ 2( 2/) 2/ 2/ | 3. 5 3/ | 1. 1/( 7_./) 1/ | 4. 3. | 2. 6. | 5 - - | 0 1/ 1/ 7_./ 1/ | 4 - - | 5/ 6/ 7/( 7) 7/ | ._1 ._1/ ._1 5/ | 6 - - | 5. 3 5/ | 6.( 7.) | ._1( - - | ._1.) 0. |</melody>
+  <layout>
+    <singingstanza end="-1">The new cov -- e -- nant min -- is -- try&amp;mdash; a min -- is -- try of God&amp;mdash; is the min -- is -- try of the Spir -- it who gives life (who gives life) and of righ -- teous -- ness as the ex -- pres -- sion of God. The new cov -- e -- nant min -- is -- ters are per -- sons Whose hearts have turned to the Lord, Who are en -- joy -- ing the Lord as the Spir -- it, And who are be -- ing trans -- formed in -- to the im -- age of the Lord by be -- hold -- ing and re -- flect -- ing Him. The new cov -- e -- nant min -- is -- ters are am -- bas -- sa -- dors of Christ Car -- ry -- ing out the min -- is -- try of re -- con -- ci -- li -- a -- tion To bring us in -- to God and to make us one with God. The new cov -- e -- nant min -- is -- ters' liv -- ing Is a liv -- ing of grace, The ex -- pe -- ri -- ence of grace, Which is the Di -- vine Trin -- i -- ty Trans -- mit -- ted in -- to us for our en -- joy -- ment.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0251.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The new covenant ministry&amp;mdash;a ministry of God&amp;mdash;
+is the ministry of the Spirit who gives life (who gives life)
+and of righteousness as the expression of God.</stanza>
+    <stanza type="verse" number="2">The new covenant ministers are persons
+Whose hearts have turned to the Lord,
+Who are enjoying the Lord as the Spirit,
+And who are being transformed
+into the image of the Lord
+by beholding and reflecting Him.</stanza>
+    <stanza type="verse" number="3">The new covenant ministers are ambassadors of Christ
+Carrying out the ministry of reconciliation
+To bring us into God and to make us one with God.</stanza>
+    <stanza type="verse" number="4">The new covenant ministers' living
+Is a living of grace,
+The experience of grace,
+Which is the Divine Trinity
+Transmitted into us for our enjoyment.</stanza>
+  </lyrics>
+</hymn>

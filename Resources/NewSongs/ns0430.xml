@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The spirit of man is the lamp of Jehovah</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Sandy Williams">S. W.</composer>
+  </creators>
+  <hymncode>334655555553</hymncode>
+  <key>G Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | E - - | E7 - - | Am - - | Am - - | D7 - - | G - - | G7 - - | G - - | G7 - - | C - - | F - - | Dm7 - - | G - - | C - - | F - - | Dm7 - - | G - - | C. F/C. | C - - ||</chords>
+  <melody>| 0 3_./ 3_./ 4_./ 6_./ | (startrepeat) 5_.( - - | 5_./) 5_./ 5_./ 5_./ 5_./ 5_./ | 5#_.. 3.( (break) | 3.) 3 2/ | 1 1/ 1/ 2/ 3/ | 1.( 1/) 2/ 1/ | 2. 6_.. (break) | (alt1) 1. 7_..( | 7_.) 3_./ 3_./ 4_./ 6_./ | (alt2) 1. 7_..( | 7_.) 7_./ 7_./ 1/ 2/ (endalt) (break) | 1. 1 5/ | 4. 3 2/ | 1 - - (break) | 2 7_./ 7_./ 1/ 2/ | 1. 1 5/ | 4. 3 2/ | 1 - - (break) | 2 7_./ 7_./ 1/ 2/ | 1( - - | 1) 0/ 0. ||</melody>
+  <layout>
+    <singingstanza end="-1">The spir -- it of man is the lamp of Je -- ho -- vah, search -- ing all the in -- ner -- most parts of the in -- ner be -- ing. The spir -- it of be -- ing. The spir -- it of man is the lamp of Je -- ho -- vah, The spir -- it of man is the lamp of Je -- ho -- vah, The spir -- it of man...</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Proverbs 20:27</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="PIhQn7XCiZk"/>
+  </videos>
+  <music>
+    <midi location="ns" length="73">ns0430.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The spirit of man
+Is the lamp of Jehovah,
+Searching all the innermost parts
+Of the inner being.
+(repeat)</stanza>
+    <stanza type="verse" number="">The spirit of man
+Is the lamp of Jehovah,
+The spirit of man
+Is the lamp of Jehovah,
+The spirit of man...</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>phoebe</firstname>
+  <lastname/>
+  <email>charis0831@gmail.com</email>
+  <password>$2y$10$w2d3QhXHr6Mig9iw7/pA8utXDe.O4tGCOoBYh6i3ljXx6PWt8HWuS</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>110.28.141.124</ipaddress>
+  <createdate>2015-05-06 13:07:26</createdate>
+  <lastupdateddate>2015-08-12 13:12:02</lastupdateddate>
+  <lastlogindate>2015-08-12 13:12:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="h" num="226">For the bread and for the wine</fav>
+    <fav category="default" type="ns" num="3">God has a dream</fav>
+    <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+    <fav category="default" type="ns" num="476">God's Dream</fav>
+    <fav category="default" type="ns" num="481">Highways to Zion</fav>
+    <fav category="default" type="nt" num="711b">I know not what awaits me (Alternate)</fav>
+    <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="307">Morning Dew</fav>
+    <fav category="default" type="ns" num="397">My only hope is the Lord</fav>
+    <fav category="default" type="ns" num="233">Not poquito, nor kidogo</fav>
+    <fav category="default" type="ns" num="379">Preserve me, O God</fav>
+    <fav category="default" type="ns" num="396">Take me Lord, and fill me with Your dear Self</fav>
+    <fav category="default" type="ns" num="372">Who can be entrusted, God's gospel spread</fav>
+    <fav category="default" type="nt" num="642">Within the veil</fav>
+  </favourites>
+</user>

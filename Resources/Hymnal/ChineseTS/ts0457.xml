@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我在這裏</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3345563544234767653</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 在 這 裏， 天 使 睽 睽 注 目； 主 權 已 交 出， 如 釋 重 負， 不 再 為 世 界 奴 僕。 我 在 這 裏！ 今 全 屬 基 督， 願 跟 隨 卑 微 耶 穌， 直 至 掌 權 國 度！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0457.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我在這裏，天使睽睽注目；
+主權已交出，如釋重負，
+不再為世界奴僕。
+我在這裏！今全屬基督，
+願跟隨卑微耶穌，
+直至掌權國度！</stanza>
+	<stanza type="verse" number="2">我在這裏，世人瞠目驚喟：
+“竟如此枉費？”但我無悔，
+因知道所信是誰！
+我在這裏！得上好機會，
+將寶貴玉瓶打碎，
+見證祂的甘美。</stanza>
+	<stanza type="verse" number="3">我在這裏，撒但已在抖顫：
+真相終揭穿─大巴比倫，
+要被神烈火審判。
+我在這裏！永不向後看！
+上到樓房來奉獻，
+福音地極傳遍！</stanza>
+	<stanza type="verse" number="4">我在這裏，我看見祂微笑：
+祂的一聲“好”，價值何高，
+勝一切人的榮耀。
+我在這裏！歸回為建造；
+黑夜已深將破曉，
+惟願祂來得早！</stanza>
+  </lyrics>
+</hymn>

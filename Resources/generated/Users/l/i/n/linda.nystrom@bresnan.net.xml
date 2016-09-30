@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Nystrom</lastname>
+    <email>linda.nystrom@bresnan.net</email>
+    <password>5wr7VFjtTWt1Z0JGOhk1LQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>199.27.128.237</ipaddress>
+    <createdate>2014-02-06 22:14:21</createdate>
+    <lastupdateddate>2014-02-06 22:23:48</lastupdateddate>
+    <lastlogindate>2014-02-06 22:14:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="160">King of my life, I crown Thee now</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    </favourites>
+</user>

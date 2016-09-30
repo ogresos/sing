@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dugangi, Ginoo</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MOTUBO DIHA NI CRISTO</category>
+  <numbers><cebuano num="397"/><chinese num="297"/><english num="397"/><korean num="297"/><tagalog num="397"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="397"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dugangi, Ginoo,
+Kabalaan ko,
+Duganging pailub
+Diha's pag-antus;
+Duganging pagtoo
+Sa Manluluwas,
+Ug kalipay sa
+Pag-alagad Nimo.</stanza>
+    <stanza type="chorus" number="">Ginoo, tabangi ko,
+Lipaya ug lig-ona;
+L'wason Mo matag gutlo,
+Gil'was Mo na karon.</stanza>
+    <stanza type="verse" number="2">Duganging pagsalig,
+Pagpasalamat,
+Tinguha's himaya,
+Paglaum's Pulong,
+Duganging pagluha's
+Kasub-anan N'ya,
+Kaaghop's pagsulay,
+Pagdayeg's paghupay.</stanza>
+    <stanza type="verse" number="3">Duganging pagdaug,
+Kusog's pagdaug,
+Paggawas sa yuta,
+Pag-agpas' trono,
+Labing maangayan
+Sa gingharian,
+Labing mabalaan,
+Masama Nimo.</stanza>
+  </lyrics>
+</hymn>

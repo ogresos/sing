@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lidia</firstname>
+  <lastname>Oh</lastname>
+  <email>lidiaoh@gmail.com</email>
+  <password>$2y$10$m7/fLKPTaYZqtOpyzXV5uefycQjzKQQgv2Zpvr9dE6Alb7Hgs6lEm</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>139.194.24.57</ipaddress>
+  <createdate>2014-10-13 11:05:12</createdate>
+  <lastupdateddate>2014-10-17 07:24:40</lastupdateddate>
+  <lastlogindate>2014-10-14 01:42:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+    <fav category="default" type="ns" num="481">Highways to Zion</fav>
+    <fav category="default" type="ns" num="133">I Love My Master</fav>
+    <fav category="default" type="ns" num="109">Lord, there's nothing in this world like You</fav>
+    <fav category="default" type="ns" num="350">O Lord, we'd know Your heart today</fav>
+    <fav category="default" type="ns" num="365">With the kisses of Your mouth</fav>
+  </favourites>
+</user>

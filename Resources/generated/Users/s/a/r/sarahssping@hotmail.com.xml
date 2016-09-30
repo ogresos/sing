@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles/>
+  <firstname>Sarah</firstname>
+  <lastname>Sim</lastname>
+  <email>sarahssping@hotmail.com</email>
+  <password>$2y$10$t..LOG.QZ28ljSgcrsDg6OuC.dtDgPtg0pMXS2bu4A9Wf1bFQeLm2</password>
+  <gender>F</gender>
+  <country>United Kingdom</country>
+  <ipaddress>195.194.48.145</ipaddress>
+  <createdate>2014-04-11 02:57:20</createdate>
+  <lastupdateddate>2015-01-02 18:50:31</lastupdateddate>
+  <lastlogindate>2015-01-02 18:50:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="ts" num="305">主耶穌，你美麗奪了我心</fav>
+    <fav category="default" type="ch" num="293">求你揀選我道路</fav>
+  </favourites>
+</user>

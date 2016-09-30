@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nelvin Jones</firstname>
+  <lastname>Teman</lastname>
+  <email>nelvinjones.teman@gmail.com</email>
+  <password>$2y$10$ChK4ivRGnIYWLoxdzoMXfOO8p4OQrM4PR0s9tIh8puNID1Osd/TFK</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>112.198.103.33</ipaddress>
+  <createdate>2016-05-05 14:05:46</createdate>
+  <lastupdateddate>2016-05-05 14:06:54</lastupdateddate>
+  <lastlogindate>2016-05-05 14:06:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

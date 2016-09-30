@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ben</firstname>
+    <lastname>Rademacher</lastname>
+    <email>barclim@hotmail.com</email>
+    <password>$1$NMRThSjr$New/4ZfR9zoK2zb2CGKT10</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>98.198.212.195</ipaddress>
+    <createdate>2008-09-12 22:35:15</createdate>
+    <lastupdateddate>2012-12-04 14:20:06</lastupdateddate>
+    <lastlogindate>2012-12-04 14:20:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+        <fav category="default" type="h" num="515">All is in Christ</fav>
+        <fav category="default" type="nt" num="716">Begone, unbelief</fav>
+        <fav category="default" type="ns" num="194">Lord, You are the living spring</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="ns" num="239">Lord, take my life</fav>
+        <fav category="default" type="lb" num="32">Lord, we want to live You</fav>
+        <fav category="default" type="lb" num="33">My heart was far from You</fav>
+        <fav category="default" type="lb" num="21">O God of glory</fav>
+        <fav category="default" type="ns" num="25">O Lord, I love You, I really love You</fav>
+        <fav category="default" type="h" num="1045">O do not let the Word depart</fav>
+        <fav category="default" type="ns" num="60">O there's One in me</fav>
+        <fav category="default" type="lb" num="9">Oh! Jesus, Jesus</fav>
+        <fav category="default" type="nt" num="426">Remove My Covering, Lord</fav>
+        <fav category="default" type="h" num="559">Savior, I by faith am touching Thee</fav>
+        <fav category="default" type="ns" num="30">Take time to absorb Him</fav>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+        <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+        <fav category="default" type="h" num="556">Thy name is sweet as ointment poured forth</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+        <fav category="default" type="ns" num="75">Water you, water you</fav>
+    </favourites>
+</user>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>K</firstname>
+  <lastname>Lund</lastname>
+  <email>imkyrsy@gmail.com</email>
+  <password>$2y$10$nVkxR4PFM/Em450.kdyX7.dZy2ZHnU3n.bpMJkLsYgYaGfye/dcWy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.52.80.171</ipaddress>
+  <createdate>2015-07-15 00:44:38</createdate>
+  <lastupdateddate>2015-07-15 01:51:16</lastupdateddate>
+  <lastlogindate>2015-07-15 01:41:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="c" num="78">God is So Good to Me!</fav>
+    <fav category="default" type="c" num="35">I Love God! He Put the Fish in the Sea</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+  </favourites>
+</user>

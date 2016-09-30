@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hindi mabigkas ng labi</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAG-AANGKIN NG LAHAT SA LOOB NG PANGINOON</category>
+  <numbers><cebuano num="473"/><chinese num="355"/><english num="473"/><french num="80"/><german num="473"/><korean num="355"/><portuguese num="214"/><russian num="86"/><spanish num="196"/><tagalog num="473"/></numbers>
+  <creators>
+	<author biodate="1858-1955" biolink="">From Catherine Booth-Clibborn</author>
+  </creators>
+  <melody>| 0. 0 5/ | 5 3/ 3/( 2/) 1/ | 2 6_./ 6_. 6_./ | 5_. 1/ 1/( 2/) 3/ (break) | 2.( 2) 5/ | 5 3/ 3/( 2/) 1/ | 2 6_./ 6_. 6_./ | 5_. 1/ 3 2/ (break) | 1.( 1) 5_./ | 2 2/ 2/( 1/) 2/ | 3 2/ 1 3/ | 4# 4#/ 4#/( 3/) 2/ (break) | 5.( 5) 5/ | 5 3/ 3/( 2/) 1/ | 2 6_./ 6_. 6_./ | 5_. 1/ (.3 2/ | 1.( 1) 0/ |</melody>
+  <music>
+	<midiref type="h" num="473"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hindi mabigkas ng labi
+Laya ng nilalang;
+Na sa suhol ay tumanggi
+Mapasa Diyos lamang.
+Kanya ang lahat ng bagay,
+Buhay, kamatayan,
+Si Kristo ang kanyang buhay,
+Hininga't tirahan.</stanza>
+	<stanza type="verse" number="2">Kung katulad lamang natin
+Hari ang humirang;
+Kataka-takang tanggihan
+Maging Kanya lamang.
+Huwag mong sabihing pagdurusa,
+Anong karangalan:
+Sa makalangit na hukbo
+Ika'y mapabilang.</stanza>
+	<stanza type="verse" number="3">Gising! Tanggapin ang alok,
+Tingi maging buo!
+Mga tao't pangyayari,
+Maglilingkod sa iyo.
+Sa iyo ang lahat ng bagay,
+Kung ikaw ay Kanya.
+At may walang hanggang buhay.
+Ikaw sa loob Niya.</stanza>
+  </lyrics>
+</hymn>

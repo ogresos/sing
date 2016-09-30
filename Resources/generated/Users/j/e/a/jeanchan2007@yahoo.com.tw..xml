@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>jean</firstname>
+<lastname>Chan</lastname>
+<email>jeanchan2007@yahoo.com.tw.</email>
+<password>$1$T2zlysBT$NnTtiiMMRN8sUUVMsYXvT/</password>
+<gender>F</gender>
+<country>Taiwan</country>
+<ipaddress>61.59.85.185</ipaddress>
+<createdate>2009-02-19 06:44:42</createdate>
+<lastupdateddate>2009-09-15 18:29:32</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="724">A little bird I am</fav>
+        <fav category="default" type="c" num="22">All English children call Him, Lord</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

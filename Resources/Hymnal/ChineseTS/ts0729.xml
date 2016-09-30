@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿利路亞，自由</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>556561556561</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>阿 利 路 亞， 自 由！ 阿 利 路 亞， 自 由！ 我 不 再 受 罪 的 捆 綁。 因 主 耶 穌， 將 我 罪 辜 釘 在 十 架， 阿 利 路 亞！ 我 自 由！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0729.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿利路亞，自由！
+阿利路亞，自由！
+我不再受罪的捆綁。
+因主耶穌，
+將我罪辜釘在十架，
+阿利路亞！我自由！</stanza>
+	<stanza type="verse" number="2">阿利路亞，自由！
+阿利路亞，自由！
+我不再隨儀文擺佈，
+脫離宗教，
+完全聖別成為新人，
+阿利路亞！我自由！</stanza>
+	<stanza type="verse" number="3">阿利路亞，自由！
+阿利路亞，自由！
+祂的生命，變化了我，
+天天更新，
+直到長成基督身量，
+阿利路亞！我自由！</stanza>
+	<stanza type="verse" number="4">阿利路亞，自由！
+阿利路亞，自由！
+我們是為主的見證，
+在身體裡，
+同被模成神的形像。
+阿利路亞！全自由！</stanza>
+	<stanza type="verse" number="5">阿利路亞，自由！
+阿利路亞，自由！
+交給召會，配搭一起，
+經營建造，
+成為神的榮耀身體。
+阿利路亞！全自由！</stanza>
+	<stanza type="verse" number="6">阿利路亞，自由！
+阿利路亞，自由！
+我們經歷真實建造，
+終於尋到─
+地方召會，乃是神家。
+阿利路亞！全自由！</stanza>
+  </lyrics>
+</hymn>

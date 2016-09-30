@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>John</firstname>
+<lastname>Day</lastname>
+<email>johnday99@sky.com</email>
+<password>$1$QD0PhAbk$jZMfwbzqhMhymd7xskKFL1</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>90.213.34.40</ipaddress>
+<createdate>2008-07-29 10:46:08</createdate>
+<lastupdateddate>2009-09-15 18:25:30</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+    </favourites>
+</user>

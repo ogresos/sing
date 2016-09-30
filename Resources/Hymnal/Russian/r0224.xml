@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Чтоб познать мне воскресенье</title>
+  <index>true</index>
+  <category>ПУТЬ КРЕСТА&amp;mdash;ПУТЬ ЖИЗНИ</category>
+  <numbers><cebuano num="631"/><chinese num="464"/><english num="631"/><korean num="464"/><portuguese num="321"/><russian num="244"/><spanish num="297"/><tagalog num="631"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Чтоб по -- знать мне вос -- кре -- се -- нье, Крест я дол -- жен по -- лю -- бить.  Лишь из смер -- ти жизнь вос -- ста -- нет, Не ум -- рёшь,_– не бу -- дешь жить.  Ес -- ли смер -- ти нет, То и жиз -- ни нет; Лишь из смер -- ти жизнь вос -- ста -- нет, Я -- вит -- ся на свет.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Чтоб познать мне воскресенье,
+Крест я должен полюбить.
+Лишь из смерти жизнь восстанет,
+Не умрёшь, – не будешь жить.</stanza>
+    <stanza type="chorus" number="">Если смерти нет,
+То и жизни нет;
+Лишь из смерти жизнь восстанет,
+Явится на свет.</stanza>
+    <stanza type="verse" number="2">Чтобы смог образоваться
+В глубине меня Христос,
+Нужно, чтоб, отвергнув душу,
+Каждый день свой крест я нёс.</stanza>
+    <stanza type="verse" number="3">Если Бог навек чрез Духа
+С Господом меня распнёт,
+Чрез меня под силой смерти
+Жизнь Его проистечёт.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samuel</firstname>
+  <lastname>Anantharaj</lastname>
+  <email>samuelanantharaj@gmail.com</email>
+  <password>$2y$10$M7yoHs.pOie5ivs1UY04iuaSZH8vBx9gOjfjhXZpanLo0FhlwynG.</password>
+  <gender/>
+  <country/>
+  <ipaddress>37.216.15.21</ipaddress>
+  <createdate>2016-02-03 20:11:18</createdate>
+  <lastupdateddate>2016-03-09 16:34:00</lastupdateddate>
+  <lastlogindate>2016-03-09 16:06:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="720">God Hath Not Promised</fav>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+    <fav category="default" type="h" num="384">My Jesus, as Thou wilt</fav>
+  </favourites>
+</user>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>是生命使我們高聲喊</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><chinese num="ts:124"/><english num="ns:188"/><vsb num="98"/></numbers>
+  <melody>| 0 - - 1/ 2/ | 3 3 3. 3/ | 4/ 3/ 2#/ 3/ 1 1/ 1/ | 2 2 - 1/ 2/ | 3 - - 1/ 2/ (break) | 3 3 3. 3/ | 4/ 3/ 2#/ 3/ 1 1/ 1/ | 2 4 3 2 | 1 - - 5_. (break) | 1 1 1 7_. | 6_. 6_. 6_. 1 | 2 2 2 1 | 7_. 2 5 5_. (break) | 1 - 2 - | 3 1 5 5 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>是 生 命， 生 命 使 我 們 高 聲 喊， 阿 利 路 亞！ 讚 美 主！ 是 生 命， 生 命， 使 我 們 高 聲 喊， 阿 利 路 亞！ 讚 美 主！ 我 們 心 中 充 滿 喜 樂， 主 在 我 們 裡 面 活 著， 主 在 我 們 裡 面 活 著！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="188"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">是生命，生命
+使我們高聲喊，
+阿利路亞！讚美主！
+是生命，生命，
+使我們高聲喊，
+阿利路亞！讚美主！
+我們心中充滿喜樂，
+主在我們裡面活著，
+主在我們裡面活著！</stanza>
+  </lyrics>
+</hymn>

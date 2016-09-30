@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Tamara</firstname>
+    <lastname>De Hart</lastname>
+    <email>ch0zen0ne2000@yahoo.com</email>
+    <password>$1$5xuBHJnC$tH.9ekApsAzXBChKiatX01</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>68.105.106.117</ipaddress>
+    <createdate>2008-07-26 01:43:00</createdate>
+    <lastupdateddate>2010-04-22 20:49:19</lastupdateddate>
+    <lastlogindate>2010-04-22 20:49:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="101">Daniel was a child like me</fav>
+        <fav category="default" type="c" num="132">God made me a three-part man</fav>
+        <fav category="default" type="h" num="1088">God was born a human being</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="h" num="1179">My old man has been crucified with Him</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="c" num="102">Why was a cup made?</fav>
+    </favourites>
+</user>

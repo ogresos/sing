@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Moadto ba kong way dala"</title>
+  <index>true</index>
+  <category>PAGSANGYAW SA EBANGHELYO&amp;mdash;WALAY DALA?</category>
+  <numbers><cebuano num="930"/><chinese num="668"/><english num="930"/><french num="173"/><korean num="668"/><russian num="148"/><spanish num="418"/><tagalog num="930"/></numbers>
+  <creators>
+    <author biodate="1847-1924" biolink="www.hymns.net/stories/luther.htm">Translated from Charles Carroll Luther</author>
+  </creators>
+  <music>
+    <midiref type="h" num="930"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Moadto ba kong way dala"
+Pagtagbo's Manunubos?
+Wala ko'y nahimong buhat,
+Bisan unsa alang N'ya.</stanza>
+    <stanza type="chorus" number="">"Moadto ba kong way dala"
+Pagtagbo's Manluluwas?
+Way dalang kalag alang N'ya,
+Bisan usa na lamang.</stanza>
+    <stanza type="verse" number="2">Mamatay man way kahadlok,
+Kay giluwas na ako;
+Apan moadtong way dala,
+Kaguol palandongon.</stanza>
+    <stanza type="verse" number="3">O, mga tuig nausik
+Diha sa kasal-anan,
+Kon mobalik pa lang unta,
+Ihalad ko N'yang tanan.</stanza>
+    <stanza type="verse" number="4">O, kamong mga balaan,
+Magbuhat's adlawan pa;
+Sa di pa ang kamatayon,
+Mga kalag kabigon.</stanza>
+  </lyrics>
+</hymn>

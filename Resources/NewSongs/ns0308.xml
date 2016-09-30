@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Lord, for this I pray</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Bonnie Co">B. C.</author>
+    <composer biodate="" biolink="" fullname="Bonnie Co">B. C.</composer>
+  </creators>
+  <hymncode>56123655616512</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>112</tempo>
+  <chords>| C - - - | C - - - | Em - - - | Am - - - | G - - - | Am - - - | F - - - | Dm - - - | G - - - | C - - - | G - - - | F - - - | C - - - | Am - - - | F - - - | Dm - - G7 | C - - - | C - - - | Em - - - | Am - - - | Dm - G - | Am - - - | F - - - | Dm - G7 - | C - - - |</chords>
+  <melody>| 0 - - 5_./( 6_./) | 1( - 1/) 2/ 3/ 6/ | 5 - - 5/ 6/ | ._1( - ._1/) 6/ 5/( 1/) (break) | 2 - - 3/ 2/ | 1( - 1/) 2/ 3/ 5_./ | 6_. - - 3/ 3/ | 2( - 2/) 3/ 2/ 3/ (break) | 5 - - 5_./( 6_./) | 1( - 1/) 3/ 5/ 6/ | 2 - - 3/ 5/ | 6( - 6/) 5/ 3/( 2/) (break) | 3 - - 3/ 2/ | 1( - 1/) 1/ 2/ 3/ | 6_. - - 3/ 3/ | 2( - 2/) 3/ 2/ 5_./ (break) | 1 - - (Chorus) 5/ 6/ | ._1. ._1/ ._1/ 6/ 5/ 3/ | 5.( 6/ 5) 5/ 6/ | ._1. ._1/ ._1/ 6/ 5/ 1/ (break) | 2.( 3/ 2) 3/( 2/) | 1. 2/ 3/ 2/ 1/ 5_./ | 6_.. 6_./ 6_. 3/ 3/ | 2. 3/ 2/ 1/ 6_./ 1/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Oh Lord, for this I pray: Make my heart the good earth So that You may grow in me, grow and grow con -- ti -- nual -- ly. Oh Lord, may this liv -- ing in -- cor -- rupt -- i -- ble seed With -- in me en -- liv -- en -- ing, grow un -- to mat -- ur -- i -- ty. Let Your life with -- in me sat -- u -- rate, Let Your life with -- in me per -- me -- ate. May all Your ful -- ness be ex -- pressed through me And my be -- ing be con -- formed to Thee.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="65">ns0308.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh Lord, for this I pray: Make my heart the good earth
+So that You may grow in me, grow and grow continually.
+Oh Lord, may this living incorruptible seed
+Within me enlivening, grow unto maturity.</stanza>
+    <stanza type="chorus" number="">Let Your life within me saturate,
+Let Your life within me permeate.
+May all Your fulness be expressed through me
+And my being be conformed to Thee.</stanza>
+    <stanza type="verse" number="2">Renew my mind, oh Lord, day by day dispense Your life;
+My wandering thoughts purify completely;
+Replace my will, oh Lord, with Your will that I would say
+"Oh Lord, Amen," always trusting You, following You.</stanza>
+    <stanza type="verse" number="3">Increase my love for You so that I would love You,
+Return Your love with Yours, responding to Your call;
+Reveal more of Yourself to me so I can see
+Your divine economy, shine on me Your speaking.</stanza>
+  </lyrics>
+</hymn>

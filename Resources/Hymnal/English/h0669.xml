@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In the heart of Jesus</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="">A. Pugh</author>
+    <composer biodate="" biolink="">C. H. Forrest</composer>
+  </creators>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>33261711765</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - D7 - | G - G7 - | C/E - F - | C - - - | C - D7 - | G/B - G - | Am - D7 - | G - G7 - | C/E - A7 - | Dm - - - | Am - A7 - | Dm - - - | G7 - G7/F - | C/E - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 3. 3/ 2 6_. | 1 - 7_. - | 1. 1/ 7_. 6_. | 5_. - - - (break) | 3. 3/ 2 2 | 5 - 2 - | 1. 1/ 2 1 | 7_. - - - (break) | 1. 1/ 6 5 | 5 - 4 - | 3 6_. 4 3 | 2 - - - (break) | 4. 4/ 3 2 | 5 - 1 - | 6_. 1 2. 1/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>In the heart of Je -- sus There is love for you, Love most pure and ten -- der, Love most deep and true; Why should you be lone -- ly, Why for friend -- ship sigh, When the heart of Je -- sus Has a full sup -- ply?</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj051.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="33">e0669_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In the heart of Jesus
+  There is love for you,
+Love most pure and tender,
+  Love most deep and true;
+Why should you be lonely,
+  Why for friendship sigh,
+When the heart of Jesus
+  Has a full supply?</stanza>
+    <stanza type="verse" number="2">In the mind of Jesus
+  There is thought for you,
+Warm as summer sunshine,
+  Sweet as morning dew;
+Why should you be fearful,
+  Why take anxious thought,
+Since the mind of Jesus
+  Cares for those He bought?</stanza>
+    <stanza type="verse" number="3">In the field of Jesus
+  There is work for you;
+Such as even angels
+  Might rejoice to do;
+Why stand idly sighing
+  For some life-work grand,
+While the field of Jesus
+  Seeks your reaping hand?</stanza>
+    <stanza type="verse" number="4">In the Church of Jesus
+  There's a place for you;
+Glorious, bright, and joyous,
+  Right and peaceful too;
+Why then, like a wand'rer,
+  Roam with weary pace,
+If the Church of Jesus
+  Holds for you a place?</stanza>
+  </lyrics>
+</hymn>

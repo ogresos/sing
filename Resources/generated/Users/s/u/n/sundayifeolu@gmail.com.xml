@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Emmanuel</firstname>
+  <lastname>Abiodun</lastname>
+  <email>sundayifeolu@gmail.com</email>
+  <password>$2y$10$6Yl2VUvBJD1sUxPjm27t9O74A5iCTH5EP49TzEP6G45ZtdovGiSom</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>105.187.0.209</ipaddress>
+  <createdate>2015-01-12 16:46:04</createdate>
+  <lastupdateddate>2015-01-14 17:07:00</lastupdateddate>
+  <lastlogindate>2015-01-12 17:13:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kahibulongan nga dapit</title>
+  <index>true</index>
+  <category>NAUSA NI CRISTO&amp;mdash;NAUSA NIYA</category>
+  <numbers><cebuano num="479"/><chinese num="358"/><english num="479"/><korean num="358"/><tagalog num="479"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="479"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kahibulongan nga dapit,
+Gihatag N'ya kanako!
+Giluwas sa Iyang grasya,
+Aron masama Niya.
+Kon makita si Jesus
+Ako mahisama N'ya;
+Kon maglakaw ko uban N'ya,
+Pagbalik N'ya masama.</stanza>
+    <stanza type="chorus" number="">Sama Niya, sama Niya,
+Kahibudngang pagkasama,
+Giluwas ko sa Iyang grasya,
+Mausa Niya, mahisama.</stanza>
+    <stanza type="verse" number="2">Nausa's kamatayon N'ya,
+Nausa's pagkabanhaw;
+Nagawas gikan sa tunglo,
+Sama gayud Kaniya.
+Nausa sa 'yang trono,
+Nausa's pagkaanak,
+Sama's bana ug asawa,
+Sama's punoa'g sanga.</stanza>
+    <stanza type="verse" number="3">Nausa's nabuhat Niya
+Ug pag-ampo's ngalan N'ya;
+Maangkon ko's pagsalig
+Tanan Niyang katakus.
+Usa's pagtoo'g gugma,
+Usa's kinabuhi N'ya,
+Gitimbrehan's Espiritu,
+Mabalaan sama N'ya.</stanza>
+  </lyrics>
+</hymn>

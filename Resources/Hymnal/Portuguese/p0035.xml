@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Deus e Pai, rendemos-Te louvor</title>
+  <index>true</index>
+  <category>Seu Louvor De Muitos Filhos</category>
+  <numbers><chinese num="51"/><dutch num="30"/><english num="54"/><french num="11"/><korean num="51"/><portuguese num="35"/><tagalog num="54"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from German</author>
+    <author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ó Deus e Pai, rendemos-Te louvor,
+Pois quem mais digno é além de Ti?
+E hoje buscas a adoração
+Feita em espír'to e verdade a Ti.</stanza>
+    <stanza type="verse" number="2">Criaste o mundo pelo Filho Teu,
+Que o sustenta pelo Seu poder,
+E ainda Nele vimos junto a Ti:
+Oh! que motivo de Te bendizer!</stanza>
+    <stanza type="verse" number="3">Cantando hinos de louvor a Ti,
+Cristo, na igreja, vem nos liderar;
+Que alegria, Ele e Seus irmãos,
+Juntos, em liberdade, a Te louvar!</stanza>
+    <stanza type="verse" number="4">Aqui reunidos, nosso canto é um!
+Ó Deus, obténs total satisfação;
+Neste louvor guiado por Jesus,
+Tens para sempre Tuahabitação.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>一切在於愛耶穌</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:315"/><english num="ns:230"/><vsb num="166"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Edgar Page Stites</author>
+  </creators>
+  <melody>| 0 5/ 5/ 5/ 5/ 4/ 3/ | 5 - - - | 0 2/ 3/ 4/ 4/ 3/ 2/ | 1 - - - (break) | 0 5_./ 5_./ 6_./ 6_./ 1/ 1/ | 2.( 1/)( 6_.)( 1)( | 7_.) 2/ 3/ 2/ 1/ 6_./ 1/ | 1 - - - (break) | 0 (Chorus) 5/ 5/ 5/ 5/ 4/ 3/ | 5 - - - | 0 2/ 3/ 4/ 4/ 3/ 2/ | 1 - - - (break) | 0 5_./ 5_./ 6_./ 6_./ 1/ 1/ | 2.( 1/)( 6_.)( 1)( | 7_.) 2/ 3/ 2/ 1/ 6_./ 1/ | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+	<singingstanza>每 日 單 單 地 愛 主， 愛 祂 經 過 風 暴 路， 愛 祂 雖 然 信 微 弱， 一 切 在 於 愛 耶 穌！ 愛 祂 當 時 辰 飛 逝， 愛 祂 當 日 子 流 去； 愛 祂 無 論 何 事 臨， 一 切 在 於 愛 耶 穌！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="230"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">每日單單地愛主，
+愛祂經過風暴路，
+愛祂雖然信微弱，
+一切在於愛耶穌！</stanza>
+	<stanza type="chorus" number="">愛祂當時辰飛逝，
+愛祂當日子流去；
+愛祂無論何事臨，
+一切在於愛耶穌！</stanza>
+	<stanza type="verse" number="2">主靈照耀何明亮，
+進我微小的這心，
+當祂引導我穩固，
+一切在於愛耶穌！</stanza>
+	<stanza type="verse" number="3">歌唱當我景晴朗，
+禱告當我路崎嶇，
+驚險臨到我呼求，
+一切在於愛耶穌！</stanza>
+	<stanza type="verse" number="4">愛祂直到今生過，
+愛祂直到地消逝，
+愛祂直到祂回來，
+一切在於愛耶穌！</stanza>
+  </lyrics>
+</hymn>

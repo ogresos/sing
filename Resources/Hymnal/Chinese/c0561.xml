@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>憑信心求</title>
+  <index>true</index>
+  <category>禱告－憑信心</category>
+  <numbers><chinese num="561"/><english num="776"/><korean num="561"/><portuguese num="355"/><tagalog num="776"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 5 | 5 - ._1 | ._1( 7) 6 | 6 - 5 | 5 - ._1 | 5 - ._3 | ._2( ._3) ._2 | ._1 - - (break) | ._3 - ._3 | ._3( ._2) ._2 | ._2( 7) 5 | ._1 - 5 | ._1( 7) 6 | 5 - ._1 | ._3 - ._2 | ._1 - - |</melody>
+  <layout>
+	<singingstanza>『憑 信 心 求，』 奉 主 的 名， 施 恩 座 前 來 禱 告； 你 若 相 信， 聽 主 答 應： 看 哪， 小 子， 已 成 了。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="664"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">『憑信心求，』
+奉主的名，
+施恩座前來禱告；
+你若相信，聽主答應：
+看哪，小子，已成了。</stanza>
+	<stanza type="verse" number="2">『憑信心求，』
+神要成就
+聖靈組織的禱告；
+祂必施行奇妙拯救，
+遠超過你所意料。</stanza>
+	<stanza type="verse" number="3">『憑信心求，』
+纔是禱告，
+因信你就敢站牢，
+滿有平安、盼望、歡笑，
+高張兩手向神要。</stanza>
+	<stanza type="verse" number="4">『憑信心求，』
+神正等你
+能憑信心來求懇；
+因為信心隨時隨地
+得神喜悅摸著神。</stanza>
+  </lyrics>
+</hymn>

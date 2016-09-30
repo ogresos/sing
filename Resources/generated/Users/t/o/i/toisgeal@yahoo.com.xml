@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Robin</firstname>
+    <lastname>Anderson</lastname>
+    <email>toisgeal@yahoo.com</email>
+    <password>Dvcpha4hwH9wm0kf8wkSKA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>97.122.78.87</ipaddress>
+    <createdate>2013-05-09 19:20:31</createdate>
+    <lastupdateddate>2013-05-09 20:05:54</lastupdateddate>
+    <lastlogindate>2013-05-09 19:20:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="1349">Sowing in the morning</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

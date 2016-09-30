@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, precious Jesus</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <hymncode>356365671765</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Am - - | G - - | Am - - | G - - | C - - | C - - | F - - | G - - | C - - | Am - - | Dm - - | G7 - - | C - F/C | C - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - F/C | C - - - ||</chords>
+  <melody>| 3 - - | 5 - - | 6 3 6 | 5 - - | 0 6/ 7/ ._1 | 7 - 6 | 5( - - | 5) - - (break) | 0 6/ 7/ ._1 | 7 - 6 | 5 - - | 1 - 0/ 1/ | 2 3 4 | 3 2. 1/ | 1( - - | 1) - - (break) | [4/4] (Chorus) 5 - - 3/( 5/) | 7. 6/( 6) 3/ 3/ | 4 4/ 4/( 4) 6 | 5 - - 5/ 5/ | 1 1/ 1/( 1) 2 | 2 1( 1) 3 | 4 - - 6 | 6 5( 5/) 2/ 5/ 4/ | 3( - - - | 3) - - 0 ||</melody>
+  <layout>
+    <singingstanza>Je -- sus, pre -- cious Je -- sus, How my heart longs for You. I have been drawn by Your love, At -- tract -- ed by Your sweet -- ness, too. Lord, I love You. You're the on -- ly One I want. Now I make my choice, Lord Je -- sus, To just, just love You; To just love You.</singingstanza>
+  </layout>
+  <music>
+      <midi location="ns" length="48">ns0488.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, precious Jesus,
+How my heart longs for You.
+I have been drawn by Your love,
+Attracted by Your sweetness, too.</stanza>
+    <stanza type="chorus" number="">Lord, I love You.
+You're the only One I want.
+Now I make my choice, Lord Jesus,
+To just, just love You;
+To just love You.</stanza>
+    <stanza type="verse" number="2">O Lord, my dearest Lord,
+What else can I desire?
+All this earth's beauties fade away;
+To gain Yourself I aspire.</stanza>
+    <stanza type="verse" number="3">O Lord, the time is short;
+My all I give to You&amp;mdash;
+My life, my love, and all I have,
+Because I love You, Lord, I do.</stanza>
+  </lyrics>
+</hymn>

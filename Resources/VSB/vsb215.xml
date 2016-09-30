@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O that Christ may make His home</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Indwelling One</category>
+  <numbers><english num="ns:104"/><vsb num="215"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Donny Wise">D. W.</author>
+    <composer biodate="" biolink="" fullname="Donny Wise">D. W.</composer>
+  </creators>
+  <hymncode>5517566545</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>140</tempo>
+  <chords>| C - - - | C - - - | Em - - - | F - - - | C - - - | F - - - | C - - - | Dm - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G - - - | C - - - | C - - - | C/E - - - | F - - - | Dm - - - | G - - - | C/E - - - | F - - - | Dm - - - | G - - - | C/E - - - | F - - - | C/G - Am - | F - Dm - | Gsus4 - G - | C - F/C - | C - - - |</chords>
+  <melody>| (Chorus) 0 - 5 5 | ._1 - - - | 7/( 5/)( 5) - - | 6 6/ 5/( 5) 4 | 5 - 3 5 | 4 4/ 3/( 3) 2 | 3 - 3 5 | 4 4/ 3/( 3) 2 | 5 - 6 7 | ._1 - - - | 7/( 5/)( 5) - - | 6 6/ 5/( 5) 4 | 5 - 3 5 | 4 4/ 4/( 4) 3 | 2 2 1 7_. | 1( - - - (break) | 1) 0 (Verse_1) 3 5 | 5 - - 5 | 6 6/ 5/( 5) 4 | 5( - - - | 5) - 3 5 | 5 - - 5 | 4 4/ 4/( 4) 3 | 2( - - - | 2) - 3 5 | 5 - - 5 | 6 6/ 5/( 5) 4 | 5 - 3 5 | 4 4/ 4/( 4) 3 | 2 2 1 7_. | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza>O that Christ may make His home my heart, Spread Him -- self in ev -- ery part! Sa -- tu -- rate and life im -- part! That with all saints, I may ap -- pre -- hend All the vast di -- men -- sions of my lov -- ing Christ. Fa -- ther God, for -- give me if I groan; For so long I've been on a pla -- teau. Now with tears, I bow my knees and pray By Your Spir -- it make my spir -- it strong to -- day.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Ephesians 3:16-18</link>
+  </links>
+  <music>
+    <midi location="ns" length="55">ns0104.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">O that Christ may make His home my heart,
+Spread Himself in every part!
+Saturate and life impart!
+That with all saints, I may apprehend
+All the vast dimensions of my loving Christ.</stanza>
+    <stanza type="verse" number="1">Father God, forgive me if I groan;
+For so long I've been on a plateau.
+Now with tears, I bow my knees and pray
+By Your Spirit make my spirit strong today.</stanza>
+    <stanza type="verse" number="2">As I came this morning to Your word
+With no strength to even read a verse;
+Yet my plea, is "Lord, I do need You!"
+How You strengthen me, Your power within to prove.</stanza>
+    <stanza type="verse" number="3">I myself was losing heart each day;
+Then the Lord brought some saints my own way;
+I alone could not Thee apprehend
+But with all the saints You now my joy have been.</stanza>
+    <stanza type="verse" number="4">All these years I've come the church to know,
+Yet O Lord, there're things I can't let go;
+Yet within me there is an "Amen";
+O now joy I never knew in me's flowin'.</stanza>
+  </lyrics>
+</hymn>

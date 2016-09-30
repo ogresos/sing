@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Vu</firstname>
+    <lastname>Le Nguyen Linh</lastname>
+    <email>mathew.vu@gmail.com</email>
+    <password>$1$uaVersF3$wYfryCGD57fO6DeRVmKMD0</password>
+    <gender>M</gender>
+    <country>Vietnam</country>
+    <ipaddress>118.68.142.205</ipaddress>
+    <createdate>2008-08-10 21:18:27</createdate>
+    <lastupdateddate>2012-04-03 06:29:57</lastupdateddate>
+    <lastlogindate>2012-04-03 06:29:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+    </favourites>
+</user>

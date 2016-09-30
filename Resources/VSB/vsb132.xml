@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He tells me, guard thy heart</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;General</category>
+  <numbers><english num="ns:50"/><vsb num="132"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Jennifer Day">J. D.</author>
+    <composer biodate="" biolink="" fullname="Jennifer Day">J. D.</composer>
+  </creators>
+  <hymncode>512343512343</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| G7 - - - | C - - - | C - - - | Am - - - | Am - - - | F - - - | Dm - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Am - - - | F - - - | Dm7 - - - | G - - - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 0. 5_./ 1/ 2/ 3/ 4/( | 4/) 3/( 3) - - | 0. 5_./ 1/ 2/ 3/ 4/( | 4/) 3/( 3) - - (break) | 0 - {3 4 5} | 5 4 4 3 | 3 2 6_. 1 | 1( 7_.) - - (break) | (Chorus) 0. 5_./ 1/ 2/ 3/ 4/( | 4/) 3/( 3) - - | 0. 5_./ 1/ 2/ 3/ 4/ | 4/( 3/)( 3/) 3/( 3) - (break) | 0 - {3 4 5} | 5( 4) 4. 3/ | 2. 2/ 6_. 1 | 1( 7_.) - - | 2. 2/ 1 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>He washed a -- way my sins, Gave me a brand new heart; A heart to love Him, trust Him, Seek Him in His Word. He tells me guard thy heart A -- bove all that thou guard -- est; For out of it, flows the springs, The springs of life. springs, The springs of life.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <music>
+    <midi location="ns" length="124">ns0050.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He washed away my sins,
+Gave me a brand new heart;
+A heart to love Him, trust Him,
+Seek Him in His Word.</stanza>
+    <stanza type="chorus" number="">He tells me guard thy heart
+Above all that thou guardest;
+For out of it, flows the springs,
+The springs of life.</stanza>
+    <stanza type="verse" number="2">He walks with me each day;
+I open up to Him;
+He is my life, my stay,
+And everything I need.</stanza>
+    <stanza type="verse" number="3">And sometimes when I fail,
+I forget that He's there;
+He's just waiting, watching,
+Then He draws me near.</stanza>
+  </lyrics>
+</hymn>

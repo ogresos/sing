@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>有一嬰孩</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <melody>| 0 3 2 3 | 4 - - 3 | 2 3 1. 2/ | 2( 3)( - - | 3) 3 2 3 | 4 - - 3 | 2 3 1. 2/ | 3( - - - (break) | 3) 5 5 5 | 6 - - 3 | 3 5 5. 2/ | 2 4( - - | 4) 4 3 2 | 3 - - 1 | 1 2 2. 3/ | 3( - - - (break) | 3) 5 5 5 | 6 - - 3 | 3 5 5. 2/ | 2 4( - - | 4) 4 3 2 | 3 - - 1 | 1 2 2. 1/ | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+	<singingstanza>有 一 嬰 孩， 祂 是 全 能 的 神； 有 一 兒 子， 祂 是 永 遠 的 父。 哦， 何 奇 妙！ 神 人 相 調 在 祂 身； 來 作 策 士， 完 成 永 遠 救 贖。 國 度 政 權， 必 擔 在 祂 肩 頭 上！ 和 平 的 君， 平 安 加 增 無 窮！</singingstanza>
+  </layout>
+  <notes>賽九6</notes>
+  <music>
+	<midiref type="h" num="881"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">有一嬰孩，
+祂是全能的神；
+有一兒子，
+祂是永遠的父。
+哦，何奇妙！
+神人相調在祂身；
+來作策士，
+完成永遠救贖。
+國度政權，
+必擔在祂肩頭上！
+和平的君，
+平安加增無窮！</stanza>
+  </lyrics>
+</hymn>

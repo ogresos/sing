@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Doon sa libingan</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG MULING-PAGKABUHAY</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Doon sa libingan,
+Ang Panginoon,
+Araw hinihintay,
+Sa pagbangon.</stanza>
+    <stanza type="chorus" number="">Nagbangon sa libingan,
+Dinaig Niya mga kalaban;
+Kristo'y nagtagumpay sa kadiliman
+At nabuhay nang maghari kailanman.
+Si Kristo'y nagbangon!
+Aleluya! Nagbangon!</stanza>
+    <stanza type="verse" number="2">Walang katuturan
+Kanilang bantay;
+Ang patay sinarhan
+Walang saysay.</stanza>
+    <stanza type="chorus" number="">Nagbangon sa libingan,
+Dinaig Niya mga kalaban;
+Kristo'y nagtagumpay sa kadiliman
+At nabuhay nang maghari kailanman.
+Si Kristo'y nagbangon!
+Aleluya! Nagbangon!</stanza>
+    <stanza type="verse" number="3">Di Siya napigilan
+Ng kamatayan;
+Hinawi ang rehas
+Ng piitan.</stanza>
+    <stanza type="chorus" number="">Nagbangon sa libingan,
+Dinaig Niya mga kalaban;
+Kristo'y nagtagumpay sa kadiliman
+At nabuhay nang maghari kailanman.
+Si Kristo'y nagbangon!
+Aleluya! Nagbangon!</stanza>
+  </lyrics>
+</hymn>

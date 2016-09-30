@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>É Jesus o Espír'to vivo</title>
+  <index>true</index>
+  <category>Como O Espírito</category>
+  <numbers><cebuano num="1142"/><dutch num="39"/><english num="1142"/><german num="1142"/><korean num="815"/><portuguese num="231"/><russian num="517"/><spanish num="208"/></numbers>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="1142"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">É Jesus o Espír'to vivo,
+E a nós real;
+Invocá-Lo traz desfrute,
+Gozo sem igual!</stanza>
+	<stanza type="chorus" number="">É Jesus o Espír'to vivo ?
+Vamos proclamar;
+Rico é a todo aquele
+Que O invocar.</stanza>
+	<stanza type="verse" number="2">Dentro em nós agora vive,
+Dá libertação;
+Já provamos e já vimos
+Como Ele é bom.</stanza>
+	<stanza type="verse" number="3">É Jesus o Espír'to vivo,
+Para se ganhar;
+Na Palavra O tocamos,
+Ao ler e orar.</stanza>
+	<stanza type="verse" number="4">É Jesus o Espír'to vivo
+Que flui mais e mais;
+Viva comunhão no espír'to
+Unidade traz.</stanza>
+	<stanza type="verse" number="5">É Jesus o Espír'to vivo,
+Festa sem igual;
+Quando o Corpo O desfruta,
+Há louvor real.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌耶穌耶穌</title>
+  <index>true</index>
+  <category>得救的證實與快樂－因基督得滿足</category>
+  <creators>
+	<author biodate="1884-1948" biolink="en.wikipedia.org/wiki/Luther_B._Bridgers">Luther Burgess Bridgers</author>
+	<composer biodate="1884-1948" biolink="en.wikipedia.org/wiki/Luther_B._Bridgers">Luther Burgess Bridgers</composer>
+  </creators>
+  <meter>9.7.9.7. with chorus.</meter>
+  <hymncode>33234332671125434</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <!--source>http://www.hymnsite.com/lyrics/umh380.sht</source-->
+  <layout>
+	<singingstanza>在 我 心 中 歡 奏 一 音 樂， 乃 是 恩 主 柔 聲 說： 『我 必 永 遠 不 將 你 棄 絕， 你 必 永 遠 屬 於 我。』 耶 穌， 耶 穌， 耶 穌！ 最 甜 美 之 名， 滿 足 我 的 衷 情， 使 我 唱 著 往 前 行。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0253_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在我心中歡奏一音樂，
+乃是恩主柔聲說：
+『我必永遠不將你棄絕，
+你必永遠屬於我。』</stanza>
+	<stanza type="chorus" number="">耶穌，耶穌，耶穌！
+最甜美之名，
+滿足我的衷情，
+使我唱著往前行。</stanza>
+	<stanza type="verse" number="2">我的人生原被罪所害，
+心情痛苦無和諧；
+等到恩主進入我心懷，
+心絃歡奏永不歇。</stanza>
+	<stanza type="verse" number="3">我今享受祂恩與祂愛，
+安息在祂胸懷間，
+時常見祂笑臉向我開，
+因此歡樂又頌讚。</stanza>
+	<stanza type="verse" number="4">有時雖遇苦難如火燒，
+苦中有祂作我伴；
+有時雖有重擔似難挑，
+重量有祂替我擔。</stanza>
+	<stanza type="verse" number="5">不久祂來接我到天上，
+遠離今生的捆綁，
+那時我必變成祂形狀，
+並要與祂同作王。</stanza>
+  </lyrics>
+</hymn>

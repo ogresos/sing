@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Salitang buhay ng Diyos Ka</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKA-DIYOS</category>
+  <numbers><cebuano num="58"/><chinese num="53"/><english num="58"/><german num="58"/><korean num="53"/><portuguese num="37"/><russian num="342"/><tagalog num="58"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 2 | 3 - - 5 (break) | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 7_. (break) | 1 - - (Chorus) 3 | 2. 1#/ 2 6 | 5. 3/ 5 3 | 2 5 5/( 4#/) 7/( 6/) | 5 - - 5/( 4/) (break) | 3 3 5 5 | ._1. ._1/ 6 7/( 6/) | 5. 5/ 4 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="58"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Salitang buhay ng Diyos Ka,
+Laging kasama Niya
+Iyong 'hinayag l'walhati Niya,
+Nang nasa lupa Ka.</stanza>
+	<stanza type="chorus" number="">Salitang buhay, pur'hin Ka,
+Sa Iyo Diyos nakita!
+Kanyang katangia't glorya,
+Iyong ipinakita.</stanza>
+	<stanza type="verse" number="2">Binigkas ng kalangitan,
+Ang kal'walhatian.
+Tinanghal ng sangnilikha,
+Lakas at galing Niya.</stanza>
+	<stanza type="verse" number="3">Salita ng Diyos, kay yaman!
+Mapatotohanan!
+Nahayag Ka sa Salita,
+Nang Diyos makilala.</stanza>
+	<stanza type="verse" number="4">Naging laman Ka, Salita,
+Namuhay sa lupa;
+Lahat Mong salita't kilos,
+Naihayag ay Diyos.</stanza>
+	<stanza type="verse" number="5">Salita, Ikaw ang buhay!
+Liwanag ding buhay!
+Buhay na nagliliwanag.
+Nang Diyos maihayag!</stanza>
+	<stanza type="verse" number="6">Gagawad ng kahatulan,
+Makitang katwiran;
+Upang Diyos mahayag lubos,
+Nang lalong matalos.</stanza>
+	<stanza type="verse" number="7">Kahayagang lubos ng Diyos,
+'Pinakita ang Diyos!
+Hindi na nakukubli Siya,
+Lubos nadeklara!</stanza>
+  </lyrics>
+</hymn>

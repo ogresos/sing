@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, kami'y dumudulog sa Iyo</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;PAPURI MULA SA MARAMING ANAK</category>
+  <numbers><chinese num="52"/><english num="55"/><french num="12"/><korean num="52"/><tagalog num="55"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from W. B. Dick</author>
+  </creators>
+  <music>
+    <midiref type="h" num="53"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ama, kami'y dumudulog sa Iyo,
+Sa ilalim ng mahal Niyang dugo;
+Wala nang namagitan sa atin,
+Kami'y malaya, Ika'y purihin!</stanza>
+    <stanza type="verse" number="2">O Ama nais ihain sa Iyo,
+Ang samyo ng pangalan ni Kristo;
+Sa pananalig aming nakita,
+Ang napasaamin na biyaya.</stanza>
+    <stanza type="verse" number="3">Sa Iyong galak aming kasalo Siya,
+Sa Kanya puso ko'y may ligaya;
+Higit ang ganda sa laksa-laksa,
+Hindi nalalaos l'walhati Niya.</stanza>
+    <stanza type="verse" number="4">Sa harap ng Iyong trono sasamba,
+Sa pananalig aming nakita:
+Iyong Sintang Anak, mga kapatid,
+Nagsipagpuri nang walang patid.</stanza>
+  </lyrics>
+</hymn>

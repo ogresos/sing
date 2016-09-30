@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The love of God constrains me</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Love</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <music>
+    <midi location="lb" length="">lb87.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The love of God constrains me
+From the depths within my spirit 
+And He fills me up to the brim.</stanza>
+    <stanza type="verse" number="2">The love of God compels me
+From the depths within my spirit 
+And He fills me up to the brim.</stanza>
+    <stanza type="verse" number="3">Now I am satisfied!
+And it's God who lives in me,
+Expressing His divinity.</stanza>
+    <stanza type="verse" number="4">For when I shout:
+Amen!
+Praise the Lord!
+Hallelujah! 
+The love of God enters me.</stanza>
+  </lyrics>
+</hymn>

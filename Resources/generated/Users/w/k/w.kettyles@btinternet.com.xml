@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>william</firstname>
+  <lastname>kettyles</lastname>
+  <email>w.kettyles@btinternet.com</email>
+  <password>$2y$10$jjePeMvx0MqIETslulJcO..7z.iNE.HFbFLaNIWa/h.olqGT6aSNe</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>213.122.247.241</ipaddress>
+  <createdate>2015-01-11 15:21:09</createdate>
+  <lastupdateddate>2015-01-11 16:18:01</lastupdateddate>
+  <lastlogindate>2015-01-11 15:26:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="953">Our Lord is now rejected</fav>
+    <fav category="default" type="h" num="151">Sing we the King who is coming to reign</fav>
+  </favourites>
+</user>

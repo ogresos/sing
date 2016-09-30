@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Full Ministry of Christ</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Work</category>
+  <hymncode>5111223343211233</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G - | C - F - | C/G - G - | C - - - | C - G - | C - F - | C/G - G7 - | C - - - | C - - - | F - - - | C - - - | G - - - | C - - - | F - C - | C - - - | G - - - | C - - - | C - - - | C - F - | C - - - | C - - - | F - - - | G - - - | G7 - - - | C - - - | Em - F - | C - - - | G - - - | F - - - | C - - - | C - - - | F - - - | C - - - | C - - - | C - - - | F - - - | G - - - | G7 - - - | C - - - | Em - - - | F - - - | D7 - - - | G - - - | G7 - - - | C - G - | C - F - | C/G - G7 - | C - - - | C - G - | C - F - | C/G - G7 - | C - - - ||</chords>
+  <melody>| 0 - - 0/ 5_./ | 1 1/ 1/ 2 2/ 3/( | 3.) 3/ 4/ 3/ 2/ 1/ | 1 - 2.( 3/) | 3 - - - (break) | 1 1/ 1/ 2 2/ 3/( | 3) 3/ 3/ 4/ 3/ 2/( 1/) | 1 - 7_. - (break) | 1 - - (Verse_1) 5_./ 5_./ | 1 1/ 1/ 1 3 | 2/( 1) 1/( 1) 3 | 5 5 5 3 | 2 - - 3/ 2/ | 1 1 ._1 7 | 6 5 3. 1/ | 3 3/ 3/( 3/) 1. | 2/ 2/ 2/ 2/ 1 7_. | 1( - - - (break) | 1) - - (Verse_2) 3/ 4/ | 5/ 5/ 5/ 5/ 6 4 | 5 - - 3 | 5 5 5 5 | 6 6 6 5 | 2( - - - | 2) - - 3/ 2/ | 1 1 ._1 ._1/ ._1/ | 7 5 (.6 6/ 6/ | 5/ 3/ 3 - 3/ 4/ | 3 2 - 2/ 3/ | 1 - - - (break) | 1 - - (Verse_3) 5_./ 5_./ | 1 1 1( - | 1) 1 1/ 1/ 1 | 3.( 2/) 1( - | 1) - - 3/ 4/ | 5 5 5 5 | 6 6 6 6 | 5 - 2( - | 2) - - 3/ 2/ | 1 1 ._1 ._1 | 7 5 (.3 1 | 6/ 6/ 6 - 6 | 6. 6/ 7 ._1 | 7( - - - | 7) - - 0 (break) | 1 1 2 2 | 3 3 4 4 | 3 1 7_. 2 | 1 - - - | 1 1 2 2 | 3 3 4 4 | 3 1 7_. 2 | 1 - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">The full min -- is -- try of Christ Is car -- ried out in three stag -- es For the ful -- fill -- ment of God's e -- ter -- nal e -- con -- o -- my. In the first stage of in -- car -- na -- tion: To bring God in -- to man, To ex -- press God in hu -- man -- i -- ty, And to ac -- com -- plish His ju -- di -- cial re -- demp -- tion. In the sec -- ond stage of in -- clu -- sion: To be be -- got -- ten as God's first -- born Son, To be -- come the life- giv -- ing Spir -- it, and To re -- gen -- er -- ate the be -- liev -- ers for His Bod -- y. In the third stage of in -- ten -- si -- fi -- ca -- tion: To in -- ten -- si -- fy His or -- gan -- ic sal -- va -- tion, To pro -- duce the o -- ver -- com -- ers, and To con -- sum -- mate the New Je -- ru -- sa -- lem. In -- car -- na -- tion, in -- clu -- sion, in -- ten -- si -- fi -- ca -- tion. In -- car -- na -- tion, in -- clu -- sion, in -- ten -- si -- fi -- ca -- tion.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="109">ns0408.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The full ministry of Christ
+Is carried out in three stages
+For the fulfillment of God's eternal economy.</stanza>
+    <stanza type="verse" number="1">In the first stage of incarnation:
+To bring God into man,
+To express God in humanity,
+And to accomplish His judicial redemption.</stanza>
+    <stanza type="verse" number="2">In the second stage of inclusion:
+To be begotten as God's firstborn Son,
+To become the life-giving Spirit, and
+To regenerate the believers for His Body.</stanza>
+    <stanza type="verse" number="3">In the third stage of intensification:
+To intensify His organic salvation,
+To produce the overcomers, and
+To consummate the New Jerusalem.</stanza>
+    <stanza type="verse" number="">Incarnation, inclusion, intensification.
+Incarnation, inclusion, intensification.</stanza>
+  </lyrics>
+</hymn>

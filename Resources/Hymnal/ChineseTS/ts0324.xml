@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>愛的共鳴</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>511223432114432342</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>每 當 你 向 我 敞 開 胸 襟， 我 的 心 立 刻 起 共 鳴。 你 慈 手 撫 我 身， 我 就 立 刻 能 對 你 訴 衷 情， 如 何 能 傾 訴 得 盡， 如 何 能 傾 訴 得 盡。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0324.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">每當你向我敞開胸襟，
+我的心立刻起共鳴。
+你慈手撫我身，
+我就立刻能對你訴衷情，
+如何能傾訴得盡，
+如何能傾訴得盡。</stanza>
+	<stanza type="verse" number="2">但我卻知道我的心聲，
+你又是何等的愛聽，
+我的愛語，嘆息，
+都能在你裡震動你情心，
+卻不能震動得盡，
+卻不能震動得盡。</stanza>
+	<stanza type="verse" number="3">主，願我向你所表情心，
+都能經你手的煉淨，
+使我全人全心，
+全都注於你，
+經歷你愛情，
+至終能經歷得盡，
+至終能經歷得盡。</stanza>
+  </lyrics>
+</hymn>

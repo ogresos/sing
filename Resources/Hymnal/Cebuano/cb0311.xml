@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Walay naangkon nga di grasya N'ya</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;NALUWAS TUNGOD SA GRASYA</category>
+  <numbers><cebuano num="311"/><chinese num="251"/><english num="311"/><korean num="251"/><portuguese num="174"/><tagalog num="311"/></numbers>
+  <creators>
+    <author biodate="1851-1935" biolink="">Translated from James Martin Gray</author>
+  </creators>
+  <music>
+    <midiref type="h" num="311"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Walay naangkon nga di grasya N'ya;
+Sa pagtoo ko gituga Niya;
+Walay kagarbo ni pangandak,
+Ako makasasalang nal'was.</stanza>
+    <stanza type="chorus" number="">Makasasalang naluwas!
+Makasasalang naluwas!
+Sugilanon ko: grasya nagluwas,
+Ako makasasalang nal'was!</stanza>
+    <stanza type="verse" number="2">Kanhi bugo ko, sala'y nagbuot,
+Paggawi ko nahilayo sa Dios;
+Nakaplagan N'ya, O kalipay;
+Karon sa grasya N'ya naluwas!</stanza>
+    <stanza type="verse" number="3">Mga luha ko wala magpulos,
+Gil'was' kaluoy, kondi' mamatay;
+Gihulga's sala, nataha's Dios,
+Karon sa grasya N'ya naluwas!</stanza>
+    <stanza type="verse" number="4">Pasuginla sa gugmang nag-awas,
+Sa kasingkasing ngadto's Manlul'was;
+Balikbalik nga isugilon,
+Makasasala, grasya nagl'was!</stanza>
+  </lyrics>
+</hymn>

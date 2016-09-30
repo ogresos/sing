@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amor! que não me largas nunca</title>
+  <index>true</index>
+  <category>Constrangidos Pelo Amor Do Senhor</category>
+  <numbers><chinese num="332"/><english num="432"/><french num="73"/><korean num="332"/><portuguese num="199"/><tagalog num="432"/></numbers>
+  <creators>
+    <author biodate="1842-1906" biolink="">Translated from George Matheson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="432"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Amor! que não me largas nunca!
+Minh'alma achou descanso em Ti;
+Desejo dar-Te minha vida,
+A Ti, de quem a recebi,
+E só por Ti viver.</stanza>
+    <stanza type="verse" number="2">Ó Luz! que sempre me iluminas!
+Por Ti, Senhor, eu posso ver;
+E já que a luz celeste brilha,
+Nenhum farol preciso ter,
+Mas, sim, a luz do céu.</stanza>
+    <stanza type="verse" number="3">Ó Gozo! que minh'alma inundas!
+Que penas Teu poder desfaz!
+Na chuva ao ver um arco-íris,
+Sei que a promessa cumprirás,
+Que o pranto cessará.</stanza>
+    <stanza type="verse" number="4">Ó Cruz! Levantas minha fronte;
+Alentas tu meu coração;
+O sangue por Jesus vertido
+Garante minha salvação
+E dá-me paz com Deus.</stanza>
+  </lyrics>
+</hymn>

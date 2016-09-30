@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gottes Ökonomie</title>
+  <index>true</index>
+  <category>Gottes Ökonomie&amp;mdash;Definition</category>
+  <numbers><chinese num="ts:1004"/><english num="ns:180"/><french num="215"/><german num="ns:180de"/><vsb num="31"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+    <composer biodate="" biolink="" fullname="Loti Haines">L. H.</composer>
+  </creators>
+  <melody>| ._3 ._3/ ._2/ ._1/ ._2/ ._3 | ._2( 7) 5 5 | ._1 ._1( ._1) 7/( 6/) | 7 5 3 3 (break) | 4. 4/ 4 6 | 5( 3) - 3 | 4 4/ 4/ 4( 6) | 7 - - - (break) | ._3. ._2/ ._1/ ._2/ ._3 | ._2 7 5 5/ 5/ | ._1 - ._1 - | 7 5 3 - | 4. 4/ 4 6 | 5 - 3 3/ 3/ | 4 4/ 4/ 4 4 | 5( 6) 7 5 (break) | ._1 - ._1 7 | 6 - 6 6 | ._2 - ._2( ._1) | 7 - 6( 5) (break) | ._1 5 6 4 | 5 5/ 5/ 6 7/ 7/ | ._1 - 7 - | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Got -- tes Ö -- ko -- no -- mie ist, dass der Mensch wird ge -- nau wie Er Im Le -- ben und Na -- tur, doch nicht in der Gott -- heit. Mit dem Men -- schen macht Er Sich eins Und den Men -- schen eins mit Sich. So wird Er ver -- grö -- ßert und er -- wei -- tert in Sei -- nem Aus -- druck, Dass all Sei -- ne gött -- li -- chen Ei -- gen -- schaf -- ten Nun zum Aus -- druck kom -- men in mensch -- li -- chen Tu -- gen -- den.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="ns" num="180"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gottes Ökonomie ist, dass der Mensch wird genau wie Er
+Im Leben und Natur, doch nicht in der Gottheit.
+Mit dem Menschen macht Er Sich eins
+Und den Menschen eins mit Sich.
+So wird Er vergrößert und erweitert in Seinem Ausdruck,
+Dass all Seine göttlichen Eigenschaften
+Nun zum Ausdruck kommen in menschlichen Tugenden.</stanza>
+  </lyrics>
+</hymn>

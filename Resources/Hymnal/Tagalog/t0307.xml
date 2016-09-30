@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon ay napako</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;TINUBOS NG DUGO</category>
+  <numbers><chinese num="97"/><english num="307"/><korean num="97"/><tagalog num="307"/></numbers>
+  <creators>
+    <author biodate="circa 1835-1914" biolink="">Translated from William McKendree Darwood</author>
+  </creators>
+  <music>
+    <midiref type="h" num="307"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panginoon ay napako,
+At namatay sa Kalbaryo;
+Doon sa krus, Siya'y nagdugo,
+Binili ang patawad ko.</stanza>
+    <stanza type="chorus" number="">O kay dilim na Kalbaryo!
+Doon si Hesus nagdugo!
+O biyaya ng Kalbaryo!
+Doon Niya tinubos ako!</stanza>
+    <stanza type="verse" number="2">Sa gitna ng kadiliman
+Sa mundo Siya'y nagpaalam;
+Tabing ng templo'y nahapak
+Buhay banal ay nahayag.</stanza>
+    <stanza type="chorus" number="">O kay dilim na Kalbaryo!
+Doon si Hesus nagdugo!
+O biyaya ng Kalbaryo!
+Doon Niya tinubos ako!</stanza>
+    <stanza type="verse" number="3">Panginoon, paano 'to -
+Nagbigay Ka ng buhay Mo,
+Nagdusa Ka sa Kalbaryo
+Alang-alang sa tulad ko!</stanza>
+    <stanza type="chorus" number="">O kay dilim na Kalbaryo!
+Doon si Hesus nagdugo!
+O biyaya ng Kalbaryo!
+Doon Niya tinubos ako!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>現在將疑惑拋棄</title>
+  <index>true</index>
+  <category>福音－勸導</category>
+  <numbers><cebuano num="1038"/><chinese num="719"/><english num="1038"/><german num="1038"/><korean num="719"/><russian num="500"/><tagalog num="1038"/></numbers>
+  <creators>
+	<author biodate="1862-1929" biolink="">Translated from Lelia Naylor Morris</author>
+  </creators>
+  <melody>| 5./ 5// 5/ 5/ 3/ 5/ | ._1/ ._2/ ._3/ 5 ._1/ | 7./ 7// 7/ 7/ ._1/ ._2/ | ._1.( 5.) (break) | 5./ 5// 5/ 5/ 3/ 5/ | ._1/ ._2/ ._3/ 5 ._3/ | ._2./ ._2// ._2/ ._2/ ._1/ 6/ | 5. 0. (break) | (Chorus) ._3. ._1 6/ | 5/ 3/ 6/ 5. | ._3. ._4 ._3/ | ._2/ 6/ ._3/ ._2. (break) | ._3. ._5 ._5/ | ._4/ ._1/ ._2/ (.._3 (.._4/ | ._3./ ._2// ._1/ 7/ ._1/ ._2/ | ._1.( ._1.) |</melody>
+  <layout>
+	<singingstanza>你 若 願 意 脫 離 罪 的 苦 情， 讓 基 督 來 進 入 你 心； 你 若 渴 慕 得 著 新 的 人 生， 讓 基 督 來 進 入 你 心。 現 在， 將 疑 惑 拋 棄； 現 在， 將 救 主 投 倚； 現 在， 將 心 門 開 啟； 讓 基 督 來 進 入 你 心。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1038"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你若願意脫離罪的苦情，
+讓基督來進入你心；
+你若渴慕得著新的人生，
+讓基督來進入你心。</stanza>
+	<stanza type="chorus" number="">現在，將疑惑拋棄；
+現在，將救主投倚；
+現在，將心門開啟；
+讓基督來進入你心。</stanza>
+	<stanza type="verse" number="2">若覺惡性，
+自己不能治服，
+讓基督來進入你心；
+若感虛空，
+世界不能滿足，
+讓基督來進入你心。</stanza>
+	<stanza type="verse" number="3">若要黑暗變成無上光明，
+讓基督來進入你心；
+若要病痛轉為永久康寧，
+讓基督來進入你心。</stanza>
+	<stanza type="verse" number="4">若要心中充滿快樂歡喜，
+讓基督來進入你心；
+若要全人進入平靜安息，
+讓基督來進入你心。</stanza>
+  </lyrics>
+</hymn>

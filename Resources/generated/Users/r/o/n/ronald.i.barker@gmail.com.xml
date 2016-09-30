@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Ron</firstname>
+    <lastname>Barker</lastname>
+    <email>ronald.i.barker@gmail.com</email>
+    <password>tqWZr5l2q%2FvI8Q6UOTtd6Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>99.53.216.7</ipaddress>
+    <createdate>2013-03-19 09:18:43</createdate>
+    <lastupdateddate>2013-03-19 09:24:37</lastupdateddate>
+    <lastlogindate>2013-03-19 09:18:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    </favourites>
+</user>

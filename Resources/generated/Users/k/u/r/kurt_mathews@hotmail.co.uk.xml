@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>kurt</firstname>
+<lastname>mathews</lastname>
+<email>kurt_mathews@hotmail.co.uk</email>
+<password>$1$KEqncP04$ThZOpI6lryzSsOsoFgPu41</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>80.2.17.177</ipaddress>
+<createdate>2008-10-18 16:49:39</createdate>
+<lastupdateddate>2009-09-15 18:26:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+    </favourites>
+</user>

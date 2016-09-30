@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>El oro y la plata no me͜ han redimido</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Redimidos por la sangre</category>
+  <numbers><english num="303"/><portuguese num="164"/><russian num="512"/><spanish num="147"/><tagalog num="303"/></numbers>
+  <creators>
+    <author biodate="1851-1935" biolink="">Translated from James Martin Gray</author>
+  </creators>
+  <music>
+    <midiref type="h" num="303"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">El oro͜ y la plata no me͜ han redimido;
+Ninguna riqueza me pudo salvar.
+La sangre͜ en la cruz es mi única base;
+La muerte de Cristo logró sanidad.</stanza>
+    <stanza type="chorus" number="">Me redimió, mas no con plata,
+Ni con oro me compró;
+Mi Salvador virtió Su sangre,
+Alto precio de Su͜ amor.</stanza>
+    <stanza type="verse" number="2">El oro͜ y la plata no me͜ han redimido;
+La culpa pesaba en mi corazón.
+La sangre͜ en la cruz es mi única base;
+La muerte de Cristo mi͜ aprecio ganó.</stanza>
+    <stanza type="verse" number="3">El oro͜ y la plata no me͜ han redimido;
+La ley me͜ impedía͜ acercarme͜ al Señor.
+La sangre͜ en la cruz es mi única base;
+La muerte de Cristo quitó mi temor.</stanza>
+    <stanza type="verse" number="4">El oro͜ y la plata no me͜ han redimido;
+Así no se͜ obtiene el reino de Dios.
+La sangre͜ en la cruz es mi única base;
+La muerte de Cristo me dio redención.</stanza>
+  </lyrics>
+</hymn>

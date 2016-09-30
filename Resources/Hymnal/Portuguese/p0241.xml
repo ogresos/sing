@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ao Salvador eu sirvo</title>
+  <index>true</index>
+  <category>Como Vida</category>
+  <numbers><english num="503"/><portuguese num="241"/><russian num="96"/><spanish num="217"/><tagalog num="503"/></numbers>
+  <creators>
+    <author biodate="1887-1960" biolink="">Translated from Alfred Henry Ackley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="503"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ao Salvador eu sirvo,
+No mundo hoje está;
+Os homens argumentam,
+Mas Ele vivo está.
+A Sua mão eu vejo
+E posso a Ele ouvir;
+E sempre está bem perto
+A me assistir.</stanza>
+    <stanza type="chorus" number="">Jesus, Jesus
+Agora vivo está!
+Comigo vai e fala a mim
+Em meu peregrinar.
+Jesus, Jesus
+Transmite salvação;
+Sim, sei que vivo está porque
+Vive em meu coração.</stanza>
+    <stanza type="verse" number="2">Ao meu redor eu vejo
+O Seu cuidar de amor,
+E mesmo que me canse,
+Sustém-me o Salvador.
+Em meio a tempestades
+Vem Ele me guiar;
+Irá, por fim, um dia,
+Se revelar.</stanza>
+    <stanza type="verse" number="3">Cristãos, regozijai-vos,
+Erguei-vos e cantai!
+Eternos aleluias
+A Cristo, o Rei, alçai!
+Socorro e esperança,
+Os que O buscam têm.
+Como Ele, tão amável,
+Não há ninguém.</stanza>
+  </lyrics>
+</hymn>

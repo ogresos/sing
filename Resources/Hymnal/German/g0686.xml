@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>„Fürcht nicht, Ich bin mit dir“</title>
+  <index>true</index>
+  <category>TROST IN TRÜBSALEN&amp;mdash;Durch die Gegenwart des Herrn</category>
+  <numbers><cebuano num="686"/><chinese num="491"/><english num="686"/><german num="686"/><korean num="491"/><russian num="471"/><tagalog num="686"/></numbers>
+  <creators>
+	<author biodate="1851-1920" biolink="">Translated from Eliza Edmunds Hewitt</author>
+  </creators>
+  <melody>| 5 5/ 3/( 5/) ._1/ | ._3. ._3. | ._1 ._1/ ._2/( ._1/) 6/ | 5.( 5) 0/ | 5 5/ 2/( 3/) 4/ (break) | 7. 7. | 5 5/ 5 4/ | 3.( 3) 0/ | 5 5/ 3/ 5/ ._1/ | ._3. ._3. (break) | ._1 ._1/ ._2/( ._1/) 6/ | 5.( 5) 0/ | 5 5/ 2/ 3/ 4/ | 7. 7. | 5/ 5/ 5/ 5/ 6/ 7/ (break) | ._1.( ._1) 0/ | (Chorus) 5. 3/ 5/ ._1/ | ._3.( ._3/)( ._2/ ._3/) | ._1 0/ ._2/ ._1/ 6/ | 5.( 5) 5/ (break) | 5 5/ 2/ 3/ 4/ | 7. 7. | 5// 5./ 5/ 5/ 5/ 4/ | 3.( 3) 0/ (break) | 5. 3/ 5/ ._1/ | ._3.( ._3/)( ._2/ ._3/) | ._1 0/ ._2/ ._1/ 6/ | 5.( 5) 5/ (break) | 5 5/ 2/ 3/ 4/ | 7. 7. | 5// 5./ 5/ 5/ 6/ 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>„Fürcht nicht, Ich bin mit dir“; Gold -- nes Strah -- len -- bad, Wie ein Stern so herr -- lich, Scheinst auf mei -- nen Pfad! Durch die Mit -- ter -- nachts -- wol -- ken Spricht ein hel -- ler Schein: „Nie werd Ich dich ver -- las -- sen, Nie -- mals dich las -- sen al -- lein.“ Nein, niem -- als al -- lein, Nein, nie -- mals al -- lein; Ver -- hiess, mich nie zu ver -- las -- sen, Nie -- mals lässt Er mich al -- lein. Nein, nie -- mals al -- lein, Nein, nie -- mals al -- lein; Ver -- hiess, mich nie zu ver -- las -- sen, Nie -- mals lässt Er mich al -- lein.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="686"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">„Fürcht nicht, Ich bin mit dir“;
+Goldnes Strahlenbad,
+Wie ein Stern so herrlich,
+Scheinst auf meinen Pfad!
+Durch die Mitternachtswolken
+Spricht ein heller Schein:
+„Nie werd Ich dich verlassen,
+Niemals dich lassen allein.“</stanza>
+	<stanza type="chorus" number="">Nein, niemals allein,
+Nein, niemals allein;
+Verhiess, mich nie zu verlassen,
+Niemals lässt Er mich allein.
+Nein, niemals allein,
+Nein, niemals allein;
+Verhiess, mich nie zu verlassen,
+Niemals lässt Er mich allein.</stanza>
+	<stanza type="verse" number="2">Rosen um mich welken,
+Lilien vergehn,
+Sonnenstrahlen schwinden,
+Licht kann trotzdem sehn!
+Jesus, Hennablume,
+Blüht für die, die Sein,
+Jesus, Himmelssonne,
+Niemals lässt Er mich allein.</stanza>
+	<stanza type="verse" number="3">Furcht und Unbekanntes
+Spür bei jedem Schritt;
+Doch mein Retter nah ist,
+Mutig geh ich mit;
+Glück wie Frühlingsvögel,
+In mein Herz zog ein,
+Alle singen lieblich,
+„Niemals lässt Er mich allein.“</stanza>
+  </lyrics>
+</hymn>

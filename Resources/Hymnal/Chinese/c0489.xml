@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你曾覺得父愛心</title>
+  <index>true</index>
+  <category>鼓勵－更多追求</category>
+  <numbers><chinese num="489"/><english num="668"/><korean num="489"/></numbers>
+  <creators>
+	<author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <melody>| 1 - 2 3 - 4 | 5 - 6 5 - - | 5 - 3 5 - 3 | 3 2( - 2) - 0 (break) | 1 - 2 3 - 4 | 5 - 6 5 - - | 5 - 3 5 - 3 | 2 1( - 1) - 0 (break) | 3 - 5 ._1 - 5 | 6 - 6 5 - - | 5 - 3 5 - 3 | 3 2( - 2) - 0 (break) | 3 - 5 ._1 - 5 | 6 - 6 5 - - | 5 - 3 5 - 3 | 2 1( - 1) - 0 (break) | (Chorus) 3 - 5 5 - - | 4 - 6 6 - - | 5 - 3 5 - 3 | 3 2( - 2) - 0 (break) | 1 - 2 3 - 4 | 5 - ._1 ._1( - (.6) | 5 - 3 5 - 3 | 2 1( - 1) - 0 |</melody>
+  <layout>
+	<singingstanza>你 曾 覺 得 父 愛 心？ 不 只 這 麼 一 點； 你 曾 嘗 到 祂 憐 憫？ 不 只 這 麼 一 點。 父 的 慈 愛 何 等 大， 不 只 這 麼 一 點； 平 白 賜 給 無 代 價， 不 只 這 麼 一 點。 多 又 多， 多 又 多， 不 只 這 麼 一 點， 神 的 大 愛 難 盡 說， 不 只 這 麼 一 點。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="668"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你曾覺得父愛心？
+不只這麼一點；
+你曾嘗到祂憐憫？
+不只這麼一點。
+父的慈愛何等大，
+不只這麼一點；
+平白賜給無代價，
+不只這麼一點。</stanza>
+	<stanza type="chorus" number="">多又多，多又多，
+不只這麼一點，
+神的大愛難盡說，
+不只這麼一點。</stanza>
+	<stanza type="verse" number="2">你曾覺得主親近？
+不只這麼一點；
+祂的同在樂你心？
+不只這麼一點；
+主的恩典何等大，
+不只這麼一點；
+平白賜給無代價，
+不只這麼一點。</stanza>
+	<stanza type="verse" number="3">你覺聖靈的能力？
+不只這麼一點；
+猶如甘雨臨及你？
+不只這麼一點。
+聖靈能力何等大，
+不只這麼一點；
+平白賜給無代價，
+不只這麼一點。</stanza>
+  </lyrics>
+</hymn>

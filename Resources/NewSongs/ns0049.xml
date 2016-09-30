@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Whispers from above</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;General</category>
+  <numbers><english num="ns:49"/><vsb num="121"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Peter Wang">P. W.</author>
+    <composer biodate="" biolink="" fullname="Peter Wang">P. W.</composer>
+  </creators>
+  <hymncode>35113544322123</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>158</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | G - - - | G - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 0 - 3 5 | ._1 ._1/ 3/( 3/) 5/ 4 | 0 - 4 3 | 2 2/ 1/( 1/) 2/ 3 (break) | 0. 3/ 3/ 3/ 5 | ._1 ._1/ 3/( 3) 3 | 6( - 6/)( 5/ 6 | 5) - - - (break) | 0 - 3 5 | ._1 ._1/ 3/( 3/) 5/ 4 | 0 - 4 3 | 2 2/ 1/( 1/) 2/ 3 (break) | 0 - 3 5 | ._1 ._1/ 7/( 7/) ._1/ ._2( | ._2)( - - - | ._2) - - 0 (break) | (Chorus) 0 - ._1 ._1 | 7 ._1/ ._2/( ._2) 7 | ._1( - ._2 ._3)( | ._3) - - - | 0 - ._4 ._3 | ._2 ._2/ ._1/( ._1) ._2 | ._3 - ._3 ._2 | ._3 - ._5 ._1( (break) | ._1) - 6 ._1 | 7. 6/( 6/) 7/ ._1( | ._1)( - - - | ._1) - - 0 | 0 - 6 ._1 | ._2 ._2/ ._4/( ._4/) ._3/ ._1( | ._1)( - - - | ._1) - - 0 | 0 - 6 ._1 | ._2 ._2/ ._4/( ._4/) ._3/ ._1( | ._1)( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>There are times and times a -- gain, When my love seems far a -- way; The ho -- urs would stretch, the days turn gray; All the while, I know not how, In my dark -- est hour, He prays In the saints, oh, for my sake. By a touch of His dear love, By the sound of His sweet voice, Whis -- pers from a -- bove, Spo -- ken through men of clay. And this world just fades a -- way. (Let this world just fade a -- way.)</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="55">ns0049.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There are times and times again,
+When my love seems far away;
+The hours would stretch, the days turn gray;
+All the while, I know not how,
+In my darkest hour, He prays
+In the saints, oh, for my sake.</stanza>
+    <stanza type="chorus" number="">By a touch of His dear love,
+By the sound of His sweet voice,
+Whispers from above,
+Spoken through men of clay.
+And this world just fades away.
+(Let this world just fade away.)</stanza>
+    <stanza type="verse" number="2">Blinded soul, I cannot see
+What this world has done to me;
+My heart grows cold and life would bleed;
+Then He comes, knocks on my door,
+Through the saints&amp;mdash;and there they stand
+With the Lord, oh, for my need!</stanza>
+  </lyrics>
+</hymn>

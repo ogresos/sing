@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glorious things of thee are spoken</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;The Holy City</category>
+  <numbers><chinese num="ts:916"/><english num="977"/><portuguese num="496"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+  </creators>
+  <melody>| 1. 2/ 3 2 | 4 3 2/( 7_./) 1 | 6 5 4 3 | 2 3/( 1/) 5 - (break) | 1. 2/ 3 2 | 4 3 2/( 7_./) 1 | 6 5 4 3 | 2 3/( 1/) 5 - (break) | 2 3 2/( 7_./) 5_. | 4 3 2/( 7_./) 5_. | 5 4 3. 3/ | 4#. 4#/ 5 - (break) | ._1. 7/ 6 5 | 6. 5/ 5/( 4/) 3 | 2 3/( 4/) 5/( 6/) 4/( 2/) | 1 3/( 2/) 1 - |</melody>
+  <layout>
+    <singingstanza>Glo -- rious things of thee are spok -- en, Ho -- ly ci -- ty of our God; He whose word can -- not be brok -- en Formed thee for His own a -- bode; On the Rock of Ag -- es found -- ed, What can shake thy sure re -- pose? With sal -- va -- tion's walls sur -- round -- ed, Thou may'st smile at all thy foes.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj224.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="20"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glorious things of thee are spoken,
+  Holy city of our God;
+He whose word cannot be broken
+  Formed thee for His own abode;
+On the Rock of Ages founded,
+  What can shake thy sure repose?
+With salvation's walls surrounded,
+  Thou may'st smile at all thy foes.</stanza>
+    <stanza type="verse" number="2">See the streams of living waters,
+  Springing from eternal love,
+Well supply thy blessed members,
+  And all fear of want remove;
+Who can faint, when such a river
+  Ever flows their thirst t' assuage?
+Grace which, like the Lord, the giver,
+  Never fails from age to age.</stanza>
+    <stanza type="verse" number="3">Blest constituents of Zion,
+  Washed in the Redeemer's blood;
+Jesus, whom their souls rely on,
+  Makes them kings and priests to God.
+'Tis His love His people raises
+  Over self to reign as kings:
+And as priests, His worthy praises,
+  Each his thankful offering brings.</stanza>
+    <stanza type="verse" number="4">Savior, if of Zion's city
+  I, through grace, a member am,
+Let the world deride or pity&amp;mdash;
+  I will glory in Thy name.
+Fading is the worldling's pleasure,
+  All his boasted pomp and show;
+Solid joys and lasting treasure
+  None but Zion's members know.</stanza>
+  </lyrics>
+</hymn>

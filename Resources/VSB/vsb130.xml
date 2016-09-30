@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May my day be full of Christ</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><english num="ns:95"/><vsb num="130"/></numbers>
+  <hymncode>12333454</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | C - - - | Dm - G7 - | C/E - C - | F - G - | C G/B Am - | F - C/E F | C/G - G7 - | F/C - C - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3. 3/ 3 4/( 5/) | 4 - - 3/ 4/ | 5. 5/ 5 ._1/ 7/ | 6( - 7) 7/ 6/ | 5 3/ 2/ 1 2/ 3/ | 1 2/ 3/ 1 1/ 2/ | 3. 3/ 2 3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>May my day be full of Christ. May my words be spo -- ken in Him. May my be -- ing find rest Ly -- ing on His sweet breast, May my day be full of Christ.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="22">ns0095.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May my day be full of Christ.
+May my words be spoken in Him.
+May my being find rest
+Lying on His sweet breast,
+May my day be full of Christ.</stanza>
+    <stanza type="verse" number="2">May my mind be filled with His light,
+May my spirit be shining so bright,
+May His life bear much fruit,
+May I be absolute,
+To partake of the living Christ.</stanza>
+  </lyrics>
+</hymn>

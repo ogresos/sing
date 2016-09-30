@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Carroll</firstname>
+    <lastname>Gouge</lastname>
+    <email>cnrgouge@aol.com</email>
+    <password>uIT%2Bw%2BJoCjokXw4660pRFA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>67.235.66.234</ipaddress>
+    <createdate>2012-01-16 10:25:08</createdate>
+    <lastupdateddate>2012-01-16 10:30:14</lastupdateddate>
+    <lastlogindate>2012-01-16 10:25:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="h" num="60">Of the Father's love begotten</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Kejun</firstname>
+<lastname>Wang</lastname>
+<email>cecilia0503@hotmail.com</email>
+<password>$1$wVKTmM7E$beNiLI0RB4ZpczUOpNyLG.</password>
+<gender>F</gender>
+<country>China</country>
+<ipaddress>85.183.144.186</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

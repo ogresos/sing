@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hier in der Gemeinde hören wir den Klang des Lebens</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Als unser Zuhause und unsere Ruhe</category>
+  <numbers><cebuano num="1236"/><chinese num="ts:716"/><english num="1236"/><german num="1236"/><russian num="536"/><tagalog num="1236"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <key>A Major</key>
+  <melody>| ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 (break) | ._1. 5/ 5 ._1 | 6 ._2 ._2 ._3 | ._2 - - 0 | ._1. ._2/ ._1 6 | 5. 6/ 5 3 (break) | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 | 5 ._1 - ._4 | ._3 ._3 ._2 ._2 (break) | ._1 - - (Chorus) 5/ 5/ | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 (break) | 5 - - 5/ 5/ | 7 7 - 6./ 5// | ._1 ._3 - ._1/ ._1/ | 6 ._2 ._2 ._3 (break) | ._2 5 ._1 ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1 | 5 5 3 4 (break) | 5 ._1 - ._4 | ._3 ._3 ._2 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Hier in der Ge -- mein -- de hö -- ren wir den Klang des Le -- bens, Chris -- ti Freu -- de an -- steckt, uns -- re Her -- zen setzt in Brand; Ba -- by -- lon und Nich -- tig -- kei -- ten lo -- cken uns ver -- ge -- bens, E -- wig sind zu Hau -- se in Chris -- tus, uns -- rem Land. Wir ver -- sam -- meln uns im Geist nun Sind in Chris -- tus eins am Ort; Uns ver -- sam -- meln als Fa -- mi -- lie, Chris -- tus nährt uns mit dem Wort. Ja, uns ver -- sam -- meln mit Ge -- mein -- den Und ver -- kün -- den hier und dort: Das Hal -- le -- lu -- ja für Chris -- tus, un -- ser Land!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="324"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hier in der Gemeinde hören wir den Klang des Lebens,
+Christi Freude ansteckt, unsre Herzen setzt in Brand;
+Babylon und Nichtigkeiten locken uns vergebens,
+Ewig sind zu Hause in Christus, unsrem Land.</stanza>
+	<stanza type="chorus" number="">Wir versammeln uns im Geist nun
+Sind in Christus eins am Ort;
+Uns versammeln als Familie,
+Christus nährt uns mit dem Wort.
+Ja, uns versammeln mit Gemeinden
+Und verkünden hier und dort:
+Das Halleluja für Christus, unser Land!</stanza>
+	<stanza type="verse" number="2">Tote Lehre und die Gaben sind für uns vergangen,
+Mehr noch alles Weltliche, das sich in uns befand;
+Seit die Liebe Christi unsre Herzen hat gefangen,
+Bleiben wir so gerne in Christus, unsrem Land.</stanza>
+	<stanza type="verse" number="3">„Ich will die Gemeinde hier auf diesem Felsen bauen“.
+Seht, Sein Vorsatz wird erfüllt, wie Er es hat geplant,
+Jedes Glied setzt Er im Leib, wie Er es gern will schauen,
+Baut uns auf zusammen in Christus, unsrem Land.</stanza>
+	<stanza type="verse" number="4">Die Gemeinden gehn voran wie's nie ist da gewesen,
+Tu, oh Herr, noch Großes über Bitten und Verstand,
+Bis die Erde widerhallt und ruft beim Betenlesen,
+Freudig Halleluja für Christus, unser Land.</stanza>
+  </lyrics>
+</hymn>

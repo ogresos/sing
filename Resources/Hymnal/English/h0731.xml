@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Why should I fear the darkest hour</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;General</category>
+  <numbers><english num="731"/><tagalog num="731"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+    <composer biodate="" biolink="">F. R. Grey</composer>
+  </creators>
+  <meter>8.8.8.</meter>
+  <hymncode>33344721</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Dm7 - - | G7/B - - | C - - | F - - | C/E - C | G/B - G7 | C - - | C7 - C7/E | F - Am | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 3 | 3 - 3 | 4 - 4 | 7 - ._2 | ._1 - ._1 | ._1( 7) 6 | 5 - 3 (break) | 5 - 5 | 5 - 3 | 3( 4) 5 | 6 - 3 | 3 - 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Why should I fear the dark -- est hour, Or trem -- ble at the tempt -- er's power? Je -- sus vouch -- safes to be my tower.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj029.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="18">e0731_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Why should I fear the darkest hour,
+Or tremble at the tempter's power?
+Jesus vouchsafes to be my tower.</stanza>
+    <stanza type="verse" number="2">Though hot the fight, why quit the field?
+Why must I either fly or yield,
+Since Jesus is my mighty shield?</stanza>
+    <stanza type="verse" number="3">When creature comforts fade and die,
+Worldlings may weep, but why should I?
+Jesus still lives, and still is nigh.</stanza>
+    <stanza type="verse" number="4">Though all the flocks and herds were dead,
+My soul a famine need not dread,
+For Jesus is my living bread.</stanza>
+    <stanza type="verse" number="5">I know not what may soon betide,
+Or how my wants shall be supplied;
+But Jesus knows, and will provide.</stanza>
+    <stanza type="verse" number="6">Though sin would fill me with distress,
+The throne of grace I dare address,
+For Jesus is my righteousness.</stanza>
+    <stanza type="verse" number="7">Though faint my prayers and cold my love,
+My steadfast hope shall not remove,
+While Jesus intercedes above.</stanza>
+    <stanza type="verse" number="8">Against me earth and hell combine;
+But on my side is power divine;
+Jesus is all, and He is mine!</stanza>
+  </lyrics>
+</hymn>

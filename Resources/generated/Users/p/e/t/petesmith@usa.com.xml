@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pete</firstname>
+  <lastname>Smith</lastname>
+  <email>petesmith@usa.com</email>
+  <password>$2y$10$KxlNjzJkRB.XWgx5w3YfM.UTWEtTbBTPkKOHrkv9HusEKCNTsjLWa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.29.147.114</ipaddress>
+  <createdate>2015-08-12 01:41:43</createdate>
+  <lastupdateddate>2016-08-24 23:57:27</lastupdateddate>
+  <lastlogindate>2016-08-17 00:51:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="ns" num="345">Be Thou my vision, O Lord of my heart</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="ns" num="325">Rejoice in the Lord always</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

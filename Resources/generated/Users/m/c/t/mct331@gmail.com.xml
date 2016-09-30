@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tammie</firstname>
+  <lastname>McDonald</lastname>
+  <email>mct331@gmail.com</email>
+  <password>$2y$10$XGaN29T5tMQlmOpCxVfAr.S5qJg7Vvo/w5RZ3zzzXHIFjIIOs2DY6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.170.224.50</ipaddress>
+  <createdate>2015-01-28 15:47:32</createdate>
+  <lastupdateddate>2015-01-28 15:53:32</lastupdateddate>
+  <lastlogindate>2015-01-28 15:51:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+  </favourites>
+</user>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jon</firstname>
+    <lastname>Bird</lastname>
+    <email>jonbirdca@yahoo.ca</email>
+    <password>mKFnOm%2BNaguNtGBwbAp58w%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>70.79.145.152</ipaddress>
+    <createdate>2011-03-02 14:00:14</createdate>
+    <lastupdateddate>2011-03-02 18:50:47</lastupdateddate>
+    <lastlogindate>2011-03-02 14:00:16</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="442">Fully surrendered&amp;mdash;Lord, I would be</fav>
+        <fav category="default" type="h" num="438">I've turned my back upon the world</fav>
+        <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+        <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+    </favourites>
+</user>

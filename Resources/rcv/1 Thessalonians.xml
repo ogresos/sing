@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book name="1 Thessalonians" description="THE FIRST EPISTLE OF PAUL TO THE THESSALONIANS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\bible.xsd">
+    <info title="Author">Paul with Silvanus and Timothy ([link]1:1[/link]).</info>
+    <info title="Time of Writing">Approximately A.D. 54, during Paul's second ministry journey, while he remained in Corinth ([link]1:1[/link]; [link]3:6[/link]; [link]Acts 18:1[/link], [link]5[/link]).</info>
+    <info title="Place of Writing">Corinth; see verses in the previous item.</info>
+    <subject>A Holy Life for the Church Life &amp;#8212; Serving the Living God, Conducting Ourselves in a Holy Manner, and Waiting for the Lord's Coming</subject>
+    <outlines>
+    <outline type="upper-roman" num="1" ref="1:1">Introduction</outline>
+    <outline type="upper-roman" num="2" ref="1:2-5:24">The Content &amp;#8212; A Holy Life for the Church</outline>
+        <outline type="upper-alpha" num="1" ref="1:2-3">Its Structure</outline>
+        <outline type="upper-alpha" num="2" ref="1:4-10">Its Origination</outline>
+        <outline type="upper-alpha" num="3" ref="2:1-20">Its Fostering</outline>
+        <outline type="decimal" num="1" ref="vv. 1-12">The Care of a Nursing Mother and an Exhorting Father</outline>
+        <outline type="decimal" num="2" ref="vv. 13-20">The Reward of Such Care</outline>
+        <outline type="upper-alpha" num="4" ref="3:1-13">Its Establishing</outline>
+        <outline type="decimal" num="1" ref="vv. 1-12">Encouragement for Faith and Love</outline>
+        <outline type="decimal" num="2" ref="v. 13">Encouragement with Hope</outline>
+        <outline type="upper-alpha" num="5" ref="4:1-12">Its Exhortation</outline>
+        <outline type="decimal" num="1" ref="vv. 1-8">Sanctification versus Fornication</outline>
+        <outline type="decimal" num="2" ref="vv. 9-10">Brotherly Love</outline>
+        <outline type="decimal" num="3" ref="vv. 11-12">A Becoming Walk</outline>
+        <outline type="upper-alpha" num="6" ref="4:13-18">Its Hope</outline>
+        <outline type="decimal" num="1" ref="vv. 13-14">For the Dead Believers</outline>
+        <outline type="decimal" num="2" ref="vv. 15-18">For the Living and Remaining Believers</outline>
+        <outline type="upper-alpha" num="7" ref="5:1-11">Its Watchfulness and Soberness</outline>
+        <outline type="decimal" num="1" ref="vv. 1-3">The Day of the Lord Coming like a Thief</outline>
+        <outline type="decimal" num="2" ref="vv. 4-11">The Safeguard of Faith, Love, and Hope</outline>
+        <outline type="upper-alpha" num="8" ref="5:12-24">Its Cooperation</outline>
+        <outline type="decimal" num="1" ref="vv. 12-22">The Believers' Cooperation &amp;#8212; Living a Spiritual and Holy Life</outline>
+        <outline type="decimal" num="2" ref="vv. 23-24">God's Operation &amp;#8212; Sanctifying and Preserving the Believers</outline>
+    <outline type="upper-roman" num="3" ref="5:25-28">Conclusion</outline>
+    </outlines>
+    <chapters>
+    <chapter num="1">
+        <verse num="1">
+        <text>Paul and [xref]a[/xref]Silvanus and [xref]b[/xref]Timothy to the [note]1[/note][xref]c[/xref]church of the [note]2[/note]Thessalonians in [note]3[/note]God the Father and the Lord Jesus Christ: [xref]d[/xref]Grace to you and peace.</text>
+        <note num="1">This Epistle and 2 Thessalonians were addressed to the local church in Thessalonica, composed of all the believers in Christ in that city. Such a local church is of the believers and is in God the Father and the Lord Jesus Christ. This indicates that a local church is born of God the Father with His life and nature and is united with the Lord Jesus Christ organically in all that He is and has done. Hence, it is of men (such as the Thessalonians), yet is in God and in the Lord organically. This organic union in the divine life and nature is the vital base for the believers to live a holy life for the church life. Such a living is the theme of the two Epistles.</note>
+        <note num="2">Thessalonica was a city of the Roman Empire, in the province of Macedonia, which was north of the province of Achaia. It was the next city the apostle Paul and his co-worker Silvanus visited after Philippi, after the Macedonian call he received on his second ministry journey ([link]Acts 16:9-12[/link]; [link]17:1-4[/link]). The apostle stayed and worked in Thessalonica for only a short time, probably less than one month ([link]Acts 17:2[/link]).</note>
+        <note num="3">In this chapter the Triune God is revealed in His triune work upon us &amp;#8212; the Father selected us ([link]vv. 1[/link], [link]3-4[/link]), the Son delivers us ([link]v. 10[/link]), and the Holy Spirit propagates, imparts, and transmits the Triune God into us ([link]vv. 5-6[/link]). Such a triune work is for our enjoyment of His salvation.</note>
+        <xref num="a">[link]2 Cor. 1:19[/link]; [link]1 Pet. 5:12[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:2[/link], [link]6[/link]; [link]1 Tim. 1:2[/link]</xref>
+        <xref num="c">[link]2 Thes. 1:1[/link]; cf. [link]2 Cor. 8:1[/link]</xref>
+        <xref num="d">[link]Rom. 1:7[/link]; [link]Eph. 1:2[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>We [xref]a[/xref]thank God always concerning all of you, making [xref]b[/xref]mention [i]of you[/i] in our prayers,</text>
+        <xref num="a">[link]1 Thes. 2:13[/link]; [link]3:9[/link]; [link]2 Thes. 1:3[/link]; [link]2:13[/link]; [link]Rom. 1:8[/link]; [link]Eph. 1:16[/link]</xref>
+        <xref num="b">[link]Rom. 1:9[/link]; [link]Eph. 1:16[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>Remembering unceasingly your [note]1[/note]work of [note]2[/note][xref]a[/xref]faith and [note]3[/note]labor of [xref]b[/xref]love and [note]4[/note]endurance of [xref]c[/xref]hope in our Lord Jesus Christ, before our God and Father;</text>
+        <note num="1">The Greek word denotes acts, actions, activities.</note>
+        <note num="2">Here faith indicates the nature and strength of the work; love, the motivation for and characteristic of labor; and hope, the source of endurance. These depict the structure of the genuine Christian life, a life constructed with faith, love, and hope (see note [link]13[sup]1[/sup] in 1 Cor. 13[/link]). Such a life originates not from the ability of the believers' natural being but from the infusion of what God, in whom they believe, is. It is carried out by their sacrificial love toward their loving Lord, who loved them and gave Himself for them, and toward His members, whom He has redeemed through His death in love. This life lasts and stands unchanging by the sustaining power of the hope in which the believers look for their beloved Lord, who promised that He would come to take them to Himself. Such a life is the content of this Epistle.[br][br]How marvelous that the Thessalonian believers could live such a life through the apostle's short ministry of less than one month! This encourages us to preach the complete gospel to typical unbelievers in full assurance of faith, and to minister the deeper truths concerning the Christian life to new converts.[br][br]In the two Epistles to the young church in Thessalonica, the genuine Christian life for the proper church life is revealed in a simple and brief way. It is a life of three dimensions in the light of the Lord's coming back, having faith as the beginning, the foundation, love as the process, the construction, and hope as the consummation, the completion. Faith is toward God ([link]v. 8[/link]), love is toward the saints ([link]3:12[/link]; [link]4:9-10[/link]), and hope is in the Lord's coming ([link]2:19[/link]). The first Epistle is for encouragement and comfort; the second is for correction and balance. The believers should live, walk, and work by faith and love in the hope of the Lord's coming back; but they should not have the erroneous concept that the Lord will come immediately and, thus, that they need not make any long-range plans. The apostle Paul's writings concerning the Christian life for the church life begin with the book of Romans and conclude with these two Epistles.</note>
+        <note num="3">Or, toil, endeavoring, striving, working.</note>
+        <note num="4">I.e., endurance issuing from hoping in our Lord Jesus Christ.</note>
+        <xref num="a">[link]1 Thes. 1:8[/link]; [link]3:2[/link], [link]5[/link], [link]6[/link], [link]7[/link], [link]10[/link]; [link]5:8[/link]; [link]2 Thes. 1:3[/link], [link]4[/link], [link]11[/link]; [link]3:2[/link]; [link]1 Cor. 13:13[/link]; [link]Gal. 5:6[/link]; [link]Col. 1:4[/link]; [link]1 Tim. 1:14[/link]; [link]Eph. 6:23[/link]; [link]James 2:22[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:6[/link], [link]12[/link]; [link]4:9[/link]; [link]5:8[/link], [link]13[/link]; [link]2 Thes. 3:5[/link]</xref>
+        <xref num="c">[link]1 Thes. 2:19[/link]; [link]4:13[/link]; [link]5:8[/link]; [link]2 Thes. 2:16[/link]; [link]Rom. 5:4[/link]; [link]8:24-25[/link]; [link]15:4[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>Knowing, brothers, [xref]a[/xref]beloved of God, your [note]1[/note][xref]b[/xref]selection;</text>
+        <note num="1">God's choosing before the foundation of the world for His eternal purpose ([link]Eph. 1:4[/link]). The apostles knew that the brothers, beloved of God, were chosen by God in such a manner for the fulfillment of His heart's desire.</note>
+        <xref num="a">[link]2 Thes. 2:13[/link]</xref>
+        <xref num="b">[link]2 Thes. 2:13[/link]; [link]2 Pet. 1:10[/link]; [link]Eph. 1:4[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>For our [xref]a[/xref]gospel did not come to you in word only, but also in [xref]b[/xref]power and in the [xref]c[/xref]Holy Spirit and in much assurance, even as you know [note]1[/note][xref]d[/xref]what kind of men we were among you for your sake.</text>
+        <note num="1">The apostles not only preached the gospel; they lived it. Their ministering of the gospel was not only by word but also by a life that displayed the power of God, a life in the Holy Spirit and in the assurance of their faith. They were the pattern of the glad tidings that they spread.</note>
+        <xref num="a">[link]2 Thes. 2:14[/link]</xref>
+        <xref num="b">[link]1 Cor. 2:4[/link]; [link]4:20[/link]</xref>
+        <xref num="c">[link]Acts 1:8[/link]</xref>
+        <xref num="d">[link]Acts 20:18[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>And you became [note]1[/note][xref]a[/xref]imitators of us and of the Lord, having received the [note]2[/note]word in much affliction with [xref]b[/xref]joy of the [xref]c[/xref]Holy Spirit,</text>
+        <note num="1">Since the preachers were the pattern of the gospel, the believers became imitators of them. This, then, led the believers to follow the Lord, to take Him as their pattern ([link]Matt. 11:29[/link]).</note>
+        <note num="2">The word preached by Paul was the embodiment of the Triune God, conveying and transmitting Him &amp;#8212; the Father, the Son, and the Holy Spirit &amp;#8212; into the believers in Christ. This word as the divine gospel was received by the Thessalonians, who were typical Gentile unbelievers.</note>
+        <xref num="a">[link]2 Thes. 3:7[/link], [link]9[/link]; [link]1 Cor. 4:16[/link]; [link]11:1[/link]; [link]Phil. 3:17[/link]; cf. [link]1 Thes. 2:14[/link]</xref>
+        <xref num="b">[link]Rom. 14:17[/link]; [link]Acts 13:52[/link]; [link]Gal. 5:22[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:8[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>So that you became a [note]1[/note][xref]a[/xref]pattern to all those who believe in [xref]b[/xref]Macedonia and in [xref]c[/xref]Achaia.</text>
+        <note num="1">The imitators of the apostles ([link]v. 6[/link]) became a pattern to all other believers.</note>
+        <xref num="a">cf. [link]2 Thes. 3:9[/link]; [link]1 Tim. 1:16[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:10[/link]; [link]2 Cor. 8:1[/link]; [link]11:9[/link]</xref>
+        <xref num="c">[link]Acts 18:27[/link]; [link]2 Cor. 9:2[/link]; [link]11:10[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>For from you the word of the Lord has sounded out; not only in Macedonia and in Achaia, but in every place, your [note]1[/note][xref]a[/xref]faith toward God has gone out, so that we have no need of saying anything.</text>
+        <note num="1">This means that the believers' faith toward God sounded out together with the word of the Lord. Not only the Lord's objective word but also the believers' subjective faith went out.</note>
+        <xref num="a">[link]Rom. 1:8[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>For they themselves report concerning us [note]1[/note]what kind of entrance we had toward you and how you [note]2[/note][xref]a[/xref]turned to God from the [xref]b[/xref]idols to [note]3[/note][xref]c[/xref]serve a [note]4[/note][xref]d[/xref]living and [xref]e[/xref]true God</text>
+        <note num="1">Implying a receptive welcome.</note>
+        <note num="2">To turn to God from the idols, to serve a living and true God, and to await His Son from the heavens are the three basic substances of the Christian life as viewed from another angle. To turn to God from the idols is to turn away not only from the false gods, together with the devil and the demons behind them, but also from all things other than God. This is accomplished by faith infused into the new converts through their hearing of the word of the gospel. To serve a living and true God is to serve the very God who is triune &amp;#8212; the Father, the Son, and the Spirit &amp;#8212; who has been processed to be the believers' life and life supply for their enjoyment. They should experience Him not only as the object of worship but also as the all-inclusive Supplier who lives in them. This experience is brought about by love produced within the believers by the sweet taste of the rich supply of the Father, through the Son, and in the Spirit. To await the Son of God from the heavens is to look for the One who passed through incarnation, human living, and crucifixion and entered into resurrection and ascended to the heavens, and who will come back to receive His believers into glory. This is the hope that strengthens the believers to stand steadfastly in their faith.</note>
+        <note num="3">Lit., serve as a slave.</note>
+        <note num="4">The living and true God is in contrast to the dead and false idols. God must be living and true to us and in us in our daily life, so that our present living will testify that the God whom we serve is living and true.</note>
+        <xref num="a">[link]Acts 14:15[/link]</xref>
+        <xref num="b">[link]1 Cor. 12:2[/link]; [link]Gal. 4:8[/link]</xref>
+        <xref num="c">[link]Heb. 9:14[/link]</xref>
+        <xref num="d">[link]Dan. 6:20[/link], [link]26[/link]; [link]1 Tim. 3:15[/link]; [link]Heb. 3:12[/link]</xref>
+        <xref num="e">[link]Jer. 10:10[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>And [note]1[/note][xref]a[/xref]await His Son from the [xref]b[/xref]heavens, whom He [xref]c[/xref]raised from the dead, Jesus, who [xref]d[/xref]delivers us from the [note]2[/note][xref]e[/xref]wrath which is coming.</text>
+        <note num="1">Because we are awaiting the Son of God from the heavens, our future is focused on Him. Our life declares that we have no hope on this earth and no positive destiny in this age, and that our hope is the coming Lord, who is our destiny forever. This governs, holds, and keeps our Christian life for the church life.</note>
+        <note num="2">The wrath of the coming judgment of God ([link]Rom. 2:5-6[/link], [link]8-9[/link]).</note>
+        <xref num="a">[link]1 Cor. 1:7[/link]; [link]Phil. 3:20[/link]; [link]Titus 2:13[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:16[/link]; [link]2 Thes. 1:7[/link]; [link]Acts 1:11[/link]</xref>
+        <xref num="c">[link]Acts 2:24[/link]</xref>
+        <xref num="d">[link]1 Thes. 5:9[/link]</xref>
+        <xref num="e">[link]1 Thes. 5:9[/link]; [link]Matt. 3:7[/link]; [link]Rom. 2:5[/link]; [link]5:9[/link]; [link]John 3:36[/link]; [link]Rev. 6:16-17[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="2">
+        <verse num="1">
+        <text>For you yourselves know, brothers, our [note]1[/note]entrance toward you, that it has not been [xref]a[/xref]in vain.</text>
+        <note num="1">The apostle stressed repeatedly their entrance toward the believers ([link]1:5[/link], [link]9[/link]). This shows that their manner of life played a great role in infusing the gospel into the new converts. It was not only what they said but what they were.</note>
+        <xref num="a">[link]1 Thes. 3:5[/link]; [link]1 Cor. 15:58[/link]; [link]Gal. 4:11[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>But having suffered previously and having been outrageously treated, even as you know, in [note]1[/note][xref]a[/xref]Philippi, we were [xref]b[/xref]bold [note]2[/note]in our God to speak to you the gospel of God in much [xref]c[/xref]struggle.</text>
+        <note num="1">See note [link]1[sup]1[/sup] in Phil. 1[/link].</note>
+        <note num="2">This was the apostles' experience of God in enjoying Him as their boldness in the struggle for the gospel.</note>
+        <xref num="a">[link]Acts 16:12[/link]</xref>
+        <xref num="b">[link]Acts 4:13[/link]</xref>
+        <xref num="c">[link]Phil. 1:30[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>For our [xref]a[/xref]exhortation is not out of [note]1[/note][xref]b[/xref]deception nor out of [xref]c[/xref]uncleanness nor in [xref]d[/xref]guile;</text>
+        <note num="1">[i]Deception[/i] refers to the goal, [i]uncleanness[/i] to the motive, and [i]guile[/i] to the means. All three are of and by the subtle and deceiving devil.</note>
+        <xref num="a">[link]1 Thes. 4:1[/link]</xref>
+        <xref num="b">cf. [link]2 Thes. 2:10[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:7[/link]</xref>
+        <xref num="d">[link]2 Cor. 12:16[/link]; [link]4:2[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>But even as we have been [note]1[/note][xref]a[/xref]approved by God to be [xref]b[/xref]entrusted with the gospel, so we speak, not as [xref]c[/xref]pleasing men but God, who [xref]d[/xref]proves our hearts.</text>
+        <note num="1">God's entrusting depends on His approval, which comes out of His testing. The apostles were first tested and approved by God and then were entrusted by Him with the gospel. Hence, their speaking, the preaching of the gospel, was not of themselves to please men but of God to please Him. He proved, examined, and tested their hearts continually ([link]Psa. 26:2[/link]; [link]139:23-24[/link]).</note>
+        <xref num="a">[link]2 Tim. 2:15[/link]</xref>
+        <xref num="b">[link]Gal. 2:7[/link]; [link]1 Tim. 1:11[/link]; [link]Titus 1:3[/link]; [link]1 Cor. 9:17[/link]</xref>
+        <xref num="c">[link]Gal. 1:10[/link]</xref>
+        <xref num="d">[link]Psa. 17:3[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>For neither were we found at any time with [xref]a[/xref]flattering speech, even as you know, nor with a [note]1[/note]pretext for [xref]b[/xref]covetousness; God is [xref]c[/xref]witness.</text>
+        <note num="1">Or, pretense, cloak. To have any pretext for covetousness is to peddle or adulterate the word of God ([link]2 Cor. 2:17[/link]; [link]4:2[/link]). It is also to pretend to be godly for the sake of gain ([link]1 Tim. 6:5[/link]; [link]Titus 1:11[/link]; [link]2 Pet. 2:3[/link]).</note>
+        <xref num="a">[link]Rom. 16:18[/link]; [link]Jude 16[/link]</xref>
+        <xref num="b">[link]Acts 20:33[/link]</xref>
+        <xref num="c">[link]1 Thes. 2:10[/link]; [link]Rom. 1:9[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>Nor did we [note]1[/note]seek [xref]a[/xref]glory from men, neither from you nor from others, though we could have [note]2[/note]stood on our authority as [xref]b[/xref]apostles of Christ.</text>
+        <note num="1">To seek glory from men is a real temptation to every Christian worker. Many have been devoured and spoiled by this matter.</note>
+        <note num="2">Or, asserted authority. Lit., been able to be in weight; i.e., been burdensome (cf. [link]v. 9[/link]; [link]1 Cor. 9:4-12[/link]). To assert authority, dignity, or right in Christian work damages that work. The Lord Jesus, while on earth, gave up His dignity ([link]John 13:4-5[/link]), and the apostle preferred not to use his right ([link]1 Cor. 9:12[/link]).</note>
+        <xref num="a">[link]John 5:41[/link], [link]44[/link]</xref>
+        <xref num="b">[link]1 Cor. 9:1[/link], [link]2[/link], [link]5[/link]; [link]2 Cor. 12:12[/link]; [link]1 Tim. 2:7[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>But we were [xref]a[/xref]gentle in your midst, as a [note]1[/note][xref]b[/xref]nursing mother would [note]2[/note][xref]c[/xref]cherish her own [xref]d[/xref]children.</text>
+        <note num="1">In some instances the Greek word means [i]a mother;[/i] hence, a nursing mother (cf. [link]Gal. 4:19[/link]).</note>
+        <note num="2">Cherishing, which includes nourishing, indicates care that is more tender than mere nourishing. See note [link]29[sup]1[/sup] in Eph. 5[/link].</note>
+        <xref num="a">[link]2 Tim. 2:24[/link]</xref>
+        <xref num="b">cf. [link]Isa. 49:23[/link]</xref>
+        <xref num="c">[link]Eph. 5:29[/link]</xref>
+        <xref num="d">[link]1 Thes. 2:11[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>[note]1[/note][xref]a[/xref]Yearning in this way over you, we were well pleased to impart to you not only the gospel of God but also [note]2[/note][xref]b[/xref]our own souls, because you became beloved to us.</text>
+        <note num="1">Being affectionately fond of, affectionately desirous of, like a nursing mother affectionately interested in her child, whom she nourishes and cherishes. This was what the apostles did with new believers. See note [link]17[sup]3[/sup][/link].</note>
+        <note num="2">To live a clean and upright life, as portrayed in [link]vv. 3-6[/link] and [link]10[/link], and to love the new converts, even by giving our own souls to them, as described in [link]vv. 7-9[/link] and [link]11[/link], are the prerequisites for infusing them with the salvation conveyed in the gospel that we preach.</note>
+        <xref num="a">[link]1 Thes. 2:17[/link]</xref>
+        <xref num="b">cf. [link]2 Cor. 12:15[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>For you remember, brothers, our labor and travail: While [xref]a[/xref]working night and day so as not to be [xref]b[/xref]burdensome to any of you, we proclaimed to you the gospel of God.</text>
+        <xref num="a">[link]2 Thes. 3:8[/link]; [link]Acts 18:3[/link]; [link]1 Cor. 4:12[/link]</xref>
+        <xref num="b">[link]2 Cor. 11:9[/link]; [link]12:13[/link], [link]14[/link], [link]16[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>You are witnesses, as well as [xref]a[/xref]God, how in a [note]1[/note]holy and righteous and blameless manner we conducted ourselves toward you who believe,</text>
+        <note num="1">See note [link]75[sup]1[/sup] in Luke 1[/link]. [i]Holy[/i] refers to conduct toward God, [i]righteous[/i] to conduct toward men, and [i]blameless[/i] to conduct toward all &amp;#8212; God, men, and Satan.</note>
+        <xref num="a">[link]1 Thes. 2:5[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>Just as you know [note]1[/note]how [i]we were[/i] to each one of you, as a [note]2[/note][xref]a[/xref]father to his own [xref]b[/xref]children, [note]3[/note][xref]c[/xref]exhorting you and consoling [i]you[/i] and testifying,</text>
+        <note num="1">The apostle was strong in stressing what or how they were ([link]1:5[/link]), because what they were opened the way to bring their new converts into God's full salvation.</note>
+        <note num="2">In cherishing the believers as their own children, the apostles considered themselves a nursing mother; in exhorting the believers, a father.</note>
+        <note num="3">Or, entreating.</note>
+        <xref num="a">[link]1 Cor. 4:15[/link]</xref>
+        <xref num="b">[link]1 Thes. 2:7[/link]; [link]1 Cor. 4:14[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:1[/link]; [link]5:14[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>So that you might [xref]a[/xref]walk in a manner worthy of God, who [note]1[/note][xref]b[/xref]calls you into His own [note]2[/note][xref]c[/xref]kingdom and [note]3[/note][xref]d[/xref]glory.</text>
+        <note num="1">God's calling is according to His selection and follows His selection ([link]1:4[/link]).</note>
+        <note num="2">As worshippers of idols ([link]1:9[/link]), the believers were in the kingdom of Satan ([link]Matt. 12:26[/link]). Now, through the salvation in Christ they were called, and they have believed into the kingdom of God, which is the sphere in which they can worship and enjoy God under the divine ruling with the view of entering into God's glory.</note>
+        <note num="3">God's glory goes with His kingdom. See note [link]13[sup]4[/sup] in Matt. 6[/link].</note>
+        <xref num="a">[link]Eph. 4:1[/link], [link]17[/link]; [link]Phil. 1:27[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:24[/link]; [link]2 Thes. 2:14[/link]; [link]1 Pet. 5:10[/link]</xref>
+        <xref num="c">[link]2 Thes. 1:5[/link]; [link]Matt. 3:2[/link]; [link]John 3:5[/link]; [link]Acts 14:22[/link]; [link]2 Pet. 1:11[/link]</xref>
+        <xref num="d">[link]Rom. 8:17[/link], [link]18[/link]; [link]2 Cor. 4:17[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>And because of this we also [xref]a[/xref]thank God unceasingly that when you received [note]1[/note]the word of God, which you heard [note]2[/note]from us, you accepted [i]it[/i] not [i]as[/i] the word of men but even as it truly is, the word of God, which also [note]3[/note]operates in you who believe.</text>
+        <note num="1">Lit., the word of hearing of God from us.</note>
+        <note num="2">The word received by the believers was from the apostles, but it was of God. Its source, its origin, was God and not the apostles.</note>
+        <note num="3">Since the word of God is living and operative ([link]Heb. 4:12[/link]), it operates in the believing ones.</note>
+        <xref num="a">[link]1 Thes. 1:2[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>For you, brothers, became [note]1[/note][xref]a[/xref]imitators of the [xref]b[/xref]churches of God which are in Judea in Christ Jesus, for you also suffered the same things from your own countrymen, even as they also from the Jews,</text>
+        <note num="1">The apostle taught the same thing in all the churches ([link]1 Cor. 4:17[/link]; [link]7:17[/link]; [link]11:16[/link]), indicating that all the churches should bear the same testimony of Jesus. Hence, the churches are all lampstands of the same kind ([link]Rev. 1:9[/link], [link]20[/link]).</note>
+        <xref num="a">cf. [link]1 Thes. 1:6[/link]</xref>
+        <xref num="b">[link]Acts 9:31[/link]; [link]Gal. 1:22[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>Who both [xref]a[/xref]killed the Lord Jesus and the [xref]b[/xref]prophets and [xref]c[/xref]drove us out; and they are not pleasing to God and are contrary to all men,</text>
+        <xref num="a">[link]Acts 2:23[/link]; [link]3:15[/link]; [link]7:52[/link]</xref>
+        <xref num="b">[link]Matt. 23:31[/link]; [link]Jer. 2:30[/link]</xref>
+        <xref num="c">[link]Acts 13:50[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>In that they forbid us to speak to the Gentiles that they may be saved, so that they [xref]a[/xref]fill up their sins always. But wrath has come upon them to the [note]1[/note]uttermost.</text>
+        <note num="1">Lit., to the end; hence, to the uttermost.</note>
+        <xref num="a">[link]Matt. 23:32[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>But we, brothers, having been [note]1[/note]bereaved of you for [note]2[/note]a little while, in presence, [xref]a[/xref]not in heart, were more abundantly [note]3[/note]eager with great [xref]b[/xref]desire to see your face.</text>
+        <note num="1">This word implies that the apostles considered the new converts precious and dear to them. Paul likened their departure from them to a bereavement, a loss that they suffered through missing them.</note>
+        <note num="2">Lit., the season of an hour.</note>
+        <note num="3">This is the apostles' yearning over the new converts ([link]v. 8[/link]).</note>
+        <xref num="a">cf. [link]1 Cor. 5:3[/link]; [link]Col. 2:5[/link]</xref>
+        <xref num="b">[link]1 Thes. 2:8[/link]; [link]3:10[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>Therefore we wanted to come to you, indeed I Paul, both once and again, yet [note]1[/note]Satan [xref]a[/xref]hindered us.</text>
+        <note num="1">Because the apostles were carrying out the will of God, Satan frustrated them.</note>
+        <xref num="a">[link]Rom. 1:13[/link]; [link]15:22[/link]</xref>
+        </verse>
+        <verse num="19">
+        <text>For what is our [xref]a[/xref]hope or [xref]b[/xref]joy or crown of [xref]c[/xref]boasting before our Lord Jesus at His [note]1[/note][xref]d[/xref]coming? Are not even you?</text>
+        <note num="1">Gk. [i]parousia,[/i] meaning [i]presence,[/i] as in [link]3:13[/link] and [link]4:15[/link]. The Lord's coming is His presence. In this light these two early Epistles were written. Every chapter of the first Epistle ends with the Lord's coming back.</note>
+        <xref num="a">cf. [link]1 Thes. 1:3[/link]; [link]2 Thes. 2:16[/link]</xref>
+        <xref num="b">[link]Phil. 4:1[/link]</xref>
+        <xref num="c">[link]2 Thes. 1:4[/link]; [link]1 Cor. 15:31[/link]; [link]2 Cor. 1:14[/link]</xref>
+        <xref num="d">[link]1 Thes. 3:13[/link]; [link]James 5:7[/link]; [link]1 John 2:28[/link]</xref>
+        </verse>
+        <verse num="20">
+        <text>For you are our [note]1[/note]glory and joy.</text>
+        <note num="1">Since the apostles were the believers' nursing mother and exhorting father ([link]vv. 7[/link], [link]11[/link]), the believers, as the apostles' children, were their glory and joy.</note>
+        </verse>
+    </chapter>
+    <chapter num="3">
+        <verse num="1">
+        <text>Therefore when we could [xref]a[/xref]bear [i]it[/i] no longer, we thought it good to be left in [note]1[/note][xref]b[/xref]Athens alone,</text>
+        <note num="1">The chief city of the province of Achaia of the Roman Empire, where the apostle Paul preached the gospel to the philosophical Greeks ([link]Acts 17:15-34[/link]).</note>
+        <xref num="a">[link]1 Thes. 3:5[/link]</xref>
+        <xref num="b">[link]Acts 17:15-16[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>And we sent [xref]a[/xref]Timothy, our brother and [note]1[/note]God's fellow worker in the gospel of Christ, to [xref]b[/xref]establish and [note]2[/note]encourage you for the sake of your [xref]c[/xref]faith,</text>
+        <note num="1">Some MSS read, minister of God. A minister of God is God's fellow worker ([link]1 Cor. 3:9[/link]; [link]2 Cor. 6:1[/link]). What a privilege! What a blessing!</note>
+        <note num="2">Or, exhort, comfort.</note>
+        <xref num="a">[link]1 Thes. 3:6[/link]; [link]1:1[/link]; [link]1 Cor. 4:17[/link]; [link]16:10[/link]; [link]2 Cor. 1:1[/link], [link]19[/link]; [link]Phil. 2:19[/link]; [link]Col. 1:1[/link]; [link]Philem. 1[/link]; [link]Heb. 13:23[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:13[/link]</xref>
+        <xref num="c">[link]1 Thes. 3:5[/link], [link]7[/link], [link]10[/link]; [link]1:3[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>That no one would be [note]1[/note]shaken by these [xref]a[/xref]afflictions; for you yourselves know that we are [note]2[/note][xref]b[/xref]appointed for this.</text>
+        <note num="1">If we are established in the faith ([link]v. 2[/link]), afflictions will work out for our good ([link]Rom. 8:28[/link]) according to God's purpose in His appointment. Otherwise, we may be shaken by the tempter ([link]v. 5[/link]) through the afflictions.</note>
+        <note num="2">Or, destined, set, located. God has destined, appointed, that we should pass through afflictions. Hence, afflictions are God's allotted portion to us, and He has set us, located us, in a situation of afflictions.</note>
+        <xref num="a">[link]Eph. 3:13[/link]</xref>
+        <xref num="b">cf. [link]Acts 9:16[/link]; [link]14:22[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>For even when we were with you, we [note]1[/note]told you beforehand that we are to be afflicted, even as it also came to pass and you know.</text>
+        <note num="1">Imperfect tense, indicating repeated action.</note>
+        </verse>
+        <verse num="5">
+        <text>Because of this, when I also could [xref]a[/xref]bear [i]it[/i] no longer, I sent to find out concerning your [xref]b[/xref]faith, lest perhaps the [note]1[/note][xref]c[/xref]tempter had tempted you and our labor would be [note]2[/note][xref]d[/xref]in vain.</text>
+        <note num="1">The subtle devil, the old serpent, who tempted Eve ([link]Gen. 3:1-6[/link]; [link]1 Tim. 2:14[/link]).</note>
+        <note num="2">The aim of the subtle tempter is to destroy the gospel work accomplished through God's fellow workers, so that it would be in vain.</note>
+        <xref num="a">[link]1 Thes. 3:1[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:2[/link]</xref>
+        <xref num="c">[link]Matt. 4:3[/link]; [link]1 Cor. 7:5[/link]; [link]2 Cor. 11:3[/link]</xref>
+        <xref num="d">[link]1 Thes. 2:1[/link]; [link]Gal. 2:2[/link]; [link]Phil. 2:16[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>But [xref]a[/xref]Timothy, having just come [note]1[/note]to us from you and announcing the good news to us of your [xref]b[/xref]faith and love and that you have kind [xref]c[/xref]remembrance of us always and [xref]d[/xref]long to see us, just as we also you,</text>
+        <note num="1">The apostle was in Corinth after leaving Athens ([link]Acts 17:15-16[/link]; [link]18:1[/link], [link]5[/link]). It was in Corinth that he wrote this lovely letter to the dear saints in Thessalonica for their encouragement.</note>
+        <xref num="a">[link]1 Thes. 3:2[/link]; [link]Acts 18:5[/link]</xref>
+        <xref num="b">[link]1 Thes. 1:3[/link]; [link]3:2[/link], [link]5[/link], [link]7[/link], [link]10[/link]</xref>
+        <xref num="c">[link]1 Cor. 11:2[/link]</xref>
+        <xref num="d">[link]Rom. 1:11[/link]; [link]2 Tim. 1:4[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>Because of this we were [note]1[/note][xref]a[/xref]comforted because of you, brothers, in all our [note]2[/note]necessity and affliction, through your [xref]b[/xref]faith;</text>
+        <note num="1">The sound condition of the believers is always a comfort to God's fellow workers, who work on them and bear them as a burden.</note>
+        <note num="2">Or, distress. See notes [link]26[sup]2[/sup] in 1 Cor. 7[/link] and [link]10[sup]3[/sup] in 2 Cor. 12[/link].</note>
+        <xref num="a">[link]2 Cor. 1:4[/link]; [link]7:6[/link], [link]7[/link], [link]13[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:2[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>Because now we [note]1[/note]live if you [note]2[/note][xref]a[/xref]stand firm in the Lord.</text>
+        <note num="1">The believers' standing firm in the Lord ministers life to the apostles.</note>
+        <note num="2">Standing firm in the Lord is in contrast to being shaken from the faith ([link]v. 3[/link]).</note>
+        <xref num="a">[link]1 Cor. 16:13[/link]; [link]Eph. 6:13-14[/link]; [link]Phil. 1:27[/link]; [link]4:1[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>For what [xref]a[/xref]thanks can we return to God concerning you for all the joy with which we rejoice because of you before our God,</text>
+        <xref num="a">[link]1 Thes. 1:2[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>Night and day petitioning exceedingly so that we may [xref]a[/xref]see your face and [note]1[/note]complete the things that are lacking in your [xref]b[/xref]faith?</text>
+        <note num="1">Or, perfect. The verb form of the Greek word in [link]2 Cor. 13:9[/link] (see note 2 there). The believers in Thessalonica, being young in the Lord, were still lacking in their new faith. The apostle realized this with much loving concern for them. This was his reason for writing this Epistle.</note>
+        <xref num="a">[link]1 Thes. 2:17[/link]; [link]Rom. 1:11[/link]</xref>
+        <xref num="b">[link]1 Thes. 3:2[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>Now may our God and Father Himself and our Lord Jesus [note]1[/note][xref]a[/xref]make straight our path to you;</text>
+        <note num="1">In Greek, [i]make straight[/i] here is singular. This indicates that the apostle considered that God the Father and the Lord Jesus are one. How good to have our way in the ministry made straight by such a One! And how beautiful are the footsteps of the apostles in their carrying out of this One's ministry for the fulfilling of His purpose!</note>
+        <xref num="a">[link]2 Thes. 3:5[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>And the Lord cause you to increase and [xref]a[/xref]abound in [note]1[/note][xref]b[/xref]love to [xref]c[/xref]one another and to all, just as we also to you,</text>
+        <note num="1">The apostle's concern for the young believers was first in regard to their faith ([link]vv. 2-10[/link]) and then in regard to their love, which issues from faith and works together with faith ([link]Gal. 5:6[/link]; [link]1 Tim. 1:14[/link] and note 2). Such love is an indication of growth in life ([link]1:3[/link]).</note>
+        <xref num="a">[link]1 Thes. 4:1[/link], [link]10[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:9[/link]; [link]2 Thes. 1:3[/link]; [link]1 John 4:7-12[/link]; [link]1 Thes. 1:3[/link]; [link]Phil. 1:9[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:18[/link]; [link]5:11[/link], [link]15[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>[note]1[/note]So that He may [xref]a[/xref]establish your [note]2[/note]hearts [xref]b[/xref]blameless in [note]3[/note][xref]c[/xref]holiness before our God and Father at the [note]4[/note][xref]d[/xref]coming of our Lord Jesus [xref]e[/xref]with all His [note]5[/note]saints. [note]6[/note]</text>
+        <note num="1">The establishing of the believers' hearts blameless issues from faith and love, as mentioned in the preceding verses. This spontaneously produces the hope of the coming back of our dear Lord, in whom we believe and whom we love. Hence, again we see that faith, love, and hope are the implied factors in the construction of this Epistle.</note>
+        <note num="2">Inwardly, our heart must be established in holiness; outwardly, our body must be preserved in sanctification ([link]4:4[/link]; [link]5:23[/link]). This is so that we may have a holy life, and this holy life is for the church life.</note>
+        <note num="3">See note [link]2[sup]3[/sup] in Rom. 1[/link].</note>
+        <note num="4">See note [link]19[sup]1[/sup] in ch. 2[/link].</note>
+        <note num="5">Believers in Christ (see notes [link]2[sup]3[/sup] in Rom. 1[/link] and [link]2[sup]6[/sup] in 1 Cor. 1[/link]), including the Old Testament saints ([link]Dan. 7:18[/link], [link]21-22[/link], [link]25[/link], [link]27[/link]; [link]Zech. 14:5[/link]).</note>
+        <note num="6">Some MSS add, Amen.</note>
+        <xref num="a">[link]1 Thes. 3:2[/link]; [link]James 5:8[/link]; [link]1 Pet. 5:10[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:23[/link]; [link]Col. 1:22[/link]</xref>
+        <xref num="c">[link]1 Tim. 2:15[/link]; [link]Heb. 12:14[/link]; cf. [link]1 Thes. 4:3[/link], [link]4[/link], [link]7[/link]; [link]5:23[/link]</xref>
+        <xref num="d">[link]1 Thes. 2:19[/link]; [link]4:15[/link]; [link]2 Thes. 2:1[/link]</xref>
+        <xref num="e">[link]1 Thes. 4:14[/link], [link]17[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="4">
+        <verse num="1">
+        <text>Furthermore, brothers, we ask and [xref]a[/xref]exhort you in the Lord Jesus that even as you received from us how you ought to walk and [xref]b[/xref]please God, even as indeed you do walk, that you [xref]c[/xref]abound still more.</text>
+        <xref num="a">[link]1 Thes. 4:10[/link]; [link]2:3[/link], [link]11[/link]; [link]5:14[/link]; [link]2 Thes. 3:12[/link]</xref>
+        <xref num="b">[link]Col. 1:10[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:10[/link]; [link]3:12[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>For you know what [xref]a[/xref]charges we gave you through the Lord Jesus.</text>
+        <xref num="a">[link]1 Thes. 4:11[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>For this is the [xref]a[/xref]will of God, your [note]1[/note][xref]b[/xref]sanctification: that you [xref]c[/xref]abstain from [note]2[/note][xref]d[/xref]fornication;</text>
+        <note num="1">See note [link]19[sup]2[/sup] in Rom. 6[/link]. God's will is that His redeemed people, the believers in Christ, live a life of holiness according to His holy nature, a life wholly separated unto Him from anything other than Him. For this He is sanctifying us wholly ([link]5:23[/link]).</note>
+        <note num="2">At Paul's time, in both Corinth and Thessalonica sensuality and immorality were rife in the pagan religions and even were fostered by pagan worship. Man was made to express God ([link]Gen. 1:26[/link]). Concerning this purpose, nothing ruins man more than fornication. This prevents man from being holy, separated unto God, and contaminates man to the uttermost in fulfilling God's holy purpose. Hence, the apostle strongly charged the newly converted Gentile believers to be sanctified unto God, to abstain from fornication, the most gross sin in the eyes of God, that they might avoid its damage and contamination.</note>
+        <xref num="a">[link]1 Thes. 5:18[/link]; [link]Rom. 12:2[/link]; [link]Eph. 5:17[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:4[/link], [link]7[/link]; [link]5:23[/link]; [link]2 Thes. 2:13[/link]; [link]1 Cor. 1:30[/link]; cf. [link]1 Thes. 3:13[/link]</xref>
+        <xref num="c">[link]1 Thes. 5:22[/link]</xref>
+        <xref num="d">[link]1 Cor. 6:18[/link]; [link]Heb. 13:4[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>That each one of you know how to [note]1[/note]possess his [xref]a[/xref]own [note]2[/note]vessel in [note]3[/note]sanctification and [xref]b[/xref]honor,</text>
+        <note num="1">Implying to keep, to preserve.</note>
+        <note num="2">Concerning the interpretation of [i]vessel[/i] here, there are two schools: one holds that the vessel is man's body, as in [link]2 Cor. 4:7[/link]; the other, that it is a man's wife, as in [link]1 Pet. 3:7[/link]. The context of this verse and the next verse, which include phrases such as [i]each one of you, in sanctification and honor,[/i] and especially [i]not in the passion of lust,[/i] justifies the interpretation of the first school but not that of the second. Here the apostle considered man's body his vessel, just as David did in [link]1 Sam. 21:5[/link]. In the same matter concerning the use of the body, both Paul and David considered man's body his vessel. To keep, or preserve, man's vessel in sanctification and honor, not allowing it to indulge in the passion of lust, is the safeguard against committing fornication.</note>
+        <note num="3">Sanctification refers more to a holy condition before God; honor, to a respectable standing before man. Man was created for God's purpose with a high standing, and marriage was ordained by God for the propagation of man to fulfill God's purpose. Hence, marriage should be held in honor ([link]Heb. 13:4[/link]). To abstain from fornication is not only to remain in a sanctified condition before God but also to hold and keep a standing of honor before man.</note>
+        <xref num="a">cf. [link]1 Cor. 6:18[/link]</xref>
+        <xref num="b">[link]Heb. 13:4[/link]; cf. [link]Rom. 1:24[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>Not in the [xref]a[/xref]passion of lust, like the [xref]b[/xref]Gentiles who do [note]1[/note][xref]c[/xref]not know God;</text>
+        <note num="1">That they do not know God is the basic reason that people indulge in the passion of lust.</note>
+        <xref num="a">[link]Rom. 1:24[/link], [link]26[/link]; [link]Col. 3:5[/link]</xref>
+        <xref num="b">[link]Eph. 4:17[/link]</xref>
+        <xref num="c">[link]2 Thes. 1:8[/link]; [link]Psa. 79:6[/link]; [link]Jer. 9:3[/link]; [link]10:25[/link]; [link]Gal. 4:8[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>That no one [note]1[/note]overstep and [note]2[/note]take advantage of his brother in [note]3[/note]the matter, because the Lord is the [note]4[/note][xref]a[/xref]avenger concerning all [note]5[/note]these things, even as we also said before to you and solemnly charged.</text>
+        <note num="1">I.e., overpass (limits), overreach, transgress, go beyond. [i]Overstep and take advantage of his brother[/i] refers to the committing of adultery with a brother's wife.</note>
+        <note num="2">Or, make a gain of; hence, defraud.</note>
+        <note num="3">The matter of fornication, mentioned in [link]v. 3[/link].</note>
+        <note num="4">The Lord judges fornicators and adulterers as an avenger, as a punisher, meting out justice.</note>
+        <note num="5">Things such as overstepping and taking advantage of others.</note>
+        <xref num="a">cf. [link]Heb. 13:4[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>For God has not [xref]a[/xref]called us [note]1[/note]for [note]2[/note][xref]b[/xref]uncleanness but [note]3[/note]in [note]4[/note][xref]c[/xref]sanctification.</text>
+        <note num="1">Lit., based on.</note>
+        <note num="2">The uncleanness of things such as fornication and adultery. Some teach that [i]uncleanness[/i] here refers to unfair gain in business, and that [link]v. 6[/link] speaks of taking advantage of a brother in doing business. However, such a teaching is not acceptable in light of the context of this section, which begins at [link]v. 3[/link] with the charge to abstain from fornication. Actually, [link]v. 7[/link] is the concluding word of this charge.</note>
+        <note num="3">I.e., in the element of sanctification, in the sphere of God's holy nature.</note>
+        <note num="4">The apostle's charge to abstain from fornication is based on sanctification ([link]v. 3[/link]), strengthened by sanctification ([link]v. 4[/link]), and concluded here with sanctification, because fornication, the most unclean thing, destroys the holy standing and character of God's called saints.</note>
+        <xref num="a">[link]1 Thes. 2:12[/link]; [link]2 Thes. 2:14[/link]</xref>
+        <xref num="b">[link]1 Thes. 2:3[/link]; [link]Rom. 1:24[/link]; [link]6:19[/link]; [link]2 Cor. 12:21[/link]; [link]Gal. 5:19[/link]; [link]Eph. 4:19[/link]; [link]5:3[/link]; [link]Col. 3:5[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:3[/link]; [link]Lev. 11:44[/link]; cf. [link]1 Pet. 1:15[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>[note]1[/note]Consequently, he who [note]2[/note]rejects, rejects not man but God, who also gives His [note]3[/note][xref]a[/xref]Holy Spirit to you.</text>
+        <note num="1">This verse is the conclusion of the section that begins with [link]v. 3[/link].</note>
+        <note num="2">I.e., rejects the charge in the preceding verses.</note>
+        <note num="3">The Holy Spirit given to us by God is the Holy One who sanctifies us, making us holy before God ([link]Rom. 15:16[/link]; [link]1 Pet. 1:2[/link]; [link]1 Cor. 6:11[/link]). The will ([link]v. 3[/link]), the call ([link]v. 7[/link]), and the Spirit of God are all for our sanctification. First, God had His will, then He called us, and then He gave us His Holy Spirit. By His Spirit we can be sanctified to answer His call and fulfill His will.</note>
+        <xref num="a">[link]1 Thes. 1:6[/link]; [link]1 John 4:13[/link]</xref>
+        </verse>
+        <verse num="9">
+        <text>Now concerning [note]1[/note]brotherly [xref]a[/xref]love, you have no need [i]for me[/i] to [xref]b[/xref]write to you, for you yourselves are [xref]c[/xref]taught of God to [note]2[/note][xref]d[/xref]love one another;</text>
+        <note num="1">Gk. [i]philadelphia,[/i] composed of [i]phileo,[/i] to love (referring to love in general, as [i]to have affection for[/i]), and [i]adelphos,[/i] brother.</note>
+        <note num="2">Gk. [i]agapao,[/i] referring to noble love.</note>
+        <xref num="a">[link]1 Thes. 3:12[/link]; [link]Heb. 13:1[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:1[/link]</xref>
+        <xref num="c">[link]Isa. 54:13[/link]; [link]John 6:45[/link]</xref>
+        <xref num="d">[link]John 13:34[/link]; [link]15:12[/link], [link]17[/link]; [link]1 John 3:11[/link], [link]23[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>For you also do this unto all the brothers in the whole of [xref]a[/xref]Macedonia. But we [xref]b[/xref]exhort you, brothers, to [xref]c[/xref]abound still more</text>
+        <xref num="a">[link]1 Thes. 1:7[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:1[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:1[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>And to aspire to be [xref]a[/xref]quiet and attend to your own affairs and work with your [xref]b[/xref]hands, even as we [xref]c[/xref]charged you,</text>
+        <xref num="a">[link]2 Thes. 3:12[/link]</xref>
+        <xref num="b">[link]Acts 20:34[/link]; [link]Eph. 4:28[/link]</xref>
+        <xref num="c">[link]1 Thes. 4:2[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>That you may walk [xref]a[/xref]becomingly toward those [xref]b[/xref]outside and may have [xref]c[/xref]need of nothing.</text>
+        <xref num="a">[link]Rom. 13:13[/link]</xref>
+        <xref num="b">[link]Col. 4:5[/link]</xref>
+        <xref num="c">[link]Titus 3:14[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>But we do not want you to be [xref]a[/xref]ignorant, brothers, concerning those who are [note]1[/note]sleeping, that you would not grieve even as also the rest who have [xref]b[/xref]no hope.</text>
+        <note num="1">I.e., dead ([link]v. 16[/link]; [link]John 11:11-14[/link]; [link]1 Cor. 11:30[/link]). For believers to die was considered by both the Lord and the apostle as going to sleep.</note>
+        <xref num="a">[link]Rom. 1:13[/link]; [link]6:3[/link]</xref>
+        <xref num="b">[link]Eph. 2:12[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>For if we believe that Jesus died and [xref]a[/xref]rose, so also [xref]b[/xref]those who have fallen asleep through Jesus, God will bring [xref]c[/xref]with Him.</text>
+        <xref num="a">[link]1 Cor. 15:13[/link]; [link]Rom. 10:9[/link]</xref>
+        <xref num="b">[link]1 Cor. 15:18[/link], [link]23[/link]</xref>
+        <xref num="c">[link]1 Thes. 3:13[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>For this we say to you by the word of the Lord, that we who are living, who are left remaining unto the [note]1[/note][xref]a[/xref]coming of the Lord, shall by no means precede those who have fallen asleep;</text>
+        <note num="1">Gk. [i]parousia,[/i] meaning [i]presence.[/i] See note [link]3[sup]3[/sup] in Matt. 24[/link].</note>
+        <xref num="a">[link]1 Thes. 2:19[/link]; [link]3:13[/link]; [link]2 Thes. 2:1[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>Because the Lord Himself, with a [note]1[/note][xref]a[/xref]shout of command, with the voice of the [xref]b[/xref]archangel and with the [note]2[/note][xref]c[/xref]trumpet of God, will descend from [xref]d[/xref]heaven, and the [xref]e[/xref]dead in Christ will [xref]f[/xref]rise first.</text>
+        <note num="1">A signal for assembling.</note>
+        <note num="2">The last trumpet ([link]1 Cor. 15:52[/link]), a trumpet for assembling God's redeemed people (cf. [link]Num. 10:2[/link]).</note>
+        <xref num="a">[link]Matt. 25:6[/link]</xref>
+        <xref num="b">[link]Jude 9[/link]</xref>
+        <xref num="c">cf. [link]Matt. 24:31[/link]</xref>
+        <xref num="d">[link]1 Thes. 1:10[/link]</xref>
+        <xref num="e">[link]Rev. 14:13[/link]</xref>
+        <xref num="f">[link]John 5:28-29a[/link]; [link]1 Cor. 15:23[/link]; [link]Rev. 20:4[/link], [link]6[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>Then we who are living, who are left remaining, will be [note]1[/note][xref]a[/xref]caught up together [xref]b[/xref]with them in the [xref]c[/xref]clouds to meet the Lord [note]2[/note]in the air; and thus we will be always with the Lord.</text>
+        <note num="1">I.e., snatched up speedily and in a way that cannot be resisted. It is the same Greek word as in [link]Acts 8:39[/link] and [link]2 Cor. 12:2[/link], [link]4[/link]. The mentioning here of the rapture of the believers at the Lord's coming is in a general way, as a word of comfort. Details concerning this matter are revealed in other books of the New Testament, such as Matthew and Revelation.</note>
+        <note num="2">In [link]Rev. 12[/link] the man-child, i.e., the overcomers, is caught up, raptured, to the throne of God in the third heaven before the great tribulation, the last three and a half years of the present age ([link]Rev. 12:5-6[/link], [link]14[/link]). Here, the majority of the believers, including those who are resurrected from the dead and those who are living at that time, are raptured to the air at the end of the great tribulation, at the time of the Lord's coming (parousia).</note>
+        <xref num="a">[link]2 Thes. 2:1[/link]; cf. [link]Rev. 12:5[/link]; [link]Matt. 24:40-41[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:14[/link]; [link]3:13[/link]</xref>
+        <xref num="c">[link]Acts 1:9[/link], [link]11[/link]; [link]Rev. 10:1[/link]; cf. [link]Matt. 24:30[/link]; [link]26:64[/link]; [link]Rev. 14:14[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>Therefore comfort [xref]a[/xref]one another with these words.</text>
+        <xref num="a">[link]1 Thes. 3:12[/link]</xref>
+        </verse>
+    </chapter>
+    <chapter num="5">
+        <verse num="1">
+        <text>But concerning the [note]1[/note][xref]a[/xref]times and the seasons, brothers, you have no need [i]for anything[/i] to be [xref]b[/xref]written to you;</text>
+        <note num="1">These are the times and the seasons with regard to the Lord's coming. This is confirmed by [i]the day of the Lord[/i] in [link]v. 2[/link].</note>
+        <xref num="a">[link]Matt. 24:36[/link]; [link]Acts 1:7[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:9[/link]</xref>
+        </verse>
+        <verse num="2">
+        <text>For you yourselves know perfectly well that [note]1[/note]like a [xref]a[/xref]thief in the [xref]b[/xref]night, so the [note]2[/note][xref]c[/xref]day of the Lord comes.</text>
+        <note num="1">This indicates that the day of the Lord's coming is kept secret and will come suddenly, being known beforehand by no one ([link]Matt. 24:42-43[/link]; [link]Rev. 3:3[/link]; [link]16:15[/link]).</note>
+        <note num="2">In the preceding chapter the coming of the Lord is mainly for comfort and encouragement. In this chapter the day of the Lord is mainly for warning ([link]vv. 3-6[/link]), since it is mentioned in the Word mainly in relation to the Lord's judgment ([link]1 Cor. 1:8[/link]; [link]3:13[/link]; [link]5:5[/link]; [link]2 Cor. 1:14[/link]; [link]2 Tim. 4:8[/link]).</note>
+        <xref num="a">[link]Matt. 24:43[/link]; [link]Rev. 3:3[/link]; [link]16:15[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:5[/link], [link]7[/link]</xref>
+        <xref num="c">[link]2 Thes. 2:2-3[/link]</xref>
+        </verse>
+        <verse num="3">
+        <text>When they say, [xref]a[/xref]Peace and security, then [note]1[/note]sudden [xref]b[/xref]destruction comes upon them, just as birth [xref]c[/xref]pangs to a woman with child; and they shall by no means escape.</text>
+        <note num="1">This is the result of men's intense rebellion against God under Satan's instigation near the time of the Lord's coming ([link]v. 2[/link]).</note>
+        <xref num="a">cf. [link]Jer. 6:14[/link]</xref>
+        <xref num="b">cf. [link]Psa. 35:8[/link]</xref>
+        <xref num="c">cf. [link]Isa. 13:8[/link]; [link]Jer. 13:21[/link]</xref>
+        </verse>
+        <verse num="4">
+        <text>But you, brothers, are not in [xref]a[/xref]darkness that the day should overtake you like a thief;</text>
+        <xref num="a">[link]Acts 26:18[/link]; [link]Col. 1:13[/link]; [link]1 Pet. 2:9[/link]; [link]1 John 2:8[/link]</xref>
+        </verse>
+        <verse num="5">
+        <text>For you are all sons of [xref]a[/xref]light and sons of the [xref]b[/xref]day. We are not of the night nor of darkness.</text>
+        <xref num="a">[link]Luke 16:8[/link]; [link]Eph. 5:8[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:8[/link]</xref>
+        </verse>
+        <verse num="6">
+        <text>So then let us not [note]1[/note][xref]a[/xref]sleep, as the rest do, but let us [note]2[/note][xref]b[/xref]watch and be [xref]c[/xref]sober.</text>
+        <note num="1">I.e., be unwatchful. So in the next verse.</note>
+        <note num="2">[i]Watch[/i] is in contrast to [i]sleep[/i] in the next verse; [i]sober,[/i] in contrast to [i]drunk.[/i]</note>
+        <xref num="a">[link]Mark 13:36[/link]; [link]Rom. 13:11[/link]</xref>
+        <xref num="b">[link]Matt. 24:42[/link]; [link]1 Pet. 5:8[/link]</xref>
+        <xref num="c">[link]1 Thes. 5:8[/link]; [link]1 Pet. 1:13[/link]</xref>
+        </verse>
+        <verse num="7">
+        <text>For those who sleep, sleep during the [xref]a[/xref]night, and those who get [note]1[/note][xref]b[/xref]drunk are drunk during the night;</text>
+        <note num="1">In a stupor.</note>
+        <xref num="a">[link]1 Thes. 5:2[/link]; [link]Rom. 13:12[/link]</xref>
+        <xref num="b">[link]Luke 21:34[/link]; [link]Matt. 24:49[/link]</xref>
+        </verse>
+        <verse num="8">
+        <text>But since we are of the [xref]a[/xref]day, let us be [xref]b[/xref]sober, putting on the [note]1[/note]breastplate of [xref]c[/xref]faith and love and a [note]1[/note][xref]d[/xref]helmet, the [note]2[/note]hope of [note]3[/note]salvation.</text>
+        <note num="1">The breastplate and the helmet here point to spiritual warfare. The breastplate, which covers and protects our heart and spirit according to God's righteousness ([link]Eph. 6:14[/link]), is of faith and love; the helmet, which covers and protects our mentality, our mind, is the hope of salvation ([link]Eph. 6:17[/link]). Faith, love, and hope are the three basic constructing elements of the genuine Christian life, as depicted in [link]1:3[/link]. Faith is related to our will, a part of our heart ([link]Rom. 10:9[/link]), and to our conscience, a part of our spirit ([link]1 Tim. 1:19[/link]); love is related to our emotion, another part of our heart ([link]Matt. 22:37[/link]); and hope is related to our understanding, the function of our mind. All these need to be protected so that a genuine Christian life can be maintained. Such a life is watchful and sober ([link]vv. 6-7[/link]). At the beginning of the Epistle, the apostle praised the believers' work of faith, labor of love, and endurance of hope ([link]1:3[/link]). Here, at the conclusion of the Epistle, he exhorted them to keep these spiritual virtues covered and protected by fighting for them.</note>
+        <note num="2">The hope of our Lord's coming back ([link]1:3[/link]), which will be our salvation from both the coming destruction ([link]v. 3[/link]) and the slavery of corruption of the old creation ([link]Rom. 8:21-25[/link]).</note>
+        <note num="3">Not salvation from eternal perdition through the Lord's death, but salvation from the coming destruction ([link]v. 3[/link]) through the Lord's coming back.</note>
+        <xref num="a">[link]1 Thes. 5:5[/link]; [link]Rom. 13:12-13[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:6[/link]</xref>
+        <xref num="c">[link]1 Thes. 1:3[/link]</xref>
+        <xref num="d">[link]Isa. 59:17[/link][br/]See note 8[sup]1[/sup].</xref>
+        </verse>
+        <verse num="9">
+        <text>For God did [note]1[/note]not [xref]a[/xref]appoint us to [xref]b[/xref]wrath but to the obtaining of [note]2[/note][xref]c[/xref]salvation through our Lord Jesus Christ,</text>
+        <note num="1">Since God did not appoint us to wrath, we should watch, be sober, and fight ([link]vv. 6[/link], [link]8[/link]) to cooperate with God that we may obtain His salvation through the Lord Jesus.</note>
+        <note num="2">See note [link]8[sup]3[/sup][/link].</note>
+        <xref num="a">[link]1 Pet. 2:8[/link]; cf. [link]1 Thes. 3:3[/link]</xref>
+        <xref num="b">[link]1 Thes. 1:10[/link]</xref>
+        <xref num="c">[link]2 Thes. 2:13[/link]</xref>
+        </verse>
+        <verse num="10">
+        <text>Who [note]1[/note][xref]a[/xref]died for us in order that whether we [note]2[/note]watch or [note]3[/note]sleep, we may [xref]b[/xref]live together [note]4[/note]with Him.</text>
+        <note num="1">The Lord died for us not only that we might be saved from eternal perdition but also that we may live together with Him through His resurrection. Such a living can save us from the coming destruction.</note>
+        <note num="2">Or, are awake. I.e., are alive.</note>
+        <note num="3">I.e., are dead ([link]4:13-15[/link]).</note>
+        <note num="4">On the one hand, the Lord is away from us and we are awaiting His coming back; on the other hand, He is with us ([link]Matt. 28:20[/link]) and we can live together with Him ([link]Rom. 6:8[/link]).</note>
+        <xref num="a">[link]2 Cor. 5:15[/link]</xref>
+        <xref num="b">[link]2 Tim. 2:11[/link]</xref>
+        </verse>
+        <verse num="11">
+        <text>Therefore comfort [xref]a[/xref]one another, and [xref]b[/xref]build up each one the other, even as you also do.</text>
+        <xref num="a">[link]1 Thes. 3:12[/link]; [link]4:18[/link]</xref>
+        <xref num="b">[link]Rom. 14:19[/link]</xref>
+        </verse>
+        <verse num="12">
+        <text>Furthermore we ask you, brothers, to [note]1[/note][xref]a[/xref]acknowledge [note]2[/note]those who labor among you and [note]3[/note]take the [xref]b[/xref]lead among you in the Lord and admonish you,</text>
+        <note num="1">Recognize and then render respect and regard for.</note>
+        <note num="2">The apostle was probably referring here to the elders who labor in teaching and take the lead among the believers ([link]1 Tim. 5:17[/link]).</note>
+        <note num="3">To take the lead is not mainly to rule but to set an example in doing things first, that others may follow. The elders not only should labor in teaching but also should do things as an example. The example may become a ground for their admonishing.</note>
+        <xref num="a">cf. [link]1 Cor. 16:18[/link]</xref>
+        <xref num="b">[link]Rom. 12:8[/link]; [link]Heb. 13:17[/link]</xref>
+        </verse>
+        <verse num="13">
+        <text>And to [note]1[/note][xref]a[/xref]regard them most highly in [xref]b[/xref]love because of their work. Be [note]2[/note]at [xref]c[/xref]peace among yourselves.</text>
+        <note num="1">"To lead the mind through a reasoning process to a conclusion" (Vincent); hence, to think of, to consider, to estimate, to esteem, to regard.</note>
+        <note num="2">To regard the leading ones and to be at peace with one another is the proper condition of a local church.</note>
+        <xref num="a">[link]Phil. 2:29[/link]</xref>
+        <xref num="b">[link]1 Thes. 1:3[/link]</xref>
+        <xref num="c">[link]Mark 9:50[/link]</xref>
+        </verse>
+        <verse num="14">
+        <text>And we [xref]a[/xref]exhort you, brothers, Admonish the [note]1[/note][xref]b[/xref]disorderly, console the [note]2[/note][xref]c[/xref]fainthearted, sustain the [note]3[/note][xref]d[/xref]weak, be [note]4[/note][xref]e[/xref]long-suffering toward all.</text>
+        <note num="1">Referring, perhaps, mainly to those who are idle and are unwilling to work, being busybodies ([link]2 Thes. 3:11[/link]), undisciplined, unruled, rebellious.</note>
+        <note num="2">Lit., little-souled; i.e., narrow and feeble in the capacity of mind, will, and emotion.</note>
+        <note num="3">Probably referring generally to the weak ones, who are weak either in their spirit or soul or body, or are weak in faith ([link]Rom. 14:1[/link]; [link]15:1[/link]).</note>
+        <note num="4">This implies that in a local church, besides those who are disorderly and need admonishing, those who are little-souled and need consoling, and those who are weak and need sustaining, all the members may be a problem in some way and need us to be long-suffering toward them.</note>
+        <xref num="a">[link]1 Thes. 2:11[/link]; [link]4:1[/link]</xref>
+        <xref num="b">[link]2 Thes. 3:6[/link], [link]7[/link], [link]11[/link]</xref>
+        <xref num="c">[link]Heb. 12:3[/link], [link]5[/link]</xref>
+        <xref num="d">[link]Acts 20:35[/link]; [link]1 Pet. 3:7[/link]</xref>
+        <xref num="e">[link]1 Cor. 13:4[/link]; [link]Eph. 4:2[/link]; [link]Col. 3:12[/link]; [link]2 Tim. 4:2[/link]</xref>
+        </verse>
+        <verse num="15">
+        <text>See that no one repays anyone [xref]a[/xref]evil for evil, but [note]1[/note]always pursue what is [xref]b[/xref]good both for [xref]c[/xref]one another and for all.</text>
+        <note num="1">This means that regardless of how others treat us, even if their treatment is evil, we should pursue what is good for them.</note>
+        <xref num="a">[link]Rom. 12:17[/link]; [link]1 Pet. 3:9[/link]; [link]Matt. 5:39[/link]</xref>
+        <xref num="b">[link]1 Thes. 5:21[/link]; [link]Rom. 15:14[/link]; [link]Gal. 5:22[/link]</xref>
+        <xref num="c">[link]1 Thes. 5:11[/link]; [link]3:12[/link]</xref>
+        </verse>
+        <verse num="16">
+        <text>[note]1[/note]Always [xref]a[/xref]rejoice,</text>
+        <note num="1">This is based on the conditions mentioned in [link]vv. 14-15[/link].</note>
+        <xref num="a">[link]Phil. 4:4[/link]; [link]2 Cor. 13:11[/link]</xref>
+        </verse>
+        <verse num="17">
+        <text>[note]1[/note]Unceasingly [xref]a[/xref]pray,</text>
+        <note num="1">This is to have uninterrupted fellowship with God in our spirit. It requires perseverance ([link]Rom. 12:12[/link]; [link]Col. 4:2[/link]) with a strong spirit ([link]Eph. 6:18[/link]).</note>
+        <xref num="a">[link]Luke 18:1[/link]; [link]Rom. 12:12[/link]; [link]Eph. 6:18[/link]; [link]1 Pet. 4:7[/link]</xref>
+        </verse>
+        <verse num="18">
+        <text>[note]1[/note]In everything give [xref]a[/xref]thanks; [note]2[/note]for this is the [xref]b[/xref]will of God in Christ Jesus for you.</text>
+        <note num="1">Because all things work together for our good that we may be transformed and conformed to the image of Christ ([link]Rom. 8:28-29[/link]).</note>
+        <note num="2">This clause modifies the three preceding exhortations. God wants us to live a rejoicing, praying, and thanking life. Such a life is a glory to God and a shame to His enemy.</note>
+        <xref num="a">[link]Eph. 5:20[/link]; [link]Col. 3:17[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:3[/link]</xref>
+        </verse>
+        <verse num="19">
+        <text>Do [note]1[/note]not quench the [xref]a[/xref]Spirit;</text>
+        <note num="1">The Spirit causes our spirit to be burning ([link]Rom. 12:11[/link]) and our gifts to be flaming ([link]2 Tim. 1:6[/link]). Hence, we should not quench Him.</note>
+        <xref num="a">cf. [link]Eph. 4:30[/link]; [link]Isa. 63:10[/link]</xref>
+        </verse>
+        <verse num="20">
+        <text>Do not [note]1[/note]despise [note]2[/note]prophecies,</text>
+        <note num="1">Count as nothing, lightly esteem.</note>
+        <note num="2">I.e., prophesying, the prophetic speech that issues from a revelation. It does not need to be a prediction (see [link]1 Cor. 14:1[/link], [link]3-4[/link] and notes there).</note>
+        </verse>
+        <verse num="21">
+        <text>But [note]1[/note]prove all things. Hold fast to what is [xref]a[/xref]good;</text>
+        <note num="1">Including to discern prophecies ([link]1 Cor. 14:29[/link]), to discern the spirits ([link]1 Cor. 12:10[/link]), to test the spirits ([link]1 John 4:1[/link]), to prove what is the will of God ([link]Rom. 12:2[/link]), and to prove what is well pleasing to the Lord ([link]Eph. 5:10[/link]).</note>
+        <xref num="a">[link]1 Thes. 5:15[/link]; [link]Job 34:4[/link]</xref>
+        </verse>
+        <verse num="22">
+        <text>[xref]a[/xref]Abstain from every [note]1[/note]kind of evil.</text>
+        <note num="1">The Greek word means [i]species.[/i] It denotes anything in view, anything in perception; hence, a sight. It refers not to the appearance of evil but to the kind, the form, the shape, the sight, of evil. The believers, who live a holy life in faith, love, and hope, should abstain from evil of any kind.</note>
+        <xref num="a">[link]1 Thes. 4:3[/link]</xref>
+        </verse>
+        <verse num="23">
+        <text>[note]1[/note]And the [note]2[/note]God of [xref]a[/xref]peace Himself [note]3[/note][xref]b[/xref]sanctify you [note]4[/note]wholly, and may your [note]5[/note][xref]c[/xref]spirit and [xref]d[/xref]soul and [xref]e[/xref]body be [xref]f[/xref]preserved [note]6[/note]complete, [xref]g[/xref]without blame, [note]7[/note]at the [note]8[/note][xref]h[/xref]coming of our Lord Jesus Christ.</text>
+        <note num="1">[i]And[/i] conjoins the blessing of God's sanctifying of our entire being, given in this verse, and the charge to abstain from every kind of evil, given in the preceding verse. On the one hand, we abstain from every kind of evil; on the other hand, God sanctifies us wholly. We cooperate with God that we may have a holy living.</note>
+        <note num="2">The God of peace is the Sanctifier; His sanctification brings in peace. When we are wholly sanctified by Him from within, we have peace with Him and with man in every way ([link]v. 13[/link]).</note>
+        <note num="3">To set apart, separate unto God, from things common or profane. See notes [link]2[sup]3[/sup] in Rom. 1[/link] and [link]19[sup]2[/sup] in Rom. 6[/link].</note>
+        <note num="4">Or, entirely, thoroughly, to the consummation. God sanctifies us wholly, so that no part of our being, of either our spirit or soul or body, will be left common or profane.</note>
+        <note num="5">This word strongly indicates that man is of three parts: spirit, soul, and body. The spirit as our inmost part is the inner organ, possessing God-consciousness, that we may contact God ([link]John 4:24[/link]; [link]Rom. 1:9[/link]). The soul is our very self (cf. [link]Matt. 16:26[/link]; [link]Luke 9:25[/link]), a medium between our spirit and our body, possessing self-consciousness, that we may have our personality. The body as our external part is the outer organ, possessing world-consciousness, that we may contact the material world. The body contains the soul, and the soul is the vessel that contains the spirit. In the spirit, God as the Spirit dwells; in the soul, our self dwells; and in the body, the physical senses dwell. God sanctifies us, first, by taking possession of our spirit through regeneration ([link]John 3:5-6[/link]); second, by spreading Himself as the life-giving Spirit from our spirit into our soul to saturate and transform our soul ([link]Rom. 12:2[/link]; [link]2 Cor. 3:18[/link]); and last, by enlivening our mortal body through our soul ([link]Rom. 8:11[/link], [link]13[/link]) and transfiguring our body by His life power ([link]Phil. 3:21[/link]). See notes [link book="Heb." chapter="4"]12[sup]2[/sup][/link] and [link]12[sup]3[/sup] in Heb. 4[/link].</note>
+        <note num="6">God not only sanctifies us wholly but also preserves our spirit, soul, and body complete. [i]Wholly[/i] is quantitative; [i]complete[/i] is qualitative. Quantitatively, God sanctifies us wholly; qualitatively, God preserves us complete, i.e., He keeps our spirit, soul, and body perfect. Through the fall our body was ruined, our soul was contaminated, and our spirit was deadened. In God's full salvation our entire being is saved and made complete and perfect. For this, God is preserving our spirit from any deadening element ([link]Heb. 9:14[/link]), our soul from remaining natural and old ([link]Matt. 16:24-26[/link]), and our body from the ruin of sin ([link]4:4[/link]; [link]Rom. 6:6[/link]). Such a preservation by God and His thorough sanctification sustain us to live a holy life unto maturity that we may meet the Lord in His parousia.</note>
+        <note num="7">Or, in the presence (parousia).</note>
+        <note num="8">Every chapter of this book ends with the coming of the Lord. This shows that the writer, Paul, lived and worked with the Lord's coming before him, taking it as an attraction, an incentive, a goal, and a warning. He not only did this himself but also encouraged the believers under his care to do the same.</note>
+        <xref num="a">[link]2 Cor. 13:11[/link]</xref>
+        <xref num="b">[link]1 Thes. 4:3[/link], [link]4[/link], [link]7[/link]; [link]2 Thes. 2:13[/link]; [link]John 17:17[/link]; [link]Rom. 6:19[/link], [link]22[/link]</xref>
+        <xref num="c">[link]Luke 1:46-47[/link]; [link]Heb. 4:12[/link]; [link]Zech. 12:1[/link]; [link]Job 32:8[/link]; [link]Prov. 20:27[/link]; [link]John 4:24[/link]; [link]Rom. 8:16[/link]; [link]1:9[/link]; [link]1 Cor. 14:14-16[/link]; [link]16:18[/link]; [link]2 Cor. 7:13[/link]</xref>
+        <xref num="d">[link]Luke 17:33[/link]; [link]John 12:25[/link] and note 1; [link]Heb. 10:39[/link] and note 3; [link]1 Pet. 1:9[/link]</xref>
+        <xref num="e">[link]Rom. 8:11[/link], [link]13[/link]; [link]12:1[/link]; [link]1 Cor. 6:13[/link], [link]15[/link], [link]19[/link]</xref>
+        <xref num="f">[link]Jude 1[/link]</xref>
+        <xref num="g">[link]Phil. 2:15[/link]; [link]2 Pet. 3:14[/link]</xref>
+        <xref num="h">[link]1 Thes. 2:19[/link]; [link]3:13[/link]; [link]4:15-16[/link]; [link]2 Thes. 2:1[/link], [link]8[/link]</xref>
+        </verse>
+        <verse num="24">
+        <text>[xref]a[/xref]Faithful is He who [xref]b[/xref]calls you, who [note]1[/note]also will [xref]c[/xref]do [i]it.[/i]</text>
+        <note num="1">The faithful God who called us will also sanctify us wholly and preserve our entire being complete.</note>
+        <xref num="a">[link]2 Thes. 3:3[/link]; [link]1 Cor. 1:9[/link]; [link]10:13[/link]</xref>
+        <xref num="b">[link]1 Thes. 2:12[/link]</xref>
+        <xref num="c">[link]Phil. 1:6[/link]</xref>
+        </verse>
+        <verse num="25">
+        <text>Brothers, [xref]a[/xref]pray also for us.</text>
+        <xref num="a">[link]2 Thes. 3:1[/link]; [link]Col. 4:3[/link]; [link]Heb. 13:18[/link]</xref>
+        </verse>
+        <verse num="26">
+        <text>Greet all the brothers with a holy [xref]a[/xref]kiss.</text>
+        <xref num="a">[link]Rom. 16:16[/link]</xref>
+        </verse>
+        <verse num="27">
+        <text>I adjure you by the Lord to have this letter [xref]a[/xref]read to all the [note]1[/note]brothers.</text>
+        <note num="1">Some MSS insert, [i]holy.[/i] This would mean that, since this Epistle is concerned with the holy life of the believers, the apostle in his concluding charge called the believers "the holy brothers."</note>
+        <xref num="a">[link]Col. 4:16[/link]</xref>
+        </verse>
+        <verse num="28">
+        <text>The [note]1[/note][xref]a[/xref]grace of our Lord Jesus Christ be with you.</text>
+        <note num="1">See notes [link book="John" chapter="1"]14[sup]6[/sup][/link] and [link]17[sup]1[/sup] in John 1[/link] and [link]10[sup]1[/sup] in 1 Cor. 15[/link]. It is only when we enjoy the Lord as grace that we can live a holy life for the church life, a life that is genuine and proper for the church, lived by our having the Lord as the life supply.[br][br]In this book the holy life for the church life is developed. To be sanctified is to be holy. In the universe, only God is holy; only He is distinct and different from all other things. He is not common and therefore is undefiled. Holiness is God's nature; it is an intrinsic characteristic of God's attributes. Therefore, to be holy completely and entirely, to be holy not only in outward position but also in inward disposition, we must have the holy nature that is characteristic of God. To have this divine nature of God, we must possess God, having Him as our life and nature. Only God can sanctify us wholly and can preserve our entire being, our spirit and soul and body, complete, keeping it from being common or defiled. God desires to sanctify us, and He Himself will do it, as long as we are willing to pursue Him as holiness ([link]Heb. 12:14a[/link]) and cooperate with Him in this matter. In this way we can be holy as He is holy ([link]1 Pet. 1:15-16[/link]). Without holiness we cannot see Him ([link]Heb. 12:14b[/link]).[br][br]God not only has made us holy in position by the redeeming blood of Christ ([link]Heb. 13:12[/link]; [link]10:29[/link]) but also is sanctifying us in disposition by His own holy nature. By thus sanctifying us, He transforms us in the essence of our spirit, soul, and body, making us wholly like Him in nature. In this way He preserves our spirit, soul, and body wholly complete. His making us holy in position is outside of us, whereas His sanctifying us in disposition is within us, beginning from our spirit, the deepest part, passing through our soul, the intermediate part, and reaching to our body, the outer part. This work, which penetrates us deeply, is accomplished through the regeneration of our spirit ([link]John 3:6[/link]), the transformation of our soul ([link]Rom. 12:2[/link]), and the redemption of our body ([link]Rom. 8:23[/link]; [link]Eph. 4:30[/link]) by God's life-giving Spirit. Such a holy and sanctified life is necessary for us to have a church life that is pleasing to God and that expresses Him.</note>
+        <xref num="a">[link]2 Thes. 3:18[/link]; [link]Rom. 16:20[/link]; [link]Gal. 6:18[/link]</xref>
+        </verse>
+    </chapter>
+    </chapters>
+</book>

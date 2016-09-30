@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Manliligtas aking araw</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGSASALAMUHA KAY KRISTO</category>
+  <numbers><chinese num="407"/><english num="374"/><korean num="407"/><tagalog num="374"/></numbers>
+  <creators>
+    <author biodate="1792-1866" biolink="">Translated from John Keble</author>
+  </creators>
+  <music>
+    <midiref type="h" num="374"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Manliligtas aking araw,
+Presensya Mo'y aking tanglaw;
+H'wag hayaang mata'y takpan,
+Hadlangang Kita'y pagmasdan.</stanza>
+    <stanza type="verse" number="2">Nang pipikit aking mata,
+Sa pagtulog, magpahinga;
+Nawa huling nasa diwa,
+Poon ko, kay tamis Mo nga.</stanza>
+    <stanza type="verse" number="3">Hindi ako mabubuhay,
+Kung di Kita kaagapay;
+Sa umaga manatili,
+Kasama ko hanggang gabi.</stanza>
+    <stanza type="verse" number="4">Paggising ko, b'yayaan Mo,
+Sa buhay gabayan ako;
+Hanggang sa Iyong pag'pakita,
+Malagum sa Iyong pagsinta!</stanza>
+  </lyrics>
+</hymn>

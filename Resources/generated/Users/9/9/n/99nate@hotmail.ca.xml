@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nathan</firstname>
+  <lastname>Samms</lastname>
+  <email>99nate@hotmail.ca</email>
+  <password>$2y$10$8fwpZcMpW/TVaNy/z9.XG.VOec9ALJ/s/yVKSujKDzQzjhM4PPvg.</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>156.57.198.236</ipaddress>
+  <createdate>2015-06-25 14:13:23</createdate>
+  <lastupdateddate>2016-05-23 19:18:34</lastupdateddate>
+  <lastlogindate>2016-05-23 19:18:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

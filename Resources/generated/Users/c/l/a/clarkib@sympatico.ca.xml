@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ian</firstname>
+  <lastname>Clark</lastname>
+  <email>clarkib@sympatico.ca</email>
+  <password>$2y$10$Bnn./tszNPgNB1BmPVoSvOhTHCfv/VPpTzq34kIRsy7OuUG9WZe6q</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>76.67.20.78</ipaddress>
+  <createdate>2014-12-19 14:42:43</createdate>
+  <lastupdateddate>2015-02-06 22:02:43</lastupdateddate>
+  <lastlogindate>2015-02-06 22:02:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rodel</firstname>
+  <lastname>Amansec</lastname>
+  <email>rodel.amansec@yahoo.com</email>
+  <password>$2y$10$53Wk42v/h3GVXAkCZx1dv.xfNgKt5GGGDAm/rCR.yTfsWJJ5ITVMi</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>180.191.134.226</ipaddress>
+  <createdate>2016-03-14 00:26:44</createdate>
+  <lastupdateddate>2016-03-14 04:58:44</lastupdateddate>
+  <lastlogindate>2016-03-14 04:56:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+  </favourites>
+</user>

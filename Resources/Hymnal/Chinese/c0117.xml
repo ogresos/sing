@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>遠超一切遠超一切</title>
+  <index>true</index>
+  <category>讚美主－祂的高舉</category>
+  <numbers><chinese num="117"/><english num="128"/><korean num="117"/><spanish num="67"/><tagalog num="128"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. E. G.</author>
+  </creators>
+  <melody>| 5_. 1 7_. 6_. 5_. 4_. | 3_. 5_. 1 3 - - | 3 2 1# 3 2 7_. | 2 1 6_. 5_. - - (break) | 5_. 4#_. 5_. 6_. 7_. 1 | 7_. 7_. 1 2 - - | 2 4# 3 2 1 7_. | 1 7_. 6_. (.5_. - - (break) | (Chorus) 3 3 3 3 - - | 3 2 3 4 - - | 4 4 4 4 - 4/ 4/ | 4 5 2 3 - - (break) | 5 3 2 1 2 3  | 4 6_. 1 3 - - | 2 1 6_. 5_. 5 (.4 | 3 5_. 2 1 - - |</melody>
+  <layout>
+	<singingstanza>救 主 已 登 寶 座， 遠 超 一 切； 羔 羊 已 得 冠 冕， 榮 耀 超 絕。 祂 要 永 遠 活 著， 永 遠 超 越； 神 已 將 祂 高 舉， 遠 超 一 切。 遠 超 一 切！ 遠 超 一 切！ 那 被 釘 的 耶 穌 遠 超 一 切！ 在 祂 腳 凳 之 前， 敬 拜 不 歇， 神 已 將 祂 高 舉， 遠 超 一 切！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="128"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主已登寶座，遠超一切；
+羔羊已得冠冕，榮耀超絕。
+祂要永遠活著，永遠超越；
+神已將祂高舉，遠超一切。</stanza>
+	<stanza type="chorus" number="">遠超一切！遠超一切！
+那被釘的耶穌遠超一切！
+在祂腳凳之前，敬拜不歇，
+神已將祂高舉，遠超一切！</stanza>
+	<stanza type="verse" number="2">當那狂風大作，洪濤翻騰，
+想要將我淹沒，逞兇肆能，
+我向救主仰望，祂就拯救，
+踏著風波行走，平安無憂。</stanza>
+	<stanza type="verse" number="3">我要進攻之城雖然高大，
+障礙雖也有力，要我停下，
+仍要無懼向前，一一解決，
+堅定相信祂是遠超一切。</stanza>
+	<stanza type="verse" number="4">看哪！全地都是祂的國度，
+遠超一切，萬有無不歸服；
+所有的得勝者，無一或缺，
+都要與祂一同遠超一切。</stanza>
+  </lyrics>
+</hymn>

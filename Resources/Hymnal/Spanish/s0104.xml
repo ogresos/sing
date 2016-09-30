@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Señor, congregados comemos Tu cena</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;En memoria de El</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/( 5/) (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="1106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Señor, congregados comemos Tu cena,
+Comiendo, bebiendo, se muestra la͜ unión;
+Nos das Tu presencia, nuestra͜ unidad se͜ expresa
+Comiendo y bebiendo con Tu bendición.</stanza>
+	<stanza type="verse" number="2">Comemos del pan que͜ es Tu cuerpo partido,
+Tu Cuerpo͜ al ser uno se disfruta ya;
+Un pan en la mesa, un Cuerpo que confiesa
+Que͜ en Ti, Señor, tenemos perfecta͜ unidad.</stanza>
+	<stanza type="verse" number="3">Bebemos también esta copa bendita,
+Que͜ es fiel comunión de Tu sangre, Señor;
+Por fe redimidos, a todos recibimos,
+Los que por redención han venido a Dios.</stanza>
+	<stanza type="verse" number="4">Pues, ¿qué se dirá sino͜ "¡Amén, aleluya!"?
+Tu gracia nos trajo a tal realidad;
+Tu sangre͜ aplicando, Tu Cuerpo disfrutando
+Iglesia tan gloriosa así se͜ obtendrá.</stanza>
+  </lyrics>
+</hymn>

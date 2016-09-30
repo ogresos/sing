@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Comigo habita, pois a noite vem</title>
+  <index>true</index>
+  <category>Por Comunhão Com Cristo</category>
+  <numbers><chinese num="288"/><english num="370"/><korean num="288"/><portuguese num="187"/><russian num="74"/><tagalog num="370"/></numbers>
+  <creators>
+    <author biodate="1793-1847" biolink="">Translated from Henry Francis Lyte</author>
+  </creators>
+  <music>
+    <midiref type="h" num="370"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Comigo habita, pois a noite vem;
+As trevas crescem, o temor também.
+És meu Amparo quando os outros vão;
+Faz, ó Senhor, em mim habitação.</stanza>
+    <stanza type="verse" number="2">A vida é curto dia que se esvai,
+Tudo é ruína, tudo passa e cai;
+Prazer e glória breve findarão,
+Faz-me, pois, Tua eterna habitação.</stanza>
+    <stanza type="verse" number="3">Vem, não qual Rei dos reis em Teu terror,
+Mas bom e manso, qual Sol curador,
+Mui compassivo, atento à petição,
+Faz, ó Amigo, em mim habitação.</stanza>
+    <stanza type="verse" number="4">Tua presença busco, ó Senhor,
+Só Tua graça anula o tentador;
+Quem me seria esteio e direção?
+Faz todo o tempo em mim habitação.</stanza>
+    <stanza type="verse" number="5">Não temo inimigos, pranto ou dor,
+Se Tua bênção perto está, Senhor;
+A morte já não tem seu aguilhão!
+Venço, pois tens em mim habitação.</stanza>
+  </lyrics>
+</hymn>

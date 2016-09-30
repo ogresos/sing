@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Poon sa 'kin ginawa Mo</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG LAHAT-LAHAT</category>
+  <numbers><chinese num="375"/><english num="526"/><korean num="375"/><tagalog num="526"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from J. B. French</author>
+  </creators>
+  <music>
+    <midiref type="h" num="423"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Poon sa 'kin ginawa Mo,
+Sarili Mo na totoo;
+Realidad sa panalig,
+Sa sangkalupaa'y higit;
+Kay tamis, kaibig-ibig,
+Ikaw pinakamatalik.</stanza>
+    <stanza type="verse" number="2">Pangitaing pinagpala,
+Sa aki'y Iyong 'pinakita;
+Binuo Mong muli ako,
+Dinalisay layunin ko;
+Pinataas aking uri,
+Mapuspusan ng l'walhati.</stanza>
+    <stanza type="verse" number="3">Buhay na Tagapagligtas,
+Higit Kang kaibig-ibig;
+May l'walhati sa Iyong mukha,
+Salita Mo'y mabiyaya;
+Ako'y lubos matransporma,
+May dagdag na b'yaya't awa.</stanza>
+  </lyrics>
+</hymn>

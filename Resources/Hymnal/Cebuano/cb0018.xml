@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Matumanon, kasaligan</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGKAMATINUMANON NIYA</category>
+  <numbers><cebuano num="18"/><chinese num="14"/><english num="18"/><german num="18"/><korean num="14"/><portuguese num="16"/><russian num="193"/><spanish num="12"/><tagalog num="18"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 3/ 3 5 | 5. 2/ 2 3 | 4 5 6 7 | 5 - - 5 (break) | 5. 3/ 3 5 | 5. 2/ 2 ._2 | ._1# ._2 ._3 6 (break) | ._2 - - (Chorus) 5 | ._3. ._3/ ._2 ._1 | ._1. 7/ 7 ._1 | ._2 7 6 5 | ._1 - - ._1 (break) | ._1. 6/ 6 ._1 | ._1. 5/ 5 5 | 6 ._1 5 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="18"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Matumanon, kasaligan,
+Akong Dios Amahan!
+Uniberso'g tanang butang,
+Nagpamatuod man!</stanza>
+	<stanza type="chorus" number="">Pagkamatinumanon Mo,
+Ikaw simbahon ko;
+Lig-on pa sa kalangitan
+Akong kasaligan!</stanza>
+	<stanza type="verse" number="2">Way landong bisan gamay lang,
+Nga Ikaw mausab;
+Unsa kanhi, unsa karon,
+Mao gyud Ka's dayon.</stanza>
+	<stanza type="verse" number="3">Pulong Mo segurado gyud,
+Dili man molubad;
+Yuta'g langit mangawala,
+Pulong Mo molungtad!</stanza>
+	<stanza type="verse" number="4">Mga gasa way pagbakwi,
+Pagtawag mao sab;
+Ngalan Mo sama's kaluoy,
+Grasya Mo molungtad.</stanza>
+	<stanza type="verse" number="5">Ang pulong ug pagtuman Mo,
+M'oy garantiya ko;
+Niini'g sa kal'wasan Mo,
+Nakaseguro ko!</stanza>
+	<stanza type="verse" number="6">Kon mawad-an ko's pagsalig,
+Ikaw kasaligan;
+Kaugalingon di talikdan,
+Sa pulong magtuman.</stanza>
+	<stanza type="verse" number="7">Buhaton Mo ang gisaad
+Ug tuyo's pagtawag;
+Pagkamatinumanon Mo
+Kan-on adlaw-adlaw.</stanza>
+	<stanza type="verse" number="8">Ang bangaw m'oy nagpahayag,
+Ikaw kasaligan,
+Unya sa balaang syudad,
+M'oy dagwayng madayag!</stanza>
+  </lyrics>
+</hymn>

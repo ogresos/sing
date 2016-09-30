@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Louvai ao glorioso Rei</title>
+  <index>true</index>
+  <category>Seu Nome</category>
+  <numbers><cebuano num="79"/><chinese num="68*"/><english num="79"/><korean num="68"/><portuguese num="46"/><russian num="21"/><spanish num="44"/><tagalog num="79"/></numbers>
+  <creators>
+    <author biodate="1854-?" biolink="">Translated from William Henry Clark</author>
+  </creators>
+  <music>
+    <midiref type="h" num="79"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Louvai ao glorioso Rei,
+Que em majestade está;
+Na cruz morreu por todos nós,
+A fim de nos salvar.</stanza>
+    <stanza type="chorus" number="">Ao Senhor louvai, ao Senhor louvai,
+Ao bendito nome exaltai!
+Ao Senhor louvai, ao Senhor louvai,
+Ao bendito nome exaltai!
+Aleluia! Aleluia! Ao bendito nome exaltai!
+Aleluia! Aleluia! Ao bendito nome exaltai!</stanza>
+    <stanza type="verse" number="2">Teu nome sempre há de ser
+Supremo, singular!
+De Deus à destra hoje estás,
+Vão anjos Te adorar.</stanza>
+    <stanza type="verse" number="3">Do homem és o Redentor,
+Amigo e Salvador,
+Quiseste vir aqui morrer
+Por todo pecador.</stanza>
+    <stanza type="verse" number="4">Teu nome, Conselheiro é
+E Príncipe da Paz;
+Da terra o conquistador,
+Pra sempre reinarás.</stanza>
+  </lyrics>
+</hymn>

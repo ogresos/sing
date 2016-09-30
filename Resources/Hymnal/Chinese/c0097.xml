@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>慘哉加略</title>
+  <index>true</index>
+  <category>讚美主－祂的救贖</category>
+  <numbers><chinese num="97"/><english num="307"/><korean num="97"/><tagalog num="307"/></numbers>
+  <creators>
+	<author biodate="circa 1835-1914" biolink="">Translated from William McKendree Darwood</author>
+  </creators>
+  <melody>| 0 - 0./ ._3// ._2./ ._1// | 5( - 5./) 3// 5./ ._1// | 7( - 7./) ._4// ._3./ ._2// | 6( - 6./) 7// 6./ 5// (break) | 3( - 3./) ._3// ._2./ ._1// | 5( - 5./) 3// 5./ ._1// | 6( - 6./) ._4// ._3./ ._2#// | ._3( - ._3./) ._1// 7./ ._2// (break) | ._1 - - (Chorus) 5 | ._2./ ._1#// ._2 - ._3 | ._1./ 6// 5 - 5 | 6/ 6/ ._4/ ._3/ ._2 ._1 | (.._2 - - (.5 (break) | ._3./ ._2// ._1 - 7 | 6./ ._1// ._4 - 6 | 5. ._1/ 7/ ._1/ ._3./ ._2// | ._1 - 0 - |</melody>
+  <layout>
+	<singingstanza>加 略 山 巔 救 主 喪 命， 在 彼 受 辱、 在 彼 被 釘； 為 我 贖 罪、 為 我 流 血， 買 來 赦 免、 立 了 新 約。 慘 哉 加 略！ 痛 哉 加 略！ 在 彼 耶 穌 為 我 流 血； 大 哉 加 略！ 福 哉 加 略！ 在 彼 救 主 為 我 命 絕。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="307"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">加略山巔救主喪命，
+在彼受辱、在彼被釘；
+為我贖罪、為我流血，
+買來赦免、立了新約。</stanza>
+	<stanza type="chorus" number="">慘哉加略！痛哉加略！
+在彼耶穌為我流血；
+大哉加略！福哉加略！
+在彼救主為我命絕。</stanza>
+	<stanza type="verse" number="2">磐石崩裂，天地昏暗，
+主喊成了，垂首氣斷；
+殿幔中裂，活路開通，
+我得近神，蒙恩無窮。</stanza>
+	<stanza type="verse" number="3">哦主耶穌，怎會這樣－
+為我你竟甘心受戕？
+身懸木架受神責譴！
+在那慘痛加略山巔！</stanza>
+  </lyrics>
+</hymn>

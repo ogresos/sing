@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The birds upon the tree tops</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Praising the Lord</category>
+  <hymncode>5533335544</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G7 - - - | C - G - | C - C7 - | F - Dm - | C/G - Am - | G7 - C - |</chords>
+  <melody>| 0 - - 5 | 5/ 3/ 3/ 3/ 3 5 | 5 4 4. 4/ (break) | 4/ 2/ 2/ 2/ 2 4 | 6 5 5. 5/ (break) | 5/ 3/ 3/ 3/ 3 5 | 5 4 6 7 (break) | ._1/ 5/ 5 ._1/ 5/ 5 | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>The birds up -- on the tree tops sing their song; The an -- gels chant their cho -- rus all day long; The flow -- ers in the gar -- den blend their hue, So why shouldn't I, why shouldn't you praise Him too?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-a.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="18">c0003.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The birds upon the tree tops sing their song;
+The angels chant their chorus all day long;
+The flowers in the garden blend their hue,
+So why shouldn't I, why shouldn't you praise Him too?</stanza>
+  </lyrics>
+</hymn>

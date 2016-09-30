@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alice</firstname>
+  <lastname>Lee</lastname>
+  <email>alice123lee@yahoo.com.hk</email>
+  <password>$2y$10$iAbeNOo5SIq7/0wfgCoYZe9VYy8xuQxVm.kaGg8pBB1ijXheB9fdC</password>
+  <gender/>
+  <country>hk</country>
+  <ipaddress>14.0.143.13</ipaddress>
+  <createdate>2015-03-13 13:45:56</createdate>
+  <lastupdateddate>2015-03-13 14:50:03</lastupdateddate>
+  <lastlogindate>2015-03-13 14:50:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

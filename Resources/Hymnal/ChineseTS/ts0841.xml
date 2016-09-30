@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>第一聲呼求</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>345122346543</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>生 命 如 此 好， 生 存 價 值 如 此 高， 我 熱 愛 生 命， 舉 手 叩 求 真 理 之 門； 第 一 聲 呼 求， 衝 出 我 心 靈， 哦， 主 耶 穌！ 亮 光 之 名， 自 由 之 名， 我 生 命 終 於 破 曉， 哦， 主 耶 穌！ 亮 光 之 名， 自 由 之 名， 我 生 命 開 始 有 了 日 出。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0841.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">生命如此好，
+生存價值如此高，
+我熱愛生命，
+舉手叩求真理之門；
+第一聲呼求，
+衝出我心靈，
+哦，主耶穌！
+亮光之名，自由之名，
+我生命終於破曉，
+哦，主耶穌！
+亮光之名，自由之名，
+我生命開始有了日出。</stanza>
+	<stanza type="verse" number="2">生命如此好，
+本來就是神創造，
+我熱愛生命，
+迫切投入生命泉源；
+第一聲呼求，
+衝出我心靈，
+哦，主耶穌！
+活水之源，甘甜之泉，
+我生命得到滋潤，
+哦，主耶穌！
+活水之源，甘甜之泉，
+我生命湧流著活的泉水。</stanza>
+	<stanza type="verse" number="3">生命如此好，
+追求真理要趁早，
+我熱愛生命，
+我熱愛生命之主；
+第一聲呼求，
+衝出我心靈，
+哦，主耶穌！
+進入我心，進入我靈，
+我生命因你成新人，
+哦，主耶穌！
+進入我心，進入我靈，
+我生命有了你境界全新。</stanza>
+  </lyrics>
+</hymn>

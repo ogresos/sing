@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Muerto en el mundo atroz</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Como la vida</category>
+  <numbers><english num="502"/><spanish num="216"/></numbers>
+  <creators>
+    <author biodate="1837-1911" biolink="">Translated from Arthur Tappan Pierson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="436"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Muerto͜ en el mundo͜ atroz
+Yo͜ andaba͜ en confusión;
+Mas ya con Cristo͜ estoy
+Al mundo muerto yo.</stanza>
+    <stanza type="chorus" number="">¿Y puede ser que El me͜ amó
+Y que por mí murió?
+¿Y puede ser que El me͜ amó
+Y que por mí murió?</stanza>
+    <stanza type="verse" number="2">¡Su͜ altura, quién dirá!
+¡Cuán hondo! No lo sé.
+Oh, infinito͜ amor
+El que en Cristo͜ hallé.</stanza>
+    <stanza type="verse" number="3">Hoy ya no vivo yo,
+Mas vive Cristo͜ en mí.
+De muerte me libró
+Y del pecado vil.</stanza>
+  </lyrics>
+</hymn>

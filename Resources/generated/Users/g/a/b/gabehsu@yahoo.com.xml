@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gabriel</firstname>
+  <lastname>Hsu</lastname>
+  <email>gabehsu@yahoo.com</email>
+  <password>$2y$10$MG9yz6Ezx85nhUpy3yIlYegewNrA3wxhEBluDdPRhqrYZMLyTlk9O</password>
+  <gender>M</gender>
+  <country>ca</country>
+  <ipaddress>207.216.150.116</ipaddress>
+  <createdate>2010-08-12 04:06:14</createdate>
+  <lastupdateddate>2015-11-09 08:41:36</lastupdateddate>
+  <lastlogindate>2015-11-09 08:41:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="318">But to Him who is able to do superabundantly</fav>
+    <fav category="default" type="lb" num="24">God is man's treasure</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+  </favourites>
+</user>

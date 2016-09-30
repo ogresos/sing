@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在光中行</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><chinese num="ts:444"/><dutch num="14"/><english num="1197"/><korean num="797"/><portuguese num="311"/><tagalog num="1197"/></numbers>
+  <melody>| 0 - - 5/ 4/ | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 5_./ 7_./ 2 - | 2 5_./ 7_./ 2/ 4/ 3/ 2/ | 3 1/ 6_./ 5_. 5/ 4/ (break) | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 6_./ 2/ 4 - | 3.( 1/) 3 2 (break) | 1 - - (姊妹) ._1/ 7/ | 6 (弟兄) 1/ 4/ 6/ 4/ (姊妹) 7/ 6/ | 5 (弟兄) 1/ 3/ 5/ 3/ (姊妹) 6/ 5/ | 4 (弟兄) 7_./ 2/ 4/ (All:) 6/ 5/ 4/ (break) | 5 3 5 (姊妹) ._1/ 7/ | 6 (弟兄) 1/ 4/ 6/ 4/ (姊妹) 7/ 6/ | 5 (弟兄) 1/ 3/ 5/ 3/ (姊妹) 6/ 5/ | 4 (弟兄) 7_./ 2/ 4/ (All:) 6/ 5/ 4/ 3 - - 5/ 4/ (break) | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 5_./ 7_./ 2 - | 2 5_./ 7_./ 2/ 4/ 3/ 2/ (break) | 3 1/ 1/ 5_. 5/ 4/ | 3 5_./ 1/ 3/ 5/ 4/ 3/ | 2 6_./ 2/ 4 - | 3.( 1/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>神 是 光， 在 祂 裏 面 毫 無 黑 暗 污 穢； 交 通 於 祂 面 光， 何 等 甘 美。 光 中 行， 神 兒 子 耶 穌 的 血 必 洗 淨 一 切 的 罪。 光 中 行， 神 兒 子 必 洗 淨 我 們 一 切 的 罪。 若 認 罪， 祂 赦 免， 祂 洗 淨 一 切 的 罪。 彼 此 交 通， 耶 穌 的 血 必 洗 淨 我 們 一 切 的 罪。 祂 是 信 實， 祂 是 公 義， 祂 洗 淨 一 切 的 罪。</singingstanza>
+  </layout>
+  <notes>約壹一章五至七節</notes>
+  <music>
+	<midiref type="h" num="1197"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">神是光，在祂裏面毫無黑暗污穢；
+交通於祂面光，何等甘美。
+光中行，神兒子耶穌的血必洗淨
+一切的罪。</stanza>
+	<stanza type="chorus" number="">(姊妹)光中行，
+神兒子
+必洗淨
+我們一切的罪。
+若認罪，
+祂赦免，
+祂洗淨
+一切的罪。</stanza>
+	<stanza type="chorus" number="">(弟兄)彼此交通，
+耶穌的血
+必洗淨我們一切的罪。
+祂是信實，
+祂是公義，
+祂洗淨一切的罪。</stanza>
+  </lyrics>
+</hymn>

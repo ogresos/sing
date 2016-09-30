@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Central Thought of Jeremiah</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:331"/><lsmyp num="170"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Maryanna Cashmore">Adapted by M. C.</author>
+    <!--composer biodate="" biolink="" fullname="Haniel Hann">H. H.</composer-->
+  </creators>
+  <hymncode>51711671765</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | G - - | C - - | C - - | C - - | Em - - | Am - - | C/G - - | F - - | Dm - - | G - - | G7/B - - | C - - | G/B - - | Am - - | G - C/E | F - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 5_. 1 7_. | 1 - 1 | 6_. 7_. 1 | 7_. - 6_. | 5_. - - (break) | 0 - 3/ 4/ | 5 - 5 | 5. 4/ 3/ 2/ | 1 - - (break) | 0 - 2/ 3/ | 4 - 4 | 4. 3/ 2/ 1/ | 7_. - - (break) | 0 - 1/ 2/ | 3 - 2/ 1/ | 2 - 1/ 7_./ | 1 - 7_./ 6_./ (break) | 7_. - 7_. | 6_. - 1 | 2 - 2 | 1( - - | 1) 0 - |</melody>
+  <layout>
+    <singingstanza>O God of love, in Your ev -- er -- last -- ing love, Yearn -- ing ear -- nest -- ly for Your e -- lect, As for Is -- ra -- el so long a -- go, That they'd turn from their i -- dols to gain Your in -- car -- nate Christ as righ -- teous -- ness.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Jeremiah</link>
+  </links>
+  <music>
+    <midi location="ns" length="32">ns0331.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O God of love, in Your everlasting love,
+Yearning earnestly for Your elect,
+As for Israel so long ago,
+That they'd turn from their idols to gain
+Your incarnate Christ as righteousness.</stanza>
+    <stanza type="verse" number="2">Christ came as man, as Your righteousness to us,
+That in Your divine economy
+He Your people's everything might be
+As our universality and our centrality
+  experienced.</stanza>
+    <stanza type="verse" number="3">Wicked by birth, deceitful corrupt in heart,
+Our one hope: redemption from our fall,
+Wickedness and sin, but that's not all&amp;mdash;
+The redemption of Christ and salvation by life
+  divine dispensed to us.</stanza>
+    <stanza type="verse" number="4">Saved by Your life and Your life's capacity,
+We're renewed that You could be our God
+And that we Your people all could be
+That we'd share the enjoyment of all of the riches of
+  the Trinity.</stanza>
+    <stanza type="verse" number="5">Israel will be restored in the coming age;
+With Your overcomers they'll enjoy
+All Your riches which will consummate
+In new earth and new heav'n for eternity in the New
+  Jerusalem.</stanza>
+  </lyrics>
+</hymn>

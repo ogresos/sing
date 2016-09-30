@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anne</firstname>
+  <lastname>Peterson</lastname>
+  <email>office@cornerstonenorthfield.org</email>
+  <password>$2y$10$94YKKIzwDAnAZ5/YmZv0e.TtnmPEvPdIjcqTaXjD9AoqYPf5w/GEO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.115.112.232</ipaddress>
+  <createdate>2015-07-23 18:09:33</createdate>
+  <lastupdateddate>2015-07-23 18:10:06</lastupdateddate>
+  <lastlogindate>2015-07-23 18:10:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

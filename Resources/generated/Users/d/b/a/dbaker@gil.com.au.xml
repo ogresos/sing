@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>dave</firstname>
+<lastname>baker</lastname>
+<email>dbaker@gil.com.au</email>
+<password>$1$pKl8PTTR$u7pOdD4oRj7B7mDoYq7wC.</password>
+<gender>M</gender>
+<country>Australia</country>
+<ipaddress>203.94.55.230</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="954">There's a light upon the mountains</fav>
+    </favourites>
+</user>

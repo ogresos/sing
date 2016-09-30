@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amahan, Espiritu Ka</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;INGON NGA ESPIRITU</category>
+  <numbers><cebuano num="11"/><chinese num="8"/><dutch num="105"/><english num="11"/><german num="11"/><korean num="8"/><portuguese num="6"/><russian num="192"/><spanish num="6"/><tagalog num="11"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 3. 4/ 5 ._1 | ._1. 7/ 7 ._1 | ._2 ._3 ._4 ._3 | ._2 - - ._2 (break) | ._3. ._2/ ._1 7 | 7. 6/ 6 6 | 5 ._1 7. ._1/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="11"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amahan, Espiritu Ka,
+Balaan sa tanan;
+Sa espiritu simbahon,
+Tinuod Kang tawgon.</stanza>
+	<stanza type="verse" number="2">Gihimoan's espiritu,
+Aron makasimba;
+Magtubagay's espiritu
+Mahiusa kita.</stanza>
+	<stanza type="verse" number="3">Sa Anak Ikaw nianhi,
+Anak, Espiritu,
+Sa espiritu nisulod,
+Kini grasya gayud!</stanza>
+	<stanza type="verse" number="4">Ang Anak dayong Pulong Mo,
+Pulong sab Esp'ritu;
+Kinabuhi nga magbag-o
+Sa esp'ritu namo.</stanza>
+	<stanza type="verse" number="5">Nausang Espiritu Mo's
+Among espiritu;
+Nagsaksi, nagpamatuod,
+Gianak mi Nimo.</stanza>
+	<stanza type="verse" number="6">Gigiyahan's Espiritu,
+Magsunod mi Nimo;
+Magmaespirituhanon,
+Sa kalinaw pun-on.</stanza>
+	<stanza type="verse" number="7">Simbahon Ka's espiritu
+Tawgon's espiritu,
+Hangtud kami mahigawas,
+Dagway Mo madayag.</stanza>
+	<stanza type="verse" number="8">Karon daygon Ka, Amahan,
+Kay Espiritu Ka!
+Sa Esp'ritu'g kamat'oran
+Kami mag-ambahan.</stanza>
+  </lyrics>
+</hymn>

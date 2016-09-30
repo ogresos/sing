@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主我今背十架</title>
+  <index>true</index>
+  <category>奉獻－跟隨主</category>
+  <numbers><chinese num="347"/><tagalog num="c347"/></numbers>
+  <creators>
+	<composer biodate="1841-1904" biolink="en.wikipedia.org/wiki/Anton%C3%ADn_Dvořák">Antonín Leopold Dvorak</composer>
+  </creators>
+  <meter>11.11.11.11.11.11.D.</meter>
+  <hymncode>35532123532</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>主， 我 今 背 十 架， 前 來 跟 隨 你； 浮 名 利、 虛 榮 華， 一 概 都 捨 棄； 人 譏 笑， 人 辱 罵， 我 全 不 在 意； 雖 受 苦， 雖 受 壓， 窄 路 不 稍 離； 靠 主 恩， 遵 主 話， 忠 心 直 到 底； 到 那 日， 蒙 主 誇， 冠 冕 榮 無 比； 冠 冕 榮 無 比， 冠 冕 榮 無 比。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0347_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，我今背十架，
+前來跟隨你；
+浮名利、虛榮華，
+一概都捨棄；
+人譏笑，人辱罵，
+我全不在意；
+雖受苦，雖受壓，
+窄路不稍離；
+靠主恩，遵主話，
+忠心直到底；
+到那日，蒙主誇，
+冠冕榮無比；
+冠冕榮無比，
+冠冕榮無比。</stanza>
+  </lyrics>
+</hymn>

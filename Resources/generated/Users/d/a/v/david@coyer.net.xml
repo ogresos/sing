@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Coyer</lastname>
+  <email>david@coyer.net</email>
+  <password>$2y$10$.ILDO0Bey297Fv9jSKyrEelBI8FZgzJlWm.IIqPI8C5JqQoX06xYK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>23.123.45.55</ipaddress>
+  <createdate>2015-06-24 11:21:47</createdate>
+  <lastupdateddate>2015-06-24 11:23:13</lastupdateddate>
+  <lastlogindate>2015-06-24 11:22:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="94">O Christ, what burdens bow'd Thy head</fav>
+  </favourites>
+</user>

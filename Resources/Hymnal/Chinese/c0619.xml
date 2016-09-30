@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>隨著活物的行蹤</title>
+  <index>true</index>
+  <category>召會－配搭（以西結第一章）</category>
+  <numbers><chinese num="619"/><tagalog num="c619"/></numbers>
+  <meter>7.7.7.7.7.7. with chorus.</meter>
+  <hymncode>55153455566665</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>出 於 神 性 的 活 物， 彰 顯 榮 耀 的 基 督； 聯 絡 配 搭 成 一 體， 完 成 神 聖 的 旨 意； 隨 從 聖 靈 而 行 動， 神 的 舉 動 就 隨 同。 隨 著 活 物 的 行 蹤， 神 的 大 輪 在 轉 動， 動 得 可 畏 高 而 明， 顯 出 恩 主 的 榮 形， 神 聖 的 計 畫 藉 此 完 成。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0619_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">出於神性的活物，
+彰顯榮耀的基督；
+聯絡配搭成一體，
+完成神聖的旨意；
+隨從聖靈而行動，
+神的舉動就隨同。</stanza>
+	<stanza type="chorus" number="">隨著活物的行蹤，
+神的大輪在轉動，
+動得可畏高而明，
+顯出恩主的榮形，
+神聖的計畫藉此完成。</stanza>
+	<stanza type="verse" number="2">聖別烈火在焚燒，
+不潔、不聖全燒掉；
+聖火燒成聖別光，
+上下四方照明亮；
+一切行動在光中，
+神的舉動就隨同。</stanza>
+	<stanza type="verse" number="3">隨從聖靈光中行，
+天就清明如水晶；
+能從無虧的良心，
+發出見證的聲音；
+如此發聲並靜聽，
+神的舉動得推行。</stanza>
+	<stanza type="verse" number="4">在此纔有神居所，
+在此也有神寶座；
+神的權柄得施展，
+神的榮耀得彰顯；
+主在寶座像人形，
+周圍光輝如聖城。</stanza>
+  </lyrics>
+</hymn>

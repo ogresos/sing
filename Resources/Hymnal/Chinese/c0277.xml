@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>請進哦請進</title>
+  <index>true</index>
+  <category>羨慕－基督</category>
+  <numbers><chinese num="277"/><english num="354"/><korean num="277"/><tagalog num="354"/></numbers>
+  <creators>
+    <author biodate="1841-1920" biolink="">Translated from Handley Carr Glyn Moule</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - 3 - | 6 5 4 4 | 3 - - - (break) | ._1 - 7 6 | 5 - 6 - | 7 5 6 6 | 5 - - - (break) | 5 - 5 5 | 7 - 6 - | 5 6 7 ._1 | ._2 - - - (break) | ._3 - ._2 ._1 | 7 6 5 ._1 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>請 進， 哦 請 進！ 大 門 現 已 開； 這 是 你 聲 音， 我 能 認 出 來。 夕 陽 早 西 沉， 風 暴 已 來 臨； 這 是 你 時 候， 哦 救 主， 請 進！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">請進，哦請進！大門現已開；
+這是你聲音，我能認出來。
+夕陽早西沉，風暴已來臨；
+這是你時候，哦救主，請進！</stanza>
+	<stanza type="verse" number="2">唉，這個零亂淒涼的房間：
+家中的用具亂堆於幽暗，
+座椅未整理，飯桌空站著，
+呀，豈可如此待永世佳客！</stanza>
+	<stanza type="verse" number="3">但就此歡迎；這情景慘甚
+就是我請你進來的原因；
+這黑暗混亂且即刻要求
+你光明同在，並整理的手。</stanza>
+	<stanza type="verse" number="4">在你這佳客光顧的跟前，
+我不再尋求修補或改善；
+一切全不像，且比人更壞，
+使你仍等候，不能就進來。</stanza>
+	<stanza type="verse" number="5">請進，非來尋，乃是使這心
+配作你居所，適合你留存；
+將黑暗、罪惡，驅逐得淨盡：
+請進，主耶穌，現在就請進！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>AndrÃ©ia</firstname>
+<lastname>Borges</lastname>
+<email>ddeiaduarte@hotmail.com</email>
+<password>$1$XWnPT7MK$H5BgUXzj1G4i9jacQyuge1</password>
+<gender>F</gender>
+<country>Brazil</country>
+<ipaddress>201.4.1.90</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+        <fav category="default" type="h" num="52">Father, to Thee a joyful song we raise</fav>
+        <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

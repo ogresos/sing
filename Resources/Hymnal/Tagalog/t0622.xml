@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kung pinasan ang krus</title>
+  <index>true</index>
+  <category>ANG DAAN NG KRUS&amp;mdash;ANG KAHULUGAN NG KRUS</category>
+  <numbers><cebuano num="622"/><chinese num="461"/><english num="622"/><german num="622"/><korean num="461"/><portuguese num="319"/><russian num="371"/><spanish num="294"/><tagalog num="622"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 3 | 3. 2/ 2 3 | 4 4 3 2 | 3 - - - (break) | 6 - 6 6 | 6. 5/ 5 4 | 3 3 2 1 | 2 - - - (break) | 1 - 1 2 | 3. 3/ 3 4 | 5 5 4 3 | 6 - - - (break) | 7 - 6 5 | ._1. 1/ 1 2 | 3 3 4 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="622"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kung pinasan ang krus,
+Ito'y di lang dusa!
+Kung dalhin mo ang krus,
+T'yak mamamatay ka!
+Kahulugan ng krus&amp;mdash;
+Tigil ang paghinga;
+Karanasan ng krus -
+Sarili'y mawala.</stanza>
+	<stanza type="verse" number="2">Kaligtasan ng Diyos -
+Pagpapako sa krus;
+Malupit na tuos,
+Ganap na pagtubos.
+Kristo'y di matanggap
+Kung sa krus tumakas;
+Kristo'y di mahayag
+Kung krus di nagwakas.</stanza>
+	<stanza type="verse" number="3">Dulong layon ng krus -
+Tupdin plano ng Diyos;
+Sarili ng tao
+Ang kalaban ng Diyos.
+Buhay-kaluluwa
+Ay dapat patayin,
+Nang Diyos makagawa
+Ng Kanyang naisin.</stanza>
+  </lyrics>
+</hymn>

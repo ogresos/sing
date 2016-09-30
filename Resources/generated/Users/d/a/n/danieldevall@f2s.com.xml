@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Daniel</firstname>
+<lastname>Devall</lastname>
+<email>danieldevall@f2s.com</email>
+<password>$1$5nQhOJrM$R8a3oagRK8LtIfCcrom9E.</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>83.67.25.168</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="858">All praise to our redeeming Lord</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="836">Christ is made the sure foundation</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jenny</firstname>
+<lastname>Kim</lastname>
+<email>jungeunk81@hotmail.com</email>
+<password>$1$eyz.KFRg$M6XZUMY1cbu17J6fsIuIu.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>74.166.110.248</ipaddress>
+<createdate>2008-10-14 09:54:18</createdate>
+<lastupdateddate>2009-09-15 18:26:45</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+        <fav category="default" type="ns" num="292">Though the world may promise me more</fav>
+        <fav category="default" type="h" num="1114">The Spirit today is the air that we breathe</fav>
+        <fav category="default" type="h" num="348">Since Christ my soul from sin set free</fav>
+        <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+        <fav category="default" type="nt" num="641">Art thou hung'ring for the fulness</fav>
+        <fav category="default" type="c" num="42">Remember your Creator</fav>
+        <fav category="default" type="h" num="1010">O now I see the cleansing wave</fav>
+        <fav category="default" type="h" num="1082">The living of Christ when He sojourned on earth</fav>
+        <fav category="default" type="h" num="536">Objective and subjective Christ is to us</fav>
+        <fav category="default" type="h" num="947">God's Kingdom today is a real exercise</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+        <fav category="default" type="ns" num="32">The processed and consummated Triune God</fav>
+        <fav category="default" type="h" num="317">Dear Savior, Thou art mine</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="1187">Your ministry, O Lord</fav>
+    </favourites>
+</user>

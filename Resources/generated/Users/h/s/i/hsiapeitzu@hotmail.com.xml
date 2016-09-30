@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Betty</firstname>
+  <lastname>Hsia</lastname>
+  <email>hsiapeitzu@hotmail.com</email>
+  <password>$2y$10$/u2BMTQ9MQhFfSlU4tGmI.qWEX8gA9GIdKOLnhT6sJoj.ZlWH5NKa</password>
+  <gender/>
+  <country>jp</country>
+  <ipaddress>114.181.164.199</ipaddress>
+  <createdate>2015-01-12 23:58:31</createdate>
+  <lastupdateddate>2015-02-05 11:51:55</lastupdateddate>
+  <lastlogindate>2015-01-12 23:58:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="505">There's a Man in the glory</fav>
+    <fav category="default" type="ts" num="929">主耶穌阿，我願你來</fav>
+    <fav category="default" type="ts" num="305">主耶穌，你美麗奪了我心</fav>
+    <fav category="default" type="ch" num="217">何等榮耀何等福氣</fav>
+    <fav category="default" type="ts" num="911">作初熟的果子</fav>
+    <fav category="default" type="ts" num="343">佳偶的歌</fav>
+    <fav category="default" type="ts" num="455">單純的信託</fav>
+    <fav category="default" type="ts" num="603">建造當趁今日</fav>
+    <fav category="default" type="ts" num="329">惟見榮耀裡的基督</fav>
+    <fav category="default" type="ts" num="930">日近一日</fav>
+    <fav category="default" type="ts" num="328">神聖羅曼史</fav>
+    <fav category="default" type="ts" num="743">絕對分別出來</fav>
+    <fav category="default" type="ts" num="301">耶穌！我愛你</fav>
+  </favourites>
+</user>

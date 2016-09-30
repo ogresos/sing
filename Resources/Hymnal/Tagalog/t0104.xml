@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tagapagligtas nagdugo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KATUBUSAN</category>
+  <numbers><cebuano num="104"/><chinese num="93"/><english num="104"/><korean num="93"/><tagalog num="104"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tagapagligtas nagdugo,
+Namatay Hari ko,
+Buhay Niya'y sinakripisyo,
+Sa uod na tulad ko?</stanza>
+    <stanza type="verse" number="2">Namighati doon sa krus,
+Para sa sala ko?
+Pag-ibig, biyayang lubos!
+Habag di matanto!</stanza>
+    <stanza type="verse" number="3">Sa dilim araw nagtago,
+Nang ang Manlilikha
+Namatay para sa tao;
+Inako pa ang sala.</stanza>
+    <stanza type="verse" number="4">Nang makita ko ang krus Niya,
+Nagkubli sa hiya,
+Puso'y natunaw sa awa,
+Mata'y lumuluha.</stanza>
+    <stanza type="verse" number="5">Di makabayad ang lumbay,
+Utang ng pag-irog,
+Panginoon, aking buhay,
+Sa Iyo ihahandog.</stanza>
+  </lyrics>
+</hymn>

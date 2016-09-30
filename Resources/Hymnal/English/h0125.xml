@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hallelujah! sing to Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Victory</category>
+  <numbers><english num="125"/><german num="125"/><portuguese num="59"/><russian num="27"/><spanish num="60"/></numbers>
+  <creators>
+	<author biodate="1837-1898" biolink="">William Chatterton Dix</author>
+  </creators>
+  <melody>| 5 5 6 5 | ._3 ._2/( ._3/) ._2 ._1 | 7 6 ._1 6 | 5 4/( 5/) 3 - (break) | 5 5 6 5 | ._3 ._2/( ._3/) ._2 ._1 | 6 ._4 ._3 ._1 | 7 6/( 7/) ._1 - (break) | ._1 ._1 ._1 7 | 6 7/( 6/) 5# 3 | ._3 ._3 ._4 ._3 | ._2 ._2/( ._3/) ._2 - (break) | 5 5 6 5 | ._3 ._2/( ._3/) ._2 ._1 | 6 ._4 ._3 ._1 | 7 6/( 7/) ._1 - |</melody>
+  <layout>
+	<singingstanza>Hal -- le -- lu -- jah! sing to Je -- sus, His the scep -- ter, His the throne; Hal -- le -- lu -- jah! His the tri -- umph, His the vic -- to -- ry a -- lone. Hark, the songs of His re -- deemed ones Thun -- der like a might -- y flood: Je -- sus out of ev -- ery na -- tion Hath re -- deemed us by His blood.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj160.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="5"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hallelujah! sing to Jesus,
+  His the scepter, His the throne;
+Hallelujah! His the triumph,
+  His the victory alone.
+Hark, the songs of His redeemed ones
+  Thunder like a mighty flood:
+Jesus out of every nation
+  Hath redeemed us by His blood.</stanza>
+	<stanza type="verse" number="2">Hallelujah! not as orphans
+  Are we left in sorrow now;
+Hallelujah! He is near us,
+  Faith believes, nor questions how.
+Though the clouds from sight received Him
+  When the forty days were o'er,
+Shall our hearts forget His promise,
+  "I am with you evermore"?</stanza>
+	<stanza type="verse" number="3">Hallelujah! Bread of heaven,
+  Thou on earth our food, our stay;
+Hallelujah! here the hungry
+  Come to Thee from day to day.
+Advocate and Intercessor,
+  My Redeemer pleads for me,
+On the throne of the Almighty
+  Now and to eternity.</stanza>
+	<stanza type="verse" number="4">Hallelujah! sing to Jesus,
+  His the scepter, His the throne;
+Hallelujah! His the triumph,
+  His the victory alone.
+Hark, the songs of His redeemed ones
+  Thunder like a mighty flood:
+Jesus out of every nation,
+  Hath redeemed us by His blood.</stanza>
+  </lyrics>
+</hymn>

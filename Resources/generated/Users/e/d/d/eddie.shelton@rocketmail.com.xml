@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Eddie</firstname>
+<lastname>Shelton</lastname>
+<email>eddie.shelton@rocketmail.com</email>
+<password>$1$YhUSWDbB$WGFnGwNkrY8YoxR3jaXkL/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.97.92.67</ipaddress>
+<createdate>2009-01-26 06:49:48</createdate>
+<lastupdateddate>2009-09-15 18:29:24</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    </favourites>
+</user>

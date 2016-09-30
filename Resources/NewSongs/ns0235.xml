@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Do you not know that those who run</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Running the Race</category>
+  <numbers><english num="ns:235"/><vsb num="184"/></numbers>
+  <melody>| 6_./ 7_./ 1/( 2/) 3 3 | 4/( 3/) 4/( 6/) 3 - | 2 2/ 3/ 1 1 | 7_./( 6_./)( 7_./)( 1/) 6_.. 0/ (break) | 6_./( 7_./) 1/ 2/ 3 3 | 4/( 3/) 4/( 6/) 3 - | 2 2/ 3/ 1 1 | 7_./ 6_./ 7_./( 1/) 6_. - (break) | 6_. 6/ 6/ 6 6/ 6/ | 5/ 6/ 5/ 4/ 3 - | 6_. 6 6 6/ 6/ | 5/( 6/) 5/ 4/ 3 - (break) | 2/ 2/ 2/ 3/ 1 1/ 1/ | 2/( 3/) 4/ 6/ 3 - | 2 2/ 3/ 1 1 | 7_./ 6_./ 7_./ 1/ 6_. 0 |</melody>
+  <layout>
+    <singingstanza>Do you not know that those who run, Run on a race -- course, all run, All run, but one re -- ceives the prize? Run in this way, that you may lay hold. And ev -- ery -- one who con -- tends ex -- er -- cis -- es Self- con -- trol in all things; those there -- fore, That they may re -- ceive a cor -- rupt -- i -- ble crown, But we re -- ceive an in -- cor -- rupt -- i -- ble.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Corinthians 9:24-25</link>
+  </links>
+  <music>
+    <midiref type="h" num="1222"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Do you not know that those who run,
+Run on a racecourse, all run,
+All run, but one receives the prize?
+Run in this way, that you may lay hold.
+And everyone who contends exercises
+Self-control in all things; those therefore,
+That they may receive a corruptible crown,
+But we receive an incorruptible.</stanza>
+  </lyrics>
+</hymn>

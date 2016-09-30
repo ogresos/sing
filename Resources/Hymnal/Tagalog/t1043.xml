@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhay ay isang iglap</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><cebuano num="1043"/><chinese num="722"/><english num="1043"/><german num="1043"/><korean num="722"/><portuguese num="457"/><russian num="299"/><spanish num="478"/><tagalog num="1043"/></numbers>
+  <creators>
+	<author biodate="1866-1961" biolink="">Translated from Charles Harrison Mason</author>
+  </creators>
+  <melody>| 0 - - 1./ 2// | 3./ 3// 3./ 3// 3 1./ 3// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( ._1./) 5./ 3// (break) | 2 - - 3./ 4// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( (.._1./) 1./ 2// | 3./ 3// 3./ 3// 3//( 5./) 2./ 3// (break) | 1 - - (Chorus) 5./ 5// | 5 - - {6/( 5/) 3/} | ._1 - - 7./ 6// | 5./ 5// 5./ 5// 6// 5./ 5./ 3// (break) | 2 - - 3./ 4// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( (.._1./) 1./ 2// | 3./ 3// 3./ 3// 3//( 5./) 2./ 3// | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1043"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Buhay ay isang iglap,
+Tulad ng mga ulap,
+Sindali ng pangarap,
+Agapan!
+Panaho'y lumilipas,
+Buhay ay nagwawakas,
+Pagdaka'y pahimakas,
+Agapan!</stanza>
+	<stanza type="chorus" number="">Agapan! Agapan!
+Tawag ka ni Hesus, iyong agapan,
+Kung mabalam sa sala,
+Baka mapagsarhan ka,
+At tawag mo'y huli na,
+Agapan!</stanza>
+	<stanza type="verse" number="2">O pantas, tingnan mo nga,
+Bulaklak nalalanta,
+Kabataa'y tatanda,
+Agapan!
+Magtuos nang maaga,
+Baka maabutan ka -
+Walang hanggang parusa,
+Agapan!</stanza>
+	<stanza type="verse" number="3">Ang Espiritu Santo,
+Nagsusumamo sa iyo,
+Nang buhay matanggap mo,
+Agapan!
+Tanggapin biyaya Niya,
+Nang di mapahamak ka,
+Mag-atubili'y huwag na,
+Agapan!</stanza>
+	<stanza type="verse" number="4">Pakinggan mo, salarin,
+Manliligtas piliin,
+Langit magagalak din,
+Agapan!
+Ang liwanag tunguhin,
+Panginoon tanggapin,
+Lumapit ka ngayon din,
+Agapan!</stanza>
+  </lyrics>
+</hymn>

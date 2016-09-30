@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cynthia</firstname>
+  <lastname>Alston</lastname>
+  <email>cynthiajalston@gmail.com</email>
+  <password>$2y$10$amnBHv1W59qjBddZXnocBuFUdFGHY0HlN7ICNONZVRR5BhEICJ0zS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.176.20.154</ipaddress>
+  <createdate>2016-05-28 23:04:07</createdate>
+  <lastupdateddate>2016-07-24 03:43:22</lastupdateddate>
+  <lastlogindate>2016-07-24 03:43:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

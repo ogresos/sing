@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Robin</firstname>
+  <lastname>Zheng</lastname>
+  <email>suezheng@hotmail.com</email>
+  <password>$2y$10$RGdoST5mCaW8nLj.n0SJPOtH7OFN/pGCn5d6WzKNA39qq56kfNHNi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>129.32.224.80</ipaddress>
+  <createdate>2015-03-12 17:43:07</createdate>
+  <lastupdateddate>2015-03-12 17:44:05</lastupdateddate>
+  <lastlogindate>2015-03-12 17:44:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

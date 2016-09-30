@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'walhati, Hari ng buhay</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAG-IBIG</category>
+  <numbers><cebuano num="160"/><chinese num="80"/><english num="160"/><korean num="80"/><tagalog num="160"/></numbers>
+  <creators>
+    <author biodate="1874-1958" biolink="">Translated from Jennie Evelyn Hussey</author>
+  </creators>
+  <music>
+    <midiref type="h" num="160"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">L'walhati, Hari ng buhay,
+Sa Iyo iaalay,
+Nang di Kita malimutan,
+Kalbaryo'y puntahan.</stanza>
+    <stanza type="chorus" number="">Di-malimot Getsemani,
+Di-malimot Iyong pighati,
+Di-malimot pag-ibig Mo,
+Dahil sa Kalbaryo.</stanza>
+    <stanza type="verse" number="2">Makita ko ang libingan
+Na pinagtangisan;
+Mga anghel ang nagbantay,
+Nang Ika'y humimlay.</stanza>
+    <stanza type="verse" number="3">Doon ako mag-aalay,
+Tulad ni Maria,
+Ituro Mo ang libingan,
+Aking mapuntahan.</stanza>
+    <stanza type="verse" number="4">Nawa'y kusang pasanin ko
+Ang krus para sa Iyo,
+Kahit ang hapis Mong saro,
+Ay mabahagi ko.</stanza>
+    <stanza type="verse" number="5">Nais Mong higit pang tao
+Ang maakit sa Iyo;
+Linisin Mo aking labi,
+Kalbaryo'y 'pagbunyi.</stanza>
+  </lyrics>
+</hymn>

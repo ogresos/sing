@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Janice</firstname>
+    <lastname>Wilson</lastname>
+    <email>janice_m_wilson@mail.com</email>
+    <password>g7LgILnGhBypZS6dcizT2w%3D%3D</password>
+    <gender></gender>
+    <country>Australia</country>
+    <ipaddress>58.6.95.21</ipaddress>
+    <createdate>2013-08-21 17:12:58</createdate>
+    <lastupdateddate>2013-08-22 01:05:50</lastupdateddate>
+    <lastlogindate>2013-08-22 01:05:50</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="292">A debtor to mercy alone</fav>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+        <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+        <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+        <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+        <fav category="default" type="h" num="1068">In tenderness He sought me</fav>
+        <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+        <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="h" num="303">Nor silver nor gold hath obtained my redemption</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="228">Sweet feast of love divine</fav>
+    </favourites>
+</user>

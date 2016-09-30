@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>K.</firstname>
+  <lastname>Ellwanger</lastname>
+  <email>kcle@prtel.com</email>
+  <password>$2y$10$H0iJMDRIUbpIzit3nkvsnO73Pv7AeJvBbW8UE.1cZSBWPF5VPW2Di</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.165.31.177</ipaddress>
+  <createdate>2016-02-17 22:32:46</createdate>
+  <lastupdateddate>2016-02-27 05:56:53</lastupdateddate>
+  <lastlogindate>2016-02-17 22:33:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+  </favourites>
+</user>

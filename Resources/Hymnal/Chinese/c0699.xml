@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你的罪雖硃紅</title>
+  <index>true</index>
+  <category>福音－罪</category>
+  <numbers><cebuano num="1037"/><chinese num="699"/><english num="1037"/><korean num="699"/><tagalog num="1037"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - 5./ 5// | 5 - {3/( 4/) 5/} | 6 5 5./ ._1// | 7./ ._1// 7 6 (break) | 5 - 5./ 5// | 5 - {3/( 4/) 5/} | 6 5 5./ ._1// | 7./ ._1// 7 ._2 (break) | ._1 - {5/ 6/ 5/} | ._2( - {._2/)( ._3/) ._2/} | ._1 ._1 ._1/ ._2/ | ._3 - 3 (break) | (.6 - 5./ 5// | 5 - {3/( 4/) 5/} | 6 5 ._3./ ._3// | ._3 - {._1/( ._2/) ._3/} (break) | ._4 ._3 ._2/ ._1/ | ._1. 7/ ._1./ 6// | 5 - 5/ 5/ | 5. 5/ 5/ 5/ | 5 - 0 |</melody>
+  <layout>
+	<singingstanza>你 的 罪 雖 像 硃 紅， 主 必 使 變 成 雪 白。 你 的 罪 雖 像 硃 紅， 主 必 使 變 成 雪 白。 你 罪 雖 紅 如 丹 顏， 必 白 羊 毛 般。 你 的 罪 雖 像 硃 紅， 你 的 罪 雖 像 硃 紅， 主 必 使 變 成 雪 白， 主 必 使 變 成 雪 白。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1037"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你的罪雖像硃紅，
+主必使變成雪白。
+你的罪雖像硃紅，
+主必使變成雪白。
+你罪雖紅如丹顏，
+必白羊毛般。
+你的罪雖像硃紅，
+你的罪雖像硃紅，
+主必使變成雪白，
+主必使變成雪白。</stanza>
+	<stanza type="verse" number="2">你要聽主的呼聲，
+當回轉歸向救主！
+你要聽主的呼聲，
+當回轉歸向救主！
+愛主招呼耐等待，
+你何不歸來？
+你要聽主的呼聲，
+你要聽主的呼聲，
+當回轉歸向救主！
+當回轉歸向救主！</stanza>
+	<stanza type="verse" number="3">你的罪，主必赦免，
+必永遠不再記念。
+你的罪，主必赦免，
+必永遠不再記念。
+你罪，主必全塗抹，
+如厚雲滅沒。
+你的罪，主必赦免，
+你的罪，主必赦免，
+必永遠不再記念，
+必永遠不再記念。</stanza>
+  </lyrics>
+</hymn>

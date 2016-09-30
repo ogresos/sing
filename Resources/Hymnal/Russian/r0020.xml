@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисуса славлю имя</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ИМЯ</category>
+  <numbers><cebuano num="73"/><chinese num="65"/><english num="73"/><french num="14"/><german num="73"/><korean num="65"/><russian num="20"/><spanish num="41"/><tagalog num="73"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 0 - - 5 4/ | 3.( 3) 3/ 3/( 2/) 3/ | 5. 4. 4 3/ | 2.( 2) 5/ 6/( 5/) 4/ (break) | 3.( 3.) 5 4/ | 3.( 3) 5/ 6/( ._1/) 6/ | 5. 3. 3 3/ | 2.( 2) 3/ 5/( 4/) 2/ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>И -- и -- су -- са сла -- влю и -- мя, При -- стань в_Нём и -- щу мо -- ю.  Как по -- бе -- ды вер -- ной сим -- вол И -- мя э -- то я по -- ю.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="73"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Иисуса славлю имя,
+Пристань в Нём ищу мою.
+Как победы верной символ
+Имя это я пою.</stanza>
+	<stanza type="verse" number="2">Ты велик и благ, Спаситель.
+Твоё имя всё даёт.
+Кто вдыхает это имя,
+Жизнь воистину тот пьёт.</stanza>
+	<stanza type="verse" number="3">На земле и в поднебесье
+Сила имени гремит,
+Но лишь Им прощённый грешник
+Знает, как оно целит.</stanza>
+	<stanza type="verse" number="4">Драгоценно Твоё имя –
+Меч разящий и бальзам.
+Им живём и побеждаем,
+О Господь, грядущий к нам!</stanza>
+  </lyrics>
+</hymn>

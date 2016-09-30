@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Обитель, царство, дом</title>
+  <index>true</index>
+  <category>ЦЕРКОВЬ&amp;mdash;ЕЁ ПРИВЛЕКАТЕЛЬНОСТЬ</category>
+  <numbers><chinese num="ts:753"/><english num="853"/><russian num="430"/><spanish num="366"/></numbers>
+  <creators>
+    <author biodate="1752-1817" biolink="">Translated from Timothy Dwight</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 2/( 1/) | 2 - - 3/( 4/) | 5 4/( 3/) 4 3 (break) | 2 - - 5 | 3 1 2 5_. | 1 3 5 5 | 6 5/( 4/) 3 2 | 1 - - 0 |</melody>
+  <music>
+    <midiref type="h" num="853"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Обитель, царство, дом
+Твои, Господь, люблю.
+То церковь, что наш Бог благой
+Обрёл чрез кровь Свою.</stanza>
+    <stanza type="verse" number="2">И стены пред Тобой
+Её стоят всегда,
+Как драгоценность Ты её
+На длани начертал.</stanza>
+    <stanza type="verse" number="3">О ней я слёзы лью,
+О ней в мольбах прошу,
+Ей плод заботы и труда
+Смиренно приношу.</stanza>
+    <stanza type="verse" number="4">В ней радость высшая,
+Хвалю её пути.
+Как сладостно общенье в ней
+И песнь её любви.</stanza>
+    <stanza type="verse" number="5">Как в истину Твою
+Я верю: день придёт –
+Земли дар высший и небес
+Сион Твой обретёт.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Превознесите Имя то</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ИМЯ</category>
+  <numbers><cebuano num="77"/><english num="77"/><german num="77"/><portuguese num="41"/><russian num="344"/><spanish num="42"/><tagalog num="77"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 3 3 | 5 - 1 | 2 - 2 | 3 - - | 5 5 5 | 4 - 5 | 3 - 4 | 2 - - (break) | 2 2 2 | 2 - 2 | 4# - 4# | 5 - - | 3 3 3 | 3( 2) 1 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="77"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Превознесите Имя то!
+Небо с землёю, славь его!
+В силе грядущего Царя
+Его прославит вся земля!</stanza>
+	<stanza type="verse" number="2">Превознесите Имя то!
+Башня нам крепкое оно.
+В нём безопасность нам дана.
+В имени том – победа нам!</stanza>
+	<stanza type="verse" number="3">Превознесите Имя то!
+Править землёй придёт оно.
+Смерти, греху уже не быть,
+Ибо Христос начнёт царить.</stanza>
+	<stanza type="verse" number="4">Превознесите Имя то!
+Цари пойдут вслед за Христом.
+Превыше всех имён земных
+Иисуса имя любим мы.</stanza>
+	<stanza type="verse" number="5">Превознесите Имя то!
+Падут все пред лицом Его,
+И плод креста Иисус узрит,
+Когда земля Царя почтит.</stanza>
+  </lyrics>
+</hymn>

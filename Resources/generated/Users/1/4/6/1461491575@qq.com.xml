@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Leeo</firstname>
+  <lastname>Liu</lastname>
+  <email>1461491575@qq.com</email>
+  <password>$2y$10$UuCTJlmtWMcm8gbb8nwabehA71peKejQJVUcsZR8xx9ejg1t0WZqK</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>117.136.68.3</ipaddress>
+  <createdate>2016-07-26 14:04:54</createdate>
+  <lastupdateddate>2016-07-26 14:14:03</lastupdateddate>
+  <lastlogindate>2016-07-26 14:06:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="141">哦主耶穌每想到你</fav>
+    <fav category="default" type="ch" num="526">神卻曾應許</fav>
+  </favourites>
+</user>

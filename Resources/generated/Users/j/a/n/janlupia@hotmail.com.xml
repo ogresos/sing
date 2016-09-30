@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jan</firstname>
+    <lastname>Lupia</lastname>
+    <email>janlupia@hotmail.com</email>
+    <password>BDV22neJkhOcYFNj6OV0TQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>66.133.212.232</ipaddress>
+    <createdate>2012-11-30 06:14:12</createdate>
+    <lastupdateddate>2013-01-15 06:21:30</lastupdateddate>
+    <lastlogindate>2013-01-15 06:02:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="688">I've seen the lightning flashing</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+    </favourites>
+</user>

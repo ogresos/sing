@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Chang</firstname>
+  <lastname>Liu</lastname>
+  <email>liuchang22@gmail.com</email>
+  <password>$2y$10$MH5VqRHCcqsYC/Ds.1g37u6kGmv0Swixnt3b8lmyCzShAwIz5iUdO</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>98.222.59.209</ipaddress>
+  <createdate>2009-01-28 00:45:53</createdate>
+  <lastupdateddate>2016-06-12 12:04:06</lastupdateddate>
+  <lastlogindate>2016-06-12 12:04:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="ns" num="163">If you wish to find the Lord</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="h" num="171">Lord Jesus Christ, our heart feels sweet</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="ns" num="385">Lord, Refine My Heart</fav>
+    <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+    <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+    <fav category="default" type="nt" num="383">Sweet Will of God</fav>
+    <fav category="default" type="ns" num="298">The love of Christ is Christ Himself</fav>
+    <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    <fav category="default" type="ns" num="465">This River</fav>
+    <fav category="default" type="ch" num="408">你名似膏香</fav>
+    <fav category="default" type="ts" num="316">恩主你是我至愛</fav>
+    <fav category="default" type="ns" num="351c">我深知惟有你是我所愛</fav>
+    <fav category="default" type="ts" num="828">敞開心！呼喊祂</fav>
+  </favourites>
+</user>

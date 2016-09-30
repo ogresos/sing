@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.hymnal.net/favourite" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="favourite" type="favouriteType"/>
+  <xs:complexType name="favouriteType">
+    <xs:sequence>
+      <xs:element type="articleType" name="article" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="type"/>
+    <xs:attribute type="xs:string" name="num"/>
+    <xs:attribute type="xs:string" name="month"/>
+    <xs:attribute type="xs:string" name="day"/>
+    <xs:attribute type="xs:string" name="year"/>
+  </xs:complexType>
+  <xs:complexType name="articleType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="author" use="optional"/>
+        <xs:attribute type="xs:string" name="email" use="optional"/>
+        <xs:attribute type="xs:string" name="city" use="optional"/>
+        <xs:attribute type="xs:string" name="provst" use="optional"/>
+        <xs:attribute type="xs:string" name="country" use="optional"/>
+        <xs:attribute type="xs:string" name="month" use="optional"/>
+        <xs:attribute type="xs:string" name="day" use="optional"/>
+        <xs:attribute type="xs:string" name="year" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>

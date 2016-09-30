@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿利路亞祂已復活</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><cebuano num="119"/><chinese num="105"/><english num="119"/><korean num="105"/><portuguese num="56"/><russian num="402"/><tagalog num="119"/></numbers>
+  <creators>
+	<author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <melody>| 0 - 5./ 5// | 5. 3/ 2./ 3// | 1 5_. | 1./ 1// | 2. 4/ 3./ 2// | 3 - 5./ 5// (break) | 5. 3/ 2./ 3// | 1 5_. 1./ 1// | 2. 4/ 3./ 2// | 1 - 1./ 1// (break) | 6. 6/ 6./ 6// | 5 3 3./ 5// | 4. 4/ 3./ 2// | 3 - 1./ 1// (break) | 6. 6/ 6./ 6// | 5 3 3./ 5// | 4. 4/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>阿 利 路 亞， 『祂 已 復 活！』 基 督 已 經 高 天 升！ 死 的 門 閂 已 經 斷 開， 天 使 歡 呼， 人 響 應； 祂 已 復 活， 祂 已 復 活， 祂 今 活 著 作 生 命。 祂 已 復 活， 祂 已 復 活， 祂 今 活 著 作 生 命。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="119"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿利路亞，
+『祂已復活！』
+基督已經高天升！
+死的門閂已經斷開，
+天使歡呼，人響應；
+祂已復活，祂已復活，
+祂今活著作生命。
+祂已復活，祂已復活，
+祂今活著作生命。</stanza>
+	<stanza type="verse" number="2">阿利路亞，祂已復活！
+作我高舉的元首！
+賜下聖靈來作見證，
+將祂一切向我授；
+祂已復活，祂已復活，
+使我稱義蒙拯救。</stanza>
+	<stanza type="verse" number="3">阿利路亞，祂已復活！
+死亡永遠失權勢！
+基督自己就是復活，
+要救我們脫離死；
+祂已復活，祂已復活，
+一直活著作恩賜。</stanza>
+  </lyrics>
+</hymn>

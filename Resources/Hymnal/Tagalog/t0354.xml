@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pasok, O pasok, bukas ang pinto</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;KAY KRISTO</category>
+  <numbers><chinese num="277"/><english num="354"/><korean num="277"/><tagalog num="354"/></numbers>
+  <creators>
+    <author biodate="1841-1920" biolink="">Translated from Handley Carr Glyn Moule</author>
+  </creators>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Pasok, O pasok, bukas ang pinto,
+Ito'y Iyong tinig, nakilala ko;
+Araw lumubog, hangin humihip
+Pasok Manliligtas, aking ibig.</stanza>
+    <stanza type="verse" number="2">O, anong gulo ng buong silid,
+Kagamitan kalat sa paligid;
+Mesa't silya'y dapat pang ayusin,
+Anong pagtanggap sa Panauhin!</stanza>
+    <stanza type="verse" number="3">Nguni't gayon nga ang kalagayan,
+Kaya Kita ay inanyayahan;
+Itong kaguluha't kadiliman
+Liwanag Mo at kamay kailangan.</stanza>
+    <stanza type="verse" number="4">Sa harap ng mabuting Kaibigan,
+Di ko hangad ayusin anuman;
+Kahit pa ayusin di gaganda,
+Pagpasok Mo tuloy naantala.</stanza>
+    <stanza type="verse" number="5">Pasok, h'wag nang maghanap, gawin lang,
+Ang puso ko angkop Mong tirahan;
+Paalisin dilim, takot, sala
+Pasok, Pangino'ng Hesus, ngayon na!</stanza>
+  </lyrics>
+</hymn>

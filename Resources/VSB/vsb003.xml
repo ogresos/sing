@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'm a beggar 'cause... I'm blind</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Light</category>
+  <numbers><english num="ns:171"/><vsb num="3"/></numbers>
+  <hymncode>33321423332167</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Em - | F - G7 - | C - Em - | F - G7 - | C - Dm - | F - G7 - | C - Am - | F - G7 - | C - Em - | F - G7 - | C - Em - | Dm7 - G7 - | C - G/B - | F/A - G7 - | C - Em - | F - G7 - |</chords>
+  <melody>| 3 3 3/ 2/ 1( | 1) 4 2 - | 3 3 3/ 2/ 1( | 1) 6_. 7_. - (break) | 1 1/ 1/ 2/ 2/ 2( | 2) 4 2 - | 3 3 3/ 3/ 3( | 3) 4 5 - (break) | 5 - 5 5 | 6 5 5 - | 0 5 5 5 | {4 4 3} 2 - (break) | 0 3/ 3/ 2 2 | 1 1/ 1/ 2/ 1/ 7_./ 7_./ | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>I'm a beg -- gar 'cause... I'm blind So I take what I... can find I'm grop -- ing for re -- a... li -- ty On -- ly wish -- ing I... could see My par -- ents, they can see Why is this blind -- ness in me? All I know is I want to see re -- al -- i -- ty.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="33">ns0171.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'm a beggar 'cause... I'm blind
+So I take what I... can find
+I'm groping for rea...lity
+Only wishing I... could see
+My parents, they can see
+Why is this blindness in me?
+All I know is I want to see reality.</stanza>
+    <stanza type="verse" number="2">Lord, I am sitting by... the road
+Begging outside of Je...richo
+Now, Lord I hear that You... pass by
+Lord, Son of David... I cry
+Lord, Son of David, I cry
+Please, Christ, don't pass me by
+I believe that you can open my eyes.</stanza>
+    <stanza type="verse" number="3">You gave me life but where's... my sight?
+I am still blind and that's... my plight
+Blind lead the blind and then... both fall
+So right now on You... I call
+Jesus have mercy on me
+Open my eyes that I might see
+All I know is my only hope is in You.</stanza>
+    <stanza type="verse" number="4">Lord I am rebuked by... the crowd
+For You I cry out more... the loud
+All the world wants to di...stract me
+So I forget that I... can't see
+Jesus don't leave me behind
+You are the one I want to find
+All I know is I just really need You.</stanza>
+    <stanza type="verse" number="5">Still I'm afraid that You'll... go on
+But joyful ears hear You... respond
+What would you like for me... to do
+Oh Christ I just want to see You
+Open my eyes to... see You
+Let me find what my spirit can do
+All I know is I just want to see You.</stanza>
+    <stanza type="verse" number="6">In my spirit I... can see
+Because that's where You... touch me
+By your touch dear Lord... I'm healed
+All my sin and death... must yield
+Now Lord, I am healed
+In my spirit You are so real
+All I know is I want to keep touching You.</stanza>
+    <stanza type="verse" number="7">Lord my sight is for... one thing
+So that I to You... can cling
+I think I'm in love... with You
+No one else for me... will do
+Lord Christ let me follow You please
+You're so real and so special to me
+All I know is Lord I never want to leave.</stanza>
+  </lyrics>
+</hymn>

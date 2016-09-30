@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>William</firstname>
+<lastname>Ringer</lastname>
+<email>william_ringer@hotmail.com</email>
+<password>$1$mWkmI6tm$63yH7kyfD7Kmf3k2ggd4Z0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>86.144.79.113</ipaddress>
+<createdate>2008-07-26 01:43:28</createdate>
+<lastupdateddate>2009-09-15 18:25:23</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="580">Resting on the faithfulness of Christ our Lord</fav>
+        <fav category="default" type="h" num="631">If I'd know Christ's risen power</fav>
+        <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+        <fav category="default" type="h" num="1206">There's a race for us to run&amp;mdash;Hallelujah</fav>
+        <fav category="default" type="h" num="151">Sing we the King who is coming to reign</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+    </favourites>
+</user>

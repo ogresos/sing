@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Janey</firstname>
+    <lastname>Liao</lastname>
+    <email>janey.liao@gmail.com</email>
+    <password>Kizyjmdc1Ull0d%2BYCitPkw%3D%3D</password>
+    <gender>F</gender>
+    <country>tw</country>
+    <ipaddress>58.232.26.55</ipaddress>
+    <createdate>2012-09-22 18:23:28</createdate>
+    <lastupdateddate>2012-09-22 19:53:49</lastupdateddate>
+    <lastlogindate>2012-09-22 18:23:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="276">你若取去我的心愛</fav>
+        <fav category="default" type="ch" num="506">祂不誤事因祂是神</fav>
+        <fav category="default" type="ch" num="281">願我愛你更深</fav>
+        <fav category="default" type="ch" num="281">願我愛你更深</fav>
+    </favourites>
+</user>

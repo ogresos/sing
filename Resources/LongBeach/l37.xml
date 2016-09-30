@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Awake, awake Deborah</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;General</category>
+  <numbers><english num="lb:37"/><vsb num="180"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>13556545</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| G7 - - - | C - - - | F/C - C - | C - Am - | F - C - | Am - Em - | F - C - | G - - - | C - G7 - | C - C/E - | F - C - | C - Am - | F - C - | Am - Em - | F - C - | G - - - | C - C7 - | F - F/C - | F - - - | C - C/G - | C - - - | G/D - - - | D7 - - - | G - - - | G7 - - - |</chords>
+  <melody>| 0 - - 0/ 1/ | 3 5/ 5/( 5) - | 6/( 5/) 4/ 5/( 5.) 1/ | 3 5/ 5/( 5) - | 6/ 5/ 4/ 5/( 5.) 5/ | ._1 - 7/ 5/( 5/) 5/ | 6 6/ 6/ 5/ 3/ 1 | 2 - - - (break) | 1 - - 0/ 1/ | 3 5/ 5/( 5) - | 6/( 5/) 4/ 5/( 5.) 1/ | 3 5/ 5/( 5) - | 6/ 5/ 4/ 5/( 5.) 5/ | ._1 - 7/ 5/( 5/) 5/ | 6 6/ 6/ 5/ 3/ 1 | 2 - - - | 1 - - - (break) | 0 6/ 6/ 6/ 6/ 6 | ._1 ._1 7. 6/ | 6 5( - - | 5) - - 5 | 5 2( 2) 5 | 6 6 6/ ._2/( ._2/) ._1/ | 7( - - - | 7) - - 0 |</melody>
+  <layout>
+    <singingstanza>A -- wake, a -- wake, De -- bo -- rah! A -- wake, a -- wake, ut -- ter a song! A -- rise, Ba -- rak, and lead Your cap -- tiv -- i -- ty cap -- tive! A -- wake, a -- wake, De -- bo -- rah! A -- wake, a -- wake, ut -- ter a song! A -- rise, Ba -- rak, and lead Your cap -- tiv -- i -- ty cap -- tive! Let your e -- ne -- mies pe -- rish, oh Je -- ho -- vah. But let them that love Him be as the sun!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Judges 5:12</link>
+    <link type="ref">Judges 5:31</link>
+  </links>
+  <music>
+    <midi location="lb" length="45">lb37.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Awake, awake, Deborah!
+Awake, awake, utter a song!
+Arise, Barak, and lead
+Your captivity captive!
+(Repeat)</stanza>
+    <stanza type="chorus" number="">Let your enemies perish, oh Jehovah.
+But let them that love Him be as the sun!</stanza>
+    <stanza type="verse" number="2">Awake, awake, Oh generation!
+Come out, come out from all the nations.
+Arise, Christians, and give
+Yourselves to Christ and the church.
+(Repeat)</stanza>
+    <stanza type="chorus" number="">This is the Lord's generation!
+Oh come out from all the nations!</stanza>
+    <stanza type="verse" number="3">Awake, awake, Oh sisters!
+Awake, awake, utter this song!
+Arise, brothers, and wield
+The sword of the Spirit!
+(Repeat)</stanza>
+    <stanza type="chorus" number="">Let us stand strong in the Lord
+By fighting with prayer in the Word!</stanza>
+  </lyrics>
+</hymn>

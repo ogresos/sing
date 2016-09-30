@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Kellie</firstname>
+<lastname>Rowland</lastname>
+<email>kellie@thwcpa.com</email>
+<password>$1$QxLhLKpC$UGbTQJJO/bBrDpZ4DEyPf0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>206.74.114.155</ipaddress>
+<createdate>2008-07-26 01:43:09</createdate>
+<lastupdateddate>2009-09-15 18:22:08</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    </favourites>
+</user>

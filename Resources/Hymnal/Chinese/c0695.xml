@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>救主為我死</title>
+  <index>true</index>
+  <category>福音－生命</category>
+  <numbers><chinese num="695"/><english num="1014"/><korean num="695"/></numbers>
+  <creators>
+	<author biodate="1840-1907" biolink="">Translated from James McGranahan</author>
+  </creators>
+  <melody>| 1 1./ 2// 1/ 7_./ 6_./ 5_./ | 1 2 3 - | 2 2/ 3/ 2/ 1/ 7_./ 1/ | 2 3 4 - (break) | 3 5./ 5// 4/ 3/ 2/ 1/ | 7_. 6_. 4 - | 6 5/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3./ 4// 5 3./ 4// 5 | 6/ 5/ 4/ 3/ 4 - | 2./ 3// 4 2./ 3// 4 | 5/ 4/ 3/ 2/ 3 - (break) | 3 5./ 5// 4/ 3/ 2/ 1/ | 7_. 6_. 4 - | 6 5/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>救 主 為 我 死， 何 等 的 奇 妙！ 我 本 該 定 罪， 祂 使 我 逍 遙； 祂 再 三 的 說： 人 若 是 信 靠， 已 經 出 死 入 生！ 真 福 音， 真 福 音， 你 們 快 來 聽！ 真 福 音， 真 福 音， 基 督 已 講 明： 人 若 肯 相 信 神 兒 子 的 名， 已 經 出 死 入 生！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1014"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主為我死，
+何等的奇妙！
+我本該定罪，
+祂使我逍遙；
+祂再三的說：
+人若是信靠，
+已經出死入生！</stanza>
+	<stanza type="chorus" number="">真福音，真福音，
+你們快來聽！
+真福音，真福音，
+基督已講明：
+人若肯相信神兒子的名，
+已經出死入生！</stanza>
+	<stanza type="verse" number="2">一切的虧欠，
+祂替我還清；
+一切的污穢，
+祂替我洗淨；
+祂特意的說：
+人若信祂名，
+已經出死入生！</stanza>
+	<stanza type="verse" number="3">我雖滿罪惡，
+我能信祂名；
+我雖極軟弱，
+我能受祂靈；
+朋友，
+這真是何等的榮幸！
+已經出死入生！</stanza>
+	<stanza type="verse" number="4">我雖頂不堪，
+我不肯生疑；
+到祂那裡的，
+祂永不絕棄；
+凡是信祂的，
+都當時常記：
+已經出死入生！</stanza>
+  </lyrics>
+</hymn>

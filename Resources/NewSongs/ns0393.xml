@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Triune God, We Love You</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;By the Trinity</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3134177653313417711</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - C7 - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7 7/( 6/) 5/ 3/( | 3) - 0 - | 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7/ 7/( 7/) ._1 ._1/( | ._1) - 0 - | 4. ._1/( ._1) - | 5. ._2/( ._2) - | 5. ._2/( ._2) ._3 | ._2 ._3/ ._1/( ._1) - | 4. ._1/( ._1) 4 | 5 - - 7 | ._1 - - - | 0 - - - (break) | 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7 7/( 6/) 5/ 3/( | 3) - 0 - | 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7/ 7/( 7/) ._1 ._1/( | ._1) - 0 - | 4. ._1/( ._1) - | 5. ._2/( ._2) - | 5. ._2/( ._2) ._3 | ._2 ._3/ ._1/( ._1) - | 4. ._1/( ._1) 4 | 5 - - 7 | ._1 - - - | 0 - - - (break) | 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7 7/( 6/) 5/ 3/( | 3) - 0 - | 3. ._1/( ._1) 3 | 4. ._1/( ._1) - | 0 7/ 7/( 7/) ._1 ._1/( | ._1)( - ._1/)( ._2/) ._1 (break) | (Verse_1) 4. ._1/( ._1) - | 5. ._2/( ._2) - | 5. ._2/( ._2) ._3 | ._2 ._3/ ._1/( ._1) - | 4. ._1/( ._1) 4 | 5 - - 7 | ._1 - - - (break) | (Verse_2) 4. ._1/( ._1) - | 5. ._2/( ._2) - | 5. ._2/( ._2) ._3 | ._2 ._3/ ._1/( ._1) - | 4. ._1/( ._1) 4 | 5 - - 7 | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Je -- sus, we love You, We're glad You came; Je -- sus, we love You! We call Your name; Your life im -- part; Breathe now in -- to our heart; Je -- sus, we love You so! Spir -- it, we love You, Re -- al -- i -- ty! Spir -- it, we love You! Be real to me! Shine strong, shine bright; Your light in -- tens -- i -- fy; Lord Spir -- it, we love You! Fa -- ther, we love You, We give You praise; Fa -- ther, we love You! And we will al -- ways... Give Christ first place; En -- joy His flow -- ing grace; We love Your first -- born Son. Sing, praise, pray, call! Christ is our all in all, Ab -- ba, our Fa -- ther God!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="105">ns0393.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Jesus, we love You,
+We're glad You came;
+Jesus, we love You!
+We call Your name;
+Your life impart;
+Breathe now into our heart;
+Jesus, we love You so!
+
+Spirit, we love You,
+Reality!
+Spirit, we love You!
+Be real to me!
+Shine strong, shine bright;
+Your light intensify;
+Lord Spirit, we love You!
+
+Father, we love You,
+We give You praise;
+Father, we love You!
+And we will always...</stanza>
+    <stanza type="verse" number="1">Give Christ first place;
+Enjoy His flowing grace;
+We love Your firstborn Son.</stanza>
+    <stanza type="verse" number="2">Sing, praise, pray, call!
+Christ is our all in all,
+Abba, our Father God!</stanza>
+  </lyrics>
+</hymn>

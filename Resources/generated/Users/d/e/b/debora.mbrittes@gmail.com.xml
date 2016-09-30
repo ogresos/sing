@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Débora</firstname>
+  <lastname>Brittes</lastname>
+  <email>debora.mbrittes@gmail.com</email>
+  <password>$2y$10$GdLfOwrxjV4uMrVHn9PUKeUH57cre5ug8w/1Eeh6kW2PqfMT.MuGW</password>
+  <gender>F</gender>
+  <country>br</country>
+  <ipaddress>200.148.51.63</ipaddress>
+  <createdate>2011-02-17 16:01:52</createdate>
+  <lastupdateddate>2016-06-02 18:52:36</lastupdateddate>
+  <lastlogindate>2016-06-02 18:49:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+    <fav category="default" type="ns" num="60">O there's One in me</fav>
+    <fav category="default" type="ns" num="135">Thank You, Lord Jesus, for dying for me</fav>
+    <fav category="default" type="ns" num="499">The Vision of God's Building</fav>
+  </favourites>
+</user>

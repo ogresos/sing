@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Leo</firstname>
+<lastname>Lai</lastname>
+<email>leo91922@hotmail.com</email>
+<password>$1$CuUfB63U$xH7CyZ.A0QlYOE19J2s0Q.</password>
+<gender>M</gender>
+<country>New Zealand</country>
+<ipaddress>222.153.235.82</ipaddress>
+<createdate>2008-10-04 02:10:16</createdate>
+<lastupdateddate>2009-09-15 18:26:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="49">Whispers from above</fav>
+        <fav category="default" type="ns" num="124">Calling, O Lord Jesus</fav>
+        <fav category="default" type="ns" num="134">A higher view</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+        <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+    </favourites>
+</user>

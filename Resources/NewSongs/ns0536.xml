@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We turn our hearts to You, Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Mark Fullweiler">M. F.</author>
+    <composer biodate="" biolink="" fullname="Mark Fullweiler">M. F.</composer>
+  </creators>
+  <hymncode>332323317653</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em/B - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - - - | G - - - | C - - - | Em/B - - - | Am - - - | Em - - - | F - - - | G7 - - - | C - - - | G - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 0/ 3/ 3/ 2/ 3 2 | 3. 3/( 3) - | 0 ._1/ 7/ 6 5 | 3 - - - (break) | 0 - 6 6 | 5. 5/ 5/ 4. | 3 - 3/ 5. | 2 - - - (break) | 0 3/ 2/ 3 2 | 3 - - - | 0 ._1/ 7/ 6/ 5. | 3 - - - (break) | 0 - 6 6 | 5. 5/ 5 4 | 3 - 3/ 5. | 2 - - - (break) | 0 - ._1 ._1 | 7. 7/ 7 7 | ._1/ 6.( 6)( - | 6) - - - (break) | 0 - ._1 ._1 | 7/ 7/( 7/) 7/ 7/( 6/) 5 | 6( - - - | 6) - - - (break) | 0 - ._1 ._1 | 7 7 0/ 7/ 7 | ._1/ 6.( 6)( - | 6) - - - (break) | 0 - 4 4 | 3 2/ 1/( 1) 7_. | 1( - - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza>We turn our hearts to You, Lord. Make us all so true, Blend our hearts to -- geth -- er, Make all things new. As we turn a -- way From this earth -- ly dross, What was gain be -- fore we now count as loss. Ev -- ery day we find You liv -- ing In our spir -- it&amp;mdash; the full sup -- ply; How we're blessed that You are giv -- ing all You are to us in life.</singingstanza>
+  </layout>
+  <!--site>http://nwscds.com/index.html</site-->
+  <music>
+    <midi location="ns" length="69">ns0536.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We turn our hearts to You, Lord.
+    Make us all so true,
+Blend our hearts together, make all things new.
+    As we turn away
+    From this earthly dross,
+What was gain before we now count as loss.</stanza>
+    <stanza type="chorus" number="">Every day we find You living
+In our spirit&amp;mdash;the full supply;
+How we're blessed that
+You are giving all You are to us in life.</stanza>
+    <stanza type="verse" number="2">As we set our mind
+    On You, living One,
+In our spirit, Lord, we find we are one.
+    What was once our case
+    Seem to slip away
+As we fellowship with You, we long to stay.</stanza>
+    <stanza type="verse" number="3">I would linger here
+    In Your presence, Lord;
+How we find our hearts loving You more.
+    As we guard our hearts,
+    Keep them unto Thee,
+Preserve us, Lord, for all eternity.</stanza>
+  </lyrics>
+</hymn>

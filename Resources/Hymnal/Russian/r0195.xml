@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Отец, склонимся пред Тобой</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО НАМЕРЕНИЕ</category>
+  <numbers><cebuano num="32"/><chinese num="30"/><english num="32"/><german num="32"/><korean num="30"/><russian num="195"/><spanish num="22"/><tagalog num="32"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - ._1 | ._1( 7) 6 | 5 - ._1 | ._2( ._1) 7 | ._1 - ._2 (break) | ._3( ._2) ._1 | 7( ._1) ._2 | ._1( 7) 6 | 5 - 5 (break) | 6( 5) 6/( 7/) | ._1 - 7 | ._1 - ._2 | ._3 - ._2/( ._3/) (break) | ._4( ._3) ._2 | ._1( 7) ._1 | ._2( ._1) 7 | ._1 - - |</melody>
+  <layout>
+	<singingstanza>О -- тец, скло -- ним -- ся пред То -- бой Люб -- ви Тво -- ей хва -- лу воз -- дать.  Что зна -- чит че -- ло -- век, что Ты Е -- му да -- ру -- ешь бла -- го -- дать?</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="32"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Отец, склонимся пред Тобой
+Любви Твоей хвалу воздать.
+Что значит человек, что Ты
+Ему даруешь благодать?</stanza>
+	<stanza type="verse" number="2">Желаешь Ты, чтоб человек
+Твоим подобьем обладал,
+Твоей природой, жизнью полн,
+Твой образ славный выражал.</stanza>
+	<stanza type="verse" number="3">Свой образ Ты вложил в него,
+Власть от Тебя он получил,
+Себя Ты дал ему как жизнь,
+Чтоб он Твоим богатством жил.</stanza>
+	<stanza type="verse" number="4">Войти в него желаешь Ты
+И слиться с ним чрез благодать,
+Чтоб, преобразовав его,
+Свой дом Ты смог Себе создать.</stanza>
+	<stanza type="verse" number="5">Ты не оставил цель Свою,
+Хоть человек однажды пал.
+Его обратно искупив,
+Любовь и мудрость доказал.</stanza>
+	<stanza type="verse" number="6">Раскрыл Себя Ты во Христе,
+Кто умер, искупил, восстал;
+И в Духе Ты в людей вошёл,
+И жизнь и благодать им дал.</stanza>
+	<stanza type="verse" number="7">Ты хочешь, чтобы мы в наш дух
+К престолу благодати шли,
+И здесь, в Твоём святом святых,
+Тебе молясь, куренье жгли.</stanza>
+	<stanza type="verse" number="8">Реке подобна благодать,
+Начало ей – в престоле том.
+Течёт, преобразуя нас,
+И созидает нас в Твой дом.</stanza>
+	<stanza type="verse" number="9">За благодать и за любовь
+С благодарением в сердцах
+Мы в духе поклоняемся
+Тебе, Отец, во все века.</stanza>
+  </lyrics>
+</hymn>

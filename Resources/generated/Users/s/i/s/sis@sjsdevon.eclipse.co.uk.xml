@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Sally</firstname>
+    <lastname>Sargeant</lastname>
+    <email>sis@sjsdevon.eclipse.co.uk</email>
+    <password>IODomSXgc7ncrexy47d06UgaDv2zck0HPo%2BWIB2HCHU%3D</password>
+    <gender>F</gender>
+    <country>uk</country>
+    <ipaddress>82.152.215.133</ipaddress>
+    <createdate>2010-05-28 16:02:26</createdate>
+    <lastupdateddate>2010-05-29 07:08:59</lastupdateddate>
+    <lastlogindate>2010-05-29 07:08:59</lastlogindate>
+    <failedlogincount>3</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="151">Sing we the King who is coming to reign</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

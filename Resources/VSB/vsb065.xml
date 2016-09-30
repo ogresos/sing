@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, dear Jesus, You're so glorious</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Work</category>
+  <numbers><english num="lb:4"/><vsb num="65"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>17532443532</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G - - | Am - - | G - - | F - - | C - - | G - - | G - - | C - - | G - - | Am - - | G - - | F - - | C - - | G - - | G - - | F - - | G - - | C - - | F - - | C - - | G - - | C - - | G - - | F - - | G - - | C - - | F - - | C - - | G - - | F/C - - | C - - |</chords>
+  <melody>| 1 - - | 7_. - 5_. | 3 - - | 2 - - | 4 - 4 | 3( 5) 3 | 2( - - | 2) - - (break) | 1 - - | 7_. - 5_. | 3 - - | 2 - - | 4 - 4 | 3 5 3 | 2( - - | 2) - - (break) | 6 - 6 | 7 6 7 | ._1( - 5) | 4 - 4/ 4/ | 3 1 3/ 3/ | 2( 7_.) 2 | 3 - - | 2 - - (break) | 6 - 6 | 7./ 7// 6 7 | ._1 - 5 | 4 - 4/ 4/ | 3 1 3 | 2 7_. 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus, dear Je -- sus, You're so glo -- ri -- ous! You're such a mys -- tery. I've been cap -- tured by Thee. You're the great -- est at -- trac -- tion, All- -- ex -- ten -- sive, all- -- in -- clu -- sive Per -- son. You're the In -- fi -- nite, be -- yond mea -- sure, Yet my por -- tion, my price -- less trea -- sure.</singingstanza>
+  </layout>
+  <music>
+    <midi location="lb" length="58">lb04.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, dear Jesus,
+You're so glorious!
+You're such a mystery.
+I've been captured by Thee.
+You're the greatest attraction,
+All-extensive, all-inclusive Person.
+You're the Infinite, beyond measure,
+Yet my portion, my priceless treasure.</stanza>
+    <stanza type="verse" number="2">Jesus, dear Lord,
+You're beyond man's word.
+You're a God-man.
+You're divine and human.
+You're immortal with eternal might,
+Yet became a mortal finite.
+You're almighty, eternally the same,
+Yet a man in time became.</stanza>
+    <stanza type="verse" number="3">Jesus, dear Lord,
+You partook blood and flesh.
+You're the Eternal Word,
+God in a man manifest.
+Lord, You died for humanity
+To redeem man for eternity.
+Lord, You died on a tree for me.
+Lord, You loved me eternally.</stanza>
+    <stanza type="verse" number="4">Jesus, dear Christ,
+Death can't hold You in the grave.
+Now You're the Spirit.
+You can enter man to save.
+Satan plotted and killed You dead,
+That destroyed him the devil instead.
+Lord, You rose from the dead to be
+The life-giving Spirit in me.</stanza>
+  </lyrics>
+</hymn>

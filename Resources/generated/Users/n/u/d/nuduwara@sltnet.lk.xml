@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Nihal</firstname>
+<lastname>Uduwara</lastname>
+<email>nuduwara@sltnet.lk</email>
+<password>$1$OIGYxkco$JKacRXg75tVRwff1BP1bP.</password>
+<gender>M</gender>
+<country>Sri Lanka</country>
+<ipaddress>124.43.212.17</ipaddress>
+<createdate>2008-10-01 07:53:12</createdate>
+<lastupdateddate>2009-09-15 18:26:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="628">Via Bethlehem we journey</fav>
+        <fav category="default" type="h" num="209">Jesus, the very thought of Thee</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="516">Lord of all being, throned afar</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+    </favourites>
+</user>

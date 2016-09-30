@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Even as He is</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;One with Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>55555544533333322</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>80</tempo>
+  <chords>| C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | F - - - | F - - - | G - - - | G - - - | C - - - | F - - - | C - - - | F - - - | C - - - | F - - - | G - - - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0/ 5/ 5/ 5/ 5 5 | 5/ 4/ 4/ 5/( 5) - | 0/ 3/ 3/ 3/ 3 3 | 0/ 3/ 2/ 2/( 2) - (break) | 0/ 5/ 5/ 5/ 5 5 | 0/ 5/ 4/ 5/( 5) - | 0/ 3/ 3/ 3/ 3 3 | 0/ 3/ 2/ 2/( 2) 1/ 7_./ (break) | 1( - - - | 1) - 1/( 2) 2/( | 2)( - - - | 2) - - - (break) | (Chorus) 0/ 5/ 5/ 5/( 5/) 5/ 5/( 4/)( | 4) - - - | 0/ 5/ 5/ 5/( 5/) 5/ 5/( 4/)( | 4) - - - (break) | 0/ 5/ 5/ 5/( 5/) 5/ 5/( 4/)( | 4) - 4/ 5 5/( | 5) - - - (break) | 0 4/ 4/ 4 3/ 2/( | 2) 0 1/ 7_.. | 1( - - - | 1) - - - ||</melody>
+  <layout>
+    <singingstanza>Be -- lov -- ed we are chil -- dren of God, And through this life we on -- ward trod; When He is seen on earth a -- gain We will be seen as on -- ly Him, E -- ven as He is. E -- ven as He is, E -- ven as He is, E -- ven as He is we will be; E -- ven as He is we will be.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">1 John 2:6</link>
+    <link type="ref">1 John 3:2-3</link>
+    <link type="ref">1 John 3:7</link>
+    <link type="ref">1 John 4:17</link>
+  </links>
+  <music>
+    <midi location="ns" length="61">ns0452.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Beloved we are children of God,
+And through this life we onward trod;
+When He is seen on earth again
+We will be seen as only Him,
+Even as He is.</stanza>
+    <stanza type="chorus" number="">Even as He is,
+Even as He is,
+Even as He is we will be;
+Even as He is we will be.</stanza>
+    <stanza type="verse" number="2">He who has this hope in Him
+Is purified in how he lives;
+By living Christ as righteousness,
+He lives a life in blessedness,
+Even as He is pure.</stanza>
+    <stanza type="verse" number="3">Little children don't be led astray,
+We will see Him on judgment day;
+He who is righteous and lives in light,
+Will live Him out as He is right,
+Even as He is right.</stanza>
+    <stanza type="verse" number="4">In this we know that we are Him,
+And while in Him we cannot sin;
+We live in Him, live side by side,
+We walk in Him, with Him abide,
+Even as He walked.</stanza>
+  </lyrics>
+</hymn>

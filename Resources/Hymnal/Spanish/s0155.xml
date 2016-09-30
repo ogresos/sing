@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Una fuente vanamente yo busqué</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Satisfechos con Cristo</category>
+  <numbers><cebuano num="322"/><chinese num="254"/><english num="322"/><french num="62"/><german num="322"/><korean num="254"/><portuguese num="176"/><russian num="70"/><spanish num="155"/><tagalog num="322"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 5/ 5/ 5/ 5/ 5/ 4/ 3/ 4/ | 5 ._1 ._1 - | 7/ 7/ 7/ 7/ ._1 ._2 | ._1 - - 0 (break) | 6/ 6/ 6/ 6/ ._1/ ._1/ 7/ 6/ | 5 ._3 ._3 - | ._2/ ._2/ ._2/ ._1/ 7 6 | 5 - - 0 (break) | (Chorus) 5/ 5/ 5/ 5/ 5/ 4#/ 5 | 6/ 6/ 6 6 - | 5/ 5/ 5/ 5/ ._1/ 7/ ._1 | ._2 ._2 ._2 - (break) | ._3/ ._3/ ._3/ ._4/ ._3/ ._1. | ._1/ ._1/ ._1/ 7/ ._2/ ._1/ 7/ 6/ | 5/ 5/ ._1/ ._2/ ._3/ ._3/ ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="322"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Una fuente vanamente yo busqué,
+Que no se͜ agotara más;
+Lo que me͜ ofreció la tierra͜ inútil fue,
+Nada me pudo saciar.</stanza>
+	<stanza type="chorus" number="">Bebo de la fuente͜ inagotable͜ hoy,
+Bebo de la fuente de la vida yo.
+Hallo en gran medida
+Gozo y͜ alegría,
+De la fuente de la vida bebo yo.</stanza>
+	<stanza type="verse" number="2">Por desierto de pecado ya no voy,
+Manantial vivo͜ encontré;
+Y mi copa de͜ alegría llena͜ está,
+Cristo͜ es mi Señor y Rey.</stanza>
+	<stanza type="verse" number="3">Siempre͜ encuentro͜ aquí descanso y solaz,
+Con grande satisfacción;
+Al volar los días, hay consuelo͜ y paz,
+Bendito͜ es mi corazón.</stanza>
+	<stanza type="verse" number="4">Tengo͜ aquí seguro un suplir sin fin,
+Por toda la͜ eternidad;
+A͜ esta fuente sanadora͜ acudiré,
+Mi͜ alma cansada͜ a lavar.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>RL</firstname>
+    <lastname></lastname>
+    <email>rjl090212@gmail.com</email>
+    <password>gEFkomMnJ%2BlseFep2wyvUg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>50.158.192.181</ipaddress>
+    <createdate>2013-05-18 12:32:33</createdate>
+    <lastupdateddate>2013-05-19 15:25:12</lastupdateddate>
+    <lastlogindate>2013-05-18 12:32:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="135">Thank You, Lord Jesus, for dying for me</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>無論罪惡如何深劇</title>
+  <index>true</index>
+  <category>經歷基督－作一切</category>
+  <numbers><chinese num="387"/><english num="533"/><korean num="387"/><tagalog num="533"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 5_. 1 2 | 3 - 3 | 5 - 5 | 4# - - | 4 4 4 | 3 - 3 | 2 - 6_. | 2 - - (break) | 5_. 1 2 | 3 - 3 | 6 - 5 | 4 - - | 3 4 3 | 2( 6_.) 7_. | 1( - - | 1) - - |</melody>
+  <layout>
+	<singingstanza>無 論 罪 惡 如 何 深 劇， 無 論 道 路 如 何 崎 嶇， 無 論 境 遇 如 何 可 慮， 主， 你 總 是 彀 用！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="533"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">無論罪惡如何深劇，
+無論道路如何崎嶇，
+無論境遇如何可慮，
+主，你總是彀用！</stanza>
+	<stanza type="verse" number="2">遇到試煉，無論大小，
+有了罣慮，無論多少，
+即使腳步盡都跌倒，
+主，你總是彀用！</stanza>
+	<stanza type="verse" number="3">屬地事物悅意稱心，
+光天化日路途平順，
+安逸竟成遮光之雲，
+主，你當然彀用！</stanza>
+	<stanza type="verse" number="4">即使憂苦終日為患，
+失望、灰心、前途黑暗，
+心麻、靈木、欲禱無言，
+主，你仍是彀用！</stanza>
+	<stanza type="verse" number="5">不論我的環境如何，
+你手都在將我托著，
+使我經歷你之於我，
+乃是全足之主！</stanza>
+  </lyrics>
+</hymn>

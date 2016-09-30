@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Luwalhati sa Diyos, gawang dakila</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTUBOS</category>
+  <numbers><cebuano num="39"/><chinese num="34"/><english num="39"/><german num="39"/><korean num="34"/><portuguese num="28"/><russian num="15"/><spanish num="25"/><tagalog num="39"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 4 6_. 4 | 3 1 3 | 3 2 6_. (break) | 2 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 (break) | 1 - (Chorus) 3/ 4/ | 5 - 3/ 4/ | 5 - 5/ 3/ | 1 2 3 (break) | 2 - 2/ 3/ | 4 - 2/ 3/ | 4 - 4/ 2/ | 5 5 4 (break) | 3 - 5_. | 5_. - 6_./ 7_./ | 1 5_. 1 | 2 5_. 2 (break) | 3 - 3 | 5 4 2 | 1 7_. 1 | 3 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="39"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Luwalhati sa Diyos, gawang dakila,
+Inibig tayo, Anak 'binigay Niya;
+Buhay nasawi, nang tayo'y tubusin
+Pinto ng buhay binuksan sa atin.</stanza>
+	<stanza type="chorus" number="">Purihin ang Di-yos, pakinggan ng lahat,
+Purihin ang Di-yos, matuwa ang lahat,
+Halina tayo sa mahal na Ama,
+Purihin ang Kanyang dakilang gawa.</stanza>
+	<stanza type="verse" number="2">Katubusang ganap, itong pangako,
+Para sa bawa't binili ng dugo,
+Sa maysalang maniwala nang ganap
+Patawad ni Hesus kanyang matanggap.</stanza>
+	<stanza type="chorus" number="">Purihin ang Di-yos, pakinggan ng lahat,
+Purihin ang Di-yos, matuwa ang lahat,
+Halina tayo sa mahal na Ama,
+Purihin ang Kanyang dakilang gawa.</stanza>
+	<stanza type="verse" number="3">Dakilang bagay ako'y tinuruan
+Dahil sa Anak lubhang kagalakan;
+Nguni't higit na dalisay, dakila
+Ang pagmangha nang si Hesus makita.</stanza>
+	<stanza type="chorus" number="">Purihin ang Di-yos, pakinggan ng lahat,
+Purihin ang Di-yos, matuwa ang lahat,
+Halina tayo sa mahal na Ama,
+Purihin ang Kanyang dakilang gawa.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.hymnal.net/user" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="user" type="user:userType" xmlns:user="http://www.hymnal.net/user"/>
+  <xs:complexType name="favType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="category" use="optional"/>
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+        <xs:attribute type="xs:string" name="num" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="userType">
+    <xs:sequence>
+      <xs:element minOccurs="0" type="xs:string" name="roles"/>
+      <xs:element type="xs:string" name="firstname"/>
+      <xs:element type="xs:string" name="lastname"/>
+      <xs:element type="xs:string" name="email"/>
+      <xs:element type="xs:string" name="password"/>
+      <xs:element type="xs:string" name="gender"/>
+      <xs:element type="xs:string" name="country"/>
+      <xs:element type="xs:string" name="ipaddress"/>
+      <xs:element type="xs:string" name="createdate"/>
+      <xs:element type="xs:string" name="lastupdateddate"/>
+      <xs:element type="xs:string" name="lastlogindate"/>
+      <xs:element type="xs:string" name="failedlogincount"/>
+      <xs:element type="user:favouritesType" name="favourites" xmlns:user="http://www.hymnal.net/user"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="version"/>
+  </xs:complexType>
+  <xs:complexType name="favouritesType">
+    <xs:sequence>
+      <xs:element type="user:favType" name="fav" maxOccurs="unbounded" minOccurs="0" xmlns:user="http://www.hymnal.net/user"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

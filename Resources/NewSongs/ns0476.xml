@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God's Dream</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As God's Dream</category>
+  <numbers><chinese num="ns:476c"/><english num="ns:476"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Andrew Yu">Translated from A. Y.</author>
+    <author biodate="" biolink="" fullname="Chao-Chun Liu">Translated by C. C. L.</author>
+    <author biodate="" biolink="" fullname="Maryanna Cashmore">Translated by M. C.</author>
+    <composer biodate="" biolink="" fullname="Andrew Yu">A. Y.</composer>
+  </creators>
+  <hymncode>532123444452</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | F - - - | C/E - - - | Dm - - - | G - - - | F - - - | C/E - - - | Dm - - - | G - - - | C - - - | Em - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - - 5_. | 3 - - 2 | 1 - - 2/ 3/ | 4 4/ 4/( 4/) 4/ 5 (break) | 2 - - 5_. | 3 - - 2 | 1 - - 2/ 3/ | 4 4/ 4/( 4) 5 (break) | 5( - 5/) 1/ 1/ 6/ | 6( - 6/) 6/ 7/ ._1/ | ._1 - - 4/( 3/) | 4 - - 6 (break) | 5( - 5/) 1/ 1/ 6/ | 6( - 6/) 6/ 7/ ._1/ | ._1 - - 4/ 3/ | 4 - - 3 (break) | 2 - - 5_. | 3 - - 4 | 5 - - - | 1. 4/ 4 3 | 2 - 1 7_. | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>There's al -- ways been some -- thing hid -- den deep in Your heart, Yet I had not giv -- en it one sin -- gle thought, I on -- ly knew that I was wan -- d'ring, feel -- ing lost, Dream -- ing were You, and I was too, in the wil -- der -- ness, Un -- til one day You re -- vealed Your dream in my heart.</singingstanza>
+  </layout>
+  <music>
+	<midi location="ns" length="48">ns0476.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's always been something hidden deep in Your heart,
+Yet I had not given it one single thought,
+I only knew that I was wand'ring, feeling lost,
+Dreaming were You, and I was too, in the wilderness,
+Until one day You revealed Your dream in my heart.</stanza>
+    <stanza type="verse" number="2">Your heart's desire is with man to mingle as one,
+To dwell with man, an eternal bond to form,
+'Twas for this dream You became man, uplifting man,
+That God and man, heaven and earth, be joined for aye,
+God's house, heav'n's gate, now descends, Your dream to attain.</stanza>
+    <stanza type="verse" number="3">From heav'n You came as my bread of eternal life,
+By eating You, I can now enjoy Your life,
+Brought to His house, the Father's love for You is mine,
+I'm joined, a branch, to You, the vine&amp;mdash;union divine,
+By bearing fruit, this relationship multiplies.</stanza>
+    <stanza type="verse" number="4">Abide in love, so His life in us may flow free,
+By mutual love, His disciples we will be;
+The more we're joined, the more we're built organically,
+And by His word we're sanctified, not of the world,
+As one new man, corporate God-man living we'll see.</stanza>
+    <stanza type="verse" number="5">O Lord, I place myself on the altar for You,
+For Your desire, that Your dream may become true.
+As for my life, I'd gladly dwell in a lowly tent,
+To be a drink off'ring outpoured for man
+God's pillar, stand to fulfill God's eternal plan.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ est ressuscité</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa résurrection</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Christ est ressuscité,
+Qu'en des joyeux chants,
+Soit toujours exalté
+Son nom puissant !</stanza>
+    <stanza type="chorus" number="">À Toi la gloire et l'honneur,
+Ô Sauveur, ô Rédempteur puissant !
+Du sépulcre Tu sortis vainqueur,
+Tu vis, régnant avec Tes saints maintenant !
+Gloire à Toi ! Gloire à Toi !
+À jamais, oh ! gloire à Toi !</stanza>
+    <stanza type="verse" number="2">Christ est ressuscité !
+Cherche en Lui toujours,
+Ô peuple racheté,
+Force et secours !</stanza>
+    <stanza type="verse" number="3">Christ est ressuscité,
+Par Lui nous vivons,
+Et dans l'éternité,
+Nous régnerons !</stanza>
+  </lyrics>
+</hymn>

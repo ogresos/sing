@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Manny</firstname>
+  <lastname>Mendez</lastname>
+  <email>manny5717@yahoo.com</email>
+  <password>$2y$10$blz1U7aUyhvqA0bWUqDsqucXX9Lb72P/W3eU1Zfi9NJONrR41OuM2</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>65.32.111.22</ipaddress>
+  <createdate>2008-07-26 01:43:12</createdate>
+  <lastupdateddate>2015-05-05 18:34:46</lastupdateddate>
+  <lastlogindate>2015-05-05 18:34:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+    <fav category="default" type="h" num="325">All my life long I had panted</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="529">How tedious and tasteless the hours</fav>
+    <fav category="default" type="h" num="586">I can hear my Savior calling</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="619">In the cross of Christ I glory</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="358">Love Divine, all love excelling</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="383">My stubborn will at last hath yielded</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="h" num="905">O Master, let me walk with Thee</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="565">Under His wings I am safely abiding</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+  </favourites>
+</user>

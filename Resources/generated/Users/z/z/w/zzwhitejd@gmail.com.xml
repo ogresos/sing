@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jenny</firstname>
+  <lastname>Raymond</lastname>
+  <email>zzwhitejd@gmail.com</email>
+  <password>$2y$10$99FtNharSFCL3Nir.MC3l.RMXw78SEqPUsZIcT7H1v1V.eoaMsHnC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.214.66.217</ipaddress>
+  <createdate>2015-03-04 05:48:25</createdate>
+  <lastupdateddate>2015-03-04 05:51:12</lastupdateddate>
+  <lastlogindate>2015-03-04 05:49:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Já encontramos Cristo que tudo é</title>
+  <index>true</index>
+  <category>Desfrutá-lo</category>
+  <numbers><cebuano num="1153"/><chinese num="ts:202"/><dutch num="44"/><english num="1153"/><french num="113"/><german num="1153"/><korean num="966"/><portuguese num="302"/><russian num="114"/><spanish num="276"/><tagalog num="1153"/></numbers>
+  <melody>| 0 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 5/ 5/ | 5 6 7 ._1 (break) | ._2 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 ._3/ ._3/ | ._2 ._1 7 6 (break) | 5 - - (Chorus) 5/ 5/ | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5 ._1 | 7 5 7 ._2 | ._1 5 ._1/ ._3/ ._3/ ._2/ (break) | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5/ ._1/ ._1/ 7/ | 6 ._2 ._1/ 7/ 6/ 7/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1153"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Já encontramos Cristo que tudo é,
+Nossa provisão total;
+Como é bom Seu nome invocar,
+Quão glorioso e divinal!</stanza>
+	<stanza type="chorus" number="">Alegria inefável, cheia de glória,
+Cheia de glória, cheia de glória!
+Oh! alegria inefável!
+Dela nem metade pode-se falar!</stanza>
+	<stanza type="verse" number="2">Cristo agora é o Espírito,
+Que em nosso espír'to está;
+Oh! quão disponível Ele é,
+Seu dulçor é singular!</stanza>
+	<stanza type="verse" number="3">Pra vivê-Lo, vamos ler-orar
+E Seu nome invocar;
+Desfrutando o Senhor assim,
+Nada nos irá faltar.</stanza>
+	<stanza type="verse" number="4">A igreja achamos: nosso lar,
+Temos tudo nesse lar;
+Nunca mais em Babilônia estar,
+Aqui vamos habitar.</stanza>
+	<stanza type="verse" number="5">Com os santos reunir é bom,
+Que alegria! Que sabor!
+Ansiedades não teremos, pois
+Nossa vida tem valor.</stanza>
+  </lyrics>
+</hymn>

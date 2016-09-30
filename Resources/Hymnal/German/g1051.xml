@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sanft Deine Stimme tönt</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Zum Herrn kommen</category>
+  <numbers><cebuano num="1051"/><chinese num="726"/><english num="1051"/><french num="202"/><german num="1051"/><korean num="726"/><portuguese num="460"/><russian num="175"/><spanish num="483"/><tagalog num="1051"/></numbers>
+  <creators>
+	<author biodate="1828-1919" biolink="">Translated from Lewis Hartsough</author>
+  </creators>
+  <melody>| 0 - 1/( 3/) | 5. 3/ 2/ 1/ | 1 - 1 | 2. 4/ 6/ 5/ (break) | 3 - 5 | ._1. 7/ 6/ 5/ | 6/ 5/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 (break) | (Chorus) ._1. 7/ 6/ 5/ | 6 - - | 5. 3/ 2/ 1/ | 2 - - (break) | 5. 6/ 3/ 2/ | 1/ 2/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Sanft Dei -- ne Stim -- me tönt, Rufst mich zu Dir ganz nah, Mich wa -- schen willst in Dei -- nem Blut, Das floss auf Gol -- ga -- tha. Herr, ich kom -- me nun, Komm zu Dir ganz nah; Wasch mich rein in Dei -- nem Blut, Das floss auf Gol -- ga -- tha.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1051"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sanft Deine Stimme tönt,
+Rufst mich zu Dir ganz nah,
+Mich waschen willst in Deinem Blut,
+Das floss auf Golgatha.</stanza>
+	<stanza type="chorus" number="">Herr, ich komme nun,
+Komm zu Dir ganz nah;
+Wasch mich rein in Deinem Blut,
+Das floss auf Golgatha.</stanza>
+	<stanza type="verse" number="2">Ich komm geschwächt mit Schuld,
+Legst Kraft in mich hinein,
+Du löschst all meine Schulden aus,
+Von Flecken machst mich rein.</stanza>
+	<stanza type="verse" number="3">Du, Jesus, segnest mich,
+Vertreibst in mir die Nacht,
+Fügst Gnade überreich hinzu, 
+Wo herrschte Sündenmacht.</stanza>
+	<stanza type="verse" number="4">Wer Ihm aufrichtig naht,
+Dem sagt Er zu Gewinn,
+Verheißungen erfüllt Er stets,
+Wenn Glaube bittet Ihn.</stanza>
+	<stanza type="verse" number="5">Lobt Ihn, Sein Blut erlöst!
+Die Gnade stärkt allzeit!
+Die Gabe Christi, unsres Herrn,
+Ist Kraft, Gerechtigkeit.</stanza>
+  </lyrics>
+</hymn>

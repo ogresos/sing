@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Sue</firstname>
+    <lastname>Harman</lastname>
+    <email>suharrman@yahoo.com</email>
+    <password>2KO87rYNV92%2BNoH4Yot5n0SIS%2Bt5BZkO9o3bB3Rw7pY%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>71.227.133.139</ipaddress>
+    <createdate>2013-03-19 18:44:33</createdate>
+    <lastupdateddate>2013-03-19 18:56:54</lastupdateddate>
+    <lastlogindate>2013-03-19 18:44:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="388">Hold Thou my hand: so weak I am, and helpless</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+    </favourites>
+</user>

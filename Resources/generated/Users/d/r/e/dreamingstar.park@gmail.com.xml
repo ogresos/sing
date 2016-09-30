@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Boaz</firstname>
+  <lastname>Park</lastname>
+  <email>dreamingstar.park@gmail.com</email>
+  <password>$2y$10$Cv1snS6Atx3tz9FkAPqaZOWbXVSv9PWDdNtYmctp1rPynJ77kDyD2</password>
+  <gender/>
+  <country>South Korea</country>
+  <ipaddress>121.140.198.65</ipaddress>
+  <createdate>2013-07-12 13:00:12</createdate>
+  <lastupdateddate>2015-04-09 07:51:01</lastupdateddate>
+  <lastlogindate>2015-04-08 08:12:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="639">Death cannot hold the resurrection life</fav>
+    <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="nt" num="154">It passeth telling, that dear love of Thine</fav>
+    <fav category="default" type="ch" num="472">死亡不能拘禁復活</fav>
+    <fav category="default" type="ch" num="557">進入至聖所</fav>
+  </favourites>
+</user>

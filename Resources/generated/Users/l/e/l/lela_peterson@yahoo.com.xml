@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lela</firstname>
+    <lastname>Peterson</lastname>
+    <email>lela_peterson@yahoo.com</email>
+    <password>$1$G39aUJrv$Ola5DaBhGZ.rGHPP4MZHo0</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>99.161.120.98</ipaddress>
+    <createdate>2009-03-12 10:42:11</createdate>
+    <lastupdateddate>2009-11-29 17:40:45</lastupdateddate>
+    <lastlogindate>2009-11-29 17:39:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    </favourites>
+</user>

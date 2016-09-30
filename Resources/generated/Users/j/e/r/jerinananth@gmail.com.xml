@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jerin</firstname>
+  <lastname>Anand</lastname>
+  <email>jerinananth@gmail.com</email>
+  <password>$2y$10$csiFOaOGmRZCmpsvxzTfxeKjfnFqdeM8TF1SXEH6IZZEtGHkwtXlK</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>123.136.216.65</ipaddress>
+  <createdate>2015-08-18 02:42:35</createdate>
+  <lastupdateddate>2015-10-01 03:25:42</lastupdateddate>
+  <lastlogindate>2015-10-01 03:25:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

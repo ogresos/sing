@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Gott, Preis sei Dir</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Erlösung</category>
+  <numbers><cebuano num="40"/><chinese num="35"/><english num="40"/><french num="7"/><german num="40"/><korean num="35"/><portuguese num="32"/><russian num="16"/><spanish num="26"/><tagalog num="40"/></numbers>
+  <creators>
+	<author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 | 6 5 3 | 3 2 2 (break) | 2 - (Chorus) 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// | 6 5 3 (break) | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Oh Gott, Preis sei Dir, Für den Sohn, so ge -- liebt, Für den Ret -- ter, der starb, Auf -- er -- stand, Le -- ben gibt. Hal -- le -- lu -- ja, Dir sei Eh -- re, Hal -- le -- lu -- ja, A -- men. Hal -- le -- lu -- ja, Dir sei Eh -- re, Gott Va -- ter, A -- men.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="40"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh Gott, Preis sei Dir
+    Für den Sohn, so geliebt,
+Für den Retter, der starb,
+    Auferstand, Leben gibt.</stanza>
+	<stanza type="chorus" number="">Halleluja, Dir sei Ehre,
+    Halleluja, Amen.
+Halleluja, Dir sei Ehre,
+    Gott Vater, Amen.</stanza>
+	<stanza type="verse" number="2">Oh Gott, Preis sei Dir,
+    Für den Geist voller Licht,
+Der uns zeigte den Retter,
+    Die Nacht macht zunicht.</stanza>
+	<stanza type="verse" number="3">Die Ehre sei Dir,
+    Dass Du, Vater, uns liebst,
+Denn durch Jesu Erlösung
+    Dein Leben uns gibst.</stanza>
+	<stanza type="verse" number="4">Wir preisen Dich neu:
+    Voller Liebe sind wir,
+Jedes Herz ist entzündet
+    Mit Feuer von Dir.</stanza>
+  </lyrics>
+</hymn>

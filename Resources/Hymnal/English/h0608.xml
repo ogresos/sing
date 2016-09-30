@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What mystery, the Father, Son, and Spirit</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;By the Trinity</category>
+  <numbers><cebuano num="608"/><chinese num="447"/><dutch num="76"/><english num="608"/><french num="124"/><german num="608"/><korean num="447"/><portuguese num="314"/><russian num="119"/><spanish num="287"/><tagalog num="608"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <layout>
+	<singingstanza>What mys -- te -- ry, the Fath -- er, Son, and Spir -- it, In per -- son three, in sub -- stance all are one. How glo -- ri -- ous, this God our be -- ing en -- ters To be our all, thru Spir -- it in the Son! The Tri -- une God has now be -- come our all! How won -- der -- ful! How glo -- ri -- ous! This Gift di -- vine we nev -- er can ex -- haust! How ex -- cel -- lent! How mar -- vel -- ous!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj081.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0608.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">What mystery, the Father, Son, and Spirit,
+  In person three, in substance all are one.
+How glorious, this God our being enters
+  To be our all, thru Spirit in the Son!</stanza>
+	<stanza type="chorus" number="">The Triune God has now become our all!
+  How wonderful! How glorious!
+This Gift divine we never can exhaust!
+    How excellent! How marvelous!</stanza>
+	<stanza type="verse" number="2">How rich the source, the Father as the fountain,
+  And all this wealth He wants man to enjoy!
+O blessed fact, this vast exhaustless portion
+  Is now for us forever to employ!</stanza>
+	<stanza type="verse" number="3">How wonderful, the Son is God's expression
+  Come in the flesh to dwell with all mankind!
+Redemption's work, how perfectly effective,
+  That sinners we with God might oneness find.</stanza>
+	<stanza type="verse" number="4">The Spirit is the Son's transfiguration
+  Come into us as life the full supply.
+Amazing fact, our spirit with the Spirit
+  Now mingles and in oneness joins thereby!</stanza>
+	<stanza type="verse" number="5">How real it is that God is now the Spirit
+  For us to touch, experience day by day!
+Astounding fact, with God we are one spirit,
+  And differ not in life in any way!</stanza>
+  </lyrics>
+</hymn>

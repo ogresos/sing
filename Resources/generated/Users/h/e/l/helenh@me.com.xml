@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Helen</firstname>
+  <lastname>hung</lastname>
+  <email>helenh@me.com</email>
+  <password>$2y$10$6LR5NBh36Heh8lfc7v8VluKWfPgZKg1mC.ekWFmEt.HSQuKyhhEFu</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>68.110.72.204</ipaddress>
+  <createdate>2012-07-20 18:49:10</createdate>
+  <lastupdateddate>2015-03-02 16:01:38</lastupdateddate>
+  <lastlogindate>2015-03-02 16:01:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="141c">我是小花一朵</fav>
+  </favourites>
+</user>

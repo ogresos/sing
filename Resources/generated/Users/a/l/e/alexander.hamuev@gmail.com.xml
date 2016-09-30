@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alexander</firstname>
+  <lastname/>
+  <email>alexander.hamuev@gmail.com</email>
+  <password>$2y$10$YL3PygRtDcGE20DdAMJmKuGP8hzQCkOVfh8VpjQMrq1XOy0.DJZda</password>
+  <gender/>
+  <country>ru</country>
+  <ipaddress>91.79.31.2</ipaddress>
+  <createdate>2015-11-01 19:02:52</createdate>
+  <lastupdateddate>2015-12-31 03:51:32</lastupdateddate>
+  <lastlogindate>2015-12-31 03:51:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="h" num="295">God's Christ, who is my righteousness</fav>
+    <fav category="default" type="h" num="1271">We're the river-crossers, Hebrews is our name</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+  </favourites>
+</user>

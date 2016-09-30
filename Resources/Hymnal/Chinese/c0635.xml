@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>戰士哪你就當站住</title>
+  <index>true</index>
+  <category>屬靈的爭戰－站穩</category>
+  <numbers><chinese num="635"/><english num="8635"/><tagalog num="c635"/></numbers>
+  <melody>| 0 - 5_../ 5_.// | 1. 5_./ 1/ 3/ | 2 2 5./ 5// | 5. 1/ 3/ 2/ (break) | 1 - 5_../ 5_.// | 1. 5_./ 1/ 3/ | 2 2 5./ 5// | 5. 1/ 3/ 2/ | 1 - - (break) | (Chorus) 4./ 3// 2/ 3/ 4/ 5/ | 4 2 - | 5./ 4// 3/ 4/ 5/ 6/ (break) | 5( 3) 5_../ 5_.// | 1. 5_./ 1/ 3/ | 2 2 5./ 5// | 5. 1/ 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>當 你 苦 受 撒 但 試 探， 四 圍 無 處 不 黑 暗， 邪 靈 勸 你 稍 為 自 循， 將 來 冠 冕 聽 命 運； 戰 士 哪， 你 就 當 站 住！ 思 念 你 的 得 勝 主！ 耶 穌 已 經 勝 過 撒 但， 故 當 奮 勇 去 爭 戰。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="889"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當你苦受撒但試探，
+四圍無處不黑暗，
+邪靈勸你稍為自循，
+將來冠冕聽命運；</stanza>
+	<stanza type="chorus" number="">戰士哪，你就當站住！
+思念你的得勝主！
+耶穌已經勝過撒但，
+故當奮勇去爭戰。</stanza>
+	<stanza type="verse" number="2">當你同伴逡巡、搖動，
+向你懷貳和敵通；
+你的鄉鄰譏你、欺你，
+竟然同敵聯一氣；</stanza>
+	<stanza type="verse" number="3">當這世界用牠福樂，
+暗中為你張網羅，
+要藉虛榮、世俗、人情，
+使你狂放失信心；</stanza>
+	<stanza type="verse" number="4">當你困於煩瑣事務，
+雖然勞碌無所補，
+損失、病痛，使你艱苦，
+身靈疲憊難擔負；</stanza>
+	<stanza type="verse" number="5">不久，爭戰就要過去，
+撒但、邪靈要受拘；
+不久，召會要聽號聲，
+要得榮耀，要得勝。</stanza>
+	<stanza type="chorus" number="">戰士哪，故你當站住！
+思念你的得勝主！
+耶穌已經勝過撒但，
+故當奮勇去爭戰。</stanza>
+	<stanza type="verse" number="6">此後，我王就要凱旋，
+在這世界掌王權；
+此後，萬國都要歸順，
+頌揚耶穌並敬尊。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sabay-sabay na awitan</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKARAPAT-DAPAT</category>
+  <numbers><cebuano num="183"/><chinese num="146"/><english num="183"/><korean num="146"/><portuguese num="89"/><russian num="507"/><tagalog num="183"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sabay-sabay na awitan,
+Kordero'y purihin;
+Kung may isang libong dila,
+Awit isa rin nga.</stanza>
+    <stanza type="verse" number="2">O umakyat na Kordero,
+Dapat purihin ko;
+Aming ipagsigawan na,
+Karapat-dapat Ka!</stanza>
+    <stanza type="verse" number="3">Hesus, karapat-dapat Ka,
+Tumanggap ng glorya;
+Pagpalang higit ma'bigay,
+Kailanma'y Iyong taglay.</stanza>
+    <stanza type="verse" number="4">Aakyat din mga banal,
+Papuri'y itanghal;
+Tanan sa silong ng langit,
+Patuloy aawit.</stanza>
+    <stanza type="verse" number="5">Mga tinubos nagkai-sa,
+Pumuri sa Kanya;
+Siyang nakaluklok sa trono,
+Ibunyi Kordero.</stanza>
+  </lyrics>
+</hymn>

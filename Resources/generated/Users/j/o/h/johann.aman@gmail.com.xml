@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Johann</firstname>
+    <lastname></lastname>
+    <email>johann.aman@gmail.com</email>
+    <password>cBFFeWJHSYgmY6Qf57zkMQ%3D%3D</password>
+    <gender></gender>
+    <country>Russia</country>
+    <ipaddress>92.61.65.179</ipaddress>
+    <createdate>2013-12-23 02:48:23</createdate>
+    <lastupdateddate>2013-12-23 02:49:06</lastupdateddate>
+    <lastlogindate>2013-12-23 02:48:23</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="hr" num="74">Пребудь со мной! Уж свет сменился мглой</fav>
+    </favourites>
+</user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Diana</firstname>
+    <lastname>Pimentel</lastname>
+    <email>dmpimentel@msn.com</email>
+    <password>GWLnqmBZvgJ8atH4r4lnGQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>69.108.87.2</ipaddress>
+    <createdate>2011-04-11 02:38:17</createdate>
+    <lastupdateddate>2011-05-22 22:49:03</lastupdateddate>
+    <lastlogindate>2011-05-10 01:13:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="134">A higher view</fav>
+        <fav category="default" type="h" num="325">All my life long I had panted</fav>
+        <fav category="default" type="h" num="812">I come to Thee, dear Lord</fav>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+        <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+        <fav category="default" type="ns" num="119">There is a song within me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>焚燒，焚燒</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <numbers><cebuano num="1266"/><chinese num="ts:530"/><english num="1266"/><german num="1266"/><korean num="993"/><russian num="490"/><tagalog num="1266"/></numbers>
+  <melody>| 1/ 1/ 1/ 1/ 1/ 1/ 3/ 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 3/ 1/ (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2 5./ 5// 5 5/ 5/ (break) | 1/ 1/ 1/ 1/ 3 5 | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 3/ 1/ (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2 1/ 7_./ 1 - (break) | ._2 ._2./ ._2// ._2/ 7/ 5 | ._1 ._3./ ._2// ._1/ 6/ 5 (break) | ._1 ._1/ ._1/ 7 7/ 7/ | 6/ ._1/ 7/ 6/ 5 - (break) | 1/ 1/ 1/ 1/ 1/ 1/ 3/ 5/ | ._1/ ._1/ ._1/ ._1/ ._1/ 5/ 3/ 1/ (break) | 4/ 4/ 6/ 4/ 3/ 5/ 3/ 1/ | 2/ 2/ 1/ 7_./ 1 - |</melody>
+  <layout>
+	<singingstanza>焚 燒， 焚 燒， 日 夜 焚 燒， 不 斷 回 到 我 們 靈 裡； 為 著 你 永 遠 的 旨 意， 靈 裡 合 一。 我 們 站 住 地 方 立 場， 召 會 合 一 在 此 顯 彰； 肢 體 雖 多， 仍 是 一 身， 基 督 為 首。 基 督 與 祂 召 會， 基 督 與 祂 召 會， 乃 是 我 們 一 切 實 際 和 生 活。 阿 利 路 亞， 阿 利 路 亞， 主， 我 們 將 命 獻 給 你， 為 建 造 你 的 身 體， 並 愛 中 被 建 立。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1264"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">焚燒，焚燒，日夜焚燒，
+不斷回到我們靈裡；
+為著你永遠的旨意，
+靈裡合一。
+我們站住地方立場，
+召會合一在此顯彰；
+肢體雖多，仍是一身，
+基督為首。</stanza>
+	<stanza type="chorus" number="">基督與祂召會，
+基督與祂召會，
+乃是我們
+一切實際和生活。
+阿利路亞，阿利路亞，
+主，我們將命獻給你，
+為建造你的身體，
+並愛中被建立。</stanza>
+	<stanza type="verse" number="2">呼吸，呼吸，我們呼吸，
+每一呼吸得新氣息，
+何等的變化，
+一切陳舊全更新。
+呼出我們老舊自己，
+吸入新生命與合一，
+我們今吸入主耶穌，
+吸入生命。</stanza>
+  </lyrics>
+</hymn>

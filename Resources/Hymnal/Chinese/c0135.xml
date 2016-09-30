@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦願我有千萬舌頭</title>
+  <index>true</index>
+  <category>讚美主－祂的恩典</category>
+  <numbers><cebuano num="163"/><chinese num="135"/><english num="163"/><korean num="135"/><portuguese num="82"/><russian num="33"/><spanish num="79"/><tagalog num="163"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 0 - - - 5_. - | 1 1 2 - 2 - | 3 2 1 - 2 - | 3 3 4 - 3 - | 2 - - - 5 - (break) | 5 3 3 - 1 - | 1 6_. 6_. - 1( 6_.) | 5_. 1 1 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>哦， 願 我 有 千 萬 舌 頭， 前 來 讚 美 救 主， 說 祂 恩 典 何 等 深 厚， 榮 耀 何 等 豐 富。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="72"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦，願我有千萬舌頭，
+前來讚美救主，
+說祂恩典何等深厚，
+榮耀何等豐富。</stanza>
+	<stanza type="verse" number="2">耶穌這名，慰我苦情，
+驅盡我的驚怯，
+是我安息、是我生命，
+成為我的音樂。</stanza>
+	<stanza type="verse" number="3">祂因愛我，竟願經歷
+人世所有苦楚；
+祂已消滅罪的能力，
+釋放罪的囚徒。</stanza>
+	<stanza type="verse" number="4">我每靜念救我的愛，
+立即感覺不配；
+不知祂為甚麼恩待
+我這人中罪魁。</stanza>
+	<stanza type="verse" number="5">我今作祂愛的俘虜，
+甘心作到永久；
+因祂為我受死、忍辱，
+使我得以自由。</stanza>
+	<stanza type="verse" number="6">我既從你可愛的名，
+知你待我美意；
+假若我有千萬的心，
+也當一一歸你。</stanza>
+  </lyrics>
+</hymn>

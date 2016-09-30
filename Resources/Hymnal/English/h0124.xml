@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Praise Him! praise Him! Christ is Victor</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Victory</category>
+  <numbers><cebuano num="124"/><chinese num="109"/><english num="124"/><french num="22"/><german num="124"/><korean num="109"/><lsmyp num="26"/><portuguese num="60"/><russian num="26"/><spanish num="59"/><tagalog num="124"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <layout>
+	<singingstanza>Praise Him! praise Him! Christ is Vic -- tor! He has won the vic -- to -- ry! Sin is judged, old A -- dam fi -- nished, Full re -- demp -- tion now we see! Van -- quished all the e -- vil pow -- ers Thru the Cross tri -- um -- phant -- ly!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">thenameofjesusisourstand.xml</link>
+	<link type="group">hymnal-subj160.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0124.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736311602.html"></link>
+  </links>
+  <music>
+	<midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Praise Him! praise Him! Christ is Victor!
+  He has won the victory!
+Sin is judged, old Adam finished,
+  Full redemption now we see!
+Vanquished all the evil powers
+  Thru the Cross triumphantly!</stanza>
+	<stanza type="verse" number="2">Praise Him! Christ is resurrected!
+  God hath raised Him from the dead!
+All the pow'r of death is swallowed,
+  Man from death to life is led!
+Broken through are hell and darkness
+  And His pow'r exhibited!</stanza>
+	<stanza type="verse" number="3">Praise Him! Christ hath now ascended!
+  God hath raised Him to the throne!
+Far above all rule and power,
+  He the highest Name doth own!
+All authority receiving
+  Till His foe is overthrown!</stanza>
+	<stanza type="verse" number="4">Hallelujah, Christ the Victor
+  Triumphed on Mt. Calvary!
+Hallelujah, resurrected,
+  He displays His victory!
+Hallelujah, now ascended,
+  He shall reign eternally!</stanza>
+  </lyrics>
+</hymn>

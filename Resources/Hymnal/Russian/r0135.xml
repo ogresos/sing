@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Твою обитель я люблю</title>
+  <index>true</index>
+  <category>ЦЕРКОВЬ&amp;mdash;ЕЁ ПРИВЛЕКАТЕЛЬНОСТЬ</category>
+  <numbers><cebuano num="852"/><chinese num="616*"/><dutch num="34"/><english num="852"/><french num="151"/><german num="852"/><korean num="616"/><portuguese num="389"/><russian num="135"/><spanish num="365"/><tagalog num="852"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - - 1 | 7_. - 2 - | 1 - - - | 3 - 4 5 | 6 - 2 - | 2 - - - (break) | 7 - 6 5 | ._1 - - 5 | 4 - 5 - | 3 - - - | 5 - 4 2 | 6_. - 7_. - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+	<singingstanza>Тво -- ю о -- би -- тель я лю -- блю, Цер -- ковь Тво -- ю, Гос -- подь; Серд -- це Тво -- ё на -- хо -- дит в_ней И ра -- дость, и по -- кой.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="745"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Твою обитель я люблю,
+Церковь Твою, Господь;
+Сердце Твоё находит в ней
+И радость, и покой.</stanza>
+	<stanza type="verse" number="2">Отдал Себя Ты за неё,
+Чтобы ей быть Твоей;
+Ради желанья Твоего
+Тело отдам я ей.</stanza>
+	<stanza type="verse" number="3">Ты для неё мне жизнью стал,
+Чтобы мне ею жить;
+Чтоб ей наполниться Тобой,
+Рад я себя забыть.</stanza>
+	<stanza type="verse" number="4">Церковь – невеста для Тебя,
+В Теле Ты явлен в ней;
+Церковь – стремление моё,
+Радость, опора мне.</stanza>
+	<stanza type="verse" number="5">В церкви Своё богатство всё
+Ты раздаёшь в меня;
+В ней я всецело Твой, Господь,
+К радости для Тебя.</stanza>
+	<stanza type="verse" number="6">Твою обитель я люблю,
+Церковь Твою, Твой дом;
+Больше не буду я блуждать –
+Жить буду вечно в нём.</stanza>
+  </lyrics>
+</hymn>

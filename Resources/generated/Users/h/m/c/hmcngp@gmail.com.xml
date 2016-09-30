@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Herbert</firstname>
+    <lastname>Wollman</lastname>
+    <email>hmcngp@gmail.com</email>
+    <password>5ysioFVlt2y8w5KoLtXBZATdodub9KBqHsKmxBhrMbs%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>70.199.132.241</ipaddress>
+    <createdate>2014-04-22 01:32:54</createdate>
+    <lastupdateddate>2014-04-22 01:32:54</lastupdateddate>
+    <lastlogindate>2014-04-22 01:30:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="690">Hark! a voice from heav'n proclaiming</fav>
+        <fav category="default" type="h" num="691">Hark! the voice of love and mercy</fav>
+        <fav category="default" type="h" num="476">Oh, sacred union with the Perfect Mind</fav>
+        <fav category="default" type="h" num="784">Pray to fellowship with Jesus</fav>
+        <fav category="default" type="h" num="692">There's a little word that the Lord has giv'n</fav>
+    </favourites>
+</user>

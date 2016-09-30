@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>復興你工作主</title>
+  <index>true</index>
+  <category>禱告－為復興</category>
+  <numbers><cebuano num="797"/><chinese num="576"/><english num="797"/><korean num="576"/><russian num="529"/><tagalog num="797"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+    <author biodate="1825-1909" biolink="">Adapted from Albert Midlane</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3 2/( 1/) 6_. 5_. | 1 - - 1 | 2 2 2 3 (break) | 2 - - 1/( 2/) | 3 2/( 1/) 6_. 6_./( 7_./) | 1 7_./( 6_./) 5_. 1 | 2. 1/ 3 2 (break) | 1 - - (Chorus) 3/( 4/) | 5. 6/ 5 3 | 1 - - 3/( 4/) | 5. 6/ 5 3 (break) | 2 - - 1/( 2/) | 3 2/( 1/) 6_. 6_./( 7_./) | 1 7_./( 6_./) 5_. 1 | 2. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>復 興 你 工 作， 主！ 向 你 聖 徒 顯 現； 求 你 用 權 發 命 監 督， 讓 你 兒 女 檢 點。 復 興 你 工 作， 主！ 我 們 現 今 等 候； 但 願 正 當 我 們 俯 伏， 你 就 顯 現 能 手。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="797"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">復興你工作，主！
+向你聖徒顯現；
+求你用權發命監督，
+讓你兒女檢點。</stanza>
+	<stanza type="chorus" number="">復興你工作，主！
+我們現今等候；
+但願正當我們俯伏，
+你就顯現能手。</stanza>
+	<stanza type="verse" number="2">復興你工作，主！
+求你感動召會，
+為著罪惡，憂傷痛悔，
+好讓你顯作為。</stanza>
+	<stanza type="verse" number="3">復興你工作，主！
+啟示你的寶貴；
+但願你愛在人心內，
+好像復燃死灰。</stanza>
+	<stanza type="verse" number="4">復興你工作，主！
+祝福你的話語；
+但願你道所有真理，
+到處被人高舉。</stanza>
+	<stanza type="verse" number="5">復興你工作，主！
+證明你的得勝；
+但願你民起來戰爭，
+使敵權勢潰崩。</stanza>
+	<stanza type="verse" number="6">復興你工作，主！
+賜下當初權能；
+願其榮耀全歸你名，
+祝福則歸我們。</stanza>
+  </lyrics>
+</hymn>

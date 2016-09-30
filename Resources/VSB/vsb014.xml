@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What made You die for me</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <numbers><chinese num="ts:877"/><english num="lb:66"/><vsb num="14"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>33336543</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | Am - - - | G7/B - - - | C - - - | C - | Am - - - | Em - - - | G - - - | C - | Am - - - | F - - - | Dm - G7 - | C - - - | Am - - - | F - G7 - | C - F/C - | C - - G/B | Am - - - | F - - - | C - - - | Am - - - | G - - - | C - F/C - | C - - G/B | Am - - - | F - - - | C - - - | Am - - - | G - G/B - | C - - - |</chords>
+  <melody>| [2/4] 0/ 3/ 3/ 3/ | [4/4] 3 - - 6 | 5 - - 4 | 3 - - - | [2/4] 0/ 3/ 3/ 3/ | [4/4] 3 - - 6 | 7 - 0/ 5/ 5/ 6/ | 5 - - - (break) | [2/4] 0/ ._1/ ._1/ ._1/ | [4/4] ._1 - - ._1 | ._2( - ._2/) ._1/ 6/( 4/) | 4 - - 2 | 3/( 5/)( 5) - 5 | 6/( ._1/)( ._1) - ._3 | ._2/( ._1/)( ._1) - ._2 | ._1 - - - (break) | (Chorus) 0 ._1 ._3 ._2 | ._1. 7/ 6 - | 0 6 4 6 | 5. 4/ 3 - | 0 3 6 ._1 | 7. 7/ ._1 ._2 | ._3 - - - (break) | 0 ._1 ._3 ._2 | ._1. 7/ 6 - | 0 6 4 6 | 5. 4/ 3 - | 0 3 6 ._1 | 7. 7/ ._1 ._2 | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>What made You, Lord, to die for me? Why would You die for me, Your en -- e -- my? You took my place to hang on a tree, To be a curse, a curse for me. What made You die for me? I was Your en -- e -- my. Lord, You be -- came a curse for me. Oh, what a mys -- te -- ry! My God, You died for me! You died for me, Your en -- e -- my.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="65">lb66.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What made You, Lord, to die for me?
+Why would You die for me, Your enemy?
+You took my place to hang on a tree,
+To be a curse, a curse for me.</stanza>
+    <stanza type="chorus" number="">What made You die for me?
+I was Your enemy.
+Lord, You became a curse for me.
+Oh, what a mystery!
+My God, You died for me!
+You died for me, Your enemy.</stanza>
+    <stanza type="verse" number="2">I never thought that You would be
+So full of love and tender mercy.
+How could You love a person like me?
+You loved me, dear Jesus, Your enemy.</stanza>
+    <stanza type="verse" number="3">You loved me, Lord, so very long;
+And with a love enduring and strong.
+Although I mocked and cursed You so long,
+You waited and prayed for me all along.</stanza>
+    <stanza type="verse" number="4">I was a man who was just sin,
+Which issued in a life full of sins.
+My heart toward You was in rebellion,
+But, Lord, You touched me with Your compassion.</stanza>
+    <stanza type="chorus" number="">Your love has conquered me,
+Even Your enemy.
+In love, dear Lord, You came to me.
+Nothing could change me
+But love and mercy.
+Your love, dear Lord, has conquered me.</stanza>
+    <stanza type="verse" number="5">One little turn and You were there,
+Waiting for me with Your loving care.
+How could I still remain Your enemy?
+Your love, dear Jesus, disarmed me.</stanza>
+  </lyrics>
+</hymn>

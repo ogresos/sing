@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa dili pa kami magkabulag</title>
+  <index>true</index>
+  <category>MGA PANAGKATIGUM&amp;mdash;PANAGBULAG</category>
+  <numbers><cebuano num="868"/><chinese num="631"/><english num="868"/><korean num="631"/><portuguese num="411"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa dili pa kami magkabulag,
+Magpasalamat kami pag-usab,
+Sa presensya Mo'g grasyang naglunhaw,
+Nga dato Mong gipaambit namo.</stanza>
+    <stanza type="verse" number="2">Bisan human nang tigum, sa grasya,
+Presensya Mo di gyud mob'ya namo;
+Kusog Mong nagsustener kanamo
+Sa gugma way hunong nga ihatag.</stanza>
+    <stanza type="verse" number="3">Presensya mag-uban unta namo,
+L'wan namo's kasingkasing pas-ana,
+Aron mapahimuslan Ka namo,
+Hangtud's sunod nga panagkatigum.</stanza>
+  </lyrics>
+</hymn>

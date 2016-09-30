@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kumain ng tinapay ng buhay</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PATOTOO</category>
+  <numbers><cebuano num="1069"/><chinese num="698"/><english num="1069"/><french num="207"/><korean num="698"/><spanish num="490"/><tagalog num="1069"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1069"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Kumain ng tinapay ng buhay,
+Uminom din sa bukal ng tubig;
+Ang sinumang umiinom,
+Hindi muling mauuhaw.</stanza>
+    <stanza type="verse" number="">Hindi ba mauuhaw?
+Hindi nga mauuhaw!
+Hindi ba mauuhaw?
+Iyan ang sabi ni Hesus,
+Ang sinumang umiinom
+Hindi muling mauuhaw.</stanza>
+  </lyrics>
+</hymn>

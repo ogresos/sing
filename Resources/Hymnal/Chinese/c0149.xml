@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我主耶穌惟你是配</title>
+  <index>true</index>
+  <category>讚美主－祂的配得</category>
+  <numbers><cebuano num="182"/><chinese num="149"/><english num="182"/><korean num="149"/><portuguese num="87"/><tagalog num="182"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mrs. J. A. Trench</author>
+  </creators>
+  <melody>| 1 3 | 3/( 2/) 1 | 7_./( 1/) 2 | 2 1 | 2 3 | 4 2 | 3 2/( 1/) | 2 - (break) | 5. 3/ | 4. 2/ | 3 5/( 4/) | 3 2 | 1/( 7_./) 1/( 2/) | 3 5/( 4/) | 3 2 | 1 - |</melody>
+  <layout>
+	<singingstanza>我 主 耶 穌， 惟 你 是 配， 來 得 永 遠 的 讚 美， 因 你 愛 心、 恩 典、 慈 良， 遠 超 我 們 所 能 想。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="182"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我主耶穌，惟你是配，
+來得永遠的讚美，
+因你愛心、恩典、慈良，
+遠超我們所能想。</stanza>
+	<stanza type="verse" number="2">我們滿心感激不盡，
+前來稱頌你尊名；
+一生一世滿被恩惠，
+到處述說你寶貴。</stanza>
+	<stanza type="verse" number="3">我們所拜的主耶穌，
+你是何等的寬恕；
+你的愛心像你能力，
+永無限量永無已。</stanza>
+	<stanza type="verse" number="4">耶穌，你是首先、末後，
+你要領我到盡頭；
+因著已往我讚美你，
+為著將來我靠你。</stanza>
+	<stanza type="verse" number="5">讚祂！讚祂！讚我恩人！
+聖徒們哪，當高聲！
+讚祂！讚祂！直到天上，
+讚得完全讚得長。</stanza>
+  </lyrics>
+</hymn>

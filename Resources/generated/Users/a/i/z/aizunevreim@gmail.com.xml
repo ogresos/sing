@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Venus Mier</firstname>
+  <lastname>Nicasio</lastname>
+  <email>aizunevreim@gmail.com</email>
+  <password>$2y$10$/BIbG45C9O59sbXApg1Ao.luDz662QLiR3Sur0AZVnq5Y82GJ2Dva</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>180.217.22.1</ipaddress>
+  <createdate>2015-10-15 15:03:31</createdate>
+  <lastupdateddate>2015-10-15 15:54:04</lastupdateddate>
+  <lastlogindate>2015-10-15 15:50:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+  </favourites>
+</user>

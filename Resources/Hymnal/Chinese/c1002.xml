@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿利路、阿利路</title>
+  <index>true</index>
+  <category>讚美主－一般</category>
+  <numbers><chinese num="1002"/><spanish num="111"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>34555117666443211</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>阿 利 路、 阿 利 路、 阿 利 路、 阿 利 路 亞， 讚 美 我 主！ 阿 利 路、 阿 利 路、 阿 利 路、 阿 利 路 亞， 讚 美 我 主！ 讚 美 我 主， 阿 利 路 亞， 讚 美 我 主！ 阿 利 路 亞， 讚 美 我 主！ 阿 利 路 亞， 讚 美 我 主！</singingstanza>
+  </layout>
+  <notes>詩歌附2</notes>
+  <music>
+	<midi location="h" length="">c1002_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">阿利路、阿利路、
+阿利路、阿利路亞，
+讚美我主！
+阿利路、阿利路、
+阿利路、阿利路亞，
+讚美我主！
+讚美我主，阿利路亞，
+讚美我主！阿利路亞，
+讚美我主！阿利路亞，
+讚美我主！</stanza>
+  </lyrics>
+</hymn>

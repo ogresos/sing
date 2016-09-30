@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The church is the building up</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her General Definition</category>
+  <numbers><english num="ns:412"/><chinese num="ns:412c"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Janine Tiu">J. T.</author>
+    <author biodate="" biolink="" fullname="Jeremy Yap">J. Y.</author>
+    <composer biodate="" biolink="" fullname="Janine Tiu">J. T.</composer>
+    <composer biodate="" biolink="" fullname="Jeremy Yap">J. Y.</composer>
+  </creators>
+  <hymncode>153254367653334</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7 - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G7 - - - | C - F/C - | C - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G7 - - - | C - F/C - | C - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G7 - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 1 5 3 | 0 2 5 4/ 3/( | 3) 6 7 6 | 5 3 3 3/ 4/( | 4) - 0/ 6/ 6/ 6/ | 5/ 3.( 3) 1/ 1/ | 4 - - 6 (break) | 5 - - - | 0/ 5/ 5/ 5/ 5/ 3/ 5/ 5/( | 5/) 5/ 5/ 5/ 5/ 3/ 5/ 6/( | 6/) 6/ 6/ 6/ 7/ 6/ 5/ 3/( (break) | 3) 3 3 3/ 4/( | 4.) 4/ 4/ 3/ 2 | 3( 2/) 1/)( 1) 1/ 1/ | 6_. - - 1 | 7_.( - - 2) | 1( - - - | 1) - - - (break) | (Verse_2) 0 - 5 1/ 2/( | 2) - 3 2 | 1 2/ 3/( 3)( - | 3) - - 3 | 4. 4/( 4) 4 | 3/( 2) 1/( 1) - (break) | 1/ 1 1/ 1/ 2/ 3 | 2 - - - | 3 - - 3 | 2 2 1 7_. | 1 - - - | 7_./ 7_./ 7_./ 7_./ 7_./ 7_./ 7_./ 5_./ (break) | 6_. - - 1/ 1/ | 1 5_./ 3/( 3/) 2/ 1 | 6_.. 1/( 1) 1/ 1/ | 7_. 7_./ 7_./ 7_./( 1/) 2/ 7_./ | 1( - - - (break) | 1) - - (Verse_3) 5 | ._1( - - - | 7) - 7 7/ ._1/( | ._1) - - - | 7/ 7/ 7 7 5/ 5/ | 6. 4/( 4) 6 | 5( - 5/)( 4/) 3 (break) | 4. 4/( 4) - | 0 - 5 3/ 5/( | 5) 5 5 3/ 5/( | 5) 5/ 5/ 6 7/ ._1/( | ._1/) 3.( 3) - | 0 - 5 5 (break) | 6. 4/( 4) 6/ 6/ | 5. ._1/( ._1) ._1 | 6 - - - | 7 - - 7 | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">The church is the build -- ing up Of all God's cho -- sen and re -- deemed, Re -- gen -- er -- at -- ed and trans -- formed peo -- ple, The ul -- ti -- mate work of God, His coun -- ter -- part, the new man, The sev -- en gold -- en lamp -- stands, God's house on earth, The Bod -- y of Christ, The de -- sire of God's heart. Praise the Lord! Phi -- la -- del -- phi -- a: They hold fast to God's Word, Nev -- er de -- ny -- ing His name, Liv -- ing in the lo -- cal church, Fel -- low -- ship -- ping u -- ni -- ver -- sal -- ly On the ground of gen -- u -- ine one -- ness, Con -- sti -- tut -- ing the Bod -- y of Christ. Rise up! Grow in life! Min -- is -- ter Christ to the na -- tions, Ar -- rive at one -- ness&amp;mdash; Lord, have mer -- cy, We would see Your e -- ter -- nal pur -- pose. Keep us faith -- ful To re -- cov -- er and build up Your church.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <videos>
+    <video title="2009 New Zealand High Schoolers' Training" youtubeid="phTCyoVRo-I"/>
+    <video title="2014 European Young People's Conference in Poland" youtubeid="oX79NNoNaLI"/>
+  </videos>
+  <music>
+    <midi location="ns" length="108">ns0412.mid</midi>
+  </music>
+  <background>Janine: I was studying "the church" at the Summer School of Truth and we were told that we had to write a song. Another brother and I were quite musical so we wrote the song together. Wanting to win, we wrote the song so the verses could be sung concurrently and filled it with content taken straight from "the Church'&amp;mdash;we did win a box of chocolates&amp;mdash;but we gained so much more.</background>
+  <lyrics>
+    <stanza type="verse" number="1">The church is the building up
+Of all God's chosen and redeemed,
+Regenerated and transformed people,
+The ultimate work of God,
+His counterpart, the new man,
+The seven golden lampstands,
+God's house on earth,
+The Body of Christ,
+The desire of God's heart.</stanza>
+    <stanza type="verse" number="2">Praise the Lord! Philadelphia:
+They hold fast to God's Word,
+Never denying His name,
+Living in the local church,
+Fellowshipping universally
+On the ground of genuine oneness,
+Constituting the Body of Christ.</stanza>
+    <stanza type="verse" number="3">Rise up! Grow in life!
+Minister Christ to the nations,
+Arrive at oneness&amp;mdash;
+Lord, have mercy,
+We would see Your eternal purpose.
+Keep us faithful
+To recover and build up Your church.</stanza>
+  </lyrics>
+</hymn>

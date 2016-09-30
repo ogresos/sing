@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Calvin</firstname>
+  <lastname>Lou</lastname>
+  <email>calvin998@gmail.com</email>
+  <password>$2y$10$Z7d8waxeRl7yKXdKfGWG8eu74recN9eZ5Whtkyvmzi0WcUXWH1kre</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.174.87.28</ipaddress>
+  <createdate>2014-09-06 03:19:02</createdate>
+  <lastupdateddate>2016-03-11 03:13:18</lastupdateddate>
+  <lastlogindate>2016-03-11 03:13:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="ns" num="172">I had a debt I could not pay</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    <fav category="default" type="ns" num="220">Lord, keep me from this evil and perverted age</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+  </favourites>
+</user>

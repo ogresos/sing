@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Matthew</firstname>
+    <lastname>Cook</lastname>
+    <email>crazybeaver2005@yahoo.com</email>
+    <password>RpaQjGTwQKzR2VFUZTcewg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>132.79.9.16</ipaddress>
+    <createdate>2011-02-07 18:56:47</createdate>
+    <lastupdateddate>2011-02-07 19:03:29</lastupdateddate>
+    <lastlogindate>2011-02-07 18:56:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="328">Complete in Thee! no work of mine</fav>
+        <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+        <fav category="default" type="h" num="28">The love of God is greater far</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

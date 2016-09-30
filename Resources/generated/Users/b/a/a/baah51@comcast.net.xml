@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>deborah</firstname>
+<lastname>baah</lastname>
+<email>baah51@comcast.net</email>
+<password>$1$h77r07Jm$vPy/a0EVnxsZOChwJAO430</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>198.89.66.135</ipaddress>
+<createdate>2009-07-10 03:22:15</createdate>
+<lastupdateddate>2009-09-15 19:16:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

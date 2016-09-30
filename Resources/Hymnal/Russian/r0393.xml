@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Как дети благодати, мы</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО БЛАГОДАТЬ В СЫНОВСТВЕ</category>
+  <numbers><cebuano num="47"/><chinese num="44*"/><english num="47"/><korean num="44"/><russian num="393"/><tagalog num="47"/></numbers>
+  <creators>
+    <author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 5) 4 | 3( 2) 1 | 2( 6_.) 7_. | 1 - 2 | 3( 4#) 5 | 1( 7_.) 6_. | 5_. - 1 (break) | 2 - 3 | 4 - 3 | 2( 3) 1 | 1( 7_.) 5_. | 5( 4) 3 | 2( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <music>
+    <midiref type="h" num="38"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Как дети благодати, мы
+Тебе, Отец, поём.
+Ликуем в праведности мы
+В присутствии Твоём.</stanza>
+    <stanza type="verse" number="2">Уверенность даёшь Ты нам
+Превыше всей хвалы,
+В небесный свет, где Ты живёшь,
+Сердца обращены.</stanza>
+    <stanza type="verse" number="3">И вечность будет благодать
+Твою к сынам являть,
+Кто место Сына Твоего
+С Ним будет разделять.</stanza>
+    <stanza type="verse" number="4">Хоть ныне нет Его средь нас,
+Надежда в нас живёт:
+Мы ждём Его, Того, кто нас
+Над смертью вознесёт.</stanza>
+    <stanza type="verse" number="5">О радость! Полнотой Твоей
+Мы все наделены;
+Подобны Сыну Твоему,
+С Ним вечно будем мы.</stanza>
+    <stanza type="verse" number="6">Отец, без страха пред Тобой
+Дай жить в Твоей любви,
+Чтоб волю лучшую Твою
+Мы познавать могли.</stanza>
+  </lyrics>
+</hymn>

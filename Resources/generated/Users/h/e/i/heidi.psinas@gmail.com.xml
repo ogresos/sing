@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Heidi</firstname>
+  <lastname>Psinas</lastname>
+  <email>heidi.psinas@gmail.com</email>
+  <password>$2y$10$O9DHNgDpgoP3.EXtVW/ab.hXg1fcCShM0jlKl4rVNWjfUsneYoE7G</password>
+  <gender/>
+  <country/>
+  <ipaddress>98.215.152.240</ipaddress>
+  <createdate>2014-12-31 13:07:15</createdate>
+  <lastupdateddate>2015-11-16 16:27:43</lastupdateddate>
+  <lastlogindate>2015-11-16 16:27:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="294">Gone from my heart the world and all its charms</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="345">I wandered in the shades of night</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1129">So great a salvation, ye saints of the Lord</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="587">Tis so sweet to walk with Jesus</fav>
+  </favourites>
+</user>

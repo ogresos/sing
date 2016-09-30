@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Diane</firstname>
+  <lastname>Gade</lastname>
+  <email>harleyhoney0742@gmail.com</email>
+  <password>$2y$10$zKQwVyhieFNjty/gqN40lukf3YHRVI42IQAmJt.tQTT4rdezrevMC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.222.174.8</ipaddress>
+  <createdate>2015-03-22 03:05:06</createdate>
+  <lastupdateddate>2015-04-05 19:16:26</lastupdateddate>
+  <lastlogindate>2015-03-22 04:37:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="117">Christ the Lord is ris'n indeed</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="939">O day of resurrection</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+    <fav category="default" type="h" num="527">The Lord's my Shepherd, I'll not want</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

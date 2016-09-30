@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>周財元</firstname>
+    <lastname></lastname>
+    <email>audi214@gmail.com</email>
+    <password>onl6XFC6VQY1pMmlbhp%2BKw%3D%3D</password>
+    <gender></gender>
+    <country>Taiwan</country>
+    <ipaddress>122.116.111.108</ipaddress>
+    <createdate>2013-11-11 00:55:34</createdate>
+    <lastupdateddate>2013-11-29 08:40:21</lastupdateddate>
+    <lastlogindate>2013-11-11 00:55:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="604">主你不僅是陶人</fav>
+        <fav category="default" type="ch" num="333">你是千萬人之中之第</fav>
+        <fav category="default" type="ts" num="328">神聖羅曼史</fav>
+    </favourites>
+</user>

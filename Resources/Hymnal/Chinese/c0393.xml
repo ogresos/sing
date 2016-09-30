@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂是樂中之樂</title>
+  <index>true</index>
+  <category>經歷基督－作一切</category>
+  <numbers><chinese num="393"/><english num="8393"/><portuguese num="261"/><spanish num="234"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 5 - 3 1/( 3/) | 2. 4//( 3//) 2 - | 3 - 1 3/( 5/) | 5. 4/ 3 - (break) | ._1 - 6 4/( 6/) | 5. 5/ 3 1/( 3/) | 5. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>祂 是 樂 中 之 樂， 祂 已 解 我 乾 渴； 祂 是 歌 中 之 歌， 祂 今 消 我 寂 寞。</singingstanza>
+	<columns>3</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="8392"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂是樂中之樂，
+祂已解我乾渴；
+祂是歌中之歌，
+祂今消我寂寞。</stanza>
+	<stanza type="verse" number="2">祂是美中之美，
+合我人生口味；
+祂是貴中之貴，
+是我無上寶貝。</stanza>
+	<stanza type="verse" number="3">祂是命中之命，
+使我從死復生；
+祂是聖中之聖，
+使我與世不並。</stanza>
+	<stanza type="verse" number="3">祂是義中之義，
+使我神前站立；
+祂是力中之力，
+使我路中不疲。</stanza>
+	<stanza type="verse" number="3">祂是能中之能，
+使我如鷹上騰；
+祂是勝中之勝，
+使我得佔上風。</stanza>
+	<stanza type="verse" number="6">祂是強中之強，
+將我全人釋放；
+祂是壯中之壯，
+使我心靈堅剛。</stanza>
+	<stanza type="verse" number="3">祂是王中之王，
+祂今作我心皇；
+祂是光中之光，
+時時使我明亮。</stanza>
+	<stanza type="verse" number="8">祂是主中之主，
+祂今住我心府；
+祂是路中之路，
+處處引我腳步。</stanza>
+	<stanza type="verse" number="9">祂是醫中之醫，
+醫我靈、魂、身體；
+祂是奇中之奇，
+使我榮耀無比。</stanza>
+	<stanza type="verse" number="10">祂是望中之望，
+吸我心情向上；
+祂是賞中之賞，
+引我腳步前往。</stanza>
+	<stanza type="verse" number="11">祂是愛中之愛，
+配我全心感戴；
+祂是耐中之耐，
+配我永遠敬拜。</stanza>
+	<stanza type="verse" number="12">祂是雄中之雄，
+惟祂配我尊崇；
+祂是榮中之榮，
+惟祂配我稱頌。</stanza>
+  </lyrics>
+</hymn>

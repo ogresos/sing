@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nathan</firstname>
+  <lastname/>
+  <email>n.grantmcgregor@gmail.com</email>
+  <password>$2y$10$ZMhZyvlBEn2oEl82P2ciDupz3UsKJ7Vb7Qf3QUhd7C5y5UHmt2doe</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>103.14.217.205</ipaddress>
+  <createdate>2016-08-01 19:11:44</createdate>
+  <lastupdateddate>2016-08-01 19:12:39</lastupdateddate>
+  <lastlogindate>2016-08-01 19:12:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

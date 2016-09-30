@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, biyaya't dunong Mo</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG KARUNUNGAN</category>
+  <numbers><cebuano num="24"/><chinese num="21"/><english num="24"/><german num="24"/><korean num="21"/><portuguese num="21"/><russian num="392"/><spanish num="17"/><tagalog num="24"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 | 1 - - 2 (break) | 3 2 1 3 | 5/( 4/) 3/( 2/) 3 5 | 5 - 5 - | 6 - 5( 4#) | 5 - - 3 (break) | 5 3 1 3 | 2/( 1/) 2/( 3/) 2 1 | 5 - 4 - | 3.( 4/ 2) 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="24"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ama, biyaya't dunong Mo,
+Natipon kay Kristo.
+Dah'l sa Kanya'y may biyaya,
+Aming dunong ay Siya.</stanza>
+	<stanza type="verse" number="2">Lahat Mong plano'y sa Kanya,
+Daan ng b'yaya Siya.
+Lahat na dunong sa Kanya,
+Sa Iyo nga ang glorya.</stanza>
+	<stanza type="verse" number="3">Katuwiran namin ay Siya,
+Kami'y matwid na nga;
+Aming kabanalan ay Siya,
+Kami'y banal na nga.</stanza>
+	<stanza type="verse" number="4">Katubusan din sa'min Siya,
+Sa plano Mo Ama;
+Nang matubos kaming ganap,
+Maging taong ganap.</stanza>
+	<stanza type="verse" number="5">Sa Iyong ekonomya, Ama,
+Iyong karunungan Siya.
+Dahil nga sa Kanya kami
+Sa Iyo'y pumupuri.</stanza>
+	<stanza type="verse" number="6">Hayag Iyong dunong sa Kanya,
+Malalim, sagana;
+Nguni't mas ang yama't lalim
+Daan Mo sa amin.</stanza>
+  </lyrics>
+</hymn>

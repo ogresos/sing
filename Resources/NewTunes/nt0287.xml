@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Jesus, Jesus</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Loved by the Lord</category>
+  <creators>
+    <author biodate="" biolink="">A. Paget Wilkes</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <hymncode>33333212221321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | F - - - | Fm - - - | C - - - | C - - - | F - - - | F - - - | D7 - - - | G7 - - - |</chords>
+  <melody>| 0 3/ 3/ 3 3 | 3( 2/) 1/( 1) - | 0 2/ 2/ 2 1 | 3( 2/)( 1/)( 1) - (break) | 0 3/ 3/ 3 3 | 3( 2/) 1/( 1) - | 0 2/ 2/ 2/( 1/) 7_. | 1 - - - (break) | 0 4/ 4/ 4 4 | 4( 3/) 2/( 2) - | 0 3/ 3/ 3/( 2/) 1 | 3 - - - (break) | 0 4/ 4/ 4 4 | 4( 3/) 2/( 2) - | 0 2/ 2/ 3 2 | 5 - - - |</melody>
+  <layout>
+    <singingstanza>Je -- sus, Je -- sus, Je -- sus! Sweet -- est Name on earth, How can I, a sin -- ner, Come to know its worth? Oh! the sin -- ful sor -- row, Oh! the strang -- est shame, That I saw no beau -- ty In that sa -- cred Name.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="287"></link>
+  </links>
+  <music>
+    <midi location="nt" length="28">e0287_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, Jesus, Jesus!
+  Sweetest Name on earth,
+How can I, a sinner,
+  Come to know its worth?</stanza>
+    <stanza type="chorus" number="">Oh! the sinful sorrow,
+  Oh! the strangest shame,
+That I saw no beauty
+  In that sacred Name.</stanza>
+    <stanza type="verse" number="2">Never felt the sweetness!
+  Never knew the grace,
+Never saw the love-pain
+  In that wounded face!</stanza>
+    <stanza type="chorus" number="">Never found the mystery
+  In that simple word&amp;mdash;
+Jesus, Jesus, Jesus,
+  Savior, Lover, Lord.</stanza>
+    <stanza type="verse" number="3">Now 'tis past and over.
+  Gone my guilt and shame;
+Jesus, Jesus did it,
+  Glory to His Name!</stanza>
+    <stanza type="chorus" number="">Wonderful compassion,
+  Reaching even me;
+Bows my humbled spirit
+  In captivity.</stanza>
+    <stanza type="verse" number="4">Jesus! Jesus! Jesus!
+  Loved me in my shame.
+Oh! the joy and rapture
+  Of that sacred Name.</stanza>
+  </lyrics>
+</hymn>

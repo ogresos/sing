@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Timon</firstname>
+  <lastname>Huang</lastname>
+  <email>timon33tw@gmail.com</email>
+  <password>$2y$10$So3UAv3grQUsBVeMSOQDyu6tNKGuCOe5Ru525hRVR12U5uBPU12o.</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>61.230.5.177</ipaddress>
+  <createdate>2016-08-05 02:31:36</createdate>
+  <lastupdateddate>2016-08-05 02:35:06</lastupdateddate>
+  <lastlogindate>2016-08-05 02:33:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="866">一盞燈光</fav>
+  </favourites>
+</user>

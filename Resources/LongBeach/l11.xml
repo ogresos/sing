@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God is love</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Love</category>
+  <numbers><chinese num="ts:876"/><english num="lb:11"/><lsmyp num="298"/><vsb num="21"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>117534444565</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | Em - - - | F - - - | C - - - | Dm - - - | C - - - | G - - - | C - - - | C - Am - | Em - - - | F - - - | C - - - | Dm - - - | C/E - Am C/G | Dm/F - G7 - | C - - - | Am - - - | Em - - - | F - - - | C - - - | Am - - - | F - - - | C/E - - F | G - - - |</chords>
+  <melody>| 1 - ._1 - | 7/( 5/)( 5) - 3 | 4 4/ 4/ 4/( 5/) 6 | 5 - - - (break) | 0 4/ 4/ 4/ 3/ 2 | 0 3 3/( 2/) 1 | 0 2/ 2/ 2/ 1/ 7_. | 1 - - - (break) | 1 - ._1 - | 7/( 5/)( 5) - 3 | 4 4/ 4/ 4/ 5/ 6 | 5 - - - (break) | 0 4/ 4/ 4/ 3/ 2 | 0 3 3/( 2/) 1 | 0 2 2/( 1/) 7_. | 1 - - - (break) | (Chorus) 3 6 7 ._1 | 7 5 - 5/ 5/ | 6( - 6/)( 5/) 4 | 5 - - - (break) | 3 6 7 ._1 | ._1 ._1 - 6/ 6/ | 5 - - 3 | 2 - - 0 |</melody>
+  <layout>
+    <singingstanza>God is love, Who sent His be -- lov -- ed Son. Man is fall -- en with cor -- rupt -- ion, But You sent Your dear Son. God com -- mends His kind -- ness and love to -- ward us, In that while we were yet sin -- ners Christ died for us. God You did not spare Him, Your be -- lov -- ed Son. Fath -- er, how we praise You For this pre -- cious One!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="171">lb11.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God is love, Who sent His beloved Son.
+Man is fallen with corruption,
+But You sent Your dear Son.
+God commends His kindness and love toward us,
+In that while we were yet sinners
+Christ died for us.</stanza>
+    <stanza type="chorus" number="">God You did not spare Him,
+Your beloved Son.
+Father, how we praise You
+For this precious One!</stanza>
+    <stanza type="verse" number="2">Who can know the love from our Father's being?
+Ears have never heard, eyes have never seen,
+But Lord, I've been redeemed.
+God is love. O God, a man You became;
+A cursed man to be, God, You died for me.
+Lord, You hung from a tree.</stanza>
+    <stanza type="chorus" number="">Father, You have sent Him,
+Your beloved Son.
+He shed His blood on Calvary.
+Your love reached me.</stanza>
+    <stanza type="verse" number="3">God so loved the world that He gave us His Son.
+Just believe in Him. Be not perishing,
+But have eternal life.
+Just believe in Him. Be not perishing,
+But have eternal life.</stanza>
+  </lyrics>
+</hymn>

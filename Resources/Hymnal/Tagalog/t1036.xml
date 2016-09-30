@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay Hesus tumingin ka</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><chinese num="720"/><english num="1036"/><korean num="720"/><tagalog num="1036"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1036"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay Hesus tumingin ka,
+Tingnan Siya't mabuhay!
+Tingnan Kanyang ginawa,
+Mabuhay!
+Itinaas sa puno,
+Tingnan Siya't mabuhay!
+Pakinggan, "Tingnan Ako!"
+Mabuhay!</stanza>
+    <stanza type="chorus" number="">Poon itinaas na,
+Nang mabuhay tingnan Siya;
+Ba't kailangang mamatay?
+Mabuhay!</stanza>
+    <stanza type="verse" number="2">Masama ka't marumi,
+Tingnan Siya't mabuhay!
+H'wag tingnan ang sarili,
+Mabuhay!
+Alipin ng dyablo no'n,
+Tingnan Siya't mabuhay!
+Maging malaya ngayon,
+Mabuhay!</stanza>
+    <stanza type="verse" number="3">Malaong lumaboy ka,
+Tingnan Siya't mabuhay!
+Puso palambutin na,
+Mabuhay!
+Nais Niyang bumalik ka,
+Tingnan Siya't mabuhay!
+Ba't ka pa mag-antala?
+Mabuhay!</stanza>
+  </lyrics>
+</hymn>

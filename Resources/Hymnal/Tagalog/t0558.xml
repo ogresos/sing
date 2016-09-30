@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anong tamis ng pagsalamuha</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;PAKIKISALAMUHA SA KANYA</category>
+  <numbers><chinese num="406"/><english num="558"/><french num="100"/><korean num="406"/><portuguese num="281"/><tagalog num="558"/></numbers>
+  <creators>
+    <author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Anong tamis ng pagsalamuha,
+Kay Hesus laging magtiwala;
+Ako'y pinagpala at payapa,
+Kay Hesus laging magtiwala.</stanza>
+    <stanza type="chorus" number="">Mapayapa,
+Ligtas at walang pangamba;
+Mapayapa,
+Kay Hesus laging magtiwala.</stanza>
+    <stanza type="verse" number="2">Landas tinahak, puso'y panatag,
+Kay Hesus laging magtiwala;
+Lalong tatahak, mas liliwanag,
+Kay Hesus laging magtiwala.</stanza>
+    <stanza type="verse" number="3">Ano ang kinatatakutan pa?
+Kay Hesus laging magtiwala;
+Payapa, Panginoo'y kasama,
+Kay Hesus laging magtiwala.</stanza>
+  </lyrics>
+</hymn>

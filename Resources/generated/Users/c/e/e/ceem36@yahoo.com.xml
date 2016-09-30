@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Christian</firstname>
+<lastname>Espinoza</lastname>
+<email>ceem36@yahoo.com</email>
+<password>$1$8RE7N1.B$C9Zu4spv3cUreX6jf9PIq0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.34.224.2</ipaddress>
+<createdate>2008-10-20 00:46:22</createdate>
+<lastupdateddate>2009-09-15 18:26:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="963">Face to face with Christ, my Savior</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="669">In the heart of Jesus</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! junto ao trono alcemos voz</title>
+  <index>true</index>
+  <category>Sua Dignidade</category>
+  <numbers><cebuano num="183"/><chinese num="146"/><english num="183"/><korean num="146"/><portuguese num="89"/><russian num="507"/><tagalog num="183"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="183"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh! junto ao trono alcemos voz
+Em hinos ao Senhor;
+Embora muitos, temos só
+Um tema de louvor:</stanza>
+    <stanza type="verse" number="2">"Digno é o Cordeiro que morreu&amp;amp;mdash;
+Por nós se entregou";
+"Digno é o Cordeiro que ascendeu
+De receber louvor".</stanza>
+    <stanza type="verse" number="3">Jesus é digno de poder
+E honra divinais;
+A Ele nosso bendizer
+Exceda mais e mais.</stanza>
+    <stanza type="verse" number="4">Mui breve os santos subirão,
+Um hino surgirá;
+E todos sob os céus irão
+Pra sempre Te louvar.</stanza>
+    <stanza type="verse" number="5">À uma, toda a criação
+Remida louvará
+A Deus e ao Cordeiro Seu,
+Que sempre irão reinar.</stanza>
+  </lyrics>
+</hymn>

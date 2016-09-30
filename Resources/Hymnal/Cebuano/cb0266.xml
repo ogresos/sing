@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Diosnong dihog nagpuyo nako</title>
+  <index>true</index>
+  <category>KAHUPNGANAN SA ESPIRITU&amp;mdash;INGON NGA DIHOG</category>
+  <numbers><cebuano num="266"/><chinese num="215*"/><english num="266"/><french num="45"/><german num="266"/><korean num="215"/><portuguese num="139"/><russian num="210"/><spanish num="121"/><tagalog num="266"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5_./ 5#_./ 6_./ 1/ 2/ 1/ | 3 3 - 2#/ 3/ | 5 4 6_. 7_. | 1 - - - (break) | 3 5_./ 5#_./ 6_./ 1/ 2/ 1/ | 3 3 3 3/ 3/ | 2 7_. 6_. 2 | 2 - - - (break) | (Chorus) (.5 (.4 3/ 2/ 6_./ 7_./ | 2/ 1/ 5_.. 1/ 7_./ 1/ | 2/ 7_./ 5_.. 2/ 1/ 2/ | 3 1 5_. - (break) | 5 4 3/ 2/ 6_./ 7_./ | 2/ 1/ 5_. - 3 | 3/ 2/ 1#/ 2/ 4 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="266"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Diosnong dihog nagpuyo nako,
+Sa tanan m'oy nagtudlo;
+Nagda' kanunay nga mabuhi ko
+Sa presensya's Ginoo.</stanza>
+	<stanza type="chorus" number="">Sa espiritu ko may dihog,
+Nagdihog, nagpuyo'g
+nagtudlo sa tanan;
+Sa espiritu ko may dihog,
+Nagtudlo sa tanang butang.</stanza>
+	<stanza type="verse" number="2">Lihok kini sa Espiritu,
+Daw lunsayng dihog's grasya;
+Gibasi sa pagsablig sa dugo,
+Ug kini molungtad gyud.</stanza>
+	<stanza type="verse" number="3">Dihog sa pagkamao sa Dios,
+Masinati S'ya's sulod;
+Aron masuropan Niya ako
+Sa Iyang elemento.</stanza>
+	<stanza type="verse" number="4">Sa dihog sa kinabuhi N'ya,
+Mabuhi's pakig-ambit;
+Maglakaw's kahayag's kamat'oran,
+Gugma N'ya pamatud-an.</stanza>
+  </lyrics>
+</hymn>

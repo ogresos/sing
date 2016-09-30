@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Winnie</firstname>
+    <lastname>Grant</lastname>
+    <email>wbgrant@hotmail.co.uk</email>
+    <password>yEhFydfbfLfUtVlpjqFmbg%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>86.136.1.228</ipaddress>
+    <createdate>2013-02-09 17:35:15</createdate>
+    <lastupdateddate>2013-09-03 17:57:30</lastupdateddate>
+    <lastlogindate>2013-09-03 17:57:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="328">Complete in Thee! no work of mine</fav>
+        <fav category="default" type="h" num="326">He lives, the great Redeemer lives</fav>
+        <fav category="default" type="h" num="332">I hear the words of love</fav>
+        <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+        <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    </favourites>
+</user>

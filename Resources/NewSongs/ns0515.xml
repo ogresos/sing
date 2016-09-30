@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Reigning in Life</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <creators>
+	<author biodate="" biolink="" fullname="John Liu">J. L.</author>
+	<composer biodate="" biolink="" fullname="John Liu">J. L.</composer>
+  </creators>
+  <hymncode>334575665432</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | G - - - | Am - - - | F - G - | C - - - | G - - - | Am - - - | F - G - | C - - F/C | C - - - |</chords>
+  <melody>| 0. 3/ {3 4 5} | 7. 5/( 5) - | 0. 6/ {6 5 4} | 3. 2/( 2) - (break) | 0. 3/ {3 4 5} | 7. 5/( 5) 3/ 6/( | 6) - - 6/ 7/( | 7) - - - (break) | 0. 3/ {3 4 5} | 7. 5/( 5) - | 0. 6/ {6 5 4} | 3. 2/( 2) - (break) | 0. 3/ {3 4 5} | 7.( 5/)( 5) 3/ 6/( | 6) - - 6/ 7/( | 7) - - - (break) | (Chorus) ._1 - ._5 ._1/ ._2/( | ._2) - - ._1/ 7/ | {6 7 ._1} {._3 ._1 7} | {6 7 ._1} {._3 ._1 7} (break) | ._1 - ._5 ._1/ ._2/( | ._2) - - 0/ ._1/ | {6 7 ._1} {._3 ._1 7} | {6 ._4 ._3} {._2( ._1) 7} | ._1( - - - | ._1) - - - |</melody>
+  <layout>
+    <singingstanza>The heav -- en -- ly vi -- sion Con -- cern -- ing the func -- tion Of God's cho -- sen peo -- ple on earth to -- day Con -- trols and di -- rects us, Re -- stricts and per -- fects us To min -- is -- ter Christ and close this age! Reign -- ing in life: Be -- ing ruled by the Spir -- it, Re -- strict -- ed and lim -- it -- ed; Reign -- ing in life: To bring in God's king -- dom And real -- ize the king -- dom life.</singingstanza>
+  </layout>
+  <notes>Composed during the 2015 European Young People's Conference in Poland.</notes>
+  <videos>
+    <video title="2015 European Young People's Conference in Poland" youtubeid="2Fut1-quNw4"/>
+  </videos>
+  <music>
+      <midi location="ns" length="52">ns0515.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The heavenly vision
+Concerning the function
+Of God's chosen people on earth today
+Controls and directs us,
+Restricts and perfects us
+To minister Christ and close this age!</stanza>
+    <stanza type="chorus" number="">Reigning in life:
+Being ruled by the Spirit,
+Restricted and limited;
+Reigning in life:
+To bring in God's kingdom
+And realize the kingdom life.</stanza>
+    <stanza type="verse" number="2">A time of confinement
+To seek the experience
+In being alone with our Lord today
+And speak forth with boldness
+The dreams of our father,
+Discipling the nations to close this age!</stanza>
+  </lyrics>
+</hymn>

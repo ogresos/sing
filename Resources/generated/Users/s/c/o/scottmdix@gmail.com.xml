@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Scott</firstname>
+  <lastname>Dix</lastname>
+  <email>scottmdix@gmail.com</email>
+  <password>$2y$10$4EQ8PUcEfM3J3MDMeHL.AeM.z5Bua8sFgjCUMM1iuLWugG5cgq38i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.80.115.218</ipaddress>
+  <createdate>2014-09-04 02:15:33</createdate>
+  <lastupdateddate>2014-10-09 02:37:55</lastupdateddate>
+  <lastlogindate>2014-10-08 01:37:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="205">Jesus, Thou Joy of loving hearts</fav>
+    <fav category="default" type="h" num="358">Love Divine, all love excelling</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+  </favourites>
+</user>

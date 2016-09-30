@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh balon, bumalong</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;BILANG TUBIG NA BUHAY</category>
+  <numbers><cebuano num="250"/><chinese num="201"/><english num="250"/><german num="250"/><korean num="201"/><portuguese num="134"/><russian num="355"/><spanish num="116"/><tagalog num="250"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2#/ 3 4 | 3 - 1 - | 2. 3/ 4 5 | 4 - 3 - (break) | 5. 4#/ 5 6 | 5 - 3 - | 2. 1#/ 2 3 | 2 - 1 - |</melody>
+  <music>
+	<midiref type="h" num="250"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh balon, bumalong!
+Ako ay mahukay,
+Nang makasusulong
+Ang tubig ng buhay!</stanza>
+	<stanza type="verse" number="2">Bato'y nabiyak na,
+Tubig ay bumubo;
+Nguni't may bara pa
+Nasa aking puso.</stanza>
+	<stanza type="verse" number="3">Ako'y manalangin,
+Bara ay hukayin;
+Espiritu sa 'kin
+Laging paagusin.</stanza>
+	<stanza type="verse" number="4">Tuloy ang dalangin,
+Tuloy ang paghukay!
+Paghukay lubusin,
+Dalangi'y masanay.</stanza>
+	<stanza type="verse" number="5">Bato'y di buksan na,
+Ako'y hukayin Mo;
+Tubig lumabas na,
+Paaagusin ko.</stanza>
+	<stanza type="verse" number="6">'Spiritung dumapo,
+Ay tanging pagbuhos;
+'Spiritu sa puso,
+Ay bukal ng agos.</stanza>
+	<stanza type="verse" number="7">Pinakakailangan
+Di pagbuhos lamang,
+Dalangi'y paraan,
+Bukal ay mabuksan.</stanza>
+	<stanza type="verse" number="8">Hadlang sa 'Spiritu,
+Tanggal sa paghukay,
+Batis na bumubo -
+Ay ilog ng buhay!</stanza>
+	<stanza type="verse" number="9">O balon, bumalong!
+Ako ay mahukay,
+Nang makasusulong
+Ang tubig ng buhay!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Amy</firstname>
+  <lastname>Chen</lastname>
+  <email>hangzhouamy@gmail.com</email>
+  <password>$2y$10$OQBy/hJ58DNCD4r746v0QOi5GzabfIyzT0FmehG7vS8c0rlj9OMqC</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>67.233.1.116</ipaddress>
+  <createdate>2016-01-05 13:56:46</createdate>
+  <lastupdateddate>2016-01-05 14:03:55</lastupdateddate>
+  <lastlogindate>2016-01-05 14:03:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

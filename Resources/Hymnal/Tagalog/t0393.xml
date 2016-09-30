@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Iyong daan, di akin</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PANGUNGUNA NI KRISTO</category>
+  <numbers><chinese num="295"/><english num="393"/><korean num="295"/><tagalog num="393"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="379"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Iyong daan, di akin
+Ga'no mang kadilim;
+Patnubayan ako,
+Basta pinili Mo.</stanza>
+    <stanza type="verse" number="2">Patag o mabato,
+Mabuti rin ito;
+Tuwid, liku-liko,
+Pahinga ang tungo.</stanza>
+    <stanza type="verse" number="3">Ako sa sarili'y
+Nangambang pumili;
+Ikaw ang magpasiya,
+Mat'wid aking paa.</stanza>
+    <stanza type="verse" number="4">Sa dusa o saya,
+Saro ko'y punin na;
+Masunod Iyong pasiya,
+Buti man o sama.</stanza>
+    <stanza type="verse" number="5">Katoto'y piliin,
+Mabuti sa akin;
+Ikaw ang magtakda
+Kaayon pa Kita.</stanza>
+    <stanza type="verse" number="6">Anumang mangyari,
+Ika'y aking Hari;
+Gabay Kitang mahal,
+Dunong na marangal.</stanza>
+  </lyrics>
+</hymn>

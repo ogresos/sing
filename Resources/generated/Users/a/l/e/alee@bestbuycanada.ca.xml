@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Alan</firstname>
+<lastname>Lee</lastname>
+<email>alee@bestbuycanada.ca</email>
+<password>$1$TY7QpkSz$QtyNh74wZ4LGVZXtMiHbJ0</password>
+<gender>M</gender>
+<country>Canada</country>
+<ipaddress>199.60.112.10</ipaddress>
+<createdate>2008-07-26 01:42:58</createdate>
+<lastupdateddate>2009-09-15 18:23:46</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="286">Of Jesus' love that sought me</fav>
+        <fav category="default" type="h" num="98">Jesus! Source of life eternal</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="628">Via Bethlehem we journey</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="215">Jesus, Lord, we know Thee present</fav>
+        <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+        <fav category="default" type="h" num="930">Must I go, and empty-handed</fav>
+        <fav category="default" type="h" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="h" num="121">Thine be the glory, risen, conqu'ring Son</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    </favourites>
+</user>

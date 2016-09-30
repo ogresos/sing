@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All hail the pow'r of Jesus' name (Medium)</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Glory</category>
+  <numbers><cebuano num="139"/><chinese num="ts:20"/><english num="139"/><french num="25"/><korean num="944"/><portuguese num="67"/><spanish num="71"/><tagalog num="139"/></numbers>
+  <creators>
+    <author biodate="1726-1792" biolink="">Edward Perronet</author>
+    <composer biodate="1819-1899" biolink="">James Ellor</composer>
+  </creators>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>51234512171</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G | C - G/B | C - C/E | Dm/F - G7 | C - F/C | C/E - F | C/E - C | F - Dm | C/G - G7 | C - - | C - - | C/E - F | G - G7 | C - - | Dm - - | C/E - F | G7 - - | C - - | F - - | G - - | C - G/D | C/E - F | C/G - G7 | C - 0 |</chords>
+  <melody>| 0 - 5 | ._1 - ._2 | ._3./( ._4// ._5) ._1 | ._2( ._1) 7 | ._1 - 7/( 6/) | 5. 5/ 6/ 6/ | 5( ._1) ._1 | 6( ._4) ._4 | ._3 - ._2 (break) | ._1 - ._1/( ._2/) | ._3 - ._3 | ._3( ._2) ._1 | ._2( ._1) 7 (break) | ._1./( ._2// ._3) (Chorus) ._5 | ._4.( ._3/ ._2/ ._4/ | ._3. ._2/ ._1/ ._3/ | ._2. ._1/ 7/ ._2/ | ._1) ._1 0 (break) | ._4 ._4 0 | ._2 ._2 0 | ._3 ._3 ._5 | ._1./( ._2// ._3) ._4 | ._3 - ._2 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>All hail the pow'r of Je -- sus' name! Let an -- gels pros -- trate fall, Let an -- gels pros -- trate fall; Bring forth the ro -- yal di -- a -- dem, And crown Him, crown Him, crown Him, crown Him; And crown Him Lord of all!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj148.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0139_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">All hail the pow'r of Jesus' name!
+  Let angels prostrate fall,
+  Let angels prostrate fall;
+Bring forth the royal diadem,</stanza>
+    <stanza type="chorus" number="">And crown Him, crown Him,
+  crown Him, crown Him;
+  And crown Him Lord of all!</stanza>
+    <stanza type="verse" number="2">Ye chosen seed of Israel's race,
+  Ye ransomed from the fall,
+  Ye ransomed from the fall,
+Hail Him who saves you by His grace,</stanza>
+    <stanza type="verse" number="3">Sinners, whose love can ne'er forget
+  The wormwood and the gall,
+  The wormwood and the gall,
+Go, spread your trophies at His feet,</stanza>
+    <stanza type="verse" number="4">Let every kindred, every tribe,
+  On this terrestrial ball,
+  On this terrestrial ball,
+To Him all majesty ascribe,</stanza>
+    <stanza type="verse" number="5">O that with yonder sacred throng
+  We at His feet may fall,
+  We at His feet may fall!
+We'll join the everlasting song,</stanza>
+  </lyrics>
+</hymn>

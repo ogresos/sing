@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Behold what manner of love</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:323"/><lsmyp num="371"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Patricia Van Tine</author>
+  </creators>
+  <hymncode>53332144432333452</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | F - - | F - - | C - - | C - - | Gsus4 - - | G7 - - | C - - | C - - | F - - | F - - | C/G - - | G7 - - | C - - | C - - | C - - | C/E - - | F - - | Dm - - | C/G - - | Am - - | G/B - - | G7 - - | C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 5_. | 3 - 3 | 3 2 1 | 4 - 4 | 4 3 2 | 3 - 3 | 3( 4) 5 | 2( - - (break) | 2) - 5_. | 3 - 3 | 3 2 1 | 4 - 4 | 4 3 2 | 3 - 3 | 2 - 2 | 1( - - | 1) - - (break) | 5( - - | 5) - - | 6( - - | 6) 5 4 | 3 - 3 | 3( 4) 5 | 2( - - | 2) - - (break) | 5( - - | 5) - - | 6( - - | 6) 5 4 | 3 - 3 | 2 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Be -- hold what man -- ner of love The Fa -- ther has giv -- en un -- to us, Be -- hold what man -- ner of love The Fa -- ther has giv -- en un -- to us, That we should be called the sons of God, That we should be called the sons of God.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 John 3:1</link>
+  </links>
+  <music>
+    <midi location="ns" length="41">ns0323.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Behold what manner of love
+The Father has given unto us,
+Behold what manner of love
+The Father has given unto us,
+That we should be called the sons of God,
+That we should be called the sons of God.</stanza>
+  </lyrics>
+</hymn>

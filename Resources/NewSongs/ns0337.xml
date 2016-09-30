@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glory! Glory! Christ is life in me</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:337"/></numbers>
+  <melody>| ._3 ._3 ._5./ ._4// ._2./ 7// | ._1 ._1 ._3 - | 6 6 ._2./ ._3// ._2./ ._1// | 7 6 5 0 (break) | 5./ 5// 6./ 5// ._3 ._1 | ._2./ ._1// 6./ 7// ._1 - | 7./ ._1// ._2./ ._1// ._3./ ._2// ._4./ 7// | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Glo -- ry! Glo -- ry! Christ is life in me, As the Spir -- it lead -- ing con -- stant -- ly! What was weak is might -- y, What was dark is light, Glo -- ry! Glo -- ry! Christ is life in me!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="1356"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glory! Glory! Christ is life in me,
+As the Spirit leading constantly!
+What was weak is mighty,
+What was dark is light,
+Glory! Glory! Christ is life in me!</stanza>
+    <stanza type="verse" number="2">Glory, Glory! Living by the Lord,
+Walking by the Spirit in His Word!
+Failure's turned to vict'ry,
+Sighing's turned to praise.
+Glory! Glory! Living by the Lord!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Наречённый «Муж скорбей»</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ИСКУПЛЕНИЕ</category>
+  <numbers><cebuano num="108"/><chinese num="96"/><english num="108"/><korean num="96"/><portuguese num="53"/><russian num="445"/><spanish num="53"/><tagalog num="108"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <melody>| 5 5 5 3 | ._1 ._1 7 - | 6 6 5 ._1 | 7 6 5 - (break) | 5 5 5 3 | ._1 ._1 ._1 ._1./ ._2// | ._3 - ._2 ._1./ 6// | 6 - 5 - |</melody>
+  <music>
+    <midiref type="h" num="108"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Наречённый «Муж скорбей»,
+Божий Сын пришёл в мир сей
+Грешных искупить людей!
+Аллилуйя! О, Спаситель!</stanza>
+    <stanza type="verse" number="2">Претерпев насмешки, Он
+За меня был осуждён;
+Кровью я Его прощён.
+Аллилуйя! О, Спаситель!</stanza>
+    <stanza type="verse" number="3">Мы грешны, на нас вина,
+Он был Агнцем без пятна;
+Искупление сполна?!
+Аллилуйя! О, Спаситель!</stanza>
+    <stanza type="verse" number="4">На кресте распят был Он,
+«Кончено!» – был крик Его,
+Ныне Он превознесён.
+Аллилуйя! О, Спаситель!</stanza>
+    <stanza type="verse" number="5">И когда наш Царь придёт,
+В царство нас Своё возьмёт,
+Вновь тогда мы воспоём:
+Аллилуйя! О, Спаситель!</stanza>
+  </lyrics>
+</hymn>

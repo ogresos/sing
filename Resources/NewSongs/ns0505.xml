@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God Needs the Overcomers</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;The Overcomer</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>5553233334321</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>144</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Am - - - | F - - - | G - - - | C - - - | G - - - | C - - - | C - - - | Am - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | C - - - | C - - - | Am - - - | Am - - - | F - - - | G - - - | C - - F/C | C - - - |</chords>
+  <melody>| (startrepeat) 0 5 5 - | 5 3/ 2/( 2/) 3. | 0 3 3. 3/ | 4 3/ 2/( 2/) 1.( (break) | 1) 1 1 1 | 2/ 3. 1 2 | 3( - 3/)( 4/ 3/ 2/ | 2) - - - (break) | 0 5 5(. 5). | 5 3/ 2/( 2/) 3. | 0 3 3. 3/ | 4 3/ 2/( 2/) 1.( (break) | 1) 1 1 3 | 4 3 1/ 2. | 1( - - - | 1) 0 - - (break) | (Chorus) 6 - 6. 6/ | 6 7/ ._1/( ._1/) 6. | 0 6 6 7 | ._1 7/ ._1/( ._1/) 6. (break) | 0 5/ 5/ 5 5 | 5. 3/ 3 5/ 5/( | 5)( - - - | 5) 0 - - (break) | 6 - 6. 6/ | 6 7/ ._1/( ._1/) 6. | 0 6 6 7 | ._1 7/ ._1/( ._1/) 6. (break) | 0 5/ 5/ 5 5 | 5. 3/ 3 5/ 5/( | 5)( - - - | 5) 0 - - (endrepeat) (break) | (Ending) 0 5 5. 5/ | 5 3/ 2/( 2/) 3. | 0 3 3. 3/ | 4 3/ 2/( 2/) 1.( (break) | 1) 1/ 1/ 1 3 | 4. 3/ 1 2/ 1/( | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza end="-1">God used John, the Bap -- tist, Who left his home and good past; Left the re -- li -- gion of his age. He turned [skip1] from the old -- ness, And spoke the Word with bold -- ness, Re -- pent and leave this crook -- ed age. God needs the o -- ver -- com -- ers, Our dear Lord Je -- sus lov -- ers! Make us those who live to turn the age! God needs the o -- ver -- com -- ers, Our dear Lord Je -- sus lov -- ers! Make us those who con -- sum -- mate the age! Make us the o -- ver -- com -- ers, Christ's bride, and God's age -- turn -- ers. Make us those who con -- sum -- mate the age!</singingstanza>
+    <singingstanza2>2. God called Saul of Tar -- sus, For His own plan and pur -- pose, Who be -- came Paul, [skip1] the A -- pos_-__________________________________tle; He saw a heav'n -- ly vi -- sion, Where there is no di -- vi -- sion, In the one Bod -- y of the Lord.</singingstanza2>
+    <singingstanza3>3. God called Tim -- o -- thy, now, Like -- souled with Paul, who knew how To pray and be soaked in the Word; His spir -- it fanned in -- to flame, Lord, make my spir -- it the same, An o -- ver -- com -- ing man of God!</singingstanza3>
+  </layout>
+  <audios>
+    <audio title="Singing" location="ns" length="216">ns0505_singing.mp3</audio>
+  </audios>
+  <music>
+    <midi location="ns" length="180">ns0505.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God used John, the Baptist,
+Who left his home and good past;
+Left the religion of his age.
+He turned from the oldness,
+And spoke the Word with boldness,
+Repent and leave this crooked age.</stanza>
+    <stanza type="chorus" number="">God needs the overcomers,
+Our dear Lord Jesus lovers!
+Make us those who live to turn the age!
+God needs the overcomers,
+Our dear Lord Jesus lovers!
+Make us those who consummate the age!</stanza>
+    <stanza type="verse" number="2">God called Saul of Tarsus,
+For His own plan and purpose,
+Who became Paul, the Apostle;
+He saw a heav'nly vision,
+Where there is no division,
+In the one Body of the Lord.</stanza>
+    <stanza type="verse" number="3">God called Timothy, now,
+Like-souled with Paul, who knew how
+To pray and be soaked in the Word;
+His spirit fanned into flame,
+Lord, make my spirit the same,
+An overcoming man of God!</stanza>
+    <stanza type="chorus" number="">Make us the overcomers,
+Christ's bride, and God's age-turners.
+Make us those who consummate the age!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Omotayo</firstname>
+  <lastname/>
+  <email>omotayoayoafolabi@gmail.com</email>
+  <password>$2y$10$XAWc8/NhGtULCwnSTm3TruU8RKmpA.LliCJXfLJPwvRSjUtBg2.fu</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>197.210.224.95</ipaddress>
+  <createdate>2016-01-24 05:51:30</createdate>
+  <lastupdateddate>2016-02-05 06:35:04</lastupdateddate>
+  <lastlogindate>2016-01-27 05:57:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="619">In the cross of Christ I glory</fav>
+  </favourites>
+</user>

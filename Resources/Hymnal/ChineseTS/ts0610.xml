@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀，榮耀，今看見</title>
+  <index>true</index>
+  <category>建造與合一</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5123332321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>藉 主 寶 血， 我 們 已 被 贖 回。 藉 主 寶 血， 我 們 已 被 贖 回。 藉 主 寶 血， 我 們 已 被 贖 回。 榮 耀， 榮 耀， 今 看 見！ 我 們 罪 惡 全 得 赦 免， 全 得 赦 免。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0610.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">藉主寶血，
+我們已被贖回。
+藉主寶血，
+我們已被贖回。
+藉主寶血，
+我們已被贖回。
+榮耀，榮耀，今看見！
+我們罪惡全得赦免，
+全得赦免。</stanza>
+	<stanza type="verse" number="2">蒙主揀選，
+我們都是祭司。
+蒙主揀選，
+我們都是祭司。
+蒙主揀選，
+我們都是祭司。
+榮耀，榮耀，今看見！
+我們侍立在神面前，
+在神面前。</stanza>
+	<stanza type="verse" number="3">在基督裡，
+我們都是弟兄。
+在基督裡，
+我們都是弟兄。
+在基督裡，
+我們都是弟兄。
+榮耀，榮耀，今看見！
+在主愛裡一同向前，
+一同向前。</stanza>
+	<stanza type="verse" number="4">在基督裡，
+我們都是姊妹。
+在基督裡，
+我們都是姊妹。
+在基督裡，
+我們都是姊妹。
+榮耀，榮耀，今看見！
+在主愛裡一同向前，
+一同向前。</stanza>
+	<stanza type="verse" number="5">弟兄姊妹，
+我們彼此相愛。
+弟兄姊妹，
+我們彼此相愛。
+弟兄姊妹，
+我們彼此相愛。
+榮耀，榮耀，今看見！
+『非拉鐵非』在此出現，
+在此出現。</stanza>
+	<stanza type="verse" number="6">我們站住地方一的立場。
+我們站住地方一的立場。
+我們站住地方一的立場。
+榮耀，榮耀，今看見！
+主的恢復完全實現，
+完全實現。</stanza>
+  </lyrics>
+</hymn>

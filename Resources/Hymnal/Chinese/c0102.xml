@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>救主基督已復活</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><cebuano num="117"/><chinese num="102"/><english num="117"/><french num="19"/><german num="117"/><korean num="102"/><portuguese num="57"/><russian num="24"/><spanish num="56"/><tagalog num="117"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/( ._1/ ._2/ 5/ ._1) 7/( ._1/) | 7( 6) 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/( 7/  ._1/ 5/ 6/ 7/) ._1/( ._2/) | ._1( 7) ._1 - |</melody>
+  <layout>
+	<singingstanza>救 主 基 督 已 復 活， 阿 利 路 亞！ 死 亡 捆 索 全 解 脫， 阿 利 路 亞！ 天 使 讚 美 樂 歡 騰， 阿 利 路 亞！ 罪 人 蒙 恩 也 響 應， 阿 利 路 亞！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主基督已復活，
+阿利路亞！
+死亡捆索全解脫，
+阿利路亞！
+天使讚美樂歡騰，
+阿利路亞！
+罪人蒙恩也響應，
+阿利路亞！</stanza>
+	<stanza type="verse" number="2">祂從陰間已脫出，
+阿利路亞！
+死阿！你鉤在何處？
+阿利路亞！
+祂曾死過又復生，
+阿利路亞！
+墳墓！你今有何能？
+阿利路亞！</stanza>
+	<stanza type="verse" number="3">祂曾死過救贖成，
+阿利路亞！
+毀滅仇敵勝利贏，
+阿利路亞！
+死亡不能拘禁祂，
+阿利路亞！
+祂升高天仇敵踏，
+阿利路亞！</stanza>
+	<stanza type="verse" number="4">我們與祂同復活，
+阿利路亞！
+與祂高升天上坐，
+阿利路亞！
+與祂一樣的高昂，
+阿利路亞！
+脫開地上諸捆綁，
+阿利路亞！</stanza>
+  </lyrics>
+</hymn>

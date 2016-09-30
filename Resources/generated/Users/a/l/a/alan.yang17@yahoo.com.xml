@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>yangzhi</firstname>
+    <lastname></lastname>
+    <email>alan.yang17@yahoo.com</email>
+    <password>PB489q3ItKYAaycQoafCZw%3D%3D</password>
+    <gender></gender>
+    <country>China</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-04 17:43:04</createdate>
+    <lastupdateddate>2014-05-04 17:43:04</lastupdateddate>
+    <lastlogindate>2014-04-17 02:43:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="811">My heart is hungry, my spirit doth thirst</fav>
+        <fav category="default" type="ch" num="48">宴筵方過我們尚感</fav>
+    </favourites>
+</user>

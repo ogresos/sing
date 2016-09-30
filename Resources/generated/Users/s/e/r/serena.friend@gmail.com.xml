@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Serena</firstname>
+    <lastname>Friend</lastname>
+    <email>serena.friend@gmail.com</email>
+    <password>1IIsBtygYIsfTArSH9o2Mw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>66.87.66.98</ipaddress>
+    <createdate>2013-04-21 17:27:12</createdate>
+    <lastupdateddate>2013-04-21 17:33:06</lastupdateddate>
+    <lastlogindate>2013-04-21 17:27:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    </favourites>
+</user>

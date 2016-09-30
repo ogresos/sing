@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Don</firstname>
+    <lastname>Mighton</lastname>
+    <email>dstlm@yahoo.com</email>
+    <password>0cVMtnBPJVaC8vrcDJXGyQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>100.40.78.140</ipaddress>
+    <createdate>2012-12-01 13:25:28</createdate>
+    <lastupdateddate>2012-12-01 13:27:30</lastupdateddate>
+    <lastlogindate>2012-12-01 13:25:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="509">A flowing river and a tree</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>接待聖徒</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>111111712</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>真 歡 喜！ 我 們 接 待 聖 徒； 真 歡 喜！ 我 們 接 待 聖 徒。 真 歡 喜！ 享 受 美 好 交 通。 高 唱 榮 耀 阿 利 路 亞！ 這 是 何 等 祝 福！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0739.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">真歡喜！我們接待聖徒；
+真歡喜！我們接待聖徒。
+真歡喜！享受美好交通。
+高唱榮耀阿利路亞！
+這是何等祝福！</stanza>
+	<stanza type="verse" number="2">真歡喜！我們接待聖徒；
+真歡喜！藉此服事恩主。
+真歡喜！召會生活豐富。
+高唱榮耀阿利路亞！
+神的家得恢復！</stanza>
+  </lyrics>
+</hymn>

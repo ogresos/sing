@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Ben</firstname>
+  <lastname>Thomas</lastname>
+  <email>capt.bthomas@gmail.com</email>
+  <password>wRDo2yRb%2Fg6tAd4r8r329Q%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>174.236.226.239</ipaddress>
+  <createdate>2013-02-25 07:37:58</createdate>
+  <lastupdateddate>2015-05-31 20:15:05</lastupdateddate>
+  <lastlogindate>2015-05-31 20:15:05</lastlogindate>
+  <failedlogincount>5</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1319">That which for long the prophets sought</fav>
+  </favourites>
+</user>

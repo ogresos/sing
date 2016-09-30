@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>揀選</title>
+  <index>true</index>
+  <numbers><chinese num="ns:513c"/><english num="ns:513"/></numbers>
+  <category></category>
+  <creators>
+	<author biodate="" biolink="" fullname="">新歌頌詠第28首</author>
+  </creators>
+  <melody>| (startrepeat4) 5_. 5_./ 6_./ 5_.. 5_./ | 5_./ 1/ 1 - - | 6_./ 6_./ 6_./ 6_./ 1 6_./ 1/ | 7_. - - - (break) | 7_. 7_./ 7_./ 2. 7_./ | 1 1/ 2/ 1 - | 1/ 1/ 1/ 1/ 3/ 2/ 1/ 2/ | 2 - - - (break) | 3 3/ 4/ 3. 2/ | 2/ 1/ 1( 1.) 1/ | 4 3 2 1 | 7_. - 6_.( 7_.) (break) | 5_. 5_./ 5_./ 6_.. 6_./ | 7_. 2 1 - | 3/ 1/ 1/ 6_./ 1 7_./ 1/ | (alt1) 1 - - - (break) | (alt2) 1 - - 0/ 5/ (endalt) | 5/ 4/ 3/ 2/ 4/ 3/( 3/) 2/ | 2/( 1/) 1( 1.) 3/ | 4/ 4/ 4/ 4/ 6 4/( 3/) | 2 - - - (break) | 5/ 5/ 5/ 5/ 5 - | 5 3/ 2/ 1( 2) | 3/ 1/ 1/ 6_./ 1 7_./ 1/ | 1 - - 0/ 5/ (break) | 5/ 4/ 3/ 2/ 4/ 3/( 3/) 2/ | 2/( 1/) 1( 1.) 3/ | 4/ 4/ 4/ 4/ 6 4/( 3/) | 2 - - - (break) | 5/ 5/ 5/ 5/ 5 - | 5 3/ 2/ 1( 2) | 3/ 1/ 1/ 6_./ 1 7_./ 1/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza end="-1">當 我 正 為 世 務 忙 碌， 主 對 我 說： 來 跟 從 我！ 疲 乏 之 中 我 仍 躊 [skip1] 躇， 祂 [skip1] 又 呼 召 不 肯 放 過； 喜 樂 光 明 立 即 湧 出， 在 我 答 應 之 時， 榮 耀 安 息 加 上 歡 [skip1] 呼， 在 我 一 路 跟 隨 日 子。 [skip1] 我 在 此 築 起 奉 獻 的 祭 壇， 求 賜 炭 火 將 我 鍛 煉， 主， 你 揀 選 我 是 因 恩 憐， 我 揀 選 你 是 為 償 願。 這 一 生 歲 月 看 似 無 希 奇， 竟 是 把 地 聯 結 與 天， 主 你 的 笑 容 是 我 歡 喜， 定 睛 奔 向 永 世 冠 冕。</singingstanza>
+    <singingstanza2>2. 世 間 雖 有 亨 通 大 路， 眾 人 蜂 擁， 汲 汲 營 求， 只 是 我 心 早 有 所 [skip1] 屬， 讓 [skip1] 他 們 去 盡 力 占 有； 主， 我 已 經 蒙 你 聖 別， 專 一 為 神 用 途， 你 手 掌 管 我 的 一 [skip1] 切， 使 他 全 部 用 在 新 路。</singingstanza2>
+    <singingstanza3>3. 一 人 不 能 事 兩 個 主， 要 神 又 要 世 界 賞 賜， 不 是 保 留， 就 是 傾 [skip1] 注， 香 [skip1] 膏 只 能 枉 費 一 次； 主， 你 對 我 乃 是 真 愛， 無 悔 愛 你 不 改， 讓 我 天 天 向 你 表 [skip1] 白： 惟 你 配 得 我 命 我 愛。</singingstanza3>
+  </layout>
+  <videos>
+    <video title="" youtubeid="hSnigPb5iZA"/>
+  </videos>
+  <music>
+    <midiref type="ns" num="513"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">當我正為世務忙碌，主對我說：來跟從我！
+疲乏之中我仍躊躇，祂又呼召不肯放過；
+喜樂光明立即湧出，在我答應之時，
+榮耀安息加上歡呼，在我一路跟隨日子。</stanza>
+    <stanza type="verse" number="2">世間雖有亨通大路，眾人蜂擁，汲汲營求，
+只是我心早有所屬，讓他們去盡力占有；
+主，我已經蒙你聖別，專一為神用途，
+你手掌管我的一切，使他全部用在新路。</stanza>
+    <stanza type="verse" number="3">一人不能事兩個主，要神又要世界賞賜，
+不是保留，就是傾注，香膏只能枉費一次；
+主，你對我乃是真愛，無悔愛你不改，
+讓我天天向你表白：惟你配得我命我愛。</stanza>
+    <stanza type="chorus" number="">我在此築起奉獻的祭壇，求賜炭火將我鍛煉，
+主，你揀選我是因恩憐，我揀選你是為償願。
+這一生歲月看似無希奇，竟是把地聯結與天，
+主你的笑容是我歡喜，定睛奔向永世冠冕。</stanza>
+  </lyrics>
+</hymn>

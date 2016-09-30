@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>更多得著基督</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>11156533221</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>更 多 得 著 基 督， 多 又 多 又 多！ 更 多 得 著 基 督， 多 過 從 前 所 得 著。 更 多 得 祂 作 生 命， 豐 富 無 可 加； 更 多 得 著 基 督， 我 將 自 己 多 給 祂。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0205.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">更多得著基督，
+多又多又多！
+更多得著基督，
+多過從前所得著。
+更多得祂作生命，
+豐富無可加；
+更多得著基督，
+我將自己多給祂。</stanza>
+	<stanza type="verse" number="2">更多喫主耶穌，
+多又多又多！
+更多喫主耶穌，
+喫得比前還要多。
+更多喫祂作食物，
+豐富又美佳。
+更多喫主耶穌，
+我們時刻都喫祂。</stanza>
+  </lyrics>
+</hymn>

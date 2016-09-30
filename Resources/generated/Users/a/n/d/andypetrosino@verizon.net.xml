@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Andrew</firstname>
+    <lastname>Petrosino</lastname>
+    <email>andypetrosino@verizon.net</email>
+    <password>KLkCfMIcbEzbpht2dwQZmw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>71.252.164.220</ipaddress>
+    <createdate>2010-04-21 12:07:41</createdate>
+    <lastupdateddate>2010-05-26 07:55:32</lastupdateddate>
+    <lastlogindate>2010-05-26 07:55:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    </favourites>
+</user>

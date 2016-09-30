@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Meu Senhor me guia sempre</title>
+  <index>true</index>
+  <category>Pela Direção Do Senhor</category>
+  <numbers><cebuano num="701"/><chinese num="508"/><english num="701"/><german num="701"/><korean num="508"/><portuguese num="335"/><russian num="525"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="www.hymns.net/stories/crosby.htm">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - - - 3. 3/ | 3 - - 3 2 1 | 5_. - 1 - 1 3 | 2 - - 7_. 1 2 (break) | 3 - - - 3. 3/ | 4 - - 3 2 1 | 3 - 2 - 2 2 | 2 - - 6_. 7_. 1 (break) | 7_. - - - 6_. 5_. | 1 - - 2 1 6_. | 5_. - 1 - 1 2 | 3 - - 1 4 3 (break) | 2 - - - 3 4 | 5 - - 3 2 1 | 2 - 1 - 7_. 6_. | 5_. 1 3 - 2 - (break) | 3 - - - 3 4 | 5 - - 3 2 1 | 2 - 1 - 7_. 6_. | 5_. 1 3 - 2 - | 1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="701"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Meu Senhor me guia sempre,
+Que mais posso desejar?
+Com mercê me tem guiado,
+Dele posso duvidar?
+Paz perfeita, gozo infindo,
+E divina proteção
+Há, se Nele permaneço,
+Em qualquer situação.</stanza>
+	<stanza type="verse" number="2">Meu Senhor me guia sempre,
+Animando-me a andar;
+Sua graça me concede,
+E do vivo pão me dá.
+Inda que meus pés se cansem
+E sedento esteja enfim,
+Bebo duma Fonte eterna,
+Desfrutável para mim.</stanza>
+	<stanza type="verse" number="3">Meu Senhor me guia sempre,
+Oh! que graça singular!
+O descanso prometido
+Em Seu seio vou provar.
+Redimido plenamente,
+Com os santos do Senhor,
+Cantarei eternamente:
+Cristo sempre me guiou.</stanza>
+  </lyrics>
+</hymn>

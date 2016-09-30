@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Janet</firstname>
+  <lastname>Niblack</lastname>
+  <email>janetniblack@yahoo.com</email>
+  <password>$2y$10$ZhiGNIqwiSSrS9ebzF.MMeiudbQ25FPAZVbD8W.3L6KgVfWoGCFPG</password>
+  <gender/>
+  <country/>
+  <ipaddress>108.85.44.11</ipaddress>
+  <createdate>2015-05-20 05:02:18</createdate>
+  <lastupdateddate>2015-05-20 05:09:52</lastupdateddate>
+  <lastlogindate>2015-05-20 05:08:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聖父我們向你下拜</title>
+  <index>true</index>
+  <category>敬拜父－祂的聖潔</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>聖 父， 我 們 向 你 下 拜， 獻 上 同 聲 的 歌 頌； 你 何 聖 別、 你 何 超 凡， 配 得 永 遠 的 尊 崇。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聖父，我們向你下拜，
+獻上同聲的歌頌；
+你何聖別、你何超凡，
+配得永遠的尊崇。</stanza>
+	<stanza type="verse" number="2">親愛父神，你心是愛，
+你的作為是公義，
+但你性情卻是聖別，
+使我有分你自己。</stanza>
+	<stanza type="verse" number="3">你已藉著基督寶血，
+使我永遠成聖潔；
+你也藉著你的真理，
+使我全人被分別。</stanza>
+	<stanza type="verse" number="4">你曾藉著你的聖靈，
+將我聖別歸於你；
+叫我完全得以成聖，
+全人，靈、魂與身體。</stanza>
+	<stanza type="verse" number="5">藉著你恩，我已得到
+基督聖潔的生命；
+因此使我得以有分
+你那聖別的性情。</stanza>
+	<stanza type="verse" number="6">將來在那聖城之中，
+完全有分你聖別，
+永遠要作極峰見證：
+你是如何的聖潔！</stanza>
+  </lyrics>
+</hymn>

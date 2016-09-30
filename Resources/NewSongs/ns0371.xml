@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My inner parts have yearned for Him</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:371"/><lsmyp num="332"/></numbers>
+  <hymncode>51231216551231432</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F - | C - - - | C - Dm - | G - - - | E - E7 - | Am - F - | C - G7 - | C - - - | G - - - | C - - - | E - E7 - | Am - - - | F - - - | C - - - | G - G7 - | C - - - ||</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 2/ | 3. 1/ 2/( 1) 6_./ | 5_. - 0/ 5_./ 1/ 2/ | 3. 1/ 4 3 (break) | 2 - - 2/ 2/ | 3. 3/ 3. 2/ | 1. 1/ 1. 2/ |  3/ 1 5_./ 5_. 7_. (break) | 1 - - (Chorus) 3/ 4/ | 5 - - 6 | 3 - - 3/ 3/ | 3. 5#/ 7. ._1/ (break) | 6 - - 6/ 6/ | 6/ 4. 0/ 6/ 6/ 6/ | 5/( 3.)( 3) 1/ 1/ | 7_.. 7_./ 6_.. 7_./ | 1 - 0 - ||</melody>
+  <layout>
+    <singingstanza>My in -- ner parts have yearned for Him; To my Be -- loved I now o -- pen; My Be -- lov -- ed's gone, He has with -- drawn, I o -- pen but He was gone. I am sick with love, I am sick with love for Him. If you find Him, please tell Him that I am sick with love for Him.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 5:4-8</link>
+  </links>
+  <music>
+    <midi location="ns" length="61">ns0371.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My inner parts have yearned for Him;
+To my Beloved I now open;
+My Beloved's gone, He has withdrawn,
+I open but He was gone.</stanza>
+    <stanza type="chorus" number="">I am sick with love, I am sick with love for Him.
+If you find Him, please tell Him that
+I am sick with love for Him.</stanza>
+    <stanza type="verse" number="2">I sought Him but I found Him not.
+I called Him yet He answered not.
+If you find my love please tell Him that
+I'm sick with love for Him.</stanza>
+  </lyrics>
+</hymn>

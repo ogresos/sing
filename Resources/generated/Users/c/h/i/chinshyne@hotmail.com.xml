@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>jang</firstname>
+    <lastname>chin</lastname>
+    <email>chinshyne@hotmail.com</email>
+    <password>p%2FmIM1NvFZqlU96YTrd8TQ%3D%3D</password>
+    <gender>M</gender>
+    <country>tw</country>
+    <ipaddress>118.167.167.123</ipaddress>
+    <createdate>2012-08-29 10:08:12</createdate>
+    <lastupdateddate>2012-09-04 23:05:51</lastupdateddate>
+    <lastlogindate>2012-08-29 10:08:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="351">Deep Within I know You're My Only Love</fav>
+        <fav category="default" type="ns" num="351">Deep Within I know You're My Only Love</fav>
+        <fav category="default" type="h" num="1275">Glorious things to thee are spoken</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="ns" num="361">The Goal of the Gospel</fav>
+    </favourites>
+</user>

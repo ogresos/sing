@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦神你是永遠父</title>
+  <index>true</index>
+  <category>敬拜父－是永存者</category>
+  <numbers><cebuano num="10"/><chinese num="7*"/><english num="10*"/><german num="10"/><korean num="7*"/><portuguese num="5"/><russian num="4"/><spanish num="5"/><tagalog num="10"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2/ 1 4 | 3. 2/ 1 - | 2. 1/ 7_. 6 | 5. 4/ 3 - (break) | 3. 2/ 1 4 | 3. 2/ 1 1/ 1/ | 2 4 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>哦 神， 你 是 永 遠 父， 也 是 自 有 永 有 主！ 你 比 古 者 還 要 古， 你 比 初 者 還 要 初！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="548"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦神，你是永遠父，
+也是自有永有主！
+你比古者還要古，
+你比初者還要初！</stanza>
+	<stanza type="verse" number="2">你是永遠到永遠，
+超過時間和空間！
+永永遠遠的完滿，
+無始無終的無限！</stanza>
+	<stanza type="verse" number="3">你是萬有的根源，
+早過大地並諸天！
+你比先者還要先，
+你比前者還要前！</stanza>
+	<stanza type="verse" number="4">你是生命永存留，
+世世代代無盡休！
+你比久者還要久，
+你比後者還要後！</stanza>
+	<stanza type="verse" number="5">首先，你是阿拉法，
+末後，你是俄梅嘎！
+自始至終無所差，
+完全豐滿無可加！</stanza>
+	<stanza type="verse" number="6">我們讚美你永遠，
+我們稱頌你無限！
+讚美你是何豐滿，
+稱頌你是何完全！</stanza>
+  </lyrics>
+</hymn>

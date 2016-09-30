@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When we believe into the Son</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Unity</category>
+  <numbers><chinese num="ts:614"/><english num="ns:386"/></numbers>
+  <hymncode>12344432313222343</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - G7 - | C - Am - | Dm - G7 - | C - C7 - | F - G7 - | C - Am - | Dm - G7 - | C - - - | G - - - | G7 - - - | C - - F/C | C - - - | G - - - | G7 - - - | C - F/C - | C - Em - | F - Dm - | G - G7 - | C - - - | Am - - - | F - Dm - | G - G7 - | C - - - | Dm - - - | G7 - - - | C - - - ||</chords>
+  <melody>| 0 (Chorus) 1 2 3 | 4 4/ 4/( 4/)( 3/) 2 | 3 - 1 3 | 2/ 2 2/ 2/( 3/) 4 (break) | 3 1 2 3 | 4 4/ 4/( 4/)( 3/) 2 | 3 - 1 3 | 2/ 2 2/ 2/( 1/) 7_. (break) | 1 (Chorus) 0 (Brothers) 5_. 6_. | 5_. (Sisters) 7_./ 7_./ 7_./ 1. | 2 - (Brothers) 2/( 1/) 7_. | 1 (Sisters) 3/ 3/ 3/ 4. (break) | 3 - (Brothers) 5_. 6_. | 5_. (Sisters) 7_./ 7_./ 7_./ 1. | 2 - (Everyone) 2/( 1/) 7_. | 1 - - - (break) | 0/ (Verse_1) 1/ 1/ 1/ 1/ 7_./( 7_.) | 7_./ 6_. 6_./ 6_. - | 0/ 7_./ 7_./ 7_./ 7_./ 6_. 6_./ | 6_./ 5_. 5_./ 5_. - | 0/ 1/ 1/ 1/ 1/ 7_./ 7_./ 7_./ | 7_./ 6_. 6_./ 6_. - | 0 7_./ 7_./ 7_. 6_./ 7_./ | 1 - - 7_./ 1/ | 2 - - - | 0 2 2/ 1/( 1/) 7_./ | 1 - - - ||</melody>
+  <layout>
+    <singingstanza>When we be -- lieve in -- to the Son, By His Spir -- it, we are made one; When we be -- lieve in -- to the Son, By His Spir -- it, we are made one. We are one. [skip5] We are one. [skip5] We are one. [skip5] We are one. The world is long -- ing, seek -- ing for peace, Yet wars and ru -- mors of wars still in -- crease. There is no way for men to end all this fear, All this pain, all this hate, all these tears, Yet Je -- sus is here!</singingstanza>
+    <singingstanza2>[skip35] We are all made one. [skip3] We are all made one. [skip3] We are all made one.</singingstanza2>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="61">ns0386.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">When we believe into the Son,
+By His Spirit, we are made one;
+When we believe into the Son,
+By His Spirit, we are made one.
+
+Brothers: We are one.
+Sisters: We are all made one.
+Brothers: We are one.
+Sisters: We are all made one.
+Brothers: We are one.
+Sisters: We are all made one.
+Everyone: We are one.</stanza>
+    <stanza type="verse" number="1">The world is longing, seeking for peace,
+Yet wars and rumors of wars still increase.
+There is no way for men to end all this fear,
+All this pain, all this hate, all these tears,
+Yet Jesus is here!</stanza>
+    <stanza type="verse" number="2">We are dwelling in the love of the Lord,
+He our unity has now restored.
+Brothers, sisters in one family,
+As the Father and the Son, always one,
+So are we!</stanza>
+    <stanza type="verse" number="3">How good and pleasant it can be
+When brothers dwell in unity;
+Like sweet anointing and the mountain dew;
+Life eternal for me and for you&amp;mdash;
+All things are new!</stanza>
+  </lyrics>
+</hymn>

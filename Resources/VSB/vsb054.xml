@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's a gospel of today</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><english num="ns:111"/><vsb num="54"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Donny Wise">D. W.</author>
+    <composer biodate="" biolink="" fullname="Donny Wise">D. W.</composer>
+  </creators>
+  <hymncode>33354446555344432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - - | Dm - - - | C/E - - - | Dm - - - | C - - - | Dm - - - | C/E - - - | Dm - G7 - | C - G/B - | Am - C/G - | F - Dm - | G - G/B - | C - G/B - | Am - C/G - | F - Dm - | Gsus4 - G - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3 5 | 4 4/ 4/( 4) 6 | 5 5/ 5/( 5) 3 | 4 4/ 4/( 4/) 3/ 2 (break) | 0 3/ 3/ 3 5 | 4/ 4/ 4/ 4/( 4) 6 | 5 5/ 5/( 5) 3 | 4 4/ 4/( 4/) 3/ 2 (break) | 3 - 2 - | 3( - - 5 | 4) - 4 3 | 2. 1/( 1) 2 | 3 - 2 - | 3( - - 5 | 4) - 4 3 | 2. 1/( 1) 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>There's a gos -- pel of to -- day That says be -- lieve and you'll be saved and then You can go to heav -- en and see the pear -- ly gates And walk the gol -- den streets; Words like these fail to treat All the van -- i -- ty that is hid -- den in me.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="ns" num="59"></link>
+    <link type="ref">Luke 15</link>
+  </links>
+  <music>
+    <midi location="ns" length="34">ns0111.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's a gospel of today
+That says believe and you'll be saved and then
+You can go to heaven and see the pearly gates
+And walk the golden streets;
+Words like these fail to treat
+All the vanity that is hidden in me.</stanza>
+    <stanza type="verse" number="2">But the gospel is to me
+The Triune God within humanity
+As the Spirit reaching me to be in me
+The one reality;
+Love untold&amp;mdash;Gospel Thee
+Never getting old&amp;mdash;story told eternally.</stanza>
+    <stanza type="verse" number="3">Left the ninety-nine behind&amp;mdash;
+You searched until the lost sheep You did find,
+Laid me on Your shoulders there, You bore me in
+Your tender loving care;
+Rejoicing&amp;mdash;You found me
+Though a small lost sheep&amp;mdash;You gave all to come find me.</stanza>
+    <stanza type="verse" number="4">Sweeping in my deepest parts,
+You lit a lamp and searched my inward heart,
+Sanctifying deep within You shined in me,
+Exposed me of my sin;
+Repenting&amp;mdash;now I see
+Lord, You're sprinkling me&amp;mdash;with the blood You shed for me.</stanza>
+    <stanza type="verse" number="5">Eagerly awaiting me
+That I the slightest turn to Thee would make
+Though my life had been a wreck, You ran to me
+And fell upon my neck
+Kissing me, affectionately;
+Killed the calf for me&amp;mdash;"Let us eat and be merry."</stanza>
+  </lyrics>
+</hymn>

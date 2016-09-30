@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He lives, the great Redeemer lives (Alternate Tune)</title>
+  <category>Assurance and Joy of Salvation&amp;mdash;Secured by Divine Provisions</category>
+  <creators>
+    <author biodate="1716-1778" biolink="">Anne Steele</author>
+    <composer biodate="1800-1885" biolink="">Henry Kemble Oliver</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>33343554344433445</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7/D - C - | G/B - G7 - | C - - - | F/A - - - | C/G - - - | D7 - - - | G - - - | C/E - G7/D - | C - - - | G - C/E - | F - - - | C - F - | C/G - Am - | F - G7 - | C - - - |</chords>
+  <melody>| 3 - 3 3 | 4 - 3( 5) | 5 - 4 - | 3 - - - | 4 - 4 4 | 3 - - 3 | 4# - 4# - | 5 - - - | 5 - 5 4 | 3 - 1 - | 7_.( 1) 2( 3) | 4 - - - | 3 - 6 6 | 5 - 3 - | 1 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>He lives, the great Re -- deem__ er lives, What joy the blest as -- su -- rance gives! And now, be -- fore His Fath -- er, God, Pleads the full me -- rits of His blood.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj011.xml</link>
+    <link type="relevant" category="h" num="326" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0326b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He lives, the great Redeemer lives,
+What joy the blest assurance gives!
+And now, before His Father, God,
+Pleads the full merits of His blood.</stanza>
+    <stanza type="verse" number="2">Repeated crimes awake our fears,
+And Justice armed with frowns appears;
+But in the Savior's lovely face
+Sweet Mercy smiles, and all is peace.</stanza>
+    <stanza type="verse" number="3">Hence, then, ye black, despairing thoughts;
+Above our fears, above our faults,
+His mighty intercessions rise,
+And guilt recedes, and terror dies.</stanza>
+    <stanza type="verse" number="4">In every dark, distressful hour,
+When sin and Satan join their power,
+Let this dear hope repel the dart,
+That Jesus bears us on His heart.</stanza>
+    <stanza type="verse" number="5">Great Advocate, almighty Friend!
+On Him our humble hopes depend;
+Our cause can never, never fail,
+For Jesus pleads, and must prevail.</stanza>
+  </lyrics>
+</hymn>

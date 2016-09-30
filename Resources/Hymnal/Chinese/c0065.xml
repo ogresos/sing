@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌大名榮耀有能</title>
+  <index>true</index>
+  <category>讚美主－祂的名</category>
+  <numbers><cebuano num="73"/><chinese num="65"/><english num="73"/><french num="14"/><german num="73"/><korean num="65"/><russian num="20"/><spanish num="41"/><tagalog num="73"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 0 - - 5 4/ | 3.( 3) 3/ 3/( 2/) 3/ | 5. 4. 4 3/ | 2.( 2) 5/ 6/( 5/) 4/ (break) | 3.( 3.) 5 4/ | 3.( 3) 5/ 6/( ._1/) 6/ | 5. 3. 3 3/ | 2.( 2) 3/ 5/( 4/) 2/ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>耶 穌 大 名， 榮 耀、 有 能， 是 我 投 靠、 是 我 倚； 『坐 在 天 上，』 我 今 讚 美， 你 名 就 是 我 勝 利。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="73"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌大名，榮耀、有能，
+是我投靠、是我倚；
+『坐在天上，』我今讚美，
+你名就是我勝利。</stanza>
+	<stanza type="verse" number="2">可頌耶穌、大能救主，
+我所需要在你名；
+只要呼吸耶穌這名，
+就是飲於你生命。</stanza>
+	<stanza type="verse" number="3">耶穌大名，榮耀、有能，
+天地宣告祂大能；
+然而只有蒙恩罪人，
+知道這名的豐盛！</stanza>
+	<stanza type="verse" number="4">耶穌！耶穌！最貴之名，
+戰時兵器、病時膏；
+在你名裡生活爭戰，
+就有喜樂和榮耀。</stanza>
+  </lyrics>
+</hymn>

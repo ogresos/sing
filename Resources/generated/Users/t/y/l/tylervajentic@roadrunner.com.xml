@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Tyler</firstname>
+<lastname>Vajentic</lastname>
+<email>tylervajentic@roadrunner.com</email>
+<password>$1$eWrlIE7d$SCiKUVAcPAUIN6q6pyRwS0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>74.75.252.214</ipaddress>
+<createdate>2009-07-18 18:56:00</createdate>
+<lastupdateddate>2009-09-15 19:16:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+        <fav category="default" type="h" num="882">Encamped along the hills of light</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+    </favourites>
+</user>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cristo um dia encarnou-se, fez-se homem como eu</title>
+  <index>true</index>
+  <category>Vida</category>
+  <numbers><cebuano num="1017"/><chinese num="693*"/><english num="1017"/><french num="199"/><german num="1017"/><korean num="693"/><portuguese num="452"/><russian num="181"/><spanish num="474"/><tagalog num="1017"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5./ 5// | 5/ 5/ 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1./ 7// | 6./ 6// 6./ 7// ._1./ 7// ._1./ 6// | 5./ 6// 5./ 3// 5 5./ 5// (break) | 5./ 5// 5./ 4// 3./ 5// ._1./ ._2// | ._3./ ._3// ._3./ ._2// ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 (break) | (Chorus) 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 0 | 6. 7/ ._1./ 7// ._1./ 6// | 5 - 3 - (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1017"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cristo um dia encarnou-se, fez-se homem como eu,
+Para me livrar da raça de Adão na cruz morreu,
+Ressurgiu e, como Espírito da vida, me encheu
+    E minha vida é.</stanza>
+	<stanza type="chorus" number="">Cristo é vida! Aleluia!
+Cristo é vida! Aleluia!
+Cristo é vida! Aleluia!
+É vida dentro em mim!</stanza>
+	<stanza type="chorus" number="">Que vitória! Aleluia!
+Que vitória! Aleluia!
+Que vitória! Aleluia!
+Meu tudo Cristo é!</stanza>
+  </lyrics>
+</hymn>

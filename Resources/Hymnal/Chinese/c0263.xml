@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>快樂日快樂日</title>
+  <index>true</index>
+  <category>得救的證實與快樂－一般</category>
+  <numbers><chinese num="263"/><english num="347"/><korean num="263"/><tagalog num="347"/></numbers>
+  <creators>
+	<author biodate="1702-1751" biolink="">Translated from Philip Doddridge</author>
+  </creators>
+  <melody>| 0 - - 5_. 1 2 | 3 - - 5_. 1 2 | 3 - - 3 4 3 | 2 - - 1 3 2 (break) | 1 - - 5_. 1 2 | 3 - - 5_. 1 2 | 3 - - 3 4 3 | 2 - - 1 3 2 (break) | 1 - - (Chorus) 0 3. 4/ | 5 - - - 1. 2/ | 3 - - 3 4 3 | 2 - - 1 3 2 (break) | 1 - - 5 5 5 | 5 - - 5 6 5 | 3 - - 5 5 5 | 5 - - 5 6 5 (break) | 3 - - 0 3. 4/ | 5 - - - 1. 2/ | 3 - - 3 4 3 | 2 - - 1 3 2 | 1 - - 0 - - |</melody>
+  <layout>
+	<singingstanza>今 日 何 日！ 我 意 立 定， 揀 選 耶 穌 作 我 救 主！ 我 心 歡 樂 如 火 熒 熒， 將 此 歡 樂 到 處 傳 述。 快 樂 日！ 快 樂 日！ 耶 穌 救 我， 使 我 歡 樂！ 贖 罪 寶 血 洗 我 罪 惡！ 生 命 活 水 解 我 乾 渴！ 快 樂 日！ 快 樂 日！ 耶 穌 救 我， 使 我 歡 樂！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="347"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">今日何日！我意立定，
+揀選耶穌作我救主！
+我心歡樂如火熒熒，
+將此歡樂到處傳述。</stanza>
+	<stanza type="chorus" number="">快樂日！快樂日！
+耶穌救我，使我歡樂！
+贖罪寶血洗我罪惡！
+生命活水解我乾渴！
+快樂日！快樂日！
+耶穌救我，使我歡樂！</stanza>
+	<stanza type="verse" number="2">此意一定，永不反悔，
+主今屬我，我也屬主；
+祂既吸引，我必跟隨，
+歡然答應祂的招呼。</stanza>
+	<stanza type="verse" number="3">前我二意，今可安定，
+讓主作我惟一中心：
+注定於祂，永不別傾，
+有祂就有一切福分。</stanza>
+	<stanza type="verse" number="4">今在主前立定此意，
+更願此意與日俱新，
+直到臨終雙目垂閉，
+進入永遠與祂更親。</stanza>
+  </lyrics>
+</hymn>

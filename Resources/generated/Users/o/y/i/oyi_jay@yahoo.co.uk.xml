@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jane</firstname>
+    <lastname>Otse</lastname>
+    <email>oyi_jay@yahoo.co.uk</email>
+    <password>$1$nJbRRqeL$eya/tKAvuSLd.17/uYtvx.</password>
+    <gender>F</gender>
+    <country>Nigeria</country>
+    <ipaddress>77.220.15.130</ipaddress>
+    <createdate>2008-10-12 03:20:34</createdate>
+    <lastupdateddate>2013-01-05 01:17:23</lastupdateddate>
+    <lastlogindate>2013-01-05 01:17:23</lastlogindate>
+    <failedlogincount>3</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="ns" num="8">Blend us, Lord, Blend us, Lord</fav>
+        <fav category="default" type="ns" num="9">Call on Your Name</fav>
+        <fav category="default" type="h" num="295">God's Christ, who is my righteousness</fav>
+        <fav category="default" type="ns" num="293">I'm a God-man</fav>
+        <fav category="default" type="ns" num="224">I've given up the world because</fav>
+        <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+        <fav category="default" type="ns" num="239">Lord, take my life</fav>
+        <fav category="default" type="ns" num="23">Lovers of Christ</fav>
+        <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="c" num="32">There's a part inside of me</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+    </favourites>
+</user>

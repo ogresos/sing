@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Thuong Thuy Ngoc</firstname>
+  <lastname>Le</lastname>
+  <email>thuongthuyle@hotmail.com</email>
+  <password>$2y$10$d9dk7O1jDk31cWgqL5nGauqxyC2/o1eTJlRU8OaNN95mXQaVj39Q.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.202.150.45</ipaddress>
+  <createdate>2016-08-29 16:33:23</createdate>
+  <lastupdateddate>2016-08-29 16:43:41</lastupdateddate>
+  <lastlogindate>2016-08-29 16:34:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="840">Freed from self and Adam's nature</fav>
+    <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+    <fav category="default" type="h" num="839">Lord, Thou art a potter skilled</fav>
+    <fav category="default" type="h" num="846">Oh, may my spirit flow</fav>
+    <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+    <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+    <fav category="default" type="h" num="837">We praise Thee, Lord, for Thy great plan</fav>
+  </favourites>
+</user>

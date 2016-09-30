@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ikaw Mismo'y antigo nga</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KAWALANG-HANGGAN</category>
+  <numbers><cebuano num="81"/><chinese num="72*"/><english num="81"/><german num="81"/><korean num="72*"/><russian num="303"/><spanish num="47"/><tagalog num="81"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 5 4 | 3( 5_) ._1 | ._1( ._2) 7 | ._1 - ._3 | ._2 - ._2 | ._3 - ._2/( ._1/) | 7 - 6 | 5 - - (break) | ._1 ._1 5 | 6( 7) ._1 | ._4.( ._3/) ._2/( ._1/) | ._1( 7) 6 | 5 - 4 | 3( 5) ._1 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="81"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ikaw Mismo'y antigo nga,
+Umiral bago pa
+Nang walang hanggang simula
+Ika'y walang hanggang Ama.</stanza>
+	<stanza type="verse" number="2">Bagama't naging tao Ka,
+Katulad Ka nga ng Ama;
+Gaya Niya sa kasakdalan,
+Gaya ng Diyos walang hanggan.</stanza>
+	<stanza type="verse" number="3">Iyong pinagmulan tulad Niya
+Bago pa ng sangnilikha;
+Bago pang pinakauna,
+Ikaw na nauna't una.</stanza>
+	<stanza type="verse" number="4">Walang mga ito sa Iyo:
+Pagkaluma, pagbabago,
+Wala nang uuna sa Iyo
+Wala ring huhuli sa Iyo.</stanza>
+	<stanza type="verse" number="5">Wala ka ngang pagkaiba,
+Katulad ng Diyos na Ama;
+Ikaw ay Una at Alpha
+Gayunding Huli't Omega.</stanza>
+	<stanza type="verse" number="6">Sa Iyong pagkawalang hanggan
+Maging Iyong kasakdalan,
+Maging sa Iyong kapuspusan
+Ika'y dapat papurihan.</stanza>
+  </lyrics>
+</hymn>

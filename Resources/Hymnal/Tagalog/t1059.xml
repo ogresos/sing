@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa krus ako'y idulog</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;SUMASAMO SA PANGINOON</category>
+  <numbers><cebuano num="1059"/><chinese num="456"/><english num="1059"/><french num="204"/><german num="1059"/><korean num="456"/><portuguese num="464"/><russian num="178"/><spanish num="486"/><tagalog num="1059"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 3/ | 3. 2 0/ (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ (break) | (Chorus) 3 5/ 5. | 4 6/ 6. | 5 6/ 5 3/ | 3. 2. (break) | 3 4/ 3 2/ | 1 6_./ 6_. 0/ | 5_. 1/ 1 7_./ | 2. 1 0/ |</melody>
+  <music>
+	<midiref type="h" num="1059"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa krus ako'y idulog,
+Nang mapagaling Mo,
+Naglulunas na daloy,
+Galing sa Kalbaryo.</stanza>
+	<stanza type="chorus" number="">Nasa krus, nasa krus,
+Ang luwalhati ko;
+Di na mahihiwalay
+Krus sa kalulwa ko.</stanza>
+	<stanza type="verse" number="2">Sa Iyong krus nakatamo,
+Pag-ibig at awa;
+Sa aki'y sininag Mo
+Ningning ng Iyong tala.</stanza>
+	<stanza type="verse" number="3">Ako'y dalhin sa tagpo
+Ng Iyong pagkapako!
+Tulungan ang lakad ko
+Sa lilim ng krus Mo.</stanza>
+	<stanza type="verse" number="4">Malapit sa krus, ako
+Sa Iyo'y maghihintay,
+Nang makita'ng mukha Mo,
+Di muling mawalay.</stanza>
+  </lyrics>
+</hymn>

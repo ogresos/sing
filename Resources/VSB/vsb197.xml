@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sweet Will of God</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Obedience to Christ</category>
+  <numbers><english num="383"/><vsb num="197"/></numbers>
+  <creators>
+    <author biodate="1862-1929" biolink="">Lelia Naylor Morris</author>
+    <composer biodate="1862-1929" biolink="">Lelia Naylor Morris</composer>
+    <composer biodate="" biolink="">Harmony by J. B. M.</composer>
+  </creators>
+  <meter>9.8.9.8.D.</meter>
+  <hymncode>53456515677</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G | C - C/E - | G - G/D - | G7 - G7/B - | C - - - | E - - F | E - Dm - | C/G - G7 - | C F/C C - | G7 - - | C - - | G/B - G7 | C - G/B | Am - C/G | F - - | G7 - - | C - - | G/B - G7 | C - - | G/B - G7 | C - C7/E | F - Dm | C/E - Dm/F | C/G - G7 | C - - |</chords>
+  <melody>| 0 - 0/ 5/ 3/ 4/ | 5. 6/ 5/( ._1/) 5/( 6/) | 7 7. 7/ 6/ 5/ | 7. 6/ 5/( 6/) 4/( 5/) (break) | 3 - 0/ ._3/ ._3/ ._3/ | ._3( - ._3/) 7/ ._1/ ._2/ | ._3 ._3. ._4/ ._3/ ._2/ | ._1/ 6/ 5( ._1) 7 (break) | ._1 - 0 (Chorus) 5 | [3/4] 5.( 6/) 5/( 6/) | 5 0 5 | 5.( 6/) 5/( 6/) | 5 3 5 (break) | ._1 - ._1 | ._1.( 7/) 6 | 5 - 4 | 3 - 5 (break) | 5.( 7/) ._2/( ._4/) | ._4( ._3) 5 | 5.( 7/) ._2/( ._4/) | ._4 ._3 ._1 (break) | ._1.( 7/) 6 | 5( ._1) ._2/( ._4/) | ._3 - ._2 | ._1 - 0 |</melody>
+  <layout>
+    <singingstanza>My stub -- born will at last hath yield -- ed; I would be Thine, and Thine a -- lone, And this the prayer my lips are bring -- ing, "Lord, let in me Thy will be done." Sweet will of God, still fold me clos -- er, Till I am whol -- ly lost in Thee; Sweet will of God, still fold me clos -- er, Till I am whol -- ly lost in Thee.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj137.xml</link>
+    <link type="relevant" category="h" num="383"></link>
+  </links>
+  <music>
+    <midi location="h" length="55">e0383_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My stubborn will at last hath yielded;
+I would be Thine, and Thine alone,
+And this the prayer my lips are bringing,
+"Lord, let in me Thy will be done."</stanza>
+    <stanza type="chorus" number="">Sweet will of God, still fold me closer,
+Till I am wholly lost in Thee;
+Sweet will of God, still fold me closer,
+  Till I am wholly lost in Thee.</stanza>
+    <stanza type="verse" number="2">I'm tired of sin, footsore and weary,
+The darksome path hath dreary grown,
+But now a light has ris'n to cheer me;
+I find in Thee my Star, my Sun.</stanza>
+    <stanza type="verse" number="3">Thy precious will, O conqu'ring Savior,
+Doth now embrace and compass me;
+All discords hushed, my peace a river,
+My soul a prisoned bird set free.</stanza>
+    <stanza type="verse" number="4">Shut in with Thee, O Lord, forever,
+My wayward feet no more to roam;
+What pow'r from Thee my soul can sever?
+The center of God's will my home.</stanza>
+  </lyrics>
+</hymn>

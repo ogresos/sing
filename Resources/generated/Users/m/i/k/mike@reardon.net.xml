@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Michael</firstname>
+    <lastname>Reardon</lastname>
+    <email>mike@reardon.net</email>
+    <password>VJg2VKyRrZzzI%2FMvDOVkEQ%3D%3D</password>
+    <gender></gender>
+    <country>Canada</country>
+    <ipaddress>99.225.101.211</ipaddress>
+    <createdate>2013-07-09 09:42:03</createdate>
+    <lastupdateddate>2013-07-10 22:39:39</lastupdateddate>
+    <lastlogindate>2013-07-09 09:42:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+        <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+        <fav category="default" type="h" num="1130">Sing praise to Christ Who lives in us</fav>
+    </favourites>
+</user>

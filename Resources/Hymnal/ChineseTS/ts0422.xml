@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>奔跑生命路</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>54555565311351764</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>向 標 竿， 豫 備， 奔 跑 生 命 路； 上 頭 獎 賞 來 接 受。 放 下 各 樣 重 擔 和 纏 累 的 罪， 屬 天 異 象 不 違 背， 見 證 人 圍 繞 著 觀 看 我 奔 跑， 永 不 退 後 永 不 倒！ 向 標 竿， 豫 備， 奔 跑 生 命 路； 上 頭 獎 賞 來 接 受。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0422.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">向標竿，豫備，
+奔跑生命路；
+上頭獎賞來接受。
+放下各樣重擔
+和纏累的罪，
+屬天異象不違背，
+見證人圍繞著
+觀看我奔跑，
+永不退後永不倒！
+向標竿，豫備，
+奔跑生命路；
+上頭獎賞來接受。</stanza>
+  </lyrics>
+</hymn>

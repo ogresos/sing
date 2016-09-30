@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname>Dutler</lastname>
+  <email>sarah@dutler-online.ch</email>
+  <password>$2y$10$CRuTSODRhAxYdmrXZfib/ODm/VD.zJvrD4qR7QHUCkYlI.1bSZYg.</password>
+  <gender/>
+  <country>ch</country>
+  <ipaddress>80.219.42.98</ipaddress>
+  <createdate>2016-06-16 05:58:06</createdate>
+  <lastupdateddate>2016-06-16 05:59:00</lastupdateddate>
+  <lastlogindate>2016-06-16 05:59:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

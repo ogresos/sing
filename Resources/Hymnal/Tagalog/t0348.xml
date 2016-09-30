@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhay ko'y naging masaya</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;PANGKALAHATAN</category>
+  <numbers><cebuano num="348"/><chinese num="256"/><english num="348"/><korean num="256"/><portuguese num="181"/><russian num="255"/><spanish num="165"/><tagalog num="348"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from C. F. Butler</author>
+  </creators>
+  <music>
+    <midiref type="h" num="348"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Buhay ko'y naging masaya,
+Nang ako ay mapalaya;
+Ni Kristo mula sa sala,
+Aliw, Hesus nakilala.</stanza>
+    <stanza type="chorus" number="">Aleluya, anong saya!
+Pagka't Hesus natamasa!
+Kung naroroon si Hesus,
+Nagagalak akong lubos.</stanza>
+    <stanza type="verse" number="2">Buhay ko'y dating kay saklap
+Hanggang Hesus ay nahanap;
+Sa kalulwa'y kagalakan,
+Ngayon at magpakailanman.</stanza>
+    <stanza type="chorus" number="">Aleluya, anong saya!
+Pagka't Hesus natamasa!
+Kung naroroon si Hesus,
+Nagagalak akong lubos.</stanza>
+    <stanza type="verse" number="3">Saan man tayo manahan,
+Sa bukid o sa bundok man,
+Kung naroroon si Hesus,
+Nagagalak akong lubos.</stanza>
+    <stanza type="chorus" number="">Aleluya, anong saya!
+Pagka't Hesus natamasa!
+Kung naroroon si Hesus,
+Nagagalak akong lubos.</stanza>
+  </lyrics>
+</hymn>

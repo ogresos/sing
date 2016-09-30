@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Le premier voile je franchis</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;réconciliés avec Dieu</category>
+  <numbers><chinese num="240*"/><english num="299"/><french num="55"/><german num="299"/><korean num="240*"/><portuguese num="159"/><russian num="61"/><spanish num="143"/><tagalog num="299"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. Paget</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Je suis en paix avec mon Dieu,
+En parfaite harmonie.
+Un grand pécheur est revenu
+À Dieu en Jésus-Christ.</stanza>
+	<stanza type="verse" number="2">Nous étions morts dans nos péchés,
+De Dieu des ennemis.
+Mais par la foi au sang précieux,
+Nous recevons Sa vie.</stanza>
+	<stanza type="verse" number="3">Il m'a sauvé, je ne crains rien,
+Si sûr de mon salut.
+Il est à moi, je suis à Lui,
+Depuis qu'en Lui j'ai cru.</stanza>
+	<stanza type="verse" number="4">Nous ayant pardonné en Christ,
+Dieu veut nous posséder.
+Approchons-nous du Saint des Saints,
+Soyons réconciliés !</stanza>
+	<stanza type="verse" number="5">Le premier voile je franchis,
+Quand je fus justifié.
+Puis le second je franchirai,
+Pour être en Dieu trouvé.</stanza>
+  </lyrics>
+</hymn>

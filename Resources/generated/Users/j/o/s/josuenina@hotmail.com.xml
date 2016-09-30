@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>josue</firstname>
+    <lastname>nina</lastname>
+    <email>josuenina@hotmail.com</email>
+    <password>$1$w3BHgbHH$8kLMWukKXUMcigxbuOufN.</password>
+    <gender>M</gender>
+    <country>Bolivia</country>
+    <ipaddress>200.87.168.57</ipaddress>
+    <createdate>2009-09-11 16:33:02</createdate>
+    <lastupdateddate>2010-05-05 20:41:11</lastupdateddate>
+    <lastlogindate>2010-05-05 20:41:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Joseph</firstname>
+<lastname>Fu</lastname>
+<email>abc955149@yahoo.com</email>
+<password>$1$4yUEPJEG$Jj1H/G39PevxnzhBO9rfq0</password>
+<gender>M</gender>
+<country>Taiwan</country>
+<ipaddress>140.116.142.19</ipaddress>
+<createdate>2009-03-06 08:56:20</createdate>
+<lastupdateddate>2009-09-15 18:29:37</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+    </favourites>
+</user>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cantando alabanzas</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su victoria y exaltación</category>
+  <numbers><cebuano num="1095"/><chinese num="ts:1"/><english num="1095"/><german num="1095"/><korean num="806"/><portuguese num="65"/><russian num="29"/><spanish num="61"/><tagalog num="1095"/></numbers>
+  <melody>| 0 - - 5_. | 5_.. 6_./ 5_. 1 | 1 - 7_. 7_. | 1 1 4 3 | 2 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. 3/( 2/) | 1 - 0 5_. (break) | 5. 5/ 5 4/( 3/) | 2 - 5_. 5_. | 2. 2/ 2 1/( 2/) | 3 - 0 3/( 4/) (break) | 5. 3/ 2 1 | 1 - 6_. 6_. | 5_. 1 7_. (.3/( 2/) | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="380"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cantando alabanzas
+De gloria al Señor,
+Se͜ alegrarán los cielos
+Oyendo nuestra voz;
+Si͜ escucha todo͜ el mundo
+Que damos gloria͜ a Dios,
+Satán y sus legiones
+Huirán con gran pavor.</stanza>
+	<stanza type="verse" number="2">Cerrando nuestras bocas,
+El diablo sonreirá;
+¿Por qué no͜ abrir batalla
+Y͜ hacerlo claudicar?
+Con gritos de͜ alabanzas,
+Victoria y loor,
+Hay que perder la cara,
+Ser necios para Dios.</stanza>
+	<stanza type="verse" number="3">El mundo nunca͜ ayuda
+Para͜ adorar a Dios,
+Ni͜ a darle͜ a El las gracias,
+O gloria al Salvador.
+No͜ hay que pedir permiso
+Para͜ alabar a Dios,
+Tu͜ espíritu libera,
+Recibe Su favor.</stanza>
+	<stanza type="verse" number="4">Hermanos, ¡no se callen!
+Hermanas, ¡griten más!
+El triunfo resonante
+De Dios se͜ escuchará.
+Es tiempo de͜ alabarle,
+A cualquier precio hoy,
+Por Su misericordia
+Y plena salvación.</stanza>
+  </lyrics>
+</hymn>

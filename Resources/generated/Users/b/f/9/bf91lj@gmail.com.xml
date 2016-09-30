@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Astrid</firstname>
+  <lastname/>
+  <email>bf91lj@gmail.com</email>
+  <password>$2y$10$hqHcsIdKVB6NuEH3ODqTX.oYO3azI2bVPxhgiqxD2HK5qtVyjBKdG</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>176.254.104.235</ipaddress>
+  <createdate>2016-07-25 08:58:29</createdate>
+  <lastupdateddate>2016-08-02 12:14:23</lastupdateddate>
+  <lastlogindate>2016-08-02 12:14:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+  </favourites>
+</user>

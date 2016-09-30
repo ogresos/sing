@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Having seen the world's fair beauty</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For the Lord's Delight</category>
+  <numbers><cebuano num="405"/><chinese num="308"/><english num="405"/><german num="405"/><korean num="308"/><russian num="257"/><spanish num="178"/><tagalog num="405"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+	<composer biodate="1828-1917" biolink="">Asa Hull</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>333323532255423</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - C/G - | Dm/F - G7 - | C - F/C - | C - G/D - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - - - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - - - | Em - Am - | Dm/F - G7 - | F/C - C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 (break) | (Chorus) 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Hav -- ing seen the world's fair beau -- ty, Lord, I would be blind once more, Lest I lose the lov -- ing Pre -- sence And De -- light I knew be -- fore. Hav -- ing seen the world's fair beau -- ty, Lord, I would be blind once more, Lest I lose the lov -- ing Pre -- sence And De -- light I knew be -- fore.</singingstanza>
+  </layout>
+  <notes>This hymn was written shortly after its author, who had been born blind, gained her sight.</notes>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0405.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="44">e0405_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Having seen the world's fair beauty,
+  Lord, I would be blind once more,
+Lest I lose the loving Presence
+  And Delight I knew before.</stanza>
+	<stanza type="chorus" number="">Having seen the world's fair beauty,
+Lord, I would be blind once more,
+Lest I lose the loving Presence
+  And Delight I knew before.</stanza>
+	<stanza type="verse" number="2">Dawn and sunset, star and moonlight,
+  I can see in paradise,
+But while here on earth His mercy
+  For my blindness will suffice.</stanza>
+	<stanza type="verse" number="3">I no more would be delivered
+  From my thorn, but look for grace,
+While within the veil His glory
+  Shineth brightly on my face.</stanza>
+	<stanza type="verse" number="4">In the deep dark night, His beauty
+  I by faith, not sight, may trace;
+He was ridiculed and hated,
+  Yet I see His glorious face.</stanza>
+	<stanza type="verse" number="5">Sun and moonlight far surpassing,
+  Clouds and Milky Way o'erspread,
+Is the glory all transcending
+  Shining from His thorn-crowned head.</stanza>
+  </lyrics>
+</hymn>

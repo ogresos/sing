@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Allegra</firstname>
+  <lastname>Carmickle</lastname>
+  <email>rick.allegra.2011@gmail.com</email>
+  <password>$2y$10$l0plKnJzNdkXJ98WRil2Hu7ld7NNfkrmP6FxkaTYZ1nxnpmDAJZl.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.246.219.57</ipaddress>
+  <createdate>2015-03-31 18:32:32</createdate>
+  <lastupdateddate>2015-03-31 18:41:20</lastupdateddate>
+  <lastlogindate>2015-03-31 18:39:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="364">Our Condition to God's Heart's Desire</fav>
+  </favourites>
+</user>

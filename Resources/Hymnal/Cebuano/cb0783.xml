@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ampo-tandog's trono N'ya</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;MOTANDOG SA TRONO</category>
+  <numbers><cebuano num="783"/><chinese num="565"/><english num="783"/><german num="783"/><korean num="565"/><portuguese num="360"/><russian num="283"/><spanish num="335"/><tagalog num="783"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 2 | 6_. 7_. 1 - | 2. 2/ 3 2 | 2 1 7_. - (break) | 2. 3/ 4 2 | 5 1 1( 7_.) | 1. 1/ 2 3 | 4 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="783"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ampo-tandog's trono N'ya,
+Grasya N'ya pangitaa;
+Ug kita 'yang kaloy-an,
+Magtagbo's pangin'hanglan.</stanza>
+	<stanza type="verse" number="2">Ampo-tandog's trono N'ya,
+Bation gyud sa lalum
+Pangin'hanglan sa grasya,
+Makig-ambitay Niya.</stanza>
+	<stanza type="verse" number="3">Ampo-tandog's trono N'ya,
+Datong grasya maila;
+Gamiton, pahimuslan,
+Ang Dios pasalamatan.</stanza>
+	<stanza type="verse" number="4">Ampo-tandog's trono N'ya,
+Tandog sab's trono's gahum;
+Sa ngalan sa Ginoo
+Batoking batokanan.</stanza>
+	<stanza type="verse" number="5">Ampo-tandog's trono N'ya,
+Sa buhi N'yang pagtoo;
+Pagbulot-an gamiton
+Buntogong kamatayon.</stanza>
+	<stanza type="verse" number="6">Ampo-tandog's trono N'ya,
+Gahum's yawa uyogon;
+Ampo uban's paghari,
+Ubang Cristo ning takna.</stanza>
+  </lyrics>
+</hymn>

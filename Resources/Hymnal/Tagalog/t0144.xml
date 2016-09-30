@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kristo ng Diyos, mal'walhati</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KALUWALHATIAN</category>
+  <numbers><chinese num="123"/><english num="144"/><korean num="123"/><tagalog num="144"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from R. Holden</author>
+  </creators>
+  <music>
+    <midiref type="h" num="144"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kristo ng Diyos, mal'walhati;
+Sa Iyo'y sumamba kami.
+Ika'y b'yaya't pag-ibig,
+Sa 'min buong nang-akit.
+Purihin Ka't sambahin,
+Landas Mo'y ubod galing!</stanza>
+    <stanza type="verse" number="2">Ika'y pinahirang Hari,
+May putong na l'walhati.
+Kahit 'tinakwil, kinutya
+Pagligtas Iyong ginawa.
+Mahal Kita't purihin,
+Walang hanggang sambahin!</stanza>
+    <stanza type="verse" number="3">Minsan sinumpa't namatay,
+Panginoon ng buhay!
+Pinakaibig ng Ama,
+Sumunod at nagdusa.
+Aming ginugunita,
+Panglaw ng Iyong binat
+Ã¡!</stanza>
+    <stanza type="verse" number="4">Di lalaon mapasa Iyo,
+Pangharing putong, setro;
+Kristo ng Diyos, itanghal Ka
+Hari't Panginoon nga!
+Susundin Ka't mahalin,
+Kristo kikilalanin.</stanza>
+  </lyrics>
+</hymn>

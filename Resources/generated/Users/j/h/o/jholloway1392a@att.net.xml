@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James l.</firstname>
+  <lastname>holloway</lastname>
+  <email>jholloway1392a@att.net</email>
+  <password>$2y$10$Vig1ynHYV79lPIex3mWQ0.aSJj5nq3omsC3BtJIPizByqGGnoBHHK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>74.176.195.202</ipaddress>
+  <createdate>2015-04-13 16:04:42</createdate>
+  <lastupdateddate>2015-04-13 16:55:46</lastupdateddate>
+  <lastlogindate>2015-04-13 16:08:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+  </favourites>
+</user>

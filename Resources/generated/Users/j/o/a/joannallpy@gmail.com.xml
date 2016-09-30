@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Li</firstname>
+  <lastname>Joanna</lastname>
+  <email>joannallpy@gmail.com</email>
+  <password>$2y$10$DejTnS/FQdcDBTFpgO76oe2a65IZ76k45NfwJIz4o6aNxq7GlNJxm</password>
+  <gender>M</gender>
+  <country>hk</country>
+  <ipaddress>158.132.123.76</ipaddress>
+  <createdate>2009-12-30 22:12:01</createdate>
+  <lastupdateddate>2015-05-08 06:04:16</lastupdateddate>
+  <lastlogindate>2015-05-08 06:03:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="723">需要耶穌</fav>
+  </favourites>
+</user>

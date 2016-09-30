@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>享受主的豐富</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>633633217266</hymncode>
+  <key>G Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>享 受 主， 享 受 主， 享 受 祂 的 豐 富。 （四 遍） 享 受， 何 必 天 天 愁 苦， 失 去 見 證。 （二 遍） 享 受 主， 享 受 主， 享 受 祂 的 豐 富。 （二 遍）</singingstanza>
+  </layout>
+  <notes>可換唱:釋放主!釋放主!...釋放,何必將主豐富盡都扣住。 或:見證主!讚美主!分享主!吃喝主!吸入主!...</notes>
+  <music>
+	<midi location="ts" length="">ts0204.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">享受主，享受主，
+享受祂的豐富。
+（四遍）
+享受，何必天天愁苦，
+失去見證。
+（二遍）
+享受主，享受主，
+享受祂的豐富。
+（二遍）</stanza>
+	<stanza type="verse" number="2">可換唱：釋放主！
+釋放主！
+…釋放，
+何必將主豐富盡都扣住。
+或：見證主！
+讚美主！
+分享主！
+喫喝主！
+吸入主！…</stanza>
+  </lyrics>
+</hymn>

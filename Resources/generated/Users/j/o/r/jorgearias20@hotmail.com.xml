@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>JORGE</firstname>
+  <lastname>ARIAS</lastname>
+  <email>jorgearias20@hotmail.com</email>
+  <password>$2y$10$mzEjcoQ5/4jss3wZLsifzuMQ9VnlNcIvwReI/9OF5uYV4g1EvUBey</password>
+  <gender>M</gender>
+  <country>Ecuador</country>
+  <ipaddress>200.25.197.94</ipaddress>
+  <createdate>2009-08-18 21:55:24</createdate>
+  <lastupdateddate>2015-10-17 22:39:21</lastupdateddate>
+  <lastlogindate>2015-10-17 22:39:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="lb" num="11">God is love</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="nt" num="1048">Just as I am</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="lb" num="12">Lord, I just love You</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="lb" num="40">Lord, how long</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="lb" num="16">Nothing compares to You</fav>
+    <fav category="default" type="lb" num="22">Shepherd, receive man</fav>
+    <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+    <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+    <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="lb" num="50">Zion</fav>
+  </favourites>
+</user>

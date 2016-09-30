@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Rain on me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Ron Kangas">R. K.</author>
+    <composer biodate="" biolink="" fullname="Ron Kangas">R. K.</composer>
+  </creators>
+  <hymncode>7123213453532</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | C/E - - - | Am - - - | Dm - - - | G7 - - - | C - - - | C7/E - - - | F - - - | D7/F# - - - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 7_. 1 | 2( - - - | 2) - 3 2 | 1( - - - | 1) - 3 4 | 5 - - 3 | 5 - 3 - | 2( - - - (break) | 2) - 3 4 | 5 - - 5 | 5 3 4 3 | 2 1 6_.( - | 6_.) - 1 2 | 3 - - 5_. | 3 - 2 - | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza>Rain on me; rain on me; Let Your mer -- cy rain on me; It is not by will -- ing or by run -- ning, Lord; Let Your mer -- cy rain on me.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="31">ns0056.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Rain on me; rain on me;
+Let Your mercy rain on me;
+It is not by willing or by running, Lord;
+Let Your mercy rain on me.</stanza>
+    <stanza type="verse" number="2">Reign in me; reign in me;
+May Your life, Lord, reign in me,
+By Your grace abundant and Your righteousness;
+May Your life, Lord, reign in me.</stanza>
+    <stanza type="verse" number="3">Overcome, overcome;
+Lord, I pray to overcome,
+By the Spirit sevenfold intensified;
+Lord, I pray to overcome.</stanza>
+    <stanza type="verse" number="4">Grow in me; grow in me;
+For the Body grow in me,
+Through the rich dispensing of Your life supply;
+For the Body grow in me.</stanza>
+    <stanza type="verse" number="5">Transform me; transform me;
+For the Body transform me;
+I behold Your glory with an unveiled face;
+For the Body transform me.</stanza>
+    <stanza type="verse" number="6">Lord, gain me; Lord, gain me;
+In the Body, Lord, gain me,
+For the full expression of the Triune God;
+In the Body, Lord, gain me.</stanza>
+    <stanza type="verse" number="7">Lord, blend me; Lord, blend me;
+In the Body, Lord, blend me,
+For the consummation&amp;mdash;New Jerusalem;
+In the Body, Lord, blend me.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Di kami mapagod sa walang hanggang awit</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTUBOS</category>
+  <numbers><cebuano num="41"/><chinese num="36"/><english num="41"/><korean num="36"/><portuguese num="29"/><russian num="17"/><spanish num="27"/><tagalog num="41"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="41"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Di kami mapagod sa walang hanggang awit,
+Gloria sa Diyos, Aleluya!
+Malakas aming espiritu, nagpupuri,
+Gloria sa Diyos, Aleluya!</stanza>
+    <stanza type="chorus" number="">Ang mga anak ng Diyos, umawit nang masigla,
+Maliwanag sa harap, nagalak ang kalul'wa,
+Papasok sa l'walhati at Hari ko'y makita,
+Gloria sa Diyos, Aleluya!</stanza>
+    <stanza type="verse" number="2">Nababad sa galak ng Kanyang katubusan,
+Gloria sa Diyos, Aleluya!
+Tulad ng may pakpak, masidhing kagalakan,
+Gloria sa Diyos, Aleluya!</stanza>
+    <stanza type="verse" number="3">Ang bayang pupuntahan ay yari ng Ama,
+Gloria sa Diyos, Aleluya!
+Doon ang l'walhati ng Hari ay makita,
+Gloria sa Diyos, Aleluya!</stanza>
+    <stanza type="verse" number="4">Doon may bagong awit ukol sa biyaya,
+Gloria sa Diyos, Aleluya!
+Kasamang mga banal kay Hesus dumagsa,
+Gloria sa Diyos, Aleluya!</stanza>
+  </lyrics>
+</hymn>

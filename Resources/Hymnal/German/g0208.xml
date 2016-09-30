@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Jesus, Jesus, liebster Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Zufriedengestellt mit Ihm</category>
+  <numbers><cebuano num="208"/><chinese num="169"/><english num="208"/><french num="34"/><german num="208"/><korean num="169"/><portuguese num="112"/><russian num="39"/><spanish num="95"/><tagalog num="208"/></numbers>
+  <creators>
+	<author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+	<author biodate="1849-1928" biolink="">Translated from Russell Kelso Carter, chorus</author>
+  </creators>
+  <key>Bb Major</key>
+  <melody>| 0 - - 0 - 3 | 3 - 3 3 - 3 | 5 - 5 ._1 - 5 | 6 - 4 4( 5) 6 | 5( - - 5) - 5 (break) | 5 - 2 2( 3) 4 | 3 - 1 5 - 5 | 5 - 2 2( 3) 4 (break) | 3( - - 5) - (Chorus) 5 | 6 - 6 6 - 6 | 5# - 6 7 - 3 | ._1 - ._1 ._1 - ._1 | 7 - ._1 ._2 - 5 (break) | ._3 - ._2 ._1 - 7 | ._2 - ._1 6 - 4 | 5 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <layout>
+	<singingstanza>Oh Je -- sus, Je -- sus, liebs -- ter Herr! Ver -- gib mir, wenn ich sag, Aus Lie -- be Dei -- nen Na -- men oft, Gar tau -- send -- mal am Tag. Bleib Du bei mir, ich ruh in Dir; Was im -- mer auch ge -- schieht, oh Herr; Dein Lä -- cheln ist mein schöns -- ter Lohn; Ich lieb Dich, lieb Dich sehr!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="208"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh Jesus, Jesus, liebster Herr!
+Vergib mir, wenn ich sag,
+Aus Liebe Deinen Namen oft,
+Gar tausendmal am Tag.</stanza>
+	<stanza type="chorus" number="">Bleib Du bei mir, ich ruh in Dir;
+Was immer auch geschieht, oh Herr;
+Dein Lächeln ist mein schönster Lohn;
+Ich lieb Dich, lieb Dich sehr!</stanza>
+	<stanza type="verse" number="2">Ich liebe Dich, wie soll ich nur
+Mein Sehnen kontrolliern,
+Wie Feuer Deine Liebe brennt,
+In Dir möcht mich verliern.</stanza>
+	<stanza type="verse" number="3">Herr, Du bist alles jetzt für mich,
+Mein Ruhm und Herrlichkeit,
+Bist meine Kraft, Gesundheit auch,
+Mein Herzenswunsch allzeit.</stanza>
+	<stanza type="verse" number="4">Brenn, brenn, oh Liebe brenn in mir,
+Brenn heftig Tag und Nacht,
+Bis Wünsche, die nur irdisch sind
+Zu Asche sind gemacht.</stanza>
+	<stanza type="verse" number="5">Oh Licht im Dunkeln, Glück im Leid,
+Du Himmelsleiter hier;
+Du liebster Jesus, teurer Schatz,
+Mein Herz gehört nur Dir.</stanza>
+	<stanza type="verse" number="6">Die Liebe keine Grenzen kennt,
+Ist einfach wunderbar!
+Der Herr ist süßer jeden Tag,
+Als Er es gestern war.</stanza>
+  </lyrics>
+</hymn>

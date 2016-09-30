@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vem, ó Senhor, soprar, estamos a esperar</title>
+  <index>true</index>
+  <category>Como O Vento</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vem, ó Senhor, soprar, estamos a esperar,
+Com forte vento Teu, que nos vem libertar;
+Oh! sopra até haver em nós Teu renovar,
+Vem sobre nós, Senhor, soprar!</stanza>
+	<stanza type="chorus" number="">Vem, ó Senhor, vem já soprar!
+Preguiça e sono dissipar!
+Teu vento espiritual nos guarde de recuar!
+Vem sobre nós, Senhor, soprar!</stanza>
+	<stanza type="verse" number="2">Vem com divino amor a alma animar,
+Ao frio coração, celeste sopro dar,
+De nós a mornidão de todo afastar;
+Vem sobre nós, Senhor, soprar!</stanza>
+	<stanza type="verse" number="3">Oh! sopra com poder, inspira nosso ser;
+Aviva e enche-nos com todo o Teu querer;
+Oh! sopra em nós até estarmos a arder,
+Vem sobre nós, Senhor, soprar!</stanza>
+  </lyrics>
+</hymn>

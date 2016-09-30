@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Danilo</firstname>
+  <lastname>Sodré</lastname>
+  <email>danilo-sodre@hotmail.com</email>
+  <password>$2y$10$qHRPT3CWx3yxjPCd5JPX/O.NpJOmF2T3hzm7CpY/seChXyGXCkK2e</password>
+  <gender/>
+  <country/>
+  <ipaddress>186.247.216.72</ipaddress>
+  <createdate>2015-10-28 02:50:31</createdate>
+  <lastupdateddate>2015-10-28 03:15:31</lastupdateddate>
+  <lastlogindate>2015-10-28 02:55:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="863">In daily walk and in our meetings too</fav>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="ns" num="231">Lord Jesus, I love You, You're my all</fav>
+    <fav category="default" type="h" num="173">Thou art fairer than the morning</fav>
+  </favourites>
+</user>

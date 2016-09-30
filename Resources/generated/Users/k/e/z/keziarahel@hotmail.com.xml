@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Rahel</firstname>
+<lastname>Hood</lastname>
+<email>keziarahel@hotmail.com</email>
+<password>$1$tUgIwyZd$J5VY99sy09aA44fzko/Zk/</password>
+<gender>F</gender>
+<country>Grenada</country>
+<ipaddress>216.110.118.224</ipaddress>
+<createdate>2008-07-26 01:43:09</createdate>
+<lastupdateddate>2009-09-15 18:22:08</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="426">Remove My Covering, Lord</fav>
+        <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+        <fav category="default" type="nt" num="477">Though Christ a thousand times</fav>
+        <fav category="default" type="lb" num="7">Jesus, Lord Jesus</fav>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>barbara</firstname>
+  <lastname>smith</lastname>
+  <email>smba7071@yahoo.com</email>
+  <password>$2y$10$U0Qd01tQTaa31DrwuWAWD.guiMrVdGOsuOqBSVItTn55I8o4fCvoe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.153.250.169</ipaddress>
+  <createdate>2016-03-28 04:28:17</createdate>
+  <lastupdateddate>2016-03-28 04:30:13</lastupdateddate>
+  <lastlogindate>2016-03-28 04:30:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

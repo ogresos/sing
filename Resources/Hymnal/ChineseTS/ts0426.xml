@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們是一粒粒『麥子』</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>312321177127121776</hymncode>
+  <key>E Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 是 一 粒 粒 『麥 子』， 裡 面 含 有 大 能 的 生 命， 經 過 死 的 破 碎、 限 制， 就 要 顯 出 復 活 的 榮 景； 只 要 埋 下， 置 魂 生 命 於 十 架， 就 要 結 實， 神 的 生 命 繁 殖。 我 們 是 一 粒 粒 『麥 子』， 裡 面 含 有 大 能 的 生 命， 經 過 死 的 破 碎、 限 制， 就 要 顯 出 復 活 的 榮 景。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0426.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們是一粒粒『麥子』，
+裡面含有大能的生命，
+經過死的破碎、限制，
+就要顯出復活的榮景；
+只要埋下，
+置魂生命於十架，
+就要結實，
+神的生命繁殖。
+我們是一粒粒『麥子』，
+裡面含有大能的生命，
+經過死的破碎、限制，
+就要顯出復活的榮景。</stanza>
+	<stanza type="verse" number="2">我聽主一次次招呼，
+今願跟隨我主的腳步，
+使我不再完整如故，
+惟願生命在我有出路；
+將我種下，
+直到復活的萌芽，
+結成滿穗，
+一粒擴增百倍。
+我聽主一次次招呼，
+今願跟隨我主的腳步，
+使我不再完整如故，
+惟願生命在我有出路。</stanza>
+  </lyrics>
+</hymn>

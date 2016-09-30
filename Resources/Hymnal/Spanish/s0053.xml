@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, qué nombre se le dio</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su redención</category>
+  <numbers><cebuano num="108"/><chinese num="96"/><english num="108"/><korean num="96"/><portuguese num="53"/><russian num="445"/><spanish num="53"/><tagalog num="108"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="108"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Oh, qué nombre se le dio
+Al santo Hijo de Dios!
+"Varón de dolores" fue
+¡Aleluya! ¡Cristo salva!</stanza>
+    <stanza type="verse" number="2">Mofa y desdén sufrió,
+Mi condenación llevó,
+El por mi perdón sangró,
+¡Aleluya! ¡Cristo salva!</stanza>
+    <stanza type="verse" number="3">Siendo͜ un débil reo yo,
+Mas el Cordero de Dios
+Plena redención logró,
+¡Aleluya! ¡Cristo salva!</stanza>
+    <stanza type="verse" number="4">Levantado, El murió,
+"¡Consumado es! clamó;"
+Dios al cielo le͜ exaltó,
+¡Aleluya! ¡Cristo salva!</stanza>
+    <stanza type="verse" number="5">En Su gloria͜ el Rey vendrá,
+En Su reino nos pondrá,
+Y de nuevo͜ hay que cantar:
+¡Aleluya! ¡Cristo salva!</stanza>
+  </lyrics>
+</hymn>

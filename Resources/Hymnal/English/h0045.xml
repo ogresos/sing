@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abba, Father! we adore Thee</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Redemption</category>
+  <numbers><cebuano num="45"/><chinese num="38"/><english num="45"/><korean num="38"/><portuguese num="27"/><russian num="341"/><tagalog num="45"/></numbers>
+  <creators>
+    <author biodate="1804-1873" biolink="">Robert Stephen Hawker</author>
+    <composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>1231235436543221</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - C | F - Dm - | G7 - C - | C - - - | G - - C | F - - - | G7 - C - | C - - - | F - C - | C - Am - | D7 - G - | C - - - | G - C - | C - F - | C/G G7 C - |</chords>
+  <melody>| 1 2 3 1 | 2 3 5/( 4/) 3 | 6 5 4 3 | 2 2 1 - (break) | 1 2 3 1 | 2 3 5/( 4/) 3 | 6 5 4 3 | 2 2 1 - (break) | ._1. 7/ ._1 5 | 6 5/( 4/) 3/( 4/) 5 | 6 7 ._1 7/( ._1/) | 7 6 5 - (break) | 5 1 2/( 7_./) 1 | 2 3 4/( 2/) 3 | 5 3 6 5/( 4/) | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Ab -- ba, Fa -- ther! we a -- dore Thee, Hum -- bly now our hom -- age pay; 'Tis Thy child -- ren's bliss to know Thee, None but child -- ren "Ab -- ba" say. This high hon -- or we in -- her -- it, Thy free gift through Je -- sus' blood; God the Spir -- it, with our spir -- it, Wit -- ness -- eth we're sons of God.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj238.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e0045_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Abba, Father! we adore Thee,
+  Humbly now our homage pay;
+'Tis Thy children's bliss to know Thee,
+  None but children "Abba" say.
+This high honor we inherit,
+  Thy free gift through Jesus' blood;
+God the Spirit, with our spirit,
+  Witnesseth we're sons of God.</stanza>
+    <stanza type="verse" number="2">Thine own purpose gave us being,
+  When in Christ, in that vast plan,
+Thou in Christ didst choose Thy people
+  E'en before the world began.
+Oh, what love Thou, Father, bore us!
+  Oh, how precious in Thy sight!
+When to Thine own Son Thou gav'st us,
+  To Thy Son, Thy soul's delight.</stanza>
+    <stanza type="verse" number="3">Though our nature's fall in Adam
+  Shut us wholly out from God,
+Thine eternal counsel brought us
+  Nearer still, through Jesus' blood;
+For in Him we found redemption,
+  Grace and glory in Thy Son;
+O the height and depth of mercy!
+  Christ and His redeemed are one.</stanza>
+    <stanza type="verse" number="4">Hence, through all the changing seasons,
+  Trouble, sickness, sorrow, woe,
+Nothing changeth Thine affections,
+  Love divine shall bring us through;
+Soon shall all Thy blood-bought children
+  Round the throne their anthems raise,
+And, in songs of rich salvation,
+  Shout to Thine eternal praise.</stanza>
+  </lyrics>
+</hymn>

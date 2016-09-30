@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bulahan kaayo</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;ANG PAKIG-AMBITAY NIYA</category>
+  <numbers><cebuano num="860"/><chinese num="621"/><english num="860"/><korean num="621"/><tagalog num="860"/></numbers>
+  <creators>
+    <author biodate="1740-1817" biolink="">Translated from John Fawcett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="615"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Bulahan kaayo,
+Sa gugma nabugkos,
+Ambitay ta's espiritu
+Sama gyud sa langit.</stanza>
+    <stanza type="verse" number="2">Sa trono's Amahan,
+Gibubong pag-ampo;
+Usang paglaum, tumong ta,
+Kalipay'g pagtagad.</stanza>
+    <stanza type="verse" number="3">Usahang kasubo,
+Pas-anay'g kabug-at;
+Maghinilakay man ngani
+Tungod's kahangawa.</stanza>
+    <stanza type="verse" number="4">Kon magkabulag ta,
+Magsakit gyung sulod;
+Apan usa's kasingkasing,
+Magkita pag-usab.</stanza>
+    <stanza type="verse" number="5">Magawas' kasubo,
+Kasakit, kahago;
+Maghari ang gugmang hingpit,
+Hangtud's eternidad.</stanza>
+  </lyrics>
+</hymn>

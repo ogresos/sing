@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Himayaong Dios Amahan</title>
+  <index>true</index>
+  <category>PANALANGIN SA TRINIDAD&amp;mdash;SA IYANG PLANO</category>
+  <numbers><cebuano num="1"/><chinese num="1"/><english num="1"/><german num="1"/><korean num="1"/><russian num="191"/><spanish num="1"/><tagalog num="1"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from J. F. Garland</author>
+  </creators>
+  <melody>| 5 5 5 ._3 | ._2 ._1 6 ._1 | 5 ._3 ._2 ._2 | ._2 - - - (break) | ._3 ._3 ._3 ._2 | ._1 ._1 ._1 6 | 5 - 6( 7) | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="1"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Himayaong Dios Amahan,
+Cristo nga Anak;
+Espiritu himayaon
+Sa dayon.</stanza>
+	<stanza type="verse" number="2">Kabuhatan kon sud-ongon,
+O pagkatahum,
+Matandog mi ug magsimba
+Maghilom.</stanza>
+	<stanza type="verse" number="3">Pagkadako's pangandoy Mo
+May mga anak
+Nga mahigugma'g magdayeg
+Kanimo!</stanza>
+	<stanza type="verse" number="4">Diha's bugna pangagpas Mo,
+Ipadayag's tawo
+Mailahang sekreto sa
+Pagmahal Mo.</stanza>
+	<stanza type="verse" number="5">Giwagtang dautang gahum
+Diha kang Cristo!
+Nia's bag-ong kabuhatan
+Magsisimba!</stanza>
+	<stanza type="verse" number="6">Himayaong Dios Amahan,
+Cristo nga Anak;
+Espiritu himayaon,
+Sa dayon.</stanza>
+  </lyrics>
+</hymn>

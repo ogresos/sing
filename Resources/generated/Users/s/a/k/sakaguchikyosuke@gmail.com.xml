@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Kyosuke</firstname>
+    <lastname>Sakaguchi</lastname>
+    <email>sakaguchikyosuke@gmail.com</email>
+    <password>KGJrhcVZk0QQXfIUihGFjA%3D%3D</password>
+    <gender>M</gender>
+    <country>jp</country>
+    <ipaddress>126.209.220.73</ipaddress>
+    <createdate>2014-04-05 02:24:49</createdate>
+    <lastupdateddate>2014-04-05 02:24:49</lastupdateddate>
+    <lastlogindate>2014-04-05 02:24:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="1293">O I'm a man</fav>
+    </favourites>
+</user>

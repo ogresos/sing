@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Imern</firstname>
+    <lastname>Imchen</lastname>
+    <email>mmjn97@gmail.com</email>
+    <password>af%2FSK8PatU3Op4ALkhM6wA%3D%3D</password>
+    <gender>M</gender>
+    <country>in</country>
+    <ipaddress>14.98.125.175</ipaddress>
+    <createdate>2012-04-21 16:40:22</createdate>
+    <lastupdateddate>2012-12-05 14:17:17</lastupdateddate>
+    <lastlogindate>2012-12-05 14:17:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+        <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+        <fav category="default" type="h" num="1081">Father God, Thou art the source of life</fav>
+        <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+    </favourites>
+</user>

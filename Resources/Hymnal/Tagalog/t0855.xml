@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Masdan kay inam, kay saya</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGSASALAMUHA</category>
+  <numbers><chinese num="622*"/><english num="855"/><german num="855"/><korean num="622"/><portuguese num="391"/><russian num="136"/><spanish num="368"/><tagalog num="855"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | 5 - 3 | 3 - 3 | 5( 4) 3 (break) | (.2 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | ._3 - ._2 | ._1 - ._1 | 7( 6) 7 (break) | ._1 - (Chorus) 5 | ._2 - ._1# | ._2 - ._2# | ._3 - ._2 | ._1 - 5 | ._2 - ._1# | ._2 - ._3 (break) | (.._4 - 5 | 5( 6) 5 | 5( 6) 5 | 5 - ._1 | ._3 - ._2 | ._1 - ._1 | 7( 6) 7 | ._1( - - | ._1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="601"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Masdan kay inam, kay saya,
+Mga banal nagkaisa!
+Parang langis sa ulo na
+Tumulo sa laylayan;
+Gaya ng hamog sa Hermon
+Na tumulo sa Sion;
+Pagpapala'y pinarating,
+Buhay walang hanggan.</stanza>
+  </lyrics>
+</hymn>

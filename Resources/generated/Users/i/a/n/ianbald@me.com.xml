@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ian</firstname>
+  <lastname>Bald</lastname>
+  <email>ianbald@me.com</email>
+  <password>$2y$10$q9YaOKLE9lESJYcsyyaA2un7NufGocwHlKAUl1l..kGuafxLy0ebq</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>195.166.158.191</ipaddress>
+  <createdate>2015-11-16 18:36:15</createdate>
+  <lastupdateddate>2015-11-16 18:37:26</lastupdateddate>
+  <lastlogindate>2015-11-16 18:36:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="577">When I fear my faith will fail</fav>
+  </favourites>
+</user>

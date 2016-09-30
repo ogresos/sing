@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gihidlaw nga makainom</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;NATAGBAW KANG CRISTO</category>
+  <numbers><cebuano num="325"/><chinese num="257"/><english num="325"/><korean num="257"/><portuguese num="178"/><russian num="451"/><spanish num="157"/><tagalog num="325"/></numbers>
+  <creators>
+    <author biodate="1858-1937" biolink="">Translated from Clara Tear Williams</author>
+  </creators>
+  <music>
+    <midiref type="h" num="325"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gihidlaw nga makainom,
+Usa ka bugnawng tubod,
+Nga magkuha's kauhaw ko,
+Ug sa tanang kauga.</stanza>
+    <stanza type="chorus" number="">Hallelujah! Napalgan ko
+Ang dugayng gipangandoy!
+Si Jesus nagtagbaw nako;
+Kinabuhi N'ya nagl'was.</stanza>
+    <stanza type="verse" number="2">Bunga's biyatilis napugos
+Pagkaon, kay gigutom,
+Apan kutob ra's pangandoy,
+Wa makuhang kagutom.</stanza>
+    <stanza type="verse" number="3">Kabus, nangita's kadato,
+Aron ako matagbaw,
+Apan abug ang naangkon,
+Pangita ko gitamay.</stanza>
+    <stanza type="verse" number="4">Buhing tubig nga nagtubod,
+Kalan-on's kinabuhi,
+Kadato nga maangkon ko,
+Sa akong Manunubos.</stanza>
+  </lyrics>
+</hymn>

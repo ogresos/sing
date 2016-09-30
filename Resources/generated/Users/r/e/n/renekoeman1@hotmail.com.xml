@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>mark</firstname>
+<lastname>koeman</lastname>
+<email>renekoeman1@hotmail.com</email>
+<password>$1$11wHZltH$NcJ6JgU6NQYOt84k5PtKV/</password>
+<gender>M</gender>
+<country>Netherlands</country>
+<ipaddress>82.176.251.168</ipaddress>
+<createdate>2009-01-14 12:51:31</createdate>
+<lastupdateddate>2009-09-15 18:27:09</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+        <fav category="default" type="nt" num="293">Cleansed in our Savior's precious blood</fav>
+        <fav category="default" type="h" num="1293">O I'm a man</fav>
+        <fav category="default" type="h" num="551">I've believed the true report</fav>
+        <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+        <fav category="default" type="nt" num="394b">Unto Him that hath Thou givest (Alternate)</fav>
+        <fav category="default" type="nt" num="477">Though Christ a thousand times</fav>
+        <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+    </favourites>
+</user>

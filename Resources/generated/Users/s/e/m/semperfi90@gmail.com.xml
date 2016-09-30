@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Erik</firstname>
+  <lastname>Kunkel</lastname>
+  <email>semperfi90@gmail.com</email>
+  <password>$2y$10$VNA0CDdp989caJiEbrnKwuwC2m5OPnT723EBCAZv77uhmm9tyn1we</password>
+  <gender>M</gender>
+  <country>uk</country>
+  <ipaddress>70.99.225.75</ipaddress>
+  <createdate>2014-05-31 14:45:24</createdate>
+  <lastupdateddate>2016-06-24 19:22:07</lastupdateddate>
+  <lastlogindate>2016-06-24 19:22:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+    <fav category="default" type="ns" num="422">But we all with unveiled face</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="ns" num="252">God has called us into the fellowship of His Son</fav>
+    <fav category="default" type="ns" num="343">God is processed, this I know</fav>
+    <fav category="default" type="ns" num="248">God's complete salvation</fav>
+    <fav category="default" type="h" num="782">How mysterious, O Lord</fav>
+    <fav category="default" type="h" num="482">I am crucified with Christ</fav>
+    <fav category="default" type="h" num="546">I love my Lord, but with no love of mine</fav>
+    <fav category="default" type="h" num="631">If I'd know Christ's risen power</fav>
+    <fav category="default" type="h" num="389">Lord Jesus, I long in Thy presence to live</fav>
+    <fav category="default" type="ns" num="451">Lord, Deeper Make Thy Home in Me</fav>
+    <fav category="default" type="h" num="839">Lord, Thou art a potter skilled</fav>
+    <fav category="default" type="h" num="578">My will is weak, my strength is frail</fav>
+    <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+    <fav category="default" type="h" num="1190">O Lord, You've called to us, and Canaan we would win</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    <fav category="default" type="h" num="513">Once it was the blessing</fav>
+    <fav category="default" type="ns" num="225">Praise the Lord! The God of glory</fav>
+    <fav category="default" type="ns" num="192">Some, these days, would tell us that our Jesus is not food</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="ns" num="250">The Christian life is a life</fav>
+    <fav category="default" type="ns" num="282">The Lord is my light and salvation</fav>
+    <fav category="default" type="h" num="749">The Spirit of the triune God</fav>
+    <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    <fav category="default" type="ns" num="173">The faith is the economy</fav>
+    <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+    <fav category="default" type="h" num="8773">When I've run the race before me</fav>
+  </favourites>
+</user>

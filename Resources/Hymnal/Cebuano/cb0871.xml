@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kuyog Cristohanon</title>
+  <index>true</index>
+  <category>ESPIRITUHANONG PAKIGGUBAT&amp;mdash;MAGMARTSA</category>
+  <numbers><cebuano num="871"/><chinese num="633"/><english num="871"/><french num="166"/><german num="871"/><korean num="633"/><portuguese num="413"/><spanish num="394"/><tagalog num="871"/></numbers>
+  <creators>
+	<author biodate="1834-1924" biolink="">Translated from Sabine Baring-Gould</author>
+  </creators>
+  <melody>| 5 5 5 5 | 5.( 6/) 5 - | 2 2 1 2 | 3 - - - | 1 3 5 ._1 | ._1 - 7 - | 6 6 3 4# | 5 - - - (break) | 2 2 5 2 | 3.( 4/) 3 - | 5 5 ._1 5 | 6 - - - | 6 5 4 5 | 6( 5) 4( 5) | 6 5 4 3 | 2 - - - (break) | (Chorus) 1 1 1 1 | 1( 7_./)( 6_./) 7_.( 1) | 2 2 2 1/( 2/) | 3 - - - | 5 5 ._1 7 | ._1 - 5 - | 4 3 2. 1/ | (.1 - - - |</melody>
+  <music>
+	<midiref type="h" num="871"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kuyog Cristohanon
+Sa panggubatan!
+Ug ang krus ni Jesus
+Mag-una's tanan.
+Si Cristo Pangulo
+Magmamando ta,
+Padayon sa bugno
+Sa unahan pa.</stanza>
+	<stanza type="chorus" number="">Kuyog Cristohanon
+Kay may gubat pa!
+Ug ang krus ni Jesus
+Mag-una's tanan!</stanza>
+	<stanza type="verse" number="2">Sa ngalan ni Jesus
+Yawa modagan;
+Ug ang Cristohanon
+May kadaugan!
+Ang Hades mokurog
+Sa singgit's pagdayeg;
+Ipatugbawng tingog,
+Awit's makusog!</stanza>
+	<stanza type="verse" number="3">Sama's kasundalohan
+Ang Iglesia's Dios:
+Sa tunob's balaan
+Nagsunod kita;
+Usa ta ka Lawas,
+Wa gyud mabahin,
+Usa sa pagtoo
+Ug Espiritu.</stanza>
+	<stanza type="verse" number="4">Mga gingharian
+Mangapukan man,
+Ang Iglesiang Jesus
+Way katapusan.
+Ganghaan sa Hades,
+Di gyud 'kapukan,
+Kay ang saad sa Dios
+Way kapakyasan.</stanza>
+	<stanza type="verse" number="5">Busa magpadayon
+Kita nga tanan;
+Isinggit ang tingog
+Sa kadaugan.
+Dungog ug himaya
+Alang kang Cristo,
+Ngalan N'ya awiton
+Sa tanan daygon.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>annette</firstname>
+<lastname>tinter</lastname>
+<email>yourpianolady@yahoo.com</email>
+<password>$1$yecHhBqM$AZwvMqB8kvwyis6EDrkk91</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>70.9.154.131</ipaddress>
+<createdate>2008-07-26 01:43:30</createdate>
+<lastupdateddate>2009-09-15 18:25:28</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+    </favourites>
+</user>

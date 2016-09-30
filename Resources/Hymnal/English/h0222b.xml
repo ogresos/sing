@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dear Lord, we thank Thee for this bread (Alternate Tune)</title>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="1812-1865" biolink="">William Vincent Wallace</composer>
+  </creators>
+  <numbers><chinese num="185"></chinese><korean num="185"></korean><portuguese num="118"></portuguese><russian num="43"></russian><spanish num="98"></spanish><tagalog num="222"></tagalog></numbers>
+  <meter>8.6.8.6.</meter>
+  <hymncode>3334332225234355517</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Dm - - | G7 - G7/B | C - - | C - - | F - Dm | C/G - G7 | F/C C - |</chords>
+  <melody>| 0 - 3 | 3. 3/ 4/ 3/ | 3./ 2// 2. 2/ | 5. 2/ 3/ 4/ | 3 - 5 | 5. 5/ ._1/ 7/ | 7./ 6// 6. 6/ | 5. 1/ 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Dear Lord, we thank Thee for this bread, It is a sign di -- vine; In it we see the mys -- te -- ries Of God's u -- nique de -- sign.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj163.xml</link>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0222.html">View Lyrics</link>
+    <link type="relevant" category="h" num="222" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0222b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dear Lord, we thank Thee for this bread,
+  It is a sign divine;
+In it we see the mysteries
+  Of God's unique design.</stanza>
+    <stanza type="verse" number="2">This bread Thy body signifies,
+  Which Thou hast giv'n for us,
+That we may share Thy life divine,
+  Partaking of Thee thus.</stanza>
+    <stanza type="verse" number="3">For us Thy body Thou didst break
+  That Thou may thus impart
+Thyself as life to us that we
+  May be Thy counterpart.</stanza>
+    <stanza type="verse" number="4">This bread thus also signifies
+  Thy body mystical,
+Of which we living members are,
+  With Thee identical.</stanza>
+    <stanza type="verse" number="5">Though we are many grains of wheat,
+  Yet all one loaf, one bread;
+Remembering Thee in such a way,
+  With Thee we all are fed.</stanza>
+    <stanza type="verse" number="6">As of this bread we all commune,
+  Thou, Lord, dost satisfy;
+With all the saints we fellowship,
+  And Thee we testify.</stanza>
+  </lyrics>
+</hymn>

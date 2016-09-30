@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anne</firstname>
+  <lastname/>
+  <email>theholyspiritlivesinmybody@gmail.com</email>
+  <password>$2y$10$36phHoES39ENG510v2JgFOxZkveWJcj3ucz8lAmGdsbx7uyH0K5nW</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.191.236.36</ipaddress>
+  <createdate>2015-04-10 15:35:53</createdate>
+  <lastupdateddate>2015-04-10 15:59:48</lastupdateddate>
+  <lastlogindate>2015-04-10 15:41:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+  </favourites>
+</user>

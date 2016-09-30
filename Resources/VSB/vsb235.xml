@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The law of the Lord is perfect</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:281"/><vsb num="235"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">Joanne Roberts Graham</composer>
+  </creators>
+  <copyright>1969 Bud John Songs, Inc.</copyright>
+  <hymncode>33512222225443</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C7 - - - | F - - - | G7 - - - | Em - - - | Am - - - | Dm7 - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0. 3/ 3/ 5/( 5/) 1/ | 2. 2/ 2/ 2. | 0 2/ 2/ 5/( 5/) 4/ | 4/( 3/)( 3) - - | 0 3/ 3/ 3/ 3/ 4/ 5/ 1/ | 2. 2/ 2 - | 0 2/ 2/ 2/( 5/)( 5/) 4/ | 4/ 3/( 3) - - (break) | (Chorus) 0 3/ 3/ 4 5 | 6 6 6 6 | 2 2 3 4 | 5.( 4/)( 3.)( 4/) (break) | 5 1/ 1/ 2/ 2/ 3 | 4.( 3/) 2 - | 0 2/ 2/ 1 7_. | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>The law of the Lord is per -- fect, Con -- vert -- ing the soul; The tes -- ti -- mo -- ny of the Lord is sure, Mak -- ing wise the sim -- ple. More to be de -- sired are they than gold. Yea, than much fine gold: Sweet -- er al -- so than hon -- ey And the hon -- ey -- comb.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 19:7-11</link>
+    <link type="ref">Psalms 19:14</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0281.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The law of the Lord is perfect,
+Converting the soul;
+The testimony of the Lord is sure,
+Making wise the simple.</stanza>
+    <stanza type="chorus" number="">More to be desired are they than gold.
+Yea, than much fine gold:
+Sweeter also than honey
+And the honeycomb.</stanza>
+    <stanza type="verse" number="2">The statues of the Lord are right,
+Rejoicing the heart:
+The commandment of the Lord is pure,
+Enlightening the eyes.</stanza>
+    <stanza type="verse" number="3">The fear of the Lord is clean,
+Enduring forever;
+The judgments of the Lord are true
+And righteous altogether.</stanza>
+    <stanza type="verse" number="4">Let the words of my mouth
+And the meditation of my heart,
+Be acceptable in Thy sight, O Lord,
+My strength, and my redeemer.</stanza>
+    <stanza type="chorus" number="">Moreover by them is Thy servant warned:
+Is Thy servant warned:
+And in keeping of them there is
+Great reward.</stanza>
+  </lyrics>
+</hymn>

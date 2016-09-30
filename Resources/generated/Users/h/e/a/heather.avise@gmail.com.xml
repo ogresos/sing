@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Heather</firstname>
+  <lastname>Avise</lastname>
+  <email>heather.avise@gmail.com</email>
+  <password>$2y$10$8XwIyWIKWohAW7x24g0FPOGqIZHTVDc1.n2q.cAvKfFtwmdj63a6q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>216.134.236.185</ipaddress>
+  <createdate>2014-11-15 12:31:23</createdate>
+  <lastupdateddate>2014-11-15 12:41:18</lastupdateddate>
+  <lastlogindate>2014-11-15 12:33:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="719">Like a river, glorious</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="1359">Take my life, and let it be (with chorus)</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

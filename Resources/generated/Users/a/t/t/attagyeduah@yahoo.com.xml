@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Atta Agyemang</firstname>
+  <lastname>Duah``</lastname>
+  <email>attagyeduah@yahoo.com</email>
+  <password>$2y$10$VfVe2xZ6RvPLohG2H8jnVemxfYIwBmuAOf17yJJLP8yEnp.AgUMDq</password>
+  <gender/>
+  <country>gh</country>
+  <ipaddress>212.96.13.9</ipaddress>
+  <createdate>2015-11-11 12:56:44</createdate>
+  <lastupdateddate>2015-11-11 13:45:39</lastupdateddate>
+  <lastlogindate>2015-11-11 12:59:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="341">It is well</fav>
+  </favourites>
+</user>

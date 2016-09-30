@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Until He comes again</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Longing and Praying</category>
+  <numbers><english num="ns:106"/><vsb num="222"/></numbers>
+  <hymncode>111254323</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>105</tempo>
+  <chords>| C - - - | G/B - G7 - | Am - - - | F - G7 - | C - - - | G/B - - - | F/A - - - | Gsus4 - G7 - | C - - - | G/B - G7 - | Am - - - | F - G7 - | C - - - | G/B - - - | F/A - - - | Gsus4 - G7 - | C - - - | Em - - - | F - - - | G7 - - - | C - - - | Em - - - | F - - - | G7 - - - | C - - - | Em - - - | F - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0. 1/ 1 1 | 2. 5_./ 4/( 3/ 2 | 3.) 1/ 1 1 | 2. 5_./ 4/( 3/) 2 (break) | 3. 5/ 5 5 | 5 1 1 2 | 4. 1/ 1 1 | 2. 5_./ 4/( 3/) 2 (break) | 1. (Verse_2) 1/ 1 1 | 2. 5_./ 4/( 3/ 2 | 3.) 1/ 1 1 | 2. 5_./ 4/( 3/) 2 (break) | 3. 5/ 5 5 | 5 1 1 2 | 4. 1/ 1 1 | 2. 5_./ 4/( 3/) 2 (break) | (Brothers) 1. 2/( 2) 3 | 7_.. 1/( 1) 2 | 6_.( - - - | 5_..) 5_./ 4/( 3/) 2 (break) | (Sisters) 1. 2/( 2) 3 | 7_.. 1/( 1) 2 | 6_.( - - - | 5_..) 5_./ 4/( 3/) 2 (break) | (Brothers) 1. 2/( 2) 3 | 7_.. 1/( 1) 2 | 6_.( - - - | 5_..) 5_./ 4/( 3/) 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza end="3">Un -- til He comes a -- gain, I'll watch and wait and call on Him I'll pray that by His life and power, I'll o -- ver -- come in ev -- ery hour. Un -- til He comes a -- gain, His blood will cleanse me of my sin His word will sanc -- ti -- fy with -- in, And make me whol -- ly un -- to Him. [skip9] He rose and as Spir -- it He Now lives in me.</singingstanza>
+    <singingstanza2>[skip59] He died to be life to me&amp;mdash; From death I'm free. [skip9] In splen -- dor and in glo -- ry Like Him I'll be.</singingstanza2>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="69">ns0106.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Until He comes again,
+I'll watch and wait and call on Him
+I'll pray that by His life and power,
+I'll overcome in every hour.</stanza>
+    <stanza type="verse" number="2">Until He comes again,
+His blood will cleanse me of my sin
+His word will sanctify within,
+And make me wholly unto Him.</stanza>
+    <stanza type="chorus" number="">(Bro.) He died to be life to me&amp;mdash;
+         From death I'm free.
+(Sis.) He rose and as Spirit He
+         Now lives in me.
+(Bro.) In splendor and in glory
+         Like Him I'll be.</stanza>
+    <stanza type="verse" number="3">Until He comes again,
+My soul-life I'll give up for Him.
+No worldly pleasure can compare
+To what my Savior has to share.</stanza>
+    <stanza type="verse" number="4">And when He comes again,
+All saints built up and one in Him.
+His Body, Bride, and Counterpart,
+Eternal pleasure of His heart.</stanza>
+    <stanza type="chorus" number="">(Sis.) Lord, gain Your kingdom in me,
+         I long to be...
+(Bro.) One with my Savior and King,
+         Eternally.
+(Sis.) Oh, what a joy it will be
+         Your face to see.</stanza>
+  </lyrics>
+</hymn>

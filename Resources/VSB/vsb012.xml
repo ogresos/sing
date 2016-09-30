@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fallen, in her condition</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Humanity</category>
+  <numbers><english num="ns:166"/><vsb num="12"/></numbers>
+  <hymncode>533455345432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G - - - | F - - - | C - - - | Dm7 - - - | G7 - - - | C - - - | Am - - - | F - Dm7 - | Gsus4 - G7 - | C - F/C - | C - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G - - - | F - - - | C - - - | Dm7 - - - | G7 - - - | C - - - | Am - - - | F - Dm7 - | Gsus4 - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| (Verse_1) 5/ 3.( 3/) 3/ 4/ 5/ | 5/ 3.( 3) - | 4. 5/ 4 3 | 2 - 3 4 (break) | 5/ 3.( 3/) 3/ 4/ 5/ | 5/ 3.( 3) 3 | 4. 5/ 4 3 | 2 - - - (break) | 6/ 4.( 4/) 4/ 5/ 6/ | 5/ 3.( 3) 3 | 4. 5/ 4 3 | 2 - 3 4 (break) | 5/ 3.( 3/) 3/ 4/ 5/ | 5/ 3.( 3) 3 | 4. 5/ 4 3 | 2. 2/ 1 7_. | 1( - - - | 1) - - 0 (break) | (Verse_2) 5. 3/ 2 1 | 1 - - - | 6. 5/ 4 6 | 5 - 3 4 | 5. 3/ 2 1 | 1 - - - | 6. 5/ 4 3 | 2 - - - (break) | 4. 3/ 2 4 | 3 - 3 3 | 4 4/ 3/ 2 1 | 2 - 3 4 | 5 - 3 2 | 1 - - 1 | 4 - 4 3 | 2. 2/ 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Fall -- en, in her con -- di -- tion Is -- rael left her Love. She was stub -- born in her pos -- i -- tion&amp;mdash; To God she would not come. Un -- der the Lord's chas -- tis -- ing She was an un -- turned cake. But Je -- ho -- vah, with love un -- chang -- ing Makes Is -- rael His own son&amp;mdash; a change to make. You be -- came a man&amp;mdash; Cord of love to me. I am drawn with lov -- ing bands And em -- braced by Thee. From the heav -- ens came, You stepped out of e -- ter -- ni -- ty, Died and rose as a man That You could im -- part Your life to me.</singingstanza>
+  </layout>
+  <notes>The verses can be sung together.</notes>
+  <links>
+    <link type="ref">Hosea 11:1-4</link>
+  </links>
+  <music>
+    <midi location="ns" length="78">ns0166.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Fallen, in her condition
+Israel left her Love.
+She was stubborn in her position&amp;mdash;
+To God she would not come.
+Under the Lord's chastising
+She was an unturned cake.
+But Jehovah, with love unchanging
+Makes Israel His own son&amp;mdash;a change to make.</stanza>
+    <stanza type="verse" number="2">You became a man&amp;mdash;
+Cord of love to me.
+I am drawn with loving bands
+And embraced by Thee.
+From the heavens came,
+You stepped out of eternity,
+Died and rose as a man
+That You could impart Your life to me.</stanza>
+  </lyrics>
+</hymn>

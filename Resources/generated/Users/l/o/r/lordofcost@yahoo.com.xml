@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>merhawi</firstname>
+  <lastname>kidane</lastname>
+  <email>lordofcost@yahoo.com</email>
+  <password>$2y$10$x0glB6GL0nDdAb4rRdzGbO.6I2vtnlwed16TT851zaFA38d6AQDbW</password>
+  <gender/>
+  <country>et</country>
+  <ipaddress>197.156.64.244</ipaddress>
+  <createdate>2015-12-28 12:57:22</createdate>
+  <lastupdateddate>2016-01-18 10:26:59</lastupdateddate>
+  <lastlogindate>2015-12-28 13:02:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="h" num="403">Live Thyself, Lord Jesus, through me</fav>
+  </favourites>
+</user>

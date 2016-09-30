@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Definition of Love</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:279"/><vsb num="237"/></numbers>
+  <hymncode>11271344322</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G7 - - - | F - - - | G - - - | F - - - | G - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 1 1. 2/ | 7_.( - - 7_./)( 1/) | 0 3/( 4/) 4( 3/)( 2/) | 2 - 2/ 3/ 4/( 5/) | 5 3 6_./ 7_./ 1/( 7_./) | 7_. - 2/ 1/ 7_./ 1/ | 1( - - - | 7_.) - - - (break) | 0 1 1. 2/ | 7_.( - - 7_./)( 1/) | 0 3/( 4/) 4( 3/)( 2/) | 2 - 2/ 3/ 4/( 5/) | 5 3 6_./ 7_./ 1/( 7_./) | 7_. - 2/ 1/ 7_./ 1/ | 1( - - - | 7_.) - - - (break) | 0. 6_./ 6_. 7_./ 1/ | 2 - - 3/ 4/ | 3/ 1/ 5_.( - - | 5_.) - - - | 0. 6_./ 6_. 7_./( 1/) | 2( - 2/) 3/ 4/( 3/)( | 3/) 3.( 3)( - | 3) - 5/ 4/ 3/ 4/ | 4 - - 4/ 3/ | 2 - - 1/ 2/ | 3 - 3 2/( 1/) | 1 - 1/ 2/ 3/ 4/ | 4 - - 4/( 3/) | 2 - - 1/ 7_./ | 7_.( 1) - 1 | 2 - - 2/ 3/ | 4 - - 3/( 2/) | 2( - - 2/) 1/ | 1( - - - | 7_.) - - - (break) | 0 1 1/ 1/ 2/( 1/) | 7_.( - - 7_./)( 1/) | 0 3/( 4/) 4 3/( 2/) | 2 - 2/( 3/) 4/( 5/) | 5 3 6_./( 7_./) 1/( 7_./) | 7_.. 5_./ 2/ 1/ 7_./ 1/ | 1( - - - | 7_..) 5_./ 2/ 1/ 7_./ 1/ | 1( 3/)( 2/)( 2/)( 1/)( 1/)( 7_./)( | 7_..) 5_./ 2/ 1/ 7_./ 1/ | 1( 3/)( 2/)( 2/)( 1/)( 1/)( 7_./)( | 7_..) 5_./ 2/ 1/ 7_./ 1/ | 1( - - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza end="-1">Love suf -- fers long. Love is kind; it is not jeal -- ous. Love does not brag and is not puffed up. Love suf -- fers long. Love is kind; it is not jeal -- ous. Love does not brag and is not puffed up. It does not be -- have un -- be -- com -- ing -- ly; It does not seek its own things; It is not pro -- voked and does not take ac -- count of e -- vil; It does not re -- joice be -- cause of un -- righ -- teous -- ness, But re -- joic -- es with the truth. It cov -- ers all things, be -- lieves all things, Hopes all things, en -- dures all things. Love nev -- er falls a -- way, Love nev -- er falls a -- way, Love nev -- er falls a -- way, Love nev -- er falls a -- way.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="ref">1 Corinthians 13:4-8a</link>
+  </links>
+  <music>
+    <midi location="ns" length="141">ns0279.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Love suffers long. Love is kind; it is not jealous.
+Love does not brag and is not puffed up.
+Love suffers long. Love is kind; it is not jealous.
+Love does not brag and is not puffed up.</stanza>
+    <stanza type="verse" number="">It does not behave unbecomingly;
+It does not seek its own things;
+It is not provoked and does not take account of evil;
+It does not rejoice because of unrighteousness,
+But rejoices with the truth.</stanza>
+    <stanza type="verse" number="">It covers all things, believes all things,
+Hopes all things, endures all things.
+Love never falls away, Love never falls away,
+Love never falls away, Love never falls away.</stanza>
+  </lyrics>
+</hymn>

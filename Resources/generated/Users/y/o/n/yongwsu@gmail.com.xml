@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Yong</firstname>
+  <lastname/>
+  <email>yongwsu@gmail.com</email>
+  <password>$2y$10$YospwmsI30qK4fsGJPzTiu//sBCknSXpeDenxsesiX/bVjvFnXwSu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.74.244.254</ipaddress>
+  <createdate>2015-07-26 02:14:10</createdate>
+  <lastupdateddate>2015-08-02 05:29:34</lastupdateddate>
+  <lastlogindate>2015-08-02 05:29:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="695">Does Jesus care when my heart is pained</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+  </favourites>
+</user>

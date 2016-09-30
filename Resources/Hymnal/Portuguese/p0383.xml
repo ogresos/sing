@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sopra em mim, Senhor</title>
+  <index>true</index>
+  <category>Sua Edificação</category>
+  <numbers><chinese num="605"/><english num="842"/><korean num="605"/><portuguese num="383"/><tagalog num="842"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="842"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sopra em mim, Senhor,
+Vem meu espír'to alçar,
+Em Tua vida de louvor,
+Da morte me livrar.</stanza>
+    <stanza type="verse" number="2">Sopra em mim, Senhor,
+Vem me revigorar,
+E vou correr, andar, subir,
+Jamais me fatigar.</stanza>
+    <stanza type="verse" number="3">Sopra em mim, Senhor,
+Pra no descanso entrar,
+E com alegre coração
+Em Ti me reclinar.</stanza>
+    <stanza type="verse" number="4">Sopra em mim, Senhor,
+Me enche de Ti assim;
+No meu falar, pensar e agir,
+Não eu; mas Cristo em mim.</stanza>
+    <stanza type="verse" number="5">Sopra até não mais
+Independente eu ser;
+No Corpo edificado, então,
+Co'os santos vou viver.</stanza>
+  </lyrics>
+</hymn>

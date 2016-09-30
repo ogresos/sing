@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Two eyes to see all that my Lord has made</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;General</category>
+  <melody>3. 4 4/ | 5. 6. | 5 3/ 4 5/ | 3 - - (break) | 2. 5 6/ | 7. ._1. | ._2 ._1/ 7 6/ | 5 - - (break) | 3. 4 4/ | 5. 5. | 5 5/ 4 3/ | 4 - - (break) | 4. 3 2/ | 5 5/ 1 2/ | 3. 2. | 1 - - |</melody>
+  <layout>
+    <singingstanza>Two eyes to see all that my Lord has made, Two ears to lis -- ten to His ho -- ly Word. Two feet to run the way of righ -- teous -- ness, And my two hands for serv -- ing Christ my Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-p.xml</link>
+    <link type="relevant" category="h" num="556"></link>
+  </links>
+  <music>
+    <midiref type="h" num="556"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Two eyes to see all that my Lord has made,
+Two ears to listen to His holy Word.
+Two feet to run the way of righteousness,
+And my two hands for serving Christ my Lord.</stanza>
+    <stanza type="verse" number="2">I have a mouth to praise the Lord of grace;
+I have a heart to love the Lord my God;
+I give myself, all that I am and have
+To always love and serve the Lord my God.</stanza>
+  </lyrics>
+</hymn>

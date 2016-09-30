@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>來到施恩座</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>513511615</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 坦 然 來 到 施 恩 座， 得 著 憐 恤 恩 惠 作 幫 助； 不 再 環 繞 十 字 架 敬 拜， 因 為 我 主 已 不 在 彼。 祂 已 衝 破 了 死 亡 捆 綁， 復 活 升 天 得 榮 耀！ 現 今 祂 從 施 恩 寶 座， 用 祂 生 命 供 應 我。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0415.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們坦然來到施恩座，
+得著憐恤恩惠作幫助；
+不再環繞十字架敬拜，
+因為我主已不在彼。
+祂已衝破了死亡捆綁，
+復活升天得榮耀！
+現今祂從施恩寶座，
+用祂生命供應我。</stanza>
+	<stanza type="verse" number="2">施恩寶座雖然在天上，
+藉祂天梯通到我靈裡；
+所以我不在魂裡游蕩，
+時時全人轉回靈裡。
+耶穌是我尊榮大祭司，
+喜歡體恤我軟弱！
+我靠著祂進到神前，
+祂必將我救到底。</stanza>
+	<stanza type="verse" number="3">讚美耶穌是我大祭司，
+按著麥基洗德的等次；
+我今為著神利益爭戰，
+祂就代求供我能力。
+等我得勝殺敗眾仇敵，
+祂用餅酒供應我！
+何等釋放得享自由，
+經歷祂完全救恩！</stanza>
+  </lyrics>
+</hymn>

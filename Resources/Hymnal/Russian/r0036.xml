@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Дивный наш Иисус</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО КРАСОТА</category>
+  <numbers><cebuano num="175"/><chinese num="143"/><english num="175"/><german num="175"/><korean num="143"/><portuguese num="85"/><russian num="36"/><spanish num="83"/><tagalog num="175"/></numbers>
+  <creators>
+	<author biodate="17th Century" biolink="">Translated from German</author>
+  </creators>
+  <melody>| 1 - 1 1 | 2( 7_.) 1 - | 3. 3/ 3 3 | 4( 2) 3 - | 5 - ._1 6 | 5 - 4 3 | 4 - 3 - | 2 - - - (break) | 5 - 6 5 | 5 3 4 - | 4 - 5 4 | 4 2 3 3 | 3 3 5 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Див -- ный наш Ии -- сус!  Пра -- [skip1] вишь при -- ро -- дой!  Сын че -- ло -- ве -- ка и Бо -- га Ты!  Бу -- ду те -- бя лю -- бить, Бу -- ду Те -- бя я чтить, Ты ра -- дость и ве -- нец ду -- ши!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="175"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Дивный наш Иисус!
+Правишь природой!
+Сын человека и Бога Ты!
+Буду тебя любить,
+Буду Тебя я чтить,
+Ты радость и венец души!</stanza>
+	<stanza type="verse" number="2">Как хороши луга,
+Как хороши леса,
+В платье цветущей весны мир весь.
+Краше его Иисус,
+Чище его Иисус,
+Кто сердцу грустному дал песнь.</stanza>
+	<stanza type="verse" number="3">Солнца светлы лучи,
+Блещет луна в ночи.
+И небо звёздами всё горит.
+Но ярче Иисус,
+Но чище Иисус,
+Небесных ангелов затмит.</stanza>
+	<stanza type="verse" number="4">Всё из земных красот,
+Весь блеск небес высот
+Чудесным образом есть в Тебе.
+Всех ближе Иисус,
+Дороже Иисус,
+Спаситель всех роднее мне.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Reich doch der Welt Christus dar</title>
+  <index>true</index>
+  <category>DAS EVANGELIUM PREDIGEN&amp;mdash;Christus darreichen</category>
+  <numbers><cebuano num="922"/><chinese num="665"/><english num="922"/><german num="922"/><korean num="665"/><portuguese num="431"/><russian num="230"/><spanish num="415"/><tagalog num="922"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <guitarChords>| C - - | C. F. | C - - | G. G7. | C. C. | C. C7. | F. F. | G. G7. | C. C. | C. F. | C. C. | G. G7. | C. C. | C. C7. | F. F. | G. G7. | C. C. |</guitarChords>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/( 7/) 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/( 7/) 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <layout>
+	<singingstanza>Reich doch der Welt Chris -- tus dar, Doch nicht nur sprich, le -- be Ihn, Tei -- le durch Ta -- ten Chris -- tus aus, Den Ab -- ge -- kämpf -- ten stets dien. Reich doch der Welt Chris -- tus dar, Und je -- den Tag Ihn aus -- stell, Le -- be durch Ihn, mit Chris -- tus dien, Tu al -- len kund die -- sen Quell.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Reich doch der Welt Christus dar,
+Doch nicht nur sprich, lebe Ihn,
+Teile durch Taten Christus aus,
+Den Abgekämpften stets dien.</stanza>
+	<stanza type="chorus" number="">Reich doch der Welt Christus dar,
+Und jeden Tag Ihn ausstell,
+Lebe durch Ihn, mit Christus dien,
+Tu allen kund diesen Quell.</stanza>
+	<stanza type="verse" number="2">Reich doch der Welt Christus dar,
+Kostbar ist Er, leb durch Ihn;
+Teil deinen Freunden Christus aus,
+So wird Er auch ihr Gewinn.</stanza>
+	<stanza type="verse" number="3">Reich doch der Welt Christus dar,
+Der dich erfreut, Gnade gibt,
+Teil deinen Nachbarn Christus aus,
+Bis auch ihr Herz Christus liebt.</stanza>
+	<stanza type="verse" number="4">Reich doch der Welt Christus dar,
+Er ist dein Ziel, deine Wahl;
+Dem, den du triffst, mit Christus dien,
+Sprich doch vom Herrn überall.</stanza>
+  </lyrics>
+</hymn>

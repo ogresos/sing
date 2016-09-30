@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Aba, Pai", aqui reunidos</title>
+  <index>true</index>
+  <category>Sua Redenção</category>
+  <numbers><chinese num="37"/><english num="43"/><korean num="37"/><portuguese num="30"/><spanish num="28"/><tagalog num="43"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="43"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Aba, Pai", aqui reunidos
+Em Jesus, o Salvador,
+Nós, Teus filhos, desfrutamos
+Tua bênção, Teu amor,
+Pois Seu sangue, dos pecados,
+Veio nos purificar,
+E ensinou-nos Teu Espír'to
+Sempre "Aba, Pai" clamar.</stanza>
+    <stanza type="verse" number="2">Como pródigos outrora,
+Vivendo em dissolução;
+Mas a graça abundante
+Nos salvou da perdição.
+E vestidos de justiça,
+Para à Tua mesa estar,
+Na riqueza desta graça,
+Vamos, Tu e nós, gozar.</stanza>
+    <stanza type="verse" number="3">Pai, ao pródigo perdoaste,
+"Nos beijaste" com amor;
+"Imolaste o novilho",
+Saciando o pecador.
+E ouvimos Tu dizeres:
+"Alegrai-vos como Eu,
+Pois achado foi Meu filho
+Que morreu e reviveu."</stanza>
+    <stanza type="verse" number="4">"Aba, Pai", Te adoramos,
+E as hostes lá nos céus,
+Em nós, vêem maravilhas
+Do amor e graça Teus.
+Muito em breve, estaremos
+Ante o trono Teu, e então
+Juntos nós proclamaremos
+Teu amor na redenção.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>nicolas</firstname>
+    <lastname>villamil</lastname>
+    <email>nicolasv2@cbemail.ca</email>
+    <password>rJLQgkpoxLC1VCjhwvFR7A%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>204.191.161.50</ipaddress>
+    <createdate>2010-03-30 14:29:10</createdate>
+    <lastupdateddate>2010-04-04 21:22:47</lastupdateddate>
+    <lastlogindate>2010-04-04 21:17:54</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+        <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+        <fav category="default" type="ns" num="48">God wants someone to love Him</fav>
+        <fav category="default" type="ns" num="171">I'm a beggar 'cause... I'm blind</fav>
+        <fav category="default" type="ns" num="163">If you wish to find the Lord</fav>
+        <fav category="default" type="ns" num="19">Let me love and not be requited</fav>
+        <fav category="default" type="ns" num="209">Lord now I see</fav>
+        <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+        <fav category="default" type="ns" num="36">Make me wholly Thine</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+    </favourites>
+</user>

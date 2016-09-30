@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>jose</firstname>
+<lastname>navarrete</lastname>
+<email>familianavarrete@sbcglobal.net</email>
+<password>$1$JyJ4vX8d$j5r28sS3N1IrhxSioWokG.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.43.132.83</ipaddress>
+<createdate>2009-09-01 01:59:24</createdate>
+<lastupdateddate>2009-09-15 19:18:27</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+    </favourites>
+</user>

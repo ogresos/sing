@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Our hearts, Lord, now You fully own</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;The Lord's Recovery</category>
+  <hymncode>55323216</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - | C - - | G - - | F - - | C - - | Am - - | Dm - G7 | C - - | G - C/E | F - - | C/G - - | G7 - - | C - - | C7 - - | F - - | G7/F - - | Em - - | Am - C/G | F - - | G7/F - - | C/E - Am | Dm - G7 | C - - | G - C/E | F - - | C/G - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 0 - 5 | 5 - 3 | 2. 3/ 2/ 1/ | 6_. - 5_. | 1 - 3 | 5. 5/ 5/ 3/ | 2 - 5 (break) | 5 - 3 | 2. 3/ 2/ 1/ | 6_. - 5_. | 1 - 3 | 2 - 1 | 1( - - (break) | 1) - (Chorus) 1 | 6. 5#/ 6/ 7/ | ._1 - 7/ 6/ | 5. 6/ 5/ 3/ | 5 - 1 (break) | 6. 5#/ 6/ 7/ | ._1 - 6 | 5. 6/ 5/ 3/ | 2 - 5 (break) | 5 - 3 | 2. 3/ 2/ 1/ | 6_. - 5_. | 1 - 3 | 2 - 1 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Our hearts, Lord, now You ful -- ly own, We love You, Lord, and You a -- lone. Lord, sin -- gle keep our hearts, and pure, For You and for Your church. In -- crease Your -- self, O Lord, Now in us, grow more and more. Oh, build Your glo -- rious church&amp;mdash; You loved and died for her! To suf -- fer, Lord, and live to You, Our joy, our glo -- ry true.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="47">ns0021.mid</midi>
+  </music>
+  <lyrics>
+    <!--stanza type="verse" number="1">Lord Jesus, all our hearts You've gained,
+You are the only One we love.
+Lord, keep our hearts single and pure
+To love You and Your church.</stanza>
+    <stanza type="chorus" number="">Increase Yourself, O Lord,
+Now in us, grow more and more.
+And build the glorious church,
+You love and have died for.
+Lord, we suffer and live to You,
+'Tis our glory and joy.</stanza>
+    <stanza type="verse" number="2">Lord Jesus, we are Your increase,
+The church, the kingdom, now we see;
+Lord, may we in Your kingdom live,
+Fighting for Your interest.</stanza>
+    <stanza type="chorus" number="">May Your recovery,
+Forward march, spread far and wide.
+May Your lampstands shine forth,
+In each city so bright.
+We fear not hardship nor evil,
+For Lord You stand with us.</stanza-->
+    <stanza type="verse" number="1">Our hearts, Lord, now You fully own,
+We love You, Lord, and You alone.
+Lord, single keep our hearts, and pure,
+For You and for Your church.</stanza>
+    <stanza type="chorus" number="">Increase Yourself, O Lord,
+Now in us, grow more and more.
+Oh, build Your glorious church&amp;mdash;
+You loved and died for her!
+To suffer, Lord, and live to You,
+Our joy, our glory true.</stanza>
+    <stanza type="verse" number="2">Lord Jesus, we are Your increase,
+The church, the kingdom, now we see;
+Lord, may we in Your kingdom live,
+For Your economy.</stanza>
+    <stanza type="chorus" number="">May Your recovery,
+Forward march, spread far and wide.
+Your lampstands shining forth
+In every city bright.
+Nor ill nor hardship do we fear,
+For Lord, You stand beside.</stanza>
+  </lyrics>
+</hymn>

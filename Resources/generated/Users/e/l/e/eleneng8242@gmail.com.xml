@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elene</firstname>
+  <lastname/>
+  <email>eleneng8242@gmail.com</email>
+  <password>$2y$10$/ALI0xn9DZeoVXcu9/Rd5.TgFsC0rAmKwTSPZaFJrccme8mpTKAMO</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>175.156.172.174</ipaddress>
+  <createdate>2014-10-21 05:30:19</createdate>
+  <lastupdateddate>2014-10-21 05:33:23</lastupdateddate>
+  <lastlogindate>2014-10-21 05:32:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+  </favourites>
+</user>

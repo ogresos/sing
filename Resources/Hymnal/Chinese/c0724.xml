@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>照我本相</title>
+  <index>true</index>
+  <category>福音－就主</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <layout>
+	<singingstanza>照 我 本 相， 無 善 足 稱， 惟 你 流 血， 替 我 受 懲， 並 且 召 我 就 你 得 生； 救 主 耶 穌， 我 來！ 我 來！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">照我本相，無善足稱，
+惟你流血，替我受懲，
+並且召我就你得生；
+救主耶穌，我來！我來！</stanza>
+	<stanza type="verse" number="2">照我本相，不必等到
+自己改變比前更好，
+因你寶血除罪可靠；
+救主耶穌，我來！我來！</stanza>
+	<stanza type="verse" number="3">照我本相，反覆不定，
+疑信參半，如浪不平，
+內有罣慮，外有惡行；
+救主耶穌，我來！我來！</stanza>
+	<stanza type="verse" number="4">照我本相，
+貧、瞎、可憐；
+我真需要你的恩典，
+感我惡心，開我盲眼；
+救主耶穌，我來！我來！</stanza>
+	<stanza type="verse" number="5">照我本相，你肯收留，
+賜我生命，赦我愆尤，
+你既應許，必定成就；
+救主耶穌，我來！我來！</stanza>
+  </lyrics>
+</hymn>

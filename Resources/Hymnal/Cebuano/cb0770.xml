@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sudlon ta karon, labing balaan</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;SA DAPIT LABING BALAAN</category>
+  <numbers><cebuano num="770"/><chinese num="557"/><dutch num="68"/><english num="770"/><french num="140"/><german num="770"/><korean num="557"/><portuguese num="354"/><russian num="127"/><spanish num="328"/><tagalog num="770"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5/ 5/ ._1./ ._2// ._3 - | ._1/ ._2/ ._1./ 6// 5 - | 5 ._1./ ._2// ._3 ._4./ ._3// | ._2 - - 0 (break) | 5/ 5/ ._1./ ._2// ._3 - | ._1/ ._2/ ._1./ 6// 5 - | 5 ._1./ ._2// ._3 ._2./ ._2// | ._1 - - 0 (break) | (Chorus) ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/(. 5/). ._1./ ._2// ._3 ._4./ ._3// | ._2 - - 0 (break) | ._3. ._2/ ._2/ ._1. | ._1. 6/ 6/ 5. | 5/(. 5/). ._1./ ._2// ._3 ._2./ ._2// | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="770"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sudlon ta karon, labing balaan,
+Trono sa grasya tandogon;
+Sudlon ta karon, labing balaan,
+Grasya daw suba moagay.</stanza>
+	<stanza type="chorus" number="">Hallelujah! Hallelujah!
+Grasya daw suba moagay;
+Hallelujah! Hallelujah!
+Grasya daw suba moagay.</stanza>
+	<stanza type="verse" number="2">Mabuhi's atubangan's nawong N'ya,
+Himaya mosidlak nako;
+Mabuhi's atubangan's nawong N'ya,
+Himaya mosidlak nako.</stanza>
+	<stanza type="chorus" number="">Hallelujah! Hallelujah!
+Himaya mosidlak nako;
+Hallelujah! Hallelujah!
+Himaya mosidlak nako!</stanza>
+	<stanza type="verse" number="3">Liso's esp'ritu, sunog's incienso,
+Tandogang buhi nga tubod;
+Liso's esp'ritu, sunog's incienso,
+Tandogang buhi nga tubod.</stanza>
+	<stanza type="chorus" number="">Hallelujah! Hallelujah!
+Tandogang buhi nga tubod;
+Hallelujah! Hallelujah!
+Tandogang buhi nga tubod!</stanza>
+  </lyrics>
+</hymn>

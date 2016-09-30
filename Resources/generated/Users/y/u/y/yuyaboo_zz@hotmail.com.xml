@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Lisa</firstname>
+<lastname>Zhang</lastname>
+<email>yuyaboo_zz@hotmail.com</email>
+<password>$1$8UY/wS.X$ZW61DPK/X85wuQDgRwZ2E1</password>
+<gender>F</gender>
+<country>China</country>
+<ipaddress>114.91.236.3</ipaddress>
+<createdate>2009-08-25 14:17:30</createdate>
+<lastupdateddate>2009-09-15 19:17:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="156">Lord, I love You, I desire You</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="nt" num="343">There is sunshine in my soul today</fav>
+        <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    </favourites>
+</user>

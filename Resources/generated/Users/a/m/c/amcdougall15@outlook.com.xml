@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Allan</firstname>
+  <lastname>McDougall</lastname>
+  <email>amcdougall15@outlook.com</email>
+  <password>$2y$10$n6xybLnFjNjflx0AxyLpwenoZMwdcUv2fFgw5uLoqUeTVQCUBon4W</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>184.145.131.251</ipaddress>
+  <createdate>2015-04-16 10:31:41</createdate>
+  <lastupdateddate>2015-04-17 10:33:37</lastupdateddate>
+  <lastlogindate>2015-04-17 10:33:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

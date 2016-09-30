@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Kelly</firstname>
+    <lastname>Frazier</lastname>
+    <email>kdfrazier@gmail.com</email>
+    <password>G0IW1WUnpgHPcClE8tdHGg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>174.109.131.148</ipaddress>
+    <createdate>2011-09-11 18:40:45</createdate>
+    <lastupdateddate>2011-10-07 08:00:27</lastupdateddate>
+    <lastlogindate>2011-10-07 07:57:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

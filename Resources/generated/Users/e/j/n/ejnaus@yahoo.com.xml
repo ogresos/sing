@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ed</firstname>
+  <lastname>naus</lastname>
+  <email>ejnaus@yahoo.com</email>
+  <password>$2y$10$6Rv8udmYQFN4iDoz/UvzlObhLO3zXCJpGoaCik4SZ/7IdHYO8EBg2</password>
+  <gender/>
+  <country/>
+  <ipaddress>108.3.211.226</ipaddress>
+  <createdate>2014-11-16 03:31:09</createdate>
+  <lastupdateddate>2014-12-02 03:22:04</lastupdateddate>
+  <lastlogindate>2014-11-16 03:38:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+  </favourites>
+</user>

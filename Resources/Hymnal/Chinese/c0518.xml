@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>務要靠主專心靠主</title>
+  <index>true</index>
+  <category>試煉中的安慰－信靠主</category>
+  <creators>
+    <!-- http://www.hymnary.org/text/blessed_is_he_that_is_trusting_the_lord -->
+    <author biodate="1865-1951" biolink="">Translated from Ida Lilliard Reed</author>
+  </creators>
+  <meter>10.8.10.8. with chorus.</meter>
+  <hymncode>3216715465</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>人 若 倚 靠 耶 和 華， 真 有 福， 必 得 著 應 時 的 幫 助； 你 若 處 處 緊 緊 的 跟 隨 主， 必 承 受 應 許 的 好 處。 務 要 靠 主， 專 心 靠 主， 凡 你 所 行， 都 要 認 定 主， 祂 必 指 引 你 的 路。 務 要 靠 主， 專 心 靠 主， 凡 你 所 行， 都 要 認 定 主， 祂 必 指 引 你 的 路。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0518_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">人若倚靠耶和華，真有福，
+必得著應時的幫助；
+你若處處緊緊的跟隨主，
+必承受應許的好處。</stanza>
+	<stanza type="chorus" number="">務要靠主，專心靠主，
+凡你所行，都要認定主，
+祂必指引你的路。
+務要靠主，專心靠主，
+凡你所行，都要認定主，
+祂必指引你的路。</stanza>
+	<stanza type="verse" number="2">人若倚靠耶和華，真有福，
+必定走屬天的道路；
+你若時時不斷的仰望主，
+必能有穩健的腳步。</stanza>
+	<stanza type="verse" number="3">真是有福，有天父來扶助，
+並且有救主來照顧；
+你若得著主與父來同住，
+就永遠不再感孤苦。</stanza>
+	<stanza type="verse" number="4">真是有福，得不斷走正路，
+且天天向前不受阻；
+你若得著主同在的豐富，
+就必得應時的幫助。</stanza>
+  </lyrics>
+</hymn>

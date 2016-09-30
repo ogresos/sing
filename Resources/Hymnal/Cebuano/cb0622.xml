@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sakit ra bay antuson kon krus pas-anon</title>
+  <index>true</index>
+  <category>ANG DALAN SA KRUS &amp;mdash;ANG KAHULOGAN SA KRUS</category>
+  <numbers><cebuano num="622"/><chinese num="461"/><english num="622"/><german num="622"/><korean num="461"/><portuguese num="319"/><russian num="371"/><spanish num="294"/><tagalog num="622"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 3 | 3. 2/ 2 3 | 4 4 3 2 | 3 - - - (break) | 6 - 6 6 | 6. 5/ 5 4 | 3 3 2 1 | 2 - - - (break) | 1 - 1 2 | 3. 3/ 3 4 | 5 5 4 3 | 6 - - - (break) | 7 - 6 5 | ._1. 1/ 1 2 | 3 3 4 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="622"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sakit ra bay antuson kon krus pas-anon?
+Dili, sa krus seguro gyud ta nga patyon!
+Mao man kana ang kahulogan sa krus,
+Kaugalingon ta ilansang gyud sa krus.</stanza>
+	<stanza type="verse" number="2">Pagluwas sa Dios, patyon ang tawo didto's krus,
+Mabangis tuod, apan magawas gayud.
+Di S'ya makinabuhi kon maglikay's krus,
+Madayag lang S'ya kon kita mamatay gyud.</stanza>
+	<stanza type="verse" number="3">Tumong sa krus, matumang kabubot-on's Dios,
+Kaatbang ni'ni, kaugalingon sa tawo.
+Kon kaugalingon wad-on, kalag mo patyon,
+Pagbuot N'ya modaug, plano molampos.</stanza>
+  </lyrics>
+</hymn>

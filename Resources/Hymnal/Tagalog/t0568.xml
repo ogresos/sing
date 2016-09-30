@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay tamis ang magtiwala</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;NAGTITIWALA SA KANYA</category>
+  <numbers><chinese num="516"/><english num="568"/><korean num="516"/><portuguese num="291"/><tagalog num="568"/></numbers>
+  <creators>
+    <author biodate="circa 1850-1917" biolink="">Translated from Louisa M. R. Stead</author>
+  </creators>
+  <music>
+    <midiref type="h" num="437"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay tamis ang magtiwala
+Kay Hesus na Salita,
+Mamahinga sa pangako,
+Siya ang maysabi nito.</stanza>
+    <stanza type="chorus" number="">Hesus, Hesus, kay tapat Mo,
+Subok ko ang totoo,
+Hesus, Hesus, ang mahal ko,
+Kailanma'y di nambigo.</stanza>
+    <stanza type="verse" number="2">Ang magtiwala&amp;mdash;kay tamis,
+Sa dugong makalinis,
+At makagaling na batis,
+Sala't sakit inalis.</stanza>
+    <stanza type="verse" number="3">Si Hesus pagtiwalaan,
+Kasalana'y layuan;
+Tanggapin ang biyaya Niya:
+Buhay, galak, pahinga.</stanza>
+    <stanza type="verse" number="4">Kay galak ang magtiwala
+At laging sumasama;
+Kay Hesus na Manliligtas,
+Tapat hanggang sa wakas.</stanza>
+  </lyrics>
+</hymn>

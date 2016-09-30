@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督美地豐富之地</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <layout>
+	<singingstanza>基 督 美 地， 豐 富 之 地， 神 已 賜 給 我 們 了！ 山、 谷、 泉、 源， 流 水 潺 潺， 阿 利 路 亞 何 榮 耀！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="ts" num="229"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督美地，豐富之地，
+神已賜給我們了！
+山、谷、泉、源，
+流水潺潺，
+阿利路亞何榮耀！</stanza>
+	<stanza type="verse" number="2">基督美地，豐富之地，
+神已賜給我們了！
+有奶有蜜，分文不要，
+白白恩典，何榮耀！</stanza>
+	<stanza type="verse" number="3">基督美地，豐富之地，
+神已賜給我們了！
+有葡萄樹，無花果樹，
+豐富供應給我們！</stanza>
+	<stanza type="verse" number="4">基督美地，豐富之地，
+神已賜給我們了！
+五穀和油，我們享受，
+無限無量，何榮耀！</stanza>
+	<stanza type="verse" number="5">同來經營，同來經營，
+在美地上同經營！
+晝夜不息，帶著能力，
+收穫豐富，何榮耀！</stanza>
+	<stanza type="verse" number="6">在聚會中，在聚會中，
+榮耀筵席將主嘗！
+美地出產，上好肥甘，
+帶來獻上同分享！</stanza>
+	<stanza type="verse" number="7">阿利路亞，阿利路亞，
+美地神給我們了！
+經營不息，享受不已，
+阿利路亞，何榮耀！</stanza>
+  </lyrics>
+</hymn>

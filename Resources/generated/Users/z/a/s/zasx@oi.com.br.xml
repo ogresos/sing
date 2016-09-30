@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daniel</firstname>
+  <lastname>Jean</lastname>
+  <email>zasx@oi.com.br</email>
+  <password>$2y$10$fMbp1o2rz3kIZLlW69ilBe7d0OHhu1tHyCqzexKSrwdpkhRwboY9a</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>129.100.253.76</ipaddress>
+  <createdate>2015-06-05 18:03:03</createdate>
+  <lastupdateddate>2015-09-25 17:06:28</lastupdateddate>
+  <lastlogindate>2015-09-25 16:46:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

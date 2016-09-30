@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kwasi</firstname>
+  <lastname/>
+  <email>owel1981@gmail.com</email>
+  <password>$2y$10$iM5Aa2aZbggdEP5Ig3.tn.UYSMeKXimt5IhNmzUQOi8J9pUOtR57q</password>
+  <gender/>
+  <country>de</country>
+  <ipaddress>91.208.107.60</ipaddress>
+  <createdate>2015-03-09 12:01:04</createdate>
+  <lastupdateddate>2016-01-08 12:39:16</lastupdateddate>
+  <lastlogindate>2016-01-08 12:38:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+  </favourites>
+</user>

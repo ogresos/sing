@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Father, Son and Holy Ghost</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Answering the Lord's Call</category>
+  <numbers><english num="470"/><portuguese num="212"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Charles Wesley</author>
+  </creators>
+  <melody>| 1 7_./( 1/) 2 1 | 4 4 3 - | 6_. 7_. 1 6_. | 5_. 5_. 5_. - (break) | 1 7_./( 1/) 2 1 | 4 4 3 - | 6_. 7_. 1 6_. | 5_. 5_. 5_. - (break) | 3 2 1 3 | 5. 4/ 3 - | 6_. 7_. 1 4 | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Fath -- er, Son and Ho -- ly Ghost, One in Three, and Three in One, As by the ce -- les -- tial host, Let Thy will on earth be done; Praise by all to Thee be giv'n, Glo -- rious Lord of earth and heav'n!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="366"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Father, Son and Holy Ghost,
+One in Three, and Three in One,
+As by the celestial host,
+Let Thy will on earth be done;
+Praise by all to Thee be giv'n,
+Glorious Lord of earth and heav'n!</stanza>
+    <stanza type="verse" number="2">Vilest of the sinful race,
+Lo, I answer to Thy call:
+Meanest vessel of Thy grace,
+Grace divinely free for all;
+Lo, I come to do Thy will,
+All Thy counsel to fulfil.</stanza>
+    <stanza type="verse" number="3">If so poor a worm as I,
+May to Thy great glory live,
+All my actions sanctify,
+All my words and thoughts receive;
+Claim me for Thy service, claim
+All I have, and all I am.</stanza>
+    <stanza type="verse" number="4">Take my soul and body's powers,
+Take my mem'ry, mind, and will;
+All my goods and all my hours,
+All I know, and all I feel;
+All I think, or speak, or do;
+Take my heart, but make it new.</stanza>
+    <stanza type="verse" number="5">Now, O God, Thine own I am,
+Now I give Thee back Thine own:
+Freedom, friends, and health, and fame,
+Consecrate to Thee alone;
+Thine I live, thrice happy I;
+Happier still when Thine I die.</stanza>
+  </lyrics>
+</hymn>

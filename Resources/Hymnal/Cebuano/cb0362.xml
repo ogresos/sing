@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Namatay S'ya alang nako</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;KANG CRISTO NGA KINABUHI</category>
+  <numbers><cebuano num="362"/><chinese num="306"/><english num="362"/><korean num="306"/><russian num="514"/><tagalog num="362"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="362"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Namatay S'ya alang nako,
+Aron mabuhi ko;
+Kinabuhi'g gugma, ihalad
+Alang Kaniya.</stanza>
+    <stanza type="chorus" number="">Jesus, akong Manluluwas,
+O pasunda ako Nimo;
+Namatay Ka alang kanako,
+Mabuhi'g magsilbe Nimo.</stanza>
+    <stanza type="verse" number="2">Sudlon ang 'yang kamatayon,
+Mamatay sa sala,
+Sa yawa ug kaugalingon,
+Tabangi, Ginoo.</stanza>
+    <stanza type="verse" number="3">Nabuhi S'ya nagpasama
+Kanako Kaniya;
+Kinaiya'g kinabuhi,
+Siya ra'y madayag.</stanza>
+    <stanza type="verse" number="4">Nabuhi aron ihatag
+Gugma N'ya's nasubo;
+Alang's uban mabuhi ko,
+Sama's gibuhat N'ya.</stanza>
+  </lyrics>
+</hymn>

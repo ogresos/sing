@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>新郎快來到</title>
+  <index>true</index>
+  <category>盼望與豫備</category>
+  <numbers><cebuano num="1315"/><chinese num="ts:905"/><english num="1315"/><german num="1315"/><russian num="498"/><spanish num="448"/></numbers>
+  <melody>| 0 - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. (break) | 1 - - (Chorus) 7_./( 1/) | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 6_. 3 (break) | 3( - 2) 7_./ 1/ | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 7_. 6_. (break) | 5_. - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>喜 樂， 喜 樂， 新 郎 快 來 到， 時 候 必 不 再 耽 擱。 不 久 那 婚 娶 之 晨 臨 到， 我 們 歡 唱 新 詩 歌。 哦， 美 妙 日！ 哦， 榮 耀 之 晨！ 當 基 督 我 愛 來 臨， 我 們 器 皿 充 滿， 燈 都 發 光， 出 去 迎 接 祂 回 來。 喜 樂， 喜 樂， 新 郎 快 來 到， 時 候 必 不 再 耽 擱； 不 久 那 婚 娶 之 晨 臨 到， 我 們 歡 唱 新 詩 歌。</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1315"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">喜樂，喜樂，
+新郎快來到，
+時候必不再耽擱。
+不久那婚娶之晨臨到，
+我們歡唱新詩歌。</stanza>
+	<stanza type="chorus" number="">哦，美妙日！
+哦，榮耀之晨！
+當基督我愛來臨，
+我們器皿充滿，
+燈都發光，
+出去迎接祂回來。
+喜樂，喜樂，
+新郎快來到，
+時候必不再耽擱；
+不久那婚娶之晨臨到，
+我們歡唱新詩歌。</stanza>
+	<stanza type="verse" number="2">讓我們贖回每寸光陰，
+買更多貴重的油；
+當夜半呼聲響起時候，
+全人已被主浸透。</stanza>
+	<stanza type="verse" number="3">哦，何等歡樂！
+我們豫備，
+等候基督來迎娶；
+為著這樣榮耀的獎賞，
+痛苦試煉不介意！</stanza>
+	<stanza type="verse" number="4">哦，當那婚娶之日臨到，
+將是何等大歡樂。
+與主一同作王一千年，
+飽享羔羊的婚筵。</stanza>
+  </lyrics>
+</hymn>

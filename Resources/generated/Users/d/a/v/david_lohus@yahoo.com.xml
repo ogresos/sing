@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname/>
+  <email>david_lohus@yahoo.com</email>
+  <password>$2y$10$KyTAYIhgwRKF2wTlnOsVyunHeu7Tun2Y1r1hzWVCoT/cpOtwlP0jy</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>116.14.145.53</ipaddress>
+  <createdate>2015-07-25 23:22:03</createdate>
+  <lastupdateddate>2015-07-25 23:28:11</lastupdateddate>
+  <lastlogindate>2015-07-25 23:23:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

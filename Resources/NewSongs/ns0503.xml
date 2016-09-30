@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deut. 7:6; Exo. 15:13</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+	<composer biodate="" biolink="" fullname="Ben Kong">B. K.</composer>
+  </creators>
+  <hymncode>112343232171536</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | F - - - | G - - - | F - - G | C - - - | C - - - | F - - - | G - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | C - - - |</chords>
+  <melody>| 0. 1/ 1/ 2/ 3/ 4/( | 4.)( 3/)( 3) 2 | 3. 2/( 2) 1/ 7_./ | 1. 5_./( 5_.) 3_. (break) | 6_. - - 7_./ 1/ | 2 - - 5_./ 4/ | 4. 3/( 3) 2 | 3 - 2 - (break) | 1( - 1/) 2/ 1/ 5_./ | 6_. - 7_. 1 | 2. 2/( 2/) 2/ 1/ 2/ | 3. 3/ 3/ 4/ 5 (break) | 1. 1/ 6_. 1 | 2( - 2/) 2/ 1/ 2/ | 4( - 4/) 3/ 2 (break) | 2 - 1( - | 1.) 1/ 1/ 7_./ 5_./ 6_./( | 6_.) - 6_. - (break) | 7_. - - 2 | 5_.. 5_./ 5_./ 4_./ 3_./ 6_./( | 6_.) - - - (break) | 7_. - - 1 | 1. 5_./ 1/ 2/ 3/ 4/( | 4) - 4/( 3/) 2/ 3/( (break) | 3) - 3/( 4/) 5/ 2/( | 2.) 2/ 2/ 1/ 7_./ 1/( | 1) - - - |</melody>
+  <layout>
+    <singingstanza end="-1">For you are a ho -- ly peo -- ple to Je -- ho -- vah your God; it is you whom Je -- ho -- vah your God has cho -- sen from a -- mong all the peo -- ples which are up -- on the face of the earth to be a peo -- ple for His per -- son -- al trea -- sure. In Your lov -- ing -- kind -- ness You have led the peo -- ple whom You have re -- deemed; You have guid -- ed them in Your strength to Your ho -- ly hab -- i -- ta -- tion.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Deuteronomy 7:6</link>
+    <link type="ref">Exodus 15:13</link>
+  </links>
+  <music>
+      <midi location="ns" length="59">ns0503.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">For you are a holy people
+To Jehovah your God;
+It is you whom Jehovah your God has
+Chosen from among
+All the peoples which are upon
+The face of the earth
+To be a people
+For His personal treasure.</stanza>
+    <stanza type="verse" number="">In Your lovingkindness
+You have led the people
+Whom You have redeemed;
+You have guided them
+In Your strength
+To Your holy habitation.</stanza>
+  </lyrics>
+</hymn>

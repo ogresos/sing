@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I heard the voice of Jesus say</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Satisfied with Christ</category>
+  <creators>
+    <author biodate="1808-1889" biolink="">Horatius Bonar</author>
+  </creators>
+  <hymncode>3216321266711233</hymncode>
+  <key>C Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - - - | Am - - - | Dm - - - | F - Em - | Am - - - | Am - - - | Dm - - - | F - Em - | Am - - - | Am - Dm - | G - C - | F - - - | Em - - - | Am - - - | Dm - - - | F - Em - | Am - - - ||</chords>
+  <melody>| 0 - 0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2( 6_.) - 6_./( 7_./) | 1. 1/ 2. 3/ (break) | 3 - 0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2( 6_.) - 6_./( 7_./) | 1. 2/ 7_.. 5_./ (break) | 6_. - - 3 | 6 3 4# 2 | 5 2 3. 3/ | 6. 6/ 6 7/( 6/) (break) | 5/( 3/)( 3)  0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2( 6_.) - 6_./( 7_./) | 1. 2/ 7_.. 5_./ | 6_. - 0 - ||</melody>
+  <layout>
+    <singingstanza>I heard the voice of Je -- sus say, "Come un -- to Me, and rest; Lay down, thou wea -- ry one, lay down Thy head up -- on My breast." I came to Je -- sus as I was, Wea -- ry, and worn, and sad; I found in Him a rest -- ing -- place, And He has made me glad.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="323"></link>
+  </links>
+  <music>
+    <midi location="nt" length="39">e0323_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I heard the voice of Jesus say,
+  "Come unto Me, and rest;
+Lay down, thou weary one, lay down
+  Thy head upon My breast."
+I came to Jesus as I was,
+  Weary, and worn, and sad;
+I found in Him a resting-place,
+  And He has made me glad.</stanza>
+    <stanza type="verse" number="2">I heard the voice of Jesus say,
+  "Behold, I freely give
+The living water: thirsty one,
+  Stoop down, and drink, and live."
+I came to Jesus, and I drank
+  Of that life-giving stream;
+My thirst was quenched, my soul revived,
+  And now I live in Him.</stanza>
+    <stanza type="verse" number="3">I heard the voice of Jesus say,
+  "I am this dark world's Light;
+Look unto Me, thy morn shall rise,
+  And all thy day be bright."
+I looked to Jesus, and I found
+  In Him my Star, my Sun;
+And in that Light of life I'll walk
+  Till trav'lling days are done.</stanza>
+  </lyrics>
+</hymn>

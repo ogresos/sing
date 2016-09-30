@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He who sows unto his own flesh</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:146"/><vsb num="151"/></numbers>
+  <hymncode>555564443455352</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | F - - - | C - - - | Gsus4 - G - | C - C/E - | F - F/A - | C/G - Am - | G/B - C/E - | F - - - | G - - - | C - - - | F - - - | C/E - C - | G - - - | F - - - | C - - - |</chords>
+  <melody>| 0 5/ 5/ 5 5 | 6/ 4/ 4/ 4/( 4) 3/ 4/ | 5 5 3/ 5. | 2 - - - (break) | 0 5/ 5/ 5 5 | 6 4/ 4/( 4) 3/ 4/ | 5. 5/ 3/ 5. (break) | 2 - (Chorus) ._1 7 | 6 - 6/ 6/ 6/ 6/ | 5. 5/ 5/ 6/ 5/ 6/ | 3 - 3 5 | 6 - 6 6 | 5 - 3 5 | 2 - 1 7_. | 2 1( - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>He who sows un -- to his own flesh Reaps cor -- rup -- tion of the flesh, He who sows un -- to the Spir -- it Will reap e -- ter -- nal life. God's not mocked, Do not be de -- ceived, For what -- ev -- er you sow, you will reap, You will reap what you sow; Sow the life seed.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Galatians 6:7-8</link>
+  </links>
+  <music>
+    <midi location="ns" length="31">ns0146.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He who sows unto his own flesh
+Reaps corruption of the flesh, (trouble)
+He who sows unto the Spirit
+Will reap eternal life.</stanza>
+    <stanza type="chorus" number="">God's not mocked,
+Do not be deceived,
+For whatever you sow, you will reap,
+You will reap what you sow;
+Sow the life seed.</stanza>
+    <stanza type="verse" number="2">Every choice is planting seeds,
+So be careful what you sow. (careful)
+Just as an apple seed,
+It will grow an apple tree.</stanza>
+  </lyrics>
+</hymn>

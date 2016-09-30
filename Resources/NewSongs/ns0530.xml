@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Above the Waste and Emptiness</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Walking in the Light</category>
+  <hymncode>33331454333212</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C/G - G - | C - - - | C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C/G - G - | C - - - | C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C/G - G - | C - - - |</chords>
+  <melody>| 0/ 3/ 3/ 3/ 3 1 | 4 5/ 4/( 4) - | 3. 3/ 3/ 2/ 1 | 2 - - - (break) | 0 3/ 3/ 3 1 | 4/ 4/ 5/ 4/( 4) - | 3 - 2/ 1/ 2 | 1 - - - (break) | (Chorus) 0 ._1/ ._1/ ._1 5 | ._1 ._1/ ._1/( ._1/) 6. | 0 ._1/ ._1/ ._1/ ._1/ 5 | ._2/ ._2/ ._3/ ._2/( ._2) - (break) | 0 ._1 ._1 5 | 4 4/ 5/ 4/ 3/ 2 | 3 - 2/( 1/)( 2) | 1 - - - (break) | (Verse_2) 0 3/ 3/ 3 1 | 4 5/ 4/( 4/) 2. | 0 3/ 3/ 3/( 2/) 1 | 2 3/ 2/( 2/) 5_.. (break) | 0/ 3/ 3/ 3/ 3 1 | 4/ 4/ 5/ 4/( 4/) 2. | 3 3/ 3/ 2/ 1/ 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza end="-1">A -- bove the waste and emp -- ti -- ness Broods the Spir -- it of God, Bring -- ing forth God's speak -- ing in us. Hey! Let there be light! And the light shines in the dark -- ness, And the dark -- ness did not o -- ver -- come. In Him was life, and the life was the light of men. Nights de -- creas -- ing, day in -- creas -- ing, Ev -- ery day His Word we're speak -- ing; Don't be dis -- cour -- aged, spir -- it re -- leas -- ing! We are the chil -- dren of God.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="44">ns0530.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Above the waste and emptiness
+Broods the Spirit of God,
+Bringing forth God's speaking in us.
+Hey! Let there be light!</stanza>
+    <stanza type="chorus" number="">And the light shines in the darkness,
+And the darkness did not overcome.
+In Him was life, and the life was the light of men.</stanza>
+    <stanza type="verse" number="2">Nights decreasing, day increasing,
+Every day His Word we're seeking;
+Don't be discouraged, spirit releasing!
+We are the children of light.</stanza>
+  </lyrics>
+</hymn>

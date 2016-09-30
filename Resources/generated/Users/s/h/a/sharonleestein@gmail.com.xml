@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sharon</firstname>
+  <lastname>Stein</lastname>
+  <email>sharonleestein@gmail.com</email>
+  <password>$2y$10$u2ZUH650M6OqWLXdvRF6Dul1boI26TRgP4s81aGc3OKVgyqbLtzsW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.242.210.181</ipaddress>
+  <createdate>2016-06-20 09:53:37</createdate>
+  <lastupdateddate>2016-06-20 10:15:29</lastupdateddate>
+  <lastlogindate>2016-06-20 09:54:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="329">Blessed be God, our God</fav>
+  </favourites>
+</user>

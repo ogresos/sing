@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Whatever God says is true</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Faithfulness</category>
+  <hymncode>51111725222213</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | G - - | G - - | G7 - - | G7 - - | C - - | C - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G7 - - | C - F/C | C - - ||</chords>
+  <melody>| 0 - 5_. | 1/ 1. 1 | 1 - 7_. | 2( - - (break) | 2) - 5_. | 2/ 2. 2 | 2 - 1 | 3( - - (break) | 3) - 1 | 3/ 3. 3 | 5 - 3 | 4 - 3 (break) | 2 - 6_. | 1/ 1. 1 | 1 - 7_. | 1( - - | 1) - 0 ||</melody>
+  <layout>
+    <singingstanza>What -- ev -- er God says is true, What -- ev -- er God does is good, What -- ev -- er God plans He car -- ries through, What -- ev -- er God says is true.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="21">c0040.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Whatever God says is true,
+Whatever God does is good,
+Whatever God plans He carries through,
+Whatever God says is true.</stanza>
+  </lyrics>
+</hymn>

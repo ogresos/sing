@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>PRIVILEGE_USER</roles>
+  <firstname>Mark</firstname>
+  <lastname>Chiang</lastname>
+  <email>markhhc@gmail.com</email>
+  <password>$2y$10$tAqr34metCVRCyQAPgHOhOUfoXvZA3rsWILMJcfl8BjPhYtPH/AT.</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>99.225.238.228</ipaddress>
+  <createdate>2014-09-25 11:57:24</createdate>
+  <lastupdateddate>2014-09-30 11:20:33</lastupdateddate>
+  <lastlogindate>2014-09-30 11:20:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

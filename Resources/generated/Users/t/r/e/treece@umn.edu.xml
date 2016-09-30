@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rick</firstname>
+  <lastname>Treece</lastname>
+  <email>treece@umn.edu</email>
+  <password>$2y$10$YkIk.G9rVwalKmCsV1msKORL8qNlAKWUUn84LXMoHx.TQvHOrGFEe</password>
+  <gender/>
+  <country/>
+  <ipaddress>70.90.154.198</ipaddress>
+  <createdate>2014-08-09 14:44:58</createdate>
+  <lastupdateddate>2014-08-09 14:46:14</lastupdateddate>
+  <lastlogindate>2014-08-09 14:46:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

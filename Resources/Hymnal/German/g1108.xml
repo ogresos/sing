@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ihr Erlösten nehmt den Tisch des Herrn</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Erinnerung an Ihn</category>
+  <numbers><cebuano num="1108"/><chinese num="ts:621"/><english num="1108"/><german num="1108"/><korean num="982"/><russian num="407"/><spanish num="106"/><tagalog num="1108"/></numbers>
+  <key>D Major</key>
+  <melody>| 0 - - 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 7_. 5_. (break) | 1 2 3 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 1/ 7_./ 6_./ 7_./ (break) | 1 - - (Chorus) 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5( - 5/) 0/ 3/ 5/ | 4. 2/ 7_. 4 (break) | 3( - 3/) 0/ 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5 - - 3/ 4/ | 5 5 6 7/( ._1/) | 7 - - 0 |</melody>
+  <layout>
+	<singingstanza>Ihr Er -- lös -- ten nehmt den Tisch des Herrn, Wir sind eins, weil Chris -- tus für uns starb. Kommt zum Tisch und nehmt ihn gleich -- ge -- sinnt Als Ge -- mein -- de, die Er Sich er -- warb. Esst das Brot des Herrn und trinkt den Wein! Wir sind eins in Ihm all -- zeit. Stehn in Ein -- heit auf dem Orts -- grund hier, Gleich -- ge -- sinnt! Welch Herr -- lich -- keit!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1108"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ihr Erlösten nehmt den Tisch des Herrn,
+Wir sind eins, weil Christus für uns starb.
+Kommt zum Tisch und nehmt ihn gleichgesinnt
+Als Gemeinde, die Er Sich erwarb.</stanza>
+	<stanza type="chorus" number="">Esst das Brot des Herrn und trinkt den Wein!
+Wir sind eins in Ihm allzeit.
+Stehn in Einheit auf dem Ortsgrund hier,
+Gleichgesinnt! Welch Herrlichkeit!</stanza>
+	<stanza type="verse" number="2">Ihr Erlösten trinkt den Kelch des Herrn,
+Durch Sein Blut ist die Gemeind erkauft,
+Denn die Gleichgesinntheit freut Ihn sehr – 
+Diesem Ziel des Herrn entgegenlauft.</stanza>
+	<stanza type="verse" number="3">Ihr Erlösten in der Einheit bleibt,
+Einzelkörner bläst der Wind leicht fort!
+Euch vermengt und bleibt stets gleichgesinnt 
+Als ein Brot, das nährt an jedem Ort.</stanza>
+	<stanza type="verse" number="4">Wir Erlösten sind in Christus eins,
+Sind wahrhaftig eins in unsrem Herrn!
+Nicht nur sagt es, doch seid gleichgesinnt, 
+Was Gott tat in uns bezeugt doch gern!</stanza>
+	<stanza type="verse" number="5">Ihr Erlösten esst das Brot des Herrn,
+Wir sind eins, weil Christus für uns starb.
+Kommt zum Tisch und nehmt ihn gleichgesinnt
+Als Gemeinde, die Er Sich erwarb.</stanza>
+	<stanza type="note" number="">(Chorus nach der letzten Strophe nicht wiederholen)</stanza>
+  </lyrics>
+</hymn>

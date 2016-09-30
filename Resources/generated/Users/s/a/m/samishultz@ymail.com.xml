@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samantha</firstname>
+  <lastname>Shultz</lastname>
+  <email>samishultz@ymail.com</email>
+  <password>$2y$10$GekmVQ/0isA9i/eOIYZ7UuYq8GSpBkDg7oX5s2Z9Ccfe0CsX0r6la</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>74.126.34.26</ipaddress>
+  <createdate>2015-07-20 21:02:29</createdate>
+  <lastupdateddate>2015-07-20 21:04:58</lastupdateddate>
+  <lastlogindate>2015-07-20 21:04:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Preist Gott, der stets den Segen mehrt</title>
+  <index>true</index>
+  <category>SEGEN DER DREIEINIGKEIT&amp;mdash;Sein Lobpreis</category>
+  <numbers><cebuano num="8"/><chinese num="5"/><dutch num="8"/><english num="8"/><german num="8"/><korean num="5"/><portuguese num="2"/><russian num="1"/><spanish num="4"/><tagalog num="8"/></numbers>
+  <creators>
+	<author biodate="1637-1711" biolink="">Translated from Thomas Ken</author>
+  </creators>
+  <melody>| 0 - - 1 | 1 7_. 6_. 5_. | 1 2 3( - | 3) 3 3 3 | 2 1 4 3 | 2 - - 1 (break) | 2 3 2 1 | 6_. 7_. 1( - | 1) 5 3 1 | 2 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Preist Gott, der stets den Se -- gen mehrt; Ge -- schöp -- fe, eu -- ren Gott ver -- ehrt! Ihr Him -- mels -- hee -- re singt und preist, Er -- hebt den Va -- ter, Sohn und Geist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Preist Gott, der stets den Segen mehrt;
+Geschöpfe, euren Gott verehrt!
+Ihr Himmelsheere singt und preist,
+Erhebt den Vater, Sohn und Geist.</stanza>
+	<stanza type="verse" number="2">Dem Vater als die Quelle singt,
+Dem Sohn als Flusslauf Ehre bringt,
+Preist Gott, den Geist, zu uns Er fließt,
+Preist Gott, der unser Erbteil ist.</stanza>
+  </lyrics>
+</hymn>

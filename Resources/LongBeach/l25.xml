@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Whom have I in heaven but Thee</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <melody>| (startrepeat) 5( - 5/) 3/ 1/ 5_./ | 6_.. 1/( 1) 6_. | 5_.( - - - (break) | 5_.) - - 1/ 1/ | 4/ 4/ 3/ 3/ 1 - | 0/ 1/ 1/ 1/ 4 4 | 3.( 1/) 2( - | 2) - - - (endrepeat) (break) | 0 3/ 3/( 3/) 1/ 3 | 4. 5/ 4/( 3/) 2 | 0 3/ 3/( 3/) 1/ 3 | 4 4/ 5/ 4/( 3/)( 2) (break) | 0 3/ 3/( 3/) 1/ 3 | 4/ 4/( 4/) 4/ 5 6 | 5( - - - | 5) - - 0 |</melody>
+  <links>
+    <link type="group">ot_psa73.xml</link>
+    <link type="ref">Psalms 73:23-28</link>
+    <link type="ref">Psalms 27:4</link>
+    <link type="ref">Psalms 46:4</link>
+  </links>
+  <music>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Brothers' part:
+Whom have I in heaven but Thee?
+And there's none upon the earth that I
+   desire beside Thee.
+Whom have I in heaven but Thee?
+And there's none upon the earth that I
+   desire beside Thee.</stanza>
+    <stanza type="verse" number="2">My flesh and my heart faileth.
+But God is the strength of my heart
+And my portion forever.
+   (Repeat 2)</stanza>
+    <stanza type="verse" number="3">Nevertheless, I am continually with Thee;
+Thou hast holden me by my right hand;
+Thou shalt guide me with Thy counsel and
+Afterwards receive me to glory.</stanza>
+    <stanza type="verse" number="4">One thing have I desired of the Lord;
+That will I seek after,
+That I may dwell in the house of the Lord.
+   (Repeat 4)</stanza>
+    <stanza type="verse" number="5">I may dwell in the house of the Lord,
+All the days of my life,
+To behold the beauty of the Lord
+And to inquire in His temple.</stanza>
+    <stanza type="verse" number="1">Sisters' part:
+I am continually with Thee;
+Thou hast beholden me by my right hand.
+I am continually with Thee;
+Thou hast holden me by my right hand.</stanza>
+    <stanza type="verse" number="2">He is my refuge
+And my fortress;
+My God, in Him will I trust.
+   (Repeat 2)</stanza>
+    <stanza type="verse" number="3">I have set the Lord
+Always before me;
+He is at my right hand;
+I shall not be moved.</stanza>
+    <stanza type="verse" number="4">Blessed are they
+That dwell in the house;
+They will be praising Thee all the day long.
+   (Repeat 4)</stanza>
+    <stanza type="verse" number="5">There is a river
+Whose streams make glad
+The city of our God.
+God is in the midst of her.</stanza>
+  </lyrics>
+</hymn>

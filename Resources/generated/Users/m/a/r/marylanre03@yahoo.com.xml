@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Mary</firstname>
+    <lastname>Lanre</lastname>
+    <email>marylanre03@yahoo.com</email>
+    <password>6P%2B3hXV9y%2BxtAAZ37bqjtw%3D%3D</password>
+    <gender>F</gender>
+    <country>ng</country>
+    <ipaddress>208.86.137.54</ipaddress>
+    <createdate>2011-06-16 07:07:39</createdate>
+    <lastupdateddate>2011-07-07 06:22:43</lastupdateddate>
+    <lastlogindate>2011-07-07 06:22:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1019">A ruler once came to Jesus by night</fav>
+        <fav category="default" type="c" num="17">Matthew, the Gospel</fav>
+    </favourites>
+</user>

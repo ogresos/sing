@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>sunny</firstname>
+  <lastname/>
+  <email>sunnyelitelab@gmail.com</email>
+  <password>$2y$10$0EIcdXraLjVpMGHHsUYuqOQiYAA2rx3bNtEa6zySexGPLmKGhncaW</password>
+  <gender/>
+  <country>bh</country>
+  <ipaddress>94.76.45.203</ipaddress>
+  <createdate>2016-01-28 18:19:06</createdate>
+  <lastupdateddate>2016-01-28 19:18:37</lastupdateddate>
+  <lastlogindate>2016-01-28 18:21:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+  </favourites>
+</user>

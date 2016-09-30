@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Thiago</firstname>
+  <lastname>Calaça</lastname>
+  <email>thcalaca@gmail.com</email>
+  <password>$2y$10$gPmC5zaZOj88qYoTjaWCoO38vv4aIVfZk1rC82z5198d9vs0b7b5e</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>187.21.220.230</ipaddress>
+  <createdate>2014-10-30 17:15:56</createdate>
+  <lastupdateddate>2015-03-06 20:52:30</lastupdateddate>
+  <lastlogindate>2015-03-06 20:52:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

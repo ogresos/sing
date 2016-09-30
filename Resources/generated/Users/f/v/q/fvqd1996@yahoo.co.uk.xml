@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Felix</firstname>
+  <lastname/>
+  <email>fvqd1996@yahoo.co.uk</email>
+  <password>$2y$10$gHpMBvJ9nUnK/8m7M9AvuuIrcNNET5hHe4QGSVoHgax2AiYULDH7S</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>80.42.123.228</ipaddress>
+  <createdate>2016-07-09 17:56:39</createdate>
+  <lastupdateddate>2016-07-09 18:10:57</lastupdateddate>
+  <lastlogindate>2016-07-09 17:57:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="698">Amid the trials that I meet</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="695">Does Jesus care when my heart is pained</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="697">Weary pilgrim on life's pathway</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

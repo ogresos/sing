@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jacob</firstname>
+  <lastname>Nichols</lastname>
+  <email>jacobnichols@sbcglobal.net</email>
+  <password>$2y$10$Us6XfXxbuIxPgLtBZSepnOReJJaxMX4KUbgZO.dZzdg7odVjVxLwi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.214.10.119</ipaddress>
+  <createdate>2016-03-27 12:32:34</createdate>
+  <lastupdateddate>2016-03-27 12:36:13</lastupdateddate>
+  <lastlogindate>2016-03-27 12:34:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+  </favourites>
+</user>

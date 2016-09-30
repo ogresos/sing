@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruthlyn</firstname>
+  <lastname>Spencer</lastname>
+  <email>jayb56@hotmail.com</email>
+  <password>$2y$10$FXIg1CbB7EXSMpreSkOVAOTvw5DZoT9trpA9qBcL9W26wLELqbg7a</password>
+  <gender/>
+  <country>ag</country>
+  <ipaddress>205.217.248.70</ipaddress>
+  <createdate>2014-12-22 12:31:55</createdate>
+  <lastupdateddate>2014-12-22 12:51:02</lastupdateddate>
+  <lastlogindate>2014-12-22 12:41:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+  </favourites>
+</user>

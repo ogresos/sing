@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Só Jesus é a mensagem</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><cebuano num="511"/><chinese num="395"/><english num="511"/><german num="511"/><korean num="395"/><portuguese num="252"/><russian num="518"/><tagalog num="511"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - - 5_./( 4#_./) 5_./ | 1. 1. 1/( 7_./) 1/ | 2. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 1/( 7_./) 1/ (break) | 2.( 2.) 5_./( 6_./) 5_./ | 1. 1. 1/( 2/) 3/ | 4. 6_.. 1/( 7_./) 6_./ | 5_.. 1. 7_./( 6_./) 7_./ (break) | 1.( 1.) (Chorus) 1/( 2/) 3/ | 4. 4. 4/( 3/) 2/ | 3. 3. 3/( 2/) 1/ | 2.( 2) 2/ 2/( 3/) 2/ (break) | 5.( 5.) 5_./( 6_./) 5_./ | 1.( 1) 1/ 1/ 2/ 3/ | 4. 6_.. 1/ 7_./ 6_./ | 5_.. 1. 7_./( 6_./) 7_./ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="511"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Só Jesus é a mensagem,
+Nosso tema singular;
+Sempre O exaltaremos,
+Vamos só Jesus fitar.</stanza>
+	<stanza type="chorus" number="">Só Jesus, sim, Jesus sempre,
+Tudo em todos, vou cantar;
+Salvador, Senhor e Cura,
+Rei glorioso que virá.</stanza>
+	<stanza type="verse" number="2">Só Jesus é quem nos salva,
+Nossa culpa carregou;
+Ele é veste de justiça,
+Nossa força e vigor.</stanza>
+	<stanza type="verse" number="3">Só Jesus nos santifica
+Do pecado e do "eu";
+Plenamente nos enchendo
+Do sublime Espír'to Seu.</stanza>
+	<stanza type="verse" number="4">Só Jesus é quem nos cura
+De doença e aflição,
+Todos membros Seus partilham
+Vida de ressurreição.</stanza>
+	<stanza type="verse" number="5">Só Jesus é o Pentecostes,
+Dom do Espír'to de poder;
+Teu poder, Jesus, nos sopra,
+Té o Espír'to nos encher.</stanza>
+	<stanza type="verse" number="6">Por Jesus nós esperamos,
+Para ao reino nos chamar;
+Mesmo ali, na eternidade,
+Só Jesus pra nós será.</stanza>
+  </lyrics>
+</hymn>

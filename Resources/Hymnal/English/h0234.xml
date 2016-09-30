@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Who is He in yonder stall</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;General</category>
+  <creators>
+    <author biodate="1833-1867" biolink="">Benjamin Russell Hanby</author>
+    <composer biodate="1833-1867" biolink="">Benjamin Russell Hanby</composer>
+  </creators>
+  <meter>7.7.8.8.7.7.</meter>
+  <hymncode>55555566655112</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - C/E | F - - | C/E - Am | G/B - G | C - - | F/C - - | G/B - - | Am - C/G | F - C/E | Dm - Dm/F | C/G - G7 | F/C C - |</chords>
+  <melody>| 0 - 5_./ 5_./ | 5_.. 5_./ 5_./ 5_./ | 6_. - 6_./ 6_./ | 5_.. 5_./ 1/ 1/ (break) | 2 - (Chorus) 1/ 2/ | 3. 3/ 4/ 3/ | 3 2 7_./ 1/ | 2. 2/ 3/ 2/ (break) | 2 1 1/ 1/ | 1. 1/ 1/ 5_./| 6_. - 1/ 2/ | 3. 3/ 2/ 2/ | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Who is He in yon -- der stall, At whose feet the she -- pherds fall? 'Tis the Lord! oh won -- drous sto -- ry! 'Tis the Lord! the King of glo -- ry! At His feet we hum -- bly fall, Crown Him! crown Him, Lord of all!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj142.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0234_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Who is He in yonder stall,
+At whose feet the shepherds fall?</stanza>
+    <stanza type="chorus" number="">'Tis the Lord! oh wondrous story!
+'Tis the Lord! the King of glory!
+At His feet we humbly fall,
+  Crown Him! crown Him, Lord of all!</stanza>
+    <stanza type="verse" number="2">Who is He in deep distress,
+Fasting in the wilderness?</stanza>
+    <stanza type="verse" number="3">Who is He the people bless
+For His words of gentleness?</stanza>
+    <stanza type="verse" number="4">Who is He to whom they bring
+All the sick and sorrowing?</stanza>
+    <stanza type="verse" number="5">Who is He that stands and weeps
+At the grave where Lazarus sleeps?</stanza>
+    <stanza type="verse" number="6">Who is He the gathering throng
+Greet with loud triumphant song?</stanza>
+    <stanza type="verse" number="7">Lo! at midnight, who is He
+Prays in dark Gethsemane?</stanza>
+    <stanza type="verse" number="8">Who is He on yonder tree
+Dies in grief and agony?</stanza>
+    <stanza type="verse" number="9">Who is He who from the grave
+Comes to succor, help, and save?</stanza>
+    <stanza type="verse" number="10">Who is He who from His throne
+Rules through all the worlds alone?</stanza>
+  </lyrics>
+</hymn>

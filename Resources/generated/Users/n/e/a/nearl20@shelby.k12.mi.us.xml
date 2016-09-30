@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>lydia</firstname>
+  <lastname/>
+  <email>nearl20@shelby.k12.mi.us</email>
+  <password>$2y$10$9qHQTg2YfANzMuR3VEe1kunGd/UMvoMZmvIzhvHdmxtytCWJRM1ba</password>
+  <gender/>
+  <country/>
+  <ipaddress>50.36.189.216</ipaddress>
+  <createdate>2015-01-22 21:08:20</createdate>
+  <lastupdateddate>2015-04-04 00:16:35</lastupdateddate>
+  <lastlogindate>2015-04-04 00:16:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1023">I need Thee, precious Jesus</fav>
+  </favourites>
+</user>

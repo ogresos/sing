@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Let's Not Quench the Spirit</title>
+  <index>true</index>
+  <category>Meetings&amp;mdash;Functioning</category>
+  <creators>
+	<author biodate="" biolink="" fullname="John Liu">J. L.</author>
+	<composer biodate="" biolink="" fullname="John Liu">J. L.</composer>
+  </creators>
+  <hymncode>333457155554332</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - G - | C - - - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | F/C - - - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3/ 4/ 5 | 7. ._1/( ._1) - | 0/ 5/ 5/ 5/ 5/( 4/) 3 | 3. 2/( 2) - (break) | 0 3/ 3/ 3/ 4/ 5 | 7. ._1/( ._1) - | ._3 ._2 7 ._1 | ._1 - - - (break) | 5 6 ._1 ._2/ ._3/( | ._3/)igh peigh ._1.( ._1) - | 5 5 6 ._1/ ._2/( | ._2) - - - (break) | 5 6 ._1 ._2/ ._3/( | ._3/) ._1.( ._1) ._1 | ._4 ._3/ ._2/( ._2/) ._1/( ._1/) ._2/( | ._2) - - ._1 (break) | ._5 ._4 ._4 ._3/ ._4/( | ._4/) ._3.( ._3) ._1 | 6 6 ._1 ._3 | ._2 - ._1 7 (break) | 6 6 ._1 ._3 | ._2. 7/ {7 ._1 ._2} | ._2 - - - | ._3 - ._1 7 (break) | 6 6 ._1 ._3 | ._2. 7/ {7 ._1 ._2} | ._2 - - - | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>If I go to the meet -- ing, But shy a -- way from speak -- ing, There's no life that's re -- leas -- ing Of my lov -- ing Christ. Let's not quench the Spir -- it, But take heed to say, Let's not quench the Spir -- it, But fan it in -- to flame By call -- ing "Oh Lord Je -- sus"! Let's speak your word to -- day! We can grow in life di -- vine With -- out fluc -- tu -- a -- tion! We can grow in life di -- vine, Dis -- ci -- pling the na -- tion!</singingstanza>
+  </layout>
+  <music>
+      <midi location="ns" length="48">ns0512.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If I go to the meeting,
+But shy away from speaking,
+There's no life that's releasing
+Of my loving Christ.</stanza>
+    <stanza type="chorus" number="">Let's not quench the Spirit,
+But take heed to say,
+Let's not quench the Spirit,
+But fan it into flame
+By calling "Oh Lord Jesus"!
+Let's speak your word today!
+We can grow in life divine
+Without fluctuation!
+We can grow in life divine,
+Discipling the nation!</stanza>
+    <stanza type="verse" number="2">Though a brother is speaking,
+Am I closed to receiving?
+Why won't I just be open;
+Be filled and say "Amen"!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rachel</firstname>
+  <lastname>Weeks</lastname>
+  <email>rachelmweeks09@gmail.com</email>
+  <password>$2y$10$P6gKyCnnjmMXrde9u14luOzje32oA45bzpDI4okxK3KBK4NSDqijS</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>78.149.143.152</ipaddress>
+  <createdate>2015-12-02 13:39:06</createdate>
+  <lastupdateddate>2016-04-24 17:27:52</lastupdateddate>
+  <lastlogindate>2016-03-30 11:39:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="723">He giveth more grace when the burdens grow greater</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="579">Jesus! I am resting, resting</fav>
+    <fav category="default" type="h" num="525">Jesus, Fountain of my days</fav>
+    <fav category="default" type="h" num="205">Jesus, Thou Joy of loving hearts</fav>
+    <fav category="default" type="h" num="209">Jesus, the very thought of Thee</fav>
+    <fav category="default" type="h" num="219">Lord Jesus Christ, we would remember Thee</fav>
+    <fav category="default" type="h" num="207">Lord Jesus! when we think of Thee</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="574">Lord Jesus, Thou dost keep Thy child</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="427">O Love divine, how sweet Thou art</fav>
+    <fav category="default" type="h" num="606">Oh, how the thought of God attracts</fav>
+    <fav category="default" type="h" num="581">On Thee my heart is resting</fav>
+    <fav category="default" type="h" num="161">Praise the Savior, ye who know Him</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="1060">Thou didst leave Thy throne and Thy kingly crown</fav>
+    <fav category="default" type="h" num="571">Thou whose name is called Jesus</fav>
+  </favourites>
+</user>

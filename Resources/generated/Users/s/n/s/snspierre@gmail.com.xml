@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sonya N</firstname>
+  <lastname>Pierre</lastname>
+  <email>snspierre@gmail.com</email>
+  <password>$2y$10$2VvIl5nYxrimChP.7Tf5O.6wW7KuXJqN3RswHO/pfbdgHD.PpHRHa</password>
+  <gender/>
+  <country/>
+  <ipaddress>66.87.121.197</ipaddress>
+  <createdate>2016-02-20 13:03:15</createdate>
+  <lastupdateddate>2016-02-20 13:08:02</lastupdateddate>
+  <lastlogindate>2016-02-20 13:04:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1078">One sat alone beside the highway begging</fav>
+  </favourites>
+</user>

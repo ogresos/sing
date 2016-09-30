@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>DEANNA</firstname>
+  <lastname>WILLIAMSON</lastname>
+  <email>mrsw75@yahoo.com</email>
+  <password>$2y$10$v9BUSWRi3zQc0.NPO1kWQOvHvUPor2On5M02Cs48xO7Rd/WtqqdmK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.123.154.220</ipaddress>
+  <createdate>2015-12-01 23:58:34</createdate>
+  <lastupdateddate>2015-12-02 01:07:06</lastupdateddate>
+  <lastlogindate>2015-12-02 01:02:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="114">Hail, Thou once despised Jesus</fav>
+    <fav category="default" type="h" num="72">Jesus, the name high over all</fav>
+  </favourites>
+</user>

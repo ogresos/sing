@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Средь испытаний на пути</title>
+  <index>true</index>
+  <category>УТЕШЕНИЕ В ИСПЫТАНИЯХ&amp;mdash;ЗАБОТОЙ ГОСПОДА</category>
+  <numbers><cebuano num="698"/><chinese num="496"/><english num="698"/><german num="698"/><korean num="496"/><russian num="473"/><tagalog num="698"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from E. D. Mund</author>
+  </creators>
+  <melody>| 0 - 5_. | 5_./ 3/ 3 1/( 2/) | 1/ 7_./ 7_. 5_. | 5_./ 4/ 4 2/( 3/) (break) | 2/ 1/ 1 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 (break) | 1 - (Chorus) 5 | 5/ 3/ 5 6 | 2 - 4 | 4/ 2/ 4 5 (break) | 3 - 5 | 5/ 3/ 3 2/( 3/) | 2/ 1/ 1 2 | 3/ 5_./ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="698"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Средь испытаний на пути,
+Когда так больно мне идти,
+Господь, утешен я одним –
+Ты помнишь обо мне!</stanza>
+	<stanza type="chorus" number="">Ты помнишь обо мне!
+Ты помнишь обо мне!
+Весь страх – долой, ведь Ты со мной
+И помнишь обо мне!</stanza>
+	<stanza type="verse" number="2">Забот житейских череда,
+Как тень на душу мне легла.
+Напоминает мне их мгла:
+Ты помнишь обо мне!</stanza>
+	<stanza type="verse" number="3">Беда иль радость у меня,
+Светла, темна ли жизнь моя,
+Доволен, ибо знаю я:
+Ты помнишь обо мне!</stanza>
+  </lyrics>
+</hymn>

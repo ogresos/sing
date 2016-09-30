@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督我王正驅前</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1. 6/ 4 6 | 6 4# 2 ._2 | ._2 - 7 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>基 督 我 王 正 驅 前， 地 方 召 會 出 現！ 今 後 在 許 多 城 市， 召 會 必 成 你 殿。 藉 著 在 靈 裡 的 日 子， 生 命 使 我 們 剛 強。 基 督 我 王 正 驅 前， 得 勝 之 歌 高 唱！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督我王正驅前，
+地方召會出現！
+今後在許多城市，
+召會必成你殿。
+藉著在靈裡的日子，
+生命使我們剛強。
+基督我王正驅前，
+得勝之歌高唱！</stanza>
+  </lyrics>
+</hymn>

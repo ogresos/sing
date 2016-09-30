@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Larry</firstname>
+  <lastname>Harrison</lastname>
+  <email>lharrison5@sc.rr.com</email>
+  <password>$2y$10$1TJQbX0ebZbIQ1OuAjRCOuGHti2tIwi3M8N1/gBeN0CjprJvTeVjC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.57.165.239</ipaddress>
+  <createdate>2014-11-02 16:05:22</createdate>
+  <lastupdateddate>2014-11-02 17:02:58</lastupdateddate>
+  <lastlogindate>2014-11-02 17:02:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Robert</firstname>
+  <lastname>Chrisnach</lastname>
+  <email>rchris@icloud.com</email>
+  <password>$2y$10$LVXf1Ic2xMkeH8W.hz4Xp.gUFQUCbicvb.qH1HLJ/aX2vynknA4Me</password>
+  <gender/>
+  <country>lu</country>
+  <ipaddress>83.99.17.10</ipaddress>
+  <createdate>2015-09-03 18:51:13</createdate>
+  <lastupdateddate>2016-08-05 21:23:39</lastupdateddate>
+  <lastlogindate>2016-08-05 21:23:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nadia</firstname>
+  <lastname>Fry</lastname>
+  <email>emica2@yahoo.com</email>
+  <password>$2y$10$OolWp64Z6Rxg0tcM5YEg2eJzN72eUrBPevb8fH35mJiQd1ZGh1q4G</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.54.84.125</ipaddress>
+  <createdate>2014-07-23 03:48:55</createdate>
+  <lastupdateddate>2016-05-20 06:04:25</lastupdateddate>
+  <lastlogindate>2016-05-20 06:04:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+  </favourites>
+</user>

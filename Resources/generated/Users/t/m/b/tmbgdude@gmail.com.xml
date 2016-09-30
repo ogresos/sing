@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stefan</firstname>
+  <lastname/>
+  <email>tmbgdude@gmail.com</email>
+  <password>$2y$10$CPM.nVOmf1mckW86oLVZkut87QQA3I26Kf2pvtHjh3fnr5F9FKzoe</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>67.172.110.83</ipaddress>
+  <createdate>2014-05-26 16:23:22</createdate>
+  <lastupdateddate>2015-06-25 14:51:40</lastupdateddate>
+  <lastlogindate>2015-06-25 14:49:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="867">As members of the Body</fav>
+    <fav category="default" type="c" num="94">I can read the Bible</fav>
+    <fav category="default" type="h" num="601">My heart is resting, O my God</fav>
+    <fav category="default" type="h" num="53">Our God and Father, we respond anew</fav>
+    <fav category="default" type="h" num="1206">There's a race for us to run&amp;mdash;Hallelujah</fav>
+    <fav category="default" type="h" num="1251">To Jerusalem we've come</fav>
+  </favourites>
+</user>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>這是地方召會</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <numbers><cebuano num="1257"/><chinese num="ts:514"/><english num="1257"/><german num="1257"/><russian num="539"/><tagalog num="1257"/></numbers>
+  <melody>| 5 5 6/ 7/ ._1/ ._2/ | ._1 - 5 - | 6/ 7/ ._1/ ._2/ ._1 6 | 5 - - 0 (break) | ._3. ._2/ ._1/ 7/ ._1/ 5/ | 7 6 - 0 | 5/ 5/ 5/ 5/ 6 7 (break) | ._1 - - (Chorus) ._1/ ._2/ | ._3. ._2/ ._1. 7/ | 6 ._1./ 6// 6/ 5. | ._1 ._1./ ._1// ._1 7/ ._1/ (break) | ._2 - - ._1/ ._2/ | ._3. ._2/ ._1. 7/ | 6 ._1./ 6// 6/ 5. | ._1 ._1./ ._2// ._3 ._2./ ._1// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>看 哪！ 他 們 在 各 城 裡， 站 住 立 場 同 聚 集， 是 金 燈 臺 照 亮 各 地， 使 神 有 家 可 安 息。 這 是 地 方 召 會， 是 神 所 揀 選， 所 有 聖 徒 合 為 一； 這 是 地 方 召 會， 是 神 所 揀 選， 所 有 聖 徒 合 為 一。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1257"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">看哪！他們在各城裡，
+站住立場同聚集，
+是金燈臺照亮各地，
+使神有家可安息。</stanza>
+	<stanza type="chorus" number="">這是地方召會，
+是神所揀選，
+所有聖徒合為一；
+這是地方召會，
+是神所揀選，
+所有聖徒合為一。</stanza>
+	<stanza type="verse" number="2">看哪！他們正在聚會，
+他們聲音何響亮！
+弟兄姊妹踴躍分享，
+將主基督來顯揚。</stanza>
+	<stanza type="verse" number="3">聽哪！他們都在禱讀，
+將生命的話吸入，
+禱告，讚美，
+喝主，喫主，
+他們何等享受主！</stanza>
+	<stanza type="verse" number="4">聽哪！
+他們喊『主耶穌，』
+他們何等愛這名！
+當他們宣告祂是主，
+喜樂就越發加增。</stanza>
+	<stanza type="verse" number="5">聽哪！他們阿利路亞，
+聲音如大雷爆炸！
+阿利路亞！阿利路亞！
+仇敵已經被摔下！</stanza>
+	<stanza type="verse" number="6">看哪！聖徒們在移民，
+讚美主行動開始，
+召會在各城市顯明，
+使主快來不延遲。</stanza>
+	<stanza type="verse" number="7">看哪！主基督將要來，
+為祂曾捨命召會；
+祂今妝飾祂的心愛，
+作祂新婦與祂配。</stanza>
+	<stanza type="chorus" number="">榮耀的召會，
+毫無斑點皺紋，
+充滿了主的榮耀。
+榮耀的召會，
+毫無斑點皺紋，
+充滿了主的榮耀。</stanza>
+  </lyrics>
+</hymn>

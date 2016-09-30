@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Bill</firstname>
+<lastname>Moody</lastname>
+<email>bmoody40@cox.net</email>
+<password>$1$LfI5Vi/c$oxKYhxMypDVp2tB7yMl.W/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>68.12.0.158</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="723">He giveth more grace when the burdens grow greater</fav>
+        <fav category="default" type="h" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="h" num="722">The cross that He gave may be heavy</fav>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+    </favourites>
+</user>

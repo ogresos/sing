@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glória Àquele que nos ama</title>
+  <index>true</index>
+  <category>Sua Dignidade</category>
+  <numbers><english num="186"/><portuguese num="91"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="186"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glória Àquele que nos ama,
+Nossas manchas removeu,
+Fez-nos reis e sacerdotes
+Pra reinar no reino Seu;
+Glória, adoração e bênção
+Ao Cordeiro que morreu.</stanza>
+    <stanza type="verse" number="2">"Glória, adoração e bênção",
+Cantam todos os fiéis;
+"Honra e poder, domínio,
+Ao que nos criou, nos fez;
+Tu és digno, Tu és digno,
+Ó Senhor e Rei dos reis."</stanza>
+    <stanza type="verse" number="3">Glória, glória ao Rei dos anjos,
+Glória ao Rei da Igreja dai.
+Ao Rei das nações, a glória,
+Céu e terra, proclamai!
+Ao Senhor e Rei da Glória
+Hoje e sempre glória dai.</stanza>
+  </lyrics>
+</hymn>

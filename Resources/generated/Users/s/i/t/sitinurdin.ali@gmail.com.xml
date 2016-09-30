@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Siti</firstname>
+    <lastname>Ali</lastname>
+    <email>sitinurdin.ali@gmail.com</email>
+    <password>i5YzHvZ1ay2BiVeE0C6WcA%3D%3D</password>
+    <gender>F</gender>
+    <country>au</country>
+    <ipaddress>203.185.255.166</ipaddress>
+    <createdate>2012-01-09 21:55:46</createdate>
+    <lastupdateddate>2012-01-09 22:09:41</lastupdateddate>
+    <lastlogindate>2012-01-09 21:55:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="9">Call on Your Name</fav>
+        <fav category="default" type="h" num="352">In the wilderness for God</fav>
+        <fav category="default" type="c" num="2">Let the glory of the Lord endure forever</fav>
+    </favourites>
+</user>

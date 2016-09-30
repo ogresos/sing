@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Donna</firstname>
+  <lastname>Evans</lastname>
+  <email>hondagirl1967@msn.com</email>
+  <password>$2y$10$IQ2iEyqRBTFIeYhQd2elne9QA7NZz.7cR55hAMunV38sxyl4xzogO</password>
+  <gender/>
+  <country/>
+  <ipaddress>66.30.48.129</ipaddress>
+  <createdate>2016-03-29 18:26:15</createdate>
+  <lastupdateddate>2016-03-29 18:31:53</lastupdateddate>
+  <lastlogindate>2016-03-29 18:26:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="25">Father, to us Thy mercy Thou hast shown</fav>
+  </favourites>
+</user>

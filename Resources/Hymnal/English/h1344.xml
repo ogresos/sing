@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, the depth of the riches</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="1344"/><korean num="791"/><lsmyp num="344"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1125431556165312</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G/B - G7 | C - - | C - C/E | F - - | C/E - F | Gsus4 - - | G - - | C - - | D - - | D7 - - | G - - | C - - | D - - | D7 - - | G - C/E | F - - | G - - | Am G F | C/E - G7/B | C - - | C - - | G - - | G7 - - | C - - | G/B - G7 | C - - | C/E - - | F - - | C/E - F | Gsus4 - - | G C - | F C - | F C/E - | F - - | C/E - - | C - - | F - - | C - - | G7 - - | C - - |</chords>
+  <melody>| 1 - 1 | 2 5. 4/ | 3 1 - | 0 - 5/ 5/ | 6 ._1 6 | 5 3 1 | 2( - - | 2) - - (break) | 3 - 3 | 4#. 3/ 2 | 0 4# 6 | 5 - 2 | 3 - 3 | 4#. 3/ 2 | 0 4# 6 (break) | 5 - 5 | 6 - 6 | 7 - 7 | ._1 7 6 | 5 - 5 | 5 - 5 | 5( 4) 3 | 3/ 2/ 2( - (break) | 2) - 2 | 1 - 1 | 2 5 4 | 3/( 2/) 1( - | 1) - 5 | 6 ._1 6 | 5 3 1 | 2( - - (break) | 2) 3 4 | 4/ 4/ 3. 3/ | 6 5. 5/ | ._2 ._1 6 | 6 5( - (break) | 5) - 3 | 4 5 6 | 5 3 1 | 4 3 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Oh, the depth of the rich -- es And the wis -- dom and know -- ledge of God; How un -- search -- a -- ble are His judg -- ments; How un -- trace -- a -- ble are His paths. For who has known the mind of the Lord, Or who has been His coun -- sel -- or? Or who has first giv -- en to Him, And it will be re -- paid to Him? Be -- cause out of Him and through Him And to Him are all things. To Him be the glo -- ry for -- ev -- er. A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Romans 11:33-36</link>
+  </links>
+  <music>
+    <midi location="h" length="61">e1344_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, the depth of the riches
+And the wisdom and knowledge of God;
+How unsearchable are His judgments;
+How untraceable are His paths.
+For who has known the mind of the Lord,
+  Or who has been His counselor?
+Or who has first given to Him,
+And it will be repaid to Him?
+Because out of Him and through Him
+  And to Him are all things.
+To Him be the glory forever. Amen.</stanza>
+  </lyrics>
+</hymn>

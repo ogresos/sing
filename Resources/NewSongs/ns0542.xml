@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Consecrated One</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Heidi Johnsen">H. J.</author>
+    <composer biodate="" biolink="" fullname="Heidi Johnsen">H. J.</composer>
+  </creators>
+  <hymncode></hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/B - - - | Am - - - | F - - - | C - - - | G/B - - - | Am - - - | F - - - | Dm - - - | F - - - | C - - - | G - - - | Dm - - - | F - - - | C - - - | G - - - | C - - - | G/B - - - | Dm7 - - - | F - - - | C - - - | G/B - - - | Dm7 - - - | F - - - | F - - - | C - - - | Dm7 - - - | Am - - - | F - - - | G - - - | Dm - - - | C - - - | F - - - | G - - - | C - - - | G/B - - - | Dm7 - - - | F - - - | C - - - | G/B - - - | Dm7 - - - | F - - - | F - - - |</chords>
+  <melody>| (startrepeat) 0 ._1 5 3 | 5 6/ 1/( 1) 2/ 3/( | 3) - - 2/ 4/( | 4) - - - (break) | 0 ._1/ 5/ 5 3 | 5 6/ 1/( 1) 2/ 3/( | 3) - - 5/ 4/( | 4) - - - (break) | 0 ._1/ ._2/ ._2 ._1 | ._3/(. ._3/). ._2/ ._1/( ._1/) 5. | 0 - ._1 ._2 | ._2 - - - (break) | 0 ._1/ ._2/ ._2 ._1 | ._3/(. ._3/). ._2/ ._1/( ._1/) 5. | ._1 - - ._2/ ._2/( | ._2) - - - (break) | (Chorus) 0 ._3/ ._2/( ._2/) ._1. | 0/ 5/ 5/ ._2/( ._2/) ._3/( ._3/) ._1/( | ._1) - - 0/ 5/ (break) | ._4/ ._3/ ._2/ ._1/( ._1/) ._2/( ._2/) ._1/( | ._1) ._3/ ._2/( ._2/) ._1. | 5/ 6/ ._1/ ._2/( ._2/) ._3/( ._3/) ._1/( (break) | ._1) - 0/ 5/ 5/ 5/ | ._4 ._3/ ._2/( ._2/) ._1/ ._1 | 0 4/ 3/ 4/ 3/ 1 (endrepeat) (break) | 0 - (Verse_3) 7 ._1 | ._5. ._4/ ._3 ._1/ ._2/( | ._2/) ._3. 7 ._1 | 6. 7/ ._1 ._3 (break) | ._2 - 7 ._1 | ._5 ._1/ ._1. 7/ ._1/ | ._5 ._1/ ._2/( ._2) 7/ ._1/ | ._4 - ._3 - | ._2 - - ._1 (break) | ._1 (Chorus) ._3/ ._2/( ._2/) ._1. | 0/ 5/ 5/ ._2/( ._2/) ._3/( ._3/) ._1/( | ._1) - - 0/ 5/ (break) | ._4/ ._3/ ._2/ ._1/( ._1/) ._2/( ._2/) ._1/( | ._1) ._3/ ._2/( ._2/) ._1. | 5/ 6/ ._1/ ._2/( ._2/) ._3/( ._3/) ._1/( (break) | ._1) - 0/ 5/ 5/ 5/ | ._4 ._3/ ._2/( ._2/) ._1/ ._1 | 0 4/ 3/ 4/ 3/ 1 |</melody>
+  <layout>
+    <singingstanza end="-1">You need the Naz -- a -- rites to turn this age. Move in me to turn my heart and con -- se -- crate. Save me from all sel -- [skip1] fish seek -- ing, search my heart. Set me free, make ev -- [skip1] ery bond -- age break a -- part! I need You, but You need me too, To do what You want to do. Re -- kin -- dle all of my love for You, To be a vol -- un -- tar -- i -- ly con -- se -- crat -- ed one. Sanc -- ti -- fy me ab -- so -- lute -- ly, Take my life and have Your way. O -- ver -- come in me, give me vic -- to -- ry Through Your life and end this age. I need You, but You need me too, To do what You want to do. Re -- kin -- dle all of my love for You, To be a vol -- un -- tar -- i -- ly con -- se -- crat -- ed one.</singingstanza>
+    <singingstanza2>2. You need the Naz -- a -- rites to turn this age. Strength -- en us to o -- ver -- come in these last days&amp;mdash; All re -- bel -- lion, na -- t'ral af -- fec -- tion, e -- ven death, World -- ly plea -- sures, ev -- 'ry en -- joy -- ment of the flesh.</singingstanza2>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="156">ns0542.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">You need the Nazarites to turn this age.
+Move in me to turn my heart and consecrate.
+Save me from all selfish seeking, search my heart.
+Set me free, make every bondage break apart!</stanza>
+    <stanza type="chorus" number="">I need You, but You need me too,
+To do what You want to do.
+Rekindle all of my love for You,
+To be a voluntarily consecrated one.</stanza>
+    <stanza type="verse" number="2">You need the Nazarites to turn this age.
+Strengthen us to overcome in these last days&amp;mdash;
+All rebellion, natural affection, even death,
+Worldly pleasures, every enjoyment of the flesh.</stanza>
+    <stanza type="chorus" number="">I need You, but You need me too,
+To do what You want to do.
+Rekindle all of my love for You,
+To be a voluntarily consecrated one.</stanza>
+    <stanza type="verse" number="3">Sanctify me absolutely,
+Take my life and have Your way.
+Overcome in me, give me victory
+Through Your life and end this age.</stanza>
+    <stanza type="chorus" number="">I need You, but You need me too,
+To do what You want to do.
+Rekindle all of my love for You,
+To be a voluntarily consecrated one.</stanza>
+  </lyrics>
+</hymn>

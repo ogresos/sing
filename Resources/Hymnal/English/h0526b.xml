@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou hast made Thyself to me (Alternate Tune)</title>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <creators>
+    <author biodate="" biolink="">J. B. French</author>
+    <composer biodate="" biolink="">R. S. Newman</composer>
+  </creators>
+  <numbers><chinese num="375"></chinese><korean num="375"></korean><tagalog num="526"></tagalog></numbers>
+  <meter>8.8.8.8.8.8.</meter>
+  <hymncode>3456175653215622</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E | F - - | G - C/E | F - - | C - G/B | Am - - | Dm - - | G7 - - | C - - | D7 - - | B - - | B7 - - | C - - | F - - | G/D - D7 | G - - | C - - | F - - | C/G - G | C - - | C/E - F | C/G - F/A | C/G - G7 | C - - |</chords>
+  <melody>| 3 4 5 | 6 - ._1 | 7 - 5 | 6 - - | 5 3 2 | 1 -  5 | 6 - 2 | 2 - - (break) | 3 6 5 | 4# - 3 | 2# - 3 | 4# - - | 5 ._1 7 | 6 - 5 | 5 - 4# | 5 - - (break) | 5 4 3 | 6 - 4 | 3 - 2 | 5 - - | 1 7_. 1 | 3 - 4 | 3 - 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Lord, Thou hast made Thy -- self to me A liv -- ing, bright re -- a -- li -- ty, More pre -- sent to faith's vi -- sion keen Than a -- ny earth -- ly ob -- ject seen; More dear, more in -- ti -- mate -- ly nigh Than e'en the clos -- est earth -- ly tie.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj053.xml</link>
+    <link type="relevant" category="h" num="526" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0526b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Thou hast made Thyself to me
+A living, bright reality,
+More present to faith's vision keen
+Than any earthly object seen;
+More dear, more intimately nigh
+Than e'en the closest earthly tie.</stanza>
+    <stanza type="verse" number="2">And Thou, blest vision of my soul,
+Hast made my broken nature whole;
+Hast purified my base desires,
+And kindled passion's holiest fires;
+My nature Thou hast lifted up,
+And filled me with a glorious hope.</stanza>
+    <stanza type="verse" number="3">Nearer and dearer still to me,
+Thou living, loving Savior be;
+Brighter the vision of Thy face,
+More charming still Thy words of grace;
+So, life shall be transformed to love,
+Thy grace and mercy more to prove.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Susan</firstname>
+  <lastname>Holsinger</lastname>
+  <email>susan.holsinger@gmail.com</email>
+  <password>$2y$10$EHfOisPuCUjIWAOpb.OKSuya3.4iBipLQEzxTEXkksQ08vQrQcRxe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>216.21.182.13</ipaddress>
+  <createdate>2014-10-10 15:55:44</createdate>
+  <lastupdateddate>2014-11-03 12:33:20</lastupdateddate>
+  <lastlogindate>2014-11-03 11:47:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+    <fav category="default" type="h" num="8652">Brighten the Corner Where You Are</fav>
+    <fav category="default" type="h" num="1318">Camel Train</fav>
+    <fav category="default" type="h" num="1240">Deeper, deeper, in the cross of Jesus</fav>
+    <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+    <fav category="default" type="c" num="164">Give, said the little stream</fav>
+    <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+    <fav category="default" type="h" num="391b">Guide me, O Thou gracious Savior (Alternate Tune)</fav>
+    <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+    <fav category="default" type="h" num="691">Hark! the voice of love and mercy</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="1157">His banner over me is love</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="1155">How I love Thee, precious Jesus</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+    <fav category="default" type="h" num="1312">It may be at morn as the day we are greeting</fav>
+    <fav category="default" type="h" num="1028">Jesus is tenderly calling thee home</fav>
+    <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+    <fav category="default" type="h" num="719">Like a river, glorious</fav>
+    <fav category="default" type="c" num="44">Our God is so big</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="1071">Sinners Jesus will receive</fav>
+    <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+    <fav category="default" type="h" num="670">Take the name of Jesus with you</fav>
+    <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+    <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+    <fav category="default" type="h" num="1077">There were ninety and nine that safely lay</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+    <fav category="default" type="h" num="647">Trust Him when thy wants are many</fav>
+    <fav category="default" type="nt" num="647">Trust Him when thy wants are many</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+    <fav category="default" type="c" num="162">Yesterday, today, forever</fav>
+  </favourites>
+</user>

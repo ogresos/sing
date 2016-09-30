@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>CAROL</firstname>
+<lastname>BERKOVITZ</lastname>
+<email>berkovitz_c@cup.edu</email>
+<password>$1$ExM30Htf$soaoNw3hm4eg4QCqrI9XX1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>24.3.228.223</ipaddress>
+<createdate>2008-08-07 18:55:58</createdate>
+<lastupdateddate>2009-09-15 18:25:35</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1068">In tenderness He sought me</fav>
+    </favourites>
+</user>

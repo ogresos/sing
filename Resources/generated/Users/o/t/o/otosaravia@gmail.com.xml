@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Oto</firstname>
+  <lastname>Saravia</lastname>
+  <email>otosaravia@gmail.com</email>
+  <password>$2y$10$C13iPgY6yBJPeCNAotOb4ee/HFJpI0Yc0kSQJabgNmkQ/fhHw8sAm</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>72.207.200.196</ipaddress>
+  <createdate>2009-06-28 00:03:11</createdate>
+  <lastupdateddate>2014-08-23 15:55:50</lastupdateddate>
+  <lastlogindate>2014-08-23 15:55:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="h" num="1302">All the signs point to the end</fav>
+    <fav category="default" type="ns" num="55">Call, call, won't you call Jesus' name</fav>
+    <fav category="default" type="nt" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+  </favourites>
+</user>

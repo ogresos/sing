@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+	<firstname>Ivan</firstname>
+	<lastname></lastname>
+	<email>ivanwong@yahoo.com</email>
+	<password>qvrSVQv19xfhXKlFK2hh3g%3D%3D</password>
+	<gender></gender>
+	<country>my</country>
+	<ipaddress>175.140.227.119</ipaddress>
+	<createdate>2014-06-11 09:01:20</createdate>
+	<lastupdateddate>2014-06-11 09:01:20</lastupdateddate>
+	<lastlogindate>2014-06-11 08:57:32</lastlogindate>
+	<failedlogincount>0</failedlogincount>
+	<favourites>
+		<fav category="default" type="ch" num="255">我心中奏一甜美音</fav>
+	</favourites>
+</user>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love, I love my Master</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Serving the Lord</category>
+  <numbers><cebuano num="463"/><chinese num="ts:850"/><english num="463"/><german num="463"/><lsmyp num="119"/><russian num="415"/><spanish num="194"/><tagalog num="463"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 0 - - 1 | 2 1 4 3 | 2 - 1 3 | 5 ._1 7 5# | 6 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2 1 | 2 - - 2 (break) | 4 3 6 7 | ._1 - ._2 5 | ._3. ._3/ ._2 ._1 | 7 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>I love, I love my Mas -- ter, I will not go out free, For He is my Re -- deem -- er; He paid the price for me. I would not leave His serv -- ice, It is so sweet and blest; And in the wear -- iest mo -- ments He gives the tru -- est rest.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj038.xml</link>
+	<link type="ref">Exodus 21:5-6</link>
+  </links>
+  <music>
+	<midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">I love, I love my Master,
+  I will not go out free,
+For He is my Redeemer;
+  He paid the price for me.
+I would not leave His service,
+  It is so sweet and blest;
+And in the weariest moments
+  He gives the truest rest.</stanza>
+	<stanza type="verse" number="2">My Master shed His life-blood
+  My vassal life to win,
+And save me from the bondage
+  Of tyrant self and sin.
+He chose me for His service,
+  And gave me power to choose
+That blessed, perfect freedom,
+  Which I shall never lose.</stanza>
+	<stanza type="verse" number="3">I would not halve my service,
+  His only it must be!
+His only, who so loved me,
+  And gave Himself for me.
+Rejoicing and adoring,
+  Henceforth my song shall be,
+I love, I love my Master,
+  I will not go out free.</stanza>
+  </lyrics>
+</hymn>

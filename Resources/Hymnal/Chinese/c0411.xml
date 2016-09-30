@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>近乎近乎</title>
+  <index>true</index>
+  <category>經歷基督－與祂交通</category>
+  <numbers><chinese num="411"/><english num="616"/><korean num="411"/><tagalog num="616"/></numbers>
+  <creators>
+	<author biodate="1841-1913" biolink="">Translated from Mary Artemesia Lathbury</author>
+  </creators>
+  <melody>| 1 - 1 1 - 6_. | 5_. - 4#_. 5_. - - | 1 - 1 1 - 6_. | 5_. - 4#_. 5_. - - (break) | 7_. - 7_. 1 - 1 | 2( 1) 2 3 - - | 4 - 4 3 - 3 | 4#( 3) 4# 5 - 3 | 2 - - 2 - - | 5_.( - - 5_.) - 0 (break) | (Chorus) 1 - 5_. 1 - 5_. | 3 - - 1 - - | 5 - - 4 - 2 | 1( - - 1) - 0 (break) | 1 - 7_. 1 - 6_. | 5_. - 1 3 - - | 2 - 1# 2 - 7_. | 1 - 3 5 - 6 | 5 - - 7_. - - | 1( - - 1) - 0 |</melody>
+  <layout>
+	<singingstanza>夕 陽 西 沉 大 地 靜， 蝟 務 完 畢 我 心 定， 晚 星 高 照 暗 中 明， 幽 夜 近 主 靈 裡 清， 靜 候 俯 伏。 近 乎， 近 乎， 近 乎， 可 近 之 主！ 我 心 所 羨 靈 所 慕， 是 你 可 愛 的 面 目， 可 親 之 主！</singingstanza>
+  </layout>
+  <copyright>Used by permission of the Chautauqua Institution. Chautauqua, New York.</copyright>
+  <music>
+	<midiref type="h" num="616"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">夕陽西沉大地靜，
+蝟務完畢我心定，
+晚星高照暗中明，
+幽夜近主靈裡清，
+靜候俯伏。</stanza>
+	<stanza type="chorus" number="">近乎，近乎，近乎，
+可近之主！
+我心所羨靈所慕，
+是你可愛的面目，
+可親之主！</stanza>
+	<stanza type="verse" number="2">在這宇宙廣廈中，
+我心尋求你面容，
+深願能在我四圍，
+所見全是你光輝，
+使我滿足。</stanza>
+	<stanza type="verse" number="3">當這夜影越幽深，
+我心切慕越殷勤，
+願能衝過眾星辰，
+得見你面近你身，
+永不孤苦。</stanza>
+	<stanza type="verse" number="4">到這黑夜與星辰，
+從我眼前全逝遜，
+願那永遠的早晨，
+為我帶來你榮身，
+夜影俱無。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lisa</firstname>
+  <lastname>Kynvi</lastname>
+  <email>lisakynvi@gmail.com</email>
+  <password>$2y$10$6110lC91jJP2HxpxJgOcAuQmhnHvdmkwYBPbzaSuP5caRNwGgC5F6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.189.39.50</ipaddress>
+  <createdate>2015-09-13 22:04:56</createdate>
+  <lastupdateddate>2015-09-13 22:14:46</lastupdateddate>
+  <lastlogindate>2015-09-13 22:05:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+  </favourites>
+</user>

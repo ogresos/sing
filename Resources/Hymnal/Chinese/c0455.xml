@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督十架是我誇耀</title>
+  <index>true</index>
+  <category>十字架的誇耀－獨存的十字架</category>
+  <numbers><chinese num="455"/><english num="619"/><korean num="455"/><tagalog num="619"/></numbers>
+  <creators>
+	<author biodate="1792-1872" biolink="">Translated from John Bowring</author>
+  </creators>
+  <melody>| 5 - ._1 | ._3 - ._1 | 7( 6) 5 | ._1 5 0 | 5 - 6 | 3 - 2 | 3 - 4# | 5 - 0 (break) | 5 - ._1 | ._3 - ._1 | ._2( ._1/)( 7/) 6/( 5/) | ._1 5 0 | 5 - 6 | 5 - ._1 | 3 - 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>基 督 十 架 是 我 誇 耀， 年 代 滅 沒 牠 獨 存； 神 聖 事 蹟 光 輝 環 繞， 十 架 巍 然 是 中 心。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="619"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督十架是我誇耀，
+年代滅沒牠獨存；
+神聖事蹟光輝環繞，
+十架巍然是中心。</stanza>
+	<stanza type="verse" number="2">當我遭遇患難、折磨，
+希望成空，憂懼纏，
+基督十架永不棄我，
+看哪！喜樂與平安。</stanza>
+	<stanza type="verse" number="3">有福太陽，以光以愛，
+照耀在我路程上，
+基督十架放射光彩，
+使我人生更光亮。</stanza>
+	<stanza type="verse" number="4">是禍是福，是苦是樂，
+十架使我全成聖，
+在此平安深廣莫測，
+喜樂永遠不變更。</stanza>
+	<stanza type="verse" number="5">基督十架是我誇耀，
+年代滅沒牠獨存；
+神聖事蹟光輝環繞，
+十架巍然是中心。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Libolibong mga tingog</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA PAGTUBOY KANIYA</category>
+  <numbers><cebuano num="127"/><chinese num="110"/><english num="127"/><german num="127"/><korean num="110"/><portuguese num="62"/><russian num="203"/><spanish num="66"/><tagalog num="127"/></numbers>
+  <creators>
+	<author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 5_./ | 1. 3. 3/( 2/) 1/ | 2. 5_.. 5_./( 6_./) 5_./ | 2. 4. 4/( 3/) 2/ (break) | 3 - - 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ | 1. 6_.. 2/( 1/) 6_./ | 5_.. 1. 3 2/ | 1 - - 0. |</melody>
+  <music>
+	<midiref type="h" num="127"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Libolibong mga tingog,
+Pagdayeg sa Cordero;
+Libolibo ang nisanong,
+Singgit kusog nilanog.</stanza>
+	<stanza type="verse" number="2">"Daygong Cordero," mag-awit,
+Tigum's tibuok langit;
+Tanang baba makig-ambit's
+Way katapusang awit.</stanza>
+	<stanza type="verse" number="3">Mao kining pasalamat
+Sa Amahan nikayab;
+Langit usa'y hunahuna,
+Kang Jesus mangluhod ta.</stanza>
+	<stanza type="verse" number="4">Tanang hukom sa Amahan,
+Sama'g dungog ang Anak;
+Kasanag N'ya nagpadayag's
+Himaya sa Amahan.</stanza>
+	<stanza type="verse" number="5">Pinaagi's Espiritu,
+Panon naglibot's Cordero,
+Purongan S'ya sa kalipay,
+Daygon ang "AKO MAO."</stanza>
+	<stanza type="verse" number="6">Pagkalipay bag-ong binuhat,
+Pahulay sa kalinaw;
+Binulahan's kaluwasan,
+Kasub-anan nahanaw.</stanza>
+	<stanza type="verse" number="7">Pamatia pa pag-usab,
+Tingog's pagdayeg nilanog!
+Tanan nisinggit ug Amen,
+Amen! tubag's kalipay.</stanza>
+  </lyrics>
+</hymn>

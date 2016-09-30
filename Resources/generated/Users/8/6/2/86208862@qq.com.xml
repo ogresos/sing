@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>antipas</firstname>
+  <lastname/>
+  <email>86208862@qq.com</email>
+  <password>$2y$10$Zc9GtO/vmM7mwtfRd216P.pTEAF2tBtv37deDyttNuzo.qPz./5iG</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>58.22.94.67</ipaddress>
+  <createdate>2015-05-26 09:44:56</createdate>
+  <lastupdateddate>2015-05-26 09:47:09</lastupdateddate>
+  <lastlogindate>2015-05-26 09:46:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+  </favourites>
+</user>

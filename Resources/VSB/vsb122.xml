@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Every new day's a new start</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ</category>
+  <numbers><english num="ns:207"/><vsb num="122"/></numbers>
+  <hymncode>333321222222171</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | G - - - | Dm7 - G7 - | C - F/C - | C - C/E - | F - Fm - | C/G - D7/A - | G/B - G - | F - - - | G - - - | G/B - G - | C - - - | C - C/E - | F - Fm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 3/ 3/ 3/ 3/( 3/) 2/ 1/ 2/( | 2) - - 0 | 2/ 2/ 2/ 2/ 2/ 1/ 7_./ 1/( | 1) - - 0 (break) | 5/ 5/ 5/ 5/( 5/) 5/( 5/) 5/ | 5 4/ 5/( 5/) 4. | 3/ 3/ 3/ 3/( 3/) 2/ 1/ 2/( (break) | 2) - - (Chorus) 5_. | 6_. 1/ 1/ 1/ 1/ 1/ 2/( | 2/) 2.( 2) - | 2/ 2/ 2/ 2/ 2/ 1/ 2/ 3/( | 3) - - 0 (break) | 5 5 5 5 | 5 4/ 5/( 5/) 4. | 3/ 3/ 3/ 3/ 2/ 1/ 2/ 1/( | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Ev -- ery new day's a new start. Lord, a -- gain we're com -- ing to You. Lord, could You ev -- er break through with -- in us If, Lord, we gave You a part? O Lord, we can't do it on our own. O Lord Je -- sus, how we need You! Win us, woo us, to Thy -- self, Lord, That we'd ev -- er stay, Lord, with You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="33">ns0207.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Every new day's a new start.
+Lord, again we're coming to You.
+Lord, could You ever break through within us
+If, Lord, we gave You a part?</stanza>
+    <stanza type="chorus" number="">O Lord, we can't do it on our own.
+O Lord Jesus, how we need You!
+Win us, woo us, to Thyself, Lord,
+That we'd ever stay, Lord, with You.</stanza>
+    <stanza type="verse" number="2">Lord, before time had begun,
+We were marked and called out by You.
+We had no choice, we were trapped by You, Lord;
+We had no place we could run.</stanza>
+    <stanza type="verse" number="3">Some of my friends are so free.
+Who could I blame, Lord, but Thee?
+I cannot do all the things that they do
+Because You set me apart.</stanza>
+    <stanza type="verse" number="4">Lord, I'm realizing that
+Loving You's a tender trap.
+Since You have kissed me, my heart has melted;
+All my resistance has cracked.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>enochhua</firstname>
+  <lastname/>
+  <email>710268525@qq.com</email>
+  <password>$2y$10$osR5G.kTaZQM/Ugo4O13HO8L42V3pe.29OkSjeW8wHoUN2ZegJ99e</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>111.192.226.43</ipaddress>
+  <createdate>2016-01-22 10:29:49</createdate>
+  <lastupdateddate>2016-01-22 11:08:47</lastupdateddate>
+  <lastlogindate>2016-01-22 11:08:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="528">1 Peter 1:8</fav>
+    <fav category="default" type="c" num="17">Matthew, the Gospel</fav>
+  </favourites>
+</user>

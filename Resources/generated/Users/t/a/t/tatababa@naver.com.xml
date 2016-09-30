@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>HENNA JANG</firstname>
+  <lastname>tatababa@naver.com</lastname>
+  <email>tatababa@naver.com</email>
+  <password>$2y$10$p.3fyj7tdm//dWmdHApk5OY8nxDePPuh759qB30jGyaifSnHC2GaC</password>
+  <gender>F</gender>
+  <country>South Korea</country>
+  <ipaddress>175.223.13.127</ipaddress>
+  <createdate>2012-11-18 01:48:33</createdate>
+  <lastupdateddate>2014-11-28 04:08:16</lastupdateddate>
+  <lastlogindate>2014-11-28 04:08:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="h" num="1206">There's a race for us to run&amp;mdash;Hallelujah</fav>
+  </favourites>
+</user>

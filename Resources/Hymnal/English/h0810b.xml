@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, hast Thou not one word for me (Alternate Tune)</title>
+  <category>Study of the Word&amp;mdash;Seeking for the Word</category>
+  <creators>
+    <author biodate="" biolink="">C. L. Hamlen</author>
+    <composer biodate="1816-1868" biolink="">William Batchelder Bradbury</composer>
+  </creators>
+  <numbers><chinese num="584"></chinese><korean num="584"></korean><tagalog num="810"></tagalog></numbers>
+  <meter>8.8.8.8.</meter>
+  <hymncode>5551553244427671</hymncode>
+  <key>C Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - - - | G7/B - - - - - | G7 - - - - - | C - - - G7 - | C - - - C7/E - | F - - - Dm - | C/G - G7 - - - | C - - - - - |</chords>
+  <melody>| 0 - - 5 5 5 | ._1 - 5 - 5 3 | 2 - - 4 4 4 | ._2 - 7 - 6 7 (break) | ._1 - - 5 5 5 | 5 - 3 - 4 5 | 6 - - 6 (.._1 6 | 5 3 2 - 4 - | 3 - - 0 - - |</melody>
+  <layout>
+    <singingstanza>Lord, hast Thou not one word for me To bind my soul more close to Thee, That ev -- ery e -- vil I may flee; One word, O Lord! one word from Thee?</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj191.xml</link>
+    <link type="relevant" category="h" num="810" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0810b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, hast Thou not one word for me
+To bind my soul more close to Thee,
+That every evil I may flee;
+One word, O Lord! one word from Thee?</stanza>
+    <stanza type="verse" number="2">One word, to show how weak am I
+When in my strength alone I try,
+In vain I toil, in vain I sigh;
+One word, O Lord! one word from Thee.</stanza>
+    <stanza type="verse" number="3">One word, to show how near Thou art,
+For Thou dost dwell within my heart;
+And of Thy life I share a part;
+One word, O Lord! one word from Thee.</stanza>
+    <stanza type="verse" number="4">One word of power, oh, let me hear,
+Above the heart's most anxious fear,
+Thy still, small voice, yet deep and clear;
+One word, O Lord! one word from Thee.</stanza>
+    <stanza type="verse" number="5">One word of final triumph, Lord;
+Sweet hope Thy promises afford,
+To dwell with Thee in sweet accord;
+One word, O Lord! one word from Thee.</stanza>
+  </lyrics>
+</hymn>

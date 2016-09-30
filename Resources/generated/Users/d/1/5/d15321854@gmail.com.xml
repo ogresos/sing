@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samuel</firstname>
+  <lastname/>
+  <email>d15321854@gmail.com</email>
+  <password>$2y$10$cooxH/U4WUeX6dcAiOpOcew8AggBjZIi5K2fFAJ7M29f.QAw6AqDW</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>125.230.65.85</ipaddress>
+  <createdate>2016-01-04 14:46:26</createdate>
+  <lastupdateddate>2016-06-02 00:51:14</lastupdateddate>
+  <lastlogindate>2016-06-02 00:46:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="453">I have set before you life and death</fav>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="nt" num="369">Let me love Thee, Thou art claiming</fav>
+    <fav category="default" type="ns" num="141">O glorious divine love</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Larry</firstname>
+  <lastname>Berneking</lastname>
+  <email>yrralb@aol.com</email>
+  <password>$2y$10$ZbtYYbnZ0npl391Dtnowbu1RU94iGm41Wmk6APpaaYh0NwpO4JaDa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.142.113.134</ipaddress>
+  <createdate>2015-10-06 02:47:57</createdate>
+  <lastupdateddate>2015-10-06 02:48:55</lastupdateddate>
+  <lastlogindate>2015-10-06 02:48:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

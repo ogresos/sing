@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, gawain Mo</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;SA ESPIRITU</category>
+  <numbers><cebuano num="492"/><chinese num="367"/><english num="492"/><german num="492"/><korean num="367"/><portuguese num="227"/><russian num="459"/><tagalog num="492"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 1 - 3 4 | 5 - 6( 7) | ._1 - 7( 6) | 5 - - - (break) | 5 - 5 5 | 6 - 5 - | 4 - 3 - | 2 - - - (break) | 3 - 3 2 | 1( 3) 5( ._1) | 6( 5) 4( 3) | 2 - - - (break) | 5 - 6 7 | ._1 - - 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="145"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoon, gawain Mo
+Di lamang sa krus huminto,
+Patuloy Kang namumuhay,
+Ibang anyo ang Iyong taglay.</stanza>
+	<stanza type="verse" number="2">Patuloy Kang nagsalita,
+Nagliligtas, gumigiya,
+Ika'y naging Espiritu,
+Tatanglawan mga tao.</stanza>
+	<stanza type="verse" number="3">Espiritu Ka't lakas pa,
+Patuloy Kang gumagawa:
+Paghikayat at pagkilos,
+Pag-aliw at pag-uutos.</stanza>
+	<stanza type="verse" number="4">Ika'y naging Espiritu,
+Pagdating Niya'y pagdating Mo,
+Pagpuspos Mo'y pagtahan Niya,
+Espiritu Mo, Ika'y Siya.</stanza>
+	<stanza type="verse" number="5">Sa loob ko'y Siyang tumupad
+Ng mga utos Mo't hangad,
+Tulad nang nasa lupa Ka,
+Tinupad layon ng Ama.</stanza>
+	<stanza type="verse" number="6">Ang makilala't sundin Siya
+Ay makilala't sundin Ka;
+Pagbababad, pag-apaw Niya,
+Yaon ay pagpuspos Mo nga.</stanza>
+	<stanza type="verse" number="7">Di Ka sa malayong langit,
+Na di muling lumalapit,
+Nanatili Ka sa lupa,
+Sa puso ko'y nakatira.</stanza>
+  </lyrics>
+</hymn>

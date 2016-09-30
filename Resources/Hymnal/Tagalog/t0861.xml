@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Diyos sumaiyo nawa hanggang sa</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGSASALAMUHA</category>
+  <numbers><english num="861"/><tagalog num="861"/></numbers>
+  <creators>
+    <author biodate="1828-1904" biolink="">Translated from Jeremiah Eames Rankin</author>
+  </creators>
+  <music>
+    <midiref type="h" num="861"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Diyos sumaiyo nawa hanggang sa
+Tayo'y muling magpangita
+Gabayan, alalayan ka
+Pag-ibig Niya'y sumaiyo nawa!</stanza>
+    <stanza type="chorus" number="">Muling magpangita,
+Sa paanan ni Hesus;
+Muling magpangita,
+O, sumaiyo ang Diyos nawa!</stanza>
+    <stanza type="verse" number="2">Diyos sumaiyo nawa hanggang sa
+Tayo'y muling magpangita
+Manna, proteksyon bigyan ka
+O, sumaiyo ang Diyos nawa!</stanza>
+    <stanza type="verse" number="3">Diyos sumaiyo nawa hanggang sa
+Tayo'y muling magpangita;
+Sa panganib iligtas ka
+O, sumaiyo ang Diyos nawa!</stanza>
+    <stanza type="verse" number="4">Diyos sumaiyo nawa hanggang sa
+Tayo'y muling magpangita;
+Sa pag-ibig lukuban ka
+O, sumaiyo ang Diyos nawa!</stanza>
+  </lyrics>
+</hymn>

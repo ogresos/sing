@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bless me, Lord, with days and nights</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ</category>
+  <hymncode>3232352343212</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - - - | G - - - | F - - - | Gsus4 - G - | C - - - | G/B - G - | Dm - G7 - | F/C - C - |</chords>
+  <melody>| 3. 2/ 3/ 2/ 3/ 5/ | 2 - - 3 | 4. 3/ 2 1 | 2 - - 2 | 3. 2/ 3/ 2/ 3/ 5/ | 2 - - 3 | 4. 3/ 2 1/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Bless me, Lord, with days and nights Of talks a -- lone with Thee, With hours and min -- utes, mo -- ments too That I would thus know Thee.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="21">ns0113.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Bless me, Lord, with days and nights
+Of talks alone with Thee,
+With hours and minutes, moments too
+That I would thus know Thee.</stanza>
+    <stanza type="verse" number="2">Bless me with Thy presence sweet,
+For I have naught but Thee;
+Yea, nothing left but Thee Thyself,
+Lord, give Thyself to me.</stanza>
+    <stanza type="verse" number="3">Bless me with Thy shining light
+And deal with every part.
+That I would unreserved be
+A channel of Thine heart.</stanza>
+    <stanza type="verse" number="4">Bless Thee, Lord, forevermore;
+Come in these days between
+'Til I one day I am as Thou art
+And Morning Star be seen.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cindy</firstname>
+  <lastname>Choo</lastname>
+  <email>choo.cindy@gmail.com</email>
+  <password>$2y$10$qyrpwedZTJtpvadUvs/K7u0yudH65H.tvQxSypc0HU/DRjBWZIoqa</password>
+  <gender>F</gender>
+  <country>Canada</country>
+  <ipaddress>128.189.237.41</ipaddress>
+  <createdate>2014-03-25 04:31:21</createdate>
+  <lastupdateddate>2015-07-26 06:08:50</lastupdateddate>
+  <lastlogindate>2015-07-23 02:54:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="51">Create in me a clean heart, O God</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+    <fav category="default" type="nt" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="h" num="812">I come to Thee, dear Lord</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="nt" num="223">On the table of Thy love</fav>
+    <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+  </favourites>
+</user>

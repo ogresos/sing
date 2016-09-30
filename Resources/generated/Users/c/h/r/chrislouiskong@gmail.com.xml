@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>chris</firstname>
+  <lastname>kong</lastname>
+  <email>chrislouiskong@gmail.com</email>
+  <password>$2y$10$VB2s457KntzF33b7vZoNsujpfsZvGu2KlXujm.LT7.GoBVPEC3pRK</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>119.74.61.166</ipaddress>
+  <createdate>2015-06-08 10:22:31</createdate>
+  <lastupdateddate>2015-06-08 15:10:39</lastupdateddate>
+  <lastlogindate>2015-06-08 15:10:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

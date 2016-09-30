@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mary Jane</firstname>
+  <lastname>Hennig</lastname>
+  <email>mjhennig@t-online.de</email>
+  <password>$2y$10$xnCBmw5yktYNZEaVcryDKOT72a.wW4vZ6p8xdGjVAWE3WpdZnfg5y</password>
+  <gender/>
+  <country>de</country>
+  <ipaddress>2.162.62.13</ipaddress>
+  <createdate>2015-09-09 06:23:02</createdate>
+  <lastupdateddate>2015-09-09 06:47:31</lastupdateddate>
+  <lastlogindate>2015-09-09 06:47:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

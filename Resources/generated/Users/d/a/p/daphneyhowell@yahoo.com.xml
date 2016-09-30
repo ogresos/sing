@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daphney</firstname>
+  <lastname>Howell</lastname>
+  <email>daphneyhowell@yahoo.com</email>
+  <password>$2y$10$nZ/V4OG2.hbCeS4UaosRye02n0NBhz/NT2fnyipWr1WRrE6CDWYk2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>184.89.183.82</ipaddress>
+  <createdate>2016-04-08 04:23:48</createdate>
+  <lastupdateddate>2016-04-08 04:27:21</lastupdateddate>
+  <lastlogindate>2016-04-08 04:24:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Wesley</firstname>
+<lastname>Vaughn</lastname>
+<email>wesleyvaughn@roadrunner.com</email>
+<password>$1$4qCjdJSg$GGHcKMlcV1xyf4.d3pvXB0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.188.53.19</ipaddress>
+<createdate>2008-07-26 01:43:28</createdate>
+<lastupdateddate>2009-09-15 18:25:23</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="553">In the secret of His presence</fav>
+        <fav category="default" type="h" num="1085">His Name is Wonderful</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="76">In the Name of Jesus</fav>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+        <fav category="default" type="h" num="796">Christ, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="825">Church of God, beloved and chosen</fav>
+    </favourites>
+</user>

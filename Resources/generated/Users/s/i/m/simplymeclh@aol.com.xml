@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Cary</firstname>
+    <lastname></lastname>
+    <email>simplymeclh@aol.com</email>
+    <password>BDtemiqrYITY0DoCbXgUcw%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>24.112.61.44</ipaddress>
+    <createdate>2013-02-21 22:18:04</createdate>
+    <lastupdateddate>2013-02-21 22:54:33</lastupdateddate>
+    <lastlogindate>2013-02-21 22:18:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="339">How firm a foundation, ye saints of the Lord</fav>
+        <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    </favourites>
+</user>

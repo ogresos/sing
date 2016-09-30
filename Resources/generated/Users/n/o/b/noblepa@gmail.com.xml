@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Noble P</firstname>
+<lastname>Abraham</lastname>
+<email>noblepa@gmail.com</email>
+<password>$1$PVktcZfF$/gva9ppKLNZ6yQgWqQ3ax0</password>
+<gender>M</gender>
+<country>India</country>
+<ipaddress>202.88.245.183</ipaddress>
+<createdate>2009-04-21 01:30:06</createdate>
+<lastupdateddate>2009-09-15 18:29:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+        <fav category="default" type="c" num="111">For I am fearfully and wonderfully made</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+    </favourites>
+</user>

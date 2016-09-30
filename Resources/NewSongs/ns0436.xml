@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And let the peace of Christ</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Sandy Williams">S. W.</composer>
+  </creators>
+  <hymncode>11233456711756</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - - - | Am - - - | F - - - | C - - - | G - - - | F - - - | G7 - - - | C - - - | G7 - - - | F - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 0/ 1/ 1/ 2/ | (startrepeat) 3 - - 3/( 4/) | 5 - - 6/ 7/ | ._1 - ._1/( 7/) 5 (break) | 6 - - 6/ 6/ | 5/ 3.( 3) 4/ 3/ | 2 - - 3/ 2/ (break) | (alt1) 2/ 1/( 1)( - - | 1) - - 1/ 2/ | 2/ 3/( 3)( - - | 3) - 0/ 1/ 1/ 2/ (break) | (alt2) 2/ 1.( 1) 1/ 2/ | 2/ 1/( 1)( - - | 1) - 0 - (endalt) ||</melody>
+  <layout>
+    <singingstanza end="-1">And let the peace of Christ ar -- bi -- trate in your hearts, to which al -- so you were called in one Bod -- y; and be thank -- ful. And let the Bod -- y; and be thank -- ful.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Colossians 3:15</link>
+  </links>
+  <music>
+    <midi location="ns" length="58">ns0436.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">And let the peace of Christ
+Arbitrate in your hearts,
+To which also
+You were called
+In one Body;
+And be thankful.
+(repeat)</stanza>
+  </lyrics>
+</hymn>

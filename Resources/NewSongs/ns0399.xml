@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Channels of Life</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;A Channel of Blessing</category>
+  <numbers><english num="ns:399"/><spanish num="ns:399s"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Julie Grize">J. G.</author>
+    <composer biodate="" biolink="" fullname="Julie Grize">J. G.</composer>
+  </creators>
+  <hymncode>3345666545554325</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | G - - - | C - - - | G - - - | Dm - - - | F - - - | C - - - | G - - - | Dm - - - | F - - - | G7 - - - ||</chords>
+  <melody>| 3 - 3/ 4/ 5/ 6/( | 6.) 6/ 6/ 5/ 4/ 5/( | 5.) 5/ 5/ 4/ 3/ 2/( | 2/)( 5.)( 5) - (break) | 3 - 3/ 4/ 5/ 6/( | 6.) 6/ 6/ 7/ ._1/ ._2/( | ._2)( - ._2/) ._1/ 7/ ._1/( | ._1) - - 0 (break) | (Chorus) ._2. ._2/( ._2) ._2 | ._4/ ._3/( ._3/) ._2/( ._2.) 6/ | 6/ 6/( 6/) ._1/( ._1/) ._2/( ._2/) ._3/( | ._3) - - 0 (break) | ._2. ._2/( ._2) ._2 | ._4/ ._3/( ._3/) ._2/( ._2.) 6/ | 6/ 6/( 6/) ._1/( ._1/) ._3. | ._2 - - 0 ||</melody>
+  <layout>
+    <singingstanza>When you speak the Word, He fills you with -- in  And clothes you with -- out; Then words full of power, Au -- thor -- i -- ty, im -- pact flow out. Chan -- nels of life are we, Al -- low -- ing God to flow! Through us and out of us That oth -- ers life may know!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="33">ns0399.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When you speak the Word,
+He fills you within 
+And clothes you without;
+Then words full of power,
+Authority, impact flow out.</stanza>
+    <stanza type="chorus" number="">Channels of life are we,
+Allowing God to flow!
+Through us and out of us
+That others life may know!</stanza>
+    <stanza type="verse" number="2">After you receive,
+Are filled and enriched
+By such a supply,
+Go! Open your mouth!
+Speak to all men the words of this life!</stanza>
+    <stanza type="verse" number="3">And having the same
+Spirit of faith,
+Be strong! Be not weak!
+"We also believe,
+Therefore we also must speak!"</stanza>
+  </lyrics>
+</hymn>

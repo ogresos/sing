@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Teu nome satisfaz</title>
+  <index>true</index>
+  <category>Seu Nome</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from W. C. Martin</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <music>
+	<midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, Teu nome satisfaz,
+Quero invocá-lo mais e mais;
+Perfeito gozo e vida traz
+Tal nome precioso.</stanza>
+	<stanza type="chorus" number="">Jesus, nome com dulçor,
+Jesus, cheio de frescor,
+Jesus, digno de louvor,
+Agora e para sempre.</stanza>
+	<stanza type="verse" number="2">Teu nome amo, ó Jesus,
+Do mal me afasta, traz-me luz,
+Vai-se o tremor, pois me conduz;
+Jesus, Teu nome amável.</stanza>
+	<stanza type="verse" number="3">Jesus, Teu nome sem igual,
+É melodia celestial,
+Me alegra e dá vigor total;
+Exalto, pois, Teu nome.</stanza>
+	<stanza type="verse" number="4">Não há maneira de expressar
+Como este nome é singular;
+Fazei, pois, o louvor soar
+A este nome doce!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Be Strong and of Good Courage</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Be Strong</category>
+  <hymncode>5112312552222</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | G - - - | C - - - | F - - - | C - - F | C/G - G7 - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 1 - 1/( 2/) 3/ 1/ | 2 5_.( 5_.) 5_. (break) | 2 2/ 2/ 2 - | 3/ 2/ 3/ 2/ 1 1/ 1/ (break) | 4 4/ 4/ 6 5/( 4/) | 5 3( 3) 4 (break) | 3 - 2 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Be strong and of good cour -- age, Do not be a -- fraid, Nei -- ther be dis -- mayed, For Je -- ho -- vah your God is with you, Wher -- ev -- er you go.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="">c0124.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Be strong and of good courage,
+Do not be afraid,
+Neither be dismayed,
+For Jehovah your God is with you,
+Wherever you go.</stanza>
+  </lyrics>
+</hymn>

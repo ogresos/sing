@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Patricia</firstname>
+<lastname>Willard</lastname>
+<email>threetoday92@aol.com</email>
+<password>$1$6bclLjtY$3zbGb/361U24XHScnTHhK/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>205.188.116.200</ipaddress>
+<createdate>2008-07-26 01:43:26</createdate>
+<lastupdateddate>2009-09-15 18:25:19</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    </favourites>
+</user>

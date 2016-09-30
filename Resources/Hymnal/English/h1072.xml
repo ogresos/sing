@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>She only touched the hem of His garment (gospel)</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <creators>
+    <author biodate="" biolink="">George F. Root</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ | 5 5/ 5 5/ | 5/ 4#/ 5/ 6/ 5/ 3/ | 2 3/ 5 4/ (break) | 3( - 3/) 5/ | 5 5/ 5 5/ | 5/ 4#/ 5/ 6/ 5/ 6/ | 7 ._1/ 7 6/ (break) | 5( - 5/) (Chorus) 5/ | ._1 ._1/ 7/ 6/ 5/ | 6. 5 5/ | 6 ._1/ 5 3/ (break) | 2( - 2/) 2/ | 3 3/ 5 5/ | ._1 ._1/ ._2/( ._1/) 6/ | 5 5/ 6 7/ | ._1( - ._1/) 0/ |</melody>
+  <layout>
+    <singingstanza>She on -- ly touched the hem of His gar -- ment As to His side she stole, A -- mid the crowd that gath -- ered a -- round Him; And straight -- way she was whole. Oh, touch the hem of His gar -- ment! And thou, too, shalt be free! His sav -- ing power this ve -- ry hour Shall give new life to thee!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj105.xml</link>
+    <link type="ref">Mark 5:25-34</link>
+    <link type="ref">Luke 8:43-48</link>
+  </links>
+  <music>
+    <midiref type="h" num="16"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">She only touched the hem of His garment
+  As to His side she stole,
+Amid the crowd that gathered around Him;
+  And straightway she was whole.</stanza>
+    <stanza type="chorus" number="">Oh, touch the hem of His garment!
+  And thou, too, shalt be free!
+His saving power this very hour
+    Shall give new life to thee!</stanza>
+    <stanza type="verse" number="2">He's pow'rful, present, real and gracious;
+  Thou too canst touch Him now!
+Just come and touch while He is still passing,
+  His power thou shalt know.</stanza>
+    <stanza type="verse" number="3">Just touch in faith and touch Him in spirit,
+  And He will make thee whole;
+And peace that passeth all understanding
+  With joy will fill thy soul.</stanza>
+  </lyrics>
+</hymn>

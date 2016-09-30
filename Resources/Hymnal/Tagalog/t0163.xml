@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kung may sampung libong dila</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG BIYAYA</category>
+  <numbers><cebuano num="163"/><chinese num="135"/><english num="163"/><korean num="135"/><portuguese num="82"/><russian num="33"/><spanish num="79"/><tagalog num="163"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="72"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kung may sampung libong dila,
+Hesus pupurihin,
+Kay yaman ng biyaya Niya
+At mal'walhati rin.</stanza>
+    <stanza type="verse" number="2">Aliw ko ang ngalang Hesus,
+Nagtaboy ng kaba;
+Buhay at pahinga ko Diyos,
+Naging aking kanta.</stanza>
+    <stanza type="verse" number="3">Nang dahil sa pag-ibig Niya,
+Dinanas ang dusa;
+Ako'y niligtas sa sala,
+At pinalaya na.</stanza>
+    <stanza type="verse" number="4">Di bagay sa pag-ibig Niya,
+Ako ay salarin;
+Bakit kaya biyaya Niya
+Dumating sa akin?</stanza>
+    <stanza type="verse" number="5">Alipin ng pag-ibig Niya
+Ako'y pumapayag,
+Siya ay namatay, nagdusa,
+Gapos ko'y kinalag.</stanza>
+    <stanza type="verse" number="6">Kaibig-ibig ngalan Mo,
+Mapagbiyaya Ka,
+Kung may sampung libong puso,
+Sa Iyo bawa't isa.</stanza>
+  </lyrics>
+</hymn>

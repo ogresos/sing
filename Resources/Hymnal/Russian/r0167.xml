@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Что вину мне может смыть</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;КРОВЬ</category>
+  <numbers><cebuano num="1008"/><chinese num="684"/><english num="1008"/><german num="1008"/><korean num="684"/><portuguese num="448"/><russian num="167"/><spanish num="471"/></numbers>
+  <creators>
+	<author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <melody>| 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | (Chorus) 5 - 3 2 | 3 5 3 - | 2 - 2 1 | 2 2 3( 5) (break) | 5 - 3 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - |</melody>
+  <layout>
+	<singingstanza>Что ви -- ну мне мо -- жет смыть?  О, ни -- что, лишь кровь Ии -- су -- са!  Вновь что мо -- жет ис -- це -- лить?  О, ни -- что, лишь кровь Ии -- су -- са! Как до -- ро -- га стру -- я, О -- мыв -- ша -- я ме -- ня!  Что в_ми -- ре есть цен -- ней?  О, ни -- что, лишь кровь Ии -- су -- са!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1008"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Что вину мне может смыть?
+О, ничто, лишь кровь Иисуса!
+Вновь что может исцелить?
+О, ничто, лишь кровь Иисуса!</stanza>
+	<stanza type="chorus" number="">Как дорога струя,
+Омывшая меня!
+Что в мире есть ценней?
+О, ничто, лишь кровь Иисуса!</stanza>
+	<stanza type="verse" number="2">Чтоб очиститься, гляжу
+Лишь на кровь одну Иисуса.
+Дар прощенья нахожу
+Лишь в крови святой Иисуса.</stanza>
+	<stanza type="verse" number="3">Грех ничто не может смыть,
+Нет, ничто, лишь кровь Иисуса!
+Ни дела – лишь благодать,
+Данная в крови Иисуса.</stanza>
+	<stanza type="verse" number="4">Мир, надежду где найду?
+Лишь в крови святой Иисуса!
+Праведность свою ищу
+Лишь в крови святой Иисуса!</stanza>
+  </lyrics>
+</hymn>

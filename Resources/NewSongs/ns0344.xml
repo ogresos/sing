@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He's able, He's able</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Trusting the Lord</category>
+  <numbers><english num="ns:344"/></numbers>
+  <creators>
+    <author biodate="1958" biolink="">Paul E. Paino</author>
+    <composer biodate="1958" biolink="">Paul E. Paino</composer>
+  </creators>
+  <hymncode>51152253554433432553321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | C7 - - - | F - - - | C/G - - - | G7 - - - | F - - - | C - - - | C - - - | G - - - | C7 - - - | F - - - | C/G - - - | G7 - - - | F - - - | C - - - | F - - - | F - - - | C - - - | C - - - | D - - - | D7 - - - | G - - - | G7 - - - | C - - - | G - - - | C7 - - - | F - - - | C/G - - - | G7 - - - | F - - - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 1 1 - 5_. | 2 2 - 5_. | 3 - 5 - (break) | 5 4 - 4 | 3 3 4 3 | 2 5_./ 5_./ 3/ 3/ 2 | 1( - - - (break) | 1) - 0 5_. | 1 1 - 5_. | 2 2 - 5_. | 3 - 5 - (break) | 5 4 - 4 | 3 3 4 3 | 2 5_./ 5_./ 3/ 3/ 2 | 1( - - - (break) | 1) - 0 1 | 4. 4/ 4 4 | 5 4 - 4 | 4 3 3 2# (break) | 3 - - 3 | 2 2 2 2 | 3 2 2 1 | 7_. 7_. 1 1# (break) | 2 - - 5_. | 1 1 - 5_. | 2 2 - 5_. | 3 - 5 - (break) | 5 4 - 4 | 3 3 4 3 | 2 5_./ 5_./ 3/ 3/ 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">He's a -- ble, He's a -- ble, I know He's a -- ble, I know my Lord is a -- ble To car -- ry me through. He's a -- ble, He's a -- ble, I know He's a -- ble, I know my Lord is a -- ble To car -- ry me through. He healed the bro -- ken -- heart -- ed And set the cap -- tive free, He made the lame to walk a -- gain And caused the blind to see. He's a -- ble, He's a -- ble, I know He's a -- ble, I know my Lord is a -- ble To car -- ry me through.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0344.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">He's able, He's able,
+I know He's able,
+I know my Lord is able
+To carry me through.
+(Repeat)</stanza>
+    <stanza type="verse" number="">He healed the broken-hearted
+And set the captive free,
+He made the lame to walk again
+And caused the blind to see.</stanza>
+    <stanza type="verse" number="">He's able, He's able,
+I know He's able,
+I know my Lord is able
+To carry me through.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You, I'm charmed by You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <hymncode>11166617511116123232</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | D7 - - - | G7 - - - | C - - - | Em - - - | F - - - | Am7 - - - | Dm - - - | G - - - | F - - - | G7 - - - | C - F/C - | C - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Dm - - - | D7 - - - | G7 - - - | C - - - | Em - - - | F - - - | Am7 - - - | Dm - - - | G - - - | F - - - | G7 - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 1 - - 1 | 1/ 6_./( 6_.) - 6_. | 6_. - - 1 | 7_. - - 5_. (break) | 1( - 1/) 1/ 1/ 1/ | 1/ 6_./( 6_.) - 1 | 2. 3/ 2 3 | 2 - - - (break) | 5. 5/( 5) 3 | 5. 5/( 5) 3 | 5. 5/ 5 3 | 1 - - - (break) | 2 - - - | 2 - - - | 4( - - 3) | 2.( 1/)( 1) 7_. | 1( - - - | 1) - - - (break) | 1 - - 1/ 1/ | 6_. - - 6_. | 6_. 6_./ 6_./( 6_.) 1 | 7_. 6_./ 5_./( 5_./)( 6_./) 7_. (break) | 1 - - 1 | 2. 2/( 2) 3 | 2( - - - | 2) - - 5_. (break) | 5 - - 3 | 5. 5/( 5) 3 | 5 - - 3 | 1 - - - (break) | 2 - - - | 2 - - 5_. | 4( - - 3) | 2. 1/( 1) 7_. (break) | 1 - - - | 7_. - - 7_./ 7_./ | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, I love You, I'm charmed by You. I o -- pen my whole be -- ing to be in -- fused by You. Lord, do what -- ev -- er You have to do in me To make me what You need. Lord, make my heart a du -- pli -- ca -- tion of Your heart in ev -- ery pos -- si -- ble way. O Lord, do some -- thing in me for You, And keep my heart sin -- gle for You. Lord, I love You.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="94">ns0357.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I love You, I'm charmed by You.
+I open my whole being to be infused by You.
+Lord, do whatever You have to do in me
+To make me what You need.
+Lord, make my heart a duplication of
+Your heart in every possible way.
+O Lord, do something in me for You,
+And keep my heart single for You.
+Lord, I love You.</stanza>
+  </lyrics>
+</hymn>

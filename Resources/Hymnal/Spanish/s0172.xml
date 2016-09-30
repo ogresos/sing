@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Guíame, oh Salvador</title>
+  <index>true</index>
+  <category>Anhelos&amp;mdash;Por el guiar de Cristo</category>
+  <numbers><cebuano num="390"/><chinese num="291"/><dutch num="25"/><english num="390"/><german num="390"/><korean num="291"/><russian num="455"/><spanish num="172"/><tagalog num="390"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 5/ ._1/ 7/ 6/ | 5 - - 0 | 4. 3/ 2/ 6/ 5/ 4/ | 3 - - 0 (break) | 5. 5/ 5/ 3/ 5/ ._1/ | 6 - - 0 | 7. ._1/ 7/ 6/ 5/ 4#/ | (.5 - - 0 (break) | (Chorus) 5 - 3 0 | ._1 - 5 0 | ._3. ._2/ ._1/ 6/ 5/ 3/ | 2.( 3/ 4) - (break) | 3. 3/ 3/ 3/ 4/ 5/ | 6 - - 7/ ._1/ | 5 3 4 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="390"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Guíame, oh Salvador,
+En Espíritu͜ hacia Ti;
+Si͜ ando͜ en luz de vida yo
+Cesaré de resistir.</stanza>
+	<stanza type="chorus" number="">Guía, guía,
+Guíame, oh Salvador,
+A lo hondo del fluir
+De Tu vida, mi Señor.</stanza>
+	<stanza type="verse" number="2">Por la ley de vida͜ en mí
+Tú me guías en verdad;
+Cuando reinas con poder,
+Se͜ hace luz mi͜ oscuridad.</stanza>
+	<stanza type="verse" number="3">Me libró Tu͜ Espíritu
+Para regularme más,
+Y mi mente͜ y voluntad
+Tú por El renovarás.</stanza>
+  </lyrics>
+</hymn>

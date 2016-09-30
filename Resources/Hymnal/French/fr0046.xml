@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Afin de remplir mon être</title>
+  <index>true</index>
+  <category>La plénitude de l’Esprit&amp;mdash;le remplissage</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="267"/><french num="46"/><german num="267"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="267"/></numbers>
+  <creators>
+	<author biodate="1815-1895" biolink="">Translated from Elwood Haines Stokes</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Quelle gloire, en moi l'Esprit vit,
+Qui témoigne du Sauveur,
+La réalité révèle,
+Guide et adoucit mon cœur.</stanza>
+	<stanza type="chorus" number="">Remplis-moi, remplis-moi !
+Remplis-moi, Seigneur-Esprit !
+Vide et affranchis mon être,
+Remplis-moi du Saint-Esprit !</stanza>
+	<stanza type="verse" number="2">Maintenant Tu me libères,
+Par la loi de Ton Esprit.
+Le péché perd sa puissance
+Et la mort est abolie.</stanza>
+	<stanza type="verse" number="3">Je languis comme une biche,
+Qui désire s'abreuver.
+Que l'eau vive en moi jaillisse
+Et que j'en sois inondé.</stanza>
+	<stanza type="verse" number="4">Afin de remplir mon être,
+Rends-moi conforme à Ta mort,
+Règne sur ma vie entière,
+Glorifie-Toi dans mon corps.</stanza>
+  </lyrics>
+</hymn>

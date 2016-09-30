@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Marilee</firstname>
+  <lastname>Lampman</lastname>
+  <email>marila@charter.net</email>
+  <password>DbL0uFYb65RN9E6vvbBYIw%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>24.179.148.71</ipaddress>
+  <createdate>2013-01-24 10:42:43</createdate>
+  <lastupdateddate>2015-03-11 12:33:23</lastupdateddate>
+  <lastlogindate>2015-03-11 12:33:23</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="253">Breathe on us, Lord of life</fav>
+    <fav category="default" type="h" num="118">Christ is risen! Hallelujah</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="9">Glory be to God</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="752">I am the Lord that healeth thee</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="843">Lord, breathe Thy breath of life upon me</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="990">The Great Physician now is near</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="995">There is a green hill far away</fav>
+    <fav category="default" type="nt" num="995">There is a green hill far away</fav>
+    <fav category="default" type="h" num="753">There is a healing branch that grows</fav>
+    <fav category="default" type="h" num="697">Weary pilgrim on life's pathway</fav>
+  </favourites>
+</user>

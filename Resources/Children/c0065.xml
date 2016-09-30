@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'm a vessel this I know</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <layout>
+    <singingstanza>I'm a ves -- sel, this I know! For the Bi -- ble tells me so. God's the Pot -- ter, I'm the clay; He made me this spe -- cial way. Yes, I'm a ves -- sel, Yes, I'm a ves -- sel, Yes, I'm a ves -- sel, The Bi -- ble tells me so.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="c" num="32"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I'm a vessel, this I know!
+For the Bible tells me so.
+God's the Potter, I'm the clay;
+He made me this special way.</stanza>
+    <stanza type="chorus" number="">Yes, I'm a vessel,
+Yes, I'm a vessel,
+Yes, I'm a vessel,
+The Bible tells me so.</stanza>
+  </lyrics>
+</hymn>

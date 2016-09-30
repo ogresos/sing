@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Batchelor</lastname>
+  <email>nancyalice54@yahoo.com.au</email>
+  <password>$2y$10$VBrNcFyBmDf5ah6BUDAMu.2zF8Kvp1s7qvEeDUmpm9nC74HSVRiHe</password>
+  <gender/>
+  <country/>
+  <ipaddress>101.190.238.111</ipaddress>
+  <createdate>2015-11-18 19:35:36</createdate>
+  <lastupdateddate>2016-02-04 22:34:22</lastupdateddate>
+  <lastlogindate>2016-02-04 22:22:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+  </favourites>
+</user>

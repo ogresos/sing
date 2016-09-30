@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Such a name as sweet as Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><chinese num="67"/><english num="8067"/></numbers>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>1231232123432</hymncode>
+  <key>F Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | C - | G - | G7 - | C/E - | F - | C/G G7 | C - | C - | C - | G - | G7 - | C/E - | F - | C/G G7 | C - | C/E - | C - | C - | G7 - | C/E - | C - | Am - | G - | C - | C - | G - | G7 - | C/E - | F - | C/G G7 | C - ||</chords>
+  <melody>| 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1 7_. | 1 - (break) | 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1 7_. | 1 - (break) | (Chorus) 5. 6/ | 5 3 | 1 2/( 3/) | 4/( 3/) 2 | 5. 6/ | 5 3 | 1 3 | 2 - (break) | 1/( 2/) 3 | 1/( 2/) 3 | 2/( 1/) 2/( 3/) | 4/( 3/) 2 | 1. 7_./ | 6_./( 7_./) 1/( 2/) | 1( 7_.) | 1 - ||</melody>
+  <layout>
+    <singingstanza>Such a name as sweet as "Je -- sus" Heav'n and earth do not con -- tain; When our Sav -- ior left His glo -- ry, God gave Him this match -- less name. How we love to call, "Lord Je -- sus!" To ac -- knowl -- edge Christ, God's Son. Nev -- er was a name so won -- d'rous, Dear and sweet as "Je -- sus."</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="38">e8067_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Such a name as sweet as "Jesus"
+Heav'n and earth do not contain;
+When our Savior left His glory,
+God gave Him this matchless name.</stanza>
+    <stanza type="chorus" number="">How we love to call, "Lord Jesus!"
+To acknowledge Christ, God's Son.
+Never was a name so wond'rous,
+Dear and sweet as "Jesus."</stanza>
+    <stanza type="verse" number="2">When upon the tree they hung Him,
+There they also hung this name,
+For the whole earth's admiration;
+See how truly we love Him!</stanza>
+    <stanza type="verse" number="3">Then enthroned in His ascension,
+God on Him this name conferred;
+All knees bowed, all tongues confessing,
+Hail Him, all in heav'n and earth!</stanza>
+    <stanza type="verse" number="4">Grace unending and exhaustless
+Issues from Thy matchless name;
+Yesterday, today, forever,
+Thou, our JESUS, art the same!</stanza>
+  </lyrics>
+</hymn>

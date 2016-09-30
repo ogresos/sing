@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Meu mundo agora é Jesus</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><cebuano num="530"/><chinese num="386"/><english num="530"/><french num="95"/><german num="530"/><korean num="386"/><portuguese num="259"/><tagalog num="530"/></numbers>
+  <creators>
+	<author biodate="1847-1909" biolink="">Translated from Will Lamartine Thompson</author>
+  </creators>
+  <melody>| ._3./ ._2// ._1/ ._4 ._3/ | ._3 ._2/ ._1 5/ | ._1 ._1/ ._2 ._2/ | ._3.( ._3) ._5/ (break) | ._5 ._2/ ._2 ._5/ | ._5 ._3/ ._3 ._3/ | ._2 ._1/ 6/( 7/) ._1/ | ._2.( ._2) 0/ (break) | 5/ 6/ ._1/ 6 3/ | 5 6/ 5. | 5/ 6/ ._1/ 6 3/ | 5 6/ 5. (break) | ._1/ ._1/ ._1/ ._1. | ._1/ ._1/ ._1/ (.._5. | ._1. ._2. | ._1.( ._1) 0/ |</melody>
+  <music>
+	<midiref type="h" num="530"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Meu mundo agora é Jesus:
+Meu gozo, vida e paz;
+É minha força, me conduz,
+Meus passos firmes faz.
+Se triste estou, a Ele vou,
+Quem mais me alegra em meio à dor?
+Se triste estou, a Ele vou;
+Que Amigo!</stanza>
+	<stanza type="verse" number="2">Meu mundo agora é Jesus,
+Amigo em provações;
+Por tudo O busco, e Dele vêm
+Mui ricas provisões.
+O sol e a chuva Ele dá,
+Faz a colheita abundar,
+Colheita, sol e chuva dá;
+Que Amigo!</stanza>
+	<stanza type="verse" number="3">Meu mundo agora é Jesus,
+Fiel eu Lhe serei;
+Oh! que Amigo mui real!
+Jamais O negarei.
+Se O seguir, não hei de errar,
+Possuo Seu total guardar;
+Se O seguir, vai-me guardar
+O Amigo.</stanza>
+	<stanza type="verse" number="4">Meu mundo agora é Jesus,
+Quem pode ser melhor?
+Agora e sempre confiarei
+Té o fim do meu labor.
+Oh! grande Amigo que me traz
+Vida que já não finda mais,
+Vida e gozo eternais;
+Que Amigo!</stanza>
+  </lyrics>
+</hymn>

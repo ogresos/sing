@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Fred</firstname>
+<lastname>BAO</lastname>
+<email>fredbao@gmail.com</email>
+<password>$1$IiYkFztB$djBmZh5v79M9lNPcBmT/C1</password>
+<gender>M</gender>
+<country>Canada</country>
+<ipaddress>99.229.74.194</ipaddress>
+<createdate>2009-04-05 19:38:49</createdate>
+<lastupdateddate>2009-09-15 18:29:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="686">Fear not, I am with thee</fav>
+    </favourites>
+</user>

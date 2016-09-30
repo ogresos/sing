@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ich bin eins mit Dir, Herr Jesus</title>
+  <index>true</index>
+  <category>EINHEIT MIT CHRISTUS&amp;mdash;Eins mit Ihm</category>
+  <numbers><cebuano num="474"/><chinese num="359"/><dutch num="87"/><english num="474"/><french num="81"/><german num="474"/><korean num="359"/><portuguese num="217"/><russian num="88"/><spanish num="197"/><tagalog num="474"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mrs. Donald Davison</author>
+  </creators>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5 - 5./ 3// | 2 - 5_../ 1// (break) | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Ich bin eins mit Dir, Herr Je -- sus, Eins im Geist bin ich mit Dir; Ich bin Dein und Du bist mein, Herr, Du er -- füllst mich, lebst in mir. Eins mit Dir, eins mit Dir, Eins mit Dir, eins mit Dir, Ich ge -- nie -- ße Dei -- nen Reich -- tum, Du bist al -- les, al -- les mir.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ich bin eins mit Dir, Herr Jesus,
+    Eins im Geist bin ich mit Dir;
+Ich bin Dein und Du bist mein, Herr,
+    Du erfüllst mich, lebst in mir.</stanza>
+	<stanza type="chorus" number="">Eins mit Dir, eins mit Dir,
+    Eins mit Dir, eins mit Dir,
+Ich genieße Deinen Reichtum,
+    Du bist alles, alles mir.</stanza>
+	<stanza type="verse" number="2">Ich hab teil an Deinem Leben,
+    Deine Menschlichkeit füllt mich,
+Auch Dein völliger Gehorsam
+    Ist verfügbar innerlich.</stanza>
+	<stanza type="verse" number="3">Ich bin eins mit Dir am Kreuz, Herr,
+    Bin gestorben dort in Dir;
+Bin in Dir der Welt gekreuzigt,
+    Und die Welt gekreuzigt mir.</stanza>
+	<stanza type="verse" number="4">Eins mit Dir in Auferstehung,
+    Auferweckt leb ich in Dir;
+Dieses Leben, das Du Selbst bist, 
+    Fließt in mir, sogar in mir.</stanza>
+	<stanza type="verse" number="5">Eins mit Dir in Deiner Auffahrt,
+    In den Himmeln leb mit Dir;
+Bin ein Pilger und verborgen
+    Ist in Dir mein Leben hier.</stanza>
+	<stanza type="verse" number="6">Eins mit Dir auf Deinem Thron, Herr,
+    Üb ich Vollmacht aus mit Dir,
+Habe teil an Deinem Leben,
+    Ich in Dir und Du in mir.</stanza>
+  </lyrics>
+</hymn>

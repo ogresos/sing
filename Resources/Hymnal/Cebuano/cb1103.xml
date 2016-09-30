@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unsa S'ya: S'yang Amahan</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAGKAMALANGKUBON-SA-TANAN</category>
+  <numbers><cebuano num="1103"/><dutch num="32"/><english num="1103"/><german num="1103"/><spanish num="92"/><tagalog num="1103"/></numbers>
+  <melody>| 0 - - 1/ 6_./ | 5_. - - 5_./ 5_./ | 6_./ 1/( 1) - 3/ 5/ | 6. 5/ 6. 5/ (break) | 3/ 5/( 5) - 3/ 5/ | 6 6 5 3 | 2/( 1) 1. 3/ 3/ | 4 3 2 1 (break) | 6_./ 1 1. 1/ 6_./ | 5_./ 1/( 1) 1/ 2/( 2/) 1/( | 1) - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1103"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Unsa S'ya: S'yang Amahan.
+Amahang way katapusan.
+Panganay S'ya's kabuhatan,
+Ang nabuhi sa sulod ko.
+Amahang kahibudngan!</stanza>
+	<stanza type="verse" number="2">Unsa S'ya: S'ya ang suba.
+Kusganong nag-agayng suba.
+Gitubigan N'ya's kamingawan.
+Tagoanan S'ya; ang among tawo.
+S'yang suba! Kahibudngan!</stanza>
+	<stanza type="verse" number="3">Unsa S'ya: S'yang punoan.
+S'yang sanga, gamut ni Isai.
+Kahoy's kinabuhi: katungod ta
+Pagkaon N'ya ug mabuhi.
+S'yang punoan! Maayo!</stanza>
+	<stanza type="verse" number="4">Unsa S'ya: Magbalantay.
+Cordero's Dios, laking kanding.
+Mopahuway, kaon's sibsibanan.
+Isablig dugo, kan-on S'ya.
+Magbalantay! Maayo!</stanza>
+	<stanza type="verse" number="5">Unsa S'ya: Espiritu.
+Malangkubong Espiritu.
+S'yang tanan nato, tanan's tanan,
+Sa pagtawag ta, buhion N'ya.
+Espiritu! Maayo!</stanza>
+	<stanza type="verse" number="6">Unsa S'ya: S'yang Persona.
+Matuod, buhing Persona.
+Nabuhi S'ya's sulod ta karon,
+Personang mahimayaon.
+S'yang Persona! Maayo!</stanza>
+	<stanza type="verse" number="7">Unsa S'ya: S'ya ang Lawas;
+S'ya sa Dios ang kahupnganan;
+S'yang sentro sa plano's Amahan,
+Cristo'g iglesia, bag-ong tawo.
+Kahibudngan, Kahibudngan!</stanza>
+	<stanza type="chorus" number="">Kahibudngan, kahibudngan!
+Kahibudngan, kahibudngan!</stanza>
+  </lyrics>
+</hymn>

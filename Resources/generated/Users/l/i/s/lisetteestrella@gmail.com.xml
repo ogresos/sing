@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Lisette</firstname>
+<lastname>Estrella</lastname>
+<email>lisetteestrella@gmail.com</email>
+<password>$1$7Ruhfg8l$rLFPUdMlq8W9oDSDN2dYD1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>68.227.87.147</ipaddress>
+<createdate>2009-02-13 16:54:41</createdate>
+<lastupdateddate>2009-09-15 18:29:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="377">If the path I travel</fav>
+    </favourites>
+</user>

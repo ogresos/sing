@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lisa</firstname>
+    <lastname>Goff</lastname>
+    <email>lisagoff59@gmail.com</email>
+    <password>icVLMVgFLXYLkgQKj7txWw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>76.1.146.196</ipaddress>
+    <createdate>2011-07-10 10:28:02</createdate>
+    <lastupdateddate>2011-07-10 10:46:31</lastupdateddate>
+    <lastlogindate>2011-07-10 10:28:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

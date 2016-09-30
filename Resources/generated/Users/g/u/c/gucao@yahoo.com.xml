@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>guy</firstname>
+    <lastname>cao</lastname>
+    <email>gucao@yahoo.com</email>
+    <password>$1$tqbuX2z.$umGjMUsbiOCLsPBG45Ilu1</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>128.164.162.1</ipaddress>
+    <createdate>2009-08-21 14:16:24</createdate>
+    <lastupdateddate>2011-07-11 12:13:26</lastupdateddate>
+    <lastlogindate>2011-07-11 12:13:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="272">Christ indeed was born of Spirit</fav>
+        <fav category="default" type="ns" num="63">Christ is God incarnated</fav>
+        <fav category="default" type="h" num="495">Christ is God's centrality</fav>
+        <fav category="default" type="ns" num="183">Christ is a genuine man</fav>
+        <fav category="default" type="ns" num="94">Christ, not religion</fav>
+        <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+        <fav category="default" type="h" num="635">Let us contemplate the grape vine</fav>
+        <fav category="default" type="ns" num="231">Lord Jesus, I love You (You're my all)</fav>
+        <fav category="default" type="h" num="447">My spirit, soul, and body</fav>
+        <fav category="default" type="ns" num="225">Praise the Lord! The God of glory</fav>
+        <fav category="default" type="h" num="1120">The Holy Spirit is the seal</fav>
+        <fav category="default" type="ns" num="5">The Humanity of Christ</fav>
+        <fav category="default" type="h" num="1269">There in old Chaldea, product of man's fall</fav>
+        <fav category="default" type="h" num="704">Though troubles assail</fav>
+        <fav category="default" type="ns" num="75">Water you, water you</fav>
+        <fav category="default" type="h" num="1333">What a happy day</fav>
+    </favourites>
+</user>

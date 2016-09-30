@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carl Jón</firstname>
+  <lastname>Denbow</lastname>
+  <email>cdenbow1@gmail.com</email>
+  <password>$2y$10$6JinBDrEtU2U1heKMjoKQexhCgQ72Ez2Dzvclyh69HCWp3Lkac7qy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.10.137.204</ipaddress>
+  <createdate>2015-01-11 17:27:22</createdate>
+  <lastupdateddate>2015-01-11 21:52:17</lastupdateddate>
+  <lastlogindate>2015-01-11 21:29:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+  </favourites>
+</user>

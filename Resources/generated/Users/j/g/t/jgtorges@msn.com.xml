@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Gloria</firstname>
+    <lastname>Torges</lastname>
+    <email>jgtorges@msn.com</email>
+    <password>gz2oAWJv%2FBwKPIgUHQB3HA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>108.38.34.21</ipaddress>
+    <createdate>2012-03-03 22:22:45</createdate>
+    <lastupdateddate>2012-03-04 13:46:05</lastupdateddate>
+    <lastlogindate>2012-03-04 12:45:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+        <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tunes)</fav>
+    </favourites>
+</user>

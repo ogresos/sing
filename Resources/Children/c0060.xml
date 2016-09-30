@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've got the joy, joy, joy, joy</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;General</category>
+  <creators>
+    <author biodate="1848-1923" biolink="">George Willis Cooke</author>
+    <composer biodate="1848-1923" biolink="">George Willis Cooke</composer>
+  </creators>
+  <hymncode>56717653321</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | C - - - | C - - - | C - - - | G - - - | C - C7 - | F - - - | C - - - | G - - - | C - C7 - | F - - - | C - - - | G - - - | C F/C C - ||</chords>
+  <melody>| 0 - 0/ 5/ 6/ 7/ | ._1 7 6 5 | 3/ 3/( 3/) 2/ 1 - | ._2/ ._2/( ._2/) 7/ 5 - (break) | ._3/ ._3/( ._3/) ._1/ 5/ 5/ 6/ 7/ | ._1 7 6 5 | 3/ 3/( 3/) 2/ 1 - | ._2/ ._2/( ._2/) 7/ 5 ._2 (break) | ._1 - 0/ ._1/ ._1/ ._1/ | ._1 6( 6/) ._1/ ._1/ ._1/ | ._1 5( 5) ._1 | 7./ 7// 7/ 6/ 5/ 5/ 6/ 5/ | 5 - 0/ ._1/ ._1/ ._1/ | ._1 6( 6/) ._1/ ._1/ ._1/ | ._1 5( 5) ._1 | 7./ 7// 7/ 6/ 5/ 5/ 6/ 7/ | ._1 - 0 - ||</melody>
+  <layout>
+    <singingstanza end="-1">I've got the joy, joy, joy, joy Down in my heart, Down in my heart, Down in my heart, I've got the joy, joy, joy, joy Down in my heart, Down in my heart to stay. And I'm so hap -- py, So ver -- y hap -- py; I've got the love of Je -- sus in my heart. And I'm so hap -- py, So ver -- y hap -- py, I've got the love of Je -- sus in my heart.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="37">c0060.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I've got the joy, joy, joy, joy
+Down in my heart,
+Down in my heart,
+Down in my heart,
+I've got the joy, joy, joy, joy
+Down in my heart,
+Down in my heart to stay.</stanza>
+    <stanza type="verse" number="">And I'm so happy,
+So very happy;
+I've got the love of Jesus in my heart.
+And I'm so happy,
+So very happy,
+I've got the love of Jesus in my heart.</stanza>
+  </lyrics>
+</hymn>

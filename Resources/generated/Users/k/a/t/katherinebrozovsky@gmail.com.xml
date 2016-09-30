@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Katherine</firstname>
+  <lastname>Brozovsky</lastname>
+  <email>katherinebrozovsky@gmail.com</email>
+  <password>$2y$10$NBKZYYjJi3k83k5xxq6c5uxsODjPPr2grS4YMm3Kbq1SVStYp3nuW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.70.164.135</ipaddress>
+  <createdate>2015-01-24 00:22:51</createdate>
+  <lastupdateddate>2015-02-07 00:46:58</lastupdateddate>
+  <lastlogindate>2015-02-07 00:45:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="lb" num="40">Lord, how long</fav>
+  </favourites>
+</user>

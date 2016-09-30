@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Angie</firstname>
+    <lastname>Jameson</lastname>
+    <email>angierjameson@gmail.com</email>
+    <password>%2B7g%2B%2FKZTX4cMFMPE7fhIjw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-20 15:11:47</createdate>
+    <lastupdateddate>2014-04-20 15:11:47</lastupdateddate>
+    <lastlogindate>2014-04-20 14:54:55</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="313">Amazing Grace</fav>
+        <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    </favourites>
+</user>

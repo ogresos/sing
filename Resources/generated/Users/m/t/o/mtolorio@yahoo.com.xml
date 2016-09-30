@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>merlyn</firstname>
+    <lastname>tolorio</lastname>
+    <email>mtolorio@yahoo.com</email>
+    <password>$1$negfUKJM$nKUai5brHWzB2muxn0ZNU0</password>
+    <gender>F</gender>
+    <country>Philippines</country>
+    <ipaddress>112.202.74.39</ipaddress>
+    <createdate>2009-07-01 20:00:46</createdate>
+    <lastupdateddate>2011-08-08 18:25:26</lastupdateddate>
+    <lastlogindate>2011-08-08 18:25:26</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="458">Living for Jesus, oh, what peace</fav>
+        <fav category="default" type="h" num="146">Rejoice, the Lord is King</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

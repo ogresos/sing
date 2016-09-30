@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kiley</firstname>
+  <lastname>waldrop</lastname>
+  <email>kiley.waldrop@aol.com</email>
+  <password>$2y$10$XVJuSXEOtopDWs43H4w3LOp4CUkUKK8SDEzmtB7.jyhgUFmzHfWfO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.2.177.30</ipaddress>
+  <createdate>2016-07-18 19:31:20</createdate>
+  <lastupdateddate>2016-08-15 16:55:07</lastupdateddate>
+  <lastlogindate>2016-08-15 16:55:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="1031">Come, every soul by sin oppressed</fav>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+    <fav category="default" type="h" num="5">God, our Father, we adore Thee</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+  </favourites>
+</user>

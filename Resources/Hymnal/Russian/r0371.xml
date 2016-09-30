@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Разве мы крест берём, чтоб только боль сносить</title>
+  <index>true</index>
+  <category>ПУТЬ КРЕСТА&amp;mdash;ЗНАЧЕНИЕ КРЕСТА</category>
+  <numbers><cebuano num="622"/><chinese num="461"/><english num="622"/><german num="622"/><korean num="461"/><portuguese num="319"/><russian num="371"/><spanish num="294"/><tagalog num="622"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 3 | 3. 2/ 2 3 | 4 4 3 2 | 3 - - - (break) | 6 - 6 6 | 6. 5/ 5 4 | 3 3 2 1 | 2 - - - (break) | 1 - 1 2 | 3. 3/ 3 4 | 5 5 4 3 | 6 - - - (break) | 7 - 6 5 | ._1. 1/ 1 2 | 3 3 4 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="622"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Разве мы крест берём, чтоб только боль сносить?
+Нет, если крест несём, мы умереть должны!
+Крест означает, что нас нужно умертвить.
+Переживая крест, распяты будем мы.</stanza>
+	<stanza type="verse" number="2">Освобождает человека Бог крестом.
+Средство суровое свободу нам несёт.
+Если минуем крест – не сможем жить Христом.
+Он будет выражен, когда нам смерть придёт.</stanza>
+	<stanza type="verse" number="3">В том цель креста, чтоб волю Божью воплотить.
+«Я» человеческое – главный Божий враг;
+Но, если наше «я» и душу- жизнь убить,
+Бог, торжествуя, весь Свой план исполнит так.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>HOULTON</firstname>
+  <lastname>fAASAU</lastname>
+  <email>houlton.faasau@mcil.gov.ws</email>
+  <password>$2y$10$LXVdcE3o9By1dJJ8hLcsKetBuZoZIChM072AHaU/ooyj9OuFMfX0q</password>
+  <gender/>
+  <country>ws</country>
+  <ipaddress>202.4.40.74</ipaddress>
+  <createdate>2014-11-11 03:32:32</createdate>
+  <lastupdateddate>2014-11-11 03:43:36</lastupdateddate>
+  <lastlogindate>2014-11-11 03:34:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="8047">Abba, Father, we approach Thee...</fav>
+  </favourites>
+</user>

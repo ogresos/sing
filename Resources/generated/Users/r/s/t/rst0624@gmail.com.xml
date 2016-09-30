@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sean</firstname>
+  <lastname/>
+  <email>rst0624@gmail.com</email>
+  <password>$2y$10$RllzRQ4UHAlZ.xiMB.545OFRr1kTljCBMy9d8J3VpudbjVAnKKqs.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.108.22.91</ipaddress>
+  <createdate>2015-02-28 13:41:02</createdate>
+  <lastupdateddate>2015-02-28 13:48:30</lastupdateddate>
+  <lastlogindate>2015-02-28 13:41:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+  </favourites>
+</user>

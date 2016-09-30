@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname>Fong</lastname>
+  <email>ruthfong.nz@gmail.com</email>
+  <password>$2y$10$/Yqc86CouN7lXzNc70HeSeuvyIqe4sDiAN1sNI/Cb6sAcINMCotYG</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>116.251.156.218</ipaddress>
+  <createdate>2015-03-31 22:43:26</createdate>
+  <lastupdateddate>2015-06-20 23:10:59</lastupdateddate>
+  <lastlogindate>2015-06-20 23:10:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

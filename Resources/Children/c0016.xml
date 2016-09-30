@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For a Child is born to us</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="" fullname="Paula King">P. K.</composer>
+    <composer biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</composer>
+  </creators>
+  <hymncode>5551123551123</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/G - | C - C/G - | C - C/G - | C - C/E - | Dm - G - | C - Am - | C/G - G7 - | C - - - | C - C/G - | C - C/G - | C - C/G - | C - C/E - | Dm - G - | C - Am - | C/G - G7 - | C - - - | C F/C C - | Dm - G - | C - Am - | C/G - G7 - | C F/C C - | Dm - G - | C - Am - | C/G - G7 - | C F/C C - | Dm - G - | C - Am - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - (startrepeat2) 5_./ 5_./ | 5_. 1 1 2 | 3 - - 5_. | 5_. 1 1 2 (break) | 3 - - 3/ 3/ | 4 3 2( 5) | 3 2 1 1 | 5_.( 1)( - 7_.) (break) | 1 - - 1 | 5_. 1 1 2 | 3 - - - | 5_./ 1/ 1 1 2 | 3 - - - (break) | 4 3 2 5 | 3 2 1 1 | 5_.( 1) - 7_. | (alt1) 1 - - 5_./ 5_./ (break) | (alt2) 1 - - (endalt) 0 | 4 3 2( 5) | 3 2 1 - | 5_./ 1/ 1 1 7_. (break) | 1 - - 3 | 4 3 2( 5) | 3 2 1 1 | 5_.( 1)( - 7_.) (break) | 1 - - 3/ 3/ | 4 3 2 5 | 3 2 1 1 | 5_. 1( 1) 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">For a Child is born to us; a Son is giv'n to us; and the gov -- ern -- ment is up -- on His shoul -- der. And His Name will be called: Won -- der -- ful Coun -- se -- lor, Migh -- ty God, E -- ter -- nal Fa -- ther, Prince of Peace. For a  Peace. And His Name will be called: Won -- der -- ful Coun -- se -- lor. The gov -- ern -- ment is up -- on His shoul -- der For a Child is born, a Son is giv'n, I -- sai -- ah nine six.</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2005 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <links>
+    <link type="ref">Matthew 1</link>
+    <link type="ref">Isaiah 9:6</link>
+  </links>
+  <music>
+    <midi location="c" length="95">c0016.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">For a Child is born to us;
+a Son is giv'n to us;
+and the government is upon His shoulder.
+And His Name will be called:
+Wonderful Counselor,
+Mighty God,
+Eternal Father,
+Prince of Peace.
+(repeat)</stanza>
+    <stanza type="verse" number="2">And His Name will be called:
+Wonderful Counselor.</stanza>
+    <stanza type="verse" number="3">The government is upon
+His shoulder</stanza>
+    <stanza type="verse" number="4">For a Child is born, a Son is giv'n,
+Isaiah nine six.</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2005 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>或這樣或那樣</title>
+  <index>true</index>
+  <category>試煉中的安慰－主的豫備</category>
+  <numbers><chinese num="513"/><english num="705"/><korean num="513"/></numbers>
+  <creators>
+	<author biodate="1806-1874" biolink="">Translated from Martha Walker Cook</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 1 2 | 3 3 2 | 3 3 4 | 5 - 5 | 6 6 6 | 6 5 3 | 5 5 5 | 5 4 2 | 3 4 5 | 6 5 1/( 2/) | 3 3 2 (break) | 1 - (Chorus) 1/( 3/) | 5 5 5 | 5 - 3 | 4 4 4 (break) | 2 - 2 | 3 2 1 | (.5 - 1/( 2/) | 3 3/( 2/) 1/( 7_./) | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>或 這 樣， 或 那 樣， 主 總 必 豫 備： 雖 不 照 我 方 法， 也 不 照 你 方 法， 主 要 照 祂 方 法， 為 我 們 豫 備。 我 安 心 靠 主， 因 主 必 豫 備； 我 完 全 望 主， 因 主 要 豫 備。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="705"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">或這樣，或那樣，
+主總必豫備：
+雖不照我方法，
+也不照你方法，
+主要照祂方法，
+為我們豫備。</stanza>
+	<stanza type="chorus" number="">我安心靠主，
+因主必豫備；
+我完全望主，
+因主要豫備。</stanza>
+	<stanza type="verse" number="2">或這時，或那時，
+主總必豫備：
+雖不照我時候，
+也不照你時候，
+在主所定時候，
+主總必豫備。</stanza>
+	<stanza type="verse" number="3">所以不要懷疑，
+因主必豫備：
+我主所有應許，
+那裡曾有一句
+變作烏有空虛？
+主總必豫備。</stanza>
+	<stanza type="verse" number="4">因此，應當進前，
+進前不疲憊；
+海水必定分開，
+嗎哪要從天來，
+仇敵都要失敗，
+主總必豫備。</stanza>
+  </lyrics>
+</hymn>

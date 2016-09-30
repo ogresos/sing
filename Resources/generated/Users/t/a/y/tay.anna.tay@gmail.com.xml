@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anna</firstname>
+  <lastname>Tay</lastname>
+  <email>tay.anna.tay@gmail.com</email>
+  <password>$2y$10$Bj6z7QZfc0mU.fqTpo7soOsA7k/1kdPNtsbEWnZ8.b.9InxkazQNy</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>203.106.151.224</ipaddress>
+  <createdate>2014-10-14 00:01:07</createdate>
+  <lastupdateddate>2014-10-14 00:20:09</lastupdateddate>
+  <lastlogindate>2014-10-14 00:20:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

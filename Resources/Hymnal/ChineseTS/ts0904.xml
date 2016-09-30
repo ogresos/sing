@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們的主快再來</title>
+  <index>true</index>
+  <category>盼望與豫備</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>31513122</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>醒 罷， 弟 兄！ 醒 罷， 姊 妹！ 黑 夜 已 深， 白 晝 現 正 臨 近。 我 們 的 主 快 再 來， 快 再 來， 快 再 來。 我 們 的 主 快 再 來， 掌 權 直 到 萬 代。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0904.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">醒罷，弟兄！
+醒罷，姊妹！
+黑夜已深，
+白晝現正臨近。
+我們的主快再來，
+快再來，快再來。
+我們的主快再來，
+掌權直到萬代。</stanza>
+	<stanza type="verse" number="2">時候不多！不可懶惰！
+在祂面前必須多花時間，
+我們就必充滿主，
+充滿主，充滿主，
+我們就必充滿主，
+並要將主溢出。</stanza>
+	<stanza type="verse" number="3">應當喜樂！憑信唱歌！
+任何試煉，
+只要住主裡面！
+我們快樂往前走，
+往前走，往前走；
+無論夜是多麼暗，
+有主就可安然。</stanza>
+	<stanza type="verse" number="4">站穩，弟兄！
+站穩，姊妹！
+爭戰快停，
+靈裡剛強前行，
+一直等到主再來，
+主再來，主再來。
+一直等到主再來，
+同作王到萬代。</stanza>
+  </lyrics>
+</hymn>

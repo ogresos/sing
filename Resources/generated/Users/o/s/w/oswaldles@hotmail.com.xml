@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Lester</firstname>
+<lastname>Oswald</lastname>
+<email>oswaldles@hotmail.com</email>
+<password>$1$ixTO17DX$Ln8UIv.PuCNX420RU1tx60</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>128.152.20.33</ipaddress>
+<createdate>2008-07-26 01:43:15</createdate>
+<lastupdateddate>2009-09-15 18:22:17</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1198">A mighty flowing-out is God</fav>
+        <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    </favourites>
+</user>

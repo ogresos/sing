@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>So süß der Name Jesus ist</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Name</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from W. C. Martin</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <layout>
+	<singingstanza>So süß der Na -- me Je -- sus ist, Und wie Mu -- sik aus mir reich fließt; Mein Herz sich freut, ihn nie ver -- gisst, Kost -- ba -- rer Na -- me Je -- sus. Je -- sus! Süß Dein Na -- me ist, Je -- sus! Im -- mer lieb -- lich bist; Je -- sus! Dich mein Herz ge -- nießt Und singt Dir Lob für e -- wig.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">So süß der Name Jesus ist,
+    Und wie Musik aus mir reich fließt;
+Mein Herz sich freut, ihn nie vergisst,
+    Kostbarer Name Jesus.</stanza>
+	<stanza type="chorus" number="">Jesus! Süß Dein Name ist,
+Jesus! Immer lieblich bist;
+Jesus! Dich mein Herz genießt
+Und singt Dir Lob für ewig.</stanza>
+	<stanza type="verse" number="2">Das Herz von Jesus ist so weit,
+    Kennt meinen Gram, mich trägt allzeit;
+Von allen Ängsten mich befreit,
+    Ich lieb den Namen Jesus.</stanza>
+	<stanza type="verse" number="3">Den Namen höre ich so gern,
+    Mein Herz sich freut, möcht Ihn verehrn,
+Er trocknet Tränen nah und fern;
+    Erhöht den Namen Jesus!</stanza>
+	<stanza type="verse" number="4">Kann nicht genug beschreiben Dich,
+    So süß Dein Name ist für mich,
+Lobpreis erklinge ewiglich,
+    Oh, preist den Namen Jesus.</stanza>
+  </lyrics>
+</hymn>

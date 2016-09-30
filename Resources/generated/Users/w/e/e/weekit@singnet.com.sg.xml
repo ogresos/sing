@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Woon Wee</firstname>
+    <lastname>Kit</lastname>
+    <email>weekit@singnet.com.sg</email>
+    <password>qBis0dHYzkDs8WbeqwB41Q%3D%3D</password>
+    <gender></gender>
+    <country>Singapore</country>
+    <ipaddress>220.255.2.98</ipaddress>
+    <createdate>2013-08-18 19:29:20</createdate>
+    <lastupdateddate>2013-09-08 09:56:31</lastupdateddate>
+    <lastlogindate>2013-08-18 19:29:20</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="398">O to be like Thee</fav>
+        <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    </favourites>
+</user>

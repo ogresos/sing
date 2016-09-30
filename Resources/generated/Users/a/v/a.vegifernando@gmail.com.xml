@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>A. vegi</firstname>
+  <lastname>Fernando</lastname>
+  <email>a.vegifernando@gmail.com</email>
+  <password>$2y$10$jxhKzPeVlY8sSJn5Kz10f.P9LzUMTUDmh9vt4FT5ZLHBOdteP/xyu</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>220.225.28.131</ipaddress>
+  <createdate>2015-08-25 08:06:54</createdate>
+  <lastupdateddate>2016-03-30 17:14:28</lastupdateddate>
+  <lastlogindate>2016-03-30 17:14:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="172">I cannot breathe enough of Thee</fav>
+  </favourites>
+</user>

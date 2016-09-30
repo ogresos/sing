@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gipangita N'ya akong</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PANGHIMATUOD</category>
+  <numbers><cebuano num="1068"/><chinese num="737"/><english num="1068"/><french num="206"/><german num="1068"/><korean num="737"/><portuguese num="466"/><russian num="180"/><spanish num="489"/><tagalog num="1068"/></numbers>
+  <creators>
+	<author biodate="1850-1906" biolink="">Translated from William Spencer Walton</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 5_. 1/ 1 2/ | 1. 7_. 1/ | 2 1#/ 2 3/ (break) | 1.( 1) 5_./ | 5_. 3/ 3 4/ | 3. 2 2/ | 2 7_./ 1 6_./ (break) | 5_..( 5_.) 5_./ | 4 4/ 3 3/ | 2 2/ 1 1/ | 6_. 6_./ 2 1/ | 7_.. 6_.. | 5_..( (.5_..) (break) | (Chorus) 5_. 1/ 1 2/ | 1. 7_.. | 5_. 2/ 2 3/ | 2. 1. (break) | 3 4/ 5 3/ | 4 2/ 3 1/ | 2.( 2.) | 3 5/ 4 2/ | 1 1/ 7_. 2/ | 1.( 1) 0/ |</melody>
+  <music>
+	<midiref type="h" num="1068"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gipangita N'ya akong
+Gikapoy na's sala,
+Ug gipas-an's abaga
+Balik sa panon N'ya;
+Manulonda sige'g awit,
+Sa presensya N'ya sa langit.</stanza>
+	<stanza type="chorus" number="">O gugmang nangita,
+O dugong naglukat;
+O grasyang nagpauli's panon,
+Nagpauli nako sa panon!</stanza>
+	<stanza type="verse" number="2">Gibuboang samad ko
+Sa lana ug bino;
+Nagpasalig S'ya nako,
+"Ikaw Akoa na."
+Way tingog nga matam-is pa,
+Nga kanako nakalipay!</stanza>
+	<stanza type="verse" number="3">Gilansang nga kamot N'ya,
+Dugo nga giula,
+Tunokon nga korona,
+Tanan alang nako.
+Unsa kahay nakita N'ya
+Kanako, nag-antus man S'ya?</stanza>
+	<stanza type="verse" number="4">Naglingkod's presensya N'ya,
+Gihayagan's nawong,
+Samtang akong gihandom
+Ang panalangin N'ya.
+Morag mubong eternidad
+Alang sa pagdayeg Niya.</stanza>
+	<stanza type="verse" number="5">Busa's taknang nanglabay,
+Hingpit ang pahulay;
+Naghulat's kabuntagon
+Nga labing matahum,
+Kon tawgon na kita Niya
+Ma-asawa N'yang way mansa.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kung kapayapaa'y ilog na akbay</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;PANGKALAHATAN</category>
+  <numbers><cebuano num="341"/><chinese num="268"/><dutch num="63"/><english num="341"/><french num="66"/><german num="341"/><korean num="268"/><portuguese num="183"/><tagalog num="341"/></numbers>
+  <creators>
+	<author biodate="1828-1888" biolink="www.hymns.net/stories/spafford.htm">Translated from Horatio Gates Spafford</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 - 4 3 | 3 - 2 3 | 4( 6) 5 4 | 3 - - 5 | ._1 - 7 6 | 6 - 5 4# | 5 - - 5 (break) | ._1 - ._1 7 | 6 - 6 6 | ._2 - ._2 ._1 | 7 - 6 5 | ._1 - ._1 ._1 | ._1 - 7. ._1/ (break) | (.._1 - (Chorus) 5 5 | 5( - - - | 5) - 5 5 | 5( - - - | 5) - 3 5 (break) | 6 - 6 ._1 | ._1 - 7. ._1/ | ._1( - - - | ._1) - - 0 |</melody>
+  <music>
+	<midiref type="h" num="341"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kung kapayapaa'y ilog na akbay,
+Kung bumagyo man ang lumbay;
+Ang itinuro Mo'y aking sinaysay,
+Kaluluwa ko'y matiwasay.</stanza>
+	<stanza type="chorus" number="">Kalulwa'y mahusay,
+Kaluluwa ko'y matiwasay.</stanza>
+	<stanza type="verse" number="2">Mayro'n mang tukso at mga pagsubok,
+Pagtitiwala ko'y lubos,
+Kaluluwa ko'y laging kinukupkop,
+Ang dugo Niya'y sa krus nabuhos.</stanza>
+	<stanza type="chorus" number="">Kalulwa'y mahusay,
+Kaluluwa ko'y matiwasay.</stanza>
+	<stanza type="verse" number="3">Mga kasalana't lisyang gawain,
+Wala nang lahat sa akin,
+Napako si Hesus, Kanyang inangkin,
+Kaluluwa ko, Siya'y purihin.</stanza>
+	<stanza type="chorus" number="">Kalulwa'y mahusay,
+Kaluluwa ko'y matiwasay.</stanza>
+	<stanza type="verse" number="4">Sa ganang akin, si Kristo ang ibuhay;
+Maging madilim ang daan,
+Panatag sa kamatayan o buhay,
+Kalulwa'y may kapayapaan.</stanza>
+	<stanza type="chorus" number="">Kalulwa'y mahusay,
+Kaluluwa ko'y matiwasay.</stanza>
+  </lyrics>
+</hymn>

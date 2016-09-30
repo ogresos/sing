@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What can wash away my sin?</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Blood</category>
+  <numbers><english num="nt:1008"/><vsb num="4"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Robert Lowry</author>
+  </creators>
+  <hymncode>12333215123332132</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3. 3/ 3/( 2/) 1 | 5_. - - 1/ 2/ | 3. 3/ 3/( 2/) 1 (break) | 3 - 2 2/ 3/ | 4. 4/ 4/( 3/) 2 | 5_. - - 2/ 3/ | 4. 4/ 4/( 3/) 2 (break) | 2 - 1 (Chorus) 3/( 4/) | 5. 5/ 5/( 4/) 3 | 5 - - 3/( 4/) | 5. 5/ 5/( 4/) 3 | 4( 3/ 1/)( 1) - (break) | 6/( 5/)( 5/) 4/( 4) 3 | 2/ 3/( 3/) 5_./( 5_.) - | 6_./ 1/( 1) - - | 4 3/ 2/( 2/)( 1/) 7_. | 2.( 1/) 1( - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>What can wash a -- way my sin? Noth -- ing but the blood of Je -- sus; What can make me whole a -- gain? Noth -- ing but the blood of Je -- sus. Oh! pre -- cious is the flow That makes me white as snow; No oth -- er fount I know, Noth -- ing but the blood of Je -- sus.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="1008"></link>
+  </links>
+  <music>
+    <midi location="nt" length="38">e1008_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What can wash away my sin?
+Nothing but the blood of Jesus;
+What can make me whole again?
+Nothing but the blood of Jesus.</stanza>
+    <stanza type="chorus" number="">Oh! precious is the flow
+That makes me white as snow;
+No other fount I know,
+  Nothing but the blood of Jesus.</stanza>
+    <stanza type="verse" number="2">For my cleansing this I see&amp;mdash;
+Nothing but the blood of Jesus!
+For my pardon this my plea&amp;mdash;
+Nothing but the blood of Jesus!</stanza>
+    <stanza type="verse" number="3">Nothing can my sin erase
+Nothing but the blood of Jesus!
+Naught of works, 'tis all of grace&amp;mdash;
+Nothing but the blood of Jesus!</stanza>
+    <stanza type="verse" number="4">This is all my hope and peace&amp;mdash;
+Nothing but the blood of Jesus!
+This is all my righteousness&amp;mdash;
+Nothing but the blood of Jesus!</stanza>
+  </lyrics>
+</hymn>

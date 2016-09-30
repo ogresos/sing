@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Wenzhe</firstname>
+    <lastname>YE</lastname>
+    <email>clyderay@msn.com</email>
+    <password>$1$MCD5IwTn$Y3Uf6nccYoPNf.yVxq3Ra/</password>
+    <gender>M</gender>
+    <country>New Zealand</country>
+    <ipaddress>118.90.39.138</ipaddress>
+    <createdate>2008-08-25 17:35:51</createdate>
+    <lastupdateddate>2011-09-27 04:43:22</lastupdateddate>
+    <lastlogindate>2011-09-27 04:43:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="63">Christ is God incarnated</fav>
+        <fav category="default" type="h" num="52">Father, to Thee a joyful song we raise</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="h" num="482">I am crucified with Christ</fav>
+        <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+        <fav category="default" type="h" num="1164">Jesus, the all-inclusive land</fav>
+        <fav category="default" type="h" num="132">Lo! in heaven Jesus sitting</fav>
+        <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="ns" num="186">Now the Lord is the Spirit&amp;mdash;that's how</fav>
+        <fav category="default" type="h" num="1010">O now I see the cleansing wave</fav>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="ns" num="143">To You, dear Lord</fav>
+    </favourites>
+</user>

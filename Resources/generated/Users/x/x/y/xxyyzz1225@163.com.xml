@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>River25</firstname>
+  <lastname/>
+  <email>xxyyzz1225@163.com</email>
+  <password>$2y$10$pT1EZKBOvTxDNOGw2Igxo..dQvUWioyeHe1JKOeJ1o6s0z42q.Kqy</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>139.216.1.218</ipaddress>
+  <createdate>2015-08-10 12:33:11</createdate>
+  <lastupdateddate>2015-08-10 12:54:43</lastupdateddate>
+  <lastlogindate>2015-08-10 12:36:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1">Glory be to God the Father</fav>
+    <fav category="default" type="h" num="12">O God, Thou art the source of life</fav>
+    <fav category="default" type="h" num="501">O glorious Christ, Savior mine</fav>
+    <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+  </favourites>
+</user>

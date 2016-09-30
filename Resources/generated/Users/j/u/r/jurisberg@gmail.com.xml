@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Juris</firstname>
+  <lastname>Bergs</lastname>
+  <email>jurisberg@gmail.com</email>
+  <password>$2y$10$p0YiJ2z3TyAY6lJ.0lneYek1PlEm/4oAPAEQZZ5ESmkhokFMXPwxq</password>
+  <gender/>
+  <country>lv</country>
+  <ipaddress>104.33.12.152</ipaddress>
+  <createdate>2016-01-23 02:22:09</createdate>
+  <lastupdateddate>2016-02-06 04:47:03</lastupdateddate>
+  <lastlogindate>2016-01-23 03:07:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="711">I know not what awaits me</fav>
+  </favourites>
+</user>

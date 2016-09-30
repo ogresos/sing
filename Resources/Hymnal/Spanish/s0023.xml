@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Padre, antes que la tierra</title>
+  <index>true</index>
+  <category>Adoración al Padre&amp;mdash;Su elección</category>
+  <numbers><english num="34"/><french num="6"/><german num="34"/><portuguese num="25"/><russian num="14"/><spanish num="23"/><tagalog num="34"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Padre, antes que la tierra
+Tú nos viste con amor;
+Y͜ a Jesús nos ha͜ acercado,
+Su poder constreñidor,
+Y nos guarda, y nos guarda,
+Hoy y por siempre jamás,
+Hoy y por siempre jamás.</stanza>
+	<stanza type="verse" number="2">Ese͜ amor que nos envuelve,
+Nos otorga su caudal;
+Y su fuerza nos mantiene
+En reposo celestial.
+Dios y Padre, Dios y Padre,
+Fluye͜ a Ti la͜ adoración,
+Fluye͜ a Ti la͜ adoración.</stanza>
+	<stanza type="verse" number="3">¡Dios de͜ amor nuestra͜ alma͜ adora!
+Pues Tu gracia se verá,
+Hasta darte las coronas
+Y Tu nombre en͜ gloria͜ honrar.
+¡Alabanzas, alabanzas!
+¡A Dios y͜ al Cordero dad!
+¡A Dios y͜ al Cordero dad!</stanza>
+  </lyrics>
+</hymn>

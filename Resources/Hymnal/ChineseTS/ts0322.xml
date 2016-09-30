@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我今是單純敞開我心</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>553432135561723432</hymncode>
+  <key>G Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 今 是 單 純 敞 開 我 心， 主 耶 穌 來 進 入， 我 今 是 單 純 敞 開 我 心， 主 耶 穌 來 進 入。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0322.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我今是單純敞開我心，
+主耶穌來進入，
+我今是單純敞開我心，
+主耶穌來進入。</stanza>
+	<stanza type="verse" number="2">我只望單單純純愛你，
+求你住我心內。
+我只望單單純純愛你，
+求你住我心內。</stanza>
+	<stanza type="verse" number="3">主你是活活潑潑人位，
+時刻活在我裡。
+主你是活活潑潑人位，
+時刻活在我裡。</stanza>
+	<stanza type="verse" number="4">現在我在靈中享受你，
+藉你生命而活。
+現在我在靈中享受你，
+藉你生命而活。</stanza>
+	<stanza type="verse" number="5">安息的『阿們』你，
+主耶穌，你佔有我全人。
+安息的『阿們』你，
+主耶穌，你佔有我全人。</stanza>
+  </lyrics>
+</hymn>

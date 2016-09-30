@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>sharon a</firstname>
+    <lastname>lefebvre</lastname>
+    <email>godman@snet.net</email>
+    <password>UhnpYodJmgvwnXVcJp3Jeg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>68.191.56.249</ipaddress>
+    <createdate>2012-10-22 10:55:51</createdate>
+    <lastupdateddate>2013-10-10 07:08:49</lastupdateddate>
+    <lastlogindate>2013-10-10 07:08:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="68">By listening I can obey</fav>
+        <fav category="default" type="c" num="70">Friends</fav>
+        <fav category="default" type="c" num="37">Heaven's for earth</fav>
+        <fav category="default" type="c" num="64">In everything we do and say</fav>
+        <fav category="default" type="c" num="69">Listen, listen your conscience speaks to you</fav>
+        <fav category="default" type="c" num="73">Open up to your parents</fav>
+        <fav category="default" type="c" num="63">The fish need water</fav>
+        <fav category="default" type="c" num="72">Where are your shoes?</fav>
+    </favourites>
+</user>

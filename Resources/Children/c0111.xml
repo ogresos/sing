@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For I am fearfully and wonderfully made</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <hymncode>554333333234</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | Dm - G7 - | C - G7 - | C - C7 - | F - Fm - | C/G - G - | C F/C C - |</chords>
+  <melody>| 0 - 0./ 5// 5./ 4// | 3./ 3// 3./ 3// 3./ 3// 2./ 3// (break) | 4 - 0./ 4// 4./ 3// | 2./ 2// 2./ 2// 5./ 5// 6./ 5// (break) | 3 - 0./ 5// 5./ 4// | 3 3 3./ 3// 2./ 3// (break) | 4 4 4./ 5// 5./ 4// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>For I am fear -- ful -- ly and won -- der -- ful -- ly made. For I am fear -- ful -- ly and won -- der -- ful -- ly made. God made me spe -- cial -- ly; yes, ver -- y care -- ful -- ly, For I am fear -- ful -- ly and won -- der -- ful -- ly made! When God made the fish, He said and it was so. When God made the birds, He said and it was so. But when it came to mak -- ing man, He formed him with His hands, For I am fear -- ful -- ly and won -- der -- ful -- ly made!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-p.xml</link>
+    <link type="ref">Psalms 139:14</link>
+  </links>
+  <music>
+    <midi location="c" length="19">c0111.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">For I am fearfully and wonderfully made.
+For I am fearfully and wonderfully made.
+God made me specially; yes, very carefully,
+For I am fearfully and wonderfully made!</stanza>
+    <stanza type="verse" number="2">When God made the fish, He said and it was so.
+When God made the birds, He said and it was so.
+But when it came to making man,
+He formed him with His hands,
+For I am fearfully and wonderfully made!</stanza>
+  </lyrics>
+</hymn>

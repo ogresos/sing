@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌我救主作神羔</title>
+  <index>true</index>
+  <category>福音－寶血</category>
+  <numbers><chinese num="685"/><english num="1005"/><korean num="685"/><spanish num="468"/><tagalog num="1005"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from John G. Foote</author>
+  </creators>
+  <melody>| 5 5./ 6// 5 3 | 6 6./ ._1// 5 - | 5 4./ 5// 4 2 | 6 5./ 4// 3 - (break) | 5 5./ 6// 5 3 | 6 6./ 7// ._1 - | ._1 7./ 6// 5 5 (break) | 6 7./ 7// (.._1 (Chorus) 3/( 4/) | 5 - - 6./ 5// | ._1 - - 5/( ._1/) | 7 - - 6./ 5// (break) | 5 - - 3/( 4/) | 5 - - ._1./ 5// | 6 - - 7/ ._1/ | 5 ._1/ ._1/ 7 6/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>耶 穌 我 救 主 作 神 羔 羊， 為 罪 人 受 死， 罪 債 清 償； 將 祂 的 寶 血 灑 你 身 上， 神 必 越 過 你， 你 免 滅 亡。 我 一 見 這 血， 我 一 見 這 血， 我 一 見 這 血， 我 就 必 越 過 你， 不 毀 滅！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1005"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌我救主作神羔羊，
+為罪人受死，罪債清償；
+將祂的寶血灑你身上，
+神必越過你，你免滅亡。</stanza>
+	<stanza type="chorus" number="">我一見這血，
+我一見這血，
+我一見這血，
+我就必越過你，不毀滅！</stanza>
+	<stanza type="verse" number="2">罪中的罪魁，耶穌肯救，
+凡祂所應許，祂必成就，
+在祂這血下，雖有愆尤，
+神必越過你，你得寬宥。</stanza>
+	<stanza type="verse" number="3">審判要來到，無人免除；
+在神公義前，誰能立足？
+惟有讓祂血將你掩護，
+神必越過你，你免對簿。</stanza>
+	<stanza type="verse" number="4">哦，憐憫何大！哦，愛無邊！
+哦，神聖恩典，豐盛、甘甜！
+在血蔭蔽下享受平安，
+神必越過你，你要頌讚！</stanza>
+	<stanza type="chorus" number="">奇妙羔羊血，
+榮耀羔羊血，
+寶貴羔羊血，
+神一見羔羊血便逾越。</stanza>
+  </lyrics>
+</hymn>

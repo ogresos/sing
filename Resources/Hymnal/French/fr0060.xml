@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'Esprit vivifie</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;changés dans la vie</category>
+  <numbers><chinese num="242"/><english num="1357"/><french num="60"/><portuguese num="171"/><russian num="213"/><spanish num="163"/><tagalog num="1357"/></numbers>
+  <music>
+    <midiref type="h" num="1357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">La joie me remplit,
+Mon Seigneur m'a ravi.
+La joie me remplit,
+Dieu change mon cœur en un cœur de chair.
+En nouveauté d'esprit, dès lors, je Le sers.
+La joie me remplit,
+Mon Seigneur m'a ravi.</stanza>
+    <stanza type="verse" number="2">L'Esprit vivifie,
+Fortifie, rafraîchit.
+L'Esprit m'affranchit :
+Du corps du péché Il m'a libéré.
+Les fruits de justice sont manifestés.
+L'Esprit vivifie,
+Fortifie, rafraîchit.</stanza>
+  </lyrics>
+</hymn>

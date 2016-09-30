@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Prince</lastname>
+  <email>johnprince73@gmail.com</email>
+  <password>$2y$10$p1E6tqkVc9GIKoej8pKRY.xUtAe2p0F7UdCjaS/vnOXRrtqEbnQXO</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>112.79.36.114</ipaddress>
+  <createdate>2014-12-07 03:47:59</createdate>
+  <lastupdateddate>2014-12-07 03:52:31</lastupdateddate>
+  <lastlogindate>2014-12-07 03:52:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Vincent</firstname>
+<lastname>Brooks</lastname>
+<email>vlbrooks@gmail.com</email>
+<password>$1$Dbkh3mSI$xdPvmO3AIi8RRZ3ET.WCD/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.200.78.108</ipaddress>
+<createdate>2008-08-16 15:26:53</createdate>
+<lastupdateddate>2009-09-15 18:25:37</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="422">Make me a captive, Lord</fav>
+    </favourites>
+</user>

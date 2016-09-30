@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Terrie</firstname>
+  <lastname>Scott</lastname>
+  <email>terrieeeeee@sbcglobal.net</email>
+  <password>$2y$10$aAlPJdFJ6V5wSDf0c4z23eIrmED9/VSoBDO6cuauu2ecwaarPbJXq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.121.37.181</ipaddress>
+  <createdate>2015-06-07 12:17:45</createdate>
+  <lastupdateddate>2015-06-07 12:47:53</lastupdateddate>
+  <lastlogindate>2015-06-07 12:34:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

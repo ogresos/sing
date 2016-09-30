@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Make me wholly Thine</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><english num="ns:36"/><vsb num="199"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Rebekah Washington">R. W.</author>
+    <composer biodate="" biolink="" fullname="Rebekah Washington">R. W.</composer>
+  </creators>
+  <hymncode>15125443445342</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | G/B - - - | F/A - - - | C/G - G - | C - - - | G/B - - - | F/A - - - | C/G - G - | Am - - - | G/B - - - | F - - - | C/G - G - | Am - - - | G/B - - - | F/A - - - | C/G - G - | Am - - - | Em - - - | F - - - | C - - - |</chords>
+  <melody>| 1. 5_./( 5_.) 1 | 2. 5/( 5) - | 0/ 4/ 4/ 3/ 4 4/ 5/ | 3. 4/ 2 - (break) | 1. 5_./( 5_.) 1 | 2. 5/( 5) - | 0/ 4/ 4/ 3/ 4. 5/ | 3. 5/ (.5 (Chorus) 5 (break) | ._1 - - 7/ ._1/ | ._2 - - ._1 | 4. ._1/( ._1) 4 | 3. 4/ 2 - (break) | ._1 - - 7/ ._1/ | ._2 - - ._1 | 4. ._1/( ._1) 4 | 3. 4/ 2 - (break) | 1. 5/( 5) - | 7_.. 2/( 2) - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Some -- times it seems that I have no room in my heart for You. But then You touch me And sof -- ten me to turn to You. Re -- co -- ver my heart, Re -- kin -- dle my love for You. Fill me with love E -- ter -- nal -- ly, ev -- er new. Make me whol -- ly Thine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="sBeQOA4CKAg"/>
+  </videos>
+  <music>
+    <midi location="ns" length="45">ns0036.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sometimes it seems that
+I have no room in my heart for You.
+But then You touch me
+And soften me to turn to You.</stanza>
+    <stanza type="chorus" number="">Recover my heart,
+Rekindle my love for You.
+Fill me with love
+Eternally, ever new.
+Make me wholly Thine.</stanza>
+    <stanza type="verse" number="2">Lord, I long to
+Empty myself of all but You;
+Give You my best love,
+Preeminence in all I do.</stanza>
+    <stanza type="verse" number="3">I want to love You
+With all my heart and all my soul.
+I want no other,
+I give myself to be Yours alone.</stanza>
+  </lyrics>
+</hymn>

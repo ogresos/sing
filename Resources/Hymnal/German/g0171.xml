@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Herr Jesus, warm wird uns ums Herz</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Schönheit</category>
+  <numbers><cebuano num="171"/><chinese num="141"/><english num="171"/><german num="171"/><korean num="141"/><portuguese num="86"/><russian num="35"/><spanish num="81"/><tagalog num="171"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 0 ._3/ | ._3 ._3/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 3/ 6/( 5/) 3/ (break) | 2.( 2) 5/ | 5 5/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 ._1/ ._3 ._2/ (break) | ._1.( ._1) (Chorus) ._2/ | ._2/ ._2/ ._2/ ._2/ ._3/ ._4/ | ._3. ._1 ._3/ | ._2/ ._2/ ._2/ ._2/( ._1/) 6/ (break) | 5.( 5) 5/ | 5 5/ ._1 ._3/ | ._2 ._1/ 6/( ._1/) 6/ | 5 ._1/ ._3 ._2/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>Herr Je -- sus, warm wird uns ums Herz, Beim Sin -- nen ü -- ber Dich; Wir seh -- nen uns ent -- rückt zu sein Zu Dir hin e -- wig -- lich. Herr, so wie die herr -- li -- che Hen -- na, Im Wein -- berg be -- ginnt zu blühn; Voll -- kom -- men Dei -- ne Schön -- heit ist, Lässt je -- des Herz er -- glühn.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="171"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Herr Jesus, warm wird uns ums Herz,
+    Beim Sinnen über Dich;
+Wir sehnen uns entrückt zu sein
+    Zu Dir hin ewiglich.</stanza>
+	<stanza type="chorus" number="">Herr, so wie die herrliche Henna,
+    Im Weinberg beginnt zu blühn;
+Vollkommen Deine Schönheit ist,
+    Lässt jedes Herz erglühn.</stanza>
+	<stanza type="verse" number="2">Es gibt kein angemessnes Lied,
+    Das Deine Gnade preist,
+Kein Herz vollauf erfassen kann,
+    Welch Liebe Du erweist.</stanza>
+	<stanza type="verse" number="3">Doch, was am meisten uns erfreut,
+    Nicht Deine Liebe ist;
+Denn was uns ganz zufrieden stellt,
+    Du, liebster Herr, Selbst bist.</stanza>
+	<stanza type="verse" number="4">Ja, Deine süße Lieblichkeit
+    Für ewig bleibt bestehn;
+Im Himmel und auf Erden gibt’s
+    Nichts Schöneres zu sehn.</stanza>
+  </lyrics>
+</hymn>

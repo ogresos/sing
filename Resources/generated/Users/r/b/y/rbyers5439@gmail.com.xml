@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rosalie</firstname>
+  <lastname>Byers</lastname>
+  <email>rbyers5439@gmail.com</email>
+  <password>$2y$10$bepj1LQnhrJKj1zOzIBScuRj/VWkFdKt/JNX704nNAxA6fFXXwkvK</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>24.224.132.199</ipaddress>
+  <createdate>2014-12-04 21:48:17</createdate>
+  <lastupdateddate>2014-12-04 21:51:37</lastupdateddate>
+  <lastlogindate>2014-12-04 21:50:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="720">God hath not promised skies always blue</fav>
+  </favourites>
+</user>

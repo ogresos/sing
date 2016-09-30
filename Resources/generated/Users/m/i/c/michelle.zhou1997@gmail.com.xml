@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michelle</firstname>
+  <lastname/>
+  <email>michelle.zhou1997@gmail.com</email>
+  <password>$2y$10$ohS79steaDHgSBC98aghYOb9bPDd6tIjjlTXKuBuZlDyQ/qj/Iq5S</password>
+  <gender/>
+  <country/>
+  <ipaddress>68.193.6.159</ipaddress>
+  <createdate>2015-08-26 14:13:39</createdate>
+  <lastupdateddate>2016-08-07 15:05:20</lastupdateddate>
+  <lastlogindate>2016-08-07 15:05:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="530">Above the Waste and Emptiness</fav>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+    <fav category="default" type="h" num="206">O Christ, He is the fountain</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="ns" num="230">Simply loving everyday</fav>
+  </favourites>
+</user>

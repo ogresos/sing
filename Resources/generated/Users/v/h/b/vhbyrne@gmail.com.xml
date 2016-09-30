@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Victoria</firstname>
+  <lastname>Byrne</lastname>
+  <email>vhbyrne@gmail.com</email>
+  <password>$2y$10$D.6.Jthugu.nBQ3ZrMIQa.SODSaICYvT30LqSO142VCkBsBLn8mX2</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>78.146.51.102</ipaddress>
+  <createdate>2015-03-22 14:24:33</createdate>
+  <lastupdateddate>2015-03-22 14:48:42</lastupdateddate>
+  <lastlogindate>2015-03-22 14:29:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="672">Not what I am, O Lord, but what Thou art</fav>
+    <fav category="default" type="h" num="1210">Through God's word, my hope at His returning</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

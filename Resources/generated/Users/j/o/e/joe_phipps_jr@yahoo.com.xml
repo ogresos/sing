@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Joe</firstname>
+    <lastname>Phipps</lastname>
+    <email>joe_phipps_jr@yahoo.com</email>
+    <password>mXyjohjmtia%2Fq0J9YsSVdg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>174.252.80.113</ipaddress>
+    <createdate>2011-01-02 20:56:59</createdate>
+    <lastupdateddate>2011-01-02 21:17:15</lastupdateddate>
+    <lastlogindate>2011-01-02 20:57:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="930">Must I go, and empty-handed</fav>
+    </favourites>
+</user>

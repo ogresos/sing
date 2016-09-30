@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Love covers all things and believes all things</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="James Strieter">J. S.</composer>
+  </creators>
+  <hymncode>11233335632</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Dm - - - | F - - - | G - D7 - | G - - - | F - - - | G7 - - - | F/C - - - | C - - - |</chords>
+  <melody>| ._1 - ._1 ._2/ ._3/( | ._3) ._3 ._3 5/ 6/( | 6) - - ._3 | ._2 - - - | ._1 - ._1 ._2/ ._3/( | ._3) ._3 ._3 5/ 6/( | 6) - - ._3 | ._2 - - - | 0 ._4 ._4 ._3 | ._2 ._2/ ._2/( ._2) ._1 | 7 7 7 6 | 6 5 - - | 0 6 ._1 ._4 | ._3 ._2 6 7/ ._1/( | ._1)( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Love cov -- ers all things and be -- lieves all things, Love hopes in all things and en -- dures all things. Love nev -- er falls a -- way and won't be ren -- dered use -- less. But oth -- er things will pass a -- way.</singingstanza>
+  </layout>
+  <date>2000</date>
+  <links>
+    <link type="ref">1 Corinthians 13:1-8</link>
+  </links>
+  <music>
+    <midi location="ns" length="32">ns0011.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Love covers all things and believes all things,
+Love hopes in all things and endures all things.
+Love never falls away and won't be rendered useless.
+But other things will pass away.</stanza>
+    <stanza type="verse" number="2">Life is the element of God, who's love;
+Hence God as life is shown by love, through you.
+Don't neglect love, but pursue it first;
+Love makes a person spiritual.</stanza>
+    <stanza type="verse" number="3">Love suffers long and love is kind, so kind,
+Love does not brag, is not puffed up,
+Love rejoices when God's truth is manifest,
+Love is the element of God.</stanza>
+    <stanza type="verse" number="4">If I speak in tongues, but do not love, I am
+Like sounding brass giving lifeless sounds, not life.
+If I know all mysteries but do not love my brother,
+I have no love and am nothing.</stanza>
+  </lyrics>
+</hymn>

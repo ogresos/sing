@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>救主求你引領我</title>
+  <index>true</index>
+  <category>羨慕－主的引領</category>
+  <numbers><cebuano num="390"/><chinese num="291"/><dutch num="25"/><english num="390"/><german num="390"/><korean num="291"/><russian num="455"/><spanish num="172"/><tagalog num="390"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 5/ ._1/ 7/ 6/ | 5 - - 0 | 4. 3/ 2/ 6/ 5/ 4/ | 3 - - 0 (break) | 5. 5/ 5/ 3/ 5/ ._1/ | 6 - - 0 | 7. ._1/ 7/ 6/ 5/ 4#/ | (.5 - - 0 (break) | (Chorus) 5 - 3 0 | ._1 - 5 0 | ._3. ._2/ ._1/ 6/ 5/ 3/ | 2.( 3/ 4) - (break) | 3. 3/ 3/ 3/ 4/ 5/ | 6 - - 7/ ._1/ | 5 3 4 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>救 主， 求 你 引 領 我， 靈 中 引 我 過 生 活； 行 在 生 命 的 光 中， 不 再 掙 扎 或 妄 動。 引 我， 引 我， 救 主， 這 是 我 所 求； 藉 你 生 命 的 水 流， 引 我 你 路 來 行 走。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="390"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主，求你引領我，
+靈中引我過生活；
+行在生命的光中，
+不再掙扎或妄動。</stanza>
+	<stanza type="chorus" number="">引我，引我，
+救主，這是我所求；
+藉你生命的水流，
+引我你路來行走。</stanza>
+	<stanza type="verse" number="2">你在我裡作生命，
+藉你活律來引領；
+在我身上你執政，
+所有黑暗變光明。</stanza>
+	<stanza type="verse" number="3">你是釋放人的靈，
+求你全將我規正；
+我的心思得更新，
+就能滿足你聖心。</stanza>
+  </lyrics>
+</hymn>

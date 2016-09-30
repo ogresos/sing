@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Down at the cross where my Savior died</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Redeemed by the Blood</category>
+  <numbers><english num="1125"/><german num="1125"/><korean num="914"/><lsmyp num="65"/><portuguese num="165"/><spanish num="150"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ned Nossaman">N. N.</author>
+  </creators>
+  <melody>| 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3 3./ 3// 5 5./ 3// | 1 3 2 - (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 1. 1/ 1 6_. | 5_..( 6_./ 1) 0 | 3. 3/ 3 1 | 2.( 3/ 2) 0 (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Down at the cross where my Sav -- ior died, God's right -- eous na -- ture was sat -- is -- fied; There to my sin was the blood ap -- plied, Glo -- ry to His name! Glo -- ry to His name, Glo -- ry to His name; There to my sin was the blood ap -- plied, Glo -- ry to His name!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj008.xml</link>
+  </links>
+  <music>
+	<midiref type="h" num="1066"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Down at the cross where my Savior died,
+God's righteous nature was satisfied;
+There to my sin was the blood applied,
+  Glory to His name!</stanza>
+	<stanza type="chorus" number="">Glory to His name,
+Glory to His name;
+There to my sin was the blood applied,
+  Glory to His name!</stanza>
+	<stanza type="verse" number="2">Saved from our sin at this fountain, we
+Fully enjoy our redemption free;
+This we'll enjoy for eternity,
+  Glory to His name!</stanza>
+	<stanza type="verse" number="3">Oh, precious fact, when my Savior died,
+Not only sin's debt was satisfied;
+Life's flowing fountain was opened wide!
+  Glory to His name!</stanza>
+	<stanza type="chorus" number="">Glory to His name,
+Glory to His name;
+Life's flowing fountain was opened wide,
+  Glory to His name!</stanza>
+	<stanza type="verse" number="4">Now both redemption and life we share,
+Cleansed in His blood, we're abiding there
+Drinking the water of life fore'er;
+  Glory to His name!</stanza>
+  </lyrics>
+</hymn>

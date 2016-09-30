@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哎喲救主真曾流血</title>
+  <index>true</index>
+  <category>讚美主－祂的死</category>
+  <numbers><cebuano num="104"/><chinese num="93"/><english num="104"/><korean num="93"/><tagalog num="104"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>哎 喲！ 救 主 真 曾 流 血？ 真 曾 捨 命 亡 躬？ 祂 肯 犧 牲 祂 的 超 越， 為 我 這 個 小 蟲？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哎喲！救主真曾流血？
+真曾捨命亡躬？
+祂肯犧牲祂的超越，
+為我這個小蟲？</stanza>
+	<stanza type="verse" number="2">祂在木上那樣哀歎，
+可是為我罪愆？
+憐憫何滿！慈愛何汎！
+恩典何其無邊！</stanza>
+	<stanza type="verse" number="3">難怪太陽立變暗烏，
+隱藏一切榮光；
+當神基督造物的主，
+為人擔罪而亡。</stanza>
+	<stanza type="verse" number="4">當我看見祂十字架，
+也當隱藏羞臉，
+心當鎔化，感激不暇，
+眼當流淚自貶。</stanza>
+	<stanza type="verse" number="5">但這滿腔憂傷，
+不能稍還主愛的債；
+主，我在此奉上一生，
+聊表此心感戴。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art coming, O my Savior</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Christ Coming to Reign</category>
+  <numbers><english num="967"/><spanish num="443"/></numbers>
+  <creators>
+    <author biodate="1836-1879" biolink="">Frances Ridley Havergal</author>
+    <composer biodate="1823-1889" biolink="">William Henry Monk</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>551543215433215</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | C/E - C - | Am - G - | C - - - | C - - - | E - Am - | Am - - - | G/D - - - | D7 - G - | G7 - - - | F - C - | C - - - | C7 - F - | F - C/G - | E/G# - Am - | F - C/E F | G7 - C - |</chords>
+  <melody>| 5 5 ._1 5 | 4 3 2 1 | 5 4 3 3 | 2 1 5 - (break) | 5 5 ._1 5 | ._1 ._2 ._3 ._1 | 3 3 6 3 | 6 7 ._1 6 (break) | 7 ._1 7 5 | 6 7 5 - | 5. 5/ 6 5 | 6 7 ._1 - | ._1. ._1/ ._1 ._1 | ._1 7b 6 - (break) | 6 6 5 ._1 | ._3 ._2 ._1 - | 7 6 5 ._1 | ._1 7 ._1 - |</melody>
+  <layout>
+    <singingstanza>Thou art com -- ing, O my Sav -- ior, Thou art com -- ing, O my King, In Thy beau -- ty all res -- plen -- dent, In Thy glo -- ry all trans -- cend -- ent; Well may we re -- joice and sing; Com -- ing! In the o -- pening east, Her -- ald bright -- ness slow -- ly swells: Com -- ing! O my glo -- rious Priest, Hear we not Thy gold -- en bells?</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj111.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="39">e0967_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thou art coming, O my Savior,
+  Thou art coming, O my King,
+In Thy beauty all resplendent,
+In Thy glory all transcendent;
+  Well may we rejoice and sing;
+  Coming! In the opening east,
+  Herald brightness slowly swells:
+  Coming! O my glorious Priest,
+  Hear we not Thy golden bells?</stanza>
+    <stanza type="verse" number="2">Thou art coming, Thou art coming;
+  We shall meet Thee on Thy way;
+We shall see Thee, we shall know Thee,
+We shall bless Thee, we shall show Thee
+  All our hearts could never say:
+  What an anthem that will be,
+  Ringing out our love to Thee,
+  Pouring out our rapture sweet
+  At Thine own all-glorious feet.</stanza>
+    <stanza type="verse" number="3">Thou art coming, at Thy Table
+  We are witnesses for this;
+While rememb'ring hearts Thou meetest
+In communion clearest, sweetest,
+  Earnest of our coming bliss,
+  Showing not Thy death alone,
+  And Thy love exceeding great,
+  But Thy coming and Thy throne,
+  All for which we long and wait.</stanza>
+    <stanza type="verse" number="4">Oh, the joy to see Thee reigning,
+  Thee, my own beloved Lord!
+Every tongue Thy Name confessing,
+Worship, honor, glory, blessing,
+  Brought to Thee with one accord;
+  Thee, my Master and my Friend,
+  Vindicated and enthroned,
+  Unto earth's remotest end
+  Glorified, adored, and owned!</stanza>
+  </lyrics>
+</hymn>

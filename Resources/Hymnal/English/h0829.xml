@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Church's seed is nought but Christ Himself</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Course</category>
+  <numbers><cebuano num="829"/><chinese num="599"/><english num="829"/><german num="829"/><korean num="599"/><russian num="531"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1871-1930" biolink="">Harold Green</composer>
+  </creators>
+  <meter>10.10.10.10.</meter>
+  <hymncode>3423355645</hymncode>
+  <key>Eb Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - G7/B - | C - - - | C/E - B7/D# - | C/E - C - | F - G7/F - | C/E - C - | G/D - D7 - | G - - - | C - G7/D - | C - C7/Bb - | A - A7/C# - | Dm - - - | F - G7/F - | C/E - F - | C/G - G7 - | C - - - |</chords>
+  <guitarChords>| C - - - | C - - - | C - - - | C - - - | F - - - | C - - - | D7 - - - | G - - - | C - - - | C - - - | A7 - - - | Dm - - - | F - - - | C - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 3 - 4( 2#) | 3 - 3 - | 5. 5/ 6 4# | 5 - - - (break) | 6 - 7 6 | 5 3 4 3 | 2 - 2 - | 2 - - - (break) | 3 - 5 4 | 3 - 3 - | 3. 3/ 6( 5) | 4 - - - (break) | 6 - 7 6 | 5 5 5 4 | 3( 1) 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>The Church's seed is nought but Christ Him -- self Sown in -- to hu -- man hearts as life, there -- by Grow -- ing as wheat, pro -- du -- cing flour fine For bread both God and man to sat -- is -- fy.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj203.xml</link>
+	<link type="ref">Matthew 13:1-46</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0829.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="30">e0829_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The Church's seed is nought but Christ Himself
+Sown into human hearts as life, thereby
+Growing as wheat, producing flour fine
+For bread both God and man to satisfy.</stanza>
+	<stanza type="verse" number="2">But Satan hath the false believers sown
+Among the saints as tares among the wheat,
+To bring confusion and to hinder growth
+That they may not fulfill God's plan complete.</stanza>
+	<stanza type="verse" number="3">The Church's life just as the herb must be,
+Grown out of Christ, who is the mustard seed;
+Hidden and transient, little on the earth,
+But good for food the hungry ones to feed.</stanza>
+	<stanza type="verse" number="4">But Satan came and made the little herb
+To change its nature and to change its form,
+That fully grown it did a tree become
+Where many evil ones may lodge and swarm.</stanza>
+	<stanza type="verse" number="5">Satan has also used the fallen "church"
+Evil and heathen practice to include,
+As leaven mingled with the meal of wheat,
+Thus to corrupt its purity as food.</stanza>
+	<stanza type="verse" number="6">But Christ as life would so transform the saints
+That they may be as pearl and precious stone,
+As the materials suitable to build
+Into His Church to make His Kingdom known.</stanza>
+	<stanza type="verse" number="7">Such an assembly grown in Christ as life,
+Transformed and built with Christ in them annealed,
+Is as the goodly pearl for preciousness
+And as the treasure hidden in the field.</stanza>
+	<stanza type="verse" number="8">Lord, separate us from the devil's "tares,"
+Each one deliver from the monstrous "tree,"
+From all the "leaven" may Thou purify,
+That we may be as food to man and Thee.</stanza>
+	<stanza type="verse" number="9">Cause us to grow in life divine each day
+That we may be transformed and built by Thee
+Into a body to express Thyself,
+That Thou in us Thy Church and Kingdom see.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Жду я Тебя, Господь, жду Тебя</title>
+  <index>true</index>
+  <category>МОЛИТВА&amp;mdash;В ОЖИДАНИИ ПЕРЕД БОГОМ</category>
+  <numbers><cebuano num="792"/><chinese num="574"/><english num="792"/><german num="792"/><korean num="574"/><portuguese num="362"/><russian num="528"/><tagalog num="792"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 1 | 3 - 1 | 2 3 2 | 1 - - (break) | 3 3 3 | 3 - 4 | 2 - - (break) | 5 5 5 | 5 - 6 | 5 - - (break) | 3 3 3 | 3 - 4 | 3 - - (break) | 2 2 2 | 3 - - | 2 (.2 2 | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="373"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Жду я Тебя, Господь, жду Тебя;
+    Дай мне в Тебе покой;
+    Я прихожу с мольбой:
+    Волю Свою открой;
+Жду я Тебя, жду я Тебя.</stanza>
+	<stanza type="verse" number="2">Жду я Тебя, Господь, жду Тебя;
+    Я здесь перед Тобой;
+    Славный Свой путь открой –
+    Сам будь моей мольбой.
+Жду я Тебя, жду я Тебя.</stanza>
+	<stanza type="verse" number="3">Жду я Тебя, Господь, жду Тебя;
+    Слейся Ты Сам со мной,
+    Чтобы, одно с Тобой,
+    Образ явил я Твой –
+Жду я Тебя, жду я Тебя.</stanza>
+	<stanza type="verse" number="4">Жду я Тебя, Господь, жду Тебя;
+    Дай Твою волю знать,
+    И путь Твой выбирать,
+    Жизнью проистекать –
+Жду я Тебя, жду я Тебя.</stanza>
+	<stanza type="verse" number="5">Жду я Тебя, Господь, жду Тебя;
+    О, научи меня,
+    Чтоб чрез молитву я
+    Мог выражать Тебя –
+Жду я Тебя, жду я Тебя.</stanza>
+  </lyrics>
+</hymn>

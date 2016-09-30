@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>It's a good thing to give thanks unto the Lord</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:263"/><vsb num="258"/></numbers>
+  <hymncode>32355561213</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | C - - - | C - - - | G - - - | G7 - - - | C - F/C - | C - - - | C - - - | F - - - | C - - - | C - - - | G - - - | G7 - - - | C - F/C - | C7 - - - | F - - - | G - - - | C - - - | F - - - | C - - - | G7 - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | F - - - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 3/ 2#/ | 3 5_.( 5_./) 5_./ 5_. | 6_. 1 2 1 | 3( - - - (break) | 3) 3 3 4 | 3( 2/) 2/( 2) - | 0 1# 2 3 | 1( - - - (break) | 1) - - 3/ 2#/ | 3 5_.( 5_./) 5_./ 5_. | 6_. 1 2 1 | 3( - - - (break) | 3) 3 3 4 | 3( 2/) 2/( 2) - | 0 1# 2 3 | 1( - - - (break) | 1) - - 5 | 6 6( 6/) 6/ 6/ 6/ | 7 7 - 7/ 7/ | ._1 ._1/ ._1/ ._1 5 (break) | 6( 5/)( 4/)( 4) 6/ 6/ | 5 3( 3/) 3/ 4 | 3 2 1 7_. | 5( - - - (break) | 5) - - 5 | 6 6( 6/) 6/ 6/ 6/ | 7 7 - 7/ 7/ | ._1 ._1/ ._1/ ._1 5 (break) | 6( 5/)( 4/)( 4) 6/ 6/ | 5 3( 3/) 3/ 4 | 3 2 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>It's a good thing to give thanks un -- to the Lord And to sing prais -- es un -- to our God. It's a good thing to give thanks un -- to the Lord And to sing prais -- es un -- to our God. To show forth Thy lov -- ing -- kind -- ness In the morn -- ing and ev -- ery night. It's a good thing to give thanks un -- to the Lord. To show forth Thy lov -- ing -- kind -- ness In the morn -- ing and ev -- ery night. It's a good thing to give thanks un -- to the Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 92:1-2</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0263.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">It's a good thing to give thanks unto the Lord
+And to sing praises unto our God.
+It's a good thing to give thanks unto the Lord
+And to sing praises unto our God.
+To show forth Thy lovingkindness
+In the morning and every night.
+It's a good thing to give thanks unto the Lord.
+To show forth Thy lovingkindness
+In the morning and every night.
+It's a good thing to give thanks unto the Lord.</stanza>
+  </lyrics>
+</hymn>

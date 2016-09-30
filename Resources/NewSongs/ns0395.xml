@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>That I might be a minister</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Clarence So">C. S.</composer>
+  </creators>
+  <hymncode>661777656654465554345</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 6 6 ._1 | 7 7/ 7/(  7) 6 | 5 - - - | 0 6 6 5 | 4 - 4 6 | 5 5 5 4 | 3 - 4( - | 5) - - 5 | 6 - 6 ._1 | 7 - - - | 0 ._3/ ._3/ ._3/ ._3/ ._2 | ._1 - - 7 | 6 - 6 ._1 | 7 7/ 7/ ._1/ ._1/ ._2 | ._1( - - - | ._1) - - - (break) | 0 6 6 ._1 | 7. 7/ 7 6 | 5 - - - | 0 6 6 5 | 4. 4/ 4 6 | 5 - 5 4 | 3 - 4 - | 5 - - - | 6. 6/( 6) ._1 | 7 7/ ._1/( ._1)( ._2) | ._3 ._3/ ._3/( ._3) ._2 | ._2 ._1 - - | 6 6/ 6/( 6)( ._1) | 7 7/ ._1/( ._1) ._2 | ._2 ._1( - - | ._1) - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">That I might be a min -- is -- ter, a min -- is -- ter of Christ Je -- sus to the Gen -- tiles, a la -- bor -- ing priest of the gos -- pel of God, a la -- bor -- ing priest of the gos -- pel of God, in or -- der that the of -- fer -- ing, the of -- fering of the Gen -- tiles might be ac -- cept -- a -- ble, hav -- ing been sanc -- ti -- fied in the Ho -- ly Spir -- it, sanc -- ti -- fied in the Ho -- ly Spir -- it.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Romans 15:16</link>
+  </links>
+  <music>
+    <midi location="ns" length="54">ns0395.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">That I might be a minister,
+A minister of Christ Jesus to the Gentiles,
+A laboring priest of the gospel of God,
+A laboring priest of the gospel of God,
+In order that the offering,
+The offering of the Gentiles might be acceptable,
+Having been sanctified in the Holy Spirit,
+Sanctified in the Holy Spirit.</stanza>
+  </lyrics>
+</hymn>

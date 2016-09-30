@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Deborah</firstname>
+    <lastname></lastname>
+    <email>info@eits.org.za</email>
+    <password>tUzDfqI7h%2BOwSjeOMpAXmQ%3D%3D</password>
+    <gender></gender>
+    <country>South Africa</country>
+    <ipaddress>196.210.211.2</ipaddress>
+    <createdate>2013-10-23 11:28:28</createdate>
+    <lastupdateddate>2014-01-13 02:50:53</lastupdateddate>
+    <lastlogindate>2014-01-12 23:45:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1081">Father God, Thou art the source of life</fav>
+        <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+        <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+        <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+        <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+        <fav category="default" type="h" num="1143">The tree of life, how sweet the fruit</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    </favourites>
+</user>

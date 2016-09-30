@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art worthy, Thou art worthy</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:256"/><vsb num="268"/></numbers>
+  <hymncode>55351161556532</hymncode>
+  <key>A Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C7 - - | F - - | Dm - - | Em - - | Am - - | Bb - - | G7 - - | C - - | C7 - - | F - - | Dm - - | C/G - - | G7 - - | C - F/C | C - - | G - - | G - - | C - - | C - - | G - - | G - - | C - - | C - - | C7 - - | C7 - - | F - - | Dm - - | C/G - - | G7 - - | F/C - - | C - - ||</chords>
+  <melody>| 5 - 5 | 3 5 - | ._1 - ._1 | 6 ._1 - | 5 - 5 | 6 5 3 | 2( - - | 2) - 0 (break) | 5 - 5 | 3 5 - | ._1. ._1/ ._1 | 6 ._1 - | ._3. ._3/ ._3 | ._2 ._1 ._2 | ._1( - - (break) | ._1) - 5 | ._2 ._2. ._2/ | ._2 ._1. ._2/ | ._3 ._3. ._3/ | ._2 ._1. 5/ | ._2 ._2. ._2/ | ._2 ._1 ._2 | ._3( - - (break) | ._3) - ._3 | ._3 - ._3 | ._2 ._1 - | ._1 ._1. ._1/ | ._2 ._1 - | ._3 - ._3 | ._2 ._1 ._2 | ._1( - - | ._1) - 0 ||</melody>
+  <layout>
+    <singingstanza>Thou art wor -- thy, Thou art wor -- thy, Thou art wor -- thy, O Lord. Thou art wor -- thy to re -- ceive glo -- ry, Glo -- ry and hon -- or and power. For Thou hast cre -- at -- ed, hast all things cre -- at -- ed, For Thou hast cre -- at -- ed all things. And for Thy plea -- sure they are cre -- at -- ed; Thou art wor -- thy, O Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Revelation 4:11</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0256.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Thou art worthy, Thou art worthy,
+Thou art worthy, O Lord.
+Thou art worthy to receive glory,
+Glory and honor and power.
+For Thou hast created, hast all things created,
+For Thou hast created all things.
+And for Thy pleasure they are created;
+Thou art worthy, O Lord.</stanza>
+  </lyrics>
+</hymn>

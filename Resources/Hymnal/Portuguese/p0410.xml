@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gratos partimos; deste-nos, Senhor</title>
+  <index>true</index>
+  <category>Despedida</category>
+  <numbers><cebuano num="869"/><chinese num="630"/><english num="869"/><korean num="630"/><portuguese num="410"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="869"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gratos partimos; deste-nos, Senhor,
+Tua presença e a palavra aqui.
+Tua preciosidade nos atrai;
+O que ouvimos, nos inclina a Ti.</stanza>
+    <stanza type="verse" number="2">Tua palavra vida e espír'to é;
+Dela nos nutres para em Ti crescer;
+À Tua imagem vais nos transformar
+E plenos e maduros vamos ser.</stanza>
+    <stanza type="verse" number="3">Vem infundir-Te mais e mais em nós,
+Faz-nos no espírito mover, andar;
+Para Contigo termos comunhão,
+Graça provarmos té aqui voltar.</stanza>
+  </lyrics>
+</hymn>

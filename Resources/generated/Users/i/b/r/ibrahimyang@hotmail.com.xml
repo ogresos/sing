@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>yinong</firstname>
+    <lastname>yang</lastname>
+    <email>ibrahimyang@hotmail.com</email>
+    <password>ABEjbYZADVrMGw58uY%2FuFg%3D%3D</password>
+    <gender>M</gender>
+    <country>cn</country>
+    <ipaddress>68.123.233.27</ipaddress>
+    <createdate>2011-04-16 18:31:50</createdate>
+    <lastupdateddate>2011-04-16 18:40:46</lastupdateddate>
+    <lastlogindate>2011-04-16 18:35:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+        <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ум с Богом в полном мире мой</title>
+  <index>true</index>
+  <category>УВЕРЕННОСТЬ И РАДОСТЬ СПАСЕНИЯ&amp;mdash;ПРИМИРЕНИЕ С БОГОМ</category>
+  <numbers><chinese num="240*"/><english num="299"/><french num="55"/><german num="299"/><korean num="240*"/><portuguese num="159"/><russian num="61"/><spanish num="143"/><tagalog num="299"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. Paget</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 6_. | 5_. - 1/( 2/) | 3 - 2 | 1 - 3 | 5 - 3/( 2/) | 1 - 3 | 2 - 5 (break) | 3 - 2 | 1 - 3 | 4 - 3 | 2 - 3 | 5_.( 6_.) 1/( 2/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Ум с_Бо -- гом в_пол -- ном ми -- ре мой.  О, что за сло -- во то!  Был кро -- вью греш -- ник при -- ми -- рён, То под -- лин -- но есть мир.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ум с Богом в полном мире мой.
+О, что за слово то!
+Был кровью грешник примирён,
+То подлинно есть мир.</stanza>
+	<stanza type="verse" number="2">Был по природе и делам
+Далёк от Бога я.
+Но благодатью приближён,
+Поверив в кровь Христа.</stanza>
+	<stanza type="verse" number="3">Так близок, близок к Богу я,
+Не мог бы ближе быть.
+Ведь в Сыне я Его к Нему
+Так близок, как и Сын.</stanza>
+	<stanza type="verse" number="4">Так мил, так дорог Богу я,
+Дороже трудно быть.
+С той силой, что Им Сын любим,
+Меня Он возлюбил.</stanza>
+	<stanza type="verse" number="5">С тех пор как этот Бог стал мой,
+Зачем тревоги мне?
+Он смотрит день и ночь за мной.
+Своё даёт всё мне.</stanza>
+  </lyrics>
+</hymn>

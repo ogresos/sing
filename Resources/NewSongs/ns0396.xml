@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Take me Lord, and fill me with Your dear Self</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Colin Ting">C. T.</author>
+    <composer biodate="" biolink="" fullname="Colin Ting">C. T.</composer>
+  </creators>
+  <hymncode>3431513275216361753</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | E - - - | Am - - - | Gm - C7 - | F - G - | Em - Am - | Dm7 - G7 - | C - C7/E - | F - G - | Em - A7 - | Dm7 - G7 - | C - - - | F - G - | C - - - | F - G - | C - - - | F - G - | Em - Am - | Dm7 - G7 - | C - C7/E - | F - G - | Em - Am - | Dm7 - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 3/ 4/ | 3. 1/ 5_./ 1 3/ | 2. 7_./ 5#_.. 2/ | 1. 6_./ 3_./ 6_. 1/ | 7b_.. 5_./ 3_. 4_./ 5_./ (break) | 6_. 3 2. 7_./ | 5_. 2 1. 5_./ | 4_.. 1/ {7_. 6_. 7_.} | 5_. - - 5_./ 5_./ (break) | 6_. 3 2. 7_./ | 5_. 2 1# 2/ 3/ | 4 - {4 3 2} | 1 - - 0/ 1/ (break) | 1. 1/ {7_. 1 2} | 5_. - - 0/ 1/ | 1. 1/ 7_. 1/ 2// 3//( | 3) - - 0/ 5/ (break) | 6. 4/ 2. 6/ | 5. 3/ 1. 5/ | 4. 1/ 7_. 4 | 3 - - 0/ 5/ (break) | 6. 4/ 2. 6/ | 5. 3/ 1 2/ 3/ | 4. 4/ 3/ 2// 1//( 1/) 7_.// 1//( | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Take me Lord, and fill me with Your dear Self, Till my whole be -- ing is one with You. Lord, I'm will -- ing to o -- pen to You Eve -- ry mo -- ment in my life; Ful -- ly trust -- ing You, to live Your dream For Your rest and ex -- pres -- sion. Be -- side You I have no one In heav -- en or on the earth. To You, dear Lord, I give my all. I will not let You go. Make Your de -- sire my heart's de -- sire For our goal, the New Je -- ru -- sa -- lem.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="72">ns0396.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Take me Lord, and fill me with Your dear Self,
+Till my whole being is one with You.
+Lord, I'm willing to open to You
+Every moment in my life;
+Fully trusting You, to live Your dream
+For Your rest and expression.</stanza>
+    <stanza type="verse" number="">Beside You I have no one
+In heaven or on the earth.
+To You, dear Lord, I give my all.
+I will not let You go.
+Make Your desire my heart's desire
+For our goal, the New Jerusalem.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>philip</firstname>
+  <lastname>herelle</lastname>
+  <email>philipherelle@gmail.com</email>
+  <password>$2y$10$ZsaHjtJIZ8blLt5N1OadJeeGZoYUHpWO4Q93.5Pt/Iw4vhudqgNau</password>
+  <gender/>
+  <country>United Kingdom</country>
+  <ipaddress>2.96.44.28</ipaddress>
+  <createdate>2013-02-05 14:53:07</createdate>
+  <lastupdateddate>2015-02-27 23:13:20</lastupdateddate>
+  <lastlogindate>2015-02-27 23:13:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="880">To the foe my word is always, No</fav>
+  </favourites>
+</user>

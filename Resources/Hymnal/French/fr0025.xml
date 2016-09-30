@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>À cette multitude joints</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa gloire</category>
+  <numbers><cebuano num="139"/><chinese num="ts:20"/><english num="139"/><french num="25"/><korean num="944"/><portuguese num="67"/><spanish num="71"/><tagalog num="139"/></numbers>
+  <creators>
+    <author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <music>
+    <midiref type="h" num="139"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jésus ! Chantons Son nom puissant !
+Tombons tous à Ses pieds,
+Tombons tous à Ses pieds,
+Couronnons-Le royalement !</stanza>
+    <stanza type="chorus" number="">Qu'Il règne, Lui,
+Qu'Il règne, Jésus !
+Jésus, Jésus, Jésus !
+Qu'Il règne, le Seigneur !</stanza>
+    <stanza type="verse" number="2">Toi Israël, semence élue,
+À Dieu réconcilié,
+À Dieu réconcilié,
+Sa grâce vint pour ton salut.</stanza>
+    <stanza type="verse" number="3">Pécheur, n'oublie jamais Sa croix,
+Son sang, Son agonie,
+Son sang, Son agonie.
+Apporte à Ses pieds tes trophées.</stanza>
+    <stanza type="verse" number="4">De chaque peuple et des nations,
+Sur terre réunis,
+Sur terre réunis,
+Que Dieu reçoive adoration !</stanza>
+    <stanza type="verse" number="5">À cette multitude joints,
+Tombons tous à Ses pieds,
+Tombons tous à Ses pieds,
+Chantons la gloire du Dieu saint !</stanza>
+  </lyrics>
+</hymn>

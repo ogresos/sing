@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Gloria</firstname>
+<lastname>Stroud</lastname>
+<email>glo4u@live.com</email>
+<password>$1$TwJ7AboH$IDt08FehvZT1uy.2yMm1x/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>75.215.134.69</ipaddress>
+<createdate>2008-09-29 03:43:02</createdate>
+<lastupdateddate>2009-09-15 18:25:59</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+        <fav category="default" type="nt" num="293">Cleansed in our Savior's precious blood</fav>
+    </favourites>
+</user>

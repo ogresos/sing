@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When all around my sky is falling</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Name</category>
+  <numbers><english num="ns:204"/><vsb num="126"/></numbers>
+  <hymncode>112316561221212235</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Em - - - | Am - - - | Dm7 - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Em - - - | Am - - - | Dm7 - G - | C - - - |</chords>
+  <melody>| 0/ 1/ 1/ 2/ 3 1 | 6_. 5_./ 6_./( 6_./) 1. | 0/ 2/ 2/ 1/ 2. 1/ | 2/ 2/ 3/ 5_./( 5_.) - | 0/ 1/ 1/ 2/ 3 1 | 6_. 5_./ 6_./( 6_./) 1. | 0/ 2/ 2/ 1/ 2. 1/ | 2/ 2/ 3/ 5_./( 5_.) - (break) | (Chorus) 0 5( 5) 3 | 2. 1/( 1) - | 0 6( 6) 4 | 3. 2/( 2) - | 0 5( 5) 3 | 2. 1/( 1) - | 0 2( 2) 3 | 5_. - - - | 0 5( 5) 3 | 2. 1/( 1) - | 0 6( 6) 4 | 3. 2/( 2) - | 0 5( 5) 3 | 2. 1/( 1) - | 0 2( 2) 3 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>When all a -- round my sky is fall -- ing And fear and doubt run deep in my heart, It's in these times I'm on You call -- ing, Op'n -- ing to You, Lord, my deep -- est part. Oh, Lord Je -- sus! How I love You! And I need You All the time. Ahh, to touch You In my weak -- ness, And to hold You, Sav -- ior mine.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0204.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When all around my sky is falling
+And fear and doubt run deep in my heart,
+It's in these times I'm on You calling,
+Opening to You, Lord, my deepest part.</stanza>
+    <stanza type="chorus" number="">Oh, Lord Jesus!
+How I love You!
+And I need You
+All the time.
+Ahh, to touch You
+In my weakness,
+And to hold You,
+Savior mine.</stanza>
+    <stanza type="verse" number="2">Lord, by Your mercy You consume me.
+It's all according to God's plan.
+By resurrection life renew me,
+Day by day, my inner man.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Olaf</firstname>
+  <lastname>Normann</lastname>
+  <email>olafn@fano.no</email>
+  <password>$2y$10$LDUWJ5ElF.QvKedjq7Z99uNOckblgSRs4DQ3BrWCjqY2D48qkOmbG</password>
+  <gender/>
+  <country>Norway</country>
+  <ipaddress>46.9.225.244</ipaddress>
+  <createdate>2013-09-30 15:31:16</createdate>
+  <lastupdateddate>2016-02-10 11:46:35</lastupdateddate>
+  <lastlogindate>2016-02-10 11:46:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

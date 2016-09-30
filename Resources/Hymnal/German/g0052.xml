@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vater, ein Loblied wollen wir Dir singen</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Sein Lobpreis von vielen Söhnen</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6 5 - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6 5 - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <layout>
+	<singingstanza>Va -- ter, ein Lob -- lied wol -- len wir Dir sin -- gen  In der Ge -- meind; In Dei -- ner Ge -- gen -- wart Lob -- preis dar -- brin -- gen,  In Dir ver -- eint; Zogst uns mit Dei -- ner Gna -- de hin zu Dir, Mit Dei -- nem Sohn im Him -- mel sit -- zen wir.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vater, ein Loblied wollen wir Dir singen 
+In der Gemeind;
+In Deiner Gegenwart Lobpreis darbringen, 
+In Dir vereint;
+Zogst uns mit Deiner Gnade hin zu Dir,
+Mit Deinem Sohn im Himmel sitzen wir.</stanza>
+	<stanza type="verse" number="2">Welch tiefe Freude reich erfüllt den Ort,
+Wo Liebe fließt!
+Ja, Deine Liebe sehn wir, Vater, dort,
+Im Sohn sie ist;
+Er führt in Deiner Ruhe den Lobpreis
+Deiner Geliebten auf dem Erdenkreis.</stanza>
+	<stanza type="verse" number="3">Er führt das Lob! Wie kostbar ist es Dir,
+Was Er Dir singt!
+Wie nah und kostbar sind durch Ihn auch wir,
+Die Er Dir bringt.
+Er teilt den Platz mit uns nach Deinem Plan;
+Du liebtest Ihn, bevor die Welt begann.</stanza>
+  </lyrics>
+</hymn>

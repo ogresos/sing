@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Trust Him when thy wants are many</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Trusting the Lord</category>
+  <creators>
+    <author biodate="1850-1927" biolink="">Lucy Ann Bennett</author>
+    <composer biodate="" biolink="">T. A. Willis</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>553172211776165</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - C - | F - - - | F - C - | C - - - | A - Dm - | D/F# - G - | G7 - C - |</chords>
+  <melody>| 5 5 ._3. ._1/ | 7 ._2 ._2 ._1 | ._1 7 7 6 | ._1 6 5 - (break) | 5 5 ._3. ._2/ | ._1# ._3 ._3 ._2 | ._2 6 7. 6/ | 5 ._2 ._1 - |</melody>
+  <layout>
+    <singingstanza>Trust Him when thy wants are man -- y; Trust Him when thy friends are few; And the time of swift temp -- ta -- tion Is the time to trust Him too.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj050.xml</link>
+    <link type="relevant" category="nt" num="647"></link>
+  </links>
+  <music>
+    <midi location="h" length="19">e0647_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Trust Him when thy wants are many;
+  Trust Him when thy friends are few;
+And the time of swift temptation
+  Is the time to trust Him too.</stanza>
+    <stanza type="verse" number="2">Trust Him when thy soul is burdened
+  With the sense of all its sin;
+He will speak the word of pardon,
+  He will make thee clean within.</stanza>
+    <stanza type="verse" number="3">Trust Him for the grace sufficient,
+  Ever equal to thy need;
+Trust Him always for the answer,
+  When in His dear name you plead.</stanza>
+    <stanza type="verse" number="4">Trust Him for the grace to conquer,
+  He is able to subdue;
+Trust Him for the power for service;
+  Trust Him for the blessing too.</stanza>
+    <stanza type="verse" number="5">Trust Him when dark doubts assail thee,
+  Trust Him when thy strength is small,
+Trust Him when to simply trust Him
+  Seems the hardest thing of all.</stanza>
+    <stanza type="verse" number="6">Trust Him; He is ever faithful;
+  Trust Him, for His will is best;
+Trust Him, for the heart of Jesus
+  Is the only place of rest.</stanza>
+    <stanza type="verse" number="7">Trust Him, then, through cloud or sunshine,
+  All thy cares upon Him cast,
+Till the storm of life is over,
+  And the trusting days are past.</stanza>
+  </lyrics>
+</hymn>

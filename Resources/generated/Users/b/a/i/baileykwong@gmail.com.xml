@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bailey</firstname>
+  <lastname/>
+  <email>baileykwong@gmail.com</email>
+  <password>$2y$10$8EEqPRFj6uxdv/rNBx2R0em3I6DAB5AWjuWuYgnEq5t2z0p3fUtVu</password>
+  <gender/>
+  <country>Malaysia</country>
+  <ipaddress>115.132.227.62</ipaddress>
+  <createdate>2013-02-10 09:30:19</createdate>
+  <lastupdateddate>2014-07-09 15:00:18</lastupdateddate>
+  <lastlogindate>2014-07-09 15:00:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="929">主耶穌阿,我願你來</fav>
+    <fav category="default" type="ts" num="404">全心只有主</fav>
+  </favourites>
+</user>

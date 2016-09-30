@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Julia</firstname>
+  <lastname>Wiggin</lastname>
+  <email>juliawiggin@yahoo.com</email>
+  <password>$2y$10$OyfaOhFY1Me8r804kmh8uOAUuFSPR7mT/pZOiJFTrOulkXfv5sVaq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.79.210.45</ipaddress>
+  <createdate>2016-08-06 17:25:07</createdate>
+  <lastupdateddate>2016-08-06 17:29:07</lastupdateddate>
+  <lastlogindate>2016-08-06 17:26:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="486">Moment By Moment</fav>
+  </favourites>
+</user>

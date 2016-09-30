@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The love of Christ is now constraining me</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <numbers><english num="lb:67"/><vsb num="192"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>3345123232</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>80</tempo>
+  <chords>| C - Am - | Dm/F - G - | C - Am - | Dm/F - G - | C - Am - | Dm/F - G - | Am - C/G - | Dm/F - G - | Am - - - | E - - - | Am - C/G - | F - - - | C - Am - | Dm - G7 - | C - Am - | F - G7 - | C - Am - | F - G - | C - Am - | F - G - | C - Am - | F - G - | C - Am - | F - G - | Am - - - | E - - - | Am - C/G - | F - - - | C - Am - | Dm - G7 - | C - Am - | F - G7 - |</chords>
+  <melody>| (Verses_1-2) 0/ 3/ 3/ 4/ 5. 1/ | 2/ 3/ 2/ 3/ 2 - | 0/ 1/ 1/ 1/ 1. 1/ | 2/ 3/ 2/ 3/ 2 - | 0/ 3/ 3/ 4/ 5. 1/ | 2/ 3/ 2/ 3/ 2 3/( 2/) | 1 1 1. 1/ | 2/ 3/ 2/ 3/ 2 - (break) | (Chorus) 0/ 6/ 6/ 6/ 6 6/ 6/ | 7/ 5#/( 5#) - 6/ 7/ | ._1. ._1/ ._1. ._1/ | ._1/ 6/( 6) - 6/ 6/ | 5.( 4/) 3 - | 0 2/ 3/ 2/( 1/) 7_./ 2/ | 1( - - - | 1) - - - (break) | (Verses_3-4) 0 (Verse_3) ._1 7 5 | 6( - 5.) 4/ | 3/ 3/ 3/ 2/ 1. 1/ | 4/ 5/ 4/ 3/ 2 - | 0 ._1 7 5 | 6( - 5.) 4/ | 3/ 3/ 3/ 2/ 1. 1/ | 4/ 5/ 4/ 3/ 2 - (break) | (Chorus) 0/ 6/ 6/ 6/ 6 6/ 6/ | 7/ 5#/( 5#) - 6/ 7/ | ._1. ._1/ ._1. ._1/ | ._1/ 6/( 6) - 6/ 6/ | 5.( 4/) 3 - | 0 2/ 3/ 2/( 1/) 7_./ 2/ | 1( - - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza>The love of Christ is now con -- strain -- ing me That I would love and love Him ut -- ter -- ly. His might -- y love has touched me deep with -- in To con -- se -- crate my life and all to Him. This charm -- ing One so ex -- cel -- ling; To His touch I'm now res -- pond -- ing; To sur -- ren -- der, to sur -- ren -- der to Him. The love of Christ Is now con -- strain -- ing me to love Him ut -- ter -- ly. His might -- y love Has touched me deep with -- in to con -- se -- crate to Him. This charm -- ing One so ex -- cel -- ling; To His touch I'm now res -- pond -- ing; To sur -- ren -- der, to sur -- ren -- der to Him.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="192">lb67.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The love of Christ is now constraining me
+That I would love and love Him utterly.
+His mighty love has touched me deep within
+To consecrate my life and all to Him.</stanza>
+    <stanza type="chorus" number="">This charming One so excelling;
+To His touch I'm now responding;
+To surrender, to surrender to Him.</stanza>
+    <stanza type="verse" number="2">This tide of love has flowed to me from Him;
+Unchanging love that keeps on rushing in.
+Now I'm for Him beyond my own control;
+He is now my love and my only goal.</stanza>
+    <stanza type="chorus" number="">His dying love so compelling,
+And this tide has made me willing
+To love Him, I can't help but love Him.</stanza>
+    <stanza type="verse" number="3">The love of Christ
+Is now constraining me to love Him utterly.
+His mighty love
+Has touched me deep within to consecrate to Him.</stanza>
+    <stanza type="chorus" number="">This charming One so excelling;
+To His touch I'm now responding;
+To surrender, to surrender to Him.</stanza>
+    <stanza type="verse" number="4">This tide of love
+Has flowed to me from Him that keeps on rushing in.
+Now I'm for Him
+Beyond my own control; He's now my final goal.</stanza>
+    <stanza type="chorus" number="">His dying love so compelling,
+And this tide has made me willing
+To love Him, I can't help but love Him.</stanza>
+  </lyrics>
+</hymn>

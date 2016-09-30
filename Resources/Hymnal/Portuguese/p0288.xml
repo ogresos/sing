@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Temos da vida o segredo</title>
+  <index>true</index>
+  <category>Permanecer Nele</category>
+  <numbers><chinese num="ts:254"/><english num="1162"/><portuguese num="288"/><spanish num="265"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <links>
+    <link type="ref">John 15</link>
+  </links>
+  <music>
+    <midiref type="h" num="1162"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Temos da vida o segredo
+E a divina visão:
+Somos de Deus hoje em Cristo,
+E na vide permanecemos nós.</stanza>
+    <stanza type="chorus" number="">Aqui permanecer!
+Aqui permanecer!
+De Deus as riquezas receber.
+Deus nos firmou aqui,
+Dela jamais sair!
+Na vide real permanecer!</stanza>
+    <stanza type="verse" number="2">Não mais esforços inúteis
+Para o caminho encontrar;
+Pois hoje em Deus já estamos,
+E na vide permanecemos nós.</stanza>
+    <stanza type="verse" number="3">Em nós se move o ungüento,
+É a divina unção,
+Que traz de Deus a presença,
+Se na vide permanecemos nós.</stanza>
+    <stanza type="verse" number="4">No rio da vida vivemos,
+Oh! como brilha a luz!
+Um lar têm Deus e o homem,
+Na videira ? a mútua habitação.</stanza>
+  </lyrics>
+</hymn>

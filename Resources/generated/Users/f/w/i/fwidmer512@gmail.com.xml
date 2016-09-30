@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Fran</firstname>
+  <lastname>Widmer</lastname>
+  <email>fwidmer512@gmail.com</email>
+  <password>$2y$10$6eNJBDWJw7RAHbJvU0UXBulxc0V9qXNG5T9cm1Au0x9ClIvtmBsaW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.94.41.211</ipaddress>
+  <createdate>2015-01-19 13:20:52</createdate>
+  <lastupdateddate>2015-01-19 13:41:30</lastupdateddate>
+  <lastlogindate>2015-01-19 13:21:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+  </favourites>
+</user>

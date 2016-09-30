@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>活神的家</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>35135613261</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>天 起 了 涼 風， 人 陷 罪 惡 中； 神 在 天 地 間， 聲 聲 呼 喚： 你 在 那 裏？ 人 哪， 你 在 何 地？ 神 的 愛 情， 祂 的 安 息， 全 都 在 於 你。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0843.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">天起了涼風，
+人陷罪惡中；
+神在天地間，聲聲呼喚：
+你在那裏？人哪，
+你在何地？
+神的愛情，祂的安息，
+全都在於你。</stanza>
+	<stanza type="verse" number="2">享受主救恩，
+滿足人和神，
+神、人同建造，
+居所何榮耀；
+團體新人，大哉！
+神顯於肉身，
+天使看見，世人信服，
+活神住人間。</stanza>
+	<stanza type="verse" number="3">暢飲生命河，
+歡唱恩愛歌，
+同享主肥甘，榮光溢漫；
+天地相繫，
+神、人永遠合一，
+人的住處，神的安息，
+顯在榮耀裡！</stanza>
+  </lyrics>
+</hymn>

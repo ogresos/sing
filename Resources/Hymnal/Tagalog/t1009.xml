@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nais mo bang maibsan ng sala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG DUGO</category>
+  <numbers><cebuano num="1009"/><chinese num="687"/><english num="1009"/><french num="198"/><german num="1009"/><korean num="687"/><portuguese num="449"/><russian num="169"/><spanish num="472"/><tagalog num="1009"/></numbers>
+  <creators>
+	<author biodate="1865-1936" biolink="">Translated from Lewis Ellis Jones</author>
+  </creators>
+  <melody>| 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 ._2./ ._1#// ._2 - | ._1 ._3./ ._2#// ._3 - (break) | 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 7./ 7// ._2 ._1/ 7/ (break) | ._1 - - (Chorus) 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2 - - ._1./ ._2// (break) | ._3 - - 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2. ._4/ ._3 ._2./ ._2// | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1009"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nais mo bang maibsan ng sala?
+Makapangyarihan ang dugo;
+At magtagumpay sa kasamaan?
+Dugo'y may kapangyarihan.</stanza>
+	<stanza type="chorus" number="">Ang dugo'y may kapangyarihan,
+Dugo ng Kordero,
+Ang dugo'y may kapangyarihan,
+Ang dugong mahal ni Kristo.</stanza>
+	<stanza type="verse" number="2">Nais mo bang mapalayang tunay?
+Makapangyarihan ang dugo,
+Sa kahalaya't kapalaluan?
+Dugo'y may kapangyarihan.</stanza>
+	<stanza type="verse" number="3">Nais mo bang puso'y dumalisay?
+Makapangyarihan ang dugo,
+Ang batik ng sala'y mahugasan?
+Dugo'y may kapangyarihan.</stanza>
+	<stanza type="verse" number="4">Nais mo bang maglingkod sa Hari?
+Makapangyarihan ang dugo,
+Mabuhay ka nang Siya'y papurihan?
+Dugo'y may kapangyarihan.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督是元首，在地方召會</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <melody>| 3/ 3/ 2#/ 3/ 1 - | 2/ 1/ 6_./ 1/ 5_. - | 1/ 1/ 7_./ 1/ 2 - | 2/ 2/ 1/ 2/ 3 - | 3/ 3/ 2#/ 3/ 1 - | 2/ 1/ 6_./ 1/ 5_. 1/ 2/ | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>基 督 是 元 首， 在 地 方 召 會， 在 地 方 召 會， 在 地 方 召 會； 基 督 是 元 首， 在 地 方 召 會， 基 督 是 元 首。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="242"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督是元首，在地方召會，
+在地方召會，在地方召會；
+基督是元首，在地方召會，
+基督是元首。</stanza>
+	<stanza type="verse" number="2">基督是實際，在地方召會，
+在地方召會，在地方召會；
+基督是實際，在地方召會，
+基督是實際。</stanza>
+	<stanza type="verse" number="3">有豐富供應，在地方召會，
+在地方召會，在地方召會；
+有豐富供應，在地方召會，
+有豐富供應。</stanza>
+	<stanza type="verse" number="4">我們能安家，在地方召會，
+在地方召會，在地方召會；
+我們能安家，在地方召會，
+家，家，甜美家。</stanza>
+  </lyrics>
+</hymn>

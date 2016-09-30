@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa ilalim ng pakpak Niya</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;DAHIL SA PAG-AALAGA NG PANGINOON</category>
+  <numbers><chinese num="493"/><english num="694"/><french num="132"/><korean num="493"/><tagalog num="694"/></numbers>
+  <creators>
+    <author biodate="1866-1948" biolink="">Translated from Civilla Durfee Martin</author>
+  </creators>
+  <music>
+    <midiref type="h" num="694"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa ilalim ng pakpak Niya,
+Diyos sa iyo'y mag-al'ga;
+Kahit ano h'wag mangamba
+Diyos sa iyo'y mag-al'ga.</stanza>
+    <stanza type="chorus" number="">Mag-'alaga sa iyo
+Bawa't saglit, bawa't dako;
+Diyos tiyak mag-'alaga,
+Sa iyo'y mag-'alaga.</stanza>
+    <stanza type="chorus" number="">2Bigung-bigo sa hirap nga,
+Diyos sa iyo'y mag-al'ga;
+Panganib kublihan wala,
+Diyos sa iyo'y mag-al'ga.</stanza>
+    <stanza type="verse" number="3">Sa dalangin nakinig Siya,
+Diyos sa iyo'y mag-al'ga;
+Kailangan mo Siyang naghanda,
+Diyos sa iyo'y mag-al'ga.</stanza>
+    <stanza type="verse" number="4">Anumang pagsubok, dusa,
+Diyos sa iyo'y mag-al'ga;
+Taong pagod, himlaya'y Siya,
+Diyos sa iyo'y mag-al'ga.</stanza>
+  </lyrics>
+</hymn>

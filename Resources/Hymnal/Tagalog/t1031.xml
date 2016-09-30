@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Halina mga may sala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><chinese num="717"/><english num="1031"/><korean num="717"/><tagalog num="1031"/></numbers>
+  <creators>
+    <author biodate="1813-1877" biolink="">Translated from John Hart Stockton</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1031"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Halina mga may sala,
+Ating Diyos may awa;
+Pahinga'y dudulutan ka,
+Tiwala'y sa Sal'ta.</stanza>
+    <stanza type="chorus" number="">Magtiwala lang sa Kanya!
+Magtiwala ka!
+Tiyak kang ililigtas Niya!
+Ililigtas ka!</stanza>
+    <stanza type="verse" number="2">Dahil dugo Niya binubo
+Biyaya'y natamo;
+Lulusong sa bahang pula
+Hugasan ang sala.</stanza>
+    <stanza type="verse" number="3">Hesus ang katotohanan,
+Buhay rin at daan;
+Tanggapin, huwag mag-antala,
+May pagpapala ka.</stanza>
+    <stanza type="verse" number="4">Halina ngayon sumama,
+Patungo sa glorya;
+Panghawakan katubusan,
+Buti Niya'y malaman.</stanza>
+  </lyrics>
+</hymn>

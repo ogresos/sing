@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Colleen</firstname>
+  <lastname>Williams</lastname>
+  <email>1williamscolleen@gmail.com</email>
+  <password>$2y$10$XnIf0mXERP6IqxDTTu5BWuFy2wTr8E2lFdKX3PTvNaPpMbmC8Aco.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.87.100.66</ipaddress>
+  <createdate>2016-01-24 15:09:29</createdate>
+  <lastupdateddate>2016-01-24 16:01:42</lastupdateddate>
+  <lastlogindate>2016-01-24 15:11:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="78">Gracious Lord, Thy name I AM is</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="h" num="491">Lord, Thou didst know when in the flesh</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+    <fav category="default" type="h" num="86">Though Thou art God, most glorious, high</fav>
+  </favourites>
+</user>

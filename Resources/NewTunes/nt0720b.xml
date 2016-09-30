@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God Hath Not Promised (2)</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Grace for Suffering</category>
+  <numbers><english num="nt:720b"/></numbers>
+  <creators>
+    <author biodate="1866-1932" biolink="">Annie Johnson Flint</author>
+    <composer biodate="" biolink="" fullname="Maria Kim">M. K.</composer>
+  </creators>
+  <hymncode>555555175555555175</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| Cmaj7 - - - | Cmaj7 - - - | F/C - - - | F/C - - - | Cmaj7 - - - | Cmaj7 - - - | F/C - - - | F/C - - - | Cmaj7 - - - | Cmaj7 - - - | F/C - - - | F/C - - - | Cmaj7 - - - | Cmaj7 - - - | F/C - - - | C7 - - - | F - - - | G - - - | C - - - | C7/E - - - | F - - - | G - - - | C - - - | C7/E - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 5/ 5/ 5/ 5/( | 5/) 5. 5/ ._1/ 7/ 5/( | 5)( - - - | 5) - - - (break) | 0 - 5/ 5/ 5/ 5/( | 5/) 5. 5/ ._1/ 7/ 5/( | 5)( - - - | 5) - - - (break) | 0 - 5/ 5/ 5/ ._2/( | ._2/) ._2.( ._2) - | 0 - 5/ 5/ 5 | ._1 - - - (break) | 0 - 5/ 5/ 5/ ._2/( | ._2/) ._2.( ._2) - | 0 - 5/ 5/ 5 | ._1 - - - (break) | 0 6 6 6/ 7/( | 7/) 7. 7/ ._1/ ._2/ 5/( | 5)( - - ._2/)( ._1/)( | ._1) - - - (break) |  0 6 6 6/ 7/( | 7/) 7. 7/ ._1/ ._2/ 5/( | 5)( - - 6)( | 7b) - - - (break) | 0 6 6 6/ 7/( | 7/) 7.( 7) - | 0 7 7 ._2/ ._1/( | ._1)( - - 7)( (break) | 6) 4 4 4/ 5/( | 5/) 5/ 5 5/ 3/ 2/ 1/( | 1)( - - - | 1) - - - ||</melody>
+  <layout>
+    <singingstanza>God hath not prom -- ised skies al -- ways blue, Flo -- wer- -- strewn path -- ways all our lives through; God hath not prom -- ised sun with -- out rain, Joy with -- out sor -- row, peace with -- out pain. But God hath prom -- ised strength for the day, Rest for the la -- bor, light for the way, Grace for the tri -- als, help from a -- bove, Un -- fail -- ing sym -- pa -- thy, un -- dy -- ing love.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="720"></link>
+    <link type="relevant" category="h" num="8526"></link>
+	<link type="relevant" category="nt" num="720"></link>
+  </links>
+  <music>
+    <midi location="nt" length="66">e0720b_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God hath not promised skies always blue,
+Flower-strewn pathways all our lives through;
+God hath not promised sun without rain,
+Joy without sorrow, peace without pain.</stanza>
+    <stanza type="chorus" number="">But God hath promised strength for the day,
+Rest for the labor, light for the way,
+Grace for the trials, help from above,
+  Unfailing sympathy, undying love.</stanza>
+    <stanza type="verse" number="2">God hath not promised we shall not know
+Toil and temptation, trouble and woe;
+He hath not told us we shall not bear
+Many a burden, many a care.</stanza>
+    <stanza type="verse" number="3">God hath not promised smooth roads and wide,
+Swift, easy travel, needing no guide;
+Never a mountain, rocky and steep,
+Never a river, turbid and deep.</stanza>
+  </lyrics>
+</hymn>

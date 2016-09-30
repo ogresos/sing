@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For unto us a child is born</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:258"/><vsb num="266"/></numbers>
+  <hymncode>55433345461776765</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | Dm - - | Dm - - | G - - | G7 - - | C - - | C - - | F - - | F - - | C - - | C - - | G - - | G7 - - | C - - | G7 - - | C - - | C7 - - | F - - | F - - | C - - | C - - | G - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 0 0./ 5// 5./ 4// | 3 - 3 | 3( 4) 5 | 4( - - (break) | 4) - 6./ ._1// | 7 - 7 | 6 - 7 | 6 5( - (break) | 5) - 5./ 5// | 6 - ._1 | ._4 - ._1 | ._3( ._3./) ._2#// ._3./ ._1// (break) | 6./ 5//( 5) 5./ ._1// | 7 - 7./ 7// | 6 - 7./ 6// | 5 - 6./ 5// | 4( 4./) 4// 5./ 4// (break) | 3( - 4)( | 5) - 5 | 6 - ._1 | ._4 - ._1 | ._3( ._3./)( ._2#//)( ._3./)( ._1//) (break) | 5 - 5./ ._1// | 7 - 7 | 6 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>For un -- to us a child is born, Un -- to us a son is giv -- en; And the gov -- ern -- ment shall be up -- on His shoul -- der; And His name shall be called Won -- der -- ful, Coun -- se -- lor, the migh -- ty God, The ev -- er -- last -- ing Fa -- ther, And the Prince of Peace is He.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Isaiah 9:6</link>
+  </links>
+  <music>
+    <midi location="ns" length="40">ns0258.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">For unto us a child is born,
+Unto us a son is given;
+And the government shall be upon
+His shoulder;
+And His name shall be called Wonderful,
+Counselor, the mighty God,
+The everlasting Father,
+And the Prince of Peace is He.</stanza>
+  </lyrics>
+</hymn>

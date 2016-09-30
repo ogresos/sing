@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alabanzas y gracias canta la multitud</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su salvación</category>
+  <numbers><english num="162"/><spanish num="78"/><tagalog num="162"/></numbers>
+  <creators>
+    <author biodate="1837-1911" biolink="">Translated from Arthur Tappan Pierson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="162"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Alabanzas y gracias canta la multitud
+En presencia de Cristo con gloria͜ en Su luz.</stanza>
+    <stanza type="chorus" number="">Para͜ Aquel que nos ama y nos perdonó,
+Para El se͡a la gloria y todo͜ el honor.</stanza>
+    <stanza type="verse" number="2">Pecadores tan sucios a los ojos de Dios
+Hoy vestidos de lino tan blanco, en unión.</stanza>
+    <stanza type="verse" number="3">Del rebelde El hace͜ un sacerdote y rey;
+Nos compró con Su sangre y nos trajo͜ a Su grey.</stanza>
+    <stanza type="verse" number="4">Miserables, sin fuerzas, en pecado͜ y temor
+Nos buscó y nos lava mostrando Su͜ amor.</stanza>
+    <stanza type="verse" number="5">Nuestras voces con fuerzas alabanzas darán,
+Así otros creyendo también cantarán.</stanza>
+  </lyrics>
+</hymn>

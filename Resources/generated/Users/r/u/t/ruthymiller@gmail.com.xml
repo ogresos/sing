@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname>Fong</lastname>
+  <email>ruthymiller@gmail.com</email>
+  <password>$2y$10$AMz8i8Khg8AznK6SuJDDwOqrGEUMUQ0B7/bw1z/4y1miM/wBKQsnG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.5.17.67</ipaddress>
+  <createdate>2014-08-12 19:49:45</createdate>
+  <lastupdateddate>2014-08-15 16:13:17</lastupdateddate>
+  <lastlogindate>2014-08-15 16:11:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="101">All Things Work Together for Good</fav>
+    <fav category="default" type="lb" num="6">And He showed me a river</fav>
+    <fav category="default" type="ns" num="479">Banqueting House</fav>
+    <fav category="default" type="ns" num="262">Come bless the Lord</fav>
+    <fav category="default" type="ns" num="277">Unto Thee, O Lord</fav>
+  </favourites>
+</user>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All Scripture is the very breath of God</title>
+  <index>true</index>
+  <category>Study of the Word&amp;mdash;The Function of the Word</category>
+  <numbers><cebuano num="799"/><chinese num="579"/><english num="799"/><german num="799"/><korean num="579"/><portuguese num="364"/><russian num="484"/><spanish num="339"/><tagalog num="799"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 5 - 3 4 | 5 - ._1 - | ._1 7 6 7 | ._1 - - - (break) | 6 - 6 6 | 5 - 5( 7) | ._2 ._1 7 6 | 5 - - - (break) | 5 - 3 4 | 5 - ._1 - | ._1 7 6 7 | ._1 - - - (break) | 6 - 6 6 | 5 - ._1( ._3) | ._3 ._2 ._1 7 | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>All Scrip -- ture is the ve -- ry breath of God, And by His Spir -- it in -- to words was breathed; By god -- ly men the words were writ -- ten down, With all God's ful -- ness un -- to man be -- queathed.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj192.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0799.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="693"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">All Scripture is the very breath of God,
+And by His Spirit into words was breathed;
+By godly men the words were written down,
+With all God's fulness unto man bequeathed.</stanza>
+	<stanza type="verse" number="2">It is the breath of God as light to man,
+With rays divine man to illuminate;
+It shines in darkness and to man reveals
+What is his truest need and actual state.</stanza>
+	<stanza type="verse" number="3">It is the breath of God as life to man,
+Nature divine to man it doth impart;
+The dead it quickens and regenerates,
+Transforms the soul-life and renews the heart.</stanza>
+	<stanza type="verse" number="4">It is the breath of God as wisdom too,
+Knowledge divine to man it has to teach;
+Th' eternal purpose of the Lord it shows,
+And leadeth man God's final goal to reach.</stanza>
+	<stanza type="verse" number="5">It is the breath of God as strength to man,
+Power divine to man it doth transmit,
+Strength'ning the weak, empowering the faint,
+Enabling man God's purpose full to fit.</stanza>
+	<stanza type="verse" number="6">It is the breath of God for us to breathe,
+That as our portion God we may enjoy;
+Receiving it by spirits exercised,
+Our need is met, His wealth we may employ.</stanza>
+  </lyrics>
+</hymn>

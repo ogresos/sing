@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ginoo, giyahi ko</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;ALANG SA PAGGIYA NI CRISTO</category>
+  <numbers><cebuano num="390"/><chinese num="291"/><dutch num="25"/><english num="390"/><german num="390"/><korean num="291"/><russian num="455"/><spanish num="172"/><tagalog num="390"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 5/ ._1/ 7/ 6/ | 5 - - 0 | 4. 3/ 2/ 6/ 5/ 4/ | 3 - - 0 (break) | 5. 5/ 5/ 3/ 5/ ._1/ | 6 - - 0 | 7. ._1/ 7/ 6/ 5/ 4#/ | (.5 - - 0 (break) | (Chorus) 5 - 3 0 | ._1 - 5 0 | ._3. ._2/ ._1/ 6/ 5/ 3/ | 2.( 3/ 4) - (break) | 3. 3/ 3/ 3/ 4/ 5/ | 6 - - 7/ ._1/ | 5 3 4 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="390"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ginoo, giyahi ko
+Sa Imong Espiritu;
+Palakwon Mo's kahayag,
+Di na ko makigbisug.</stanza>
+	<stanza type="chorus" number="">Giyahi ko,
+Nag-ampo ko, Ginoo;
+Dad-a sa pagpalawom,
+Sa kinabuhi karon.</stanza>
+	<stanza type="verse" number="2">Ikaw kinabuhi man,
+Nga maoy kasugoan;
+Kon Imo nga mandoan,
+Wala nay kangitngitan.</stanza>
+	<stanza type="verse" number="3">Espiritu naghatag,
+Kagawasan sa kalag;
+Hunahuna bag-ohon,
+Pagbuot Mo lang sugton.</stanza>
+  </lyrics>
+</hymn>

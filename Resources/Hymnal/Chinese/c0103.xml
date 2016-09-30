@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我的代替未見歸回</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><chinese num="103"/><english num="8103"/></numbers>
+  <melody>| 0 - 5_. | 3( 2) 1 | 5_. - 6_. | 5_. - 1 | 7_. - 5_. | 4( 3) 2 | 6_. - 7_. | 6_. - 5_. (break) | 3 - 5_. | 3( 2) 1 | 5_. - 6_. | 5_. - 1 | 6_. - 4 | 4( 3) 2 | 3 - 1 | 7_.( 6_.) 7_. | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>我 的 代 替 未 見 歸 回， 我 怎 能 彀 放 心 無 慮； 會 否 我 罪 將 祂 連 累， 未 能 救 我， 祂 倒 被 拘？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="231"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我的代替未見歸回，
+我怎能彀放心無慮；
+會否我罪將祂連累，
+未能救我，祂倒被拘？</stanza>
+	<stanza type="verse" number="2">能否是因我的罪孽，
+太大、過多、無法赦免？
+能否是因祂的寶血，
+能力有限、包括不全？</stanza>
+	<stanza type="verse" number="3">歡呼！耶穌已經復活，
+未損毫髮，只增榮耀；
+祂雖進入黑暗處所，
+黑暗未曾留下功效。</stanza>
+	<stanza type="verse" number="4">主得歸回，就是憑據，
+神的公義已得滿足，
+神的大愛仍施憐恤，
+主是已經完成救贖。</stanza>
+	<stanza type="verse" number="5">神用復活答覆流血，
+承認流血所成救贖；
+阿利路亞，我已清潔！
+阿利路亞，我得饒恕！</stanza>
+  </lyrics>
+</hymn>

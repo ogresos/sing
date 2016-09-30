@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Naibukod, anong saya</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;IBINUKOD TUNGO SA PANGINOON</category>
+  <numbers><chinese num="336"/><english num="440"/><korean num="336"/><tagalog num="440"/></numbers>
+  <creators>
+    <author biodate="1850-1927" biolink="">Translated from Lucy Ann Bennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="435"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Naibukod, anong saya!
+Sila'y pinagpala nga;
+Mula sa lahat nagbitiw,
+Sa Kanya'y naging magiliw.
+Pahinga'y na kay Hesus,
+Pahinga'y na kay Hesus.</stanza>
+    <stanza type="verse" number="2">Kristo'y nagbukod sa akin,
+Nanguna sa lakarin;
+Paliwanag at larawan,
+Buhay Niya sa kabanalan.
+Sino ang masunurin?
+Sino ang masunurin?</stanza>
+    <stanza type="verse" number="3">Lumabas sa kampamento,
+Pagnaisin Mo ako;
+Galak magpasakop sa Iyo,
+Tiisin pagtakwil sa Iyo.
+Mapasa Iyo nang lubos!
+Mapasa Iyo nang lubos!</stanza>
+    <stanza type="verse" number="4">Sa maysala ay ibukod,
+At sa Iyo'y nagpalungkot;
+Gaya Mong mangangalaga,
+Sa maysala'y magtit'yaga.
+Nais Mo siyang gagawin!
+Nais Mo siyang gagawin!</stanza>
+    <stanza type="verse" number="5">Pangino'n kata'y lubusan,
+Walang namamagitan
+Lubos sa Iyo ang paghandog
+Lubos sa Iyo, naibukod
+Hanggan sa walang hanggan.
+Hanggan sa walang hanggan.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bev</firstname>
+  <lastname>Smith</lastname>
+  <email>fancy0503@comcast.net</email>
+  <password>$2y$10$wKWk6SmItE0cik1BPB9NLOJdRI05iu6htF9j8ec7KZ78LzqKgiOCi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>162.95.148.251</ipaddress>
+  <createdate>2016-07-28 13:19:51</createdate>
+  <lastupdateddate>2016-07-28 13:23:45</lastupdateddate>
+  <lastlogindate>2016-07-28 13:21:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

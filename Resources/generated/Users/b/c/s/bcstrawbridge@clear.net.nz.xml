@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Briam</firstname>
+    <lastname>Strawbridge</lastname>
+    <email>bcstrawbridge@clear.net.nz</email>
+    <password>C8VFymzRE6T5Q%2B%2FGrnHXcw%3D%3D</password>
+    <gender></gender>
+    <country>New Zealand</country>
+    <ipaddress>49.224.193.185</ipaddress>
+    <createdate>2014-03-23 04:29:54</createdate>
+    <lastupdateddate>2014-03-23 04:29:54</lastupdateddate>
+    <lastlogindate>2014-03-23 02:42:56</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+        <fav category="default" type="h" num="978">In new heaven and new earth</fav>
+        <fav category="default" type="h" num="490">Lord, when the Father ne'er was known</fav>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="499">Oh, what a life! Oh, what a peace</fav>
+    </favourites>
+</user>

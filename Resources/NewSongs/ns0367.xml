@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Building God's House</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;For God's Building</category>
+  <numbers><chinese num="ts:629"/><english num="ns:367"/></numbers>
+  <hymncode>3211123535666735</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - - - | F - - - | Em - - - | F - G7/F - | Em - Am - | Dm/F - D7/F# - | Gsus4 - G - | C - - - | Em - - - | F - - - | Em - - - | F - - - | Em - Am - | Dm/F - D7/F# - | Gsus4 - G - | C - - - | Am - - - | F - G - | C - - - | Dm - G - | Am - - - | Dm - G - | C - - - | Am - G - | Em - Am - | Dm - G - | C - - - | Em - - - | Am - - - | Am - - - | Dm - - - | G - Em - | Am - - - | Am - - - | Em - - - | Dm - - - | Em - - - | Dm - - - | C - - - | Em - - - | Am - - - ||</chords>
+  <melody>| 0 - - 3/( 2/) | 1. 1/ 1 2/( 3/) | 5 - - 3/( 5/) | 6. 6/ 6 7/( 3/) | 5 - - 3/( 5/) | 6. 6/ 6 ._1/( 6/) | 5( - 3) 1 | 2. 2/ 2 3 (break) | 2 - - 3/( 2/) | 1. 1/ 1 2/( 3/) | 5 - - 3/( 5/) | 6. 6/ 6 7/ 3/ | 5 - - 3/( 5/) | 6. 6/ 6 ._1/( 6/) | 5 - 3 1 | 2. 2/ 2 3 | 2 - - - (break) | 1 1/ 2/ 3/( 5) 3/ | 6 - - - | 6 6/ ._1/ 7/( 6) 5/ | 3 - - - | 2 2/( 5/) 3 2 | 1 2 6_. - | 2 2/ 5/ 3 2 | 5 - - - (break) | ._1/ 7/ 6/ ._1/ 7 5 | 7/ 6/ 5/ 6/ 3 3 | 2/ 2 2/ 2 1/ 2/ | 3( - 5) - | 3/ 3 3/ 5 7 | 6 - - - (break) | (Chorus) ._1/ 7/ 6 6/ ._1 ._3/ | ._2 - - - | 7/ 6/ 5 5/ 7 ._2/ | ._1 - - - | 6 7 ._1 - | 7 5 3 - | 2 3 4 - | 3 6 3 - | 2/ 2 2/ 2 1/ 2/ | 3( - 5) - | 3/ 3 3/ 5 7 | 6 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">O glo -- rious Christ re -- vealed, My -- self I ful -- ly yield; I long to run to You, To kiss Your lips a -- new, God's house is my de -- sire, Beth -- el, my dream re -- al -- ized; A dwell -- ing for the lone -- ly, A feast in Beth -- a -- ny. For -- give -- ness, love and care, Real king -- dom life we share; Peace and joy and righ -- teous -- ness, The Ci -- ty filled with praise. Cam -- pus, homes, and na -- tions, Whole earth pro -- pa -- ga -- tion; Glo -- ry and praise to His name, To all the earth pro -- claim. Lord, I would of -- fer my -- self, Build Your or -- gan -- ic Bod -- y; O -- pen homes, Gain the young, Shep -- herd men, Per -- fect them, Bring in the glo -- ri -- ous church, Has -- ten, Lord, Your re -- turn.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <notes>Banner song of the 2011 MSW New Jersey Training.</notes>
+  <music>
+    <midi location="ns" length="97">ns0367.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O glorious Christ revealed,
+Myself I fully yield;
+I long to run to You,
+To kiss Your lips anew,
+God's house is my desire,
+Bethel, my dream realized;
+A dwelling for the lonely,
+A feast in Bethany.
+Forgiveness, love and care,
+Real kingdom life we share;
+Peace and joy and righteousness,
+The City filled with praise.
+Campus, homes, and nations,
+Whole earth propagation;
+Glory and praise to His name,
+To all the earth proclaim.</stanza>
+    <stanza type="chorus" number="">Lord, I would offer myself,
+Build Your organic Body;
+Open homes,
+Gain the young,
+Shepherd men,
+Perfect them,
+Bring in the glorious church,
+Hasten, Lord, Your return.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sulod na sa kasingkasing ko</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;NAGTUAW NGADTO SA GINOO</category>
+  <numbers><cebuano num="1061"/><chinese num="733"/><english num="1061"/><korean num="733"/><russian num="300"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Harry Dudley Clarke</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1061"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sulod na sa kasingkasing ko,
+Nag-ampo ko, Ginoo;
+Gihasol, gikapoyng kalag ko,
+Sulod na nako karon.</stanza>
+    <stanza type="chorus" number="">Sulod na sa kasingkasing,
+Sulod na, Ginoong Jesus;
+Mopuyo Ka sa sulod ko,
+Karon dayon, O Ginoo.</stanza>
+    <stanza type="verse" number="2">Sulod na sa kasingkasing ko,
+Laayng kinabuhi ko;
+Mabug-at ang luwan sa sala,
+Sulod na'g mopuyo Ka.</stanza>
+    <stanza type="verse" number="3">Sulod na sa kasingkasing ko,
+Hinloi ug hayagi;
+Pun-a na sa Espiritu Mo,
+Sulod na ug gamhi ko.</stanza>
+  </lyrics>
+</hymn>

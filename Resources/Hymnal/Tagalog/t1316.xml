@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Darating Nobyo natin</title>
+  <index>true</index>
+  <category>PAG-ASA NG KALUWALHATIAN&amp;mdash;ANG ARAW NG KASALAN</category>
+  <numbers><english num="1316"/><tagalog num="1316"/></numbers>
+  <music>
+    <midiref type="h" num="953"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Darating Nobyo natin,
+Nobya Kanyang 'kunin,
+Mga niligawan Niya
+At pinabanal pa.
+Pangino'n maghahanda,
+Puso'y itutugma
+Sa araw ng kasal nalalapit na.</stanza>
+    <stanza type="chorus" number="">Araw ng kasal darating,
+Malapit dumating;
+Ang nobya maging handa,
+Sa Nobyo pakasal siya.
+Anong pag-alay't pagsinta,
+Puso'y tumutugma,
+Sa araw ng kasal nalalapit na.</stanza>
+    <stanza type="verse" number="2">Daramtan tanang tayo,
+Ng damit pinong lino;
+Tahi kada tahi nga,
+Ikaw ang gagawa.
+Bawa't pagkakataon
+'Ming tutubusin ngayon
+Kasalan nalalapit na, Pangino'n.</stanza>
+    <stanza type="verse" number="3">Sa 'ming lo'b bahagi Mo,
+Dagdagan nang husto;
+Nang kami'y ma'nyayahan
+Sa piging kasalan.
+Maging mapagbantay nga -
+Gabi ma't umaga -
+Sapagka't kasalan nalalapit na.</stanza>
+  </lyrics>
+</hymn>

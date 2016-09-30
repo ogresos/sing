@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Once I thought the love of God</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Love</category>
+  <hymncode>3335444322123</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | Dm7 - - - | G7 - - - | C - - - | F - - - | G - - - | Am - - - | Dm7 - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | Dm - - - | G7 - - - | C - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | Dm - - - | G7 - - - | F - G7 - | C - - - |</chords>
+  <melody>| 3 3 3 5 | 4 4 4 3 | 2 2 1 2 | 3 - - - (break) | 3 3 3 5 | 4 4 5 6 | 5( - - - | 5) - - 0 (break) | 3 3 3 5 | 4 4 4 3 | 2 2 1 2 | 3 - - 3 (break) | 4 4 4 3 | 2 2 1 7_. | 1 - - - (break) | 0 3 4 5 | 6 6 6 6 | 6 7/( 6/) 5 4 | 5 5 5/ 5. | 3 1 2 3 (break) | 4 4 4 4 | 4 5/( 4/) 3 2 | 3. 2/ 3 4 | 5 - - - (break) | 0 3 4 5 | 6 6 6 6 | 6 7/( 6/) 5 4 | 5 5/ 5/ 5 5 | 3. 1/ 2 3 (break) | 4 4 4 4 | 4 5/ 4/ 3 2 | 1 - 2 - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Once I thought the love of God was just for you and me. Once I thought we were the on -- ly ones. Now I know God's love can find all those from sea to sea; And when it finds them, they be -- come His sons. God's love is warm -- er than the warm -- est sun -- shine, Soft -- er than a sigh. God's love is deep -- er than the deep -- est o -- cean, Wid -- er than the sky. God's love is bright -- er than the bright -- est star That shines ev -- ery night a -- bove; And there is noth -- ing in this world That can ev -- er change His love.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-e.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="52">c0053.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Once I thought the love of God was just for you and me.
+Once I thought we were the only ones.
+Now I know God's love can find all those from sea to sea;
+And when it finds them, they become His sons.
+God's love is warmer than the warmest sunshine,
+Softer than a sigh.
+God's love is deeper than the deepest ocean,
+Wider than the sky.
+God's love is brighter than the brightest star
+That shines every night above;
+And there is nothing in this world
+That can ever change His love.</stanza>
+  </lyrics>
+</hymn>

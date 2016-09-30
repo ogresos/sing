@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But the God of all grace</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Anne Chao">A. C.</composer>
+  </creators>
+  <hymncode>1232156645335</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - - - | C - C/E - | F - C/E - | F - C - | D - G - | F - C - | F - G - | Dm - G - | Em - Am - | F G C - | F - G - | Em - Am - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 2/ 1/ 5 - | 6 6/ 4/ 5/ 3/ 3/ 5/ | 6./ 6// 7/ ._1/ ._1/ 5/( 5) | 6 5/( 4#/) 6/ 5. | 6/ 6/ 5/ 4/ 5/ 3 3/ | 4 3 2 2/ 3/ | 4 3 2 3/( 4/) | 5 4 3 4/ 5/ (break) | 6( 7) ._1. 5/ | 6 4/ 3/ 2/ 2/ 3/ 4/ | 5 3/( 2/) 1/ 1/ 2/( 3/) | 4 - 3 3/( 2/) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">But the God of all grace, He who has called you in -- to His e -- ter -- nal glo -- ry In Christ Je -- sus, Af -- ter you have suf -- fered a lit -- tle while, Will Him -- self per -- fect, es -- tab -- lish, strength -- en, and ground you. To Him be the glo -- ry and the might for -- ev -- er and ev -- er. A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Peter 5:10-11</link>
+  </links>
+  <music>
+    <midi location="ns" length="34">ns0289.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">But the God of all grace,
+He who has called you into His eternal glory
+In Christ Jesus,
+After you have suffered a little while,
+Will Himself perfect, establish, strengthen, and ground you.</stanza>
+    <stanza type="chorus" number="">To Him be the glory and the might forever and ever.
+Amen.</stanza>
+  </lyrics>
+</hymn>

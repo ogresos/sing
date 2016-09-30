@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>輕訴</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:320"/><portuguese num="276"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55332156713652</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>因 著 你 將 我 吸 引， 我 纔 能 跟 隨 緊 緊， 知 你 是 包 容 無 限， 我 一 生 經 歷 不 盡。 你 好 似 美 麗 鳳 仙， 顯 在 荒 野 的 世 間， 又 好 像 馨 香 沒 藥， 珍 藏 在 我 的 胸 懷。 哦， 願 你 聽 我 輕 訴， 從 此 後 我 無 別 主， 你 豐 富 給 我 享 受， 你 生 命 使 我 成 熟。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0320.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">因著你將我吸引，
+我纔能跟隨緊緊，
+知你是包容無限，
+我一生經歷不盡。
+你好似美麗鳳仙，
+顯在荒野的世間，
+又好像馨香沒藥，
+珍藏在我的胸懷。
+哦，願你聽我輕訴，
+從此後我無別主，
+你豐富給我享受，
+你生命使我成熟。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For Which Cause</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:363"/><lsmyp num="363"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">M. S.</composer>
+    <composer biodate="" biolink="">A. G.</composer>
+  </creators>
+  <hymncode>3576666552171</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | G - - - | F - - - | Dm - - - | G - - - | G - - - | Dm - - - | F - - - | E7 - - - | G7 - - - | C - - - | F - - - | C - - - | F - - - | C - F - | C/G - G7 - | C - - - | C - - - | C - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | F - - - | G - - - | G - - - | F - - - | Dm - - - | G - - - | G - - - | Dm - - - | F - - - | E7 - - - | G7 - - - | C - - - | F - - - | C - - - | F - - - | C - F - | C/G - G7 - | C - - - | C - - - ||</chords>
+  <melody>0 - 3/ 5. | 7( - - - | 6) - 6 6/ 6/( | 6/) 5/( 5) - - | 0. 5/ ._2/ ._1/ 7/ ._1/( | ._1) 4/ 4/( 4/) 5. | 5 - 3/( 4/) 3/ 3/( | 3/) 2/( 2) - - | 0 3/ 3/ 3/ 5. | 7( - - - | 6) - 6 6 | 5 - - - | 0. 5/ ._2/ ._1/ 7/ ._1/( | ._1) 4/ 4/( 4/) 5. | 5 - 3/( 4/) 3/ 3/( | 3/) 2/( 2) - - | 0 - - - (break) | (Chorus) 0 6/ 6/( 6) 6 | 6 - 6/ 6. | 7( - - - | 7) - 0 - | 0 6/ 6/( 6) 6 | 6 - 6/ 6. | 7( - - - | 7) 0 ._1/ ._2. | ._3 - 5 - | 0 - ._1/ ._2. | ._3 - - - | 0 - ._1/ ._2. | ._3 - ._2 - | ._1 - 7 - | ._1( - - - | ._1) 0 - - (break) | (Verse_2) 0 - 3/ 5. | 7( - - - | 6) - 6/ 6/ 6/ 6/( | 6/)( 5/)( 5) - - | 0 5/ 5/ ._2/ ._1/ 7/ ._1/( | ._1) 4/ 4/( 4/) 5. | 6 - - 6/ 6/( | 6/)( 5/)( 5) - - | 0 - 3/ 3/ 5/ 7/( | 7)( - - - | 6) - 6/ 6/ 6/ 6/( | 6/) 5/( 5) - - | 0 5/ 5/ ._2/ ._1/ 7/ ._1/( | ._1) 4/ 4/( 4/) 5. | 6 - - 6/ 6/( | 6/) 5/( 5) - - | 0 - - - (break) | (Chorus) 0 6/ 6/( 6) 6 | 6 - 6/ 6. | 7( - - - | 7) - 0 - | 0 6/ 6/( 6) 6 | 6 - 6/ 6. | 7( - - - | 7) 0 ._1/ ._2. | ._3 - 5 - | 0 - ._1/ ._2. | ._3 - - - | 0 - ._1/ ._2. | ._3 - ._2 - | ._1 - 7 - | ._1( - - - | ._1) 0 - - (break) ||</melody>
+  <layout>
+    <singingstanza end="-1">For which cause, I re -- mind you to fan in -- to flame the gift of God which is in you through the lay -- ing on of my hands, you fan in -- to flame the gift of God, which is in you. For God has not giv -- en us a spir -- it of cow -- ard -- ice, but of pow -- er and of love and of so -- ber -- mind -- ed -- ness. Do not be, be not a -- shamed of the tes -- ti -- mo -- ny of our Lord nor of me; suf -- fer with me and with the gos -- pel, it's the tes -- ti -- mo -- ny of our Lord for the gos -- pel. For God has not giv -- en us a spir -- it of cow -- ard -- ice, but of pow -- er and of love and of so -- ber -- mind -- ed -- ness.</singingstanza>
+  </layout>
+  <notes>From the 2011 East Coast College Training in Athens, Georgia.</notes>
+  <links>
+    <link type="ref">2 Timothy 1:6-8</link>
+  </links>
+  <music>
+    <midi location="ns" length="126">ns0363.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">For which cause, I remind you
+To fan into flame the gift of God
+Which is in you
+Through the laying on of my hands,
+You fan into flame the gift of God,
+Which is in you.</stanza>
+    <stanza type="chorus" number="">For God has not given us
+A spirit of cowardice,
+But of power and of love
+And of sobermindedness.</stanza>
+    <stanza type="verse" number="">Do not be, be not ashamed
+Of the testimony of our Lord
+Nor of me;
+Suffer with me and with the gospel,
+It's the testimony of our Lord
+For the gospel.</stanza>
+  </lyrics>
+</hymn>

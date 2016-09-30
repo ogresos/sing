@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Ron</firstname>
+    <lastname>Price</lastname>
+    <email>ronprice50@gmail.com</email>
+    <password>nbAd99GioyzqRc9CjnxVJA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>75.61.77.89</ipaddress>
+    <createdate>2010-11-18 15:07:01</createdate>
+    <lastupdateddate>2010-12-17 17:05:56</lastupdateddate>
+    <lastlogindate>2010-12-17 17:05:56</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

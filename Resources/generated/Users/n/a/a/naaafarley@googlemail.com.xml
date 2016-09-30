@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Ruby</firstname>
+    <lastname>Mills</lastname>
+    <email>naaafarley@googlemail.com</email>
+    <password>6NCd3twlnOSbBEYcPaOljQ%3D%3D</password>
+    <gender>F</gender>
+    <country>uk</country>
+    <ipaddress>90.212.234.42</ipaddress>
+    <createdate>2011-03-25 16:05:38</createdate>
+    <lastupdateddate>2011-03-25 16:32:41</lastupdateddate>
+    <lastlogindate>2011-03-25 16:05:40</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

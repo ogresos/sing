@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>lily</firstname>
+  <lastname/>
+  <email>love.everybody777@yahoo.com</email>
+  <password>$2y$10$ilRC1oJVfA1RLJQeHO3AZeS1a3zyEuolSz2rRDKeAQcr/IGSFHlGu</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>123.4.233.248</ipaddress>
+  <createdate>2016-07-01 06:31:40</createdate>
+  <lastupdateddate>2016-07-21 00:11:59</lastupdateddate>
+  <lastlogindate>2016-07-01 06:35:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="22">Lord Jesus Christ, I do love You</fav>
+    <fav category="default" type="h" num="96">My song is love unknown</fav>
+    <fav category="default" type="ns" num="405">Saying, Where is He</fav>
+    <fav category="default" type="ch" num="361">主你啟示一個奧祕</fav>
+    <fav category="default" type="ch" num="366">基督雖能千回降生</fav>
+  </favourites>
+</user>

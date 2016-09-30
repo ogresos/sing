@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>趕緊工作夜快臨</title>
+  <index>true</index>
+  <category>事奉－殷勤</category>
+  <numbers><chinese num="661"/><english num="8661"/></numbers>
+  <creators>
+	<author biodate="1836-1907" biolink="www.witnesslee.org">Translated from Anna Louisa Walker Coghill</author>
+  </creators>
+  <melody>| 5 3./ 4// 5 5 | 6 - 5 - | 1 1./ 1// 1 2 | 3 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - (break) | 2 2./ 2// 2 3 | 4.( 3/) 2 - | 3 3./ 3// 3 4# | 5 - - - (break) | 5 3./ 4// 5 5 | 6 - 5 - | 1 2 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>趕 緊 工 作， 夜 快 臨， 工 作 在 於 清 晨； 工 作， 正 當 朝 色 新， 工 作， 花 正 芬； 工 作， 當 日 光 無 蔭， 工 作 在 於 驕 陽； 趕 緊 工 作， 夜 快 臨， 必 須 離 工 場。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8661"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">趕緊工作，夜快臨，
+工作在於清晨；
+工作，正當朝色新，
+工作，花正芬；
+工作，當日光無蔭，
+工作在於驕陽；
+趕緊工作，夜快臨，
+必須離工場。</stanza>
+	<stanza type="verse" number="2">趕緊工作，夜快臨，
+工作在於正午；
+最亮時辰宜辛勤，
+不久不辛苦。
+每一飛逝的光陰，
+都當裝滿成績；
+趕緊工作，夜快臨，
+那時人安息。</stanza>
+	<stanza type="verse" number="3">趕緊工作，夜快臨，
+趁此加深暮景；
+夕陽西移彩霞新，
+再過成灰影；
+最後一線的光陰，
+不久就要沒落；
+趕緊作工，夜正臨，
+轉瞬工作過。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kon gubat mapintas</title>
+  <index>true</index>
+  <category>ESPIRITUHANONG PAKIGGUBAT&amp;mdash;PINAAGI SA PAGDAYEG</category>
+  <numbers><cebuano num="876"/><chinese num="639"/><english num="876"/><korean num="639"/><tagalog num="876"/></numbers>
+  <creators>
+    <author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="876"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kon gubat mapintas,
+Yawa mangtas,
+Saliging Pulong's Dios
+Mag-awit gyud.</stanza>
+    <stanza type="verse" number="2">Singgit lang ug kas-a,
+Modaug ka;
+Baba di tak-omon
+Kay dag-on ka.</stanza>
+    <stanza type="verse" number="3">Kon espiritu mo,
+Walay kusog,
+Ampo, salig's dugo,
+Modaug gyud.</stanza>
+    <stanza type="verse" number="4">Kapintas' kaaway,
+Awayon gyud;
+Kon lig-ong mobarug,
+S'ya mokurog.</stanza>
+    <stanza type="verse" number="5">Busa imantala
+Pagdaug N'ya;
+Kahimtang mangiob
+Mohayag ra.</stanza>
+  </lyrics>
+</hymn>

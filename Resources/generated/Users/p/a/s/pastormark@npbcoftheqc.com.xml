@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Mark</firstname>
+    <lastname>Frederick</lastname>
+    <email>pastormark@npbcoftheqc.com</email>
+    <password>lWJxAGeZAcOJPl1LtSwvMg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>99.152.3.141</ipaddress>
+    <createdate>2011-11-13 12:45:11</createdate>
+    <lastupdateddate>2011-11-13 13:44:30</lastupdateddate>
+    <lastlogindate>2011-11-13 13:09:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+        <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+    </favourites>
+</user>

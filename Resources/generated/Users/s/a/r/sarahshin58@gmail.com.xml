@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname/>
+  <email>sarahshin58@gmail.com</email>
+  <password>$2y$10$g0pQtQkLkEf8.GoZWeBrAOSln4EO4HrbYe0wW.QRk1OEvQzr9pBzK</password>
+  <gender/>
+  <country/>
+  <ipaddress>70.211.70.62</ipaddress>
+  <createdate>2014-08-04 06:55:51</createdate>
+  <lastupdateddate>2014-08-04 07:00:22</lastupdateddate>
+  <lastlogindate>2014-08-04 06:56:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+  </favourites>
+</user>

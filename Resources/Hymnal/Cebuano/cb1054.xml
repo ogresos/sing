@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ay' ko'g labyi, Manluluwas</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;NAGTUAW NGADTO SA GINOO</category>
+  <numbers><cebuano num="1054"/><chinese num="730"/><english num="1054"/><korean num="730"/><tagalog num="1054"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1054"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ay' ko'g labyi, Manluluwas,
+Dunggang tuaw ko;
+Samtang's uban nagtawag Ka,
+Ayaw ko'g labyi.</stanza>
+    <stanza type="chorus" number="">Manluluwas,
+Pamatia ko;
+Samtang's uban nagtawag Ka,
+Ayaw ko'g labyi.</stanza>
+    <stanza type="verse" number="2">Sa trono Mo sa kaluoy
+Papahulaya;
+Nagluhod mahinulsolon,
+Wa koy pagtoo.</stanza>
+    <stanza type="verse" number="3">Nagsalig ra sa buhat Mo,
+Pangitaon Ka;
+Esp'ritung samdan ayoha,
+L'wasa's grasya Mo.</stanza>
+    <stanza type="verse" number="4">Labaw Ka pa's kinabuhi,
+Tubod's kalipay;
+Walay lain gawas Nimo's
+Langit ba'g yuta.</stanza>
+  </lyrics>
+</hymn>

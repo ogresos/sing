@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gamay ko nga langgam</title>
+  <index>true</index>
+  <category>PAGLIPAY SA MGA PAGSULAY&amp;mdash;SA PAGPAHIMULOS DIHA SA PAG-ANTUS</category>
+  <numbers><cebuano num="724"/><chinese num="524*"/><english num="724"/><german num="724"/><korean num="524"/><russian num="373"/><tagalog num="724"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Translated from Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 5 6 7 | ._1 - - ._1/( 7/) | 6 5 4 3 (break) | 3( - 2) 3/( 4/) | 5 ._1 6 7 | ._1. 7/ ._1 ._2 | ._3 ._2/( ._1/) 7 6 (break) | 5 - - 3/( 4/) | 5 6 5 3/( 4/) | 5 6 (.5 5 (break) | ._1 - ._2 - | ._3.( ._2/ ._1) 6 | 5 - 7 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="724"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gamay ko nga langgam,
+Nadakpan's umahan,
+Bisag gihawla's Ginoo,
+Siyay awitan ko;
+Nalipay nga gihawla Mo,
+Kay m'oy gikahimut-an Mo.</stanza>
+	<stanza type="verse" number="2">Way laing buhaton,
+Sa tanang panahon,
+Awita'g pahamut-an S'yang
+Naminaw's awit ko.
+Bisan gigapos Mong pako
+Namati Ka sa awit ko.</stanza>
+	<stanza type="verse" number="3">Awit paminawon,
+Ako bulahanon;
+Bisag awit di matahum;
+Imong pamation.
+Kay nasayud Kang awit ko
+Dinasig's gugma ko Nimo.</stanza>
+	<stanza type="verse" number="4">Bilanggo ning hawla,
+Di na makagula;
+Kasingkasing ko gawas man,
+Bisag pako hiniktan;
+Hawla di makabilanggo,
+Sa kagawasan's kalag ko.</stanza>
+	<stanza type="verse" number="5">O nindot ilupad
+Kining tanang babag!
+Kaniya kansang pagbuot
+Ug tuyo gimahal;
+Sa pagbuot Mo mapalgan,
+Ang kalipay ko'g kagawasan.</stanza>
+  </lyrics>
+</hymn>

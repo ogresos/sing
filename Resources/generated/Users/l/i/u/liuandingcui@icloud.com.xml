@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>丁美翠</firstname>
+  <lastname/>
+  <email>liuandingcui@icloud.com</email>
+  <password>$2y$10$Qrr0Rv5siCpTxdQo2EstsesUnSsvEpr8eHZCKQGoeP2QEYaxFXf3.</password>
+  <gender/>
+  <country/>
+  <ipaddress>183.193.144.214</ipaddress>
+  <createdate>2016-04-22 00:28:24</createdate>
+  <lastupdateddate>2016-04-22 00:35:04</lastupdateddate>
+  <lastlogindate>2016-04-22 00:31:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="4">你的恩典一生之久</fav>
+  </favourites>
+</user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Barbara</firstname>
+    <lastname>McGrew</lastname>
+    <email>barjac@charter.net</email>
+    <password>IJhKPiMzaZZA7KVDgDhMvg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>71.80.201.201</ipaddress>
+    <createdate>2011-04-15 13:57:28</createdate>
+    <lastupdateddate>2011-04-15 14:18:42</lastupdateddate>
+    <lastlogindate>2011-04-15 13:57:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="452">Tell me not of earthly pleasures</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+    </favourites>
+</user>

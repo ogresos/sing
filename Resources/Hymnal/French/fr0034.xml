@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Seigneur, Ta grâce surabonde</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;la satisfaction avec Lui</category>
+  <numbers><cebuano num="208"/><chinese num="169"/><english num="208"/><french num="34"/><german num="208"/><korean num="169"/><portuguese num="112"/><russian num="39"/><spanish num="95"/><tagalog num="208"/></numbers>
+  <creators>
+	<author biodate="1814-1863" biolink="">Translated from Frederick William Faber</author>
+	<author biodate="1849-1928" biolink="">Translated from Russell Kelso Carter, chorus</author>
+  </creators>
+  <melody>| 0 - - 0 - 3 | 3 - 3 3 - 3 | 5 - 5 ._1 - 5 | 6 - 4 4( 5) 6 | 5( - - 5) - 5 (break) | 5 - 2 2( 3) 4 | 3 - 1 5 - 5 | 5 - 2 2( 3) 4 (break) | 3( - - 5) - (Chorus) 5 | 6 - 6 6 - 6 | 5# - 6 7 - 3 | ._1 - ._1 ._1 - ._1 | 7 - ._1 ._2 - 5 (break) | ._3 - ._2 ._1 - 7 | ._2 - ._1 6 - 4 | 5 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <music>
+	<midiref type="h" num="208"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jésus, Jésus, ô cher Seigneur,
+Pardonne si je dis,
+Par simple amour, Ton nom béni,
+Plus de mille fois par jour.</stanza>
+	<stanza type="chorus" number="">Seigneur, demeure auprès de moi
+Pour que je me repose en Toi.
+Oui, Ton regard sera ma joie,
+Je T'aime cher Seigneur !</stanza>
+	<stanza type="verse" number="2">Je T'aime tant que je ne puis
+Contenir mon amour.
+Ton feu ardent brûle et consume
+Mon âme chaque jour.</stanza>
+	<stanza type="verse" number="3">Tu es pour moi tout et en tous,
+Le désir de mon cœur,
+La pleine guérison de l'âme,
+La force de mon corps.</stanza>
+	<stanza type="verse" number="4">Brûle, ô Amour ! Brûle et consume !
+Remplis mon cœur de Toi,
+Afin que tout amour terrestre,
+Soit consumé en moi.</stanza>
+	<stanza type="verse" number="5">Tu es ma joie au sein des peines.
+Tu es inestimable :
+Éclat divin chassant la nuit,
+Oh ! trésor ineffable !</stanza>
+	<stanza type="verse" number="6">Seigneur, Ta grâce surabonde,
+Ton amour est sans fin,
+De jour en jour il nous inonde,
+Jamais rien ne l'éteint.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A mi Redentor yo canto</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Redimidos por la sangre</category>
+  <numbers><english num="305"/><spanish num="148"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="305"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">A mi Redentor yo canto
+Por Su tierno͜ y vasto͜ amor;
+En la cruenta cruz muriendo
+Me libró de maldición.</stanza>
+    <stanza type="chorus" number="">Cantaré de Jesucristo,
+Mi amado Redentor;
+En la cruz pagó mis deudas,
+Con Su sangre me compró.</stanza>
+    <stanza type="verse" number="2">Contaré la bella͜ historia
+De mi͜ eterna salvación;
+Por Su gran misericordia
+Mi rescate El pagó.</stanza>
+    <stanza type="verse" number="3">Cantaré mis alabanzas
+Al triunfante Redentor,
+Quien la muerte y͜ el pecado
+Destruyó a mi favor.</stanza>
+    <stanza type="verse" number="4">A mi Redentor yo canto,
+Por Su celestial amor;
+Me pasó de muerte͜ a vida,
+Soy con El hijo de Dios.</stanza>
+  </lyrics>
+</hymn>

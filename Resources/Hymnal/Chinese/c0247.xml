@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>驚人恩典何等甘甜</title>
+  <index>true</index>
+  <category>得救的證實與快樂－藉恩得救</category>
+  <numbers><cebuano num="313"/><chinese num="247"/><english num="313"/><korean num="247"/><russian num="67"/><spanish num="154"/><tagalog num="313"/></numbers>
+  <creators>
+	<author biodate="1725-1807" biolink="">Translated from John Newton</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 - 3/( 1/) | 3 - 2 | 1 - 6_. (break) | 5_. - 5_. | 1 - 3/( 1/) | 3 - 2 (break) | 5 - 3 | 5.( 3/) 5/( 3/) | 1 - 5_. | 6_..( 1/) 1/( 6_./) (break) | 5_. - 5_. | 1 - 3/( 1/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>驚 人 恩 典！ 何 等 甘 甜， 來 救 無 賴 如 我！ 前 曾 失 落， 今 被 尋 見！ 前 盲， 今 不 摸 索！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="313"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">驚人恩典！何等甘甜，
+來救無賴如我！
+前曾失落，今被尋見！
+前盲，今不摸索！</stanza>
+	<stanza type="verse" number="2">恩典教導我心懼怕，
+又將懼怕除掉；
+恩典在我初信剎那，
+顯為何等可寶。</stanza>
+	<stanza type="verse" number="3">主已應許向我施恩，
+祂話就是保證；
+祂要作我盾牌、永分，
+帶我經過此生。</stanza>
+	<stanza type="verse" number="4">當我見主萬年之後，
+仍像太陽照耀，
+比我開始讚美時候，
+讚美仍不減少。</stanza>
+  </lyrics>
+</hymn>

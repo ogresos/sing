@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Alex</firstname>
+    <lastname>Blakeley</lastname>
+    <email>alex.blakeley@sport-webmedia.info</email>
+    <password>YWB5kzmUWRaNhqnVdIiZoQ%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>86.138.61.187</ipaddress>
+    <createdate>2011-05-10 08:35:29</createdate>
+    <lastupdateddate>2011-07-22 05:42:57</lastupdateddate>
+    <lastlogindate>2011-07-22 05:42:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="188">Dear Lord, Thou art the Son of God</fav>
+        <fav category="default" type="h" num="508">Made free! Made free! O captive</fav>
+        <fav category="default" type="h" num="85">O come, all ye faithful! joyfully triumphant</fav>
+        <fav category="default" type="h" num="242">The Spirit of God today</fav>
+        <fav category="default" type="h" num="1194">There are two lines to live by in our living today</fav>
+        <fav category="default" type="nt" num="642">Within the veil</fav>
+    </favourites>
+</user>

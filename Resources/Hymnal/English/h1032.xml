@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come, ye sinners, poor and wretched</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <numbers><chinese num="721"/><english num="1032"/><korean num="721"/><tagalog num="1032"/></numbers>
+  <creators>
+    <author biodate="1712-1768" biolink="">Joseph Hart</author>
+    <composer biodate="1790-1867" biolink="">William Letton Viner</composer>
+  </creators>
+  <meter>8.7.8.7.8.7.</meter>
+  <hymncode>17653615332162171</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C F/C C - | F - C - | C - F - | C/G G7 C - | C - C/E - | G7 - C - | C - C/E - | C - G - | C - - - | F - C - | C - F - | C/G G7 C - |</chords>
+  <melody>| ._1 7/( 6/) 5 3 | 6 ._1 5 3 | ._3 ._2/( ._1/) 6 ._2 | ._1 7 ._1 - (break) | ._3 ._3/( ._4/) ._5 ._3 | ._4 ._2 ._3 ._1 | ._3 ._3/( ._4/) ._5 ._3 | ._4 ._3 ._2 - (break) | ._1 7/( 6/) 5 3 | 6 ._1 5 3 | ._3 ._2/( ._1/) 6 ._2 | ._1 7 ._1 - |</melody>
+  <layout>
+    <singingstanza>Come, ye sin -- ners, poor and wretch -- ed, Weak and wound -- ed, sick and sore; Je -- sus rea -- dy waits to save you, Full of pit -- y, love and pow'r: He is a -- ble, He is a -- ble, He is will -- ing, doubt no more.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj103.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="28">e1032_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Come, ye sinners, poor and wretched,
+Weak and wounded, sick and sore;
+Jesus ready waits to save you,
+Full of pity, love and pow'r:
+He is able, He is able,
+He is willing, doubt no more.</stanza>
+    <stanza type="verse" number="2">Come, ye needy, come and welcome;
+God's free bounty glorify;
+True belief and true repentance,
+Every grace that brings us nigh,
+Without money, without money,
+Come to Jesus Christ and buy.</stanza>
+    <stanza type="verse" number="3">Let not conscience make you linger,
+Nor of fitness fondly dream;
+All the fitness He requireth
+Is to feel your need of Him:
+This He gives you, this He gives you,
+'Tis the Spirit's rising beam.</stanza>
+    <stanza type="verse" number="4">Come, ye weary, heavy laden,
+Lost and ruined by the fall;
+If you tarry till you're better,
+You will never come at all:
+Not the righteous, not the righteous,
+Sinners Jesus came to call.</stanza>
+    <stanza type="verse" number="5">Agonizing in the garden,
+Your Redeemer prostrate lies;
+On the bloody tree behold Him!
+Hear Him cry, before He dies,
+"It is finished!" "It is finished!"
+Sinner, will not this suffice?</stanza>
+    <stanza type="verse" number="6">Lo! th' incarnate God, ascended,
+Pleads the merit of His blood;
+Venture on Him, venture wholly;
+Let no other trust intrude:
+None but Jesus, none but Jesus,
+Can do helpless sinners good.</stanza>
+  </lyrics>
+</hymn>

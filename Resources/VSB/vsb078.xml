@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>To be baptized in the Spirit</title>
+  <index>true</index>
+  <category>Baptism&amp;mdash;In the Spirit</category>
+  <numbers><english num="ns:184"/><vsb num="78"/></numbers>
+  <creators>
+    <author biodate="" biolink="">LSM Corinthians Training Song Tape</author>
+    <composer biodate="" biolink="">LSM Corinthians Training Song Tape</composer>
+  </creators>
+  <hymncode>5511712555221715</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | G/B - - - | C - - - | F - G - | C - - - | C - - - | G - - - | G/B - - - | C - - - | Dm - C - | G - C - | F - G7 - | C - - - | G - - - | C - - - | F - C - | G - - - | F - - - | C - - - | G - - - | C - - - | C - - - | G - - - | C - - - | G - - - | G/B - - - | C - - - | F - C - | G - C - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_../ 5_.// | 1 1 - 7_../ 1// | 2 5_. - 5_../ 5_.// | 2 2 - 1./ 7_.// | 1 5_. - 5_../ 5_.// (break) | 6_.( 1) 1 7_. | 1 - - 5_. | 1 - - 7_../ 1// | 2 5_. - 5_../ 5_.// (break) | 2 2 2 1./( 2//) | 3 - - 3 | 4 - 3 - | 2 - 1 5_../ 5_.// | 6_. 1 - 7_. | 1 - - 0 (break) | 2 2 2 1./( 7_.//) | 1 5_. - 3./ 3// | 4 2 3 2./( 1//) | 5 5 - 2./ 3// | 4 4 - 3./ 2// | 3 3( 3./) 3// 1./ 3// | 2 2 2./ 2// 1./ 2// | 3 3 - 4 | 3 - 2 1 (break) | 5 - - 5_. | 1 - - 7_../( 1//) | 2 5_.( 5_../) 5_.// 5_../ 5_.// | 2 2 2 1./ 2// (break) | 3 3 - 3 | 4 - 3 - | 2 - 1 5_. | 6_.( 1)( - 7_.) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>To be bap -- tized in the Spir -- it Is to get in -- to the Spir -- it And to be lost in Him. To drink of the Spir -- it Is to take the Spir -- it in And have our be -- ing sat -- u -- rat -- ed with Him. By these two pro -- ce -- dures We are min -- gled with the Spir -- it. To be bap -- tized in the Spir -- it Is the in -- i -- ti -- a -- tion of the min -- gling And is once for all. To drink the Spir -- it Is the ac -- com -- plish -- ment of the min -- gling And is per -- pe -- tual for -- ev -- er.</singingstanza>
+  </layout>
+  <notes>From note 5 of 1 Cor. 12:13</notes>
+  <links>
+    <link type="ref">1 Corinthians 12:13</link>
+  </links>
+  <music>
+    <midi location="ns" length="68">ns0184.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">To be baptized in the Spirit
+Is to get into the Spirit
+And to be lost in Him.
+To drink of the Spirit
+Is to take the Spirit in
+And have our being saturated with Him.
+By these two procedures
+We are mingled with the Spirit.
+To be baptized in the Spirit
+Is the initiation of the mingling
+And is once for all.
+To drink the Spirit
+Is the accomplishment of the mingling
+And is perpetual forever.</stanza>
+  </lyrics>
+</hymn>

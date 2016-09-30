@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Славь Бога – Он дарует всё</title>
+  <index>true</index>
+  <category>БЛАГОСЛОВЕНИЕ ТРИЕДИНОГО БОГА&amp;mdash;ХВАЛА ЕМУ</category>
+  <numbers><cebuano num="8"/><chinese num="5"/><dutch num="8"/><english num="8"/><german num="8"/><korean num="5"/><portuguese num="2"/><russian num="1"/><spanish num="4"/><tagalog num="8"/></numbers>
+  <creators>
+	<author biodate="1637-1711" biolink="">Translated from Thomas Ken</author>
+  </creators>
+  <melody>| 0 - - 1 | 1 7_. 6_. 5_. | 1 2 3( - | 3) 3 3 3 | 2 1 4 3 | 2 - - 1 (break) | 2 3 2 1 | 6_. 7_. 1( - | 1) 5 3 1 | 2 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Славь Бо -- га_– Он да -- ру -- ет всё; Вся тварь зем -- на -- я, славь Е -- го; Вос -- пой -- те, не -- бе -- са, хва -- лу; Славь -- ся, О -- тец, и Сын, и Дух!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Славь Бога – Он дарует всё;
+Вся тварь земная, славь Его;
+Воспойте, небеса, хвалу;
+Славься, Отец, и Сын, и Дух!</stanza>
+	<stanza type="verse" number="2">Отца прославьте – Он исток;
+Прославьте Сына – русло Он;
+Прославьте Духа – Он поток;
+Здесь, на земле, удел наш – Бог!</stanza>
+  </lyrics>
+</hymn>

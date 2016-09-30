@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Claire</firstname>
+  <lastname/>
+  <email>yurykim@gmail.com</email>
+  <password>$2y$10$RIvC/sd3x5ql5aJyEUIVh.0AZKv0V2bWv7zcYwiQ2DuMR0gAp328K</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>120.17.128.15</ipaddress>
+  <createdate>2016-06-24 09:52:18</createdate>
+  <lastupdateddate>2016-06-24 09:53:59</lastupdateddate>
+  <lastlogindate>2016-06-24 09:53:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1056">Jesus, my Lord, to Thee I cry</fav>
+  </favourites>
+</user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>那愛我們憐憫我們</title>
+  <index>true</index>
+  <category>讚美主－一般</category>
+  <numbers><chinese num="191"/><english num="8191"/><tagalog num="c191"/></numbers>
+  <melody>| 1. 2/ 3. 2/ | 1/( 7_./) 6_./( 5_./) 5_./( 1/) 1 | 2 3/( 4#/) 5. 1/ | 7_. 6_. 5_. - (break) | 2. 2/ 1/( 7_./) 6_./( 5_./) | 1 2 3 3 | 3. 3/ 2/( 1/) 7_./( 6_./) | 5_. 4#_. 5_. - (break) | 1. 1/ 1/( 7_./) 7_. | 6_.. 6_./ 6_./( 5_./) 5_. | 3. 3/ 4. 4/ | 3 2 1 - ||</melody>
+  <layout>
+	<singingstanza>那 愛 我 們， 憐 憫 我 們， 在 凡 事 恩 待 我 們， 白 白 流 血 拯 救 我 們， 捨 命， 活 我 們 的 主， 但 願 權 能、 榮 耀、 國 度， 歸 給 祂 直 到 永 古！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8191"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">那愛我們，憐憫我們，
+在凡事恩待我們，
+白白流血拯救我們，
+捨命，活我們的主，
+但願權能、榮耀、國度，
+歸給祂直到永古！</stanza>
+  </lyrics>
+</hymn>

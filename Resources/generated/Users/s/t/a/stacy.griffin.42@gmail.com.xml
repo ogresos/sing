@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Stacy</firstname>
+    <lastname>Griffin</lastname>
+    <email>stacy.griffin.42@gmail.com</email>
+    <password>HcS%2FYovAe1oFvDfweqnjjA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.184.91.181</ipaddress>
+    <createdate>2013-04-23 19:20:38</createdate>
+    <lastupdateddate>2013-04-23 19:32:12</lastupdateddate>
+    <lastlogindate>2013-04-23 19:20:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="137">I am baptized</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="nt" num="788">When thou wakest in the morning</fav>
+    </favourites>
+</user>

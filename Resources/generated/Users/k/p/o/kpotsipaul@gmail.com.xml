@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Paul</firstname>
+  <lastname/>
+  <email>kpotsipaul@gmail.com</email>
+  <password>$2y$10$W/tJqvLBp0aTK8ZB09AeZOamLihusq9WjDzvsrRU3Y8lYIAVwm7PW</password>
+  <gender/>
+  <country>Canada</country>
+  <ipaddress>24.114.36.31</ipaddress>
+  <createdate>2013-10-19 10:58:13</createdate>
+  <lastupdateddate>2015-12-31 03:01:19</lastupdateddate>
+  <lastlogindate>2015-12-31 02:53:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="ns" num="24">Lord, You are more precious than silver</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

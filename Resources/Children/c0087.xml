@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May Jehovah Bless You!</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <composer biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</composer>
+    <composer biodate="" biolink="" fullname="Paula King">P. K.</composer>
+  </creators>
+  <hymncode>5512356715</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 | C - - | C - - | F - - | C - - | F - - | C - - | G7 - - | G7 - - | C - - | C - - | F - - | C - - | F - - | C - - | G7 - - | C - - | C - - | C - - | F - - | C - - | F - - | C - - | G7 - - | G7 - - | C - - | C - - | F - - | C - - | F - - | C - - | G7 - - | C - - ||</chords>
+  <melody>| 0 - 5/ 5/ | 1 2 3 | 5 - - | 6 7 ._1 | 5 - - (break) | 6 7 ._1 | ._1 5 3/ 5/ | 4 3 2 | 5 - 5/ 5/ (break) | 1 2 3 | 5 - - | 6 7 ._1 | 5 - - (break) | 6 7 ._1 | ._1 5 3/ 5/ | 5 6 7 | ._1 - - (break) | (Verse_2) ._1( 7) 6 | 5( 6) 7 | ._1( 7 6) | 5 - - (break) | ._1( ._2) ._3 | ._3 ._1 - | ._2( ._1 7) | 7 - - (break) | ._1( 7) 6 | 5( 6) 7 | ._1( 7 6) | 5 - - (break) | ._1( ._2) ._3 | ._3 ._1 - | 7( ._1 ._2) | ._3 - 0 ||</melody>
+  <layout>
+    <singingstanza end="2">May Je -- ho -- vah who made heav -- en and earth Bless you from Zi -- on, may Je -- ho -- vah bless you! May Je -- ho -- vah who made heav -- en and earth Bless you from Zi -- on, may Je -- ho -- vah bless you! May Je -- ho -- vah bless you; May Je -- ho -- vah bless you! May Je -- ho -- vah bless you; May Je -- ho -- vah bless you!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2012 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="50">c0087.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May Jehovah who made heaven and earth
+Bless you from Zion, may Jehovah bless you!
+May Jehovah who made heaven and earth
+Bless you from Zion, may Jehovah bless you!</stanza>
+    <stanza type="verse" number="2">May Jehovah bless you;
+May Jehovah bless you!
+May Jehovah bless you;
+May Jehovah bless you!</stanza>
+    <stanza type="note" number="">Verses 1 and 2 can be sung together.</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2012 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bethany</firstname>
+  <lastname>Jordan</lastname>
+  <email>bethanynjordan2014@gmail.com</email>
+  <password>$2y$10$r3AxziUDN1k4Xk9K4zsB4e9sW6kD.KKhES62bcCQeqDO76Q5MHnQ6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.29.153.239</ipaddress>
+  <createdate>2014-09-18 17:50:52</createdate>
+  <lastupdateddate>2014-09-19 04:14:02</lastupdateddate>
+  <lastlogindate>2014-09-19 03:20:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+  </favourites>
+</user>

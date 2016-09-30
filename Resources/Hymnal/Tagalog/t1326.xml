@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhay ay ano nga ba</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PANGKALAHATAN</category>
+  <numbers><chinese num="ts:818"/><dutch num="24"/><english num="1326"/><tagalog num="1326"/></numbers>
+  <music>
+    <midiref type="h" num="1326"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Buhay ay ano nga ba?
+Anong sagot? Tingnan nga!</stanza>
+    <stanza type="verse" number="">Tawagin Hesu-Kristo,
+Siya nga'y sadyang totoo;
+Ang buhay masagana,
+Ilog umaagos na.
+Simulan bagong buhay,
+Ligaya'y tinataglay,
+Pinuspos ng pagsinta,
+Ito'y dahil sa Kanya! (Aleluya)</stanza>
+  </lyrics>
+</hymn>

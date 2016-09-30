@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神將被擄的帶回錫安</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <numbers><chinese num="ts:502"/><english num="1337*"/><german num="1337"/><korean num="923"/><spanish num="496"/></numbers>
+  <hymncode>51355654355</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G7 - - - | C/G - G7 - | C - - - | F - - - | C - - - | G7 - - - | C - - - | F - - - | C - - - | D7 - - - | G7 - - - | C - - - | C - - - | C - - - | Dm - - - | Dm - - - | G7 - - - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 3/ | 5 5/ 6/ 5 4/ 3/ | 5 5 0/ 5_./ 1/ 3/ | 5 5/ 6/ 5 4/ 3/ | 4 4 0/ 5_./ 7_./ 2/ | 4 4/ 5/ 4 3/ 2/ | 4 4 0 5/ 4/ | 3/ 0/ 2/ 1/ 2/ 0/ 1/ 7_./ | 1 - - 0 | 6_./ 1/ 1/ 2/ 1. 6_./ | 5_. 3( 3) 0 | 5_./ 2/ 2/ 3/ 2. 1/ | 3 - - 0 | 6_./ 1/ 1/ 2/ 1. 6_./ | 5_. 3( 3) 0 | 1/ 1/ 1/ 2/ 3 2/ 1/ | 2 - 0/ 5_./ 1/ 3/ | 5 5/ 6/ 5 4/ 3/ | 5 5 0/ 5_./ 1/ 3/ | 5 5/ 6/ 5 4/ 3/ | 4 - 0/ 5_./ 7_./ 2/ | 4 4/ 5/ 4 3/ 2/ | 4 4 0 5/ 4/ | 3/ 0/ 2/ 1/ 2/ 0/ 1/ 7_./ | 1 - - 0 ||</melody>
+  <layout>
+	<singingstanza>當 神 將 那 被 擄 的 帶 回 錫 安， 我 們 像 作 夢 的 人， 滿 懷 感 讚！ 我 們 滿 口 的 喜 笑， 滿 舌 歡 呼， 神 果 然 為 我 們 行 大 事！ 主 阿， 使 歸 回 的 增 多， 像 南 地 河 水 復 流！ 看 哪！ 父 老 們 在 號 哭， 聽 哪， 少 年 們 在 歡 呼！ 如 今 我 們 一 同 經 營 並 唱 歌； 流 淚 撒 種 的 必 歡 呼 收 割。 阿 利 路 亞！ 將 禾 捆 都 帶 回 家； 在 錫 安 榮 耀 歸 耶 和 華！</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 126:1-6</link>
+  </links>
+  <music>
+	<midi location="ts" length="">ts0502.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當神將那被擄的帶回錫安，
+我們像作夢的人，
+滿懷感讚！
+我們滿口的喜笑，
+滿舌歡呼，
+神果然為我們行大事！
+主阿，使歸回的增多，
+像南地河水復流！
+看哪！父老們在號哭，
+聽哪，少年們在歡呼！
+如今我們
+一同經營並唱歌；
+流淚撒種的必歡呼收割。
+阿利路亞！
+將禾捆都帶回家；
+在錫安榮耀歸耶和華！</stanza>
+  </lyrics>
+</hymn>

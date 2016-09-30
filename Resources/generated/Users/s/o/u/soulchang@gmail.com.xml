@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>soulchang</firstname>
+  <lastname>liu</lastname>
+  <email>soulchang@gmail.com</email>
+  <password>$2y$10$8smT1hjotBjUB0PvB4lPrOK8.7PYUEEb6Qb0yDhmryVo8JPzTB/hy</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>1.162.68.83</ipaddress>
+  <createdate>2016-08-23 05:36:46</createdate>
+  <lastupdateddate>2016-08-23 05:43:31</lastupdateddate>
+  <lastlogindate>2016-08-23 05:40:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="517">前途如何我不知</fav>
+  </favourites>
+</user>

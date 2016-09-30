@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pourquoi m'effrayer, qu'ai-je à redouter</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;la communion avec Lui</category>
+  <numbers><chinese num="406"/><english num="558"/><french num="100"/><korean num="406"/><portuguese num="281"/><tagalog num="558"/></numbers>
+  <creators>
+    <author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Quelle communion, quelle immense joie :
+Le Dieu tout-puissant est mon soutien !
+Sa vie me remplit, Sa paix règne en moi,
+Son bras éternel est mon soutien !</stanza>
+    <stanza type="chorus" number="">Soutien, soutien,
+J'ai tout remis entre Ses mains.
+Soutien, soutien,
+Son bras éternel est mon soutien !</stanza>
+    <stanza type="verse" number="2">Marchant avec joie comme un pèlerin,
+Le Dieu tout-puissant est mon soutien !
+Toujours plus radieux s'ouvre mon chemin,
+Son bras éternel est mon soutien !</stanza>
+    <stanza type="verse" number="3">Pourquoi m'effrayer, qu'ai-je à redouter ?
+Le Dieu tout-puissant est mon soutien !
+Tout près du Seigneur, je suis rassuré,
+Son bras éternel est mon soutien !</stanza>
+  </lyrics>
+</hymn>

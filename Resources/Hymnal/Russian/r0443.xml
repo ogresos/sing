@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Наш Бог Отец, Твоё мы славим Имя</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ХВАЛА ЕМУ ОТ МНОГИХ СЫНОВЕЙ</category>
+  <numbers><cebuano num="53"/><chinese num="50"/><english num="53"/><korean num="50"/><russian num="443"/><tagalog num="53"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from German</author>
+    <author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 3/ 5/ | ._3. ._3/ ._2/ ._1/ 6/ ._1/ | 6( 5.) 5/ 7/ ._2/ (break) | ._4. ._4/ ._4/ ._4#/ ._5/ ._2/ | ._3 - 0/ 5/ 3/ 5/ (break) | ._3. ._3/ ._2/ ._1/ 6/ ._1/ | 6( 5.) 5/ ._1/ ._3/ (break) | ._5/ ._3/ ._1/ ._2/ ._3/( ._1/) ._2 | ._1( - ._1/) 0. |</melody>
+  <music>
+    <midiref type="h" num="53"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Наш Бог Отец, Твоё мы славим Имя,
+Ответив вновь любви Твоей в Христе;
+По Твоей воле Он, предвидя радость,
+Презрел позор и умер на кресте.</stanza>
+    <stanza type="verse" number="2">Он песнь хвалы средь братьев начинает,
+У нас в ответ хвалой сердца полны.
+Сейчас, когда Он голос Свой возносит,
+Тебя, едины в духе, славим мы.</stanza>
+    <stanza type="verse" number="3">В Своём любимом Сыне Ты избрал нас
+И дал нам радость пред Твоим лицом;
+Нас предназначил от начала мира
+В тот мир, где благодать Твоя во всём.</stanza>
+    <stanza type="verse" number="4">Сыны любви, Твоим мы Духом полны,
+Нам вечной долей стал Христос внутри.
+К Твоей отраде, к радости навеки
+Он – в каждом, кто вкусил Его любви.     </stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Du, Herr, für Gott bist kostbar</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Süße</category>
+  <numbers><cebuano num="169"/><chinese num="138"/><english num="169"/><german num="169"/><korean num="138"/><portuguese num="80"/><tagalog num="169"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3 | 3 3 2. 2/ | 1 - 1 1 | 4. 4/ 3 4 | 2 - - 2 (break) | 5. 5/ 4 4 | 3 - 2 2 | 1 1 7_./( 1/) 2/( 7_./) (break) | 1 - - (Chorus) 1 | 1. 1/ 1 2 | 3 - 3 1 | 1. 1/ 1 2 | 3 - - 3/ 4/ (break) | 5 5 6. 5/ | 5 - 4 4 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Du, Herr, für Gott bist kost -- bar, Er -- wählt, ge -- liebt da -- zu; Ge -- salbt mit Öl der Freu -- de, Wie an -- mu -- tig bist Du. Wir schät -- zen in -- nig Dei -- ne Voll -- kom -- me -- ne Schön -- heit, Dei -- nen Duft und Dein -- e Sü -- ße, All Dei -- ne Lieb -- lich -- keit.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="169"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Du, Herr, für Gott bist kostbar,
+    Erwählt, geliebt dazu;
+Gesalbt mit Öl der Freude,
+    Wie anmutig bist Du.</stanza>
+	<stanza type="chorus" number="">Wir schätzen innig Deine
+    Vollkommene Schönheit,
+Deinen Duft und Deine Süße,
+    All Deine Lieblichkeit.</stanza>
+	<stanza type="verse" number="2">An Dir ist alles lieblich,
+    Der Schönste aller bist!
+Dein Mund fließt voller Gnade;
+    Sanft unser Herz anziehst.</stanza>
+	<stanza type="verse" number="3">Die Weisen gaben Schätze,
+    Sie ehrten Dich, oh Gott;
+Die Edlen Dich begruben,
+    Warst lieblich selbst im Tod.</stanza>
+	<stanza type="verse" number="4">Gesalbt Dein Haupt, Herr, wurde,
+    Der Lieblichste bist Du,
+Auf Deine Füße Salböl
+    Goss sie in Liebesruh.</stanza>
+	<stanza type="verse" number="5">Dein Tod, so süß wie Myrrhe,
+    Er tröstet unsren Geist,
+Dein Auferstehungsduft, Herr,
+    Das Sehnen Gottes speist.</stanza>
+	<stanza type="verse" number="6">Du bist so schön wie Henna,
+    Vollkommne Lieblichkeit;
+Wie Apfelbäume blühst Du,
+    Trägst süße Frucht allzeit.</stanza>
+	<stanza type="verse" number="7">Wie Wein ist Deine Liebe,
+    Dein Name Salböl ist;
+Bist unser Fest der Liebe,
+    Dein Segen uns zufließt.</stanza>
+	<stanza type="verse" number="8">Wenn über Dich wir sinnen,
+    Wird unser Herz so warm,
+Wir schmecken Deine Süße, 
+    Und ruhn in Deinem Arm.</stanza>
+  </lyrics>
+</hymn>

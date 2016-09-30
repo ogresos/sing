@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God said, God saw</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>152531432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G - | C - F - | C - G - | C - G7 C ||</chords>
+  <melody>| 1 5_. 2 5_. | 3 1 4./ 3// 2 (break) | 1./ 1// 5_../ 5_.// 2 5_. | 3 1./ 1// {5_./( 6_./) 7_./} 1 ||</melody>
+  <layout>
+    <singingstanza>God said, God saw, God called, and God made. God cre -- at -- ed, God blessed, God rest -- ed. It was good.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="12">c0034.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God said, God saw,
+God called, and God made.
+God created, God blessed, God rested.
+It was good.</stanza>
+  </lyrics>
+</hymn>

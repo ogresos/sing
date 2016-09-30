@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們在流中</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>551112233332347211</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 在 流 中， 我 們 在 流 中！ 哦， 阿 利 路 亞， 在 流 中！ （二 遍） 哦， 讚 美 主， 我 們 在 流 中！ 哦， 阿 利 路 亞， 在 流 中！ 哦， 讚 美 主， 我 們 在 流 中！ 哦， 阿 利 路 亞， 在 流 中。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0531.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們在流中，
+我們在流中！
+哦，阿利路亞，在流中！
+（二遍）
+哦，讚美主，
+我們在流中！
+哦，阿利路亞，在流中！
+哦，讚美主，
+我們在流中！
+哦，阿利路亞，在流中。</stanza>
+  </lyrics>
+</hymn>

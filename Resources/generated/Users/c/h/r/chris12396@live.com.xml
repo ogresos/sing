@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Chris</firstname>
+<lastname>Abraham</lastname>
+<email>chris12396@live.com</email>
+<password>$1$KemIyNOV$FwVmGZZaqQ2NcJ.R8C8kQ0</password>
+<gender>M</gender>
+<country>Canada</country>
+<ipaddress>96.50.172.103</ipaddress>
+<createdate>2009-04-30 00:07:54</createdate>
+<lastupdateddate>2009-09-15 18:29:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="nt" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="1205">Press on, press on toward the goal</fav>
+        <fav category="default" type="nt" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="539">O Lord, Thou art in me as life</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    </favourites>
+</user>

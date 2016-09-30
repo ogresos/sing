@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Смотря на трапезу Твою</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ВОСПОМИНАНИЕ ЕГО</category>
+  <numbers><cebuano num="220"/><chinese num="179"/><english num="220"/><french num="35"/><german num="220"/><korean num="179"/><portuguese num="117"/><russian num="41"/><spanish num="96"/><tagalog num="220"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | ._3 - ._2 | ._1 - ._1 | 7( 6) 5 | ._2 - 4# (break) | 5 - 5 | 5( 6) 7 | ._1 - 5 | 6( ._2) ._1 | 7 - 5 | ._1( ._3) ._2 | ._1 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>Смо -- тря на тра -- пе -- зу Тво -- ю, Ди -- вим -- ся зна -- кам мы.  Хлеб и ви -- но сто -- ят для нас, Как за -- ве -- щал нам Ты.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="71"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Смотря на трапезу Твою,
+Дивимся знакам мы.
+Хлеб и вино стоят для нас,
+Как завещал нам Ты.</stanza>
+	<stanza type="verse" number="2">Хлеб означает жизни хлеб,
+С небес сошедший к нам;
+Чтоб причащаться от Тебя,
+Твоей он смертью дан.</stanza>
+	<stanza type="verse" number="3">Господня чаша чаша – нам завет,
+В крови он утверждён.
+И, принимая чашу ту,
+Всё Божье обретём.</stanza>
+	<stanza type="verse" number="4">Тебя вкушаем, жизни Хлеб,
+От хлеба причастясь.
+Так вспоминаем мы Тебя,
+Тобою насладясь.</stanza>
+	<stanza type="verse" number="5">Благословеньям рады мы,
+Когда из чаши пьём.
+Воспоминаем мы Тебя,
+Доколе Ты придёшь.</stanza>
+	<stanza type="verse" number="6">Пируя хлебом и вином,
+Смерть возвестим Твою,
+Свидетельствуя: Ты есть жизнь
+И всё, чем мы живём.</stanza>
+	<stanza type="verse" number="7">Мы ожидаем славный час,
+Придём на пир к Тебе,
+И будем мы Тебя вкушать
+Вовеки в полноте.</stanza>
+  </lyrics>
+</hymn>

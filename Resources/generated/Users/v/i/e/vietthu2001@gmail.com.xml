@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Emma</firstname>
+  <lastname>Nguyen</lastname>
+  <email>vietthu2001@gmail.com</email>
+  <password>$2y$10$89CVijSlmAWf9HT0UPnUueEJdWAAkjvROe4cOGf/cOFU6.LlIyYjS</password>
+  <gender/>
+  <country>vn</country>
+  <ipaddress>14.186.57.70</ipaddress>
+  <createdate>2016-06-09 02:27:06</createdate>
+  <lastupdateddate>2016-06-09 02:28:10</lastupdateddate>
+  <lastlogindate>2016-06-09 02:28:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

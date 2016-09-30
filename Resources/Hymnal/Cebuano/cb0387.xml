@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nadungog kong pulong Mo, Ginoo</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA MAS SANDUROT NGA PAGLAKAW UBAN NI CRISTO</category>
+  <numbers><cebuano num="387"/><chinese num="287"/><english num="387"/><korean num="287"/><portuguese num="189"/><russian num="412"/><tagalog num="387"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="387"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nadungog kong pulong Mo, Ginoo,
+Nga ako gimahal Mo;
+Nangandoy ako diha's pagtoo,
+Mahiduol Kanimo.</stanza>
+    <stanza type="chorus" number="">Ipaduol, duol Kanimo,
+Sa krus gikamatyan Mo,
+Ipaduol, duol, ako Ginoo,
+Sa nagdugong kilid Mo.</stanza>
+    <stanza type="verse" number="2">Igahin Mo ako's pag-alagad,
+Pinaagi's gahum Mo;
+Sa lig-ong paglaum pasaliga,
+Mawa'ng pagb'ot ko Nimo.</stanza>
+    <stanza type="verse" number="3">O pagkalunsay sa kalipay ko,
+Panahon sa trono Mo;
+Sa dihang mag-ampo, uban Nimo
+Magsultiay daw abyan!</stanza>
+    <stanza type="verse" number="4">Giladmon's gugma di ko matugkad,
+Kon di pa igkita Ka;
+Kahabog's kalipay makab-ot ra
+Kon ako mopahuway na.</stanza>
+  </lyrics>
+</hymn>

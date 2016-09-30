@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>„Komm und iss“ so ruft der Herr uns</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Als der Geist</category>
+  <numbers><cebuano num="1148"/><chinese num="ts:215"/><english num="1148"/><german num="1148"/><korean num="1019"/><portuguese num="248"/><russian num="367"/><spanish num="228"/><tagalog num="1148"/></numbers>
+  <melody>| 0 - - 5/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 4/ 6/ (break) | 5 - - 5/ 5/ | 6./ 6// 6/ 6/ 6/ 6/ 7/ ._1/ | ._2 - - ._1/ ._2/ | ._3./ ._3// ._3/ ._2/ ._1 7/ ._1/ (break) | ._2./ ._1// ._1/ 7/ 6 6/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 7/ ._2/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>„Komm und iss“ so ruft der Herr uns, „Komm und iss“_&amp;mdash; Es -- sen, trin -- ken wolln wir Je -- sus al -- le -- zeit! Er ist täg -- lich un -- ser Brot, Und zu -- frie -- den stellt nur Gott, „Komm und iss“ so ruft der Herr uns, „Komm und iss“.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">„Komm und iss“ so ruft der Herr uns,
+„Komm und iss“ –
+Essen, trinken wolln wir Jesus allezeit!
+Er ist täglich unser Brot,
+Und zufrieden stellt nur Gott,
+„Komm und iss“ so ruft der Herr uns,
+„Komm und iss“.</stanza>
+	<stanza type="verse" number="2">„Komm und iss“ so ruft der Herr uns,
+„Komm und iss“ –
+Essen, trinken wolln wir Jesus allezeit!
+Er belebt uns innerlich,
+Bis zum Rand uns füllt mit Sich,
+„Komm und iss“ so ruft der Herr uns,
+„Komm und iss“.</stanza>
+  </lyrics>
+</hymn>

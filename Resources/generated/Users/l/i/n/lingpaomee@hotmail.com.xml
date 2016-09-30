@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Pao Mee</firstname>
+<lastname>Ling</lastname>
+<email>lingpaomee@hotmail.com</email>
+<password>$1$OYCSkXVC$iSRYwBPid6rRc.IrIpKsf.</password>
+<gender>F</gender>
+<country>Malaysia</country>
+<ipaddress>203.82.79.2</ipaddress>
+<createdate>2009-04-11 04:37:58</createdate>
+<lastupdateddate>2009-09-15 18:29:45</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+    </favourites>
+</user>

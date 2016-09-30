@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeff</firstname>
+  <lastname>Sundwall</lastname>
+  <email>j.sundwall@att.net</email>
+  <password>$2y$10$rrxbZDzuG53Vr39AnANMTOPj7LXcZEncbPh8COcq1TqoI7mL86hnG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>165.124.167.228</ipaddress>
+  <createdate>2015-01-04 10:57:32</createdate>
+  <lastupdateddate>2015-01-04 20:17:00</lastupdateddate>
+  <lastlogindate>2015-01-04 20:17:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

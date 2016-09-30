@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Espero em Ti, Senhor, só em Ti</title>
+  <index>true</index>
+  <category>Esperar Em Deus</category>
+  <numbers><cebuano num="792"/><chinese num="574"/><english num="792"/><german num="792"/><korean num="574"/><portuguese num="362"/><russian num="528"/><tagalog num="792"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 1 1 | 3 - 1 | 2 3 2 | 1 - - | 3 3 3 | 3 - 4 | 2 - - (break) | 5 5 5 | 5 - 6 | 5 - - | 3 3 3 | 3 - 4 | 3 - - (break) | 2 2 2 | 3 - - | 2 (.2 2 | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="792"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Espero em Ti, Senhor, só em Ti;
+Em Ti vou descansar;
+Vem Teu querer mostrar,
+Eis-me a Te rogar ?
+Espero em Ti, espero em Ti.</stanza>
+	<stanza type="verse" number="2">Espero em Ti, Senhor, só em Ti;
+Enquanto aqui estou,
+Mostra-me como vou
+Orar por Ti, Senhor.
+Espero em Ti, espero em Ti.</stanza>
+	<stanza type="verse" number="3">Espero em Ti, Senhor, só em Ti;
+Vem Te mesclar a mim,
+Té sermos um enfim,
+E expressar-Te assim ?
+Espero em Ti, espero em Ti.</stanza>
+	<stanza type="verse" number="4">Espero em Ti, Senhor, só em Ti;
+Ajuda-me a seguir
+Em Teu caminho aqui
+E Te deixar fluir.
+Espero em Ti, espero em Ti.</stanza>
+	<stanza type="verse" number="5">Espero em Ti, Senhor, só em Ti;
+Faz minha oração
+Ser Tua expressão,
+Dá-me tal chave, então ?
+Espero em Ti, espero em Ti.</stanza>
+  </lyrics>
+</hymn>

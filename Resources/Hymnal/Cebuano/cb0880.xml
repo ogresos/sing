@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alang sa kaaway mo-"Dili"</title>
+  <index>true</index>
+  <category>ESPIRITUHANONG PAKIGGUBAT&amp;mdash;PINAAGI SA PAGSUGOT</category>
+  <numbers><cebuano num="880"/><chinese num="640"/><english num="880"/><german num="880"/><korean num="640"/><russian num="144"/><spanish num="396"/><tagalog num="880"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 0 (break) | 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 3 - 3/ 3/ | 2 6 5 4 | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 (.._1 - 1/ 2/ | 3 5 4. 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="314"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Alang sa kaaway mo-"Dili"
+Ug sa Amahan "Oo,"
+Aron Iyang tambag, plano
+Hingpit gyud nga mahuman;
+Sa pagsugot ko's sugo Mo,
+Hatagi's kagahum Mo,
+Sa pagtuman sa plano Mo,
+Gamhi ako, Ginoo.</stanza>
+	<stanza type="verse" number="2">Alang sa kaaway mo-"Dili"
+Ug sa Amahan "Oo";
+Kini gyud ang akong harong,
+Iya kong bulahanon.
+Basig sa akong pagsugot,
+Si Satanas modaut,
+Busa kaloy-i, Ginoo,
+Sa pagsugot's sugo Mo.</stanza>
+	<stanza type="verse" number="3">Alang sa kaaway mo-"Dili"
+Ug sa Amahan "Oo";
+Sa hingpit ako mosugot,
+Bisan pa ug mag-antus.
+L'wason, ampingan's Ginoo,
+Sa pagsunod ko Niya,
+Way pagsulayng makaulang,
+Bisan kaawayng tanan.</stanza>
+  </lyrics>
+</hymn>

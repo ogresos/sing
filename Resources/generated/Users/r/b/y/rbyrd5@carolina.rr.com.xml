@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Roger</firstname>
+  <lastname>Byrd</lastname>
+  <email>rbyrd5@carolina.rr.com</email>
+  <password>$2y$10$98bIv1IhDbdgDgD472g2Du2kvQCx7RGHopnFPEilB2JOElFo7Xqly</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.138.125.201</ipaddress>
+  <createdate>2015-03-23 19:10:57</createdate>
+  <lastupdateddate>2015-12-06 21:34:44</lastupdateddate>
+  <lastlogindate>2015-12-06 21:34:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+  </favourites>
+</user>

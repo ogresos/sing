@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>求主倒空我脫自己</title>
+  <index>true</index>
+  <category>羨慕－脫離己</category>
+  <meter>8.5.8.5. with chorus.</meter>
+  <hymncode>35671232467125</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>求 主 倒 空 我 脫 自 己， 我 心 滿 詭 詐； 這 個 重 大 聖 潔 成 績， 只 你 有 辦 法。 求 主 倒 空 我 脫 自 己， 裡 面 無 良 善； 我 的 一 生 全 是 受 欺， 驕 傲 因 黑 暗； 求 主 倒 空 我 脫 自 己， 裡 面 真 黑 暗。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0313_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">求主倒空我脫自己，
+我心滿詭詐；
+這個重大聖潔成績，
+只你有辦法。</stanza>
+	<stanza type="chorus" number="">求主倒空我脫自己，
+裡面無良善；
+我的一生全是受欺，
+驕傲因黑暗；
+求主倒空我脫自己，
+裡面真黑暗。</stanza>
+	<stanza type="verse" number="2">求你聽我向你呼祈，
+罪過何難除！
+自己越看越不滿意，
+何況你聖目？</stanza>
+	<stanza type="verse" number="3">我的不安是為甚麼，
+求你來揭露；
+良心時常控告不默，
+我注重何垢？</stanza>
+	<stanza type="verse" number="4">你我之間有重幔子，
+交通常間斷；
+到底是在那裡有失，
+信心不坦然？</stanza>
+  </lyrics>
+</hymn>

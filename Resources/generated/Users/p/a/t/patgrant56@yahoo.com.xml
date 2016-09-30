@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Pat</firstname>
+    <lastname>Grant</lastname>
+    <email>patgrant56@yahoo.com</email>
+    <password>423MUXTItdSA2uhDYe9WgQ%3D%3D</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>216.199.77.168</ipaddress>
+    <createdate>2008-07-26 01:43:15</createdate>
+    <lastupdateddate>2011-12-04 15:30:58</lastupdateddate>
+    <lastlogindate>2011-12-04 15:15:57</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="304">Lord, I love You: Lord, take my heart</fav>
+        <fav category="default" type="ns" num="194">Lord, You are the living spring</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    </favourites>
+</user>

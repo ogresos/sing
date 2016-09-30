@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Terry</firstname>
+  <lastname/>
+  <email>terrygroves60@yahoo.com</email>
+  <password>$2y$10$os3mazASrHA3XMZaH0V5T.N.KSuujcR9yXUbKuRyQR6Wdk9SiRD8W</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.203.166.102</ipaddress>
+  <createdate>2016-07-08 19:11:31</createdate>
+  <lastupdateddate>2016-07-08 19:32:26</lastupdateddate>
+  <lastlogindate>2016-07-08 19:31:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+  </favourites>
+</user>

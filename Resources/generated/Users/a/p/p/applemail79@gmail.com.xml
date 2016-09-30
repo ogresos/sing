@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Esther</firstname>
+  <lastname/>
+  <email>applemail79@gmail.com</email>
+  <password>$2y$10$qEQWEzzzfNEo1NVkyjHpe.eOtmh9bdkpOOSesAovqHFqE4C.MCtzy</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>42.70.7.125</ipaddress>
+  <createdate>2014-08-03 15:30:42</createdate>
+  <lastupdateddate>2014-08-04 09:26:19</lastupdateddate>
+  <lastlogindate>2014-08-03 15:42:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="425">我是受造的瓦器</fav>
+    <fav category="default" type="ts" num="441">羨慕看見並經歷</fav>
+  </favourites>
+</user>

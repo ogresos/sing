@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Rice</lastname>
+  <email>dwrice@yahoo.com</email>
+  <password>$2y$10$FEUwL9xIJI5w23Wo0RDm6.xyWFE9N40wZAGp3L0lfBF4zerFz015e</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.171.255.76</ipaddress>
+  <createdate>2015-03-18 12:13:14</createdate>
+  <lastupdateddate>2015-03-18 12:53:09</lastupdateddate>
+  <lastlogindate>2015-03-18 12:53:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

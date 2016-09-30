@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>En Jesús confiando estoy</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Confiando en El</category>
+  <numbers><english num="569"/><french num="105"/><spanish num="267"/></numbers>
+  <creators>
+    <author biodate="1836-1921" biolink="">Translated from Edgar Page Stites</author>
+  </creators>
+  <music>
+    <midiref type="h" num="223"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">En Jesús confiando͜ estoy,
+Cuando por tormenta voy;
+Aunque poca es mi fe,
+En Jesús yo confiaré.</stanza>
+    <stanza type="chorus" number="">Confío͜ al amanecer,
+Confío͜ al atardecer,
+En cualquier acontecer,
+En Jesús yo confiaré.</stanza>
+    <stanza type="verse" number="2">A mi corazón la luz
+Brilla por Su͜ Espíritu;
+Si͜ El me guía no ca͡eré,
+En Jesús yo confiaré.</stanza>
+    <stanza type="verse" number="3">Cantando͜ en la claridad,
+Orando͜ en la͜ oscuridad,
+Si͜ en peligros, clamaré,
+En Jesús yo confiaré.</stanza>
+    <stanza type="verse" number="4">Confiaré por tierra͜ y mar,
+Confiaré hasta͜ el final;
+Hasta que regrese El,
+En Jesús yo confiaré.</stanza>
+  </lyrics>
+</hymn>

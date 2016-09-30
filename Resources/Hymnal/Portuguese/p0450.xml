@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Há alguém sublime e terno</title>
+  <index>true</index>
+  <category>O Amor</category>
+  <numbers><chinese num="133"/><english num="1011"/><korean num="133"/><portuguese num="450"/><tagalog num="1011"/></numbers>
+  <creators>
+    <author biodate="1778-1847" biolink="">Translated from Marianne Nunn</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1011"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Há alguém sublime e terno
+Cheio de amor;
+Mais que o amor fraterno
+É Seu amor.
+Os amigos hoje amam,
+Amanhã nos abandonam,
+Mas Jesus não nos engana,
+Que grande amor!</stanza>
+    <stanza type="verse" number="2">Vida eterna é conhecê-Lo
+E Seu amor;
+Muito há que bendizê-Lo
+Por Seu amor:
+Com Seu sangue resgatou-nos,
+No deserto procurou-nos,
+Ao rebanho Seu levou-nos ?
+Que vasto amor!</stanza>
+    <stanza type="verse" number="3">Queres recebê-Lo hoje,
+E Seu amor?
+Nele crê; do mundo foge,
+Por Seu amor!
+Não te anseie o futuro,
+Deixa teu passado escuro,
+Ele leva os infortúnios,
+Com Seu amor.</stanza>
+    <stanza type="verse" number="4">Teus pecados perdoados ?
+Obra de amor!
+Inimigos derrotados ?
+Oh! que amor!
+Sempre irá abençoar-te
+E de todo o mal guardar-te
+Té à glória enfim levar-te.
+Oh! que amor!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>John</firstname>
+    <lastname>Leonard</lastname>
+    <email>john@leonfish.plus.com</email>
+    <password>vefdtwcS3SPzoi3uUlbdBw%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>87.115.8.126</ipaddress>
+    <createdate>2013-02-26 05:57:54</createdate>
+    <lastupdateddate>2013-07-26 16:28:48</lastupdateddate>
+    <lastlogindate>2013-07-26 16:28:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

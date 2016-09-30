@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>velisa</firstname>
+  <lastname/>
+  <email>velisabetrix@yahoo.com</email>
+  <password>$2y$10$HbuT9Wdcb5Z7QSPxv066jeMieWCp9P4ClgKpqiw4zlVREDjV2OaoS</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>180.214.232.4</ipaddress>
+  <createdate>2015-06-18 16:24:57</createdate>
+  <lastupdateddate>2015-06-18 16:29:59</lastupdateddate>
+  <lastlogindate>2015-06-18 16:25:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+  </favourites>
+</user>

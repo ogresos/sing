@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>linda</firstname>
+<lastname>nelson</lastname>
+<email>lindamnelson@gmail.com</email>
+<password>$1$VFLRx/Pp$mWo1CXd34UACAupz.G5hv0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>67.77.68.121</ipaddress>
+<createdate>2008-07-26 01:43:11</createdate>
+<lastupdateddate>2009-09-15 18:22:12</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Confiant pour ma vie entière</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;se confier en Lui</category>
+  <numbers><english num="569"/><french num="105"/><spanish num="267"/></numbers>
+  <creators>
+    <author biodate="1836-1921" biolink="">Translated from Edgar Page Stites</author>
+  </creators>
+  <music>
+    <midiref type="h" num="223"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Confiant en Lui chaque jour,
+Confiant quand la route est dure,
+Même quand ma foi est frêle,
+Ma confiance est en Jésus.</stanza>
+    <stanza type="chorus" number="">Confiant quand les heures passent,
+Confiant quand les jours s'envolent,
+Dans la joie, dans la tristesse,
+Ma confiance est en Jésus.</stanza>
+    <stanza type="verse" number="2">Son Esprit éclatant brille,
+Dans mon pauvre cœur fragile.
+Sa conduite est mon salut,
+Ma confiance est en Jésus.</stanza>
+    <stanza type="verse" number="3">Chantant quand la route est claire
+Et priant quand elle est raide,
+Peu importent les tempêtes,
+Ma confiance est en Jésus.</stanza>
+    <stanza type="verse" number="4">Confiant pour ma vie entière,
+Tant que tournera la terre,
+Jusqu'à Son avènement,
+Ma confiance est en Jésus.</stanza>
+  </lyrics>
+</hymn>

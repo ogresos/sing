@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A story you should know</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Persuasion</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Mike Sprau">M. S.</author>
+    <composer biodate="" biolink="" fullname="Mike Sprau">M. S.</composer>
+  </creators>
+  <hymncode>512333212344432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>180</tempo>
+  <chords>| C - - - | C - - - | C/E - - - | Dm - - - | Dm/F - - - | G7 - - - | G7/B - - - | C - - - | G7 - - - | C - - - | C/E - - - | Dm - - - | Dm/F - - - | G7 - - - | G7/B - - - | C - - - |</chords>
+  <melody>| 0 5_. 1 2 | 3. 3/ 3 2 | 1 - 2 3 | 4. 4/ 4 3 (break) | 2 - 5_. 5_. | 4 4 4 5 | 6 6 6 5 | 3 - - - (break) | 0 5_. 1 2 | 3. 3/ 3 2 | 1 - 2 3 | 4. 4/ 4 3 (break) | 2 - 5_. 5_. | 4 4 4 3 | 2 1 7_. 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I've got a sto -- ry you should know, Hap -- pened man -- y years a -- go, Long be -- fore this world was known to you or me. A man named Je -- sus came and died, On the cross was cru -- ci -- fied. There He gave Him -- self to set all peo -- ple free!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="22">ns0093.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I've got a story you should know,
+Happened many years ago,
+Long before this world was known to you or me.
+A man named Jesus came and died,
+On the cross was crucified.
+There He gave Himself to set all people free!</stanza>
+    <stanza type="verse" number="2">You see, this world was lost in sin,
+People's hearts were dark within,
+But God loved us just too much to let us go.
+So then He sent His only Son
+'Cause He knew he needed One
+Who could rescue all His loved ones here below.</stanza>
+    <stanza type="verse" number="3">At first nobody would believe,
+And they failed to receive
+The free gift of life that only He could give.
+But when He died that awful day,
+He took all our sins away,
+That to Him we might now look and, thereby, live.</stanza>
+    <stanza type="verse" number="4">So won't you open from within,
+Let Him take away your sin,
+'Cause He'd like to be your Savior tried and true.
+And you will never be the same,
+Once you call upon His name,
+And His wonderful salvation reaches you!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Samuel</firstname>
+    <lastname>Akrong</lastname>
+    <email>samuel4akrong@gmail.com</email>
+    <password>mNdoLDEORoMs3bJpeXUN7Q%3D%3D</password>
+    <gender></gender>
+    <country>Ghana</country>
+    <ipaddress>41.218.199.92</ipaddress>
+    <createdate>2013-06-26 06:18:07</createdate>
+    <lastupdateddate>2013-06-26 06:59:38</lastupdateddate>
+    <lastlogindate>2013-06-26 06:18:07</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="320">In loving-kindness Jesus came</fav>
+        <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+        <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+        <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="314">Sov'reign grace o'er sin abounding</fav>
+    </favourites>
+</user>

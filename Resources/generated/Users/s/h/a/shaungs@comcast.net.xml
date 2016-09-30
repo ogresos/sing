@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Steven</firstname>
+    <lastname>Haungs</lastname>
+    <email>shaungs@comcast.net</email>
+    <password>B8zEmT9pTZnfLLr2QjMGVw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>76.102.14.187</ipaddress>
+    <createdate>2013-08-11 12:41:28</createdate>
+    <lastupdateddate>2014-02-23 12:35:03</lastupdateddate>
+    <lastlogindate>2014-02-02 11:50:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="ns" num="137">I am baptized</fav>
+        <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+        <fav category="default" type="nt" num="1299">Man's Creator has a purpose</fav>
+        <fav category="default" type="ns" num="64">There's a man who died to set us free</fav>
+    </favourites>
+</user>

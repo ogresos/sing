@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>mercy</firstname>
+    <lastname>subeldia</lastname>
+    <email>mercy.subeldia@yahoo.com</email>
+    <password>$1$sPzjHW2W$6YKxDI9QwAOaE8S4iysmJ1</password>
+    <gender>F</gender>
+    <country>Philippines</country>
+    <ipaddress>124.217.0.22</ipaddress>
+    <createdate>2008-08-02 01:23:12</createdate>
+    <lastupdateddate>2011-09-11 17:04:55</lastupdateddate>
+    <lastlogindate>2011-09-11 17:04:55</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="11">Definition of love</fav>
+        <fav category="default" type="ns" num="157">Here a Little, There a Little</fav>
+        <fav category="default" type="ns" num="209">Lord now I see</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="ns" num="91">Make me a hungry seeker</fav>
+        <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+        <fav category="default" type="ns" num="213">Reading the Bible</fav>
+    </favourites>
+</user>

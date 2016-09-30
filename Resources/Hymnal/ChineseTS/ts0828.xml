@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>敞開心！呼喊祂</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:828"/><english num="ns:163"/><vsb num="25"/></numbers>
+  <melody>| 0 - 1 1 | 3. 3/ 2 1 | 3 - 2 1 | 2. 3/ 2 1 (break) | 6_. - 6_. 1 | 2. 3/ 2 1 | 6_./( 5_./)( 5_./) 5_./ 6_. 1 | 2( - - - (break) | 2) 0/ 1/ 1 1 | 3. 3/ 2 1 | 3. 3/ 2 1 | 2. 3/ 2 1 (break) | 6_. - 6_. 1 | 2. 3/ 2 1 | 6_./( 5_./)( 5_./) 5_./ 6_. 1 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>你 若 渴 慕 得 著 主， 切 莫 尋 祂 世 界 中， 因 這 世 界 並 非 祂 居 住 之 所。 非 祂 居 所， 非 祂 居 所， 非 祂 居 所， 非 祂 居 所， 因 這 世 界 並 非 祂 居 住 之 所。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="163"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你若渴慕得著主，
+切莫尋祂世界中，
+因這世界
+並非祂居住之所。
+非祂居所，非祂居所，
+非祂居所，非祂居所，
+因這世界
+並非祂居住之所。</stanza>
+	<stanza type="verse" number="2">你若渴慕得著主，
+切莫尋祂心思中，
+心思只使你明白，
+卻不能嘗。
+它不能嘗，（四次）
+心思只使你明白，
+卻不能嘗。</stanza>
+	<stanza type="verse" number="3">你若渴慕得著主，
+只要敞開你的心，
+只要敞開你的心，
+讓祂進來。
+讓祂進來，（四次）
+只要敞開你的心，
+讓祂進來。</stanza>
+	<stanza type="verse" number="4">你若想讓祂進來，
+只要呼喊祂的名，
+只要呼喊祂的名，
+祂就進來。
+哦！主耶穌！（四次）
+只要呼喊祂的名，
+祂必進來。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>LaVallie</lastname>
+  <email>llavaflow@gmail.com</email>
+  <password>$2y$10$bxzFrePYwXiHS7lwcq.sZeYlTIuf8QrbzwhgUyv8VL5T1bhcP1YcS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.207.69.50</ipaddress>
+  <createdate>2014-09-25 16:44:42</createdate>
+  <lastupdateddate>2015-09-24 14:36:21</lastupdateddate>
+  <lastlogindate>2015-09-24 14:36:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="882">Faith is the Victory</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="1085">His Name is Wonderful</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1349">Sowing in the morning</fav>
+  </favourites>
+</user>

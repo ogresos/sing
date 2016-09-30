@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Preciso de Jesus</title>
+  <index>true</index>
+  <category>Por Comunhão Com Cristo</category>
+  <numbers><cebuano num="371"/><chinese num="286"/><english num="371"/><korean num="286"/><portuguese num="186"/><tagalog num="371"/></numbers>
+  <creators>
+    <author biodate="1836-1918" biolink="">Translated from Annie Sherwood Hawks</author>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry, chorus</author>
+  </creators>
+  <music>
+    <midiref type="h" num="371"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Preciso de Jesus!
+De Ti, meu Salvador;
+Somente Tua voz
+Tem para mim valor.</stanza>
+    <stanza type="chorus" number="">De Ti, Senhor, preciso,
+Sim, preciso sempre;
+Oh! dá-me Tua bênção,
+Aspiro a Ti.</stanza>
+    <stanza type="verse" number="2">Preciso de Jesus!
+Unido a Ti, Senhor,
+Pecado e tentação
+Não mais terão vigor.</stanza>
+    <stanza type="verse" number="3">Preciso de Jesus!
+Em gozo ou aflição;
+Ensina-me a viver
+Em santa retidão.</stanza>
+    <stanza type="verse" number="4">Preciso de Jesus!
+Nas trevas ou na luz.
+Sem Ti a vida é vã;
+Sou pobre sem Jesus.</stanza>
+    <stanza type="verse" number="5">Preciso de Jesus!
+Viver desejo aqui
+Ligado mais e mais,
+Ó Salvador, a Ti.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My faith looks up to Thee</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Grace</category>
+  <numbers><chinese num="318"/><english num="429"/><korean num="318"/><tagalog num="429"/></numbers>
+  <creators>
+    <author biodate="1808-1887" biolink="">Ray Palmer</author>
+    <composer biodate="1792-1872" biolink="">Lowell Mason</composer>
+  </creators>
+  <meter>6.6.4.6.6.6.4.</meter>
+  <hymncode>135543224432</hymncode>
+  <key>D Major</key>
+  <time>2/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G7 - C - | G/B - G - | Dm - G - | C - D7 - | G - - - | C - - - | C - - - | C - - - | Am - C/G - | C/E - F - | C/G - Am - | Dm/F - G7 - | C - - - |</chords>
+  <melody>| 1 - 3 5 | 5. 4/ 3 - | 2 - 2 4 | 4. 3/ 2 - | 3 - 2 6 | 5 - - - (break) | 5 - 3 4 | 5. 6/ 5 - | 5 - 3 4 | 5. 6/ 5 - (break) | ._1 - 7 6 | 5. 4/ 3 1 | 2 - 5 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>My faith looks up to Thee, Thou Lamb of Cal -- va -- ry, Sav -- ior Di -- vine; Now hear me while I pray; Take all my guilt a -- way; Oh, let me from this day Be whol -- ly Thine.</singingstanza>
+  </layout>
+  <music>
+    <midi location="h" length="35">e0429_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My faith looks up to Thee,
+Thou Lamb of Calvary,
+  Savior Divine;
+Now hear me while I pray;
+Take all my guilt away;
+Oh, let me from this day
+  Be wholly Thine.</stanza>
+    <stanza type="verse" number="2">May Thy rich grace impart
+Strength to my fainting heart,
+  My zeal inspire;
+As Thou hast died for me,
+Oh, may my love to Thee
+Pure, warm, and changeless be,
+  A living fire.</stanza>
+    <stanza type="verse" number="3">While life's dark maze I tread,
+And griefs around me spread,
+  Be Thou my Guide;
+Bid darkness turn to day,
+Wipe sorrow's tears away,
+Nor let me ever stray
+  From Thee aside.</stanza>
+    <stanza type="verse" number="4">All thru life's transient dream,
+Until death's sullen stream
+  Shall o'er me roll,
+Blest Savior, with Thy love,
+Fear and distrust remove;
+Make me Thy grace to prove
+  Transform my soul.</stanza>
+  </lyrics>
+</hymn>

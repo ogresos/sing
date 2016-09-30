@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amahan kanunayng lunhaw</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGKABAG-O NIYA</category>
+  <numbers><cebuano num="16"/><chinese num="11"/><english num="16"/><german num="16"/><korean num="11"/><portuguese num="10"/><russian num="9"/><spanish num="10"/><tagalog num="16"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 3/ | 2 3/ 5 4/ | 3( - 3/) 5/ (break) | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 6/ | 7 ._1/ 7 6/ (break) | 5( - 5/) (Chorus) 5/ | ._1 ._1/ 7/ 6/ 5/ | 6. 5 5/ | 6 ._1/ 5 3/ | 2( - 2/) 2/ (break) | 3 3/ 5 5/ | ._1 ._1/ ._2/( ._1/) 6/ | 5 5/ 6 7/ | ._1( - ._1/) 0/ |</melody>
+  <music>
+	<midiref type="h" num="16"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amahan kanunayng lunhaw,
+Kanunay Kang bag-o;
+Buhi's dayon nga Ginoo,
+Daw yamog, kapresko.</stanza>
+	<stanza type="chorus" number="">Amahan, way pagkausab,
+Di gyud Ka madaan;
+Bisan's daghang katuigan
+Kanunay Kang bag-o.</stanza>
+	<stanza type="verse" number="2">Ikaw ang Dios, ug ang "bag-o";
+Kon wala Ka, daan;
+Kon naa, bisan's kadugay
+Magpabiling bag-o!</stanza>
+	<stanza type="verse" number="3">Ang hatag Mong panalangin,
+May Imong kabag-o;
+Pakigsaad, dalan, tanan,
+Magpabiling bag-o.</stanza>
+	<stanza type="verse" number="4">Kami bag-ong binuhat Mo
+Bag-o'g espiritu;
+Adlaw-adlaw gibag-o mi
+Sa kinabuhi Mo.</stanza>
+	<stanza type="verse" number="5">Bag-ong yuta'g langit puy-an
+Ug bag-ong syudad Mo;
+Bag-ong bunga's matag bulan
+M'oy sangkap sa tanan.</stanza>
+	<stanza type="verse" number="6">Amahan kanunayng bag-o,
+Bag-ong tanan Nimo;
+Sa bag-ong awit awitan
+Sa pagdayeg tingban!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Свет жизни! В нём живи</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;ОБЩЕНИЕ С НИМ</category>
+  <numbers><chinese num="476"/><english num="1353"/><russian num="220"/><spanish num="300"/><tagalog num="1353"/></numbers>
+  <melody>| 0 - ._1 | ._3. ._2/ ._1/ ._2/ | ._3 - ._1 | ._1. ._2/ ._1/ 6/ (break) | ._1 - 6 | 5. 6/ 5/ 3/ | 5 - 3 | 3. 3/ 2/ 1/ (break) | 2 - 5 | 5. 6/ 5/ 3/ | 5 - ._1 | ._1. ._2/ ._1/ 6/ (break) | ._1 - 6 | 5 - ._1 | ._3 - ._2 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Свет жиз -- ни! В_нём жи -- ви, В_об -- ще -- нье пре -- бы -- вай, Смо -- три в_Е -- го ли -- цо И сла -- ву об -- ре -- тай, По -- слуш -- ным Ду -- ху будь, Мо -- лись, хва -- ли, ли -- куй.  Свет жиз -- ни! В_Нём жи -- ви.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="8476"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Свет жизни! В нём живи,
+В общенье пребывай,
+Смотри в Его лицо
+И славу обретай,
+Послушным Духу будь,
+Молись, хвали, ликуй.
+Свет жизни! В Нём живи.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! que alegria enche meu coração</title>
+  <index>true</index>
+  <category>Mudados Em Vida</category>
+  <numbers><chinese num="242"/><english num="1357"/><french num="60"/><portuguese num="171"/><russian num="213"/><spanish num="163"/><tagalog num="1357"/></numbers>
+  <music>
+    <midiref type="h" num="1357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh! que alegria enche meu coração!
+Sim, meu coração!
+Não mais é de pedra meu coração,
+Deus mo renovou, novo homem me fez.
+Oh! que alegria enche meu coração!</stanza>
+    <stanza type="verse" number="2">O Santo Espírito enche meu ser!
+Sim, enche meu ser!
+Remove fraquezas e transgressões,
+E faz-me dar frutos em santo viver.
+O Santo Espírito enche meu ser!</stanza>
+  </lyrics>
+</hymn>

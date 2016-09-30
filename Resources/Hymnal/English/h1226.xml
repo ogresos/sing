@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, the church of Christ is glorious</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Christ's Body</category>
+  <numbers><cebuano num="1226"/><chinese num="ts:508"/><dutch num="78"/><english num="1226"/><french num="154"/><german num="1226"/><korean num="998"/><lsmyp num="247"/><portuguese num="394"/><russian num="137"/><spanish num="373"/><tagalog num="1226"/></numbers>
+  <creators>
+	<composer biodate="1856-1938" biolink="">James Milton Black</composer>
+  </creators>
+  <meter>15.11.15.11. with chorus.</meter>
+  <hymncode>123333321121165</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - C - | C - Am - | Dm - G7 - | C - C7/E - | F - C - | C/G - G7 - | C F/C C - | C - - - | C - - - | Dm - - - | G7 - - - | C - C7/E - | F - Fm/D - | C/G - G7 - | C F/C C - |</chords>
+ <guitarChords>| C - - - | C - - - | F - C - | C - D - | G - G7 - | C - C7 - | F - C - | C - G7 - | C - - - | C - - - | C - - - | G - - - | G7 - - - | C - C7 - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 1./ 2// | 3./ 3// 3./ 3// 3./ 2// 1./ 1// | 2./ 1// 1./ 6_.// 5_. 1./ 2// | 3./ 3// 3./ 3// 3./ 3// 2./ 1// (break) | 2 - - 1./ 2// | 3./ 3// 3./ 3// 3./ 2// 1./ 1// | 2./ 1// 1./ 6_.// 5_. 1./ 2// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// (break) | 1 - - (Chorus) 3./ 4// | 5( - 5./) 4// 3./ 4// | 5 - 3 3./ 3// | 4( - 4./) 3// 2./ 3// (break) | 4 - 2 3./ 4// | 5( - 5./) 3// 2./ 1// | 1 - 4 4./ 2// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Oh, the church of Christ is glo -- ri -- ous, and we are part of it&amp;mdash; We're so hap -- py that the Lord has made us one! There's a Bod -- y in the u -- ni -- verse and we be -- long to it&amp;mdash; Hal -- le -- lu -- jah, for the Lord has made us one! Hal -- le -- lu -- jah for the Bod -- y! We are mem -- bers of the Bod -- y! We are whol -- ly for the Bod -- y! Hal -- le -- lu -- jah, for the Lord has made us one!</singingstanza>
+	<globalstaffsize>15</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj193.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="36">e1226_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh, the church of Christ is glorious, and we are part of it&amp;mdash;
+  We're so happy that the Lord has made us one!
+There's a Body in the universe and we belong to it&amp;mdash;
+  Hallelujah, for the Lord has made us one!</stanza>
+	<stanza type="chorus" number="">Hallelujah for the Body!
+We are members of the Body!
+We are wholly for the Body!
+  Hallelujah, for the Lord has made us one!</stanza>
+	<stanza type="verse" number="2">Not the individual Christians,
+    but a corporate entity&amp;mdash;
+  God must have it for His full expression now;
+Not just individual churches but the Body corporately&amp;mdash;
+  Hallelujah, we are in the Body now!</stanza>
+	<stanza type="chorus" number="">Hallelujah for the Body!
+Satan trembles at the Body!
+We're victorious in the Body!
+  Hallelujah, we are in the Body now!</stanza>
+	<stanza type="verse" number="3">There are seven golden lampstands in the nature all divine&amp;mdash;
+  Nothing natural does the Body life allow.
+When we're one and share God's nature,
+    how the lampstand then does shine&amp;mdash;
+  Hallelujah, it is brightly shining now!</stanza>
+	<stanza type="chorus" number="">Hallelujah for the Body!
+For the lampstands of the Body!
+For the golden, shining Body!
+  Hallelujah, it is brightly shining now!</stanza>
+	<stanza type="verse" number="4">How may we express such oneness,
+    be divine and shining too?
+Hallelujah, eating Jesus is the way!
+He's the tree of life, the manna,
+    and the feast that's ever new&amp;mdash;
+  Hallelujah, we may eat Him every day!</stanza>
+	<stanza type="chorus" number="">We are one by eating Jesus!
+We're divine by eating Jesus!
+How we shine by eating Jesus!
+  Hallelujah, eating Jesus is the way!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jimena</firstname>
+  <lastname>Johnson</lastname>
+  <email>living.holy.sacrifice@gmail.com</email>
+  <password>$2y$10$pi45kbHY2C1u/IcV8zrKKupuRmt96q1tLKliC.ElJpzS5BI8xE/0e</password>
+  <gender>F</gender>
+  <country>Bolivia</country>
+  <ipaddress>75.84.124.66</ipaddress>
+  <createdate>2008-07-26 01:43:12</createdate>
+  <lastupdateddate>2015-09-20 14:36:42</lastupdateddate>
+  <lastlogindate>2015-09-20 14:36:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+    <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="ns" num="295">Lord, I give my heart to You</fav>
+    <fav category="default" type="nt" num="412">Lord, reveal Thyself to me</fav>
+    <fav category="default" type="nt" num="350">My goal is God Himself</fav>
+    <fav category="default" type="nt" num="350b">My goal is God Himself (Alternate)</fav>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="ns" num="25">O Lord, I love You, I really love You</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="nt" num="995">There is a green hill far away</fav>
+    <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+  </favourites>
+</user>

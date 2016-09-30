@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A higher view</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Separated unto the Lord</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Jeffrey O'yek">J. O.</author>
+    <composer biodate="" biolink="" fullname="Marlon Chua">M. C.</composer>
+  </creators>
+  <hymncode>55555361111165</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>115</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 5/ 5/ 5/ 5/ 5 3 | 6 - - - | ._1/ ._1/ ._1/ ._1/ ._1 6 | 5 - - 0/ 5/ | 5/ 5/ 5/ 5/ ._1 5 | 6 - - 0/ 6/ | ._1/ ._1/ ._1/ ._1/ ._1 6 | ._2 - - ._1 (break) | ._3/ ._3/ ._3/ ._3/ ._3 ._2 | ._1 - - ._1 | ._4/ ._4/ ._4/ ._4/ ._4 ._1 | ._3.( ._4// ._3// ._2) 7/ 6/ | 5/ 5/( 5/) 5/ 5 ._3 | ._1 - - 5/ 5/ | 6 6( 6) 6/ 6/ | ._2 - ._1 7 | ._1( - - - | ._1) - - 0 (break) | ._4 ._4/ ._4/( ._4) ._4/ ._4/ | ._3 ._2/ ._2/( ._2) 7 | 5/ 5/ 5/ 5/ 5 3 | 6 - - 6 | 4 - - 6/ 6/ | 7 6/ 5/( 5) 4/ 4/ | 3. 2/ 3 4 | 5 - - 5/ 5/ (break) | 6 6 6 6 | 7 - ._2 7 | 5. ._3/ {._3 ._3 ._2} | ._1. 7/ 6 5 | 6 - - 6 | ._3 ._2 ._1 7 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Prod me with Your lov -- ing hands, Stir me from my deep im -- passe. I long to flee this stag -- nant rut; My soul, my pri -- son, dead -- ened lot, Which end is just to taste Your wrath; So set me on the nar -- row path. Thorns and this -- tles may line this road But it leads me to the mu -- tual a -- bode. Lift me up with Your migh -- ty hand A -- bove this fren -- zied earth -- ly land. Set me on the mount to see What the world can of -- fer me; Till I see the van -- i -- ty from on high And earth -- ly de -- sires I bid good -- bye And set my eyes on You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="71">ns0134.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Prod me with Your loving hands,
+Stir me from my deep impasse.
+I long to flee this stagnant rut;
+My soul, my prison, deadened lot,
+Which end is just to taste Your wrath;
+So set me on the narrow path.
+Thorns and thistles may line this road
+But it leads me to the mutual abode.
+
+Lift me up with Your mighty hand
+Above this frenzied earthly land.
+Set me on the mount to see
+What the world can offer me;
+Till I see the vanity from on high
+And earthly desires I bid goodbye
+And set my eyes on You.</stanza>
+  </lyrics>
+</hymn>

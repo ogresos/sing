@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mengtong</firstname>
+  <lastname>Chen</lastname>
+  <email>1183588696@qq.com</email>
+  <password>$2y$10$fG869jbeb6UkPLXIe35IOOvWURpINtnHlvgytnq4EApmVJloJob2q</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>116.2.132.246</ipaddress>
+  <createdate>2015-08-23 23:06:51</createdate>
+  <lastupdateddate>2015-08-24 00:04:28</lastupdateddate>
+  <lastlogindate>2015-08-23 23:11:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+  </favourites>
+</user>

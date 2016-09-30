@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unis par Lui, nous chantons notre joie</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;la louange par Ses nombreux fils</category>
+  <numbers><chinese num="51"/><dutch num="30"/><english num="54"/><french num="11"/><korean num="51"/><portuguese num="35"/><tagalog num="54"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from German</author>
+    <author biodate="" biolink="">Translated by Mrs. S. Hedman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ô Dieu et Père, à Toi gloire et honneur !
+Qui plus que Toi devrait être loué ?
+Car Tu recherches des adorateurs,
+Qui Te louent en esprit, en vérité.</stanza>
+    <stanza type="verse" number="2">Père, en Ton Fils, Tu créas l'univers.
+Tout subsiste en Sa puissance infinie.
+Que Tu es digne d'être célébré,
+Car nous pouvons venir à Toi par Lui.</stanza>
+    <stanza type="verse" number="3">Dans l'assemblée, Il chante Tes vertus,
+Et dans la sphère bénie nous conduit.
+De Ton cher Fils nous sommes revêtus,
+Tu nous reçois, oh ! quelle joie pour Lui !</stanza>
+    <stanza type="verse" number="4">Unis par Lui, nous chantons notre joie !
+Tu es, cher Père, vraiment satisfait.
+Dans nos louanges, Tu entends Sa voix
+Et Ta demeure est en nous à jamais.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主活在我裡面</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><chinese num="ts:120"/><dutch num="53"/><english num="507"/><french num="90"/><german num="507"/><korean num="801"/><portuguese num="237"/><russian num="97"/><spanish num="219"/><tagalog num="507"/></numbers>
+  <creators>
+	<author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <melody>| 0 - - 0 - 5_. | 3 - 2 1 - 1 | 1( 7_.) 6_. 5_. - 5_. | 6_. - 1 4 - 6 (break) | 5( - - 5) - 4 | 3 - 3 3( 2) 3 | 5 - 4 1 - 2 | 3 - - 2 5_. 2 | 1( - - 1) - - (break) | (Chorus) 3 - - 5 4 3 | 2( - - 2) - - | 1 - - 3 2 1 | 7_. - - - - - (break) | 6_. - - 1 4 6 | 5 - 3 1 - 2 | 3 - - 2 5_. 2 | 1( - - 1) - - |</melody>
+  <layout>
+	<singingstanza>前 遠 離 神 死 在 罪 中， 黑 暗 蒙 蔽 心 眼； 今 蒙 主 話 照 明 得 知， 主 活 在 我 裡 面。 主 活 我 裡 面， 主 活 我 裡 面， 哦， 這 是 何 等 救 恩， 主 竟 活 我 裡 面。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="507"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">前遠離神死在罪中，
+黑暗蒙蔽心眼；
+今蒙主話照明得知，
+主活在我裡面。</stanza>
+	<stanza type="chorus" number="">主活我裡面，
+主活我裡面，
+哦，這是何等救恩，
+主竟活我裡面。</stanza>
+	<stanza type="verse" number="2">如同陽光照射大地，
+百花盛開爭艷；
+生命，光，愛從主而來，
+祂活在我裡面。</stanza>
+	<stanza type="verse" number="3">正如花朵隱於花籽，
+樹木孕於種子，
+同樣，滿帶實際、恩典，
+主活在我裡面。</stanza>
+	<stanza type="verse" number="4">我心不禁羨慕像祂，
+完全將祂彰顯；
+我被吸引不斷思量，
+主活在我裡面。</stanza>
+  </lyrics>
+</hymn>

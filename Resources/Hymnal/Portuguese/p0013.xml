@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O amor de Deus é singular</title>
+  <index>true</index>
+  <category>Seu Amor</category>
+  <numbers><cebuano num="28"/><chinese num="24"/><english num="28"/><french num="4"/><german num="28"/><korean num="24"/><portuguese num="13"/><russian num="12"/><spanish num="19"/><tagalog num="28"/></numbers>
+  <creators>
+	<author biodate="1868-1953" biolink="">Translated from Frederick Martin Lehman</author>
+  </creators>
+  <melody>| 0. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 3. 1/ 1./ 2// | 3. 5/ 6./ 5// | 5( 3/) 5/ 5./ 3// | 2. 4/ 3./ 2// (break) | 1. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 4 (break) | 3. ._1/ ._1./ ._1// | 6. ._1/ ._1./ ._1// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 (break) | 1. (Chorus) ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 6 (break) | 5. ._1/ ._1./ ._1// | ._1. ._1/ 7./ 6// | 5( 3/) 5/ 5./ 6// | 5( 2) 3 | 1. 0. |</melody>
+  <music>
+	<midiref type="h" num="28"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O amor de Deus é singular,
+Ninguém jamais pode explicar;
+É bem mais alto que os céus,
+E mais profundo que o mar.
+A nossos pais, que transgrediram,
+Deus prometeu-lhes Jesus;
+Oh! que amor sem par ouviram,
+Linda promessa da cruz.</stanza>
+	<stanza type="chorus" number="">O amor de Deus, tão rico e puro,
+Ninguém o pode explicar;
+Jamais tem fim, é bem seguro,
+Pra sempre o hei de louvar.</stanza>
+	<stanza type="verse" number="2">E quando o tempo se passar,
+Os reinos todos vão ruir;
+Ingratos homens vão clamar:
+"Ó, venham, montes, nos cobrir."
+Porém o amor de Deus perdura,
+Mesmo em tristeza e dor;
+E vida eterna, bem segura,
+Tem o que crê no amor.</stanza>
+	<stanza type="verse" number="3">Se fosse tinta todo o mar,
+E os céus infindos, os papéis,
+Quais penas fosse todo hastil,
+E os homens, escrivães fiéis;
+Nem mesmo assim o amor seria
+Descrito em todo o fulgor;
+Oh! deslumbrante maravilha
+É esse eterno amor!</stanza>
+  </lyrics>
+</hymn>

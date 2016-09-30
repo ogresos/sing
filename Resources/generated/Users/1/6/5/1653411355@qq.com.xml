@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jason</firstname>
+  <lastname>Liu</lastname>
+  <email>1653411355@qq.com</email>
+  <password>$2y$10$c7dZud3bl9xxS8uCYTjcVu5B8.7.xMf0JY3E4WOpyQVlJwbpELeHC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>171.220.2.49</ipaddress>
+  <createdate>2016-06-26 10:57:00</createdate>
+  <lastupdateddate>2016-07-03 14:53:55</lastupdateddate>
+  <lastlogindate>2016-06-26 15:32:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="1025">Give up the world, Christ to obtain</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+    <fav category="default" type="nt" num="383">Sweet Will of God</fav>
+  </favourites>
+</user>

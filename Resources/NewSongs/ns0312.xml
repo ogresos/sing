@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>With Christ Identified</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;Identified with His Death and Resurrection</category>
+  <creators>
+    <author biodate="" biolink="" fullname="David Beach">D. B.</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3. 3/ 4 3 | 3( - 2) 3/( 2/) | 1. 1/ 2 5 | 3 - - 5 (break) | 6. 5/ 4 3 | 5. 4/ 3 2 | 1. 2/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God re -- al -- ized by us, With Christ i -- den -- ti -- fied&amp;mdash; God re -- con -- ciled us to Him -- self, Now Christ, i -- den -- ti -- fied!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Romans 6</link>
+  </links>
+  <music>
+    <midiref type="h" num="228"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God realized by us,
+With Christ identified&amp;mdash;
+God reconciled us to Himself,
+Now Christ, identified!</stanza>
+    <stanza type="verse" number="2">Born into Adam, we&amp;mdash;
+But transferred now to Christ;
+Made one with Christ, as baptized ones,
+Growing togeth'r with Him.</stanza>
+    <stanza type="verse" number="3">In likeness of His death,
+That is, newness of life&amp;mdash;
+Ourselves be reckoned dead to sin,
+But live to God, in Christ.</stanza>
+    <stanza type="verse" number="4">We would present ourselves,
+To God, from dead&amp;mdash;alive.
+Present our members "righteous slaves,"
+Become thus sanctified.</stanza>
+  </lyrics>
+</hymn>

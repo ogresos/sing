@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>James</firstname>
+    <lastname>Muturo</lastname>
+    <email>muturoj@yahoo.com</email>
+    <password>jTc7VtiKlu8O2CHfGembqA%3D%3D</password>
+    <gender>M</gender>
+    <country>ke</country>
+    <ipaddress>192.100.130.239</ipaddress>
+    <createdate>2011-08-23 01:31:21</createdate>
+    <lastupdateddate>2011-08-23 01:55:46</lastupdateddate>
+    <lastlogindate>2011-08-23 01:55:46</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    </favourites>
+</user>

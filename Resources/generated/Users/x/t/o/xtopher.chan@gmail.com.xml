@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Christopher</firstname>
+<lastname>Chan</lastname>
+<email>xtopher.chan@gmail.com</email>
+<password>$1$usKeWSfg$MT6Zzkq51F.bbSc4e0hJo/</password>
+<gender>M</gender>
+<country>Myanmar</country>
+<ipaddress>203.81.166.2</ipaddress>
+<createdate>2009-07-17 12:00:53</createdate>
+<lastupdateddate>2009-09-15 19:16:52</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

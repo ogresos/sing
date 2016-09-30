@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ron</firstname>
+  <lastname>Maranhao</lastname>
+  <email>ronmaranhao@gmail.com</email>
+  <password>$2y$10$fp10bLMoANEk6dVF6a2TaunqhnhSOEZ8g/Vdu9GJagVUrYUjKwZOy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.0.100</ipaddress>
+  <createdate>2015-09-01 12:29:33</createdate>
+  <lastupdateddate>2015-09-01 12:31:32</lastupdateddate>
+  <lastlogindate>2015-09-01 12:31:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

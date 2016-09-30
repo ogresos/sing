@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In my spirit, I can see You as You are</title>
+  <index>true</index>
+  <category>Various Aspects of the Inner Life&amp;mdash;The Human Spirit</category>
+  <numbers><english num="ns:145"/><vsb num="214"/></numbers>
+  <hymncode>34555566665</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>85</tempo>
+  <chords>| C - - - | C - - - | F - C - | C - - - | F - C - | Gsus4 - G - | C - Am - | F - G7 - | C - Am - | G - - - | F - G7 - | C - - - | C - - - | G - - - | F - G7 - | C - - - | C - - - | G - - - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 3/ 4/ | 5 5( 5) 5/ 5/ | 6/ 6/ 6/ 6/ 5 1/ 2/ | 3 3/ 3/ 3 3/ 3/ | 4/ 4/ 4/ 4/ 3 2/ 1/ | 2( - 2/) 2/ 1/ 2/ | 3/ 5// 5//( 5)( 5/) 5/ 3/ 1/ | 2/ 3// 2//( 2)( 2/) 2/ 1/ 2/ | 3/ 5// 5//( 5)( 5) 3/ 1/ | 2 2 - - | 0/ 6_./ 6_./ 7_./ 1. 2/ (break) | 1 - - (Chorus) 5/ 3/ | 6 5( 5) 4/ 3/ | 2 - - 2/( 3/) | 4/ 4/ 4/ 4/ 3/ 2/ 1/ 2/ | 3 - - 5/ 3/ | 6( 5)( 5/) 5/ 4/ 3/ | 2 - - 2/ 3/ | 4/ 4/ 4/ 4/ 3/ 2/ 1/ 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>In my spir -- it, I can see You as You are. You're the Al -- pha, O -- me -- ga, the Bright and Morn -- ing Star. Here You'll stay, just as a flow with -- in To oc -- cu -- py my heart and spread Your life with -- in, In my spir -- it! You're all in all to me. In my spir -- it is the key, No long -- er need I wor -- ry right or wrong; In the church, re -- al -- i -- ty&amp;mdash; Root -- ed, ground -- ed in Your plan where I be -- long.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="56">ns0145.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In my spirit, I can see You as You are.
+You're the Alpha, Omega, the Bright and Morning Star.
+Here You'll stay, just as a flow within
+To occupy my heart and spread Your life within,
+In my spirit! You're all in all to me.</stanza>
+    <stanza type="chorus" number="">In my spirit is the key,
+No longer need I worry right or wrong;
+In the church, reality&amp;mdash;
+Rooted, grounded in Your plan
+   where I belong.</stanza>
+    <stanza type="verse" number="2">In my spirit, I can see You in the church;
+It's Your heart's desire, for it a people You will search.
+Here I'll stay, within Your perfect will,
+Built up into a home, Your glory here to fill.
+In the church! I must no longer roam.</stanza>
+    <stanza type="verse" number="3">In Your purpose, we just flow along in life.
+It's so simple, no more unrest and strife.
+In the churches, we just enjoy You, Lord.
+Here You can build us up, for we're in one accord;
+In the churches&amp;mdash;we know You'll be back soon.</stanza>
+    <stanza type="note" number="">(Repeat chorus and second verse)</stanza>
+  </lyrics>
+</hymn>

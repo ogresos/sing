@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Patricia</firstname>
+    <lastname></lastname>
+    <email>pjohnso3@aol.com</email>
+    <password>CT2LK3%2FIPD9tUYDwHLGMzQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>67.11.178.25</ipaddress>
+    <createdate>2013-09-12 09:38:54</createdate>
+    <lastupdateddate>2013-09-12 12:09:02</lastupdateddate>
+    <lastlogindate>2013-09-12 09:39:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    </favourites>
+</user>

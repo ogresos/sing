@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wenn immer das Herz sich wendet zum Herrn</title>
+  <index>true</index>
+  <category>SCHRIFTSTELLEN ZUM SINGEN</category>
+  <numbers><cebuano num="1345"/><chinese num="ts:405"/><dutch num="46"/><english num="1345"/><german num="1345"/><spanish num="499"/></numbers>
+  <melody>| 0 - 5_. | 1/ 1/( 1) 1 | 3 - 3 | 3/( 2/) 1. 2/ | 3 - 2/ 2/ | 5( 3) 1 | 1 - 2 | 3 - - (break) | 2 - 5_. | 1/ 1/( 1) 1 | 3 - 3 | 3/( 2/) 1. 2/ | 3 - 2/ 2/ | 5 3 1 | 1 - 7_. | 1 - - (break) | 1 - 1 | 4 4 4 | 6. 6/ 6/ 6/ | 5 - 5/( 6/) | 3/( 2/) 1 1/ 2/ | 3 3 - | 3 2 1 | 2( - - (break) | 2) - 5_. | 1/ 1/( 1) 1 | 3 - 3 | 3/( 2/) 1. 2/ | 3 - 2/ 2/ | 5( 3) 1 | 1 - 7_. | 1 - - | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Wenn imm -- er das Herz sich wen -- det zum Herrn Wird der Schlei -- er weg -- ge -- nom -- men. Drum wen -- de dein Herz zum Herrn al -- le -- zeit, Und der Schlei -- er wird weg -- ge -- nom -- men. Der Herr ist der Geist, Und wo der Geist des Herrn ist, Da ist Frei -- heit– Frei -- heit so reich! Wenn im -- mer das Herz sich wen -- det zum Herrn Wird der Schlei -- er weg -- ge -- nom -- men.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">2 Corinthians 3:16-17</link>
+  </links>
+  <music>
+	<midiref type="h" num="1345"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Wenn immer das Herz sich wendet zum Herrn
+Wird der Schleier weggenommen.
+Drum wende dein Herz zum Herrn allezeit,
+Und der Schleier wird weggenommen.
+Der Herr ist der Geist,
+Und wo der Geist des Herrn ist,
+Da ist Freiheit – Freiheit so reich!
+Wenn immer das Herz sich wendet zum Herrn
+Wird der Schleier weggenommen.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tal qual estou, sem me esquivar</title>
+  <index>true</index>
+  <category>Vir Ao Senhor</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tal qual estou, sem me esquivar,
+Sem nada em que me apoiar,
+Mas por Teu sangue e Teu chamar,
+Cordeiro eterno, venho a Ti!</stanza>
+	<stanza type="verse" number="2">Tal qual estou, sem esperar
+Pra do pecado livre estar,
+E em Teu sangue me lavar,
+Cordeiro eterno, venho a Ti!</stanza>
+	<stanza type="verse" number="3">Tal qual estou, mas inda assim,
+Com medos, dúvidas sem fim,
+Angústias, lutas dentro em mim,
+Cordeiro eterno, venho a Ti!</stanza>
+	<stanza type="verse" number="4">Tal qual estou, sem ter visão,
+Mui pobre, vil, em aflição,
+Por vida, luz e salvação,
+Cordeiro eterno, venho a Ti!</stanza>
+	<stanza type="verse" number="5">Tal qual estou me acolherás,
+Perdão e alívio me darás,
+Pois prometeste e cumprirás;
+Cordeiro eterno, venho a Ti!</stanza>
+	<stanza type="verse" number="6">Tal qual estou, Teu grande amor
+Meus muros todos derrubou;
+E para ser só Teu, Senhor,
+Cordeiro eterno, venho a Ti!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, Come See a Man</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><english num="ns:347"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ricky Acosta">R. A.</author>
+    <author biodate="" biolink="" fullname="Ricky McCullough">R. M.</author>
+    <composer biodate="" biolink="" fullname="Ricky Acosta">R. A.</composer>
+    <composer biodate="" biolink="" fullname="Ricky McCullough">R. M.</composer>
+  </creators>
+  <hymncode>5151252334323212</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G - - | C - - | C - - | F - - | C - - | G - - | G7 - - | C - - | G - - | C - - | C - - | F - - | C - - | G - - | C - - | F - - | F - - | C - - | C - - | G - - | G7 - - | C - - | C7 - - | F - - | C - - | G - - | C - - | F - - | F - - | C - - | C - - | G - - | G7 - - | C - - | C7 - - | F - - | C - - | G - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 5_. | 1 5_. 1 | 2 5_. 2 | 3( - - | 3) - 3 | 4 3 2 | 3 2 1 | 2( - - (break) | 2) - 5_. | 1 5_. 1 | 2( 5_.) 2 | 3( - - | 3) - 3 | 4 3 2 | 3 2 1 | 2 1 7_. | 1/( 2/)( 3)( - (break) | 4) - (Chorus) 4 | 4 3 2 | 3( - - | 3)( - - | 2) - 2 | 2 3 4 | 3( - - (break) | 3) - 3 | 4 3 2 | 3( 2) 1 | 2 1 7_. | 1/( 2/)( 3)( - | 4) - 4 | 4 3 2 | 3( - - | 3)( - - (break) | 2) - 2 | 2 3 4 | 3( - - | 3) - 3 | 4 3 2 | 3 2 1 | 2 1 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>One day as the Lord passed a well, A wo -- man so thirs -- ty was there. He was not con -- tent un -- til He left her the wa -- ter that's real, pure, and clear. Oh, come see a man, Oh, come see a man, Who told me all things that ev -- er I did. Is this not the Christ? Is this not the Christ? He fills me for -- ev -- er and ev -- er! A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">John 4</link>
+  </links>
+  <music>
+    <midi location="ns" length="62">ns0347.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">One day as the Lord passed a well,
+A woman so thirsty was there.
+He was not content until
+He left her the water that's real, pure, and clear.</stanza>
+    <stanza type="chorus" number="">Oh, come see a man,
+Oh, come see a man,
+Who told me all things that ever I did.
+Is this not the Christ?
+Is this not the Christ?
+He fills me forever and ever! Amen.</stanza>
+    <stanza type="verse" number="2">He spoke words that I'd never heard,
+Yet how He did stir up my thirst!
+He spoke of the water that lives,
+To all who are thirsty, He freely will give.</stanza>
+    <stanza type="verse" number="3">Now this living water have I!
+I drink and I soar to the sky!
+His praises now fill all the air
+Because I am speaking Him, now, everywhere!</stanza>
+  </lyrics>
+</hymn>

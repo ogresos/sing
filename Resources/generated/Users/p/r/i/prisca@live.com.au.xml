@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>PRISCA</firstname>
+<lastname>LAU</lastname>
+<email>prisca@live.com.au</email>
+<password>$1$S38zHvL8$4cJWKjEitlS1Hvml0Q9aA1</password>
+<gender>F</gender>
+<country>Australia</country>
+<ipaddress>61.69.44.14</ipaddress>
+<createdate>2008-12-24 20:02:50</createdate>
+<lastupdateddate>2009-09-15 18:27:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+    </favourites>
+</user>

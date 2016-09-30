@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, we want to live You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Our Person</category>
+  <numbers><english num="lb:32"/><vsb num="106"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Noni Parker">N. P.</author>
+    <composer biodate="" biolink="" fullname="Noni Parker">N. P.</composer>
+  </creators>
+  <hymncode>543167345565</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | F - G - | C - Em - | F - G - | C - Am - | F - G - | F - G - | F/C - C - | C - Am - | F - G - | C - Em - | F - G - | C - Am - | F - G - | F - G - | F/C - C - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - Am - | F - G - | F - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | Dm - - - | F - - - | G - - - | C - Am - | F - G - | C - Em - | F - G - | C - Am - | F - G - | F - G - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - Am - | F - G - |</chords>
+  <melody>| (Coda) 0 5/ 4/ 3 1 | 6_. - 7_. - | 0 3/ 4/ 5 - | 5. 6/ 5 - | 0 5/ 4/ 3 1 | 6_. - 7_. - | 6_.. 6_./ 7_./ 6_./( 6_./) 7_./ | 1 - - - (Fine) (break) | 0 5/( 4/) 3 1 | 6_. - 7_. - | 0 3/ 4/ 5. 5/ | 5. 6/ 5 - | 0 5/( 4/) 3 1 | 6_.. 1/ 7_. - | 6_. - 7_. - | 1 - - - (break) | 0 6 6 6/ 6/ | 5. 4/ 3 2 | 0 - 1( 2) | 3 - - - | 0 6 6 6 | 5.( 4/) 3/ 3/ 2 | 1/ 1/ 1/ 1/ 1/ 1/ 1/ 1/ | 6_.. 1/ 7_. - | 6_. 6_.( 6_.) 1 | 2./ 2// 2 - - | 0 - 3 2 | 3 - - 3 | 4./ 4// 4( 4) 4/ 3/ | 2/ 2.( 2) 2/ 4/ | 3 - 3( - | 3) - - 0 (break) | 6_. 6_. 6_. 1 | 2./ 2// 2( 2) 1/ 2/ | 3( - - - | 3) - - 3 | 4 - - - | 2./ 2// 2( 2) 1/ 2/ | 1 - - - | 2 - - - (break) | 0 5/ 4/ 3 1 | 6_.. 6_./ 7_. - | 0 3/( 4/) 5 5/ 5/ | 5.( 6/) 5 - | 0 3/ 2/ 1 7_. | 6_.. 6_./ 7_. - | 6_. - 7_. 7_.( | 7_./) 1/( 1) - - (break) | 0 6 6 6 | 5. 4/ 3 2 | 0 - 1( 2) | 3 - - - (break) | 0 6/ 6/ 6/ 6/ 6 | 5. 4/ 3 2 | 1/ 1/ 1/ 1/ 1 1/ 1/ | 6_..( 1/) 7_. - (DC) |</melody>
+  <layout>
+    <singingstanza end="-1">Lord, we want to live You In the most in -- ti -- mate And the clos -- est con -- tact, Clos -- est con -- tact with You. Act -- ing ac -- cord -- ing To the in -- dex of Your eyes; A per -- son one with Christ, Full of Christ. And one who is sa -- tu -- rat -- ed with Christ One who is so brok -- en And e -- ven ter -- mi -- nat -- ed In his na -- tural life, Sof -- tened and flex -- i -- ble in his will, Af -- fec -- tio -- nate, yet re -- strict -- ed in e -- mo -- tions, So -- ber and con -- si -- de -- rate in his mind, And pure, ge -- nu -- ine in his spir -- it. This is for the be -- ne -- fit Of all the be -- liev -- ers That they may ex -- pe -- ri -- ence And en -- joy Christ For the ful -- fill -- ment of God's pur -- pose In the build -- ing up of Christ's Bo -- dy, In the build -- ing up of Your Bo -- dy.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">2 Corinthians 2:10</link>
+  </links>
+  <music>
+    <midi location="lb" length="134">lb32.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Lord, we want to live You
+In the most intimate
+And the closest contact,
+Closest contact with You.
+Acting according
+To the index of Your eyes;
+A person one with Christ,
+Full of Christ.</stanza>
+    <stanza type="verse" number="">And one who is saturated
+    with Christ
+One who is so broken
+And even terminated
+In his natural life,
+Softened and flexible
+    in his will,
+Affectionate, yet restricted
+    in emotions,
+Sober and considerate
+    in his mind,
+And pure, genuine
+    in his spirit.</stanza>
+    <stanza type="verse" number="">This is for the benefit
+Of all the believers
+That they may experience
+And enjoy Christ
+For the fulfillment of God's purpose
+In the building up of Christ's Body,
+In the building up of Your Body.</stanza>
+  </lyrics>
+</hymn>

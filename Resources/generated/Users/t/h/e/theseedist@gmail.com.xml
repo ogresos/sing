@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ian M</firstname>
+  <lastname>Brown</lastname>
+  <email>theseedist@gmail.com</email>
+  <password>$2y$10$bBKB0NQQ4zLEqvfccESgBOwsFNqzbp2hn9zzqepXzATt4WJTsHKm.</password>
+  <gender/>
+  <country>fr</country>
+  <ipaddress>176.179.97.2</ipaddress>
+  <createdate>2016-05-15 09:25:46</createdate>
+  <lastupdateddate>2016-08-28 15:25:22</lastupdateddate>
+  <lastlogindate>2016-08-28 15:25:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+  </favourites>
+</user>

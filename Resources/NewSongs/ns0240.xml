@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I give myself to You again today</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Serving the Lord</category>
+  <numbers><english num="ns:240"/><vsb num="203"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Elaine Dai">E. D.</author>
+    <composer biodate="" biolink="" fullname="Elaine Dai">E. D.</composer>
+  </creators>
+  <hymncode>11432143212111432143265</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | F - G - | C - Am - | F - G - | F - C/E - | F - C/E - | F - G7 - | C - - - |</chords>
+  <melody>| 1. 1/ 4/ 3/ 2/ 1/ | 4/ 3/ 2/ 1/ 2 - | 1 1/ 1/ 4/ 3/ 2/ 1/ | 4/ 3/ 2/ 6/ 5. 1/ (break) | 6_./ 1/ 5/ 4/ 1. 1/ | 6_./ 1/ 4/ 3/ 1 - | 6_. 4/ 3/ 1 6_. | 5_. - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, I give my -- self to You a -- gain to -- day Lord, on this con -- se -- cra -- tion path I choose to stay You bought me with a price My life I sa -- cri -- fice Lord, I am not my own.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="29">ns0240.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I give myself to You again today
+Lord, on this consecration path I choose to stay
+You bought me with a price
+My life I sacrifice
+Lord, I am not my own.</stanza>
+    <stanza type="verse" number="2">Lord, I give myself to You again today
+Your mercy reached me though I was so far away
+You gave Yourself for me
+From whose earthly dreams You freed
+Lord, I am Yours alone.</stanza>
+    <stanza type="verse" number="3">Lord, I give myself to You again today
+I open to You so that You may have a way
+To work in me that I
+Might serve You my whole life
+Lord, I love You alone.</stanza>
+  </lyrics>
+</hymn>

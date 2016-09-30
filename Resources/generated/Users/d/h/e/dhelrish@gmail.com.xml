@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rodel</firstname>
+  <lastname>Rizari</lastname>
+  <email>dhelrish@gmail.com</email>
+  <password>$2y$10$xIv5OA0D81r/9vXBhBnC7u9RVzb2S9WW43SXTlfHeed4huGILWIgm</password>
+  <gender/>
+  <country>Philippines</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-04-11 08:30:47</createdate>
+  <lastupdateddate>2015-03-08 00:25:49</lastupdateddate>
+  <lastlogindate>2015-03-08 00:25:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1117">We praise Thee, O God (as the Spirit)</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

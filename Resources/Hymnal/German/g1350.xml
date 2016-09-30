@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bin in Christus, und ich freu mich –</title>
+  <index>true</index>
+  <category>SCHRIFTSTELLEN ZUM SINGEN</category>
+  <numbers><chinese num="229"/><english num="1350"/><french num="65"/><german num="1350"/><russian num="66*"/><spanish num="164"/><tagalog num="1350"/></numbers>
+  <key>A Major</key>
+  <melody>| 0 - - 5/ 5/ | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 (break) | 5 - - 5 | 7 7 - 6./ 5// | ._1 ._3 - ._1 | 6 ._2 ._2 ._3 (break) | ._2 5 ._1 ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1  (break) | 5 5 3 4 | 5 ._1 - ._4 | ._3 - ._2 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Bin in Chris -- tus, und ich freu mich_&amp;mdash; Denn von A -- dam bin ich frei! Lass Al -- tes stehn und lie -- gen, Ganz neu fühl mich da -- bei! Preist Gott! Ich schme -- cke und ge -- nie -- ße Le -- ben, Frie -- den und Frei -- heit! Ich bin in Chris -- tus in E -- wig -- keit.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1350"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Bin in Christus, und ich freu mich –
+Denn von Adam bin ich frei!
+Lass Altes stehn und liegen,
+Ganz neu fühl mich dabei!
+Preist Gott! Ich schmecke und genieße
+Leben, Frieden und Freiheit!
+Ich bin in Christus in Ewigkeit.</stanza>
+  </lyrics>
+</hymn>

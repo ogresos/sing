@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主當我們藉著這水</title>
+  <index>true</index>
+  <category>受浸－埋葬與復活</category>
+  <numbers><cebuano num="937"/><chinese num="742"/><english num="937"/><german num="937"/><korean num="742"/><russian num="433"/><spanish num="424"/><tagalog num="937"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3. 3/ 3 - 2 - | 1. 1/ 1 - 2 - | 3 5 4 - 3 - | 3( - (.2) - 4 - (break) | 3. 3/ 3 - 6 - | 5. 5/ 5 - 1 - | 2 4 3 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>主 當 我 們 藉 著 這 水， 承 認 同 死 事 實， 求 你 在 此 憐 憫 施 惠， 啟 示 牠 的 價 值。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="767"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主當我們藉著這水，
+承認同死事實，
+求你在此憐憫施惠，
+啟示牠的價值。</stanza>
+	<stanza type="verse" number="2">藉著這水歸入你死，
+與你一同埋葬，
+我們永遠離罪若失，
+脫離罪的捆綁。</stanza>
+	<stanza type="verse" number="3">藉著這水歸入你死，
+與你一同埋葬，
+我們就此與世長辭，
+脫離今世君王。</stanza>
+	<stanza type="verse" number="4">在此與你一同復活，
+脫離死亡權勢；
+靠你結出成聖美果，
+活出新生樣式。</stanza>
+	<stanza type="verse" number="5">在此受浸歸於你名，
+不再屬於自己；
+為你而活，隨你而行，
+永遠與你合一。</stanza>
+  </lyrics>
+</hymn>

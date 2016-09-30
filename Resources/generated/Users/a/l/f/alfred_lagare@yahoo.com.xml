@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>ALFREDO</firstname>
+  <lastname>LAGARE</lastname>
+  <email>alfred_lagare@yahoo.com</email>
+  <password>$1$s3KpapNs$4/lVwKv0CyAJYfwOELq1c.</password>
+  <gender>M</gender>
+  <country>Philippines</country>
+  <ipaddress>202.84.110.122</ipaddress>
+  <createdate>2008-11-29 03:27:16</createdate>
+  <lastupdateddate>2015-10-16 09:02:56</lastupdateddate>
+  <lastlogindate>2015-10-16 09:02:56</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

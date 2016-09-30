@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>sandy</firstname>
+  <lastname>williams</lastname>
+  <email>sandyw148@hotmail.com</email>
+  <password>$2y$10$bDxuUEulWFisRv8xnrofo.wbfDFY7UCjg9hM5lBhwfdz5AECFNByS</password>
+  <gender>F</gender>
+  <country>ca</country>
+  <ipaddress>99.228.134.149</ipaddress>
+  <createdate>2012-01-24 13:32:40</createdate>
+  <lastupdateddate>2015-07-26 04:17:15</lastupdateddate>
+  <lastlogindate>2015-07-26 04:17:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+    <fav category="default" type="ns" num="221">More of our heart</fav>
+    <fav category="default" type="c" num="73">Open up to your parents</fav>
+  </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我每靜念那十字架</title>
+  <index>true</index>
+  <category>讚美主－祂的受苦</category>
+  <numbers><cebuano num="101"/><chinese num="85"/><english num="101"/><korean num="85"/><spanish num="51"/><tagalog num="101"/></numbers>
+  <creators>
+	<author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <melody>| 0 - 1 | 3( 4) 2 | 1 -  3 | 5 - 6 | 5 - 5 | ._1 - 7 | 6 - 5 | 5( 4) 3 | 3( 2) 2 (break) | 5 - 6 | 7 - 5 | ._1( 3) 4# | 5 - 1 | 4 - 3 | 2 - 1 | 1/( 2/ 3) 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>我 每 靜 念 那 十 字 架， 並 主 如 何 在 上 受 熬， 我 就 不 禁 渾 忘 身 家， 鄙 視 從 前 所 有 倨 傲。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="101"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我每靜念那十字架，
+並主如何在上受熬，
+我就不禁渾忘身家，
+鄙視從前所有倨傲。</stanza>
+	<stanza type="verse" number="2">願主禁我別有所誇，
+除了基督的十字架；
+前所珍愛虛空榮華，
+今為祂血情願丟下。</stanza>
+	<stanza type="verse" number="3">看從祂頭！祂腳！祂手！
+憂情、慈愛和血而流！
+那有愛憂如此相遘？
+荊棘編成如此冕旒？</stanza>
+	<stanza type="verse" number="4">看祂全身滿被水血，
+如同穿上朱紅衣飾！
+因此，我與世界斷絕，
+世界向我也像已死。</stanza>
+	<stanza type="verse" number="5">假若宇宙都歸我手，
+盡以奉主仍覺可羞；
+愛既如此奇妙、深厚，
+當得我心、我命－所有。</stanza>
+  </lyrics>
+</hymn>

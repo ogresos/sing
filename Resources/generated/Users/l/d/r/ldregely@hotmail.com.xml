@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lou</firstname>
+    <lastname>Dregely</lastname>
+    <email>ldregely@hotmail.com</email>
+    <password>2rZDnQsARpYC5HtH4CAR4w%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>99.128.16.195</ipaddress>
+    <createdate>2009-12-20 10:54:39</createdate>
+    <lastupdateddate>2010-09-21 19:46:41</lastupdateddate>
+    <lastlogindate>2010-09-21 19:46:41</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="515">All is in Christ</fav>
+        <fav category="default" type="h" num="728">I have been through the valley of sorrow and weeping</fav>
+    </favourites>
+</user>

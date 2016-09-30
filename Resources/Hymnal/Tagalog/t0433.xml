@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako'y Kanya! Anong kagalakan nga</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAPILIT NG PAG-IBIG NG PANGINOON</category>
+  <numbers><cebuano num="433"/><chinese num="ts:331"/><english num="433"/><french num="74"/><portuguese num="200"/><russian num="215"/><spanish num="184"/><tagalog num="433"/></numbers>
+  <creators>
+    <author biodate="1850-1927" biolink="">Translated from Lucy Ann Bennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ako'y Kanya! Anong kagalakan nga!
+Matamis na tugon sa tinig Niya;
+"Oo" tugon sa Iyong mga pangako,
+"Huwag mangamba, tinubos na kita."</stanza>
+    <stanza type="verse" number="2">Ako'y Kanya! Deklarasyong masaya!
+Masayang araw ay nagunita,
+Nobya sa Kanya'y magsabi ng "Oo."
+Panginoo'y pararangalan ko.</stanza>
+    <stanza type="verse" number="3">Ako'y Kanya! Nawa ako'y turuan.
+Tungkol sa pagsinta't katapatan;
+Banal pag'lingkod, lubos na pagsuko,
+Walang hanggang pagsunod sa Iyo.</stanza>
+    <stanza type="verse" number="4">Ako'y Kanya! Buo kong katauhan,
+Espiritu, kalul'wa't katawan;
+Ang Sinta ko, sa ganap Niyang biyaya,
+Magpakailanman ay akin nga.</stanza>
+  </lyrics>
+</hymn>

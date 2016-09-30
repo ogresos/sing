@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Tan</lastname>
+    <email>three25pl@yahoo.com</email>
+    <password>0rqVFAZJz7A84h9aC%2FHfAQ%3D%3D</password>
+    <gender></gender>
+    <country>Singapore</country>
+    <ipaddress>82.9.186.57</ipaddress>
+    <createdate>2013-06-12 17:58:42</createdate>
+    <lastupdateddate>2013-06-13 04:05:07</lastupdateddate>
+    <lastlogindate>2013-06-12 17:58:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="129">Behold the Lamb with glory crowned</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+        <fav category="default" type="h" num="253b">Breathe on us, Lord of life (Alternate Tune)</fav>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="246">Joys are flowing like a river</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Gorman</lastname>
+    <email>itsycatreading@gmail.com</email>
+    <password>JfZ%2FnmEi%2FXT392ntQb0UBA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.92.45.240</ipaddress>
+    <createdate>2013-09-27 21:25:05</createdate>
+    <lastupdateddate>2013-11-26 19:52:44</lastupdateddate>
+    <lastlogindate>2013-11-26 19:52:44</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    </favourites>
+</user>

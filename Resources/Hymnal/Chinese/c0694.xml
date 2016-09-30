@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主是生命主是復活</title>
+  <index>true</index>
+  <category>福音－生命</category>
+  <numbers><chinese num="694"/><english num="1015"/><korean num="694"/><portuguese num="453"/><tagalog num="1015"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/( 7/) 6/( 5/) | 5./( 4// 3/) ._1/ | ._1/( 7/) 6/( 5/) (break) | 5./( 4// 3/) 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/( ._1) 6/ | 5./( 4// 3/) 4/ | 3 2 | 1 - |</melody>
+  <layout>
+	<singingstanza>主 是 生 命， 主 是 復 活， 生 命 是 祂 掌 握； 祂 已 藉 死 毀 壞 死、 魔， 現 今 永 遠 活 著； 現 今 永 遠 活 著， 現 今 永 遠、 永 遠 活 著。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主是生命，主是復活，
+生命是祂掌握；
+祂已藉死毀壞死、魔，
+現今永遠活著；
+現今永遠活著，
+現今永遠、永遠活著。</stanza>
+	<stanza type="verse" number="2">榮耀、榮耀，何等生命，
+我今已經得著！
+黑暗、死亡、罪的權勢，
+現今都已消沒！
+現今都已消沒！
+現今都已、都已消沒！</stanza>
+  </lyrics>
+</hymn>

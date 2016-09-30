@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Reinaldo</firstname>
+  <lastname>Dusse</lastname>
+  <email>reinaldodusse@hotmail.com</email>
+  <password>$2y$10$HnvE/t/q9GeXofUACxTkxOcPxUt3YPUka/8XTFwjX2y4lMzydd3zi</password>
+  <gender/>
+  <country>Brazil</country>
+  <ipaddress>200.236.238.16</ipaddress>
+  <createdate>2013-02-02 20:24:32</createdate>
+  <lastupdateddate>2016-05-14 18:09:27</lastupdateddate>
+  <lastlogindate>2016-05-14 18:02:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+    <fav category="default" type="h" num="1179">My old man has been crucified with Him</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="966">O hope of glory, our Christ will return</fav>
+    <fav category="default" type="h" num="1229">The church is Christ's deep longing</fav>
+    <fav category="default" type="h" num="1096">Tis the local church proclaiming</fav>
+    <fav category="default" type="h" num="881">We rest on Thee, our Shield and our Defender</fav>
+    <fav category="default" type="h" num="608">What mystery, the Father, Son, and Spirit</fav>
+  </favourites>
+</user>

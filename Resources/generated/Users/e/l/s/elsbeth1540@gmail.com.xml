@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Elizabeth</firstname>
+    <lastname></lastname>
+    <email>elsbeth1540@gmail.com</email>
+    <password>2Fuxk1QcKXVLQ5kMOdKIaA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>71.204.78.223</ipaddress>
+    <createdate>2013-05-29 06:50:53</createdate>
+    <lastupdateddate>2013-05-29 07:01:12</lastupdateddate>
+    <lastlogindate>2013-05-29 06:50:53</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="963">Face to face with Christ, my Savior</fav>
+        <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+        <fav category="default" type="h" num="456">Living for Jesus a life that is true</fav>
+        <fav category="default" type="h" num="384">My Jesus, as Thou wilt</fav>
+        <fav category="default" type="h" num="398">O to be like Thee</fav>
+        <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    </favourites>
+</user>

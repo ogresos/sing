@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Go on, go on</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Pressing On</category>
+  <numbers><english num="ns:125"/><vsb num="183"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Donny Wise">D. W.</author>
+    <composer biodate="" biolink="" fullname="Donny Wise">D. W.</composer>
+  </creators>
+  <hymncode>511223432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>115</tempo>
+  <chords>| C - - - | C - G - | C - G - | C - G - | C - G - | F - G - | Em - Am - | F - G - | C - C7/E - | F - G - | C - Am - | F - G - | C - C7/E - | F - G - | Em - Am - | Dm7 - G7 - | F/C - C - |</chords>
+  <melody>| 0 - - 0/ (Chorus) 5_./ | 1 1/ 2/( 2.) 2/ | 3/ 4/ 3/ 2/( 2.) 2/ | 5/ 4/ 3/ 2/( 2/) 3/ 4 | 3.( 2/)( 2.) 2/ | 6/ 6/ 6/ 2/( 2.) 2/ | 5/ 5/ 5/ 1/( 1/) 1/ 2/ 3/ | 4 3/ 2/( 2/) 1/ 7_. (break) | 5 - - 0/ (Verse_1) 3/ | 6 6/ 2/( 2) 2/ 2/ | 5/ 5/ 5/ 1/( 1/) 1/ 2/ 3/ | 4 3/ 2/( 2/) 1/ 7_. | 5 - - 0 | 6/ 6/ 6/ 2/( 2) 2/ 2/ | 5/ 5/ 5/ 1/( 1/) 1/ 2/ 3/ | 4 3/ 2/( 2/) 1/ 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Go on, go on, go on in the Lord. Be strength -- ened, go on in the Lord. Your la -- bor is not in vain in the Lord. You must go on, go on in the Lord. Tri -- als may come and dis -- cour -- age -- ments, too. You must go on, go on in the Lord. Yes -- ter -- day's gone and His mer -- cies are new. You must go on, go on in the Lord.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="34">ns0125.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Go on, go on, go on in the Lord.
+Be strengthened, go on in the Lord.
+Your labor is not in vain in the Lord.
+You must go on, go on in the Lord.</stanza>
+    <stanza type="verse" number="1">Trials may come and discouragements, too.
+You must go on, go on in the Lord.
+Yesterday's gone and His mercies are new.
+You must go on, go on in the Lord.</stanza>
+    <stanza type="chorus" number="">Press on, press on, press on in the Lord.
+Be strengthened, press on in the Lord.
+Your labor is not in vain in the Lord.
+You must press on, press on in the Lord.</stanza>
+    <stanza type="verse" number="2">To worry is vain&amp;mdash;He will care for Your needs.
+You must go on, go on in the Lord.
+Tomorrow's not here and it never may be.
+You must go on, go on in the Lord.</stanza>
+    <stanza type="chorus" number="">Sail on, sail on, sail on in the Lord.
+Be strengthened, sail on in the Lord.
+Your labor is not in vain in the Lord.
+You must sail on, sail on in the Lord.</stanza>
+    <stanza type="chorus" number="">You must sail on, sail on,
+Press on, press on,
+You must go on, and on in the Lord.</stanza>
+  </lyrics>
+</hymn>

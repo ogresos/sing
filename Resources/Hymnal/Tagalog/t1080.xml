@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gawa ba'y may pakinabang</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PANGKALAHATAN</category>
+  <numbers><cebuano num="1080"/><chinese num="701"/><english num="1080"/><french num="210"/><german num="1080"/><korean num="701"/><portuguese num="467"/><russian num="184"/><spanish num="491"/><tagalog num="1080"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 1./( 2//) | 3 3 3./ 3// 2#./ 3// | 1 - - 3 | 5 5 5./ 3// 2./ 4// (break) | 3 - - 5 | ._1 ._1 ._1./ ._1// 7./ 6// | 5 - - 4 | 3 - 2. 2/ (break) | 1 - - (Chorus) 1./( 2//) | 3 - - 7_../ 2// | 1 - - 3 | 5 - - 2./ 4// (break) | 3 - - 5 | ._1 - - 7/( 6/) | 5 - - 4 | 3 - 2( 2./) 2// | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1045"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gawa ba'y may pakinabang?
+Mga bagay walang bago!
+Lilipas, malilimutan,
+At pawang bigo!</stanza>
+	<stanza type="chorus" number="">Walang kabuluhan!
+Pawang pagkabigo!
+Hinahabol ang
+Hangi't anino.</stanza>
+	<stanza type="verse" number="2">Buhay ng tao'y pighati:
+Karununga'y kapanglawan!
+Kaalama'y dalamhati,
+At kabiguan!</stanza>
+	<stanza type="verse" number="3">Anong silbi ng iyong yaman?
+Pamilya at kasayahan,
+Lahat ay kabalisahan,
+At kabiguan!</stanza>
+	<stanza type="verse" number="4">Magdamag pinagsikapan,
+Kahit mabuting nakamtan,
+Pag namatay, kasawian
+At kabiguan!</stanza>
+	<stanza type="chorus" number="">Walang kabuluhan!
+Pawang pagkabigo!
+Hinahabol ang
+Hangi't anino.</stanza>
+	<stanza type="verse" number="5">Al'lahanin ang Maylalang
+Sa araw ng kabataan,
+Diyos mahalin, katakutan,
+Siyang kasiyahan!</stanza>
+	<stanza type="chorus" number="">May Kristo, mayaman!
+Walang Kristo, salat!
+May kabuluhan -
+Kristo ang lahat!</stanza>
+  </lyrics>
+</hymn>

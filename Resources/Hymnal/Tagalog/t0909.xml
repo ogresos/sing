@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa agos gumawa para sa Pangino'n</title>
+  <index>true</index>
+  <category>PAGLILINGKOD&amp;mdash;SA AGOS</category>
+  <numbers><cebuano num="909"/><chinese num="653"/><dutch num="45"/><english num="909"/><french num="169"/><german num="909"/><korean num="653"/><portuguese num="423"/><russian num="431"/><spanish num="407"/><tagalog num="909"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 2/ 3/ | 4 4./ 3// 4 3/ 4/ (break) | 6 5./ 4#// (.5 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 3/ 3/ | 2 5/ 5/ 4# 5/ 6/ (break) | 7 7./ 6// (.5 (Chorus) 3./ 4// | 5 - - ._1./ 3// | 2 - - 2./ 3// | 4 - - 5./ 4// (break) | 3 - - 3./ 4// | 5 - - ._1./ 7// | 6 - - 7 | ._1/ 5/ 6./ 4// 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="895"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa agos gumawa para sa Pangino'n,
+Ayon sa Salita, Kanyang isip, daan,
+Sa agos ng buhay at kapangyarihan
+Maglingkod sa ekklesia at kaharian.</stanza>
+	<stanza type="chorus" number="">Sa agos, sa agos! Gumawa sa agos!
+Maglingkod kalakip ng lahat ng mga banal!</stanza>
+	<stanza type="verse" number="2">Sa agos gumawa kasama ng Poon,
+Salita'y sundin sa agos ng 'Spiritu.
+Huwag sarilihin ang gawa o mag-isa,
+Kundi magtulungan, makipagkaisa.</stanza>
+	<stanza type="verse" number="3">Sa agos gumawa sa loob ng Poon,
+Sa ekklesia at sa ilaw ng Salita.
+Mag-ebanghelyo't mamahagi ng buhay,
+Nang matupad ng Diyos Kanyang panukala.</stanza>
+  </lyrics>
+</hymn>

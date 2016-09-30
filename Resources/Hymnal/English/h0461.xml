@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Down in the valley with my Savior I would go</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Following the Lord</category>
+  <numbers><chinese num="346"/><english num="461"/><korean num="346"/><tagalog num="461"/></numbers>
+  <creators>
+    <author biodate="1823-1902" biolink="">William Orcutt Cushing</author>
+    <composer biodate="1826-1899" biolink="">Robert Lowry</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>512332111765</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C7 - | F - C - | G - - - | C - G - | C - C7 - | F - C - | F - C/E F | C/G G7 C - | C - C7 - | F - C - | G - C - | G/B C G - | C - C7/E - | F - C - | F - C/E F | C/G G7 C - |</chords>
+  <melody>| 5_. 1./ 2// 3/ 3/ 2/ 1/ | 1/ 1/ 7_./ 6_./ 5_. - | 5_./ 7_./ 7_./ 7_./ 7_./ 2/ 2/ 7_./ | 1 4/ 3/ 2 - (break) | 5_./ 5_./ 1/ 2/ 3/ 3/ 2/ 1/ | 1/ 1/ 7_./ 6_./ 5_. - | 6_./ 7_./ 1/ 2/ 3/ 3/ 5/ 4/ | 3 2 1 - (break) | (Chorus) 3 5 3./( 2//) 1 | 1./ 2// 1/ 6_./ 6_. 5_. | 7_./ 7_./ 7_. 1/ 1/ 1 | 2/ 3/ 4/ 3/ 2 - (break) | 3 5 3./( 2//) 1 | 1./ 2// 1/ 6_./ 6_. 5_. | 6_./ 7_./ 1/ 2/ 3/ 3/ 5/ 4/ | 3 2 1 - |</melody>
+  <layout>
+    <singingstanza>Down in the val -- ley with my Sav -- ior I would go, Where the flowers are bloom -- ing and the sweet wa -- ters flow; Ev -- ery -- where He leads me I would fol -- low, fol -- low on, Walk -- ing in His foot -- steps till the crown be won. Fol -- low! fol -- low! I would fol -- low Je -- sus! A -- ny -- where, ev -- ery -- where, I would fol -- low on! Fol -- low! fol -- low! I would fol -- low Je -- sus! Ev -- ery -- where He leads me I would fol -- low on!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj035.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="48">e0461_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Down in the valley with my Savior I would go,
+Where the flowers are blooming and the sweet waters flow;
+Everywhere He leads me I would follow, follow on,
+Walking in His footsteps till the crown be won.</stanza>
+    <stanza type="chorus" number="">Follow! follow! I would follow Jesus!
+Anywhere, everywhere, I would follow on!
+Follow! follow! I would follow Jesus!
+  Everywhere He leads me I would follow on!</stanza>
+    <stanza type="verse" number="2">Down in the valley with my Savior I would go,
+Where the storms are sweeping and the dark waters flow;
+With His hand to lead me I will never, never fear,
+Dangers cannot fright me if my Lord is near.</stanza>
+    <stanza type="verse" number="3">Down in the valley, or upon the mountain steep,
+Close beside my Savior would my heart ever keep;
+He will lead me safely in the path that He has trod,
+Up to where they gather in the rest of God.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Margery</firstname>
+  <lastname>Nicholson</lastname>
+  <email>margery_n@yahoo.co.uk</email>
+  <password>$2y$10$jmWgx8cnhpU1ipQjVk5rVesBJD7NiOeV288srQpMCIswTRDK3eu1u</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>90.192.177.92</ipaddress>
+  <createdate>2015-03-08 14:31:49</createdate>
+  <lastupdateddate>2015-03-09 00:36:30</lastupdateddate>
+  <lastlogindate>2015-03-08 14:33:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>惟知道我所信的</title>
+  <index>true</index>
+  <category>得救的證實與快樂－主的保守</category>
+  <numbers><cebuano num="333"/><chinese num="259"/><english num="333"/><korean num="259"/><portuguese num="180"/><spanish num="160"/><tagalog num="333"/></numbers>
+  <creators>
+	<author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <melody>| 0 - - 1 | 3. 3/ 4/( 3/) 2/( 1/) | 6 5 5 3 | 5. 5/ 6/( 5/) 4/( 3/) | 2 - - 4 (break) | 3. 3/ 4/( 3/) 2/( 1/) | 6 5 5 3 | 5. 5/ 6/( 5/) 4/( 2/) (break) | 1 - - (Chorus) 1/ 1/ | ._1 ._1. ._1/ 7/ 6/ | 6 5. 5/ 6/ 5/ | 5 4. 4/ 5/ 4/ | 4 3 - 1 (break) | ._1 ._1. ._1/ 7/ 6/ | 6 5 - 5/ 5/ | 7. 6/ 7 5 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 真 不 知 神 的 奇 恩 為 何 臨 到 我 身； 我 也 不 知 不 堪 如 我， 救 來 有 何 足 多。 惟 知 道 我 所 信 的 是 誰， 並 且 也 深 信 祂 實 在 是 能 保 守 我 所 信 託 祂 的， 都 全 備 直 到 那 日！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="333"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我真不知神的奇恩
+為何臨到我身；
+我也不知不堪如我，
+救來有何足多。</stanza>
+	<stanza type="chorus" number="">惟知道我所信的是誰，
+並且也深信祂實在是能
+保守我所信託祂的，
+都全備直到那日！</stanza>
+	<stanza type="verse" number="2">我真不知救我的信
+如何進入我心，
+我也不知何以一信，
+便得一個新心。</stanza>
+	<stanza type="verse" number="3">我真不知聖靈如何
+引人知道己過，
+並由聖經顯明耶穌，
+使人接祂為主。</stanza>
+	<stanza type="verse" number="4">我真不知我的前途
+到底是甘是苦；
+我也不知未見主前
+還有甚麼試煉。</stanza>
+	<stanza type="verse" number="5">我真不知何時主來，
+那時我是何在－
+到底我當經過死谷？
+或將空中遇主？</stanza>
+  </lyrics>
+</hymn>

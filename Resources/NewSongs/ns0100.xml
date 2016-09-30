@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God the Creator became a God-man</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Belonging to the Lord</category>
+  <numbers><english num="ns:100"/><lsmyp num="117"/><vsb num="212"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</author>
+    <composer biodate="" biolink="" fullname="Tobey Pfeiffer">T. P.</composer>
+  </creators>
+  <hymncode>3312723342</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - | G/B - - | Am - - | G - - | F - - | C - - | D7 - - | G - - | C - - | G/B - - | F/A - - | G - - | Dm - - | F - - | C/G - G7 | C - - | C - - | G - - | F - - | G - - | Dm - - | C/E - - | D7 - - | G - - | C - - | G - - | F - - | G - - | Dm - - | F - - | C/G - G7 | C - - | C - - | G - - | F - - | G - - | F - - | C/E - - | D7 - - | G - - | C - - | G - - | F - - | G - - | Dm - - | F - - | C/G - G7 | C - - | C - - | G - - | Am - - | G - - | F - - | C/E - - | D7 - - | G - - | C - - | G/B - - | F/A - - | G - - | F - - | Dm - - | C/G - G7 | C - - |</chords>
+  <melody>| 3 3 1 | 2 7_. 2 | 3 3 4 | 2 - - | 4 4 4 | 3 1 1 | 1 7_. 1 | 2 - 5_. | 3 3 1 | 2 7_. 5 | 5 4 3 | 2 - 2 | 4 3 2 | 4 3 2 | 1 2 7_. | 1 - - (break) | (Verse_2) 1. 2/ 3/ 5/ | 2 - - | 6_.. 7_./ 1/ 2/ | 7_. 5_. - | 4. 3/ 4/ 5/ | 3 - - | 1. 7_./ 1/ 2/ | 2 - - | 1. 2/ 3/ 5/ | 2 - - | 6_.. 7_./ 1/ 2/ | 7_. 5_. - | 4 3 2 | 4( 3) 2 | 1 2 7_. | 1 - - (break) | (Verse_3) 1 1 1 | 5 - - | 5 4 3 | 3 2 - | 4.( 3/) 4/( 5/) | 3 - - | 1.( 7_./ 1/ 2/) | 2 - - (break) | 1 1 1 | 5 - 5 | 5 4 3 | 3 2 - | 4 3 2 | 4( 3) 2 | 1 2 7_. | 1 - - (break) | (Verse_4) 3 3 1 | 2 7_. 2 | 3 3 4 | 2 - - | 4 4 4 | 3 1 1 | 1 7_. 1 | 2 - 5_. | 3 3 1 | 2 7_. 5 | 5 4 3 | 2 - - | 4 3 2 | 4 3 2 | 1 2 7_. | 1 - - |</melody>
+  <layout>
+    <singingstanza end="-1">God the Cre -- a -- tor be -- came a God- -- man, His death re -- deemed us for His glo -- rious plan. Now in re -- sur -- rec -- tion the Spir -- it's re -- leased Pro -- duc -- ing the church. This is God's mas -- ter -- piece. Lord, You are my choice. I have seen Your beau -- ty. I be -- long to You Now and ev -- er -- more. You're my on -- ly choice Lord, You are so love -- ly. Lord I give all for Your mas -- ter -- piece. Lord, I love You. There is no oth -- er. I'll love You al -- ways. Lord, I love You. My heart is re -- cov -- ered. Lord, I give all for Your mas -- ter -- piece. Thank You, Lord Je -- sus, for cap -- tur -- ing me. Thank You, Lord, I now ex -- pe -- ri -- ence Thee. By feast -- ing! En -- joy -- ing! Your Life would in -- crease. Thank You, Lord, I'm part of God's mas -- ter -- piece.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="89">ns0100.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God the Creator became a God-man,
+His death redeemed us for His glorious plan.
+Now in resurrection the Spirit's released
+Producing the church.
+This is God's masterpiece.</stanza>
+    <stanza type="verse" number="2">Lord, You are my choice.
+I have seen Your beauty.
+I belong to You
+Now and evermore.
+You're my only choice
+Lord, You are so lovely.
+Lord I give all for Your masterpiece.</stanza>
+    <stanza type="verse" number="3">Lord, I love You.
+There is no other.
+I'll love You always.
+Lord, I love You.
+My heart is recovered.
+Lord, I give all for Your masterpiece.</stanza>
+    <stanza type="verse" number="4">Thank You, Lord Jesus, for capturing me.
+Thank You, Lord, I now experience Thee.
+By feasting! Enjoying!
+Your Life would increase.
+Thank You, Lord,
+I'm part of God's masterpiece.</stanza>
+  </lyrics>
+</hymn>

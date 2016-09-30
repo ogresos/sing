@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God wants someone to love Him</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:48"/><lsmyp num="169"/><vsb num="170"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Patrick Casey">P. C.</author>
+    <composer biodate="" biolink="" fullname="Patrick Casey">P. C.</composer>
+  </creators>
+  <hymncode>11231232217567</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>135</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - G - | C - - - | Em - - - | A7 - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | Em - - - | A7 - - - | Dm - - - | G7 - - - | Em - - - | Am - - - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 0 1 1 2 | 3 1/ 2/( 2/) 3. | 0 2 2 1 | 7_. 5_./ 6_./( 6_./) 7_.. (break) | 0 1 1 2 | 3 1/ 2/( 2/) 3. | 0 - 2 1 | 7_. - - - (break) | 0 1 1 2 | 3 1/ 2/( 2/) 3. | 0 2 2 1 | 7_. 5_./ 6_./( 6_./) 7_.. (break) | 0 1 1 2 | 3 1/ 2/( 2/) 3. | 1 - 7_. - | 1 - - - (break) | (Chorus) 0 - {5 4# 5} | 6 5/ 4/( 4/)( 3/)( 3/) 4/( | 4) - {4 3 4} | 5 4/ 3/( 3/)( 2/( 2/) 3/( (break) | 3) - {3 2# 3} | 4 3/ 2/( 2/) 1. | 0 - 1 3 | 2.( 3/)( 3)( 4) | 0 - {5 4# 5} | 6 5/ 4/( 4/)( 3/)( 3/) 4/( | 4) - {4 3 4} | 5 4/ 3/( 3/)( 2/)( 2/) 3/( | 3) - {3 2# 3} | 4 3/ 2/( 2/) 1. | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>God wants some -- one to love Him, Not just some -- one to serve Him; He wants some -- one to love Him As His bride. God wants some -- one to match Him, Not just to im -- i -- tate Him; He wants a coun -- ter -- part, One from His side. For this He came down to us, He came to court, to woo us, A -- way from ev -- ery -- thing, and un -- to Him. Now we're es -- poused un -- to Him, Pledged and be -- trothed un -- to Him; Yes, we are bound un -- to Him by His love.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="57">ns0048.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God wants someone to love Him,
+Not just someone to serve Him;
+He wants someone to love Him
+    As His bride.
+God wants someone to match Him,
+Not just to imitate Him;
+He wants a counterpart,
+    One from His side.</stanza>
+    <stanza type="chorus" number="">For this He came down to us,
+He came to court, to woo us,
+Away from everything, and unto Him.
+Now we're espoused unto Him,
+Pledged and betrothed unto Him;
+Yes, we are bound unto Him by His love.</stanza>
+    <stanza type="verse" number="2">God wants someone to love Him,
+Not just someone to fear Him;
+He wants a sweetheart who will
+    Be His bride.
+God wants someone to know Him,
+Not just to know about Him,
+He wants someone who'll look Him
+    In the eye.</stanza>
+  </lyrics>
+</hymn>

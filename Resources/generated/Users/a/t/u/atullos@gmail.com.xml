@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela</firstname>
+  <lastname>Tullos</lastname>
+  <email>atullos@gmail.com</email>
+  <password>$2y$10$aB7qa9OqGxrsLV7J4fFDeeGS66zVx.RJgB7wl0bBznibbuJLC8XCK</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>173.185.208.210</ipaddress>
+  <createdate>2011-09-13 11:30:39</createdate>
+  <lastupdateddate>2016-08-25 14:55:22</lastupdateddate>
+  <lastlogindate>2016-08-25 14:55:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="654">Be all at rest, my soul! Oh! blessed secret</fav>
+  </favourites>
+</user>

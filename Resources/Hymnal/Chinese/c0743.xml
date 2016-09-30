@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>已經死了已經葬了</title>
+  <index>true</index>
+  <category>受浸－完全了了</category>
+  <numbers><cebuano num="938"/><chinese num="743"/><english num="938"/><french num="178"/><german num="938"/><korean num="743"/><portuguese num="470"/><russian num="153"/><spanish num="425"/><tagalog num="938"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6 ._1./ ._2// ._1./ 6// | 5 ._2 ._2 - (break) | 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6 ._1./ ._2// ._1./ 6// | 5 ._2 ._1 - |</melody>
+  <layout>
+	<singingstanza>已 經 死 了！ 已 經 葬 了！ 從 今 以 後 我 完 全 了 了！ 已 經 死 了！ 已 經 葬 了！ 從 今 以 後 我 完 全 了 了！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="938"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">已經死了！已經葬了！
+從今以後我完全了了！
+已經死了！已經葬了！
+從今以後我完全了了！</stanza>
+	<stanza type="verse" number="2">完全了了！完全了了！
+從今以後我完全了了！
+完全了了！完全了了！
+從今以後我完全了了！</stanza>
+	<stanza type="verse" number="3">不再是我！不再是我！
+乃是基督在我裏面活！
+不再是我！不再是我！
+乃是基督在我裏面活！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>sally</firstname>
+<lastname>lee</lastname>
+<email>jeffsally@gmail.com</email>
+<password>$1$DAiM9C4.$cZODpSw59B3vksAL.betM1</password>
+<gender>F</gender>
+<country>Singapore</country>
+<ipaddress>218.186.12.8</ipaddress>
+<createdate>2008-10-13 04:42:07</createdate>
+<lastupdateddate>2009-09-15 18:26:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    </favourites>
+</user>

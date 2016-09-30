@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>This is My Son, the Beloved</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Sandy Williams">S. W.</composer>
+  </creators>
+  <hymncode>235113322177777123</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G - - - | C - G/B - | Am - - - | Dm - - - | G - - - | C - C7 - | F - Dm - | Em - A7 - | Dm7 - G7 - | C - C7 - | F - Dm - | Em - A7 - | Dm7 - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - 0/ 2/ 3/ 5/ | 1 - - 1/ 3/ | 3/( 2/) 2( 2.) 1/ | 7_. 7_./ 7_./ 7_./ 1/ 2 (break) | 3 - 0/ 2/ 3/ 5/ | 1 - - 1/ 3/ | 3/( 2/) 2( 2.) 1/ | 7_. 7_./ 7_./ 7_./ 1/ 2 (break) | 1 - - 5 | 6 - - 6 | 5 - - 0/ 3/ | 4/ 4/ 4/ 3/ 2/ 3/ 4 (break) | 5 - - 5 | 6 - - 6 | 5 - - 0/ 3/ | 4/ 4/ 4/ 3/ 2/ 1/ 7_. | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">This is My Son, the Be -- lov -- ed, In Whom I have found my de -- light. This is My Son, the Be -- lov -- ed, In Whom I have found my de -- light. Hear Him, hear Him! My Son, in Whom I've found My de -- light. Hear Him, hear Him! My Son, in Whom I've found my de -- light.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Matthew 17:5</link>
+  </links>
+  <music>
+    <midi location="ns" length="54">ns0446.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">This is My Son, the Beloved,
+In Whom I have found my delight.
+This is My Son, the Beloved,
+In Whom I have found my delight.
+Hear Him, hear Him!
+My Son, in Whom I've found My delight.
+Hear Him, hear Him!
+My Son, in Whom I've found my delight.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alan</firstname>
+  <lastname>Goodfellow</lastname>
+  <email>alangoodfellow@gmail.com</email>
+  <password>$2y$10$rTgLgFbB4njvxHI7.BLIfe2z4fT65YCEGIPAPAi3ACJgDd0A6bNni</password>
+  <gender/>
+  <country>United Kingdom</country>
+  <ipaddress>78.148.131.130</ipaddress>
+  <createdate>2013-06-20 02:13:35</createdate>
+  <lastupdateddate>2015-06-08 09:45:32</lastupdateddate>
+  <lastlogindate>2015-06-08 09:45:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

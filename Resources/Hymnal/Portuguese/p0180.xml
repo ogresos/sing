@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Não sei por que de Deus o amor</title>
+  <index>true</index>
+  <category>Assegurados Pelas Provisões Divinas</category>
+  <numbers><cebuano num="333"/><chinese num="259"/><english num="333"/><korean num="259"/><portuguese num="180"/><spanish num="160"/><tagalog num="333"/></numbers>
+  <creators>
+    <author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <music>
+    <midiref type="h" num="333"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Não sei por que de Deus o amor
+A mim se revelou;
+Por que Jesus, o Salvador,
+Na cruz me resgatou.</stanza>
+    <stanza type="chorus" number="">Mas "eu sei em quem tenho crido,
+E estou bem certo que é poderoso
+Pra guardar o meu tesouro
+Até o dia final."</stanza>
+    <stanza type="verse" number="2">Não sei, pois, como entrou em mim
+A fé da salvação;
+Nem como, crendo, recebi
+A paz no coração.</stanza>
+    <stanza type="verse" number="3">Não sei o modo como agiu
+O Espírito eternal:
+Nos convenceu, mostrou Jesus,
+E deu-nos fé real.</stanza>
+    <stanza type="verse" number="4">Não sei o que de mal ou bem
+É destinado a mim,
+Se maus ou áureos dias vêm,
+Até da vida o fim.</stanza>
+    <stanza type="verse" number="5">Não sei a hora em que virá
+O meu Senhor e Rei,
+Se vou do corpo me despir,
+Ou nele estarei.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Daghang tuig kawang nga gipangita</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;NATAGBAW KANG CRISTO</category>
+  <numbers><cebuano num="322"/><chinese num="254"/><english num="322"/><french num="62"/><german num="322"/><korean num="254"/><portuguese num="176"/><russian num="70"/><spanish num="155"/><tagalog num="322"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 5/ 5/ 5/ 5/ 5/ 4/ 3/ 4/ | 5 ._1 ._1 - | 7/ 7/ 7/ 7/ ._1 ._2 | ._1 - - 0 (break) | 6/ 6/ 6/ 6/ ._1/ ._1/ 7/ 6/ | 5 ._3 ._3 - | ._2/ ._2/ ._2/ ._1/ 7 6 | 5 - - 0 (break) | (Chorus) 5/ 5/ 5/ 5/ 5/ 4#/ 5 | 6/ 6/ 6 6 - | 5/ 5/ 5/ 5/ ._1/ 7/ ._1 | ._2 ._2 ._2 - (break) | ._3/ ._3/ ._3/ ._4/ ._3/ ._1. | ._1/ ._1/ ._1/ 7/ ._2/ ._1/ 7/ 6/ | 5/ 5/ ._1/ ._2/ ._3/ ._3/ ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="322"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Daghang tuig kawang nga gipangita
+Tubod way pagkauga;
+Walay tanyag gikan sa kalibutan,
+Maghatag's katagbawan.</stanza>
+	<stanza type="chorus" number="">Inom sa Tuborang way pagkauga,
+Inom sa kinabuhi man kita;
+Kalipayng napalgan
+Walay kinutoban,
+Nag-inom sa buhi nga Tuboran.</stanza>
+	<stanza type="verse" number="2">Di na maglaag's yuta's kamingawan,
+Kay Tuboran nakit-an,
+Kopa sa kalipay ko nag-awas na,
+Ginoo ko'g Hari S'ya.</stanza>
+	<stanza type="verse" number="3">Katagbawan ang adlawng nagpanglabay,
+May kalinaw'g pahulay;
+Sa paglabay's matag gutlo gilipay,
+Nabulahan kanunay.</stanza>
+	<stanza type="verse" number="4">Dinhi sangkap wala gyuy katapusan,
+Bisan sa katuigan;
+Tuboran nga mag-ayo akong dangpan,
+Kalag ko mahuwasan.</stanza>
+  </lyrics>
+</hymn>

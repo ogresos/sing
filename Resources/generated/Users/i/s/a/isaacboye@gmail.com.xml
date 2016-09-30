@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>isaac</firstname>
+  <lastname>Cho</lastname>
+  <email>isaacboye@gmail.com</email>
+  <password>$2y$10$w.DOE6r7lcy1RW3F9Fiwmex4tmmCG7kn2bDWIFXGOZHZfbg/ShWEa</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>174.67.223.147</ipaddress>
+  <createdate>2014-06-09 17:23:32</createdate>
+  <lastupdateddate>2015-08-27 02:41:06</lastupdateddate>
+  <lastlogindate>2015-08-27 02:38:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="360">And Confessedly, Great is the Mystery</fav>
+    <fav category="default" type="ns" num="314">And they sing a new song</fav>
+    <fav category="default" type="ns" num="435">Back in My Father's House Again!</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="531">Fade, fade each earthly joy</fav>
+    <fav category="default" type="ns" num="319">God's economy is His plan to dispense Himself</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="127">He grew up like a tender plant</fav>
+    <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    <fav category="default" type="lb" num="71">I never thought that God would be enjoyable</fav>
+    <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+    <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="169">Morning dawn had arisen</fav>
+    <fav category="default" type="h" num="960">My King will soon come back again</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+    <fav category="default" type="ns" num="414">Oneness</fav>
+    <fav category="default" type="ns" num="303">Our burnt offering</fav>
+    <fav category="default" type="h" num="251">Rivers of living water</fav>
+    <fav category="default" type="h" num="559">Savior, I by faith am touching Thee</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+    <fav category="default" type="h" num="904">We have a most glorious King</fav>
+    <fav category="default" type="lb" num="19">Where's the answer?</fav>
+  </favourites>
+</user>

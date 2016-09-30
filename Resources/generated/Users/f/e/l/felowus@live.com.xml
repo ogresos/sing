@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Felix</firstname>
+  <lastname>Sedegbe</lastname>
+  <email>felowus@live.com</email>
+  <password>$2y$10$M1Man1mMI/MkeV4wDNRuXOAv6dNcLfJo60t3LIKkQP6kYHPjzU/Ia</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.213.164.148</ipaddress>
+  <createdate>2016-03-21 11:03:19</createdate>
+  <lastupdateddate>2016-03-21 11:22:44</lastupdateddate>
+  <lastlogindate>2016-03-21 11:04:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="530">Above the Waste and Emptiness</fav>
+  </favourites>
+</user>

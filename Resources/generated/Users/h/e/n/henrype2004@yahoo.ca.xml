@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Henry</firstname>
+    <lastname>patrick-erhabor</lastname>
+    <email>henrype2004@yahoo.ca</email>
+    <password>ttjS6Nq3A5YqxN%2BF8dG5zQ%3D%3D</password>
+    <gender></gender>
+    <country>Nigeria</country>
+    <ipaddress>41.190.2.132</ipaddress>
+    <createdate>2014-03-21 20:23:34</createdate>
+    <lastupdateddate>2014-03-21 20:23:34</lastupdateddate>
+    <lastlogindate>2014-03-21 20:23:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+        <fav category="default" type="h" num="595">There is always something over</fav>
+    </favourites>
+</user>

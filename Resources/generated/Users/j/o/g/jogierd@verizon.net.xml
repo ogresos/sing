@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>monique</firstname>
+<lastname>hill</lastname>
+<email>jogierd@verizon.net</email>
+<password>$1$TYREJUkc$h9tKqxXwnkOBUYWpJieJ8.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>72.68.47.36</ipaddress>
+<createdate>2009-04-10 17:46:30</createdate>
+<lastupdateddate>2009-09-15 18:29:45</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="457">My life, my love, I give to Thee</fav>
+    </favourites>
+</user>

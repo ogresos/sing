@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Harry</firstname>
+  <lastname>Schroeder</lastname>
+  <email>harry.s@mymts.net</email>
+  <password>$2y$10$Y.Az72eSz/QUU2xi45Jds.Bgrw/RwsmUlJxpzSlvxOpN9KG6FDL46</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>142.161.223.90</ipaddress>
+  <createdate>2015-07-18 00:15:10</createdate>
+  <lastupdateddate>2015-07-18 00:17:24</lastupdateddate>
+  <lastlogindate>2015-07-18 00:17:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

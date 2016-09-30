@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>This is my wonderful story</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <numbers><english num="nt:498"/><lsmyp num="140"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="" biolink="" fullname="Tara Daves" email="tarad2011@gmail.com">T. D.</composer>
+  </creators>
+  <hymncode>3345434176556512</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - C7 - | F - Dm - | Em - Am - | F - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - | C - C/E - | F - Dm - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - Dm - | C/G - Am - | G7 - C - |</chords>
+  <melody>| 3 3/ 4/ 5/ 4/ 3 | 4( ._1) 7( 6) | 5 5/ 6/ 5 1 | 2 - - - (break) | 3 3/ 4/ 5/( 4/) 3 | 4( ._1) 7( 6) | 5 5/ 6/ 5 2 | 1 - - 0 (break) | (Chorus) 5 ._1 7 5 | 4 ._1 5 4 | 3 3/( 4/) 5/ 6/ 5 | 2.( 3/) 2 - (break) | 5 ._1 7 5 | 4 ._1 5 4 | 3 3/( 4/) 5/( 6/) 5 | 2.( 1/) 1 - |</melody>
+  <layout>
+    <singingstanza>This is my won -- der -- ful sto -- ry, Christ to my heart has come; Je -- sus, the King of Glo -- ry, Finds in my heart a home. Christ in me, Christ in you, Christ in us, O won -- der -- ful sto -- ry, Christ in me, Christ in you, Christ in us, the hope of glo -- ry.</singingstanza>
+  </layout>
+  <notes>The chorus is slightly modified.</notes>
+  <links>
+    <link type="relevant" category="h" num="498"></link>
+  </links>
+  <music>
+    <midi location="nt" length="33">e0498_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">This is my wonderful story,
+  Christ to my heart has come;
+Jesus, the King of Glory,
+  Finds in my heart a home.</stanza>
+    <stanza type="chorus" number="">Christ in me, Christ in you,
+Christ in us, O wonderful story,
+Christ in me, Christ in you,
+  Christ in us, the hope of glory.</stanza>
+    <stanza type="verse" number="2">Was there e'er story so moving,
+  Story of love and pain;
+Was there e'er Bridegroom so loving,
+  Seeking our hearts to gain.</stanza>
+    <stanza type="verse" number="3">I am so glad I received Him,
+  Jesus my heart's dear King;
+I who so often have grieved Him,
+  All to His feet would bring.</stanza>
+    <stanza type="verse" number="4">How can I ever be lonely,
+  How can I ever fall;
+What can I want, if only
+  Christ is my all in all?</stanza>
+    <stanza type="verse" number="5">Now in His bosom confiding,
+  This my glad song shall be;
+I am in Christ abiding,
+  And Christ abides in me.</stanza>
+  </lyrics>
+</hymn>

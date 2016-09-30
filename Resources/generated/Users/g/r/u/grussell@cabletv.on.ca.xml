@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Graham N</firstname>
+    <lastname>Russell</lastname>
+    <email>grussell@cabletv.on.ca</email>
+    <password>$1$AQyXD3ub$dhzLTXQK6uh7zx4EJ27T31</password>
+    <gender>M</gender>
+    <country>Canada</country>
+    <ipaddress>24.235.42.104</ipaddress>
+    <createdate>2009-05-30 16:55:31</createdate>
+    <lastupdateddate>2010-01-08 10:38:51</lastupdateddate>
+    <lastlogindate>2010-01-08 10:35:46</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    </favourites>
+</user>

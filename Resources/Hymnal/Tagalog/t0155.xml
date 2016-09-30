@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nang Kristo'y natalian</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAG-IBIG</category>
+  <numbers><english num="155"/><tagalog num="155"/></numbers>
+  <creators>
+    <author biodate="1731-1800" biolink="">Translated from William Cowper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="155"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nang Kristo'y natalian,
+Ako'y may kalayaan;
+Akong layas hinanap;
+Dilim naging liwanag.</stanza>
+    <stanza type="verse" number="2">Pagsinta ba ng ina
+Sa anak maiwala?
+Lumimot siya maa'ri,
+Diyos nama'y hinding-hindi.</stanza>
+    <stanza type="verse" number="3">Di nagbagong pag-ibig,
+Taas higit sa langit;
+Lalim higit sa dagat,
+May laya't lakas, tapat.</stanza>
+    <stanza type="verse" number="4">Kapag gawang biyaya,
+Lubusang maganap na;
+L'walhati'y makikita,
+Tanda ng pag-ibig Niya.</stanza>
+    <stanza type="verse" number="5">Tangi kong karaingan,
+Pag-ibig sa Iyo'y kulang;
+Subali't mahal Kita,
+Nawa'y mapahigit pa.</stanza>
+  </lyrics>
+</hymn>

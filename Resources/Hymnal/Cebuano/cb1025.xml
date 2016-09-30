@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kalibutan kon biyaan</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;GIKINAHANGLAN SI CRISTO</category>
+  <numbers><cebuano num="1025"/><chinese num="437"/><english num="1025"/><german num="1025"/><korean num="437"/><portuguese num="300"/><russian num="171"/><spanish num="274"/><tagalog num="1025"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/ 6/ 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/ 5/ 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kalibutan kon biyaan,
+Si Cristo m'oy mabatonan;
+Gawas Niya tanang butang
+Basiyo ug kakawangan!</stanza>
+	<stanza type="chorus" number="">O pagkadato ni Cristo,
+Magtagbaw's kinahanglan mo!
+Katam-is N'ya'g kamaayo,
+Labaw sa gitinguha mo.</stanza>
+	<stanza type="verse" number="2">Kon si Cristo madawat mo,
+Ubang butang wa nay gusto;
+Kay S'ya ray gikin'hanglan mo,
+Magtagbaw's kasingkasing mo.</stanza>
+	<stanza type="verse" number="3">Kalibutan bisan dako,
+Gamay ang kasingkasing mo,
+Kalibutan ug kadato,
+Di makapuno kanimo.</stanza>
+	<stanza type="verse" number="4">Kon may Cristo, may kalipay;
+Kon way Cristo, kasakit lang;
+Kon may Cristo masanagon,
+Kon wa Siya, way paglaum.</stanza>
+  </lyrics>
+</hymn>

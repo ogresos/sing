@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂來過</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>11711232317653</hymncode>
+  <key>D Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>人 生 不 定 無 長 久， 我 的 所 有 遭 剝 奪， 無 奈 承 受 痛 與 羞， 獨 自 絕 望 中 倒 臥， 深 深 苦 情 無 人 憐， 重 重 患 難 誰 來 遣， 以 為 生 命 即 消 散， 祂 竟 出 現 在 眼 前。 今 生 今 世 我 口 最 愛 提 說， 就 是 我 主 祂 來 過， 驅 走 黑 暗， 擔 我 輭 弱， 作 我 平 安 永 穩 妥。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0878.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">人生不定無長久，
+我的所有遭剝奪，
+無奈承受痛與羞，
+獨自絕望中倒臥，
+深深苦情無人憐，
+重重患難誰來遣，
+以為生命即消散，
+祂竟出現在眼前。</stanza>
+	<stanza type="chorus" number="">今生今世我口最愛提說，
+就是我主祂來過，
+驅走黑暗，擔我輭弱，
+作我平安永穩妥。</stanza>
+	<stanza type="verse" number="2">祂用油酒來敷裹，
+我心傷痛與坎坷，
+懷我、肩我、扶助我，
+那有一點我配得，
+我這纔知何為愛，
+竟然施與我無賴，
+為使一生都開懷，
+接我到神家裏來。</stanza>
+	<stanza type="verse" number="3">別看今我有何長，
+若非主我早崩潰，
+我命、我愛、我力量，
+全都屬祂不別歸，
+喜樂、盼望真顯明，
+救恩全備又有能，
+我口頌讚心感銘，
+一生因祂樂歡騰。</stanza>
+	<stanza type="chorus" number="">我心歌唱主愛高深長濶，
+祂必永不離開我，
+作我生命，與我同活，
+伴我此生共度過。</stanza>
+  </lyrics>
+</hymn>

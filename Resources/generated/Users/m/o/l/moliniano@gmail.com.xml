@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Luis</firstname>
+  <lastname>Molina</lastname>
+  <email>moliniano@gmail.com</email>
+  <password>$2y$10$9bd1Mv8rsTO7h91M63r7GejpO827IoKV9HQmBlCiTkNbRfdODdzUS</password>
+  <gender/>
+  <country>pr</country>
+  <ipaddress>24.55.106.221</ipaddress>
+  <createdate>2016-01-09 05:46:17</createdate>
+  <lastupdateddate>2016-01-10 06:40:42</lastupdateddate>
+  <lastlogindate>2016-01-09 05:47:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="nt" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

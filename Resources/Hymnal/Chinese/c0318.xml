@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我以信心仰望你在</title>
+  <index>true</index>
+  <category>羨慕－恩典</category>
+  <numbers><chinese num="318"/><english num="429"/><korean num="318"/><tagalog num="429"/></numbers>
+  <creators>
+	<author biodate="1808-1887" biolink="">Translated from Ray Palmer</author>
+  </creators>
+  <melody>| 1 - 3 5 | 5. 4/ 3 - | 2 - 2 4 | 4. 3/ 2 - | 3 - 2 6 | 5 - - - (break) | 5 - 3 4 | 5. 6/ 5 - | 5 - 3 4 | 5. 6/ 5 - (break) | ._1 - 7 6 | 5. 4/ 3 1 | 2 - 5 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>我 以 信 心 仰 望 你 在 十 字 架 上， 我 的 救 主！ 求 你 聽 我 禱 告， 將 我 罪 過 寬 饒， 使 我 從 今 到 老， 全 屬 救 主。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="429"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我以信心仰望
+你在十字架上，
+我的救主！
+求你聽我禱告，
+將我罪過寬饒，
+使我從今到老，
+全屬救主。</stanza>
+	<stanza type="verse" number="2">主，賜能力恩惠，
+在這軟弱心內，
+熱情鼓舞！
+你既為我流血，
+我要愛你深切、
+真摯、長久、純潔，
+如火如荼。</stanza>
+	<stanza type="verse" number="3">我今行走世路，
+不時遇見憂苦；
+求你引領！
+擦乾我的眼淚，
+保守我不懊悔，
+拯救我不犯罪，
+而隨你行。</stanza>
+	<stanza type="verse" number="4">人生短夢一過，
+死河要起寒波，
+將我淹沒；
+那時求主恩惠，
+除我疑惑、驚畏，
+賜我盼望、安慰，
+安然度過。</stanza>
+  </lyrics>
+</hymn>

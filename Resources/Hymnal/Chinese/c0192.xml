@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主惟有你</title>
+  <index>true</index>
+  <category>讚美主－一般</category>
+  <melody>| 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6/ 6/ ._1./ ._2// ._1./ 6// | 5 ._2 ._2 - (break) | 5 3./ 5// ._1 - | ._3 ._1./ 6// 5 - | 5 6/ 6/ ._1./ ._2// ._1./ 6// | 5 ._2 ._1 - |</melody>
+  <layout>
+	<singingstanza>主， 惟 有 你， 主， 惟 有 你， 耶 穌 我 救 主， 我 要 敬 拜 你！ 主， 惟 有 你， 主， 惟 有 你， 耶 穌 我 救 主， 我 要 敬 拜 你！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="938"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，惟有你，主，惟有你，
+耶穌我救主，我要敬拜你！
+主，惟有你，主，惟有你，
+耶穌我救主，我要敬拜你！</stanza>
+	<stanza type="verse" number="2">主，惟有你，主，惟有你，
+耶穌我救主，我要讚美你！
+主，惟有你，主，惟有你，
+耶穌我救主，我要讚美你！</stanza>
+	<stanza type="verse" number="3">主，惟有你，主，惟有你，
+耶穌我救主，我要感謝你！
+主，惟有你，主，惟有你，
+耶穌我救主，我要感謝你！</stanza>
+	<stanza type="verse" number="4">主，惟有你，主，惟有你，
+耶穌我救主，我要高舉你！
+主，惟有你，主，惟有你，
+耶穌我救主，我要高舉你！</stanza>
+  </lyrics>
+</hymn>

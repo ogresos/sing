@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>George</firstname>
+    <lastname>Hawkins</lastname>
+    <email>ghawk3531@yahoo.com</email>
+    <password>7i1DsfFHvRDekNYVicm%2FKw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>76.18.117.79</ipaddress>
+    <createdate>2013-07-09 10:17:22</createdate>
+    <lastupdateddate>2013-07-09 12:56:00</lastupdateddate>
+    <lastlogindate>2013-07-09 10:17:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="670">Take the name of Jesus with you</fav>
+    </favourites>
+</user>

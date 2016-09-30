@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Franco</firstname>
+  <lastname/>
+  <email>afpfox@gmail.com</email>
+  <password>$2y$10$VOJprAXodfAJ5gExI5oB8.l8zQ.TKqBNyHHdnNBeLE8cYXaJvnaEm</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>41.13.112.180</ipaddress>
+  <createdate>2016-07-24 08:31:00</createdate>
+  <lastupdateddate>2016-07-24 10:05:59</lastupdateddate>
+  <lastlogindate>2016-07-24 08:32:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="523">I have come to the Fountain of Life</fav>
+    <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="1162">We've found the secret of living</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jorge</firstname>
+  <lastname>Sanchez</lastname>
+  <email>jorgees@nova.edu</email>
+  <password>$2y$10$Wzgb581y5pFe/AZr47QLQuUl/Gu6/c7YwE3tg7UIuFfW28O6doPjG</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>137.52.153.53</ipaddress>
+  <createdate>2009-04-04 14:58:32</createdate>
+  <lastupdateddate>2015-01-03 21:26:44</lastupdateddate>
+  <lastlogindate>2015-01-03 21:26:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

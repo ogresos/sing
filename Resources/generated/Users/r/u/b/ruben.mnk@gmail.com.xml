@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>ruben</firstname>
+  <lastname/>
+  <email>ruben.mnk@gmail.com</email>
+  <password>$2y$10$hmDa/B6lVI2wunjHoid/.uXpScgIkry1K2Sd8r5ZrYqXLviK9U1aq</password>
+  <gender/>
+  <country>id</country>
+  <ipaddress>182.253.74.33</ipaddress>
+  <createdate>2015-01-26 07:35:13</createdate>
+  <lastupdateddate>2015-02-11 06:53:51</lastupdateddate>
+  <lastlogindate>2015-01-26 07:36:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="391b">Guide me, O Thou gracious Savior (Alternate Tune)</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="784">Pray to fellowship with Jesus</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="679">Safe in the arms of Jesus</fav>
+    <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

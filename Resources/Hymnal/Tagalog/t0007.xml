@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Luwalhati sa Amang Diyos</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG PAPURI</category>
+  <numbers><cebuano num="7"/><chinese num="3"/><dutch num="10"/><english num="7"/><french num="1"/><german num="7"/><korean num="3"/><portuguese num="1"/><russian num="2"/><spanish num="3"/><tagalog num="7"/></numbers>
+  <creators>
+	<author biodate="1865-1919" biolink="">Translated from Margaret Jenkins Harris</author>
+  </creators>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Luwalhati sa Amang Diyos!
+Luwalhati sa Anak
+L'walhati sa Espiritu!
+Ang Tatlo ay Iisa!</stanza>
+	<stanza type="chorus" number="">Purihin Siya, Purihin Siya!
+Ang Tatlo ay Iisa!
+L'walhatiin, l'walhatiin,
+Sa Kanyang mahiwagang gawa!</stanza>
+	<stanza type="verse" number="2">Purihin: Amang nagbalak!
+At Anak na nagtupad!
+At Espiritung naghatid!
+Ang Tatlong nagkaisa!</stanza>
+	<stanza type="chorus" number="">Purihin Siya, Purihin Siya!
+Ang Tatlo ay Iisa!
+L'walhatiin, l'walhatiin,
+Sa Kanyang mahiwagang gawa!</stanza>
+  </lyrics>
+</hymn>

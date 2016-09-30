@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Vivian</firstname>
+    <lastname>Fuller</lastname>
+    <email>juvides@comcast.net</email>
+    <password>6BxRpGB1sSQV2CoHe7kG%2FA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>71.207.251.162</ipaddress>
+    <createdate>2010-05-23 23:02:34</createdate>
+    <lastupdateddate>2010-05-23 23:27:06</lastupdateddate>
+    <lastlogindate>2010-05-23 23:02:36</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="677">Art thou sunk in depths of sorrow</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bernardo</firstname>
+  <lastname>Perez</lastname>
+  <email>bernjp@gmail.com</email>
+  <password>$2y$10$DCICuG7ZUs2ekKcsZd06YOpQhFArcrOzrnYuSDZn5TlsrRpOZvl8O</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>108.50.178.142</ipaddress>
+  <createdate>2014-06-08 14:02:00</createdate>
+  <lastupdateddate>2014-09-07 04:31:15</lastupdateddate>
+  <lastlogindate>2014-09-07 04:31:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Juan</firstname>
+  <lastname>Cupeles</lastname>
+  <email>jacupeles@yahoo.com</email>
+  <password>$2y$10$b6iD5XZ9TrC.BFvdNTT66eppmKb7ZKeDLMxG1.e/H2EPtpcSSX9p6</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>209.30.129.82</ipaddress>
+  <createdate>2014-05-18 22:23:51</createdate>
+  <lastupdateddate>2015-02-10 14:52:31</lastupdateddate>
+  <lastlogindate>2015-02-10 14:51:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="267">Fill me with Thy gracious Spirit</fav>
+    <fav category="default" type="h" num="849">Holy priests are living stones</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="h" num="191">Lord, Thou art the Seed of woman</fav>
+    <fav category="default" type="h" num="600">My God, my Portion, and my Love</fav>
+    <fav category="default" type="h" num="1238">Never did I dream before</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="239">Ten thousand thanks to Jesus</fav>
+    <fav category="default" type="h" num="834">The chief Cornerstone Thou art, Lord</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>W</firstname>
+<lastname>Cheng</lastname>
+<email>wkcheng1@gmail.com</email>
+<password>$1$cHj5nmOU$o.vXtNJDMyd.pxkXmJ6CX/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>67.160.249.161</ipaddress>
+<createdate>2008-07-26 01:43:29</createdate>
+<lastupdateddate>2009-09-15 18:25:24</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1325">God eternal has a purpose</fav>
+        <fav category="default" type="h" num="971">God's eternal purpose</fav>
+    </favourites>
+</user>

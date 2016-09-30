@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come, see the church life</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Mike Sprau">M. S.</author>
+    <composer biodate="" biolink="" fullname="Mike Sprau">M. S.</composer>
+  </creators>
+  <hymncode>512333532123216</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - Dm - | C/E - Am - | Dm/F - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C - G7 - | C - F/C - | C - - - | C - Am - | D7 - G7 - | C - F - | Em - Am - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 2/ | 3/ 3/ 3/ 5/ 3 2/ 1/ | 2/ 3/ 2/ 1/ 6_. 5_./ 5_./ | 1/ 1/ 1/ 2/ 3/ 5/ 5/ 3/ | 2 - 0/ 5_./ 1/ 2/ | 3/ 3/ 3/ 5/ 3 2/ 1/ | 2/ 3/ 2/ 1/ 6_. 5_./ 5_./ | 1/ 1/ 1/ 2/ 3/ 1/ 7_./ 2/ (break) | 1 - (Chorus) 5 - | 3/ 3 1/ 2/ 1/ 1/ 6_./ | 5_./ 1/( 1) - - | 1/ 1 2/ 3/ 5/ 5/ 3/ | 2 - - - | 3/ 3 1/ 2/ 1/ 1/ 6_./ | 5_./ 1/( 1) 0/ 5_./ 1/ 2/ | 3/ 3/ 3/ 1/ 2/ 1/ 7_./ 2/ | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>Oh, there's a place for you, my friend Where the earth -- ly sor -- rows end, And the joy is flow -- ing like a riv -- er, free; Where ev -- ery -- one is sat -- is -- fied, As we mu -- tual -- ly a -- bide In the One who gave His life for you and me. Oh, Je -- sus is blend -- ing us to -- geth -- er; He is the rea -- son why we're here. We will be one in Him for -- ev -- er, And we will build ac -- cord -- ing to this vi -- sion clear.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="40">ns0062.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, there's a place for you, my friend
+Where the earthly sorrows end,
+And the joy is flowing like a river, free;
+Where everyone is satisfied,
+As we mutually abide
+In the One who gave His life for you and me.</stanza>
+    <stanza type="chorus" number="">Oh, Jesus is blending us together;
+He is the reason why we're here.
+We will be one in Him forever,
+And we will build according to this vision clear.</stanza>
+    <stanza type="verse" number="2">If you would like to know this place
+Where you'll find abundant grace,
+All that I can say is that you'll have to "see."
+'Cause words come short of the appeal&amp;mdash;
+I just know that it is real&amp;mdash;
+Once you've seen it too, I think that you'll agree!</stanza>
+  </lyrics>
+</hymn>

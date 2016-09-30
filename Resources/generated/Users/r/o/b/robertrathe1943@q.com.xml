@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>robert</firstname>
+    <lastname>rathe</lastname>
+    <email>robertrathe1943@q.com</email>
+    <password>%2BjcRTwb%2BD%2FqOAhsoQSUBkw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>71.33.91.137</ipaddress>
+    <createdate>2010-02-01 21:15:29</createdate>
+    <lastupdateddate>2011-12-24 17:14:39</lastupdateddate>
+    <lastlogindate>2011-12-24 17:14:39</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="93">A story you should know</fav>
+        <fav category="default" type="h" num="1330">All things are ready, come to the feast</fav>
+        <fav category="default" type="c" num="10">Can you say, How do you do?</fav>
+        <fav category="default" type="ns" num="61">Early in the morning</fav>
+        <fav category="default" type="h" num="683">God holds the key of all unknown</fav>
+        <fav category="default" type="h" num="8239">God laid my sins on Jesus</fav>
+        <fav category="default" type="c" num="132">God made me a three-part man</fav>
+        <fav category="default" type="h" num="728">I have been through the valley of sorrow and weeping</fav>
+        <fav category="default" type="ns" num="190">I want to be filled with the Triune God</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+        <fav category="default" type="h" num="1278">In the church of Jesus there is love for you</fav>
+        <fav category="default" type="ns" num="16">It's no longer I that liveth</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="458">Living for Jesus, oh, what peace</fav>
+        <fav category="default" type="ns" num="350">O Lord, we'd know Your heart today</fav>
+        <fav category="default" type="h" num="760">She only touched the hem of His garment (healing)</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+        <fav category="default" type="h" num="446">What shall I give Thee, Master</fav>
+    </favourites>
+</user>

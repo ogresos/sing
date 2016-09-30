@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I hear my risen Savior say</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Lord's Calling</category>
+  <numbers><chinese num="707"/><english num="1030"/><korean num="707"/><tagalog num="1030"/></numbers>
+  <creators>
+    <author biodate="1816-1898" biolink="">George D. Watson</author>
+    <composer biodate="" biolink="">Harmony by Herbert G. Tovey</composer>
+  </creators>
+  <meter>8.9.8.9.D.</meter>
+  <hymncode>13232353123342671</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G7/D - | C/E - F - | C/G - G7 - | C F/C C - | C - G7/B - | Am - C/G - | F - G7 - | C F/C C - | F - - - | C - Am - | Dm - G7 - | C - C7/E - | F - - - | C - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 1 | 3. 2#/ 3/ 2#/ 3/ 5/ | 3( - 1) 1/ 2/ | 3 3/ 4/ 2 6_./ 7_./ (break) | 1 - - 1 | 3. 2#/ 3/ 2#/ 3/ 5/ | 3( - 1) 1/ 2/ | 3 3/ 4/ 2 6_./ 7_./ (break) | 1 - - 5 | 6. 4/ 6/ ._1/ 7/ 6/ | 5( - 3) 2/( 3/) | 4. 5/ 7/ 6/ 5/ 4/ (break) | 3( - 5) 5 | 6. 4/ 6/ ._1/ 7/ 6/ | 5( - 3) 1/ 2/ | (.3 3/ 4/ (.2 6_./ 7_./ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I hear my ris -- en Sav -- ior say: "Fol -- low me, fol -- low me, fol -- low me"; His voice is call -- ing all the day, "Fol -- low me, fol -- low me, fol -- low me; For thee I trod the bit -- ter way, For thee I gave my life a -- way, And drank the gall thy debt to pay, Fol -- low me, fol -- low me, fol -- low me."</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj107.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e1030_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I hear my risen Savior say:
+"Follow me, follow me, follow me";
+His voice is calling all the day,
+"Follow me, follow me, follow me;
+For thee I trod the bitter way,
+For thee I gave my life away,
+And drank the gall thy debt to pay,
+Follow me, follow me, follow me."</stanza>
+    <stanza type="verse" number="2">"I know thy life of guilt and pain;
+Follow me, follow me, follow me!
+I know each ache of heart and brain;
+Follow me, follow me, follow me!
+How often I have called in vain,
+And offered pardon in my name,
+And now I plead yet once again!
+Follow me, follow me, follow me!"</stanza>
+    <stanza type="verse" number="3">"Though thou hast sinned I'll pardon thee;
+Follow me, follow me, follow me!
+From every sin I'll set thee free;
+Follow me, follow me, follow me!
+In all thy changing life I'll be
+Thy God, thy guide on land and sea,
+Thy bliss through all eternity,
+Follow me, follow me, follow me!"</stanza>
+    <stanza type="verse" number="4">"Come, cast on Me thine every care;
+Follow me, follow me, follow me!
+Thy heavy load I will upbear;
+Follow me, follow me, follow me!
+Come, look to Me&amp;mdash;dismiss thy fears;
+And trust Me through eternal years;
+My hand shall wipe away thy tears;
+Follow me, follow me, follow me!"</stanza>
+    <stanza type="verse" number="5">Dear Lord, I yield to Thee my will;
+I'll follow Thee, follow Thee, follow Thee!
+Oh, bid my struggling soul be still;
+I'll follow Thee, follow Thee, follow Thee!
+Lord, cleanse me, with Thy Spirit fill,
+And keep me safe from every ill;
+And all Thy Word in me fulfill;
+I'll follow Thee, follow Thee, follow Thee!</stanza>
+  </lyrics>
+</hymn>

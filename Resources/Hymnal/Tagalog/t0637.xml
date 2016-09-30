@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Nawasak sa dibdib Niya,"</title>
+  <index>true</index>
+  <category>ANG DAAN NG KRUS&amp;mdash;ANG DAAN NG KAPAHINGAHAN</category>
+  <numbers><chinese num="471"/><english num="637"/><korean num="471"/><tagalog num="637"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="637"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Nawasak sa dibdib Niya,"
+"Nawasak" lang may kanta;
+Nakadaong na bangka,
+Sa bagyo'y nangangamba;
+Di batid ang pahingang
+Taglay ng "nawasak" na.</stanza>
+    <stanza type="verse" number="2">Himutok "hay! nawasak!"
+Magpuri nga ang dapat;
+Pa'minsala ng bagyo,
+Siya'y lalong tamasa ko;
+Pahinga sa dibdib Niya,
+Anupang magpaduda?</stanza>
+    <stanza type="verse" number="3">Hindi na nga kailangan,
+Anumang kagalingan;
+"Nawasak" nag'lakbay pa,
+Nasa langit ang ankla;
+Wala nang pag-alala,
+Kay Kristo nakatira.</stanza>
+    <stanza type="verse" number="4">Pakinabang&amp;mdash;"nawasak"!
+Sa iba nakagulat;
+Masungit man ang dagat,
+Biyaya Niya ay sapat;
+"Nawasak" nasa kamay,
+Ng Diyos na nagbabantay.</stanza>
+  </lyrics>
+</hymn>

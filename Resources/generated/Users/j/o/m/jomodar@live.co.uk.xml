@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>josefina</firstname>
+    <lastname>modar</lastname>
+    <email>jomodar@live.co.uk</email>
+    <password>3VLmbvIyJ%2BxB0vwgKvak8Q%3D%3D</password>
+    <gender>F</gender>
+    <country>uk</country>
+    <ipaddress>81.170.116.13</ipaddress>
+    <createdate>2010-04-28 16:42:56</createdate>
+    <lastupdateddate>2010-04-28 17:14:29</lastupdateddate>
+    <lastlogindate>2010-04-28 16:42:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="60">Of the Father's love begotten</fav>
+        <fav category="default" type="h" num="431b">Thy mighty love, O God, constraineth me (Alternate Tune)</fav>
+    </favourites>
+</user>

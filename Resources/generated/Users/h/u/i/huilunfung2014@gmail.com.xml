@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Huilun</firstname>
+  <lastname/>
+  <email>huilunfung2014@gmail.com</email>
+  <password>$2y$10$FGgrhF5YfcceioVaBaW58uNJjco4Me7x05b718fwZfdI/D4k55T8K</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>115.164.92.172</ipaddress>
+  <createdate>2016-06-17 09:27:05</createdate>
+  <lastupdateddate>2016-06-17 09:31:37</lastupdateddate>
+  <lastlogindate>2016-06-17 09:28:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="542">Consecrated One</fav>
+    <fav category="default" type="ns" num="543">The last Adam became a life-giving Spirit</fav>
+  </favourites>
+</user>

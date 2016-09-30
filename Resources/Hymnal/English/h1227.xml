@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Our Lord, that One of peerless worth</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Christ's Bride</category>
+  <numbers><english num="1227"/><french num="155"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ (break) | 6/ 5/ 5 ._1 | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 - |</melody>
+  <layout>
+    <singingstanza>Our Lord, that One of peer -- less worth Came first to die to give new birth; He comes a -- gain to have on earth A glor -- ious Bride for -- ev -- er. Je -- sus! Oh, You're com -- ing soon, Je -- sus! as our dear Bride -- groom; Je -- sus! may our hearts make room To be Your Bride for -- ev -- er.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj194.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Our Lord, that One of peerless worth
+Came first to die to give new birth;
+He comes again to have on earth
+  A glorious Bride forever.</stanza>
+    <stanza type="chorus" number="">Jesus! Oh, You're coming soon,
+Jesus! as our dear Bridegroom;
+Jesus! may our hearts make room
+    To be Your Bride forever.</stanza>
+    <stanza type="verse" number="2">What our dear Lord desires the most,
+Is not to just redeem the lost;
+But that some saints would pay the cost,
+  To be His Bride forever.</stanza>
+    <stanza type="verse" number="3">As virgins we must single be,
+No other husband could have we,
+That when He comes we'll then be free
+  To be His Bride forever.</stanza>
+    <stanza type="verse" number="4">How could we love this fading world,
+When Christ desires that one great pearl;
+To Him we must our love unfurl
+  To bring Him back forever.</stanza>
+  </lyrics>
+</hymn>

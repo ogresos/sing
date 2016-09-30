@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lejos de aquí morando en las tinieblas</title>
+  <index>true</index>
+  <category>La predicación del evangelio&amp;mdash;"¡Id!"</category>
+  <numbers><english num="917"/><spanish num="413"/></numbers>
+  <creators>
+    <author biodate="1840-1907" biolink="">Translated from James McGranahan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="917"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lejos de͜ aquí morando͜ en las tinieblas
+Miles de almas pueden perecer;
+¿Quién, quién irá a dar las buenas nuevas,
+Confiando͜ en Cristo sin desfallecer?</stanza>
+    <stanza type="chorus" number="">"Todo poder yo recibí,
+Todo poder yo recibí,
+Id a predicar a todas las naciones
+Yo͜ estoy con vosotros siempre".</stanza>
+    <stanza type="verse" number="2">Por todo͜ el inundo hay puertas abiertas,
+Con Cristo hoy soldados acudid!
+Despierta͜ y ve a predicar rompiendo
+Toda cadena del pecado vil.</stanza>
+    <stanza type="verse" number="3">"¿Por qué morir?" la voz de Dios os ruega,
+"¿Por qué morir?" digamos a͜ una voz;
+¡Cristo murió para salvar de muerte!
+Por eso ve͜ y proclama salvación.</stanza>
+  </lyrics>
+</hymn>

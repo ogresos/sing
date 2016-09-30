@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stacey</firstname>
+  <lastname>Chisolm</lastname>
+  <email>sycology@gmail.com</email>
+  <password>$2y$10$kOTWuwCXJoCp0HQnY.TME.ddPEVZMy5k6YJnG0TemWcj8m/OPHFG6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.107.91.26</ipaddress>
+  <createdate>2015-09-20 13:12:32</createdate>
+  <lastupdateddate>2015-09-20 13:17:33</lastupdateddate>
+  <lastlogindate>2015-09-20 13:14:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="787">I must tell Jesus all of my trials</fav>
+    <fav category="default" type="h" num="1033">Ye who are troubled and burdened by sin</fav>
+  </favourites>
+</user>

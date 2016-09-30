@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌─愛的名字</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>51234355654432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>在 那 迷 失 年 代， 我 曾 尋 訪 愛 的 天 地， 明 知 多 人 愛 我， 但 我 仍 是 寂 寞 不 樂； 直 到 我 有 耶 穌─ 神 賜 給 人 愛 的 名 字， 響 亮 在 我 心 靈， 我 的 年 代 因 祂 常 青。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0842.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在那迷失年代，
+我曾尋訪愛的天地，
+明知多人愛我，
+但我仍是寂寞不樂；
+直到我有耶穌─
+神賜給人愛的名字，
+響亮在我心靈，
+我的年代因祂常青。</stanza>
+	<stanza type="verse" number="2">祂是愛又是靈，
+進入我靈，與我結盟，
+我享受祂生命，
+祂享受我愛的順從；
+我們融在一起，
+日夜作伴，苦樂不離；
+愛是最大財富，
+世間最愛我的是主。
+（重複第四行）</stanza>
+  </lyrics>
+</hymn>

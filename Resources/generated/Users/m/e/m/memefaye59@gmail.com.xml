@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Darlene F</firstname>
+  <lastname>Edwards</lastname>
+  <email>memefaye59@gmail.com</email>
+  <password>$2y$10$5e./gvs8TZoi7tDkNYdhOeNkw9tvBgU/46cF2Rk/mBnUJ8mhOPiVe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>97.82.246.46</ipaddress>
+  <createdate>2016-04-03 00:38:07</createdate>
+  <lastupdateddate>2016-04-03 01:37:24</lastupdateddate>
+  <lastlogindate>2016-04-03 00:40:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

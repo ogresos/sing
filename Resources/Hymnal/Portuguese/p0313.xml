@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Meu Deus, meu Tudo, meu Amor</title>
+  <index>true</index>
+  <category>Como O Quinhão Eterno</category>
+  <numbers><cebuano num="600"/><chinese num="441"/><english num="600"/><korean num="441"/><portuguese num="313"/><russian num="116"/><spanish num="283"/><tagalog num="600"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="600"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Meu Deus, meu Tudo, meu Amor,
+Quinhão eterno meu,
+Ninguém mais tenho além de Ti
+Na terra ou no céu.</stanza>
+    <stanza type="verse" number="2">Oh! tudo nesta terra é vão,
+Vazios são os céus!
+Que há que possa me alegrar?
+Que é igual a Deus?</stanza>
+    <stanza type="verse" number="3">De Ti me vêm amigos, bens,
+Saúde, habitação;
+Por essas coisas graças dou,
+Porém, meu Deus não são.</stanza>
+    <stanza type="verse" number="4">Oh! como tudo isto é vão
+Se comparado a Ti:
+Amigos, bens, habitação
+E bem-estar aqui.</stanza>
+    <stanza type="verse" number="5">Se fossem meus a terra, o mar,
+E estrelas mil nos céus,
+Seria ainda um infeliz,
+Sem Tua graça, ó Deus.</stanza>
+    <stanza type="verse" number="6">Que queiram outros abraçar
+O mundo todo aqui;
+Visita-me em Teu favor,
+É só o que peço a Ti.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I called upon Thy name, O Lord</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:77"/><vsb num="260"/></numbers>
+  <hymncode>555644345</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | G - G/B - | C - C/E - | F - - - | C/E - - F | G - - - | C/E - - - | F - - - | C/G - - - | G - - - | C - C/E - | F - G7/F - | C/E - - F | G - - - |</chords>
+  <melody>| 0 5 5 5 | 6 4/ 4/( 4/)( 3/) 4 | 5 - - - | 7/ 7/ 6/ 6/ 5 2 (break) | 0 5/ 5/ 5 5 | 6( - 6/)( 5/) 4 | 5 - - 5/ 5/ | 5. 6/ 5 - (break) | 0 ._1 7 ._1 | 6 - - 5/ 4/ | 5. 5/ 4 5 | 2 - - - (break) | 0 ._1 7 ._1 | 6 - - 5/ 4/ | 5. 5/ 4 5 | 2 - - - |</melody>
+  <layout>
+    <singingstanza>I called up -- on Thy name, O Lord, Out of a low dun -- geon. Thou hast heard my voice, O Lord, Thou hast heard my voice: Hide not Thine ear at my breath -- ing, at my cry. Hide not Thine ear at my breath -- ing, at my cry.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Lamentations 3:55-56</link>
+  </links>
+  <audios>
+    <audio title="Instrumental (Guitar)" location="ns" length="45">ns0077_guitar.mp3</audio>
+  </audios>
+  <music>
+    <midi location="ns" length="39">ns0077.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I called upon Thy name, O Lord,
+Out of a low dungeon.
+Thou hast heard my voice, O Lord,
+Thou hast heard my voice:
+Hide not Thine ear at my breathing, at my cry.
+Hide not Thine ear at my breathing, at my cry.</stanza>
+  </lyrics>
+</hymn>

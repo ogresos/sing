@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Makinde</firstname>
+  <lastname>Kehinde</lastname>
+  <email>olatinuke02tekmi@yahoo.com</email>
+  <password>$2y$10$/DXcNUMiVCSyU3.NaBOVqucc9fi1Pj.w07NmmH3uCQ4TxVcNJyR0u</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.190.2.9</ipaddress>
+  <createdate>2016-03-18 03:23:15</createdate>
+  <lastupdateddate>2016-04-05 11:17:13</lastupdateddate>
+  <lastlogindate>2016-03-18 03:24:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

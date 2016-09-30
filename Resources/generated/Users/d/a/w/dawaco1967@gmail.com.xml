@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>DAVID</firstname>
+    <lastname>COWAN</lastname>
+    <email>dawaco1967@gmail.com</email>
+    <password>Ex4AWVu5MoUQIDFqiLJTtQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>50.15.208.138</ipaddress>
+    <createdate>2011-03-04 15:53:30</createdate>
+    <lastupdateddate>2011-03-04 16:08:50</lastupdateddate>
+    <lastlogindate>2011-03-04 15:53:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="8273">God, You are now rearranging my way</fav>
+        <fav category="default" type="h" num="502">Once I was dead in sin</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Beloved Let Us Love One Another</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:547"/><lsmyp num="372"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">Dale Mary Garratt</composer>
+  </creators>
+  <hymncode></hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords></chords>
+  <melody></melody>
+  <copyright>(c) 1974 Universal Music — Brentwood Benson Publ. (ASCAP) (adm. at CapitolCMGPublishing.com) All rights reserved. Used by permission.</copyright>
+  <layout>
+    <singingstanza end="-1"></singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 John 4:7-8</link>
+  </links>
+  <music>
+    <midi location="ns" length="66">ns0547.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Beloved, let us love one another,
+For love is of God,
+And everyone that loveth is born of God
+And knoweth God.
+He that loveth not knoweth not God,
+For God is love.
+Beloved, let us love one another.</stanza>
+  </lyrics>
+</hymn>

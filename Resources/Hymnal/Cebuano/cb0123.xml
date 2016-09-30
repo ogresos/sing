@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Naghigda sa lubong&amp;mdash</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA PAGKABANHAW NIYA</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Naghigda sa lubong&amp;mdash;
+Ang Manluluwas!
+Sa adlaw naghulat&amp;mdash;
+Ginoo ko!</stanza>
+    <stanza type="chorus" number="">Nabanhaw S'ya sa lubong!
+Ang kaaway N'ya gidaug na;
+Gidaug ang gahum sa kangitngitan,
+Maghari S'ya uban's mga balaan.
+Buhi na! Nabanhaw!
+Hallelujah! Nabanhaw!</stanza>
+    <stanza type="verse" number="2">Kawang ang pagbantay&amp;mdash;
+Pagsampong sa bato!
+Sa lubong sa akong&amp;mdash;
+Manluluwas.</stanza>
+    <stanza type="verse" number="3">Kamatayon Kan'ya&amp;mdash;
+Di makagahum,
+Nabuksan ang lubong&amp;mdash;
+Sa Ginoo.</stanza>
+  </lyrics>
+</hymn>

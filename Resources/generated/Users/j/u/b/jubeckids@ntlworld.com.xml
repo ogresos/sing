@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Becky</firstname>
+  <lastname>Packer</lastname>
+  <email>jubeckids@ntlworld.com</email>
+  <password>$2y$10$jLkxxztr0LZxSFUPB40YYe5dnVv0SGfAUZxCP4wtqE6pgBitCRxRC</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.28.210.57</ipaddress>
+  <createdate>2016-04-12 11:14:51</createdate>
+  <lastupdateddate>2016-04-12 11:18:14</lastupdateddate>
+  <lastlogindate>2016-04-12 11:16:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

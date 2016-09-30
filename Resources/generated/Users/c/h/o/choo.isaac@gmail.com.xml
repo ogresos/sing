@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Isaac</firstname>
+  <lastname>Choo</lastname>
+  <email>choo.isaac@gmail.com</email>
+  <password>$2y$10$M1wv9Mu0AlboV6iQOdKMbetFS.47oITczHdzgChuTrYAF3zA6rB.2</password>
+  <gender>M</gender>
+  <country>ca</country>
+  <ipaddress>24.83.205.233</ipaddress>
+  <createdate>2009-09-24 23:26:19</createdate>
+  <lastupdateddate>2016-05-23 21:10:57</lastupdateddate>
+  <lastlogindate>2016-05-23 21:10:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

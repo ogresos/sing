@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>So wie ich bin, nichts bringen kann</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Zum Herrn kommen</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <key>D Major</key>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <layout>
+	<singingstanza>So wie ich bin, nichts brin -- gen kann, Lädst Du mich ein, darf Dir mich nahn, Dein Blut ver -- schafft mir frei -- e Bahn, Lamm Got -- tes, ja, ich komm! Ich komm!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">So wie ich bin, nichts bringen kann,
+Lädst Du mich ein, darf Dir mich nahn,
+Dein Blut verschafft mir freie Bahn,
+Lamm Gottes, ja, ich komm! Ich komm!</stanza>
+	<stanza type="verse" number="2">So wie ich bin, noch warten? Nein!
+Bringst meiner Seele Frieden ein;
+Dein Blut wäscht mich von Flecken rein,
+Lamm Gottes, ja, ich komm, ich komm!</stanza>
+	<stanza type="verse" number="3">So wie ich bin, Konflikt-geplagt,
+Probleme kreisen, Zweifel nagt;
+Durch Furcht und Kämpfe oft verzagt,
+Lamm Gottes, ja, ich komm, ich komm!</stanza>
+	<stanza type="verse" number="4">So wie ich bin, so elend, blind;
+Doch Sicht und Heilung nun beginnt;
+Was ich auch brauch, in Dir nun find,
+Lamm Gottes, ja, ich komm, ich komm!</stanza>
+	<stanza type="verse" number="5">So wie ich bin, empfängst Du mich,
+Vergibst, machst rein und frei für Dich;
+Was Du verheißt, das glaube ich,
+Lamm Gottes, ja, ich komm, ich komm!</stanza>
+	<stanza type="verse" number="6">So wie ich bin, Du kennst mein Sein,
+In Liebe rissest Mauern ein,
+Und nun gehör ich Dir allein,
+Lamm Gottes, ja, ich komm, ich komm!</stanza>
+  </lyrics>
+</hymn>

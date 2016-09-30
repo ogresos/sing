@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Raymundo</firstname>
+  <lastname>Montero</lastname>
+  <email>drraymundomp@gmail.com</email>
+  <password>$2y$10$CBbgngPHOXxtrRPD1KwKW.c1RMPFyhSxyKj4ZiX0SqXr8krtS43na</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.162.210.215</ipaddress>
+  <createdate>2014-02-24 12:02:53</createdate>
+  <lastupdateddate>2016-03-27 16:50:58</lastupdateddate>
+  <lastlogindate>2016-03-26 16:38:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="211">Consecration: To Become the Testimony of Jesus</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+  </favourites>
+</user>

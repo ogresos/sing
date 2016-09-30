@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Sylvia</firstname>
+    <lastname>Cernosek</lastname>
+    <email>sgrnkj08@yahoo.com</email>
+    <password>qN7rCyiC3%2B%2FIIIH7ByrGWA%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>174.251.128.6</ipaddress>
+    <createdate>2013-10-29 12:32:28</createdate>
+    <lastupdateddate>2013-10-29 13:12:23</lastupdateddate>
+    <lastlogindate>2013-10-29 12:32:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="8243">I remember when my burdens rolled away</fav>
+        <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="c" num="58">Jesus loves the little children</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

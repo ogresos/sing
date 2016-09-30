@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou art all the offerings</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His All-Inclusiveness</category>
+  <numbers><cebuano num="195"/><chinese num="165"/><english num="195"/><german num="195"/><korean num="165"/><portuguese num="107"/><russian num="247"/><spanish num="89"/><tagalog num="195"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 6/ 5 3 | 5 - 4 4 | 4 6 5 2 | 3 - - 5 (break) | 5. 6/ 7 ._1 | 5 - 3 1 | 3 2 1 7_. | 1 - - 3 (break) | 2 3 4 6 | 6 - 5 5 | 6 6 ._2 ._1 | 7 - - 6/( 5/) (break) | ._1 3 4 6 | 6 - 5 1 | 3 2 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Lord, Thou art all the of -- ferings Pre -- pared by God for us; They are so rich in mean -- ing, So sweet and glo -- ri -- ous. They have ful -- filled God's pur -- pose And met His heart's de -- sire; They too have sa -- tis -- fied us, And faced what we re -- quire.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj143.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0195.html">View Lyrics</link>
+  </links>
+  <music>
+	<midiref type="h" num="42"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord, Thou art all the offerings
+  Prepared by God for us;
+They are so rich in meaning,
+  So sweet and glorious.
+They have fulfilled God's purpose
+  And met His heart's desire;
+They too have satisfied us,
+  And faced what we require.</stanza>
+	<stanza type="verse" number="2">Thou art the burnt-oblation,
+  Consumed by holy fire;
+To God as a sweet savor,
+  Fulfilling His desire.
+Thou walkedst in God's presence,
+  And all His will pursued;
+Thyself the spotless offering,
+  For us to God as food.</stanza>
+	<stanza type="verse" number="3">Thou art the meal-oblation,
+  With "oil" and "frankincense";
+'Tis holy, fine, and perfect,
+  And sweet to every sense.
+Thou art the peace-oblation,
+  The peace for us to make,
+That we with God may share Thee,
+  As food of Thee partake.</stanza>
+	<stanza type="verse" number="4">Thou art the sin-oblation,
+  For us Thou sin wast made;
+By death for our redemption
+  The ransom Thou hast paid.
+Thou art the trespass-offering,
+  Thou all our sins didst bear
+To satisfy God's justice,
+  That we His pardon share.</stanza>
+	<stanza type="verse" number="5">Thou art the wave-oblation,
+  The resurrected One;
+O'er hades, death and darkness,
+  The vict'ry Thou hast won.
+Thou art the heave-oblation,
+  Thou didst ascend to God;
+As such in heav'nly places
+  Thou art our holy food.</stanza>
+  </lyrics>
+</hymn>

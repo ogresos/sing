@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kami'y tinawag Mo, Diyos</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTUBOS</category>
+  <numbers><cebuano num="42"/><chinese num="41"/><english num="42"/><german num="42"/><korean num="41"/><portuguese num="31"/><russian num="502"/><tagalog num="42"/></numbers>
+  <creators>
+	<author biodate="1813-1856" biolink="">Translated from Mary Bowley Peters</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 6/ 5 3 | 5 - 4 4 | 4 6 5 2 | 3 - - 5 (break) | 5. 6/ 7 ._1 | 5 - 3 1 | 3 2 1 7_. | 1 - - 3 (break) | 2 3 4 6 | 6 - 5 5 | 6 6 ._2 ._1 | 7 - - 6/( 5/) (break) | ._1 3 4 6 | 6 - 5 1 | 3 2 1 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="42"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kami'y tinawag Mo, Diyos
+Nang masdan Iyong Anak
+Siya ang mahal Mong lubos
+At Iyong kalooban;
+Sa tanging kayamanan
+Sarili'y binuhos,
+Pag-ibig Mo'y makamtan,
+Naising magtubos.</stanza>
+	<stanza type="verse" number="2">Ama&amp;mdash;O Diyos ng awa!
+Aming karapatan,
+Maningning na pag-asa,
+Mula sa Iyong ngalan:
+Ang himig na Iyong nais
+Na laging marinig,
+Kami'y malayang labis
+Sa sala at nginig.</stanza>
+	<stanza type="verse" number="3">Tao'y natatakot na
+Diyos di makalimot;
+Nguni't sala'y limot na
+Sa bayad na dulot.
+Wala nang kalayaan
+Sa 'ting kaluluwa,
+Kundi ang kamatayan
+N'yaong Sinisinta.</stanza>
+	<stanza type="verse" number="4">Walang poot sa puso
+Ng Diyos tungo sa'tin,
+Pangamba ay nagupo,
+Pag-ibig Niya'y kamtin;
+Alibugha'y hinagkan,
+Damit ay 'sinuot;
+Ganap Niyang pag-ibig ang
+Nagtanggal ng takot.</stanza>
+  </lyrics>
+</hymn>

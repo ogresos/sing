@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sieh, vor uns der Tisch gedeckt ist –</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seiner gedenken</category>
+  <numbers><cebuano num="1105"/><chinese num="ts:622"/><english num="1105"/><german num="1105"/><russian num="207"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2. ._2/ ._2 ._2 | ._4. ._3/ ._3( ._2) (break) | ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2 ._2 ._2/( ._4/) ._3/( ._2/) | ._1 7 ._1 - (break) | ._2. ._2/ ._2 ._2 | ._2. ._1/ ._1/( 7/) 7 | ._3. ._3/ ._3 ._3 | ._4. ._3/ ._3( ._2) (break) | ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2 ._2 ._2/( ._4/) ._3/( ._2/) | ._1 7 ._1 - |</melody>
+  <layout>
+	<singingstanza>Sieh, vor uns der Tisch ge -- deckt ist–  Nun be -- reit ist Brot und Wein: Sieh, auf uns der Ret -- ter war -- tet: „Nehmt mit Mir das Mahl nun ein“. „Kommt und esst“, so ruft der Herr uns, „Speis mit Mir und Ich mit dir“; Er lädt uns zu Sei -- nem Tisch ein, Lasst uns freu -- dig fes -- ten hier.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="191"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sieh, vor uns der Tisch gedeckt ist – 
+    Nun bereit ist Brot und Wein:
+Sieh, auf uns der Retter wartet:
+    „Nehmt mit Mir das Mahl nun ein“.
+„Kommt und esst“, so ruft der Herr uns,
+    „Speis mit Mir und Ich mit dir“;
+Er lädt uns zu Seinem Tisch ein,
+    Lasst uns freudig festen hier.</stanza>
+	<stanza type="verse" number="2">Herrlich ist das Fest mit Christus,
+    Unsrem Retter Dank gebührt;
+Halleluja, halleluja!
+    Unsre Herzen sind berührt!
+Essen, trinken ist mit Dir, Herr,
+    Ein Genuss, zufrieden stellt,
+Und ein Vorgeschmack des Festmahls,
+    Uns als Deiner Braut nichts fehlt.</stanza>
+  </lyrics>
+</hymn>

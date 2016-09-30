@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>David</firstname>
+    <lastname>Bochorishvili</lastname>
+    <email>david.bocha@gmail.com</email>
+    <password>ddTXrSUwLUAGTX0f0XgCrw%3D%3D</password>
+    <gender></gender>
+    <country>Georgia</country>
+    <ipaddress>46.49.24.80</ipaddress>
+    <createdate>2013-05-18 07:12:54</createdate>
+    <lastupdateddate>2013-05-18 07:15:33</lastupdateddate>
+    <lastlogindate>2013-05-18 07:12:54</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="423">Thou hidden love of God, whose height</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Sergio</firstname>
+  <lastname>Meza</lastname>
+  <email>sermea2003@hotmail.com</email>
+  <password>$1$Y9aXfgXJ$4h626Tp2odxgEu4Mq1GjW1</password>
+  <gender>M</gender>
+  <country>Colombia</country>
+  <ipaddress>190.67.28.183</ipaddress>
+  <createdate>2009-02-02 16:36:27</createdate>
+  <lastupdateddate>2015-06-07 14:47:53</lastupdateddate>
+  <lastlogindate>2015-06-07 14:47:53</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

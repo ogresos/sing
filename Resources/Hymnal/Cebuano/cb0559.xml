@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gitandog Ka sa pagtoo</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;MAKIG-AMBITAY NIYA</category>
+  <numbers><cebuano num="559"/><chinese num="412"/><english num="559"/><german num="559"/><korean num="412"/><russian num="460"/><tagalog num="559"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Bertha Fennell</author>
+  </creators>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gitandog Ka sa pagtoo,
+Tinubdan Ka's kaayo;
+Giangkon karon's pagtoo,
+Sa paghinlo's dugo Mo.</stanza>
+	<stanza type="chorus" number="">Siga's bag-ong kinabuhi,
+Siga's Espiritu Mo;
+Naghinlo, nagputli nako,
+Himayaong Ngalan Mo!</stanza>
+	<stanza type="verse" number="2">Gitandog Ka sa pagtoo,
+Giakong kadato Mo;
+Bukas ang tanan ko Nimo,
+Hatagi sa tanan Mo.</stanza>
+	<stanza type="verse" number="3">Gihikap Ko ang setro Mo,
+O Hari's mga hari;
+Nagdawat's kahupnganan Mo,
+Sakay's mga pako Mo.</stanza>
+	<stanza type="verse" number="4">Grasya, kusog, ug kaalam,
+Gisangkapan Mo's tanan;
+Pasigeha sa pagtandog,
+Pabilin's kiliran Mo.</stanza>
+  </lyrics>
+</hymn>

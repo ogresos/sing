@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tanan itugyan kang Jesus</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;ITUGYAN ANG TANAN SA GINOO</category>
+  <numbers><cebuano num="441"/><chinese num="337"/><dutch num="29"/><english num="441"/><french num="77"/><german num="441"/><korean num="337"/><portuguese num="204"/><russian num="83"/><spanish num="189"/><tagalog num="441"/></numbers>
+  <creators>
+	<author biodate="1855-1939" biolink="">Translated from Judson W. Van de Venter</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tanan itugyan kang Jesus,
+Malipayong magtugyan;
+Higugmaon S'ya'g saligan,
+Mabuhi's presensya N'ya.</stanza>
+	<stanza type="chorus" number="">Tanan itugyan,
+Tanan itugyan.
+Alang Nimo, Manluluwas,
+Tanan itugyan.</stanza>
+	<stanza type="verse" number="2">Mapaubsanong magtugyan
+Sa Imo nga tiilan;
+Kalibutan akong b'yaan,
+Dawata ako karon.</stanza>
+	<stanza type="verse" number="3">Tanan itugyan Kanimo,
+Angkona ako's hingpit;
+Pabatia's Espiritu,
+Masayrang akoa Ka.</stanza>
+	<stanza type="verse" number="4">Tanan itugyan lakip na
+Ang akong kaugalingon;
+Pun-a's gugma'g gahum Nimo,
+Panalangini ako.</stanza>
+	<stanza type="verse" number="5">Tanan itugyan Kanimo,
+Pabatia's kalayo;
+O kalipay's kaluwasan!
+Himayaong ngalan Mo!</stanza>
+  </lyrics>
+</hymn>

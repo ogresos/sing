@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>John</firstname>
+    <lastname>Carleton</lastname>
+    <email>carletond212@aol.com</email>
+    <password>MizayWrkEOAbV%2BH4fL438A%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>71.255.135.240</ipaddress>
+    <createdate>2011-01-11 12:31:36</createdate>
+    <lastupdateddate>2011-01-11 12:39:08</lastupdateddate>
+    <lastlogindate>2011-01-11 12:31:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="245">Oh, spread the tidings 'round, wherever man is found</fav>
+        <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+        <fav category="default" type="c" num="116">Wonderful, Wonderful</fav>
+        <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+        <fav category="default" type="c" num="162">Yesterday, today, forever</fav>
+    </favourites>
+</user>

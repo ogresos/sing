@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vater, lange vor der Schöpfung</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Erwählung</category>
+  <numbers><cebuano num="33"/><chinese num="31"/><english num="33"/><german num="33"/><korean num="31"/><portuguese num="24"/><russian num="14"/><tagalog num="33"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+	<author biodate="" biolink="">Translated by Francis P. Jones</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Va -- ter, lan -- ge vor der Schöp -- fung Hast in Lie -- be uns er -- wählt; Die -- se Lie -- be, tief und in -- nig, Die zu Chris -- tus zieht, nur zählt, Und sie hält uns, und sie hält uns, Fest in Chris -- tus sie uns hält. Fest in Chris -- tus sie uns hält.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vater, lange vor der Schöpfung
+    Hast in Liebe uns erwählt;
+Diese Liebe, tief und innig,
+    Die zu Christus zieht, nur zählt,
+Und sie hält uns, und sie hält uns,
+    Fest in Christus sie uns hält.
+    Fest in Christus sie uns hält.</stanza>
+	<stanza type="verse" number="2">Mag die Welt die Bräuche ändern,
+     Ewig gleich bleibt Gott, der Herr;
+Und Sein Bund und Sein Erbarmen
+    Bleiben ewig um so mehr.
+Gottes Kinder, Gottes Kinder,
+    Seinem Namen gebt die Ehr!
+    Seinem Namen gebt die Ehr!</stanza>
+	<stanza type="verse" number="3">Sein Erbarmen – Ihm sei Ehre –
+    Reichte tief zu mir hinab;
+Seine Gnade macht mich willig,
+    Ich folg Seinem Hirtenstab.
+Gott uns liebte, Gott uns liebte, 
+    Dass Er Seinen Sohn uns gab.
+    Dass Er Seinen Sohn uns gab.</stanza>
+	<stanza type="verse" number="4">Abba Vater, Dich wir preisen,
+    Deine Liebe und Person;
+Dir wir singen ohne Ende
+    Bis wir treffen Deinen Sohn.
+Dir sei Ehre, Dir sei Ehre,
+    Unsrem Gott und auch dem Lamm.
+    Unsrem Gott und auch dem Lamm.</stanza>
+  </lyrics>
+</hymn>

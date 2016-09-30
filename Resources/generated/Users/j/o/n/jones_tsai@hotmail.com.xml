@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jones</firstname>
+    <lastname>Tsai</lastname>
+    <email>jones_tsai@hotmail.com</email>
+    <password>$1$/L.c2VPH$4/LZCsxdf1BCVfUkqxYPV/</password>
+    <gender>M</gender>
+    <country>Canada</country>
+    <ipaddress>24.81.78.193</ipaddress>
+    <createdate>2009-02-08 05:13:12</createdate>
+    <lastupdateddate>2013-11-29 03:17:22</lastupdateddate>
+    <lastlogindate>2013-11-29 03:17:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa Iyo'y mapawangis</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGKAKATULAD KAY KRISTO</category>
+  <numbers><cebuano num="399"/><chinese num="300"/><english num="399"/><german num="399"/><korean num="300"/><portuguese num="193"/><russian num="456"/><spanish num="176"/><tagalog num="399"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1. 1/ 2 6 | 5 - 3 - | 3. 3/ 4# 4# | 5 - - - (break) | ._1. ._1/ 5 5# | 6 - 6 - | 5. 3/ 4 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="399"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa Iyo'y mapawangis,
+Ang aking nais;
+Nawa'y tuparin Mo,
+Itong mithi ko.</stanza>
+	<stanza type="verse" number="2">Matulad kay Kristo,
+Siya'y Espiritu;
+Kung Siyang mamahala,
+Nasa'y maga'wa.</stanza>
+	<stanza type="verse" number="3">Mukhang walang tabing,
+Gaya'y salamin;
+Kita'y aninagin,
+At l'walhatiin.</stanza>
+	<stanza type="verse" number="4">Sana'y aninagin,
+Di na ikubli;
+Ang Pangino'n Mismo,
+Ng pusong puro.</stanza>
+	<stanza type="verse" number="5">Iyong l'walhati'y masdan,
+Kata'y kaharap;
+Laging tinitingnan,
+O Ikaw lamang.</stanza>
+	<stanza type="verse" number="6">Ang makatulad Mo,
+Ay hangarin ko;
+Sa puso'y itatak,
+Kita'y mahayag.</stanza>
+	<stanza type="verse" number="7">Sa Iyo'y mapagaya,
+Glorya sa glorya;
+Ihayag si Kristo,
+Nang walang hinto.</stanza>
+  </lyrics>
+</hymn>

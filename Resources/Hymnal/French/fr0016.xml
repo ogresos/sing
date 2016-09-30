@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dieu que j'adore</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Son nom</category>
+  <numbers><cebuano num="1085"/><chinese num="ts:227"/><english num="1085"/><french num="16"/><german num="1085"/><korean num="789"/></numbers>
+  <melody>| 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - | 5 5. 4/ | 4/ 3/ 3 - | 3 2 3 | 2 - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - - (break) | 2 2 3 | 4 2 - | 3 3 4 | 5 3 - | 4# 4# 4# | 5 - 6 | 5( - - | 5) - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/( 2/) 2 - | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - 0 |</melody>
+  <links>
+	<link type="ref">Isaiah 9:6</link>
+  </links>
+  <music>
+	<midiref type="h" num="1085"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Son nom est « Merveilleux »,
+Son nom : le « Conseiller »,
+Il est le « Dieu puissant »,
+Jésus mon Dieu !</stanza>
+	<stanza type="verse" number="">L'enfant divin est né,
+Le Fils nous est donné,
+Son nom : « Père Éternel »,
+« Prince de paix ».</stanza>
+	<stanza type="verse" number="">Dieu que j'adore,
+Devint un homme,
+En nous vit Son Esprit !
+Viens et célèbre-Le !
+Aime et adore-Le !
+Il est le grand Sauveur,
+Jésus mon Dieu !</stanza>
+  </lyrics>
+</hymn>

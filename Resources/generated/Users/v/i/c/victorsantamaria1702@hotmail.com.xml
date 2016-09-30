@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Victor</firstname>
+    <lastname>Santamaria Guerrero</lastname>
+    <email>victorsantamaria1702@hotmail.com</email>
+    <password>$1$US1asriR$9ktTw2PNVkQZf34SXxZ70.</password>
+    <gender>M</gender>
+    <country>Colombia</country>
+    <ipaddress>190.253.143.48</ipaddress>
+    <createdate>2009-08-03 15:41:48</createdate>
+    <lastupdateddate>2012-03-27 13:54:51</lastupdateddate>
+    <lastlogindate>2012-03-27 13:54:41</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    </favourites>
+</user>

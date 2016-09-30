@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Don</firstname>
+  <lastname>Crary</lastname>
+  <email>doncrary@nethere.com</email>
+  <password>$2y$10$YvQSKzy9ILy4Jut5NipdEOmeLgz.ho5yG/PZRm5gaxKELDmxrsKGO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.178.247.139</ipaddress>
+  <createdate>2015-02-03 20:40:04</createdate>
+  <lastupdateddate>2015-02-03 20:55:47</lastupdateddate>
+  <lastlogindate>2015-02-03 20:55:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

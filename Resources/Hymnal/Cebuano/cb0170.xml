@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pamanhonon Kang tinudlo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAHUM</category>
+  <numbers><cebuano num="170"/><chinese num="140"/><english num="170"/><german num="170"/><korean num="140"/><portuguese num="83"/><russian num="34"/><spanish num="80"/><tagalog num="170"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pamanhonon Kang tinudlo
+Sa Dios, ug mahal namo,
+Labi Ka nga madanihon,
+Ug labi gyung matahum!</stanza>
+	<stanza type="verse" number="2">Gidayeg Ka, Pinalangga,
+O pagkabililhon Mo,
+Gimahal ko ang gugma Mo,
+Ug kahiligugmaon.</stanza>
+	<stanza type="verse" number="3">Matahum Ka's labing tahum,
+Tam-is pa's labing tam-is;
+Malomo Ka'g maluloy-on,
+Way katugbang's katahum.</stanza>
+	<stanza type="verse" number="4">Puno's mirra ang biste Mo,
+Baba Mo puno's grasya;
+Nangalimyon Ka's kasakit,
+Sa gugma gigakos Ka.</stanza>
+	<stanza type="verse" number="5">Lana's kalipay gidihog
+Sa Dios diha Kanimo,
+Gikan sa kaiglesiahan
+Tingban Ka sa pagdayeg.</stanza>
+	<stanza type="verse" number="6">Dios nagpanalangin Nimo,
+Ikaw nagmadaugon;
+Naglingkod's trono's himaya,
+Gahum, pagkahalangdon.</stanza>
+	<stanza type="verse" number="7">Tinguha Ka's mga nasud,
+O pagkabililhon Mo;
+Labaw's tagpulo ka libo,
+Takus nga higugmaon.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Cristo é Vitorioso</title>
+  <index>true</index>
+  <category>Pela Vitória Do Senhor</category>
+  <numbers><cebuano num="890"/><chinese num="644"/><dutch num="71"/><english num="890"/><german num="890"/><korean num="644"/><portuguese num="420"/><russian num="145"/><spanish num="401"/><tagalog num="890"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="890"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Cristo é Vitorioso!
+Alto dai louvor;
+Do pecado e da morte
+Sempre é Vencedor.</stanza>
+	<stanza type="chorus" number="">Aleluia! proclamemos
+Cristo, o Vencedor;
+Sobre todo o inimigo
+É o Conquistador.</stanza>
+	<stanza type="verse" number="2">Cristo é Vitorioso!
+Não há mal ou dor,
+Ao clamarmos a vitória
+Que na cruz logrou.</stanza>
+	<stanza type="verse" number="3">Cristo é Vitorioso!
+Fortes vos tornai;
+Ide aonde vos envie,
+Sempre a orar.</stanza>
+	<stanza type="verse" number="4">Cristo é Vitorioso!
+Todo véu tirai,
+Véu de falhas ou temores ?
+Cristo à frente vai.</stanza>
+	<stanza type="verse" number="5">Cristo é Vitorioso!
+Breve o Rei dirá:
+"Vinde a Mim, ó vencedores,
+Vinde a reinar."</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa iglesia dunay gugma alang nimo</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;LINANGKOB</category>
+  <numbers><cebuano num="1278"/><chinese num="ts:721"/><english num="1278"/><german num="1278"/><russian num="141*"/><tagalog num="1278"/></numbers>
+  <melody>| 0 - 1 2 | 3 - 3 - | 5 4( - 3) | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6 5 - - | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2 ._1 - - | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_. 2 | 1( - - - | 1) - 0 - |</melody>
+  <music>
+	<midiref type="h" num="1278"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa iglesia dunay gugma alang nimo,
+Gugmang labing lunsay, lalum, malomo,
+Nganong nanghupaw kag nag-inusara,
+Nga dagaya mang sangkap sa iglesia.</stanza>
+	<stanza type="verse" number="2">Diha sa iglesia dunay kinabuhi,
+Init sama's Adlaw, tam-is daw yamog;
+Nganong mahadlok ka ug mabalaka,
+Nga inatiman man ang gilukat N'ya?</stanza>
+	<stanza type="verse" number="3">Diha sa iglesia may buhat naghulat;
+Bisan mga anghel gustong moapil;
+Nganong magtinapol ning dakong buhat,
+Iglesia nangin'hanglan man's tabang mo.</stanza>
+	<stanza type="verse" number="4">Diha sa iglesia may dapit ka gayud;
+Dapit masanagon ug malinawon;
+Nganong naglaag ka's panawng malaay?
+Nga iglesia imo mang panimalay.</stanza>
+  </lyrics>
+</hymn>

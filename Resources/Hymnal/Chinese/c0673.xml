@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌我救主降生</title>
+  <index>true</index>
+  <category>福音－救主</category>
+  <numbers><chinese num="673"/><english num="989"/><korean num="673"/><tagalog num="989"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_../ 1// 1/ 1/ 2/ 3/ | 3./ 2// 1/ 2. (break) | 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_./ 1/ 3/ 2 1/ | 1.( 1) 0/ (break) | (Chorus) 5_./ 7_./ 2/ 5 4/ | 3.( 1) 0/ | 5_./ 7_./ 2/ 4 6/ | 5.( 3) 0/ (break) | 5./ 4// 3/ 3/ 2/ 1/ | 2/ 1/ 6_./ 6_.. | 5_./ 1/ 3/ 2 1/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>耶 穌， 我 救 主， 降 生 馬 槽 中， 成 為 『憂 患 人』， 來 經 歷 苦 痛； 哦， 這 真 希 奇， 值 得 我 稱 頌！ 祂 來 尋 我， 尋 我！ 祂 來 尋 我， 尋 我！ 祂 來 尋 我， 尋 我！ 哦， 這 真 希 奇， 值 得 我 稱 頌！ 祂 來 尋 我， 尋 我！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="989"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌，我救主，
+降生馬槽中，
+成為『憂患人』，
+來經歷苦痛；
+哦，這真希奇，
+值得我稱頌！
+祂來尋我，尋我！</stanza>
+	<stanza type="chorus" number="">祂來尋我，尋我！
+祂來尋我，尋我！
+哦，這真希奇，
+值得我稱頌！
+祂來尋我，尋我！</stanza>
+	<stanza type="verse" number="2">耶穌，我救主，
+在加略木上，
+還我眾罪債，
+將我人釋放；
+哦，這真希奇，
+怎麼會這樣？
+祂死為我，為我！</stanza>
+	<stanza type="chorus" number="">祂死為我，為我！
+祂死為我，為我！
+哦，這真希奇，
+怎麼會這樣？
+祂死為我，為我！</stanza>
+	<stanza type="verse" number="3">耶穌，我救主，
+永活不改變，
+當我在流蕩，
+將我來召喚；
+雖遭我拒絕，
+仍召不間斷，
+祂來召我，召我！</stanza>
+	<stanza type="chorus" number="">祂來召我，召我！
+祂來召我，召我！
+雖遭我拒絕，
+仍召不間斷，
+祂來召我，召我！</stanza>
+	<stanza type="verse" number="4">耶穌，我救主，
+要來接選民，
+這應許甜美，
+當年日飛奔：
+哦，我要見祂
+從天上降臨，
+祂來接我，接我！</stanza>
+	<stanza type="chorus" number="">祂來接我，接我！
+祂來接我，接我！
+哦，我要見祂
+從天上降臨，
+祂來接我，接我！</stanza>
+  </lyrics>
+</hymn>

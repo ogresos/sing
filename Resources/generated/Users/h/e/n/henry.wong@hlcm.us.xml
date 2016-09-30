@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Henry</firstname>
+<lastname>Wong</lastname>
+<email>henry.wong@hlcm.us</email>
+<password>$1$yo7prYMg$Oo84PKAa5fDgvj9E5RCtE/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.51.249.189</ipaddress>
+<createdate>2009-08-17 15:35:17</createdate>
+<lastupdateddate>2009-09-15 19:17:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="61">The Good Samaritan</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Halangdon gyud nga kalomo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAHUM</category>
+  <numbers><cebuano num="177"/><chinese num="139"/><english num="177"/><korean num="139"/><russian num="506"/><tagalog num="177"/></numbers>
+  <creators>
+    <author biodate="1727-1795" biolink="">Translated from Samuel Stennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Halangdon gyud nga kalomo
+Ang naa's Manlul'was;
+Gipurongan S'ya's himaya,
+Baba puno's grasya.</stanza>
+    <stanza type="verse" number="2">Way ikatandi Kaniya,
+Sa mga anak's tawo,
+Matahum's tanang matahum,
+Sa langitnong panon.</stanza>
+    <stanza type="verse" number="3">Utang kong kinabuhi N'ya,
+Tanan kong kalipay;
+Gipadaug's kamatayon,
+Gil'was sa lubnganan.</stanza>
+    <stanza type="verse" number="4">Gida's Amahang puy-anan,
+Gipapahulay ko;
+Gipakita's himaya N'ya,
+Kalipay gihingpit.</stanza>
+    <stanza type="verse" number="5">Nadawat kadagaya N'ya,
+Pamatuod's gugma,
+Kon may libong kasingkasing,
+Maimo, Ginoo.</stanza>
+  </lyrics>
+</hymn>

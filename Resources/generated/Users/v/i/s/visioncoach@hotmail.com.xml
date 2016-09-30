@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anthony</firstname>
+  <lastname>Pfeiffer</lastname>
+  <email>visioncoach@hotmail.com</email>
+  <password>$2y$10$chu9rp3QbZY3z7iI4BiA0uCXH/1ec0X83gEe6MnZF4N80xqTdU6Fm</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>71.31.130.53</ipaddress>
+  <createdate>2008-07-26 01:43:27</createdate>
+  <lastupdateddate>2014-06-17 11:36:22</lastupdateddate>
+  <lastlogindate>2014-06-17 11:36:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="203">In the bosom of the Father</fav>
+    <fav category="default" type="h" num="553">In the secret of His presence</fav>
+    <fav category="default" type="h" num="86">Though Thou art God, most glorious, high</fav>
+    <fav category="default" type="h" num="279">Through the Cross, O Lord, I pray</fav>
+  </favourites>
+</user>

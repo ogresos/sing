@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>George</firstname>
+  <lastname>Nepert</lastname>
+  <email>gnepert@hotmail.com</email>
+  <password>$2y$10$PBFC/8cnkCSUzXiSTfwyJeuBlfhuSMIbfhKeMAYN.VraQI4VFvrEK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.200.126.184</ipaddress>
+  <createdate>2015-06-27 01:50:08</createdate>
+  <lastupdateddate>2015-06-27 14:16:35</lastupdateddate>
+  <lastlogindate>2015-06-27 14:16:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

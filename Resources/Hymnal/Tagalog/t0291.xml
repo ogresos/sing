@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako'y nagagalak sa 'ting Ama</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;MINAHAL NG PANGINOON</category>
+  <numbers><chinese num="230"/><english num="291"/><korean num="230"/><tagalog num="291"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="291"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ako'y nagagalak sa 'ting Ama,
+Nilahad pag-ibig Niya sa Bibl'ya;
+Pambihirang bagay ang natalos:
+Kay giliw, mahal ako ni Hesus.</stanza>
+    <stanza type="chorus" number="">Ako'y nagagalak nang lubos,
+Ako ay mahal ni Hesus;
+Ako'y nagagalak nang lubos,
+'Ko'y mahal ni Hesus.</stanza>
+    <stanza type="verse" number="2">Malimot ko man Siya't gumagala,
+Mahal pa rin Niya kahit nawala;
+Babalik sa Kanyang mga bisig,
+'Pag maalala Kanyang pag-ibig.</stanza>
+    <stanza type="chorus" number="">Ako'y nagagalak nang lubos,
+Ako ay mahal ni Hesus;
+Ako'y nagagalak nang lubos,
+'Ko'y mahal ni Hesus.</stanza>
+    <stanza type="verse" number="3">Kung aawiti'y iisang himig,
+Sa aking Haring kaibig-ibig;
+Ang awit kong di na matatapos,
+"Kay hiwaga, 'ko'y mahal ni Hesus"</stanza>
+    <stanza type="chorus" number="">Ako'y nagagalak nang lubos,
+Ako ay mahal ni Hesus;
+Ako'y nagagalak nang lubos,
+'Ko'y mahal ni Hesus.</stanza>
+  </lyrics>
+</hymn>

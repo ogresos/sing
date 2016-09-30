@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daisyree</firstname>
+  <lastname>Lasala</lastname>
+  <email>daisyree_lasala@rocketmail.com</email>
+  <password>$2y$10$PeLp0y.uEQ.q7autofXtDeSLfIPHzIwNuWGovC8OND5fKlN2KKQT.</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>49.149.150.168</ipaddress>
+  <createdate>2014-07-18 12:42:08</createdate>
+  <lastupdateddate>2014-10-31 10:35:36</lastupdateddate>
+  <lastlogindate>2014-10-31 10:17:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+    <fav category="default" type="h" num="389">Lord Jesus, I long in Thy presence to live</fav>
+    <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+    <fav category="default" type="h" num="1300">The Lord has been revealed in us</fav>
+    <fav category="default" type="h" num="1186">The scribes and Pharisees all thought</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

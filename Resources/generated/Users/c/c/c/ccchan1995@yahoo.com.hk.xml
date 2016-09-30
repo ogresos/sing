@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Chan Chi</firstname>
+  <lastname>Ching</lastname>
+  <email>ccchan1995@yahoo.com.hk</email>
+  <password>$2y$10$AsSLNh3GrTN.ZNXAsfOX3OzL6UpbCETbIC9ZDSg5ExvBVTGKnOgbO</password>
+  <gender/>
+  <country>Hong Kong</country>
+  <ipaddress>123.136.11.148</ipaddress>
+  <createdate>2013-05-30 20:36:10</createdate>
+  <lastupdateddate>2016-04-29 05:37:47</lastupdateddate>
+  <lastlogindate>2016-04-27 14:23:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="116">Lord, I give myself to You right now</fav>
+    <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+    <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+    <fav category="default" type="ns" num="109">Lord, there's nothing in this world like You</fav>
+    <fav category="default" type="ns" num="221">More of our heart</fav>
+    <fav category="default" type="lb" num="70">Now from my heart comes</fav>
+    <fav category="default" type="nt" num="426">Remove My Covering, Lord</fav>
+    <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    <fav category="default" type="ns" num="499">The Vision of God's Building</fav>
+    <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+    <fav category="default" type="ns" num="407">Two Kinds of Walk</fav>
+    <fav category="default" type="ns" num="413">Two Kisses</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="ts" num="342">愛的交通</fav>
+  </favourites>
+</user>

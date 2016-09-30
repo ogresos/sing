@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>建造是神的目標</title>
+  <index>true</index>
+  <category>建造與合一</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>35656121223261121</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>神 的 生 命， 是 人 需 要； 神 的 建 造 是 神 的 目 標。 基 督 得 勝， 魔 鬼 蒙 羞； 神 的 計 畫 不 久 要 成 就！ 建 造 我， 主 耶 穌！ 我 不 願 再 我 行 我 素。 『活 在 靈 中， 經 常 禱 讀， 多 禱 告。』 阿 們， 主！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0601.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神的生命，是人需要；
+神的建造是神的目標。
+基督得勝，魔鬼蒙羞；
+神的計畫不久要成就！</stanza>
+	<stanza type="chorus" number="">建造我，主耶穌！
+我不願再我行我素。
+『活在靈中，經常禱讀，
+多禱告。』阿們，主！</stanza>
+	<stanza type="verse" number="2">生命的主，滿有個性；
+祂的豐富是我們供應。
+為著建造，需要生命；
+生命、建造，
+原相輔相成。</stanza>
+	<stanza type="verse" number="3">我們起來，獻上自己，
+一手建造，一手拿兵器。
+除去紛爭，消殺己意，
+兩刃利劍，刺身內仇敵。</stanza>
+	<stanza type="verse" number="4">有一條路
+是通到主豐盛的生命，
+藉這生命長進，
+建造自然產生；
+只要全人敞開，
+心轉向主，在靈裡
+天天都來禱讀，來禱讀。
+（接到副歌）</stanza>
+  </lyrics>
+</hymn>

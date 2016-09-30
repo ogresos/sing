@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Siya maluloy-on</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG MANLULUWAS</category>
+  <numbers><cebuano num="988"/><chinese num="677"/><english num="988"/><french num="192"/><korean num="677"/><tagalog num="988"/></numbers>
+  <creators>
+    <author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="988"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Siya maluloy-on,
+Mahigugmaon,
+Nag-antus' kasakit
+Alang kanato.
+Namatay didto's krus
+Alang's sala ta;
+Cristo Manluluwas,
+Unsay buhaton mo?</stanza>
+  </lyrics>
+</hymn>

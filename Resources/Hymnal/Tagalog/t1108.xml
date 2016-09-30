@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kainin natin ang tinapay</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="1108"/><chinese num="ts:621"/><english num="1108"/><german num="1108"/><korean num="982"/><russian num="407"/><spanish num="106"/><tagalog num="1108"/></numbers>
+  <melody>| 0 - - 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 7_. 5_. (break) | 1 2 3 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 1/ 7_./ 6_./ 7_./ (break) | 1 - - (Chorus) 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5( - 5/) 0/ 3/ 5/ | 4. 2/ 7_. 4 (break) | 3( - 3/) 0/ 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5 - - 3/ 4/ | 5 5 6 7/( ._1/) | 7 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1108"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kainin natin ang tinapay:
+Purihin Siya at tayo'y isa,
+Sa pagkain ay tinataglay
+Pagkakaisa ng ekklesia.</stanza>
+	<stanza type="chorus" number="">Tinapay kanin mga banal!
+Inuman din ang saro.
+Pagkaisa sa lupang lokal,
+Ipakitang totoo!</stanza>
+	<stanza type="verse" number="2">Inuman na natin ang saro:
+Tinubos upang maging isa,
+Binili na ng Kanyang dugo -
+Natupad na ang layunin Niya.</stanza>
+	<stanza type="verse" number="3">Iisa lang ang bayan ng Diyos;
+Hindi mga butil na kalat -
+Pinaghalo't isinaayos
+Isa sa bawa't lokalidad.</stanza>
+	<stanza type="verse" number="4">Ipahayag na tayo'y isa;
+At hindi lamang sa salita.
+Ang buhay nati'y nagkaisa
+Ang Diyos ang may sanhi't may gawa.</stanza>
+	<stanza type="verse" number="5">Kainin natin ang tinapay:
+Purihin Siya at tayo'y isa.
+Sa pagkain ay tinataglay
+Pagkakaisa ng ekklesia.</stanza>
+	<stanza type="note" number="">(Huwag nang ulitin ang koro pagkatapos ng huling saknong)</stanza>
+  </lyrics>
+</hymn>

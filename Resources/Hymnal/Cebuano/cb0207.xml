@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ginoo, matag handom ko</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;KATAGBAWAN DIHA KANIYA</category>
+  <numbers><cebuano num="207"/><chinese num="168"/><english num="207"/><french num="33"/><korean num="168"/><russian num="509"/><tagalog num="207"/></numbers>
+  <creators>
+    <author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="207"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ginoo, matag handom ko
+Sa gugma'g grasya Mo,
+Nangandoy kong makita Ka
+Sa nawong gyud Nimo.</stanza>
+    <stanza type="verse" number="2">Bisag naglakaw's awaaw,
+Sa yuta's kauhaw,
+Daghang kaaway ug lit-ag,
+Katunokang nagkatag.</stanza>
+    <stanza type="verse" number="3">Apan nakitang giladmon,
+Sa gugmang takus daygon;
+Busa sa among katagbaw,
+Magdayeg, malipayon.</stanza>
+    <stanza type="verse" number="4">Kinabuhi Ka'g Kalan-on,
+Pahulay, Kahayag;
+Matag handom bag-o gayud,
+Ang kalipayng hatag.</stanza>
+    <stanza type="verse" number="5">Lig-ona ang espiritu,
+Magsunod gyud Nimo,
+Hangtud nawong Mo among makita,
+Didto sa himaya.</stanza>
+  </lyrics>
+</hymn>

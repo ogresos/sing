@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Avante, avante, ó santos</title>
+  <index>true</index>
+  <category>A Luta Espiritual Avante</category>
+  <numbers><cebuano num="870"/><chinese num="632"/><english num="870"/><korean num="632"/><portuguese num="412"/><tagalog num="870"/></numbers>
+  <creators>
+    <author biodate="1818-1888" biolink="">Translated from George Duffield</author>
+  </creators>
+  <music>
+    <midiref type="h" num="870"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Avante, avante, ó santos,
+Soldados de Jesus!
+Erguei Seu estandarte,
+Lutai por Sua cruz.
+O comandante invicto
+Dirige os batalhões,
+Derrota os inimigos,
+Seu senhorio expõe.</stanza>
+    <stanza type="verse" number="2">Avante, avante, ó santos,
+Ao toque do clarim!
+Segui de perto a Cristo,
+Segui até o fim.
+Vós, homens a servi-Lo
+Contra inimigos mil,
+Dispostos e ousados
+Saí à luta vil.</stanza>
+    <stanza type="verse" number="3">Avante, avante, ó santos
+Por Cristo pelejai!
+Vesti Sua armadura,
+Em Seu poder marchai;
+No posto, sempre achados,
+Velando em oração,
+Em meio a perigos
+Segui o Capitão.</stanza>
+    <stanza type="verse" number="4">Avante, avante, ó santos,
+A passo triunfal!
+Hoje há combate horrendo,
+Mui breve a paz final.
+Da vida, a coroa
+Terá o que vencer;
+E com o Rei em glória
+Pra sempre irá reger.</stanza>
+  </lyrics>
+</hymn>

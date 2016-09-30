@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Cher</firstname>
+    <lastname>Lewis</lastname>
+    <email>mllecher@gmail.com</email>
+    <password>uGGTs491b%2FpHu%2BVN8xzpaA%3D%3D</password>
+    <gender></gender>
+    <country>Italy</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-22 16:52:48</createdate>
+    <lastupdateddate>2014-04-22 16:52:48</lastupdateddate>
+    <lastlogindate>2014-04-22 16:44:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="313">Amazing Grace</fav>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+        <fav category="default" type="h" num="1349">Sowing in the morning</fav>
+    </favourites>
+</user>

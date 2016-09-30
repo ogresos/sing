@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Blessed are those who wash their robes</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:338"/><lsmyp num="380"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Jacques Wilmore">J. W.</composer>
+  </creators>
+  <hymncode>1115556543334555432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - F/C | C - F/C - | C - C/E F | Gsus4 - G7 - | C - - F/C | C - F/C - | C - C/E F | Gsus4 - G7 - | C/E - G7/D - | C - G7 - | C/E - G7/D - | C - G7 - | F - G7 - | C - - - | Am - - - | Em - - - | Dm - - - | Dm7 - - - | Am - - - | Em - - - | Dm - - - | Dm - - - | G - - - | G7 - - - |</chords>
+  <melody>| 0 - - (Verse_1) 1// 1// 1/ | 5( - 5/) 5/ 5/ 6/ | 5( - 4) - | 3/ 3/ 3/ 4/ 5/ 5// 5// 4/ 3/ | 2 - - 1// 1// 1/ | 5( - 5/) 5/ 5/ 6/ | 5( - 4) - | 3/ 3/ 3/ 4/ 5/ 5// 5// 4/ 3/ (break) | 2 - - (Verse_2) 3/ 4/ | 5/ 5/ 6/ 5/ 4/ 4/ 5/ 4/ | 3/ 3/ 4./ 3// 2 3/ 4/ | 5/ 5/ 6/ 5/ 4/ 4/ 5/ 4/ | 3/ 3/ 4./ 3// 2 2/ 2// 3// | 2 1 - 1// 1// 2/ | 1 - - - (break) | (Verse_3) 6 6./ 6// 3 6 | 5 5./ 6// 5./( 4//) 3./ 3// | 2 2./ 3// 2( - | 2) - - 0./ 6// | 6 6./ 6// 6 6./ 6// | 5/ 6/ 5/ 4/ 3 - | 2// 2// 2/ 2/ 3/ 2/ 3/ 2 | 2// 2// 2/ 2/ 3/ 2/ 3/ 2 | 5 - 6 - | 5 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Bless -- ed are those who wash their robes That they might have right to the tree of life. Bless -- ed are those who wash their robes That they might have right to the tree of life. And may en -- ter, and may en -- ter, and may en -- ter by the gates And may en -- ter, and may en -- ter, and may en -- ter by the gates In -- to the ci -- ty, bless -- ed are those. I am the Al -- pha and the O -- me -- ga, The First and the Last, The First and the Last. The Be -- gin -- ning and the End, Bless -- ed are those who wash their robes, Bless -- ed are those who wash their robes, Wash their robes!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Revelation 22:13-14</link>
+  </links>
+  <music>
+    <midi location="ns" length="53">ns0338.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Blessed are those who wash their robes
+That they might have right to the tree of life.
+Blessed are those who wash their robes
+That they might have right to the tree of life.</stanza>
+    <stanza type="verse" number="2">And may enter, and may enter, and may enter by the gates
+And may enter, and may enter, and may enter by the gates
+Into the city, blessed are those.</stanza>
+    <stanza type="verse" number="3">I am the Alpha and the Omega,
+The First and the Last,
+The First and the Last.
+The Beginning and the End,
+Blessed are those who wash their robes,
+Blessed are those who wash their robes,
+Wash their robes!</stanza>
+    <stanza type="note" number="">(Repeat 1 and 2)</stanza>
+  </lyrics>
+</hymn>

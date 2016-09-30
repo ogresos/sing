@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dann werden die Erlösten des Herrn heimkehrn</title>
+  <index>true</index>
+  <category>SCHRIFTSTELLEN ZUM SINGEN</category>
+  <numbers><cebuano num="1341"/><chinese num="ts:505"/><english num="1341"/><german num="1341"/><spanish num="498"/></numbers>
+  <melody>| 0 5 5/ 5/ 6./ 3// | 5 6./ 3// 5 6./( 3//) | 5 - 0 ._3./ ._2// | ._1/ ._1 - ._1/ 6./ ._1// (break) | ._2/ ._1. - ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2/ ._2/ ._1 7 | ._1 - - - (break) | 0 5 5/ 5/ 6./ 3// | 5 6./ 3// 5 6./( 3//) | 5 - 0 ._3./ ._2// | ._1/ ._1 - ._1/ 6./ ._1// (break) | ._2/ ._1. - ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2/ ._2/ ._1 7 | ._1 - - - (break) | 0 ._1 ._1 ._1 | ._1 - ._1( - | ._1) ._1 7 6 | 5 - - - | 0 ._1 ._1 6( | 6) ._1 ._1 6( | [2/4] 6./) ._3// ._2./ ._1// | [4/4] ._2 - - - (break) | 0 5 5/ 5/ 6./ 3// | 5 6./ 3// 5 6./( 3//) | 5 - 0 ._3./ ._2// | ._1/ ._1 - ._1/ 6./ ._1// (break) | ._2/ ._1. - ._1./ ._2// | ._3 ._3./( ._2//) ._1. ._3/ | ._2 ._2/ ._2/ ._1 7 | ._1( - - - | ._1) 0 - - |</melody>
+  <layout>
+    <singingstanza>Dann wer -- den die Er -- lös -- ten des Herrn heim -- kehrn, Und nach Zi -- on kom -- men mit Jauch -- zen; Und auf ih -- rem Haupt wird e -- wi -- ge Freu -- de sein. Dann wer -- den die Er -- lös -- ten des Herrn heim -- kehrn: Und nach Zi -- on kom -- men mit Jauch -- zen; Und auf ih -- rem Haupt wird e -- wi -- ge Freu -- de sein. Won -- ne und Freu -- de wer -- den ein -- kehrn, Und Kum -- mer und Seuf -- zer voll -- auf ent -- fliehn. Dann wer -- den die Er -- lös -- ten des Herrn heim -- kehrn: Und nach Zi -- on kom -- men mit Jauch -- zen; Und auf ih -- rem Haupt wird e -- wig -- e Freu -- de sein.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Isaiah 51:11</link>
+  </links>
+  <music>
+    <midiref type="h" num="1341"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Dann werden die Erlösten des Herrn heimkehrn,
+Und nach Zion kommen mit Jauchzen;
+Und auf ihrem Haupt wird ewige Freude sein.
+Dann werden die Erlösten des Herrn heimkehrn:
+Und nach Zion kommen mit Jauchzen;
+Und auf ihrem Haupt wird ewige Freude sein.</stanza>
+  </lyrics>
+</hymn>

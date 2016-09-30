@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jo</firstname>
+    <lastname>Johnson</lastname>
+    <email>jo_johnson@yahoo.com</email>
+    <password>7mL7lJqcPJT%2FQN5kfoo2aQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>67.219.169.47</ipaddress>
+    <createdate>2013-03-03 15:58:11</createdate>
+    <lastupdateddate>2013-03-03 16:00:02</lastupdateddate>
+    <lastlogindate>2013-03-03 15:58:11</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1085">His Name is Wonderful</fav>
+    </favourites>
+</user>

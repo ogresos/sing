@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God has made all things</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <composer biodate="1847-1908" biolink="">Adapted from Winfield Scott Weeden</composer>
+  </creators>
+  <hymncode>1765476543</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C/E - | Dm - - - | G - G7/B - | C - - - | C - G/D - | C/E - F - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>God has made all things, The Cre -- a -- tor He&amp;mdash; Ev -- ery -- thing that God cre -- at -- ed Was made per -- fect -- ly.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="16">c0028.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God has made all things,
+The Creator He&amp;mdash;
+Everything that God created
+Was made perfectly.</stanza>
+    <stanza type="verse" number="2">God has made all things,
+Made them perfectly&amp;mdash;
+What a wonderful creation
+Everything we see.</stanza>
+    <stanza type="verse" number="3">God has made all things,
+Made them perfectly&amp;mdash;
+What a wonderful Creator
+In His work we see!</stanza>
+  </lyrics>
+</hymn>

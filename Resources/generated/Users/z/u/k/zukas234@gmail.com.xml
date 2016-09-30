@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Onwujiuba</firstname>
+  <lastname>Izuchukwu</lastname>
+  <email>zukas234@gmail.com</email>
+  <password>$2y$10$F7fn7FERTHYFt8qhpWwT4.umx8rX.uLGnIPFLR1WugW/PfxqeG3Ii</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>197.211.60.8</ipaddress>
+  <createdate>2016-08-11 23:56:47</createdate>
+  <lastupdateddate>2016-08-12 06:36:47</lastupdateddate>
+  <lastlogindate>2016-08-12 00:02:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="994">Oh, how dark the night that wrapt my spirit round</fav>
+    <fav category="default" type="h" num="245">Oh, spread the tidings 'round, wherever man is found</fav>
+    <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="587">Tis so sweet to walk with Jesus</fav>
+    <fav category="default" type="h" num="1034">Whosoever heareth! shout, shout the sound</fav>
+  </favourites>
+</user>

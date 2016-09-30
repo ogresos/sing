@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Audy</firstname>
+  <lastname>Walker</lastname>
+  <email>audywalker@gmail.com</email>
+  <password>$2y$10$NExO/r.lzaoVLFXmd.XCxOaUh4PVUVVucYxwpQtzAav20wjOA5R8e</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>97.82.134.188</ipaddress>
+  <createdate>2016-08-08 01:33:16</createdate>
+  <lastupdateddate>2016-08-23 14:33:53</lastupdateddate>
+  <lastlogindate>2016-08-23 14:33:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="317">Dear Savior, Thou art mine</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="755">He healeth me, oh, bless His name</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="685">Lord, Thou art with me</fav>
+    <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+    <fav category="default" type="h" num="286">Of Jesus' love that sought me</fav>
+    <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+    <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+    <fav category="default" type="h" num="895">To the work! to the work! we are servants of God</fav>
+    <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+  </favourites>
+</user>

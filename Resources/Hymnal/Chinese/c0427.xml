@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>無論何處要我跟隨</title>
+  <index>true</index>
+  <category>經歷基督－跟隨祂</category>
+  <numbers><chinese num="427"/><english num="586"/><korean num="427"/><tagalog num="586"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Ernest W. Blandly</author>
+  </creators>
+  <melody>| 0 - - 5_../ 1// | 3. 3/ 4. 3/ | 3/ 2. 0 5_../ 7_.// | 2. 1/ 3. 2/ (break) | 2/ 1. 0 1./ 3// | 5. 5/ 6. 3/ | 5/ 4. 0 1./ 2// | 3// (.5_../ 3// (.5_../ 2. 1/ (break) | 1 - - (Chorus) 5_../ 1// | 3. 3/ 4. 3/ | 3/ 2. 0 5_../ 7_.// | 2. 1/ 3. 2/ (break) | 2/ 1. 0 1./ 3// | 5. 5/ 6. 3/ | 5/ 4. 0 1./ 2// | 3// (.5_../ 3// (.5_../ 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 今 聽 見 救 主 招 呼， 我 今 聽 見 救 主 招 呼， 我 今 聽 見 救 主 招 呼， 要 我 跟 祂， 跟 祂 走 窄 路。 無 論 何 處 要 我 跟 隨， 無 論 何 時 要 我 跟 隨， 無 論 禍 福， 無 論 安 危， 要 我 跟 隨， 跟 隨， 不 稍 退。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="586"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我今聽見救主招呼，
+我今聽見救主招呼，
+我今聽見救主招呼，
+要我跟祂，跟祂走窄路。</stanza>
+	<stanza type="chorus" number="">無論何處要我跟隨，
+無論何時要我跟隨，
+無論禍福，無論安危，
+要我跟隨，
+跟隨，不稍退。</stanza>
+	<stanza type="verse" number="2">我今答應救主招呼，
+我今答應救主招呼，
+我今答應救主招呼，
+甘願一生，
+一生，跟隨主。</stanza>
+	<stanza type="chorus" number="">無論何處我必跟隨，
+無論何時我必跟隨，
+無論禍福，無論安危，
+我必跟隨，
+跟隨，不稍退。</stanza>
+	<stanza type="verse" number="3">撇下親人，捨棄世福，
+撇下親人，捨棄世福，
+撇下親人，捨棄世福，
+甘願一生，
+一生，跟隨主。</stanza>
+	<stanza type="verse" number="4">背起十架，行走窄路，
+背起十架，行走窄路，
+背起十架，行走窄路，
+甘願一生，
+一生，跟隨主。</stanza>
+	<stanza type="verse" number="5">一直向前，必不回顧，
+一直向前，必不回顧，
+一直向前，必不回顧，
+甘願一生，
+一生，跟隨主。</stanza>
+  </lyrics>
+</hymn>

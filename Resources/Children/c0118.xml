@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Diligence, Faithfulness</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <hymncode>3456427127123</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - |</chords>
+  <melody>| 3 4/ 5/( 5) - | 6 4/ 2/( 2) - (break) | 7_. 1/ 2/( 2) 7_. | 1 2/ 3/( 3) - (break) | 3 4/ 5/( 5) - | 6 4/ 2/( 2) - (break) | 7_. 1/ 2/( 2) 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Dil -- i -- gence, faith -- ful -- ness, Per -- se -- ver -- ance stands the test. Dil -- i -- gence, faith -- ful -- ness, Per -- se -- ver -- ance, YES!</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="16">c0118.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Diligence, faithfulness,
+Perseverance stands the test.
+Diligence, faithfulness,
+Perseverance, YES!</stanza>
+  </lyrics>
+</hymn>

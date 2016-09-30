@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О, поток! Будем в нём труд Господень вершить</title>
+  <index>true</index>
+  <category>СЛУЖЕНИЕ&amp;mdash;В ПОТОКЕ</category>
+  <numbers><cebuano num="909"/><chinese num="653"/><dutch num="45"/><english num="909"/><french num="169"/><german num="909"/><korean num="653"/><portuguese num="423"/><russian num="431"/><spanish num="407"/><tagalog num="909"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 2/ 3/ | 4 4./ 3// 4 3/ 4/ (break) | 6 5./ 4#// (.5 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 3/ 3/ | 2 5/ 5/ 4# 5/ 6/ (break) | 7 7./ 6// (.5 (Chorus) 3./ 4// | 5 - - ._1./ 3// | 2 - - 2./ 3// | 4 - - 5./ 4// (break) | 3 - - 3./ 4// | 5 - - ._1./ 7// | 6 - - 7 | ._1/ 5/ 6./ 4// 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="895"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О, поток! Будем в нём труд Господень вершить
+Так, как в слове Своём Сам Господь говорит.
+Пусть Его жизнь течёт, силы нам придаёт,
+Пусть для царства и церкви работа идёт.</stanza>
+	<stanza type="chorus" number="">О поток! Будем в нём
+Всю работу вершить.
+О поток! Будем в нём
+В единстве Господу служить.</stanza>
+	<stanza type="verse" number="2">О поток! Будем с Господом в нём труд вершить,
+В свете Слова, в течении Духа служить.
+Ничего от себя делать мы не хотим –
+Мы все вместе в согласии силы сплотим.</stanza>
+	<stanza type="verse" number="3">О поток! Будем в Господе в нём труд вершить,
+В церкви вместе со всеми святыми служить.
+В Слове жизнь будем людям обильно давать,
+Чтоб в теченье живом Божий план исполнять.</stanza>
+  </lyrics>
+</hymn>

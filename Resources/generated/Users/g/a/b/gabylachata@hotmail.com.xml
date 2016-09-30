@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Preciado</firstname>
+    <lastname>Gabriela</lastname>
+    <email>gabylachata@hotmail.com</email>
+    <password>$1$/mcsknNa$1BGnyNw.6bKqv5aNXLBgi1</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>75.140.14.200</ipaddress>
+    <createdate>2008-07-26 01:43:05</createdate>
+    <lastupdateddate>2012-12-16 03:21:34</lastupdateddate>
+    <lastlogindate>2012-12-16 03:21:34</lastlogindate>
+    <failedlogincount>3</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="h" num="1303">The kingdom of God is at hand</fav>
+    </favourites>
+</user>

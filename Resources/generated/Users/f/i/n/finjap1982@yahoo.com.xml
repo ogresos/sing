@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jane</firstname>
+    <lastname>Patsakos</lastname>
+    <email>finjap1982@yahoo.com</email>
+    <password>3H7Hs3MbaD16y3RwXa9vdQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>69.214.13.184</ipaddress>
+    <createdate>2012-12-21 19:41:18</createdate>
+    <lastupdateddate>2013-04-15 19:42:09</lastupdateddate>
+    <lastlogindate>2013-04-15 19:41:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

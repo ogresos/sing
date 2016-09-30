@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname>Theimer</lastname>
+  <email>skthei43@students.campbellsville.edu</email>
+  <password>$2y$10$Cb.gNwg.nfYsfncDnJKASePRH4pf2r2JDhMmt8rKySlxmT94jE.3y</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>184.58.23.72</ipaddress>
+  <createdate>2011-07-15 23:30:19</createdate>
+  <lastupdateddate>2016-03-15 14:17:27</lastupdateddate>
+  <lastlogindate>2016-03-15 14:14:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1343">A new commandment</fav>
+    <fav category="default" type="ns" num="101">All things work together for good</fav>
+    <fav category="default" type="ns" num="271">Always rejoice</fav>
+    <fav category="default" type="ns" num="314">And they sing a new song</fav>
+    <fav category="default" type="h" num="1291">At the end of Luke's gospel, chapter twenty and two</fav>
+    <fav category="default" type="ns" num="444">But of Him you are in Christ Jesus</fav>
+    <fav category="default" type="ns" num="289">But the God of all grace</fav>
+    <fav category="default" type="ns" num="318">But to Him who is able to do superabundantly</fav>
+    <fav category="default" type="ns" num="327">But you, O man of God, flee these things</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="279">Definition of Love</fav>
+    <fav category="default" type="ns" num="445">Hebrews 1:3</fav>
+    <fav category="default" type="ns" num="15">I am crucified with Christ (U.S.A.)</fav>
+    <fav category="default" type="ns" num="237">I beseech you</fav>
+    <fav category="default" type="nt" num="721">I'll sing of the wonderful promise</fav>
+    <fav category="default" type="ns" num="142">In nothing be anxious</fav>
+    <fav category="default" type="ns" num="155">Let the Word of Christ dwell in you</fav>
+    <fav category="default" type="nt" num="434">Lord, Thou hast won, at length I yield</fav>
+    <fav category="default" type="h" num="1346">Now unto the King eternal, immortal, invisible</fav>
+    <fav category="default" type="h" num="1344">Oh, the depth of the riches</fav>
+    <fav category="default" type="c" num="6">Oh, the grass will wither</fav>
+    <fav category="default" type="h" num="900">Oh, to be nothing, nothing</fav>
+    <fav category="default" type="ns" num="268">Search me, O God, and know my heart</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="ns" num="85">Set your mind on the things that are above</fav>
+    <fav category="default" type="h" num="898">The love of Christ constraineth</fav>
+    <fav category="default" type="ns" num="384">Things which eye has not seen</fav>
+    <fav category="default" type="h" num="731">Why should I fear the darkest hour</fav>
+  </favourites>
+</user>

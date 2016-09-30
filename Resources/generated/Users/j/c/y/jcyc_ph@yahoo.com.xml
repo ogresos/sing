@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James</firstname>
+  <lastname>Chuah</lastname>
+  <email>jcyc_ph@yahoo.com</email>
+  <password>$2y$10$MEiFangj3Jzr1PmDkVsuWOgqNKTMaKGSUJmBS0JJwuQ/ifXJ1hcWK</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>203.215.121.183</ipaddress>
+  <createdate>2015-05-03 04:41:32</createdate>
+  <lastupdateddate>2015-11-12 22:31:33</lastupdateddate>
+  <lastlogindate>2015-11-12 22:31:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

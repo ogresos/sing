@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles/>
+  <firstname>elizabeth</firstname>
+  <lastname>dayro</lastname>
+  <email>chai_trez@yahoo.com</email>
+  <password>$1$kxMzHGQn$X6RHPdLAjXvNddqJihxBp1</password>
+  <gender>F</gender>
+  <country>Philippines</country>
+  <ipaddress>222.127.223.70</ipaddress>
+  <createdate>2008-11-02 08:53:06</createdate>
+  <lastupdateddate>2015-05-18 13:21:31</lastupdateddate>
+  <lastlogindate>2015-05-18 13:21:31</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="20">What's the use? There is no hope for me</fav>
+  </favourites>
+</user>

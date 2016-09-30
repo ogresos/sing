@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Trust in the Lord with all your heart</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Trusting the Lord</category>
+  <creators>
+    <composer biodate="1971" biolink="">Karen Lafferty</composer>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - 3( 2) | 1( 6_.) 1( 2) | 3 - - - (break) | 4 4 5 4 | 3 - 4 3 | 2 - - - | 5 - - 0 (break) | 3 - 3 4 | 5 - 3( 2) | 1( 6_.) 1( 2) | 3 - - - (break) | 4 - 5 4 | 3 - 4 3 | 2( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Trust in the Lord with all your heart, Lean not to your own un -- der -- stand -- ing. In all your ways ac -- knowl -- edge Him, And He shall di -- rect your paths.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Proverbs 3:5</link>
+  </links>
+  <music>
+    <midiref type="ns" num="120"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Trust in the Lord with all your heart,
+Lean not to your own understanding.
+In all your ways acknowledge Him,
+And He shall direct your paths.</stanza>
+  </lyrics>
+</hymn>

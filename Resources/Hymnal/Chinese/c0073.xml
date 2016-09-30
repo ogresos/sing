@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主接納我們的詩歌</title>
+  <index>true</index>
+  <category>讚美主－祂的降卑</category>
+  <numbers><cebuano num="90"/><chinese num="73"/><english num="90"/><korean num="73"/><tagalog num="90"/></numbers>
+  <creators>
+	<author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>主， 接 納 我 們 的 詩 歌， 雖 然 聲 音 頂 柔 弱； 我 們 述 說 你 的 恩 篤， 因 你 是 我 們 救 主。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，接納我們的詩歌，
+雖然聲音頂柔弱；
+我們述說你的恩篤，
+因你是我們救主。</stanza>
+	<stanza type="verse" number="2">因你捨去榮耀、豐富，
+你的信徒纔得福；
+你變貧窮，叫你信徒
+因你享榮耀、豐富。</stanza>
+	<stanza type="verse" number="3">天上有何使你心厭？
+世界有何使你羨？
+因而你就離天臨世，
+孤單、淒涼直到死？</stanza>
+	<stanza type="verse" number="4">你在天上何等榮耀！
+你在世上何蕭條！
+你早已知此行艱難，
+只因愛我竟甘願。</stanza>
+	<stanza type="verse" number="5">當我想到你的良善，
+就不禁又喜又慚！
+喜，因你能這樣愛好；
+慚，因我這樣還報。</stanza>
+	<stanza type="verse" number="6">但我們望那日快到，
+脫盡所有的阻撓；
+那時我們進榮耀裡，
+要照本分服事你。</stanza>
+	<stanza type="verse" number="7">現今我們等在這裡，
+因這盼望受策勵；
+主，使我們活著為你，
+直到你前同聚集。</stanza>
+  </lyrics>
+</hymn>

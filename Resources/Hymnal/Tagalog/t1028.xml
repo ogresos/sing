@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus magiliw na tumatawag -</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG PAGTAWAG NG PANGINOON</category>
+  <numbers><cebuano num="1028"/><chinese num="708"/><english num="1028"/><korean num="708"/><tagalog num="1028"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1028"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus magiliw na tumatawag -
+Ngayon sa iyo'y tumatawag!
+Bakit lumalayo sa pag-ibig,
+Lumalayo nang higit?</stanza>
+    <stanza type="chorus" number="">Ngayong sa iyo'y, tumatawag!
+Si Hesus ngayo'y magiliw na tumatawag!</stanza>
+    <stanza type="verse" number="2">Sa pagod, si Hesus tumatawag,
+Ngayon sa iyo'y tumatawag!
+Kabigatan Mo sa Kanya'y dalhin,
+Di ka Niya bibiguin.</stanza>
+    <stanza type="verse" number="3">Parito na, Hesus naghihintay!
+Ngayon Siya ay naghihintay!
+Kasalanan mo'y dalhin sa Kanya;
+Huwag ka nang mag-antala.</stanza>
+    <stanza type="verse" number="4">Hesus nag'sumamo, pakinggan Siya!
+Ngayon nga'y pakinggan mo Siya!
+Magagalak ang sumampalataya
+Magmadali't sumama!</stanza>
+  </lyrics>
+</hymn>

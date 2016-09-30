@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Mark</firstname>
+    <lastname>Schario</lastname>
+    <email>markschario@sbcglobal.net</email>
+    <password>zfhRYwPSfrzyZJc8IvuaSQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>66.87.2.66</ipaddress>
+    <createdate>2012-01-25 09:38:58</createdate>
+    <lastupdateddate>2012-01-25 09:47:43</lastupdateddate>
+    <lastlogindate>2012-01-25 09:39:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

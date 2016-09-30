@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dios Amahan nisanong mi Nimo</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;GIDAYEG SIYA SA DAGHANG MGA ANAK</category>
+  <numbers><cebuano num="51"/><chinese num="46"/><english num="51"/><german num="51"/><korean num="46"/><tagalog num="51"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 2 - 2 3 | 4 - 2 - | 5 4 3 2 | 3 - - 5 (break) | 6 - 5 - | 4 - - 3 | 5 4 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="51"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dios Amahan nisanong mi Nimo,
+Mga anak;
+Gihimong takus ug gipagawas,
+Makaduol;
+Nindot hunahunaong daghan mi,
+Samang Cristo himo'ng kalipay Mo!</stanza>
+	<stanza type="verse" number="2">Diha Niya kami nakaambit
+Sa grasya Mo;
+Way butang nga gihigugma Nimo,
+Labaw Niya;
+Makitang gloria N'ya's presensya Mo,
+Uban ming magpa'mulos' gugma Mo!</stanza>
+	<stanza type="verse" number="3">Kalipay Niya dinhi mag-awit,
+Pagdayeg Nimo;
+Matandog mga anak mag-awit,
+Usang tingog;
+Sa pagsimba Kanimo, Amahan,
+Nga tinubdan ug labaw sa tanan!</stanza>
+  </lyrics>
+</hymn>

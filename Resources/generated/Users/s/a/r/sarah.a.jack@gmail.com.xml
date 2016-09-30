@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname>Jack</lastname>
+  <email>sarah.a.jack@gmail.com</email>
+  <password>$2y$10$R3k94/XfcY4.7A2Dt8PshuX4jbGSUWo1QzuTLdH6Tp.SeoB4.fAYO</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>156.62.3.76</ipaddress>
+  <createdate>2015-07-24 00:23:03</createdate>
+  <lastupdateddate>2015-07-24 00:25:11</lastupdateddate>
+  <lastlogindate>2015-07-24 00:25:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

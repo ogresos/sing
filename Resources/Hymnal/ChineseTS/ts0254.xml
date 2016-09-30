@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>住在葡萄樹上</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><chinese num="ts:254"/><english num="1162"/><portuguese num="288"/><spanish num="265"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Frank Scavo">Translated from F. S.</author>
+  </creators>
+  <melody>| 3/ 3 2#/ 3/ 3 2#/ | 3/ 5/( 5) - - | 3/ 3 2#/ 3/ 3 2#/ | 2 - - - (break) | 3/ 3 2#/ 3/ 3 2#/ | 3/ 5/( 5) - 1/ 2/ | 3/ 5 4/ 3/ 3/ 2/ 2/ (break) | 1( - - 1/) (Chorus) 1/ | 4./ 4// 4/ 5/ 6. 4/ | 3./ 3// 3/ 4/ 5 - | 4# 4# 4# 4# | 4#/ 2/ 3/ 4#/ 5 - (break) | 3/ 3 2#/ 3/ 2/ 1 | 4/ 4 5/ 6/ 5/ 4/ 6/ | 5/ 5 4/ 3/ 3/ 2/ 2/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>生 活 祕 訣 歡 然 尋 得， 神 聖 異 象 照 明 亮： 蒙 神 接 枝 在 基 督 裏， 如 同 枝 子 住 在 葡 萄 樹 上。 讚 美 神 使 我 們 得 住 葡 萄 樹 上， 神 聖 生 命 豐 富 得 全 享！ 住 在 葡 萄 樹 上， 留 此 不 再 他 往； 哦， 我 們 安 住 葡 萄 樹 上！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1162"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">生活祕訣歡然尋得，
+神聖異象照明亮：
+蒙神接枝在基督裏，
+如同枝子住在葡萄樹上。</stanza>
+	<stanza type="chorus" number="">讚美神使我們
+得住葡萄樹上，
+神聖生命豐富得全享！
+住在葡萄樹上，
+留此不再他往；
+哦，我們安住葡萄樹上！</stanza>
+	<stanza type="verse" number="2">不再徒然掙扎、努力，
+尋求如何得進入；
+奇妙事實-我在主裏；
+奧妙聯結-葡萄樹是住處。</stanza>
+	<stanza type="verse" number="3">只要住在葡萄樹上，
+內裏膏抹必不斷，
+帶來神聖寶貴素質，
+滋潤、浸透，時時充滿加添。</stanza>
+	<stanza type="verse" number="4">如此活在生命流中，
+神聖之光常放明；
+神人互住，安息穩固，
+神的心意在此盡得完成。</stanza>
+  </lyrics>
+</hymn>

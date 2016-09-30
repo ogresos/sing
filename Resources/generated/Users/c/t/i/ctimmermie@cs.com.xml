@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cynthia</firstname>
+  <lastname/>
+  <email>ctimmermie@cs.com</email>
+  <password>$2y$10$9mKxRtgMONUEcMor3YL3Y.AxLMd3rC/fTvFaAG1j5naxoRzqe.8jW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.241.161.25</ipaddress>
+  <createdate>2014-09-12 02:18:25</createdate>
+  <lastupdateddate>2014-09-12 02:27:07</lastupdateddate>
+  <lastlogindate>2014-09-12 02:20:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="h" num="670">Take the name of Jesus with you</fav>
+  </favourites>
+</user>

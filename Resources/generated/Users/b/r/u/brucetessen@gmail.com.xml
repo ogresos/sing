@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bruce</firstname>
+  <lastname>Tessen</lastname>
+  <email>brucetessen@gmail.com</email>
+  <password>$2y$10$GpCsTI0O4ER6oSyfZaKiLexry8iJC8kbbi2u6YRLBgPaCJspSzdRK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>63.152.223.81</ipaddress>
+  <createdate>2015-01-29 08:16:41</createdate>
+  <lastupdateddate>2015-01-29 08:18:02</lastupdateddate>
+  <lastlogindate>2015-01-29 08:18:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

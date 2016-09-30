@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Cao</firstname>
+<lastname>KongQuan</lastname>
+<email>caokongquan@gmail.com</email>
+<password>$1$zyLYaXTK$A8G5Z.I8HXLZWx4DDcWXq/</password>
+<gender>M</gender>
+<country>China</country>
+<ipaddress>203.234.54.184</ipaddress>
+<createdate>2009-06-06 08:31:47</createdate>
+<lastupdateddate>2009-09-15 19:16:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    </favourites>
+</user>

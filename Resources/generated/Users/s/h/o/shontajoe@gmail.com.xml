@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>LaShonta'</firstname>
+  <lastname>Joe</lastname>
+  <email>shontajoe@gmail.com</email>
+  <password>$2y$10$hy.Neb9Xc2naLI.w0ZBQoObiTpBIKG/xJtEeaPPkGjwyh4cJUzuwi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.2.126</ipaddress>
+  <createdate>2016-06-27 02:54:07</createdate>
+  <lastupdateddate>2016-07-30 22:15:48</lastupdateddate>
+  <lastlogindate>2016-07-30 22:15:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="106">A Place for Everything</fav>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="1046">Almost persuaded</fav>
+    <fav category="default" type="h" num="1032">Come, ye sinners, poor and wretched</fav>
+    <fav category="default" type="h" num="878">Conquering now and still to conquer</fav>
+    <fav category="default" type="h" num="616">Day is dying in the west</fav>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+    <fav category="default" type="c" num="78">God is So Good to Me!</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="1055">I am sinful, I am helpless</fav>
+    <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="1222">Sing aloud your praises to the Lord of all</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="561">Thou hast said Thou art the Vine, Lord</fav>
+    <fav category="default" type="h" num="1014">Verily, verily</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

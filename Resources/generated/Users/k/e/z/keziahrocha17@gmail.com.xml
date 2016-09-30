@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Keziah</firstname>
+  <lastname>Sue</lastname>
+  <email>keziahrocha17@gmail.com</email>
+  <password>$2y$10$IqByqf1OM3LzM0z5QrIOL.2dmo75R57pk04GBXyWVi2Hg5Ok.j5Cu</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>186.236.203.41</ipaddress>
+  <createdate>2014-11-10 01:46:41</createdate>
+  <lastupdateddate>2014-11-10 02:03:19</lastupdateddate>
+  <lastlogindate>2014-11-10 02:00:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="3">God has a dream</fav>
+  </favourites>
+</user>

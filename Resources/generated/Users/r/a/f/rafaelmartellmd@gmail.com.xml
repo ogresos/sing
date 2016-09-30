@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rafael</firstname>
+  <lastname>Martell</lastname>
+  <email>rafaelmartellmd@gmail.com</email>
+  <password>$2y$10$XSI5LS6aHcdD4edxJF5H3uRn6Sd.IqcjGjBd4.ranU7lK6ch23lvu</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>208.124.191.234</ipaddress>
+  <createdate>2014-12-29 21:32:46</createdate>
+  <lastupdateddate>2015-09-19 13:59:38</lastupdateddate>
+  <lastlogindate>2015-09-19 13:59:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1316">Our Bridegroom soon is coming</fav>
+  </favourites>
+</user>

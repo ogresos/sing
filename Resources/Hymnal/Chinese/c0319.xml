@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>每一點每一天</title>
+  <index>true</index>
+  <category>羨慕－恩典</category>
+  <meter>7.9.7.9. with chorus.</meter>
+  <hymncode>3212165556151322</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>我 無 能 力， 我 的 主， 無 法 孤 獨、 孤 獨 的 站 立； 我 的 軟 弱 成 祝 福， 如 果 完 全、 完 全 倚 靠 你。 每 一 點， 每 一 天， 我 是 一 樣 需 恩 典， 我 仍 一 樣 是 無 倚， 求 你 更 多、 更 多 顯 自 己。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0319_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我無能力，我的主，
+無法孤獨、孤獨的站立；
+我的軟弱成祝福，
+如果完全、完全倚靠你。</stanza>
+	<stanza type="chorus" number="">每一點，每一天，
+我是一樣需恩典，
+我仍一樣是無倚，
+求你更多、更多顯自己。</stanza>
+	<stanza type="verse" number="2">我的路途真孤苦，
+時常疲倦、疲倦不唱詩；
+我不認識我路途，
+你能使我、使我不迷失。</stanza>
+	<stanza type="verse" number="3">我的感覺常改變，
+一切可厭、可厭無價值；
+當我眼睛看不見，
+正是我主、我主最近時。</stanza>
+	<stanza type="verse" number="4">我是孤單，我的主，
+不易喜樂、喜樂並忍耐；
+若無甘甜的眷顧，
+和你祕密、祕密的同在。</stanza>
+	<stanza type="verse" number="5">時日飛逝河水高，
+不久我要、我要橫度過；
+四圍冷靜我獨禱，
+求你記念、記念我軟弱。</stanza>
+  </lyrics>
+</hymn>

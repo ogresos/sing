@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, tan-awa ako</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MAGAWAS SA KAUGALINGON</category>
+  <numbers><cebuano num="413"/><chinese num="311"/><english num="413"/><korean num="311"/><russian num="457"/><tagalog num="413"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, tan-awa ako,
+Hatagi ko's kayano;
+Pakab'sa, paaghopa,
+Mangita Kanimo ra.</stanza>
+    <stanza type="verse" number="2">Gilutas' pagbuot ko,
+Ug sa akong kahakog;
+Sa pagkamayubiton,
+Ug kahangol nga daygon.</stanza>
+    <stanza type="verse" number="3">Isalikway ang tanang
+Makapagarbong butang;
+Pagbuot ipasakop,
+Sa tiilan ni Jesus.</stanza>
+    <stanza type="verse" number="4">Himoang sama's bata,
+Kaalam mangawala;
+Makakita's kahayag,
+Maglakaw ra's gahum Mo.</stanza>
+    <stanza type="verse" number="5">Magpa'raray's dughan Mo,
+Ang gikapoyng kalag ko;
+Dunay kalinaw sa Dios
+Tungod's mahal Mong dugo.</stanza>
+    <stanza type="verse" number="6">Magpabilin's dughan Mo,
+Adlaw-adlaw magdayeg;
+Hangtud's kamatayon ko,
+Sa gihapon magdayeg.</stanza>
+  </lyrics>
+</hymn>

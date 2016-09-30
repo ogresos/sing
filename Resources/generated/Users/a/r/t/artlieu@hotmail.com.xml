@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Arthur</firstname>
+    <lastname>Lieu</lastname>
+    <email>artlieu@hotmail.com</email>
+    <password>v2ZuHvziLhID1xSCR6Tt5Q%3D%3D</password>
+    <gender></gender>
+    <country>ca</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-06-07 03:08:12</createdate>
+    <lastupdateddate>2014-06-07 03:08:12</lastupdateddate>
+    <lastlogindate>2014-06-07 02:18:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing Grace</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="h" num="1134">Oh, strengthen my spirit, Lord Jesus</fav>
+    </favourites>
+</user>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌發聲要召你</title>
+  <index>true</index>
+  <category>福音－主的呼召</category>
+  <numbers><cebuano num="1028"/><chinese num="708"/><english num="1028"/><korean num="708"/><tagalog num="1028"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 5 5 5 5 3 4 | 5 6 7 ._1 - - | ._1 7 6 7 - - | 6 5 4# 5 - - (break) | 5 5 5 5 3 4 | 5 6 7 ._1 - - | 7 6 7 ._2 ._1 6 | 5( - - 5) - 0 (break) | (Chorus) ._1( - - ._1) 7 6 | 7( - - 7) - 0 | ._2( - - ._2) ._1 7 | ._1( - - ._1) - 0 (break) | ._3( - - ._3) ._2 ._1 | ._1( - - ._1) 7 6 | 5. 5/ 5 5 6 7 | ._1( - - ._1) - 0 |</melody>
+  <layout>
+	<singingstanza>耶 穌 發 慈 聲 要 召 你 回 來， 今 日 召 你， 今 日 召 你！ 為 何 仍 迷 蒙， 遠 離 主 慈 懷， 終 日 流 蕩 在 苦 地？ 今 日 召 你！ 今 日 召 你！ 耶 穌 今 召 你， 今 日 發 慈 聲 呼 召 你！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1028"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌發慈聲要召你回來，
+今日召你，今日召你！
+為何仍迷蒙，
+遠離主慈懷，
+終日流蕩在苦地？</stanza>
+	<stanza type="chorus" number="">今日召你！今日召你！
+耶穌今召你，
+今日發慈聲呼召你！</stanza>
+	<stanza type="verse" number="2">耶穌在呼召勞者來得息，
+今日召你，今日召你！
+重擔卸給祂，
+無倚成有倚，
+祂要歡迎不絕棄。</stanza>
+	<stanza type="verse" number="3">耶穌在等待你來得赦免，
+今日等你，今日等你！
+可帶你罪來，
+俯伏主腳前；
+現在就來莫遲疑！</stanza>
+	<stanza type="verse" number="4">耶穌仍呼召，
+何不就聽從？今日聽祂，今日聽祂！
+來求告祂名，
+蒙恩必無窮；
+祂要賜福無復加。</stanza>
+  </lyrics>
+</hymn>

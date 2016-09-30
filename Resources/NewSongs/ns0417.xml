@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Waters to Swim in</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;The Filling</category>
+  <numbers><lsmyp num="54"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>11115577765</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | G - - - | G7 - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | Dm7 - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | F - - - | F - - - | C - - - | C - - - | F - - - | F - - - | G - - - | G - - - | F - - - | C - - - | E7 - - - | Am - - - | Dm7 - - - | Dm7 - - - | G - - - | G7 - - - | G7 - - - | G - - - | G7 - - - | C - - - | C - - - ||</chords>
+  <melody>| (startrepeat) ._1 ._1 - ._1 | ._1 5 - 5 | 7 7 7 6 | 5 - - - | 7 7 - 7 | 7 5 - 5 | ._1 ._1 ._1 6 | 5 - - - (break) | 3 3 3 4 | 5 5 - 3 | 4 4 4 5 | 6 - - - | 5 5 5 5 | 5 5 - 5 | 5 4 3 2 | 1( - - - (break) | 1)( - ._1) - | (Chorus)  (Sisters) 6 6 6 7 | ._1 ._1 - - | (Brothers) 5 6 5 3 | 5 - - - | (Sisters) 6 6 6 7 | ._1 ._1 - - | (Brothers) 7 7 7 ._1 | ._2 - - - | ._1 6 - ._1 | 5 3 - 3 | 3 4 3 2 | 1 - - - | 2 2 2 3 | 4 2 - 2 (break) | (alt1) 5 5 5 6 | 7( - - - | 7) - - 0 | (alt2) 5 - 6 - | 7 - 5 - | ._1( - - - | ._1) - - 0 (endalt) ||</melody>
+  <layout>
+    <singingstanza end="2">Wa -- ters to swim in will meet our ev -- ery need, Wa -- ter is flow -- ing and nev -- er to re -- cede; lim -- it -- ed, re -- strict -- ed by liv -- ing, flow -- ing grace, Los -- ing all our free -- dom, our soul- life is re -- placed. Drink the liv -- ing wa -- ter, Riv -- ers flow -- ing free! Wa -- ter! Liv -- ing wa -- ters! Have Your way in me! Dai -- ly in -- creas -- ing the growth of life in me, For His glo -- rious build -- ing and His re -- cov -- er -- y!</singingstanza>
+    <singingstanza2>[skip91] His re -- cov -- er -- y!</singingstanza2>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Ezekiel 47:1-5</link>
+  </links>
+  <music>
+    <midi location="ns" length="137">ns0417.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Waters to swim in will meet our every need,
+Water is flowing and never to recede;
+Limited, restricted by living, flowing grace,
+Losing all our freedom, our soul-life is replaced.</stanza>
+    <stanza type="chorus" number="">Drink the living water, (Sisters)
+Rivers flowing free! (Brothers)
+Water! Living waters! (Sisters)
+Have Your way in me! (Brothers)
+Daily increasing the growth of life in me,
+For His glorious building and His recovery!</stanza>
+    <stanza type="verse" number="2">Waters to swim in is flowing toward the east,
+Water is flowing to glory that we seek;
+Having the preeminence in life, work and home,
+The church life is a life-flow from which we never roam.</stanza>
+    <stanza type="verse" number="3">Waters to swim in, increasing stage by stage,
+Flowing and rising to consummate the age;
+Judging and testing that we, more life, possess,
+Until the living Jesus, His name, all men confess.</stanza>
+    <stanza type="chorus" number="">Drink the living water (Sisters)
+Rivers flowing free! (Brothers)
+Water! Living waters! (Sisters)
+Have Your way in me! (Brothers)
+Daily increasing the growth of life in me,
+For His glorious building and His recovery!</stanza>
+  </lyrics>
+</hymn>

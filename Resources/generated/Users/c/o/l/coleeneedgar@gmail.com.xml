@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Coleen</firstname>
+  <lastname>Edgar</lastname>
+  <email>coleeneedgar@gmail.com</email>
+  <password>$2y$10$blsl4Z6l3gvyF8Xv0SwyiOz/OImnxZ6g/JMfW0TKsjy9IIht3kEvS</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>144.131.95.66</ipaddress>
+  <createdate>2016-01-23 09:52:39</createdate>
+  <lastupdateddate>2016-07-16 05:51:19</lastupdateddate>
+  <lastlogindate>2016-07-16 05:51:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+  </favourites>
+</user>

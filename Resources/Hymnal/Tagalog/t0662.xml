@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa gol magtumulin</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA MAGTUMULIN</category>
+  <numbers><chinese num="484"/><english num="662"/><korean num="484"/><tagalog num="662"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="662"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa gol magtumulin,
+Kahit iisa rin;
+Tumawag, daa'y binuksan,
+Mangamba'y huwag naman!</stanza>
+    <stanza type="verse" number="2">Sa gol magtumulin,
+Sa iyo'y tumitingin,
+Mga matang gayang apoy,
+Ang iba'y itaboy.</stanza>
+    <stanza type="verse" number="3">Sa gol magtumulin,
+Sa harap tumingin;
+'Pagka't putong naghihintay,
+Sa iyong magtagumpay.</stanza>
+    <stanza type="chorus" number="">4Sa gol magtumulin,
+Bulag ma't bingi rin;
+Sa daang may tandang dugo,
+Habulin si Kristo.</stanza>
+  </lyrics>
+</hymn>

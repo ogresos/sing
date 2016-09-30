@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Возможно ль, что, меня любя</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ИСКУПЛЕНИЕ</category>
+  <numbers><chinese num="681"/><english num="999"/><korean num="681"/><russian num="163"/><spanish num="464"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+    <author biodate="1843-1901" biolink="">Translated from Ralph Erskine Hudson, chorus</author>
+  </creators>
+  <melody>| 0 - - 1 | 3. 2/ 1 3 | 5. 4/ 3 5 | 6 5 4 3 (break) | 2 - - 1 | 3. 2/ 1 3 | 5. 6/ 5 1 | 2 4 3 2 (break) | 1 - - (Chorus) 1/ 2/ | 3 3./ 3// 3 4/ 3/ | 3/( 2/) 2./ 1// 2 2/ 3/ | 4/ 4/ 4./ 4// 4 5./ 4// (break) | 3 - - 3/ 3/ | 4 4 6_. 4/ 4/ | 3 3/( 2/) 1 3 | 2 2/ 1/ 7_./ 4/ 3./ 2// | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>Воз -- мож -- но_ль, что, ме -- ня лю -- бя.  Спа -- си -- тель жизнь от -- дал, Мой По -- ве -- ли -- тель за ме -- ня Там кро -- вью ис -- те -- кал?! У крес -- та, у крес -- та, где я свет у -- ви -- дал, Там с_ду -- ши со -- шла за -- бот веч -- ных тень.  Там по ве -- ре сво -- ей я зря -- чим стал.  И счас -- тьем я по -- лон каж -- дый день.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="999"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Возможно ль, что, меня любя.
+Спаситель жизнь отдал,
+Мой Повелитель за меня
+Там кровью истекал?!</stanza>
+    <stanza type="chorus" number="">У креста, у креста, где я свет увидал,
+Там с души сошла забот вечных тень.
+Там по вере своей я зрячим стал.
+И счастьем я полон каждый день.</stanza>
+    <stanza type="verse" number="2">Возможно ль, что мои грехи
+Его исторгли стон?!
+Любить и так мне сострадать
+Умеет только Он.</stanza>
+    <stanza type="verse" number="3">Погасло солнце, Славу скрыв,
+Когда Христос – Творец
+За грех творенья Своего
+Там принял мук венец.</stanza>
+    <stanza type="verse" number="4">И у меня не стало б сил
+Смотреть на крест святой.
+В хвале я сердце растворил,
+Глаза обжёг слезой.</stanza>
+    <stanza type="verse" number="5">Но можно ль долг любви вернуть
+Лишь скорбною слезой?
+Всего себя я отдаю.
+Возьми, Господь. Я – Твой.</stanza>
+  </lyrics>
+</hymn>

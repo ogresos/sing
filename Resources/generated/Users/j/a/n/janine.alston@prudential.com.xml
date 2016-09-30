@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Janine</firstname>
+    <lastname>Alston</lastname>
+    <email>janine.alston@prudential.com</email>
+    <password>4zhtZICMDB8N8dc%2ByKd5dg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>12.42.51.27</ipaddress>
+    <createdate>2012-07-19 12:14:52</createdate>
+    <lastupdateddate>2012-11-09 16:10:19</lastupdateddate>
+    <lastlogindate>2012-11-09 16:10:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

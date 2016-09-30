@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Uhaw sa lupang tigang ng Babilonia</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;BILANG ATING TAHANAN AT KAPAHINGAHAN</category>
+  <numbers><chinese num="ts:220"/><english num="1234"/><korean num="985"/><spanish num="377"/><tagalog num="1234"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted from John W. Peterson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1234"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Uhaw sa lupang tigang ng Babilonia,
+Wala akong masumpungang si-ya;
+Nguni't nang napunta sa ekklesia lokal,
+Akin ding natagpuan ang bukal.</stanza>
+    <stanza type="chorus" number="">Umiinom sa bukal ng buhay,
+Ako'y masaya, puso ko'y may si-ya;
+Umiinom sa bukal ng buhay,
+O panustos na kahanga-hanga!</stanza>
+    <stanza type="verse" number="2">Tubig buhay kay tamis mula sa trono,
+Umaagos sa kalooban ko;
+Bukal na nagpatid ng uhaw nakita,
+May sariwang buhay at sagana.</stanza>
+    <stanza type="verse" number="3">Bakit di magpulong sa ekklesia lokal?
+Dito'y tuloy ang daloy ng bukal.
+Kayo'y dadalhin ng Pastol sa ekklesia,
+'Spiritu ninyo'y mabigyang si-ya.</stanza>
+  </lyrics>
+</hymn>

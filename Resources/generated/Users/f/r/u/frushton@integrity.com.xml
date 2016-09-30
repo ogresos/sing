@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Fred</firstname>
+  <lastname>Rushton</lastname>
+  <email>frushton@integrity.com</email>
+  <password>$2y$10$wp18zpYl/izRYtWnRKqRh.6dwPpV2db51azt6VQjl.Jj0W4aljOke</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>209.91.12.83</ipaddress>
+  <createdate>2014-10-02 02:12:39</createdate>
+  <lastupdateddate>2014-10-02 02:14:24</lastupdateddate>
+  <lastlogindate>2014-10-02 02:14:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

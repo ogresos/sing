@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Qué admirable gracia fue</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Salvos por la gracia</category>
+  <numbers><cebuano num="313"/><chinese num="247"/><english num="313"/><korean num="247"/><russian num="67"/><spanish num="154"/><tagalog num="313"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">Translated from John Newton</author>
+  </creators>
+  <music>
+    <midiref type="h" num="313"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Qué admirable gracia fue!
+La que͜ hasta mí llegó;
+Yo ciego fui mas veo hoy,
+Perdido, me encontró.</stanza>
+    <stanza type="verse" number="2">La gracia me͜ enseñó͜ a temer,
+Su gracia me͜ alivió;
+¡Preciosa fue tal gracia͜ a mí
+La hora͜ en que creí!</stanza>
+    <stanza type="verse" number="3">Promesas buenas mi Señor
+En Su Palabra dio;
+Mi͜ escudo es y mi porción
+Mientras que viva yo.</stanza>
+    <stanza type="verse" number="4">Y cuando por mil años más
+Brillemos como͜ el sol,
+Con alabanzas se͜ honrará
+Su gracia eternal.</stanza>
+  </lyrics>
+</hymn>

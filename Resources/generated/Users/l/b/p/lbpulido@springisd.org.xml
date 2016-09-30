@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lucy</firstname>
+  <lastname>Pulido</lastname>
+  <email>lbpulido@springisd.org</email>
+  <password>$2y$10$w9DwucgWpX6XqlEEKSXIDeYCr69VD9Te5bZ9vKZT155yurGkCYj6S</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.190.100.121</ipaddress>
+  <createdate>2015-04-20 13:35:20</createdate>
+  <lastupdateddate>2015-04-20 13:36:05</lastupdateddate>
+  <lastlogindate>2015-04-20 13:36:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

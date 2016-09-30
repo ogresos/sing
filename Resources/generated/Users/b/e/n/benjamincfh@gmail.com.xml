@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Benjamin</firstname>
+    <lastname>He</lastname>
+    <email>benjamincfh@gmail.com</email>
+    <password>4lflQWzHsprkEEa9cHTaDw%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>75.155.244.164</ipaddress>
+    <createdate>2011-04-09 13:22:12</createdate>
+    <lastupdateddate>2011-05-28 23:43:18</lastupdateddate>
+    <lastlogindate>2011-05-28 23:33:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="400">哦主你是生命之靈</fav>
+        <fav category="default" type="ts" num="617">我們聚在一起來喫主的晚餐</fav>
+        <fav category="default" type="ch" num="129">我有一位奇妙救主</fav>
+        <fav category="default" type="ch" num="211">生命之主向我吹氣</fav>
+        <fav category="default" type="ch" num="12">當我觀賞父你廣大</fav>
+        <fav category="default" type="ts" num="847">真愛</fav>
+        <fav category="default" type="ts" num="616">耶穌聚集我們在一起</fav>
+    </favourites>
+</user>

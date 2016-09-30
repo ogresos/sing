@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ngalang Hesus dakilain</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PANGALAN</category>
+  <numbers><cebuano num="77"/><english num="77"/><german num="77"/><portuguese num="41"/><russian num="344"/><spanish num="42"/><tagalog num="77"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 3 3 | 5 - 1 | 2 - 2 | 3 - - | 5 5 5 | 4 - 5 | 3 - 4 | 2 - - (break) | 2 2 2 | 2 - 2 | 4# - 4# | 5 - - | 3 3 3 | 3( 2) 1 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="77"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ngalang Hesus dakilain
+Langit, lupa'y magproklama
+Mandaraig nating Hari,
+Lupa at langit magbunyi.</stanza>
+	<stanza type="verse" number="2">Ngalang Hesus dakilain,
+Sa pagd'rusa'y kublihan din;
+Malaya at matiwasay,
+Sa ngalan Niya'y may tagumpay.</stanza>
+	<stanza type="verse" number="3">Ngalang Hesus dakilain,
+Hanggang lupa'y payanigin,
+Sala't kam'tayan mapawi
+Upang si Kristo'y maghari.</stanza>
+	<stanza type="verse" number="4">Ngalang Hesus dakilain
+Maghahari at susundin;
+Mga hari't pamunuan,
+Pasailalim ng Ngalan.</stanza>
+	<stanza type="verse" number="5">Ngalang Hesus dakilain
+Tanang pagsamba kakamtin;
+Bunga ng Krus makita Niya,
+Sa paghahandog ng lupa.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amang Diyos, purihin Ka</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTATALAGA</category>
+  <numbers><cebuano num="36"/><chinese num="32"/><english num="36"/><german num="36"/><portuguese num="26"/><russian num="196"/><spanish num="24"/><tagalog num="36"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from P. Van den Berg, from Dutch</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amang Diyos, purihin Ka,
+Kami'y pinagpala,
+Sa Iyong ikasisiya
+Ika'y sinasamba:</stanza>
+	<stanza type="chorus" number="">'Tinakda Mong no'ng una
+Mga anak sa gloria -
+Kristong Mahal kasama,
+Kami'y Iyong adhika.</stanza>
+	<stanza type="verse" number="2">Ama sino pa kaya
+Sa 'min magpapala:
+'Spiritu'y matamasa,
+May buhay't biyaya?
+Kristo kami'y 'sasama,
+Sa luwalhati Niya
+Doon Ika'y makita,
+Aaninagin Ka.</stanza>
+	<stanza type="chorus" number="">'Tinakda Mong no'ng una
+Mga anak sa gloria -
+Kristong Mahal kasama,
+Kami'y Iyong adhika.</stanza>
+  </lyrics>
+</hymn>

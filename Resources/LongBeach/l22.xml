@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Shepherd, receive man</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><chinese num="ts:868"/><english num="lb:22"/><lsmyp num="309"/><vsb num="49"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>15325544312</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Dm - C - | G/B - G - | Am - - - | G - - - | F - E - | Am - C/G - | F - - - | C - - - | Dm - G7 - | C - - - |</chords>
+  <melody>| 1/ 5_..( 5_.) 3 | 2/ 5_..( 5_.) 5_. | 4. 4/ 3 1 | 2 - - - (break) | 3 6/ 6/( 6) 7 | 5/ 2.( 2) 2 | 4. 4/ 3/ 3/ 7_. (break) | 1 - - 1/ 1/ | 1/ 6_..( 6_.) 1 | 1/ 5_..( 5_.) 1 | 2 - 1 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>She -- pherd, re -- ceive man, Come near and eat with them, Pu -- bli -- cans and sin -- ners. Go out to car -- ry them home On Your shoul -- ders, re -- joi -- cing. Lord, car -- ry them home.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Luke 15</link>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="29">lb22.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Shepherd, receive man,
+Come near and eat with them,
+Publicans and sinners.
+Go out to carry them home
+On Your shoulders, rejoicing.
+Lord, carry them home.</stanza>
+    <stanza type="verse" number="2">Spirit, dear Spirit,
+Where is the one lost coin?
+Yes, You have the nine,
+But the one You must find.
+Dear Spirit, You're sweeping
+All over the earth.</stanza>
+    <stanza type="verse" number="3">Father, dear Father,
+Have mercy on mankind!
+He's fallen to the pigs' pen.
+When will he return?
+Dear Father, just kiss them,
+Your sons coming home.</stanza>
+    <stanza type="verse" number="4">Father of mercy,
+Clothe him with the best robe
+And kill the fatted calf
+And eat and be merry &amp;mdash;
+He was lost, but found,
+Was dead, but now he lives.</stanza>
+  </lyrics>
+</hymn>

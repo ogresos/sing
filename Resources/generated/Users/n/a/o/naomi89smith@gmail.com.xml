@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Naomi</firstname>
+  <lastname>smith</lastname>
+  <email>naomi89smith@gmail.com</email>
+  <password>$2y$10$IrK1TvQypmSOcHQi0Q6SmuVxDoF3EVMpo1VC7bYzElhaYx3/C2YfC</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>60.234.120.46</ipaddress>
+  <createdate>2015-05-02 21:20:05</createdate>
+  <lastupdateddate>2015-05-27 04:36:19</lastupdateddate>
+  <lastlogindate>2015-05-04 22:09:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

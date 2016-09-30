@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, malipayong nagsimba Nimo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAKUS</category>
+  <numbers><cebuano num="180"/><chinese num="148"/><english num="180"/><german num="180"/><korean num="148"/><portuguese num="90"/><russian num="346"/><spanish num="84"/><tagalog num="180"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 6/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - (break) | (Chorus) 2 2./ 3// 4/ 4 0/ | 3 3./ 4// 5/ 5 0/ | 5 4#./ 5// 6/( 7/) ._1/ ._1/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - |</melody>
+  <music>
+	<midiref type="h" num="180"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, malipayong nagsimba Nimo,
+Magdayeg Nimo nganha sa trono!
+Nabulahan, busa kami magsimba,
+Moila nga Ikaw ra gyuy angay!</stanza>
+	<stanza type="chorus" number="">Ikaw ray angay! Ikaw ray angay!
+Daygon, kay Ikaw ra gyud ang angay!
+Nabulahan, busa kami magsimba,
+Moila nga Ikaw ra gyuy angay!</stanza>
+	<stanza type="verse" number="2">Ikaw ang tinuod nga Dios ug tawo,
+Nagpaubos, nahimong Tagtubos;
+Kaliwat Ka's babaye nga natawo,
+Nagtunob's bitin, nagdugmok's ulo!</stanza>
+	<stanza type="verse" number="3">Magbubuhat ko Ikaw nagpaubos,
+Kay gilansang's mga tawo sa krus!
+Gidumtan's tawo, gisalikway pa sa Dios,
+Sa kopang mapait wa mosibog.</stanza>
+	<stanza type="verse" number="4">Gidaug Mo bisan ang kamatayon,
+Kadaugan nga mahimayaon!
+Makapugong ba mi sa pagsugilon?
+Mananaug Ka sa kamatayon.</stanza>
+  </lyrics>
+</hymn>

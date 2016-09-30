@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Set your mind on the things which are above</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>153564566545</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Em - | Am - C/G - | F - Dm - | Gsus4 - G7 - | C - Em - | Am - C/G - | F - Dm - | G - C/E - | F - - - | G - - - | Em - - - | A7 - - - | Dm - - - | Fm/D - G7 | C - F/C - | C - - - |</chords>
+  <melody>| 1 - 5( 3/ 5/) | 6 - - 4/ 5/ | 6( - 6/) 6/ 5/ 4/ | 5 - - 0 (break) | 1 - 5 3/( 5/) | 6 - - 4/( 5/) | 6 - 6/( 7/)( 7/) ._1/ | 5 - - 5/ 5/ (break) | 6 - {6( 7) ._1} | 7 - - 6/ 5/ | 5 - 4 5 | 3 - - 2/( 3/) | 4 - - 4 | 4 - - 1 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Set your mind on the things which are a -- bove, Not on the things which are on the earth. For I died, for I died, And my life is hid -- den With Christ, with Christ in God.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">nt_col3-1-4.xml</link>
+    <link type="ref">Colossians 3:1-4</link>
+  </links>
+  <music>
+    <midi location="ns" length="34">ns0029.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Set your mind on the things which are above,
+Not on the things which are on the earth.
+For I died, for I died,
+And my life is hidden
+With Christ, with Christ in God.</stanza>
+  </lyrics>
+</hymn>

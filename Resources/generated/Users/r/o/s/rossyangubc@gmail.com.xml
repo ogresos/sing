@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ross</firstname>
+  <lastname>Yang</lastname>
+  <email>rossyangubc@gmail.com</email>
+  <password>$2y$10$qG.kZ.dfEM3CpmDkqZzEK.eUhzgvw247gKkFOZkaN8l5MsgoFm1AC</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>69.50.176.181</ipaddress>
+  <createdate>2016-01-12 08:02:08</createdate>
+  <lastupdateddate>2016-04-25 17:39:58</lastupdateddate>
+  <lastlogindate>2016-04-25 17:32:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="893">Conflict today is fierce</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="840">Freed from self and Adam's nature</fav>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="h" num="612">God intends that all His being</fav>
+    <fav category="default" type="h" num="1199">God's intention in this universe is with humanity</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+    <fav category="default" type="h" num="972">Lo, the central thought of God</fav>
+    <fav category="default" type="h" num="960">My King will soon come back again</fav>
+    <fav category="default" type="h" num="1113">Now the Triune God has come to dwell within</fav>
+    <fav category="default" type="h" num="395">O Jesus Christ, grow Thou in me</fav>
+    <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+    <fav category="default" type="h" num="1116">Pure myrrh and cinnamon</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="h" num="505">There's a Man in the glory</fav>
+    <fav category="default" type="h" num="841">Thou art all my life, Lord</fav>
+    <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+    <fav category="default" type="h" num="817">We limit not the truth of God</fav>
+  </favourites>
+</user>

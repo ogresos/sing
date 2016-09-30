@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>轉</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>11761736545</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>轉！ 黑 暗 丟 在 背 後， 光， 在 前 頭。 轉！ 虛 空 世 界 脫 落， 愛， 在 左 右。 歡 然 邁 入 新 境 地， 憑 神 脫 去 陳 舊， 神 調 人 新 生 活， 盼 望 得 榮 時 候。 走， 跟 耶 穌 腳 踨！ 今 我 們 得 神 聖 生 命 不 朽， 享 受 神 兒 子 自 由； 走， 同 基 督 行 動！ 流， 隨 聖 靈 湧 流！ 經 綸 的 神 正 在 呼 召， 一 個 新 人─ 我 人 生 所 投。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0456.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">轉！黑暗丟在背後，
+光，在前頭。
+轉！虛空世界脫落，
+愛，在左右。</stanza>
+	<stanza type="chorus" number="">歡然邁入新境地，
+憑神脫去陳舊，
+神調人新生活，
+盼望得榮時候。
+走，跟耶穌腳踨！
+今我們得神聖生命不朽，
+享受神兒子自由；
+走，同基督行動！
+流，隨聖靈湧流！
+經綸的神正在呼召，
+一個新人─我人生所投。</stanza>
+	<stanza type="verse" number="2">轉！往新方向尋求，
+進入方舟。
+轉！公義、和平、喜樂，
+是神的國。</stanza>
+	<stanza type="verse" number="3">轉！離棄狹窄自我，
+神旨承託。
+轉！國度福音展擴，
+剛強開拓。</stanza>
+  </lyrics>
+</hymn>

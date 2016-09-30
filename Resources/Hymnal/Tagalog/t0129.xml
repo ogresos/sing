@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Maluwalhating Kordero</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKADAKILA</category>
+  <numbers><chinese num="114*"/><english num="129"/><korean num="114*"/><tagalog num="129"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="129"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Maluwalhating Kordero,
+Lakas, Siya'ng nagtamo:
+Hindi Siya mahihigitan,
+Maging sa langit man.</stanza>
+    <stanza type="verse" number="2">Trono sa 'taas pinu'nan;
+Sa Kanya'y dapat lang;
+Siya ang sinta ng Amang Diyos
+Awit ng tinubos.</stanza>
+    <stanza type="verse" number="3">Mga banal nagpupuri,
+Tanggap Niyang palagi;
+Tinig na napakahinay,
+Diringgin Niyang tunay.</stanza>
+    <stanza type="verse" number="4">Awitin sa kaisahan
+Itanghal ang Ngalan
+Ng nasa trono sa 'taas,
+Kordero'y itaas.</stanza>
+    <stanza type="verse" number="5">Siya'y nilibak at tinuya,
+L'walhati sa Kanya;
+Kataasan at korona
+Ay pawang sa Kanya.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elvira</firstname>
+  <lastname>Olivas</lastname>
+  <email>elvirabolando3@gmail.com</email>
+  <password>$2y$10$YoMoDvJOlV6RU9RiUPtSNurpQvAXr.jsDQ61B0407jIFrie/UR3e2</password>
+  <gender/>
+  <country/>
+  <ipaddress>99.250.127.54</ipaddress>
+  <createdate>2016-07-01 04:31:14</createdate>
+  <lastupdateddate>2016-08-01 03:53:45</lastupdateddate>
+  <lastlogindate>2016-07-06 18:02:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="546">And the God of peace Himself sanctify you wholly</fav>
+    <fav category="default" type="ns" num="513">Chosen</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="100">God the Creator became a God-man</fav>
+    <fav category="default" type="ns" num="544">O Lord, You Know What's in My Heart</fav>
+    <fav category="default" type="ns" num="545">Revelation 3:20-21</fav>
+    <fav category="default" type="ns" num="491">The Blessing of the Triune God</fav>
+    <fav category="default" type="ns" num="523">The Local Churches as the Testimony of Jesus</fav>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    <fav category="default" type="ns" num="132">The new covenant ministers</fav>
+    <fav category="default" type="ns" num="185">The spirit of the prophet</fav>
+    <fav category="default" type="ns" num="384">Things which eye has not seen</fav>
+    <fav category="default" type="ns" num="376">Thy Smiling Presence</fav>
+    <fav category="default" type="h" num="1165">We're in the land, we're in the land</fav>
+  </favourites>
+</user>

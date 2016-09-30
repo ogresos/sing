@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joshua</firstname>
+  <lastname/>
+  <email>josh21lehman@hotmail.com</email>
+  <password>$2y$10$TB0.ciB3BYUrkt9YBJJ4O.zAUc2ioajt/oHZovA3U/pDjcYLBYXA.</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>72.136.99.56</ipaddress>
+  <createdate>2016-06-19 19:39:07</createdate>
+  <lastupdateddate>2016-06-19 20:10:06</lastupdateddate>
+  <lastlogindate>2016-06-19 20:08:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="45">Abba Father</fav>
+  </favourites>
+</user>

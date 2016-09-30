@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Wilson</lastname>
+  <email>dmwilson34@gmail.com</email>
+  <password>$2y$10$3yHEAiL4VKYbUw4EQY15ueN.G5ZoLLIyUd3ohtaR7QM/yIWaxmZH2</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>24.2.53.193</ipaddress>
+  <createdate>2009-02-18 10:41:10</createdate>
+  <lastupdateddate>2014-10-23 13:58:30</lastupdateddate>
+  <lastlogindate>2014-10-23 13:58:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

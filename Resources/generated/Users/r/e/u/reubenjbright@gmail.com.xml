@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>reuben</firstname>
+  <lastname>Bright</lastname>
+  <email>reubenjbright@gmail.com</email>
+  <password>$2y$10$VVoOmPkHqAMivk8KM24AL.YatCCJn83RThIoY3upE6FFw1W4qjKXq</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>60.234.120.47</ipaddress>
+  <createdate>2015-05-15 04:17:20</createdate>
+  <lastupdateddate>2016-07-16 10:08:53</lastupdateddate>
+  <lastlogindate>2016-07-16 10:08:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1343">A new commandment</fav>
+    <fav category="default" type="ns" num="403">For God so loved the world</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+  </favourites>
+</user>

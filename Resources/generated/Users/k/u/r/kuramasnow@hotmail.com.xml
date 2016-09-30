@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>julia</firstname>
+<lastname>ng</lastname>
+<email>kuramasnow@hotmail.com</email>
+<password>$1$FGnXvfTc$G4pMTEQp/Pp358CmfqaFC/</password>
+<gender>F</gender>
+<country>Hong Kong</country>
+<ipaddress>218.190.166.253</ipaddress>
+<createdate>2009-08-27 08:29:27</createdate>
+<lastupdateddate>2009-09-15 19:17:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="65">I love God because...</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+    </favourites>
+</user>

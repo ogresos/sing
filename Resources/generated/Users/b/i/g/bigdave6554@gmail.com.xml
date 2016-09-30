@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>howington</lastname>
+  <email>bigdave6554@gmail.com</email>
+  <password>$2y$10$FI4.7XD3THSPhUdOzYdO/.Blbk0rP5VU4ZfIIeBsm2DP0.l7TTCgy</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-04-16 02:10:41</createdate>
+  <lastupdateddate>2015-04-15 11:21:27</lastupdateddate>
+  <lastlogindate>2015-04-15 02:01:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

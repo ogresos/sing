@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ryan</firstname>
+    <lastname>McNichol</lastname>
+    <email>rmcnic@yahoo.com</email>
+    <password>$1$Nu.6GGLu$P.GC3JRDdwxmHbMFNXmtv1</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>130.108.122.159</ipaddress>
+    <createdate>2008-07-26 01:43:17</createdate>
+    <lastupdateddate>2013-10-08 15:58:31</lastupdateddate>
+    <lastlogindate>2013-09-25 18:07:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="295">God's Christ, who is my righteousness</fav>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

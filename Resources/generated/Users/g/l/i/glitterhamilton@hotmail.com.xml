@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>arabella</firstname>
+<lastname>yang</lastname>
+<email>glitterhamilton@hotmail.com</email>
+<password>$1$JdVkvDCt$xEtwd42ur7tur2DEQIkGj.</password>
+<gender>F</gender>
+<country>New Zealand</country>
+<ipaddress>219.89.68.59</ipaddress>
+<createdate>2009-01-11 01:57:48</createdate>
+<lastupdateddate>2009-09-15 18:27:08</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="112">God made the mountains</fav>
+        <fav category="default" type="c" num="41">We would love the Lord our God</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="c" num="6">Oh, the grass will wither</fav>
+        <fav category="default" type="c" num="164">Give, said the little stream</fav>
+        <fav category="default" type="c" num="131">May your spirit and your soul</fav>
+    </favourites>
+</user>

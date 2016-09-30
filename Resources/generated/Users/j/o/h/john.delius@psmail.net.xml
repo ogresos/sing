@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>JOHN</firstname>
+  <lastname>DELIUS</lastname>
+  <email>john.delius@psmail.net</email>
+  <password>$2y$10$Jb2uTHiQaTCh9ouTPVTeZ.7W7/rRlf2lH7nsd6E8EKlwx96CEYF5i</password>
+  <gender/>
+  <country/>
+  <ipaddress>87.114.92.131</ipaddress>
+  <createdate>2015-06-12 15:45:47</createdate>
+  <lastupdateddate>2015-06-12 15:50:21</lastupdateddate>
+  <lastlogindate>2015-06-12 15:50:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

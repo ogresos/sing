@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, sa harap ng hapag Mo</title>
+  <index>true</index>
+  <category>PAGPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="1110"/><chinese num="ts:212"/><english num="1110"/><german num="1110"/><portuguese num="124"/><russian num="46"/><spanish num="107"/><tagalog num="1110"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.hymns.net/stories/lee.htm">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoon, sa harap ng hapag Mo,
+Tinapay at saro ay namasdan;
+Purihin Ka, pagkain Ka ng tao,
+Matamasa sa libong paraan.</stanza>
+	<stanza type="chorus" number="">Koro 1:
+Pupurihin Kita't aawitan,
+Napakaliit Mo Hesus!
+Kakainin Ka nang walang hanggan;
+Napakaliit Mo Hesus!</stanza>
+	<stanza type="verse" number="2">Yaman ni Kristo'y dala Niya sa mundo,
+Panustos ang buhay Niya sa tao,
+Sayang! tao'y lugmok sa pagtuturo,
+Itong yaman hindi niya matamo.</stanza>
+	<stanza type="chorus" number="">Koro 2:
+Ang Pangino'n kailangang kainin;
+Kay hiwaga, di matalos!
+Sisigla tayo pag kumakain;
+Kristo'y lumalagong lubos.</stanza>
+	<stanza type="verse" number="3">Hesus, di Ka pumarito sa lupa
+Upang maghari sa panlabas lang;
+Kundi Ika'y pagkaing matamasa,
+Buhay gumiya sa kalooban.</stanza>
+	<stanza type="note" number="">(Koro 1)</stanza>
+	<stanza type="verse" number="4">Purihin Ka sa Iyong kadakilaan,
+Kapangyarihan at karangalan;
+Nguni't lalo Kang pasasalamatan,
+Makakain Ka sa kaliitan.</stanza>
+	<stanza type="note" number="">(Koro 1)</stanza>
+  </lyrics>
+</hymn>

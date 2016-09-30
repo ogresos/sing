@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ya que he visto la hermosura</title>
+  <index>true</index>
+  <category>Anhelos&amp;mdash;Por la presencia del Señor</category>
+  <numbers><cebuano num="405"/><chinese num="308"/><english num="405"/><german num="405"/><korean num="308"/><russian num="257"/><spanish num="178"/><tagalog num="405"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 (break) | (Chorus) 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 |</melody>
+  <notes>Este himno fue escrito poco después de que su autor, quien habia nacido ciego, recivio la vista</notes>
+  <music>
+	<midiref type="h" num="405"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ya que͜ he visto la͜ hermosura
+De͜ este mundo tentador,
+Yo prefiero Tu presencia,
+Aunque ciego͜ esté, Señor.</stanza>
+	<stanza type="chorus" number="">Ya que͜ he visto la͜ hermosura
+De͜ este mundo tentador,
+Yo prefiero Tu presencia,
+Aunque ciego͜ esté, Señor.</stanza>
+	<stanza type="verse" number="2">Aunque en el paraíso
+Pueda ver la luz del sol,
+Mas aquí a mi ceguera
+Su piedad es mi farol.</stanza>
+	<stanza type="verse" number="3">Ya no quiero liberarme
+De mi diario aguijón;
+Tras del velo hallo gracia
+En el rostro del Señor.</stanza>
+	<stanza type="verse" number="4">En mi noche Su͜ hermosura
+Sólo puedo ver por fe,
+Al mirar la faz gloriosa
+Que por mí sufrió desdén.</stanza>
+	<stanza type="verse" number="5">Con Su corona de͜ espinas
+Que llevó en mi lugar,
+El opaca toda gloria
+O galaxia celestial.</stanza>
+  </lyrics>
+</hymn>

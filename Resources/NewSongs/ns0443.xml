@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Man Lives Not By Bread Alone</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Stacie Boswell">S. B.</composer>
+  </creators>
+  <hymncode>55654335332</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | Am - - - | G - - - | C - - - | F - - - | Am - - - | G - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | Am - - - | G - - - | G - - - | C - - - | F - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | Am - - - | F - - - | G - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 5 5 | 6/ 5 4/( 4) 3 | 3/ 5.( 5) 3 | 3/ 2.( 2) - (break) | 0 - 5 5 | 6/( 5) 4/( 4) 3 | 0 - 3 - | 5 - - - (break) | 0 - 3/ 2/ 3 | 3/ 5 2/( 2) 1 | 0. 5_./ 3/ 2/ 3 | 3/ 5 6/( 6) 5 (break) | 0 - ._1( 7) | 6 5 4 3 | 3/( 2.)( 2)( -  | 2) - 0 1 (break) | ._1 - 7 - | 6 - 5 - | 0 - 3 5/ 2/( | 2) - - - (break) | 0 - ._1 7 | 6 - 5 - | 0 - 3 5/ 6/( | 6/)( 5.)( 5) - (break) | 0 - ._1 - | ._3. ._2/( ._2) - | 0 - ._1 ._1 | ._3/ ._2 ._1/( ._1) 7 (break) | 0 - ._1( 7) | 6 5 4 3/ 3/( | 3/)( 2.)( 2) - | 0 - 3. 2/ | 2 1( - - | 1) - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">And He hum -- bled me and let me go hun -- gry and He fed me the man -- na, which I had nev -- er known nor my fa -- thers had ev -- er known, so that He might make me know that man lives not by bread a -- lone, man lives not by bread a -- lone, but that man lives by ev -- ery -- thing that pro -- ceeds out from the mouth of Je -- ho -- vah.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Deuteronomy 8:3</link>
+  </links>
+  <music>
+    <midi location="ns" length="58">ns0443.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">And He humbled me and let me go hungry
+And He fed me the manna,
+Which I had never known nor
+My fathers had ever known, so
+That He might make me know
+That man lives not by bread alone,
+Man lives not by bread alone,
+But that man
+Lives by everything that
+Proceeds out from the mouth
+Of Jehovah.</stanza>
+  </lyrics>
+</hymn>

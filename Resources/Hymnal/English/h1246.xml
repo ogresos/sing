@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We give ourselves to follow the churches</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Following</category>
+  <numbers><cebuano num="1246"/><chinese num="ts:756"/><english num="1246"/><german num="1246"/><korean num="821"/><spanish num="380"/></numbers>
+  <meter>10.6.10.6. with chorus.</meter>
+  <hymncode>5345116716534512</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - C7/E - | F - Dm - | Em - Am - | Dm - G7 - | C - C7/E - | F - D7/F# - | C/G - G7 - | C - - - | C - C7/E - | F - Dm - | C/E - Am - | Dm - G7 - | C - C7/E - | F - D7/F# - | C/G - G7 - | C F/C C - |</chords>
+ <guitarChords>| C - C7 - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - G7 - | C - - - | C - C7 - | F - - - | C - D - | G - G7 - | C - C7 - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 5 3./ 4// 5 ._1 | ._1 6./ 7// ._1 6 | 5 3./ 4// 5 ._1 | ._2 - - - (break) | ._3 ._1./ ._2// ._3 ._1 | ._1 6./ 7// ._1 6 | 5 ._1./ ._2// ._3 ._2 | ._1 - - - (break) | (Chorus) ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5 ._1./ ._2// ._3 ._3 | ._2 - - 0 (break) | ._3 - ._1 - | ._1 6./ 7// ._1 6 | 5 ._1/ ._2/ ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>We give our -- selves to fol -- low the church -- es, One -- ness in Christ dis -- play; Fol -- low His move in all of the church -- es, Stand fast as one this way. We must fol -- low the Spir -- it In all sim -- pli -- ci -- ty. In our spir -- it is Je -- sus&amp;mdash; He fol -- lows per -- fect -- ly!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj200.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="37">e1246_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">We give ourselves to follow the churches,
+  Oneness in Christ display;
+Follow His move in all of the churches,
+  Stand fast as one this way.</stanza>
+	<stanza type="chorus" number="">We must follow the Spirit
+  In all simplicity.
+In our spirit is Jesus&amp;mdash;
+    He follows perfectly!</stanza>
+	<stanza type="verse" number="2">We give ourselves to follow the followers,
+  By this we truly learn;
+Never desiring to be the leaders,
+  But to the Spirit turn.</stanza>
+	<stanza type="verse" number="3">We give ourselves the flock's steps to follow
+  Knowing the Shepherd's care.
+Now in the churches Jesus is leading
+  And He is speaking there.</stanza>
+	<stanza type="verse" number="4">We give ourselves to Thee, O Lord Jesus,
+  Never to turn aside;
+Where'er the Lamb goes, there we would follow,
+  Follow whate'er betide.</stanza>
+	<stanza type="verse" number="5">We give ourselves to enter the kingdom,
+  That marriage feast, with Him;
+Come persecution, suffering, and trials,
+  Still we will enter in.</stanza>
+	<stanza type="verse" number="6">Christ wants some followers here in the churches,
+  Followers of whom to say:
+"These saw My purpose, followed Me wholly"&amp;mdash;
+  May we be those today!</stanza>
+  </lyrics>
+</hymn>

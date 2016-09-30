@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Ulo nga nasamdan</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAG-ANTUS</category>
+  <numbers><cebuano num="95"/><chinese num="82"/><english num="95"/><german num="95"/><korean num="82"/><tagalog num="95"/></numbers>
+  <creators>
+	<author biodate="1090-1153" biolink="en.wikipedia.org/wiki/Bernard_of_Clairvaux">Translated from Bernard of Clairvaux</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1. ._1/ 7 ._1 | ._2 - ._2 5 | ._2. ._2/ ._1 ._2 (break) | ._3 - - 5 | ._3 ._3 ._4 ._3 | ._2 - 6 ._1 | 7 ._1 ._3. ._2/ (break) | ._1 - - ._1 | 7 6 6. 7/ | 6 - 5 5 | 6 6 ._2. ._1/ (break) | 7 - - 7 | 7 7 ._3. ._2/ | ._1 - 6 6 | 5 5 6 7 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="95"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Ulo nga nasamdan,
+Puno's kasakitan,
+Sa tunok gipurongan,
+Sa tawo gidagmalan.
+Puno's himaya karon,
+Ug sa kahalangdon,
+Kanhi Ikaw gibitay,
+Sa kahoy namatay.</stanza>
+	<stanza type="verse" number="2">Nawong nga masanagon,
+Labaw pa sa Adlaw!
+Bisan m'oy gisaligan,
+Ila lang gilud-an.
+Ginoo, gisakit Ka,
+Tungod's akong sala,
+Nabayran na utang ko;
+Gilukat's dugo Mo.</stanza>
+	<stanza type="verse" number="3">Salamat, Manluluwas,
+Amo nga Higala;
+Sa giantus' kalag Mo,
+Sa pag-ula's dugo.
+Pasaligang malig-on
+Kanimo, Ginoo,
+Hangtud dad-on's himaya,
+Sa nawong Ka makita.</stanza>
+  </lyrics>
+</hymn>

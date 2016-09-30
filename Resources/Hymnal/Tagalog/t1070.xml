@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lumulubog sa sala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PATOTOO</category>
+  <numbers><cebuano num="1070"/><chinese num="735"/><english num="1070"/><korean num="735"/><tagalog num="1070"/></numbers>
+  <creators>
+    <author biodate="1866-1933" biolink="">Translated from James Rowe</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1070"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lumulubog sa sala,
+Sa laot ng dagat,
+Nadungisan nang lubha,
+Di makakaangat;
+Nguni't ang Panginoon
+Hibik ko'y dininig,
+At ako ay inahon
+Ng pag-ibig!</stanza>
+    <stanza type="chorus" number="">Pag-ibig Niya
+ang nagligtas!
+Nang sa sala ay lugmok,
+itinaas!
+Pag-ibig Niya
+ang nagligtas!
+Sa makamundong buhay iniligtas!</stanza>
+    <stanza type="verse" number="2">Puso ko'y ibibigay,
+Sa Kanya tumangan,
+Magpuri at mamuhay
+Sa Kanyang harapan.
+Nararapat purihin
+Pag-ibig Niyang tapat,
+Paglilingkod ko'y kunin
+Lahat-lahat.</stanza>
+    <stanza type="verse" number="3">Kalul'wang nanganganib,
+Kay Hesus tumingin;
+Pag-ibig Niya'y sasagip,
+Tungo sa baybayin.
+Mga alon sa dagat
+Susunod sa Kanya;
+Pagliligtas Niya'y kagyat -
+'To'y ngayon na!</stanza>
+  </lyrics>
+</hymn>

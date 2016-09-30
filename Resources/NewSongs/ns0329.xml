@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But Flee Youthful Lusts</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:329"/><lsmyp num="366"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Jacques Wilmore">J. W.</composer>
+  </creators>
+  <hymncode>1111123432335112</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Dm - | C/G G7 C - | C - Em - | F - G7 - | C - Am - | F - G7 - | C - Em - | F - G7 - | C - Am - | F G7 C - ||</chords>
+  <melody>| 1 1 1 1/ 1/ | 2 3/( 4/) 3 2 | 3 3 5 - | 1 1 2. 5_./ | 1 1 1 1 | 2 3/( 4/) 3 2 | 3 - 5 5 | 1/ 1/ 1 2 - | 3 3 5 5 | 4 3 4/( 3/) 2 | 3 3 5 5 | 4( 3) 2. 5_./ | 1 1 1 1 | 2 3/( 4/) 3 2 | 3 - 5 5 | 1/ 1/ 1 2 - (break) | (Verse_2) 1 - 5 - | 4 5/( 6/) 5 2 | 3 5 ._1 7/( 6/) | 5 - - - | 1 - 5 - | 4 5/( 6/) 5 2 | 3 1/ 1/ 4 - | 3/ 2/ 1/ 7_./ 1 - (break) | (Verse_3) 1 7_./( 1/) 7_. 5_. | 6_. 7_./ 1/ 7_.( 5_.) | 0 3 3 3 | 3/( 2/) 4/( 3/) 2/( 1/) 7_. | 1 7_./( 1/) 7_.( 5_.) | 6_. 7_./ 1/ 7_.( 5_.) | 0 5 4 3 | 6_./( 7_./ 1/ 2/) 1 - ||</melody>
+  <layout>
+    <singingstanza end="-1">If there -- fore an -- y -- one cleans -- es him -- self from these, he will be a ves -- sel un -- to hon -- or sanc -- ti -- fied, use -- ful to the mas -- ter, pre -- pared un -- to ev -- ery good work, un -- to ev -- ery good work. A ves -- sel un -- to hon -- or, sanc -- ti -- fied, use -- ful to the mas -- ter. But flee youth -- ful lusts, and pur -- sue righ -- teous -- ness, faith, love, peace with those who call on the Lord out of a pure heart. But flee youth -- ful lusts, and pur -- sue righ -- teous -- ness, faith, love, peace with those who call, call on the Lord out of a pure heart.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">2 Timothy 2:21-22</link>
+  </links>
+  <music>
+    <midi location="ns" length="75">ns0329.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If therefore anyone cleanses himself from these,
+He will be a vessel unto honor sanctified,
+Useful to the master,
+Prepared unto every good work, unto every good work.
+A vessel unto honor, sanctified, useful to the master.</stanza>
+    <stanza type="verse" number="2">But flee youthful lusts, and pursue righteousness,
+Faith, love, peace with those who
+Call on the Lord out of a pure heart.</stanza>
+    <stanza type="verse" number="3">But flee youthful lusts, and pursue
+Righteousness, faith, love, peace with
+Those who call, call on the Lord
+Out of a pure heart.</stanza>
+  </lyrics>
+</hymn>

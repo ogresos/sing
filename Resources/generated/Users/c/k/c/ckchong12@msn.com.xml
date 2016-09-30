@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>peter</firstname>
+<lastname>chong</lastname>
+<email>ckchong12@msn.com</email>
+<password>$1$dWOgqd7P$hw6lJRS7Uqq7DdqRdgNFo.</password>
+<gender>M</gender>
+<country>Malaysia</country>
+<ipaddress>219.95.84.237</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="11">God is love</fav>
+    </favourites>
+</user>

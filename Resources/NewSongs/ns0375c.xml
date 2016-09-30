@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>來到施恩座</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><chinese num="ns:375c"/><english num="ns:375"/></numbers>
+  <music>
+    <midiref type="ns" num="375"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">我們有一位，同情我們軟弱，
+顧到我們的大祭司耶穌，
+祂在各方面，與我們一樣，
+受試誘，只是無罪，只是無罪，</stanza>
+    <stanza type="verse" number="">我們只管坦然
+坦然無懼來到施恩座，
+現在就來得憐憫、享恩典，
+作應時的幫助。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О Святой Отец великий</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО СВЯТОСТЬ</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>О Свя -- той О -- тец ве -- ли -- кий, По -- кло -- ня -- ем -- ся Те -- бе И Тво -- ё свя -- то -- е И -- мя Пре -- воз -- но -- сим мы в_хва -- ле.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О Святой Отец великий,
+Поклоняемся Тебе
+И Твоё святое Имя
+Превозносим мы в хвале.</stanza>
+	<stanza type="verse" number="2">Отче, сердце Твоё любит,
+Путь Твой праведен всегда,
+Но Твоя природа – святость,
+И её Христос нам дал.</stanza>
+	<stanza type="verse" number="3">Кровью Господа Христа нас
+Ты навеки освятил
+И чрез истину, что в Слове,
+Ты нас, грешных, отделил.</stanza>
+	<stanza type="verse" number="4">Для Себя Святым Ты Духом
+Сделал нас святыми всех;
+Наши дух, душа и тело
+Освятятся в полноте.</stanza>
+	<stanza type="verse" number="5">О! Святая жизнь Иисуса
+Нам дана чрез благодать;
+Даже святость Твою, Отче,
+Все мы будем разделять.</stanza>
+	<stanza type="verse" number="6">В городе святом разделим
+Твою святость в полноте.
+«Ты Святой!» – вовеки будем
+Возвещать тогда мы все.</stanza>
+  </lyrics>
+</hymn>

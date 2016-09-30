@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>何處尋祂</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:336"/><english num="lb:51"/><vsb num="161"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 3 - | 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - (break) | 0/ 6_./ 2/ 3/ 5/ 4/ 3/ 2/ | 7_. - - 7_. | 1 - - - | 2 - - - | 1 - - - (break) | (Verse_2) 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 3 - | 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - (break) | 0/ 6_./ 2/ 3/ 5/ 4/ 3/ 2/ | 7_. - - 7_. | 1 - - - | 2 - - - | 3 - - - (break) | (Chorus) 0 ._1/ 7/ 6 ._1 | 7.( 5/) 3 - | 0 6/ 5/ 4 5/ 6/ | 5 - - - (break) | 0 3/ 2/ 7_. 1/ 2/ | 1. 2/ 3 1 | 6 - - - | 4 - - - | 2 - - - | 0 - 7_./ 1/( 1/) 2/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>請 告 訴 我， 祂 被 移 到 何 處？ 石 頭 已 輥 開， 只 留 下 空 墓。 哦！ 有 人 己 將 祂 移 出， 祂 在 何 處？ 門 徒 前 來， 親 眼 看 見 空 墓； 竟 然 就 離 開， 回 自 己 住 處。 眼 前 事 實， 他 們 滿 足。 祂 在 何 處？ 何 處 尋 祂─ 主 耶 穌？ 何 處 尋 祂─ 愛 主？ 何 處 尋 祂─ 我 心 所 慕？ 耶 穌， 摯 愛， 我 要 你， 主。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="lb" num="51"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">請告訴我，祂被移到何處？
+石頭已輥開，只留下空墓。
+哦！有人己將祂移出，
+祂在何處？</stanza>
+	<stanza type="verse" number="2">門徒前來，親眼看見空墓；
+竟然就離開，回自己住處。
+眼前事實，他們滿足。
+祂在何處？</stanza>
+	<stanza type="chorus" number="">何處尋祂─主耶穌？
+何處尋祂─愛主？
+何處尋祂─我心所慕？
+耶穌，摯愛，我要你，主。</stanza>
+	<stanza type="verse" number="3">我心破碎，失去最深渴慕；
+不要問我：婦人，你為何哭？
+除了耶穌，別無滿足。
+祂在何處？</stanza>
+	<stanza type="verse" number="4">轉過身來，看見復活耶穌；
+以為是園丁，我竟未認出；
+以為他知主在何處。
+祂在何處？</stanza>
+	<stanza type="chorus" number="">何處尋祂─主耶穌？
+何處尋祂─愛主？
+何處尋祂─指示我路，
+我要取祂，不畏險阻。</stanza>
+	<stanza type="verse" number="5">我聽見祂對我柔聲輕訴；
+甜美呼喚進入我心深處。
+熟悉聲音，就是我主；
+是我耶穌！</stanza>
+	<stanza type="chorus" number="">我已尋見主耶穌，
+我已尋見愛主，
+我已尋見我心所慕，
+耶穌，摯愛，我愛你，主。</stanza>
+	<stanza type="verse" number="6">得見我主，我心喜難述；
+祂要升天，使父心滿意足。
+祂神、祂父成我們神、
+我們的父。</stanza>
+	<stanza type="chorus" number="">你要升天，去見父；
+要我告訴門徒：
+你神已成我們的神，
+你父已成我們的父。</stanza>
+  </lyrics>
+</hymn>

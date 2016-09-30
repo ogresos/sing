@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>隨流都必活</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><chinese num="ts:217"/><english num="1115"/><korean num="949"/><spanish num="118"/><tagalog num="1115"/></numbers>
+  <melody>| 3/ 3/ 3 3/ 3/ 3 | 3/ 1/ 4/ 3/ 2 - | 4/ 4/ 4 4/ 4/ 4 | 4/ 2/ 5/ 4/ 3 - (break) | 3/ 3/ 3 3/ 3/ 3 | 3/ 1/ 2/ 3/ 4 - | 4/ 2/ 3/ 4/ 5/ 3/ 1/ 4/ | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>我 們 來， 我 們 來， 到 神 殿 裡 來； 我 們 來， 從 神 殿 有 水 流 出 來。 這 水 流， 在 殿 右， 晝 夜 湧 流 著， 滋 潤 我 們， 結 出 生 命 的 美 果。</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Ezekiel 47:1-12</link>
+  </links>
+  <music>
+	<midiref type="h" num="1115"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們來，我們來，
+到神殿裡來；我們來，
+從神殿有水流出來。
+這水流，在殿右，
+晝夜湧流著，滋潤我們，
+結出生命的美果。</stanza>
+	<stanza type="verse" number="2">從這殿，從這殿，
+湧出這水流，
+從這殿到全地，
+生命在湧流，
+願這水流加深，
+主，聽我們求，我們就必
+被你量過並佔有。</stanza>
+	<stanza type="verse" number="3">量我們，量我們，
+天天量又量，
+量我們，量更多，
+一直量又量，
+直到我們看見
+水流成江河，流通全地，
+使人全被主點活。</stanza>
+	<stanza type="verse" number="4">領我們，領我們，
+從水流經過，
+領我們從水流，
+經過再經過，
+水流一直漲高，
+成可洑的水，
+我們被浸透，
+永遠享神恩惠。</stanza>
+	<stanza type="verse" number="5">都必活，都必活，
+隨流都必活，
+都必活，真正活，
+百物隨流活，
+願這水流帶來
+豐盛的生命，
+直到眾召會
+在全地都顯明。</stanza>
+  </lyrics>
+</hymn>

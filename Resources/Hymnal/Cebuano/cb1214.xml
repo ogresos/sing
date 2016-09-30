@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kuhaa, kuhaa, kuhaa</title>
+  <index>true</index>
+  <category>NAGKALAINLAING ASPETO SA KINABUHI SA SULOD&amp;mdash;PAGBATOK SA KASINGKASING</category>
+  <numbers><cebuano num="1214"/><chinese num="ts:408"/><english num="1214"/><german num="1214"/><spanish num="317"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">Translated from R. K.</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1 7./ 7// (break) | ._1 - - 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1 7./ 7// (break) | ._1 - - (Chorus) ._1/ ._1/ | ._1 - - ._1/ 6/ | 5 - - ._1/ ._1/ | ._1 - - 6 | (.5 5./ 6// 5./ 4// 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1 7./ 7// | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1214"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kuhaa, kuhaa, kuhaa,
+Ang sala nga kanako nagsudya!
+Kuhaa, kuhaa, kuhaa,
+Ang sala nga kanako nagsudya!</stanza>
+	<stanza type="chorus" number="">Kon sala makuha,
+Agay mogula . . . Hallelujah!
+Kuhaa, kuhaa, kuhaa,
+Ang sala nga kanako nagsudya!</stanza>
+	<stanza type="verse" number="2">Kuhaa, kuhaa, kuhaa,
+Ang kawang nga mga pangandoy ko!
+Kuhaa, kuhaa, kuhaa,
+Ang kawang nga mga pangandoy ko!</stanza>
+	<stanza type="chorus" number="">Kuhaang damgo ko,
+Agay mogula . . . Hallelujah!
+Kuhaa, kuhaa, kuhaa,
+Ang kawang nga mga pangandoy ko!</stanza>
+	<stanza type="verse" number="3">Kuhaa, kuhaa, kuhaa,
+Tanan nga nagsamok nga pagbati!
+Kuhaa, kuhaa, kuhaa,
+Tanan nga nagsamok nga pagbati!</stanza>
+	<stanza type="chorus" number="">Kuhaang gugma ko,
+Sa kaugalingon . . . Hallelujah!
+Mogula ang kinabuhi Mo
+Kuhaang nagsamok nga pagbati!</stanza>
+	<stanza type="verse" number="4">Kuhaa, kuhaa, kuhaa
+Tanang pagsuki sa pagbuot ko!
+Kuhaa, kuhaa, kuhaa,
+Tanang pagsuki sa pagbuot ko!</stanza>
+	<stanza type="chorus" number="">Kuhaang pagbuot,
+Ikaw magbuot . . . Hallelujah!
+Kuhaa, kuhaa, kuhaa,
+Tanang pagsuki sa pagbuot ko!</stanza>
+	<stanza type="verse" number="5">Kuhaa, kuhaa, kuhaa,
+Tanang kaugalingong tinguha ko!
+Kuhaa, kuhaa, kuhaa,
+Tanang kaugalingong tinguha ko!</stanza>
+	<stanza type="chorus" number="">Tanan nga paglaum,
+Imong kuhaon . . . Hallelujah!
+Mogula ang kinabuhi Mo
+Kuhaang kaugalingong tinguha!</stanza>
+	<stanza type="verse" number="6">Ang kinabuhi Mo moagay,
+Gikan's tubod sa kasingkasing ko!
+Ang kinabuhi Mo moagay,
+Gikan's tubod sa kasingkasing ko!</stanza>
+	<stanza type="chorus" number="">Ang kasingkasing ko
+Kon mahigawas . . . Hallelujah!
+Diha nako S'ya makaagay,
+Gikan's tubod sa kasingkasing ko!</stanza>
+  </lyrics>
+</hymn>

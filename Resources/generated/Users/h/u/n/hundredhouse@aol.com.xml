@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>lesley</firstname>
+  <lastname/>
+  <email>hundredhouse@aol.com</email>
+  <password>$2y$10$aEDbLNeLCbyVXVuL0SsBn.vxgnlh0djyncFBVttqYoyKaoQQcMT7e</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>2.103.235.142</ipaddress>
+  <createdate>2014-10-07 09:37:38</createdate>
+  <lastupdateddate>2014-10-07 11:20:31</lastupdateddate>
+  <lastlogindate>2014-10-07 10:36:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+  </favourites>
+</user>

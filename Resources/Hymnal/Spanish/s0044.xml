@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Al Rey supremo alabad</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su nombre</category>
+  <numbers><cebuano num="79"/><chinese num="68*"/><english num="79"/><korean num="68"/><portuguese num="46"/><russian num="21"/><spanish num="44"/><tagalog num="79"/></numbers>
+  <creators>
+    <author biodate="1854-?" biolink="">Translated from William Henry Clark</author>
+  </creators>
+  <music>
+    <midiref type="h" num="79"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Al Rey supremo alabad,
+Al que Su vida dio,
+Al que͜ en lo alto reina hoy,
+Al que nos redimió.</stanza>
+    <stanza type="chorus" number="">Su nombre͜ ensalzad,
+Su nombre͜ ensalzad,
+Del Señor el nombre͜ ensalzad.
+Su nombre͜ ensalzad,
+Su nombre͜ ensalzad,
+Del Señor el nombre͜ ensalzad.</stanza>
+    <stanza type="verse" number="2">Su nombre sobre todos es,
+El Padre lo͜ exaltó;
+A Su derecha lo sentó,
+Digno͜ es de͜ adoración.</stanza>
+    <stanza type="verse" number="3">Amigo es y Salvador
+Del bajo pecador;
+El plan de salvación trazó,
+Por todos El murió.</stanza>
+    <stanza type="verse" number="4">Su nombre es Consolador,
+Y Príncipe de Paz;
+De reinos es Conquistador,
+Por siempre reinará.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jeff</firstname>
+  <lastname>rudnik</lastname>
+  <email>budrudnik19@gmail.com</email>
+  <password>$2y$10$MsQYyOM356h2h726tb8EJO99t0Me7Y2YsCap53jicIhev8K3itv1i</password>
+  <gender/>
+  <country/>
+  <ipaddress>172.56.28.155</ipaddress>
+  <createdate>2015-03-01 16:13:31</createdate>
+  <lastupdateddate>2015-03-29 14:39:15</lastupdateddate>
+  <lastlogindate>2015-03-01 16:14:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="lb" num="34">The Lord is my Shepherd</fav>
+  </favourites>
+</user>

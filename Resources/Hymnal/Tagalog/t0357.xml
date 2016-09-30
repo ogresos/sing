@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Apoy banal, Hesus akin</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;KAY KRISTO</category>
+  <numbers><cebuano num="357"/><chinese num="279"/><english num="357"/><korean num="279"/><russian num="453"/><tagalog num="357"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Apoy banal, Hesus akin,
+Puso ko'y Iyong paningasin;
+Budhi'y nilinisan.
+Sarili Mo 'ko'y tustusan,
+Dahil Diyos sa 'kin nagsilang,
+Tamasa'y Iyong yaman.</stanza>
+    <stanza type="verse" number="2">Ako'y nakatuon sa Iyo,
+D'hil kasama Mong napako,
+Buhay nang ayon sa Diyos.
+Patay sa mundo't laruan,
+Maging sa mga diyus-diyusan,
+Glorya Kitang lubos.</stanza>
+    <stanza type="verse" number="3">Hindi mapatid na uhaw,
+Ikaw lamang makatighaw,
+Kita'y mamahalin.
+Di na ipagkalo'b sa 'kin,
+Kung di pa Ikaw maangkin;
+Ikaw lahat sa 'kin.</stanza>
+    <stanza type="verse" number="4">Hayaang mawala sa Iyo,
+Nang lahat ay Sarili Mo,
+Sa akin lahat Ka.
+Tinawag nang magtiwala,
+Liban sa Iyo walang Sinta;
+B'yaya sa biyaya!</stanza>
+  </lyrics>
+</hymn>

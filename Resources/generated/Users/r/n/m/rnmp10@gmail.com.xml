@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Psalmist</firstname>
+  <lastname>J</lastname>
+  <email>rnmp10@gmail.com</email>
+  <password>$2y$10$OleRSDTDoT5xue2/QWxTT.oC6DdyiBUrsSds6rm/CJjA6VTx42cSG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.121.65.146</ipaddress>
+  <createdate>2014-10-07 23:15:49</createdate>
+  <lastupdateddate>2014-10-07 23:36:23</lastupdateddate>
+  <lastlogindate>2014-10-07 23:19:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+    <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+  </favourites>
+</user>

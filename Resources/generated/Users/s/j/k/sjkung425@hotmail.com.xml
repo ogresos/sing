@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Sue</firstname>
+<lastname>Kung</lastname>
+<email>sjkung425@hotmail.com</email>
+<password>$1$F1i4YmWc$ibmWZLbqndt9SJPFXeOaf1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>173.89.191.92</ipaddress>
+<createdate>2008-11-05 12:49:51</createdate>
+<lastupdateddate>2009-09-15 18:26:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="223">On the table of Thy love</fav>
+    </favourites>
+</user>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Viviana</firstname>
+  <lastname>Arzabe</lastname>
+  <email>viviana.arzabe@gmail.com</email>
+  <password>$2y$10$13tMkuDQjVQi9NxlY8hwy./z2qvwA7YpBAt28nd6zf2DHmAYGafDi</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>66.87.108.21</ipaddress>
+  <createdate>2014-06-12 00:39:36</createdate>
+  <lastupdateddate>2016-04-07 16:52:22</lastupdateddate>
+  <lastlogindate>2016-04-07 16:49:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="27">Before God put the leaves on the trees</fav>
+    <fav category="default" type="ns" num="124">Calling, O Lord Jesus</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="c" num="26">Jesus came proclaiming</fav>
+    <fav category="default" type="c" num="31">Lord, today, keep my heart</fav>
+    <fav category="default" type="ns" num="394">The Living Vine, a Reality</fav>
+    <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    <fav category="default" type="h" num="1336">What shall I give unto the Lord</fav>
+    <fav category="default" type="c" num="9">You come to me with a sword and a spear</fav>
+  </favourites>
+</user>

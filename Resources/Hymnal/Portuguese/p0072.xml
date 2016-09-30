@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ao Rei vindouro, Jesus, exaltai</title>
+  <index>true</index>
+  <category>Seu Reino</category>
+  <numbers><chinese num="ts:22"/><english num="151"/><korean num="809"/><portuguese num="72"/><russian num="30"/><spanish num="75"/><tagalog num="151"/></numbers>
+  <creators>
+    <author biodate="1865-1914" biolink="">Translated from Charles Silvester Horne</author>
+  </creators>
+  <music>
+    <midiref type="h" num="151"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ao Rei vindouro, Jesus, exaltai,
+Glória ao Cordeiro de Deus tributai;
+Paz e justiça e gozo há de ter
+O Seu reinado quando Ele for Rei.</stanza>
+    <stanza type="chorus" number="">Juntos rendei glória ao Rei,
+Cristo, o Rei; Cristo, o Rei!
+Todos cantai, a Jesus exaltai:
+Glória a Jesus, Rei, Jesus nosso Rei.</stanza>
+    <stanza type="verse" number="2">Em Sua luz todos habitarão,
+Unidos por Seu amor, sem facção;
+Verdade e retidão vão nascer
+Bem de Seu cetro quando Ele for Rei.</stanza>
+    <stanza type="verse" number="3">Sabedoria haverá mais e mais,
+E liberdade em Seu reino de paz;
+O inimigo, amigo há de ser,
+E espadas, relhas, quando Ele for Rei.</stanza>
+    <stanza type="verse" number="4">Lá o Seu conhecimento será
+Como as águas que cobrem o mar;
+Tudo estará em perfeito esplendor
+E harmonia, ao reinar o Senhor.</stanza>
+    <stanza type="verse" number="5">"Venha Teu reino", eis nosso clamor,
+Tal grande dia apressa, Senhor,
+Quando a criação novo canto há de ter:
+"Cristo venceu, para sempre é Rei!"</stanza>
+  </lyrics>
+</hymn>

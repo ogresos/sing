@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I Love My Master</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Serving the Lord</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Colin Ting">C. T.</author>
+    <composer biodate="" biolink="" fullname="Colin Ting">C. T.</composer>
+  </creators>
+  <hymncode>5532113432176</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Cmaj7 - - - | Am - - - | C/G - - - | F - - - | Dm7 - - - | C/G - - - | G7 - - - | C - - - | Cmaj7 - - - | Am - - - | A7 - - - | Dm7 - - - | G7 - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | Dm7 - - - | Fm - - - | Gsus4 - - - | G7 - - - | C - - - | Cmaj7 - - - | Am - - - | A7 - - - | Dm7 - - - | G7 - - - | C - - - | C - - - ||</chords>
+  <melody>| 0 5_. 5 3 | 2.( 1/) 1 - | 0 3/ 4/ 3. 2/ | 1. 7_./ 6_. - | 0 7_. 1 2 | 7_.. 6_./ 6_. - | 0 7_. 1 2 | 3. 3/ {3 4 3} | 2 0/ 5_./ 5 3 | 2.( 1/) 1 - | 0 3/ 4/ 3. 2/ | 1. 7_./ 6_. - | 0 6_. 6 3 | 4. 3/ 4. 3/ | 2 - 1 7_. | 1 - - - (break) | 0 (Chorus) 1 ._1 5 | 5.( 6/) 6 - | 0 7/ ._1/ 7 6 | 5. 4/ 3 - | 0 3 4 5 | 4. 3/ 2 - | 0 4/ 4/ 3 1 | 2 - - - | 0 5_. 5 3 | 2.( 1/) 1 - | 0 3/ 4/ 3. 2/ | 1. 7_./ 6_. - | 0 6_. 6 3 | 4. 3/ 4. 3/ | 2. 2/ 1 7_. | 1( - - - | 1) 0 - - ||</melody>
+  <layout>
+    <singingstanza>I love my Mas -- ter, and I will not go out free. For He has died for me, the high -- est price He has paid for me. I love my Mas -- ter, I will serve Him will -- ing -- ly.  Re -- main -- ing near, and close to Him this my plea. I love You Mas -- ter, from You I will nev -- er leave. You are my lib -- er -- ty, and my joy com -- plete. I love my Mas -- ter, and I will not go out free. To Him I give my all, my life e -- ter -- nal -- ly!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Exodus 21:5-6</link>
+  </links>
+  <music>
+    <midi location="ns" length="86">ns0133.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I love my Master, and I will not go out free.
+For He has died for me, the highest price He has paid for me.
+I love my Master, I will serve Him willingly. 
+Remaining near, and close to Him this my plea.</stanza>
+    <stanza type="chorus" number="">I love You Master, from You I will never leave.
+You are my liberty, and my joy complete.
+I love my Master, and I will not go out free.
+To Him I give my all, my life eternally!</stanza>
+    <stanza type="verse" number="2">Oh Jesus, Master, to the door post now bring me.
+Open my ears to hear, Your voice and all that You say to me.
+Oh Jesus, Master, I will obey willingly.
+To love and serve Him all my life, this my plea!</stanza>
+  </lyrics>
+</hymn>

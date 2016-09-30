@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Priscilla</firstname>
+    <lastname>LeVon</lastname>
+    <email>priscillalevon@gmail.com</email>
+    <password>LAmuXL8xYbtDvdZBzWjq2Q%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>67.175.45.171</ipaddress>
+    <createdate>2011-01-30 16:03:26</createdate>
+    <lastupdateddate>2011-05-16 15:50:25</lastupdateddate>
+    <lastlogindate>2011-05-16 15:44:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="314">And they sing a new song</fav>
+        <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+        <fav category="default" type="ns" num="352">For her</fav>
+        <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+        <fav category="default" type="ns" num="60">O there's One in me</fav>
+    </favourites>
+</user>

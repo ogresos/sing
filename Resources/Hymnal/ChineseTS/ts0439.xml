@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神的大愛將我圍困</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><chinese num="ts:439"/><english num="431"/><portuguese num="198"/><spanish num="183"/></numbers>
+  <creators>
+	<author biodate="1868-1927" biolink="">Translated from Emily May Grimes</author>
+  </creators>
+  <melody>| 3 - 2 3 | 1 - - 1 | 2 3 4 5 | 3 - - - (break) | 5 - 4 5 | 3 - 2 - | 1 1 1 1 | 7_. - - - (break) | 3 - 2 7_. | 1 - 5 - | 6 ._1 7. 4/ | 6( - 5) - (break) | 6 - 4 3 | 3 5 4 6_. | 1 - 2 - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>神 阿， 你 的 大 愛 將 我 圍 困， 有 如 強 潮 澎 湃 迫 我 而 來； 不 再 自 縛， 全 人 歡 然 投 順， 好 讓 你 愛 流 過， 毫 無 阻 礙。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="431"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神阿，你的大愛將我圍困，
+有如強潮澎湃迫我而來；
+不再自縛，全人歡然投順，
+好讓你愛流過，毫無阻礙。</stanza>
+	<stanza type="verse" number="2">困迫之愛，大能有誰能檔？
+愛潮洶湧，我豈能再頑固？
+我神，你的恩慈有誰能抗？
+我今投誠不再依然如故。</stanza>
+	<stanza type="verse" number="3">天上之愛攻破我的天然，
+修直心思、意念所有途徑，
+漫溢我情，純淨所有意願，
+使你純潔生命流通不停。</stanza>
+	<stanza type="verse" number="4">如此，我神在我居衷掌權，
+恩典帶愛緩緩湧自心懷；
+恩愛江河從今流到永遠，
+能愛，是因滿享我神大愛。</stanza>
+  </lyrics>
+</hymn>

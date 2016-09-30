@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>John</firstname>
+<lastname>Atchison</lastname>
+<email>jwatchison@comcast.net</email>
+<password>$1$1rhfdqGM$WTRz1t9HhsfTMztnvBN5o1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.121.137.118</ipaddress>
+<createdate>2009-03-20 20:06:10</createdate>
+<lastupdateddate>2009-09-15 18:29:41</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="93">All Scripture is God-breathed</fav>
+    </favourites>
+</user>

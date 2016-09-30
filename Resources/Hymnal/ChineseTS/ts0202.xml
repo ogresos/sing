@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦，說不出的喜樂</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="1153"/><chinese num="ts:202"/><dutch num="44"/><english num="1153"/><french num="113"/><german num="1153"/><korean num="966"/><portuguese num="302"/><russian num="114"/><spanish num="276"/><tagalog num="1153"/></numbers>
+  <melody>| 0 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 5/ 5/ | 5 6 7 ._1 (break) | ._2 - - 5/ 5/ | ._1 ._1 ._3 ._1 | ._1 6 5 ._3/ ._3/ | ._2 ._1 7 6 (break) | 5 - - (Chorus) 5/ 5/ | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5 ._1 | 7 5 7 ._2 | ._1 5 ._1 ._3/ ._2/ (break) | ._1 ._1 ._3/ ._2/ ._1/ 6/ | 5 3 5/ ._1/ ._1/ 7/ | 6 ._2 ._1/ 7/ 6/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 已 得 到 萬 有 基 督， 祂 是 我 們 的 一 切； 呼 喊 祂 的 名， 何 等 有 福， 何 等 神 聖， 何 超 越！ 哦， 說 不 出 的 喜 樂， 且 滿 了 榮 耀， 滿 了 榮 耀， 滿 了 榮 耀， 說 不 出 的 喜 樂， 且 滿 了 榮 耀， 甚 至 一 半 都 未 能 說 出。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1153"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們已得到萬有基督，
+祂是我們的一切；
+呼喊祂的名，何等有福，
+何等神聖，何超越！</stanza>
+	<stanza type="chorus" number="">哦，說不出的喜樂，
+且滿了榮耀，
+滿了榮耀，滿了榮耀，
+說不出的喜樂，
+且滿了榮耀，
+甚至一半都未能說出。</stanza>
+	<stanza type="verse" number="2">我們已知道那靈基督，
+住在我們的靈裡，
+何等便利又親近的主，
+祂的甘甜無可比。</stanza>
+	<stanza type="verse" number="3">我們已得到生活祕訣，
+讀祂話並喊祂名！
+藉此喫喝主，必無所缺，
+牠的價值真顯明。</stanza>
+	<stanza type="verse" number="4">我們已尋到地方召會，
+我們已經回到家！
+永不再在巴比倫徘徊，
+在召會裡美而佳。</stanza>
+	<stanza type="verse" number="5">我們已經歷聖徒同聚，
+是地上最樂的事；
+藉此我們的靈不憂鬱，
+且使生活有價值。</stanza>
+  </lyrics>
+</hymn>

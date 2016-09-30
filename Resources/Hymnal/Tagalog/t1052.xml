@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako ay lumayo sa Diyos</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;LUMALAPIT SA PANGINOON</category>
+  <numbers><cebuano num="1052"/><chinese num="728"/><english num="1052"/><french num="203"/><german num="1052"/><korean num="728"/><portuguese num="461"/><russian num="176"/><spanish num="484"/><tagalog num="1052"/></numbers>
+  <creators>
+	<author biodate="1838-1921" biolink="">Translated from William James Kirkpatrick</author>
+  </creators>
+  <melody>| 0 - - 5 | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._3/ ._3. | ._2 - - 5 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 (break) | (Chorus) ._3/ ._3. ._1 - | ._1/ ._1. 6 - | 5 ._3 ._3 ._1 | ._2 - - 0 (break) | ._3. ._3/ ._1. ._1/ | 6/( ._1) 6/ 5. 0/ | ._1 ._1 ._2/ ._2. | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1052"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ako ay lumayo sa Diyos,
+Pauwi na 'ko;
+Sa kasalanan ay gapos,
+Pauwi na 'ko.</stanza>
+	<stanza type="chorus" number="">Ako'y pauwi na,
+Di na gagala;
+Tawag ng pag-ibig Mo,
+Pauwi na 'ko.</stanza>
+	<stanza type="verse" number="2">Maraming taon naaksaya,
+Pauwi na 'ko;
+Nagsisisi't lumuluha,
+Pauwi na 'ko.</stanza>
+	<stanza type="verse" number="3">Sa kasalana'y bagot na
+Pauwi na 'ko;
+Pag-ibig Mo at salita
+Panghawakan ko.</stanza>
+	<stanza type="verse" number="4">Puso't kalulwa'y mahapdi,
+Pauwi na 'ko;
+Pag-asa't lakas mabawi
+Sa pag-uwi ko.</stanza>
+	<stanza type="verse" number="5">Tanging pag-asa at samo,
+Pauwi na 'ko;
+Hesus namatay't nagdugo,
+Pauwi na 'ko.</stanza>
+	<stanza type="verse" number="6">Kailangan ko Kanyang dugo,
+Pauwi na 'ko;
+Lubos na hugasan ako,
+Pauwi na 'ko.</stanza>
+  </lyrics>
+</hymn>

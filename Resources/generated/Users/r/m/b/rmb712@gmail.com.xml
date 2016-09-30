@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bobby</firstname>
+  <lastname>Baden</lastname>
+  <email>rmb712@gmail.com</email>
+  <password>$2y$10$Tn4ipxYwftYLjnYQu5JScO3G1aKXH8MQYJjJv4y4J7giiqJDpxRya</password>
+  <gender/>
+  <country>jp</country>
+  <ipaddress>221.85.223.142</ipaddress>
+  <createdate>2016-06-13 05:23:55</createdate>
+  <lastupdateddate>2016-06-17 21:39:37</lastupdateddate>
+  <lastlogindate>2016-06-14 04:31:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="161">Praise the Savior, ye who know Him</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

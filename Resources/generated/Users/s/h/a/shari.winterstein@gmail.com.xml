@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Shari</firstname>
+    <lastname>Winterstein</lastname>
+    <email>shari.winterstein@gmail.com</email>
+    <password>Ks3ZgvJsQwnsQhIalmZkMA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>38.121.5.99</ipaddress>
+    <createdate>2011-10-07 20:32:32</createdate>
+    <lastupdateddate>2011-10-07 21:32:09</lastupdateddate>
+    <lastlogindate>2011-10-07 21:32:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

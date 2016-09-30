@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lahat na kilala</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PANGALAN</category>
+  <numbers><english num="80"/><tagalog num="80"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+  </creators>
+  <music>
+    <midiref type="h" num="80"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lahat na kilala
+Sa dunong, pagsinta
+Na batid ng tao
+Sa anghel totoo;
+Hindi lubusang mabigkas
+Halaga ng Manliligtas.</stanza>
+    <stanza type="verse" number="2">Dakilang Propeta,
+Dila'y purihin Ka.
+Sa Iyo nga nagmula
+Mabuting balita;
+Kamatayan Iyong tinapos
+Buhay napalayang lubos.</stanza>
+    <stanza type="verse" number="3">Hesus, Saserdote
+Para sa 'king budhi,
+Dugo Niya'y inalay
+Kaya nga namatay:
+Tinubos ako ng dugo,
+Halaga'y batid ng puso.</stanza>
+    <stanza type="verse" number="4">Tinig ng Pastol ko
+O minamahal ko!
+Akong isang tupa
+Inalagaan Niya:
+Pinapakain kawan Niya,
+Tinatawag ngalan nila.</stanza>
+    <stanza type="verse" number="5">Hari't Panginoon,
+Aking Mananakop,
+Biyaya Mo't sentro,
+Ay aawitin ko:
+Iyong-iyo ang kapangyarihan
+Ako'y nasa iyong paanan.</stanza>
+  </lyrics>
+</hymn>

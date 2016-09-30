@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles/>
+  <firstname>Adi</firstname>
+  <lastname>Puplampu</lastname>
+  <email>adipuplampu@yahoo.com</email>
+  <password>lueHbwwDexOGNJ6MdeT2Fw%3D%3D</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-06 09:04:50</createdate>
+  <lastupdateddate>2014-06-20 09:08:30</lastupdateddate>
+  <lastlogindate>2014-06-06 08:47:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="234">Who is He in yonder stall</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

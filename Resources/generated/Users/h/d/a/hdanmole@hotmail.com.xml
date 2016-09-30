@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>HAKEEM</firstname>
+  <lastname>DANMOLE</lastname>
+  <email>hdanmole@hotmail.com</email>
+  <password>$2y$10$E/UU3Lvm0pJp3NlXFOkgJONKDdALQvKdhhMLfOjw7.lt7yO7EsY0K</password>
+  <gender/>
+  <country/>
+  <ipaddress>77.246.164.162</ipaddress>
+  <createdate>2016-02-08 17:13:06</createdate>
+  <lastupdateddate>2016-02-08 18:23:13</lastupdateddate>
+  <lastlogindate>2016-02-08 17:19:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+  </favourites>
+</user>

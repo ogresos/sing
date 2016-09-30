@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Magtumulin tungo sa gol</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA MAGTUMULIN</category>
+  <numbers><cebuano num="1205"/><chinese num="ts:423"/><english num="1205"/><german num="1205"/><korean num="1006"/><russian num="469"/><spanish num="301"/><tagalog num="1205"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="David Matteson">Translated from D. M.</author>
+  </creators>
+  <melody>| 0 - 5 - | 5 - 5 - | 5 - - 4 | 4 - 3 - | 3 - - 3 | 3 - 3 - | 5 - 3 - | 4( - - - (break) | 4) - 5 - | 5 - 7 - | 7 - - 7 | ._1 - 5 - | 5 - - 5 | 6 - 4 - | 3 - 2 - (break) | 1( - - - | 1) 0 (Chorus) 5. 5/ | 7( - - - | 7) - 5. 5/ | ._1( - - - | ._1) - 5. 5/ | ._2( - - - (break) | ._2) - 5. 5/ | ._3 ._2 ._1 7 | ._1 7 6. 5/ | 7( - - - (break) | 7) - 5. 5/ | ._1( - - - | ._1) - 5 - | 6 - 4 - | 3 - 2 - | 1( - - - | 1) 0 - - |</melody>
+  <music>
+	<midiref type="h" num="1205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Magtumulin tungo sa gol,
+Kay Kristo'y maghabol.
+Premyo ng pagtawag ng Diyos,
+At tamuhing lubos.</stanza>
+	<stanza type="chorus" number="">Habulin! Habulin!
+Habulin! Aleluya sa premyo.
+Magtumulin! Habulin!
+Kristo ng Diyos tam'hin.</stanza>
+	<stanza type="verse" number="2">Magtumulin, at ibilang,
+Lahat kalugihan;
+Kristo ng Diyos matamo lang
+'Nong kal'walhatian!</stanza>
+	<stanza type="verse" number="3">Magtumulin, kilanlin Siya'y
+Muling pagkabuhay -
+Ito'y ating gantimpala,
+Maging sa pagd'rusa.</stanza>
+	<stanza type="verse" number="4">Magtumulin, ito'y gawin,
+Lumipas limutin;
+Kristo sa harap habulin,
+Ang dapat isipin.</stanza>
+  </lyrics>
+</hymn>

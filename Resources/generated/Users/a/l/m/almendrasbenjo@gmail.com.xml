@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Benedict</firstname>
+  <lastname>John</lastname>
+  <email>almendrasbenjo@gmail.com</email>
+  <password>$2y$10$8yHmN4XC7qbCo7KTlfYUkO/JDG24cMxF.eqm7fOPI4gjtX2HClHBO</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>180.191.131.114</ipaddress>
+  <createdate>2015-07-05 01:40:54</createdate>
+  <lastupdateddate>2016-08-07 00:11:09</lastupdateddate>
+  <lastlogindate>2016-07-20 12:19:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+    <fav category="default" type="ns" num="329">But Flee Youthful Lusts</fav>
+    <fav category="default" type="ns" num="500">But whoever drinks</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="1240">Deeper, deeper, in the cross of Jesus</fav>
+    <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="495">God Has Chosen You and Me</fav>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="ns" num="496">God's Central Work and Purpose</fav>
+    <fav category="default" type="h" num="1199">God's intention in this universe is with humanity</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="504">He gives power to the faint</fav>
+    <fav category="default" type="ns" num="448">I Have an Excuse!</fav>
+    <fav category="default" type="ns" num="133">I Love My Master</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="lb" num="86">If we would love the Lord</fav>
+    <fav category="default" type="nt" num="154">It passeth telling, that dear love of Thine</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+    <fav category="default" type="ns" num="415">Lord, I love You more today, than any other</fav>
+    <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+    <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="ns" num="36">Make me wholly Thine</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+    <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="ns" num="353">Now to Him Who is able</fav>
+    <fav category="default" type="h" num="1293">O I'm a man</fav>
+    <fav category="default" type="ns" num="544">O Lord, You Know What's in My Heart</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+    <fav category="default" type="ns" num="414">Oneness</fav>
+    <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="ns" num="192">Some, these days, would tell us that our Jesus is not food</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="ns" num="361">The Goal of the Gospel</fav>
+    <fav category="default" type="ns" num="499">The Vision of God's Building</fav>
+    <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+    <fav category="default" type="ns" num="383">These things says the Holy One</fav>
+    <fav category="default" type="h" num="1153">We have found the Christ who's all in all</fav>
+    <fav category="default" type="h" num="1178">We have seen Christ is reality</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="ns" num="402">Where is the House</fav>
+  </favourites>
+</user>

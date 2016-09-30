@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Yutan-on kong sudlanan</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;SUDLAN TA NIYA</category>
+  <numbers><cebuano num="548"/><chinese num="425"/><dutch num="62"/><english num="548"/><german num="548"/><korean num="425"/><portuguese num="277"/><russian num="271"/><spanish num="256"/><tagalog num="548"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2/ 1 4 | 3. 2/ 1 - | 2. 1/ 7_. 6 | 5. 4/ 3 - (break) | 3. 2/ 1 4 | 3. 2/ 1 1/ 1/ | 2 4 3 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="548"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Yutan-on kong sudlanan,
+Nga gisudlan ug Cristo;
+Ako maoy sudlanan,
+Siya mismo m'oy sulod.</stanza>
+	<stanza type="verse" number="2">Gihimo ko's dagway N'ya,
+Maangay nga sudlan N'ya;
+Busa ako giporma
+Sama gyud's isulod N'ya.</stanza>
+	<stanza type="verse" number="3">Nagpuyo S'ya's esp'ritu,
+Gigamhan ko's Esp'ritu;
+Nausa S'ya kanako,
+Siyay realidad ko.</stanza>
+	<stanza type="verse" number="4">Naglihok sa sulod ko,
+Nakigsagol kanako,
+Nagbalaod's lihok ko,
+Matag bahin nagsurop.</stanza>
+	<stanza type="verse" number="5">I'dayag gikan's sulod,
+Aron makita's uban;
+Masihag unya ako,
+Makita S'ya kanako.</stanza>
+	<stanza type="verse" number="6">Pagtransporma kin'hanglan,
+Labi pa nga madugmok;
+Aron lapokon usbon,
+Bahanding mahim'yaon.</stanza>
+  </lyrics>
+</hymn>

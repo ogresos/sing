@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Casey</firstname>
+    <lastname>Brown</lastname>
+    <email>caseyb48@comcast.net</email>
+    <password>lF8wiCzU%2FFOaXlQxMN0Dww%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>98.211.32.153</ipaddress>
+    <createdate>2013-10-16 00:00:04</createdate>
+    <lastupdateddate>2013-10-19 21:39:16</lastupdateddate>
+    <lastlogindate>2013-10-19 21:39:16</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="101">All Things Work Together for Good</fav>
+        <fav category="default" type="ns" num="425">And I saw the holy city</fav>
+        <fav category="default" type="ns" num="318">But to Him who is able to do superabundantly</fav>
+        <fav category="default" type="ns" num="387">But whoever drinks of the water</fav>
+        <fav category="default" type="h" num="8330">How vast, immense, and measureless</fav>
+        <fav category="default" type="ns" num="381">I am the living bread</fav>
+        <fav category="default" type="lb" num="46">I bow my knees unto the Father</fav>
+        <fav category="default" type="ns" num="353">Now to Him Who is able</fav>
+        <fav category="default" type="lb" num="61">The Good Samaritan</fav>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We give thanks to Thee O Lord</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:278"/><vsb num="238"/></numbers>
+  <hymncode>3555555431234</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | F - - - | C - - - | C - - - | F - - - | F - - - | F - - - | G - - - | C - - - | F - - - | C - - - | F - G7 - | C - - - | C - - - | Dm - - - | G - - - | C - - G/B | Am - C/G - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - G/B | Am - C/G - | F - - - | G - - - | C - F/C - | C - - - | G - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | C - - - | C - - - | G - - - | G - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 3/ 5/( 5/) 5/( 5.) 5/ | 5/ 5/( 5/) 5/( 5/) 4/ 3 | 1( - 2)( - | 3)( - 4) - (break) | 3/ 5/( 5/) 5/( 5.) 5/ | 5/ 5/( 5/) 5/( 5/) 4/ 3 | 1( - - - | 1) - - 0 (break) | 6 6 6 6 | 5 - - 0/ 5/ | 5 5/ 5/( 5/)( 4/)( 3) | 4 3/ 1/( 1) - (break) | 3/ 5/( 5/) 5/( 5.) 3/ | 4/ 4/( 4/) 4/( 4/) 3/ 2 | 1( - - - (break) | 1) 0/ 5_./ 1( 3) | 4 - - 3 | 2. 5_./ {7_. 1 2} | 3( - - 2)( | 1) - {1 2 3} | 4 4 - 4/ 3/ | 2 - - 1/( 6_./) | 5_.( - - - (break) | 5_.) 0/ 5_./ 1( 3) | 4 - - 3 | 2. 5_./ {7_. 1 2} | 3( - - 2)( | 1) - {1 2 3} | 4 4 - 4/ 3/ | 2 - - 1 | 1( - - - (break) | 1) - 5 5 | 5 - 5( - | 5) - 5 5 | 5 - 5( - | 5) - 5 5 | 5 - 4( - | 4) - 3( 5) | 5( - - - (break) | 5) - 5 5 | 5 - 5( - | 5) - 5 5 | 5 - 5( - | 5) - 5 5 | 5 - 4( - | 4) - 3( 2) | 1( - - - | 1) - 0 - ||</melody>
+  <layout>
+    <singingstanza end="-1">We give thanks to Thee, O Lord, We give thanks. We give thanks to Thee, O Lord, We give thanks. For Thy name is near; Thy won -- drous works men de -- clare&amp;mdash; We give thanks to Thee O Lord, We give thanks. For Thou, Lord, art high&amp;mdash; A -- bove all the earth. Thou art ex -- alt -- ed Far a -- bove all gods. For Thou, Lord, art high&amp;mdash; A -- bove all the earth. Thou art ex -- alt -- ed Far a -- bove all gods. We ex -- alt Thee; we ex -- alt Thee; We ex -- alt Thee, O Lord! We ex -- alt Thee; we ex -- alt Thee; We ex -- alt Thee, O Lord!</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 75:1</link>
+  </links>
+  <music>
+    <midi location="ns" length="104">ns0278.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">We give thanks to Thee, O Lord,
+We give thanks.
+We give thanks to Thee, O Lord,
+We give thanks.
+For Thy name is near;
+Thy wondrous works men declare&amp;mdash;
+We give thanks to Thee O Lord,
+We give thanks.</stanza>
+    <stanza type="verse" number="">For Thou, Lord, art high&amp;mdash;
+Above all the earth.
+Thou art exalted
+Far above all gods.
+For Thou, Lord, art high&amp;mdash;
+Above all the earth.
+Thou art exalted
+Far above all gods.</stanza>
+    <stanza type="verse" number="">We exalt Thee; we exalt Thee;
+We exalt Thee, O Lord!
+We exalt Thee; we exalt Thee;
+We exalt Thee, O Lord!</stanza>
+  </lyrics>
+</hymn>

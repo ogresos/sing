@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kaibigang natagpuan</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;MINAHAL NG PANGINOON</category>
+  <numbers><english num="288"/><korean num="864"/><spanish num="139"/><tagalog num="288"/></numbers>
+  <creators>
+    <author biodate="1817-1888" biolink="">Translated from James Grindlay Small</author>
+  </creators>
+  <music>
+    <midiref type="h" num="288"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kaibigang natagpuan
+Kay Hesus na nagmahal,
+Pag-ibig Niya tinalian
+Ako para sa Kanya.
+At puso'y nakagapos sa
+Di-mapatid na lubid,
+Ako'y Kanya, Siya ay akin
+Ngayo't magpakailanman.</stanza>
+    <stanza type="verse" number="2">Kaibigang natagpuan,
+Buhay Kanyang inalay,
+Sarili Niya'y ibinigay
+Nagdugo at namatay.
+Sarili ko'y di na akin,
+Angkin ng Tagabigay;
+Puso, lakas, buhay, lahat
+Sa Kanya walang hanggan.</stanza>
+    <stanza type="verse" number="3">Kaibigang natagpuan,
+Siya'y magiliw at tunay
+Tagapayo, at patnubay,
+Manananggol matibay.
+Ano'ng makapaghiwalay?
+Sa Kanya at sa akin?
+Buhay o kamatayan man?
+Wala ako'y sa Kanya.</stanza>
+  </lyrics>
+</hymn>

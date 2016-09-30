@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ernesto</firstname>
+  <lastname>Isasi</lastname>
+  <email>josueisasi@gmail.com</email>
+  <password>$2y$10$BrWIGne8kmcfTCDrXkcduOOXnvPy5MHGgeF5rEJo4o4L0t8r1b/Zi</password>
+  <gender>M</gender>
+  <country>Paraguay</country>
+  <ipaddress>186.16.37.126</ipaddress>
+  <createdate>2009-03-18 14:39:53</createdate>
+  <lastupdateddate>2016-08-30 21:59:41</lastupdateddate>
+  <lastlogindate>2016-08-30 21:59:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

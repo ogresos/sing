@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Is your life a channel of blessing</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;A Channel of Blessing</category>
+  <creators>
+    <author biodate="1807-1884" biolink="">James George Deck</author>
+    <composer biodate="" biolink="">J. C. Trench</composer>
+  </creators>
+  <meter>9.9.10.9. with chorus.</meter>
+  <hymncode>551117126667777651</hymncode>
+  <key>A Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C. G7. | C. C/E. | Dm/F. Dm. | G. G7. | C. G7. | C. C/E. | Dm/F. Dm. | G. G7. | C F/C/ C. | C. C/E. | Dm. G. | F. C/E. | D7. G. | C. F. | G7. C. | F. C/E. | Dm G7/ C. |</chords>
+  <melody>| 0. 0 5// 5// | ._1 ._1/ ._1/ 7/ ._1/ | ._2. 6 6// 6// | 7./ 7// 7/ 7/ 6/ 5/ (break) | ._1.( ._1) 5// 5// | ._1./ ._1// ._1/ ._1/ 7/ ._1/ | ._2. 6 6// 6// | 7./ 7// 7/ 5/ 6/ 7/ | ._1.( ._1.) (break) | (Chorus) 5/ 6/ 7/ ._1/ ._3/ ._2/ | ._1/ 7./ 6// 7. | 6/ 7/ ._1/ 5/ ._1/ ._1/ | ._3/ ._2./ 6// ._2. (break) | ._3/ ._4/ ._3/ ._2// 6./ 0/ | 7/ ._1/ ._2/ ._1// 5./ 0/ | 6/ 7/ ._1/ 5// ._4./ ._3/ | ._2/ 6/ 7/ ._1. |</melody>
+  <layout>
+    <singingstanza>Is your life a chan -- nel of bless -- ing? Is the love of God flow -- ing through you? Are you tell -- ing the lost of the Sav -- ior? Are you rea -- dy His serv -- ice to do? Make me a chan -- nel of bless -- ing to -- day, Make me a chan -- nel of bless -- ing, I pray; My life pos -- sess -- ing, my serv -- ice bless -- ing, Make me a chan -- nel of bless -- ing to -- day.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj174.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="48">e0928_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Is your life a channel of blessing?
+Is the love of God flowing through you?
+Are you telling the lost of the Savior?
+Are you ready His service to do?</stanza>
+    <stanza type="chorus" number="">Make me a channel of blessing today,
+Make me a channel of blessing, I pray;
+My life possessing, my service blessing,
+  Make me a channel of blessing today.</stanza>
+    <stanza type="verse" number="2">Is your life a channel of blessing?
+Are you burdened for those that are lost?
+Have you urged upon those who are straying,
+The Savior who died on the cross?</stanza>
+    <stanza type="verse" number="3">We cannot be channels of blessing
+If our lives are not free from all sin;
+We will barriers be and a hindrance
+To those we are trying to win.</stanza>
+  </lyrics>
+</hymn>

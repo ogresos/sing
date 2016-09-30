@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисуса имя я люблю</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ИМЯ</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from W. C. Martin</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2 5 - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <layout>
+	<singingstanza>Ии -- су -- са и -- мя я лю -- блю, Е -- го, как му -- зы -- ку, по -- ю, В_нём ра -- дость выс -- шу -- ю ло -- влю.  Ии -- су -- са слад -- ко и -- мя. Ии -- сус! И -- мя слад -- ко мне.  Ии -- сус! Тот же каж -- дый день.  Ии -- сус! Пусть свя -- ты -- е все Е -- му по -- ют во -- ве -- ки!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Иисуса имя я люблю,
+Его, как музыку, пою,
+В нём радость высшую ловлю.
+Иисуса сладко имя.</stanza>
+	<stanza type="chorus" number="">Иисус! Имя сладко мне.
+Иисус! Тот же каждый день.
+Иисус! Пусть святые все
+Ему поют вовеки!</stanza>
+	<stanza type="verse" number="2">Всегда Он помнит про меня,
+Со мною беды все деля,
+Всё беспокойство удаля.
+Люблю Иисуса имя.</stanza>
+	<stanza type="verse" number="3">То имя нежно так звучит,
+Всегда мне сердце веселит.
+Оно и слёзы осушит.
+Иисуса славьте имя!</stanza>
+	<stanza type="verse" number="4">Нет слов, чтоб высказать вполне,
+Как это имя сладко мне.
+Иисус! Предела нет хвале.
+Его восхвалим имя.</stanza>
+  </lyrics>
+</hymn>

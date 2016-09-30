@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Makalibo man nga</title>
+  <index>true</index>
+  <category>NAUSA NI CRISTO&amp;mdash;NAUSA NIYA</category>
+  <numbers><cebuano num="477"/><chinese num="366"/><english num="477"/><german num="477"/><korean num="366"/><russian num="216"/><tagalog num="477"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Unknown</author>
+    <author biodate="" biolink="">Translated from Albert Benjamin Simpson, chorus</author>
+  </creators>
+  <music>
+    <midiref type="h" num="477"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Makalibo man nga
+Matawo si Cristo;
+Kon wa S'ya kanimo,
+Luoy ang kalag mo.
+Ang Krus sa Golgota
+Di makal'was nimo;
+Ang Krus lang's sulod mo
+Maoy makaayo.</stanza>
+    <stanza type="chorus" number="">Krus ni Cristo dawaton
+Sa kasingkasing ko;
+Mamatayng kaugalingon,
+Ug mabanhaw ang Diosnon.</stanza>
+    <stanza type="verse" number="2">Kon unsay mahal mo,
+Mahisama ka gyud;
+Maabug, kon abug,
+Ma-Dios gyud kon ang Dios.
+"Ako" kon mamatay,
+Dios maoy mabuhi;
+Kon di ako, S'ya na,
+Hatagan ka's tanan.</stanza>
+    <stanza type="verse" number="3">Gugma labing laktud
+Dalan paingon's Dios;
+Kon kahibalo sundon,
+Maglibotlibot lang.
+Hinginling kalibutan,
+Pun-on Ka's gugma's Dios,
+Aron mabalaan ka
+Sama gayud Niya.</stanza>
+  </lyrics>
+</hymn>

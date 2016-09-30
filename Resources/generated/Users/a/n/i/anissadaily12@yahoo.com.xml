@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anissa</firstname>
+  <lastname/>
+  <email>anissadaily12@yahoo.com</email>
+  <password>$2y$10$4gYYbbRyHj.xaZcCHz/TzOOY1oL6WUooZeJNP82nRteZusurwE0Ai</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.27.239</ipaddress>
+  <createdate>2014-09-13 00:25:29</createdate>
+  <lastupdateddate>2016-08-28 14:50:02</lastupdateddate>
+  <lastlogindate>2016-08-28 14:49:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="482">And let them make a sanctuary for Me</fav>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="ns" num="366">My heart longs for absolute surrender</fav>
+  </favourites>
+</user>

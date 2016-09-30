@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>十架窄路</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1356172675</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>你 竟 獨 行 這 條 十 架 窄 路， 客 西 馬 尼， 別 後 成 殊 途。 羊 羣 逃 散， 牧 人 獨 蹣 跚， 幽 暗 掌 權， 炭 火 添 冷 淡。 在 人 手 中 被 推 擠， 在 人 口 中 被 唾 棄， 你 面 如 堅 石 肅 然 佇 立； 主， 愛 你 卻 不 敢 認 你。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0461.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你竟獨行這條十架窄路，
+客西馬尼，別後成殊途。
+羊羣逃散，牧人獨蹣跚，
+幽暗掌權，炭火添冷淡。</stanza>
+	<stanza type="chorus" number="">在人手中被推擠，
+在人口中被唾棄，
+你面如堅石肅然佇立；
+主，愛你卻不敢認你。</stanza>
+	<stanza type="verse" number="2">你何獨行這條十架窄路？
+前說恩言，今被人厭詛！
+歎息聲滅，欺凌卻暴烈，
+神的愛子，何竟遭天絕！</stanza>
+	<stanza type="chorus" number="">我無法停止淚彈，
+當你憂傷回首看，
+想起曾說與你同苦難；
+主我的愛何等不堪。</stanza>
+	<stanza type="verse" number="3">你終獨行這條十架窄路，
+各各他山，罪愆獨背負。
+釘痕的手，困我似囚牢？
+無力脫開，槍扎的懷抱？</stanza>
+	<stanza type="chorus" number="">起初的愛未忘記，
+跟隨的心卻離棄，
+你愛我，竟為我捨性命；
+主我愛你卻捨何情？</stanza>
+	<stanza type="verse" number="4">與你同行這條十架窄路，
+斷絕世界，今生葬泥土。
+“你愛我嗎？”是的我愛你！
+不再別依，隨你腳蹤起。</stanza>
+	<stanza type="chorus" number="">去罷！屬地的賄賂！
+去罷！虛假的祝福！
+這條古老的十架窄路，
+主愛你的人當同赴。</stanza>
+  </lyrics>
+</hymn>

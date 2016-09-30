@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Isipa S'ya," himoang sumbanan</title>
+  <index>true</index>
+  <category>PAGDASIG&amp;mdash;NGA MAG-ISIP NI CRISTO</category>
+  <numbers><cebuano num="656"/><chinese num="479"/><english num="656"/><korean num="479"/><tagalog num="656"/></numbers>
+  <creators>
+    <author biodate="1868-1927" biolink="">Translated from Emily May Grimes</author>
+  </creators>
+  <music>
+    <midiref type="h" num="496"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Isipa S'ya," himoang sumbanan,
+Sayring nabihag ikaw Kaniya,
+Mag-ambit's gahum N'ya'g kinabuhi,
+Aron magsidlak sa dagway Niya.</stanza>
+    <stanza type="verse" number="2">"Isipa Siya," sa adlaw-adlaw,
+Labing ubos nga dapit adtoa,
+Kontentong palabyon bisan unsa,
+Mahimaya lang ang Amahan ta.</stanza>
+    <stanza type="verse" number="3">Ayaw pagsibog, O anak sa Dios,
+'Naug ngadto's kamatayong Jesus;
+Sayring gahum's kinabuhing dayon,
+Kagawasan's sala'g kaugalingon.</stanza>
+    <stanza type="verse" number="4">"Isipa Siya," kinabuhi mo
+Mapuno's pagtugyan's kaugalingon;
+Buhaton's Dios sumbanang matuod,
+Panig-ingnang Cristo maoy tumong.</stanza>
+    <stanza type="verse" number="5">"Isipa Siya," pagdagan's lumba,
+Maghangad kanunay's Iyang nawong;
+Matransporma'g magsidlak unya ka,
+Dagway N'ya diha nimo makita.</stanza>
+  </lyrics>
+</hymn>

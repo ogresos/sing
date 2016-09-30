@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tua vontade</title>
+  <index>true</index>
+  <category>Render-se Ao Senhor</category>
+  <numbers><cebuano num="449"/><chinese num="344"/><english num="449"/><korean num="344"/><portuguese num="206"/><russian num="516"/><spanish num="193"/><tagalog num="449"/></numbers>
+  <creators>
+    <author biodate="1862-1934" biolink="">Translated from Adelaide Addison Pollard</author>
+  </creators>
+  <music>
+    <midiref type="h" num="449"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tua vontade
+Faz, ó Senhor!
+És o Oleiro,
+Barro eu sou.
+Molda e refaze
+Todo o meu ser;
+Eis-me rendido
+Ao Teu querer.</stanza>
+    <stanza type="verse" number="2">Tua vontade
+Vem Tu fazer!
+Sonda e prova
+Hoje meu ser.
+Torna-me santo,
+Como Tu és;
+Ouve meus rogos,
+Eis-me a Teus pés.</stanza>
+    <stanza type="verse" number="3">Tua vontade
+Vem realizar;
+Cansado, em dores,
+Eis-me a rogar.
+Todo poder é
+Teu, ó Senhor;
+Toca-me, cura,
+Ó Salvador.</stanza>
+    <stanza type="verse" number="4">Tua vontade
+Faz, Salvador;
+De minha vida
+Sê Rei, Senhor.
+Que Teu Espír'to
+Encha-me, enfim;
+Cristo, só Cristo,
+Viva em mim.</stanza>
+  </lyrics>
+</hymn>

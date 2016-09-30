@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Reading the Bible</title>
+  <index>true</index>
+  <category>Study of the Word&amp;mdash;Feeding on the Word</category>
+  <numbers><english num="ns:213"/><vsb num="111"/></numbers>
+  <hymncode>3221561171232</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G - | Am - C/E - | F - G - | C - G - | C - G - | Am - C/E - | F - G - | C - - - | C - G - | Am - C/E - | F - G - | C - G - | C - G - | Am - C/E - | F - G - | C F/C C - |</chords>
+  <melody>| (Chorus) 3 - 2. 2/ | 1 - 5_. - | 6_. 1/ 1/ 7_./( 1/) 2 | 3( - 2) - (break) | 3 - 2. 2/ | 1 - 5_. - | 6_. 1/ 1/ 7_./( 1/) 2 (break) | 1 - - (Verse_1) 1/ 2/ | 3 3/ 2/( 2) 2 | 1 1/ 5_./( 5_.) 5_./ 5_./ | 6_. 1 7_./( 1/) 2 (break) | 3 3/ 2/( 2) 1/ 2/ | 3 3/ 2/( 2) 2 | 1 1/ 5_./( 5_.) 5_./ 5_./ | 6_. 1 7_./( 1/) 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Read -- ing the Bi -- ble&amp;mdash; I love the Word of God! Read -- ing the Bi -- ble&amp;mdash; I love the Word of God! Ev -- ery verse re -- veals Your -- self to me, Ev -- ery line con -- veys re -- al -- i -- ty. When I pray the words that You breathed out You be -- come so real to me.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="31">ns0213.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Reading the Bible&amp;mdash;
+I love the Word of God!
+Reading the Bible&amp;mdash;
+I love the Word of God!</stanza>
+    <stanza type="verse" number="1">Every verse reveals Yourself to me,
+Every line conveys reality.
+When I pray the words that You breathed out
+You become so real to me.</stanza>
+    <stanza type="verse" number="2">As I read, I pray, as I pray, I read,
+Mingling both as one spontaneously.
+You respond within with words so sweet,
+I repeat these words to Thee.</stanza>
+    <stanza type="verse" number="3">I'm a newborn babe&amp;mdash;it's the milk I need,
+Not the knowledge of the dead teaching.
+When I eat Your word, it becomes to me
+My heart's joy and rejoicing.</stanza>
+    <stanza type="verse" number="4">Sweeter than honey, precious more than gold;
+It will not be void, but as the rain and snow,
+It will do Your will&amp;mdash;bear the life divine,
+Bearing fruit a hundred-fold.</stanza>
+    <stanza type="verse" number="5">When my heart is like a rock so cold,
+It's Your word so strong that hammers stone,
+That the grain of life may come to me
+And supply me inwardly.</stanza>
+    <stanza type="verse" number="6">It's my food, my drink, and my life supply;
+I love to eat it every day and night.
+I just turn and open up to Him,
+And the rivers flow right in.</stanza>
+  </lyrics>
+</hymn>

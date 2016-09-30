@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glorious, mighty Name of Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Name</category>
+  <numbers><cebuano num="73"/><chinese num="65"/><english num="73"/><french num="14"/><german num="73"/><korean num="65"/><lsmyp num="13"/><russian num="20"/><spanish num="41"/><tagalog num="73"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Margaret E. Barber</author>
+	<composer biodate="" biolink="">C. and F. Jouard</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>54333235443256543</hymncode>
+  <key>D Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G. | C - - C/E. | Dm - - Dm/F. | G - - G7/B. | C - - F/C. | C - - F. | Em - - Am. | Dm/F - - G7. | F/C. C. 0. |</chords>
+<guitarChords>| C - - C. | C - - C. | G - - G. | G - - G7. | C - - C. | C - - F. | C - - C. | G - - G7. | C - - 0. |</guitarChords>
+  <melody>| 0 - - 5 4/ | 3.( 3) 3/ 3/( 2/) 3/ | 5. 4. 4 3/ | 2.( 2) 5/ 6/( 5/) 4/ (break) | 3.( 3.) 5 4/ | 3.( 3) 5/ 6/( ._1/) 6/ | 5. 3. 3 3/ | 2.( 2) 3/ 5/( 4/) 2/ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>Glor -- ious, might -- y Name of Je -- sus, In -- to Thy dear Name I flee; "Set a -- loft," I praise and wor -- ship, For Thy Name is vic -- to -- ry!</singingstanza>
+  </layout>
+  <links>
+	<link type="group">thenameofjesusisourstand.xml</link>
+	<link type="group">hymnal-subj156.xml</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736311602.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="18">e0073_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Glorious, mighty Name of Jesus,
+  Into Thy dear Name I flee;
+"Set aloft," I praise and worship,
+  For Thy Name is victory!</stanza>
+	<stanza type="verse" number="2">Blessed Jesus! Mighty Savior!
+  In Thy Name is all I need;
+Just to breathe the Name of Jesus,
+  Is to drink of Life indeed.</stanza>
+	<stanza type="verse" number="3">Glorious, mighty Name of Jesus,
+  Heav'n and earth its pow'r proclaim;
+But forgiven sinners only,
+  Know the balm of Jesus' Name.</stanza>
+	<stanza type="verse" number="4">Jesus! Jesus! Name most precious,
+  Balm in pain or mighty sword;
+In Thy Name, we live and conquer,
+  Blessed, glorious, coming Lord.</stanza>
+  </lyrics>
+</hymn>

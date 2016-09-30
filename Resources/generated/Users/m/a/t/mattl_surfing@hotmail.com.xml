@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Matthew</firstname>
+  <lastname>Losurdo</lastname>
+  <email>mattl_surfing@hotmail.com</email>
+  <password>$2y$10$mEugZKS9trwPKtC01rolW.SvqG1Kl9MW0/nTOTnc.bqIeQFzRXO4y</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>165.228.234.116</ipaddress>
+  <createdate>2015-05-03 01:19:26</createdate>
+  <lastupdateddate>2015-05-03 01:22:16</lastupdateddate>
+  <lastlogindate>2015-05-03 01:20:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+  </favourites>
+</user>

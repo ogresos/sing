@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Still, still with Thee, when purple morning breaketh</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <numbers><english num="555"/><tagalog num="555"/></numbers>
+  <creators>
+    <author biodate="1812-1896" biolink="">Harriet Beecher Stowe</author>
+  </creators>
+  <melody>| 3 - 2 1 | 5( 4) - 3 | 2 1 7_. 1 | 3 - 2 - (break) | 2 - 2 3 | 4 - - 2 | 6_. 7_. 3. 2/ | 1 - - - (break) | 3 - 2 1 | ._1 - - 7 | 6 5 4 3 | 6 - 2 - (break) | 2 - 2 3 | 4 - - 2 | 6_. 7_. 3. 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Still, still with Thee, when pur -- ple morn -- ing break -- eth, When the bird wak -- eth, and the sha -- dows flee; Fair -- er than morn -- ing, love -- li -- er than day -- light, Dawns the sweet con -- scious -- ness, I am with Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj065.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="249"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Still, still with Thee, when purple morning breaketh,
+When the bird waketh, and the shadows flee;
+Fairer than morning, lovelier than daylight,
+Dawns the sweet consciousness, I am with Thee.</stanza>
+    <stanza type="verse" number="2">As in the dawning, o'er the waveless ocean,
+The image of the morning star doth rest,
+So in this stillness Thou beholdest only
+Thine image in the waters of my breast.</stanza>
+    <stanza type="verse" number="3">When sinks the soul, subdued by toil, to slumber,
+Its closing eye looks up to Thee in prayer;
+Sweet the repose, beneath Thy wings o'ershadowing,
+But sweeter still to wake and find Thee there.</stanza>
+    <stanza type="verse" number="4">So shall it be at last, in that bright morning
+When the soul waketh, and life's shadows flee;
+Oh, in that hour, fairer than daylight's dawning,
+Shall rise the glorious thought, I am with Thee!</stanza>
+  </lyrics>
+</hymn>

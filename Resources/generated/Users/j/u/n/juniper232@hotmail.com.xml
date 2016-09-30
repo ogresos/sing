@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>JL</firstname>
+  <lastname/>
+  <email>juniper232@hotmail.com</email>
+  <password>$2y$10$NX8ElX.SafadF/W8tbbN8OhBYLL0nDoeHge8xCqmiTlMX6Nfa2VWS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>204.9.109.90</ipaddress>
+  <createdate>2015-04-03 15:12:50</createdate>
+  <lastupdateddate>2016-02-23 16:11:15</lastupdateddate>
+  <lastlogindate>2016-02-23 00:15:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+  </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌這名何其甘甜</title>
+  <index>true</index>
+  <category>讚美主－祂的名</category>
+  <numbers><cebuano num="67"/><chinese num="70"/><english num="67"/><german num="67"/><korean num="70"/><portuguese num="48"/><russian num="19"/><spanish num="39"/><tagalog num="67"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from W. C. Martin</author>
+  </creators>
+  <melody>| 0 - 5 | ._1/ 7/ 6. 3/ | 5/ 4#/ 4 7 | ._2/ ._1/ 7. 4/ | 6/ 5/ 5 ._1 (break) | ._3/ ._2/ ._1. 7/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._2 - ._3 | ._2( 5) - (break) | (Chorus) ._1 5 6/ 5/ | 5/ 4/ 4 - | ._2 7 ._1/ 7/ | 6/ 5/ 5 - (break) | ._3 ._1 ._2/ ._1/ | 7/ 6/ (.6/ 6/ 7/ ._1/ | ._3 - ._1 | (.._2 ._1 0 |</melody>
+  <layout>
+	<singingstanza>耶 穌 這 名 何 其 甘 甜， 猶 如 音 樂 我 愛 稱 讚， 祂 使 我 樂 豐 滿 完 全， 耶 穌 寶 貴 之 名。 耶 穌！ 這 名 何 甘 甜， 耶 穌！ 天 天 不 改 變； 耶 穌！ 聖 徒 當 稱 讚 祂 的 價 值 到 永 遠。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="67"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌這名何其甘甜，
+猶如音樂我愛稱讚，
+祂使我樂豐滿完全，
+耶穌寶貴之名。</stanza>
+	<stanza type="chorus" number="">耶穌！這名何甘甜，
+耶穌！天天不改變；
+耶穌！聖徒當稱讚
+祂的價值到永遠。</stanza>
+	<stanza type="verse" number="2">我愛那愛我者之名，
+祂知我苦，分擔、同情，
+命令憂懼從我隱形，
+我愛耶穌之名。</stanza>
+	<stanza type="verse" number="3">這名迷人，我愛聽見，
+一聽我心不禁狂歡，
+其樂將我眼淚擦乾；
+高舉耶穌之名。</stanza>
+	<stanza type="verse" number="4">無人話語能以盡言
+我愛之名何其甘甜；
+願人將祂永遠稱讚，
+稱讚耶穌之名。</stanza>
+  </lyrics>
+</hymn>

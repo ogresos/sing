@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ehre sei Gott unsrem Vater</title>
+  <index>true</index>
+  <category>SEGEN DER DREIEINIGKEIT&amp;mdash;Sein Plan</category>
+  <numbers><cebuano num="1"/><chinese num="1"/><english num="1"/><german num="1"/><korean num="1"/><russian num="191"/><spanish num="1"/><tagalog num="1"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from J. F. Garland</author>
+  </creators>
+  <melody>| 5 5 5 ._3 | ._2 ._1 6 ._1 | 5 ._3 ._2 ._2 | ._2 - - - (break) | ._3 ._3 ._3 ._2 | ._1 ._1 ._1 6 | 5 - 6( 7) | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Eh -- re sei Gott uns -- rem Va -- ter, Eh -- re sei dem Sohn,  Eh -- re sei dem Geist für ew -- ig_&amp;mdash; Welch Per -- son!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ehre sei Gott unsrem Vater,
+Ehre sei dem Sohn,
+Ehre sei dem Geist für ewig –
+Welch Person!</stanza>
+	<stanza type="verse" number="2">Unermesslich ist die Schöpfung,
+Wunderbar der Plan,
+Unsre Herzen sind bewegt und
+Beten an.</stanza>
+	<stanza type="verse" number="3">Vater, groß ist Deine Sehnsucht,
+Söhne willst für Dich,
+Die im Sohn Dich preisend lieben,
+Ewiglich.</stanza>
+	<stanza type="verse" number="4">Das Geheimnis Deiner Liebe
+Offenbart hast hier,
+Dadurch unsre Liebe, Vater,
+Fließt zu Dir.</stanza>
+	<stanza type="verse" number="5">Bringst in Christus, durch Erlösung,
+(Mächte Er bezwang!)
+Anbeter in neue Schöpfung,
+Welch Zugang!</stanza>
+	<stanza type="verse" number="6">Ehre sei Gott unsrem Vater,
+Ehre sei dem Sohn,
+Ehre sei dem Geist für ewig –
+Welch Person!</stanza>
+  </lyrics>
+</hymn>

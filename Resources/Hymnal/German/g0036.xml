@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wir preisen Dich, oh Vater</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Vorherbestimmung</category>
+  <numbers><cebuano num="36"/><chinese num="32"/><english num="36"/><german num="36"/><portuguese num="26"/><russian num="196"/><spanish num="24"/><tagalog num="36"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from P. Van den Berg, from Dutch</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 3 4 6 | 5 - 3 ._1 | ._1 4 5 6 | 2 - - 5 (break) | 5 3 4 6 | 5 - 3 3 | 2 7 6 4# | 5 - - 5 (break) | 5 3 1 ._1 | ._1.( 6/) 4 6 | 6 4# 2 ._2 | ._2( - 7) 5 (break) | ._1 ._1 ._1 ._1 | ._1 - 7 6 | 5 3 2 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Wir prei -- sen Dich, oh Va -- ter, Als Söh -- ne ste -- hen wir,  Zu Dei -- nem Wohl -- ge -- fal -- len In Gna -- de nun vor Dir. Zur Herr -- lich -- keit be -- stimm -- test Uns Söh -- ne– lan -- ge schon– In Chris -- tus, dem Ge -- lieb -- ten, Sind wir auf Dei -- nem Thron.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="36"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Wir preisen Dich, oh Vater,
+Als Söhne stehen wir, 
+Zu Deinem Wohlgefallen
+In Gnade nun vor Dir.
+Zur Herrlichkeit bestimmtest
+Uns Söhne – lange schon –
+In Christus, dem Geliebten,
+Sind wir auf Deinem Thron.</stanza>
+	<stanza type="verse" number="2">Wer sonst als Du, oh Vater, 
+Hat uns im Sohn erwählt,
+Und mit dem Geist gesegnet,
+Uns zu den Söhnen zählt?
+Bald sind wir dann mit Christus
+In Seiner Herrlichkeit;
+Und strahlen hell Sein Bild aus
+In alle Ewigkeit!</stanza>
+  </lyrics>
+</hymn>

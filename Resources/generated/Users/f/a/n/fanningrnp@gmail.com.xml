@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Richard</firstname>
+    <lastname>Fanning</lastname>
+    <email>fanningrnp@gmail.com</email>
+    <password>EDIxiGJStCiCBjjehFJl6Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>107.5.62.38</ipaddress>
+    <createdate>2013-09-01 12:17:32</createdate>
+    <lastupdateddate>2013-09-28 20:33:27</lastupdateddate>
+    <lastlogindate>2013-09-01 12:17:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1318">Camel Train</fav>
+        <fav category="default" type="ns" num="98">I'm walking down the road</fav>
+        <fav category="default" type="h" num="1052">I've wandered far away from God</fav>
+        <fav category="default" type="ns" num="413">Two Kisses</fav>
+    </favourites>
+</user>

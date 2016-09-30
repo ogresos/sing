@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jerrilyn</firstname>
+  <lastname>MacDanel</lastname>
+  <email>jmacdanel@gmail.com</email>
+  <password>$2y$10$zDyUSQvx1AKAQyenLXV96u3b01oJhHXPowPzmgbH6gJT7PlXSghcC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.75.44.113</ipaddress>
+  <createdate>2015-03-29 01:36:00</createdate>
+  <lastupdateddate>2015-03-29 01:42:06</lastupdateddate>
+  <lastlogindate>2015-03-29 01:38:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+  </favourites>
+</user>

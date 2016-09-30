@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jill</firstname>
+  <lastname>kirkwood</lastname>
+  <email>jillkirkwood@outlook.com</email>
+  <password>$2y$10$PlUJH0z5DTDeMAUVT4vRy.wufBM9TiTPsLfd0Ta8iHIfa5efgkQqW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.219.169.117</ipaddress>
+  <createdate>2015-11-14 14:08:54</createdate>
+  <lastupdateddate>2015-11-14 14:12:38</lastupdateddate>
+  <lastlogindate>2015-11-14 14:12:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+  </favourites>
+</user>

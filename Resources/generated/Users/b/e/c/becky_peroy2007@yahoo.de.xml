@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Rebecca</firstname>
+    <lastname>Droste</lastname>
+    <email>becky_peroy2007@yahoo.de</email>
+    <password>$1$IvMNudoy$EFWPI5LONyCZzjJbBc0LS.</password>
+    <gender>F</gender>
+    <country>Germany</country>
+    <ipaddress>95.222.33.163</ipaddress>
+    <createdate>2009-09-04 01:16:17</createdate>
+    <lastupdateddate>2009-10-10 16:40:27</lastupdateddate>
+    <lastlogindate>2009-10-10 16:40:27</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+        <fav category="default" type="h" num="112">How sweet is the story of Christ's boundless love</fav>
+        <fav category="default" type="h" num="554">I come to His presence afresh</fav>
+        <fav category="default" type="h" num="564">I have learned the wondrous secret</fav>
+        <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+        <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+        <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+        <fav category="default" type="h" num="160">King of my life, I crown Thee now</fav>
+        <fav category="default" type="h" num="389">Lord Jesus, I long in Thy presence to live</fav>
+        <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+        <fav category="default" type="h" num="85">O come, all ye faithful! joyfully triumphant</fav>
+        <fav category="default" type="h" num="307">On Calvary's brow my Savior died</fav>
+        <fav category="default" type="h" num="1196">Our God is living&amp;mdash;say, Hallelujah</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+        <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+        <fav category="default" type="h" num="1115">We have come, we have come to the house of God</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+        <fav category="default" type="c" num="116">Wonderful, Wonderful</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brian</firstname>
+  <lastname>Evans</lastname>
+  <email>brian@investsmart.ca</email>
+  <password>$2y$10$XFSnR/FE3A36c7WxmdjmXef6xFswBZ68YpCHg.BlpKmK6WGzbsnAK</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>207.219.69.171</ipaddress>
+  <createdate>2014-08-08 23:22:12</createdate>
+  <lastupdateddate>2014-12-24 23:37:08</lastupdateddate>
+  <lastlogindate>2014-12-24 23:37:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

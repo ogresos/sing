@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>В самых глубинах в Имени Твоём</title>
+  <index>true</index>
+  <category>УТЕШЕНИЕ В ИСПЫТАНИЯХ&amp;mdash;ИМЕНЕМ ГОСПОДА</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">В самых глубинах в Имени Твоём,
+Бог мой, вхожу я в сладостный покой,
+Переживу с Тобою долгий день,
+И тёмной ночи не боюсь с Тобой.</stanza>
+	<stanza type="verse" number="2">Бог мой, Ты Вседостаточный Господь,
+Ты покрываешь нужды все мои;
+Путь одинокий выстлал для меня
+Нежной заботой в чудесах любви.</stanza>
+	<stanza type="verse" number="3">Верю Тебе. Осмеливаюсь вновь
+Бог мой, укрыться на Твоей груди,
+В тихом покое веры постигать,
+Как изумительны Твои пути.</stanza>
+  </lyrics>
+</hymn>

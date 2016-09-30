@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>laureen</firstname>
+  <lastname/>
+  <email>lsquaye@yahoo.co.uk</email>
+  <password>$2y$10$QrWitkuoK3Z9bZ8eNj2qAOXJXWWq7nn2Fw.9//yg8w98R/MYqBp5a</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>185.13.106.85</ipaddress>
+  <createdate>2015-06-07 19:08:42</createdate>
+  <lastupdateddate>2015-06-24 10:28:09</lastupdateddate>
+  <lastlogindate>2015-06-24 10:28:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

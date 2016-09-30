@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂是君王、戰士、祭司和得勝者</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><chinese num="ts:30"/><english num="1102"/><german num="1102"/></numbers>
+  <melody>| 0 - - 1 | 3 5 6 5/( 4#/) | 5 - 3 2 | 1 2/( 3/) 4 6 | 2 - - 2 (break) | 3 3 4# 3/( 2/) | 5 - 7_. 1 | 2 5 6. 7/ | 5 - - 5 (break) | 4 3 2 4 | 3( 2) 1 5 | 4 3 2 1# | 2 - - 2/( 3/) (break) | 4 1 7_. 1 | 2.( 3/) 2 3 | 4 5/( 6/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>耶 和 華 對 我 主 說， “你 坐 在 我 右 邊， 等 我 使 你 眾 仇 敵 作 腳 凳 伏 你 前。” 耶 和 華 必 從 錫 安 伸 出 你 大 能 仗： 列 國 必 歸 你 管 治， 直 到 永 世 無 疆。</singingstanza>
+  </layout>
+  <notes>詩篇一一○篇</notes>
+  <music>
+	<midiref type="h" num="508"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶和華對我主說，
+“你坐在我右邊，
+等我使你眾仇敵
+作腳凳伏你前。”
+耶和華必從錫安
+伸出你大能仗：
+列國必歸你管治，
+直到永世無疆。</stanza>
+	<stanza type="verse" number="2">當你爭戰的日子，
+你民獻上自己；
+甘心奉獻為彩飾，
+榮美有何能比！
+暢爽、滋潤如甘露，
+新鮮，孕於清晨，
+少年人分別歸你，
+於你如寶如珍。</stanza>
+	<stanza type="verse" number="3">耶和華必不後悔，
+祂已明確起誓：
+“照麥基洗德等次，
+你必永為祭司。
+你既無時日之始，
+也無生命之終；
+憑你代求供聖職，
+我們受恩無窮。</stanza>
+	<stanza type="verse" number="4">在神右邊你是主，
+列邦受你審判；
+當你發怒傷列王，
+敵權盡都潰散。
+路旁河水供你飲，
+你必抬頭勝敵；
+我們如此解你渴，
+同你收復全地。</stanza>
+	<stanza type="verse" number="5">哦主，你已升高天，
+登極安坐神右；
+神已使你將敵剿，
+萬有之上居首。
+你是君王施權柄，
+又是祭司代求，
+且是榮耀得勝者，
+配得我們所有。</stanza>
+  </lyrics>
+</hymn>

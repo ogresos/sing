@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們燈裡有油</title>
+  <index>true</index>
+  <category>盼望與豫備</category>
+  <numbers><cebuano num="1308"/><chinese num="ts:912"/><english num="1308"/><french num="188"/><german num="1308"/><korean num="837"/><portuguese num="490"/><russian num="497"/><tagalog num="1308"/></numbers>
+  <melody>| 0 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 5/ 5/ | 5 3/ 2/ 1 3 (break) | 2 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 1/ 2/ | 3/ 5/ 5/ 4/ 3 2 | 1 - - - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 6 5 - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 燈 裡 有 油， 靈 裡 焚 燒， 我 們 燈 裡 有 油， 今 朝！ 主， 不 斷 使 我 們 轉 到 靈 裡， 使 油 源 源 不 絕， 燈 不 熄。 哦 主！ 阿 們！ 阿 利 路 亞！ 我 們 晝 夜 焚 燒， 燈 不 熄！ 哦 主！ 阿 們！ 阿 利 路 亞！ 不 斷 轉 回 到 靈 裡！</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們燈裡有油，
+靈裡焚燒，
+我們燈裡有油，今朝！
+主，不斷使我們
+轉到靈裡，
+使油源源不絕，燈不熄。
+哦主！阿們！阿利路亞！
+我們晝夜焚燒，燈不熄！
+哦主！阿們！阿利路亞！
+不斷轉回到靈裡！</stanza>
+	<stanza type="verse" number="2">但我們的器皿必須有油，
+你來時纔不致蒙羞。主，
+浸透我們魂每一角落，
+好叫我們全人滿了油。
+哦！主耶穌，充滿我們，
+每時每刻賜下你自己！
+哦！主耶穌，浸透我們，
+使我們滿了實際。</stanza>
+	<stanza type="verse" number="3">滿了油纔能彀不斷焚燒，
+直到主那一日來到。
+我們要與新郎一同坐席，
+光明燦爛歡然渡佳期。
+主阿，快來！
+主阿，快來！
+來看我們充滿且發光；
+主阿，快來！
+主阿，快來！
+接你佳偶永同享！</stanza>
+  </lyrics>
+</hymn>

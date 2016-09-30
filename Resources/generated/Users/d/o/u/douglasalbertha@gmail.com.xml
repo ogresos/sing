@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Albetha</firstname>
+  <lastname>Treasure</lastname>
+  <email>douglasalbertha@gmail.com</email>
+  <password>$2y$10$r/kC2F4qDNuBNvhQVlCkh.Dg9gj5MJpIuB2Xg1.6YWZhtv9PcKoTe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.203.147.35</ipaddress>
+  <createdate>2015-03-05 17:05:18</createdate>
+  <lastupdateddate>2015-03-05 19:49:53</lastupdateddate>
+  <lastlogindate>2015-03-05 17:35:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+  </favourites>
+</user>

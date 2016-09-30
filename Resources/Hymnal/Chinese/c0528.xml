@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>暗過必明亮</title>
+  <index>true</index>
+  <category>試煉中的安慰－受苦得益</category>
+  <numbers><chinese num="528"/><english num="727"/><korean num="528"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 5 3 4 | 5./( 4#//) 5 - | 6 3 5 | 4 - - | 4 2 3 | 4./( 3//) 4 - | 5 2 4 | 3 - - (break) | 5 3 4 | 5./( 4#//) 5 - | ._1 7 6 | 5 - - | 6 7 ._1 | ._1./( 5//) 5 - | 3 4 2 | 1 - - |</melody>
+  <layout>
+	<singingstanza>暗 過 必 明 亮， 苦 過 必 甜； 弱 過 必 剛 強， 難 過 必 安； 損 過 必 有 益， 風 過 必 靜； 勞 過 必 安 息， 雨 過 必 晴。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="727"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">暗過必明亮，
+苦過必甜；
+弱過必剛強，
+難過必安；
+損過必有益，
+風過必靜；
+勞過必安息，
+雨過必晴。</stanza>
+	<stanza type="verse" number="2">壓過必高升，
+憂過必樂；
+死過必復生，
+失過必得；
+累過必輕鬆，
+困過必蘇；
+迫過必從容，
+貧過必富。</stanza>
+	<stanza type="verse" number="3">蕩過必安居，
+孤過有伴，
+與主再無距，
+直到相見，
+十架變冠冕，
+歎息變讚，
+信望變眼見，
+再無疑難。</stanza>
+  </lyrics>
+</hymn>

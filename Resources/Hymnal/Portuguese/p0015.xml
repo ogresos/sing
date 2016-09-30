@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tu és fiel, ó Deus, meu Pai celeste</title>
+  <index>true</index>
+  <category>Sua Fidelidadade</category>
+  <numbers><cebuano num="19"/><chinese num="13"/><english num="19"/><korean num="13"/><portuguese num="15"/><russian num="11"/><tagalog num="19"/></numbers>
+  <creators>
+    <author biodate="1866-1960" biolink="">Translated from Thomas Obediah Chisholm</author>
+  </creators>
+  <music>
+    <midiref type="h" num="19"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tu és fiel, ó Deus, meu Pai celeste,
+Em Ti nem sombra de mudança há;
+Nunca mudaste e nunca faltaste,
+Como tens sido, ó Pai, sempre serás.</stanza>
+    <stanza type="chorus" number="">Tu és fiel, ó Deus! Tu és fiel, ó Deus!
+Cada manhã há mercê que é sem fim;
+O que preciso tens sempre provido,
+Tu és fiel, ó Deus, fiel a mim.</stanza>
+    <stanza type="verse" number="2">Flores e frutos, verão e inverno,
+Sol, lua, estrelas no céu a brilhar,
+Atestam a Tua fidelidade,
+Misericórdia e amor singular.</stanza>
+    <stanza type="verse" number="3">Pleno e real perdão, paz permanente,
+Tua presença a me encorajar,
+Força de hoje, esperança da glória:
+Bênçãos que posso co'os santos provar.</stanza>
+  </lyrics>
+</hymn>

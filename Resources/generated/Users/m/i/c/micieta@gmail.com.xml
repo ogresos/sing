@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Branislav</firstname>
+<lastname>Micieta</lastname>
+<email>micieta@gmail.com</email>
+<password>$1$er.nD0Gw$CK/jqUBhqwtkGMwsm655p0</password>
+<gender>M</gender>
+<country>Slovakia</country>
+<ipaddress>195.168.233.16</ipaddress>
+<createdate>2008-09-18 17:29:47</createdate>
+<lastupdateddate>2009-09-15 18:25:55</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+        <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+    </favourites>
+</user>

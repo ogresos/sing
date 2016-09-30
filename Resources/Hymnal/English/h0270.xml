@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, in Thy Spirit, take and fill my heart</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;The Filling</category>
+  <creators>
+    <author biodate="1780-1860" biolink="">George Croly</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - 3 - | 6 5 4 4 | 3 - - - (break) | ._1 - 7 6 | 5 - 6 - | 7 5 6 6 | 5 - - - (break) | 5 - 5 5 | 7 - 6 - | 5 6 7 ._1 | ._2 - - - (break) | ._3 - ._2 ._1 | 7 6 5 ._1 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, in Thy Spir -- it, take and fill my heart; Wean it from earth, through all its puls -- es move; In -- to my spir -- it all Thy grace im -- part, And make me love Thee as I ought to love.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj094.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, in Thy Spirit, take and fill my heart;
+Wean it from earth, through all its pulses move;
+Into my spirit all Thy grace impart,
+And make me love Thee as I ought to love.</stanza>
+    <stanza type="verse" number="2">I ask no dream, no prophet ecstasies,
+No sudden rending of the veil of clay,
+No angel visitant, no opening skies;
+But take the dimness of my soul away.</stanza>
+    <stanza type="verse" number="3">Hast Thou not bid us love Thee, God and King?
+All, all Thine own&amp;mdash;soul, heart and strength and mind.
+I see Thy cross&amp;mdash;there teach my heart to cling.
+Oh, let me seek Thee, and, oh, let me find.</stanza>
+    <stanza type="verse" number="4">Teach me to feel that Thou art always nigh;
+Teach me the struggles of the soul to bear,
+To check the rising doubt, the rebel sigh;
+Teach me the patience of unanswered prayer.</stanza>
+    <stanza type="verse" number="5">Teach me to love Thee with a virgin love,
+One holy passion filling all my frame;
+Thus all the riches of Thyself to prove,
+My heart an altar, and Thy love the flame.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pag-asa ko'y itinatag</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;INARING-MATUWID KAY KRISTO</category>
+  <numbers><cebuano num="298"/><chinese num="238"/><english num="298"/><korean num="238"/><russian num="59"/><spanish num="142"/><tagalog num="298"/></numbers>
+  <creators>
+    <author biodate="1797-1874" biolink="">Translated from Edward Mote</author>
+  </creators>
+  <music>
+    <midiref type="h" num="298"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Pag-asa ko'y itinatag
+Kay Kristo&amp;mdash;aking kat'wiran;
+Sa iba ay di-panatag,
+Kristo lang maaasahan.
+Si Kristo'y saligang-bato,
+Ibang lupa ay balaho,
+Ibang lupa ay balaho.</stanza>
+    <stanza type="verse" number="2">Matakpan man Kanyang mukha,
+Biyaya Niya'y di nag-iba;
+Bumagyo man o bumaha,
+Matatag pa rin ang angkla.</stanza>
+    <stanza type="verse" number="3">Dugo't tipan Niya ay tiyak,
+Ako'y nasa Kanyang kamay;
+Ang paligid ma'y mawasak,
+Siya'y nanatiling matibay.</stanza>
+    <stanza type="verse" number="4">Pagdating Niyang may trumpeta,
+Ako'y mapasa-loob Niya;
+Katuwiran ko'y tanging Siya,
+Sa lukluka'y walang sala.</stanza>
+  </lyrics>
+</hymn>

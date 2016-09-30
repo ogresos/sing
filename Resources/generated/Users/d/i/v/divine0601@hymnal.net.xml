@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Leena</firstname>
+<lastname>Dsouza</lastname>
+<email>divine0601@hymnal.net</email>
+<password>$1$b4XW.NMh$i/Vpz3COTV5/.FzNA1NV20</password>
+<gender>F</gender>
+<country>India</country>
+<ipaddress>121.240.18.241</ipaddress>
+<createdate>2008-08-19 08:18:23</createdate>
+<lastupdateddate>2009-09-15 18:25:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    </favourites>
+</user>

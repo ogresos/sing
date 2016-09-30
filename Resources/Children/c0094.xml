@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I can read the Bible</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;General</category>
+  <hymncode>543267215</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Dm - G - | C - C/E - | G - G7 - | C - - - | Dm - G - | Am - C/E - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 5 4 3/ 2/ 6_./ 7_./ | 2/ 1/ 5_.( 5_./) 1/ 7_./ 1/ | 2/ 7_./ 5_.( 5_./) 2/ 1/ 2/ | 3 1 5_. - (break) | 5 4 3/ 2/ 6_./ 7_./ | 2/ 1/ 5_. -  3 | 3/ 2/ 1#/ 2/ 4 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I can read the Bi -- ble! I can pray! Oh, I can praise the Lord! Yes, I can sing to Him! I can read the Bi -- ble! I can pray! And I can give my heart to Him!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-m.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="14">c0094.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I can read the Bible! I can pray!
+Oh, I can praise the Lord!
+Yes, I can sing to Him!
+I can read the Bible! I can pray!
+And I can give my heart to Him!</stanza>
+  </lyrics>
+</hymn>

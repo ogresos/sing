@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>richie</firstname>
+    <lastname>lionell</lastname>
+    <email>richielionell@gmail.com</email>
+    <password>L7iVN70rB9nG4oO4jMoIeQ%3D%3D</password>
+    <gender>M</gender>
+    <country>in</country>
+    <ipaddress>180.215.76.106</ipaddress>
+    <createdate>2012-01-04 09:06:30</createdate>
+    <lastupdateddate>2012-01-08 09:35:54</lastupdateddate>
+    <lastlogindate>2012-01-04 09:06:33</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+        <fav category="default" type="h" num="1343">A new commandment</fav>
+        <fav category="default" type="h" num="1019">A ruler once came to Jesus by night</fav>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="300b">Arise, my soul, arise (Alternate Tune)</fav>
+        <fav category="default" type="h" num="397">More holiness give me</fav>
+        <fav category="default" type="h" num="325">Satisfied</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+        <fav category="default" type="h" num="848">What a blessing, what a priv'lege</fav>
+    </favourites>
+</user>

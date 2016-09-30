@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, the Heavens Declare</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="">Traditional American melody</composer>
+  </creators>
+  <hymncode>12333321216111333212</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | C - - - | G7 - - - | C - C7 - | F - - - | C/G - G7 - | C - - - | C - - - | F - - - | C - - - | G7 - - - | C - - - | F - - - | C/G - G7 - | C - - - |</chords>
+  <melody>| 0 - - ._1/ ._2/ | ._3/ ._3/ ._3/ ._3/( ._3/) ._2/( ._2/) ._1/ | ._2/ ._1/ 6/ ._1/( ._1) ._1/ ._1/ (break) | ._3 ._3 ._3/ ._2/ ._1/ ._2/( | ._2) - - ._1/ ._2/ | ._3 ._3 ._3. ._1/ (break) | ._2/ ._1/ 6/ ._1/( ._1) ._1/ 6/ | 5 ._1 7/ ._1/ ._2/ ._1/( (break) | ._1) - - 1/ 2/ | 3/ 5/ 5/ 5/( 5) 4/ 3/ | 4/ 4/ 5/ 6/( 6) ._1/ 6/ (break) | 5/ 5/ ._1 7/ ._1/( ._1/) ._2/( | ._2) - - ._3/( ._2/) | ._1/ ._1/ ._1/ ._1/( ._1) 3 (break) | 4/ 4/ 5/ 6/( 6) ._1/( 6/) | 5 3/ 3/ 2/ 2/ 2/ 1/( | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Oh, the heav -- ens de -- clare, yes, the heav -- ens de -- clare. When we look&amp;mdash; God's glo -- ry is there! The ex -- panse shows forth the work of His hands And de -- clares God's glo -- ry to man. Day by day there is speech, Night by night knowl -- edge tells, But no lan -- guage or voice is heard; Their line has gone forth to all of the earth Their words to the end of the world!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2016 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <links>
+    <link type="ref">Psalms 19:1-4</link>
+    <link type="ref">Psalms 150:1</link>
+  </links>
+  <music>
+    <midi location="c" length="40">c0130.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Oh, the heavens declare, yes, the heavens declare.
+When we look&amp;mdash;God's glory is there! (look and see it!)
+The expanse shows forth the work of His hands
+And declares God's glory to man.</stanza>
+    <stanza type="verse" number="">Day by day there is speech,
+Night by night knowledge tells,
+But no language or voice is heard;
+Their line has gone forth to all of the earth
+Their words to the end of the world!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2016 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

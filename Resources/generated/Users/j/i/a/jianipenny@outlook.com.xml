@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jiani</firstname>
+  <lastname/>
+  <email>jianipenny@outlook.com</email>
+  <password>$2y$10$cSabAIL9qdZy5Cb5MAO0WexspYIjl2KIzk5fHhqec.3eoYHxq0tle</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>188.60.10.218</ipaddress>
+  <createdate>2015-05-02 15:47:18</createdate>
+  <lastupdateddate>2015-05-03 19:09:21</lastupdateddate>
+  <lastlogindate>2015-05-02 15:48:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1266">Burning, burning, we are burning</fav>
+    <fav category="default" type="h" num="8239">God laid my sins on Jesus</fav>
+    <fav category="default" type="h" num="622">If we take up the cross, will we but suffer pain</fav>
+  </favourites>
+</user>

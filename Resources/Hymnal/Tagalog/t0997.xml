@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sabi ng Panginoon</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KATUBUSAN</category>
+  <numbers><cebuano num="997"/><chinese num="682"/><english num="997"/><korean num="682"/><tagalog num="997"/></numbers>
+  <creators>
+    <author biodate="1822-1889" biolink="">Translated from Elvina Mable Reynolds Hall</author>
+  </creators>
+  <music>
+    <midiref type="h" num="997"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sabi ng Panginoon:
+"Lakas mo'y di sapat,
+Sa Akin masumpungan
+Buhay at lahat-lahat."</stanza>
+    <stanza type="chorus" number="">Hesus nagbayad
+Ng aking utang;
+Sala ko'y pinatawad,
+Ako'y hinugasan.</stanza>
+    <stanza type="verse" number="2">Sa kapangyarihan Mo,
+Aking nasumpungan:
+Natunaw batong puso,
+Ketong ay nalinisan.</stanza>
+    <stanza type="verse" number="3">Wala 'kong kabutihan
+Bagay sa b'yaya Mo,
+Damit ko'y huhugasan
+Sa dugo ng Kordero.</stanza>
+    <stanza type="verse" number="4">Sa harap ng luklukan,
+Sa Kanya 'ko'y lubos,
+Aking patotohanan:
+"Manliligtas ko'y Hesus!"</stanza>
+  </lyrics>
+</hymn>

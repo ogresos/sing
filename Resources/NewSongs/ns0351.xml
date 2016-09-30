@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Lord, my best love Thou art</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:345"/><english num="ns:351"/></numbers>
+  <creators>
+    <author biodate="2005" biolink="">FTTJ</author>
+    <author biodate="" biolink="">Translated from Chinese</author>
+    <composer biodate="2005" biolink="">FTTJ</composer>
+  </creators>
+  <hymncode>3231116565644325</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - - - | F - G7 - | C - C7/E - | F - - - | Em - Am - | Dm - F - | Gsus4 - G7 - | C - - - | Em - - - | F - G7 - | C - C7/E - | F - - - | Em - Am - | Dm - F - | Gsus4 - G7 - | C - - - | G/B - - - | Am - - - | Em/G - - - | F - - - | Em - Am - | F - D7/F# - | Gsus4 - G7 - | C - - - | E/B - E7 - | Am - - - | Em/G - Em - | F - - - | C G/B Am C/G | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 3/ 2/ | 3. 1/ 1 1/ 6/ | 5 - - 6/ 5/ | 6. 4/ 4 3/ 2/ | 5 - - 6/ 5/ | 6. 1/ 1 4/ 6/ | 5 3/( 2/) 1 2/ 3/ | 4 3 2/ 1/( 1/) 6_./ | 2 - - 3/ 2/ | 3. 1/ 1 1/ 6/ | 5 - - 6/ 5/ | 6. 4/ 4 3/ 2/ | 5 - - 6/ 5/ | 6. 1/ 1 4/ 6/ | 5 3/( 2/) 1 4/ 3/ | 4 4 4/ 4/( 4/) 5/ | 5 - - (Chorus) ._3/ ._2/ | ._3. 5/ 5 ._1/ ._3/ | ._2 ._1 7 ._1/ 7/ | ._1. 3/ 3 6/ ._1/ | 7 ._2 5 6/ 5/ | 6. 1/ 1 6/ 6/ | 5 7 ._1 6/ 5/ | 6. ._1/ ._3/ ._2/( ._2/) ._1/ | ._2 - - ._3/ ._2/ | ._3. 5/ 5 ._1/ ._3/ | ._2 ._1 7 ._1/ 7/ | ._1. 3/ 3 6/ ._1/ | 7 ._2 5 6/ 5/ | 6. 1/ 1 6/ 6/ | 5 7 ._1 6/ 5/ | 6. 6/ 5/ 5/( 5/) 7/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus Lord, my best love Thou art, Thou hast ful -- ly cap -- tured my heart; There is none in heav'n nor on earth like Thee, With Thy beau -- ty none can com -- pete. When Thy voice first came to my ear, Whis -- p'ring in my heart words most dear, All past loves and aims lost their charm for me, All my boasts so vain now ap -- pear. Through -- out all the world, who com -- pares with Thee? Who so full of worth, who so fair and sweet?  On -- ly Thou art worth -- y my love to win, O Lord Je -- sus, how I love Thee! No more I who live, no more self- de -- ceived, No more in the self's world in -- dulged to be, Deep with -- in I know You're my on -- ly love, My best love is none else but Thee!</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <videos>
+    <video title="Orchestra" youtubeid="JlM0yRndVM0"/>
+  </videos>
+  <music>
+    <midi location="ns" length="91">ns0351.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus Lord, my best love Thou art,
+Thou hast fully captured my heart;
+There is none in heav'n nor on earth like Thee,
+With Thy beauty none can compete.
+When Thy voice first came to my ear,
+Whisp'ring in my heart words most dear,
+All past loves and aims lost their charm for me,
+All my boasts so vain now appear.</stanza>
+    <stanza type="chorus" number="">Throughout all the world, who compares with Thee?
+Who so full of worth, who so fair and sweet?
+Only Thou art worthy my love to win,
+O Lord Jesus, how I love Thee!
+
+No more I who live, no more self-deceived,
+No more in the self's world indulged to be,
+Deep within I know You're my only love,
+My best love is none else but Thee!</stanza>
+    <stanza type="verse" number="2">Jesus Lord, my best love Thou art,
+Rid all rocks that hide in my heart;
+Gladly I Thy bondslave of love would be,
+One heart, one will ever with Thee
+Though my heart is oft not subdued,
+Still Thy way alone it would choose;
+All I yearn for is what Thy heart desires,
+In Thy love alone peace I find.</stanza>
+    <stanza type="verse" number="3">Jesus Lord, my best love Thou art,
+Ne'er again from Thee I'd depart;
+Never hide Thy dear, smiling face from me.
+To none else I'd cling, Lord, but Thee.
+To Thee, Lord, my all I outpour,
+How Thy love my heart deeply fills,
+My eternal portion, most precious Lord,
+None but Thee I want evermore.</stanza>
+  </lyrics>
+</hymn>

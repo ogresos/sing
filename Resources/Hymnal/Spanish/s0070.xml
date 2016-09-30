@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Al nombre de Jesús load</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su gloria</category>
+  <numbers><english num="137"/><portuguese num="68"/><spanish num="70"/></numbers>
+  <creators>
+    <author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <music>
+    <midiref type="h" num="24"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Al nombre de Jesús load!
+Señor de todos es;
+Postrados homenaje dad
+Y coronadle Rey.
+Postrados homenaje dad
+Y coronadle Rey.</stanza>
+    <stanza type="verse" number="2">Vosotros, santos del Señor
+Que redimió la grey,
+//Al que por gracia os salvó
+Hoy coronadle Rey.//</stanza>
+    <stanza type="verse" number="3">El nombre͜ excelso anunciad
+Con celestial poder;
+//Al que podemos invocar,
+Hoy coronadle Rey.//</stanza>
+    <stanza type="verse" number="4">Los redimidos se verán
+En gloria a Sus pies;
+//Con ellos todos hoy cantad
+Y coronadle Rey.//</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>ROBIN</firstname>
+  <lastname>MAZYCK</lastname>
+  <email>robinmazyck@yahoo.com</email>
+  <password>$2y$10$LvNbeogIpCTLWfXuc2k9mehgH7YfFV2dbFkw0OHaMu3lFQfBV3ENO</password>
+  <gender/>
+  <country/>
+  <ipaddress>50.190.147.118</ipaddress>
+  <createdate>2015-07-03 16:59:40</createdate>
+  <lastupdateddate>2015-07-03 17:13:43</lastupdateddate>
+  <lastlogindate>2015-07-03 17:00:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

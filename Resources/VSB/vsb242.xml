@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou has been our dwelling place</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:274"/><vsb num="242"/></numbers>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <links>
+    <link type="ref">Psalms 90</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0274.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Lord, Thou has been our dwelling place in all generations.
+Before the mountains were brought forth,
+Or ever Thou has formed the earth and the world,
+Even from eternity to eternity,
+Thou art God.</stanza>
+    <stanza type="verse" number="1">For a thousand years in Thy sight are but yesterday,
+When it is past as a watch in the night.
+So teach us to number our days,
+That we may apply our hearts unto wisdom.</stanza>
+    <stanza type="verse" number="2">O satisfy us early with Thy mercy,
+That we may rejoice and be glad all our days.
+Make us glad according to the days,
+And the years wherein we have seen evil.</stanza>
+    <stanza type="verse" number="3">Let Thy work appear unto Thy servants,
+And Thy glory unto their children.
+And let the beauty of the Lord,
+The beauty of the Lord, our God be upon us.
+(Repeat chorus as finale)</stanza>
+  </lyrics>
+</hymn>

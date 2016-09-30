@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carlos</firstname>
+  <lastname>Sanchez</lastname>
+  <email>loscarlosboys@gmail.com</email>
+  <password>$2y$10$Fe2QOS.nSccCd8UIU/9p9eqFQWSniDIZKfa3m6OGdtgefHxW87NBS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.107.186.233</ipaddress>
+  <createdate>2015-02-09 15:53:48</createdate>
+  <lastupdateddate>2016-08-02 01:00:58</lastupdateddate>
+  <lastlogindate>2016-08-02 01:00:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="132">Lo! in heaven Jesus sitting</fav>
+    <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+    <fav category="default" type="h" num="811">My heart is hungry, my spirit doth thirst</fav>
+    <fav category="default" type="h" num="501">O glorious Christ, Savior mine</fav>
+    <fav category="default" type="h" num="626">Olives that have known no pressure</fav>
+    <fav category="default" type="ns" num="230">Simply loving everyday</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="ns" num="217">There's a life that's deeper than our mind</fav>
+    <fav category="default" type="h" num="1341">Therefore the redeemed of the Lord shall return</fav>
+    <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+  </favourites>
+</user>

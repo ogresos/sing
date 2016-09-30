@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ketsi</firstname>
+  <lastname/>
+  <email>ketsioliver@gmail.com</email>
+  <password>$2y$10$k7ZubOdJN.knt9oViBWxIesUYaz76uwWeOW2yqhQKA2P60z8SxzQO</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>117.193.174.69</ipaddress>
+  <createdate>2015-03-14 07:58:56</createdate>
+  <lastupdateddate>2015-03-14 08:00:49</lastupdateddate>
+  <lastlogindate>2015-03-14 07:59:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

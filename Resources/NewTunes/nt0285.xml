@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come and rejoice with me</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Loved by the Lord</category>
+  <numbers><english num="nt:285"/><vsb num="83"/></numbers>
+  <creators>
+    <author biodate="1828-1896" biolink="">Elizabeth Rundle Charles</author>
+    <composer biodate="" biolink="">Grace Notes Brothers</composer>
+  </creators>
+  <hymncode>666675666675</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| F - G - | C - Am - | F - G - | C - Am - | F - G - | C - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0/ 6/ 6/ 6/ 6/ 7/( 7/) 5/( | 5) - - - | 0/ 6/ 6/ 6/ 6/ 7/( 7/) 5/( | 5) - - - (break) | 0/ 6/ 6/ 6/ 6/ 7. | 5 7 ._1. 1/ | 4. 5/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Come and re -- joice with me! For once my heart was poor, And I have found a trea -- su -- ry Of love, a bound -- less store.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group002.xml</link>
+    <link type="relevant" category="h" num="285"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/irvine.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="18">e0285_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Come and rejoice with me!
+For once my heart was poor,
+And I have found a treasury
+Of love, a boundless store.</stanza>
+    <stanza type="verse" number="2">Come and rejoice with me!
+I, once so sick at heart,
+Have met with One who knows my case,
+And knows the healing art.</stanza>
+    <stanza type="verse" number="3">Come and rejoice with me!
+For I was wearied sore,
+And I have found a mighty arm
+Which holds me evermore.</stanza>
+    <stanza type="verse" number="4">Come and rejoice with me!
+My feet so wide did roam,
+And One has brought me from afar,
+To find in Him my home.</stanza>
+    <stanza type="verse" number="5">Come and rejoice with me!
+For I have found a Friend
+Who knows my heart's most secret depths,
+Yet loves me without end.</stanza>
+    <stanza type="verse" number="6">I knew not of His love;
+And He had loved so long,
+With love so faithful and so deep,
+So tender and so strong.</stanza>
+    <stanza type="verse" number="7">And now I know it all,
+Have heard and known His voice,
+And hear it still from day to day.
+Can I enough rejoice?</stanza>
+  </lyrics>
+</hymn>

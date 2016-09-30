@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Laura</firstname>
+  <lastname>Inzunza</lastname>
+  <email>laura@laurainzunza.com</email>
+  <password>$2y$10$T0B/V7pWq9KDmidUz99bleK4B1Ha6dEb/IWMkqbLyr6RZqFP6EvuW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.40.210</ipaddress>
+  <createdate>2016-08-07 13:16:02</createdate>
+  <lastupdateddate>2016-08-09 12:04:56</lastupdateddate>
+  <lastlogindate>2016-08-09 12:01:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+    <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+  </favourites>
+</user>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, today, increase Thyself in me</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Growth in Christ</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Simon Tay">S. T.</author>
+    <composer biodate="" biolink="" fullname="Simon Tay">S. T.</composer>
+  </creators>
+  <hymncode>1232144653</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | C - - - | C - - - | C - - - | Dm7 - - - | Gsus4 - - - | G - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - - 1/ 2/ | 3 - - 2 | 1 4/ 4/( 4) 6 | 5( - - - (break) | 3) - - 1/ 2/ | 3 - - - | 4 4/ 4/ 4 3 | 2( - - - (break) | 2) - - 6/ 7/ | ._1/ ._1.( ._1) ._1 | 7 - ._2. 7/ | 5( - - - (break) | 6) - - 6/ 6/ | 6/ 6.( 6) - | 5 5/ 5/( 5) 7_. | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Lord, to -- day, in -- crease Thy -- self in me, Let Thy life grow to ma -- tu -- ri -- ty; Just a chan -- nel of life, let me be, A pure ves -- sel glo -- ri -- fy -- ing Thee.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="34">ns0416.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Lord, today, increase Thyself in me,
+Let Thy life grow to maturity;
+Just a channel of life, let me be,
+A pure vessel glorifying Thee.</stanza>
+  </lyrics>
+</hymn>

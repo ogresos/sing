@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>釋放釋放榮耀釋放</title>
+  <index>true</index>
+  <category>得救的證實與快樂－被主釋放</category>
+  <creators>
+	<author biodate="1903" biolink="">Translated from Emma F. Bennett</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>11.11.11.8. with chorus.</meter>
+  <hymncode>51113211615</hymncode>
+  <key>F Major</key>
+  <time>6/8</time>
+  <!--source>http://www.hymntime.com/tch/htm/f/r/e/freedomj.htm</source-->
+  <layout>
+	<singingstanza>我 因 歸 耶 穌， 全 人 得 著 釋 放； 耶 穌 我 救 主， 今 在 我 心 作 王； 聖 靈 充 滿 我， 使 我 終 日 歡 唱； 主 耶 穌 已 把 我 釋 放！ 釋 放！ 釋 放！ 榮 耀 釋 放！ 我 不 再 被 罪 惡 捆 綁； 寶 血 洗 淨 我， 全 人 明 亮、 清 爽； 主 耶 穌 已 把 我 釋 放！</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0244_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我因歸耶穌，
+全人得著釋放；
+耶穌我救主，
+今在我心作王；
+聖靈充滿我，
+使我終日歡唱；
+主耶穌已把我釋放！</stanza>
+	<stanza type="chorus" number="">釋放！釋放！榮耀釋放！
+我不再被罪惡捆綁；
+寶血洗淨我，
+全人明亮、清爽；
+主耶穌已把我釋放！</stanza>
+	<stanza type="verse" number="2">罪惡失權勢，
+情慾不能羈絆，
+今生的憂慮
+也難再將我纏，
+屬地的捆索
+也都已被斬斷；
+主耶穌已把我釋放！</stanza>
+	<stanza type="verse" number="3">救主已為我
+衝破世界重圍，
+霸佔的魔鬼
+祂也替我擊退；
+恩光今照我，
+榮耀何其煌輝！
+主耶穌已把我釋放！</stanza>
+  </lyrics>
+</hymn>

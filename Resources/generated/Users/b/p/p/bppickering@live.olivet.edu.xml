@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Brian</firstname>
+    <lastname>Pickering</lastname>
+    <email>bppickering@live.olivet.edu</email>
+    <password>u2JJA5NY2kRg4LtkdzTzWg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>98.206.21.33</ipaddress>
+    <createdate>2012-01-13 19:43:16</createdate>
+    <lastupdateddate>2012-01-13 19:58:14</lastupdateddate>
+    <lastlogindate>2012-01-13 19:43:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1273">Christ has called us once to Him</fav>
+        <fav category="default" type="h" num="974">He looked for a city and lived in a tent</fav>
+    </favourites>
+</user>

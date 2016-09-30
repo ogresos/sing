@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But whoever drinks</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+	<author biodate="" biolink="" fullname="Ben Kong">B. K.</author>
+	<composer biodate="" biolink="" fullname="Ben Kong">B. K.</composer>
+  </creators>
+  <hymncode>67171121556653</hymncode>
+  <key>Ab Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | - - | Am - | - - | C - | - - | F - | - - | C - | - - | Am - | - - | C - | - - | C - | - - | G - | - - | C - | - - | F - | - - | Am - | - - | G - | - - | C - | - - | F - | - - | Am - | - - | G - | - - | C - | - - ||</chords>
+  <melody>| 0 6/ 7/ | ._1 7 | ._1 ._1/ ._2/ | ._1 5( (break) | 5) 5 | 6 - | 6 5 | 3 - (break) | 6 7 | ._1 7 | ._1 ._2/ ._1/( | ._1) 5( (break) | 5) 5/ 5/ | ._3 ._3/ ._1/ | ._4/ ._3/ ._2/ ._2/( | ._2.) 5/ (break) | ._3/ ._2/ ._1/ ._1/( | ._1.) 5/ | ._3/ ._2/ ._1/ ._1/( | ._1) 5 (break) | ._3/ ._2/ ._1/ ._1/( | ._1) 5/ 5/ | ._1 ._2/ ._2/( | ._2.) 5/ (break) | ._3/ ._2/ ._1/ ._1/( | ._1.) 5/ | ._3/ ._2/ ._1/ ._1/( | ._1) 5 (break) | ._3/ ._2/ ._1/ ._1/( | ._1) 5/ 5/ | ._1 ._2/ ._2/( (break) | ._2.) 5/ | ._2 ._1/ ._1/( | ._1)( - | ._1) 0 ||</melody>
+  <layout>
+    <singingstanza>But who -- ev -- er  -- drinks of the wa -- ter that I will give him shall by no means thirst for -- ev -- er; but the wa -- ter that I will give him will be -- come in him a foun -- tain of wa -- ter spring -- ing up in -- to e -- ter -- nal life; will be -- come in him a foun -- tain of wa -- ter spring -- ing up in -- to e -- ter -- nal life, e -- ter -- nal life.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">John 4:14</link>
+  </links>
+  <music>
+      <midi location="ns" length="36">ns0500.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But whoever drinks of the water
+That I will give him
+Shall by no means thirst forever;
+But the water that I will give him
+Will become in him
+A fountain of water
+Springing up into eternal life;
+Will become in him
+A fountain of water
+Springing up into eternal life,
+Eternal life.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Olivia</firstname>
+  <lastname>Yang</lastname>
+  <email>oliviayjy@163.com</email>
+  <password>$2y$10$ajQaXArRJv3yoXmv4fKsfenX5NArs/HijyscGwuAebrUR1BadnLmy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.58.25.117</ipaddress>
+  <createdate>2016-07-17 17:53:32</createdate>
+  <lastupdateddate>2016-08-25 19:33:28</lastupdateddate>
+  <lastlogindate>2016-08-25 19:33:28</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="h" num="1086">How we love the glorious name</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="h" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+    <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    <fav category="default" type="h" num="48">We bless Thee, God and Father</fav>
+    <fav category="default" type="ch" num="130">哦主你愛何等深廣</fav>
+    <fav category="default" type="ts" num="840">大好信息</fav>
+  </favourites>
+</user>

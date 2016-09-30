@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! que milagre, meu Senhor</title>
+  <index>true</index>
+  <category>Em Memória Dele</category>
+  <numbers><cebuano num="233"/><chinese num="177"/><english num="233"/><german num="233"/><korean num="177"/><portuguese num="126"/><russian num="47"/><spanish num="103"/><tagalog num="233"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 3./ 4// 5. 5/ | 6 7 ._1. 5/ | ._1 5 4/( 3/) 2/( 1/) | 4 3 2. 2/ (break) | 5 6 7. ._1/ | ._2/( ._1/) 7/( 6/) 5. 5/ | 5 ._1 2 4 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="233"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh! que milagre, meu Senhor:
+Estou em Ti, em mim estás;
+E realmente somos um;
+Quem tal mistério sondará?</stanza>
+	<stanza type="verse" number="2">Teu corpo deste Tu por mim
+Pra eu de Ti participar;
+Vertido o sangue Teu por mim
+Pra dos pecados me livrar.</stanza>
+	<stanza type="verse" number="3">Mudaste em ressurreição,
+Vieste qual Espír'to a mim;
+De Ti me encher é Teu querer,
+Riquezas Tuas tenho assim.</stanza>
+	<stanza type="verse" number="4">Ante os símbolos aqui
+Nós vemos Teu amável ser;
+Mui gratos pelo plano Teu
+Lembramos todo o Teu sofrer.</stanza>
+	<stanza type="verse" number="5">O partilhar do vinho e pão
+Ao Teu dulçor nos faz chegar;
+No espír'to recebendo a Ti,
+Teu próprio ser nos vem saciar.</stanza>
+	<stanza type="verse" number="6">Comer, beber queremos mais,
+E Te ganhar no interior,
+Até, mui plenos, ter de Ti
+Real recordação, Senhor.</stanza>
+  </lyrics>
+</hymn>

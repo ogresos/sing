@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Salamat sa tinapay Mo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="222"/><chinese num="185"/><dutch num="59"/><english num="222"/><french num="37"/><german num="222"/><korean num="185"/><portuguese num="118"/><russian num="43"/><spanish num="98"/><tagalog num="222"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5./( 4//) | 3 - 5 | ._1 - 5 | ._2.( 7/) 5/( 4/) (break) | 3 - 5 | 5( ._1) 3 | 2( 7) 6 (break) | 5 - 5 | ._1 - 5 | ._2 - 5 | ._3.( ._2/) ._1/( 7/) (break) | 6 - 6 | 5( ._1) 3 | 5( 4) 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="56"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Salamat sa tinapay Mo,
+Sagisag dibino;
+Hesus, nakita ko rito
+Mahiwagang plano.</stanza>
+	<stanza type="verse" number="2">Tinapay ang katawan Mo
+Ibinigay sa 'min,
+Bahagi ko ang buhay Mo
+At Iyong Sarili rin.</stanza>
+	<stanza type="verse" number="3">Katawan Mo ay nabasag,
+Ipinamahagi,
+Buhay Mo'y aming natanggap,
+Nang maging Iyong kasi.</stanza>
+	<stanza type="verse" number="4">Katawan Mo ngayo'y naging
+Katawang mistiko;
+Kami'y buhay na bahaging
+Nakiisa sa Iyo.</stanza>
+	<stanza type="verse" number="5">Kami'y maraming butil man,
+Isang tinapay rin;
+Ika'y aming natandaan,
+Tustos Ka sa amin.</stanza>
+	<stanza type="verse" number="6">Kami'y nakisalamuha
+Nang masiyahan Ka;
+Mga banal sama-sama,
+Yaman Mo'y makita.</stanza>
+  </lyrics>
+</hymn>

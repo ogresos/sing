@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He Has Made the Earth by His Power</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</composer>
+  </creators>
+  <hymncode>3322112314443332</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - - - | F - C - | G7 - - - | C - F - | C - - - | C/G - G7 - | C - - - | C - G7 - | C - - - | F - C - | G7 - - - | C - F - | C - - - | C/G - G7 - | C - - - ||</chords>
+  <melody>| 3 3 2 2 | 1 1/ 2/ 3 1 | 4 4/ 4/ 3 3/ 3/ | 2 2/ 3/ 4 2 (break) | 5 5 4 4/ 4/ | 3 4 5 4 | 5 1 2 - | 1 - - - (break) | (Verse_2) 1 - 5 - | 3. 4/ 5. 5/ | 6 - 5. 6/ | 7 - - - (break) | 3 - 1 - | 1( 5) 1 2 | 3( 4 5 4) | 3 - - - ||</melody>
+  <layout>
+    <singingstanza end="-1">He has made the earth by His pow -- er; He has es -- tab -- lished the world by His wis -- dom; And has stretched out the heav -- en by His un -- der -- stand -- ing. He has made the earth; Es -- tab -- lished the world; And has stretched out the heav -- en!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2012 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="34">c0088.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He has made the earth by His power;
+He has established the world by His wisdom;
+And has stretched out the heaven by His understanding.</stanza>
+    <stanza type="verse" number="2">He has made the earth;
+Established the world;
+And has stretched out the heaven!</stanza>
+    <stanza type="note" number="">Verses 1 and 2 can be sung together.</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2012 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

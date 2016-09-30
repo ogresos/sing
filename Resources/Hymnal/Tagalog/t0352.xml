@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa ilang para sa Diyos</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA DIYOS BILANG BUHAY</category>
+  <numbers><cebuano num="352"/><chinese num="272"/><english num="352"/><korean num="272"/><tagalog num="352"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa ilang para sa Diyos!
+Dawag na umaapoy!
+Ako'y ganito lamang,
+L'walhatiin Iyong ngalan.</stanza>
+    <stanza type="verse" number="2">Dawag pangkaraniwan,
+Nguni't Kanyang natirhan,
+Diyos makapagsalita,
+Sa pamamagitan niya.</stanza>
+    <stanza type="verse" number="3">Natupok di dawag nga,
+Liyab di makalupa;
+Liban sa mahayag Siya,
+Diyos walang ibang nasa.</stanza>
+    <stanza type="verse" number="4">Diyos sa loob ng dawag,
+Nakita lamang alab;
+Gawin akong ganito,
+Mal'walhati ngalan Mo.</stanza>
+  </lyrics>
+</hymn>

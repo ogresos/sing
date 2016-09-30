@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pataas na nagtumulin</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGLAGO KAY KRISTO</category>
+  <numbers><cebuano num="396"/><chinese num="ts:433"/><english num="396"/><german num="396"/><portuguese num="192"/><russian num="413"/><spanish num="174"/><tagalog num="396"/></numbers>
+  <creators>
+	<author biodate="1856-1926" biolink="">Translated from Johnson Oatman Jr.</author>
+  </creators>
+  <melody>| 0. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_.. 1/ 3/ 1/ (break) | 2. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 (break) | 1. (Chorus) 5_./ 1/ 3/ | 5. 5/ 4/ 3/ | 4. 5_./ 7_./ 2/ | 4. 4/ 3/ 2/ (break) | 3. 5/ 5/ 3/ | 1. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 | 1. 0. |</melody>
+  <music>
+	<midiref type="h" num="396"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pataas na nagtumulin,
+Bagong rurok aking tam'hin;
+Patuloy na nanalangin,
+"Mas mataas ako'y dalhin."</stanza>
+	<stanza type="chorus" number="">Itaas ako't itindig,
+Sa Canaan may panalig;
+Sa mas mataas na lupa,
+Poon, ilagak 'king paa.</stanza>
+	<stanza type="verse" number="2">Manatili di ko nasa,
+Saan man may takot, duda;
+Panalangin ko, Pangino'n
+Mas mataas, aking layon.</stanza>
+	<stanza type="chorus" number="">Itaas ako't itindig,
+Sa Canaan may panalig;
+Sa mas mataas na lupa,
+Poon, ilagak 'king paa.</stanza>
+	<stanza type="verse" number="3">Mundo'y pangibabawan ko,
+Kahit pumana ang d'yablo;
+Sa panalig may ligaya,
+Banal sa 'taas na lupa.</stanza>
+	<stanza type="chorus" number="">Itaas ako't itindig,
+Sa Canaan may panalig;
+Sa mas mataas na lupa,
+Poon, ilagak 'king paa.</stanza>
+	<stanza type="verse" number="4">Pinakarurok abutin,
+Sa l'walhati makatingin;
+Tuloy pa ring nanalangin,
+"Mas mataas, ako'y dalhin."</stanza>
+	<stanza type="chorus" number="">Itaas ako't itindig,
+Sa Canaan may panalig;
+Sa mas mataas na lupa,
+Poon, ilagak 'king paa.</stanza>
+  </lyrics>
+</hymn>

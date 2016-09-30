@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們呼吸天上空氣</title>
+  <index>true</index>
+  <category>召會－交通</category>
+  <numbers><chinese num="623"/><english num="8623"/></numbers>
+  <melody>| 0 - 5_. | 1 - 3/( 1/) | 3 - 2 | 1 - 6_. (break) | 5_. - 5_. | 1 - 3/( 1/) | 3 - 2 (break) | 5 - 3 | 5.( 3/) 5/( 3/) | 1 - 5_. | 6_..( 1/) 1/( 6_./) (break) | 5_. - 5_. | 1 - 3/( 1/) | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>我 們 呼 吸 天 上 空 氣， 香 味 從 天 而 來； 但 願 每 魂 脫 離 肉 體， 每 靈 都 充 滿 愛。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="313"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們呼吸天上空氣，
+香味從天而來；
+但願每魂脫離肉體，
+每靈都充滿愛。</stanza>
+	<stanza type="verse" number="2">主，使我們心心相聯，
+滿有聖潔情意，
+不至有日彼此改變，
+不愛你或你的。</stanza>
+	<stanza type="verse" number="3">只受你的十架指引，
+服你所有旨意，
+能以彼此更為親近，
+能以更親近你。</stanza>
+  </lyrics>
+</hymn>

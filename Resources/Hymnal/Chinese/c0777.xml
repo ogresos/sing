@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>看她有神的形像</title>
+  <index>true</index>
+  <category>終極的顯出－新耶路撒冷</category>
+  <numbers><cebuano num="978"/><chinese num="777"/><english num="978"/><korean num="777"/><spanish num="456"/><tagalog num="978"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 1/ 2/ | 3. 3/ 4/ 2/ | 5 - 1/ 2/ | 3. 1/ 2 (break) | 1 - 1/ 2/ | 3. 5/ 7/ 6/ | 5 - 1/ 2/ | 3. 1/ 2 (break) | 1 - (Chorus) 5/ 5/ | 5. 3/ 6/ 5/ | 4 - 4/ 4/ | 4. 2/ 5/ 4/ (break) | 3 - 5/ 5/ | ._1. 7/ 6/ 5/ | 5( 4) 3/( 2/) | 1. 1/ 2 | (.1 - 0 |</melody>
+  <layout>
+	<singingstanza>在 那 新 天 與 新 地， 有 新 耶 路 撒 冷； 她 有 神 聖 的 光 輝， 因 是 由 神 而 生。 看， 她 有 神 的 形 像， 也 有 分 神 的 榮 光， 且 與 主 一 同 作 王， 哦， 神 的 聖 城！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="978"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">在那新天與新地，
+有新耶路撒冷；
+她有神聖的光輝，
+因是由神而生。</stanza>
+	<stanza type="chorus" number="">看，她有神的形像，
+也有分神的榮光，
+且與主一同作王，
+哦，神的聖城！</stanza>
+	<stanza type="verse" number="2">城與其中的街道，
+都是透明精金，
+牆和根基是寶石，
+珍珠是作城門。</stanza>
+	<stanza type="verse" number="3">生命水河如水晶，
+流在城內街道；
+河的兩岸生命樹，
+滿足所有需要。</stanza>
+	<stanza type="verse" number="4">在那光明的城中，
+神是一切一切；
+祂在羔羊裏作光，
+城就永無黑夜。</stanza>
+  </lyrics>
+</hymn>

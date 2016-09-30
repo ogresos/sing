@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come bless the Lord</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:262"/><vsb num="261"/></numbers>
+  <hymncode>33211177112</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | G - - - | Dm - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | Fm - - - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 3 3 2 | 1 - - - | 0 1/ 1/ 7_./ 7_./ 1/ 1/ | 2 - - - (break) | 0 4 4 3 | 2 - - - | 0 2/ 2/ 1 2/ 2/ | 3 - - - (break) | 0 5 5 4 | 3 - - - | 0 3/ 3/ 2 3 | 4 - - - (break) | 0 4 1 2 | 3 - - - | 0 1 7_. 2 | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza end="-1">Come bless the Lord, All ye ser -- vants of the Lord, Who stand by night, In the house of the Lord. Lift up your hands, In the Ho -- ly Place, And bless the Lord. And bless the Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 134:1-2</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0262.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="note" number="">Brothers: (Sisters:)</stanza>
+    <stanza type="verse" number="1">Come bless the Lord, (Come bless the Lord,)
+All ye servants of the Lord, (All ye servants of the Lord,)
+Who stand by night, (Who stand by night,)
+In the house of the Lord. (In the house of the Lord.)
+Lift up your hands, (Lift up your hands,)
+In the Holy Place, (In the Holy Place,)
+And bless the Lord. (And bless the Lord.)
+And bless the Lord. (And bless the Lord.)</stanza>
+  </lyrics>
+</hymn>

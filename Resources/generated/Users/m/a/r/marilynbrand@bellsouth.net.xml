@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Marilyn</firstname>
+    <lastname>Brand</lastname>
+    <email>marilynbrand@bellsouth.net</email>
+    <password>VSsEaZ7VsmGGQw%2F0EL6zzA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>98.95.255.42</ipaddress>
+    <createdate>2011-05-15 09:44:02</createdate>
+    <lastupdateddate>2011-05-15 10:57:42</lastupdateddate>
+    <lastlogindate>2011-05-15 09:44:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="860">Blest be the tie that binds</fav>
+        <fav category="default" type="h" num="616">Day is dying in the west</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="882">Faith is the Victory</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

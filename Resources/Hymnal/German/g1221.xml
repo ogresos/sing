@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, der herrliche Hirte</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Als Gottes Herde</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <layout>
+	<singingstanza>Je -- sus, der herr -- li -- che Hir -- te, Uns aus dem Pferch führ -- te raus Auf Sei -- ne saf -- ti -- ge Wei -- de. Hier sind wir end -- lich zu Haus! In der Ge -- mein -- de  Ist un -- ser Le -- ben ein Fest! Ein -- heit im gött -- li -- chen Le -- ben Siehst du, wo -- hin du auch gehst.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">John 10</link>
+  </links>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, der herrliche Hirte,
+Uns aus dem Pferch führte raus
+Auf Seine saftige Weide.
+Hier sind wir endlich zu Haus!</stanza>
+	<stanza type="chorus" number="">In der Gemeinde 
+Ist unser Leben ein Fest!
+Einheit im göttlichen Leben
+Siehst du, wohin du auch gehst.</stanza>
+	<stanza type="verse" number="2">Wir warn zerstreut und zerspalten,
+Unterernährt, ohne Mut;
+Ins gute Land führte Gott uns,
+In unsren Geist, oh wie gut!</stanza>
+	<stanza type="verse" number="3">Jesus Selbst ist unsre Weide,
+Er ist die Speise, die nährt.
+Wenn Er die Herde versammelt,
+Ihn jedes Schaf reich erfährt.</stanza>
+	<stanza type="verse" number="4">Bleiben wir auf dem Gebirge,
+Wo frischer Tau uns umhüllt,
+Löschen den Durst an der Quelle,
+Wasser des Lebens uns füllt.</stanza>
+	<stanza type="verse" number="5">Wir ruhn in Christus und freun uns,
+Hunger und Furcht gibt es nicht;
+Sicher sind hier alle Schafe,
+Schauen in Sein Angesicht.</stanza>
+  </lyrics>
+</hymn>

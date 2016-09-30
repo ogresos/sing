@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Kennedy</firstname>
+<lastname>Henry</lastname>
+<email>kenco_13@hotmail.co.uk</email>
+<password>$1$lpqL.qOS$YNmXHOCnorjVUFHay0oyU.</password>
+<gender>F</gender>
+<country>United Kingdom</country>
+<ipaddress>89.241.144.92</ipaddress>
+<createdate>2009-04-20 17:09:07</createdate>
+<lastupdateddate>2009-09-15 18:29:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    </favourites>
+</user>

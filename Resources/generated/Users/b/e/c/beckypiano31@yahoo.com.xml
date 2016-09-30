@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Becky</firstname>
+    <lastname>Oekerman</lastname>
+    <email>beckypiano31@yahoo.com</email>
+    <password>$1$jph3PTd7$gmL/3J0Xgis9lbRTx3Wto0</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>72.177.56.208</ipaddress>
+    <createdate>2008-07-26 01:43:00</createdate>
+    <lastupdateddate>2013-03-31 11:28:04</lastupdateddate>
+    <lastlogindate>2013-03-31 11:28:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="3">God has a dream</fav>
+        <fav category="default" type="h" num="595">There is always something over</fav>
+    </favourites>
+</user>

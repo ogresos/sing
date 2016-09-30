@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Martha</firstname>
+    <lastname></lastname>
+    <email>vpursifull@cinergymetro.net</email>
+    <password>q535T9g525N49aFPk2oa6A%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>208.38.228.45</ipaddress>
+    <createdate>2013-08-25 18:37:15</createdate>
+    <lastupdateddate>2013-08-25 19:19:54</lastupdateddate>
+    <lastlogindate>2013-08-25 18:37:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="677">Art thou sunk in depths of sorrow</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="327">Before the throne of God above</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="317">Dear Savior, Thou art mine</fav>
+        <fav category="default" type="h" num="686">Fear not, I am with thee</fav>
+        <fav category="default" type="h" num="8239">God laid my sins on Jesus</fav>
+        <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+        <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+        <fav category="default" type="h" num="711">I know not what awaits me</fav>
+        <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+        <fav category="default" type="h" num="679">Safe in the arms of Jesus</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    </favourites>
+</user>

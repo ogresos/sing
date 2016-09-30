@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Victoria</firstname>
+  <lastname>Urbina</lastname>
+  <email>antipas8@gmail.com</email>
+  <password>$2y$10$Pd4etbWri4LIc1e/cMeWvOz190Ec96/9VHmhKMFEG1dR7p8zN/6mW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>63.231.161.110</ipaddress>
+  <createdate>2015-09-25 23:09:35</createdate>
+  <lastupdateddate>2015-11-02 21:48:21</lastupdateddate>
+  <lastlogindate>2015-10-25 15:16:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="318">But to Him who is able to do superabundantly</fav>
+    <fav category="default" type="nt" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="h" num="553">In the secret of His presence</fav>
+    <fav category="default" type="nt" num="369">Let me love Thee, Thou art claiming</fav>
+    <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+    <fav category="default" type="nt" num="96">My song is love unknown</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+  </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Rey de reyes eres Tú</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su reino</category>
+  <numbers><cebuano num="148"/><chinese num="124"/><english num="148"/><german num="148"/><korean num="124"/><portuguese num="74"/><russian num="345"/><spanish num="74"/><tagalog num="148"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 2 - 4 | 3.( 2/) 1 | 2 - 2 | 2( - 5_.) (break) | 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 1 - 3 | 2.( 1/) 7_. | 7_. - 6_. | 5_. - - (break) | 5 - 5 | 3.( 2/) 1 | 5 - 5 | 3 - - | 3 - 5 | 4( 3) 2 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Rey de reyes eres Tú,
+Nos postramos en Tu luz;
+Oh, Ungido celestial,
+Te͜ adoramos sin cesar;
+De los reyes eres Rey,
+Te͜ ensalzamos en Tu grey.</stanza>
+	<stanza type="verse" number="2">Tu poder y͜ autoridad
+Por la tierra se verán;
+Todos te adorarán,
+Frente͜ al trono servirán;
+Rey de reyes, en Tu͜ honor,
+Ofrecemos hoy loor.</stanza>
+	<stanza type="verse" number="3">Es Tu reino celestial,
+Y Tu trono eternal;
+A Tu gloria y poder
+Cantaremos por doquier;
+Mas ahora, nuestro Rey,
+Te͜ alabamos en la grey.</stanza>
+	<stanza type="verse" number="4">Nuestro soberano Rey,
+Tu nombre precioso es;
+Disfrutamos Tu reinar,
+¡Venga͜ el reino en total!
+Rey de reyes, hoy aquí
+Toda honra͜ es para Ti.</stanza>
+  </lyrics>
+</hymn>

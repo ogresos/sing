@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sis</firstname>
+  <lastname>Selene</lastname>
+  <email>silin_minnie@hotmail.com</email>
+  <password>$2y$10$ns7OtYv.vl5jxWmY7g9SD.srj4HwB3xrsy14z1hhSzuzT1BYFT4I2</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>123.114.89.205</ipaddress>
+  <createdate>2015-01-25 03:08:08</createdate>
+  <lastupdateddate>2015-01-25 03:15:08</lastupdateddate>
+  <lastlogindate>2015-01-25 03:09:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="403">Live Thyself, Lord Jesus, through me</fav>
+    <fav category="default" type="h" num="426">Remove my covering, Lord</fav>
+  </favourites>
+</user>

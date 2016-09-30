@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James</firstname>
+  <lastname>Barratt</lastname>
+  <email>jdriver45@hotmail.com</email>
+  <password>$2y$10$RaAgnhOs/.0/vGQ03bk3U.1YWkGD3sYNyyxa7.N7p/s9Nh80QjWrC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.38.243.139</ipaddress>
+  <createdate>2016-01-17 16:53:19</createdate>
+  <lastupdateddate>2016-07-10 17:37:58</lastupdateddate>
+  <lastlogindate>2016-07-10 17:37:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

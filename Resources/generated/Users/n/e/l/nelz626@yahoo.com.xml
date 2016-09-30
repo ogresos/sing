@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nelz</firstname>
+  <lastname>Nuñez</lastname>
+  <email>nelz626@yahoo.com</email>
+  <password>$2y$10$JMe/uWF4UYHUutjtzfohLOwBsAAKqONPyeYPzd47SsD4jdWqI/n8y</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.114.19.232</ipaddress>
+  <createdate>2016-01-08 01:02:06</createdate>
+  <lastupdateddate>2016-01-16 14:22:34</lastupdateddate>
+  <lastlogindate>2016-01-09 13:31:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="c" num="86">God Made You, God Made Me</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="c" num="125">Tell the Truth, Even to the Letter</fav>
+  </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shernet</firstname>
+  <lastname>Smith</lastname>
+  <email>smithshernet@yahoo.com</email>
+  <password>$2y$10$i6dEhO2MNHQG5JgSS3lb1e.fwdl1TSe/eftgrh0ygt87w/ByCZDva</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>64.121.127.74</ipaddress>
+  <createdate>2015-08-09 15:15:40</createdate>
+  <lastupdateddate>2015-08-09 17:21:06</lastupdateddate>
+  <lastlogindate>2015-08-09 16:41:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

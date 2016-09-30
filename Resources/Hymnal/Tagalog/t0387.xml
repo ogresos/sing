@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako'y Iyo Hesus, ang sinabi Mo</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA LALONG MALAPIT NA PAGLAKAD KASAMA NI KRISTO</category>
+  <numbers><cebuano num="387"/><chinese num="287"/><english num="387"/><korean num="287"/><portuguese num="189"/><russian num="412"/><tagalog num="387"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="387"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ako'y Iyo Hesus, ang sinabi Mo,
+Pag-ibig Mo'y dakila;
+Nguni't makaakyat ang nais ko
+At makakapiling Ka.</stanza>
+    <stanza type="chorus" number="">Palapit sa Iyo, Panginoon
+Sa tag'lirang nagdugo;
+Palapit kay Hesus, akitin ngayon
+Sa mahal na piling Mo.</stanza>
+    <stanza type="verse" number="2">Ako'y pabanalin ng biyaya,
+At maglilingkod sa Iyo;
+Espiritu ko'y sa Iyo umasa,
+Pasiya ko ang pasiya Mo.</stanza>
+    <stanza type="verse" number="3">Maikling panahon sa Iyong trono,
+Galak walang kaparis;
+Sa Iyong paanan at kaharap Mo,
+Pagniniig matamis.</stanza>
+    <stanza type="verse" number="4">Pag-ibig kay lalim di ko tanto,
+Liban kung magpangita;
+Galak kay taas, di ko matamo,
+Liban kung kapiling Ka.</stanza>
+  </lyrics>
+</hymn>

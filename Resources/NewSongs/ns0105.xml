@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fallen, that's the way we all begin</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Redemption</category>
+  <numbers><english num="ns:105"/><lsmyp num="23"/><vsb num="91"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tony Rosmarin">T. R.</author>
+    <composer biodate="" biolink="" fullname="Tony Rosmarin">T. R.</composer>
+  </creators>
+  <hymncode>234321231</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | C - F - | G - C - | C - C/E - | F - G - | C - - - | C/E - F - | G - C - | Dm - Dm7 - | G - C/E - | F - G7 - | C - C/E - | F - G - | C - C/E - | F - G - | Am - - - | Dm - D7/F# - | G - - - | F - G7 - | C - C/E - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - 2/ 3.( | 3.) 4/( 4/) 3/ 2/ 1/ | 2 3/ 1/( 1.) 5_./ | 2/ 3.( 3.) 4/( | 4/) 3/ 2/ 1/ 2 3/ 1/( | 1) - 2/ 3.( | 3.) 4/( 4/) 3/ 2/ 1/ | 2 3/ 1/( 1) 3 | 2( - - - (break) | 2) (Chorus) 1/ 1/ 3 5 | 6 6 5 2/ 3/( | 3/) 5/( 5) - - | 6 6/ 5/( 5/) 5/ 4 | 3 - - - | 6/ 6/ 6/ 6/ 5 2/ 3/( | 3/) 5.( 5) 3 | 4 3 2 1/ 2/( | 2) - - 3 | 4( - 4/)( 3/)( 2) | 1 - - 3 | 4( - 4/)( 3/)( 2) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Fall -- en, that's the way we all be -- gin: Im -- pri -- soned by the e -- vil fate we're in. How can we from this hard world of sin be saved? Just by call -- ing, "Je -- sus, Je -- sus, Je -- sus." Ev -- ery mo -- ment, each day! Call -- ing on the name of Je -- sus&amp;mdash; We're find -- ing is the way. It's Je -- sus, Lord Je -- sus!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="45">ns0105.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Fallen, that's the way we all begin:
+Imprisoned by the evil fate we're in.
+How can we from this hard world of sin
+    be saved?</stanza>
+    <stanza type="chorus" number="">Just by calling, "Jesus, Jesus, Jesus."
+Every moment, each day!
+Calling on the name of Jesus&amp;mdash;
+We're finding is the way.
+It's Jesus, Lord Jesus!</stanza>
+    <stanza type="verse" number="2">Even though we love the Lord so much,
+Somehow, it seems we get out of touch
+With Jesus. How can we be freed from such
+    distress?</stanza>
+    <stanza type="verse" number="3">Sometimes we know we aren't being real
+Then times, we just live by how we feel.
+Is there some way we could ever deal
+    with self?</stanza>
+    <stanza type="verse" number="4">Christians, scattered throughout all the earth
+Are wand'ring&amp;mdash;Lord, where is Your Bride of worth?
+How can all those of the second birth
+    be one?</stanza>
+  </lyrics>
+</hymn>

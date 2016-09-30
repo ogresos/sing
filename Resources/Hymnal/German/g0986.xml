@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Erlösung hat der Herr vollbracht</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Der Retter</category>
+  <numbers><cebuano num="986"/><chinese num="671"/><english num="986"/><german num="986"/><korean num="671"/><portuguese num="440"/><russian num="160"/><spanish num="460"/><tagalog num="986"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._1 5 5 | 7 6 5 4/ 4/ | 3 - 2 1 (break) | 5 - 5 5 | ._1 ._1 5 5 | 7 6 5 4/ 4/ | 3 - 4 2 (break) | 2 - 1 (Chorus) 1/ 2/ | 3 - 2 1 | 5 - 3 1 | 2 - 1 2 (break) | 3 5 - 5/ 5/ | ._1 - ._1 6 | 5 - 3 1 | 3 - 2 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Er -- lö -- sung hat der Herr voll -- bracht, Oh welch herr -- li -- cher Ret -- ter! Den Preis be -- zahlt, mich frei ge -- macht, Oh welch herr -- li -- cher Ret -- ter! Oh welch herr -- li -- cher Ret -- ter ist Je -- sus, mein Ret -- ter! Oh welch herr -- li -- cher Ret -- ter ist Je -- sus, mein Herr!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="986"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Erlösung hat der Herr vollbracht,
+Oh welch herrlicher Retter!
+Den Preis bezahlt, mich frei gemacht,
+Oh welch herrlicher Retter!</stanza>
+	<stanza type="chorus" number="">Oh welch herrlicher Retter ist Jesus, mein Retter!
+Oh welch herrlicher Retter ist Jesus, mein Herr!</stanza>
+	<stanza type="verse" number="2">Für mich gab Er Sein Blut im Tod,
+Oh welch herrlicher Retter!
+Versöhnte mich vollauf mit Gott,
+Oh welch herrlicher Retter!</stanza>
+	<stanza type="verse" number="3">Mich wäscht von jeder Sünde rein:
+Oh welch herrlicher Retter!
+Herrscht nun in mir tagaus, tagein;
+Oh welch herrlicher Retter!</stanza>
+	<stanza type="verse" number="4">Er wohnt in mir und macht mich neu;
+Oh welch herrlicher Retter!
+Auf meinem Weg bewahrt mich treu,
+Oh welch herrlicher Retter!</stanza>
+	<stanza type="verse" number="5">Er gibt mir Überwinderkraft,
+Oh welch herrlicher Retter!
+Den Sieg in Kämpfen mir verschafft,
+Oh welch herrlicher Retter!</stanza>
+	<stanza type="verse" number="6">Ich gebe Ihm mein Herz ganz hin,
+Oh welch herrlicher Retter!
+Die Welt hat keinen Platz darin,
+Oh welch herrlicher Retter!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay dakila&amp;mdash;pag-ibig Mo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAG-IBIG</category>
+  <numbers><cebuano num="153"/><chinese num="126"/><english num="153"/><korean num="126"/><portuguese num="78"/><russian num="505"/><tagalog num="153"/></numbers>
+  <creators>
+    <author biodate="1663-1713" biolink="">Translated from Joseph Stennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="153"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kay dakila&amp;mdash;pag-ibig Mo,
+Hesus, ganap ito!
+Aming isip, buhay, puso,
+Ay natuon sa Iyo!</stanza>
+    <stanza type="verse" number="2">Pangino'n, mahal Ka namin,
+Di-mapaparisan,
+At ang pagdurusa Mo rin -
+Krus ng kahihiyan.</stanza>
+    <stanza type="verse" number="3">Par' sa kaibigan mamatay -
+Sakdal na pagsinta;
+Bagkus para sa kaaway -
+Katangi-tangi Ka!</stanza>
+    <stanza type="verse" number="4">Ika'y nasa anyo ng Diyos,
+Nasa l'walhati rin;
+Nguni't sa pighati'y lipos,
+Sa anyong alipin.</stanza>
+    <stanza type="verse" number="5">Ika'y tumulad sa tao,
+Nguni't walang sala,
+Nang kami'y makawangis Mo,
+Ganap matransporma.</stanza>
+    <stanza type="verse" number="6">Maamo Ka at malakas,
+Tutularan Kita;
+L'walhati'y lalong tataas,
+Hanggang magpangita.</stanza>
+    <stanza type="verse" number="7">Pag-ibig Mo'y mahalaga
+Sa'ming isip, puso;
+Walang hanggang sinasamba
+Mahal na ngalan Mo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Alex</firstname>
+<lastname>Ho</lastname>
+<email>ho.kincheung@gmail.com</email>
+<password>$1$ear727oA$a/tQx3J5P86J0tBvkpOt2/</password>
+<gender>M</gender>
+<country>Canada</country>
+<ipaddress>75.154.68.155</ipaddress>
+<createdate>2008-07-26 01:43:06</createdate>
+<lastupdateddate>2009-09-15 18:24:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="904">We have a most glorious King</fav>
+        <fav category="default" type="h" num="452">Tell me not of earthly pleasures</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="h" num="173">Thou art fairer than the morning</fav>
+        <fav category="default" type="h" num="117">Christ the Lord is ris'n indeed</fav>
+        <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+    </favourites>
+</user>

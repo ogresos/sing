@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Andrea Carla</firstname>
+<lastname>Haway</lastname>
+<email>acmhaway@yahoo.com.ph</email>
+<password>$1$NOKWjVwK$V2r7N5TZI5SAqpSQPhbFV.</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>124.217.20.33</ipaddress>
+<createdate>2009-05-10 21:52:10</createdate>
+<lastupdateddate>2009-09-15 19:16:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="141">O glorious divine love</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="134">A higher view</fav>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="ns" num="39">Grow in me</fav>
+        <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="55">Call, call, won't you call Jesus' name</fav>
+        <fav category="default" type="ns" num="124">Calling, O Lord Jesus</fav>
+        <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+        <fav category="default" type="ns" num="125">Go on, go on</fav>
+        <fav category="default" type="ns" num="3">God has a dream</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="ns" num="157">Here a Little, There a Little</fav>
+        <fav category="default" type="ns" num="69">Jesus won't You come</fav>
+        <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+    </favourites>
+</user>

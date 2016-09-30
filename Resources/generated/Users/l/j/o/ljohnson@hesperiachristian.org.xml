@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Miss</firstname>
+    <lastname>Johnson</lastname>
+    <email>ljohnson@hesperiachristian.org</email>
+    <password>2cQzI0kDr0L4yZzEYZymyg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>24.180.50.70</ipaddress>
+    <createdate>2014-05-28 15:08:15</createdate>
+    <lastupdateddate>2014-05-28 15:08:15</lastupdateddate>
+    <lastlogindate>2014-05-28 15:08:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="806">Break Thou the Bread of Life</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="997">I hear the Savior say</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    </favourites>
+</user>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Clifton</firstname>
+    <lastname>Sweeney</lastname>
+    <email>cesweeney@centurytel.net</email>
+    <password>vfj5UgUUZTzsuiW1ivKZFQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>184.157.25.167</ipaddress>
+    <createdate>2013-03-19 21:20:58</createdate>
+    <lastupdateddate>2013-03-20 23:02:45</lastupdateddate>
+    <lastlogindate>2013-03-20 23:02:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="587">Tis so sweet to walk with Jesus</fav>
+    </favourites>
+</user>

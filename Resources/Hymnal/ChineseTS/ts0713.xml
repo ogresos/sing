@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿！可愛的召會生活</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:713"/><portuguese num="392"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5345316533432223213</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>阿！ 可 愛 的 召 會 生 活！ 我 們 在 這 裡， 天 天 有 喫 喝； 何 必 挨 餓？ 何 必 乾 渴？ 讓 我 們 一 同 來 享 受！ 快 快 進 入 方 舟， 同 過 召 會 生 活， 天 天 喫 喝 享 受， 日 子 已 經 不 多！ 快 快 進 入 方 舟， 同 過 召 會 生 活， 迎 接 新 郎 回 來， 最 是 值 得！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0713.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿！可愛的召會生活！
+我們在這裡，
+天天有喫喝；
+何必挨餓？何必乾渴？
+讓我們一同來享受！</stanza>
+	<stanza type="chorus" number="">快快進入方舟，
+同過召會生活，
+天天喫喝享受，
+日子已經不多！
+快快進入方舟，
+同過召會生活，
+迎接新郎回來，
+最是值得！</stanza>
+	<stanza type="verse" number="2">阿！可愛的召會生活！
+為這個奉獻，
+實在是值得！
+我們愛基督與召會，
+除此以外，別無所求。</stanza>
+	<stanza type="verse" number="3">阿！可愛的召會生活！
+在神的家中，
+個個都富有！
+可以在會中盡功用，
+可以到處帶人得救！</stanza>
+	<stanza type="verse" number="4">阿！可愛的召會生活！
+我們有美地，
+無比的肥沃！
+殷勤耕種，時刻澆灌，
+我們都是全時間的！</stanza>
+	<stanza type="verse" number="5">阿！可愛的召會生活！
+建造在一起，
+我們是一個！
+哈！老撒但，該你蒙羞，
+新婦到底被主得著！</stanza>
+  </lyrics>
+</hymn>

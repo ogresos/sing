@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jack</firstname>
+  <lastname>Young</lastname>
+  <email>winniejack@gmail.com</email>
+  <password>$2y$10$Fmy8rb652T5l3k4mDKWVrOFQXhOkACOYc49ZrP6ukyI3Dg5z2Viu.</password>
+  <gender/>
+  <country/>
+  <ipaddress>121.203.214.80</ipaddress>
+  <createdate>2016-06-06 00:00:14</createdate>
+  <lastupdateddate>2016-06-08 00:43:13</lastupdateddate>
+  <lastlogindate>2016-06-06 00:01:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="303">Nor silver nor gold hath obtained my redemption</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+  </favourites>
+</user>

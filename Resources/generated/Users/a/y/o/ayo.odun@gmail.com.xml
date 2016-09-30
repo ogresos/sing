@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Odun</firstname>
+<lastname>Ayo</lastname>
+<email>ayo.odun@gmail.com</email>
+<password>$1$FS.KRueK$2WVUNDe2jf.QEruWC42Jp/</password>
+<gender>F</gender>
+<country>United Kingdom</country>
+<ipaddress>86.153.70.86</ipaddress>
+<createdate>2009-08-12 21:31:12</createdate>
+<lastupdateddate>2009-09-15 19:17:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="930">Must I go, and empty-handed</fav>
+        <fav category="default" type="h" num="1068">In tenderness He sought me</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="398">O to be like Thee</fav>
+        <fav category="default" type="h" num="569">Simply trusting every day</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    </favourites>
+</user>

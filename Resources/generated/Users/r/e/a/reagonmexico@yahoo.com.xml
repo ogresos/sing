@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>raj</firstname>
+  <lastname>sidhu</lastname>
+  <email>reagonmexico@yahoo.com</email>
+  <password>$2y$10$8mdCFVam93/Urq2xBTIh3uRegaSxtF5op52bSOJ7sZYfmu/uMZ8r6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.173.247.158</ipaddress>
+  <createdate>2015-09-10 02:22:52</createdate>
+  <lastupdateddate>2015-09-10 02:43:36</lastupdateddate>
+  <lastlogindate>2015-09-10 02:24:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="861">God be with you till we meet again</fav>
+  </favourites>
+</user>

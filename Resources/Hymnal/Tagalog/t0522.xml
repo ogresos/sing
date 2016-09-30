@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Noon puso ko'y malungkot</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG LAHAT-LAHAT</category>
+  <numbers><cebuano num="522"/><chinese num="258"/><english num="522"/><korean num="258"/><portuguese num="256"/><russian num="519"/><spanish num="237"/><tagalog num="522"/></numbers>
+  <creators>
+    <author biodate="1827-1909" biolink="">Translated from Emma Frances Shuttleworth Bevan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="522"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Noon puso ko'y malungkot,
+Dilim nagpalibot;
+Ngayon Kristo'y nagpasaya,
+Puso ko natuwa!</stanza>
+    <stanza type="chorus" number="">Kristo ngayon nagpasaya,
+Wala nang iba pa;
+Pag-ibig, galak at buhay;
+Kristo ang nagbigay.</stanza>
+    <stanza type="verse" number="2">Natikman panlupang lasa,
+Uhaw di mawala;
+Mapasa 'kin man ang mundo,
+Walang s'ya puso ko.</stanza>
+    <stanza type="verse" number="3">Noon pagpala nais ko,
+Di hangad si Kristo;
+Kahit binale-wala Siya,
+Ako'y hinanap Niya.</stanza>
+    <stanza type="verse" number="4">Tubig sa sisidlang basag,
+Inuma't mabagbag,
+'Pagkat tumagas, nawala,
+Uhaw ko'y kinutya.</stanza>
+    <stanza type="verse" number="5">Pagpapala ay nawala,
+Ni di naisip Ka;
+Nang buksan Mo aking mata,
+'Batid Iyong pagsinta.</stanza>
+  </lyrics>
+</hymn>

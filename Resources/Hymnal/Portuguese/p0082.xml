@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mil línguas eu quisera ter</title>
+  <index>true</index>
+  <category>Sua Graça</category>
+  <numbers><cebuano num="163"/><chinese num="135"/><english num="163"/><korean num="135"/><portuguese num="82"/><russian num="33"/><spanish num="79"/><tagalog num="163"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="163"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mil línguas eu quisera ter,
+Pra entoar louvor
+Às glórias do meu Deus e Rei,
+À graça do Senhor.</stanza>
+    <stanza type="verse" number="2">Gracioso Mestre, ó meu Deus,
+Ajuda-me a levar,
+Por todo o mundo, o nome Teu,
+E a graça singular.</stanza>
+    <stanza type="verse" number="3">Jesus, que nome animador!
+O meu temor desfaz;
+E traz a mim, um pecador,
+Consolo, vida e paz.</stanza>
+    <stanza type="verse" number="4">Eterno escravo quero ser
+Do amor do meu Senhor,
+Pois, para me livrar, sofreu
+Prisão, escárnio e dor.</stanza>
+    <stanza type="verse" number="5">Sim, ao pecado aniquilou,
+A fim de me livrar;
+Ao mais imundo transgressor
+Seu sangue vem limpar.</stanza>
+    <stanza type="verse" number="6">Do grande amor a me salvar
+Não sou merecedor;
+Tamanha graça veio dar
+Ao mais vil pecador.</stanza>
+    <stanza type="verse" number="7">Teu nome amo, meu Senhor,
+E Teu querer é o meu;
+Tivesse eu mil corações,
+Seriam todos Teus.</stanza>
+  </lyrics>
+</hymn>

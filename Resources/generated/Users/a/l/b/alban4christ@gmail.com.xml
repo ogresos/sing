@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Albert</firstname>
+  <lastname>Annan</lastname>
+  <email>alban4christ@gmail.com</email>
+  <password>$2y$10$C9Xsup4JSDZjK4vaJbbYUua8TQHVAcrQkyUihM9d5xmMIgncS0ymy</password>
+  <gender/>
+  <country>Ghana</country>
+  <ipaddress>141.101.99.98</ipaddress>
+  <createdate>2014-01-10 04:13:10</createdate>
+  <lastupdateddate>2016-03-14 16:17:36</lastupdateddate>
+  <lastlogindate>2016-03-14 16:17:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+  </favourites>
+</user>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Robert</firstname>
+    <lastname>DeJohn</lastname>
+    <email>robert.dejohn@gmail.com</email>
+    <password>pbgsehl0kvL8x6K2znczXA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>66.169.251.75</ipaddress>
+    <createdate>2010-02-26 01:19:15</createdate>
+    <lastupdateddate>2010-02-26 01:21:09</lastupdateddate>
+    <lastlogindate>2010-02-26 01:20:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tunes)</fav>
+    </favourites>
+</user>

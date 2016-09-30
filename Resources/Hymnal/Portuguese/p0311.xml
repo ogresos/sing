@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deus é luz, não há Nele treva alguma ? jamais</title>
+  <index>true</index>
+  <category>Como Luz</category>
+  <numbers><chinese num="ts:444"/><dutch num="14"/><english num="1197"/><korean num="797"/><portuguese num="311"/><tagalog num="1197"/></numbers>
+  <links>
+    <link type="ref">1 John 1:5-7</link>
+  </links>
+  <music>
+    <midiref type="h" num="1197"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Deus é luz, não há Nele treva alguma ? jamais!
+Como é bom diante Dele estar!
+Oh! de todo o pecado, um constante limpar
+Temos nesta luz!</stanza>
+    <stanza type="chorus" number="">Irmãs: Se na luz
+Irmãos: Sempre andamos,
+Irmãs: Comunhão
+Irmãos: Desfrutamos;
+Irmãs: Eis o sangue
+Irmãos: De Jesus,
+Todos: Seu Filho, a nos limpar.</stanza>
+    <stanza type="chorus" number="">Irmãs: Deus é fiel,
+Irmãos: Nos perdoa;
+Irmãs: Justo é,
+Irmãos: Confessemos.
+Irmãs: Dos pecados
+Irmãos: Somos limpos!
+Todos: Oh! que gozo e paz!</stanza>
+  </lyrics>
+</hymn>

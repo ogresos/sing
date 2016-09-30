@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vois-Le paraître, c'est Lui, c'est Jésus</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa résurrection</category>
+  <numbers><chinese num="106"/><english num="121"/><french num="20"/><korean num="106"/><portuguese num="55"/><tagalog num="121"/></numbers>
+  <creators>
+    <author biodate="1854-1932" biolink="">Translated from Edmond Louis Budry</author>
+    <author biodate="" biolink="">Translated by Richard B. Hoyle</author>
+  </creators>
+  <music>
+    <midiref type="h" num="121"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">À Toi la gloire, Christ ressuscité !
+À Toi la victoire pour l'éternité !
+Brillant de lumière, l'ange est descendu,
+Il roule la pierre du tombeau vaincu.</stanza>
+    <stanza type="chorus" number="">À Toi la gloire, Christ ressuscité !
+À Toi la victoire pour l'éternité !</stanza>
+    <stanza type="verse" number="2">Vois-Le paraître, c'est Lui, c'est Jésus,
+Ton Sauveur, Ton Maître ! Non, ne doute plus !
+Sois dans l'allégresse, peuple du Seigneur,
+Et redis sans cesse que Christ est vainqueur !</stanza>
+  </lyrics>
+</hymn>

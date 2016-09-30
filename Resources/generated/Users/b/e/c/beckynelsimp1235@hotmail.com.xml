@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>becky</firstname>
+<lastname>simpkins</lastname>
+<email>beckynelsimp1235@hotmail.com</email>
+<password>$1$soteokOe$6bh27b5CoLdq84gQEWAeB/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>72.148.118.208</ipaddress>
+<createdate>2009-02-06 09:49:15</createdate>
+<lastupdateddate>2009-09-15 18:29:27</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="h" num="45">Abba, Father! we adore Thee</fav>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="43">Abba, Father, we approach Thee</fav>
+    </favourites>
+</user>

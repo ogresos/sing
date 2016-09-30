@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Нет оправданий у меня</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ПРИХОД К ГОСПОДУ</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <layout>
+	<singingstanza>Нет о -- прав -- да -- ний у ме -- ня, Лишь кровь про -- ли -- та -- я Тво -- я. Я зна -- ю, что зо -- вёшь к_Се -- бе, О Аг -- нец, я и -- ду к_Те -- бе.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Нет оправданий у меня,
+Лишь кровь пролитая Твоя.
+Я знаю, что зовёшь к Себе,
+О Агнец, я иду к Тебе.</stanza>
+	<stanza type="verse" number="2">Иду как есть, не буду ждать,
+Пока очистится душа.
+Омоюсь кровью лишь Твоей.
+О Агнец, я иду к Тебе.</stanza>
+	<stanza type="verse" number="3">Такой как есть, хоть рвут меня
+Конфликты и сомнения.
+Со страхом и борьбой во мне,
+О Агнец, я иду к Тебе.</stanza>
+	<stanza type="verse" number="4">Как есть я, жалок, нищ и слеп,
+Богатства, исцеленье, свет –
+Что нужно мне – в Тебе найду,
+О Агнец, я к Тебе иду.</stanza>
+	<stanza type="verse" number="5">Таким как есть меня возьмёшь,
+Простишь, очистишь, призовёшь,
+Облегчишь; верю в Твой обет.
+О Агнец, я иду к Тебе.</stanza>
+	<stanza type="verse" number="6">Непостижимая любовь
+Преграды сокрушила все.
+Теперь я Твой, да, только Твой.
+Иду к Тебе, о Агнец мой!</stanza>
+  </lyrics>
+</hymn>

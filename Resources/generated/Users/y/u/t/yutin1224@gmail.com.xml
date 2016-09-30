@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Hannah</firstname>
+  <lastname/>
+  <email>yutin1224@gmail.com</email>
+  <password>$2y$10$0Ku9eT5xAT6C7C/wTM8CceYoXVKIb7kh0g02Idf2U3Kx9UtyQ9W.2</password>
+  <gender/>
+  <country/>
+  <ipaddress>182.235.217.53</ipaddress>
+  <createdate>2013-12-30 01:08:04</createdate>
+  <lastupdateddate>2015-02-22 10:54:36</lastupdateddate>
+  <lastlogindate>2015-02-22 10:51:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="611">在宇宙中只有一個身體</fav>
+  </favourites>
+</user>

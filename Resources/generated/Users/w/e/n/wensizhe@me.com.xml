@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>sizhe</firstname>
+  <lastname>wen</lastname>
+  <email>wensizhe@me.com</email>
+  <password>$2y$10$SnYlptyqcaz6A/6XFYL1QOgZ.korLOg2WtK5oPfjBACbfUZnBWl6S</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.159.70.59</ipaddress>
+  <createdate>2014-09-21 06:07:17</createdate>
+  <lastupdateddate>2015-11-05 23:26:51</lastupdateddate>
+  <lastlogindate>2015-10-31 02:57:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="639">Death cannot hold the resurrection life</fav>
+    <fav category="default" type="h" num="321">Full salvation! Full salvation</fav>
+    <fav category="default" type="h" num="7">Glory, glory to the Father</fav>
+    <fav category="default" type="h" num="523">I have come to the Fountain of Life</fav>
+    <fav category="default" type="h" num="538">It is God's intent and pleasure</fav>
+    <fav category="default" type="h" num="501">O glorious Christ, Savior mine</fav>
+    <fav category="default" type="h" num="1112">Oh, how glorious is Thy table, Lord</fav>
+    <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+    <fav category="default" type="h" num="1130">Sing praise to Christ Who lives in us</fav>
+    <fav category="default" type="h" num="1272">The birthright God has giv'n to us</fav>
+    <fav category="default" type="h" num="86">Though Thou art God, most glorious, high</fav>
+    <fav category="default" type="h" num="1153">We have found the Christ who's all in all</fav>
+  </favourites>
+</user>

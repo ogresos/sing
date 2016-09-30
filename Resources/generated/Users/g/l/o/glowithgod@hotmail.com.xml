@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Sean</firstname>
+    <lastname>Krall</lastname>
+    <email>glowithgod@hotmail.com</email>
+    <password>$1$CFMl6XU3$uPbxmcl3xrzgFbrdERR.2.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>72.194.97.251</ipaddress>
+    <createdate>2009-04-22 12:26:02</createdate>
+    <lastupdateddate>2010-03-07 02:18:14</lastupdateddate>
+    <lastlogindate>2010-02-11 13:39:39</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="1298">Chosen by God in ages past</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+        <fav category="default" type="h" num="460">Jesus, I my cross have taken</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+        <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="251">Rivers of living water</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="1120">The Holy Spirit is the seal</fav>
+        <fav category="default" type="h" num="624">The heavier the cross, the nearer God</fav>
+        <fav category="default" type="h" num="1188">Upon the throne of Jesus Christ</fav>
+    </favourites>
+</user>

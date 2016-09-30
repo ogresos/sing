@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love You, Lord Jesus</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:226"/><vsb num="179"/></numbers>
+  <hymncode>33556543355654</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - G7 | C - - - | F - - G7 | C - | Am - - - | F - - - | G - - - | C - - - | F - - G7 | C - - - | F - - G7 | C - | Am - - - | F - - - | G - - - | C - - - | G - - - | Dm - - - | Em - - - | F - - - | C/G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0/ 3/ 3/ 5/ 5 - | 0 6/( 5/) 4 - | 0/ 3/ 3/ 5/ 5 - | 0 6/ 5/ 4 - (break) | [2/4] 0/ 3/ 5/ ._1/ | [4/4] ._3 - - ._3 | ._4 - - ._3 | ._2 - - - (break) | 0/ 3/ 3/ 5/ 5 - | 0 6/( 5/) 4 - | 0/ 3/ 3/ 5/ 5 - | 0 6/ 5/ 4 - (break) | [2/4] 0/ 3/ 5/ ._1/ | [4/4] ._3 - - ._3 | ._4 - - ._3 | ._2 - - - (break) | (Chorus) 0 ._1 ._3 ._1 | 0 ._2/( ._1/) 7 - | 0 6 ._2 6 | 0 7/ ._3/ ._3 - (break) | 0 ._4 ._3 ._2 | ._1 - - 7 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>I love You, Lord Je -- sus! I love, You, Lord, Pre -- cious One! No oth -- er one com -- pares to You! I love You, Lord Je -- sus! I love, You, Lord, Pre -- cious One! No oth -- er one com -- pares to You! Je -- sus, Lord Je -- sus, Dear Lord, most love -- ly One, No one com -- pares to You!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0226.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I love You, Lord Jesus!
+I love, You, Lord, Precious One!
+No other one compares to You!
+(Repeat)</stanza>
+    <stanza type="chorus" number="">Jesus, Lord Jesus,
+Dear Lord, most lovely One,
+No one compares to You!</stanza>
+  </lyrics>
+</hymn>

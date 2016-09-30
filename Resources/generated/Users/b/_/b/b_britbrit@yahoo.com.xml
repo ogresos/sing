@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Britney</firstname>
+<lastname>Bowls</lastname>
+<email>b_britbrit@yahoo.com</email>
+<password>$1$idgsHu/7$MpIZgYVA0kerVyMPLAQbl.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>69.155.107.138</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1061">Come into my heart, O Lord Jesus</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

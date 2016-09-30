@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Robin</firstname>
+  <lastname>Lavinder</lastname>
+  <email>robin.lavinder@hotmail.com</email>
+  <password>$2y$10$o31S3aNI0Ji5izJ96Pz/TOXth/nNb5K7cCX7WSnjqeo/FatpjKsc.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>184.170.66.29</ipaddress>
+  <createdate>2014-09-03 18:59:33</createdate>
+  <lastupdateddate>2014-09-03 19:00:33</lastupdateddate>
+  <lastlogindate>2014-09-03 19:00:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

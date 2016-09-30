@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You, I desire You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:156"/><vsb num="159"/></numbers>
+  <hymncode>12351236</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | C - - - | Am - - - | Am - - - | Em - - - | Dm - - - | Gsus4 - - - | G - - - | C - - - | C - - - | Am - - - | Am - - - | Em - - - | Dm - G7 - | C - - - | C - - - | Am - - - | Am - - - | G - - - | G - - - | Am - - - | Am - - - | Gsus4 - - - | G - - - | C - - - | C - - - | Am - - - | Am - - - | Em - - - | Dm - G7 - | C - - - |</chords>
+  <melody>| 0 1 2 3 | 5 - - - | 0 1/ 1/ 2( 3) | 6_. - - - | 0 1 2 3 | 5 6 5 3 | 2 1 6_. 1 | 2 - - - (break) | 0 1 2 3 | 5 - - - | 0 1 2 3 | 6_. - - - | 0 1 2 3 | 5 6 5 3 | 2 1 2 6_./( 5_./) | 1 - - - (break) | 0 5 6 7 | ._1 - - - | 0 7 6/ 6/ 3 | 5 - - - | 0 5 6 7 | ._1 - - - | 0 7/ 7/ 6 7 | 5 - - - (break) | 0 3 2 3 | 5 - - - | 0 3 2 3 | 6_. - - - | 0 1 2 3 | 5 6 5 3 | 2 1 6_. 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Lord, I love You, I de -- sire You; No plea -- sure, pros -- pects on this earth com -- pare to You. Lord, I love You, I trea -- sure You; No fame nor rich -- es of this world com -- pete with You. Lord, who have I In heav -- en but You, There's none on earth I de -- sire but You; You are my all, My All in all; Lord Je -- sus, I just love You, I love on -- ly You.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="65">ns0156.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I love You,
+I desire You;
+No pleasure, prospects on this earth compare to You.
+Lord, I love You,
+I treasure You;
+No fame nor riches of this world compete with You.
+Lord, who have I
+In heaven but You,
+There's none on earth
+I desire but You;
+You are my all,
+My All in all;
+Lord Jesus, I just love You,
+I love only You.</stanza>
+    <stanza type="verse" number="2">Lord, I love You,
+I now choose You;
+No love, nor praises of men can e'er replace You.
+Lord, I love You,
+I lay hold of You;
+No hope, no expectation I have 'part from You.
+Lord, who have I
+In heaven but You;
+There's none on earth
+I desire but You;
+You're my first love,
+My final love;
+I give my life and all
+To love and follow You.</stanza>
+    <stanza type="verse" number="3">Lord, I love You,
+I pursue You;
+No person, object in this life can e'er match You.
+Lord, I love You,
+I run after You;
+You are my life, my aim, my goal and future too.
+Lord, who have I
+In heaven but You;
+There's none on earth
+I desire but You;
+I give my heart,
+Lord, now to You;
+Lord make me a drink off'ring here
+To satisfy You.</stanza>
+  </lyrics>
+</hymn>

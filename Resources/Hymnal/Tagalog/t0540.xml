@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay Kristo ang kalayaan</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG TAGAPAGPALAYA</category>
+  <numbers><cebuano num="540"/><chinese num="401"/><english num="540"/><german num="540"/><korean num="401"/><portuguese num="267"/><russian num="101"/><spanish num="243"/><tagalog num="540"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - - 5. 6/ | 5 - - ._3 ._2 ._1 | 7 6 - - 6. 6/ | ._2 - - ._1 7 ._1 | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 (break) | ._1 - - - (Chorus) ._1. ._1/ | ._4 - - ._4 ._4 ._4 | ._4 ._3 - - ._3. ._3/ | ._3 - - ._2 6. ._2/ | ._2 - - - 5. 6/ (break) | 5 - - ._1 ._2 ._3 | ._4 6 - - ._1. ._2/ | ._3 ._1 ._2 - - 7 | ._1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="378"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kay Kristo ang kalayaan,
+Pinalaya na ako!
+Kasalana't kamatayan,
+Lubos ang pagkatalo!</stanza>
+	<stanza type="chorus" number="">Higit pa sa magtagumpay,
+Sa krus magmamapuri,
+Ang kautusan ng buhay
+Nagpapalakas lagi!</stanza>
+	<stanza type="verse" number="2">Si Kristo ang nagpalaya
+Sa bawa't kautusan;
+Buhay ayon sa biyaya,
+Ay walang kaapihan.</stanza>
+	<stanza type="verse" number="3">Kasalana'y nahatulan,
+Nalipol kanyang lakas;
+Wala na siyang katayuan,
+Gapos sa aki'y kalas.</stanza>
+	<stanza type="verse" number="4">Kamataya'y dinaig Niya,
+Buhay ipinahayag;
+Kamataya'y walang bisa,
+Pagkabuhay matatag.</stanza>
+	<stanza type="verse" number="5">Satanas, kasam'an, mundo,
+Nilipol na ni Kristo;
+Kadiliman ay naglaho,
+Buhay, ilaw natanto.</stanza>
+	<stanza type="verse" number="6">Biyayang sapat ay kamtan,
+Kanyang kapangyarihan;
+N'ging sakdal sa kahinaan,
+At ako'y nasisiyahan.</stanza>
+  </lyrics>
+</hymn>

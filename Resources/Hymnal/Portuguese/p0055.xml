@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glória ao Filho, que ressuscitou</title>
+  <index>true</index>
+  <category>Sua Ressurreição</category>
+  <numbers><chinese num="106"/><english num="121"/><french num="20"/><korean num="106"/><portuguese num="55"/><tagalog num="121"/></numbers>
+  <creators>
+    <author biodate="1854-1932" biolink="">Translated from Edmond Louis Budry</author>
+    <author biodate="" biolink="">Translated by Richard B. Hoyle</author>
+  </creators>
+  <music>
+    <midiref type="h" num="121"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glória ao Filho, que ressuscitou,
+Alcançou vitória, morte enfim tragou;
+Removida foi a pedra do lugar,
+Eis vazia a tumba, ressurreto está.</stanza>
+    <stanza type="chorus" number="">Glória ao Filho que ressuscitou,
+Alcançou vitória, morte enfim tragou.</stanza>
+    <stanza type="verse" number="2">Ressuscitado, vem-nos encontrar,
+Com amor saudar-nos, medo e dor tirar;
+Já perdeu a morte o seu aguilhão,
+Cristo hoje vive, dai-Lhe adoração!</stanza>
+    <stanza type="verse" number="3">És Rei da glória, como duvidar?
+Nós, Contigo, a morte vamos derrotar;
+Faz-nos vencedores em ressurreição,
+Té chegar Teu reino ? nosso galardão.</stanza>
+  </lyrics>
+</hymn>

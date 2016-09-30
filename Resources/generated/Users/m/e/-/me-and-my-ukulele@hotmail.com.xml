@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Patricia</firstname>
+  <lastname>Donnelly</lastname>
+  <email>me-and-my-ukulele@hotmail.com</email>
+  <password>$2y$10$KrqPnG2/a8FHWIipDJVjUevwN9GdmoePULONp3JPvGQujdM3LsPBe</password>
+  <gender/>
+  <country>Australia</country>
+  <ipaddress>114.76.4.144</ipaddress>
+  <createdate>2013-04-21 03:38:37</createdate>
+  <lastupdateddate>2016-03-15 01:34:58</lastupdateddate>
+  <lastlogindate>2016-03-15 01:34:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="724">A little bird I am</fav>
+    <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+  </favourites>
+</user>

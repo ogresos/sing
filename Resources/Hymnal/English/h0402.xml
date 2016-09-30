@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I want that adorning divine</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Likeness to Christ</category>
+  <creators>
+    <author biodate="1789-1871" biolink="">Charlotte Elliott</author>
+    <composer biodate="1844-1933" biolink="">James Mountain</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>5121321234421123</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Am - - | G/B - C | F/A - - | G - - | C - - | C - - | G/B - - | Am - - | F - - | C/G - - | G7 - - | F/C - - | C - 0 |</chords>
+  <melody>| 0 - 5_. | 1 2 1 | 3 2 1 | 2 - 3 | 4 4 2 | 1 1 2 (break) | 3 - 5_. | 1 7_. 1 | 2 1 2 | 3 2 3 (break) | 4 - 2 | 1 7_. 1 | 3 3 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>I want that a -- dorn -- ing di -- vine, Thou on -- ly, my Lord, canst bes -- tow; I want in those beau -- ti -- ful gar -- ments to shine, Which mark out Thy beau -- ty be -- low.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj134.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0402_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I want that adorning divine,
+  Thou only, my Lord, canst bestow;
+I want in those beautiful garments to shine,
+  Which mark out Thy beauty below.</stanza>
+    <stanza type="verse" number="2">I want every moment to feel
+  Thy Spirit indwelling my heart,
+His pow'r ever present to cleanse and to heal,
+  And newness of life to impart.</stanza>
+    <stanza type="verse" number="3">I want, oh, I want to attain
+  Some likeness, my Savior, to Thee;
+That longed-for resemblance once more to regain;
+  Thy comeliness put upon me.</stanza>
+    <stanza type="verse" number="4">I want to be marked for Thine own,
+  Thy seal on my forehead to wear;
+And have that new name on the mystic white stone,
+  Which none but Thyself can declare.</stanza>
+    <stanza type="verse" number="5">I want, and this sums up my prayer,
+  To glorify Thee till I die;
+Then calmly to yield up my soul to Thy care,
+  And breathe out in faith my last sigh!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Albert</firstname>
+<lastname>Glenn</lastname>
+<email>albert_glenn2002@yahoo.com</email>
+<password>$1$SGyrTdKi$iOX3xQHw4Dmzjgry60UaF0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>69.127.201.105</ipaddress>
+<createdate>2009-09-10 11:55:06</createdate>
+<lastupdateddate>2009-09-15 19:18:30</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="469">Who is on the Lord's side</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Роман</firstname>
+  <lastname>Николаевич</lastname>
+  <email>zhicha@rambler.ru</email>
+  <password>$2y$10$EUSHi6iS848l131t9s8gUue6EWa1W8N.HPsc4PQZWW1gu5KKtxntu</password>
+  <gender>M</gender>
+  <country>ru</country>
+  <ipaddress>188.134.39.133</ipaddress>
+  <createdate>2012-01-30 13:51:17</createdate>
+  <lastupdateddate>2015-06-01 13:22:13</lastupdateddate>
+  <lastlogindate>2015-06-01 13:22:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

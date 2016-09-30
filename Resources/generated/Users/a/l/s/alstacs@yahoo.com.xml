@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kayode</firstname>
+  <lastname>Alao</lastname>
+  <email>alstacs@yahoo.com</email>
+  <password>$2y$10$VP8IJuYFdpZaF6c9C.Eb7eKmYDCS19lMOqHiqw31eC6Xg6kil14bi</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.203.69.6</ipaddress>
+  <createdate>2014-06-18 18:08:08</createdate>
+  <lastupdateddate>2014-08-10 09:34:53</lastupdateddate>
+  <lastlogindate>2014-08-10 09:30:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+  </favourites>
+</user>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Worthy is the Lamb</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Worthiness</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>176543212555</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C G F C/E | Dm C G/B F/A | G - - - | C - D7 - | G - B7 - Em - | F - - - | Dm - G7 - | C - F/C - | C - G7 - | C - G7 - | C - - - | Am - G/D D7 | G - - - | G - G7/B - | C - - - | A - A7/C# - | D - - - | B - B7/D# - | Em - - - | F - - - | Dm - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| ._1 7 6 5 | 4 3 2 1 | 2. 5// 5// (.5 2 | 3 3/ 3/ 4# 3/ 4#/ | [6/4] 5 - 7. 6/ 5 5 | [4/4] ._1/ ._1.( ._1) ._1 | ._2/ ._2.( ._2) ._2 | ._2/ ._1.( ._1)( - | ._1) - - 0 (break) | 3. 3/ 5. 4/ | 3 - - 3 | 6 7 5 4#/ 4#/ | 5 - - 5 | 5. 2/ 3 4 | 3 - - 6 | 6. 3/ 4# 5 | 4# - - 7 | 7. 4#/ 5 6 | 5 - - 5/ 5/ | ._1( - - - | ._2) - - - | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Wor -- thy is the Lamb Who has been slain to re -- ceive The pow -- er and rich -- es and wis -- dom and strength And hon -- or and glo -- ry and bless -- ing. Wor -- thy is the Lamb Who has been slained to re -- ceive The pow -- er and rich -- es And wis -- dom and the strength And hon -- or and glo -- ry And the bless -- ing.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="58">lb53.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Worthy is the Lamb Who has been slain to receive
+The power and riches and wisdom and strength
+And honor and glory and blessing.</stanza>
+    <stanza type="chorus" number="">Worthy is the Lamb
+Who has been slained to receive
+The power and riches
+And wisdom and the strength
+And honor and glory
+And the blessing.</stanza>
+    <stanza type="verse" number="2">Worthy is the Lamb Who has been slain to receive
+The power and riches and wisdom and strength
+And honor and glory and blessing.</stanza>
+    <stanza type="chorus" number="">Saints, stand as one;
+No one should backward turn.
+The battle Christ has won,
+By His blood we overcome,
+The enemy cast down
+For the Lamb is on the throne.</stanza>
+    <stanza type="verse" number="3">And they overcame him by the blood of the Lamb
+And by the word of their testimony,
+And they love not their soul-lives unto death.</stanza>
+    <stanza type="chorus" number="">Praise You, Lion-Lamb
+Our Captain of salvation.
+You have fought the battle
+And destroyed the Devil.
+You took away our sins
+And accomplished redemption.</stanza>
+    <stanza type="verse" number="4">Hallelujah to our Lamb God on the throne!
+Hallelujah Praise Him! Hallelujah
+Hallelujah Praise Him! Hallelujah</stanza>
+    <stanza type="chorus" number="">Lord, I join Your fight.
+For Your purpose take my rights!
+To You, I now respond,
+In this age to overcome,
+To the end make me fight on.
+Fight on, fight on, fight on!</stanza>
+  </lyrics>
+</hymn>

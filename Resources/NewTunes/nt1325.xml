@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God eternal has a purpose</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;God's Eternal Purpose</category>
+  <numbers><english num="nt:1325"/><vsb num="36"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ned Nossaman">N. N.</author>
+  </creators>
+  <hymncode>332211212</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>115</tempo>
+  <chords>| C - G - | Am - G/B - | C - G7/D - | C/E - G - | C - G - | Am - G/B - | C - G7/D - | C/E - G - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - Am - | F - G7 - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 2 2 | 1 1 2/( 1/) 2 | 0 3/ 3/ 4 4 | 5 5 4/( 3/)( 2) (break) | 0 3/ 3/ 2 2 | 1 1 2/( 1/) 2 | 0 3/ 3/ 4 4 | 5 5 4/( 3/)( 2) (break) | 0 6_./ 6_./ 1/ 1/ 1/ 2/ | 2/( 1/)( 1/) 1/( 1/)( 2/)( 3) | 0 6_./ 6_./ 1/ 1/ 1/ 2/ | 2/( 1/)( 1) - - (break) | 0 6_./ 6_./ 1/ 1/ 1/ 2/ | 2/( 1/)( 1/) 1/( 1/)( 2/)( 3) | 0 6_./ 6_./ 1/ 1/ 1/ 2/ | 2/( 1/)( 1) - - |</melody>
+  <layout>
+    <singingstanza>God e -- ter -- nal has a pur -- pose, Formed in His e -- ter -- nal past, Spread -- ing to e -- ter -- nal fu -- ture; 'Twixt these ends all time is cast. For with time there is the pro -- cess, Time for His ac -- com -- plish -- ment; And in time we're mere -- ly tra -- velers&amp;mdash; For e -- ter -- ni -- ty we're meant.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="1325"></link>
+  </links>
+  <music>
+    <midi location="nt" length="34">e1325_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God eternal has a purpose,
+Formed in His eternal past,
+Spreading to eternal future;
+'Twixt these ends all time is cast.
+For with time there is the process,
+Time for His accomplishment;
+And in time we're merely travelers&amp;mdash;
+For eternity we're meant.</stanza>
+    <stanza type="verse" number="2">God would have a group of people
+Built together in His plan,
+Blended, knit, coordinated
+As His vessel&amp;mdash;one new man.
+God would come into this vessel
+With His nature, life and ways,
+Mingling Spirit with our spirits
+For His joy and to His praise.</stanza>
+    <stanza type="verse" number="3">God has worked in three directions
+For His plan so marvelous:
+As the Father, Son, and Spirit
+To dispense Himself to us!
+All creation gives the setting&amp;mdash;
+Heav'n and earth are for this plan;
+'Tis for this God made a body,
+Soul and spirit&amp;mdash;three-part man.</stanza>
+    <stanza type="verse" number="4">As the center, as the kernel,
+Of God's plan our spirit is;
+Calling on the name of Jesus
+Makes our spirit one with His.
+From the center to circumference
+God would saturate each part;
+Feeling, mind, and will renewing,
+Making home in all our heart.</stanza>
+    <stanza type="verse" number="5">Thus in life we're built together,
+Then in love we're knit as one;
+God is now His plan fulfilling,
+Finishing what He's begun.
+Lord, increase Thyself within us
+That we might be built by Thee
+Into that great corporate vessel
+Filled with God exclusively.</stanza>
+    <stanza type="verse" number="6">As the product, the fulfillment,
+Will the church in glory stand,
+Consummation of the purpose
+In eternal ages planned.
+God will have His corporate vessel,
+All His glory to contain;
+Lord, we're wholly for Thy purpose
+All Thy goal in us attain.</stanza>
+  </lyrics>
+</hymn>

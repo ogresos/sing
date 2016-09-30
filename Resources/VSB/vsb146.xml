@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>These are the days, my friend</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Watching</category>
+  <numbers><chinese num="ts:528"/><english num="ns:222"/><vsb num="146"/></numbers>
+  <hymncode>117766665544</hymncode>
+  <key>G Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - E7 - | Am - - - | Dm - - - | G - G/B - | C - - - | Dm - - - | Am - - - | E7 - - - | Am - - - |</chords>
+  <melody>| 0 ._1 ._1 7 | 7 - 6 6 | 0 6 6 5 | 5 - 4 4 (break) | 0 2 3 4 | 5 - - 6 | 7 6 5 4 | 3 - - - (break) | 0 1 2 3 | 5 - 4 4 | 0 4 5 6 | ._2 - ._1 ._1 (break) | 0 6 7 ._1 | ._3 - - ._2 | ._1 7 6 5# | 6 - - - |</melody>
+  <layout>
+    <singingstanza>These are the days, my friend, Time's draw -- ing to an end, And we must choose, must choose whom we will serve. We will fight for the Lord And stand in one ac -- cord For the de -- feat of God's arch en -- e -- my!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0222.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">These are the days, my friend,
+Time's drawing to an end,
+And we must choose,
+must choose whom we will serve.
+We will fight for the Lord
+And stand in one accord
+For the defeat of God's arch enemy!</stanza>
+    <stanza type="verse" number="2">These are the days, O saints,
+The heart of man, it faints
+For Satan's work
+that's seen throughout the land.
+So we must count all loss,
+Be one at any cost,
+And give our all for God's recovery.</stanza>
+    <stanza type="verse" number="3">These are the days, my friend,
+The Spirits moving in
+To raise the standard
+up against the foe,
+To show the one new man
+According to His plan
+And draw this generation to Himself.</stanza>
+    <stanza type="verse" number="4">These are the latter days,
+Go forth and sound His praise,
+Proclaim to men
+the kingdom that shall come.
+The army's moving out
+The enemy to rout,
+And Christ will gain His rightful place on earth.</stanza>
+  </lyrics>
+</hymn>

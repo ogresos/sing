@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, querido é</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><chinese num="392"/><english num="8392"/><portuguese num="262"/><spanish num="233"/></numbers>
+  <creators>
+    <author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8392"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, querido é;
+Quem mais irei amar?
+Irei buscá-Lo
+E Nele confiar.</stanza>
+    <stanza type="verse" number="2">É provisão total,
+Nas falhas me sustém;
+Fiel pra sempre
+E belo qual ninguém.</stanza>
+    <stanza type="verse" number="3">Eterno gozo a nós,
+Não mudará jamais;
+O mais querido,
+A quem eu amo mais.</stanza>
+  </lyrics>
+</hymn>

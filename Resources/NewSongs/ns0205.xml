@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nothing can content me more</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <numbers><english num="ns:205"/><vsb num="125"/></numbers>
+  <hymncode>55554323333217</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | G - - - | C - - - | G7 - - - | C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | Am - - - | C - - - | Am - - - | D7 - - - | G - - - | C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | G - - - | C - - - | G7 - - - | C - - - | G/B - - - | Am - - - | C/G - - - | F - - - | G - - - | C - - - | C7 - - - |</chords>
+  <melody>| 0 5 5 5 | 5 4/ 3/( 3) 2 | 0 3 3 3 | 3 2/ 1/( 1) 7_. | 0 6_./ 1/ 1 1 | 2 3/( 2/) 1 2 | 3( 5)( - - | 5) - 0 5 | 5 5 5 5 | 5 4/ 3/( 3) 2 (break) | 0 3/ 3/ 3 3 | 3 2/ 1/( 1) 7_. | 0 6_./ 1/ 1 1 | 2 3/( 2/) 1 2 | 1( - - - | 1) - - - (break) | (Chorus) 0 6 6 - | 5 4/ 3/( 3) 2 | 0 3 3/ 5. | 1 - - - | 0 3 3/ 5. | 1 - 7_./ 1. | 2( - 2/)( 3/)( 2)( (break) | 5) - - (Verse_2) 5 | 5 5 5 5 | 5 4/ 3/( 3) 2 | 0 3 3 3 | 3 2/ 1/( 1) 7_. | 0 6_./ 1/ 1 1 | 2 3/( 2/) 1 2 | 3 5( - - | 5) - 0 5 | 5 5 5 5 | 5 4/ 3/( 3)( 2) | 0 3/ 3/ 3 3 | 3 2/ 1/( 1)( 7_.) | 0 6_./ 1/ 1 1 | 2 3/( 2/) 1 2 | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Noth -- ing can con -- tent me more, Than Je -- sus in the morn -- ing, Ech -- o -- ing the hall -- ways of my heart. My eyes from dark -- ness clear -- ly see, The love with -- in His smile, for me. It's then I know the rea -- son for my life. Je -- sus, You're my rea -- son for be -- ing here, Oh, it's so clear; so I sing! No great -- er joy can be for me, Than turn -- ing to Je -- sus, When the sha -- dows of the day be -- gin to haunt me. His soft, warm Spir -- it spreads through -- out, Quench -- ing all my fear and doubt. Je -- sus is the all- in -- clu -- sive love.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="109">ns0205.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nothing can content me more,
+Than Jesus in the morning,
+Echoing the hallways of my heart.
+My eyes from darkness clearly see,
+The love within His smile, for me.
+It's then I know the reason for my life.</stanza>
+    <stanza type="chorus" number="">Jesus, You're my reason for being here,
+Oh, it's so clear; so I sing!</stanza>
+    <stanza type="verse" number="2">No greater joy can be for me,
+Than turning to Jesus,
+When the shadows of the day begin to haunt me.
+His soft, warm Spirit spreads throughout,
+Quenching all my fear and doubt.
+Jesus is the all-inclusive love.</stanza>
+    <stanza type="note" number="">(Repeat verse 2)</stanza>
+  </lyrics>
+</hymn>

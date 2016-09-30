@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Brenda</firstname>
+    <lastname>Larson</lastname>
+    <email>brendajlarson@att.net</email>
+    <password>HDo8YObLdvHiQ6dye4prPg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>74.177.115.184</ipaddress>
+    <createdate>2010-12-17 15:34:37</createdate>
+    <lastupdateddate>2010-12-20 10:45:32</lastupdateddate>
+    <lastlogindate>2010-12-17 15:34:40</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="1234">I thirsted in the barren land of Babylon</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="287">Jesus, Jesus, Jesus</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

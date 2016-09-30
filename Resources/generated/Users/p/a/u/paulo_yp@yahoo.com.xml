@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Michael Paulo</firstname>
+    <lastname>Zamora</lastname>
+    <email>paulo_yp@yahoo.com</email>
+    <password>$1$mYN0mgXT$A48xFp1Fz4YDvgyaijzpw1</password>
+    <gender>M</gender>
+    <country>Philippines</country>
+    <ipaddress>222.127.152.79</ipaddress>
+    <createdate>2008-09-21 23:06:40</createdate>
+    <lastupdateddate>2013-03-14 10:28:18</lastupdateddate>
+    <lastlogindate>2013-03-14 10:28:18</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="909">In the stream! in the stream! let us work</fav>
+        <fav category="default" type="h" num="472">Many crowd the Savior's kingdom</fav>
+        <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+        <fav category="default" type="h" num="451">Not by wrestling, but by clinging</fav>
+        <fav category="default" type="h" num="190">O Lord, as we consider Thee</fav>
+        <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    </favourites>
+</user>

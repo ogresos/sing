@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'homme a compris que seul Jésus le sauve</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;général</category>
+  <numbers><english num="1078"/><french num="209"/></numbers>
+  <creators>
+    <author biodate="1889-1986" biolink="">Translated from Oswald Jeffrey Smith</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1078"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Assis tout seul, mendiant sur la grand-route,
+L'homme est aveugle, à ses yeux rien ne luit.
+Dans ses haillons, il grelotte dans l'ombre,
+Puis, Jésus vient chasser sa sombre nuit !</stanza>
+    <stanza type="chorus" number="">Quand Jésus vient, le diable perd ses forces,
+Quand Jésus vient, mon être est consolé.
+Il prend ma nuit, remplit mon cœur de gloire,
+Tout change en moi, quand Il vient s'y loger.</stanza>
+    <stanza type="verse" number="2">Loin de chez lui, au milieu des sépulcres,
+Il est errant, guidé par ses démons.
+Il se détruit : le diable le possède,
+Puis Jésus vient abattre sa prison !</stanza>
+    <stanza type="verse" number="3">« Impur, impur ! » Crie le lépreux sans cesse,
+Les pharisiens ne peuvent rien pour lui.
+La fièvre ronge, agresse sa victime,
+Puis Jésus vient chasser la maladie !</stanza>
+    <stanza type="verse" number="4">Leur cœur pleurait, lorsqu'ils l'ensevelirent,
+C'était la mort qui l'avait emmené,
+Profonde nuit où coulent tant de larmes,
+Mais Jésus vient pour le ressusciter !</stanza>
+    <stanza type="verse" number="5">L'homme a compris que seul Jésus le sauve,
+De ses passions, ses soifs et ses péchés.
+Son cœur brisé le laisse seul et triste,
+Puis Jésus vient, Lui-même, l'habiter !</stanza>
+  </lyrics>
+</hymn>

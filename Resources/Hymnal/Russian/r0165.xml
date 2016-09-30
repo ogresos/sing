@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Драгоценна кровь, что пролил</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;КРОВЬ</category>
+  <numbers><english num="1004"/><russian num="165"/><spanish num="467"/></numbers>
+  <creators>
+    <author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 3. 2/ 1/ 2/ 3/ 4/ | 5 - 3 - | 3 3 2 1 | 2 - - - (break) | 3. 2/ 1/ 2/ 3/ 4/ | 5 - 4 - | 3 - 4( 2) | 1 - - - (break) | (Chorus) 5. 5/ 6/ 7/ ._1/ 6/ | 5 - 3 - | 3 3 4 3 | 2 - - - (break) | 5. 5/ 6/ 7/ ._1/ 6/ | 5 - 4 - | 3 - 4( 2) | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Дра -- го -- цен -- на кровь, что про -- лил И -- и -- сус лю -- бя.  За вос -- став -- ших, за гре -- шив -- ших, За те -- бя. Кровь Ии -- су -- са дра -- го -- цен -- на, О -- чи -- ще -- нье в_ней.  О, по -- верь же, о, при -- ми же Дар те -- бе.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midiref type="h" num="612"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Драгоценна кровь, что пролил
+Иисус любя.
+За восставших, за грешивших,
+За тебя.</stanza>
+    <stanza type="chorus" number="">Кровь Иисуса драгоценна,
+Очищенье в ней.
+О, поверь же, о, прими же
+Дар тебе.</stanza>
+    <stanza type="verse" number="2">В жизни каждую минуту
+Пусть целит тебя
+Очищением могучим
+Та струя.</stanza>
+    <stanza type="verse" number="3">Пусть как зарево, багровым,
+Страшным будет грех,
+Кто омыт Господней кровью,
+Бел как снег.</stanza>
+    <stanza type="verse" number="4">Искупающей  Он кровью
+Цену уплатил.
+Дал нам полное прощенье,
+С Богом мир.</stanza>
+    <stanza type="verse" number="5">Ныне к Богу приступаем
+Во святом святых:
+Нам источник очищенья
+Был открыт.</stanza>
+    <stanza type="verse" number="6">Драгоценна кровь, и ею
+В битве победим,
+Сатану мы одолеем
+Грех сразим.</stanza>
+    <stanza type="verse" number="7">Этой кровью искупленья
+К Богу мы близки.
+Это славы путь нетленной
+И хвалы.</stanza>
+  </lyrics>
+</hymn>

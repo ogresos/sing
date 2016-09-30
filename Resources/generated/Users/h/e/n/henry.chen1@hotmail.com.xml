@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Henry</firstname>
+<lastname>Chen</lastname>
+<email>henry.chen1@hotmail.com</email>
+<password>$1$P/fYbAOA$jX5VxttfPAzhBcuHwFzNi.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>98.198.130.110</ipaddress>
+<createdate>2009-09-02 22:40:11</createdate>
+<lastupdateddate>2009-09-15 19:18:27</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    </favourites>
+</user>

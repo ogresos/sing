@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Holly</firstname>
+  <lastname>Hollada</lastname>
+  <email>h.squared@hotmail.com</email>
+  <password>$2y$10$0L3NJN3URBkqlkuuApb6u.ogmNYGMvnorj6taU771.45GLSXbFimW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.170.35.9</ipaddress>
+  <createdate>2015-09-13 22:20:38</createdate>
+  <lastupdateddate>2015-09-13 22:56:35</lastupdateddate>
+  <lastlogindate>2015-09-13 22:42:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

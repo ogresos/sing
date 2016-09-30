@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, sinta Mo'y kay lalim</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG KALIGTASAN</category>
+  <numbers><english num="4"/><tagalog num="4"/></numbers>
+  <creators>
+    <author biodate="1770-1833" biolink="">Translated from Edward Cooper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="4"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ama, sinta Mo'y kay lalim,
+Hatid ang pagtubos sa'min,
+Nakaluhod sa Iyong harap
+Kami'y bigyan Iyong patawad.</stanza>
+    <stanza type="verse" number="2">Anak, Verbong naging tao,
+Saserdote, Pangino'n ko,
+Propeta at Manunubos,
+Biyaya Mo ay ibuhos.</stanza>
+    <stanza type="verse" number="3">Espiritu, Iyong hininga
+Ang nagbangon sa kalul'wa,
+Mula sa sala't kam'tayan;
+Kapangyar'han kami'y bigyan.</stanza>
+    <stanza type="verse" number="4">Ama, Anak, Espiritu,
+Pamunuang-Diyos&amp;mdash;misteryo;
+Buhay, biyaya't patawad.
+Sa amin ay Iyong igawad.</stanza>
+  </lyrics>
+</hymn>

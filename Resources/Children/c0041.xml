@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We would love the Lord our God</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Loving the Lord</category>
+  <creators>
+    <composer biodate="" biolink="">William J. Kirkpatrick</composer>
+  </creators>
+  <hymncode>5515123555312</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| G7 - - | C - G7 | C - G7/D | C/E - Am | G/B - G7 | C - G/B | Am - C/E | F - G7 | C - C7/E | F - F/C | Fm - - | C/G - Am | G/B - G7 | C - C7/E | F - Dm | G - G7 | C - - |</chords>
+  <melody>| 0 - 5_../ 5_.// | 1( 1./) 5_.// 1./ 2// | 3 - 5./ 5// | 5( 5./) 5// 3./ 1// (break) | 2 - 5_../ 5_.// | 1( 1./) 5_.// 1./ 2// | 3 - 5./ 5// | 5 - 2./ 3// (break) | 1 - 1./ 1// | 4( 4./) 4// 4./ 4// | 4 - 1./ 2// | 3( 3./) 3// 5./ 3// (break) | 2 - 5./ 5// | 5( 5./) 3// 4./ 5// | 6 - 5./ 5// | 5 - 2./ 3// | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>We would love the Lord our God With our heart! With our whole heart! Love our God with all our soul, With our soul, love the Lord! Love our God with all our mind&amp;mdash; All we think and all we know. Love our God with all our strength! Love the Lord! Love the Lord!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-f.xml</link>
+    <link type="ref">Mark 12:30</link>
+    <link type="ref">Luke 10:27</link>
+  </links>
+  <music>
+    <midi location="c" length="27">c0041.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">We would love the Lord our God
+With our heart! With our whole heart!
+Love our God with all our soul,
+With our soul, love the Lord!
+Love our God with all our mind&amp;mdash;
+All we think and all we know.
+Love our God with all our strength!
+Love the Lord! Love the Lord!</stanza>
+  </lyrics>
+</hymn>

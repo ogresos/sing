@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主給這個地方</title>
+  <index>true</index>
+  <category>禱告－為復興</category>
+  <numbers><chinese num="577"/><english num="8577"/></numbers>
+  <melody>| 3. 3/ 2 6_. | 1 - 7_. - | 1. 1/ 7_. 6_. | 5_. - - - (break) | 3. 3/ 2 2 | 5 - 2 - | 1. 1/ 2 1 | 7_. - - - (break) | 1. 1/ 6 5 | 5 - 4 - | 3 6_. 4 3 | 2 - - - (break) | 4. 4/ 3 2 | 5 - 1 - | 6_. 1 2. 1/ | 1 - - - |</melody>
+  <layout>
+	<singingstanza>主 給 這 個 地 方， 給 這 個 地 方， 將 一 個 大 復 興， 給 這 個 地 方。 除 去 所 有 阻 擋， 使 我 靈 高 昂， 好 叫 我 運 生 命 來 醫 治 人 傷。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="669"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主給這個地方，
+給這個地方，
+將一個大復興，
+給這個地方。
+除去所有阻擋，
+使我靈高昂，
+好叫我運生命
+來醫治人傷。</stanza>
+  </lyrics>
+</hymn>

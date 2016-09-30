@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Doce é confiar em Cristo</title>
+  <index>true</index>
+  <category>Confiar Nele</category>
+  <numbers><chinese num="516"/><english num="568"/><korean num="516"/><portuguese num="291"/><tagalog num="568"/></numbers>
+  <creators>
+    <author biodate="circa 1850-1917" biolink="">Translated from Louisa M. R. Stead</author>
+  </creators>
+  <music>
+    <midiref type="h" num="568"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Doce é confiar em Cristo,
+Na Palavra O tomar,
+Apoiar-me nas promessas,
+E ouvir o Seu falar.</stanza>
+    <stanza type="chorus" number="">Oh! Jesus é fidedigno,
+Quantas vezes já provei!
+Em Jesus, Jesus precioso,
+Pela graça confiarei.</stanza>
+    <stanza type="verse" number="2">Doce é confiar em Cristo,
+Crer no sangue remissor;
+Tal fluir que cura e limpa
+Sempre está ao meu dispor.</stanza>
+    <stanza type="verse" number="3">Doce é confiar em Cristo,
+Do pecado livre ser;
+Vida, paz, descanso e gozo,
+Dele posso então obter.</stanza>
+    <stanza type="verse" number="4">Em Jesus, precioso Amigo,
+Aprendi a confiar;
+Hoje Ele está comigo,
+E jamais vai-me deixar.</stanza>
+  </lyrics>
+</hymn>

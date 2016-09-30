@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Christine</firstname>
+  <lastname>Choi</lastname>
+  <email>christine.choi77@gmail.com</email>
+  <password>$2y$10$.wRO0O0DetPsqfJreqLFDuxxTH00Lm1RBIYPS1OTCbYRfmAdHYHpa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.23.193.50</ipaddress>
+  <createdate>2014-11-26 04:10:49</createdate>
+  <lastupdateddate>2015-09-21 01:54:42</lastupdateddate>
+  <lastlogindate>2015-09-21 01:54:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="61">God is light, and in Him there is no darkness at all</fav>
+    <fav category="default" type="c" num="25">He's the Serving Savior</fav>
+    <fav category="default" type="nt" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+    <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+    <fav category="default" type="ts" num="616">耶穌聚集我們在一起</fav>
+  </favourites>
+</user>

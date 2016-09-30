@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>May</firstname>
+  <lastname>Bagnell</lastname>
+  <email>mbagnell@aol.com</email>
+  <password>$2y$10$ofup8hmN0tGaUturtMs12eKnP1N8iFrv/vs5acC76Kv8M4rfBecIe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.193.211.111</ipaddress>
+  <createdate>2015-01-31 02:09:14</createdate>
+  <lastupdateddate>2016-04-03 14:28:42</lastupdateddate>
+  <lastlogindate>2016-04-03 14:19:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="482">And let them make a sanctuary for Me</fav>
+    <fav category="default" type="h" num="222">Dear Lord, we thank Thee for this bread</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="505">There's a Man in the glory</fav>
+    <fav category="default" type="h" num="30">What love Thou hast bestowed on us</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+  </favourites>
+</user>

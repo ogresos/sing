@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brian</firstname>
+  <lastname>Adamo</lastname>
+  <email>adamo.sd@gmail.com</email>
+  <password>$2y$10$jglbecdSrul/GhC1Kuw1v.cD4oPpGe7h/fZUd7vTqHGckSR678lcS</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>68.6.215.104</ipaddress>
+  <createdate>2014-04-23 04:31:35</createdate>
+  <lastupdateddate>2016-07-19 05:01:40</lastupdateddate>
+  <lastlogindate>2016-07-19 05:01:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

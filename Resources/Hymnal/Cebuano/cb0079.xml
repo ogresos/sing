@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Naghari S'ya's kahitas-an</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG NGALAN</category>
+  <numbers><cebuano num="79"/><chinese num="68*"/><english num="79"/><korean num="68"/><portuguese num="46"/><russian num="21"/><spanish num="44"/><tagalog num="79"/></numbers>
+  <creators>
+    <author biodate="1854-?" biolink="">Translated from William Henry Clark</author>
+  </creators>
+  <music>
+    <midiref type="h" num="79"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Naghari S'ya's kahitas-an,
+Daygon labaw's tanan,
+Kinabuhi N'ya gitugyan,
+Pagtubos kanato.</stanza>
+    <stanza type="chorus" number="">Daygong ngalan N'ya,
+Daygong ngalan N'ya,
+Daygong ngalan sa Ginoo.
+Daygong ngalan N'ya,
+Daygong ngalan N'ya,
+Daygong ngalan sa Ginoo.</stanza>
+    <stanza type="verse" number="2">Ngalang labaw's tanang ngalan,
+Labi pang ituboy,
+Sa toong kamot's Amahan,
+Anghel mag-ambahan.</stanza>
+    <stanza type="verse" number="3">Manunubos, Manluluwas,
+Nagplano's kal'wasan;
+Tawong hulog gipakamatyan,
+Ikaw alang's tanan.</stanza>
+    <stanza type="verse" number="4">Magtatambag Imong ngalan;
+Principe's kalinaw;
+Nagbuntog's mga punoan,
+Hari's kahangturan!</stanza>
+  </lyrics>
+</hymn>

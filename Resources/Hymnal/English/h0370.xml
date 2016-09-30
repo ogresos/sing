@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Abide with me! fast falls the eventide</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <numbers><chinese num="288"/><english num="370"/><korean num="288"/><portuguese num="187"/><russian num="74"/><tagalog num="370"/></numbers>
+  <creators>
+    <author biodate="1793-1847" biolink="">Henry Francis Lyte</author>
+    <composer biodate="1823-1889" biolink="">William Henry Monk</composer>
+  </creators>
+  <meter>10.10.10.10.</meter>
+  <hymncode>3321565543</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - C/E - | F - G7 - | C - - - | C - - - | F - C/E - | G/D - D7/A - | G - - - | C - G - | Am - C/E - | F - - - | Dm - - - | G - G7/B - | C - F - | C/G - G7 - | C - - - |</chords>
+  <melody>| 3 - 3 2 | 1 - 5 - | 6 5 5 4 | 3 - - - (break) | 3 - 4 5 | 6 - 5 - | 4 2 3 4# | 5 - - - (break) | 3 - 3 2 | 1 - 5 - | 5 4 4 3 | 2 - - - (break) | 2 - 3 4 | 3 2 1 4 | 3 - 2 - | 1 - - - |</melody>
+  <layout>
+    <singingstanza>A -- bide with me! fast falls the ev -- en -- tide; The dark -- ness deep -- ens; Lord, with me a -- bide! When oth -- er help -- ers fail and com -- forts flee, Help of the help -- less, oh, a -- bide with me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj129.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e0370_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Abide with me! fast falls the eventide;
+The darkness deepens; Lord, with me abide!
+When other helpers fail and comforts flee,
+Help of the helpless, oh, abide with me.</stanza>
+    <stanza type="verse" number="2">Swift to its close ebbs out life's little day;
+Earth's joys grow dim, its glories pass away;
+Change and decay in all around I see;
+O Thou who changest not, abide with me.</stanza>
+    <stanza type="verse" number="3">Come not in terrors, as the King of kings;
+But kind and good, with healing in Thy wings:
+Tears for all woes, a heart for every plea;
+Come, Friend of sinners, thus abide with me.</stanza>
+    <stanza type="verse" number="4">I need Thy presence every passing hour:
+What but Thy grace can foil the tempter's power?
+Who like Thyself my guide and stay can be?
+Through cloud and sunshine, oh, abide with me.</stanza>
+    <stanza type="verse" number="5">I fear no foe, with Thee at hand to bless:
+Ills have no weight, and tears no bitterness:
+Where is death's sting? where, grave, thy victory?
+I triumph still, if Thou abide with me.</stanza>
+  </lyrics>
+</hymn>

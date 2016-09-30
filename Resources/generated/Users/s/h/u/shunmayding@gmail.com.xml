@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shun May</firstname>
+  <lastname>Ding</lastname>
+  <email>shunmayding@gmail.com</email>
+  <password>$2y$10$R/kPnq4iKu0MdC.AjaIfFOGqfjJTdCystNBq8KIMTVYsUmjT7GAVG</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>124.13.188.219</ipaddress>
+  <createdate>2014-09-09 08:37:28</createdate>
+  <lastupdateddate>2014-09-12 03:03:48</lastupdateddate>
+  <lastlogindate>2014-09-11 03:03:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="433">Consider Your Ways</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="ns" num="206">Lord, do unveil</fav>
+  </favourites>
+</user>

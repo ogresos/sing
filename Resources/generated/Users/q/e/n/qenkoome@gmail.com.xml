@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kenneth</firstname>
+  <lastname>Kiambati</lastname>
+  <email>qenkoome@gmail.com</email>
+  <password>$2y$10$tbG4PJivRIIZLgB9GKTIOekENwLRmosqshMnw3VTVUFX2MolFN3jS</password>
+  <gender/>
+  <country/>
+  <ipaddress>208.54.37.156</ipaddress>
+  <createdate>2015-10-10 03:04:24</createdate>
+  <lastupdateddate>2016-07-30 18:44:31</lastupdateddate>
+  <lastlogindate>2016-07-30 18:44:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="300b">Arise, my soul, arise (Alternate Tune)</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+  </favourites>
+</user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>MAN SHAN</firstname>
+<lastname>TO</lastname>
+<email>tomanman@gmail.com</email>
+<password>$1$QUrKDVds$W.p8dn4h6xj/p1GVSEstq.</password>
+<gender>F</gender>
+<country>Hong Kong</country>
+<ipaddress>116.49.30.219</ipaddress>
+<createdate>2009-03-15 10:59:56</createdate>
+<lastupdateddate>2009-09-15 18:29:40</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ch" num="664">速興起傳福音</fav>
+        <fav category="default" type="ch" num="265">這是我見證</fav>
+        <fav category="default" type="ch" num="508">一路我蒙救主引領</fav>
+    </favourites>
+</user>

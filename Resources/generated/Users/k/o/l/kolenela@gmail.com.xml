@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Colleen</firstname>
+  <lastname>W.</lastname>
+  <email>kolenela@gmail.com</email>
+  <password>$2y$10$oa9kCOOWLze9F..LtOvjx.Y/FsFcvrWFOjSv6FpJ5VxXkhdH6Zzs.</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>216.73.68.10</ipaddress>
+  <createdate>2015-03-03 18:46:29</createdate>
+  <lastupdateddate>2015-03-03 19:04:42</lastupdateddate>
+  <lastlogindate>2015-03-03 18:47:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="513">Once it was the blessing</fav>
+  </favourites>
+</user>

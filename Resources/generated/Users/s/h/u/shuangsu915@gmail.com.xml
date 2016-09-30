@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samantha</firstname>
+  <lastname>S</lastname>
+  <email>shuangsu915@gmail.com</email>
+  <password>$2y$10$8uMTEc.kQ/tLFStdy84OKe5W.IoTKON6E7d7sZPGLfYEjerdh9pXO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>204.126.64.99</ipaddress>
+  <createdate>2015-07-30 21:27:24</createdate>
+  <lastupdateddate>2015-08-01 03:34:53</lastupdateddate>
+  <lastlogindate>2015-07-30 21:30:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="344">愛中牧養</fav>
+    <fav category="default" type="ts" num="318">頭一次的愛</fav>
+  </favourites>
+</user>

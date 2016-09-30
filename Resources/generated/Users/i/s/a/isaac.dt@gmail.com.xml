@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Isaac</firstname>
+  <lastname>Dominguez</lastname>
+  <email>isaac.dt@gmail.com</email>
+  <password>$2y$10$bqECfryNA2XXBgWmUufaT.PmlGuYThkrB4Z6E.mOXEwyWrwpFK4NO</password>
+  <gender>M</gender>
+  <country>mx</country>
+  <ipaddress>200.23.91.241</ipaddress>
+  <createdate>2010-01-04 09:44:45</createdate>
+  <lastupdateddate>2014-12-01 02:28:11</lastupdateddate>
+  <lastlogindate>2014-12-01 02:28:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

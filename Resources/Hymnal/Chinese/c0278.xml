@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦超過眾光之光</title>
+  <index>true</index>
+  <category>羨慕－基督</category>
+  <numbers><cebuano num="359"/><chinese num="278"/><english num="359"/><korean num="278"/><tagalog num="359"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 0 - 1 | 3. 4/ 3/ 1/ | 3 - 3 | 5. 6/ 5/ 3/ (break) | 5 - 3 | 2. 2/ 3/ 4/ | 3 - 5 | 2. 7_./ 1/ 6_./ (break) | 5_. - (Chorus) 5 | 5. 5#/ 6/ 3/ | 5 4 - | 4. 4#/ 5/ 2/ | 4 3 3 (break) | 3. 3/ 4/ 3/ | 3 1 1# | 2/ 3/ (.4 7_. | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>光 中 之 光， 照 進！ 罪 惡 之 夜 驅 盡， 白 日 顯 於 內 心， 光 中 之 光， 照 進！ 哦， 超 過 眾 光 之 光， 請 來 住 我 心 房； 哦， 驅 散 憂 苦 之 樂， 請 來 我 心 住 著。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="359"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">光中之光，照進！
+罪惡之夜驅盡，
+白日顯於內心，
+光中之光，照進！</stanza>
+	<stanza type="chorus" number="">哦，超過眾光之光，
+請來住我心房；
+哦，驅散憂苦之樂，
+請來我心住著。</stanza>
+	<stanza type="verse" number="2">樂中之樂，請進！
+罪惡之苦去盡，
+平安滿我內心，
+樂中之樂，請進！</stanza>
+	<stanza type="verse" number="3">命中之命，傾進！
+罪惡之死吞盡，
+復甦我的內心，
+命中之命，傾進！</stanza>
+	<stanza type="verse" number="4">愛中之愛，流進！
+罪惡之恨除根，
+更新我的內心，
+愛中之愛，流進！</stanza>
+	<stanza type="verse" number="5">天上之天，降臨！
+破除雲幔遮隱，
+地上擾亂除盡，
+天上之天，降臨！</stanza>
+	<stanza type="verse" number="6">我神我主，請來！
+安家在我心懷，
+賜我豐滿同在，
+我神我主，請來。</stanza>
+  </lyrics>
+</hymn>

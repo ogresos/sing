@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kasingkasing tarungon ta's</title>
+  <index>true</index>
+  <category>NAGKALAINLAING ASPETO SA KINABUHI SA SULOD&amp;mdash;ANG HUSTONG KASINGKASING</category>
+  <numbers><cebuano num="744"/><chinese num="540"/><english num="744"/><french num="135"/><german num="744"/><korean num="540"/><portuguese num="347"/><russian num="375"/><spanish num="316"/><tagalog num="744"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3 3 | 2 - 3 | 4 - 7_. | 1 - - | 5_. 5_. 5_. | 3 - 2 | 2 - - (break) | 4 4 3 | 2 - 1 | 7_. - 6_. | 5_. - - | 5_. 6_. 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="209"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kasingkasing tarungon ta's,
+Pagtagad nato N'ya,
+Aron makaambit kita's
+Kadato'g grasya N'ya.</stanza>
+	<stanza type="verse" number="2">Nagkinahanglan gyud kita'g,
+Putling kasingkasing,
+Himsog, tin-awng hunahuna,
+Nga makasabut N'ya.</stanza>
+	<stanza type="verse" number="3">Kasingkasing mapanggaon,
+Ang kinahanglan ta;
+Mainiton labaw's tanan,
+Alang gayud Niya.</stanza>
+	<stanza type="verse" number="4">Kasingkasing masugtanon,
+Ug mapasakupon,
+Humok, apan malig-on sab,
+Motuman's tuyo N'ya.</stanza>
+	<stanza type="verse" number="5">Kasingkasing way pagtuto,
+Sa Dios tanan husto;
+Nga may konsensyang nahinlo,
+Tinabonan's dugo.</stanza>
+	<stanza type="verse" number="6">Kasingkasing ingon ni'ni
+Karon hatagi mi,
+Ikawng tumong nga ambitan,
+Makahupnganan mi.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amahan, Anak Mo m'oy nanguna</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;GIDAYEG SIYA SA DAGHANG MGA ANAK</category>
+  <numbers><cebuano num="50"/><chinese num="48"/><english num="50"/><french num="9"/><korean num="48"/><russian num="242"/><spanish num="30"/><tagalog num="50"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Robert Allen</author>
+  </creators>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Amahan, Anak Mo m'oy nanguna,
+Human's pagkaon ni'ning kombira;
+Tam-is nga mga pagdayeg Nimo,
+Duyog Kaniya kami nausa.</stanza>
+    <stanza type="verse" number="2">Way kaayohan mi gawas Nimo,
+Imohang gugma ray gipangita;
+Di matugkad nga kinabuhi Mo,
+Simbahon Ka kay karon nasayran!</stanza>
+    <stanza type="verse" number="3">Sa gugma Mo paghigugma namo
+Magtubo, molabaw's gugma's yuta;
+Gugma Mo magbuot's kasingkasing,
+Matagbaw gyud mi sa presensya Mo.</stanza>
+    <stanza type="verse" number="4">Duyog sa Anak nga pinalangga,
+Malipayong magdayeg pag-usab;
+Magkombira's balaan Mong gugma,
+Sa ngalang tam-is kami magpista.</stanza>
+  </lyrics>
+</hymn>

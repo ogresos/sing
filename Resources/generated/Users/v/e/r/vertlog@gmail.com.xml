@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>LEOBERT</firstname>
+  <lastname/>
+  <email>vertlog@gmail.com</email>
+  <password>$2y$10$mTI/PfUnSVVp6bKZFQnR/ONVnCuhgvMVQ5I5zKQircwiIycPMmsee</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>112.202.172.119</ipaddress>
+  <createdate>2016-07-22 02:03:22</createdate>
+  <lastupdateddate>2016-07-22 02:29:19</lastupdateddate>
+  <lastlogindate>2016-07-22 02:04:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+  </favourites>
+</user>

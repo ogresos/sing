@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He's the Serving Savior</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Savior</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="" fullname="Paula King">P. K.</composer>
+    <composer biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</composer>
+  </creators>
+  <hymncode>333216222175</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G7 - - - | G7 - - - | C - - - ||</chords>
+  <melody>| (startrepeat2) 0 3./ 3// 3./ 2//( 2./) 1//( | 1) 6_. 6_../ 5_.//( 5_../) 4_.//( (break) | 4_.) 2./ 2// 2./ 1//( 1./) 7_.//( | 7_.) 5_. 5_../ 4_.//( 4_../) 3_.//( (break) | 3_.) 1./ 1// 1./ 7_.//( 7_../) 6_.//( | 6_.) - 7_. 1 (break) | 2 - 3( 4) | 7_. 5_../ 5_.// 6_. 7_. (break) | 0 (Verse_2) 3./ 3// 3./ 2//( 2./) 1//( | 1) 6_../ 6_.// 6_../ 5_.//( 5_../) 4_.//( (break) | 4_.) 2./ 2// 2./ 1//( 1./) 7_.//( | 7_.) 5_../ 5_.// 5_../ 4_.//( 4_../) 3_.//( (break) | 3_.) 1./ 1// 1./ 7_.//( 7_../) 6_.//( | 6_.) 6_. 7_. 1 | 2 - 3 4 (break) | (alt1) 7_. 5_../ 5_.// 6_. 7_. | (alt2) 7_. - 3( 2) | 1 - - (endalt) 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">He's the serv -- ing Sav -- ior, (Yes, He is!) Comes to all the peo -- ple (Ev -- ery -- where) Full of deep com -- pas -- sion And sym -- pa -- thy! (What a Sav -- ior) Oh, what o -- pen love (to the need -- y ones) Lots of ten -- der love (to the lit -- tle ones) To the lep -- rous one said, I am will -- ing, be clean! (and He touched Him!) clean! Be clean!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2012 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="66">c0025.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He's the serving Savior, (Yes, He is!)
+Comes to all the people (Everywhere)
+Full of deep compassion
+And sympathy! (What a Savior)</stanza>
+    <stanza type="verse" number="2">Oh, what open love (to the needy ones)
+Lots of tender love (to the little ones)
+To the leprous one said,
+I am willing, be clean! (and He touched Him!)</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2012 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, keep my heart always true to You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <numbers><chinese num="ts:339"/><english num="lb:52"/><vsb num="198"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>123321235</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm/F - - - | G7 - - - | C - F/C - | C - - - | C - - G/B | Am - - - | Dm - - - | G - - - | C - - G/B | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm/F - - - | G7 - - - | C - - - | Am - - - | Dm/F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 1 - - 2/ 3/ | 3 - - 2/ 1/ | 2 - - 3 | 5_. - - - | 3 - - 4/ 5/ | 5/ 4.( 4) 4/ 3/ | 4 - - 5 | 2 - - 3 (break) | 5 - - 3/ 5/ | 7/( 6.)( 6) 3 | 2 - 2 6 | 5 - - 2 | 1 - - 1 | 1/ 6_..( 6_.) 1 | 2 - - 2 | 3 - - 2 | 1( - - - | 1) - - 0 (break) | (Chorus) 0 5 3 2 | 1. 7_./( 7_.) 1 | 6. 6/ 4 2 | 7_. - - - | 0 5 3 2 | 1. 7_./( 7_.) 1 | 6. 6/ 4 2 | 7_. - - - (break) | 0 5 3 5 | 7. 6/( 6) 3 | 2. 2/ 2 6 | 5 - - 0/ 2/ | 1/ 2/( 2/) 3/( 3) - | 1/ 2/( 2/) 3/( 3) 1 | 2 - 2 2 | 3 - - 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, keep my heart al -- ways true to You, Nev -- er back -- slid -- ing, al -- ways view -- ing You, A heart that is pure that sees on -- ly You, A heart that loves You and trea -- sures on -- ly You. Your love con -- strains me to give my all to You. Lord, I can't help it; my heart is drawn to You. Oh what a pri -- vilege! I give my -- self to You! I love You, Lord, dear -- est Lord. I love You! I just love You!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="dDMeBgWBDmU"/>
+  </videos>
+  <music>
+    <midi location="lb" length="96">lb52.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, keep my heart always true to You,
+Never backsliding, always viewing You,
+A heart that is pure that sees only You,
+A heart that loves You and treasures only You.</stanza>
+    <stanza type="chorus" number="">Your love constrains me to give my all to You.
+Lord, I can't help it; my heart is drawn to You.
+Oh what a privilege! I give myself to You!
+I love You, Lord, dearest Lord.
+I love You! I just love You!</stanza>
+    <stanza type="verse" number="2">Lord, keep my love burning brightly for You,
+A love never dwindling always hot for You,
+A love, shining brighter all the way for You,
+A love, so fresh like the day I first touched You.</stanza>
+    <stanza type="verse" number="3">Lord, take my life, I present it to You!
+If I had a thousand, I'd pour all on You!
+Nothing withholding, my all is for You.
+My life and my future, dear Lord, is all for You.</stanza>
+  </lyrics>
+</hymn>

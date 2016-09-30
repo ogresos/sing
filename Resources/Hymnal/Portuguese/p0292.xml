@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Frágil e falho é meu querer</title>
+  <index>true</index>
+  <category>Confiar Nele</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - (break) | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 (break) | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="578"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Frágil e falho é meu querer,
+Minha esperança se findou;
+Só posso confiar em Ti,
+Que me susténs, ó meu Senhor.</stanza>
+	<stanza type="verse" number="2">Fiz o melhor, mas só falhei,
+Para de novo só errar;
+Tua paciência vem suster,
+E me guardar em Teu falar.</stanza>
+	<stanza type="verse" number="3">Se altivo é meu coração,
+Como estou perto de cair;
+Agir, pensar, não ouso eu ?
+De Ti preciso em tudo aqui.</stanza>
+	<stanza type="verse" number="4">Meu Salvador e força és,
+Busco Teu rosto, ó Senhor;
+Embora fraco seja eu,
+A Tua graça é meu vigor.</stanza>
+  </lyrics>
+</hymn>

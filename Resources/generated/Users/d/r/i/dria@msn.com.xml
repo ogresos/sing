@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Andrea</firstname>
+    <lastname>M</lastname>
+    <email>dria@msn.com</email>
+    <password>8DzPOhkf67b7rRthUNOCYQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-19 23:25:58</createdate>
+    <lastupdateddate>2014-04-19 23:25:58</lastupdateddate>
+    <lastlogindate>2014-04-19 21:11:29</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname>Browning</lastname>
+  <email>indayruth2000@yahoo.co.uk</email>
+  <password>$2y$10$PmyaobyuPJdMrxc88ozle.KcEzQxIV8ONWykedbjBX8S18JD0XUnG</password>
+  <gender>F</gender>
+  <country>uk</country>
+  <ipaddress>94.196.243.223</ipaddress>
+  <createdate>2012-02-04 18:17:18</createdate>
+  <lastupdateddate>2015-01-24 09:40:04</lastupdateddate>
+  <lastlogindate>2015-01-24 09:33:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="57">Where have you laid Him, my Jesus?</fav>
+  </favourites>
+</user>

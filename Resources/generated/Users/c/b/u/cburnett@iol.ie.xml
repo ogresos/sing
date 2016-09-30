@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Colin</firstname>
+  <lastname>Burnett</lastname>
+  <email>cburnett@iol.ie</email>
+  <password>I7o77BPhAEnTRG3azDg%2FdQ%3D%3D</password>
+  <gender/>
+  <country>Ireland</country>
+  <ipaddress>109.77.110.75</ipaddress>
+  <createdate>2014-04-23 15:18:15</createdate>
+  <lastupdateddate>2015-11-25 16:24:44</lastupdateddate>
+  <lastlogindate>2015-11-25 16:24:44</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+  </favourites>
+</user>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, You are Beloved</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:129"/><vsb num="104"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="James Kuan">J. K.</author>
+    <composer biodate="" biolink="" fullname="James Kuan">J. K.</composer>
+  </creators>
+  <hymncode>123531345432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | F - - - | C/E - - - | F - - - | C - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | F - - - | C - - - | F - - - | Am - - - | G - - - | C - - - | F - - - | C - - - | Am - - - | G - - - | C - - - |</chords>
+  <melody>| 0 1/ 2/ 3 5 | 3. 1/( 1)( 3) | 4 4/ 5/( 5) 4/( 3/) | 2 - - - | 0 1/ 2/ 3 5 | 3. 1/( 1) 3 | 4. 5/( 5) 6 | 5 - - - (break) | 0 6/ 6/( 6) ._1 | 5.( 3/)( 3) 1 | 0 6/ 6/( 6/) 6/ ._1 | 5 - - - (break) | 5.( 7/)( 7) ._2 | ._1 ._1/ 7/( 7) 6 | ._1 ._1/ ._1/( ._1) ._2 | 7 ._1/ ._2/( ._2/) ._1/ 7/ ._2/ (break) | (Chorus) 1. 3/( 3) ._1 | 6. 4/( 4) 1 | 3. 5/( 5) ._1 | 6 - - - | 0 6/ 7/ ._1 ._1 | 7. 5/( 5) 2 | 3.( 5/)( 5) ._1 | 6 - - 5/( 4/) | 3. ._1/( ._1) 7 | ._1. 7/( 7) 6 | 7. 5/( 5) ._2 | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Lord, You are Be -- lov -- ed, Fair -- est of the fair; Al -- to -- geth -- er love -- ly, un -- ri -- valed beau -- ty; It's You! Your pres -- ence, I long for and seek; You're the One in Whom my heart de -- lights, So, I just love to tell You... Je -- sus, I love You, My trea -- sure, You are; How could I choose an -- y -- thing less than You? Dear Lord, my in -- most heart You've cap -- tured and won.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="56">ns0129.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, You are Beloved, Fairest of the fair;
+Altogether lovely, unrivaled beauty;
+It's You! Your presence, I long for and seek;
+You're the One in Whom my heart delights,
+So, I just love to tell You...</stanza>
+    <stanza type="chorus" number="">Jesus, I love You,
+My treasure, You are;
+How could I choose anything less than You?
+Dear Lord, my inmost heart
+You've captured and won.</stanza>
+    <stanza type="verse" number="2">Dead I was in sin Lord, so lost without You;
+Helpless, wounded, weary, rebellious, too;
+But Lord, You came! You would not let me go;
+The blood and water flowed from Your side,
+Constraining me to tell You...</stanza>
+    <stanza type="verse" number="3">Thank You Lord, You opened my blind eyes to see
+I was lame, but now I can walk; You healed me!
+My leprosy, Lord, You cleansed all away;
+My ears were opened to hear Your voice,
+And now I follow You 'cause...</stanza>
+    <stanza type="verse" number="4">Sometimes Lord, I'm drawn off by my selfish cares;
+And the world it draws me with glitter and glare.
+O Lord, You've trapped me. Don't let me go.
+Kiss me and woo me, and win my heart,
+So, I will always tell You...</stanza>
+    <stanza type="verse" number="5">Keep my heart so soft, Lord, so open to You;
+It would be the good ground to bear fruit for You;
+Capture my friends Lord, and build us, I pray;
+Your Bride, We'd match You in every way,
+And corporately we tell You:</stanza>
+    <stanza type="chorus" number="">Jesus, Come quickly,
+We're waiting for You;
+We're the virgins to You,
+So single and true;
+Forever and ever
+Your counterpart true.</stanza>
+  </lyrics>
+</hymn>

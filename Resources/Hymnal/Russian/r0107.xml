@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Стал Христос мне миром</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;СЛЕДОВАНИЕ ЗА ДУХОМ</category>
+  <numbers><cebuano num="594"/><chinese num="436"/><dutch num="79"/><english num="594"/><french num="108"/><german num="594"/><korean num="436"/><portuguese num="296"/><russian num="107"/><spanish num="272"/><tagalog num="594"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3 2 2 | 1 - 5_. - | 5 5 6 6 | 2 - - - (break) | 4 4 3 3 | 2 - 6_. - | 1 1 2 2 | 1 - - - (break) | (Chorus) 5 5 4 4 | 3 - 6_. - | 4 4 6 6 | 1( - 7_.) - (break) | 4 4 2 2 | 5 - 3 - | 2 2 7_. 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Стал Хрис -- тос мне ми -- ром, Жиз -- нью стал вну -- три.  Пре -- бы -- ва -- ю в_ду -- хе, С_Гос -- по -- дом е -- дин. Сле -- ду -- ю за Ду -- хом, В_Гос -- по -- де жи -- ву, Жизнь я в_Нём чер -- па -- ю, Мир в_Нём на -- хо -- жу.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="594"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Стал Христос мне миром,
+Жизнью стал внутри.
+Пребываю в духе,
+С Господом един.</stanza>
+	<stanza type="chorus" number="">Следую за Духом,
+В Господе живу,
+Жизнь я в Нём черпаю,
+Мир в Нём нахожу.</stanza>
+	<stanza type="verse" number="2">Я теперь Господень.
+Раньше в узах был,
+Но законом жизни
+Волю получил.</stanza>
+	<stanza type="verse" number="3">В духе мыслить буду,
+Плоть забуду я;
+Подчинится Духу
+Воля пусть моя.</stanza>
+	<stanza type="verse" number="4">Силу быть духовным
+Мне Христос даёт;
+Даже телу смерти
+Жизнь Свою несёт.</stanza>
+	<stanza type="verse" number="5">С Божьим Духом дух мой
+Вторят, два в одном:
+Я наследник Бога,
+От Него рождён.</stanza>
+  </lyrics>
+</hymn>

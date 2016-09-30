@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Meu glorioso Salvador</title>
+  <index>true</index>
+  <category>Sua Glória</category>
+  <numbers><english num="135"/><portuguese num="71"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from F. C. Jennings</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Meu glorioso Salvador!
+Mostra o céu em esplendor
+Um grandioso e belo ser,
+Que por fé já posso ver.</stanza>
+    <stanza type="verse" number="2">É mui digno do louvor,
+Mais repleto de dulçor,
+Este Homem singular,
+Em quem Deus vem-se expressar.</stanza>
+    <stanza type="verse" number="3">Nos demonstra Seu fulgor
+O evangelho: "Deus é amor";
+Suas chagas a brilhar,
+"Deus é luz" vêm anunciar.</stanza>
+    <stanza type="verse" number="4">Ouve, ó alma, o Salvador,
+E entoa-Lhe louvor;
+Terna e doce adoração
+Rende, pois, com gratidão.</stanza>
+    <stanza type="verse" number="5">Vem, glorioso Salvador,
+Teu mui belo ser expor;
+Quero ver-Te, nada mais;
+Tua glória me apraz.</stanza>
+  </lyrics>
+</hymn>

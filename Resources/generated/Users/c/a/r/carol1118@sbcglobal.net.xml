@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>CAROL</firstname>
+  <lastname>MCINTOSH</lastname>
+  <email>carol1118@sbcglobal.net</email>
+  <password>$2y$10$oURCDPgyiNmVlYc.XSpT/ujEcYFg39RYaPrYOMsnc6ySqu28D4UcG</password>
+  <gender/>
+  <country/>
+  <ipaddress>75.5.254.27</ipaddress>
+  <createdate>2016-02-20 21:16:34</createdate>
+  <lastupdateddate>2016-02-20 22:25:26</lastupdateddate>
+  <lastlogindate>2016-02-20 21:17:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    <fav category="default" type="h" num="830">Faith of our fathers, living still</fav>
+    <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="85">O Come All Ye Faithful</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

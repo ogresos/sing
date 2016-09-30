@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Friends</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Making Friends</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Greg Ray">G. R.</author>
+    <author biodate="" biolink="" fullname="Chris Ray">C. R.</author>
+    <author biodate="" biolink="" fullname="Mike Redmond">M. R.</author>
+    <author biodate="" biolink="" fullname="Sally Redmond">S. R.</author>
+    <author biodate="" biolink="" fullname="Steve Williams">S. W.</author>
+    <author biodate="" biolink="" fullname="Byzar Williams">B. W.</author>
+    <composer biodate="" biolink="">Modified</composer>
+  </creators>
+  <hymncode>112316412222221233</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - C7 - | F - - - | C - A7 - | Dm - G7 - | C - C7 - | F - G7/F - | C/E - Am - | Dm - G7 - | C - C7/E - | F - G7/F - | Em - A7 - | Dm - G7 - | C F/C C - ||</chords>
+  <melody>| 1 1./ 2// 3 1./ 1// | 6_. 4_.( 4_.) 1 | 2./ 2// 2./ 2// 2./ 2// 1./ 2// | 3 3 - - (break) | 4./ 4// 4./ 4// 5 6 | 5 - - 3 | 2 - 7_. 2 | 1 - - - (break) | 4 - 5 6 | 5 - - - | 2 - 1 2 | 3 - - - (break) | 4 4 5 6 | 5 5 1# 3 | 2 - 7_. 2 | 1 - - - ||</melody>
+  <layout>
+    <singingstanza>What do you do when your friends say, “Let's do” some -- thing you know you real -- ly should -- n't? That's the time to walk a -- way and part com -- pa -- ny. Part com -- pa -- ny, part com -- pa -- ny, That's the time to walk a -- way and part com -- pa -- ny.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="32">c0070.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What do you do when your friends say,
+"Let's do" something you know you really shouldn't?
+That's the time to walk away and part company.
+Part company, part company,
+That's the time to walk away and part company.</stanza>
+    <stanza type="verse" number="2">We don't need those kinds of friends
+And we don't need to be with them;
+They'll only hurt us in the end, they're bad company.
+Bad company, bad company,
+Don't be afraid to say, "Goodbye" to bad company.</stanza>
+    <stanza type="verse" number="3">What kind of friends then should we play with,
+Have overnight, or spend the day with?
+Those who are going the right way; they're good company.
+Good company, good company,
+Those who are going the right way are good company.</stanza>
+  </lyrics>
+</hymn>

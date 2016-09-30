@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>daniel</firstname>
+    <lastname>ting</lastname>
+    <email>danielting707@gmail.com</email>
+    <password>IWG1QB633z%2FSIUxI0eBvGA%3D%3D</password>
+    <gender></gender>
+    <country>Malaysia</country>
+    <ipaddress>110.159.64.174</ipaddress>
+    <createdate>2013-04-29 09:25:02</createdate>
+    <lastupdateddate>2013-05-06 09:46:56</lastupdateddate>
+    <lastlogindate>2013-04-29 09:25:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="918">Christians, make haste, your mission high fulfilling</fav>
+        <fav category="default" type="ns" num="381">I am the living bread</fav>
+        <fav category="default" type="h" num="1295">Ours is a fellowship in the gospel</fav>
+        <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    </favourites>
+</user>

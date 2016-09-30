@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pangino'n mananahimik ako</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;ANG KAHULUGAN</category>
+  <numbers><cebuano num="764"/><chinese num="553"/><english num="764"/><german num="764"/><korean num="553"/><portuguese num="351"/><russian num="481"/><spanish num="326"/><tagalog num="764"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 2 3 | 1 - - 1 | 2 3 4 5 | 3 - - - (break) | 5 - 4 5 | 3 - 2 - | 1 1 1 1 | 7_. - - - (break) | 3 - 2 7_. | 1 - 5 - | 6 ._1 7. 4/ | 6( - 5) - (break) | 6 - 4 3 | 3 5 4 6_. | 1 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="431"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pangino'n mananahimik ako,
+Sa panloob makadulog sa Iyo;
+Man'langing di ayon sa daan ko
+Dalangin Mo'y maging dalangin ko.</stanza>
+	<stanza type="verse" number="2">Tila sa langit nakikinig Ka,
+Nguni't sa loob ko nakatira;
+Tila ako ang nananalangin,
+Nguni't mula sa Iyo ang dalangin.</stanza>
+	<stanza type="verse" number="3">Kung minsan walang masabi ako,
+Susunod sa hibik ng 'spiritu;
+Di ako sa labas ang humingi,
+Ikaw sa 'king loob ang nagsabi.</stanza>
+	<stanza type="verse" number="4">Panginoon Kita'y lalanghapin,
+Kainin, inumi't tamasahin;
+Nang ako'y makasalamuha Mo
+Sa akin, Ikaw maihayag ko.</stanza>
+	<stanza type="verse" number="5">Silayan ako ng liwanag Mo,
+Linisin, hugasan ng Iyong dugo;
+Di lamang ako maliwanagan,
+Bagkus malinaw Iyong kahayagan.</stanza>
+	<stanza type="verse" number="6">Dito ako'y Iyong pinapahiran,
+Upang Iyong Sarili'y maragdagan;
+Elemento Mo'y dumami lalo,
+Nang Ika'y higit maihayag ko.</stanza>
+	<stanza type="verse" number="7">Bukas ako sa Iyo, pumasok Ka
+Bukas din sa iba, umagos Ka;
+Salamuha sa tubig ng buhay
+Kahayagan Mo'y lubos at tunay.</stanza>
+  </lyrics>
+</hymn>

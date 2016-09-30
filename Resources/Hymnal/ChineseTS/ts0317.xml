@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>除你外，在天上我有誰呢</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>531776654354</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>直  等  到  我  進  了  神  的  聖  所  裡  面 ，  纔  看  出  他  們  的  結  局 。  直  等  到  我  進  了  神  的  聖  所  裡  面 ，  纔  看  出  他  們  的  結  局 。  惡  人  和  狂  傲  人  反  倒  享  平  安 ；  至  於  我 ，  我  腳  幾  乎  失  閃 ；  我  思  索  不  明  白 ，  眼  看  實  為  難 ！  （ 接  上  面  副  歌 ）  你 實 在 把 他 們 安 置 在 滑 地， 使 他 們 掉 在 沉 淪 之 中， 他 們 所 誇 口 的 轉 眼 便 成 空。 因 而 我 的 心 裡 發 酸， 肺 腑 被 刺， 我 竟 這 樣 愚 昧 無 知。 （重 複 最 後 兩 行， 下 同）</singingstanza>
+  </layout>
+  <notes>詩篇七十三篇</notes>
+  <music>
+	<midi location="ts" length="">ts0317.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="chorus" number="">直等到
+我進了神的聖所裡面，
+纔看出他們的結局。
+直等到
+我進了神的聖所裡面，
+纔看出他們的結局。
+惡人和狂傲人
+反倒享平安；
+至於我，我腳幾乎失閃；
+我思索不明白，
+眼看實為難！
+（接上面副歌）</stanza>
+	<stanza type="verse" number="1">你實在把他們
+安置在滑地，
+使他們掉在沉淪之中，
+他們所誇口的
+轉眼便成空。</stanza>
+	<stanza type="chorus" number="">因而我的心裡發酸，
+肺腑被刺，
+我竟這樣愚昧無知。
+（重複最後兩行，下同）</stanza>
+	<stanza type="verse" number="2">除你外，
+在天上我豈有誰呢？
+在地上我也無所愛慕；
+你是我的力量
+和永遠之福！</stanza>
+	<stanza type="chorus" number="">你攙著我右手，
+以你訓言引導，
+以後必接我到榮耀。</stanza>
+  </lyrics>
+</hymn>

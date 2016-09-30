@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mayo</firstname>
+  <lastname/>
+  <email>naomonesti@yahoo.com</email>
+  <password>$2y$10$dHt1TYdJyV53xYh.c.wbhONqJ0y2TMuMK8fampfsQ2SMgRPJj49i2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.188.20.177</ipaddress>
+  <createdate>2015-06-02 01:58:22</createdate>
+  <lastupdateddate>2015-06-11 10:13:36</lastupdateddate>
+  <lastlogindate>2015-06-02 01:59:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="8239">God laid my sins on Jesus</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

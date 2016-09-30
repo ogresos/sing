@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>mini</firstname>
+    <lastname>seth</lastname>
+    <email>mini_seth@yahoo.com</email>
+    <password>$1$f4rYyger$uSsD05K6c1gXt7pvt27Cz1</password>
+    <gender>F</gender>
+    <country>India</country>
+    <ipaddress>118.94.129.111</ipaddress>
+    <createdate>2008-10-12 11:58:11</createdate>
+    <lastupdateddate>2010-06-22 02:34:55</lastupdateddate>
+    <lastlogindate>2010-06-22 02:34:55</lastlogindate>
+    <failedlogincount>2</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="724">A little bird I am</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+    </favourites>
+</user>

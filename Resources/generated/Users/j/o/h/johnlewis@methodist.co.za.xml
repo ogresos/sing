@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>John</firstname>
+    <lastname>Lewis</lastname>
+    <email>johnlewis@methodist.co.za</email>
+    <password>ELfgJ0hgCyTFc8MLvb8Kzw%3D%3D</password>
+    <gender></gender>
+    <country>South Africa</country>
+    <ipaddress>41.174.21.199</ipaddress>
+    <createdate>2013-04-04 04:18:42</createdate>
+    <lastupdateddate>2013-04-07 17:39:43</lastupdateddate>
+    <lastlogindate>2013-04-04 08:40:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+    </favourites>
+</user>

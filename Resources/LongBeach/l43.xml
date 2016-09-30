@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Triune God, a mystery</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Revelation</category>
+  <numbers><english num="lb:43"/><lsmyp num="2"/><vsb num="42"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>33513267776735</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | Dm - - - | G - - - | C - - - | C - C/E - | F - A7 - | Dm - G7/B - | C - - - | G7 - - - | C - F/C - | C - - - | Dm - - - | G - - - | C - - - | C - C/E - | F - A7 - | Dm - G7/B - | C - - - | G7 - - - | C - F/C - | C - - - | G - - - | Am - - - | G - G7/B - | C - - - | G - - - | Am - F - | G - G7 - | C - - - |</chords>
+  <melody>| 0/ 3_./ 3_./ 5_./ 1 3 | 2 - 6_. - | 0 7_./ 7_./ 7_./ 6_./( 6_./) 7_./ | 3_./( 5_..)( 5_.) - (break) | 0/ 3_./ 3_./ 5_./ 1 3 | 2 - 3 - | 4 - - 4 | 3/ 1.( 1) - | 2/ 7_..( 7_.) - | 1 - - - (break) | 0/ 3_./ 3_./ 5_./ 1 3 | 2 - 6_. - | 0 7_./ 7_./ 7_./ 6_./( 6_./) 7_./ | 3_./( 5_..)( 5_.) - (break) | 0/ 3_./ 3_./ 5_./ 1 3 | 2 - 3 - | 4 - - 4 | 3/ 1.( 1) - | 2/ 7_..( 7_.) - | 1 - - - (break) | 0/ (Brothers) 1/ 1/ 1/ 1/ 6_./( 6_./) 7_./ | 0/ (Sisters) 5/ 5/ 5/ 5/ 2/( 2/) 3/ | 0/ (Brothers) 6_./ 6_./ 7_./ 1/ 2/( 2/) 5_./ | 0/ (Sisters) 2/ 2/ 3/ 4/ 5/( 5/) 3/ (break) | 0/ (Brothers) 1/ 1/ 1/ 1/ 6_./( 6_./) 7_./ | 0/ (Sisters) 5/ 5/ 5/ 5/ 2/( 2/) 3/ | 0/ (Brothers) 6_./ 6_./ 7_./ 1/ 2/( 2/) 5_./ | 0/ (Sisters) 2/ 2/ 3/ 4 3 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>The Tri -- une God: a mys -- tery&amp;mdash; God is one and He's three. Oh, Tri -- une God, You're won -- der -- ful! You're won -- der- won -- der -- ful! The Tri -- une God: a mys -- tery&amp;mdash; God is one and He's three. Oh, Tri -- une God, You're mar -- vel-- ous! You're mar -- vel- mar -- vel -- ous! A child is born to us, The might -- y God is He, A son is giv'n to us, E -- ter -- nal Fa -- ther, He, The child, the might -- y God, His name is Won -- der -- ful, The Son and Fa -- ther one. A won -- der -- ful Per -- son.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="58">lb43.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Triune God: a mystery&amp;mdash;
+God is one and He's three.
+Oh, Triune God, You're wonderful!
+You're wonder- wonderful!
+The Triune God: a mystery&amp;mdash;
+God is one and He's three.
+Oh, Triune God, You're marvelous!
+You're marvel- marvelous!</stanza>
+    <stanza type="chorus" number="">(Brothers)
+A child is born to us,
+A son is giv'n to us,
+The child, the mighty God,
+The Son and Father one.</stanza>
+    <stanza type="chorus" number="">(Sisters)
+The mighty God is He,
+Eternal Father, He,
+His name is Wonderful,
+A wonderful Person.</stanza>
+    <stanza type="verse" number="2">The Lord is now the Spirit,
+A wondrous mystery!
+Christ, the life-giving Spirit,
+Has entered into me!
+
+The Lord is now the Spirit,
+Oh this is glorious!
+Christ, the life-giving Spirit,
+Has entered into us!</stanza>
+    <stanza type="chorus" number="">(Brothers)
+The last Adam became
+The Lord is the Spirit,
+The last Adam became
+Christ is the Lord Spirit.</stanza>
+    <stanza type="chorus" number="">(Sisters)
+The life-giving Spirit!
+The all-inclusive Christ
+The life-giving Spirit!
+He's now indwelling us!</stanza>
+    <stanza type="verse" number="3">Our Father God, the source;
+God, the Son, has reached me.
+God as the Spirit's flowing free.
+He flowed God into me!
+
+Our Father God, the source;
+God, the Son, is the course.
+God as the Spirit entered me!
+'Tis the greatest mystery!</stanza>
+    <stanza type="chorus" number="">(Brothers)
+The Triune God in me:
+Oh this is glorious!
+The Triune God in me:
+Oh this is marvelous!</stanza>
+    <stanza type="chorus" number="">(Sisters)
+The greatest mystery!
+The Triune God in us!
+The greatest mystery!
+The Triune God in us!</stanza>
+  </lyrics>
+</hymn>

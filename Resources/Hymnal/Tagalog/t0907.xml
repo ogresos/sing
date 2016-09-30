@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Di daan ating pili</title>
+  <index>true</index>
+  <category>PAGLILINGKOD&amp;mdash;SA PAMAMAGITAN NG PANGUNGUNA NG PANGINOON</category>
+  <numbers><cebuano num="907"/><chinese num="650"/><english num="907"/><german num="907"/><korean num="650"/><tagalog num="907"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5 ._1 ._1 7/( 6/) | 5 6 2 - | 3 2 4 3 | 2 1 5 - (break) | ._1 7/( 6/) 5 4 | 3 2/( 1/) 7_. - | 5 6 7 ._1 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="907"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Di daan ating pili,
+Kundi sa 'ginabay Niya;
+Do'n dilim mapapawi,
+Ang buhay aagos nga.</stanza>
+	<stanza type="verse" number="2">Di ating piling gawa,
+'Tatamo ng aproba;
+Kundi yaong bigay Niya
+'Ting lubos isagawa.</stanza>
+	<stanza type="verse" number="3">Samo di ayon sa 'kin,
+Pagdulog ko sa Trono;
+Kalalima'y hipuin,
+Hibik ng Espiritu.</stanza>
+	<stanza type="verse" number="4">Di handog sa dambana,
+Sa Kanya'y magpasaya;
+Kundi 'king pagtugon nga,
+Sa pangangailangan Niya.</stanza>
+	<stanza type="verse" number="5">Sa sarili ko'y patay,
+Sa Kanya ako'y buhay;
+Dalangin, lingkod, alay,
+Kristong premyo mataglay.</stanza>
+  </lyrics>
+</hymn>

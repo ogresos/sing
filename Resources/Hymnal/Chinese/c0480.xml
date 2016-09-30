@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你們能否順從</title>
+  <index>true</index>
+  <category>鼓勵－順從主</category>
+  <numbers><cebuano num="657"/><chinese num="480"/><english num="657"/><korean num="480"/><tagalog num="657"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 5 6 5 | ._1 - 5 - | 4 3 2. 1/ | 1 - - - (break) | 1 3 4 3 | 2( 3) 1 - | 6 5 3 1 | 3( - 2) - (break) | 5 5 6 5 | ._1 - 7 - | 6 5 7 6 | 5 - - - (break) | 1 5 4 3 | 6 - 2 - | 5 1 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>你 們 能 否 順 從 你 一 切 的 主， 如 果 地 要 震 動， 天 象 要 翻 覆？ 你 們 能 否 相 信， 神 與 你 同 在， 就 是 災 禍 忽 臨， 必 定 不 見 害？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="76"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你們能否順從
+你一切的主，
+如果地要震動，
+天象要翻覆？
+你們能否相信，
+神與你同在，
+就是災禍忽臨，
+必定不見害？</stanza>
+	<stanza type="verse" number="2">你們能否順從
+所事奉的主，
+不稍軟弱、驚恐，
+也不稍讓步？
+雖然你的前途
+好像是死路，
+此時能否順服，
+而不一自顧？</stanza>
+	<stanza type="verse" number="3">你真能否順從，
+如果主召你
+加入前線進攻，
+抵禦兇仇敵？
+你真能否立前，
+歡喜受差遣？
+你真能否爭戰，
+直到晚色遍？</stanza>
+	<stanza type="verse" number="4">能否？我的弟兄，
+你神已久等，
+應當服祂權柄，
+遵行祂命令。
+你若作主精兵，
+當祂再降臨，
+祂要題起你名，
+並說你『忠心！』</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>前進！剛強開拓</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:869"/><english num="ns:372"/></numbers>
+  <melody>| 5.( 1/) 1 - | 0 4/( 5/) 6 5/ 4/ | 5. 3/ 5( - | 5) - - - (break) | 5.( 1/) 1 - | 0 4/( 5/) 6 5/ 4/ | 5. ._1/ 5( - | 5) - - - (break) | 6.( 4/) 4 - | 0 6/( 7/) ._2/( ._1/) 7/( 6/) | 5 - - 6 | 7 ._2 ._1 - (break) | 6.( 4/) 4 - | 0 6/( 7/) ._2/( ._1/) 7/ 6/ | 5 - 6 - (break) | 7 - ._2. (Chorus) 5/ | ._1/ ._1/ 7/ ._1/( ._1.) 5/ | 4/( 3/) 2/( 1/) 2 5 | ._1/ ._1/ 7/ ._1/( ._1.) 5/ (break) | 6 ._1 ._2 5 | ._1/ ._1/ 7/ ._1/( ._1.) 5/ | 4/( 3/) 2/( 1/) 2 3/( 2/) | 1 2 3 5 (break) | 6 - - 6_./ 7_./ | 1 2 3 5 | 6 ._1 ._1.( 7/) | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+	<singingstanza>誰 肯 受 託， 宣 揚 神 福 音？ 誰 願 答 應， 受 差 遣 前 行？ 主 愛 激 勵 困 迫， 不 再 我 活。 今 日 起 來 應 聲： 『請 差 遣 我！』 深 願 神 福 音 成 我 生 活， 更 新 我 奉 獻 剛 強 開 拓， 答 應 主 呼 召， 忠 勇 邁 進， 跟 隨 羔 羊 前 行， 遍 地 叩 門！ 主 阿， 願 你 快 臨！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="372"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">誰肯受託，宣揚神福音？
+誰願答應，受差遣前行？
+主愛激勵困迫，不再我活。
+今日起來應聲：『請差遣我！』</stanza>
+	<stanza type="chorus" number="">深願神福音成我生活，
+更新我奉獻剛強開拓，
+答應主呼召，忠勇邁進，跟隨羔羊前行，
+遍地叩門！主阿，願你快臨！</stanza>
+	<stanza type="verse" number="2">生死夥伴，愛裏相提攜。
+同靈站住，同魂齊努力。
+只為基督身體，不顧自己。
+作主得勝新婦，時代轉移。</stanza>
+  </lyrics>
+</hymn>

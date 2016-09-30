@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Karen</firstname>
+<lastname>Jessop</lastname>
+<email>integritycoding@netscape.com</email>
+<password>$1$3v.JiNBL$3AqZ0oYTtRozLdtgkgHfy.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>71.3.19.4</ipaddress>
+<createdate>2009-07-27 11:57:15</createdate>
+<lastupdateddate>2009-09-15 19:16:55</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="h" num="1096">Tis the local church proclaiming</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    </favourites>
+</user>

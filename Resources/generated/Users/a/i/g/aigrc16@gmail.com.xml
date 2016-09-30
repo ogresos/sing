@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adilenne</firstname>
+  <lastname>Garcia</lastname>
+  <email>aigrc16@gmail.com</email>
+  <password>$2y$10$JupBdabl5EGpcS9aWa.jd.uiQYeEeJBsulFdObVE7UN2C/2Upc8ES</password>
+  <gender/>
+  <country/>
+  <ipaddress>174.65.35.44</ipaddress>
+  <createdate>2014-12-21 18:00:06</createdate>
+  <lastupdateddate>2015-05-26 02:50:20</lastupdateddate>
+  <lastlogindate>2015-05-26 02:50:20</lastlogindate>
+  <failedlogincount>5</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="180">Jesus, our Lord, with what joy we adore Thee</fav>
+  </favourites>
+</user>

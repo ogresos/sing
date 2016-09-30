@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! que comunhão, gozo divinal</title>
+  <index>true</index>
+  <category>A Comunhão Com Ele</category>
+  <numbers><chinese num="406"/><english num="558"/><french num="100"/><korean num="406"/><portuguese num="281"/><tagalog num="558"/></numbers>
+  <creators>
+    <author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="558"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh! que comunhão, gozo divinal
+Nos eternos braços do Senhor!
+Que satisfação, tenho paz real
+Nos eternos braços do Senhor!</stanza>
+    <stanza type="chorus" number="">Em Seus braços,
+Sou salvo e livre de temor;
+Em Seus braços,
+Todo o tempo me apoiando estou!</stanza>
+    <stanza type="verse" number="2">Doce é andar e peregrinar
+Nos eternos braços do Senhor!
+Claro mais e mais é meu caminhar
+Nos eternos braços do Senhor!</stanza>
+    <stanza type="verse" number="3">Que recearei? Nada há que temer
+Nos eternos braços do Senhor!
+Tenho plena paz ao permanecer
+Nos eternos braços do Senhor!</stanza>
+  </lyrics>
+</hymn>

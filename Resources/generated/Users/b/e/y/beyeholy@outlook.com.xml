@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Henry</firstname>
+  <lastname>Willey</lastname>
+  <email>beyeholy@outlook.com</email>
+  <password>$2y$10$XqePprz1BYKSpFLI.MV2MOYyY6SBsQtSB8zTXtqx2XYi.KZWsto3i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.111.46.129</ipaddress>
+  <createdate>2014-10-10 19:19:59</createdate>
+  <lastupdateddate>2014-10-13 23:33:34</lastupdateddate>
+  <lastlogindate>2014-10-10 19:22:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="900">Oh, to be nothing, nothing</fav>
+  </favourites>
+</user>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang grasya'g kamatuoran</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA KALAN-ON UG ILIMNON</category>
+  <numbers><cebuano num="1149"/><chinese num="ts:221"/><english num="1149"/><german num="1149"/><korean num="822"/><russian num="464"/><spanish num="229"/></numbers>
+  <melody>| 0. 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 4/ (break) | 6/ 5 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 5/ | 1 - (break) | (Chorus) 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 4/ | 6/ 5. (break) | 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 5/ | 1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="1149"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang grasya'g kamatuoran,
+Gikan gayud ni Cristo;
+Niinom na ning tuboran,
+Diha's balay Niya!</stanza>
+	<stanza type="chorus" number="">Daygon ang Dios! Niinom na's tuboran!
+Daygon ang Dios! Nia's balay sa Dios!</stanza>
+	<stanza type="verse" number="2">Pangayo lang kay hatagan,
+Niinom ta's tuboran;
+S'ya ra ang tinguhaon ta,
+Dinhi sa balay N'ya!</stanza>
+	<stanza type="verse" number="3">Bisan unsaon sa Yawa,
+Niinom ta's tuboran;
+Dili gyud makadaug s'ya
+Batok sa iglesia!</stanza>
+	<stanza type="verse" number="4">Adto dayon kon uhawon,
+Sa tuboran moinom;
+Tubod dili gyud mauga,
+Naa 'ni's iglesia!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Out in the darkness</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;Love for Souls</category>
+  <creators>
+    <author biodate="" biolink="">F. Kirkland</author>
+    <composer biodate="" biolink="">Koschat</composer>
+  </creators>
+  <meter>5.4.5.4.D.</meter>
+  <hymncode>333313334</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/G - - | C - - | G7 - - | Dm - - | Dm/C - - | G7/B - - | C - - | C - - | C/G - - | C - - | F - - | D7/F# - - | C/G - - | G7 - - | C - - | D7/F# - - | C/G - - | G7 - - | C - - |</chords>
+  <melody>| 3 3 3 | 3 1 - | 3 3 3 | 4 - - | 4 4 4 | 4 4 - | 4 4 4 | 4( 3) - (break) | 3 3 3 | 3 1 - | 3 3 3 | 3( 2) - | 6 6 6 | 6 5 - | 4 3 2 | 1 - - | 6 6 6 | 6 5 - | 4 3 2 | 1 - - |</melody>
+  <layout>
+    <singingstanza>Out in the dark -- ness, Sha -- dowed by sin, Souls are in bond -- age, Souls we would win. How can we win them? How show the way? "Love nev -- er fail -- eth," Love is the way. "Love nev -- er fail -- eth," Love is the way.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj175.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="30">e0931_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Out in the darkness,
+  Shadowed by sin,
+Souls are in bondage,
+  Souls we would win.
+How can we win them?
+  How show the way?
+"Love never faileth,"
+  Love is the way.</stanza>
+    <stanza type="verse" number="2">Think how the Savior
+  Came from above
+Suffered on Calvary,
+  Breathing out love;
+Think how He loves us,
+  E'en when we stray:
+We must love others,
+  Love is His way.</stanza>
+    <stanza type="verse" number="3">See, they are waiting,
+  Looking at you,
+Silently watching
+  All that you do;
+Seeming so careless,
+  Hardened and lost:
+"Love never faileth,"
+  Count not the cost.</stanza>
+    <stanza type="verse" number="4">"Love never faileth,"
+  Love is pure gold:
+Love is what Jesus
+  Came to unfold;
+Love these souls thru us,
+  Savior, we pray;
+Thy love ne'er faileth,
+  Love is Thy way.</stanza>
+  </lyrics>
+</hymn>

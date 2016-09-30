@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'walhati sa Diyos Ama at sa Anak Kristo</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG PLANO</category>
+  <numbers><cebuano num="1"/><chinese num="1"/><english num="1"/><german num="1"/><korean num="1"/><russian num="191"/><spanish num="1"/><tagalog num="1"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from J. F. Garland</author>
+  </creators>
+  <melody>| 5 5 5 ._3 | ._2 ._1 6 ._1 | 5 ._3 ._2 ._2 | ._2 - - - (break) | ._3 ._3 ._3 ._2 | ._1 ._1 ._1 6 | 5 - 6( 7) | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="1"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">L'walhati sa Diyos Ama at sa Anak Kristo,
+L'walhati sa Espiritu&amp;mdash;laging Isa.</stanza>
+	<stanza type="verse" number="2">Sa pagmamasid ng malawak na nilikha,
+Puso nati'y tatahimik at sasamba.</stanza>
+	<stanza type="verse" number="3">O Diyos, nais Mo ang magkaroon sa Anak
+Mga anak nagpupuri't nagmamahal.</stanza>
+	<stanza type="verse" number="4">Ang pagsinta Mo'y pinahayag sa nilalang
+Upang ang pagsinta nila ay makamtan</stanza>
+	<stanza type="verse" number="5">Sa pagtubos ni Kristo, masama'y napuksa;
+Mananamba'y nakamtan sa bagong likha.</stanza>
+	<stanza type="verse" number="6">L'walhati sa Diyos Ama at sa Anak Kristo,
+L'walhati sa Espiritu&amp;mdash;laging Isa.</stanza>
+  </lyrics>
+</hymn>

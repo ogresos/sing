@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daichi</firstname>
+  <lastname/>
+  <email>dacksushi@gmail.com</email>
+  <password>$2y$10$tzdDE8zQC4CgizlO74HYe.6W4tJQ6mQLwCY7ljmf771nCtzYdQ.6u</password>
+  <gender/>
+  <country>jp</country>
+  <ipaddress>133.50.54.67</ipaddress>
+  <createdate>2016-07-21 07:27:34</createdate>
+  <lastupdateddate>2016-08-23 10:38:41</lastupdateddate>
+  <lastlogindate>2016-08-19 10:27:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="309">A Noble Deed</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="h" num="7">Glory, glory to the Father</fav>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="448">I Have an Excuse!</fav>
+    <fav category="default" type="ns" num="131">I'm gonna praise God unceasingly</fav>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="nt" num="1048">Just as I am</fav>
+    <fav category="default" type="ns" num="116">Lord, I give myself to You right now</fav>
+    <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+    <fav category="default" type="ns" num="186">Now the Lord is the Spirit&amp;mdash;that's how</fav>
+    <fav category="default" type="h" num="223">On the table of Thy love</fav>
+    <fav category="default" type="nt" num="643">Take time to behold Him</fav>
+    <fav category="default" type="h" num="6837">The Story of Faith</fav>
+    <fav category="default" type="ns" num="321">The Uniqueness of the Lord's Recovery</fav>
+    <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+    <fav category="default" type="h" num="1340b">Therefore with joy shall ye draw water (Alternate Tune)</fav>
+    <fav category="default" type="h" num="1333">What a happy day</fav>
+    <fav category="default" type="lb" num="66">What made You die for me</fav>
+    <fav category="default" type="ts" num="837">信的故事</fav>
+    <fav category="default" type="ts" num="216">喝！喫！看！</fav>
+    <fav category="default" type="ts" num="629">建造神的家</fav>
+    <fav category="default" type="ts" num="345">惟一最愛是你</fav>
+    <fav category="default" type="ts" num="463">成為聖別</fav>
+    <fav category="default" type="ts" num="930">日近一日</fav>
+    <fav category="default" type="ts" num="751">遇見你們</fav>
+  </favourites>
+</user>

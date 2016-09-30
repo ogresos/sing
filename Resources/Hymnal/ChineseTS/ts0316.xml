@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>恩主你是我至愛</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:316"/><english num="ns:118"/><french num="ns:118f"/><vsb num="172"/></numbers>
+  <melody>| 5. 4/ 3/ 1/ 2/ 3/ | 5_. - - - | 1. 2/ 3/ 4/ 5/ 6/ | 2 - - - (break) | 4. 3/ 2/ 7_./ 1/ 2/ | 5_. - - - | 7_.. 1/ 2/ 3/ 1/ 2/ | 1 - - - (break) | 5. 4/ 3/ 1/ 2/ 3/ | 5_. - - - | 1. 2/ 3/ 4/ 5/ 6/ | 2 - - - (break) | 4. 3/ 2/ 7_./ 1/ 2/ | 5_. - - - | 7_.. 1/ 2/ 3/ 1/ 2/ | 1 - - - (break) | (Chorus) ._1. 7/ 6/ 4#/ 5/ 6/ | 7. 5/ 2 - | 7b. 6/ 5/ 3/ 4/ 5/ | 6. 1/ 6b - (break) | 5. 4/ 3/ 1/ 2/ 3/ | 5 7b 6( 3) | 2/ 3/ 4/ 6/ 5/ 2/ 3 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>恩 主， 你 是 我 至 愛， 我 的 愛 情 都 歸 你， 當 你 愛 充 滿 我 心， 我 在 愛 裡 得 安 息。 主， 我 愛 你 的 自 己， 不 是 你 所 作 所 賜， 無 一 能 與 你 相 匹， 我 今 歡 樂 的 愛 你。 主， 我 曾 享 受 許 多 事 物， 但 我 現 今 歡 然 全 丟 棄； 我 不 再 愛 戀 別 的 事 物， 我 將 上 好 愛 情 歸 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">恩主，你是我至愛，
+我的愛情都歸你，
+當你愛充滿我心，
+我在愛裡得安息。
+主，我愛你的自己，
+不是你所作所賜，
+無一能與你相匹，
+我今歡樂的愛你。</stanza>
+	<stanza type="chorus" number="">主，我曾享受許多事物，
+但我現今歡然全丟棄；
+我不再愛戀別的事物，
+我將上好愛情歸你。</stanza>
+	<stanza type="verse" number="2">有何能使我眷戀，
+若非你作牠實際；
+我心單純的祈求，
+只望全人充滿你。
+恩主，你是我至愛，
+我的愛情都歸你，
+當你愛充滿我心，
+我在愛裡得安息。</stanza>
+  </lyrics>
+</hymn>

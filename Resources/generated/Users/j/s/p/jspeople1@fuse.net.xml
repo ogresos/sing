@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Carla</firstname>
+<lastname>Moore</lastname>
+<email>jspeople1@fuse.net</email>
+<password>$1$M1XicNSQ$KKWjPOkYyIED4GeLmRVfE0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>208.102.87.32</ipaddress>
+<createdate>2009-04-27 15:26:27</createdate>
+<lastupdateddate>2009-09-15 18:29:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="h" num="827">I have found life's Giver, and the Prince of Life</fav>
+    </favourites>
+</user>

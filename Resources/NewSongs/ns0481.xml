@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Highways to Zion</title>
+  <index>true</index>
+  <numbers><chinese num="ns:481c"/><english num="ns:481"/></numbers>
+  <category>Consecration&amp;mdash;Willing to Suffer for the Lord</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Wu Wei Chong 吳緯中">W. W. C.</author>
+    <composer biodate="" biolink="" fullname="Wu Wei Chong 吳緯中">W. W. C.</composer>
+  </creators>
+  <hymncode>3332166123212</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - G7 - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | Dm - - - | F - G7 - | C - - - | F - G7 - | C - - - | F - - - | G7 - - - | Em - - - | Am - - - | F - - - | Dm - - - | F - G7 - | C - - - ||</chords>
+  <melody>| (startrepeat) 3. 3/ 3/ 2/( 2/) 1/( | 1/) 6_..( 6_.) 6_./( 1/) | 2.(. 3/). 2. 1/( | 1/) 2.( 2) - (break) | 3. 4/ 5/ 3/( 3/) 2/( | 2/) 1.( 1) - | 2. 3/ 2. 1/( | 1/) 1.( 1) -  (break) | 4. 4/ 4/ 3/( 3/) 1/( | 1/) 2.( 2) - | 5. 6/ 5/ 3/( 3/) 2/( | 2/) 3.( 3) - (break) | 4. 3/ 2/ 1/( 1/) 3/( | 3/) 6_..( 6_.) 6_./( 1/) | (alt1) 2. 3/( 3/) 2/( 2/) 1/( | 1/) 1.( 1) - | (alt2) 2. 3/( 3/) 2/( 2/) 1/( (endrepeat) | 1/) 1. (Chorus) 1/ 2/ 3/ 1/ | 4 4 4/ 3/( 3/) 1/( | 1/) 2. 1/ 2/ 3/ 4/ | 5. 6/ 3. 2/( | 2/) 3.( 3) - (break) | 4/ 4/ 4/ 4/ 4/ 5/( 5/) 4/( | 4/) 2.( 2) 6_./ 1/ | 2. 3/ {2 2 3(} | 3/) 1.( 1) - ||</melody>
+  <layout>
+    <singingstanza end="3">We have not one re -- gret for tak -- [skip1] ing this way, Not a sin -- gle re -- gret, jour -- ney -- ing this day; Rough and wind -- ing ter -- rain, rocks and thorns can't dis -- suade, Nar -- row gate, nar -- row way, the cross -- 's wounds per -- vade. [skip5] Lord, once more I'd give my -- self un -- to Thee; Be the grace and will -- ing -- ness in me, Shine forth light and re -- al -- i -- ty And on Zi -- on's high -- ways lead me.</singingstanza>
+    <singingstanza2>2. With -- out an -- y re -- gret, our all we con -- se -- crate; Nev -- er an -- y re -- gret, our first love we waste. Though con -- strict -- ed the gate, on this way, Lord, You lead; Rough and nar -- row the way, com -- [skip5] pan -- ions com -- pass me.</singingstanza2>
+  </layout>
+  <music>
+      <midi location="ns" length="113">ns0481.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We have not one regret for taking this way,
+Not a single regret, journeying this day;
+Rough and winding terrain, rocks and thorns can't dissuade,
+Narrow gate, narrow way, the cross's wounds pervade.</stanza>
+    <stanza type="verse" number="2">Without any regret, our all we consecrate;
+Never any regret, our first love we waste.
+Though constricted the gate, on this way, Lord, You lead;
+Rough and narrow the way, companions compass me.</stanza>
+    <stanza type="chorus" number="">Lord, once more I'd give myself unto Thee;
+Be the grace and willingness in me,
+Shine forth light and reality
+And on Zion's highways lead me.</stanza>
+    <stanza type="verse" number="3">Still upright now we stand, no scent of smoke have we;
+Resolutely we stand, face set steadfastly.
+Giving up all the world, run to joy set before,
+Each step fills us with hope and glory more and more.</stanza>
+    <stanza type="verse" number="4">We stand boldly today, with pure heart testify,
+We stand boldly today, spirits are upright:
+I love Him, no regret: His life for me He gave;
+Faith grows more steadfast yet:
+He's ne'er my trust betrayed.</stanza>
+    <stanza type="chorus" number="">Lord, once more I'd give myself unto Thee;
+Be the grace and willingness in me,
+Shine forth light and reality
+And on Zion's highways lead me.</stanza>
+  </lyrics>
+</hymn>

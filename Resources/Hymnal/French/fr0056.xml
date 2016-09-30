@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>J'appartiens à Jésus</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;rachetés par le sang</category>
+  <numbers><dutch num="21"/><english num="306"/><french num="56"/><spanish num="149"/><tagalog num="306"/></numbers>
+  <creators>
+    <author biodate="1917-?" biolink="">Translated from M. Fraser</author>
+  </creators>
+  <music>
+    <midiref type="h" num="306"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">J'appartiens à Jésus,
+Je suis tout à Lui.
+Je Lui rends tout ce que j'ai,
+Tout ce que je suis.</stanza>
+    <stanza type="verse" number="2">J'appartiens à Jésus,
+Lui donne mon cœur
+Pour qu'Il règne dans ma vie,
+Qu'Il soit le Seigneur !</stanza>
+    <stanza type="verse" number="3">J'appartiens à Jésus,
+Mon âme est sauvée.
+Grâce au sang qu'Il a versé,
+Il m'a racheté.</stanza>
+    <stanza type="verse" number="4">J'appartiens à Jésus,
+Je vis par la foi.
+En Lui je suis crucifié,
+Il mourut pour moi.</stanza>
+    <stanza type="verse" number="5">J'appartiens à Jésus ;
+Quand je suis confus,
+Dans la brume ou dans la nuit,
+Il est mon salut.</stanza>
+    <stanza type="verse" number="6">J'appartiens à Jésus ;
+Quand je suis blessé,
+Il me porte avec amour
+En soignant mes plaies.</stanza>
+    <stanza type="verse" number="7">J'appartiens à Jésus,
+Puissant Rédempteur !
+De ce monde Il m'arracha,
+Il est mon Sauveur !</stanza>
+  </lyrics>
+</hymn>

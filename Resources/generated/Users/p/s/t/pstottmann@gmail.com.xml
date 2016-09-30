@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>peggy</firstname>
+  <lastname/>
+  <email>pstottmann@gmail.com</email>
+  <password>$2y$10$CCL01NIcgl4CO5TP17qOy.qhUAb/jqdZ501c3EBMGclot48CgcQhm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>162.254.121.2</ipaddress>
+  <createdate>2014-10-24 18:42:06</createdate>
+  <lastupdateddate>2014-10-24 23:39:39</lastupdateddate>
+  <lastlogindate>2014-10-24 23:35:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+  </favourites>
+</user>

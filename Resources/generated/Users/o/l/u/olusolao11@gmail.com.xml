@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Olusola</firstname>
+    <lastname></lastname>
+    <email>olusolao11@gmail.com</email>
+    <password>ktTIe2MHfpyOmPYVehTuvA%3D%3D</password>
+    <gender></gender>
+    <country>Belgium</country>
+    <ipaddress>109.132.80.43</ipaddress>
+    <createdate>2013-05-07 15:04:15</createdate>
+    <lastupdateddate>2013-05-10 05:06:15</lastupdateddate>
+    <lastlogindate>2013-05-10 05:06:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+        <fav category="default" type="h" num="990">The Great Physician now is near</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    </favourites>
+</user>

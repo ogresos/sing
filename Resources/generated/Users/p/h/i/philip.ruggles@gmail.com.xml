@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Philip</firstname>
+  <lastname/>
+  <email>philip.ruggles@gmail.com</email>
+  <password>$2y$10$YdzcX8vLZ9rTuqIBxTT40ebc1oLITmroW8XUBuGtf1P9dlzXAQBF2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.56.126.100</ipaddress>
+  <createdate>2015-06-11 01:56:52</createdate>
+  <lastupdateddate>2015-06-11 12:36:19</lastupdateddate>
+  <lastlogindate>2015-06-11 12:36:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

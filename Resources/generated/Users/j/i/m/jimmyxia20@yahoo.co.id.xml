@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>jimmy</firstname>
+    <lastname>ang</lastname>
+    <email>jimmyxia20@yahoo.co.id</email>
+    <password>$1$US3Z8eM5$bodCpx5.filvLzgvFVhq00</password>
+    <gender>M</gender>
+    <country>Indonesia</country>
+    <ipaddress>203.128.81.148</ipaddress>
+    <createdate>2009-07-28 02:00:14</createdate>
+    <lastupdateddate>2011-09-15 21:12:31</lastupdateddate>
+    <lastlogindate>2011-09-15 21:12:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+        <fav category="default" type="ns" num="19">Let me love and not be requited</fav>
+        <fav category="default" type="lb" num="27">Let's go on</fav>
+        <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    </favourites>
+</user>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Aleluya, sa lupain</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG MABUTING LUPAIN</category>
+  <numbers><cebuano num="1165"/><chinese num="ts:245"/><english num="1165"/><german num="1165"/><russian num="523"/><tagalog num="1165"/></numbers>
+  <melody>| 0 - 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 0/ 5/ | 5./ 3// 6. 5/ | 5./ 4// 4 0/ 4/ | 4./ 2// 5. 4/ (break) | 4./ 3// 3 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. | 2./ 1// 1 0 |</melody>
+  <music>
+	<midiref type="h" num="1165"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Aleluya, sa lupain!
+Si Kristo'y ating lupain!
+Ang Panginoo'y purihin!
+Si Kristo'y ating lupain!</stanza>
+	<stanza type="chorus" number="">Pulot-pukyutan, gatas Siya;
+Butil, langis, at alak pa.
+Tayo ay nasa lupain!
+Aleluya sa lupain!</stanza>
+	<stanza type="verse" number="2">Dito ay maraming yaman:
+Trigo, at mga ubasan,
+Mga bukal umaagos,
+Tinapay na di maubos!</stanza>
+	<stanza type="chorus" number="">Kasaganaan ng bunga
+Sa araw-araw gumawa;
+Sa pulong ating dadalhin
+Kristo'y ating ihahain!</stanza>
+  </lyrics>
+</hymn>

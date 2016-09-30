@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I do not know where they have laid Him</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:336"/><english num="lb:51"/><lsmyp num="175"/><vsb num="161"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5124321233</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | F/A - - - | G/B - - - | C - - - | C - G7 - | C - - - | C - - - | Dm - - - | Dm - - - | G - - - | F/A - - - | G/B - - - | C - - - | Am - - - | Em - - - | F - - - | C - - - | E7/B - E7 - | Am - C/G - | F - - - | Dm - - - | G - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/)( 3/) 3 - | 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - (break) | 0/ 6_./ 2/ 3/ 5/ 4/ 3/ 2/ | 7_. - - 7_. | 1 - - - | 2 - - - | 1 - - - (break) | (Verse_2) 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 3 - | 0/ 5_./ 1/ 2/ 4/ 3/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - (break) | 0/ 6_./ 2/ 3/ 5/ 4/ 3/ 2/ | 7_. - - 7_. | 1 - - - | 2 - - - | 3 - - - (break) | (Chorus) 0 ._1/ 7/ 6 ._1 | 7.( 5/) 3 - | 0 6/ 5/ 4 5/ 6/ | 5 - - - | 0 3/ 2/ 7_. 1/ 2/ | 1. 2/ 3 1 | 6 - - - | 4 - - - | 2 - - - | 0 - 7_./ 1/( 1/) 2/ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I do not know where they have laid Him. The stone is tak -- en a -- way from the tomb. Oh! They have tak -- en Him a -- way! Oh! Where is He? Dis -- ci -- ples came and saw the emp -- ty tomb But went a -- way so soon to their own homes. They're sa -- tis -- fied with just the facts. But where's my Lord? Where is He, my Je -- sus? Where is He, my Be -- loved? Where is He Whom my soul doth love? Je -- sus, my Love, I just want You.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>3</columns>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="group">nt_john20-1-17.xml</link>
+    <link type="ref">John 20:1-17</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="90">lb51.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I do not know where they have laid Him.
+The stone is taken away from the tomb.
+Oh! They have taken Him away!
+Oh! Where is He?</stanza>
+    <stanza type="verse" number="2">Disciples came and saw the empty tomb
+But went away so soon to their own homes.
+They're satisfied with just the facts.
+But where's my Lord?</stanza>
+    <stanza type="chorus" number="">Where is He, my Jesus?
+Where is He, my Beloved?
+Where is He Whom my soul doth love?
+Jesus, my Love, I just want You.</stanza>
+    <stanza type="verse" number="3">My heart is broken from my deepest need.
+Don't ask me, angels, why I'm weeping.
+Nothing but Jesus fills my inner being.
+Oh! Where's my Love?</stanza>
+    <stanza type="verse" number="4">Someone is standing right behind me.
+It's just the gardener I can barely see.
+Sir, if you carried Him away...
+Oh! Where is He?</stanza>
+    <stanza type="chorus" number="">Where is He my Jesus?
+Where is He my Beloved?
+Tell me where you have laid Him
+And I'll carry Him away, I'll carry Him away.</stanza>
+    <stanza type="verse" number="5">And then I heard a voice say, "Mary."
+That sweetest voice that penetrated me.
+It is the voice of my Beloved,
+Jesus, my Love.</stanza>
+    <stanza type="chorus" number="">I have found my Jesus!
+I have found my Beloved!
+I have found Whom my soul doth love,
+Jesus, my love, I just love You!</stanza>
+    <stanza type="verse" number="6">But Jesus told me not to touch Him yet.
+He must ascend first to the Father
+And to My Father and your Father
+To My God and your God.</stanza>
+    <stanza type="chorus" number="">Go and tell My brothers,
+I ascend to the Father
+To My Father and your Father,
+And My God and your God, go tell My brothers.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Wu</firstname>
+<lastname>Yu-Tang</lastname>
+<email>cubix0214@hotmail.com</email>
+<password>$1$bUnuvDc7$s7MMJURe1HHKGTG./18yn.</password>
+<gender>F</gender>
+<country>Taiwan</country>
+<ipaddress>59.116.163.242</ipaddress>
+<createdate>2008-07-26 01:43:01</createdate>
+<lastupdateddate>2009-09-15 18:23:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="h" num="578">My will is weak, my strength is frail</fav>
+    </favourites>
+</user>

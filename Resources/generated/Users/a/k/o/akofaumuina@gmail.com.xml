@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ako</firstname>
+  <lastname>Faumuina</lastname>
+  <email>akofaumuina@gmail.com</email>
+  <password>$2y$10$1ndlX7GKTM0iycY5txUXWuhgXmt1IhohLYUCNzRj9vhGyOcCc7LnC</password>
+  <gender/>
+  <country/>
+  <ipaddress>120.136.55.246</ipaddress>
+  <createdate>2016-01-04 00:19:58</createdate>
+  <lastupdateddate>2016-01-04 00:36:16</lastupdateddate>
+  <lastlogindate>2016-01-04 00:21:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="956">Soon our Lord will come, the day is drawing nigh</fav>
+  </favourites>
+</user>

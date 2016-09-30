@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sov'reign grace o'er sin abounding</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved by Grace</category>
+  <creators>
+    <author biodate="" biolink="">John Kent</author>
+    <composer biodate="1816-1868" biolink="">William Batchelder Bradbury</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>33323451532346543</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | Em - Am - | Dm/F - G7 - | C - F/C - | C - G/D - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - G/F - | Em - Am - | Dm/F - G7 - | C - C7/E - | F - - - | C/G - Am - | F - G7 - | C F/C C 0 |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | C - G7 - | C F C 0 |</guitarChords>
+  <melody>| 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 0 (break) | 3 3 3/ 2/ 3/ 4/ | 5( ._1) 5( 3) | 2 3 4/ 6/ 5/ 4/ | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 3 - 3/ 3/ | 2 6 5 4 | 3 - - 5/ 5/ (break) | 6 ._1 - 7/ 6/ | 5 (.._1 - 1/ 2/ | 3 5 4. 2/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Sov -- 'reign grace o'er sin a -- bound -- ing, Ran -- somed souls, the tid -- ings swell; 'Tis a deep that knows no sound -- ing, Who its breadth or length can tell? On its glo -- ries, on its glo -- ries, Let my soul for -- ev -- er dwell! On its glo -- ries, on its glo -- ries, Let my soul for -- ev -- er dwell!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj010.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="35">e0314_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sov'reign grace o'er sin abounding,
+  Ransomed souls, the tidings swell;
+'Tis a deep that knows no sounding,
+  Who its breadth or length can tell?
+On its glories, on its glories,
+  Let my soul forever dwell!
+On its glories, on its glories,
+  Let my soul forever dwell!</stanza>
+    <stanza type="verse" number="2">What from Christ the soul can sever,
+  Bound by everlasting bands?
+Once in Him, in Him forever,
+  Thus th' eternal cov'nant stands.
+None shall pluck thee, none shall pluck thee
+  From the Savior's mighty hands!
+None shall pluck thee, none shall pluck thee
+  From the Savior's mighty hands!</stanza>
+    <stanza type="verse" number="3">Heirs of God, joint-heirs with Jesus,
+  Long ere time its race begun;
+To His name eternal praises,
+  O what wonders love has done!
+One with Jesus, one with Jesus,
+  By eternal union one.
+One with Jesus, one with Jesus,
+  By eternal union one.</stanza>
+    <stanza type="verse" number="4">On such love, my soul, still ponder,
+  Love, so great, so rich, so free;
+Say, while lost in holy wonder,
+  Why, O Lord, such love to me?
+Hallelujah! Hallelujah!
+  Grace shall reign eternally!
+Hallelujah! Hallelujah!
+  Grace shall reign eternally!</stanza>
+  </lyrics>
+</hymn>

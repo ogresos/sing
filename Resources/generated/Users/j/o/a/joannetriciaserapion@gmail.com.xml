@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joanne Tricia</firstname>
+  <lastname>Serapion</lastname>
+  <email>joannetriciaserapion@gmail.com</email>
+  <password>$2y$10$fAYHFu5XXE3ACDj.39dsTOUqobJ7KvhPu1k3EmzY1rmDhWhXLYoki</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>121.1.38.135</ipaddress>
+  <createdate>2015-09-12 02:57:23</createdate>
+  <lastupdateddate>2015-09-12 02:59:14</lastupdateddate>
+  <lastlogindate>2015-09-12 02:58:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+  </favourites>
+</user>

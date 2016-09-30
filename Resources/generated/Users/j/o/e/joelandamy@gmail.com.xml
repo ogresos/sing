@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Joel</firstname>
+    <lastname>Hernandez</lastname>
+    <email>joelandamy@gmail.com</email>
+    <password>YUSKz7Mo8VwaScAZ5DZ%2Fyg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>64.22.206.26</ipaddress>
+    <createdate>2009-11-05 17:50:42</createdate>
+    <lastupdateddate>2009-11-05 18:04:16</lastupdateddate>
+    <lastlogindate>2009-11-05 17:51:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="434">Lord, Thou hast won, at length I yield</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

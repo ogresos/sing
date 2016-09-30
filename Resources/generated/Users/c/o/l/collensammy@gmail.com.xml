@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samuel</firstname>
+  <lastname>Collen</lastname>
+  <email>collensammy@gmail.com</email>
+  <password>$2y$10$v.SP55z0S7CpGHkmRkTMAOaP3tCdtwCYYG7Dh1PWn4BK/3k4MKOFW</password>
+  <gender/>
+  <country>in</country>
+  <ipaddress>180.215.123.171</ipaddress>
+  <createdate>2015-12-31 08:10:01</createdate>
+  <lastupdateddate>2015-12-31 08:11:20</lastupdateddate>
+  <lastlogindate>2015-12-31 08:11:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

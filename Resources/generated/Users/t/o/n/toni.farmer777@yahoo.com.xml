@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Toni K.</firstname>
+  <lastname>Farmer</lastname>
+  <email>toni.farmer777@yahoo.com</email>
+  <password>$2y$10$UV8BrbVarTJ5AecIS96mrOCOj58XTL80y3eA/XmMilreLqUw2DaMS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.20.65.60</ipaddress>
+  <createdate>2016-05-24 02:32:43</createdate>
+  <lastupdateddate>2016-05-24 02:37:03</lastupdateddate>
+  <lastlogindate>2016-05-24 02:33:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

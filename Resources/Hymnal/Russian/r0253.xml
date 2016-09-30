@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Вот, вытесняя грех</title>
+  <index>true</index>
+  <category>УВЕРЕННОСТЬ И РАДОСТЬ СПАСЕНИЯ&amp;mdash;СПАСЕНИЕ БЛАГОДАТЬЮ</category>
+  <numbers><cebuano num="312"/><chinese num="248"/><english num="312"/><korean num="248"/><russian num="253"/><tagalog num="312"/></numbers>
+  <creators>
+    <author biodate="1702-1751" biolink="">Translated from Philip Doddridge</author>
+    <author biodate="1740-1778" biolink="">Translated from Augustus Montague Toplady, vv. 2, 4, 6</author>
+  </creators>
+  <melody>| 0 - 5 | 5. 4#/ 6/ 5/ | 3 - 1 | 2. 3/ 4/ 5/ (break) | 3 - 5 | 5. 5/ 4/ 3/ | 6/ 7/ (.._1 6 | 5. 1/ 2/ 3/ | 1 - 0 (break) | (Chorus) ._1. ._1/ ._2/ 7/ | ._1 - 0 | 6. ._1/ 7/ 6/ | 5 - 0 (break) | 5. 5/ 4/ 3/ | 6/ 7/ (.._1 6 | 5. 1/ 2/ 3/ | 1 - 0 |</melody>
+  <music>
+    <midiref type="h" num="312"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Вот, вытесняя грех,
+Восходит благодать
+И в духе царствует моём,
+Чтоб от греха спасать.</stanza>
+    <stanza type="chorus" number="">Благодать Христа
+Вседостаточна:
+Сам Христос живёт во мне;
+Им наслаждаюсь я.</stanza>
+    <stanza type="verse" number="2">Идти Его путём
+Мне сил она даёт;
+Снабжение обильное
+Мне вовремя несёт.</stanza>
+    <stanza type="chorus" number="">Благодать Христа
+Вседостаточна:
+Сам Христос живёт во мне;
+Им наслаждаюсь я.</stanza>
+    <stanza type="verse" number="3">Что выше может быть?
+В ней к людям Бог пришёл,
+В ней Бог явился во плоти,
+В ней Бога я обрёл.</stanza>
+    <stanza type="chorus" number="">Я есть то, что есть,
+Благодатью той.
+Явлена она во мне –
+Удел навеки мой.</stanza>
+  </lyrics>
+</hymn>

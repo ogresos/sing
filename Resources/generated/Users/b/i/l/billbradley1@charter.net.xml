@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>William</firstname>
+    <lastname>Bradley</lastname>
+    <email>billbradley1@charter.net</email>
+    <password>cfNeH%2FYWJ%2FmW%2Fw0HBv96iA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>97.89.150.50</ipaddress>
+    <createdate>2011-09-26 20:26:29</createdate>
+    <lastupdateddate>2012-12-29 15:13:22</lastupdateddate>
+    <lastlogindate>2012-12-29 15:08:21</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    </favourites>
+</user>

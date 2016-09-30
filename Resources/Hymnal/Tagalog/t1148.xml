@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Halina't kumain," tawag ni Hesus</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG PAGKAIN AT INUMIN</category>
+  <numbers><cebuano num="1148"/><chinese num="ts:215"/><english num="1148"/><german num="1148"/><korean num="1019"/><portuguese num="248"/><russian num="367"/><spanish num="228"/><tagalog num="1148"/></numbers>
+  <melody>| 0 - - 5/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 4/ 6/ | 5 - - 5/ 5/ | 6./ 6// 6/ 6/ 6/ 6/ 7/ ._1/ (break) | ._2 - - ._1/ ._2/ | ._3./ ._3// ._3/ ._2/ ._1 7/ ._1/ (break) | ._2./ ._1// ._1/ 7/ 6 6/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 7/ ._2/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">"Halina't kumain," tawag ni Hesus.
+Kainin at inumin Siyang palagi!
+Siya ang ating pagkain,
+Tanging Siya'ng makabusog.
+"Halina't kumain," tawag ni Hesus.</stanza>
+	<stanza type="verse" number="2">"Halina't kumain," tawag ni Hesus.
+Kainin at inumin Siyang palagi!
+Siya'y naging ating buhay
+Na pumupuspos sa 'tin.
+"Halina't kumain," tawag ni Hesus.</stanza>
+  </lyrics>
+</hymn>

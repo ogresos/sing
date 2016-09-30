@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Formoso Cristo</title>
+  <index>true</index>
+  <category>Sua Beleza</category>
+  <numbers><cebuano num="175"/><chinese num="143"/><english num="175"/><german num="175"/><korean num="143"/><portuguese num="85"/><russian num="36"/><spanish num="83"/><tagalog num="175"/></numbers>
+  <creators>
+	<author biodate="17th Century" biolink="">Translated from German</author>
+  </creators>
+  <melody>| 1 - 1 1 | 2( 7_.) 1 - | 3. 3/ 3 3 | 4( 2) 3 - | 5 - ._1 6 | 5 - 4( 3) | 4 - 3 - | 2 - - - (break) | 5 - 6 5 | 5( 3) 4 - | 4 - 5 4 | 4( 2) 3 3 | 3 3 5 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="175"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Formoso Cristo,
+Rei do céu e terra,
+Maravilhoso Homem-Deus,
+Desejo honrar-Te
+E adorar-Te,
+Coroa, Glória e Gozo meus.</stanza>
+	<stanza type="verse" number="2">Quão lindos prados,
+Bosques adornados
+Em trajes mui primaveris;
+És bem mais belo,
+Puro e singelo,
+Quem ao aflito faz feliz.</stanza>
+	<stanza type="verse" number="3">Sol, quão garboso,
+O luar, formoso,
+E belos astros a brilhar:
+És mais luzente,
+Mais transcendente,
+Excedes toda a luz solar.</stanza>
+	<stanza type="verse" number="4">Da natureza
+Toda a beleza
+Em Ti, Jesus, se pode ver;
+Quem mais chegado,
+Belo ou amado
+Que Tu, meu Salvador, vou ter?</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌這名超乎萬名</title>
+  <index>true</index>
+  <category>讚美主－祂的名</category>
+  <numbers><cebuano num="72"/><chinese num="69"/><english num="72"/><korean num="69"/><russian num="343"/><tagalog num="72"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 0 - - - 5_. - | 1 1 2 - 2 - | 3 2 1 - 2 - | 3 3 4 - 3 - | 2 - - - 5 - (break) | 5 3 3 - 1 - | 1 6_. 6_. - 1( 6_.) | 5_. 1 1 - 2 - | 1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>耶 穌 這 名 超 乎 萬 名， 天 上、 地 上、 陰 間： 天 使 和 人 無 不 尊 敬， 魔 鬼 懼 怕、 逃 竄。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="72"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌這名超乎萬名，
+天上、地上、陰間：
+天使和人無不尊敬，
+魔鬼懼怕、逃竄。</stanza>
+	<stanza type="verse" number="2">耶穌這名可親、可愛，
+賜給罪人之名；
+定罪、懼怕，為我趕開，
+帶來天上安寧。</stanza>
+	<stanza type="verse" number="3">耶穌打碎罪囚枷鎖，
+打傷撒但的頭；
+祂用大能吞滅軟弱，
+祂用生命拯救。</stanza>
+	<stanza type="verse" number="4">但願世人都能嘗到
+祂的豐富恩典！
+都能享受祂的懷抱，
+投在祂的胸間。</stanza>
+	<stanza type="verse" number="5">耶穌這名永遠可靠，
+彀我度過今生；
+直到永世可愛、可寶，
+永遠是我見證。</stanza>
+  </lyrics>
+</hymn>

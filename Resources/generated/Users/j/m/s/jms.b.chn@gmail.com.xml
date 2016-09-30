@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>james</firstname>
+<lastname>chen</lastname>
+<email>jms.b.chn@gmail.com</email>
+<password>$1$8BjkDGBZ$svvlG5hMkEHCnXOJOcsw20</password>
+<gender>M</gender>
+<country>Canada</country>
+<ipaddress>99.227.6.28</ipaddress>
+<createdate>2008-07-26 01:43:07</createdate>
+<lastupdateddate>2009-09-15 18:22:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>歡迎你來你來</title>
+  <index>true</index>
+  <category>福音－勸導</category>
+  <numbers><chinese num="716"/><english num="8716"/></numbers>
+  <melody>| 0 - - 3./ 4// | 3 2 2 2./ 3// | 2 1 1 1./ 7_.// | 6_. 6_. 6_. 1./( 6_.//) (break) | 5_. - - 3./ 4// | 3 2 2 2./ 3// | 2 1 1 2/ 3/ | 4 4 7_. 7_. (break) | 1 - 0 (Chorus) 3./ 4// | 5 5/ 0/ 3 3/ 0/ | 2/ 1/ 7_./ 6_./ 5_. 1/ 7_./ | 6_. 1 4 3 (break) | 2 - 0 3./ 4// | 5 5/ 0/ 3 3/ 0/ | 2/ 1/ 7_./ 6_./ (.4 3./ 2// | 1 1 3. 2/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>耶 穌 今 留 步， 要 等 候 你 來， 祂 已 等 候 好 久 長； 祂 這 樣 等 候， 是 望 你 悔 改， 得 享 永 生 免 滅 亡。 歡 迎 你 來， 你 來， 無 論 甚 麼 人， 這 是 救 主 的 呼 召； 祂 能、 祂 肯、 祂 等， 等 著 施 救 恩， 不 過 只 要 你 信 靠。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="387"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌今留步，
+要等候你來，
+祂已等候好久長；
+祂這樣等候，
+是望你悔改，
+得享永生免滅亡。</stanza>
+	<stanza type="chorus" number="">歡迎你來，你來，
+無論甚麼人，
+這是救主的呼召；
+祂能、祂肯、祂等，
+等著施救恩，
+不過只要你信靠。</stanza>
+	<stanza type="verse" number="2">你雖然不羈，
+流蕩已經遠，
+沉溺罪中已經深，
+祂仍然等候，
+忍耐著申勸，
+要得你這疲倦人。</stanza>
+	<stanza type="verse" number="3">你雖已多次拒祂的恩召，
+多次使祂空眷顧，
+祂的愛不因你冷落生惱，
+今又向你來催促。</stanza>
+	<stanza type="verse" number="4">你應當服降，
+服降這個愛，
+耶穌現在等候你；
+祂既仍招呼：
+『請你就我來！』
+你當回應：『我願意。』</stanza>
+  </lyrics>
+</hymn>

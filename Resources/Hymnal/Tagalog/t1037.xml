@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Iskarlata man sala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGHIKAYAT</category>
+  <numbers><cebuano num="1037"/><chinese num="699"/><english num="1037"/><korean num="699"/><tagalog num="1037"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1037"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Iskarlata man sala,
+Simputi ng niebe nga;
+Iskarlata man sala,
+Simputi ng niebe nga;
+Salang napakapula,
+Kagaya'y lana;"
+"Iskarlata man sala,
+Simputi ng niebe nga;
+Iskarlata man sala,
+Simputi ng niebe nga."</stanza>
+    <stanza type="verse" number="2">Tinig Niya'y nagsumamo,
+Bumalik ka sa Diyos mo!
+Tinig Niya'y nagsumamo,
+Bumalik ka sa Diyos mo!
+Anong kamangha-mangha,
+Pag-ibig, awa;
+Pakinggan Kanyang tinig,
+Sa Diyos ika'y bumalik,
+Bumalik ka sa iyong Diyos!
+Bumalik ka sa iyong Diyos!</stanza>
+    <stanza type="verse" number="3">Sala'y patatawarin,
+Di na gugunitain;
+Sala'y patatawarin,
+Di na gugunitain;
+"Sa 'Kin tumingin kayo,"
+Sabi ng Diyos n'yo!
+Sala'y patatawarin,
+Di na gugunitain,
+Kanya ngang lilimutin,
+Di na aalal'hanin.</stanza>
+  </lyrics>
+</hymn>

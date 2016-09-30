@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mario</firstname>
+  <lastname>Fernandes</lastname>
+  <email>mariofercde@gmail.com</email>
+  <password>$2y$10$pEzryv5Wc2mJn5ORBzS86.R8JEMYSCkPYM8iJnc2geWNX6Rn6gway</password>
+  <gender/>
+  <country/>
+  <ipaddress>181.40.90.246</ipaddress>
+  <createdate>2015-07-01 18:28:22</createdate>
+  <lastupdateddate>2015-07-01 18:29:19</lastupdateddate>
+  <lastlogindate>2015-07-01 18:29:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

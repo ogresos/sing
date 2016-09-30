@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Rebeca</firstname>
+    <lastname>cabanillas</lastname>
+    <email>cabanillas.rebeca@gmail.com</email>
+    <password>$1$mQJ5ORYE$EIHZ1MqXgbU2d7wcsAPwz/</password>
+    <gender>F</gender>
+    <country>United States</country>
+    <ipaddress>76.214.4.81</ipaddress>
+    <createdate>2014-06-03 01:39:45</createdate>
+    <lastupdateddate>2014-06-03 01:39:45</lastupdateddate>
+    <lastlogindate>2014-06-03 01:39:45</lastlogindate>
+    <failedlogincount>1</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+    </favourites>
+</user>

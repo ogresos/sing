@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Kofi</firstname>
+    <lastname>Peters</lastname>
+    <email>danieldike94@yahoo.com</email>
+    <password>IV9KJTZ60pzEd1XKv6Dmwg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>98.230.141.242</ipaddress>
+    <createdate>2010-09-24 09:45:02</createdate>
+    <lastupdateddate>2011-02-21 17:21:09</lastupdateddate>
+    <lastlogindate>2011-02-21 17:21:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1198">A mighty flowing-out is God</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+        <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+        <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+    </favourites>
+</user>

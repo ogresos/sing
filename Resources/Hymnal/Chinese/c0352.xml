@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們雖然時常搖動</title>
+  <index>true</index>
+  <category>奉獻－回歸轉主</category>
+  <numbers><chinese num="352"/><english num="8352"/></numbers>
+  <creators>
+    <author biodate="1866-1932" biolink="">Translated from Annie Johnson Flint</author>
+  </creators>
+  <melody>| 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 4 - 3( 2) | 1 - 7_.( 1) | 2 - - - (break) | 1 - 1 2 | 3 - 2( 3) | 4 - 3( 2) | 3 - - - (break) | 3 - 3 3 | 2 - 1 - | 2 - 3( 2) | 1 - - - |</melody>
+  <layout>
+	<singingstanza>我 們 雖 然 時 常 搖 動， 但 祂 依 然 歷 久 不 變； 祂 的 應 許 無 一 落 空， 天 地 沒 有 那 樣 貞 堅。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="488"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們雖然時常搖動，
+但祂依然歷久不變；
+祂的應許無一落空，
+天地沒有那樣貞堅。</stanza>
+	<stanza type="verse" number="2">我們雖然二三其心，
+但祂不肯撇棄我們；
+雖受冷落，仍要親近，
+地上朋友無祂這真！</stanza>
+	<stanza type="verse" number="3">祂永不肯辜負我們，
+所有信託祂都盡力；
+因為祂既愛了我們，
+就愛我們一直到底。</stanza>
+	<stanza type="verse" number="4">到底！我們對祂無良，
+忘祂，傷祂，暗中心變；
+祂外，我們另事偶像，
+心裡也不抱歉半點！</stanza>
+	<stanza type="verse" number="5">到這偶像傾倒絕跡，
+不禁悲傷，又來尋求
+我們從前所辜負的，
+這位始終如一的友！</stanza>
+	<stanza type="verse" number="6">祂又收留安慰我們，
+並引我們親近自己，
+一若毫無其事發生，
+並愛我們一直到底。</stanza>
+	<stanza type="verse" number="7">哦主，我們對著這愛，
+不能不發高聲讚美；
+比死堅強，比水忍耐，
+我們心融，只有感佩。</stanza>
+  </lyrics>
+</hymn>

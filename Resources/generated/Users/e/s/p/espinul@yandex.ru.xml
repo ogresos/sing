@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elena</firstname>
+  <lastname/>
+  <email>espinul@yandex.ru</email>
+  <password>$2y$10$xGnzQggi07PK9ZwpLMkOuupkc680MzjW0ZUNx5P7Dg45mfmZALxhe</password>
+  <gender/>
+  <country>ua</country>
+  <ipaddress>46.211.115.175</ipaddress>
+  <createdate>2015-04-24 10:01:29</createdate>
+  <lastupdateddate>2015-04-24 10:44:01</lastupdateddate>
+  <lastlogindate>2015-04-24 10:03:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1147">Christ is our manna true</fav>
+  </favourites>
+</user>

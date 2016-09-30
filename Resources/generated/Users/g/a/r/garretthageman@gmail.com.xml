@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Garrett</firstname>
+<lastname>Hageman</lastname>
+<email>garretthageman@gmail.com</email>
+<password>$1$5.b26CKx$sbuiUCrQ/nHko15XDqYD9/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>66.27.215.55</ipaddress>
+<createdate>2009-03-28 13:18:12</createdate>
+<lastupdateddate>2009-09-15 18:29:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+        <fav category="default" type="ns" num="303">Our burnt offering</fav>
+    </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O l'walhati, anong buhay</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;BUHAY</category>
+  <numbers><chinese num="694"/><english num="1015"/><korean num="694"/><portuguese num="453"/><tagalog num="1015"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">O l'walhati, anong buhay
+Ang aking natanggap!
+Kadiliman, kamatayan,
+At kapangyarihan nitong kasalanan
+Itinaboy nang lubusan!</stanza>
+  </lyrics>
+</hymn>

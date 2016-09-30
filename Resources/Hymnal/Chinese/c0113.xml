@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>何等權能耶穌尊名</title>
+  <index>true</index>
+  <category>讚美主－祂的高舉</category>
+  <numbers><cebuano num="138"/><chinese num="113*"/><english num="138*"/><korean num="113*"/><russian num="304"/><tagalog num="138"/></numbers>
+  <creators>
+	<author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 | 1 - - 2 (break) | 3 2 1 3 | 5/( 4/) 3/( 2/) 3 5 | 5 - 5 - | 6 - 5( 4#) | 5 - - 3 (break) | 5 3 1 3 | 2/( 1/) 2/( 3/) 2 1 | 5 - 4 - | 3.( 4/ 2) 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>何 等 權 能！ 耶 穌 尊 名！ 天 使 全 都 俯 伏， 獻 上 冠 冕， 同 心 尊 敬 祂 作 萬 有 之 主， 獻 上 冠 冕， 同 心 尊 敬 祂 作 萬 有 之 主。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="24"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何等權能！耶穌尊名！
+天使全都俯伏，
+獻上冠冕，同心尊敬
+祂作萬有之主，
+獻上冠冕，同心尊敬
+祂作萬有之主。</stanza>
+	<stanza type="verse" number="2">你們歷代殉道眾聖，
+要從祭壇歡呼，
+同聲高舉耶西的根，
+祂是萬有之主。</stanza>
+	<stanza type="verse" number="3">你們被贖亞當後代，
+出身『墮落』聖徒，
+蒙恩得救，應當敬拜
+祂作萬有之主。</stanza>
+	<stanza type="verse" number="4">罪人，你心永不能忘
+祂的苦膽、酸醋，
+今當到祂面前瞻望
+祂這萬有之主。</stanza>
+	<stanza type="verse" number="5">但願地上萬族萬民
+都向救主歡呼，
+榮耀、尊貴，都歸祂名，
+祂是萬有之主。</stanza>
+	<stanza type="verse" number="6">億萬群眾歌聲雷動，
+我也一同俯伏，
+直到永遠敬拜稱頌
+祂作萬有之主。</stanza>
+  </lyrics>
+</hymn>

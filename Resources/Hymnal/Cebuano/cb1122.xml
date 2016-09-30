@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Pitong Espiritu's" Dios&amp;mdash</title>
+  <index>true</index>
+  <category>KAHUPNGANAN SA ESPIRITU&amp;mdash;ANG PITO KA ESPIRITU</category>
+  <numbers><cebuano num="1122"/><chinese num="ts:102"/><english num="1122"/><french num="51"/><german num="1122"/><korean num="814"/><russian num="211"/><spanish num="136"/><tagalog num="1122"/></numbers>
+  <melody>| 0 - 5_./ 5_./ | 1. 7_./ 2/ 1/ | 3 - 3/ 4/ | 2. 5_./ 2/ 3/ | 1 - 5_./ 5_./ (break) | 1. 7_./ 2/ 1/ | 3 - 3/ 3/ | 2. 2/ 3/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | 6. 5/ 4/ 3/ | 4 - 4/ 4/ | 5. 4/ 3/ 2/ (break) | 3 - 5( | 5/) 4/ 3/ 2/ 1/ 7_./ | 6_. - 5_./ 1/ | 1. 7_./ 2/ 1/ | 3 - - (break) | 5/ 4.( 4) | 4/ 3.( 3) | 3/ 2/ 1#/ 2/ (.4/ 3/ | 1 - 0 |</melody>
+  <notes>Bugna 1:4; 4:5; 5:6</notes>
+  <music>
+	<midiref type="h" num="262"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">"Pitong Espiritu's" Dios&amp;mdash;
+Nausab nang panahon
+Gikan's panahon's Anak
+Ngadto's Espiritu na.</stanza>
+	<stanza type="chorus" number="">O pitong Espiritu,
+Pahiuli humana!
+Sunoga, susiha mi,
+Alang ming tanan Nimo.
+Susiha na,
+Alang ming tanan Nimo!</stanza>
+	<stanza type="verse" number="2">Pito ka pilo karon
+Tungod's pagkapatay ta,
+Aron kita buhion,
+Mosunog, mosusi S'ya.</stanza>
+	<stanza type="verse" number="3">Esp'ritu gipakusgan
+Sa pito ka pilo gyud,
+Aron iglesia karon
+Iyang masangkapan gyud.</stanza>
+	<stanza type="verse" number="4">Pitong Esp'ritu karon
+Pitong suga's kalayo,
+Di motudlo&amp;mdash;mosunog,
+Magtagbo's tinguha's Dios!</stanza>
+	<stanza type="verse" number="5">Pitong Esp'ritu karon,
+Nagsusing mga mata.
+Magbutyag sa iglesia,
+Tanan putlion Niya.</stanza>
+	<stanza type="verse" number="6">Pitong Esp'ritu karon
+Alang's mga iglesia;
+Pa'muslan unta kini's
+Tanang naa's iglesia.</stanza>
+  </lyrics>
+</hymn>

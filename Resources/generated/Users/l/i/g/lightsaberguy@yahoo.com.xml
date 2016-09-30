@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dan</firstname>
+  <lastname/>
+  <email>lightsaberguy@yahoo.com</email>
+  <password>$2y$10$8zCK52.DeczQNDutx7cbc.CMhIQqWfrRQrxCB0dL2gMwqOSDsR73u</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.14.120.237</ipaddress>
+  <createdate>2016-05-30 05:20:19</createdate>
+  <lastupdateddate>2016-05-30 15:40:46</lastupdateddate>
+  <lastlogindate>2016-05-30 05:20:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="108">Man of Sorrows, what a name</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+  </favourites>
+</user>

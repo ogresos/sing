@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀榮耀榮耀</title>
+  <index>true</index>
+  <category>頌讚三一神－祂的啟示</category>
+  <numbers><chinese num="2"/><english num="2"/><korean num="2"/><tagalog num="2"/></numbers>
+  <creators>
+    <author biodate="1904-1987" biolink="">Translated from Stanley McCallum</author>
+  </creators>
+  <melody>| 5_. 5_. 1 2 | 3 - 2 - | 1. 2/ 3 5 | 3 - 2 - (break) | 4 4 1 2 | 3 - 6_. - | 7_. 1 2 3 | 3 - 4# - | 5 - - - (break) | 5_. 5_. 1 2 | 3 - 2 - | 5. 6/ 5 4 | 3 - 2 - (break) | 3 - 5 3 | 1 2 4 2 | 1 - 7_. - | 1 - - - |</melody>
+  <layout>
+	<singingstanza>榮 耀、 榮 耀、 榮 耀、 讚 美、 崇 敬、 愛 戴！ 聽 哪， 頌 讚 聲 浪， 從 永 世 一 直 澎 湃！ 聖 父、 聖 子、 聖 靈－ 神， 已 啟 示 出 來， 人 人 都 當 向 祂 俯 伏 敬 拜！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="2"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">榮耀、榮耀、榮耀、
+讚美、崇敬、愛戴！
+聽哪，頌讚聲浪，
+從永世一直澎湃！
+聖父、聖子、聖靈－
+神，已啟示出來，
+人人都當向祂
+俯伏敬拜！</stanza>
+	<stanza type="verse" number="2">聖父乃是源頭，
+榮耀、無限、豐厚；
+聖子藉著權能，
+以命令托住萬有；
+聖靈充滿全景，
+榮耀、無往不透，
+哦，這榮耀豐滿
+配得歌謳！</stanza>
+	<stanza type="verse" number="3">尊高、偉大真神，
+萬有有福元首，
+我們今以聖潔
+作裝飾向你拜叩！
+威嚴、尊大、權能、
+榮耀、高超、優秀，
+全屬你這萬有
+永遠源頭！</stanza>
+  </lyrics>
+</hymn>

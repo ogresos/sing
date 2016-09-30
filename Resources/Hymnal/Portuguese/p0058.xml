@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Eis morto o Salvador</title>
+  <index>true</index>
+  <category>Sua Ressurreição</category>
+  <numbers><cebuano num="123"/><chinese num="99"/><english num="123"/><french num="21"/><korean num="99"/><portuguese num="58"/><russian num="446"/><spanish num="58"/><tagalog num="123"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="123"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Eis morto o Salvador
+Na sepultura;
+Mas com poder, vigor,
+Ressuscitou.</stanza>
+    <stanza type="chorus" number="">Da sepultura saiu,
+Com triunfo e glória ressurgiu;
+Ressurgiu, vencendo a morte e seu poder,
+Com os santos para sempre irá reger.
+Ressurgiu! Ressurgiu!
+Aleluia! Ressurgiu!</stanza>
+    <stanza type="verse" number="2">Tomaram precaução
+Com Seu sepulcro;
+Mas tudo foi em vão
+Para O reter.</stanza>
+    <stanza type="verse" number="3">A morte não logrou
+Mais segurá-Lo;
+Cristo os grilhões quebrou
+E ressurgiu.</stanza>
+  </lyrics>
+</hymn>

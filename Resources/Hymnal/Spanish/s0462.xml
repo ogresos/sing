@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que oscuridad cubria mi espíritu</title>
+  <index>true</index>
+  <category>El evangelio&amp;mdash;La redención</category>
+  <numbers><cebuano num="994"/><chinese num="680"/><english num="994"/><french num="193"/><german num="994"/><korean num="680"/><portuguese num="444"/><russian num="161"/><spanish num="462"/><tagalog num="994"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Emma Booth-Tucker</author>
+  </creators>
+  <melody>| 5_../ 5_.// 1./ 2// 3 1 | 1./ 2// 1./ 6_.// 5_.. 0/ | 5_../ 5_.// 1./ 2// 3 1 | 2 5 5. 0/ (break) | 6./ 6// 4./ 6// 5 3 | 4./ 3// 4./ 5// 3. 0/ | 2./ 3// 4./ 6// 5 3 | 3 2 1. 0/ (break) | (Chorus) 5./ 5// 5./ 6// 5./ 4// 3./ 2// | 1 3 3. 1/ | 7_. 2 2. 7_./ | 1 3 5 - (break) | 5./ 5// 5./ 6// 5./ 4// 3./ 2// | 1 3 3 5 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="487"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Qué oscuridad cubrí͡a mi͜ espíritu!
+Qué grande pesar Jesús halló
+Cuando vio mi alma en tormenta͜ atroz,
+¡Disipó mi noche, me sanó!</stanza>
+	<stanza type="chorus" number="">Hasta el Calvario Cristo fue por mí,
+El fue por mí, El fue por mí;
+Para͜ así librarme El murió por mí,
+Jesús murió por mí.</stanza>
+	<stanza type="verse" number="2">Siendo͜ un pecador postrado͜ ante Su faz,
+Sin saber de gracia o perdón;
+Oí un murmullo: "No lamentes más,
+Pues Jesús tu deuda ya pagó".</stanza>
+	<stanza type="verse" number="3">¡Admirable͜ amor mostró mi Salvador!
+Yendo de Su trono a la cruz;
+El mis transgresiones sólo las cargó;
+Su nombre por siempre͜ alabo yo.</stanza>
+  </lyrics>
+</hymn>

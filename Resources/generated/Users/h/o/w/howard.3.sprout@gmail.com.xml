@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Howard</firstname>
+  <lastname>Sprout</lastname>
+  <email>howard.3.sprout@gmail.com</email>
+  <password>$2y$10$Ry2rfO.TXeBDaG7L4bcHu.9YJVM5fYi8fw6F3eYQI9DNrQQi1gHM2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.216.93.215</ipaddress>
+  <createdate>2014-10-02 17:45:40</createdate>
+  <lastupdateddate>2014-10-02 17:52:19</lastupdateddate>
+  <lastlogindate>2014-10-02 17:52:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

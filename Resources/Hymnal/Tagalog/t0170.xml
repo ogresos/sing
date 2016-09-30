@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, Ika'y Nobyo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KAGANDAHAN</category>
+  <numbers><cebuano num="170"/><chinese num="140"/><english num="170"/><german num="170"/><korean num="140"/><portuguese num="83"/><russian num="34"/><spanish num="80"/><tagalog num="170"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoon, Ika'y Nobyo,
+Hirang ng Diyos, mahal ko;
+Hesus, Iyong Sarili Mismo,
+Inakit ang puso ko.</stanza>
+	<stanza type="verse" number="2">Amin Kang hinahangaan,
+Sa Iyong kahalagahan,
+Kay lalim ng pag-ibig Mo,
+Higit sa natatanto.</stanza>
+	<stanza type="verse" number="3">Ang kagandaha't tamis Mo
+Sa lahat Ika'y lalo;
+Mapagmahal at maamo,
+Ganap Ka't buung-buo.</stanza>
+	<stanza type="verse" number="4">Damit Mo'y lipos ng mira,
+Bibig Mo'y mabiyaya,
+Sa samyo ng pagdurusa,
+Pag-ibig Mo'y nadama.</stanza>
+	<stanza type="verse" number="5">Sa langis ng kagalakan
+Ikaw ay pinahiran
+At sa mga kapulungan
+Ikaw ay parangalan.</stanza>
+	<stanza type="verse" number="6">Ika'y pinagpala ng Diyos,
+Nagtagumpay Kang lubos;
+Nakaluklok, pinutungan,
+Sa Iyo ang kamahalan.</stanza>
+	<stanza type="verse" number="7">Nasa Ka ng mga bansa,
+Talos ang Iyong halaga;
+Higit Ka sa laksa-laksa,
+Dapat Ka sa pagsamba.</stanza>
+  </lyrics>
+</hymn>

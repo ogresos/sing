@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kinabuhi ihalad</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;ITUGYAN ANG TANAN SA GINOO</category>
+  <numbers><cebuano num="445"/><chinese num="339"/><english num="445*"/><french num="79"/><german num="445"/><korean num="339"/><portuguese num="205"/><russian num="84"/><spanish num="192"/><tagalog num="1359"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="www.hymns.net/stories/havergal.htm">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 1 1 | 1/( 5_./) 1/( 3/) | 5 4 | 3 - | 3 3 | 3/( 2/) 4/( 2/) | 1 7_./( 2/) | 1 - (break) | 3 3 | 2 2/( 3/) | 4 5 | 4( 3) | 5 5 | 6 5 | 5/( 4/) 4/( 3/) | 3( 2) | 1 2 | 3 4/( 2/) | 1 7_. | 1 - |</melody>
+  <music>
+	<midiref type="h" num="281"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kinabuhi ihalad,
+Kanimo, O Ginoo;
+Tanang takna'g adlaw ko,
+Way hunong magdayeg Nimo,
+Way hunong magdayeg Nimo.</stanza>
+	<stanza type="verse" number="2">Kamot ko palihoka
+Sa sugo's Imong gugma;
+Tiil ko padagana,
+Sa Maayong Balita,
+Sa Maayong Balita.</stanza>
+	<stanza type="verse" number="3">Tingog ko paawita,
+Alang lamang's Hari ko;
+Mga ngabil mapuno,
+Sa wali gikan Nimo,
+Sa wali gikan Nimo.</stanza>
+	<stanza type="verse" number="4">Salapi ba'g bulawan,
+Di Ka nako hikawan;
+Kusog ko ug kaalam,
+Gamita's nahimut-an,
+Gamita's nahimut-an.</stanza>
+	<stanza type="verse" number="5">Himoang pagbuot ko,
+Maimo, O Ginoo!
+Kasingkasing ihalad,
+Mahimo Mo nga trono,
+Mahimo Mo nga trono.</stanza>
+	<stanza type="verse" number="6">Paghigugma ibubo
+Sa Imo nga tiilan;
+Kaugalingon ug tanan,
+Ihalad alang Nimo,
+Ihalad alang Nimo.</stanza>
+  </lyrics>
+</hymn>

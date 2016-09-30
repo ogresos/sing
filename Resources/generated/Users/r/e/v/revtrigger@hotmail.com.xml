@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sue</firstname>
+  <lastname>Trigger</lastname>
+  <email>revtrigger@hotmail.com</email>
+  <password>$2y$10$NP/K6B0vk/nRyRr00nV0yecYotF8vI2c74xd299z7GIUKp1BU21uO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.45.129.75</ipaddress>
+  <createdate>2016-05-18 15:36:09</createdate>
+  <lastupdateddate>2016-06-10 03:51:14</lastupdateddate>
+  <lastlogindate>2016-06-10 03:51:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

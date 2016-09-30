@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Chris</firstname>
+  <lastname>Cohen</lastname>
+  <email>chris.a.cohen@gmail.com</email>
+  <password>$2y$10$A72u1I7NDaeXxO17hRoqUuXEJg6KoQZcXwSRli033tBMkNA90KfXS</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>101.165.164.72</ipaddress>
+  <createdate>2014-07-21 01:13:13</createdate>
+  <lastupdateddate>2014-07-21 01:14:16</lastupdateddate>
+  <lastlogindate>2014-07-21 01:14:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

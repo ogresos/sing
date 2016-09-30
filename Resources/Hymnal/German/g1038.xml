@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hast du die Last deiner Sünde nun satt</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Überführung</category>
+  <numbers><cebuano num="1038"/><chinese num="719"/><english num="1038"/><german num="1038"/><korean num="719"/><russian num="500"/><tagalog num="1038"/></numbers>
+  <creators>
+	<author biodate="1862-1929" biolink="">Translated from Lelia Naylor Morris</author>
+  </creators>
+  <key>G Major</key>
+  <melody>| 5_../ 5_.// 5_./ 5_./ 3_./ 5_./ | 1/ 2/ 3/ 5_. 1/ | 7_../ 7_.// 7_./ 7_./ 1/ 2/ | 1.( 5_..) (break) | 5_../ 5_.// 5_./ 5_./ 3_./ 5_./ | 1/ 2/ 3/ 5_. 3/ | 2./ 2// 2/ 2/ 1/ 6_./ | 5_.. 0. (break) | (Chorus) 3. 1 6_./ | 5_./ 3_./ 6_./ 5_.. | 3. 4 3/ | 2/ 6_./ 3/ 2. (break) | 3. 5 5/ | 4/ 1/ 2/ (.3 (.4/ | 3./ 2// 1/ 7_./ 1/ 2/ | 1.( 1.) |</melody>
+  <layout>
+	<singingstanza>Hast du die Last dei -- ner Sün -- de nun satt? Lass Je -- sus hin -- ein in dein Herz; Neu willst be -- gin -- nen und brauchst ei -- nen Rat? Lass Je -- sus hin -- ein in dein Herz. Gleich jetzt die Zwei -- fel lass stehn; Gleich jetzt den Herrn nicht ab -- lehn; Gleich jetzt auf Ihn sollst zu -- gehn; Lass Je -- sus hin -- ein in dein Herz.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1038"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hast du die Last deiner Sünde nun satt?
+Lass Jesus hinein in dein Herz;
+Neu willst beginnen und brauchst einen Rat?
+Lass Jesus hinein in dein Herz.</stanza>
+	<stanza type="chorus" number="">Gleich jetzt die Zweifel lass stehn;
+Gleich jetzt den Herrn nicht ablehn;
+Gleich jetzt auf Ihn sollst zugehn;
+Lass Jesus hinein in dein Herz.</stanza>
+	<stanza type="verse" number="2">Seufzt du nach Reinheit und ist sie nicht da?
+Lass Jesus hinein in dein Herz;
+Ströme zur Reinigung fließen ganz nah,
+Lass Jesus hinein in dein Herz.</stanza>
+	<stanza type="verse" number="3">Gibt’s einen Sturm, ihn beruhigen kannst nicht?
+Lass Jesus hinein in dein Herz;
+Gibt’s eine Leere und nichts dich anspricht?
+Lass Jesus hinein in dein Herz.</stanza>
+  </lyrics>
+</hymn>

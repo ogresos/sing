@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come in, O come! the door stands open now</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ</category>
+  <numbers><chinese num="277"/><english num="354"/><korean num="277"/><tagalog num="354"/></numbers>
+  <creators>
+    <author biodate="1841-1920" biolink="">Handley Carr Glyn Moule</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - 3 - | 6 5 4 4 | 3 - - - (break) | ._1 - 7 6 | 5 - 6 - | 7 5 6 6 | 5 - - - (break) | 5 - 5 5 | 7 - 6 - | 5 6 7 ._1 | ._2 - - - (break) | ._3 - ._2 ._1 | 7 6 5 ._1 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Come in, O come! the door stands o -- pen now; I knew Thy voice; Lord Je -- sus, it was Thou. The sun has set long since the storms be -- gin; 'Tis time for Thee, my Sav -- ior, O come in!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj122.xml</link>
+  </links>
+  <music>
+    <midiref type="h" num="50"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Come in, O come! the door stands open now;
+I knew Thy voice; Lord Jesus, it was Thou.
+The sun has set long since the storms begin;
+'Tis time for Thee, my Savior, O come in!</stanza>
+    <stanza type="verse" number="2">Alas, ill-ordered shows the dreary room;
+The household stuff lies heaped amidst the gloom,
+The table empty stands, the couch undressed;
+Ah, what a welcome for th' Eternal Guest!</stanza>
+    <stanza type="verse" number="3">Yet welcome, and tonight; this doleful scene
+Is e'en itself my cause to hail Thee in;
+This dark confusion e'en at once demands
+Thine own bright presence, Lord, and ord'ring hands.</stanza>
+    <stanza type="verse" number="4">I seek no more to alter things, or mend,
+Before the coming of so great a Friend;
+All were at best unseemly; and 'twere ill
+Beyond all else to keep Thee waiting still.</stanza>
+    <stanza type="verse" number="5">Come, not to find, but make this troubled heart
+A dwelling worthy of Thee as Thou art;
+To chase the gloom, the terror, and the sin:
+Come, all Thyself, yea come, Lord Jesus, in!</stanza>
+  </lyrics>
+</hymn>

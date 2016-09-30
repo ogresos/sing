@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O hipan Mo kami, habang naghihintay</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;BILANG HANGIN</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O hipan Mo kami, habang naghihintay,
+Lakas ng hangin Mo, laya'y ibibigay,
+Hipan Mo hanggang sa kami'y mabubuhay,
+Hipan kami, Panginoon!</stanza>
+	<stanza type="chorus" number="">Panginoon, kami'y hipan,
+Iyong alisin katamaran,
+Hangin Mo'y dumating,
+pag-urong wakasan,
+Panginoon, kami'y hipan!</stanza>
+	<stanza type="verse" number="2">Hipan ng pag-ibig, puso kong malamig,
+Sa buong kalul'wa, hanging makalangit;
+Hipan hanggang kami'y lubusang uminit,
+Hipan kami, Panginoon!</stanza>
+	<stanza type="chorus" number="">Panginoon, kami'y hipan,
+Iyong alisin katamaran,
+Hangin Mo'y dumating,
+pag-urong wakasan,
+Panginoon, kami'y hipan!</stanza>
+	<stanza type="verse" number="3">Hipan Mo nang lubos, 'spiritu'y lalakas,
+Buhayin, puspusin kami ng Iyong atas,
+Hipan hanggang kami'y pawang nagniningas,
+Hipan kami, Panginoon!</stanza>
+	<stanza type="chorus" number="">Panginoon, kami'y hipan,
+Iyong alisin katamaran,
+Hangin Mo'y dumating,
+pag-urong wakasan,
+Panginoon, kami'y hipan!</stanza>
+  </lyrics>
+</hymn>

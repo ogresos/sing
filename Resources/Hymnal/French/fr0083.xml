@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pour atteindre la victoire</title>
+  <index>true</index>
+  <category>L’union avec Christ&amp;mdash;identifiés avec Sa mort et Sa résurrection</category>
+  <numbers><cebuano num="482"/><chinese num="365"/><english num="482"/><french num="83"/><german num="482"/><korean num="365"/><portuguese num="220"/><russian num="217"/><spanish num="200"/><tagalog num="482"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0. 5_. 5_./ | 3 2/ 4 7_./ | 1/( 2/ 3/) 1 6_./ | 5_./( 1/) 5_./ 3 1/ (break) | 2. 5_. 5_./ | 5 3/ 2 1/ | 1/( 4) 6_. 6_./ | 5_./( 1/) 3/ 5 7_./ (break) | 1 0/ (Chorus) 5 4/ | 3 2/ 1/( 2/) 3/ | 4 7_./ 1( 3/) | 3 3/ 2 5_./ | 3 1/ 2. (break) | 3 4/ 5 3/ | 2 1/ 6 4/ | 3/( 5) 1 6_./ | 5_./( 1/) 3/ 5 7_./ | 1. 0. |</melody>
+  <music>
+	<midiref type="h" num="482"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Je suis crucifié et libre,
+Je veux vivre par la croix.
+Alors Christ me vivifie,
+Lui qui vit et règne en moi.</stanza>
+	<stanza type="chorus" number="">Qu'il est doux de mourir avec Christ,
+Au péché, au monde, à soi.
+Qu'il est doux de vivre avec mon Christ,
+Quand Il vit et règne en moi !</stanza>
+	<stanza type="verse" number="2">Le mystère de tout âge,
+Par la foi m'est révélé.
+L'espérance de la gloire,
+Christ en moi m'est dévoilé !</stanza>
+	<stanza type="verse" number="3">Le secret de la nature :
+Sous la terre croît le grain !
+Par la greffe, le vieux rameau
+Devient riche, fort et sain.</stanza>
+	<stanza type="verse" number="4">Tournons-nous vers notre Tête,
+Car Lui seul est le chemin !
+Ô Seigneur, Tu nous épures !
+Que par Toi nous soyons saints !</stanza>
+	<stanza type="verse" number="5">Lui, le baume qui m'apaise,
+Quand ma force je renie,
+Pour qu'Il soit ma plénitude,
+De Sa vie Il me nourrit.</stanza>
+	<stanza type="verse" number="6">Pour atteindre la victoire,
+Notre Maître prit la croix.
+Pour marcher vers notre gloire,
+Nous suivons la même voie !</stanza>
+  </lyrics>
+</hymn>

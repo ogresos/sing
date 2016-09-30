@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>花費</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>571123212216</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>主， 我 今 將 自 己 交 在 你 恩 手 中， 我 只 望 能 為 著 召 會 花 費， 雖 不 知 我 前 途 有 何 患 難 或 痛 苦， 若 是 為 著 你 召 會， 何 來 懊 悔！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0746.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，我今將自己
+交在你恩手中，
+我只望能為著召會花費，
+雖不知我前途
+有何患難或痛苦，
+若是為著你召會，
+何來懊悔！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>You shall love the Lord your God</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:346"/></numbers>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <links>
+    <link type="ref">Luke 10:27</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0346.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">You shall love the Lord your God
+With all your heart and with all your soul,
+With all your strength and with all your mind,
+And love your neighbour as yourself.</stanza>
+    <stanza type="verse" number="">You shall love the Lord your God,
+You shall love the Lord your God.</stanza>
+    <stanza type="note" number="">(Both parts can be sung together)</stanza>
+  </lyrics>
+</hymn>

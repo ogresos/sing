@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>安家在召會</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><cebuano num="1233"/><chinese num="ts:709"/><english num="1233"/><french num="156"/><german num="1233"/><korean num="826"/><portuguese num="397"/><russian num="535"/><tagalog num="1233"/></numbers>
+  <melody>| 0 - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 3/ 4/ | 5. 1/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - - (break) | (Chorus) 5 - - | 4. 3/ 2 | 3( - - | 3) - 5_./ 5_./ | 1. 1/ 1 | 1. 7_./ 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_.. 4/ 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>安 家 在 召 會， 不 再 無 家 可 歸， 我 心 終 日 喜 樂 又 滿 足； 基 督 作 生 命， 一 切 掙 扎 全 停， 阿 利 路 亞！ 我 在 家 居 住！ 我 有 家─ 召 會， 我 今 不 再 感 無 家 可 歸； 我 一 生 一 世 高 聲 頌 讚 不 止， 阿 利 路 亞！ 基 督 與 召 會！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1233"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">安家在召會，
+不再無家可歸，
+我心終日喜樂又滿足；
+基督作生命，
+一切掙扎全停，
+阿利路亞！我在家居住！
+我有家─召會，
+我今不再感無家可歸；
+我一生一世
+高聲頌讚不止，
+阿利路亞！基督與召會！</stanza>
+	<stanza type="verse" number="2">神已得安息，
+這是祂的住處，
+祂心終日喜樂又滿足；
+祂家已恢復，
+撒但別想來侵，
+在此祂的榮耀全顯出。
+神有家─召會，
+神今不再感無家可歸；
+我一生一世
+高聲頌讚不止，
+阿利路亞！基督與召會！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>李</firstname>
+  <lastname/>
+  <email>geacelee@gmail.com</email>
+  <password>$2y$10$JZl8PIQwHiAOmXi2spG23ee04Y1aALZGJKiFwt3uhMCdsYyMLA5ky</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>175.180.66.81</ipaddress>
+  <createdate>2016-06-11 02:23:37</createdate>
+  <lastupdateddate>2016-07-11 02:50:59</lastupdateddate>
+  <lastlogindate>2016-06-15 01:43:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="266">Divine anointing in me dwelleth</fav>
+    <fav category="default" type="h" num="267">Fill me with Thy gracious Spirit</fav>
+    <fav category="default" type="h" num="8128">I prostrate, Lord, before Thee</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+    <fav category="default" type="h" num="242">The Spirit of God today</fav>
+    <fav category="default" type="h" num="561">Thou hast said Thou art the Vine, Lord</fav>
+    <fav category="default" type="ch" num="418">住在主裏面無上的</fav>
+    <fav category="default" type="ts" num="113">回到你靈裡</fav>
+    <fav category="default" type="ch" num="215">奇妙的恩膏住我裏</fav>
+    <fav category="default" type="ch" num="419">我主你說你是真樹</fav>
+    <fav category="default" type="ch" num="587">我今來到施恩座前</fav>
+    <fav category="default" type="ch" num="128">我今俯伏主面前</fav>
+    <fav category="default" type="ch" num="354">我豈可再冷淡退後</fav>
+    <fav category="default" type="ch" num="655">生命流露纔是工作</fav>
+  </favourites>
+</user>

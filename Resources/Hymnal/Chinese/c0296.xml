@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>更多認識基督</title>
+  <index>true</index>
+  <category>羨慕－更多認識主</category>
+  <numbers><cebuano num="382"/><chinese num="296"/><english num="382"/><korean num="290"/><portuguese num="188"/><spanish num="170"/><tagalog num="382"/></numbers>
+  <creators>
+	<author biodate="1851-1920" biolink="">Translated from Eliza Edmunds Hewitt</author>
+  </creators>
+  <melody>| 5_../ 5_.// 5_./ 5_. 6_./ | 1 1/ 1. | 2./ 2// 2/ 2 4/ | 3 3/ 3. (break) | 5./ 5// 5/ 5 4/ | 3 3/ 3. | 2./ 3// 4/ 3 2/ | 1 7_./ 1. (break) | (Chorus) 3. 5_../ 6_.// 5_./ | 1. 1. | 2. 2./ 3// 4/ | 3. 3. (break) | 5./ 5// 5/ 5 4/ | 3 3/ 3. | 2./ 3// 4/ 3 2/ | 1 7_./ 1. |</melody>
+  <layout>
+	<singingstanza>我 願 更 多 認 識 基 督， 更 多 追 蹤 祂 的 道 路； 更 多 認 識 祂 的 救 贖， 更 多 享 受 祂 的 豐 富。 更 多 認 識 基 督， 更 多 認 識 基 督。 更 多 認 識 祂 的 救 贖， 更 多 享 受 祂 的 豐 富。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="382"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我願更多認識基督，
+更多追蹤祂的道路；
+更多認識祂的救贖，
+更多享受祂的豐富。</stanza>
+	<stanza type="chorus" number="">更多認識基督，
+更多認識基督。
+更多認識祂的救贖，
+更多享受祂的豐富。</stanza>
+	<stanza type="verse" number="2">更多認識復活大能，
+更多經歷無窮生命；
+更多取用升天權柄，
+更多有分榮耀得勝。</stanza>
+	<stanza type="verse" number="3">更多得著聖靈啟示，
+更多知道父神意思；
+更多看見幔內的事，
+更多效法基督的死。</stanza>
+	<stanza type="verse" number="4">更多相信主的聖言，
+更多倚靠祂的恩典；
+更多愛慕祂的顯現，
+更多盼望祂的王權。</stanza>
+  </lyrics>
+</hymn>

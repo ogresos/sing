@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Wong</lastname>
+  <email>supexgroup@gmail.com</email>
+  <password>$2y$10$Yc6nI2cUkzva5HksmnLz0Ou3MAgqEgBMjvKpF9sUepTc22mRUmtFe</password>
+  <gender/>
+  <country>my</country>
+  <ipaddress>175.138.158.136</ipaddress>
+  <createdate>2015-09-02 02:02:19</createdate>
+  <lastupdateddate>2015-12-17 05:39:45</lastupdateddate>
+  <lastlogindate>2015-12-17 05:39:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

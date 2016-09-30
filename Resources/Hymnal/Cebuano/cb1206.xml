@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May lumba kita karon nga salmotan</title>
+  <index>true</index>
+  <category>PAGDASIG&amp;mdash;NGA MODAGAN SA LUMBA</category>
+  <numbers><cebuano num="1206"/><chinese num="ts:424"/><english num="1206"/><german num="1206"/><portuguese num="328"/><russian num="121"/><spanish num="302"/><tagalog num="1206"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="John Ingalls">Translated from J. I.</author>
+  </creators>
+  <melody>| 0 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2/ 2/ | 1/ 1/ 1/ 1/ 7_. 2 (break) | 1 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2/ 2/ | 1/ 1/ 1/ 1/ 7_. 2 (break) | 1 - - (Chorus) 5./ 5// | 5( - 5/) 3/ 2/ 1/ | 5 - - 5./ 5// | 5 3 2 4# (break) | 5 - - 5_./ 5_./ | 1/ 1/ 1./ 1// 7_. 6_../ 5_.// | 5 - 4 2/ 2/ | 1/ 1/ 1/ 1/ 7_. 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1206"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">May lumba kita karon nga salmotan,
+Ug paagi kini madag-an.
+Sa tanang nakasugod, Dios nag-ingon:
+"Lingiw ug tutoking Ginoo!"</stanza>
+	<stanza type="chorus" number="">Tutoki! O tutoki!
+Si Jesus tutokan mo!
+Lingiw's tanan, si Jesus ang tutokan,
+Lingiw sa tanan, S'ya tutokan!</stanza>
+	<stanza type="verse" number="2">Ilingiw ang panan-aw sa palibot,
+Sa tanang kasamok, kagubot;
+May kalinaw si Jesus&amp;mdash;Hallelujah,
+Lingiw sa tanan, tutokan S'ya.</stanza>
+	<stanza type="verse" number="3">Molingiw ta sa mausabong kalag,
+Sa pakyas gyung kaugalingon;
+Lingiw ug tutok's tumong&amp;mdash;Hallelujah,
+Lingiw sa tanan, tutokan S'ya.</stanza>
+	<stanza type="verse" number="4">Molingiw sa nangagi&amp;mdash;Hallelujah,
+Lingiw's maayo ug sa sala;
+Hawid lang sa buhing Dios&amp;mdash;Hallelujah,
+Lingiw sa tanan, tutokan S'ya.</stanza>
+	<stanza type="verse" number="5">Lingiw, tutoking nawong N'ya&amp;mdash;Hallelujah,
+S'yang mohuman sa gisugdan N'ya.
+O dakong grasya ang modagan's lumba,
+Nga makuha sa pagtutok N'ya!</stanza>
+  </lyrics>
+</hymn>

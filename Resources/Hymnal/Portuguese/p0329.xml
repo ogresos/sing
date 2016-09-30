@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Na luz quero viver</title>
+  <index>true</index>
+  <category>Para Comunhão Com O Senhor</category>
+  <numbers><chinese num="476"/><english num="8476"/><french num="129"/><portuguese num="329"/><russian num="220"/><spanish num="300"/><tagalog num="1353"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Chinese</author>
+    <author biodate="" biolink="" fullname="Eric Ching">Translated by E. C.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8476"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Na luz quero viver,
+Com Deus ter comunhão,
+Seu rosto contemplar,
+No espírito andar.
+De glória em glória, então,
+Na luz, transformação,
+Em mim há de ocorrer.</stanza>
+  </lyrics>
+</hymn>

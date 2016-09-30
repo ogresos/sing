@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>經歷包羅萬有的靈</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <melody>| 0 - - 5_. | 1 1/ 1/ 1/( 2/) 3/( 2/) | 1 - - 7_./( 1/) | 2 2/ 2/ 2/( 3/) 4/( 2/) (break) | 3 - - 1/( 3/) | 5 5/ 6/ 5 4/( 3/) | 2 - - 5_. | 6_. 4/ 4/ 3/( 2/) 1/( 7_./) | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>哦 主 你 在 復 活 裏， 已 成 賜 生 命 之 靈； 使 我 與 你 同 復 起， 使 我 重 生 得 生 命。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="242"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主你在復活裏，
+已成賜生命之靈；
+使我與你同復起，
+使我重生得生命。</stanza>
+	<stanza type="verse" number="2">這靈就是你進入，
+帶著豐盛的生命；
+包羅萬有的豐富，
+作我全備的供應。</stanza>
+	<stanza type="verse" number="3">如今這靈已內住，
+在你無數肢體裏；
+我們與你得聯屬，
+我們活著就是你。</stanza>
+	<stanza type="verse" number="4">憑靈全備的供應，
+我們將你來活出；
+成為你的活見證，
+成為團體的基督。</stanza>
+	<stanza type="verse" number="5">藉著你靈的率領，
+見證向外能普及；
+我們是你見證人，
+將你傳揚到地極。</stanza>
+	<stanza type="verse" number="6">如此擴展這見證，
+達到終極的完成；
+乃是新耶路撒冷，
+永遠豐滿無止境。</stanza>
+  </lyrics>
+</hymn>

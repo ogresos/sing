@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>美地，神已賜給我們</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3632612756</hymncode>
+  <key>D Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>美 地， 美 地， 神 已 賜 給 我 們； 基 督 是 神 所 賜 美 地。 這 是 召 會 合 一， 大 家 來 在 一 起， 脫 離 彎 曲 世 代， 世 界 完 全 丟 棄！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0242.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">美地，美地，
+神已賜給我們；
+基督是神所賜美地。
+這是召會合一，
+大家來在一起，
+脫離彎曲世代，
+世界完全丟棄！</stanza>
+	<stanza type="verse" number="2">來罷！來罷！
+我們來得這地，
+今日行走在基督裡。
+我們站住立場，
+一同經營這地，
+生命長進成熟，
+迎接主的再臨。</stanza>
+	<stanza type="verse" number="3">基督，基督，
+無比豐富肥甘！
+召會是基督的豐滿！
+我們經歷實際，
+顯出敬拜真意，
+見證那位奇妙者，
+使萬人歸依。</stanza>
+  </lyrics>
+</hymn>

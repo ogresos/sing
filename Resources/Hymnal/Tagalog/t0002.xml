@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>L'walhati, l'walhati Siya ay papurihan</title>
+  <index>true</index>
+  <category>PAGPAPARANGAL SA TRINIDAD&amp;mdash;KANYANG PAGHAHARI</category>
+  <numbers><chinese num="2"/><english num="2"/><korean num="2"/><tagalog num="2"/></numbers>
+  <creators>
+    <author biodate="1904-1987" biolink="">Translated from Stanley McCallum</author>
+  </creators>
+  <music>
+    <midiref type="h" num="2"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">L'walhati, l'walhati Siya ay papurihan!
+Pakinggan ang mga awitang walang hanggan!
+Ama, Anak 'Spiritu-Diyos nahayag na -
+Bawa't tao ay dapat sumamba!</stanza>
+    <stanza type="verse" number="2">Ama, pinagmulan ng bawa't pamilya;
+Anak umalalay ng lahat sa lakas Niya;
+Spiritu Santo nagpuno ng l'walhati -
+Kapuspusan, kami'y pumupuri!</stanza>
+    <stanza type="verse" number="3">Kataas-ta'sang Diyos kami'y sumasamba,
+O Ulo, sa harap Mo kami'y nagtirapa!
+Kamahalan, papuri't kadakilaan,
+Sa Iyo lamang hanggang walang hanggan!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jimmie</firstname>
+  <lastname>Jordan</lastname>
+  <email>cetc000@bellsouth.net</email>
+  <password>$2y$10$SQ5H9gXuMtQqzm8mAPrmY.1ABHFOPCYDxOFZj4pHpZTVKFix7fQnG</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>174.251.241.65</ipaddress>
+  <createdate>2014-05-25 00:49:13</createdate>
+  <lastupdateddate>2015-08-09 02:19:28</lastupdateddate>
+  <lastlogindate>2015-08-09 02:12:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="1219">What a wonderful change in my living is wrought</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

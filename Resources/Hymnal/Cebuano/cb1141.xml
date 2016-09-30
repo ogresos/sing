@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mag-awit's Ginoo's espiritu</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;DIHA SA ESPIRITU</category>
+  <numbers><cebuano num="1141"/><chinese num="ts:116"/><english num="1141"/><french num="109"/><german num="1141"/><korean num="902"/><portuguese num="229"/><russian num="109"/><spanish num="206"/><tagalog num="1141"/></numbers>
+  <melody>| 0 - - 5_./ 1/ | 3 3/ 3/ 3 2/ 3/ | 2/ 1.( 1) 5_./ 1/ | 3 1/ 3/ 5 4/ 3/ (break) | 2 - - 5/ 4/ | 3 3/ 2/ 1 2/ 3/ | 5/ 4/( 4) - 6_./ 6_./ | 5_. 7_./ 1/ 2 3/ 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1141"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Mag-awit's Ginoo's espiritu,
+Mag-awit's Ginoo sa sulod,
+Mag-awit hallelujah ni Jesus;
+Ug masakot pag-usa Niya.</stanza>
+	<stanza type="verse" number="2">Daghang tuig na diha's relih'yon,
+Daghang tuig na's hunahuna,
+Daghang tuig na sa pagbati ta,
+Sigeg pangita, wa kakita.</stanza>
+	<stanza type="verse" number="3">Nagtuon pagliso's espiritu,
+Nagtuon pagdawat kang Cristo;
+Nagtuon sa pagkaon kang Jesus,
+Ug magawas sa pakigbisug.</stanza>
+	<stanza type="verse" number="4">Daygong kinabuhi's Espiritu,
+Daygong pagkabag-o sa sulod,
+Inigliso nato's espiritu,
+Mapahimuslang kadato N'ya.</stanza>
+  </lyrics>
+</hymn>

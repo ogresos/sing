@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Samtang Ikaw gihandom ko</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAGKAMALANGKUBON-SA-TANAN</category>
+  <numbers><cebuano num="190"/><chinese num="157"/><dutch num="37"/><english num="190"/><french num="30"/><german num="190"/><korean num="157"/><portuguese num="103"/><russian num="37"/><spanish num="88"/><tagalog num="190"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 5( - 5/) ._1/ 7/ ._1/ | ._2./ 6// ._2 - ._1 | 7. ._1/ ._2/ ._1#/ ._2/ ._3/ | ._1( - ._1/) 5/ ._1/ ._3/ (break) | ._5( - ._5/) ._3/ ._1/ 5/ | 7( 6) 0/ ._4/ ._3/ ._2/ | ._1. ._3/ ._2. 5/ (break) | ._1 - - (Chorus) 5 | 7. ._1/ ._2/ ._1#/ ._2/ ._3/ | ._1( - 5) ._1 | ._3. ._4/ ._5/ ._3/ ._2/ ._1/ | ._2 - - 5 (break) | ._3. ._4/ ._3/ ._2/ ._1/ 5/ | 7( 6) 0/ ._4/ ._3/ ._2/ | ._1. ._3/ ._2. 5/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="190"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Samtang Ikaw gihandom ko,
+Gisimbang pagkamao Mo;
+Katingad-an, kadato Mo,
+Bililhon, hiligugmaon!</stanza>
+	<stanza type="chorus" number="">Sibo gyud Ka's kin'hanglan ko!
+Mag-awas ko sa pagdayeg!
+Pangandoy ko gitagbaw Mo,
+Sa pagsangkap naghingapin!</stanza>
+	<stanza type="verse" number="2">Tinuod Ikaw Dios gayud,
+Dios nga kahayag ug gugma;
+Dios nga naamong kinabuhi,
+Nga naglipay namong tanan.</stanza>
+	<stanza type="verse" number="3">Tinuod man nga tawo Ikaw,
+Malomo, maayo'g putli;
+Nakapahimuot sa Dios,
+Nagdaning S'ya'y higugmaon.</stanza>
+	<stanza type="verse" number="4">Ulipon 'sab Ikawng ubos,
+Alang namo ngadto sa Dios;
+Nisugot bisa'g mamatay,
+Aron kami mangaluwas.</stanza>
+	<stanza type="verse" number="5">Gawas ni'ni Ikaw Hari,
+Diha's kinabuhi'g gugma,
+Gidihogan's gahum sa Dios,
+Maghari mi uban Nimo.</stanza>
+	<stanza type="verse" number="6">Samtang naghandom, Ginoo,
+Nagpa'mulos "pagkamao";
+Sa gugma napa'muslan Ka,
+Ingon nga kami kapikas.</stanza>
+  </lyrics>
+</hymn>

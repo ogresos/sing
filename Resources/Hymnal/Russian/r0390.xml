@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Что за день настал</title>
+  <index>true</index>
+  <category>БЛАГАЯ ВЕСТЬ&amp;mdash;ОБЩИЕ ГИМНЫ</category>
+  <numbers><cebuano num="1333"/><chinese num="ts:310"/><dutch num="52"/><english num="1333"/><german num="1333"/><portuguese num="469"/><russian num="390"/><spanish num="494"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Tony Rosmarin">Translated from T. R.</author>
+  </creators>
+  <melody>| 0 5/ 4/ | 3 1 | 1 - | 0. 5/ | 5/ 4/ 3/ 5/ | 4 1 | 1 - (break) | 0. 4/ | 4/ 3/ 2/ 4/ | 3 3/ 4/ | 5 3 | 1. 3/ | 2. 3/ | 4/ 2/ 7_./ 5_./ | 1( - | 1)( - | 1) 0 |</melody>
+  <music>
+	<midiref type="h" num="1333"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Что за день настал,
+Когда бороться я устал,
+Когда Иисус из тьмы сердце взял моё
+И в царство света ввёл Своё!</stanza>
+	<stanza type="verse" number="2">Началась теперь
+Действительная жизнь в Христе.
+Меня мечта земная уж не влечёт;
+Во мне живой поток течёт.</stanza>
+	<stanza type="verse" number="3">Я открыт Ему,
+И дарит Он мне жизнь Свою.
+Становится Его жизнь теперь моей;
+О, аллилуйя, Он во мне!</stanza>
+	<stanza type="verse" number="4">О, всем сердцем я
+Люблю, Господь Иисус, Тебя.
+Я знаю: навсегда Ты есть жизнь моя;
+Единственный Ты для меня.</stanza>
+  </lyrics>
+</hymn>

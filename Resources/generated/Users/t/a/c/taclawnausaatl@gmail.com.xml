@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>David</firstname>
+    <lastname>Babatope</lastname>
+    <email>taclawnausaatl@gmail.com</email>
+    <password>PRX%2F6qvsmLoJhxqtoVnigw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.162.237.28</ipaddress>
+    <createdate>2014-02-03 22:27:59</createdate>
+    <lastupdateddate>2014-02-03 22:31:14</lastupdateddate>
+    <lastlogindate>2014-02-03 22:28:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="73">Glorious, mighty Name of Jesus</fav>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+        <fav category="default" type="h" num="403">Live Thyself, Lord Jesus, through me</fav>
+        <fav category="default" type="h" num="68">Lord, Thy Name is called Jesus</fav>
+        <fav category="default" type="h" num="279">Through the Cross, O Lord, I pray</fav>
+    </favourites>
+</user>

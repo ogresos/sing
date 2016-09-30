@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Ragland Remo</firstname>
+<lastname>Paul</lastname>
+<email>remopaul@gmail.com</email>
+<password>$1$/cFyESKB$sIKWDDWlQ1qDYLgB8Gha4/</password>
+<gender>M</gender>
+<country>India</country>
+<ipaddress>117.200.226.244</ipaddress>
+<createdate>2008-12-08 02:20:06</createdate>
+<lastupdateddate>2009-09-15 18:27:00</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+    </favourites>
+</user>

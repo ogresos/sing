@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Averitt</lastname>
+    <email>dw_averitt@yahoo.com</email>
+    <password>$1$jFdpLWyV$I/6JYSOlxulQlsDYOSZlQ1</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>96.252.135.21</ipaddress>
+    <createdate>2009-07-18 19:21:58</createdate>
+    <lastupdateddate>2009-09-28 13:42:01</lastupdateddate>
+    <lastlogindate>2009-09-28 13:42:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="1005">Christ our Redeemer died on the cross</fav>
+        <fav category="default" type="h" num="1031">Come, every soul by sin oppressed</fav>
+        <fav category="default" type="h" num="695">Does Jesus care when my heart is pained</fav>
+        <fav category="default" type="h" num="486">Dying with Jesus, by death reckoned mine</fav>
+        <fav category="default" type="h" num="882">Encamped along the hills of light</fav>
+        <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="353">I need Jesus, my need I now confess</fav>
+        <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+        <fav category="default" type="h" num="1038">If you are tired of the load of your sin</fav>
+        <fav category="default" type="h" num="320">In loving-kindness Jesus came</fav>
+        <fav category="default" type="h" num="246">Joys are flowing like a river</fav>
+        <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+        <fav category="default" type="h" num="993">O how sweet the glorious message</fav>
+        <fav category="default" type="h" num="286">Of Jesus' love that sought me</fav>
+        <fav category="default" type="h" num="566">Oh, safe to the Rock that is higher than I</fav>
+        <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+        <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+        <fav category="default" type="h" num="569">Simply trusting every day</fav>
+        <fav category="default" type="h" num="555">Still, still with Thee, when purple morning breaketh</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="620">The cross it standeth fast</fav>
+        <fav category="default" type="h" num="722">The cross that He gave may be heavy</fav>
+        <fav category="default" type="h" num="67">The name of Jesus is so sweet</fav>
+        <fav category="default" type="h" num="995">There is a green hill far away</fav>
+        <fav category="default" type="h" num="565">Under His wings I am safely abiding</fav>
+    </favourites>
+</user>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>是愛的神作我牧人</title>
+  <index>true</index>
+  <category>經歷神－作牧人</category>
+  <numbers><chinese num="444"/><english num="8444"/><korean num="444"/><portuguese num="312"/></numbers>
+  <creators>
+    <author biodate="1821-1877" biolink="">Translated from Henry Williams Baker</author>
+  </creators>
+  <melody>| 0 - 1 | 7_./ 1/ 2 3 | 5/ 3/ 2 3 | 2/ 1/ 6_. 5_. (break) | 1/ 2/ 1 1 | 5/ 5/ 6 5 | 3/ 2/ 2 2 | 3/ 1/ 6_. 5_. | 1/ 2/ 1 0 |</melody>
+  <layout>
+	<singingstanza>是 愛 的 神 作 我 牧 人， 祂 常 餧 養， 祂 常 施 恩； 祂 是 屬 我， 我 是 屬 祂， 何 來 需 要？ 何 來 缺 乏？</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 23</link>
+  </links>
+  <music>
+	<midiref type="h" num="8444"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">是愛的神作我牧人，
+祂常餧養，祂常施恩；
+祂是屬我，我是屬祂，
+何來需要？何來缺乏？</stanza>
+	<stanza type="verse" number="2">祂帶我到嫩草地場，
+使我感覺滿足歡暢；
+又帶我到平靜溪流，
+交通不斷，安息無憂。</stanza>
+	<stanza type="verse" number="3">我時迷路，祂來截回，
+再側我心受祂支配；
+我常搖動，不甚堅定，
+但祂引導，是為己名。</stanza>
+	<stanza type="verse" number="4">何等不明，何等可疑，
+怎能行走無所顧忌？
+你竿扶持，你杖引領，
+你的同在滿我途徑。</stanza>
+	<stanza type="verse" number="5">你使我能大膽誇勝，
+敵雖四佈，享恩如恆：
+我頭油潤，我杯酒溢，
+我神從來不曾吝惜。</stanza>
+	<stanza type="verse" number="6">你的甘甜、奇妙的愛，
+測量我的一生年代；
+你愛既然永不改變，
+我的讚美還要加添。</stanza>
+  </lyrics>
+</hymn>

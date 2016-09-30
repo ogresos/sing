@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Eel</firstname>
+  <lastname/>
+  <email>eel733@yahoo.com</email>
+  <password>$2y$10$zVOPys1McN9zqcoG9Pa4pOTHcUfzChDZeKQ/FBFwZbF.4Ulv9yl3i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>96.4.231.19</ipaddress>
+  <createdate>2014-11-28 03:43:23</createdate>
+  <lastupdateddate>2014-11-28 04:03:27</lastupdateddate>
+  <lastlogindate>2014-11-28 03:56:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stephen</firstname>
+  <lastname>Adams</lastname>
+  <email>innfusion@me.com</email>
+  <password>$2y$10$8mi5LQXT2UmTtxJkSF4qAeBHlIFxXUTwbTlcnvnz2GbQegCgfgFNe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.173.249.209</ipaddress>
+  <createdate>2015-06-10 12:57:30</createdate>
+  <lastupdateddate>2016-01-12 19:46:12</lastupdateddate>
+  <lastlogindate>2016-01-12 19:46:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

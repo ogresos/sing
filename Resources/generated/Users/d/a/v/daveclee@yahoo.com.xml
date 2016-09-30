@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Lee</lastname>
+    <email>daveclee@yahoo.com</email>
+    <password>McQHpO9aa1O%2BncnYxe211Q%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>72.192.188.7</ipaddress>
+    <createdate>2011-06-02 13:11:32</createdate>
+    <lastupdateddate>2011-06-02 13:13:52</lastupdateddate>
+    <lastlogindate>2011-06-02 13:11:35</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

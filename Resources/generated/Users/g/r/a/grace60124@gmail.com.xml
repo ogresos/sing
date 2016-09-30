@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>En-Lin</firstname>
+  <lastname>Chang</lastname>
+  <email>grace60124@gmail.com</email>
+  <password>$2y$10$oQjGM9q4nSEW8GEDEFk2UukJSHJ93vnFCe.fxka6/pOv7/UQbKvIe</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>175.181.231.247</ipaddress>
+  <createdate>2014-10-26 05:38:37</createdate>
+  <lastupdateddate>2014-11-06 01:04:36</lastupdateddate>
+  <lastlogindate>2014-11-06 01:04:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="ns" num="414">Oneness</fav>
+  </favourites>
+</user>

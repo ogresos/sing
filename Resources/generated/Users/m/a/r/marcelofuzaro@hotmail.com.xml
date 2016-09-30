@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Marcelo</firstname>
+  <lastname>Fuzaro</lastname>
+  <email>marcelofuzaro@hotmail.com</email>
+  <password>$2y$10$zJbbOEeUvb0augVy4rCtCe2jODkaDrZsAmEh0qSC4OVsX8wgodOC6</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>189.37.211.87</ipaddress>
+  <createdate>2016-06-12 13:04:28</createdate>
+  <lastupdateddate>2016-06-12 13:06:29</lastupdateddate>
+  <lastlogindate>2016-06-12 13:06:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

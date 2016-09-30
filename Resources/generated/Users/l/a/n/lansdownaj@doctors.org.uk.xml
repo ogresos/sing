@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Andrew</firstname>
+    <lastname>Lansdown</lastname>
+    <email>lansdownaj@doctors.org.uk</email>
+    <password>$1$MfYdsl9M$23S62M.iMrYu.0ESq1jK8/</password>
+    <gender>M</gender>
+    <country>United Kingdom</country>
+    <ipaddress>86.177.63.140</ipaddress>
+    <createdate>2009-08-06 18:05:29</createdate>
+    <lastupdateddate>2013-08-11 11:03:48</lastupdateddate>
+    <lastlogindate>2013-08-11 11:03:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="676">All thy griefs by Him are ordered</fav>
+        <fav category="default" type="h" num="963">Face to face with Christ, my Savior</fav>
+        <fav category="default" type="h" num="321">Full salvation! Full salvation</fav>
+        <fav category="default" type="h" num="119">Hallelujah, He is risen</fav>
+        <fav category="default" type="h" num="1137">His countenance angels can often behold</fav>
+        <fav category="default" type="h" num="304">How should the Lord keep back His sword from blood</fav>
+        <fav category="default" type="h" num="75">Jesus, Name of matchless splendor</fav>
+        <fav category="default" type="h" num="211">Jesus, my Savior! Thou art mine</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="h" num="207">Lord Jesus! when we think of Thee</fav>
+        <fav category="default" type="nt" num="350b">My goal is God Himself (Alternate)</fav>
+        <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+        <fav category="default" type="h" num="520">None other Lamb, none other Name</fav>
+        <fav category="default" type="h" num="360">O Everlasting Light</fav>
+        <fav category="default" type="h" num="927">O God of burning altar fire</fav>
+        <fav category="default" type="h" num="1126">O Jesus Lord, we come to Thee</fav>
+        <fav category="default" type="h" num="435">Oh, the bitter shame and sorrow</fav>
+        <fav category="default" type="h" num="318">Precious Savior, Thou hast saved me</fav>
+        <fav category="default" type="h" num="1072">She only touched the hem of His garment (gospel)</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="555">Still, still with Thee, when purple morning breaketh</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="638">To Calv'ry let our eyes be turned</fav>
+        <fav category="default" type="h" num="638b">To Calv'ry let our eyes be turned (Alternate Tune)</fav>
+    </favourites>
+</user>

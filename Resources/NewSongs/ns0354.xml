@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O my God, within Thee there is eternal life</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Life</category>
+  <numbers><chinese num="ts:118"/><english num="ns:354"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Chinese</author>
+    <composer biodate="1812-1877" biolink="">Adapted from George Nelson Allen</composer>
+  </creators>
+  <hymncode>3455513321161</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C/E - - | F - - | Dm7 - - | C/E - - | Am - - | Dm - G7 | C - - | C7 - - | F - - | D/F# - - | C/G - Am | Dm7 - G7 | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 3/ 4/ | 5 - 5/ 5/ | ._1 - ._3/ ._3/ | ._2 - ._1/ ._1/ (break) | 6/( ._1.) 6/ 6/ | 5 - 5/ 5/ | ._1 - ._3/ ._3/ (break) | ._2 - ._3/ ._4/ | ._5 - ._5/ ._5/ | ._3 - ._3/ ._3/ | ._2 - ._1/ ._1/ (break) | 6/( ._1.) 6/ 6/ | 5 - ._1/ ._2/ | ._5/( (.._3/) - ._2/ ._1/ | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>O my God, with -- in Thee there is e -- ter -- nal life And this life is ex -- pressed in the Son He has ris -- en, to -- day, as the Spir -- it of life Which in us quick -- ens us, gives us life.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="31">ns0354.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O my God, within Thee there is eternal life
+And this life is expressed in the Son
+He has risen, today, as the Spirit of life
+Which in us quickens us, gives us life.</stanza>
+    <stanza type="verse" number="2">O behold, from the throne of our God and the Lamb
+Flows a river of water of life
+God the source, Christ the fount, God the Spirit the flow,
+Springing up as a river of life.</stanza>
+    <stanza type="verse" number="3">Jesus Lord, from my spirit I turn unto Thee
+Open wide, call Thy name, drink Thee in;
+Dearest Lord, to this stream I outpour utterly;
+Triune God, flow as life, flood my being.</stanza>
+  </lyrics>
+</hymn>

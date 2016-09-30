@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Paano ko Siyang mahalin</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;SUMUSUNOD SA PANGINOON</category>
+  <numbers><cebuano num="462"/><chinese num="345"/><english num="462"/><korean num="345"/><tagalog num="462"/></numbers>
+  <creators>
+    <author biodate="1789-1855" biolink="">Translated from Josiah Conder</author>
+  </creators>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Paano ko Siyang mahalin?
+Siya'y handugan at lugurin?
+Di lumihis sa landas Niya
+At makahugpong sa Kanya?</stanza>
+    <stanza type="verse" number="2">Kahit landas ko'y masukal,
+Huwag hayaang ako'y mabuwal,
+Gawin akong masunurin,
+Tanging sa krus Mo'y tumingin.</stanza>
+    <stanza type="verse" number="3">Ako'y paalalahanan,
+Ang galak ay Iyong iniwan,
+Lungkot, gutom, pagod, uhaw,
+Walang lunas, gabi't araw.</stanza>
+    <stanza type="verse" number="4">Para sa 'kin namatay Ka,
+Lugod Mo'y Iyong itinatwa;
+Kaginhawahan ng mundo
+Di matakwil para sa Iyo?</stanza>
+    <stanza type="verse" number="5">Ituring lahat ay lugi,
+Ikaw ang makamit lagi,
+Lahat sa aki'y sukal nga,
+Hinayang ba'ng ibigin Ka?</stanza>
+  </lyrics>
+</hymn>

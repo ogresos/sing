@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Sarani</firstname>
+<lastname>Loganathan</lastname>
+<email>sarzy_warzy@hotmail.com</email>
+<password>$1$Ps7zvruy$K2ch7OwzbF2eQ.5ybv0Qc0</password>
+<gender>F</gender>
+<country>New Zealand</country>
+<ipaddress>125.238.132.191</ipaddress>
+<createdate>2008-09-27 03:03:19</createdate>
+<lastupdateddate>2009-09-15 18:25:58</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="49">Whispers from above</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="52">Sweet, sweet repose</fav>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+        <fav category="default" type="ns" num="38">Jesus Lord, I long for Your embrace</fav>
+        <fav category="default" type="ns" num="36">Make me wholly Thine</fav>
+    </favourites>
+</user>

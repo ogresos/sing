@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dios m'oy tinguha, dili kalipay</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA DIOS</category>
+  <numbers><cebuano num="350"/><chinese num="270"/><dutch num="65"/><english num="350"/><german num="350"/><korean num="270"/><russian num="409"/><spanish num="167"/><tagalog num="350"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Frederick Brook</author>
+  </creators>
+  <melody>| 3 - 5 2 | 1 - 6 - | 5 6 4 4 | 3 - - - (break) | 3 - 3 4# | 5 - ._1 - | 7 6 3 4# | 5 - - - (break) | 6 - 5 ._1 | ._1 - 7 - | 7 6 5 2 | 3 - - - (break) | 3 - 3 2 | 5 - 1 - | 3 2 6_. 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="350"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dios m'oy tinguha, dili kalipay,
+Ni kalinaw ba'g kabulahanan;
+Maangkon S'ya di's kaugalingon,
+Sundon lang Siya, bisan unsaon.</stanza>
+	<stanza type="verse" number="2">Sa pagtoo nagpadayon's tumong,
+Nisalig's gugma, dad-on ka Niya;
+Gitabangan N'ya, hugot nagsunod,
+Hangtud pag-ampo ko matuman N'ya.</stanza>
+	<stanza type="verse" number="3">Di igsapayang dalan usahay
+Lisud ug sakripisyoha'g dako,
+Nasayud S'ya pagkab-ot sa tumong,
+Hiktin gyung dalan paingon Niya.</stanza>
+	<stanza type="verse" number="4">Usay nasayran, di ka-dili N'ya,
+Usay mahimo, gukdon ko Siya;
+Dios ko himaya sa adlaw-adlaw,
+Ug didto Siya m'oy dakong Balus.</stanza>
+  </lyrics>
+</hymn>

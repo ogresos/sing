@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂是主</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <melody>| 0 - - 5 | 5 - 4 3 | 3 - 2 3 | 4( 6) 5 4 | 3 - - 5 | ._1 - 7 6 | 6 - 5 4# | 5 - - 5 (break) | ._1 - ._1 7 | 6 - 6 6 | ._2 - ._2 ._1 | 7 - 6 5 | ._1 - ._1 ._1 | ._1 - 7. ._1/ (break) | (.._1 - (Chorus) 5 5 | 5( - - - | 5) - 5 5 | 5( - - - | 5) - 3 5 (break) | 6 - 6 ._1 | ._1 - 7. ._1/ | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+	<singingstanza>四 周 滿 艱 辛， 無 一 處 可 安 息， 我 心 似 乎 消 化 如 水； 但 是 在 深 處 有 微 聲 輕 輕 訴， 你 是 否 真 知 道 『祂 是 主』？ 哦 我 心， 當 肅 穆！ 祂 是 主， 祂 是 主， 祂 是 主！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="341"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">四周滿艱辛，
+無一處可安息，
+我心似乎消化如水；
+但是在深處
+有微聲輕輕訴，
+你是否真知道
+『祂是主』？</stanza>
+	<stanza type="chorus" number="">哦我心，當肅穆！
+祂是主，祂是主，
+祂是主！</stanza>
+	<stanza type="verse" number="2">試探常臨及，
+如花在夢中現，
+花容既美麗又鮮艷，
+生姿的微笑，
+招我回世界中，
+深處卻有聲說：
+『祂是主！』</stanza>
+	<stanza type="verse" number="3">全人已破碎，
+無一處是完整，
+但是黑影籠罩愈深；
+雙手盡伸出，
+卻不見何依傾，
+在深處卻湧出：
+『祂是主！』</stanza>
+	<stanza type="verse" number="4">雄心和壯志，
+皆已隨風而去，
+祂所給苦刺似過重；
+輕聲問我主，
+是否已被你棄，
+卻聽祂愛中說：
+『我是主！』</stanza>
+	<stanza type="verse" number="5">心頭滿羞慚，
+淚眼向心所愛─
+多年來祂一再賞賚，
+頑梗又不貞，
+似不能顯祂榮，
+釘痕手卻見證：
+『祂是主！』</stanza>
+  </lyrics>
+</hymn>

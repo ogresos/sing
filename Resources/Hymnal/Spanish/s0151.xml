@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Qué garantía, mío es Jesús</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación&amp;mdash;Nacidos del Espiritu</category>
+  <numbers><cebuano num="308"/><chinese num="265"/><english num="308"/><french num="58"/><german num="308"/><korean num="265"/><portuguese num="168"/><russian num="63"/><spanish num="151"/><tagalog num="308"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - - 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 5/ 3/ 5/ | ._1. 7 7/ 6/ 5/ 4#/ (break) | 5.( 5.) 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1/ 2/ 7_./ (break) | 1.( 1.) (Chorus) 5/ 5/ 5/ | ._1. 5. 6/ 6/ 6/ | 5.( 5.) 5/ 5/ 5/ | 6. ._1. 7/ 7/ 6/ (break) | 7.( 7.) 7/ ._1/ ._2/ | ._1. 5. 6/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1./ 2// 7_./ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Qué garantía, mío͜ es Jesús!
+¡Gloria divina, qué rico sabor!
+Dios me compró, me dio salvación,
+Me redimió y regeneró.</stanza>
+	<stanza type="chorus" number="">Esta͜ es mi͜ historia y mi canción,
+Siempre͜ alabando al Salvador.
+Esta͜ es mi͜ historia y mi canción,
+Siempre͜ alabando al Salvador.</stanza>
+	<stanza type="verse" number="2">Delicia plena en sumisión,
+Veo visiónes de gloria͜ estallar;
+Angeles bajan, del cielo traen
+Voces de amor, ecos de piedad.</stanza>
+	<stanza type="verse" number="3">Sumisión plena, todo͜ está͜ en paz;
+Me regocijo en mi Salvador;
+Orando͜ espero llenado ser
+Con Su bondad, perdido͜ en Su͜ amor.</stanza>
+  </lyrics>
+</hymn>

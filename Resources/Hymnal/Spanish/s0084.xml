@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Señor Jesús, te adoramos con gozo</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su dignidad</category>
+  <numbers><cebuano num="180"/><chinese num="148"/><english num="180"/><german num="180"/><korean num="148"/><portuguese num="90"/><russian num="346"/><spanish num="84"/><tagalog num="180"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 6/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - (break) | (Chorus) 2 2./ 3// 4/ 4 0/ | 3 3./ 4// 5/ 5 0/ | 5 4#./ 5// 6/( 7/) ._1/ ._1/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - |</melody>
+  <music>
+	<midiref type="h" num="180"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Señor Jesús, te͜ adoramos con gozo,
+Y͜ hasta Tu trono alzamos canción;
+Hoy bendecidos a Ti confesamos
+Que sólo Tú eres digno de͜ honor.</stanza>
+	<stanza type="chorus" number="">Tú eres digno; Tú eres digno;
+Tú eres digno, muy digno, Señor;
+Hoy bendecidos a Ti confesamos
+Que sólo Tú eres digno de͜ honor.</stanza>
+	<stanza type="verse" number="2">Tú eres Dios, mas llegaste͜ a ser hombre,
+No como͜ un ángel moriste͜ en la cruz,
+Para͜ aplastar la antigua serpiente
+De la mujer la simiente͜ eres Tú.</stanza>
+	<stanza type="verse" number="3">Te humillaste y fuiste clavado
+Por Tus criaturas un día͜ en la cruz;
+Aún por Dios siendo desamparado
+La maldición no rehuiste Tú.</stanza>
+	<stanza type="verse" number="4">Tú has triunfado, triunfado con gloria,
+Ondas de muerte pudiste͜ aplastar;
+Nadie podrá acallar esa͜ historia,
+Sobre͜ el sepulcro invicto Tú͜ estás.</stanza>
+  </lyrics>
+</hymn>

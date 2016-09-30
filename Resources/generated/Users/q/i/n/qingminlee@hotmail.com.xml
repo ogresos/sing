@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>vera</firstname>
+    <lastname></lastname>
+    <email>qingminlee@hotmail.com</email>
+    <password>fG5O7XEVWsk4LJRgZ%2F0t2Q%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>71.187.167.12</ipaddress>
+    <createdate>2013-03-17 14:45:20</createdate>
+    <lastupdateddate>2013-03-19 16:30:34</lastupdateddate>
+    <lastlogindate>2013-03-17 14:45:20</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="515">All is in Christ</fav>
+        <fav category="default" type="h" num="552">Marvel not that Christ in glory</fav>
+        <fav category="default" type="nt" num="12">O God, Thou art the source of life</fav>
+        <fav category="default" type="h" num="648">Soldier, soldier, fighting in the world's great strife</fav>
+        <fav category="default" type="h" num="439">Utterly abandoned</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

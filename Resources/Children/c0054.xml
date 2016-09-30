@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hold out your hands! Aren't they wonderful</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>117165345666543245</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | F - C - | Dm - G7 - | C - F - | C - F - | C - F - | G7 - C - ||</chords>
+  <melody>| ._1/ ._1/( ._1/) 7/ ._1 - | 6 5 3/ 4/ 5 (break) | 6/ 6/( 6/) 6/ 5 4/ 3/ | 2 4 5 - (break) | 3/ 2/ 3 4/ 4// 3// 4 | 5/ 5/ 5/ 5/ 6 - (break) | 5/ 5/ 5 4/ 4/ 5/ 4/ | 5 7 ._1 - ||</melody>
+  <layout>
+    <singingstanza>Hold out your hands! Aren't they won -- der -- ful, So man -- y things that your hands can do&amp;mdash; Catch a ball, o -- pen a can, peel an or -- ange too&amp;mdash; Throw and clap, zip and snap, and wave to you.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="17">c0054.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Hold out your hands! Aren't they wonderful,
+So many things that your hands can do&amp;mdash;
+Catch a ball, open a can, peel an orange too&amp;mdash;
+Throw and clap, zip and snap, and wave to you.</stanza>
+  </lyrics>
+</hymn>

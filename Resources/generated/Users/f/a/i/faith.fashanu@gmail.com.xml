@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>fiath</firstname>
+  <lastname/>
+  <email>faith.fashanu@gmail.com</email>
+  <password>$2y$10$Zz6fg23pc4J0pmEp9Qx6/O5PN9.6QL.87.qbbGGR2940dz2fdiJbe</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>99.227.233.161</ipaddress>
+  <createdate>2015-12-19 14:44:35</createdate>
+  <lastupdateddate>2015-12-19 14:49:34</lastupdateddate>
+  <lastlogindate>2015-12-19 14:45:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+  </favourites>
+</user>

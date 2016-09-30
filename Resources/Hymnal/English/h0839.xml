@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, Thou art a potter skilled</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Building</category>
+  <numbers><cebuano num="839"/><chinese num="604"/><dutch num="57"/><english num="839"/><french num="148"/><german num="839"/><korean num="604"/><lsmyp num="239"/><portuguese num="385"/><russian num="332"/><spanish num="357"/><tagalog num="839"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>12334433455432</hymncode>
+  <key>Eb Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | C - - - F/C - | C - - - - - | C/E - - - C - | G - - - G7/B - | C - - - F/C - | C - - - G/B - | Am - - - D7 - | G - - - G7/B - | C - - - C/E - | F - - - G7/F - | C/E - - - C - | G - - - G7/B - | C - - - C/E - | F - - - Dm - | C/G - - - G7 - | F/C - C - 0 - |</chords>
+  <guitarChords>| C - - - - - | C - - - G - | C - - - - - | C - - - - - | G - - - G7 - | C - - - G - | C - - - - - | D7 - - - - - | G - - - G7 - | C - - - - - | F - - - - - | C - - - - - | G - - - G7 - | C - - - G - | C - - - F - | C - - - G7 - | C - - - 0 - |</guitarChords>
+  <melody>| 0 - - - 1 2 | 3 - - 3 4 4 | 3 - - - 3 4 | 5 - - 5 4 3 (break) | 2 - - - 1 2 | 3 - - 3 4 4 | 3 - - - 5 5 | 5 - - 4# 3 4# (break) | 5 - - - 5 4 | 3 - - 3 4 3 | 6 - - - 6 6 | 5 - - 5 4 3 (break) | 2 - - - 3 4 | 5 - - 5 6 7 | ._1 - - - 7 6 | 5 - - 5 4 2 | 1 - - - 0 - |</melody>
+  <layout>
+	<singingstanza>Lord, Thou art a pot -- ter skilled And a glo -- rious build -- er too, Mold -- ing for Thy ves -- sel great, Build -- ing with Thy house in view. I am both a man of clay And a new- -- made liv -- ing stone, That Thy ves -- sel I may be And the tem -- ple Thou wouldst own.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">thydwellingplaceolordilove.xml</link>
+	<link type="group">hymnal-subj202.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0839.html">View Lyrics</link>
+	<link type="orderinfo" url="www.livingstream.com/hymns/0736323783.html"></link>
+  </links>
+  <music>
+	<midi location="h" length="35">e0839_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Lord, Thou art a potter skilled
+And a glorious builder too,
+Molding for Thy vessel great,
+Building with Thy house in view.
+I am both a man of clay
+And a new-made living stone,
+That Thy vessel I may be
+And the temple Thou wouldst own.</stanza>
+	<stanza type="verse" number="2">Though of clay Thou madest us,
+Thou wouldst have us be transformed;
+With Thy life as purest gold,
+Unto precious stones conformed.
+We shall, through Thy building work,
+Then become Thy loving Bride,
+In one Body joined to Thee,
+That Thy heart be satisfied.</stanza>
+	<stanza type="verse" number="3">What Thy heart desires and loves
+Are not precious stones alone,
+But together these to build
+For Thy glory, for Thy home.
+Thou, the all-inclusive Christ,
+Dost a builded Church require,
+That Thy glorious riches may
+Radiate their light entire.</stanza>
+	<stanza type="verse" number="4">Not the person spiritual
+In an individual way,
+But the corporate life expressed
+Will Thy heart's desire display.
+Members separate and detached
+Ne'er express Thee perfectly,
+But Thy Body tempered, built,
+Ever shall Thy fulness be.</stanza>
+	<stanza type="verse" number="5">Build me, Lord, with other saints,
+Independence ne'er allow,
+But according to Thy plan
+Fitly frame and join me now.
+In experience not my boast,
+Nor in gifts would be my pride;
+For Thy building I give all,
+That Thou may be glorified.</stanza>
+  </lyrics>
+</hymn>

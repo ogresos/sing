@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela</firstname>
+  <lastname>Felx</lastname>
+  <email>angelafelix10@gmail.com</email>
+  <password>$2y$10$v5Lz6ex/11p7/ZRZHT7wOekb3E8kZgWEVw111gUiXQ7vY.oqR.Xr6</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>98.164.211.217</ipaddress>
+  <createdate>2013-08-15 09:40:49</createdate>
+  <lastupdateddate>2015-07-19 17:22:59</lastupdateddate>
+  <lastlogindate>2015-07-19 17:22:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="350b">My goal is God Himself (Alternate)</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+    <fav category="default" type="ns" num="413">Two Kisses</fav>
+  </favourites>
+</user>

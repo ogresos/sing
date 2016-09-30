@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Agada</firstname>
+    <lastname>Sunday</lastname>
+    <email>sundayagadas@ymail.com</email>
+    <password>ihLV9g4iZshueSJr%2FhIn1w%3D%3D</password>
+    <gender>M</gender>
+    <country>ng</country>
+    <ipaddress>217.117.1.126</ipaddress>
+    <createdate>2012-06-13 08:43:42</createdate>
+    <lastupdateddate>2012-06-15 13:14:13</lastupdateddate>
+    <lastlogindate>2012-06-14 09:20:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+        <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

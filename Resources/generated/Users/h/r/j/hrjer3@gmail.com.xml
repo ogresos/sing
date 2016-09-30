@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Heidi</firstname>
+    <lastname>Johnson</lastname>
+    <email>hrjer3@gmail.com</email>
+    <password>sfBtTw03NXZVtB6Wo0nRQw%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>68.189.134.37</ipaddress>
+    <createdate>2011-05-22 00:42:05</createdate>
+    <lastupdateddate>2011-05-22 00:43:41</lastupdateddate>
+    <lastlogindate>2011-05-22 00:42:07</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+    </favourites>
+</user>

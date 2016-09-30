@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Julie</firstname>
+  <lastname/>
+  <email>julieliddleduncan@hotmail.com</email>
+  <password>$2y$10$i5rJI2cAP0a/4qAz3.uqb.m75uaLiKV9aaE/mtN32cQw8iRUCmsFu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>174.101.93.83</ipaddress>
+  <createdate>2014-07-09 01:34:13</createdate>
+  <lastupdateddate>2014-07-09 01:58:27</lastupdateddate>
+  <lastlogindate>2014-07-09 01:39:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="15">B-I-B-L-E</fav>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="c" num="58">Jesus loves the little children</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+  </favourites>
+</user>

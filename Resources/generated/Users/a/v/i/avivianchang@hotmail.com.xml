@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Vivian</firstname>
+    <lastname></lastname>
+    <email>avivianchang@hotmail.com</email>
+    <password>dsZEpplCTj5ZQGkZuia%2Bbg%3D%3D</password>
+    <gender></gender>
+    <country>Taiwan</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-16 02:44:28</createdate>
+    <lastupdateddate>2014-05-16 02:44:28</lastupdateddate>
+    <lastlogindate>2014-04-30 02:40:35</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="h" num="1110">O Jesus Lord, when present at Thy table</fav>
+    </favourites>
+</user>

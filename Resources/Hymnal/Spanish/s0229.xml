@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Brotó de El gracia y verdad</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Como comida y bebida</category>
+  <numbers><cebuano num="1149"/><chinese num="ts:221"/><english num="1149"/><german num="1149"/><korean num="822"/><russian num="464"/><spanish num="229"/></numbers>
+  <melody>| 0. 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 4/ (break) | 6/ 5 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 5/ | 1 - (break) | (Chorus) 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 4/ | 6/ 5. (break) | 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 5/ | 1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="1149"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Brotó de El gracia͜ y verdad
+Bebemos en la fuente;
+A este Cristo͜ hay que͜ alabar
+En la͜ iglesia, Su͜ hogar.</stanza>
+	<stanza type="chorus" number="">¡Gloria͜ a Dios! ¡Bebemos en la fuente!
+¡Gloria͜ a Dios! ¡La͜ iglesia es nuestro͜ hogar!.</stanza>
+	<stanza type="verse" number="2">Su gracia se͜ halla͜ al invocar,
+Bebemos en la fuente;
+Mejor que͜ el cielo,͜ a El buscad,
+Lo͜ encuentras en Su͜ hogar.</stanza>
+	<stanza type="verse" number="3">Aunque luchando͜ el diablo͜ está,
+Bebemos en la fuente;
+El no podrá jamás triunfar
+En contra de͜ este hogar.</stanza>
+	<stanza type="verse" number="4">La sed nos trae al manantial,
+Bebemos en la fuente;
+Tal pozo no se͜ agotará,
+Aquí en nuestro͜ hogar.</stanza>
+  </lyrics>
+</hymn>

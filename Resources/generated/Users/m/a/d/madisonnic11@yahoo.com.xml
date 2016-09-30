@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Madison</firstname>
+  <lastname>Briggs</lastname>
+  <email>madisonnic11@yahoo.com</email>
+  <password>$2y$10$71fDhomwN7U.eAC6gq59sudbRqpez3h2rA5cRiPsNZ6sauffnpNRa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.167.223.4</ipaddress>
+  <createdate>2014-11-23 06:21:23</createdate>
+  <lastupdateddate>2014-11-23 06:24:01</lastupdateddate>
+  <lastlogindate>2014-11-23 06:22:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1292">An uplifted gospel have we</fav>
+  </favourites>
+</user>

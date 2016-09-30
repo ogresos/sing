@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hark! ten thousand voices crying</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Exaltation</category>
+  <numbers><cebuano num="127"/><chinese num="110"/><english num="127"/><german num="127"/><korean num="110"/><portuguese num="62"/><russian num="203"/><spanish num="66"/><tagalog num="127"/></numbers>
+  <creators>
+	<author biodate="1800-1882" biolink="www.johndarby.org">John Nelson Darby</author>
+	<composer biodate="" biolink="">Geistliche Lieder, German</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>5651332125</hymncode>
+  <key>G Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - G. | C - - C/E. | G - - G/D. | G7 - - G7/B. | C - - G/D. | C/E - - C7. | F - - Dm. | C/G - - G7. | F/C. C. 0. |</chords>
+<guitarChords>| C - - C. | C - - C. | G - - G. | G7 - - G7. | C - - C. | C - - C7. | F - - F. | C - - G7. | C. C. 0. |</guitarChords>
+  <melody>| 0 - - 5_./( 6_./) 5_./ | 1. 3. 3/( 2/) 1/ | 2. 5_.. 5_./( 6_./) 5_./ | 2. 4. 4/( 3/) 2/ (break) | 3 - - 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ | 1. 6_.. 2/( 1/) 6_./ | 5_.. 1. 3 2/ | 1 - - 0. |</melody>
+  <layout>
+	<singingstanza>Hark! ten thou -- sand voic -- es cry -- ing, "Lamb of God!" with one ac -- cord; Thou -- sand thou -- sand saints re -- ply -- ing, Wake at once the ec -- ho'ng chord.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj147.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="19">e0127_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hark! ten thousand voices crying,
+  "Lamb of God!" with one accord;
+Thousand thousand saints replying,
+  Wake at once the echo'ng chord.</stanza>
+	<stanza type="verse" number="2">"Praise the Lamb!" the chorus waking,
+  All in heav'n together throng;
+Loud and far each tongue partaking
+  Rolls around the endless song.</stanza>
+	<stanza type="verse" number="3">Grateful incense this, ascending
+  Ever to the Father's throne;
+Every knee to Jesus bending,
+  All the mind in heav'n is one.</stanza>
+	<stanza type="verse" number="4">All the Father's counsels claiming
+  Equal honors to the Son,
+All the Son's effulgence beaming,
+  Makes the Father's glory known.</stanza>
+	<stanza type="verse" number="5">By the Spirit all pervading,
+  Hosts unnumbered round the Lamb,
+Crowned with light and joy unfading,
+  Hail Him as the great "I AM."</stanza>
+	<stanza type="verse" number="6">Joyful now the new creation
+  Rests in undisturbed repose,
+Blest in Jesus' full salvation,
+  Sorrow now nor thraldom knows.</stanza>
+	<stanza type="verse" number="7">Hark! the heavenly notes again!
+  Loudly swells the song of praise;
+Through creation's vault, Amen!
+  Amen! responsive joy doth raise.</stanza>
+  </lyrics>
+</hymn>

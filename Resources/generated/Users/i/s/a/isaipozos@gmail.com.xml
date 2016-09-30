@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles/>
+  <firstname>Isai</firstname>
+  <lastname>Pozos</lastname>
+  <email>isaipozos@gmail.com</email>
+  <password>$2y$10$NqGUCtwwtEcTzyC1TERL1eIGe6oD.xV2ShGwhC9w8qZc/49pRkI8i</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>72.177.1.186</ipaddress>
+  <createdate>2008-07-26 01:43:07</createdate>
+  <lastupdateddate>2015-12-02 13:37:59</lastupdateddate>
+  <lastlogindate>2015-12-02 13:37:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="h" num="1307">The day approaches; Jesus soon is coming</fav>
+    <fav category="default" type="h" num="1308">We have oil in our lamps&amp;mdash;we are burning</fav>
+  </favourites>
+</user>

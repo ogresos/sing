@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Harold</firstname>
+  <lastname>Wang</lastname>
+  <email>harold.wangs@gmail.com</email>
+  <password>$2y$10$Eydu0Goxl3dCYHIeXGHg4uJeSZCAxc.Gd5ncLpV4n3vVU34pQs83K</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>108.63.57.163</ipaddress>
+  <createdate>2016-05-24 06:42:33</createdate>
+  <lastupdateddate>2016-05-24 06:43:15</lastupdateddate>
+  <lastlogindate>2016-05-24 06:43:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

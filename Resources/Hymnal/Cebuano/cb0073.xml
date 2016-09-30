@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, Ngalan nga gamhanan</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG NGALAN</category>
+  <numbers><cebuano num="73"/><chinese num="65"/><english num="73"/><french num="14"/><german num="73"/><korean num="65"/><russian num="20"/><spanish num="41"/><tagalog num="73"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 0 - - 5 4/ | 3.( 3) 3/ 3/( 2/) 3/ | 5. 4. 4 3/ | 2.( 2) 5/ 6/( 5/) 4/ (break) | 3.( 3.) 5 4/ | 3.( 3) 5/ 6/( ._1/) 6/ | 5. 3. 3 3/ | 2.( 2) 3/ 5/( 4/) 2/ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="73"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, Ngalan nga gamhanan,
+Ako nga dalangpanan;
+"Naglingkod Ka's kahitas-an,"
+Ngalan Mo kadaugan!</stanza>
+	<stanza type="verse" number="2">Jesus daygon, Manluluwas,
+Na' Nimong kin'hanglan ko;
+Tawgon lang ug ginhawaon,
+Kinabuhi mainom.</stanza>
+	<stanza type="verse" number="3">Isangyaw, langit ug yuta,
+Ang gahum N'ya'g himaya;
+Pinasaylo ray nasayud
+Ngalan tambal's kalisud!</stanza>
+	<stanza type="verse" number="4">Jesus, Ngalang labing mahal,
+Hinagiban ko'g tambal,
+Sa Ngalan Mo mabuhi mi,
+Hangtud Ikaw moanhi.</stanza>
+  </lyrics>
+</hymn>

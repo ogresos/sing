@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anabella</firstname>
+  <lastname>Gonzalez</lastname>
+  <email>bellarina017@gmail.com</email>
+  <password>$2y$10$4KGiaXdEgABDewXomUjtC.fWaMd/2LPCTGjIU9dKJ4gpiAfl6j1sO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.211.138.72</ipaddress>
+  <createdate>2016-05-22 04:39:30</createdate>
+  <lastupdateddate>2016-05-22 04:41:20</lastupdateddate>
+  <lastlogindate>2016-05-22 04:40:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+  </favourites>
+</user>

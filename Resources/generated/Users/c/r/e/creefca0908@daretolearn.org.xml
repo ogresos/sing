@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carson</firstname>
+  <lastname/>
+  <email>creefca0908@daretolearn.org</email>
+  <password>$2y$10$22URzj4x/iml78Vj22e9AONrrdnvjbiMa8qYLESGvp2UGuKVKHyxu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.50.129.61</ipaddress>
+  <createdate>2015-08-28 01:20:59</createdate>
+  <lastupdateddate>2015-08-28 01:30:28</lastupdateddate>
+  <lastlogindate>2015-08-28 01:22:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+  </favourites>
+</user>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mahal Kita di ng pag-ibig ko</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;PAG-IBIG SA KANYA</category>
+  <numbers><cebuano num="546"/><chinese num="ts:333"/><english num="546"/><french num="98"/><german num="546"/><portuguese num="271"/><russian num="521"/><spanish num="255"/><tagalog num="546"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Translated from Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+  </creators>
+  <melody>| 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - 3 | 5 5 4 4 | 3 - - - (break) | 5 - 5 4 | 3 5 ._3 ._1 | 6 - ._1 - | 5 - - ._1 | ._1 ._1 7 7 | ._1 - - - (break) | ._4 - ._1 ._2 | ._3 - 5 - | 6 ._1 7 6 | 5 - - - (break) | 6 - 7 ._1 | ._3 5 6 ._2 | ._1 - 7 - | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="546"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Mahal Kita di ng pag-ibig ko,
+'Pagkat wala ako;
+Mahal Kita, tanang pag-ibig 'Yo
+Namumuhay sa Iyo.
+Bale-wala ako't natutuwang
+Mabasyo, sa loob Mo'y mawala.</stanza>
+	<stanza type="verse" number="2">Panginoon, aming kailangan Ka,
+At wala nang iba;
+Ilog ng pagpala sa Iyo mula,
+Kas'ma Mo pinala;
+Bukal ng buhay, mayamang b'yaya
+Pinagmulan, sentro't tirahan nga.</stanza>
+  </lyrics>
+</hymn>

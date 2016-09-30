@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Himself drew near</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Fellowship with Him</category>
+  <creators>
+    <author biodate="1861-1918" biolink="">Ada Ruth Habershon</author>
+    <composer biodate="1880-1961" biolink="">Robert Harkness</composer>
+  </creators>
+  <meter>6.6.8.6.4.</meter>
+  <hymncode>321167432271</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G7 - - - | G7 - - - | C - - - | C - C7 - | Dm/F - - - | G7 - - - | C - - - | C - - - | G - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 - - 3 | 2 1 1 6_. | 7_. - - 4 | 3 2 2 7_. | 1 - - 5 (break) | 4 3 3 3 | 2 6_. 1 7_. | 6_. 5_. 1 2 | 3 - - 5 (break) | 5 - - 1 | 7_. - - 5 | 5 - - 7_. | (.1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Je -- sus Him -- self drew near, And joined them as they walked, And soon their hearts be -- gan to burn, As of Him -- self He talked: Draw near, O Lord. Draw near, O Lord.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj065.xml</link>
+    <link type="ref">Luke 24:13-35</link>
+  </links>
+  <music>
+    <midi location="h" length="24">e0557_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus Himself drew near,
+  And joined them as they walked,
+And soon their hearts began to burn,
+  As of Himself He talked:
+    Draw near, O Lord.</stanza>
+    <stanza type="verse" number="2">Jesus Himself drew near,
+  They were no longer sad;
+When He was walking at their side,
+  How could they but be glad?
+    Draw near, O Lord.</stanza>
+    <stanza type="verse" number="3">Jesus Himself drew near,
+  And all their doubts were solved;
+He showed them why Christ came to die,
+  And what that death involved:
+    Draw near, O Lord.</stanza>
+    <stanza type="verse" number="4">Jesus Himself drew near,
+  And at the journey's end
+They could not let Him leave them thus,
+  The Stranger was their Friend:
+    Draw near, O Lord.</stanza>
+  </lyrics>
+</hymn>

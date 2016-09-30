@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Give Yourself to Love the Lord</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord</category>
+  <numbers><english num="ns:160"/><lsmyp num="104"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="" biolink="" fullname="Natalie Pagel">N. P.</composer>
+  </creators>
+  <hymncode>16551235516551231</hymncode>
+  <key>F# Major</key>
+  <time>4/4</time>
+  <tempo>93</tempo>
+  <chords>| C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | Dm - - - | G - - - | Dm - - - | G - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | Dm - - - | G - - - | Dm - - - | G - - - | C - - - | F/C - - - | Am - - - | Em - - - | F - - - | Fm - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | F/C - - - | Am - - - | Em - - - | F - - - | Fm - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - |</chords>
+  <melody>| 1. 6_./ 5_. - | 0. 5_./ 1 2/ 3/( | 3) - - - | 0 - - - | 5_./ 5_./ 1/ 6_./( 6_./)( 5_..) | 0. 5_./ 1 2/ 3/( | 3/) 1/( 1) - 0 | 0 - 0 1 | 4/( 3/)( 3/) 2/( 2) 1/ 2/( | 2) - 0 - | 4/( 3/)( 3/) 2/( 2) 1/ 2/( | 2) - 1 6_./ 5_./( | 5_.) - - - | 0 - - - (break) | (Verse_2) 1. 6_./ 5_. - | 0. 5_./ 1 2/ 3/( | 3) - - - | 0 - - - | 5_./ 5_./ 1/ 6_./( 6_./)( 5_..) | 0 - 1 2/ 3/( | 3/)( 1/)( 1) - 0 | 0 - - - | 4 - 3 - | 2 - - 0 | 4 - 3 - | 2 - 1 2/ 3/( | 3/) 1/( 1) - - (break) | 0 - 0 0/ (Chorus) 3/ | 3 3/ 3/( 3) 6 | 5. 3. 0/ 3/ | 4( 3/ 2/( 2) 1 | 2 - 0 1 | 5_.. 3_./( 3_.)( - | 4_.) 0 2/( 1/) 7_./ 1/( | 1) - - - | 0 - - - (break) | (Verse_3) 1. 6_./ 5_. - | 0. 5_./ 1 2/ 3/( | 3) - - - | 0 - - - | 5_./ 1/( 1/) 6_./( 6_./)( 5_..) | 0. 5_./ 1/ 1/ 2/ 3/( | 3/)( 1/)( 1) - 0 | 0 - - - | 4 - 3 - | 2 - - 0 | 3 - 5 - | 1 - - 0 | 4 - 3 - | 2 0/ 7_./ 7_./( 1/) 2/ 2/( | 2/)( 1/)( 1) - - | 0 - - - (break) | (Chorus) 3/ 3/( 3/) 3/( 3) 6 | 5. 3/( 3) 3/ 3/ | 4 3/ 2/( 2) 1 | 2 - 0 1 | 5_.. 3_./( 3_.)( - | 4_.) 0 - 2 | 1. 5_./( 5_.) - | 0 - 0 2 | 3. 1/( 1)( - | 1) 0 2/( 1/) 7_./ 1/( | 1) - - - |</melody>
+  <layout>
+    <singingstanza end="-1">Give your -- self to love the Lord. No oth -- er way is so pre -- vail -- ing And no oth -- er way, no oth -- er way is so safe. Give your -- self to love the Lord. No oth -- er way is so rich, And so full, oh so full, of en -- joy -- ment. Each morn -- ing we must rise up and say to Him, "Lord Je -- sus, I love You." Give your -- self to love the Lord. Do not care for an -- y -- thing else; Just love Him! Do not care! Give your -- self to love the Lord! We are not our own, Lord; All we have we give to You. Lord Je -- sus! Lord Je -- sus! Lord Je -- sus, we love You!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="link" url="www.ministrybooks.org">Life and Building as Portrayed in the Song of Songs (Chapter 2)</link>
+  </links>
+  <audios>
+    <audio title="Singing" location="ns" length="350">ns0160_guitar.mp3</audio>
+  </audios>
+  <music>
+    <midi location="ns" length="166">ns0160.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Give yourself to love the Lord.
+No other way is so prevailing
+And no other way, no other way is so safe.</stanza>
+    <stanza type="verse" number="2">Give yourself to love the Lord.
+No other way is so rich, 
+And so full, oh so full, of enjoyment.</stanza>
+    <stanza type="chorus" number="">Each morning we must rise up and say to Him,
+"Lord Jesus, I love You."</stanza>
+    <stanza type="verse" number="3">Give yourself to love the Lord.
+Do not care for anything else;
+Just love Him! Do not care!
+Give yourself to love the Lord!</stanza>
+    <stanza type="chorus" number="">We are not our own, Lord;
+All we have we give to You.
+Lord Jesus! Lord Jesus!
+Lord Jesus, we love You!</stanza>
+  </lyrics>
+</hymn>

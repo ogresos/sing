@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Desde que Cristo me salvou</title>
+  <index>true</index>
+  <category>Diversos</category>
+  <numbers><cebuano num="348"/><chinese num="256"/><english num="348"/><korean num="256"/><portuguese num="181"/><russian num="255"/><spanish num="165"/><tagalog num="348"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from C. F. Butler</author>
+  </creators>
+  <music>
+    <midiref type="h" num="348"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Desde que Cristo me salvou,
+Em gozo a vida se tornou;
+E em meio à dor e ao sofrer,
+É gozo a Cristo conhecer.</stanza>
+    <stanza type="chorus" number="">Oh! que desfrute Cristo dá
+Na terra ou mar, qualquer lugar!
+Pois onde estiver meu Rei,
+Seu rico gozo ali terei.</stanza>
+    <stanza type="verse" number="2">Me era a terra triste e vil,
+Até que Cristo me sorriu;
+Seu gozo teve início em mim,
+Um gozo pleno que é sem fim.</stanza>
+    <stanza type="verse" number="3">Que importa nossa habitação:
+Se em casebre ou mansão?
+Pois onde estiver meu Rei,
+Seu rico gozo ali terei.</stanza>
+  </lyrics>
+</hymn>

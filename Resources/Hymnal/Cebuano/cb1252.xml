@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa Babilonia, binihag kita</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;ANG PAHIULI SA GINOO</category>
+  <numbers><cebuano num="1252"/><chinese num="ts:503"/><english num="1252"/><german num="1252"/><korean num="999"/><spanish num="383"/></numbers>
+  <melody>| 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - (break) | (Chorus) 3 - 1 - | 1 - 6_. - | 5_. 1./ 7_.// 1 2 | 3 3 2 - (break) | 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - |</melody>
+  <notes>Esdras 1</notes>
+  <music>
+	<midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa Babilonia, binihag kita,
+Espiritu ta gipukaw N'ya!
+Nagtibulaag, way pagkausa,
+Espiritu ta gipukaw N'ya!
+Gipukaw N'ya!
+Gipukaw ang espiritu ta!</stanza>
+	<stanza type="verse" number="2">Sa Babilonia daghan ang sekta
+Sa pagkabahin mamangon ta!
+Di kini m'oy hustong sukaranan,
+Sa pagkabahin mamangon ta!
+Bangon! Bangon!
+Sa pagkabahin mamangon ta!</stanza>
+	<stanza type="verse" number="3">Manguli kita sa Jerusalem,
+Manungas ta kay nag-uban S'ya!
+Ngadto's sukaranan's pagkausa,
+Manungas ta kay nag-uban S'ya!
+Manungas ta!
+Kay nag-uban S'ya, manungas ta!</stanza>
+	<stanza type="verse" number="4">Mga sudlanang puno ug Cristo,
+Tanan dad-on sab gayud nato!
+Ngadto's iglesia, pagbuot sa Dios,
+Ang mga sudlanan dad-on ta!
+Dad-on! Dad-on!
+Ang mga sudlanan dad-on ta!</stanza>
+	<stanza type="verse" number="5">Sa Jerusalem, pinili sa Dios,
+Tukoron ta ang templo Niya!
+Magsilbe uban's mga balaan,
+Tukoron ta ang templo Niya!
+Tukoron ta!
+Tukoron ta ang templo Niya!</stanza>
+  </lyrics>
+</hymn>

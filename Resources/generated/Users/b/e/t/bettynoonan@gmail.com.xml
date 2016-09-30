@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>betty</firstname>
+  <lastname>noonan</lastname>
+  <email>bettynoonan@gmail.com</email>
+  <password>$2y$10$Bpd6CZsMkt7ydqtsyVW2uenmxk8tdLFslK3Nw8aVy/1CRcKnQTjU.</password>
+  <gender/>
+  <country/>
+  <ipaddress>216.19.32.74</ipaddress>
+  <createdate>2014-08-01 01:01:05</createdate>
+  <lastupdateddate>2014-09-17 16:36:48</lastupdateddate>
+  <lastlogindate>2014-09-17 16:36:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

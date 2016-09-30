@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus, ako'y ugitan</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PANGUNGUNA NI KRISTO</category>
+  <numbers><chinese num="507"/><english num="392"/><korean num="507"/><tagalog num="392"/></numbers>
+  <creators>
+    <author biodate="1816-1888" biolink="">Translated from Edward Hopper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="392"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus, ako'y ugitan
+Sa buhay kong mabagyo;
+Alon nasa harapan,
+Buhawi't batong lilo;
+Mapa at paraluman -
+Hesus ako'y ugitan.</stanza>
+    <stanza type="verse" number="2">Tulad ng ina ng bata,
+Patahimikin Mo na -
+Dagat ay mamayapa
+Ayon sa Iyong salita;
+Hari ng karagatan -
+Hesus ako'y ugitan.</stanza>
+    <stanza type="verse" number="3">Darating sa baybayin,
+Mabangis man ang alon,
+Ako'y mapayapa rin,
+Sa piling Mo, Pangino'n
+Marinig Iyong salita:
+"Uugitan nga kita."</stanza>
+  </lyrics>
+</hymn>

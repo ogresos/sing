@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Kathy</firstname>
+    <lastname>Burt</lastname>
+    <email>kathy.burt@gmail.com</email>
+    <password>sAZwCNzQaKAc2le3nDvcAA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>75.36.233.178</ipaddress>
+    <createdate>2011-11-12 18:22:30</createdate>
+    <lastupdateddate>2012-03-03 11:42:21</lastupdateddate>
+    <lastlogindate>2012-03-03 11:30:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+        <fav category="default" type="h" num="719">Like a river, glorious</fav>
+        <fav category="default" type="h" num="436">Thy Life was giv'n for me</fav>
+    </favourites>
+</user>

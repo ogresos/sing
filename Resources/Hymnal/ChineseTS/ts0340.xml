@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主，我愛你逐日益深摯</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:340"/><english num="lb:65"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./( | 5_./) 1/( 1/) 2/ 3 - (break) | 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./ | 6_./( 1/)( 1) - 2 | 1 - - - (break) | (Verse_2) 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./( | 5_./) 1/( 1/) 2/ 3 - (break) | 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./ | 6_./( 1/)( 1) - 2 | 1 - - - (break) | (Chorus) 0 6 3 6 | 5 - 3 - | 0 6 5. 4/ | 5 - - - | 0 6 3 6 | 5 - 3 2 | 1 - - 1 | 2 - - 5 | 3( - - - | 3) - - 0 |</melody>
+  <layout>
+	<singingstanza end="2">主， 我 愛 你 逐 日 益 深 摯， 主， 我 愛 你 今 日 勝 昨 日。 我 不 能 再 活 無 你 之 處， 我 不 能 重 步 往 日 行 徑。 哦， 在 往 昔 無 你 歲 月 中， 當 我 失 喪， 你 來 施 拯 救。 我 每 憶 過 往 其 餘 年 日， 虛 空 心 痛 並 潸 然 淚 流。 主， 我 真 愛 你， 日 益 深 摯。 主， 我 真 愛 你， 歷 久 彌 新 無 止。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="lb" num="65"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，我愛你逐日益深摯，
+主，我愛你今日勝昨日。
+我不能再活無你之處，
+我不能重步往日行徑。</stanza>
+	<stanza type="verse" number="2">哦，在往昔無你歲月中，
+當我失喪，你來施拯救。
+我每憶過往其餘年日，
+虛空心痛並潸然淚流。</stanza>
+	<stanza type="chorus" number="">主，我真愛你，日益深摯。
+主，我真愛你，歷久彌新無止。</stanza>
+	<stanza type="verse" number="3">哦乾渴吞噬我心深處，
+驅使我尋求以得滿足。
+哦我曾嘗試許多事物，
+卻仍乾渴且不得滿足。</stanza>
+	<stanza type="verse" number="4">主你充滿我全人深處，
+豐美甘甜最令人滿足。
+你是那靈，作我的一切，
+你靈與我靈洋溢不住。</stanza>
+	<stanza type="verse" number="5">追尋新事物總無止境，
+惟你纔是我終日渴求。
+我前盲目且汲汲營營，
+直至飲你作活水源頭。</stanza>
+	<stanza type="verse" number="6">何感謝！主，你進入我靈，
+今在我裡你不斷擴展。
+何寶貝！主安家我心房，
+將我裡面各部分充滿。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Karen</firstname>
+  <lastname>Roth</lastname>
+  <email>vroth39@yahoo.com</email>
+  <password>$2y$10$/0M55fvqwAnLxy9tfFIz4Oflh5JcWl6DgFgbrDdErQ1vF.W8uXc3m</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.167.160.17</ipaddress>
+  <createdate>2014-11-29 15:42:36</createdate>
+  <lastupdateddate>2015-01-09 14:49:16</lastupdateddate>
+  <lastlogindate>2015-01-09 14:49:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="1157">His banner over me is love</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="320">In loving-kindness Jesus came</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+    <fav category="default" type="h" num="303">Nor silver nor gold hath obtained my redemption</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="478">Once I stood in condemnation</fav>
+    <fav category="default" type="h" num="8245">Once in sin I served, a slave</fav>
+    <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+    <fav category="default" type="h" num="921">Rescue the perishing</fav>
+    <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

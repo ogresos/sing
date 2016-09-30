@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Gloria</firstname>
+<lastname>Ting</lastname>
+<email>gloria.hearts.candy@gmail.com</email>
+<password>$1$IZ7GMZP7$pV5nRJoIoPxjU1CIkB7rk1</password>
+<gender>F</gender>
+<country>New Zealand</country>
+<ipaddress>125.239.152.63</ipaddress>
+<createdate>2008-10-14 04:59:05</createdate>
+<lastupdateddate>2009-09-15 18:26:45</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+    </favourites>
+</user>

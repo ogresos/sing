@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Paul</firstname>
+    <lastname>Somervell</lastname>
+    <email>somervell1985@comcast.net</email>
+    <password>LFSX5jWWc%2BzwuF0BasIO1g%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>50.142.38.49</ipaddress>
+    <createdate>2013-12-25 20:41:01</createdate>
+    <lastupdateddate>2013-12-25 21:08:54</lastupdateddate>
+    <lastlogindate>2013-12-25 20:41:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="234">Who is He in yonder stall</fav>
+    </favourites>
+</user>

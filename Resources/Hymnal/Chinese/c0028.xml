@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神哪你在聖所之內</title>
+  <index>true</index>
+  <category>敬拜父－祂的愛</category>
+  <numbers><chinese num="28"/><english num="8028"/></numbers>
+  <melody>| 1 3 5 5 | 5 5 6 - | 5 - - 5 | ._1 5 ._1/( ._2/) ._3 (break) | ._2( ._1) ._2 - | 5 - - 5 | ._1 5 6 3 | 4/( 3/ 2) 1 - (break) | 1 3 5 5 | 5 5 6 - | 5 - - 5 | ._1 5 ._1/( ._2/) ._3 (break) | ._2( ._1) ._2 - | 5 - - 5 | ._1 5 6 3 | 4/( 3/ 2) (.1 5 (break) | 5 4 3 2 | 1/( 2/ 3) 4 - | 3 - - 5 | 6 7 ._1 ._1 (break) | ._3 ._2 (.._1 5 | ._1 5 6 3 | 4/( 3/ 2) (.1 - ||</melody>
+  <layout>
+	<singingstanza>神 哪， 你 在 聖 所 之 內， 接 受 我 們 敬 拜 讚 美， 因 你 的 愛 何 其 真。 我 們 死 在 罪 惡 之 中， 好 像 囚 犯 早 已 途 窮， 你 就 來 釋 放 我 們。 你 那 無 限 豐 富 的 愛， 感 動 你 以 憐 憫 為 懷， 你 就 來 拯 救 我 們。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8028"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神哪，你在聖所之內，
+接受我們敬拜讚美，
+因你的愛何其真。
+我們死在罪惡之中，
+好像囚犯早已途窮，
+你就來釋放我們。
+你那無限豐富的愛，
+感動你以憐憫為懷，
+你就來拯救我們。</stanza>
+	<stanza type="verse" number="2">你並不願罪人沉淪，
+你願他們回轉求懇
+你作他們的救主。
+你在子裡揀選我們
+脫離罪和死亡圍困，
+又使我們蒙永福。
+我們今可來喊『阿爸，』
+乃因你子，不再懼怕，
+坦然親近我們父。</stanza>
+	<stanza type="verse" number="3">不久祂接屬祂的人，
+圍你寶座，帶著他們
+前來敬拜並讚美。
+那時歌唱甜美聲浪，
+要達天地最遠邊疆，
+發自蒙贖的大會。
+但是今日我們渴慕，
+父阿，向你敬拜俯伏，
+同心歌唱你恩惠。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>新的黎明，新的復興</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <hymncode>51112355664565</hymncode>
+  <key>C Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | Em - - | F - - | C - - | D - - | D7. G. | D. D7. | G - - | C - - | F - - | Dm. G. | C - - | F - - | C. Am. | Dm/F. G7. | C - - | C - - | F - - | D7 - - | G - - | F - - | F - - | G - - | G7 - - | C/E - - | F. C/E. | F. C/E. | Dm. C. | Dm7 - - | G7 - - | C. F/C. | C - - ||</chords>
+  <melody>| 0. 0 5_./ | 1 1/ 1/( 2/) 3/ | 5.( 5) 5/ | 6 6/ 4/( 5/) 6/ (break) | 5.( 5) 3/ | 2 2/ 4# 6/ | ._1 6/ 7 5/ | 4# 4#/ 4#/( 5/) 6/ (break) | 5.( 5) 5/ | ._3 ._3/ ._2 ._1/ | 6.( 6) 6/ | ._2 ._1/ 7 6/ (break) | 5.( 5) 5/ | 6 6/ ._1 6/ | 5 4/ 3 1/ | 2 2/ 3 2/ (break) | 1.( 1) (Chorus) 3/ | 3.( 3) 3/ | 4.( 4) 4/ | 4#.( 4#) 4#/ | 5.( 5) 5/ | 6 6/ 6.( | 6) 6/ 4/( 5/) 6/ | 7( - - | 7) - - | ._1.( ._1) 7/ | 6. 5. | 6.( 6) 5/ | 5( 4/) 3. | 4.( 4) 3/ | 2./  1./ 7_.. | 1( - - | 1) - - ||</melody>
+  <layout>
+    <singingstanza>晨 光 東 方 升 起， 喚 我 起 來 歌 唱， 祂 的 日 頭 醫 治 亮 光， 使 我 甦 醒 舒 暢。 主 恩 如 同 甘 露， 溫 潤 冰 冷 心 靈， 在 祂 慈 愛 臉 光 之 下， 偶 像 陰 影 遁 形。 新 的 黎 明， 新 的 復 興， 主 我 奉 獻， 奉 獻 今 天； 靠 你 得 勝， 因 你 更 新， 直 到 恩 主 顯 現。</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ts" length="">ts0466.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">晨光東方升起，喚我起來歌唱，
+祂的日頭醫治亮光，使我甦醒舒暢。
+主恩如同甘露，溫潤冰冷心靈，
+在祂慈愛臉光之下，偶像陰影遁形。</stanza>
+    <stanza type="chorus" number="">新的黎明，新的復興，主我奉獻，奉獻今天；
+靠你得勝，因你更新，直到恩主顯現。</stanza>
+    <stanza type="verse" number="2">時刻扎根主裏，生活開花發芽；
+天天起來拾取嗎哪，愛慕追求主話。
+不住恆切禱告，單純如百合花，
+灌滿新酒和橄欖油，散發基督榮華。</stanza>
+    <stanza type="verse" number="3">主必加倍補還，蝗蟲吃去時光，
+祂的復活生命大能，吞滅失敗死亡。
+藉祂不斷顯現，步步唱上行詩，
+今生功名煙消雲逝，譜寫神聖歷史。</stanza>
+    <stanza type="verse" number="4">不再勞碌經營，自己破爛草廈，
+同心合意上山取木，起來建造神家。
+清理打開家門，迎接萬邦罪人，
+彼此歡呼帶回禾捆，牧養群羊歸神。</stanza>
+    <stanza type="verse" number="5">復興之律來臨，晝夜循環不息；
+隨時隨地洋溢讚美，福音遍傳四極。
+團體神人生活，在地如同在天，
+求主時刻保守我們，新鮮直到主前。</stanza>
+  </lyrics>
+</hymn>

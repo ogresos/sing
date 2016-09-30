@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>sharon</firstname>
+    <lastname></lastname>
+    <email>sharonsamson80@gmail.com</email>
+    <password>b4P3%2B9sPycrMZENI0nfzUw%3D%3D</password>
+    <gender></gender>
+    <country>India</country>
+    <ipaddress>103.17.158.148</ipaddress>
+    <createdate>2014-03-26 06:15:48</createdate>
+    <lastupdateddate>2014-03-26 06:15:48</lastupdateddate>
+    <lastlogindate>2014-03-26 06:13:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

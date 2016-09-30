@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dearest Lord, You've called us here</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As the Ark of Noah</category>
+  <numbers><english num="ns:97"/><vsb num="213"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Donny Wise">D. W.</author>
+    <composer biodate="" biolink="" fullname="Donny Wise">D. W.</composer>
+  </creators>
+  <hymncode>3333321116617</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - Dm - | G - G7 - | F/C - - - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3. 3/ | 3 2/ 1/( 1.) 1/ | 1. 6_./ 6_. 1 | 7_. - - - | 0 3/ 3/ 3. 3/ | 3 2/ 1/( 1.) 1/ | 1. 6_./ 6_. 1 | 7_. - - - (break) | 0 5/ 5/ 5. 5/ | 5 4/ 3/( 3.) 5/ | 4. 5/ 4 3 | 2 - - - | 0 3/ 3/ 3. 3/ | 3 2/ 1/( 1.) 1/ | 1. 6_./ 6_. 1 | 7_. - - 1 | 1( - - - | 1) - - - (break) | (Chorus) 0 - 1/ 1. | 7_. - 1/ 2. | 3 - 3/ 5_.. | 6_. - - - | 0 1/ 1/ 1 1 | 7_. 7_./ 1/( 1) 2 | 5_.( - - - | 5_.) - - - (break) | 0. 1/ 1 1 | 7_. 7_./ 1/( 1) 2 | 3. 4/ 3 2 | 1 - - - | 0 - 1 1 | 7_. 7_. 1/ 2. | 1( - - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza>Dear -- est Lord, You've called us here, And o -- pened up Your heart. O the joy to hear Your call And en -- ter in the Ark. Sav -- ing us from day to day O Lord, this is Your way. In Your -- self we stay a -- float, A -- bove this wick -- ed age to -- day. Thank You Lord, in Your eyes we find grace, And with o -- pen hearts we come to You. Re -- gard -- less what our friends might say to us or do, O Lord Je -- sus, we love You.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="68">ns0097.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dearest Lord, You've called us here,
+And opened up Your heart.
+O the joy to hear Your call
+And enter in the Ark.
+Saving us from day to day
+O Lord, this is Your way.
+In Yourself we stay afloat,
+Above this wicked age today.</stanza>
+    <stanza type="chorus" number="">Thank You Lord, in Your eyes we find grace,
+And with open hearts we come to You.
+Regardless what our friends might say to us or do,
+O Lord Jesus, we love You.</stanza>
+    <stanza type="verse" number="2">Seeking of this age to taste,
+And of it have a part.
+If we only knew, dear Lord,
+The ways we grieve Your heart.
+We would come and turn to You
+With a repenting heart,
+And would give ourselves to be
+With you, O Lord, inside the Ark.</stanza>
+    <stanza type="verse" number="3">Praise You Lord, we're safe in You;
+Outside death-waters pour.
+Many things that I once loved
+Are on the ocean floor.
+Keep us open to You Lord,
+Don't let us miss the mark.
+Hallelujah, praise the Lord,
+We're here within the church, the Ark.</stanza>
+  </lyrics>
+</hymn>

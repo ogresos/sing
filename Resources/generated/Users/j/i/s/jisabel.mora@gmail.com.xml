@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Isabel</firstname>
+  <lastname>mora</lastname>
+  <email>jisabel.mora@gmail.com</email>
+  <password>$2y$10$kNL24VNPq.ZPTwSYLN1Gi.InHiw8ZMnGHKxe8mM./W2uR62gu3hk2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.54.80.178</ipaddress>
+  <createdate>2016-02-28 14:26:33</createdate>
+  <lastupdateddate>2016-06-28 14:10:42</lastupdateddate>
+  <lastlogindate>2016-06-02 13:17:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="h" num="1145">God gave His Son to man to be</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="ns" num="259">I will enter His gates</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="h" num="547">Something every heart is loving</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="h" num="228">Sweet feast of love divine</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="48">We bless Thee, God and Father</fav>
+  </favourites>
+</user>

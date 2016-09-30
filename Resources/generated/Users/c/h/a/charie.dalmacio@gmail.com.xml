@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Charie</firstname>
+  <lastname>Dalmacio</lastname>
+  <email>charie.dalmacio@gmail.com</email>
+  <password>$2y$10$LYBkotMdqUR507Ggs0n9zuLrmeTIDTSIoKmnfFrmaRbAQ4u4hmVQ6</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>71.202.248.184</ipaddress>
+  <createdate>2013-03-15 23:43:24</createdate>
+  <lastupdateddate>2016-03-27 17:58:48</lastupdateddate>
+  <lastlogindate>2016-03-27 17:58:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="986">Christ has a full redemption made</fav>
+    <fav category="default" type="ht" num="986">Kristo'y nagligtas nang lubos</fav>
+    <fav category="default" type="h" num="1003">Why should I worry, doubt and fear</fav>
+  </favourites>
+</user>

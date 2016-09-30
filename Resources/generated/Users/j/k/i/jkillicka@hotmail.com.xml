@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jka</firstname>
+  <lastname/>
+  <email>jkillicka@hotmail.com</email>
+  <password>$2y$10$UmfJVY5I787clJcR5NW6Heq1XuE/rjrQGlqqXOGDGIVXxLFSynjnS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.6.157.83</ipaddress>
+  <createdate>2015-05-09 10:24:32</createdate>
+  <lastupdateddate>2015-05-09 10:35:55</lastupdateddate>
+  <lastlogindate>2015-05-09 10:28:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+  </favourites>
+</user>

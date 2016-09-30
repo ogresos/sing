@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jon</firstname>
+  <lastname>Madderom</lastname>
+  <email>jpmadderom@gmail.com</email>
+  <password>$2y$10$sCBivRNgseX.gQd.E1bc6uG9weqmfCdi4LWjboNgrJIOl6mm7UoV6</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>96.40.234.206</ipaddress>
+  <createdate>2013-09-01 15:43:22</createdate>
+  <lastupdateddate>2016-06-20 11:39:11</lastupdateddate>
+  <lastlogindate>2016-06-20 11:37:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="300b">Arise, my soul, arise (Alternate Tune)</fav>
+    <fav category="default" type="h" num="1291">At the end of Luke's gospel, chapter twenty and two</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="882">Faith is the Victory</fav>
+    <fav category="default" type="h" num="294">Gone from my heart the world and all its charms</fav>
+    <fav category="default" type="h" num="890">Hallelujah! Christ is Victor</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="529">How tedious and tasteless the hours</fav>
+    <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="320">In loving-kindness Jesus came</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1063">Jesus, I will trust Thee</fav>
+    <fav category="default" type="h" num="1305">Our faith to God-ward must in these days spread abroad</fav>
+    <fav category="default" type="h" num="762">Prayer is the incense of a holy heart</fav>
+    <fav category="default" type="h" num="761">Prayer is the soul's sincere desire</fav>
+    <fav category="default" type="h" num="315">Saved to the uttermost, I am the Lord's</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="1219">What a wonderful change in my living is wrought</fav>
+  </favourites>
+</user>

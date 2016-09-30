@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Eilish</firstname>
+  <lastname>Lally</lastname>
+  <email>elally@lacordaire.net</email>
+  <password>$2y$10$vs4/mKuZuNZTOZ8Cd5/XXOsp2.P9oU0SjqzLYV5g13XPx2dfyHKOi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.243.87.145</ipaddress>
+  <createdate>2014-09-04 20:17:59</createdate>
+  <lastupdateddate>2014-09-04 20:34:34</lastupdateddate>
+  <lastlogindate>2014-09-04 20:22:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="44">Our God is so big</fav>
+    <fav category="default" type="c" num="49">People like to know</fav>
+  </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисус живи во мне</title>
+  <index>true</index>
+  <category>СТРЕМЛЕНИЯ&amp;mdash;К ХРИСТУ КАК ЖИЗНИ</category>
+  <numbers><english num="365"/><russian num="410"/></numbers>
+  <creators>
+    <author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 5_. 1 1 | 1( 7_.) 7_. | 1 - - | 2 3 3 | 3( 2) 1 | 7_. - - (break) | 7_. 1 2 | 2( 1) 1 | 4 - 3 | 3( 2) 1 | 1( 7_.) 1 | 6_. - - | 7_. - - | 1( - - | 1) - 0 |</melody>
+  <music>
+    <midiref type="h" num="365"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Иисус живи во мне;
+Жизнь Твоя стала моей.
+Дай мне понять, что не отнять
+Твою жизнь от моей.</stanza>
+    <stanza type="verse" number="2">Через меня живи.
+Господь, как жажду я впредь
+Мысли Твои, слова Твои,
+А не свои иметь.</stanza>
+    <stanza type="verse" number="3">Радость, любовь и мир
+Вкладывай в сердце моё;
+О, пусть внутри поток растёт
+И свежесть мне даёт.</stanza>
+    <stanza type="verse" number="4">Мощь воскресения,
+Наследье церкви Твоей –
+Жизнь изобильную Твою,
+Господь, даруй Ты мне.</stanza>
+    <stanza type="verse" number="5">Словом Твоим, Господь,
+Полный Твой дар я прошу
+И в ликовании хвалу
+Тебе я возношу.</stanza>
+    <stanza type="verse" number="6">Скрыта навек в Тебе,
+Жизнь моя стала Твоей,
+Ибо, Иисус, нельзя отнять
+Твою жизнь от моей.</stanza>
+  </lyrics>
+</hymn>

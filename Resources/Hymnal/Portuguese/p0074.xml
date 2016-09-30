@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Reis dos reis, Senhor, Tu és</title>
+  <index>true</index>
+  <category>Seu Reino</category>
+  <numbers><cebuano num="148"/><chinese num="124"/><english num="148"/><german num="148"/><korean num="124"/><portuguese num="74"/><russian num="345"/><spanish num="74"/><tagalog num="148"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 2 - 4 | 3.( 2/) 1 | 2 - 2 | 2( - 5_.) (break) | 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 1 - 3 | 2.( 1/) 7_. | 7_. - 6_. | 5_. - - (break) | 5 - 5 | 3.( 2/) 1 | 5 - 5 | 3 - - | 3 - 5 | 4( 3) 2 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Reis dos reis, Senhor, Tu és,
+Nos prostramos a Teus pés;
+Deus ungiu-Te, ó Senhor,
+Te adoramos com temor.
+Rei dos reis, Teu povo aqui
+Rende adoração a Ti.</stanza>
+	<stanza type="verse" number="2">Teu domínio e poder
+Sempre irão prevalecer;
+Honra, glória, adoração,
+Todos Teus a Ti darão.
+Rei dos reis, louvor a Ti
+Rendem todos Teus aqui.</stanza>
+	<stanza type="verse" number="3">Ao Teu reino igual não há,
+E Teu trono firme está;
+Ao poder e glória Teus
+Sempre entoarão os Teus.
+Rei dos reis, Teu povo aqui
+Rende adoração a Ti.</stanza>
+	<stanza type="verse" number="4">Soberano Rei, Senhor,
+Invocamos-Te co'amor;
+Oh! quão doce é Teu reinar!
+Possa o reino Teu chegar.
+Mas, ó Rei dos reis, aqui
+Damos o louvor a Ti.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kaize</firstname>
+  <lastname/>
+  <email>linkaize@gmail.com</email>
+  <password>$2y$10$DE.RRNmYBMnHtPPyRTtMaesPlsw2dZozSum0XyWYOyiD3iSRY.KAi</password>
+  <gender/>
+  <country/>
+  <ipaddress>171.96.181.118</ipaddress>
+  <createdate>2016-07-27 00:45:07</createdate>
+  <lastupdateddate>2016-07-31 10:41:15</lastupdateddate>
+  <lastlogindate>2016-07-31 09:46:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="1003">一個活祭</fav>
+  </favourites>
+</user>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Grace</firstname>
+<lastname>Jeong</lastname>
+<email>grace.jng@gmail.com</email>
+<password>$1$zIh/COr5$IMXCiMYAiWAhWKLLznUIF.</password>
+<gender>F</gender>
+<country>South Korea</country>
+<ipaddress>203.167.220.214</ipaddress>
+<createdate>2008-07-26 01:43:06</createdate>
+<lastupdateddate>2009-09-15 18:23:59</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+        <fav category="default" type="ns" num="30">Take time to absorb Him</fav>
+        <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+        <fav category="default" type="lb" num="70">Now from my heart comes</fav>
+    </favourites>
+</user>

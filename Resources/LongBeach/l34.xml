@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Lord is my Shepherd</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>1135654342</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | C - - | C - - | Dm - - | G - - | G - - | E - - | Am - - | G7/B - - | C - - | B - - | B - - | G - - | G - - | C - - | C - - | F - - | C - - | C - - | Dm - - | G - - | G - - | E - - | Am - - | G7/B - - | C - - | B - - | B - - | G - - | G - - | C - - | Am - - | F - - | Dm - - | C - - | G - - | C - - | G - - | C - - | Am - - | F - - | Dm - - | C/G - - | G - - | C - - | C - - | E - - | Am - - | F - - | Dm - - | C/G - - | G7 - - | C - - | C - - | C - - | F - - | C - - | C - - | Dm - - | G - - | G - - | E - - | Am - - | G7 - - | C - - | B - - | B - - | G - - | G - - | C - - | Am - - | F - - | Dm - - | C - - | G - - | C - - | G - - | C - - | Am - - | F - - | Dm - - | C - - | G - - | C - - | C - - | E - - | Am - - | F - - | Dm - - | C/G - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 1 | 1 3 5 | 6 - - | 5( - - | 5) - - | 4 3 4 | 2( - - | 2) - 2 | 3. 3/ 2/ 2/ | 1 - 3 | 5 - 4 | 3 - 5 | 7. 4#/ 4# | 4# 5 6 | 5( - - | 5) - - (break) | (Verse_2) 0 - 1/ 1/ | 1( 3) 5 | 6( - - | 5)( - - | 5) - 0 | 4( 3) 4 | 2( - - | 2) - - (break) | 3 - 2 | 1 - 3 | 5 - 4 | 3 - - | 7 - 4# | 4#( 5 6) | 5( - - | 5) - - (break) | (Verse_3) ._1/ ._1/ ._1 ._1 | ._1 - ._1/ ._1/ | ._1( - 6) | 4 - 4 | 3 5 5/ 5/ | 5 6. 5/ | 3/( 5/)( 5)( - | 5) - - (break) | ._1/ ._1/ ._1 ._1 | ._1 - ._1/ ._1/ | ._1( - 6) | 4 - 4 | 3 5 5/ 5/ | 5 6. 5/ | 3/( 5/)( 5)( - | 5) - 1 | 3 3 2 | 1 - 3 | ._1 ._1 ._1 | ._2 - ._2 | ._1 5 3 | 5. 5/ 4/ 2/ | 1( - - | 1) - 0 (break) | (Verse_4) 1 3 5 | 6( - - | 5)( - - | 5) - 3 | 4 3 4 | 2( - - | 2) - 2/ 2/ | 3( - 2) | 1 - 3/ 3/ | 5 - 4 | 3 - 5/ 5/ | 7. 4#/ 4# | 4#( 5) 6 | 5( - - | 5) - - (break) | (Verse_5) ._1/ ._1/ ._1/ ._1/ ._1 | ._1 - ._1/ ._1/ | ._1 - 6 | 4 - - | 3( 5.) 5/ | 5 6. 5/ | 3/( 5/)( 5)( - | 5) - - | ._1/ ._1/ ._1/ ._1/ ._1 | ._1 - ._1/ ._1/ | ._1 - 6 | 4 - - | 3( 5.) 5/ | 5 6. 5/ | 3/( 5/)( 5)( - | 5) - 1 | 3 - 2 | 1 - 3/ 3/ | ._1 - ._1/ ._1/ | ._2 - ._2 | ._3( - - | ._2) - - | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">The Lord is my She -- pherd; I shall not want. He makes me to lie down in green pas -- tures; He leads me be -- side still wa -- ters. He re -- stores my soul: He guides me. In the paths of right -- eous -- ness For His Name's sake. E -- ven though I walk through the val -- ley, The val -- ley of the sha -- dow of death; E -- ven though I walk through the val -- ley, The val -- ley of the sha -- dow of death; I fear no e -- vil for Thou art with me; Thy rod and Thy staff they com -- fort me. Thou dost pre -- pare a ta -- ble for me In the pre -- sence of mine e -- ne -- mies And a -- noint -- est my head with oil. On -- ly good -- ness and mer -- cy will fol -- low me All the days of my life, On -- ly good -- ness and mer -- cy will fol -- low me All the days of my life, And I will dwell in the house of the Lord for -- ev -- er.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">ot_psa23.xml</link>
+    <link type="ref">Psalms 23</link>
+  </links>
+  <music>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Lord is my Shepherd; I shall not want.
+He makes me to lie down in green pastures;
+He leads me beside still waters.</stanza>
+    <stanza type="verse" number="2">He restores my soul: He guides me.
+In the paths of righteousness
+For His Name's sake.</stanza>
+    <stanza type="verse" number="3">Even though I walk through the valley,
+The valley of the shadow of death;
+Even though I walk through the valley,
+The valley of the shadow of death;
+I fear no evil for Thou art with me;
+Thy rod and Thy staff they comfort me.</stanza>
+    <stanza type="verse" number="4">Thou dost prepare a table for me
+In the presence of mine enemies
+And anointest my head with oil.</stanza>
+    <stanza type="verse" number="5">Only goodness and mercy will follow me
+All the days of my life,
+Only goodness and mercy will follow me
+All the days of my life,
+And I will dwell in the house of the Lord forever.</stanza>
+  </lyrics>
+</hymn>

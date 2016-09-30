@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jennifer</firstname>
+    <lastname>liu</lastname>
+    <email>jerzee_jennrose@yahoo.com</email>
+    <password>$1$iijE0QZF$dM1xq4tW3tluCm07jWYpd0</password>
+    <gender>F</gender>
+    <country>Philippines</country>
+    <ipaddress>121.97.241.165</ipaddress>
+    <createdate>2008-07-26 01:43:07</createdate>
+    <lastupdateddate>2012-02-27 20:50:23</lastupdateddate>
+    <lastlogindate>2012-02-27 20:03:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="ns" num="367">Building God's House</fav>
+        <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+        <fav category="default" type="ns" num="12">Father, I know that all my life</fav>
+        <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+        <fav category="default" type="h" num="840">Freed from self and Adam's nature</fav>
+        <fav category="default" type="ns" num="368">God's Heart</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="ns" num="40">Lord Jesus, draw me</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="h" num="960">My King will soon come back again</fav>
+        <fav category="default" type="ns" num="366">My heart longs for absolute surrender</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="h" num="904">We have a most glorious King</fav>
+        <fav category="default" type="nt" num="788">When thou wakest in the morning</fav>
+        <fav category="default" type="ch" num="604">主你不僅是陶人</fav>
+        <fav category="default" type="ch" num="128">我今俯伏主面前</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>peter</firstname>
+  <lastname>collins</lastname>
+  <email>pwcollins60@gmail.com</email>
+  <password>$2y$10$FKoXaMcwpTQzdivkylxubOxo2jTry4Z4J1UF1mLRX5.Rf7/ayI7hG</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.182.177.205</ipaddress>
+  <createdate>2016-06-29 20:15:32</createdate>
+  <lastupdateddate>2016-06-29 20:17:18</lastupdateddate>
+  <lastlogindate>2016-06-29 20:17:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

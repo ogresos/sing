@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Acaso murió mi Señor</title>
+  <index>true</index>
+  <category>El evangelio&amp;mdash;La redención</category>
+  <numbers><chinese num="681"/><english num="999"/><korean num="681"/><russian num="163"/><spanish num="464"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Translated from Isaac Watts</author>
+    <author biodate="1843-1901" biolink="">Translated from Ralph Erskine Hudson, chorus</author>
+  </creators>
+  <music>
+    <midiref type="h" num="999"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¿Acaso murió mi Señor?
+¿Sangró mi Salvador?
+¿Lo más sagrado se͜ ofreció
+Por un vil como yo?</stanza>
+    <stanza type="chorus" number="">En la cruz, en la cruz do primero vi la luz,
+Y la carga de mi alma se͜ me fue;
+En la cruz por fe yo vi a Jesús,
+Y͜ siempre feliz con El seré.</stanza>
+    <stanza type="verse" number="2">En un madero El sufrió
+Por causa de mi͜ error;
+¡Qué asombrosa Su merced
+E͜ inmensurable͜ amor!</stanza>
+    <stanza type="verse" number="3">El sol por eso se͜ escondió,
+Su gloria encerró
+Cuando Jesús, el gran Cre͡ador,
+Por el hombre murió.</stanza>
+    <stanza type="verse" number="4">Aunque mi rostro͜ escondo yo,
+Al contemplar la cruz,
+Se me derrita͜ el corazón
+En honda gratitud.</stanza>
+    <stanza type="verse" number="5">¿Con qué podría yo pagar
+La͜ ofrenda de Su͜ amor?
+Ya no me queda nada más;
+Me͜ entregó͜ a Ti, Señor.</stanza>
+  </lyrics>
+</hymn>

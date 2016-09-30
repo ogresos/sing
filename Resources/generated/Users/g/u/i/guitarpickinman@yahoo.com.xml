@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>William</firstname>
+  <lastname>Wood</lastname>
+  <email>guitarpickinman@yahoo.com</email>
+  <password>$2y$10$AmSKRDDHYn41fLhRseMMeOIzF9HAs49bQ8v9Gb3x2r365QFvgoRXu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>137.141.217.17</ipaddress>
+  <createdate>2016-07-22 12:53:28</createdate>
+  <lastupdateddate>2016-07-22 12:58:31</lastupdateddate>
+  <lastlogindate>2016-07-22 12:54:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

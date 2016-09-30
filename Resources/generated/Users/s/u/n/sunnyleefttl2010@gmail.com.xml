@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sunny</firstname>
+  <lastname>Lee</lastname>
+  <email>sunnyleefttl2010@gmail.com</email>
+  <password>$2y$10$MUm.zap2LpUvLGmIcHoGVeesFMe8Bi.3MKZaZANWa91Ip1WeUsfDW</password>
+  <gender/>
+  <country/>
+  <ipaddress>117.19.160.66</ipaddress>
+  <createdate>2016-03-31 11:00:39</createdate>
+  <lastupdateddate>2016-05-24 11:58:32</lastupdateddate>
+  <lastlogindate>2016-05-24 11:57:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="352">A common bush</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+    <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+    <fav category="default" type="h" num="877">I dare not be defeated</fav>
+    <fav category="default" type="nt" num="377">If the path I travel</fav>
+    <fav category="default" type="h" num="1159">Jesus Lord, I'm captured by Thy beauty</fav>
+    <fav category="default" type="h" num="746">Lord, teach us to discern the spirit</fav>
+    <fav category="default" type="h" num="704">Though troubles assail</fav>
+    <fav category="default" type="h" num="880">To the foe my word is always, No</fav>
+    <fav category="default" type="ch" num="480">你們能否順從</fav>
+    <fav category="default" type="ch" num="562">再唱信心的歌</fav>
+    <fav category="default" type="ch" num="648">得勝得勝者</fav>
+    <fav category="default" type="ch" num="561">憑信心求</fav>
+    <fav category="default" type="ts" num="134">永活救主</fav>
+  </favourites>
+</user>

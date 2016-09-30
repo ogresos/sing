@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Two Kinds of Walk</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Walking with Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Julie Grize">J. G.</author>
+    <composer biodate="" biolink="" fullname="Julie Grize">J. G.</composer>
+  </creators>
+  <hymncode>513323436671</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | F - - - | G - - - | F - G7 - | C - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G7 - - - | Am - - - | F - G7 - | C - - - | G7 - - - | Am - - - | F - - - | C - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - - 3 | 1. 3/( 3) 3 | 2 3/ 4/( 4) 3 | 6. 6/( 6) 7 | ._1 - - 0 | 5. ._1/( ._1) ._2 | ._2 - - ._2 | ._3 - - ._1 | ._4 - - 0 | ._3 - - ._5 | ._2 - - ._3/( ._2/) | ._1 - - 6 | 5 - - 0 | 4 4/ 3/( 3) 2 | 1 - - 0 (break) | (Chorus) ._3. 5/( 5) - | ._2. 5/( 5) - | ._1. 3/( 3) 3 | 6. 5/( 5) 4 | 5. 1/( 1) - | 2 3/ 4/( 4/)( 5.) | 6( - - - | 6) - - 0 (break) | ._1. 5/( 5) ._3 | ._2. ._5/( ._5)( ._4) | ._3. ._2/( ._2) ._1 | 6. 5/( 5)( 4) | 3 - - 3 | 4. 3/( 3) 2 | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>The first walk in verse six -- teen means "Tread -- ing a -- round", "Walk -- ing at large", Ha -- bi -- tual -- ly, gen -- 'ral -- ly A com -- mon walk&amp;mdash; for our dai -- ly life. Liv -- ing, act -- ing, hav -- ing our be -- ing ac -- cord -- ing To the spir -- it, [i]Pe -- ri -- pa -- te -- o[/i] and [i]Sto -- i -- che -- o[/i] There are two kinds of walk.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Galatians 5:16</link>
+    <link type="ref">Galatians 5:25</link>
+  </links>
+  <music>
+    <midi location="ns" length="56">ns0407.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The first walk in verse sixteen means
+"Treading around",
+"Walking at large",
+Habitually, gen'rally
+A common walk&amp;mdash;for our daily life.</stanza>
+    <stanza type="chorus" number="">Living, acting, having our being according
+To the spirit,
+[i]Peripateo[/i] and [i]Stoicheo[/i]
+There are two kinds of walk.</stanza>
+    <stanza type="verse" number="2">The walk in verse twenty-five means
+"Marching in rank",
+"Keeping in step",
+Deliberately, purposefully
+An ordered walk&amp;mdash;to fulfill God's goal.</stanza>
+    <stanza type="verse" number="3">The Spirit Himself should be&amp;mdash;
+Our rule and our way,
+Our principle, goal
+Constantly, following
+The inner sense&amp;mdash;of life and peace.</stanza>
+  </lyrics>
+</hymn>

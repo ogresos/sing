@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Batdul</firstname>
+  <lastname/>
+  <email>batdul12@yahoo.com</email>
+  <password>$2y$10$bUpQz7vUrN0vgGXZKX5kq.jrqwH4YO5J1tXyRGl5nHE1qYengLSmi</password>
+  <gender/>
+  <country>mn</country>
+  <ipaddress>122.201.24.207</ipaddress>
+  <createdate>2015-09-28 06:31:48</createdate>
+  <lastupdateddate>2015-09-28 15:13:34</lastupdateddate>
+  <lastlogindate>2015-09-28 15:13:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="917">Far, far away, in heathen darkness dwelling</fav>
+  </favourites>
+</user>

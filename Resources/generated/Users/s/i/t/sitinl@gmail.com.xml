@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>sitinl</firstname>
+    <lastname></lastname>
+    <email>sitinl@gmail.com</email>
+    <password>lpG6UQyp1XldtyfZmazmTQ%3D%3D</password>
+    <gender></gender>
+    <country>Japan</country>
+    <ipaddress>103.22.200.182</ipaddress>
+    <createdate>2014-01-19 09:39:15</createdate>
+    <lastupdateddate>2014-02-23 09:09:57</lastupdateddate>
+    <lastlogindate>2014-02-23 09:08:24</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="18">How faithful and trustworthy too</fav>
+        <fav category="default" type="nt" num="995">There is a green hill far away</fav>
+        <fav category="default" type="ts" num="848">聽我唱奇妙愛</fav>
+        <fav category="default" type="ts" num="318">頭一次的愛</fav>
+    </favourites>
+</user>

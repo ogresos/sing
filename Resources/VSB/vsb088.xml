@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'm gonna praise God unceasingly</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><chinese num="ts:15"/><english num="ns:131"/><vsb num="88"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">Adapted from Down by the Riverside</composer>
+  </creators>
+  <hymncode>332356113</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>150</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | C - - - | C - - - | C - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | C7 - - - | F - - - | Fm - - - | C/G - - - | Am - - - | Dm - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 - 0/ 3/ 3/ 2#/ | 3 5_.( 5_.) 6_. | 1 1/ 3/( 3) - | 0 3 3. 2#/ | 3 2/ 1/( 1) - | 0 2 2. 1#/ | 2 1/ 7_./( 7_.) - | 0 3 3. 2#/ (break) | 3 2/ 1/( 1/) 3/ 3/ 2#/ | 3 5_.( 5_.) 6_. | 1 1/ 3/( 3) - | 0 3 3. 2#/ | 3 2/ 1/( 1) - | 2 2( 2) 4 | 3 - 2 - | 1 - - - (break) | 0 (Chorus) 1 2 3 | 4 4 4 4 | 4 - 5 4 | 3 3/ 3/( 3) 2 | 1 - 1 3 | 2 2 2 1 | 7_. 5_. 1 2 | 3 - - - (break) | 0 1/ 1/ 2 3 | 4 4 4 4 | 4 - 5 4 | 3 3/ 3/( 3) 2 | 1 - 1 3 | 2 2 2 1 | 7_. 5_. 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>I'm gon -- na praise God un -- ceas -- ing -- ly Be -- cause He lives in me, He's ev -- ery -- thing to me, Gives life con -- tin -- ual -- ly. I'm gon -- na praise God un -- ceas -- ing -- ly Be -- cause He lives in me, And He will nev -- er leave. Now in our spir -- it we can feed, Je -- sus Christ is all we need, Call His name and He be -- comes re -- al -- i -- ty. O -- pen up your mouth and you will see, Just how rich our Lord can be. He's the ver -- y life sup -- ply, com -- plete is He.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="52">ns0131.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'm gonna praise God unceasingly
+Because He lives in me,
+He's everything to me,
+Gives life continually.
+I'm gonna praise God unceasingly
+Because He lives in me,
+And He will never leave.</stanza>
+    <stanza type="chorus" number="">Now in our spirit we can feed,
+Jesus Christ is all we need,
+Call His name and He becomes reality.
+Open up your mouth and you will see,
+Just how rich our Lord can be.
+He's the very life supply, complete is He.</stanza>
+    <stanza type="verse" number="2">Now I live by the tree of life,
+His fruit does nourish me,
+O, how it strengthens me,
+I'll live eternally.
+Now I live by the tree of life,
+Him daily I apply,
+He is my food supply.</stanza>
+    <stanza type="verse" number="3">There's a river of life in me,
+Flowing so livingly,
+Moving continually,
+He just keeps flooding me.
+There's a river of life in me,
+He's always filling me,
+His name is Jesus Christ!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Begone, unbelief</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Trusting the Lord</category>
+  <creators>
+    <author biodate="1725-1807" biolink="">John Newton</author>
+    <composer biodate="1732-1809" biolink="">Franz Joseph Haydn</composer>
+  </creators>
+  <meter>5.5.5.5.6.5.6.5.</meter>
+  <hymncode>5112314432</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G/B | C - - | G7/B - C | G - G7/F | C/E - G | C - F/A | C/G - G | C - - | G - D/F# | G - D7/A | G/B - C | G7/D - G | C - G/B | C - F/A | C/G - G | C - - |</chords>
+  <melody>| 0 - 5_. | 1 1 2 | 3 - 1 | 4 4 3 | 2 - 5_. | 1 1 2 | 3 - 4 | 5./( 4//) 3 2 (break) | 1 - 5_. | 5_. 5_. 6_. | 7_. 7_. 1 | 2 2 3 | 4 - 5_. | 1 1 2 | 3 3 4 | 5./( 4//) 3 2 | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Be -- gone, un -- be -- lief, My Sav -- ior is near, And for my re -- lief Will sure -- ly ap -- pear; By prayer let me wres -- tle, And He will per -- form; With Christ in the ves -- sel, I smile at the storm.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj028.xml</link>
+    <link type="relevant" category="nt" num="716"></link>
+  </links>
+  <music>
+    <midi location="h" length="26">e0716_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Begone, unbelief,
+  My Savior is near,
+And for my relief
+  Will surely appear;
+By prayer let me wrestle,
+  And He will perform;
+With Christ in the vessel,
+  I smile at the storm.</stanza>
+    <stanza type="verse" number="2">Though dark be my way,
+  Since He is my Guide,
+'Tis mine to obey,
+  'Tis His to provide;
+Though cisterns be broken,
+  And creatures all fail,
+The word He hath spoken
+  Shall surely prevail.</stanza>
+    <stanza type="verse" number="3">His love, in time past,
+  Forbids me to think
+He'll leave me at last
+  In trouble to sink:
+Each sweet Ebenezer
+  I have in review
+Confirms His good pleasure
+  To help me quite through.</stanza>
+    <stanza type="verse" number="4">Why should I complain
+  Of want or distress,
+Temptation or pain?
+  He told me no less;
+The heirs of salvation,
+  I know from His Word,
+Through much tribulation
+  Must follow their Lord.</stanza>
+    <stanza type="verse" number="5">How bitter that cup
+  No heart can conceive,
+Which He drank quite up,
+  That sinners might live!
+His way was much rougher
+  And darker than mine;
+Did Christ, my Lord, suffer,
+  And shall I repine?</stanza>
+    <stanza type="verse" number="6">Since all that I meet
+  Shall work for my good,
+The bitter is sweet,
+  The medicine, food;
+Though painful at present,
+  'Twill cease before long,
+And then, oh, how pleasant
+  The conqueror's song!</stanza>
+  </lyrics>
+</hymn>

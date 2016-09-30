@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Welch gnadenvolle Weisheit liegt</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Weisheit</category>
+  <numbers><cebuano num="24"/><chinese num="21"/><english num="24"/><german num="24"/><korean num="21"/><portuguese num="21"/><russian num="392"/><spanish num="17"/><tagalog num="24"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 | 1 - - 2 (break) | 3 2 1 3 | 5/( 4/) 3/( 2/) 3 5 | 5 - 5 - | 6 - 5( 4#) | 5 - - 3 (break) | 5 3 1 3 | 2/( 1/) 2/( 3/) 2 1 | 5 - 4 - | 3.( 4/ 2) 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Welch gna -- den -- vol -- le Weis -- heit liegt Im Sohn, der Chris -- tus heißt; Zur Weis -- heit uns ge -- wor -- den ist, Den Gna -- den -- weg uns weist. Zur Weis -- heit uns ge -- wor -- den ist, Den Gna -- den -- weg uns weist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="24"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Welch gnadenvolle Weisheit liegt
+Im Sohn, der Christus heißt;
+Zur Weisheit uns geworden ist,
+Den Gnadenweg uns weist.</stanza>
+	<stanza type="verse" number="2">Was Du geplant hast, ist in Ihm,
+In Ihm die Gnade fließt;
+Welch Weisheit haben wir in Ihm,
+Anbetung würdig bist!</stanza>
+	<stanza type="verse" number="3">Rechtfertigt uns, denn Er schenkt uns
+Sich als Gerechtigkeit;
+Er heiligt uns in Sich, denn Er
+Ist unsre Heiligkeit.</stanza>
+	<stanza type="verse" number="4">Er ist Erlösung auch für uns,
+Genau nach Deinem Plan,
+Uns zu vollkommnen Menschen macht,
+Welch Weisheit sehn man kann.</stanza>
+	<stanza type="verse" number="5">Oh, Er ist Deine Weisheit, Herr,
+In der Ökonomie;
+Für Ihn, Dich, Vater, preisen wir, 
+Dich ehrn in Harmonie.</stanza>
+	<stanza type="verse" number="6">In Ihm wir Deine Weisheit sehn,
+So hoch, so tief, so weit;
+Zeig sie uns mehr aus Deiner Sicht
+Jetzt und in Ewigkeit.</stanza>
+	<stanza type="note" number="">(Letzte zwei Zeilen von jeder Strophe wiederholen)</stanza>
+  </lyrics>
+</hymn>

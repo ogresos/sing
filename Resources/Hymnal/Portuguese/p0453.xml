@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que vida hoje recebi</title>
+  <index>true</index>
+  <category>Vida</category>
+  <numbers><chinese num="694"/><english num="1015"/><korean num="694"/><portuguese num="453"/><tagalog num="1015"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Que vida hoje recebi!
+Que vida recebi!
+As trevas, morte e pecar
+Deus duma vez baniu.</stanza>
+    <stanza type="verse" number="">Deus duma vez baniu,
+Deus duma vez baniu;
+As trevas, morte e pecar
+Deus duma vez baniu.</stanza>
+  </lyrics>
+</hymn>

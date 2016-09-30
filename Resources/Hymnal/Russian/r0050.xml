@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О Господь, Твоим дыханьем</title>
+  <index>true</index>
+  <category>ПОЛНОТА ДУХА&amp;mdash;КАК ДЫХАНИЯ</category>
+  <numbers><cebuano num="255"/><chinese num="210"/><dutch num="12"/><english num="255"/><french num="43"/><german num="255"/><korean num="210"/><portuguese num="136"/><russian num="50"/><spanish num="119"/><tagalog num="255"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - 5/ 5/ | 5. 3/ ._1/ 6/ | 5 3 3/ 3/ | 4. 2/ 5/ 4/ | 3 - 5/ ._1/ (break) | ._3. ._2/ ._1/ 7/ | 7 6 ._1/ 6/ | 5/ ._1/ ._2 7 (break) | ._1 - (Chorus) 5/ 5/ | ._2. ._2/ ._1/ ._2/ | ._3 ._1 - | ._4. ._3/ ._2/ 6/ | ._2 - 5/ 5/ (break) | ._1. ._2/ ._3/ ._1/ | ._1 6 - | 5. ._4/ ._3/ ._2/ | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>О Гос -- подь, Тво -- им ды -- ха -- ньем На -- у -- чи ме -- ня ды -- шать.  По -- мо -- ги мо -- ю всю сущ -- ность В_Тво -- ё ло -- но из -- ли -- вать. Я весь грех свой вы -- ды -- ха -- ю И бе -- ду сво -- ю; И вды -- ха -- ю, и вды -- ха -- ю Пол -- но -- ту Тво -- ю.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О Господь, Твоим дыханьем
+Научи меня дышать.
+Помоги мою всю сущность
+В Твоё лоно изливать.</stanza>
+	<stanza type="chorus" number="">Я весь грех свой выдыхаю
+И беду свою;
+И вдыхаю, и вдыхаю
+Полноту Твою.</stanza>
+	<stanza type="verse" number="2">Жизнь свою я выдыхаю,
+Чтоб наполниться Твоей;
+Сила вся моя и немощь
+Пусть уступят место ей.</stanza>
+	<stanza type="verse" number="3">Весь свой грех я выдыхаю,
+На Себя его Ты взял.
+Очищение вдыхаю,
+Жизнь в Тебе лишь находя.</stanza>
+	<stanza type="verse" number="4">Своё горе выдыхаю
+Я, припав к Твоей груди;
+Отдых и покой вдыхаю,
+Радость и любовь Твои.</stanza>
+	<stanza type="verse" number="5">Все болезни выдыхаю,
+Ты понёс их за меня;
+Исцеление вдыхаю
+Всё полней день ото дня.</stanza>
+	<stanza type="verse" number="6">Все желанья выдыхаю,
+Ухо приклонико мне;
+Жадно Твой ответ вдыхаю,
+Страха не оставь во мне.</stanza>
+	<stanza type="verse" number="7">О Господь, живу дыханьем,
+Жизнь черпаю из Тебя.
+Вдох за вдохом жив Тобою;
+Духа Ты вдыхай в меня.</stanza>
+  </lyrics>
+</hymn>

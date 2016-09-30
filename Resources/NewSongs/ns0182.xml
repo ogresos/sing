@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ is our light, our food, our air</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His All-Inclusiveness</category>
+  <numbers><english num="ns:182"/><vsb num="70"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Jin Nam">J. N.</author>
+  </creators>
+  <hymncode>5323432123434565</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - F/C - | C - C7/E - | F - - - | F - - - | C - - - | C - - - | F - - - | F - - - | G - - - | G7 - - - | C - - - |</chords>
+  <melody>| (Chorus) 0 5 3. 2/ | 3/ 4/ 3/ 2/ 1. 2/ | 3/ 4/ 3/ 4/ 5 6/ 5/( | 5) - - - | 0 5 3. 2/ | 3/ 4/ 3/ 2/ 1. 2/ | 3/ 4/ 3/ 4/ 5 6/ 5/( | 5) - - - (break) | (Verse_1) 0 (Sisters:) 4 4 5 | 6 5/ 4/( 4) - | 0 (Brothers:) 3 3 6 | 5 - - - (break) | 0 (Sisters:) 4 4 5 | 6 5/ 4/( 4) (All:) 6 | 7. 6/( 6) 5 | 4. 3/( 3) 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Christ is our light, our food, our air; He's ev -- ery -- thing we'll ev -- er need. Christ is our drink, our life, our way, If in our be -- ing, He'd be freed. You say He's migh -- ty God. I say He's man. Son, Spir -- it, Fa -- ther all, He's rich, O so rich, when we call.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="35">ns0182.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Christ is our light, our food, our air;
+He's everything we'll ever need.
+Christ is our drink, our life, our way,
+If in our being, He'd be freed.</stanza>
+    <stanza type="verse" number="1">Sisters: You say He's mighty God.
+Brothers: I say He's man.
+Sisters: Son, Spirit, Father all,
+All: He's rich, O so rich, when we call.</stanza>
+    <stanza type="verse" number="2">Brothers: He's Son of righteousness,
+Sisters: Hope, peace, and faith,
+Brothers: The Lamb of God is He,
+All: So call on Him now, don't you wait.</stanza>
+    <stanza type="verse" number="3">Sisters: You say He's Son of God,
+Brothers: And Son of Man,
+Sisters: Firstborn among the dead,
+All: Firstborn of creation, AMEN!</stanza>
+    <stanza type="verse" number="4">Brothers: Our Lord's the great I AM,
+Sisters: The start, the end.
+Brothers: Alpha, Omega,
+All: Lord Jesus, come quickly, AMEN!</stanza>
+  </lyrics>
+</hymn>

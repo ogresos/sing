@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa nawalang sanlibutan</title>
+  <index>true</index>
+  <category>PAGPAPAHAYAG NG EBANGHELYO&amp;mdash;IPINAMAMAHAGI SI KRISTO</category>
+  <numbers><cebuano num="922"/><chinese num="665"/><english num="922"/><german num="922"/><korean num="665"/><portuguese num="431"/><russian num="230"/><spanish num="415"/><tagalog num="922"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/ 6/ 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/ 5/ 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa nawalang sanlibutan,
+Maghain ka ng Kristo,
+Sa buhay ay patunayan,
+Sa mga kalulwang lito.</stanza>
+	<stanza type="chorus" number="">Sa nawalang sanlibutan,
+Maghain ka ng Kristo,
+Naipamuhay na Kristo,
+Ibahagi sa tao.</stanza>
+	<stanza type="verse" number="2">Ibahagi Kristong taglay,
+Sa mga minamahal mo,
+Bilang kanilang tagumpay
+Pakinabang matatamo.</stanza>
+	<stanza type="verse" number="3">Kristo'y iyong katamasahan,
+Ibahagi sa kaibigan,
+Bilang kanyang kapurihan,
+At lubos niyang kagalakan.</stanza>
+	<stanza type="verse" number="4">Kristong iyong buhay at lahat,
+Ibahagi mo sa tanan,
+Sa mga taong nasadlak,
+Dakila o mababa man.</stanza>
+  </lyrics>
+</hymn>

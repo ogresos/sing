@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brandon</firstname>
+  <lastname>Valdez</lastname>
+  <email>bv27bboy@gmail.com</email>
+  <password>$2y$10$Yd6Tsu.AQ1pUHPyYaqkLG.NfflBukaVQWhu3ZGVHRrsz8lV.ujtVi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.216.157.233</ipaddress>
+  <createdate>2014-10-26 03:40:09</createdate>
+  <lastupdateddate>2015-07-19 14:58:19</lastupdateddate>
+  <lastlogindate>2015-07-19 14:58:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="h" num="1299">Man's Creator has a purpose</fav>
+    <fav category="default" type="h" num="1238">Never did I dream before</fav>
+  </favourites>
+</user>

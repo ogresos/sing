@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh! ao Salvador louvemos</title>
+  <index>true</index>
+  <category>Sua Fidelidade</category>
+  <numbers><english num="161"/><portuguese num="81"/><tagalog num="161"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="161"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh! ao Salvador louvemos,
+Todos que O conhecemos!
+O que somos e o que temos
+Vamos-Lhe render.</stanza>
+    <stanza type="verse" number="2">Ó Jesus, Teu nome encanta,
+Para a luta nos levanta;
+Mal nenhum, pois, nos suplanta;
+Temos fé em Ti.</stanza>
+    <stanza type="verse" number="3">Confiai pra sempre Nele!
+É fiel, não muda Ele;
+Nada nos separa Dele
+Nem do Seu amor.</stanza>
+    <stanza type="verse" number="4">Sempre a Ti nos apegando,
+Em Ti crendo e confiando,
+Té chegar o dia quando
+Nos desposarás.</stanza>
+    <stanza type="verse" number="5">Noutra esfera estaremos,
+Nova vida então teremos;
+O que agora nós não temos,
+Nosso então será.</stanza>
+  </lyrics>
+</hymn>

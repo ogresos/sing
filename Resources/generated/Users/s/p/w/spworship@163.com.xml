@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>spworship7</firstname>
+  <lastname/>
+  <email>spworship@163.com</email>
+  <password>$2y$10$3o0r/Q8BG8UIKYeqMgk7/OJCCNweLWeWMAwa/hYfBhcYHwa9bEbE2</password>
+  <gender/>
+  <country>China</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-05-10 16:37:29</createdate>
+  <lastupdateddate>2015-04-06 15:17:05</lastupdateddate>
+  <lastlogindate>2015-04-06 15:17:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+  </favourites>
+</user>

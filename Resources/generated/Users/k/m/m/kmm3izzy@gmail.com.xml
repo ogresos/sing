@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Kirsten</firstname>
+<lastname>Moyer</lastname>
+<email>kmm3izzy@gmail.com</email>
+<password>$1$adN2f.xt$zFBr1XMZdn8QRoWA5OEgx.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>69.49.169.249</ipaddress>
+<createdate>2008-07-30 16:34:55</createdate>
+<lastupdateddate>2009-09-15 18:25:31</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1291">At the end of Luke's gospel, chapter twenty and two</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+        <fav category="default" type="h" num="206">O Christ, He is the fountain</fav>
+    </favourites>
+</user>

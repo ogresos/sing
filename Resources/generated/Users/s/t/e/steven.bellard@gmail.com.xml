@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Steven</firstname>
+    <lastname>Bellard</lastname>
+    <email>steven.bellard@gmail.com</email>
+    <password>9t8191yKwoRhmnWH9KyiqQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>99.195.20.37</ipaddress>
+    <createdate>2012-01-22 09:31:16</createdate>
+    <lastupdateddate>2012-02-18 12:50:51</lastupdateddate>
+    <lastlogindate>2012-02-18 11:45:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    </favourites>
+</user>

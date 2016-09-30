@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Je suis en paix, libre et radieux</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;la rédemption</category>
+  <numbers><cebuano num="1003"/><chinese num="235"/><english num="1003"/><french num="196"/><german num="1003"/><korean num="235"/><portuguese num="443"/><russian num="164"/><spanish num="466"/><tagalog num="1003"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 0 - - - 1 - | 3 3 3 - 2 - | 5 5 5 - 5 - | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 5 - (break) | ._1 ._1 ._1 - ._3 - | ._2 ._1 ._2 - ._3( ._2) | ._1 5 6 - 5 - | 6 3 2 - 1 - | 3 6 5 - 7 - | ._1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="21"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Qu'aurais-je à craindre, à redouter?
+Dieu n'a-t-Il pas déjà jugé
+Son propre Fils pour moi ?
+Dieu pourrait-Il changer d'avis?
+Christ a déjà payé le prix,
+En mourant à la croix !</stanza>
+	<stanza type="verse" number="2">Christ accomplit la rédemption,
+Il m'accorda le plein pardon,
+M'affranchit de la loi.
+Je ne crains point l'ire de Dieu,
+Le sang me rend juste à Ses yeux.
+Christ le versa pour moi.</stanza>
+	<stanza type="verse" number="3">Son précieux sang Il a versé,
+Par Lui, j'ai été acquitté,
+Mes dettes sont payées.
+Dieu ne peut exiger de moi,
+La dette immense que paya
+Mon Sauveur crucifié.</stanza>
+	<stanza type="verse" number="4">Je suis en paix, libre et radieux,
+Car mon Sauveur a comblé Dieu,
+Son amour m'a gracié.
+J'ai l'assurance du salut.
+Dieu ne me condamnera plus,
+Christ pour moi fut livré.</stanza>
+  </lyrics>
+</hymn>

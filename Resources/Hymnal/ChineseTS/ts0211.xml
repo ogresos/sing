@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>人活著不是單靠食物</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><chinese num="ts:211"/><english num="ns:120"/><vsb num="259"/></numbers>
+  <melody>| 3 - 3( 4) | 5 - 3( 2) | 1( 6_.) 1 2 | 3 - - - | 4 - 5( 4) | 3 - 4( 3) | 2 - - - | 2 - - - | 3 - 3 4 | 5 - 3 2 | 1( 6_.) 1 2 | 3 - - - | 4 - 5( 4) | 3 - 4( 3) | 2 - - - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>經 上 記 著： 人 活 著 不 是 單 靠 食 物， 乃 是 靠 著 神 口 裡 所 出 的 一 切 話。 阿 利 路 亞！ 阿 利 路 亞！ 阿 利 路 亞！ 阿 們， 阿 利 路 亞！</singingstanza>
+	<singingstanza2>[skip25] （太四4）</singingstanza2>
+  </layout>
+  <music>
+	<midiref type="ns" num="120"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">經上記著：
+人活著不是單靠食物，
+乃是靠著神口裡
+所出的一切話。
+（太四4）</stanza>
+	<stanza type="chorus" number="">阿利路亞！阿利路亞！
+阿利路亞！阿們，
+阿利路亞！</stanza>
+	<stanza type="verse" number="2">叫人活著的是靈，
+肉體是無益的；
+我對你們說的話，
+就是靈、是生命。
+（約六63）</stanza>
+	<stanza type="verse" number="3">我得著你的言語，
+就當食物喫了。
+你的話在我心中，
+是我歡喜快樂。
+（耶十五16）</stanza>
+	<stanza type="verse" number="4">要拿著靈的寶劍，
+這靈是神的話─
+藉著多方的禱告，
+每次都在靈裡。
+（弗六17～18）</stanza>
+	<stanza type="verse" number="5">要藉著話裡的水，
+來把召會洗淨，
+成為聖潔，獻給主，
+作榮耀的召會。
+（弗五26～27）</stanza>
+  </lyrics>
+</hymn>

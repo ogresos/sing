@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>求主光照光照我</title>
+  <index>true</index>
+  <category>羨慕－一般</category>
+  <meter>9.11.8.9.</meter>
+  <hymncode>5612165555116532</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>求 主 光 照、 光 照 我， 阿 們！ 顯 明、 顯 明 我 罪 過， 阿 利 路 亞！ 用 血 洗 濯， 用 血 洗 濯， 使 我 污 穢 全 消 沒， 阿 們！</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0326_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">求主光照、光照我，
+阿們！
+顯明、顯明我罪過，
+阿利路亞！
+用血洗濯，用血洗濯，
+使我污穢全消沒，
+阿們！</stanza>
+	<stanza type="verse" number="2">求主釋放、釋放我，
+阿們！
+斷開、斷開我捆索，
+阿利路亞！
+敗壞鬼魔，敗壞鬼魔，
+使我自由而超脫，
+阿們！</stanza>
+	<stanza type="verse" number="3">求主復興、復興我，
+阿們！
+消除、消除我軟弱，
+阿利路亞！
+挑旺愛火，挑旺愛火，
+使我完全為主活，
+阿們！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alang kang Jesus magkinabuhi</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;MAGKINABUHI ALANG SA GINOO</category>
+  <numbers><cebuano num="456"/><chinese num="342"/><english num="456"/><korean num="342"/><portuguese num="208"/><tagalog num="456"/></numbers>
+  <creators>
+    <author biodate="1866-1960" biolink="">Translated from Thomas Obediah Chisholm</author>
+  </creators>
+  <music>
+    <midiref type="h" num="456"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Alang kang Jesus magkinabuhi,
+Siya pahimut-an ko sa tanan;
+Kinabubut-ong nakig-alayon,
+Sa panalangin kini ang dalan.</stanza>
+    <stanza type="chorus" number="">O Jesus Ginoo ko,
+Magtugyan ko Nimo,
+Kay kanako gihatag
+Ang kinabuhi Mo;
+Wa koy laing Agalon,
+Ikaw ray na's trono,
+Kinabuhi ihatag ko
+Kanimo, Ginoo.</stanza>
+    <stanza type="verse" number="2">Alang N'yang namatay puli nako,
+Sala'g kaulaw giako sa krus;
+Gugma nagtandog, mosanong's tawag,
+Sundon S'ya, akong tanan ihatag.</stanza>
+    <stanza type="verse" number="3">Bisan asa mabuhi alang N'ya,
+Sa balaang ngalan N'ya mobuhat;
+Andam mag-antus ug mapildehan,
+Ilhon nga bahin kini's akong krus.</stanza>
+    <stanza type="verse" number="4">Mabuhi alang N'ya bisan kadyut,
+Bahanding mahal ang pahiyom N'ya,
+Pangitaon ang mga nawala,
+Dad-ong gikapoy nga mopahuway N'ya.</stanza>
+  </lyrics>
+</hymn>

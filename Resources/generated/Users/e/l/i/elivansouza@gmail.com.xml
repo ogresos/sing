@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Elivan</firstname>
+<lastname>Souza</lastname>
+<email>elivansouza@gmail.com</email>
+<password>$1$oX8JbptJ$oEu/yFgeneMmMef4rJ3vm.</password>
+<gender>M</gender>
+<country>Brazil</country>
+<ipaddress>189.96.185.157</ipaddress>
+<createdate>2009-03-22 15:33:16</createdate>
+<lastupdateddate>2009-09-15 18:29:41</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    </favourites>
+</user>

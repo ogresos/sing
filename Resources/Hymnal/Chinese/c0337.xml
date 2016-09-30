@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我將一切全獻基督</title>
+  <index>true</index>
+  <category>奉獻－全都獻主</category>
+  <numbers><cebuano num="441"/><chinese num="337"/><dutch num="29"/><english num="441"/><french num="77"/><german num="441"/><korean num="337"/><portuguese num="204"/><russian num="83"/><spanish num="189"/><tagalog num="441"/></numbers>
+  <creators>
+	<author biodate="1855-1939" biolink="">Translated from Judson W. Van de Venter</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 將 一 切 全 獻 基 督， 全 獻 恩 主 心 甘 願； 我 要 永 遠 愛 主， 隨 主， 天 天 活 在 主 面 前。 一 切 全 奉 獻！ 一 切 全 奉 獻！ 我 的 恩 主， 向 你 我 願 一 切 全 奉 獻！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我將一切全獻基督，
+全獻恩主心甘願；
+我要永遠愛主，隨主，
+天天活在主面前。</stanza>
+	<stanza type="chorus" number="">一切全奉獻！
+一切全奉獻！
+我的恩主，
+向你我願一切全奉獻！</stanza>
+	<stanza type="verse" number="2">我將一切全獻基督，
+我今俯伏主腳前；
+今世福樂永不我屬，
+恩主，收我在今天。</stanza>
+	<stanza type="verse" number="3">我將一切全獻基督，
+恩主，將我全得著。
+惟願聖靈從我證出：
+我是屬主，主屬我。</stanza>
+	<stanza type="verse" number="4">我將一切全獻基督，
+主，我願作你器皿；
+恩惠、能力充我如注，
+顯明你生在我身。</stanza>
+	<stanza type="verse" number="5">我將一切全獻基督，
+聖火已焚我心情；
+哦，這救恩甜美豐富，
+榮耀、榮耀歸主名。</stanza>
+  </lyrics>
+</hymn>

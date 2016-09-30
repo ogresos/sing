@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kalooban Mo ang siyang sundin</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAGBIBIGAY-DAAN SA PANGINOON</category>
+  <numbers><cebuano num="449"/><chinese num="344"/><english num="449"/><korean num="344"/><portuguese num="206"/><russian num="516"/><spanish num="193"/><tagalog num="449"/></numbers>
+  <creators>
+    <author biodate="1862-1934" biolink="">Translated from Adelaide Addison Pollard</author>
+  </creators>
+  <music>
+    <midiref type="h" num="449"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kalooban Mo ang siyang sundin,
+Luad ako na huhugisin,
+Ayon sa ibig Mo ay gawin,
+Ako'y handa at masunurin.</stanza>
+    <stanza type="verse" number="2">Kalooban Mo nawa'y gawin,
+Ako ngayon ay Iyong subukin,
+Ako'y hugasa't paputiin,
+Ikaw lamang ang hihintayin.</stanza>
+    <stanza type="verse" number="3">Kalooban Mo ang siyang sundin,
+Ako'y tulungan, ang dalangin,
+Kapangyarihan ay Iyo rin,
+Ako'y hipuin, pagalingin.</stanza>
+    <stanza type="verse" number="4">Kalooban Mo ang siyang sundin,
+Ako'y lubusan Mong sakupin.
+Espiritu Mo ako'y pun'in,
+Kristo ang mabuhay sa akin.</stanza>
+  </lyrics>
+</hymn>

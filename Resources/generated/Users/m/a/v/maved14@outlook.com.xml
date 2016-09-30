@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Anesu</firstname>
+  <lastname/>
+  <email>maved14@outlook.com</email>
+  <password>$2y$10$6yAKGJTxmHBQRoKvoUg4mONd96.W7jyKzxIZMoSStwTrZ1AXQQdAC</password>
+  <gender/>
+  <country/>
+  <ipaddress>86.19.238.33</ipaddress>
+  <createdate>2016-06-01 20:16:25</createdate>
+  <lastupdateddate>2016-06-01 20:18:14</lastupdateddate>
+  <lastlogindate>2016-06-01 20:17:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+  </favourites>
+</user>

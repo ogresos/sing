@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panalig awitin</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;SA PANANAMPALATAYA</category>
+  <numbers><cebuano num="778"/><chinese num="562"/><english num="778"/><korean num="562"/><tagalog num="778"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="778"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panalig awitin,
+Gabi ma'y madilim;
+Kung pupuri, Diyos gagawa
+Hiling mo'y makuha.</stanza>
+    <stanza type="verse" number="2">Panalig awitin,
+Diyos aking purihin;
+Nalugod ang Diyos sa papuri,
+Madilim man gabi.</stanza>
+    <stanza type="verse" number="3">Awiting panalig,
+Dyablo'y manginginig;
+H'wag ipatikom iyong bibig,
+Papuri'y pandaig.</stanza>
+    <stanza type="verse" number="4">Awiting panalig,
+Patuloy na himig;
+Hanggang sa bukang-liwayway,
+Pangino'n masilay.</stanza>
+    <stanza type="note" number="">(Ulitin ang huling linya ng bawa't saknong)</stanza>
+  </lyrics>
+</hymn>

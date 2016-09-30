@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Tan</firstname>
+<lastname>Meng Chong</lastname>
+<email>mchonk@gmail.com</email>
+<password>$1$OBvXF.Fq$1kt8imz0sIfOxsU5P3XNB/</password>
+<gender>M</gender>
+<country>Singapore</country>
+<ipaddress>220.255.7.174</ipaddress>
+<createdate>2009-08-07 23:55:23</createdate>
+<lastupdateddate>2009-09-15 19:17:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="292">A debtor to mercy alone</fav>
+        <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    </favourites>
+</user>

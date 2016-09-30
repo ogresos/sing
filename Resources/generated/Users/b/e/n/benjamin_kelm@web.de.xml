@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Benjamin</firstname>
+    <lastname>Kelm</lastname>
+    <email>benjamin_kelm@web.de</email>
+    <password>$1$hSrWGOGT$yNam4kvCYCLNJNRcWvSpx.</password>
+    <gender>M</gender>
+    <country>Germany</country>
+    <ipaddress>87.181.143.46</ipaddress>
+    <createdate>2009-05-14 08:47:02</createdate>
+    <lastupdateddate>2012-12-31 07:03:24</lastupdateddate>
+    <lastlogindate>2012-12-31 07:03:24</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="509">A flowing river and a tree</fav>
+        <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+        <fav category="default" type="h" num="335">I was lost in sin but Jesus rescued me</fav>
+        <fav category="default" type="h" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+        <fav category="default" type="h" num="960">My King will soon come back again</fav>
+        <fav category="default" type="h" num="1232">Once by nature we were dead in sin</fav>
+        <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+        <fav category="default" type="h" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="h" num="1308">We have oil in our lamps&amp;mdash;we are burning</fav>
+    </favourites>
+</user>

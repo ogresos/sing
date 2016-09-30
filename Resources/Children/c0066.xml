@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love to sing a joyful song</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Love</category>
+  <key>Bb Major</key>
+  <melody>| 0 - 5 - | 5 - 5 - | 5 - - 4 | 4 - 3 - | 3 - - 3 | 3 - 3 - | 5 - 3 - | 4( - - - (break) | 4) - 5 - | 5 - 7 - | 7 - - 7 | ._1 - 5 - | 5 - - 5 | 6 - 4 - | 3 - 2 - (break) | 1( - - - | 1) 0 (Chorus) 5. 5/ | 7( - - - | 7) - 5. 5/ | ._1( - - - | ._1) - 5. 5/ | ._2( - - - (break) | ._2) - 5. 5/ | ._3 ._2 ._1 7 | ._1 7 6. 5/ | 7( - - - (break) | 7) - 5. 5/ | ._1( - - - | ._1) - 5 5 | 6 - 4 - | 3 - 2 - | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>I love to sing a joy -- ful song, That turns my heart to God, A song that fills my ev -- ery thought With love on -- ly for Him. I love God, I love God, We love God, Hal -- le -- lu -- jah, for His pur -- pose. He chose you, He chose me To be filled on -- ly with Him.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="1205"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">I love to sing a joyful song,
+That turns my heart to God,
+A song that fills my every thought
+With love only for Him.</stanza>
+    <stanza type="chorus" number="">I love God,
+I love God,
+We love God,
+Hallelujah, for His purpose.
+He chose you,
+He chose me
+To be filled only with Him.</stanza>
+  </lyrics>
+</hymn>

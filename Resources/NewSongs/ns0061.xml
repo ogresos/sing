@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Early in the morning</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Bob Brenneman">B. B.</author>
+    <composer biodate="" biolink="" fullname="Bob Brenneman">B. B.</composer>
+  </creators>
+  <hymncode>33321651232</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | C - G - | C - F - | C/G G7 C - | C/E - F - | C - G - | C - F - | C/G G7 C - |</chords>
+  <melody>| 3/ 3/ 3/ 2/ 1 6_. | 5_./ 1/ 2/ 3/ 2 - | 3/ 3/ 3/ 2/ 1 6_. | 5_./ 1/ 7_./ 2/ 1 - (break) | (Chorus) 5/ 5/ 5/ 5/ 6 - | 5/ 5/ 5/ 3/ 2 - | 3/ 3/ 3/ 2/ 1 6_. | 5_./ 1/ 7_./ 2/ 1 - |</melody>
+  <layout>
+    <singingstanza>Ear -- ly in the morn -- ing, Meet -- ing with the saints, Gath -- er the fresh man -- na, Take in His rich grace! Christ in all the saints, Liv -- ing, fresh and new. Blend -- ing with each oth -- er, Tast -- ing morn -- ing dew!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="20">ns0061.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Early in the morning,
+Meeting with the saints,
+Gather the fresh manna,
+Take in His rich grace!</stanza>
+    <stanza type="chorus" number="">Christ in all the saints,
+Living, fresh and new.
+Blending with each other,
+Tasting morning dew!</stanza>
+    <stanza type="verse" number="2">Singing songs together,
+Spirits exercised.
+Drawing from each other,
+Christ is realized!</stanza>
+    <stanza type="verse" number="3">Reading in the Bible,
+Each one taking turns;
+Fellowship together,
+How our spirit burns!</stanza>
+    <stanza type="verse" number="4">Praying for our loved ones,
+Bring them to the throne.
+Christ desires to save them,
+Bringing them all home!</stanza>
+    <stanza type="verse" number="5">Morning, noon and evening,
+Gath'ring with the saints;
+Joy in each one's presence,
+Taking in fresh grace.</stanza>
+  </lyrics>
+</hymn>

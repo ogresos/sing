@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Cathie</firstname>
+    <lastname>Knight</lastname>
+    <email>cathie@ckainc.com</email>
+    <password>y7jUqZTb6qlEOG8vtQeWKQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-13 18:51:59</createdate>
+    <lastupdateddate>2014-05-13 18:51:59</lastupdateddate>
+    <lastlogindate>2014-05-13 18:39:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+        <fav category="default" type="h" num="719">Like a river, glorious</fav>
+    </favourites>
+</user>

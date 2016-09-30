@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>George</firstname>
+  <lastname>Dillon</lastname>
+  <email>gdillon439@gmail.com</email>
+  <password>$2y$10$uQfnFv.DzcAyBtXO7L4QruCVlZCCH1f1XBnNkHn8.L0s1NPi8d5FO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.192.202.149</ipaddress>
+  <createdate>2015-01-15 19:52:51</createdate>
+  <lastupdateddate>2015-01-15 20:09:38</lastupdateddate>
+  <lastlogindate>2015-01-15 19:54:22</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1066">Down at the cross</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="997">I hear the Savior say</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+  </favourites>
+</user>

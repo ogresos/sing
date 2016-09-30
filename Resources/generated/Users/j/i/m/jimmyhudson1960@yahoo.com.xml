@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>jimmy</firstname>
+    <lastname>hudson</lastname>
+    <email>jimmyhudson1960@yahoo.com</email>
+    <password>M3S4fyDj3NZdj%2BIej8tA7A%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>207.68.236.145</ipaddress>
+    <createdate>2011-08-07 18:27:12</createdate>
+    <lastupdateddate>2011-08-07 18:39:11</lastupdateddate>
+    <lastlogindate>2011-08-07 18:27:14</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1148">Come and dine</fav>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+        <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+    </favourites>
+</user>

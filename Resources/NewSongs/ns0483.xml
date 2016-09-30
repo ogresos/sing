@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My love is like a dove</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>532176112232</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G - - - | C - F/C - | C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | D - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 3( - 3/) 2/ 1/ 7_./ | 6_. - - 1/ 1/ | 2 - - 2/ 3/ (break) | 2 - - 5_./ 5_./ | 1( - 1/) 7_./ 1/ 7_./ | 6_./ 7_.// 1//( 1)( 1) 6_. | 2( - 2/) 3/ 2/ 3/ (break) | 2 - - 5_./ 5_./ | 3( - 3/) 2/ 1/ 7_./ | 6_. - - 1/ 1/ | 2( - 2/) 1/ 7_./ 6_./ (break) | 5_. - - 5_. | 1( - 1/) 7_./ 6_./ 5_./ | 3_./ 6_..( 6_.) 1 | 2 - - 1 | 7_. - 5_.. 2/ | 1( - - - (break) | 1) - - (Chorus) 3/ 4/ | 5 - - 6 | 3 - - 3/ 5/ | 4 - - 3 (break) | 2 - - 1/ 2/ | 3 - - 2/ 3/( | 3/) 1.( 1) 6_. | 2 - - 3 (break) | 2 - - 3/ 4/ | 5 - - 6 | 3 - - 3/ 5/ | 4 - - 3 | 2 - - 1/ 2/ (break) | 3 - - 2/ 3/( | 3/) 1.( 1) 6_. | 2 - - 1 | 7_. - - 5_. | 1( - - - | 1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>My love is like a dove, In the clefts of the rock, In the cov -- ert of the prec -- i -- pice, That's where My love is safe. At this se -- cret place we meet, Here your voice, my love, is sweet; Your coun -- te -- nance is love -- ly, And here you're pleas -- ing to Me. Let Me hear your voice; See your coun -- te -- nance; For your voice is so sweet, And you're love -- ly. Let Me hear your voice, See your coun -- te -- nance; For your voice is so sweet, And you're love -- ly to me.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 2:14</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="c98AA7I1LsA"/>
+  </videos>
+  <music>
+      <midi location="ns" length="102">ns0483.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My love is like a dove,
+In the clefts of the rock,
+In the covert of the precipice,
+That's where My love is safe.
+
+At this secret place we meet,
+Here your voice, my love, is sweet;
+Your countenance is lovely,
+And here you're pleasing to Me.</stanza>
+    <stanza type="chorus" number="">Let Me hear your voice;
+See your countenance;
+For your voice is so sweet,
+And you're lovely.
+
+Let Me hear your voice,
+See your countenance;
+For your voice is so sweet,
+And you're lovely to me.</stanza>
+    <stanza type="verse" number="2">My love is like a dove,
+In the clefts of the rock,
+In the covert of the precipice,
+That's where you're lovely.
+
+At this secret place we meet,
+Here your voice, my love, is sweet;
+Your countenance is lovely,
+And you're lovely to Me.</stanza>
+  </lyrics>
+</hymn>

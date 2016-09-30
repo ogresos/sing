@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A canção eterna não cansamos de cantar</title>
+  <index>true</index>
+  <category>Sua Redenção</category>
+  <numbers><cebuano num="41"/><chinese num="36"/><english num="41"/><korean num="36"/><portuguese num="29"/><russian num="17"/><spanish num="27"/><tagalog num="41"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="41"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">A canção eterna não cansamos de cantar:
+Glória a Deus, aleluia!
+Com espírito mais forte vamos entoar:
+Glória a Deus, aleluia!</stanza>
+    <stanza type="chorus" number="">A mais bela das canções têm os filhos do Senhor,
+Pois à glória eles vão, por Seu divinal favor.
+Todos com o Rei, então, estaremos sem temor!
+Glória a Deus, aleluia!</stanza>
+    <stanza type="verse" number="2">Hoje imersos somos em Seu redentor amor:
+Glória a Deus, aleluia!
+Desfrutando cada instante a graça do Senhor:
+Glória a Deus, aleluia!</stanza>
+    <stanza type="verse" number="3">Vamos para a glória, como disse o Senhor:
+Glória a Deus, aleluia!
+E do nosso Rei contemplaremos o esplendor:
+Glória a Deus, aleluia!</stanza>
+    <stanza type="verse" number="4">Lá nós cantaremos Sua graça em novo som:
+Glória a Deus, aleluia!
+Louvaremos o Senhor com grande multidão:
+Glória a Deus, aleluia!</stanza>
+  </lyrics>
+</hymn>

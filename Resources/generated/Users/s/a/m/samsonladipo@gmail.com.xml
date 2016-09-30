@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Sam</firstname>
+    <lastname>Ladipo</lastname>
+    <email>samsonladipo@gmail.com</email>
+    <password>hkHBMtbiQoQBEd92AWEpbw%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>141.101.98.118</ipaddress>
+    <createdate>2014-01-24 02:39:24</createdate>
+    <lastupdateddate>2014-01-24 02:42:51</lastupdateddate>
+    <lastlogindate>2014-01-24 02:39:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    </favourites>
+</user>

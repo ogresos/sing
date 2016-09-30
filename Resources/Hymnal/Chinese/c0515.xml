@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>不在此時，許待主回</title>
+  <index>true</index>
+  <category>試煉中的安慰－信靠主</category>
+  <numbers><chinese num="515"/><english num="715"/><korean num="515"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Maxwell N. Cornelius</author>
+  </creators>
+  <melody>| 0 - - 5_. | 3. 2/ 1/ 3_./ 5_./ 1/ | 7_. - - 7_. | 7_.. 4/ 6_./ 7_./ 6_./ 5_./ (break) | 3 - - 5_. | 3. 2/ 1/ 3_./ 5_./ 7b_./ | 6_. - - 4 | 4 0/ 3/ 3/ 2/ 6_./ 7_./ (break) | 1( - 1/) (Chorus) 2/ 2/ 2/ | [3/4] 2. 2/ 3/ 2/ | 5. 5/ 2/ 5/ | 4#. 2/ 1/ 6_./ (break) | [4/4] 5_. - - 5_. | 3. 2/ 1/ 3_./ 5_./ 1/ | 3( 4 5.) 5/ | 5 0/ 4/ 6_./ 4/ 3./ 2// | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>不 在 此 時， 許 待 主 回， 不 在 此 地， 許 到 那 裡； 我 們 纔 能 完 全 領 會， 歎 息 眼 淚 所 有 意 義。 你 當 一 生 信 靠 救 主， 路 雖 陰 暗， 仍 當 讚 美， 不 必 懼 怕， 主 在 攙 扶， 有 日、 有 日 都 要 領 會。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="715"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">不在此時，許待主回，
+不在此地，許到那裡；
+我們纔能完全領會，
+歎息眼淚所有意義。</stanza>
+	<stanza type="chorus" number="">你當一生信靠救主，
+路雖陰暗，仍當讚美，
+不必懼怕，主在攙扶，
+有日、有日都要領會。</stanza>
+	<stanza type="verse" number="2">中斷線索，都將接上，
+一生經過，必有路軌，
+天能解釋各樣祕藏，
+那日、那日都必領會。</stanza>
+	<stanza type="verse" number="3">何故厚雲遮蔽太陽？
+何故寂寞代替安慰？
+何故歎息多過歌唱？
+有日我們就要領會。</stanza>
+	<stanza type="verse" number="4">何以祈求未見答應？
+何以將成終又不遂？
+何以盼望終成泡影？
+那日那裡，我必領會。</stanza>
+	<stanza type="verse" number="5">神知我路，手拿牠鑰，
+祂的帶領充滿智慧；
+有日我眼看見一切，
+祂在那裡，我必領會。</stanza>
+  </lyrics>
+</hymn>

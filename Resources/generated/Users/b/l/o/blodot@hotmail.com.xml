@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Blodot</firstname>
+    <lastname>Johnny</lastname>
+    <email>blodot@hotmail.com</email>
+    <password>zCa8qCruQqc4RFsHw1T%2BjQ%3D%3D</password>
+    <gender></gender>
+    <country>South Africa</country>
+    <ipaddress>105.237.39.78</ipaddress>
+    <createdate>2014-06-08 15:54:02</createdate>
+    <lastupdateddate>2014-06-08 15:54:02</lastupdateddate>
+    <lastlogindate>2014-06-08 15:52:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+    </favourites>
+</user>

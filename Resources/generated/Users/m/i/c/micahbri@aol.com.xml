@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname/>
+  <email>micahbri@aol.com</email>
+  <password>$2y$10$ZEVvD.9mNkJnhPibXlPAOeEOkdYDVfUjURIY1OZJWxMR.AMFzQcSu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.115.24.231</ipaddress>
+  <createdate>2015-11-28 02:10:36</createdate>
+  <lastupdateddate>2015-11-28 02:36:33</lastupdateddate>
+  <lastlogindate>2015-11-28 02:18:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="nt" num="369">Let me love Thee, Thou art claiming</fav>
+    <fav category="default" type="h" num="1133">O Father of glory, now grant unto me</fav>
+    <fav category="default" type="lb" num="56">The divine dispensing</fav>
+    <fav category="default" type="ns" num="311">Two Greatest Prayers of Paul</fav>
+  </favourites>
+</user>

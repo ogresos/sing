@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Magkalipay! Di na magdugay</title>
+  <index>true</index>
+  <category>PAGLAUM SA HIMAYA&amp;mdash;ANG ADLAW SA KASAL</category>
+  <numbers><cebuano num="1315"/><chinese num="ts:905"/><english num="1315"/><german num="1315"/><russian num="498"/><spanish num="448"/></numbers>
+  <melody>| 0 - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. (break) | 1 - - (Chorus) 7_./( 1/) | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 6_. 3 (break) | 3( - 2) 7_./( 1/) | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 7_. 6_. (break) | 5_. - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. | 1 - - 0 |</melody>
+  <notes>Mateo 25:1-13</notes>
+  <music>
+	<midiref type="h" num="1315"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Magkalipay! Di na magdugay,
+Ang atong Pamanhonon,
+Kalipay kaslon kita Niya,
+Sa pag-awit pun-on ta.</stanza>
+	<stanza type="chorus" number="">O adlaw nga mahimayaon,
+Inig-anhi ni Cristo:
+Sudlanang puno ug nagsiga,
+Sugatong pagbalik N'ya.
+Magkalipay! Di na magdugay
+Ang atong Pamanhonon!
+Kalipay kaslon kita Niya
+Sa pag-awit pun-on ta.</stanza>
+	<stanza type="verse" number="2">Bakwion ta ang matag gutlo,
+Mamalit pa ug lana,
+Sudlanan pun-on nato's lana,
+Sa di pa moabot S'ya.</stanza>
+	<stanza type="verse" number="3">Unsang kalipay pagpangandam
+Sa kasal ta's Ginoo,
+Niambit bisan's kasakitan,
+Aron ta magantihan!</stanza>
+	<stanza type="verse" number="4">Unsang paglalin, pagkalipay,
+Sa adlaw sa kasal ta;
+Usa ka libo ka tuig ta
+Mag-uban N'ya's kombira!</stanza>
+  </lyrics>
+</hymn>

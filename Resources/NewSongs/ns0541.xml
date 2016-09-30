@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Divine Dispensing for the Life Supply</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Satisfaction with Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>321321212354</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | G - - - | C - - - | F - - - | C - - - | Dm - C - | Gsus4 - - - | G - - - | C - - - | G - - - | C - - - | F - - - | C - - - | Dm - G - | C - - - | C - - - | C - - - | F - - - | C - - - | F - - - | C - - - | Am - - - | Gsus4 - - - | G - - - | C - - - | F - - - | C - - - | F - - - | C - - - | Dm - G - | C - - - | C - - - |</chords>
+  <melody>| 0 - (Chorus) 3 2 | 1 - 3/( 2/) 1/ 2/( | 2) - 1 2 | 3 - 5 - (break) | 4 - - 2 | 3 1( 1) 3 | 4 - 3 - | 3 2( - - (break) | 2) 0 3 2 | 1 - 3/( 2/) 1/ 2/( | 2) - 1 2 | 3 - 5 - (break) | 4 - - 2 | 3 1( 1) 3 | 4 - 7_. - | 1( - - - (break) | 1) (Verse_1) 5 6 7 | ._1 - ._1. 6/( | 6) - - 4 | 5 - 6 6 (break) | 1 - - 2 | 3 - 5 - | ._1 - 6 - | 6( 5)( - - (break) | 5) 5 6 7 | ._1 - ._1. 6/( | 6) - - 4 | 5 - 6 - (break) | 1 - - 2 | 3 - - 3 | 4 - 7_. - | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>We can eat, we can drink, We can en -- joy God, By lov -- ing His price -- less pres -- ence; We can eat, we can drink, We can en -- joy God By call -- ing His pre -- cious name. We need to love the Lord And keep His pure Word, And wear Christ as our clothes; We need to call His name, In Him re -- main, In Him, our soul -- life lose.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="71">ns0541.mid</midi>
+  </music>
+  <lyrics>n
+    <stanza type="chorus" number="">We can eat, we can drink,
+We can enjoy God,
+By loving His priceless presence;
+We can eat, we can drink,
+We can enjoy God
+By calling His precious name.</stanza>
+    <stanza type="verse" number="1">We need to love the Lord
+And keep His pure Word,
+And wear Christ as our clothes;
+We need to call His name,
+In Him remain,
+In Him, our soul-life lose.</stanza>
+    <stanza type="note">(Chorus)</stanza>
+    <stanza type="verse" number="2">We need to eat the Lord,
+Absorb His pure Word
+And breathe in Christ as life;
+And as we breathe God in,
+The Spirit begins
+Dispensing the life supply.</stanza>
+    <stanza type="note">(Chorus)</stanza>
+  </lyrics>
+</hymn>

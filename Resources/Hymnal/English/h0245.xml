@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, spread the tidings 'round, wherever man is found</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Comforter</category>
+  <numbers><cebuano num="245"/><chinese num="197"/><english num="245"/><korean num="197"/><portuguese num="132"/><tagalog num="245"/></numbers>
+  <creators>
+    <author biodate="1823-1894" biolink="">Frank Bottome</author>
+    <composer biodate="1838-1921" biolink="">William James Kirkpatrick</composer>
+  </creators>
+  <meter>12.12.12.6. with chorus.</meter>
+  <hymncode>556535112161</hymncode>
+  <key>Bb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C/E - - | F - - | Dm - - | C/E - - | Am - - | F - - | G7 - - | C - - | C/E - - | F - - | Dm - - | C/G - - | G7 - - | C - - | C - - | C7 - - | F - - | F - - | Em - - | Am - - | F - - | G7 - - | C - - | C7/E - - | F - - | Dm - - | C/G - - | G7 - - | C - - |</chords>
+  <melody>| 0 - 5 | 5. 6/ 5/ 3/ | 5 - ._1 | ._1. ._2/ ._1/ 6/ | ._1 - 6 | 5. 6/ 5/ 3/ | 3 - 3 | 3. 3/ 2/ 1/ (break) | 2 - 5 | 5. 6/ 5/ 3/ | 5 - ._1 | ._1. ._2/ ._1/ 6/ | ._1 - 6 | 5 - ._1 | ._3 - ._2 (break) | (.._1 - (Chorus) ._1 | ._3. ._2/ ._1/ ._2/ | ._3 - ._1 | ._1. ._2/ ._1/ 6/ | ._1 - 6 | 5. 6/ 5/ 3/ | 3 - 3 | 3. 3/ 2/ 1/ (break) | 2 - 5 | 5. 6/ 5/ 3/ | 5 - ._1 | ._1. ._2/ ._1/ 6/ | ._1 - 6 | 5 - ._1 | ._3 - ._2 | (.._1 - 0 |</melody>
+  <layout>
+    <singingstanza>Oh, spread the tid -- ings 'round, wher -- ev -- er man is found, Wher -- ev -- er hu -- man hearts and hu -- man woes a -- bound; Let ev__ ery Chris -- tian tongue pro -- claim the joy -- ful sound: The Com -- fort -- er has come! The Com -- fort__ er has come, The Com -- fort -- er has come! The Ho -- ly Ghost from heav'n, The Lord's dear prom -- ise giv'n; Oh, spread the ti -- dings 'round, Wher -- ev -- er man is found&amp;mdash; The Com -- fort -- er has come!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj085.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="58">e0245_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, spread the tidings 'round, wherever man is found,
+Wherever human hearts and human woes abound;
+Let every Christian tongue proclaim the joyful sound:
+    The Comforter has come!</stanza>
+    <stanza type="chorus" number="">The Comforter has come,
+The Comforter has come!
+The Holy Ghost from heav'n,
+The Lord's dear promise giv'n;
+Oh, spread the tidings 'round,
+Wherever man is found&amp;mdash;
+  The Comforter has come!</stanza>
+    <stanza type="verse" number="2">The long, long night is past, the morning breaks at last;
+And hushed the dreadful wail and fury of the blast,
+As o'er the golden hills the day advances fast!
+    The Comforter has come!</stanza>
+    <stanza type="verse" number="3">Lo, the great King of kings, with healing in His wings,
+To every captive soul a full deliv'rance brings;
+And through the vacant cells the song of triumph rings:
+    The Comforter has come!</stanza>
+    <stanza type="verse" number="4">O boundless love divine! how shall this tongue of mine
+To wond'ring mortals tell the matchless grace divine&amp;mdash;
+That I, a child of hell, should in His image shine!
+    The Comforter has come!</stanza>
+  </lyrics>
+</hymn>

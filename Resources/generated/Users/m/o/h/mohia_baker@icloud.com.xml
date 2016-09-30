@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mohia</firstname>
+  <lastname>Baker</lastname>
+  <email>mohia_baker@icloud.com</email>
+  <password>$2y$10$xr6cQyOJiWjgWbZMxNVGeOkwSfNqJ22oWOXvDvfqmRvYO5elqJIei</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>180.216.89.40</ipaddress>
+  <createdate>2015-01-26 02:36:53</createdate>
+  <lastupdateddate>2015-01-26 02:40:26</lastupdateddate>
+  <lastlogindate>2015-01-26 02:38:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1336">What shall I give unto the Lord</fav>
+  </favourites>
+</user>

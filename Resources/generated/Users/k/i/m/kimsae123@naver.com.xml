@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sehoon</firstname>
+  <lastname>Kim</lastname>
+  <email>kimsae123@naver.com</email>
+  <password>$2y$10$HfsrBHqjFYN3z8MKTt.1T./FRdpcz45muWED51Q6U1vUpCCXqPeJq</password>
+  <gender/>
+  <country>kr</country>
+  <ipaddress>121.165.186.215</ipaddress>
+  <createdate>2015-08-16 20:36:46</createdate>
+  <lastupdateddate>2015-08-16 20:39:37</lastupdateddate>
+  <lastlogindate>2015-08-16 20:39:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="396">Take me Lord, and fill me with Your dear Self</fav>
+  </favourites>
+</user>

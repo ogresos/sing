@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>kim</firstname>
+    <lastname>youna</lastname>
+    <email>woyuanyiking@yahoo.com.cn</email>
+    <password>Gry1KQvZEG%2FT9aZEcDIQBA%3D%3D</password>
+    <gender>M</gender>
+    <country>cn</country>
+    <ipaddress>175.203.138.74</ipaddress>
+    <createdate>2012-05-05 23:44:29</createdate>
+    <lastupdateddate>2012-05-06 00:15:01</lastupdateddate>
+    <lastlogindate>2012-05-05 23:44:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+        <fav category="default" type="ns" num="271">Always rejoice</fav>
+        <fav category="default" type="lb" num="27">Let's go on</fav>
+        <fav category="default" type="nt" num="498">This is my wonderful story</fav>
+    </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O amado Deus é meu Pastor</title>
+  <index>true</index>
+  <category>Como Pastor</category>
+  <numbers><chinese num="444"/><english num="8444"/><korean num="444"/><portuguese num="312"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Chinese</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8444"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O amado Deus é meu Pastor,
+Conduz-me, vem-me apascentar;
+É Ele meu e Dele sou,
+E nada há de me faltar.</stanza>
+    <stanza type="verse" number="2">Nos pastos faz-me repousar,
+Ele me dá satisfação;
+Às águas calmas faz-me vir
+A descansar em comunhão.</stanza>
+    <stanza type="verse" number="3">Só me perdi, vaguei, errei,
+Mas Ele sempre me guiou;
+Tão vacilante sempre fui,
+Mas em Seu nome me levou.</stanza>
+    <stanza type="verse" number="4">Quão negra é a escuridão,
+Sem proteção, oh! como andar?
+Mas Sua vara me sustém,
+Comigo sempre estará.</stanza>
+    <stanza type="verse" number="5">Faz-me gloriar co'intrepidez,
+Graça ante os rivais me dá,
+Me unge a cabeça e eis
+Meu cálice a transbordar.</stanza>
+    <stanza type="verse" number="6">Até o fim seguir-me-á
+O Seu maravilhoso amor;
+Sim, Seu amor não mudará,
+E aumentarei o meu louvor.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Minh'alma, ouve sem temor</title>
+  <index>true</index>
+  <category>Justificados Em Cristo</category>
+  <numbers><chinese num="236"/><english num="297"/><korean num="236"/><portuguese num="158"/><tagalog num="297"/></numbers>
+  <creators>
+    <author biodate="1803-1902" biolink="en.wikipedia.org/wiki/Robert_Chapman_(Plymouth_Brethren)">Translated from Robert Cleaver Chapman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="297"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Minh'alma, ouve sem temor:
+"Não há condenação!"
+Jesus pecados teus levou!
+E deu-te salvação.</stanza>
+    <stanza type="verse" number="2">No céu, por nós, o Salvador
+Achega-se a Deus,
+E tem quais pedras de valor,
+No peito, os santos Seus.</stanza>
+    <stanza type="verse" number="3">Minh'alma ouve, é Deus quem diz:
+"Não há condenação!"
+No Cristo ressurreto tens
+Beleza e perfeição.</stanza>
+    <stanza type="verse" number="4">Ó Deus, somente ao Cristo Teu
+Ensina-me a olhar;
+Vou Teu querer amar assim
+E a Cristo exaltar.</stanza>
+  </lyrics>
+</hymn>

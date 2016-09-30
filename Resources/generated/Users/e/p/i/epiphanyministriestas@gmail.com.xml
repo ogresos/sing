@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Fiona</firstname>
+  <lastname>Brown</lastname>
+  <email>epiphanyministriestas@gmail.com</email>
+  <password>$2y$10$usZbD81Eug4CnlgX2ln2H.FdUQcb17z/dzefRJJOQ1zUKV33YIa7a</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>147.69.9.81</ipaddress>
+  <createdate>2015-07-18 02:38:08</createdate>
+  <lastupdateddate>2016-06-23 09:27:38</lastupdateddate>
+  <lastlogindate>2016-06-23 09:27:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+  </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The glory of the Lord</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="lb:35"/><vsb num="254"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Paul Cozza">P. C.</author>
+    <composer biodate="" biolink="" fullname="Paul Cozza">P. C.</composer>
+  </creators>
+  <hymncode>32171223</hymncode>
+  <key>E Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <chords>| C - | A - | Em - | F - | G - | C - | Em - | F - | G - | Am - | Em - | Dm - | G7 - | C - | Em - | F - | G - | C - | Em - | F - | G - | C - | Em - | F - | G - | Am - | Em - | Dm - | G7 - | C - | F/C - | C - | G7 - | C - | G - | Am - | Am - | Dm - | F - | G - | G - | Dm - | Dm/F - | G - | G - | C/E - | G - | C - | C - | F - | Dm - | G - | G - | Dm - | Dm/F - | G - | G - | F - | G7 - | C - |</chords>
+  <melody>| 0 3/( 2/) | 1 - | 7_. - | 0 1 | 2 2 | 3( - | 3) 0 | 0 4 | 5/ 5/ 5/ 5/ | 6 - | 5 - | 0 4 | 5/ 5/ 5/ 5/ | 3 - | 0 - | 0 - (break) | 0 3/ 2/ | 1. 1/ | 7_. - | 0 1/ 1/ | 2 2 | 3( - | 3) 0 | 0 4 | 5 5 | 6 - | 5 - | 0 4 | 2/ 1/ 7_. | 1 - | 0 - | 0 - (break) | 0 (Chorus) 5_./ 5_./ | 1. 1/ | 2 2 | 3( - | 3) 3 | 6. 6/ | 4 3 | 2 - | 2 2/ 2/ | 4 4/ 4/ | 2/ 2/ 1/ 1/ | 7_.( - (break) | 7_.) 5_. | 1. 1/ | 2 - | 3( - | 3) 3 | 6. 6/ | 4( 3) | 2 - | 2 2 | 4 - | 2 1 | 7_. - | 7_. 7_./ 7_./ | 1 1/ 1/ | 2 7_. | 1 - |</melody>
+  <layout>
+    <singingstanza>When we are with un -- veiled face Be -- hold -- ing and re -- flect -- ing the glo -- ry of the Lord, He in -- fus -- es us with the e -- le -- ments Of what He is and of what He has done. But we all with un -- veiled face, Be -- hold -- ing and re -- flect -- ing Like a mir -- ror the glo -- ry of the Lord, Are be -- ing trans -- formed In -- to the same i -- mage From glo -- ry to glo -- ry, E -- ven as from the Lord Spir -- it.</singingstanza>
+  </layout>
+  <notes>This song may not be reproduced except for personal use without the express written consent of the author.</notes>
+  <links>
+    <link type="ref">2 Corinthians 3:18</link>
+  </links>
+  <music>
+    <midi location="lb" length="117">lb35.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">When we are with unveiled face
+Beholding and reflecting the glory of the Lord,
+He infuses us with the elements
+Of what He is and of what He has done.</stanza>
+    <stanza type="chorus" number="">But we all with unveiled face,
+Beholding and reflecting
+Like a mirror the glory of the Lord,
+Are being transformed
+Into the same image
+From glory to glory,
+Even as from the Lord Spirit.</stanza>
+    <stanza type="verse" number="2">Thus we are being transformed
+Metabolic'lly to have His life-shape
+By His life-pow'r with His life-essence,
+Transfigured by renewing our mind.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>七靈</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><cebuano num="1122"/><chinese num="ts:102"/><english num="1122"/><french num="51"/><german num="1122"/><korean num="814"/><russian num="211"/><spanish num="136"/><tagalog num="1122"/></numbers>
+  <melody>| 0 - 5_./ 5_./ | 1. 7_./ 2/ 1/ | 3 - 3/ 4/ | 2. 5_./ 2/ 3/ | 1 - 5_./ 5_./ (break) | 1. 7_./ 2/ 1/ | 3 - 3/ 3/ | 2. 2/ 3/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | 6. 5/ 4/ 3/ | 4 - 4/ 4/ | 5. 4/ 3/ 2/ (break) | 3 - 5( | 5/) 4/ 3/ 2/ 1/ 7_./ | 6_. - 5_./ 1/ | 1. 7_./ 2/ 1/ | 3 - - (break) | 5/ 4.( 4) | 4/ 3.( 3) | 3/ 2/ 1#/ 2/ (.4/ 3/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>看 哪， 時 代 已 轉 移， 隨 主 轉 入 聖 靈 裡， 神 寶 座 前 的 七 靈， 奉 差 遣 到 全 地 去。 哦， 神 七 靈， 我 懇 求， 願 你 工 作 得 成 就！ 將 我 鑒 察 並 焚 燒， 為 著 召 會 的 建 造， 鑒 察， 焚 燒， 為 著 召 會 的 建 造。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="ref">Revelation 1:4</link>
+	<link type="ref">Revelation 4:5</link>
+	<link type="ref">Revelation 5:6</link>
+  </links>
+  <music>
+	<midiref type="h" num="262"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">看哪，時代已轉移，
+隨主轉入聖靈裡，
+神寶座前的七靈，
+奉差遣到全地去。</stanza>
+	<stanza type="chorus" number="">哦，神七靈，我懇求，
+願你工作得成就！
+將我鑒察並焚燒，
+為著召會的建造，
+鑒察，焚燒，
+為著召會的建造。</stanza>
+	<stanza type="verse" number="2">聖靈乃是七倍靈，
+應付召會死光景，
+聖徒轉回得復甦，
+使主召會得恢復。</stanza>
+	<stanza type="verse" number="3">現今我們神的靈，
+成為召會的供應，
+而且加強成七倍，
+何等豐富又全備！</stanza>
+	<stanza type="verse" number="4">神的七靈是七燈，
+七盞燒著的火燈，
+並不是為著教導，
+乃是為將我焚燒。</stanza>
+	<stanza type="verse" number="5">看哪！現在神七靈，
+七眼如火焰照明，
+潔淨召會每角落，
+肉體情慾都脫落。</stanza>
+	<stanza type="verse" number="6">主今賜下祂七靈，
+帶著豐盛的生命，
+今在地方召會裡，
+供我享受並經歷。</stanza>
+  </lyrics>
+</hymn>

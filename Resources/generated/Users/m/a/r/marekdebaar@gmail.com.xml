@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Marek</firstname>
+  <lastname/>
+  <email>marekdebaar@gmail.com</email>
+  <password>$2y$10$RVTF7nWDcmaSIxTqA99zhuLWxiAU73Q96Ae09gXxrJ7UVCRwW0mQu</password>
+  <gender/>
+  <country>nl</country>
+  <ipaddress>87.212.161.25</ipaddress>
+  <createdate>2015-08-31 14:20:02</createdate>
+  <lastupdateddate>2015-08-31 17:36:48</lastupdateddate>
+  <lastlogindate>2015-08-31 14:23:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="327">Before the throne of God above</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

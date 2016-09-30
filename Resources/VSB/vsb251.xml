@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now on the last day</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:267"/><vsb num="251"/></numbers>
+  <hymncode>533335633</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Am - - - | Am - - - | Dm - - - | Dm - - - | C - - - | C - - - | Am - - - | Am - - - | G - - - | G - - - | F - - - | F - - - | G - - - | G7 - - - | C - - - | C - - - | Am - - - | Am - - - | Dm - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 3/ 3/ 3 3 - | 0 - - 5 | 6/( 3/)( 3/) 3/( 3) - | 0 - - 5_. | 3/ 3/ 3/ 2/( 2) - | 0 - - 5 | 3/ 3/ 3/ 1/( 1) - | 0 - - - (break) | 6/ 6/( 6/) 6/( 6) - | 0 - - ._1 | 7/( 6/)( 6/) 5/( 5) - | 0 - - 3 | 6. 5/( 5) 4 | 3 - 2 1 | 3 3/ 2/( 2) - (break) | 0 - - 5_. | 3/ 3/ 3 3 - | 0 - - 5/ 5/ | 6 3/ 3/( 3) - | 0 - - 5 | 3.( 2/)( 2) 5 | 3.( 2/)( 2) 1 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Now on the last day, The great day, The day of the feast, The day of the feast, Je -- sus stood And cried out If an -- y -- one thirsts let him come to Me... If an -- y -- one thirsts, Let him come to Me And drink, and drink, and drink.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">John 7:37-38</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0267.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Now on the last day, (Now on the last day,)
+The great day, (The great day,)
+The day of the feast, (The day of the feast,)
+The day of the feast, (The day of the feast,)
+Jesus stood (Jesus stood)
+And cried out (And cried out)
+If anyone thirsts
+let him come to Me...
+If anyone thirsts, (If anyone thirsts,)
+Let him come to Me (Let him come to Me)
+And drink, and drink, and drink.</stanza>
+  </lyrics>
+</hymn>

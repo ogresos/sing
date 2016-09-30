@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Sherry</firstname>
+    <lastname>Bryant</lastname>
+    <email>sherryebryant@yahoo.com</email>
+    <password>8UbGYY2CMOzaG2UfuHji0jRcdjXq1TRmodloSayI8GQ%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>76.23.194.232</ipaddress>
+    <createdate>2012-11-03 07:22:25</createdate>
+    <lastupdateddate>2012-11-03 07:30:53</lastupdateddate>
+    <lastlogindate>2012-11-03 07:22:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="870">Stand up! stand up for Jesus</fav>
+    </favourites>
+</user>

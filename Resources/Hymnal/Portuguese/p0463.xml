@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sou um pecador aflito</title>
+  <index>true</index>
+  <category>Clamar Ao Senhor</category>
+  <numbers><english num="1055"/><german num="1055"/><portuguese num="463"/><russian num="177"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <music>
+	<midiref type="h" num="1055"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Sou um pecador aflito,
+A Teus pés prostrado estou;
+Já não tenho esperança,
+Me socorre, ó Salvador!
+Salva-me! Salva-me!
+Ouve agora meu clamor;
+Salva-me dos meus problemas,
+Ó querido Salvador!</stanza>
+  </lyrics>
+</hymn>

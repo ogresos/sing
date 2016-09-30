@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruth</firstname>
+  <lastname>Chang</lastname>
+  <email>ruutth1105@gmail.com</email>
+  <password>$2y$10$/P9vUZXfqJNlyt/pFFs2/Oy8gQ52beWU3oesFkClRiurZSZye10KC</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>174.2.118.102</ipaddress>
+  <createdate>2016-01-03 06:20:58</createdate>
+  <lastupdateddate>2016-01-03 06:24:42</lastupdateddate>
+  <lastlogindate>2016-01-03 06:23:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="12">O God, Thou art the source of life</fav>
+  </favourites>
+</user>

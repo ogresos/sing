@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Richard</firstname>
+    <lastname></lastname>
+    <email>rhb2340@charter.net</email>
+    <password>1lar0sHKlGPdt4U95Nnl3g%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>75.139.191.189</ipaddress>
+    <createdate>2013-01-29 13:42:59</createdate>
+    <lastupdateddate>2013-01-29 13:54:11</lastupdateddate>
+    <lastlogindate>2013-01-29 13:42:59</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="442">Fully surrendered&amp;mdash;Lord, I would be</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="643">Take time to behold Him</fav>
+    </favourites>
+</user>

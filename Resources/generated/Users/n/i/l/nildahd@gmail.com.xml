@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nilda Helena Batista</firstname>
+  <lastname>Dias</lastname>
+  <email>nildahd@gmail.com</email>
+  <password>$2y$10$w2l7RSqIld7TxszPDcTzR.7MOXTDNEf8EK5B98EYqjEhrjsR9Hio6</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>177.17.243.19</ipaddress>
+  <createdate>2016-04-07 20:23:04</createdate>
+  <lastupdateddate>2016-04-08 00:49:32</lastupdateddate>
+  <lastlogindate>2016-04-08 00:49:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+  </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I've found the One who's all to me</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Everything</category>
+  <numbers><english num="ns:161"/><vsb num="28"/></numbers>
+  <hymncode>113311322344543</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C7 - C7/E - | F - Fm - | C/G - G7 - | C - - - | C - - - | Dm - - - | G7 - - - | C - - - | C7 - C7/E - | F - Fm - | C/G - G7 - | C - - - |</chords>
+  <melody>| 0 - 0/ 1/ 1/ 3/ | 3( - 3/) 1/ 1/ 3/ | 2 - - 2/ 3/ | 4( - 4/) 4/ 5/ 4/ (break) | 3 - - 3/ 4/ | 5( - 5/) 5/ 6/ 5/ | 4( - 4/) 4/ 5/ 4/ | 3( - 3/) 1/ 3/ 2/ | 1( - 1/) (Chorus) 1/ 1/ 3/ | 3( - 3/) 1/ 1/ 3/ | 2 - - 2/ 3/ | 4( - 4/) 4/ 5/ 4/ (break) | 3( - 3/) 3/ 3/ 4/ | 5( - 5/) 5/ 6/ 5/ | 4( - 4/) 4/ 5/ 4/ | 3( - 3/) 1/ 3/ 2/ | 1( - 1/) 0. |</melody>
+  <layout>
+    <singingstanza>I've found the One who's all to me; He's be -- come re -- al -- i -- ty. Now He's in my life to stay; He is the truth, the life, the way. And Je -- sus is the One who came Down to earth to bear our shame, But that's not all, He lives in me. Once I was blind, but now I see.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="45">ns0161.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I've found the One who's all to me;
+He's become reality.
+Now He's in my life to stay;
+He is the truth, the life, the way.</stanza>
+    <stanza type="chorus" number="">And Jesus is the One who came
+Down to earth to bear our shame,
+But that's not all, He lives in me.
+Once I was blind, but now I see.</stanza>
+    <stanza type="verse" number="2">Now through His life we have the flow,
+Showing us the way to go;
+Keeping us in unity,
+And this is His recovery.</stanza>
+    <stanza type="verse" number="3">Now Jesus is the Lord of all;
+On His name we all must call.
+Then our spirits find release,
+And thus our hearts have found real peace.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A cat has a silky fur</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Mollie Lee">M. L.</author>
+    <composer biodate="" biolink="" fullname="Mollie Lee">M. L.</composer>
+  </creators>
+  <hymncode>35345164442475</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | G7 - - - | C - - - | C - G - | C - F - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 0./ 3// | 5 3./ 4// 5// ._1./( ._1./) 6//( (break) | 6) - - 4./ 4// | 4 2 4// 7./( 7./) 5//( (break) | 5) - - 0./ 5// | 1 1 2 1./ 2// | 3./ 4// 5./ ._1//( ._1./) ._1// 7./ 6// (break) | 5./ ._1//( (.._1./) 1// 1 1 | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>A cat has a silk -- y fur, and a deep and friend -- ly purr, But let me know, if it steps on your toe, Will it be sor -- ry? I don't think so.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="18">c0055.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">A cat has a silky fur, and a deep and friendly purr,
+But let me know, if it steps on your toe,
+Will it be sorry? I don't think so.</stanza>
+    <stanza type="verse" number="">A dog has a welcome bark, likes to race around the park,
+But let me know, if it steps on your toe;
+Will it be sorry? I don't think so.</stanza>
+    <stanza type="verse" number="">It's easy now to see, they're not like you and me.
+I let you know if I step on your toe;
+And I'll be sorry! And I'll say so.</stanza>
+  </lyrics>
+</hymn>

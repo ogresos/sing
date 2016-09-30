@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang himaya'g kadungganan</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;LINANGKOB</category>
+  <numbers><cebuano num="240"/><chinese num="193"/><english num="240"/><korean num="193"/><tagalog num="240"/></numbers>
+  <creators>
+    <author biodate="750-821" biolink="">Translated from Theodulph of Orleans</author>
+  </creators>
+  <music>
+    <midiref type="h" num="240"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Ang himaya'g kadungganan,
+Alang sa Cordero sa Dios!
+Jesucristo Manunubos,
+Hallelujah! Hallelujah! Hallelujah!
+Daygon Siya!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Search me, O God, and know my heart</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:268"/><vsb num="250"/></numbers>
+  <hymncode>55651665336532</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>105</tempo>
+  <chords>| C - - - | C/E - - - | F - - - | C - - - | Am - - - | Em/G - - - | Dm/F - - - | G - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - - - | G - - - | Am - - - | D7 - - - | F - - - | G7 - - - | F/C - - - | C - - - | C - - - | C/E - - - | F - - - | C - - - | Am - - - | Em/G - - - | F - - - | G - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | D7 - - - | F - - - | G7 - - - | F/C - - - | C - - - |</chords>
+  <melody>| 0 5 5/ 6/( 6/) 5/( | 5) - - 1 | 6 - - 6 | 5 - - - | 3 - 3 6 | 5 - - 3 | 2( - - - (break) | 2) - 0 5 | 6 - 6/ 6. | 5 - - 3/ 4/ | 5. 5/ 3 2 | 1 - - - | 0 4/ 4/ 4 3/ 3/( | 3/)( 2/)( 2) - - (break) | 0 6/ 6/ 6 6/ 6/( | 6/)( 2/)( 2) - - | 0 4/ 4/ 4 3/ 3/( | 3) - 3. 2//( 1//) | 2 - - - | 1 - - - (break) | 0 - 5 6 | 5 - 3( - | 4) - 6 7 | ._1 - 5 - | ._1 - 7( 6) | 6 - 5 - | 6 - 7( 6) | 6 - 5 - (break) | 6 - 6/ 6. | 7 - - 7 | ._1 - ._1. 7/ | 6 - - - | 6 - ._1 - | ._1 - 7 - | ._1( - - - | ._1) - - - (break) | 6 - ._1 - | ._1 - 7 - | ._1( - - - | ._1) - - - |</melody>
+  <layout>
+    <singingstanza end="-1">Search me, O God, and know my heart; Try me and know my thoughts; And see if there be an -- y wick -- ed way in me; Lead me in the way, lead me in the way, Lead me in the way ev -- er -- last -- ing. You have searched me; You have known me; My down -- sit -- ting, my up -- ris -- ing; You un -- der -- stand my thoughts from a -- far; You know all my ways, You know all my ways.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 139:23-24</link>
+    <link type="ref">Psalms 139:1-3</link>
+  </links>
+  <music>
+    <midi location="ns" length="99">ns0268.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Search me, O God, and know my heart;
+Try me and know my thoughts;
+And see if there be any wicked way in me;
+Lead me in the way, lead me in the way,
+Lead me in the way everlasting.</stanza>
+    <stanza type="verse" number="">You have searched me;
+You have known me;
+My downsitting, my uprising;
+You understand my thoughts from afar;
+You know all my ways,
+You know all my ways.
+(Two parts can be sung simultaneously)</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Matt</firstname>
+    <lastname></lastname>
+    <email>mattalogan@gmail.com</email>
+    <password>p7Zm1fMqrd2S9LuNWwtdsg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>98.175.222.245</ipaddress>
+    <createdate>2012-11-25 10:05:32</createdate>
+    <lastupdateddate>2012-12-23 10:09:13</lastupdateddate>
+    <lastlogindate>2012-12-23 10:09:13</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="233">O what a miracle, my Lord</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="1248">Recall how David swore</fav>
+        <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+    </favourites>
+</user>

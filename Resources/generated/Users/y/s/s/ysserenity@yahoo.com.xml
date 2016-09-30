@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Yvonne</firstname>
+    <lastname>Sapolis</lastname>
+    <email>ysserenity@yahoo.com</email>
+    <password>UcaWZdXHkEDhL%2FJ8eTvLlA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>100.2.100.47</ipaddress>
+    <createdate>2013-05-12 21:26:00</createdate>
+    <lastupdateddate>2013-05-12 23:00:34</lastupdateddate>
+    <lastlogindate>2013-05-12 21:26:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="268">How I praise Thee, precious Savior</fav>
+        <fav category="default" type="h" num="1072">She only touched the hem of His garment (gospel)</fav>
+        <fav category="default" type="h" num="760">She only touched the hem of His garment (healing)</fav>
+    </favourites>
+</user>

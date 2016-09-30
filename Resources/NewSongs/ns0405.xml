@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Saying, Where is He</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Isaac Choo">I. C.</composer>
+    <composer biodate="" biolink="" fullname="Johnathan Lin">J. L.</composer>
+  </creators>
+  <hymncode>57112321444443</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C7 - - - | F - - - | C - - - | C - - - | Am - - - | Dm7 - - - | G7 - - - | C - - - | C7 - - - | F - - - | Fm - - - | C/G - - - | G7 - - - | C - - - | C7 - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | C7 - - - | F - - - | G7 - - - | C - - - | A7 - - C | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 5_.( 7_.) | 1 - 1/ 2 3/( | 3) - 2 1 | 4 4 4/ 4/ 4/ 3/( (break) | 3) - 3 5 | 5 - 5 - | 5 - 4 3 | 3 2( - - (break) | 2) - 3 5 | 5 - 5 - | 5 - 4 3 | 4( - 3) - (break) | 2 - 1 2 | 3 - - 5_. | 3 - 2 - | 1 - - - (break) | 0 1 2 3 | 4 - 6. 5/( | 5) - 5 4 | 3 3 3/ 2 1/( (break) | 1) - - 1 | 6_. 6_. 6_./ 1 2/( | 2) - 1 2 | 3( - 4)( - (break) | 5) 1 2 3 | 4 - 6. 5/( | 5) - 5 4 | 3 3 3/ 2 1#/( (break) | 1#) - - 1 | 6_. 6_. 6_./ 1 7_./( | 7_.) - 1 2 | 1( - - - | 1) - 0 - ||</melody>
+  <layout>
+    <singingstanza end="-1">Say -- ing, Where is He Who has been born King of the Jews? For we saw His star at its ris -- ing, For we saw His star at its ris -- ing And have come to wor -- ship Him. And when they saw the star, They re -- joiced ex -- ceed -- ing -- ly, Re -- joiced ex -- ceed -- ing -- ly with great joy. And when they saw the star, They re -- joiced ex -- ceed -- ing -- ly, Re -- joiced ex -- ceed -- ing -- ly with great joy.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Matthew 2:2</link>
+    <link type="ref">Matthew 2:10</link>
+  </links>
+  <music>
+    <midi location="ns" length="50">ns0405.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Saying, Where is He
+Who has been born King of the Jews?
+For we saw His star at its rising,
+For we saw His star at its rising
+And have come to worship Him.</stanza>
+    <stanza type="verse" number="">And when they saw the star,
+They rejoiced exceedingly,
+Rejoiced exceedingly with great joy.
+And when they saw the star,
+They rejoiced exceedingly,
+Rejoiced exceedingly with great joy.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, may my spirit flow</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;Her Building</category>
+  <numbers><chinese num="614"/><english num="846"/><french num="150"/><german num="846"/><korean num="614"/><portuguese num="388"/><russian num="134"/><spanish num="361"/><tagalog num="846"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">W. R. Braine</composer>
+  </creators>
+  <meter>6.4.6.4.6.6.6.4.</meter>
+  <hymncode>3543221143</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | G - - | Am - F | C - - | C - D7/C | G/B - G | D - D7/F# | G - - | A - - | Dm - - | G7 - - | C7 - C7/Bb | F/A - F | C/E - A7 | Dm - G7 | C - - |</chords>
+  <guitarChords>| C - - | G - - | F - - | C - - | C - - | G - - | D - - | G - - | A7 - - | Dm - - | G7 - - | C7 - - | F - - | C - - | G - G7 | C - - |</guitarChords>
+  <melody>| 3 5 4 | 3. 2/ 2 | 1 1 4 | 3 - - | 3 3 4# | 5. 5/ 5 | 6 7 6 | 5 - - (break) | 4 3 6 | 7b. 6/ 2 | 3 2 5 | 6. 5/ 1 | ._1 7 6 | 5. 3/ 6 | 4 6_. 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>Oh, may my spir -- it flow, Oh, may it flow! Now I be -- seech Thee, Lord Oh, may it flow! My past I would for -- sake, The i -- ron walls would break, My spir -- it free would make; Oh, may it flow!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj202.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0846.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="27">e0846_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh, may my spirit flow,
+  Oh, may it flow!
+Now I beseech Thee, Lord
+  Oh, may it flow!
+My past I would forsake,
+The iron walls would break,
+My spirit free would make;
+  Oh, may it flow!</stanza>
+	<stanza type="verse" number="2">Oh, may my spirit flow,
+  Oh, may it flow!
+Now I implore Thee, Lord,
+  Oh, may it flow!
+No more self-satisfied,
+No more in self-bound pride,
+No more my spirit tied;
+  Oh, may it flow!</stanza>
+	<stanza type="verse" number="3">Oh, may my spirit flow,
+  Oh, may it flow!
+For this I plead with Thee,
+  Oh, may it flow!
+High-minded not to be,
+Pride shall not prison me,
+I'd flow unceasingly,
+  In spirit flow.</stanza>
+	<stanza type="verse" number="4">Oh, may my spirit flow,
+  Oh, may it flow!
+For this I seek Thee, Lord,
+  Oh, may it flow!
+No more to isolate,
+Nor self to perfect make,
+My spirit nought abate,
+  Deeply to flow.</stanza>
+	<stanza type="verse" number="5">Oh, may my spirit flow,
+  Oh, may it flow!
+I ask Thee, gracious Lord,
+  Oh, may it flow!
+My trust in self o'erthrow,
+Down from self's throne I'll go,
+That living water flow
+  In spirit, Lord.</stanza>
+	<stanza type="verse" number="6">Oh, may my spirit flow,
+  Oh, may it flow!
+Answer my prayer, dear Lord,
+  Oh, may it flow!
+Not just commune with Thee,
+I long to builded be,
+Mingle with others free
+  In spirit, Lord.</stanza>
+  </lyrics>
+</hymn>

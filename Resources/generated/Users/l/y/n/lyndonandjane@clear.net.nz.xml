@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>lyndon</firstname>
+  <lastname>boakes</lastname>
+  <email>lyndonandjane@clear.net.nz</email>
+  <password>$2y$10$/tC6TNDu53373a6gX7FMwumeXIYYlKPhEuwOOVcZo4cBHtC8ybRIm</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>218.101.66.211</ipaddress>
+  <createdate>2016-08-07 07:58:16</createdate>
+  <lastupdateddate>2016-08-08 08:58:51</lastupdateddate>
+  <lastlogindate>2016-08-08 08:16:11</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="h" num="950">And is it so! I shall be like Thy Son</fav>
+    <fav category="default" type="h" num="867">As members of the Body</fav>
+    <fav category="default" type="h" num="776">Ask in faith, the Name of Jesus</fav>
+    <fav category="default" type="h" num="1047">Eternity! Eternity</fav>
+    <fav category="default" type="h" num="830">Faith of our fathers, living still</fav>
+    <fav category="default" type="h" num="970">For the glorious revelation</fav>
+    <fav category="default" type="h" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="h" num="136">Gazing on the Lord in glory</fav>
+    <fav category="default" type="h" num="127">Hark! ten thousand voices crying</fav>
+    <fav category="default" type="h" num="22">Holy Father, we adore Thee</fav>
+    <fav category="default" type="h" num="463">I love, I love my Master</fav>
+    <fav category="default" type="h" num="75">Jesus, Name of matchless splendor</fav>
+    <fav category="default" type="h" num="195">Lord, Thou art all the offerings</fav>
+    <fav category="default" type="h" num="170">Lord, Thou art the lovely Bridegroom</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    <fav category="default" type="h" num="428">O Lord, Thy boundless love to me</fav>
+    <fav category="default" type="h" num="1276">Oh, the Lord is quickly coming</fav>
+    <fav category="default" type="h" num="213">On that same night, Lord Jesus</fav>
+    <fav category="default" type="h" num="178">Our hearts are full of Christ and long</fav>
+    <fav category="default" type="h" num="1121">Praise the Lord, who firmly joined us</fav>
+    <fav category="default" type="h" num="664">Rise, my soul, thy God directs thee</fav>
+    <fav category="default" type="h" num="624">The heavier the cross, the nearer God</fav>
+  </favourites>
+</user>

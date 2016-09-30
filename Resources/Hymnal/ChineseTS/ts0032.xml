@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督生活超凡佳美</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><chinese num="ts:32"/><english num="1082"/><german num="1082"/></numbers>
+  <melody>| 0 - 5_. | 1 1 2 | 3 3 2 | 1 2 7_. (break) | 1 - 1 | 4 4 4 | 3 3 2 | 1 7_. 1 (break) | 2 - 5_. | 3 3 2 | 1 1 2/( 3/) | 4 4 3 (break) | 2 - 2 | 5 5/( 4/) 3/( 4/) | 5 3 1 | 2 1 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>基 督 在 地 生 活 超 凡 且 佳 美， 祂 是 神、 人 調 和， 價 值 何 寶 貴； 態 度、 揀 選、 喜 悅 全 與 神 相 合─ 惟 祂 是 那 配 住 神 的 帳 幕 者。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <notes>詩篇十六篇</notes>
+  <music>
+	<midiref type="h" num="278"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">基督在地生活超凡且佳美，
+祂是神、人調和，價值何寶貴；
+態度、揀選、喜悅全與神相合─
+惟祂是那配住神的帳幕者。</stanza>
+	<stanza type="verse" number="2">“神，求你保守我，因我投靠你”─
+無論起何風暴，祂安居神裏。
+“你是我主我神，我一切好處”─
+惟神是祂心中朝夕所思慕。</stanza>
+	<stanza type="verse" number="3">“論到地上聖民，尊高又可悅，”
+屬神子民祂心最喜愛、關切，
+祂親臨地服事且照護殷殷，
+如四福音書中所記述顯明。</stanza>
+	<stanza type="verse" number="4">“神外別有揀選，愁苦必加增”─
+耶穌在地生活與偶像無分。
+神外任何名號一概都不題，
+祂的追求、想望全是神自己。</stanza>
+	<stanza type="verse" number="5">“惟你是我產業，是我杯中分”─
+祂在一切事上只揀選父神。
+“那指教我的神，我晝夜稱頌”─
+祂己全然棄絕，只活出神命。</stanza>
+	<stanza type="verse" number="6">因此祂心喜樂，祂靈也歡騰，
+甚至被置死地仍能讚美神；
+神必不將祂魂撇棄在陰間，
+祂的肉身安居，復活顯神前。</stanza>
+	<stanza type="verse" number="7">神已使祂復起，賜祂榮耀冕，
+祂在神前所得喜樂何豐滿。
+高升遠超萬有，父右邊安坐，
+享受無窮無盡無終的福樂。</stanza>
+  </lyrics>
+</hymn>

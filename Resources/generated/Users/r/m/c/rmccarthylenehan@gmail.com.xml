@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Rita</firstname>
+    <lastname>McCarthy Lenehan</lastname>
+    <email>rmccarthylenehan@gmail.com</email>
+    <password>I3WNtsrnYN0YluL2q44fQw%3D%3D</password>
+    <gender>F</gender>
+    <country>ie</country>
+    <ipaddress>86.47.67.7</ipaddress>
+    <createdate>2010-12-27 09:40:42</createdate>
+    <lastupdateddate>2010-12-27 09:50:59</lastupdateddate>
+    <lastlogindate>2010-12-27 09:40:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="830">Faith of our fathers, living still</fav>
+    </favourites>
+</user>

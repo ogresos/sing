@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruby</firstname>
+  <lastname/>
+  <email>imrubes@hotmail.com</email>
+  <password>$2y$10$3D7rrvil/IkSiPPOXbUkPOoAp8R4emFPZBbmDowEz3CEgRElMgPqS</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>111.95.113.19</ipaddress>
+  <createdate>2016-07-06 02:02:52</createdate>
+  <lastupdateddate>2016-07-06 02:06:00</lastupdateddate>
+  <lastlogindate>2016-07-06 02:05:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1077">There were ninety and nine that safely lay</fav>
+  </favourites>
+</user>

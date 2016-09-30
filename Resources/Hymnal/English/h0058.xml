@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Thou art the living Word, O Lord</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Divinity</category>
+  <numbers><cebuano num="58"/><chinese num="53"/><english num="58"/><german num="58"/><korean num="53"/><portuguese num="37"/><russian num="342"/><tagalog num="58"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1840-1908" biolink="">Ira David Sankey</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>55545155355423</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G/D - | C/E - C - | Dm7 - G7 - | C - F/C - | C - G/B - | Am - C/G - | Dm7 - G7 - | C - - - | G - - - | C - C/E - | G/D - D7 - | G - G7 - | C - G/B - | C/E - F - | C/G - G7 - | C - - 0 |</chords>
+<guitarChords>| C - - - | C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - - - | G - - - | C - - - | G - D7 - | G - G7 - | C - - - | F - - - | C - G7 - | C - - 0 |</guitarChords>
+  <melody>| 0 - - 5 | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 2 | 3 - - 5 (break) | 5. 5/ 4# 5 | ._1. 5/ 5 3 | 5. 5/ 4 7_. (break) | 1 - - (Chorus) 3 | 2. 1#/ 2 6 | 5. 3/ 5 3 | 2 5 5/( 4#/) 7/( 6/) | 5 - - 5/( 4/) (break) | 3 3 5 5 | ._1. ._1/ 6 7/( 6/) | 5. 5/ 4 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Thou art the liv -- ing Word, O Lord, Which ev -- er was with God; His glo -- ry Thou hast ful -- ly shown When Thou on earth hast trod. We praise Thee, O Thou liv -- ing Word, For God in Thee we see; His glo -- ry and His cha -- rac -- ter Are all re -- vealed by Thee.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj146.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0058.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="30">e0058_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Thou art the living Word, O Lord,
+  Which ever was with God;
+His glory Thou hast fully shown
+  When Thou on earth hast trod.</stanza>
+	<stanza type="chorus" number="">We praise Thee, O Thou living Word,
+  For God in Thee we see;
+His glory and His character
+    Are all revealed by Thee.</stanza>
+	<stanza type="verse" number="2">The heavens do God's glory speak,
+  Creation vast doth show
+The things of God, His character
+  And pow'r for man to know.</stanza>
+	<stanza type="verse" number="3">The Word of God&amp;mdash;how rich, profound,
+  His testimony shown;
+Within the Word Thou art declared,
+  That God should be made known.</stanza>
+	<stanza type="verse" number="4">Thou, living Word, didst flesh become,
+  With man on earth hast trod;
+And all Thy words and conduct here
+  Expression gave to God.</stanza>
+	<stanza type="verse" number="5">O living Word, Thou art the life,
+  Thou art the living light;
+As life Thou dost illuminate
+  The Father to our sight.</stanza>
+	<stanza type="verse" number="6">God's judgment Thou wilt yet perform,
+  His righteousness make known;
+This also doth expression give
+  That God be fully shown.</stanza>
+	<stanza type="verse" number="7">God's full expression, Lord, Thou art,
+  Himself Thou hast revealed;
+Declaring all He is to man,
+  No more is God concealed.</stanza>
+  </lyrics>
+</hymn>

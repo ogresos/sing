@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ikaw, sa Dios bililhon</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAM-IS</category>
+  <numbers><cebuano num="169"/><chinese num="138"/><english num="169"/><german num="169"/><korean num="138"/><portuguese num="80"/><tagalog num="169"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3 | 3 3 2. 2/ | 1 - 1 1 | 4. 4/ 3 4 | 2 - - 2 (break) | 5. 5/ 4 4 | 3 - 2 2 | 1 1 7_./( 1/) 2/( 7_./) (break) | 1 - - (Chorus) 1 | 1. 1/ 1 2 | 3 - 3 1 | 1. 1/ 1 2 | 3 - - 3/( 4/) (break) | 5 5 6. 5/ | 5 - 4 4 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="169"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ikaw, sa Dios bililhon,
+Pinili, kalipay;
+Dinihogan Ka's lana,
+Matahum's mata N'ya.</stanza>
+	<stanza type="chorus" number="">Ginoo, mahal namo,
+Hingpit Mong katahum,
+Katam-is, kaalimyon,
+Kahiligugmaon.</stanza>
+	<stanza type="verse" number="2">Hiligugmaon gayud,
+Matahum sa tanan,
+Baba Mo puno's grasya,
+O gihigugma Ka.</stanza>
+	<stanza type="verse" number="3">Gihalaran Ka's mago,
+Sa pagkatawo Mo;
+Gilubong sa dungganon,
+Pagkahiligugmaon.</stanza>
+	<stanza type="verse" number="4">Ulo Mo gidihogan,
+Hiligugmaon man;
+Tiil sab dinihogan,
+Matag bahin mahal man.</stanza>
+	<stanza type="verse" number="5">Daw mirrang kamatayon,
+Makalipay's tawo;
+Nabanhaw, nangalimyon,
+Tubag's pangandoy's Dios.</stanza>
+	<stanza type="verse" number="6">Ikaw daw bulak's henna
+Kahingpit's katahum;
+Daw kahoyng mansanas Ka,
+Dagaya ug bunga.</stanza>
+	<stanza type="verse" number="7">Labaw's binong gugma Mo,
+Ngalan Mo m'oy dihog;
+Kombira Ka man namo,
+Laming pagpahimulos.</stanza>
+	<stanza type="verse" number="8">Sa namalandong Nimo,
+Ug sa katahum Mo,
+Napa'muslang katam-is,
+Ug pahulay Nimo.</stanza>
+  </lyrics>
+</hymn>

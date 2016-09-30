@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Thomas</firstname>
+<lastname>Agawu</lastname>
+<email>legubo@yahoo.com</email>
+<password>$1$6hURkQte$hYlcQbXk5cniMI5DtJOUG/</password>
+<gender>M</gender>
+<country>Ghana</country>
+<ipaddress>196.201.34.165</ipaddress>
+<createdate>2008-12-14 17:12:13</createdate>
+<lastupdateddate>2009-09-15 18:27:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    </favourites>
+</user>

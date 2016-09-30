@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>禧年的生活</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>345511765356543</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>哦， 讓 我 們 揚 聲 歡 呼， 角 聲 遍 地 發 出， 同 宣 告 神 救 贖 之 日， 人 生 從 今 開 始； 出 黑 暗， 脫 捆 綁， 我 這 罪 囚 大 得 釋 放。 哦， 讓 我 們 揚 聲 歡 呼， 角 聲 遍 地 發 出。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0849.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦，讓我們揚聲歡呼，
+角聲遍地發出，
+同宣告神救贖之日，
+人生從今開始；
+出黑暗，脫捆綁，
+我這罪囚大得釋放。
+哦，讓我們揚聲歡呼，
+角聲遍地發出。</stanza>
+	<stanza type="verse" number="2">哦，讓我們擊鼓跳舞，
+踏著喜悅腳步，
+同進入神恩典禧年，
+前途美好無限；
+我權益都恢復，
+重歸自由，產業豐富。
+哦，讓我們擊鼓跳舞，
+踏著喜悅腳步。</stanza>
+	<stanza type="verse" number="3">哦，讓我們盡情享受，
+去罷，煩惱、憂愁，
+將你喜樂快快敞開，
+神自己必進來；
+祂豐富充滿我，
+如同大水，全人漫過。
+哦，讓我們盡情享受，
+去罷，煩惱、憂愁。</stanza>
+	<stanza type="verse" number="4">哦，讓我們喫喝快樂，
+父家滿了詩歌，
+祂是我們完全的愛，
+我們一生年代；
+來安家神居所，
+天天過著禧年生活。
+哦，讓我們喫喝快樂，
+父家滿了詩歌。</stanza>
+  </lyrics>
+</hymn>

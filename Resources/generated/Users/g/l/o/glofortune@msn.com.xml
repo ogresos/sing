@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gloria</firstname>
+  <lastname>Fortune</lastname>
+  <email>glofortune@msn.com</email>
+  <password>$2y$10$me5cJP.Rg5a/H./amimyH.RbuXxB6AMbwHgXmto7e55RSpB34RDMm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>100.36.127.118</ipaddress>
+  <createdate>2014-12-22 17:02:05</createdate>
+  <lastupdateddate>2015-03-21 22:31:12</lastupdateddate>
+  <lastlogindate>2015-03-21 22:31:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    <fav category="default" type="h" num="723">He giveth more grace when the burdens grow greater</fav>
+    <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

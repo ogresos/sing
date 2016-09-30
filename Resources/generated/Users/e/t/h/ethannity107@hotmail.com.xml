@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ethan</firstname>
+  <lastname/>
+  <email>ethannity107@hotmail.com</email>
+  <password>$2y$10$eEhClcpz2.WvfinVrjAL6OtQ7v5d4bxD0D0gIVyHVOqQPQZJAnoEy</password>
+  <gender/>
+  <country>Ghana</country>
+  <ipaddress>97.118.169.204</ipaddress>
+  <createdate>2013-07-27 11:45:40</createdate>
+  <lastupdateddate>2014-08-05 17:48:32</lastupdateddate>
+  <lastlogindate>2014-08-05 17:48:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1343">A new commandment</fav>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="c" num="58">Jesus loves the little children</fav>
+    <fav category="default" type="c" num="44">Our God is so big</fav>
+    <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+    <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+    <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    <fav category="default" type="c" num="4">This is the day</fav>
+    <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="nt" num="1008">What can wash away my sin?</fav>
+  </favourites>
+</user>

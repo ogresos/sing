@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My heart was far from You</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Food and Drink</category>
+  <numbers><english num="lb:33"/><vsb num="86"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5112165552343</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F - - | C - - | Am - - | Dm - - | G7/B - - | C - - | F/C - - | C/E - - | F - - |C/G - - | Am - - | Dm - - | G7 - - | F/C - - | C - - | G/B - - | G - - | C/E - - | C - - | F - - | C/E - C | Bb - - | G - - | C - - | F - - | Em - - | Am - - | Dm - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 0 - 5_. | 1 - 1 | 2( 1) 6_. | 5_.( - - | 5_.) - 5 | 5 - 2 | 3 - 4 | 3( - - (break) | 3) - 5_. | 1 - 1 | 2 1 6_. | 5_.( - - | 5_.) - 5 | 5 - 2 | 3 - 2 | 1( - - (break) | 1) - 5 | 5 - - | 2 - 5 | 5 - - | 3 - 5 | 6 - 6 | 5 - 3 | 2( - - (break) | 2) - 5_. | 1 - 1 | 2( 1) 6_. | 5_.( - - | 5_.) - 5 | 5 - 2 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>My heart was far from You. My wor -- ship was not true. My lips were ho -- nor -- ing Thee But I was so emp -- ty. Lord, help me! Have mer -- cy! Lord, now de -- liv -- er me! All else is van -- i -- ty. You are re -- al -- i -- ty!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="47">lb33.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My heart was far from You.
+My worship was not true.
+My lips were honoring Thee
+But I was so empty.</stanza>
+    <stanza type="chorus" number="">Lord, help me! Have mercy!
+Lord, now deliver me!
+All else is vanity.
+You are reality!</stanza>
+    <stanza type="verse" number="2">Traditions are a lie.
+Mere practice can't satisfy.
+No matter how hard you try
+Inside you feel so dry.</stanza>
+    <stanza type="chorus" number="">Lord water me! I'm so thirsty!
+I come to drink of Thee.
+You are the Spirit of life
+To free me from all strive.</stanza>
+    <stanza type="verse" number="3">The doctrines and the creeds
+Have never met my needs.
+The letters have killed me dead
+My need is Living Bread.</stanza>
+    <stanza type="chorus" number="">Lord, feed me! I'm so hungry!
+I come to eat of Thee.
+Your Person now I can take.
+The Living Word partake.</stanza>
+    <stanza type="verse" number="4">I need You desperately
+To get You into me!
+I drink You as the Spirit, Lord,
+And eat You in the Word.</stanza>
+    <stanza type="chorus" number="">I'm satisfied! And You're testified!
+There is no lack in Thee.
+You are the river and the tree,
+My feast eternally.</stanza>
+  </lyrics>
+</hymn>

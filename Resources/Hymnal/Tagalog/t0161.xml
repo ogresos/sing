@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Manunubos ay purihin</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KATAPATAN</category>
+  <numbers><english num="161"/><portuguese num="81"/><tagalog num="161"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="78"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Manunubos ay purihin!
+Lubha ang nagawa sa 'kin;
+Ihandog lahat sa Kanya,
+Nang may ligaya.</stanza>
+    <stanza type="verse" number="2">Ngalang Hesus bumighani
+Sa gusot lakas, baluti;
+Ika'y pagkatiwalaan,
+'Di na masaktan.</stanza>
+    <stanza type="verse" number="3">Sa Kanya'y manalig banal,
+Walang pagbabago't tapat;
+Walang pwersang maghiwalay
+Sa Kanyang Mahal.</stanza>
+    <stanza type="verse" number="4">Kami'y tang'nan, Panginoon,
+Sampalataya'y lumaon,
+Hanggang oras ng kasal sa
+Babaeng sinta.</stanza>
+    <stanza type="verse" number="5">Pagkatapos kalalagyan
+Nami'y Iyong pinaghandaan;
+Bagay na ngayo'y wala pa
+Maging amin na.</stanza>
+  </lyrics>
+</hymn>

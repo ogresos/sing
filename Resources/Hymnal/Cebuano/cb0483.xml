@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gilubong, nabanhaw uban N'ya</title>
+  <index>true</index>
+  <category>NAUSA KANG CRISTO&amp;mdash;NAUSA SA IYANG KAMATAYON UG PAGKABANHAW</category>
+  <numbers><cebuano num="483"/><chinese num="364"/><dutch num="64"/><english num="483"/><german num="483"/><korean num="364"/><portuguese num="224"/><russian num="89"/><spanish num="201"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from T. Ryder</author>
+  </creators>
+  <melody>| 0 - - - - - 5 4# 5 | 3 - - 5 - - ._1 7 ._1 | 6 - - - - - 6 7 ._1 | ._2 - - 6 - - 6( 7) ._1 | 7 - - - - - ._2 7 5 (break) | ._1 - - 3 - - 5 6 3 | 4 - - - - - 4 4 4 | 3 - - 5 - - 5 6 7 | ._1 - - ._1 - ._1 ._1 - ._1 | (.._1 - - - - - 0 - - |</melody>
+  <music>
+	<midiref type="h" num="483"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gilubong, nabanhaw uban N'ya,
+Unsa pa'y akong mahimo?
+Hunongon lang pakigbisug ko,
+Maglakaw ako sa kabag-o
+Sa kinabuhi!</stanza>
+	<stanza type="verse" number="2">Nabanhaw ko uban ni Cristo,
+Kabalaan nang gawi ko;
+Kini ang nahunahunaan:
+Ang namatay di na masad-an.
+Himayaong Dios!</stanza>
+	<stanza type="verse" number="3">Nabuhi ko uban ni Cristo,
+Nag-una S'ya, mosunod ko;
+Sa gapos ko natangtangan na,
+Kaugalingon patay na, busa
+Himayaong Dios!</stanza>
+	<stanza type="verse" number="4">Nabuhi ko alang kang Cristo,
+Mga bahin 'yang masugo,
+Di's kasugoan, kondi's grasya,
+Imbis sala, S'ya ang maghari.
+Himayaong Dios!</stanza>
+	<stanza type="verse" number="5">Magtubo ko diha ni Cristo,
+Di na's butang ikaulaw;
+Bunga lunlon pagkabalaan,
+Kinabuhing dayon sangputan,
+Himayaong Dios!</stanza>
+  </lyrics>
+</hymn>

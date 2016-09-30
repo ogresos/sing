@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panaho'y ilaan</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA SA PAGSASALAMUHA SA PANGINOON</category>
+  <numbers><cebuano num="643"/><chinese num="477"/><dutch num="38"/><english num="643"/><german num="643"/><korean num="477"/><russian num="466"/><tagalog num="643"/></numbers>
+  <creators>
+	<author biodate="1822-1894" biolink="">Translated from William Dunn Longstaff</author>
+  </creators>
+  <melody>| 3 - - 3 2 3 | 4 - - 3 - - | 1 - - 2 1 7_. | 1( - - 1) - - (break) | 3 - - 3 2 3 | 4 - - 3 - - | 2 - - 2 2 2 | 2( - - 2) - - (break) | 4 - - 4 3 2 | 3 - - 5 - - | 4 - - 4 3 2 | 3( - - 3) - - (break) | 5 - - 5 4 3 | 6 - - 4 - - | 3 - - 2 1 7_. | 1( - - 1) - - |</melody>
+  <music>
+	<midiref type="h" num="643"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panaho'y ilaan,
+Pangino'n tingnan;
+Manahan sa Kanya,
+Ka'nin Salita;
+Pasakop, maamo
+Sa presensya Mo,
+Pagpala'y hanapin,
+Ika'y tanungin.</stanza>
+	<stanza type="verse" number="2">Panaho'y ilaan,
+Pangino'n tingnan;
+Maraming gawain,
+Siya'y katagpuin.
+Makipag-ugnay ka
+Nang matransporma.
+Sa iyo Siya'y makita,
+Sa iyong paggawa.</stanza>
+	<stanza type="verse" number="3">Panaho'y ilaan,
+Pangino'n tingnan;
+Mangyaring anuman,
+Giya Siya't sundan.
+Sa Kanya lumapit,
+Tamis ma't pait;
+Tiwala sa Sal'ta,
+Asahan mo Siya!</stanza>
+	<stanza type="verse" number="4">Panaho'y ilaan,
+Pangino'n tingnan,
+Bawat kilos, gawa,
+Siyang mamahala;
+Sa pag-ibig-bukal,
+'Spiritu'y gabay;
+Magiging angkop ka,
+Sa Kanyang awa.</stanza>
+  </lyrics>
+</hymn>

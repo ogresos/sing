@@ -1,0 +1,285 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="hymn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="title"/>
+        <xs:element type="xs:string" name="index"/>
+        <xs:element type="xs:string" name="category"/>
+        <xs:element name="numbers">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cebuano">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="chinese">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="dutch">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="english">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="french">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="korean">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="russian">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:short" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="spanish">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="tagalog">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="creators">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="source">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:anyURI" name="url"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="author" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="biodate" use="optional"/>
+                      <xs:attribute type="xs:anyURI" name="biolink" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="composer" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="biodate" use="optional"/>
+                      <xs:attribute type="xs:string" name="biolink" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="meter"/>
+        <xs:element type="xs:int" name="hymncode"/>
+        <xs:element type="xs:string" name="key"/>
+        <xs:element type="xs:string" name="time"/>
+        <xs:element type="xs:short" name="tempo"/>
+        <xs:element type="xs:string" name="chords"/>
+        <xs:element type="xs:string" name="melody"/>
+        <xs:element name="layout">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="singingstanza">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="end"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="singingstanza2"/>
+              <xs:element type="xs:byte" name="globalstaffsize"/>
+              <xs:element type="xs:float" name="topmargin"/>
+              <xs:element type="xs:float" name="bottommargin"/>
+              <xs:element type="xs:byte" name="columns"/>
+              <xs:element type="xs:string" name="sheetcopyright"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="notes"/>
+        <xs:element type="xs:string" name="date"/>
+        <xs:element type="xs:string" name="copyright"/>
+        <xs:element type="xs:string" name="public"/>
+        <xs:element name="links">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="link" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="type" use="optional"/>
+                      <xs:attribute type="xs:string" name="category" use="optional"/>
+                      <xs:attribute type="xs:byte" name="num" use="optional"/>
+                      <xs:attribute type="xs:string" name="url" use="optional"/>
+                      <xs:attribute type="xs:string" name="title" use="optional"/>
+                      <xs:attribute type="xs:short" name="year" use="optional"/>
+                      <xs:attribute type="xs:string" name="format" use="optional"/>
+                      <xs:attribute type="xs:string" name="name" use="optional"/>
+                      <xs:attribute type="xs:string" name="location" use="optional"/>
+                      <xs:attribute type="xs:string" name="email" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="videos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="video">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="title"/>
+                      <xs:attribute type="xs:anyURI" name="url"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="music">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="midi">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="location"/>
+                      <xs:attribute type="xs:byte" name="length"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="midiref">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="type"/>
+                      <xs:attribute type="xs:byte" name="num"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="altmidi">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="location"/>
+                      <xs:attribute type="xs:byte" name="length"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="mp3">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="location"/>
+                      <xs:attribute type="xs:byte" name="length"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="gifscore">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="location"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="pdfscore">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="location"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="lyrics">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="stanza" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="type" use="optional"/>
+                      <xs:attribute type="xs:string" name="number" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

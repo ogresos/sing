@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amahan malipayong awitan</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;GIDAYEG SIYA SA DAGHANG MGA ANAK</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amahan malipayong awitan
+Namong tanan;
+Sa presensya Mo kami magdayeg,
+Kanimo ra;
+Gipapauli, O unsang grasya!
+Karon sama nag dapit's Anak Mo.</stanza>
+	<stanza type="verse" number="2">Sa dapit nga gugma Mo nasayran,
+O kalipay!
+Diha ra Niya nakita namo
+Ang gugma Mo;
+Sa kaugalingon Mong pahulay,
+S'ya nanguna namo sa pagdayeg!</stanza>
+	<stanza type="verse" number="3">Pagkatahum sa igdulongog Mo
+Ang awit N'ya!
+Bililhon sab ang gida' N'ya didto,
+Pagkamahal;
+Sama mi N'ya'g dapit m'oy plano Mo,
+Gimahal sa wa pang kalibutan!</stanza>
+  </lyrics>
+</hymn>

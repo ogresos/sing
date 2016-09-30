@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa matagumpay na Anak: glorya</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG MULING-PAGKABUHAY</category>
+  <numbers><chinese num="106"/><english num="121"/><french num="20"/><korean num="106"/><portuguese num="55"/><tagalog num="121"/></numbers>
+  <creators>
+    <author biodate="1854-1932" biolink="">Translated from Edmond Louis Budry</author>
+    <author biodate="" biolink="">Translated by Richard B. Hoyle</author>
+  </creators>
+  <music>
+    <midiref type="h" num="121"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa matagumpay na Anak: glorya!
+Sa kamatayan nagwaging lubos Ka.
+Mga anghel ang nag-alis ng bato,
+Libingang hungkag, buhay Kang totoo.</stanza>
+    <stanza type="chorus" number="">Sa matagumpay na Anak: glorya!
+Sa kamataya'y nagwaging lubos Ka.</stanza>
+    <stanza type="verse" number="2">Kristong nabuhay ating nakita,
+Dilim napawi tayo'y binati Niya;
+Nawa'y ekklesia magalak, umawit
+Kristo nabuhay kamataya'y daig.</stanza>
+    <stanza type="chorus" number="">Sa matagumpay na Anak: glorya!
+Sa kamataya'y nagwaging lubos Ka.</stanza>
+  </lyrics>
+</hymn>

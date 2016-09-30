@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang bukang-liwayway di pa sumapit</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;PAKIKISALAMUHA SA KANYA</category>
+  <numbers><english num="555"/><tagalog num="555"/></numbers>
+  <creators>
+    <author biodate="1812-1896" biolink="">Translated from Harriet Beecher Stowe</author>
+  </creators>
+  <music>
+    <midiref type="h" num="249"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ang bukang-liwayway di pa sumapit,
+Nananahimik, kasama Kita;
+Anino'y naglaho, ibon umawit,
+Nagising ako, kasama Kita.</stanza>
+    <stanza type="verse" number="2">Naaninag sa dagat mapayapa,
+Larawan ng tala sa umaga;
+Sa katahimikan minasdan Kita,
+Iyong larawan nasa puso ko na.</stanza>
+    <stanza type="verse" number="3">Dala ng pagal nagpahinga ako,
+Sa panalangin sa Iyo'y tumuon;
+Matamis ang pahinga sa lilim Mo,
+Mas pa kung nar'yan Ka sa pagbangon!</stanza>
+    <stanza type="verse" number="4">Gayon di sa huli, sa umaga nga,
+Anino sa buhay, tumakas na;
+O sa oras na yaon, anong ganda,
+Anong l'walhati, kasama Kita.</stanza>
+  </lyrics>
+</hymn>

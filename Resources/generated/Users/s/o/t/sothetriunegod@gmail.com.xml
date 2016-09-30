@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>unity</firstname>
+  <lastname>spurgeon</lastname>
+  <email>sothetriunegod@gmail.com</email>
+  <password>$2y$10$Trd/zkuyh11oBqMfWE/ffeGEXlxjKytViaJt3mljtmDoDU2km5gci</password>
+  <gender>M</gender>
+  <country>gh</country>
+  <ipaddress>80.87.92.42</ipaddress>
+  <createdate>2011-07-08 20:27:06</createdate>
+  <lastupdateddate>2014-11-21 07:08:52</lastupdateddate>
+  <lastlogindate>2014-11-21 07:08:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1313">In that bright and golden moment when the</fav>
+    <fav category="default" type="h" num="775">In the mighty Name of Jesus</fav>
+  </favourites>
+</user>

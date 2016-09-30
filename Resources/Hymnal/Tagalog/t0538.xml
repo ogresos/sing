@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang lugod at nais ng Diyos</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG NANANAHANANG ISA</category>
+  <numbers><cebuano num="538"/><chinese num="399"/><dutch num="23"/><english num="538"/><french num="96"/><german num="538"/><korean num="399"/><portuguese num="265"/><russian num="99"/><spanish num="241"/><tagalog num="538"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_.. 1/ 7_./ 1/ (break) | 2 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_./ 1/ 2 7_. (break) | 1 - (Chorus) 3./ 4// | 5. 3/ 4/ 3/ | 3 2 2./ 3// | 4. 2/ 3/ 4/ (break) | 3 - 3./ 2// | 1. 2/ 1/ 7_./ | 6_. 1 1./ 2// | 3/ 1/ 2 7_. | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="538"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang lugod at nais ng Diyos,
+Kristo'y ihayag sa 'kin;
+Di panlabas na relihiyon,
+Kristo'y 'paloob sa 'kin.</stanza>
+	<stanza type="chorus" number="">Ang lugod at nais ng Diyos,
+Kristo'y maisagawa;
+Sa aking loob nang lubos,
+Di panlabas na gawa.</stanza>
+	<stanza type="verse" number="2">Ang lugod at nais ng Diyos,
+Kristo'y mabuhay sa 'kin;
+Di panlabas na pagkilos,
+Ang gumawa'y Kristo rin.</stanza>
+	<stanza type="verse" number="3">Ang lugod at nais ng Diyos,
+Mahubog sa 'kin Kristo;
+Di ang panlabas na ritwal,
+Kundi Kristo'y lumago.</stanza>
+	<stanza type="verse" number="4">Ang lugod at nais ng Diyos,
+Kristo'y manahan sa 'kin;
+Di panlabas na pag'lingkod,
+Sa loob Siya'y taglayin.</stanza>
+	<stanza type="verse" number="5">Ang lugod at nais ng Diyos,
+Kristo ang pag-asa ko;
+Di l'walhating obhektibo,
+Kundi Siyang subhektibo.</stanza>
+	<stanza type="verse" number="6">Ang lugod at nais ng Diyos,
+Kristo'y maging lahat ko;
+Tanging angkinin nang lubos,
+Ang walang hanggang Kristo.</stanza>
+  </lyrics>
+</hymn>

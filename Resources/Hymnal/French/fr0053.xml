@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mes péchés sont tous loin de moi</title>
+  <index>true</index>
+  <category>L’assurance et la joie du salut&amp;mdash;pardonnés par Dieu</category>
+  <numbers><chinese num="233"/><english num="1355"/><french num="53"/><portuguese num="169"/><russian num="60"/><spanish num="140"/><tagalog num="1355"/></numbers>
+  <music>
+    <midiref type="h" num="715"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tous mes péchés Tu pardonnas,
+Tu les jetas derrière Toi.
+Jamais, Tu ne t'en souviendras,
+Pour eux Tu mourus à la croix.</stanza>
+    <stanza type="chorus" number="">Mes transgressions sont effacées,
+Comme un nuage, dissipées.
+Pour toujours, Tu as oublié
+Mes fautes et mes iniquités.</stanza>
+    <stanza type="verse" number="2">Mes péchés sont tous loin de moi,
+Tel l'orient l'est de l'occident.
+J'obtins le pardon par la foi ;
+Seigneur, Tu en es le Garant.</stanza>
+  </lyrics>
+</hymn>

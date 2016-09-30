@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Brota, brota, ó poço</title>
+  <index>true</index>
+  <category>Como A Água Viva</category>
+  <numbers><cebuano num="250"/><chinese num="201"/><english num="250"/><german num="250"/><korean num="201"/><portuguese num="134"/><russian num="355"/><spanish num="116"/><tagalog num="250"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2#/ 3 4 | 3 - 1 - | 2. 3/ 4 5 | 4 - 3 - (break) | 5. 4#/ 5 6 | 5 - 3 - | 2. 1#/ 2 3 | 2 - 1 - |</melody>
+  <music>
+	<midiref type="h" num="250"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Brota, brota, ó poço!
+Vem, Senhor, cavar-me;
+Té fluir Teu rio,
+Vem desentulhar-me.</stanza>
+	<stanza type="verse" number="2">Da fendida Rocha
+Verte água viva,
+Mas de mim não jorra,
+Pois está impedida.</stanza>
+	<stanza type="verse" number="3">Cavarei, orando,
+Todo o entulho;
+Liberando o Espír'to
+Jorrarão as águas.</stanza>
+	<stanza type="verse" number="4">Não é mais preciso
+Cristo ser fendido;
+Mas cavar o poço
+Inda necessito.</stanza>
+	<stanza type="verse" number="5">O que mais preciso
+É o encher do Espír'to,
+Té fluírem rios
+Do meu ser contrito.</stanza>
+	<stanza type="verse" number="6">Cava até que nada
+Barre o Espír'to,
+Té que a fonte jorre
+Água qual um rio.</stanza>
+	<stanza type="verse" number="7">Brota, brota, ó poço!
+Vem, Senhor, cavar-me,
+Té fluir Teu rio,
+Vem desentulhar-me.</stanza>
+  </lyrics>
+</hymn>

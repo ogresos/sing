@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kristo'y aking buhay, kapayapaan</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;SUMUSUNOD SA ESPIRITU</category>
+  <numbers><cebuano num="594"/><chinese num="436"/><dutch num="79"/><english num="594"/><french num="108"/><german num="594"/><korean num="436"/><portuguese num="296"/><russian num="107"/><spanish num="272"/><tagalog num="594"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3 2 2 | 1 - 5_. - | 5 5 6 6 | 2 - - - (break) | 4 4 3 3 | 2 - 6_. - | 1 1 2 2 | 1 - - - (break) | (Chorus) 5 5 4 4 | 3 - 6_. - | 4 4 6 6 | 1( - 7_.) - (break) | 4 4 2 2 | 5 - 3 - | 2 2 7_. 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="594"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kristo'y aking buhay, kapayapaan,
+Sa Espiritu'y may katamasahan.</stanza>
+	<stanza type="chorus" number="">Espiritu'y sundin, ibuhay Kristo,
+Buhay itinustos, payapa ako.</stanza>
+	<stanza type="verse" number="2">Kautusan ng buhay nagpalaya,
+Espiritu'y aking tinatamasa.</stanza>
+	<stanza type="verse" number="3">Ituon ang isip sa espiritu,
+Espiritu'y sundin, di sarili ko.</stanza>
+	<stanza type="verse" number="4">Hindi laban sa Diyos ni Kanyang utos,
+Kundi may kat'wirang higit sa utos.</stanza>
+	<stanza type="verse" number="5">Espiritung nasa espiritu ko,
+Ikabubuhay rin ng katawan ko.</stanza>
+	<stanza type="verse" number="6">Nagkaisang dalawang espiritu,
+Nagpatotoong anak ng Diyos ako.</stanza>
+  </lyrics>
+</hymn>

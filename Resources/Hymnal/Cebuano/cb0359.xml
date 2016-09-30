@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hayagi, Kahayag</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;KANG CRISTO</category>
+  <numbers><cebuano num="359"/><chinese num="278"/><english num="359"/><korean num="278"/><tagalog num="359"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="359"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hayagi, Kahayag,
+Dulom's sala wad-a,
+Mugnai'g adlawan,
+Sa sulod hayagan!</stanza>
+    <stanza type="chorus" number="">O labaw nga Kahayag,
+Magpuyo Ka's kalag;
+Kasubo Imong wad-on,
+Sa kalipay pun-on.</stanza>
+    <stanza type="verse" number="2">Dayon, O Kalipay!
+Wad-a ang kasubo,
+Hatagi's kalinaw,
+Kalipay ko Ikaw!</stanza>
+    <stanza type="verse" number="3">Buboi, Kinabuhi,
+Lamyang kamatayon;
+Pukawa's sulod ko
+Ang kinabuhi Mo.</stanza>
+    <stanza type="verse" number="4">Gugma, moagay Ka,
+Batoki ang sala,
+Sulod ko bag-oha;
+Gugma, moagay Ka.</stanza>
+    <stanza type="verse" number="5">Kanaug, O Langit,
+Gisia nang tabil;
+Taposang kasamok;
+Kanaug, O Langit!</stanza>
+    <stanza type="verse" number="6">Balik na, Ginoo!
+Himoa na ako
+Nga puy-anan Nimo;
+Balik na, Ginoo!</stanza>
+  </lyrics>
+</hymn>

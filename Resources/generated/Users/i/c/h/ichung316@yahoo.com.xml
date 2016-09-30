@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Iris</firstname>
+<lastname>Chung</lastname>
+<email>ichung316@yahoo.com</email>
+<password>$1$04IkMbtt$9VcWn.p0JkP6oAY3F/KPs/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>98.112.116.197</ipaddress>
+<createdate>2008-08-25 14:20:52</createdate>
+<lastupdateddate>2009-09-15 18:25:43</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="ns" num="74">Jesus, oh living Word of God</fav>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+        <fav category="default" type="ns" num="271">Always rejoice</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="62">Come, see the church life</fav>
+        <fav category="default" type="ns" num="11">Definition of love</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+        <fav category="default" type="ch" num="517">前途如何我不知</fav>
+    </favourites>
+</user>

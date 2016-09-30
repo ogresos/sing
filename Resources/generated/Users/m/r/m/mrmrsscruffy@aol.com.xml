@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Olson</lastname>
+  <email>mrmrsscruffy@aol.com</email>
+  <password>$2y$10$Ioq0r5xu7dN8Ywb2gT7CG.JOtSgKGx6djBUNr4ARWKcbhFiSZeCoe</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>207.200.116.139</ipaddress>
+  <createdate>2008-07-26 01:43:14</createdate>
+  <lastupdateddate>2016-06-10 00:41:08</lastupdateddate>
+  <lastlogindate>2016-06-10 00:41:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

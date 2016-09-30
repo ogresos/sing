@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God, our God, our God, our God</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>1535153515432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - F - | G - - - | G7 - - - | G7 - - - | G7 - - - | C - - - | C - - - | C - - - | C - C/G - | C - - - ||</chords>
+  <melody>| (startrepeat2) 1. 5/ 3 5 | 1. 5/ 3 5 | 1. 5/ 4 3 | 2 - - - (break) | 2. 5/ 4 3 | 2 - - - | 2. 5/ 3 2 | (alt1) 1 - - - (break) | (alt2) 1. 5/ 3 5 | 1. 5/ 3 5 | 1 - 1 1 | 1 - - 0 (endalt) ||</melody>
+  <layout>
+    <singingstanza end="-1">God, our God, our God, our God, Our God, our God is good. He cre -- at -- ed me. He cre -- at -- ed me.</singingstanza>
+    <singingstanza2>2. God, our God, our God, our God, Our God, our God is good. He cre -- at -- ed you. He cre -- at -- ed you.</singingstanza2>
+    <singingstanza3>3. God, our God, our God, our God, Our God, our God is good. He cre -- at -- ed us. Yes, our God is [skip1] good. He's God, He's good, He's God, He's G- O- O- D!</singingstanza3>
+  </layout>
+  <music>
+    <midi location="c" length="35">c0030.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">God, our God, our God, our God,
+Our God, our God is good.
+He created me. He created me.</stanza>
+    <stanza type="verse" number="2">God, our God, our God, our God,
+Our God, our God is good.
+He created you. He created you.</stanza>
+    <stanza type="verse" number="3">God, our God, our God, our God,
+Our God, our God is good.
+He created us. Yes, our God is good.
+He's God, He's good,
+He's God, He's G-O-O-D!</stanza>
+  </lyrics>
+</hymn>

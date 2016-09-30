@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nianhi ako sa krus</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;NAGSALIG SA GINOO</category>
+  <numbers><cebuano num="1062"/><chinese num="727"/><english num="1062"/><korean num="727"/><russian num="548"/></numbers>
+  <creators>
+    <author biodate="1820-1901" biolink="">Translated from William McDonald</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1062"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nianhi ako sa krus;
+Buta, luya, ug kabus;
+Tanan giisip&amp;mdash;biya
+Kal'wasan mapalgan na.</stanza>
+    <stanza type="chorus" number="">Saligan Ka, Ginoo,
+Cordero sa Calvario,
+Niyukbo ko sa krus Mo,
+L'wasa ko, Jesus, karon.</stanza>
+    <stanza type="verse" number="2">Dugay'ng gipangandoy Ka;
+Dugay'ng gipuy-an's sala;
+Matam-is giingnan Mo,
+"Hinloan Kong sala mo."</stanza>
+    <stanza type="verse" number="3">Halaran Ka sa tanan&amp;mdash;
+Higala ug kabtangan;
+Lawas ba o panahon&amp;mdash;
+Maimo hangtud's dayon.</stanza>
+    <stanza type="verse" number="4">Nisalig's mga saad,
+Sa dugong gipadapat;
+Sa abug nihapa ko,
+Gilansang ubang Cristo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Florence</firstname>
+  <lastname>Li</lastname>
+  <email>lichingying@hotmail.com</email>
+  <password>$2y$10$FVXrZqRgud8HqWuhX9MRL.7tCa8cxek3s/snWelPtIepn9nX1pX1O</password>
+  <gender/>
+  <country>hk</country>
+  <ipaddress>203.218.91.238</ipaddress>
+  <createdate>2015-02-21 22:52:07</createdate>
+  <lastupdateddate>2015-07-02 12:58:15</lastupdateddate>
+  <lastlogindate>2015-07-02 12:58:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="677">Art thou sunk in depths of sorrow</fav>
+    <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+    <fav category="default" type="h" num="248">Fainting in the desert</fav>
+    <fav category="default" type="h" num="723">He giveth more grace when the burdens grow greater</fav>
+    <fav category="default" type="h" num="529">How tedious and tasteless the hours</fav>
+    <fav category="default" type="h" num="721">I'll sing of the wonderful promise</fav>
+    <fav category="default" type="h" num="80">Join all the glorious names</fav>
+    <fav category="default" type="h" num="479">Oh, What a Wonderful Place</fav>
+    <fav category="default" type="h" num="664">Rise, my soul, thy God directs thee</fav>
+    <fav category="default" type="h" num="452">Tell me not of earthly pleasures</fav>
+    <fav category="default" type="h" num="722">The cross that He gave may be heavy</fav>
+    <fav category="default" type="h" num="710">The days may yet grow darker</fav>
+    <fav category="default" type="h" num="692">There's a little word that the Lord has giv'n</fav>
+    <fav category="default" type="h" num="904">We have a most glorious King</fav>
+    <fav category="default" type="ts" num="432">奇妙祕訣我已學會</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Alex</firstname>
+<lastname>Hii</lastname>
+<email>alexhiiluhock@gmail.com</email>
+<password>$1$g9SQdrMk$jCakHUgHqOdSN1fbQNoRg0</password>
+<gender>M</gender>
+<country>Ireland</country>
+<ipaddress>87.198.140.190</ipaddress>
+<createdate>2008-09-03 12:27:58</createdate>
+<lastupdateddate>2009-09-15 18:25:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="426">Remove my covering, Lord</fav>
+        <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    </favourites>
+</user>

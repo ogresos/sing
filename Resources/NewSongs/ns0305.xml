@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>From the moment I first met Thee</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:318"/><english num="ns:305"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Simon Seiki Tanada">Translated from S. S. T.</author>
+	<composer biodate="" biolink="" fullname="Simon Seiki Tanada">S. S. T.</composer>
+  </creators>
+  <hymncode>334533217123212</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| G7 - - - | C - - G/B | Am - C/E - | Dm/F - D7 - | G - G7/B - | C - - G/B | Am - C/E - | Dm/F - D7/F# - | G - G7 - | C - - G/B | Am - C/G - | Dm/F - Dm7 - | G - G7/B - | C - F/C - | C - - - | F - - - | Em7 - Am7 - | Dm7 - D7/F# - | G - G7/B - | C - - G/B | Am - C/G - | Dm/F - Dm7 - | G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 0/ 3/ 3/ 4/ | 5( - 5/) 3/ 3/ 2/ | 1 - - 7_./ 1/ | 2( - 2/) 3/ 2/ 1/ (break) | 2( - 2/) 3/ 3/ 4/ | 5( - 5/) 3/ 3/ 2/ | 1 - - 7_./ 1/ | 2 - 2/ 3/ 2/ 1/ (break) | 2 - - 5_./ 5_./ | 1/ 1/ 1 - 5/ 5/ | 3/( 2/) 1 - 1 | 2 - - 6_. | 7_. - 6_. 5_. (break) | 1( - - - | 1) - - 1/ 1/ | 6/ 6/( 6) - 6/ 6/ | 5/ 3/( 3) - 3 | 4 - - 3/ 2/ (break) | 5 - - 5_./ 5_./ | 1/ 1/( 1) - 5/ 5/ | 3/( 2/) 1 - 1 | 2 - - 6_. | 7_. - 6_. 5_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>From the mo -- ment I first met Thee, How my heart was filled with joy. Hal -- le -- lu -- jah! Full joy in me, As Thou flood  -- me with -- out al -- loy. Oh the sweet -- est love is this first  -- love; Je -- sus, O Je -- sus my love! Far ex -- cel -- ling all oth -- er loves, Such love reach -- es me. Such a sweet love, such a true love&amp;mdash; Je -- sus, O Je -- sus my love!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="69">ns0305.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">From the moment I first met Thee,
+How my heart was filled with joy.
+Hallelujah! Full joy in me,
+As Thou flood me without alloy.
+Oh the sweetest love is this first love;
+Jesus, O Jesus my love!
+Far excelling all other loves,
+Such love reaches me.
+Such a sweet love, such a true love&amp;mdash;
+Jesus, O Jesus my love!</stanza>
+  </lyrics>
+</hymn>

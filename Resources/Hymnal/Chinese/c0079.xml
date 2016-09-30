@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主當我們想到你</title>
+  <index>true</index>
+  <category>讚美主－祂的生平</category>
+  <numbers><cebuano num="87"/><chinese num="79"/><english num="87"/><korean num="79"/><tagalog num="87"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 0 - 5./( 4//) | 3 - 5 | ._1 - 5 | ._2.( 7/) 5/( 4/) (break) | 3 - 5 | 5( ._1) 3 | 2( 7) 6 (break) | 5 - 5 | ._1 - 5 | ._2 - 5 | ._3.( ._2/) ._1/( 7/) (break) | 6 - 6 | 5( ._1) 3 | 5( 4) 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>哦 主， 當 我 們 想 到 你 在 世 所 歷 路 程： （你 以 恩 愛 對 待 群 黎， 你 以 忠 誠 對 神。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="56"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主，當我們想到你
+在世所歷路程：
+（你以恩愛對待群黎，
+你以忠誠對神。</stanza>
+	<stanza type="verse" number="2">你愛雖然被人辜負，
+顯為比死更強；
+刺你的槍，不過引出
+血水，洗人天良。</stanza>
+	<stanza type="verse" number="3">你雖自己常經憂患，
+你卻到處行善；
+雖然你的路途艱難，
+你卻不想怨歎。</stanza>
+	<stanza type="verse" number="4">四圍不忠，你卻赤忠；
+黑暗，你卻光明。
+父的喜樂，你心所重，
+從未違祂命令。</stanza>
+	<stanza type="verse" number="5">不因撒但詭計搖動，
+不顧苦難、損失；
+你的行徑，無人同情，
+孤單一直到死。）</stanza>
+	<stanza type="verse" number="6">我們不禁奇你謙卑，
+盼望能以像你；
+主，我們願學你式微，
+因這裡有安息。</stanza>
+  </lyrics>
+</hymn>

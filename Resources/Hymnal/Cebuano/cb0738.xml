@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May pagbati's kinabuhi</title>
+  <index>true</index>
+  <category>NAGKALAINLAING ASPETO SA KINABUHI SA SULOD&amp;mdash;ANG PAGBATI SA KINABUHI</category>
+  <numbers><cebuano num="738"/><chinese num="534*"/><english num="738"/><french num="134"/><german num="738"/><korean num="534*"/><portuguese num="341"/><russian num="280"/><spanish num="310"/><tagalog num="738"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 5) 4 | 3( 2) 1 | 2( 6_.) 7_. | 1 - 2 | 3( 4#) 5 | 1( 7_.) 6_. | 5_. - 1 (break) | 2 - 3 | 4 - 3 | 2( 3) 1 | 1( 7_.) 5_. | 5( 4) 3 | 2( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="38"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">May pagbati's kinabuhi
+Tanang matang ni'ni;
+Kinabuhing dayon's sulod
+May diosnong pagbati.</stanza>
+	<stanza type="verse" number="2">Mas habog nga kinabuhi
+Labaw ug pagbati;
+Pagbati's kinabuhi's Dios
+Maoy labing habog.</stanza>
+	<stanza type="verse" number="3">Pagbati's kinabuhi's su'd,
+Pagbati man sa Dios;
+Na's espiritung gibuhi,
+Ang labawng pagbati.</stanza>
+	<stanza type="verse" number="4">Pagbati's kinasuloran,
+Pagkaamgo's sulod,
+Makaila's mga butang
+Ug kabubot-on's Dios.</stanza>
+	<stanza type="verse" number="5">Ni'ni makaila ta's Dios,
+Sa kinabuhi's su'd;
+Gamhanan ug dihadiha,
+Di makigbisug gyud.</stanza>
+	<stanza type="verse" number="6">Sa labi nga pagtubo ta,
+Pagbati mokusog.
+Labi natong tumanon ni,
+Labi pang mokusog.</stanza>
+	<stanza type="verse" number="7">Kon mabansay nang pagbati,
+Esp'ritu maisug,
+Pakig-ambitayng matuod
+Maangkon ta gayud.</stanza>
+  </lyrics>
+</hymn>

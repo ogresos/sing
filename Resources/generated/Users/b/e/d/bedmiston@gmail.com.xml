@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brendon</firstname>
+  <lastname>Edmiston</lastname>
+  <email>bedmiston@gmail.com</email>
+  <password>$2y$10$337HdlqBeZQgEpDKPOjxle6QzEb9eMuKo0.NEh3F7v1LoKwWjZjfu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.198.134.147</ipaddress>
+  <createdate>2015-12-09 10:46:23</createdate>
+  <lastupdateddate>2015-12-09 10:54:30</lastupdateddate>
+  <lastlogindate>2015-12-09 10:53:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="579">Jesus! I am resting, resting</fav>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神聖愛的珍饈</title>
+  <index>true</index>
+  <category>讚美主－對祂的記念</category>
+  <numbers><cebuano num="228"/><chinese num="186"/><dutch num="60"/><english num="228"/><korean num="186"/><russian num="510"/><tagalog num="228"/></numbers>
+  <creators>
+	<author biodate="1796-1889" biolink="">Translated from Edward Denny</author>
+  </creators>
+  <melody>| 0 - - 1/( 2/) | 3. 3/ 4 3 | 3( - 2) 3/( 2/) | 1. 1/ 2 5 | 3 - - 5 (break) | 6. 5/ 4 3 | 5. 4/ 3 2 | 1. 2/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>神 聖、 愛 的 珍 饈， 乃 是 出 於 恩 典； 藉 著 享 受 這 餅 與 酒， 我 們 將 你 記 念。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="228"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神聖、愛的珍饈，
+乃是出於恩典；
+藉著享受這餅與酒，
+我們將你記念。</stanza>
+	<stanza type="verse" number="2">在此我們都願
+從你得以看見：
+你父對你所有心願，
+並你所賜恩典。</stanza>
+	<stanza type="verse" number="3">我靈今已滿足，
+我心今作見證：
+生命之餅，甜美、豐富，
+作我生命供應。</stanza>
+	<stanza type="verse" number="4">良心不再定罪，
+信心歡樂宣告：
+贖罪之血何其寶貴，
+滿足神之所要。</stanza>
+	<stanza type="verse" number="5">今享這個筵席，
+如此神聖、甜美，
+等到那日與你再席，
+甜美豈只萬倍！</stanza>
+	<stanza type="verse" number="6">那時得見你面，
+穿上你的榮形；
+所有你的奇妙恩典，
+我要永遠見證。</stanza>
+  </lyrics>
+</hymn>

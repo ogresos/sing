@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>israel</firstname>
+    <lastname>jerusalem</lastname>
+    <email>israel_0210@yahoo.com.ph</email>
+    <password>$1$IIJBsTQ/$T.KXfP7p1l6sDuBg7uS3g.</password>
+    <gender>M</gender>
+    <country>Philippines</country>
+    <ipaddress>124.105.215.58</ipaddress>
+    <createdate>2009-01-20 02:39:47</createdate>
+    <lastupdateddate>2010-03-04 22:12:07</lastupdateddate>
+    <lastlogindate>2010-03-04 22:12:07</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="77">A lover of Christ</fav>
+    </favourites>
+</user>

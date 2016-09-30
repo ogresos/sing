@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daniel</firstname>
+  <lastname>Miller</lastname>
+  <email>dmiller@graceohio.org</email>
+  <password>$2y$10$TfJlCEIEbxevHPM9PEM9/OlDSveWn.eGxbcas4YAmw6Kcad.fbs7K</password>
+  <gender/>
+  <country/>
+  <ipaddress>107.220.26.44</ipaddress>
+  <createdate>2015-08-24 01:36:54</createdate>
+  <lastupdateddate>2015-08-24 02:28:43</lastupdateddate>
+  <lastlogindate>2015-08-24 01:38:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="h" num="117">Christ the Lord is ris'n indeed</fav>
+    <fav category="default" type="h" num="366">Christ, whose glory fills the skies</fav>
+    <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+    <fav category="default" type="h" num="1163">He's the vine and we're the branches</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="511">Jesus only is our message</fav>
+    <fav category="default" type="h" num="579">Jesus! I am resting, resting</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+  </favourites>
+</user>

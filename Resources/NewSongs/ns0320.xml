@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>All-fitting Life</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Life</category>
+  <hymncode>5555643312</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | C - - - | G - - - | C - - - | G - - - | C - C/E - | F - - - | C - C/E - | F - - - | C - C/E - | Am - - - | G - - - | G7 - - - | C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | C - - - | G - - - | C - - - | G - - - | C - C/E - | F - - - | C - C/E - | F - - - | C - C/E - | Am - - - | G - - - | G7 - - - | C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | G - - - | C - - - | G - - - | C - - - | G - - - | C - - - | G - - - | C - - - | G - G7 - | C - - - |</chords>
+  <melody>| 0 (Chorus) 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 - 3 1/ 2/ | 2 - - - | 0 - 3 1/ 2/(  | 2) - - - (break) | (Verse_1) ._1. 5/( 5) 5 | 6 - - - | ._1. 5/( 5) 5/ 5/ | 6 - - - | ._1. 5/( 5) 5 | 6 5 3 1/ 1/ | 3/ 3/ 2 - - | 0 - 5_. 6_./ 7_./ (break) | 1 (Chorus) 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 - 3 1/ 2/ | 2 - - - | 0 - 3 1/ 2/( | 2) - - - (break) | (Verse_2) ._1. 5/( 5) 5 | 6 - - - | ._1. 5/( 5) 5/ 5/ | 6 - - - | ._1. 5/( 5) 5 | 6 5 3 1/ 1/ | 3/ 3/ 2 - - | 0 - 5_. 6_./ 7_./ | 1 (Final_Chorus) 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 5/ 5/( 5) 5 | 5/ 6/( 6) - 4 | 3 - 3 1/ 2/( | 2) - - - | 0 - 3 1/ 2/ | 2 - - - | 0 - 3 1/ 2/( | 2) - - - | 0 - 3 1/ 2/ | 2 - - - | 0 - 3 1/ 2/( | 2) - 5_. 6_./ 7_./ | 1 0 - - |</melody>
+  <layout>
+    <singingstanza end="-1">We work to -- geth -- er with God by a life, We work to -- geth -- er with God by a life: All -- suf -- fi -- cient, All -- ma -- ture; A -- ble to fit A -- ble to en -- dure To ac -- cept an -- y kind of en -- vi -- ron -- ment; All -- fit -- ting life! We work to -- geth -- er with God by a life, We work to -- geth -- er with God by a life: All -- suf -- fi -- cient, All -- ma -- ture; A -- ble to work To take an -- y kind For the car -- ry -- ing out of our min -- is -- try; All -- fit -- ting life! We work to -- geth -- er with God by a life, We work to -- geth -- er with God by a life: All -- suf -- fi -- cient, All -- ma -- ture; All -- suf -- fi -- cient All -- ma -- ture; All -- fit -- ting life.</singingstanza>
+    <singingstanza2>[skip30] (All_situations,) [skip4] (Any_kind_of_treatment,) [skip45] (In_any_condition,) [skip4] (Of_opportunity)</singingstanza2>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="ref">2 Corinthians 6:1</link>
+  </links>
+  <music>
+    <midi location="ns" length="106">ns0320.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">We work together with God by a life,
+We work together with God by a life:
+All-sufficient,
+All-mature;</stanza>
+    <stanza type="verse" number="1">(Brothers) Able to fit
+(Sisters) All situations,
+(Brothers) Able to endure
+(Sisters) Any kind of treatment,
+(All) To accept any kind of environment;
+(Brothers) All-fitting life!</stanza>
+    <stanza type="verse" number="2">Able to work
+In any condition,
+To take any kind
+Of opportunity
+For the carrying out of our ministry;
+All-fitting life!</stanza>
+    <stanza type="chorus" number="">We work together with God by a life,
+We work together with God by a life:
+All-sufficient,
+All-mature;
+All-sufficient
+All-mature;
+All-fitting life.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gloria</firstname>
+  <lastname>Ybarra</lastname>
+  <email>325castilloast3@gmail.com</email>
+  <password>$2y$10$AxE2EggC4rsvDZdMIwX0nekknEDSPmo3cIe663OcIlYeLk.vn3ylK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.42.218.85</ipaddress>
+  <createdate>2014-10-29 17:41:56</createdate>
+  <lastupdateddate>2014-11-11 17:57:22</lastupdateddate>
+  <lastlogindate>2014-10-29 17:43:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="463">Lord, Thou hast won my heart</fav>
+  </favourites>
+</user>

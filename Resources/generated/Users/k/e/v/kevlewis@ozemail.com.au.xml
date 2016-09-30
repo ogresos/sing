@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname/>
+  <email>kevlewis@ozemail.com.au</email>
+  <password>$2y$10$6jAAo4GyBhK/wkparDK69.LplKKDgokrnpAtkds0Nd/IolNUeZU0.</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>124.150.114.110</ipaddress>
+  <createdate>2015-06-27 06:10:19</createdate>
+  <lastupdateddate>2015-06-27 06:11:38</lastupdateddate>
+  <lastlogindate>2015-06-27 06:11:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

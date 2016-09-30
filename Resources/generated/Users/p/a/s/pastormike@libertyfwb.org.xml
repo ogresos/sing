@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>m</firstname>
+    <lastname>c</lastname>
+    <email>pastormike@libertyfwb.org</email>
+    <password>2wTolaJptOMuYX3BqqogRQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>76.22.222.72</ipaddress>
+    <createdate>2010-11-17 15:25:01</createdate>
+    <lastupdateddate>2010-11-22 14:54:14</lastupdateddate>
+    <lastlogindate>2010-11-22 14:37:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="1049">Drawn to the Cross which Thou hast blest</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="nt" num="378">Savior, lead me up the mountain</fav>
+    </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Andrew</firstname>
+    <lastname>Siu</lastname>
+    <email>andrewjsiu@gmail.com</email>
+    <password>cCMizNL4kD%2FHpGAzwZzhuA%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>137.205.20.22</ipaddress>
+    <createdate>2010-10-17 09:18:25</createdate>
+    <lastupdateddate>2011-01-23 10:27:03</lastupdateddate>
+    <lastlogindate>2011-01-23 10:27:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="305">From the moment I first met Thee</fav>
+        <fav category="default" type="h" num="197">How all-inclusive, Lord, Thou art</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="nt" num="1048">Just as I am</fav>
+        <fav category="default" type="h" num="456">Living for Jesus a life that is true</fav>
+        <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+        <fav category="default" type="nt" num="434">Lord, Thou hast won, at length I yield</fav>
+        <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="nt" num="1050">Out of my bondage, sorrow, and night</fav>
+        <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+        <fav category="default" type="h" num="595">There is always something over</fav>
+        <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+        <fav category="default" type="ns" num="309">Throughout the past twenty centuries</fav>
+        <fav category="default" type="h" num="852">Thy dwelling place, O Lord, I love</fav>
+        <fav category="default" type="ns" num="73">Trust in the Lord</fav>
+        <fav category="default" type="lb" num="19">Where's the answer?</fav>
+        <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+    </favourites>
+</user>

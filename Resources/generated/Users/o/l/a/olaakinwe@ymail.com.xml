@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ola</firstname>
+  <lastname>Akinwe</lastname>
+  <email>olaakinwe@ymail.com</email>
+  <password>$2y$10$Egp0etj66AoaoCoizqktdO5VMSik70qw1DvPz2KEAluIeNMxiwpFG</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.138.191.6</ipaddress>
+  <createdate>2015-01-01 22:44:41</createdate>
+  <lastupdateddate>2015-01-01 22:56:31</lastupdateddate>
+  <lastlogindate>2015-01-01 22:56:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

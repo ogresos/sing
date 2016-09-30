@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A Place for Everything</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="" fullname="">Traditional</composer>
+  </creators>
+  <hymncode>5156535515667</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G7 | C - - - | C - - G7 | C - - - | G7 - - - | G7 - - - | G7 - - - | G7 - - - | C - - - ||</chords>
+  <melody>| 0 - - 5_. | 1 5_. 6_. 5_. | 3_.( 5_.)( 5_.) 5_. | 1 5_. 6_. 6#_. (break) | 7_. - - 5_. | 7_. 5_. 6_. 5_. | 7_. 5_. 6_.. 5_./ (break) | 5_. 5_. 6_. 7_. | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>A place for ev -- ery -- thing, for ev -- ery -- thing a place. Our shoes! Our toys! Oh, girls and boys! Put each thing in its place!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2014 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="11">c0106.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">A place for everything, for everything a place.
+Our shoes! Our toys! Oh, girls and boys!
+Put each thing in its place!</stanza>
+    <stanza type="verse" number="2">A place for everything, for everything a place.
+My bat and bike, my skates and trike
+Put each thing in its place!</stanza>
+    <stanza type="verse" number="3">A place for everything, for everything a place.
+My plate I think goes in the sink!
+Put each thing in its place!</stanza>
+    <stanza type="verse" number="4">A place for everything, for everything a place.
+Our hats and coats, our boots and totes
+Put each thing in its place!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2014 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

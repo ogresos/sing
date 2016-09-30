@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Viens, ô Jésus ! Viens, ô Jésus</title>
+  <index>true</index>
+  <category>L’espérance de la gloire&amp;mdash;se préparer pour la venue de Christ</category>
+  <numbers><cebuano num="1308"/><chinese num="ts:912"/><english num="1308"/><french num="188"/><german num="1308"/><korean num="837"/><portuguese num="490"/><russian num="497"/><tagalog num="1308"/></numbers>
+  <melody>| 0 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 5/ 5/ | 5 3/ 2/ 1 3 (break) | 2 - - 5/ 5/ | 5 3/ 2/ 1 2/ 1/ | 6_./ 1.( 1) 1/ 2/ | 3/ 5/ 5/ 4/ 3 2 | 1 - - - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 6 5 - (break) | 5. 3/ 1 5 | 6. 4/ 2 6 | 7. 6/ 5/ 4/ 3/ 2/ | 1 - - 0 |</melody>
+  <links>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dans nos lampes, de l'huile nous avons,
+Afin d'être toujours brûlants !
+Vers Toi dans notre esprit, nous nous tournons,
+Nous nous tournons, tournons, tout le temps !</stanza>
+	<stanza type="verse" number="">Seigneur, amen, alléluia !
+Nous demeurons brûlants en tout temps !
+Seigneur, amen, alléluia !
+Nous nous tournons maintenant !</stanza>
+	<stanza type="verse" number="2">Notre vase a besoin d'être rempli
+D'une réserve d'huile en plus !
+Aujourd'hui, nous nous tournons vers l'esprit
+Pour gagner cette huile toujours plus !</stanza>
+	<stanza type="verse" number="">Seigneur Jésus, Seigneur Jésus !
+Conduis-nous à racheter le temps !
+Seigneur Jésus, Seigneur Jésus !
+Rends-nous sages maintenant !</stanza>
+	<stanza type="verse" number="3">Nous brûlons tous pour Lui dans notre esprit,
+Jusqu'à l'heure du grand festin.
+Dans la salle de noce Il nous conduit,
+Nous brûlons tout le long du chemin !</stanza>
+	<stanza type="verse" number="">Viens, ô Jésus ! Viens, ô Jésus !
+Viens nous-préparer pour ce grand jour !
+Viens, ô Jésus ! Viens, ô Jésus !
+Nous attendons Ton retour !</stanza>
+  </lyrics>
+</hymn>

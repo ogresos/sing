@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Shelley</firstname>
+  <lastname>Gilmore</lastname>
+  <email>shelleygilmore@gmail.com</email>
+  <password>$2y$10$EHlDaLU7smfLB6O/PDJfBe2p3wmq5tlhPKdDTrTuSPux2DV4f/VKO</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>202.180.127.132</ipaddress>
+  <createdate>2014-07-30 06:08:28</createdate>
+  <lastupdateddate>2014-07-30 06:20:09</lastupdateddate>
+  <lastlogindate>2014-07-30 06:20:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bawa't buhay may kam'layan</title>
+  <index>true</index>
+  <category>IBA'T IBANG ASPEKTO NG PANLOOB NA BUHAY&amp;mdash;ANG KAMALAYAN NG BUHAY</category>
+  <numbers><cebuano num="738"/><chinese num="534*"/><english num="738"/><french num="134"/><german num="738"/><korean num="534*"/><portuguese num="341"/><russian num="280"/><spanish num="310"/><tagalog num="738"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 3 | 3( 5) 4 | 3( 2) 1 | 2( 6_.) 7_. | 1 - 2 | 3( 4#) 5 | 1( 7_.) 6_. | 5_. - 1 (break) | 2 - 3 | 4 - 3 | 2( 3) 1 | 1( 7_.) 5_. | 5( 4) 3 | 2( 6_.) 7_. | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="38"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Bawa't buhay may kam'layan
+Ng buhay, sa kalooban,
+Buhay nating walang hanggan
+May dibinong kamalayan.</stanza>
+	<stanza type="verse" number="2">Mas mat'as uri ng buhay,
+Kamalaya'y mas mahusay;
+Pinakamataas na malay -
+Nasa maka-Diyos na buhay.</stanza>
+	<stanza type="verse" number="3">Sa loob, malay ng buhay,
+Ito'y malay ng Diyos lagi;
+Sa 'spiritung muling-nabuhay,
+Higit sa malay ng buti.</stanza>
+	<stanza type="verse" number="4">Panloob na kamalayan,
+Nasa 'ting kaibuturan;
+In'aninaw sa kalooban,
+Nang nais ng Diyos malaman.</stanza>
+	<stanza type="verse" number="5">Dahil sa malay sa loob,
+Ang Diyos ating nakilala;
+Malay ng buhay-panloob,
+May kalakasan at kusa.</stanza>
+	<stanza type="verse" number="6">Kung mas malago ang buhay,
+Mas tumatalas ang malay;
+Higit kumilos sa buhay,
+Lalong titindi ang malay.</stanza>
+	<stanza type="verse" number="7">Sanaying lubos ang malay,
+Lalakas ang espiritu,
+Pagsasalamuha'y tunay -
+'Pag malay ng Diyos narito.</stanza>
+  </lyrics>
+</hymn>

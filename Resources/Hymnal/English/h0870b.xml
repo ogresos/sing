@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Stand up! stand up for Jesus (Alternate Tune)</title>
+  <category>Spiritual Warfare&amp;mdash;Standing Up</category>
+  <creators>
+    <author biodate="1818-1888" biolink="">George Duffield</author>
+    <composer biodate="1803-1887" biolink="">George James Webb</composer>
+  </creators>
+  <numbers><cebuano num="870"></cebuano><chinese num="632"></chinese><korean num="632"></korean><tagalog num="870"></tagalog></numbers>
+  <meter>7.6.7.6.D.</meter>
+  <hymncode>5113116151232</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C7/E - | F - Dm - | C/E - Am - | Dm/F - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C - - - | G/B - G - | C - - - | F - Dm - | C/G - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._2 ._3 (break) | ._2 - 0 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._3 ._2 (break) | ._1 - 0 5 | ._2. ._2/ ._1 ._2 | ._3 - ._3 ._3 | ._4 ._3 6 ._2 (break) | ._1( - 7) 5 | ._1. ._1/ ._3 ._1 | ._1 - 6 ._1 | 5 ._1 ._3 ._2 | ._1 - 0 - |</melody>
+  <layout>
+    <singingstanza>Stand up! stand up for Je -- sus! Ye sol -- diers of the cross; Lift high His ro -- yal ban -- ner, It must not suf -- fer loss: From vic -- t'ry un -- to vic -- t'ry His arm -- y shall He lead, Till ev -- ery foe is van -- quished And Christ is Lord in -- deed. Stand up for Je -- sus Ye sol -- diers of the cross; Lift high His ro -- yal ban -- ner, It must not, it must not suf -- fer loss.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="870" />
+  </links>
+  <music>
+    <midi location="h" length="34">e0870b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Stand up! stand up for Jesus!
+  Ye soldiers of the cross;
+Lift high His royal banner,
+  It must not suffer loss:
+From vict'ry unto vict'ry
+  His army shall He lead,
+Till every foe is vanquished
+  And Christ is Lord indeed.</stanza>
+    <stanza type="verse" number="2">Stand up! stand up for Jesus!
+  The trumpet call obey;
+Forth to the mighty conflict
+  In this His glorious day.
+Ye that are men, now serve Him
+  Against unnumbered foes;
+Let courage rise with danger.
+  And strength to strength oppose.</stanza>
+    <stanza type="verse" number="3">Stand up! stand up for Jesus!
+  Stand in His strength alone;
+The arm of flesh will fail you;
+  Ye dare not trust your own.
+Put on the Gospel armor,
+  And, watching unto prayer,
+Where duty calls, or danger,
+  Be never wanting there.</stanza>
+    <stanza type="verse" number="4">Stand up! stand up for Jesus!
+  The strife will not be long:
+This day the noise of battle,
+  The next the victor's song;
+To him that overcometh
+  A crown of life shall be;
+He, with the King of glory,
+  Shall reign eternally.</stanza>
+  </lyrics>
+</hymn>

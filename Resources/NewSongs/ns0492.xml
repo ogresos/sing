@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I give my heart to You, Surrender myself unto Thee</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <hymncode>3353343113432723432</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Am - - | F - - | Am - - | F - - | G - - | Am - - | G - - | C - - | Am - - | F - - | Am - - | F - - | G - - | C - - | C - - | C - - | Em - - | Am - - | Em - - | F - - | C - - | G - - | G - - | C - - | Em - - | Am - - | Em - - | F - - | C - - | G - - | G - - | C - - | Am - - | F - - | Am - - | F - - | G - - | Am - - | G - - | C - - | Am - - | F - - | Am - - | F - - | G - - | C - - | C - - ||</chords>
+  <melody>| 3 - 3 | 5 - 3 | 3 - 4/( 3/) | 1 - 1 | 3 - 4/ 3/ | 2 7_. 2 | 3( - 4/)( 3/)( | 2) - - (break) | 3 - - | 5 - 3/ 3/ | 3 - 4/ 3/ | 3 1( 1/) 1/ | 3 - 4/( 3/) | 2 7_. 2 | 1( - - | 1) - - (break) | (Chorus) ._1 - ._2/( ._1/) | 7( 5) - | 6 - 7/ 6/ | 5 3 - | 4 - 5/( 4/) | 3 1 3 | 2( - - | 2) - - (break) | ._1 - ._2/ ._1/ | 7 5 - | 6 - 7/ 6/ | 5 3 3 | 4 - 5/ 4/ | 3 1 3 | 2( - - | 2) - - (break) | (Verse_2) 3 - 3 | 5 - - | 3 - 4/( 3/) | 3 1 1 | 3 - 4/( 3/) | 2( 7_.) 2 | 3( - 4/)( 3/)( | 2) - - (break) | 3 - 3 | 5 - 3 | 3 - 4/ 3/ | 3 1( 1/) 1/ | 3 - 4/( 3/) | 2 7_. 2 | 1( - - | 1) - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Lord, I give my heart to You, Sur -- ren -- der my -- self un -- to Thee; Love pours from the depths of my be -- ing; My King, my Hus -- band, my Lord. Your soft voice, Your lov -- ing -- kind -- ness Draws me clos -- er to You. Your love con -- strains me; caught in Your beau -- ty. Lord, there’s none more wor -- thy than You. To -- geth -- er, one u -- nit -- ed, The Bride -- groom and His bride; Lord, I want to be Your com -- pan -- ion The way that You’ve be -- come mine.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+      <midi location="ns" length="82">ns0492.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I give my heart to You,
+Surrender myself unto Thee;
+Love pours from the depths of my being;
+My King, my Husband, my Lord.</stanza>
+    <stanza type="chorus" number="">Your soft voice, Your lovingkindness
+Draws me closer to You.
+Your love constrains me; caught in Your beauty.
+Lord, there’s none more worthy than You.</stanza>
+    <stanza type="verse" number="2">Together, one united,
+The Bridegroom and His bride;
+Lord, I want to be Your companion
+The way that You’ve become mine.</stanza>
+  </lyrics>
+</hymn>

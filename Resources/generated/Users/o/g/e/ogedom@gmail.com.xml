@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Oge</firstname>
+  <lastname/>
+  <email>ogedom@gmail.com</email>
+  <password>$2y$10$Y.otnLQGjFvMt4yJXMyze.IT0wNN2eveyqhVeoJKFffbW88SOxWxC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.94.44.214</ipaddress>
+  <createdate>2016-01-13 20:36:40</createdate>
+  <lastupdateddate>2016-08-09 15:42:55</lastupdateddate>
+  <lastlogindate>2016-08-07 18:46:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+  </favourites>
+</user>

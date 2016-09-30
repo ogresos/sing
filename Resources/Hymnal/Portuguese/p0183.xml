@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Se em gozo o caminho aqui percorrer</title>
+  <index>true</index>
+  <category>Diversos</category>
+  <numbers><cebuano num="341"/><chinese num="268"/><dutch num="63"/><english num="341"/><french num="66"/><german num="341"/><korean num="268"/><portuguese num="183"/><tagalog num="341"/></numbers>
+  <creators>
+	<author biodate="1828-1888" biolink="www.hymns.net/stories/spafford.htm">Translated from Horatio Gates Spafford</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 - 4 3 | 3 - 2 3 | 4( 6) 5 4 | 3 - - 5 | ._1 - 7 6 | 6 - 5 4# | 5 - - 5 (break) | ._1 - ._1 7 | 6 - 6 6 | ._2 - ._2 ._1 | 7 - 6 5 | ._1 - ._1 ._1 | ._1 - 7. ._1/ (break) | (.._1 - (Chorus) 5 5 | 5( - - - | 5) - 5 5 | 5( - - - | 5) - 3 5 (break) | 6 - 6 ._1 | ._1 - 7. ._1/ | ._1( - - - | ._1) - - 0 |</melody>
+  <music>
+	<midiref type="h" num="341"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Se em gozo o caminho aqui percorrer,
+Ou mesmo em dores e cruz,
+Por Cristo, já tenho aprendido a dizer:
+"Tenho paz, doce paz em Jesus!"</stanza>
+	<stanza type="chorus" number="">Tenho paz em Jesus!
+Tenho paz, doce paz em Jesus!</stanza>
+	<stanza type="verse" number="2">Embora havendo cruel tentação,
+E golpes que dá Satanás,
+Em Cristo estou e minh´alma, então,
+No Seu sangue desfruta a paz.</stanza>
+	<stanza type="verse" number="3">Na cruz meu pecado Jesus carregou,
+Cortou o seu fruto e raiz;
+Agora por Seu sangue propiciador
+Minha alma em paz O bendiz.</stanza>
+	<stanza type="verse" number="4">Porquanto o viver para mim Cristo é,
+Até a carreira findar,
+Em vida ou morte _ o que me ocorrer _
+Sua paz, doce paz vem me dar.</stanza>
+  </lyrics>
+</hymn>

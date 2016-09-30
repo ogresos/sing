@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay hiwaga, Pangino'n</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;SINASANAY ANG ESPIRITU</category>
+  <numbers><cebuano num="782"/><chinese num="302*"/><english num="782"/><german num="782"/><korean num="302*"/><portuguese num="359"/><russian num="128"/><spanish num="334"/><tagalog num="782"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. 5_. 1 1 | 2 2 3 - | 1 1 4 3/( 2/) | 1 3 2 - (break) | 5 5 3 3 | 4 4 2 - | 3 4 5 4 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="782"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kay hiwaga, Pangino'n,
+Espiritu Mo'y sa 'kin,
+Kamangha-mangha ngayon,
+Dalawa'y pag-isahin.</stanza>
+	<stanza type="verse" number="2">Ayon sa espiritu,
+Espiritwal lumakad;
+Maglingkod sa 'spiritu,
+Sumamba sa Iyo lahat.</stanza>
+	<stanza type="verse" number="3">Salita Mo'y basahin,
+At tuwing manalangin,
+Espiritu'y hipuin,
+At ako'y palakasin.</stanza>
+	<stanza type="verse" number="4">Espiritung malakas,
+Bubuhayin ang iba;
+Espiritung maningas,
+Palayain ang iba.</stanza>
+	<stanza type="verse" number="5">T'wing ako'y magsalita,
+Espiritu'y kumilos,
+Kahit anong paggawa,
+Espiritu'y mapuspos.</stanza>
+	<stanza type="verse" number="6">Pag gumawa'y 'spiritu,
+Mabubuksan ang iba;
+Pag kumilos 'spiritu,
+Maaahon ang iba.</stanza>
+	<stanza type="verse" number="7">Panginoon dinggin Mo,
+Espiritu 'ko'y hipan,
+Yayaman ang 'spiritu
+Lakas ay maragdagan.</stanza>
+  </lyrics>
+</hymn>

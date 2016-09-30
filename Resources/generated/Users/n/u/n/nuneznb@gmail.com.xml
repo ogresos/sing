@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nelson</firstname>
+  <lastname>Nunez</lastname>
+  <email>nuneznb@gmail.com</email>
+  <password>$2y$10$7kxATdPuJ1OS8ZFM/Bc4pODZtPKpB5NqPyLxCOAcSKZQRRgPvBeFO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.152.151.128</ipaddress>
+  <createdate>2016-07-02 16:02:43</createdate>
+  <lastupdateddate>2016-07-02 16:54:00</lastupdateddate>
+  <lastlogindate>2016-07-02 16:03:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>lee</firstname>
+  <lastname>miller</lastname>
+  <email>lee@leemillerusa.com</email>
+  <password>$2y$10$W7HpvAbxmVNAnvBZA37fK./QZ4.Ne4dyMs6wUG61aKxTmKDsu7dD2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.113.55.34</ipaddress>
+  <createdate>2016-07-19 23:39:55</createdate>
+  <lastupdateddate>2016-07-19 23:40:38</lastupdateddate>
+  <lastlogindate>2016-07-19 23:40:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

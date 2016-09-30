@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Toi mon Sauveur et mon soutien</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;se confier en Lui</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ma volonté s'est affaiblie
+Et mon espoir s'est envolé.
+En Ta seule œuvre, je me fie,
+Tu me soutiens et me conduis.</stanza>
+	<stanza type="verse" number="2">Tous mes efforts ont échoué,
+Comme autrefois, je suis tombé.
+Mais Ta patience est mon salut,
+Tu peux toujours me pardonner.</stanza>
+	<stanza type="verse" number="3">Lorsque mon cœur est exalté,
+Je suis si près de trébucher.
+Je n'ose rien faire ou penser,
+Toi seul, Seigneur, dois opérer !</stanza>
+	<stanza type="verse" number="4">Toi mon Sauveur et mon soutien !
+Je veux Ta face rechercher.
+Quand je suis faible et accablé,
+Ta grâce seule est mon rocher !</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Laging lunti, aming Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG KABAGUHAN</category>
+  <numbers><cebuano num="16"/><chinese num="11"/><english num="16"/><german num="16"/><korean num="11"/><portuguese num="10"/><russian num="9"/><spanish num="10"/><tagalog num="16"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 3/ | 2 3/ 5 4/ | 3( - 3/) 5/ (break) | 5 5/ 5 5/ | 5/( 4#/) 5/ 6/( 5/) 6/ | 7 ._1/ 7 6/ (break) | 5( - 5/) (Chorus) 5/ | ._1 ._1/ 7/ 6/ 5/ | 6. 5 5/ | 6 ._1/ 5 3/ | 2( - 2/) 2/ (break) | 3 3/ 5 5/ | ._1 ._1/ ._2/( ._1/) 6/ | 5 5/ 6 7/ | ._1( - ._1/) 0/ |</melody>
+  <music>
+	<midiref type="h" num="16"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Laging lunti, aming Ama
+Walang pagkalanta;
+Panginoong walang hanggan,
+Walang kasiraan!</stanza>
+	<stanza type="chorus" number="">Ama, Diyos ng kabaguhan,
+Walang kalumaan;
+At ang Iyong kasariwaan
+Ay magpakailanman.</stanza>
+	<stanza type="verse" number="2">Ika'y Diyos na "bago", Ama,
+Kung wala Ka'y luma;
+Sa Iyo, walang maging laon
+Nang habang panahon.</stanza>
+	<stanza type="verse" number="3">Biyaya Iyong ibinigay
+Kabaguha'y taglay;
+Bagong tipan, bagong daan,
+Walang katapusan.</stanza>
+	<stanza type="verse" number="4">Kami'y bagong nilikha Mo,
+Bagong pagkatao,
+Araw-araw nababago,
+Bagong buhay't anyo.</stanza>
+	<stanza type="verse" number="5">Bagong langit, bagong lupa,
+At bagong lunsod nga;
+Buwan-buwan ay may bagong bunga
+Na matatamasa.</stanza>
+	<stanza type="verse" number="6">Ama, Diyos na laging bago,
+Puri'y di hihinto,
+Walang hanggang aawitin:
+Ama ay purihin!</stanza>
+  </lyrics>
+</hymn>

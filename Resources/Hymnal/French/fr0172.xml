@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Donne, car dans ton besoin tu reçus</title>
+  <index>true</index>
+  <category>La prédication de l’évangile&amp;mdash;un canal de bénédiction</category>
+  <numbers><english num="929"/><french num="172"/><tagalog num="929"/></numbers>
+  <creators>
+    <author biodate="1880-1950" biolink="">Translated from Ira Bishop Wilson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="929"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sur les chemins et sentiers de la vie,
+Beaucoup sont las et blessés.
+Sois la lumière au milieu de leur nuit,
+Donne espoir aux affligés !</stanza>
+    <stanza type="chorus" number="">Fais que je brille ! Fais que je brille !
+Que je rayonne en Jésus-Christ !
+Fais que je brille, Sauveur, Dieu d'amour,
+Fais que je brille pour quelqu'un, ce jour !</stanza>
+    <stanza type="verse" number="2">Parle de Christ et de Son grand amour,
+Dis qu'Il pardonne à chacun !
+D'autres à Dieu auront aussi recours,
+Si tu deviens Son parfum.</stanza>
+    <stanza type="verse" number="3">Donne, car dans ton besoin tu reçus,
+Aime, car Dieu t'a aimé !
+Sois un secours pour ceux qui sont perdus,
+Sois un fidèle envoyé !</stanza>
+  </lyrics>
+</hymn>

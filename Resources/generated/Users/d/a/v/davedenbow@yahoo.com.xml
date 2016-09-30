@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dave</firstname>
+  <lastname>Denbow</lastname>
+  <email>davedenbow@yahoo.com</email>
+  <password>$2y$10$9FJelEKxuF4jZlsV8TRpROJyn/6tePn5XAMuMwqZLwR5LWYHV3t9W</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.93.139.246</ipaddress>
+  <createdate>2015-06-23 15:17:31</createdate>
+  <lastupdateddate>2016-02-05 15:16:08</lastupdateddate>
+  <lastlogindate>2016-02-01 15:36:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1248">Recall how David swore</fav>
+  </favourites>
+</user>

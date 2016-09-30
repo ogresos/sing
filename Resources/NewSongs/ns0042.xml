@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You more today</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:42"/><vsb num="171"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="E. J. Cheung">E. J. C.</author>
+    <composer biodate="" biolink="" fullname="E. J. Cheung">E. J. C.</composer>
+  </creators>
+  <hymncode>3235132351</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>118</tempo>
+  <chords>| C - - - | Am - - - | C - - - | Am - - - | Dm - - - | G - - - | F - - - | Gsus4 - - - | G - - - | C - - - | F/C - - - | C - - - | F - - G | Am - - - | F - - G | C - - - | F - - G7 | C - F/C - | C - - - |</chords>
+  <melody>| 0 3/ 2/ 3/ 5/( 5/) 1/( | 1) - - - | 0 3/ 2/ 3/ 5/( 5/) 1/( | 1) - 6_. 1 (break) | 4 - 3 1/ 2/( | 2) - 6_. 1 | 4 - 3 1/ 2/( | 2)( - - - | 2) - - - (break) | (Chorus) 0 5( 5) 3 | 2 1 6_. 1/ 5/( | 5) - - - | 4 3 2 1 | 2 3/ 3/( 3)( - (break) | 3) - 6_. 1 | 2 3( - - | 3) - 6_. 1 | 2 1( - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza>Dear -- est Lord, I come; This is now my pray'r, Keep me o -- pen to You, May I al -- ways love You. Lord, I love You more to -- day, So much more than yes -- ter -- day; Lord, I need You, Lord, I love You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="39">ns0042.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dearest Lord, I come;
+This is now my pray'r,
+Keep me open to You,
+May I always love You.</stanza>
+    <stanza type="chorus" number="">Lord, I love You more today,
+So much more than yesterday;
+Lord, I need You, Lord, I love You.</stanza>
+    <stanza type="verse" number="2">Now that the choice is mine,
+Lord, I still choose You;
+'Though the paths be not marked,
+I'm still trusting in You.</stanza>
+    <stanza type="verse" number="3">And if the way is hard,
+If things don't go my way,
+Keep my heart soft to You,
+Keep me open to You.</stanza>
+    <stanza type="verse" number="4">Dearest Lord, I pray,
+Lead me everyday;
+Don't let things come between,
+Keep my eyes fixed on You.</stanza>
+    <stanza type="verse" number="5">When many years have gone,
+And many things have passed,
+I will still be for You,
+I will still say to You:</stanza>
+  </lyrics>
+</hymn>

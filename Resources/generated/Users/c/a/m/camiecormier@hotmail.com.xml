@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Camie</firstname>
+<lastname>Cormier</lastname>
+<email>camiecormier@hotmail.com</email>
+<password>$1$ga3UqW.e$jhKsX2JgORrTkFhy8Ed.E/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>67.176.44.180</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="69">Someone</fav>
+        <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="lb" num="60">The Son with the Father by the Spirit</fav>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    </favourites>
+</user>

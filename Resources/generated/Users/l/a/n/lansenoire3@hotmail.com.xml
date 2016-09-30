@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Louise</firstname>
+    <lastname>Beckles</lastname>
+    <email>lansenoire3@hotmail.com</email>
+    <password>pEExaDhCuCoEo46gj4Ps3w%3D%3D</password>
+    <gender></gender>
+    <country>Trinidad and Tobago</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-24 03:08:53</createdate>
+    <lastupdateddate>2014-04-24 03:08:53</lastupdateddate>
+    <lastlogindate>2014-04-24 03:05:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="145">Jesus shall reign where'er the sun</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dieu d'amour, nos cœurs T'adorent</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;Son élection</category>
+  <numbers><english num="34"/><french num="6"/><german num="34"/><portuguese num="25"/><russian num="14"/><spanish num="23"/><tagalog num="34"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 6. 5#/ 6 4 | 5. 4#/ 5 3 | 6. 5/ 4/ 3/ 2/ 1/ | 7_.( - 5 4) (break) | 3 - 5 - | 4 - 6_. - | 7_. - 2 - | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="26"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tu nous as aimés, cher Père,
+Bien avant la création.
+À Jésus Tu nous attires,
+Par Ta tendre persuasion.
+Tu nous gardes, Tu nous gardes
+Toujours en sécurité,
+Toujours en sécurité !</stanza>
+	<stanza type="verse" number="2">Ton amour est immuable,
+Sa richesse coule à flots.
+Sa puissance inaltérable,
+Nous garde en un saint repos.
+Dieu et Père, Dieu et Père !
+C'est Toi que nous adorons !
+C'est Toi que nous adorons !</stanza>
+	<stanza type="verse" number="3">Dieu d'amour, nos cœurs T'adorent.
+Que Ta grâce soit chantée !
+Jusqu'au jour où nos couronnes
+Seront devant Toi posées.
+Chants de gloire, chants de gloire
+Soient à Dieu et à l'Agneau,
+Soient à Dieu et à l'Agneau !</stanza>
+  </lyrics>
+</hymn>

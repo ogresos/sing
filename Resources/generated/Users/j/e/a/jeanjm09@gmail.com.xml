@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jean Jules</firstname>
+  <lastname>Mazza</lastname>
+  <email>jeanjm09@gmail.com</email>
+  <password>$2y$10$HOicFTujgJiKgEqpeixss.fLaIH0VtC/A.kOO9fPkJpjvMgLemvd.</password>
+  <gender/>
+  <country>it</country>
+  <ipaddress>87.1.235.17</ipaddress>
+  <createdate>2016-05-17 13:16:12</createdate>
+  <lastupdateddate>2016-05-17 20:45:06</lastupdateddate>
+  <lastlogindate>2016-05-17 13:27:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="671">Deep down into the depths of this Thy Name</fav>
+  </favourites>
+</user>

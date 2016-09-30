@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>ADRIAN</firstname>
+    <lastname>PARAS</lastname>
+    <email>parasadrian96@yahoo.com</email>
+    <password>$1$hC7smOj4$RvoPJM3MLqrqwATzWAfB/.</password>
+    <gender>M</gender>
+    <country>Philippines</country>
+    <ipaddress>121.96.62.130</ipaddress>
+    <createdate>2009-06-28 12:29:23</createdate>
+    <lastupdateddate>2010-12-28 00:00:22</lastupdateddate>
+    <lastlogindate>2010-12-28 00:00:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    </favourites>
+</user>

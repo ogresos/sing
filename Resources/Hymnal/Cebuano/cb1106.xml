@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nagtigum mi alang's Imong panihapon</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="1106"/><chinese num="ts:617"/><english num="1106"/><german num="1106"/><portuguese num="127"/><russian num="249"/><spanish num="104"/><tagalog num="1106"/></numbers>
+  <melody>| 0 - 5 | 5. 6/ 5 | 3 4 5 | 4. 3/ 2 (break) | 3 1 5 | 5. 6/ 7 | ._1. ._2/ 7 | 6. 5/ 6 (break) | 5 - 5 | 5. 6/ 7 | ._1 5 5 | 5. 6/ 4/( 5/) (break) | 3 1 1 | 4. 5/ 6/ 4/ | 5. 4/ 3 | 4 2. 1/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="1106"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nagtigum mi alang's Imong panihapon:
+Nagpasundayag's among pagkausa.
+May presensya Niya, ipailang pag'usa,
+Sa pagkaon-inom, nabulahan kita.</stanza>
+	<stanza type="verse" number="2">Nagkaon's tinapayng lawas N'yang gipikas
+Nausang Lawas karon napa'muslan;
+Tinapay sa talad&amp;mdash;usa gyud nga Lawas,
+Giusa's Ginoo, atong pamatud-an.</stanza>
+	<stanza type="verse" number="3">Nag-inom sab mi's kopa's kabulahanan,
+Panag-ambitay's iglesia's dugo N'ya;
+Pagtoo, gitubos; dawatong balaan,
+Kadtong gitubos nga nakaduol sa Dios.</stanza>
+	<stanza type="verse" number="4">O unsay masulti kondi' "Hallelujah!"
+Sa kamatuorang gihatag Niya.
+Dugo Mo gigamit, Lawas gipa'muslan;
+Maangkon Mong mahimayaong iglesia.</stanza>
+  </lyrics>
+</hymn>

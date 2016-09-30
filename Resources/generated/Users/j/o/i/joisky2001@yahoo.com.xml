@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Myrna</firstname>
+  <lastname>Duenas</lastname>
+  <email>joisky2001@yahoo.com</email>
+  <password>$2y$10$t11ZyjUGqbLqcwK/4W7mO.qV7p.Zwki4Lw5O1S.T7qub7a9UXmuGK</password>
+  <gender/>
+  <country>mp</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-15 07:19:17</createdate>
+  <lastupdateddate>2014-06-15 07:39:24</lastupdateddate>
+  <lastlogindate>2014-06-15 07:39:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="83">All my life I searched for God</fav>
+    <fav category="default" type="ht" num="441">Kay Hesus lahat sinuko</fav>
+    <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+  </favourites>
+</user>

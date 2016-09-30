@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Andrea</firstname>
+<lastname>Slough</lastname>
+<email>andrea.slough@cssd.ab.ca</email>
+<password>$1$JxrhAqq5$8ERHI0HXJZqpgx0TxY5a/.</password>
+<gender>F</gender>
+<country>Canada</country>
+<ipaddress>68.144.245.208</ipaddress>
+<createdate>2008-10-05 09:45:50</createdate>
+<lastupdateddate>2009-09-15 18:26:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="604">Unto the hills around do I lift up</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+    </favourites>
+</user>

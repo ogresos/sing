@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>蔡宛君</firstname>
+  <lastname/>
+  <email>tinatsai1@yahoo.com.tw</email>
+  <password>$2y$10$Dkb/O/ZErWTDNH/XglUzceLB3Z.8Rkv6ogRwYA47EL3i86oDapoN6</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>114.42.18.85</ipaddress>
+  <createdate>2014-12-13 04:55:11</createdate>
+  <lastupdateddate>2015-04-04 03:16:40</lastupdateddate>
+  <lastlogindate>2015-04-04 03:16:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="871">在今天，更新奉獻</fav>
+    <fav category="default" type="ts" num="345">我深知惟有你是我所愛</fav>
+    <fav category="default" type="ts" num="930">日近一日</fav>
+    <fav category="default" type="ts" num="815">瞧！我是人</fav>
+    <fav category="default" type="ts" num="875">西布倫，揚帆起行</fav>
+    <fav category="default" type="ns" num="102c">轉向祂的眷顧</fav>
+  </favourites>
+</user>

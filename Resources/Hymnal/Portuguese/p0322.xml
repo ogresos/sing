@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Se morrer o grão de trigo"</title>
+  <index>true</index>
+  <category>A Maneira De Frutificar</category>
+  <numbers><chinese num="466"/><english num="636"/><korean num="466"/><portuguese num="322"/><tagalog num="636"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="636"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Se morrer o grão de trigo",
+Disse o Senhor,
+"Se morrer, dá muito fruto",
+Disse o Salvador.</stanza>
+    <stanza type="verse" number="2">Para outros terem vida
+Deves tu morrer;
+Cai na terra, sepultado,
+Vai ali jazer.</stanza>
+    <stanza type="verse" number="3">Mas o teu Senhor, na morte,
+Não te deixará;
+E em nova vida e glória
+Te ressurgirá.</stanza>
+    <stanza type="verse" number="4">Do Senhor, tal senda estreita
+Queres tu trilhar?
+Ao passares pela morte,
+Vida vais ganhar.</stanza>
+    <stanza type="verse" number="5">Sem morrer não há a vida,
+Deves aprender;
+Duma vida derramada,
+Messe vais colher.</stanza>
+  </lyrics>
+</hymn>

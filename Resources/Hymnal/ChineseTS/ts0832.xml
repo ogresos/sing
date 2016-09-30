@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我聽見了主耶穌說</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:832*"/><english num="h:323*"/><french num="63"/><tagalog num="323"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 0 - 0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2( 6_.) - 6_./( 7_./) | 1. 1/ 2. 3/ (break) | 3 - 0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2 6_. - 6_./( 7_./) | 1. 2/ 7_.. 5_./ (break) | 6_. - - 3 | 6 3 4# 2 | 5 2 3. 3/ | 6. 6/ 6 7/( 6/) (break) | 5/ 3/( 3)  0/ 3/ 2/ 1/ | 6_.( - 6_./) 3/ 2/ 1/ | 2( 6_.) - 6_./( 7_./) | 1. 2/ 7_.. 5_./ | 6_. - 0 - ||</melody>
+  <layout>
+	<singingstanza>我 聽 見 了 主 耶 穌 說： 『來， 就 我 得 安 息！ 疲 倦 的 人， 來 這 裡 躺 臥， 你 可 歇 我 胸 臆。』 照 我 本 相， 來 就 耶 穌， 疲 憊、 困 倦 又 憂 鬱。 祂 是 我 的 安 息 之 所， 祂 使 我 心 暢 歡。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="nt" num="323"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我聽見了主耶穌說：
+『來，就我得安息！
+疲倦的人，來這裡躺臥，
+你可歇我胸臆。』
+照我本相，來就耶穌，
+疲憊、困倦又憂鬱。
+祂是我的安息之所，
+祂使我心暢歡。</stanza>
+	<stanza type="verse" number="2">我聽見了主耶穌說：
+『看！我白白賜給。
+乾渴的人，來暢飲活水，
+你可歡然取水。』
+我敞開心懷就耶穌，
+並喝那生命活泉，
+乾渴立消，我魂復甦，
+現今活在祂前。</stanza>
+	<stanza type="verse" number="3">我聽見了主耶穌說：
+『我是世界的光，
+轉眼看我，晨星必出現，
+照耀你的途徑。』
+我從自己轉向耶穌，
+祂是我晨星、太陽。
+生命光中，歡樂行走，
+行盡客旅路程。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, de todos és Senhor</title>
+  <index>true</index>
+  <category>Sua Glória</category>
+  <numbers><cebuano num="133"/><chinese num="120"/><english num="133"/><german num="133"/><korean num="120"/><portuguese num="70"/><russian num="403"/><spanish num="69"/><tagalog num="133"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus, de todos és Senhor,
+Coroa e glória tens;
+Em majestade e poder,
+Reconhecido és.</stanza>
+	<stanza type="verse" number="2">Qual Deus no homem foste aqui
+Um servo no labor;
+No céu qual homem, Tu em Deus
+De tudo és Senhor.</stanza>
+	<stanza type="verse" number="3">És homem que na glória está,
+Deus Te entronizou;
+Nos céus e terra, o poder
+É todo Teu, Senhor.</stanza>
+	<stanza type="verse" number="4">Jesus, foste exaltado aos céus
+Com nome singular;
+E ao excelso nome Teu,
+Vão todos se curvar.</stanza>
+	<stanza type="verse" number="5">Senhor e Cristo, Deus Te fez,
+O Espír'to o declarou;
+Partilhas hoje o trono Seu
+No céu, em esplendor.</stanza>
+	<stanza type="verse" number="6">Senhor da glória, como não
+Te entoar louvor?
+Tens toda a nossa adoração,
+Sublime Rei, Senhor!</stanza>
+  </lyrics>
+</hymn>

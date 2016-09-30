@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>És, Senhor, o Noivo amado</title>
+  <index>true</index>
+  <category>Sua Beleza</category>
+  <numbers><cebuano num="170"/><chinese num="140"/><english num="170"/><german num="170"/><korean num="140"/><portuguese num="83"/><russian num="34"/><spanish num="80"/><tagalog num="170"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="170"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">És, Senhor, o Noivo amado,
+O eleito de Deus Pai;
+O Teu ser perfeito, belo
+Nosso coração atrai.</stanza>
+	<stanza type="verse" number="2">Ó Amado, Te prezamos,
+Quem Te pode descrever?
+Teu amor profundo, infindo
+Estimamos com prazer.</stanza>
+	<stanza type="verse" number="3">És mais belo que os mais belos
+E mais doce que o mel;
+Manso, amável, gracioso,
+Sem igual na terra e céu.</stanza>
+	<stanza type="verse" number="4">Tua veste exala mirra,
+Graça em lábios Teus se vê;
+Com amor Te abraçamos
+No olor do Teu sofrer.</stanza>
+	<stanza type="verse" number="5">Com o óleo de alegria
+Deus já Te ungiu assim;
+O louvor a Ti ressoa
+De palácios de marfim.</stanza>
+	<stanza type="verse" number="6">Deus Te abençoou pra sempre,
+Já triunfaste, ó Senhor;
+Hoje estás no trono em glória,
+Vemos Teu poder e honor.</stanza>
+	<stanza type="verse" number="7">Das nações, és o desejo,
+Provarão o Teu valor;
+És excelso e supremo,
+E mereces nosso amor.</stanza>
+  </lyrics>
+</hymn>

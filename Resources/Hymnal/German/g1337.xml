@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Als Jehova die Gefangenen Zions befreit hat</title>
+  <index>true</index>
+  <category>SCHRIFTSTELLEN ZUM SINGEN</category>
+  <numbers><chinese num="ts:502*"/><english num="1337"/><german num="1337"/><korean num="923"/><spanish num="496"/></numbers>
+  <melody>| 0 1/ 2/ | 3/ 3/ 3/ 3/ | 4./ 4// 4 | 5/ 5 5/ | 4//( 3./) 3/ 1//( 7_.//) (break) | 6_./ 1// 1// 1// 2./ | 3. 1//( 7_.//) | 6_./ 1// 1// 1// 2./ | (vv._1,_3,_4,_6) 1( - (break) | 1) (vv._2,_5_only) 1/ 2/ | 3 3/ 3/ | 4 4./ 4// (break) | 5./ 5// 5/ 5/ | 4/ 3/ 3/ 1//( 7_.//) (break) | 6_. 6_.// 6_.// 1// 2// | 3/ 3/( 3/) 1//( 7_.//) (break) | 6_./ 6_./  6_.// 6_.// 1// 2// | 3 - | 6_. 1/ 2/ | 3// 3// 2// 1//( 1)( (break) | 1.) (Chorus) 5/ (vv._2,_5_only) | 6 6 | 0/ 6/ 6// 5// 4/ | 5./ 4// 3( | 3.) 3/ | 4( - | 4) 3/ 1/ | 2( - (break) | 2.) 5/ | 6 6 | 0/ 6/ 6// 5// 4/ | 5./ 4// 3( | 3.) 3/ | 4( - | 4) 4/ 5/ | 5( - | 5) 0 |</melody>
+  <layout>
+	<singingstanza>Als Je -- ho -- va die Ge -- fan -- ge -- nen Zi -- ons be -- freit hat, Da wa -- ren wir wie im Traum, da wa -- ren wir wie im Traum. Un -- ser Mund war voll La -- chen, die Zun -- ge war voll Lob und Dank. Man hör -- te un -- ter den Hei -- den: „Je -- ho -- va hat Gro -- ßes ge -- tan, Gro -- ßes an ih -- nen ge -- tan!“ Je -- ho -- va hat Gro -- ßes an uns ge -- tan, wir ju -- beln so froh! Je -- ho -- va hat Gro -- ßes an uns ge -- tan, wir ju -- beln so froh!</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+	<link type="ref">Psalms 126:1-6</link>
+  </links>
+  <music>
+	<midiref type="h" num="1337"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Als Jehova die Gefangenen Zions befreit hat,
+Da waren wir wie im Traum, da waren wir wie im Traum.</stanza>
+	<stanza type="verse" number="2">Unser Mund war voll Lachen, die Zunge war voll Lob und Dank.
+Man hörte unter den Heiden:
+ „Jehova hat Großes getan, Großes an ihnen getan!“</stanza>
+	<stanza type="chorus" number="">Jehova hat Großes an uns getan, wir jubeln so froh!
+Jehova hat Großes an uns getan, wir jubeln so froh!</stanza>
+	<stanza type="verse" number="3">Bring auch uns aus der Gefangenschaft zurück wie die Bäche,
+Wie die Bäche im Süden, wie die Bäche im Süden.</stanza>
+	<stanza type="verse" number="4">Die da säen mit Tränen, sie ernten mit Freuden.
+Die da säen mit Tränen, sie ernten mit Freuden.</stanza>
+	<stanza type="verse" number="5">Ja, sie gehen hin und weinend streuen sie den Samen aus
+Und kommen mit Freuden,
+Und bringen ihre Garben, bringen ihre Garben ein.</stanza>
+	<stanza type="chorus" number="">Jehova hat Großes an uns getan, wir jubeln so froh!
+Jehova hat Großes an uns getan, wir jubeln so froh!</stanza>
+	<stanza type="verse" number="6">Als Jehova die Gefangenen Zions befreit hat,
+Da waren wir wie im Traum, da waren wir wie im Traum.</stanza>
+  </lyrics>
+</hymn>

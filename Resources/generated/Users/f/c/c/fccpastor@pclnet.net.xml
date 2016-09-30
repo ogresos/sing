@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>James</firstname>
+<lastname>Osborne</lastname>
+<email>fccpastor@pclnet.net</email>
+<password>$1$URfLsJLZ$5WYvX5aN7hGgQS60ImmGg.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>76.73.241.109</ipaddress>
+<createdate>2008-07-26 01:43:04</createdate>
+<lastupdateddate>2009-09-15 18:23:57</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="102">We sing the praise of Him who died</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+        <fav category="default" type="h" num="1180">My old person has been nullified</fav>
+        <fav category="default" type="c" num="112">God made the mountains</fav>
+        <fav category="default" type="h" num="43">Abba, Father, we approach Thee</fav>
+        <fav category="default" type="h" num="1248">Recall how David swore</fav>
+        <fav category="default" type="h" num="744">In dealings with the Lord as life</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="nt" num="223">On the table of Thy love</fav>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="h" num="423">Thou hidden love of God, whose height</fav>
+        <fav category="default" type="h" num="716">Begone, unbelief</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="270">Lord, in Thy Spirit, take and fill my heart</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+        <fav category="default" type="c" num="132">God made me a three-part man</fav>
+        <fav category="default" type="h" num="263">God sent His mighty pow'r</fav>
+        <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+        <fav category="default" type="nt" num="152">O how deep and how far-reaching</fav>
+    </favourites>
+</user>

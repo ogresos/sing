@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Deborah</firstname>
+  <lastname>Shaw</lastname>
+  <email>deborahseymour@hotmail.com</email>
+  <password>$2y$10$573TOttwwcuiOqvcPrDW1.OybPtsnXXh.FeuPIyS.E1YWxu/RT7by</password>
+  <gender/>
+  <country/>
+  <ipaddress>73.43.19.42</ipaddress>
+  <createdate>2016-06-24 01:49:24</createdate>
+  <lastupdateddate>2016-06-29 18:35:16</lastupdateddate>
+  <lastlogindate>2016-06-24 01:50:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+  </favourites>
+</user>

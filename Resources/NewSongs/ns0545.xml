@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Revelation 3:20-21</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>15555653215555653221</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | C - - - | C - - - | F - - - | G - - - | F - - - | G7 - - - | C - F/C - | C - - - | C - F/C - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G - - - | C - - - | C - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 1 | (startrepeat) 5 5 5 5/ 6/ | 5 3 2 1 | 5/ 5/ 5 5 6 (break) | 5 3 2/ 2/ 1 | 6_.. 6_./ 6_./ 1/( 1/) 6_./ | 3 2 1 7_. (break) | 6_. - 4( 3) | 2 2 1 7_. | (alt1) 1( - - - | 1) - - 1 | (alt2) 1( - - - | 1) - - - (endalt) (break) | 6 - - 6 | 5 - 6( 5) | 3( - - - | 3) - - 1 (break) | 6 - - - | 5 - 6( 5) | 3( - - - | 3) - - 1 (break) | 6 - - 6 | 5 - 6 5 | 3 - 1 2 | 3 2 1 7_. (break) | 6_.. 6_./ 6_./ 1/( 1/) 6_./ | 3 2 1 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Be -- hold, I stand at the door and knock; If an -- y -- one hears My voice and o -- pens the door, Then I will come in to him and dine with him and he with Me. Be -- Me. He who o -- ver -- comes, To him I will give To sit with Me on My throne, As I al -- so o -- ver -- came and sat with My Fa -- ther on His throne.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Revelation 3:20-21</link>
+  </links>
+  <music>
+    <!--soundcloud>https://soundcloud.com/hymnstream/revelation-3-20-21?in=godman-johnson%2Fsets%2Flsm-songs</soundcloud-->
+    <midi location="ns" length="58">ns0545.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Behold, I stand at the door and knock;
+If anyone hears My voice and opens the door, 
+Then I will come in to him and dine with him
+    and he with Me.</stanza>
+    <stanza type="note">(repeat)</stanza>
+    <stanza type="verse" number="">He who overcomes,
+To him I will give
+To sit with Me on My throne,
+As I also overcame and sat with My Father on His throne.</stanza>
+  </lyrics>
+</hymn>

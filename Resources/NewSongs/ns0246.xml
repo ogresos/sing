@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Though I love You, Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For a Closer Walk with Christ</category>
+  <numbers><english num="ns:246"/><vsb num="209"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="John Berglund">J. B.</author>
+    <composer biodate="" biolink="" fullname="John Berglund">J. B.</composer>
+  </creators>
+  <hymncode>12345333431</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | Em - - - | F - - - | C - - - | G - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G - - - | F - - - | F - - - | F - - - | F - - - | C - - - | C - - - | G - - - | G7 - - - | F/C - - - | C - - - |</chords>
+  <melody>| 0 - 1/ 2/ 3/ 4/ | 5 - - - | 0 3 3 3 | 4 3/ 1/( 1) - (break) | 0. 1/ 1/ 2/ 3/ 4/ | 5 - - - | 0 3 3 3 | 4 - - - (break) | 0 3 2 3 | 6 5 3 2 | 3( - 3/) 2/ 3/ 2/ | 1 - - - (break) | 0 3 2 3 | 6 5 3 2 | 1( - - - | 1) - - - | 0 - (Chorus) 6/ 5/ 4/ 5/ | 6. 6/( 6) - | 0. 5/ 5/ 4/ 3/ 4/ | 5 - - - (break) | 0 7 7 7 | ._1 7/ 6/( 6/) 5. | 6 6/ 6/( 6/)( 5/) 4( | 4) - - - (break) | 0. 6/ 6/ 5/ 4/ 5/ | 6. 6/( 6) - | 0. 5/ 5/ 4/ 3/ 4/ | 5 - - - (break) | 0 2/ 2/ 2 2 | 3 3 3 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Though I love You, Lord, My life seems all de -- formed. I give my life to You&amp;mdash; Then drift a -- way. Lord, may I ask You that You'd draw me yet a -- gain, And keep me run -- ning af -- ter You. Lord, I've seen Your pur -- pose. Your heart's un -- veiled to me. Now I'd just like to see You gain me ful -- ly. Though You I of -- ten lim -- it And fail by com -- pro -- mise, Keep me in the in -- dex of Your eyes.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="64">ns0246.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Though I love You, Lord,
+My life seems all deformed.
+I give my life to You&amp;mdash;
+Then drift away.
+Lord, may I ask You that You'd draw me yet again,
+And keep me running after You.</stanza>
+    <stanza type="chorus" number="">Lord, I've seen Your purpose.
+Your heart's unveiled to me.
+Now I'd just like to see You gain me fully.
+Though You I often limit
+And fail by compromise,
+Keep me in the index of Your eyes.</stanza>
+    <stanza type="verse" number="2">Lord, I want Your best.
+I want Your full blessing.
+I don't want any less,
+Though good it be.
+Have mercy, Lord, to push, to pull, lay hold of me.
+Keep me still running toward the prize.</stanza>
+    <stanza type="verse" number="3">Mold me, shape me, Lord.
+Be my reality.
+Even break my heart,
+If it has to be.
+I'm desperate, Lord, that You would have Your way with me.
+Others could touch You then through me.</stanza>
+    <stanza type="verse" number="4">Set my heart aflame.
+Don't let me stay the same.
+Don't let things remain
+Which now grieve You.
+My life I give to You and all I've claimed as mine.
+May I just hold, Lord, unto You.</stanza>
+  </lyrics>
+</hymn>

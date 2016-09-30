@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Richard</firstname>
+<lastname>yeboah</lastname>
+<email>yeboahasuamah@hotmail.com</email>
+<password>$1$gntxUIWI$ytr8LrKGEw62hQMQ3N8FY1</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>86.6.104.134</ipaddress>
+<createdate>2008-12-06 17:59:37</createdate>
+<lastupdateddate>2009-09-15 18:27:00</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="474">I am one with Thee, Lord Jesus</fav>
+        <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+        <fav category="default" type="ns" num="91">Make me a hungry seeker</fav>
+        <fav category="default" type="h" num="1187">Your ministry, O Lord</fav>
+        <fav category="default" type="h" num="138">All hail the pow'r of Jesus' name (Long)</fav>
+        <fav category="default" type="h" num="808">Master, speak! Thy servant heareth</fav>
+        <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+        <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    </favourites>
+</user>

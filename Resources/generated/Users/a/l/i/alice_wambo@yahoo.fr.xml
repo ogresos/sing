@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alice</firstname>
+  <lastname/>
+  <email>alice_wambo@yahoo.fr</email>
+  <password>$2y$10$EjwQZcqGiXBRpL4GS8IA1u6zbYIaOcRw45eL4K6VcjT7X2dgmyvha</password>
+  <gender/>
+  <country/>
+  <ipaddress>74.185.194.185</ipaddress>
+  <createdate>2016-01-04 13:44:34</createdate>
+  <lastupdateddate>2016-01-04 13:48:19</lastupdateddate>
+  <lastlogindate>2016-01-04 13:48:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Иисус Христос, расти во мне</title>
+  <index>true</index>
+  <category>СТРЕМЛЕНИЯ&amp;mdash;К РОСТУ В ХРИСТЕ</category>
+  <numbers><cebuano num="395"/><chinese num="298"/><english num="395"/><french num="69"/><german num="395"/><korean num="298"/><portuguese num="191"/><russian num="78"/><spanish num="173"/><tagalog num="395"/></numbers>
+  <creators>
+    <author biodate="1741-1801" biolink="">Translated from Johann Casper Lavater</author>
+  </creators>
+  <melody>| 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) 0 5 (break) | 5( 3) 5 ._1 - 5 | 5( 3) 5 5 - 5 | 6 - 5 5( 4) 3 | 3( - - 2) - 0 (break) | 3 3 3 4 - 4 | 5( 4) 3 2( 3) 4 | 5( 1) 4 3 - 2 | 1( - - 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Ии -- сус Хрис -- тос, рас -- ти во мне, Пусть про -- че -- е уй -- дёт.  Пусть серд -- це, о -- став -- ля -- я грех, К_Те -- бе всё боль -- ше льнёт. Всег -- да пусть в_сла -- бо -- сти ме -- ня Тво -- я под -- дер -- жит мощь, Пусть жизнь и свет Тво -- и во мне У -- но -- сят смерть и ночь.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="261"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Иисус Христос, расти во мне,
+Пусть прочее уйдёт.
+Пусть сердце, оставляя грех,
+К Тебе всё больше льнёт.</stanza>
+	<stanza type="chorus" number="">Всегда пусть в слабости меня
+Твоя поддержит мощь,
+Пусть жизнь и свет Твои во мне
+Уносят смерть и ночь.</stanza>
+	<stanza type="verse" number="2">Пусть в моих мыслях меркнет зло
+В сиянии Твоём.
+Что я – ничто, а Ты есть всё,
+Дай видеть день за днём.</stanza>
+	<stanza type="verse" number="3">О Мудрый, Праведный, Святой,
+Твою дай славу знать.
+В радости и в печали дай
+Тебя лишь выражать.</stanza>
+	<stanza type="verse" number="4">Силой Своею поддержи
+И радость свыше дай.
+Светом любви Своей, Господь,
+Ты чрез меня сияй.</stanza>
+	<stanza type="verse" number="5">Пусть умаляюсь я во всём,
+Моей Ты жизнью стань;
+Всё больше каждый день с Тобой
+Единым быть мне дай.</stanza>
+  </lyrics>
+</hymn>

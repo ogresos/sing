@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I believe, so I speak</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;The Power of His Resurrection</category>
+  <numbers><english num="lb:54"/><vsb num="46"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Bob Freepartner">B. F.</author>
+    <composer biodate="" biolink="" fullname="Bob Freepartner">B. F.</composer>
+  </creators>
+  <hymncode>12354321232</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | F - G - | C - - - | F - G - | C - G - | C - - - | C - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | F - G - | C - - - | F - G - | C - G - | C - - - | G - - - | G - - - | Dm - - - | Dm - - - | C - - - | C - - - | Bb - - - | Bb - - - | G - - - | G - - - | Dm - - - | Dm - - - | C - - - | C - - - | Bb - - - | Bb - - - | G - - - | G - - - |</chords>
+  <melody>| 0 - 1/ 2/ 3/ 5/( | 5) - - - | 0 - 4/ 3/ 2/( 1/) | 2( 3/) 2/( 2) - | 0 - 1/ 2/ 3/ 5/( | 5) - - - | 0 - 6/ 5/ 4/( 3/) | 2( 3/) 2/( 2) - (break) | 6_. 1 7_./ 1/ 2 | 3 - - - | 6_. 1/ 1/ 7_./( 1/) 2 | 3 - 2. 4/ | 3( - - - | 3) - - - (break) | 0 - 1/ 2/ 3/ 5/( | 5) - - - | 0 - 4/ 3/ 2/ 1/ | 2( 3/) 2/( 2) - | 0 - 1/ 2/ 3/ 5/( | 5) - - - | 0 - 6/ 5/ 4/ 3/ | 2( 3/) 2/( 2) - (break) | 6_. 1 7_./ 1/ 2 | 3 - - - | 6_. 1/ 1/ 7_./( 1/) 2 | 3 - 2. 4/ | 3( - - - | 2)( - - - (break) | 2) - 0 (Chorus) 5/ 5/ | 6( - - - | 6) - - 4/ 2/ | 4.( 3/)( 3)( - | 3) - 0/ 3/ 4 | 4( - - - | 4) - 0/ 4/ 5 | 5( - - - (break) | 5) - - 5/ 5/ | 6( - - - | 6) - - 4/ 2/ | 4. 3/( 3)( - | 3) - 0/ 3/ 4 | 4( - - - | 4) - 0/ 4/ 5 | 5( - - - | 5) - - - |</melody>
+  <layout>
+    <singingstanza>So ma -- ny times I was in weak -- ness; I re -- al -- ize that was my blind -- ness. I'm be -- gin -- ning to see All that the Tri -- une God is to me. Wast -- ing my time look -- ing at my poor -- ness; Now my heart's eyes can be -- hold His great -- ness. I'm en -- light -- ened to see All of the Tri -- une God is to me. I be -- lieve, so I speak. I am strong, I have power. I be -- lieve, Oh Lord, A -- men! I am strong, I have power.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">2 Corinthians 4:13</link>
+    <link type="ref">Psalms 116:10</link>
+  </links>
+  <music>
+    <midi location="lb" length="84">lb54.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">So many times I was in weakness;
+I realize that was my blindness.
+I'm beginning to see
+All that the Triune God is to me.</stanza>
+    <stanza type="verse" number="2">Wasting my time looking at my poorness;
+Now my heart's eyes can behold His greatness.
+I'm enlightened to see
+All of the Triune God is to me.</stanza>
+    <stanza type="chorus" number="">I believe, so I speak.
+I am strong, I have power.
+I believe, Oh Lord, Amen!
+I am strong, I have power.</stanza>
+    <stanza type="verse" number="3">All of God's power for His creation,
+And all His might in incarnation,
+Strength to be crucified
+Which by the power of God was supplied.</stanza>
+    <stanza type="verse" number="4">And His great power in resurrection,
+He wrought in Christ, even ascension!
+All things He has subdued
+Under His feet, by power overruled.</stanza>
+    <stanza type="verse" number="5">Now in the church, in God's transmission,
+All that He is, to His destination,
+Here constantly receive.
+He is dispensed to us who believe.</stanza>
+    <stanza type="verse" number="6">The Triune God is now transmitting
+Himself, this power, us energizing,
+In us He is installed;
+This dynamo within, the Triune God!</stanza>
+  </lyrics>
+</hymn>

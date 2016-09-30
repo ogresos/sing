@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deixe o mundo pra ganhar</title>
+  <index>true</index>
+  <category>Satisfeitos Com Ele</category>
+  <numbers><cebuano num="1025"/><chinese num="437"/><english num="1025"/><german num="1025"/><korean num="437"/><portuguese num="300"/><russian num="171"/><spanish num="274"/><tagalog num="1025"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1. ._3/ ._2/ ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <music>
+	<midiref type="h" num="1025"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Deixe o mundo pra ganhar
+Cristo Jesus no coração.
+Fora de Cristo, que buscar?
+Sem Ele, tudo o mais é vão!</stanza>
+	<stanza type="chorus" number="">Tão rico e tão pleno Ele é,
+Toda carência suprirá!
+Cristo é tão bom, tão doce é,
+Todo desejo excederá!</stanza>
+	<stanza type="verse" number="2">Deixe o mundo pra ganhar
+Cristo, que o satisfará.
+Quando tal Glorioso tocar,
+Nada além desejará.</stanza>
+	<stanza type="verse" number="3">Grande o mundo pode ser,
+Pequeno é seu coração;
+O mundo com o seu prazer
+Não pode encher seu coração.</stanza>
+	<stanza type="verse" number="4">Cristo possuir, que gozo é!
+Sem Ele, só resta o sofrer.
+Sem Cristo, a noite escura é;
+Com Ele há sempre o alvorecer!</stanza>
+  </lyrics>
+</hymn>

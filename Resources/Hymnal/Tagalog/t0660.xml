@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>H'wag kang mabalisa, Poon malapit</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;UPANG HINDI MAGING BALISA</category>
+  <numbers><chinese num="481"/><english num="660"/><korean num="481"/><tagalog num="660"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="660"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">H'wag kang mabalisa, Poon malapit,
+H'wag matinag sa pangako'y manalig;
+Di ka dapat matisod ni mabigo,
+Baka ngayon na ang dating ni Kristo.</stanza>
+    <stanza type="chorus" number="">2H'wag kang mabalisa, magtiwala ka,
+Sala mo'y pasan Niya, lungkot lalo na;
+Maging malaya't magpatotoo ka
+Anong lakas Niya't puspos ng pagsinta!</stanza>
+    <stanza type="verse" number="3">H'wag kang mabalisa, kung m'antala Siya,
+Lakas Niya'y iyong tustos, laging kasama;
+Bisig Niya't Espiritu, iyong sandalan,
+Huwag mangamba 'pagkat Siya'y maasahan.</stanza>
+  </lyrics>
+</hymn>

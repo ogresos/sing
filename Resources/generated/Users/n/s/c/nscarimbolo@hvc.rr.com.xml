@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Nicholas</firstname>
+    <lastname>Scarimbolo</lastname>
+    <email>nscarimbolo@hvc.rr.com</email>
+    <password>aDK3n91ah6PC5UEglX%2FbHA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>98.15.144.107</ipaddress>
+    <createdate>2010-02-18 09:10:08</createdate>
+    <lastupdateddate>2012-02-22 22:39:52</lastupdateddate>
+    <lastlogindate>2012-02-22 22:39:52</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+        <fav category="default" type="h" num="672">Not what I am, O Lord, but what Thou art</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+    </favourites>
+</user>

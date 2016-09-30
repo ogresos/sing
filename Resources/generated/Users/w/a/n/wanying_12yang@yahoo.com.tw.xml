@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Sally</firstname>
+<lastname>Yang</lastname>
+<email>wanying_12yang@yahoo.com.tw</email>
+<password>$1$uMTdWoYF$9K8Vb4RCeYirYwWFm1O7Z/</password>
+<gender>F</gender>
+<country>Taiwan</country>
+<ipaddress>220.139.222.157</ipaddress>
+<createdate>2008-11-05 09:45:30</createdate>
+<lastupdateddate>2009-09-15 18:26:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="292">A debtor to mercy alone</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="41">We are never weary singing our eternal song</fav>
+        <fav category="default" type="h" num="1">Glory be to God</fav>
+        <fav category="default" type="h" num="62">Dear Lord Jesus, we adore Thee</fav>
+        <fav category="default" type="h" num="359">O Light of light, shine in</fav>
+        <fav category="default" type="h" num="1146">Let us eat Jesus every day</fav>
+        <fav category="default" type="h" num="1173">Grant us the vision clear to see</fav>
+        <fav category="default" type="ch" num="130">哦主你愛何等深廣</fav>
+        <fav category="default" type="ch" num="134">你的大愛過於人所</fav>
+    </favourites>
+</user>

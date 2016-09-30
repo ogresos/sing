@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kung ang aking landas</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGSASALAMUHA KAY KRISTO</category>
+  <numbers><cebuano num="377"/><chinese num="282"/><english num="377"/><german num="377"/><korean num="282"/><russian num="214"/><tagalog num="377"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5 - - 5 4 3 | 3 - 2 - 0 - | 4 - - 4 3 2 | 3 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 5 4 3 - 2 - | 1 - - - - - (break) | 7 - - 7 6 5 | 5 - 4# - 0 - | 6 - - 6 5 4# | 5 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 1 2 3 - 2 - | 1 - - - - - |</melody>
+  <music>
+	<midiref type="h" num="176"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kung ang aking landas
+Sa krus ang punta;
+Kung daan Iyong pili
+Hatid ay dusa;
+Aking ninanais
+Nitong kapalit,
+Ang pagsalamuha
+Na mas matalik.</stanza>
+	<stanza type="verse" number="2">Kung panlupa'y konti,
+'Langit dagdagan;
+'Spiritu'y pupuri,
+Puso ma'y saktan.
+Kung panlupang buklod
+Nais Mong put'lin,
+Hayaang tumamis
+Ugnayan natin.</stanza>
+	<stanza type="verse" number="3">Daan ma'y may lumbay
+Pasayahin Mo;
+Maging kasama ko,
+Sa lupang ito.
+Di makasarili,
+Mamuhay ako;
+Maging 'sang daluyan
+Ng biyaya Mo.</stanza>
+  </lyrics>
+</hymn>

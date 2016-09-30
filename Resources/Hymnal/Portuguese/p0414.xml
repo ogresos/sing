@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Defensor, em Ti nós descansamos</title>
+  <index>true</index>
+  <category>Em Fé</category>
+  <numbers><english num="881"/><portuguese num="414"/></numbers>
+  <creators>
+    <author biodate="1872-1897" biolink="">Translated from Edith Gilling Cherry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="881"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ó Defensor, em Ti nós descansamos,
+Sozinhos, não há como triunfar;
+És nossa força, nossa terna guarda,
+Descanso és, Teu Nome força dá.</stanza>
+    <stanza type="verse" number="2">Ó Capitão da Salvação, Teu Nome
+Acima está de todos os demais;
+Justiça nossa, firme Fundamento,
+És Rei de amor e Príncipe da Paz.</stanza>
+    <stanza type="verse" number="3">Por fé marchar, embora sendo fracos,
+Carentes de mais graça desfrutar,
+Porém, em nós, ressoa um triunfo;
+Descanso és, Teu Nome força dá.</stanza>
+    <stanza type="verse" number="4">Ó Defensor, em Ti nós descansamos:
+Teu é o combate, Teu será o louvor,
+Quando, reinando em Teu Reino em glória,
+Descansaremos sempre em Ti, Senhor.</stanza>
+  </lyrics>
+</hymn>

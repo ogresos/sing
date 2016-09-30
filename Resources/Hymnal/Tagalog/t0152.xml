@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kay lalim ng pag-ibig Mo</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAG-IBIG</category>
+  <numbers><cebuano num="152"/><chinese num="130"/><english num="152"/><french num="27"/><german num="152"/><korean num="130"/><portuguese num="79"/><russian num="31"/><spanish num="76"/><tagalog num="152"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - (break) | 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - (break) | 3 - {1( 2 3)} 2 - 2 - | 1 - {6_.( 7_. 1)} 7_. - 7_. - | 6_. - {6_.( 7_. 1)} 2 - 2 - | 1 - {2( 1 2)} (.3 - - - (break) | 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - |</melody>
+  <music>
+	<midiref type="h" num="152"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kay lalim ng pag-ibig Mo,
+Lawak di ko matanto!
+Higit kaysa dagat lalim,
+Umabot pa sa akin.
+Sarili Mo'y ibinigay,
+Upang Kita'y mataglay.
+Ako'y nakahugpong sa Iyo,
+Sangkap ng Katawan Mo.</stanza>
+	<stanza type="verse" number="2">Di-mabigkas kay dakila,
+Sa akin Iyong nagawa!
+Sa akin Ka nakiisa
+At nakihalo Ka pa.
+Ibinigay Sarili Mo
+Upang maging tustos ko;
+Tuwing Kita matamasa'y
+Ikaw ang Siyang mabuhay.</stanza>
+	<stanza type="verse" number="3">In'hayag ng pag-ibig Mo -
+Ang pagka-Diyos Mong buo,
+Kahulugan ng buhay ko,
+Sa akin Ka mamuno.
+Ikaw ang buhay at lakas,
+Pag-ibig Mo'y dinanas,
+Ako ang tagapagmana
+Ng ganap Mong biyaya.</stanza>
+	<stanza type="verse" number="4">Di mawalay Ka sa akin,
+Ako'y Iyong mamahalin,
+Pag-ibig walang-kapantay,
+Kata'y pinag-uugnay!
+Pag-ibig Mo'y papurihan
+At pasasalamatan!
+Ikaw ay akin, ako'y Iyo
+Dakila'ng pag-ibig Mo.</stanza>
+  </lyrics>
+</hymn>

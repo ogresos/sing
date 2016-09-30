@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pete</firstname>
+  <lastname>Turner</lastname>
+  <email>pj.turner@hotmail.co.uk</email>
+  <password>$2y$10$wsI2BTUtyz/ytBkNcW7rd.TjLE6d5KQxE3fclgv7K2p0wfzxKGiUu</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>95.144.34.0</ipaddress>
+  <createdate>2016-03-16 20:16:15</createdate>
+  <lastupdateddate>2016-03-16 20:40:18</lastupdateddate>
+  <lastlogindate>2016-03-16 20:17:50</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+  </favourites>
+</user>

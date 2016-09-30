@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>只要是你道路</title>
+  <index>true</index>
+  <category>羨慕－主的引領</category>
+  <numbers><chinese num="295"/><english num="393"/><korean num="295"/><tagalog num="393"/></numbers>
+  <creators>
+	<author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <melody>| 0 - - 5 | 5 ._1 ._1 ._2 | ._1( - 7) ._1 | ._2 ._1# ._2 ._2# (break) | ._3 - - 5 | 5 ._1 ._1 ._3 | ._2 ._3 ._4 ._2 | ._1 - 7 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>只 要 是 你 道 路， 不 論 如 何 黑 暗， 不 管 怎 樣 艱 苦， 求 你 為 我 揀 選。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="393b"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">只要是你道路，
+不論如何黑暗，
+不管怎樣艱苦，
+求你為我揀選。</stanza>
+	<stanza type="verse" number="2">平坦或是崎嶇，
+必定都是上好；
+筆直或是彎曲，
+安息都必引到。</stanza>
+	<stanza type="verse" number="3">不敢自作選擇，
+即可，我也不願；
+求你為我定奪，
+使我腳步不偏。</stanza>
+	<stanza type="verse" number="4">以苦或是以樂，
+我杯由你充滿；
+照你看為最妥，
+禍福為我揀選。</stanza>
+	<stanza type="verse" number="5">為我選擇友人，
+選擇疾病、健康；
+為我選擇責任，
+選擇衰貧、隆昌。</stanza>
+	<stanza type="verse" number="6">事情不論大小，
+不隨我的愛好；
+你是我的引導，
+是我智慧、至寶。</stanza>
+  </lyrics>
+</hymn>

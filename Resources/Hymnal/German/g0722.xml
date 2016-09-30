@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Das Kreuz überwiegt nicht die Gnade</title>
+  <index>true</index>
+  <category>TROST IN TRÜBSAL&amp;mdash;Durch Gnade für Leiden</category>
+  <numbers><cebuano num="722"/><chinese num="523"/><english num="722"/><german num="722"/><korean num="523"/><russian num="474"/><tagalog num="722"/></numbers>
+  <creators>
+	<author biodate="1857-1940" biolink="">Translated from Ballington Booth</author>
+  </creators>
+  <key>C Major</key>
+  <melody>| 0 - - 5 | 5 4#/ 5/ 6 3/ 5/ | 4/ 2.( 2) 2/ 3/ | 4. 5/ 7. 6/ (break) | 5( - 3.) 5/ | ._1 7/ ._1/ ._2 ._1/ 5/ | 7/ 6.( 6) 4/ 6/ | 5. 2/ 4. 2/ (break) | 1 - - 0/ (Chorus) 5/ | 5 4#/ 5/ 6/ 5/ 4#/ 5/ | 3 - - 0/ 5/ | 5 4#/ 5/ 6/ 5/ 4#/ 5/ (break) | 3 - - 5/ ._1/ | ._1/ 7/ 7/ 2/ 4 4/ 6/ | 6/ 5/ 5/ 1/ 3 3/ 3/ | 3 2 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Das Kreuz ü -- ber -- wiegt nicht die Gna -- de, Auch wenn's drückt und mich ab -- schreckt, Der Sturm, den ich fürcht, mich um -- zin -- gelt, Doch Sein Ant -- litz nie ver -- deckt. Das Kreuz ist nicht grö -- ßer als die Gnad, Trotz Sturm seh Sein Ant -- litz auf dem Pfad, Bin zu -- frie -- den, dass ich weiss, Je -- sus hilft auf mei -- ner Reis, Ü -- ber -- wind, emp -- fang den Preis.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="722"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Das Kreuz überwiegt nicht die Gnade,
+Auch wenn's drückt und mich abschreckt,
+Der Sturm, den ich fürcht, mich umzingelt,
+Doch Sein Antlitz nie verdeckt.</stanza>
+	<stanza type="chorus" number="">Das Kreuz ist nicht grösser als die Gnad,
+Trotz Sturm seh Sein Antlitz auf dem Pfad,
+Bin zufrieden, dass ich weiss,
+Jesus hilft auf meiner Reis,
+Überwind, empfang den Preis.</stanza>
+	<stanza type="verse" number="2">Mein Pfad ist trotz Dornen erträglich,
+Seine Krone tat mehr weh;
+Der Kelch, den ich trink, ist nicht bittrer
+Als Er trank in Gethsemane.</stanza>
+	<stanza type="verse" number="3">Das Licht Seiner Liebe scheint heller,
+Wenn's im Leid erhellt die Sicht;
+Die Last meiner Arbeit wird leichter,
+Wenn ich den, der fiel, aufricht.</stanza>
+	<stanza type="verse" number="4">Hab Freude zu tun Seinen Willen,
+Denn Sein Angesicht schau ich;
+Die Trübsal mehr Segen wird bringen,
+Doch in ihr freut Christus mich.</stanza>
+  </lyrics>
+</hymn>

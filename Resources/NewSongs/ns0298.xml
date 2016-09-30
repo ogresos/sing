@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The love of Christ is Christ Himself</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <hymncode>232351716712</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | Am - - - | F - - - | C - - - | F - - - | G - - - | G7 - - - | C - - - | G - - - | F - - - | G - - - | C - - - | G - - - | F - - - | G - - - | Am - - - | Em - - - | F - - - | G - - - | Am - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | Dm7 - - - | G - - - | F - - - | G - - - | Am - - - | Am - - - | F - - - | G - - - | C - - - | C - - - |</chords>
+  <melody>| 2 3( 3) 2/( 3/) | 5. 1/ 7_. 1 | 6_.( - - - | 7_. - 1 2) | 2 3( 3) 5 | 3. 1/ 7 ._1 | 6( - - - | 6.) 7/ 7 ._1 | 5 - - 3 | 5 - - 3 | 5. 5/ 5/ 5/ 6 | 3 1 - - | 6_. - 1 4 | 3 5_.( 5_.) 5_. | 6_.. 1/ 1 4 | 2( - - - | 2) - - - (break) | 0 1/ 1/( 1) 1 | 7_.. 7_./( 7_./) 1/ 2 | 6_.( - - - | 7_.) - - 5_. | 0 1/ 1/( 1) 1 | 7_. - - 5_. | 6_.. 6_./ 6_. 6_. | 7_. - - 1/( 2/) | 3. 3/ 3 3/ 3/ | 5 3( 3) 1 | 6_. - 1 4 | 2 - - 1/ 2/ | 3. 3/ 3 3 | 5 3 - 1 | 6_..( 1/)( 1) 4 | 2 - - 1/ 2/ | 3. 3/( 3) - | 4 4( 4) 1/ 1/ | 4. 4/( 4) 3/( 2/) | 3/( 2.)( 2) 5_. | 6_. 7_./ 1/( 1) 1 | {7_. 7_. 1} {2 1 2} | 3( - - - | 3) - - 5_./ 5_./ | 6_.. 7_./( 7_.) 1 | 7_.. 7_./( 7_./) 1/ 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">The love of Christ is Christ Him -- self. Just as Christ is im -- mea -- sura -- ble, So al -- so is His love; Hence, it is know -- ledge sur -- pass -- ing. Yet we can know it by ex -- per -- ienc -- ing it. When Christ makes His home in our hearts, And when we are full of strength to ap -- pre -- hend With all the saints the di -- men -- sions of Christ And to know by ex -- per -- i -- ence His know -- ledge sur -- pass -- ing love, We will be filled un -- to all the full -- ness of God, Which is the church, the cor -- porate ex -- pres -- sion of God For the ful -- fill -- ment of His in -- ten -- tion.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Ephesians 3:19</link>
+  </links>
+  <music>
+    <midi location="ns" length="95">ns0298.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">The love of Christ is Christ Himself.
+Just as Christ is immeasurable,
+So also is His love;
+Hence, it is knowledge surpassing.
+Yet we can know it by experiencing it.</stanza>
+    <stanza type="chorus" number="">When Christ makes His home in our hearts,
+And when we are full of strength to apprehend
+With all the saints the dimensions of Christ
+And to know by experience His knowledge surpassing love,
+We will be filled unto all the fullness of God,
+Which is the church, the corporate expression of God
+For the fulfillment of His intention.</stanza>
+  </lyrics>
+</hymn>

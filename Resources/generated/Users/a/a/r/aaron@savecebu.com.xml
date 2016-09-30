@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Aaron</firstname>
+<lastname>Fuchs</lastname>
+<email>aaron@savecebu.com</email>
+<password>$1$h6lwPmfe$zQ8nvj/E5OPgoDhBtwRBE/</password>
+<gender>M</gender>
+<country>Philippines</country>
+<ipaddress>120.28.250.113</ipaddress>
+<createdate>2009-06-19 21:45:14</createdate>
+<lastupdateddate>2009-09-15 19:16:46</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+        <fav category="default" type="cb" num="1007">Nahugasan ka ba's dugo's Cordero</fav>
+        <fav category="default" type="cb" num="1006">May tubod nga puno's dugo</fav>
+        <fav category="default" type="cb" num="313">Grasya katingad-an gayud</fav>
+        <fav category="default" type="cb" num="1008">Unsay maghinlo's sala</fav>
+        <fav category="default" type="cb" num="1009">Buot bang mal'was' kabug-at's sala</fav>
+        <fav category="default" type="cb" num="921">L'wasang mangalaglag</fav>
+        <fav category="default" type="cb" num="371">Gikinahanglan Ka</fav>
+        <fav category="default" type="cb" num="1064">Ganahang isugilon</fav>
+        <fav category="default" type="cb" num="441">Tanan itugyan kang Jesus</fav>
+        <fav category="default" type="cb" num="449">Ang buot Mo tumana, Jesus</fav>
+        <fav category="default" type="cb" num="997">Niingong Manlul'was</fav>
+        <fav category="default" type="cb" num="645">O kalag, gikapuyan ka ba</fav>
+        <fav category="default" type="cb" num="1027">Malomong nanawag si Jesus karon&amp;mdash</fav>
+        <fav category="default" type="cb" num="1048">Sa kahimtang, way gisaligan</fav>
+        <fav category="default" type="cb" num="19">Dako ang pagkamatinumanon Mo</fav>
+        <fav category="default" type="cb" num="1058">O nasiak nga Bato</fav>
+        <fav category="default" type="cb" num="382">Labi pa untang maila</fav>
+        <fav category="default" type="cb" num="456">Alang kang Jesus magkinabuhi</fav>
+        <fav category="default" type="cb" num="585">Giyahan N'ya! kabulahan</fav>
+        <fav category="default" type="cb" num="387">Nadungog kong pulong Mo, Ginoo</fav>
+        <fav category="default" type="cb" num="1085">Ngalan&amp;mdash;Kahibudngan</fav>
+        <fav category="default" type="cb" num="70">May ngalang gustong awiton</fav>
+        <fav category="default" type="cb" num="325">Gihidlaw nga makainom</fav>
+        <fav category="default" type="cb" num="333">Wa ko masayud nganong gibutyag</fav>
+        <fav category="default" type="cb" num="530">S'yang kinabuhi, kalipay</fav>
+        <fav category="default" type="cb" num="341">Kon kalinaw's dalan sama sa suba</fav>
+        <fav category="default" type="cb" num="311">Walay naangkon nga di grasya N'ya</fav>
+        <fav category="default" type="cb" num="301">Gitubos&amp;mdash;kalipayng isinggit</fav>
+        <fav category="default" type="cb" num="582">Maglakaw uban N'ya</fav>
+        <fav category="default" type="cb" num="789">Atong higala si Jesus</fav>
+        <fav category="default" type="cb" num="986">Katubsanan gihuman N'ya</fav>
+        <fav category="default" type="cb" num="1070">Naunlod ko sa sala</fav>
+        <fav category="default" type="cb" num="871">Kuyog Cristohanon</fav>
+        <fav category="default" type="cb" num="302">Sukad nga Iyang gitubos</fav>
+        <fav category="default" type="cb" num="309">May pagkabalhin sa akong kinabuhi</fav>
+        <fav category="default" type="cb" num="39">Himayaon ang Dios sa 'yang nabuhat</fav>
+        <fav category="default" type="cb" num="469">Kinsay dapig sa Dios</fav>
+        <fav category="default" type="cb" num="1054">Ay' ko'g labyi, Manluluwas</fav>
+        <fav category="default" type="cb" num="308">Lig-ong pasalig, Jesus ako</fav>
+        <fav category="default" type="cb" num="319">Tuboran Ka's kabulahan</fav>
+        <fav category="default" type="cb" num="701">Manluluwas ko naggiya</fav>
+        <fav category="default" type="cb" num="79">Naghari S'ya's kahitas-an</fav>
+        <fav category="default" type="cb" num="444">Tanan ihalad kang Jesus</fav>
+        <fav category="default" type="cb" num="316">May adlaw nga mopanaw ko</fav>
+        <fav category="default" type="cb" num="886">Atong Dios m'oy lig-ong Salipdanan</fav>
+    </favourites>
+</user>

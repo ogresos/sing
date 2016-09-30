@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Augusto</firstname>
+  <lastname>Sales</lastname>
+  <email>augusto.sales@gmail.com</email>
+  <password>$2y$10$N378UgX1az06PL/FH9HODeUQWvlkL10yfzQeZOVjR6hIWPIgroW22</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>179.218.133.42</ipaddress>
+  <createdate>2015-01-11 19:36:24</createdate>
+  <lastupdateddate>2015-01-11 19:37:18</lastupdateddate>
+  <lastlogindate>2015-01-11 19:37:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

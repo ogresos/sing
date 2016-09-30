@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>沉醉在你愛裡</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:311"/><portuguese num="275"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1333351165</hymncode>
+  <key>Db Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>沉 醉 在 你 愛 裡， 滋 潤 新 鮮， 讓 你 愛 來 浸 透， 遠 比 蜂 蜜 甘 甜！ 你 愛 緊 握 我 手， 引 我 前 行， 我 時 依 你 胸 臆， 飽 嘗 你 愛 情。 我 切 慕， 哦 主， 筵 宴 你 愛 裡， 讓 你 愛 將 我 遮 蔽。 你 以 愛 為 旌 旗─ 你 的 自 己， 你 的 愛 原 與 你 為 一。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0311.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">沉醉在你愛裡，
+滋潤新鮮，
+讓你愛來浸透，
+遠比蜂蜜甘甜！
+你愛緊握我手，
+引我前行，
+我時依你胸臆，
+飽嘗你愛情。
+我切慕，哦主，
+筵宴你愛裡，
+讓你愛將我遮蔽。
+你以愛為旌旗─
+你的自己，
+你的愛原與你為一。</stanza>
+	<stanza type="verse" number="2">你是我至寶愛，
+獨一的你；
+你是我愛對象，
+是的，是你自己。
+若你僅賜救贖，
+和你愛情；
+我知這都不能
+滿足我心靈。
+我切慕，哦主！
+得著你自己；
+我深知一切是你。
+滿帶愛情的你，
+我所追求；
+我惟一的至寶是你。</stanza>
+  </lyrics>
+</hymn>

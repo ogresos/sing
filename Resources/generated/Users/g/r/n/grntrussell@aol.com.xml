@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Grant</firstname>
+  <lastname/>
+  <email>grntrussell@aol.com</email>
+  <password>$2y$10$c9fFERaSLR2oZhxvITTQ8unEFb/FOfcQEczeFz8if0qtOO/SWTBuy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.35.140.241</ipaddress>
+  <createdate>2016-06-21 17:12:12</createdate>
+  <lastupdateddate>2016-06-21 17:14:46</lastupdateddate>
+  <lastlogindate>2016-06-21 17:13:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+  </favourites>
+</user>

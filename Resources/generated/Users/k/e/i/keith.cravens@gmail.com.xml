@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Keith</firstname>
+  <lastname>Cravens</lastname>
+  <email>keith.cravens@gmail.com</email>
+  <password>$2y$10$2o68h8h14CFlzlMfXtKtHuwnS7/EoJTA4K1ZO0ZrppWJtCPMyz1Va</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>70.122.237.147</ipaddress>
+  <createdate>2011-07-03 17:33:42</createdate>
+  <lastupdateddate>2015-10-25 16:08:35</lastupdateddate>
+  <lastlogindate>2015-10-25 16:08:35</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

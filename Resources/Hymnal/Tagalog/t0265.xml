@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa nawisikan ng dugo</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;BILANG UNGGUWENTO</category>
+  <numbers><cebuano num="265"/><chinese num="216"/><english num="265"/><german num="265"/><korean num="216"/><portuguese num="140"/><russian num="310"/><spanish num="120"/><tagalog num="265"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 1 5_. 5_. | 5_. 1 1 7_. | 1 3 6_./( 7_./) 1 | 4 3 3( 2) (break) | 1 4 4 3 | 2 6 6 5 | 5 4 3/( 2/) 1 | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="265"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa nawisikan ng dugo,
+Nanatili, ungguwento;
+Diyos, tao nagsalamuha,
+Ugnayan, napreserba.</stanza>
+	<stanza type="verse" number="2">Dugo'y tanda ng pagtubos,
+Sala'y nilinis lubos;
+Ungguwento'y 'Spiritu naman,
+Nang Diyos ating makamtan.</stanza>
+	<stanza type="verse" number="3">Dugo'y hayag gawa ng Diyos,
+Unggwento sa 'tin ang Diyos;
+Sa Kanyang gawa't persona,
+Sa atin nahalo Siya.</stanza>
+	<stanza type="verse" number="4">Sa paglinis ng dugo Niya,
+Napatawad ang sala;
+Sa pagpahid ng 'Spiritu
+Tamasa ko'y Diyos Mismo.</stanza>
+	<stanza type="verse" number="5">Sa paglinis at pagpahid,
+Diyos kaisa kong lagi;
+Sa dugo at sa ungguwento,
+Diyos bahagi kong buo.</stanza>
+	<stanza type="verse" number="6">Sa pananalig angkin ko,
+Paglilinis ng dugo;
+Nang mamuhay kasama N'ya,
+Sa pagpahid tum'lima.</stanza>
+	<stanza type="verse" number="7">Diyos kilanlin at danasin,
+Liwanag, pag-ibig din;
+Bilang lahat Siya'y tamasa,
+Ti-yak Diyos ang kaisa.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Shepherding in Love</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Shepherd</category>
+  <numbers><chinese num="ts:344"/><english num="ns:359"/></numbers>
+  <hymncode>3455176542342543</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | Dm - G7 - | C - - - | C - - - | Dm - - - | F - G7 - | C - - - | C - - - | F - - - | D - D7/F# - | G - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 3/ 4/ | 5( - 5/) 5/ ._1/ 7/ | 6. 5/ 4 2/ 3/ | 4( - 4/) 2/ 5/ 4/ (break) | 3 - - 3/ 4/ | 5( - 5/) 5/ 3/ 5/ | 4 - - 2/ 3/ | 4( - 4/) 4/ 3/ 2/ (break) | 1 - - 5/ 5/ | ._1( - ._1/) ._1/ 5/ 3/ | 6 - - 6/ 6/ | ._2( - ._2/) ._1/ ._2/ ._1/ (break) | 7( - 7/) 7/ 6/ 5/ | ._3( - ._3/) ._3/ ._2/ ._1/ | 6 - - 6/ 6/ | 5( - 5/) 5/ ._1/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Me He sought, a lost and wand -- 'ring lamb, Me He bought, His life out -- poured; I re -- ceive His life di -- vine, Know, en -- joy Him ev -- er -- more. O my Lord, how I love Thee! I can't help but sink in Thee! By such great love I'm moved, con -- strained, All my life I give to Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 23</link>
+  </links>
+  <music>
+    <midi location="ns" length="42">ns0359.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Me He sought, a lost and wand'ring lamb,
+Me He bought, His life outpoured;
+I receive His life divine,
+Know, enjoy Him evermore.
+O my Lord, how I love Thee!
+I can't help but sink in Thee!
+By such great love I'm moved, constrained,
+All my life I give to Thee.</stanza>
+    <stanza type="verse" number="2">You're so sweet, my brook, my pasture green,
+Waking me, to righteous paths,
+'Tis by faith that I'm empow'red
+To live out Thy righteousness.
+Though the world would bring me woe,
+Tide of age would ebb and flow,
+Yet, Lord, Thy love cannot be swayed,
+In Thy care, no lack I know.</stanza>
+    <stanza type="verse" number="3">When my sense of Thy dear presence fades,
+When I lose all touch with Thee,
+Though my heart is caught in doubt,
+Rod and staff, they comfort me.
+Life by faith, I surely know,
+Shepherd leads me as I go
+Here as I feast before my foes,
+Cup of blessing overflows.</stanza>
+    <stanza type="verse" number="4">Foll'wing Thee, Good Shepherd, I would feed,
+Shepherd those allotted me,
+E'er I'd touch Thy heart's desire,
+Live in Thine economy.
+O my Lord, All thanks to Thee!
+Goodness, mercy follow me;
+I'd ever dwell within Thy house,
+As Thy Body glorious!</stanza>
+  </lyrics>
+</hymn>

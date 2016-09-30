@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoo'y dumaraan</title>
+  <index>true</index>
+  <category>DIBINONG PAGPAPAGALING&amp;mdash;SA PAMAMAGITAN NG ISANG HIPO</category>
+  <numbers><chinese num="550"/><english num="759"/><korean num="550"/><tagalog num="759"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Birdie Bell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="759"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panginoo'y dumaraan,
+Laksang tao nagsiksikan;
+Isang hipo lang sa Kanya,
+Napagaling agad siya!</stanza>
+    <stanza type="chorus" number="">Pagdaan Niya, iyong hipuin,
+Karamdama'y papawiin.
+Halikayo Siya ay hipuin,
+Kayo'y mapapagaling.</stanza>
+    <stanza type="verse" number="2">Isang hipo nalutas na,
+Walang takot, may payapa;
+Kabigatan nabitiwan
+Wala nang karamdaman.</stanza>
+    <stanza type="verse" number="3">Isang hipo, naganap na,
+Sakit ko napagaling na;
+Walang hanggang papurihan,
+Siyang naging kalutasan.</stanza>
+    <stanza type="verse" number="4">Isang hipo, bumaling Siya,
+Mata Niya'y puno'ng pagsinta,
+Salamat inaliw ako,
+Pinagaling na ako.</stanza>
+    <stanza type="verse" number="5">Isang hipo, gumaling na,
+Pagalingin ka, kaya Niya;
+Isang hipo, tanang sakit
+Mawawalan ng kapit.</stanza>
+  </lyrics>
+</hymn>

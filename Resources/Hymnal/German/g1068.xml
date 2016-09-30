@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Er suchte mich voll Liebe</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Zeugnis</category>
+  <numbers><cebuano num="1068"/><chinese num="737"/><english num="1068"/><french num="206"/><german num="1068"/><korean num="737"/><portuguese num="466"/><russian num="180"/><spanish num="489"/><tagalog num="1068"/></numbers>
+  <creators>
+	<author biodate="1850-1906" biolink="">Translated from William Spencer Walton</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 5_. 1/ 1 2/ | 1. 7_. 1/ | 2 1#/ 2 3/ (break) | 1.( 1) 5_./ | 5_. 3/ 3 4/ | 3. 2 2/ | 2 7_./ 1 6_./ (break) | 5_..( 5_.) 5_./ | 4 4/ 3 3/ | 2 2/ 1 1/ | 6_. 6_./ 2 1/ | 7_.. 6_.. | 5_..( (.5_..) (break) | (Chorus) 5_. 1/ 1 2/ | 1. 7_.. | 5_. 2/ 2 3/ | 2. 1. (break) | 3 4/ 5 3/ | 4 2/ 3 1/ | 2.( 2.) | 3 5/ 4 2/ | 1 1/ 7_. 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>Er such -- te mich voll Lie -- be, War tief in Sün -- den drin, Mich trug auf Sei -- nen Schul -- tern  Zu Sei -- ner Her -- de hin. Die En -- gel -- schar bei Ihm, die singt, So dass es wohl im Him -- mel klingt. Lie -- be, die mich such -- te! Blut, das mich er -- kauf -- te! Gna -- de brach -- te mich zur Her -- de hin, Gna -- de brach -- te mich zur Her -- de hin!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1068"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Er suchte mich voll Liebe,
+    War tief in Sünden drin,
+Mich trug auf Seinen Schultern 
+    Zu Seiner Herde hin.
+Die Engelschar bei Ihm, die singt,
+So dass es wohl im Himmel klingt.</stanza>
+	<stanza type="chorus" number="">Liebe, die mich suchte!
+Blut, das mich erkaufte!
+Gnade brachte mich zur Herde hin,
+Gnade brachte mich zur Herde hin!</stanza>
+	<stanza type="verse" number="2">Er wusch die Sündenwunden,
+    Goss Öl darauf und Wein;
+Versprach mir sanft und flüsternd:
+    „Ich fand dich, du bist Mein:“
+Wie süß doch Seine Stimme klingt,
+Mein wehes Herz zum Singen bringt.</stanza>
+	<stanza type="verse" number="3">Er zeigte Nägelmale,
+    Vergoss für mich Sein Blut,
+Die Spötterkrone, dornig,
+    Trug Er für mich, wie gut:
+Welch Todesqual, so fürchterlich,
+Erlitt Er dort am Kreuz für mich.</stanza>
+	<stanza type="verse" number="4">Ich sitz vor Ihm und schaue
+    Sein helles Angesicht,
+Und staune, wie viel Segen
+    Erstrahlt in Seinem Licht.
+Zum Lobpreis Seiner Herrlichkeit
+Scheint viel zu kurz die Ewigkeit.</stanza>
+	<stanza type="verse" number="5">Wenn Stunden nun vergehen,
+    In Ihm zur Ruhe kam;
+Wart auf den hellsten Morgen,
+    Auf meinen Bräutigam.
+An Seine Seite, so vertraut,
+Ruft Er uns, Seine reine Braut.</stanza>
+  </lyrics>
+</hymn>

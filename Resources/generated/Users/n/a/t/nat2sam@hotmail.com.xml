@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>natalia</firstname>
+<lastname>bayton</lastname>
+<email>nat2sam@hotmail.com</email>
+<password>$1$hVNyzrAo$9lcmWMmT2SiWOan.IM3eD.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>75.10.158.166</ipaddress>
+<createdate>2008-09-07 11:47:18</createdate>
+<lastupdateddate>2009-09-15 18:25:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="nt" num="0789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主耶穌我的心向</title>
+  <index>true</index>
+  <category>讚美主－祂的配得</category>
+  <numbers><cebuano num="180"/><chinese num="148"/><english num="180"/><german num="180"/><korean num="148"/><portuguese num="90"/><russian num="346"/><spanish num="84"/><tagalog num="180"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 6/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - (break) | (Chorus) 2 2./ 3// 4/ 4 0/ | 3 3./ 4// 5/ 5 0/ | 5 4#./ 5// 6/( 7/) ._1/ ._1/ | 7 6./ 6// 5 - (break) | 5 4#./ 5// ._1 5/ 3/ | 5 4./ 2// 4/ 3. | 6 7./ 7// ._1 5/ 4/ | 3 2./ 1// 1 - |</melody>
+  <layout>
+	<singingstanza>哦 主 耶 穌， 我 的 心 向 著 寶 座， 何 等 喜 樂， 向 你 獻 上 讚 美！ 因 著 蒙 福， 我 敬 拜， 我 也 述 說， 承 認 你 配， 惟 有 你 真 是 配。 主， 你 真 是 配！ 主， 你 真 是 配！ 讚 美， 因 為 惟 有 你 真 是 配！ 因 著 蒙 福， 我 敬 拜， 我 也 述 說 你 的 榮 耀， 因 為 你 真 是 配。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="180"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主耶穌，我的心向著寶座，
+何等喜樂，向你獻上讚美！
+因著蒙福，我敬拜，我也述說，
+承認你配，惟有你真是配。</stanza>
+	<stanza type="chorus" number="">主，你真是配！主，你真是配！
+讚美，因為惟有你真是配！
+因著蒙福，我敬拜，我也述說
+你的榮耀，因為你真是配。</stanza>
+	<stanza type="verse" number="2">你這神人，是真神，又是真人，
+低於天使，為我們作犧牲；
+女人後裔，曾如何親臨囂塵，
+敗壞古蛇，傷其頭，踏其身！</stanza>
+	<stanza type="verse" number="3">創造的主，竟然被受造的人
+釘十字架，你是如何降卑！
+你不自救，被神棄又被人恨！
+你不退縮，經黑暗，喝苦杯！</stanza>
+	<stanza type="verse" number="4">接戰死亡，你如何退其狂瀾，
+榮耀得勝，全得勝，大得勝！
+思念及此，怎能不歌頌彌漫！
+陰府的門，到如今全潰崩。</stanza>
+  </lyrics>
+</hymn>

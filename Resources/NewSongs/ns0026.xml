@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O the joy of having nothing</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;His Overflowing Satisfaction</category>
+  <numbers><english num="ns:26"/></numbers>
+  <creators>
+    <author biodate="1800-1882" biolink="www.johndarby.org">John Nelson Darby</author>
+  </creators>
+  <hymncode>1233455334554</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | F - Dm - | G - - - | F - G7/F - | Em - Am - | Dm - F - | G - - - | F - G7 - | C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | G - - - | F - - - | G - - - | C - - - | Am - - - | F - Dm - | G - - - | F - G7/F - | Em - Am - | Dm - F - | G - - - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3( - 3/) 3/ 4/ 5/ | 5/ 3.( 3/) 3/ 4/ 5/ | 5/ 4.( 4) 4/ 5/ | 5/ 2.( 2) 1/ 1/ (break) | 6 6 2 3/( 4/) | 5( 3/ 2/) 1 2/ 3/ | 4 4/ 4/ 4 3 | 2 - 2 3 | 2/ 1.( 1) 2 (break) | 1 - - 1/ 1/ | 6 - - 6 | 6 5 - 4 | 3( - - 5 | 1) - - 1/ 1/ (break) | 6 - - ._1 | 7 5 - 3 | 5( - 5/) 3/ 5/ 3/ | 2 - 3 2 | 1( - - - (break) | 2) - - 1/ 2/ | 3( - 3/) 3/ 4/ 5/ | 5/ 3.( 3/) 3/ 4/ 5/ | 5/ 4.( 4) 4/ 5/ | 5/ 2.( 2) 1/ 1/ (break) | 6 6 2 3/( 4/) | 5( 3/ 2/) 1 2/ 3/ | 4 4/ 4/ 4 3 | 2 - 2 3 | 2/ 1.( 1) 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>O the joy of hav -- ing noth -- ing and be -- ing noth -- ing, see -- ing noth -- ing But a liv -- ing Christ in glo -- ry, And be -- ing care -- ful for noth -- ing but His in -- terests down here. Whom have I in heav -- en but Thee? And there is none up -- on the earth that I de -- sire be -- side Thee. O the joy of hav -- ing noth -- ing and be -- ing noth -- ing, see -- ing noth -- ing But a liv -- ing Christ in glo -- ry, And be -- ing care -- ful for noth -- ing but His in -- terests down here.</singingstanza>
+  </layout>
+  <notes>Abridged version.</notes>
+  <links>
+    <link type="group">group004.xml</link>
+    <link type="group">ot_psa73.xml</link>
+    <link type="ref">Psalms 73:25</link>
+  </links>
+  <music>
+    <midi location="ns" length="63">ns0026.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O the joy of having nothing and being nothing, seeing nothing
+But a living Christ in glory,
+And being careful for nothing but His interests down here.
+Whom have I in heaven but Thee?
+And there is none upon the earth that I desire beside Thee.
+O the joy of having nothing and being nothing, seeing nothing
+But a living Christ in glory,
+And being careful for nothing but His interests down here.</stanza>
+  </lyrics>
+</hymn>

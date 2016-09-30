@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Andrew</firstname>
+  <lastname>Martin</lastname>
+  <email>amart94@live.com.au</email>
+  <password>$2y$10$K8KmvwbG0/NV1twuHYuT9uRpf.oWYRc/na8d.Xs3pAVkX.Oa.2f2C</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>58.96.41.100</ipaddress>
+  <createdate>2015-05-14 23:28:29</createdate>
+  <lastupdateddate>2015-05-14 23:30:42</lastupdateddate>
+  <lastlogindate>2015-05-14 23:30:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

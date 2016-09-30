@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Oh, Lord Jesus</firstname>
+    <lastname>I love You.</lastname>
+    <email>yiminjohn@gmail.com</email>
+    <password>$1$12TGzset$nnbMqYpArRowq1ToKdeaG1</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>98.195.190.247</ipaddress>
+    <createdate>2008-09-21 17:41:09</createdate>
+    <lastupdateddate>2009-11-21 22:25:48</lastupdateddate>
+    <lastlogindate>2009-11-21 22:25:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="ns" num="27">Oh! the joy</fav>
+        <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+    </favourites>
+</user>

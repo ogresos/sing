@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Antonette</firstname>
+  <lastname/>
+  <email>antonettemiranda114@gmail.com</email>
+  <password>$2y$10$AIQLvFFtbN0erXquxaIybuxNW.wLlIERWlFD6wwBnGBzmOHa/svAC</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>122.2.111.204</ipaddress>
+  <createdate>2015-05-20 05:28:54</createdate>
+  <lastupdateddate>2015-05-20 05:48:48</lastupdateddate>
+  <lastlogindate>2015-05-20 05:37:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="108">Crazy lovers of Jesus</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+    <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+  </favourites>
+</user>

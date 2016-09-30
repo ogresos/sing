@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>О Боже, Ты призвал нас</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО ИСКУПЛЕНИЕ</category>
+  <numbers><cebuano num="42"/><chinese num="41"/><english num="42"/><german num="42"/><korean num="41"/><portuguese num="31"/><russian num="502"/><tagalog num="42"/></numbers>
+  <creators>
+	<author biodate="1813-1856" biolink="">Translated from Mary Bowley Peters</author>
+  </creators>
+  <melody>| 0 - - 5 | 5. 6/ 5 3 | 5 - 4 4 | 4 6 5 2 | 3 - - 5 (break) | 5. 6/ 7 ._1 | 5 - 3 1 | 3 2 1 7_. | 1 - - 3 (break) | 2 3 4 6 | 6 - 5 5 | 6 6 ._2 ._1 | 7 - - 6/( 5/) (break) | ._1 3 4 6 | 6 - 5 1 | 3 2 1 7_. | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="42"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">О Боже, Ты призвал нас –
+    На Сына смотрим мы:
+Твою свершил Он волю,
+    Твоей отрадой был.
+В одном бесценном даре
+    Из лона Твоего
+Твоё спасенье видим
+    И всю Твою любовь.</stanza>
+	<stanza type="verse" number="2">Бог милости, Отец наш!
+    Нам в имени Христа
+Дано надежд сиянье,
+    Наследья полнота.
+Оно звучит так сладко
+    Для слуха Твоего;
+Вину и страх изгнало
+    Навек из нас оно.</stanza>
+	<stanza type="verse" number="3">Трепещет грешник в страхе,
+    Что всё запомнит Бог,
+Но был уплачен выкуп,
+    И Он забыл весь долг.
+Ничто освободить нас
+    Иное не могло,
+Возлюбенного Сына
+    Распятье нас спасло.</stanza>
+	<stanza type="verse" number="4">Нет гнева в Божье сердце
+    На тех, кто верить стал,
+В Его любви великой
+    Весь страх у нас пропал.
+Целуя нас, Он дарит
+    Свою одежду нам,
+Любовь Свою являя
+    Вернувшимся сынам.</stanza>
+  </lyrics>
+</hymn>

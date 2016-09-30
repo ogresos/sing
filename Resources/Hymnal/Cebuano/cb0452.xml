@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ay'g sultii's kalipayan</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;IYA NA SA GINOO</category>
+  <numbers><cebuano num="452"/><chinese num="341"/><english num="452"/><korean num="341"/><portuguese num="207"/><russian num="262"/><tagalog num="452"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="452"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ay'g sultii's kalipayan,
+Tintala ba's salapi;
+Ay'g lipatlipata's yuta,
+Sungoga's kawang dungog.
+Nalutas na's mga diosdios;
+Di na ko's kaugalingon,
+Kasingkasing gihatag na,
+Maiya ni Jesus ra.</stanza>
+    <stanza type="chorus" number="">Di na ako sa
+Kaugalingon,
+Iya na karon kang Jesus,
+Hangtud's dayon.</stanza>
+    <stanza type="verse" number="2">Iya ra gayud ni Cristo,
+Dala ni'ni pahulay;
+Diha's paghalad ko's tanan,
+Kadato N'ya kadangpan.
+Dawata ko, O Ginoo,
+Maimoha sa hingpit,
+Aron mahimong angayan,
+Tawgon nga Ikaw ako.</stanza>
+    <stanza type="verse" number="3">Ayaw na lang pakigbisug,
+Di na ka's kaugalingon,
+Kaugalingon ihalad N'ya,
+Maiya na sa hingpit.
+Nagtugyan S'ya's Kaugalingon,
+Aron ikaw maangkon;
+Tanan Iyang gihatag na,
+Basli S'ya's imong gugma.</stanza>
+  </lyrics>
+</hymn>

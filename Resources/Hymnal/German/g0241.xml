@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Herrlichkeit, Segen und Ehre sei Dir</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Allgemein</category>
+  <numbers><cebuano num="241"/><chinese num="1001"/><english num="241"/><french num="41"/><german num="241"/><portuguese num="92"/><russian num="48"/><spanish num="110"/><tagalog num="241"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <melody>| 5/ 5 5/ 6/ 6 6/ | 5/ 5 3/ 1 3 | 2/ 2 7_./ 5_. 4 | 3/ 3 2/ 1 - (break) | 5/ 5 5/ 6/ 6 6/ | 5/ 5 3/ 1 3 | 2 4 3 2 | 1 - - - (break) | 6 - 6 - | 5 - 5 - | 4. 3/ 4 5 | 3.( 4/) 5 - (break) | 6 - 6 - | 5 - 5 3 | 2 5 4# 6 | 5 4/ 4/ 3 2 (break) | 5/ 5 5/ 6/ 6 6/ | 5/ 5 3/ 1 3 | 2/ 2 7_./ 5_. 4 | 3/ 3 2/ 1 - (break) | 5/ 5 5/ 6/ 6 6/ | 5/ 5 3/ 1 3 | 2 4 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza end="-1">Herr -- lich -- keit, Se -- gen und Eh -- re sei Dir, Und Eh -- re sei Dir, Und Eh -- re sei Dir. Herr -- lich -- keit, Se -- gen und Eh -- re sei Dir, Jetzt und in E -- wig -- keit. Preist Ihn! Preist Ihn! Ihr Er -- lös -- ten preist Ihn! Preist Ihn! Preist Ihn! Jetzt und in E -- wig -- keit. Hal -- le -- lu -- ja! Herr -- lich -- keit, Se -- gen und Eh -- re sei Dir, Und Eh -- re sei Dir, Und Eh -- re sei Dir. Herr -- lich -- keit, Se -- gen und Eh -- re sei Dir, Jetzt und in E -- wig -- keit.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Revelation 5:12-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="241"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Herrlichkeit, Segen und Ehre sei Dir,
+    Und Ehre sei Dir,
+    Und Ehre sei Dir.
+Herrlichkeit, Segen und Ehre sei Dir,
+    Jetzt und in Ewigkeit.</stanza>
+	<stanza type="verse" number="">Preist Ihn! Preist Ihn!
+    Ihr Erlösten preist Ihn!
+    Preist Ihn! Preist Ihn!
+    Jetzt und in Ewigkeit.
+        Halleluja!</stanza>
+	<stanza type="verse" number="">Herrlichkeit, Segen und Ehre sei Dir,
+    Und Ehre sei Dir,
+    Und Ehre sei Dir.
+Herrlichkeit, Segen und Ehre sei Dir,
+    Jetzt und in Ewigkeit.</stanza>
+  </lyrics>
+</hymn>

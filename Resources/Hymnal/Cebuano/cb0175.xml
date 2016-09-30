@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Labing matahum</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAHUM</category>
+  <numbers><cebuano num="175"/><chinese num="143"/><english num="175"/><german num="175"/><korean num="143"/><portuguese num="85"/><russian num="36"/><spanish num="83"/><tagalog num="175"/></numbers>
+  <creators>
+	<author biodate="17th Century" biolink="">Translated from German</author>
+  </creators>
+  <melody>| 1 - 1 1 | 2( 7_.) 1 - | 3. 3/ 3 3 | 4( 2) 3 - | 5 - ._1 6 | 5 - 4( 3) | 4 - 3 - | 2 - - - (break) | 5 - 6 5 | 5( 3) 4 - | 4 - 5 4 | 4( 2) 3 3 | 3 3 5 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="175"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Labing matahum,
+Ginoo sa tanan!
+Ikaw Anak sa Dios ug tawo!
+Ako Kang mahalon,
+Ug akong tahuron,
+Himaya Ka'g korona ko!</stanza>
+	<stanza type="verse" number="2">Lunhawng sibsibanan,
+Kakahoyang katahum!
+Gibistehan's kabulakan;
+Mas matahum's Jesus,
+Labi nga maputli,
+Sa nagsubo nagpaawit!</stanza>
+	<stanza type="verse" number="3">Mahayag ang Adlaw,
+Hayag pa gyud ang Bulan,
+Mga bitoon sa langit;
+Jesus mas mahayag,
+Putli pa'g kahayag,
+Kaysa mapagarbo's anghel!</stanza>
+	<stanza type="verse" number="4">Labing matahum,
+Sa yuta ug langit,
+Diha Kanimo mapalgan;
+Wa nay mas duol,
+Mas tahum, mas mahal,
+Kay sa akong Manluluwas.</stanza>
+  </lyrics>
+</hymn>

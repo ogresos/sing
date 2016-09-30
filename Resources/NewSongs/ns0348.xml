@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Incarnation, human living, crucifixion</title>
+  <index>true</index>
+  <category>Ultimate Manifestation&amp;mdash;God's Eternal Purpose</category>
+  <numbers><english num="ns:348"/><lsmyp num="279"/></numbers>
+  <hymncode>1115444533354445</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | F - - - | C - - - | C - - - | G - - - | G - - - | C - - - | C - - - | C/E - - - | F - - - | F - - - | G7 - - - | C - - - | C - - - | C - - - | G - - - | C - G/B - | Am - C/G - | F - - - | G7 - - - | C - - - | F - - - | C - - - | F - - - | C - - - | C - - - | G - - - | G - - - | C - - - | C - - - | C/E - - - | F - - - | F - - - | G7 - - - | C - - - | C - - - | C - - - | G - - - | C - G/B - | Am - C/G - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| (Verse_1) ._1 ._1 ._1 5 | 4 4 4 5 | 3 3 3 5 | 4 4 4 5 | ._1 ._1 ._1 5 | ._1 ._1 ._1 ._3 | ._2( - - - | ._2) - - - (break) | ._1 ._1 ._1 ._1 | 5 - - 3 | 5 5 5 5 | 6 - - - | 6 6 6 6 | 7 6 5 4 | 5( - - - | 5) - - - (break) | ._1 ._1 ._1 ._1 | ._2 - - - | ._3 ._2 ._1 ._2 | ._1 - - - | ._1 ._1 ._1 ._1 | ._3 ._2 ._1( ._2) (break) | (Verse_2) ._1 ._1/ ._1/ ._1 5 | 4 4/ 4/ 4 5 | 3 3 3 5 | 4 4 4 5 (break) | ._1 ._1 ._1 5 | ._1 ._1/ ._1/ ._1 ._3 | ._2( - - - | ._2) - - - (break) | ._1 ._1 ._1 ._1 | 5 - - 3 | 5 5 5 5 | 6 6 - - (break) | 6 - 6 6 | 7 6 5 4 | 5( - - - | 5) - - - (break) | ._1 ._1 ._1 ._1 | ._2 - - - | ._3 ._2 ._1 ._2 | ._1 - - - (break) | ._1 ._1 ._1 ._1 | ._3 ._2 ._1 ._2 | ._1( - - - | ._1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">In -- car -- na -- tion, Hu -- man liv -- ing, Cru -- ci -- fix -- ion, Re -- sur -- rec -- tion, Be -- came Spir -- it, And as -- cend -- ed man! God be -- came a man Ac -- cord -- ing to God's plan To dis -- pense Him -- self as life to us. He was pro -- cessed thus: Oh, how mar -- vel -- ous! Then like Him we're pro -- cessed through... Re -- gen -- er -- a -- tion, Sanc -- ti -- fi -- ca -- tion, Then re -- new -- ing, Trans -- for -- ma -- tion, Con -- for -- ma -- tion, Glo -- ri -- fi -- ca -- tion&amp;mdash; we Be -- come God in life And na -- ture, not in God -- head Through His or -- gan -- ic sal -- va -- tion. We are pro -- cessed thus: Oh, how glo -- ri -- ous To ex -- press the pro -- cessed Tri -- une God.</singingstanza>
+    <globalstaffsize>16</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <music>
+    <midi location="ns" length="71">ns0348.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Incarnation,
+Human living,
+Crucifixion,
+Resurrection,
+Became Spirit,
+And ascended man!
+God became a man
+According to God's plan
+To dispense Himself as life to us.
+He was processed thus:
+Oh, how marvelous!
+Then like Him we're processed through...</stanza>
+    <stanza type="verse" number="2">Regeneration,
+Sanctification,
+Then renewing,
+Transformation,
+Conformation,
+Glorification&amp;mdash;we
+Become God in life
+And nature, not in Godhead
+Through His organic salvation.
+We are processed thus:
+Oh, how glorious
+To express the processed Triune God.</stanza>
+  </lyrics>
+</hymn>

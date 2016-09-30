@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bismarck</firstname>
+  <lastname/>
+  <email>bismarck.ford@yahoo.com</email>
+  <password>$2y$10$CtBxVDfsBA6/tCmu1AAA7uWeek6PTLJKWqF2w8o8uKk.gaHPsj9ZW</password>
+  <gender/>
+  <country>gh</country>
+  <ipaddress>41.189.160.39</ipaddress>
+  <createdate>2015-04-24 10:10:28</createdate>
+  <lastupdateddate>2015-04-24 10:26:59</lastupdateddate>
+  <lastlogindate>2015-04-24 10:14:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

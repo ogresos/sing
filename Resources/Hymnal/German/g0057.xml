@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ja, Du bist Gottes Bild, oh Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Göttlichkeit</category>
+  <numbers><cebuano num="57"/><english num="57"/><german num="57"/><russian num="199"/><spanish num="34"/><tagalog num="57"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <key>G Major</key>
+  <melody>| 0 - 3_./( 4_./) | 5_. - 5_. | 1 - 3 | 2 - 1 | 6_.( 1) 6_. | 5_. - 5_. | 1 - 3 | 2( - - (break) | 2) - 3/( 4/) | 5 - 3 | 1 - 3 | 2 - 1 | 6_.( 1) 6_. | 5_. - 1 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Ja, Du bist Got -- tes Bild, oh Herr, Den Va -- ter zeigst uns hier, Die gan -- ze Fül -- le der Gott -- heit Leib -- haf -- tig wohnt in Dir.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ja, Du bist Gottes Bild, oh Herr,
+Den Vater zeigst uns hier,
+Die ganze Fülle der Gottheit
+Leibhaftig wohnt in Dir.</stanza>
+	<stanza type="verse" number="2">Herr Jesus, Du bist Gottes Wort,
+In Dir das Leben ist;
+Durch Dich zu uns die Wirklichkeit 
+Und Gnade herrlich fließt.</stanza>
+	<stanza type="verse" number="3">Der Abglanz Gottes Herrlichkeit,
+Und Gottes Sohn bist Du;
+Ja, die Natur des Vaters trägst
+In Dir, Herr, immerzu.</stanza>
+	<stanza type="verse" number="4">Bist die Verkörperung von Gott,
+Bist ewig eins mit Ihm;
+In Dir kommt Gott zum Ausdruck hier,
+Von uns Lobpreis annimm.</stanza>
+	<stanza type="verse" number="5">In Dir genießen wir nun Gott
+Als Leben allezeit;
+Von ganzem Herzen danken wir
+In alle Ewigkeit.</stanza>
+  </lyrics>
+</hymn>

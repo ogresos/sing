@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cindy</firstname>
+  <lastname/>
+  <email>bilzba254@gmail.com</email>
+  <password>$2y$10$im2yhjT9HGKAAQMyeEj1beu3f2hKnkiusSFcISE8zASuqyro2/cxO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>64.91.139.141</ipaddress>
+  <createdate>2015-12-12 02:45:33</createdate>
+  <lastupdateddate>2016-05-02 21:45:46</lastupdateddate>
+  <lastlogindate>2016-04-16 13:49:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="ns" num="190">I want to be filled with the Triune God</fav>
+    <fav category="default" type="h" num="936">In death's waters I am buried</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+  </favourites>
+</user>

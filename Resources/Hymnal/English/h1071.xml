@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sinners Jesus will receive</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <creators>
+    <author biodate="1671-1756" biolink="">Erdmann Neumeister</author>
+    <author biodate="1827-1909" biolink="">Translated by Emma Frances Shuttleworth Bevan</author>
+    <composer biodate="1840-1907" biolink="">James McGranahan</composer>
+  </creators>
+  <meter>7.7.7.7.D.</meter>
+  <hymncode>34563655176543</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - C/E | G - G7/B | C - F/C | C - - | C - C/E | G - G7/B | C - - C7 - - | F - - - - - | C - - Am - - | Dm - - G7 - - | C - - C7 - - | F - - F/A - - | C - - Am - - | Dm - - G7 - - | C. F/C. C. 0. |</chords>
+  <melody>| 0 - 3./ 4// | 5. 6/ 3./ 6// | 5 - 5./ ._1// | 7. 6/ 5./ 4// (break) | 3 - 3./ 4// | 5. 6/ 3./ 6// | 5 - 5./ ._1// | 7. 5/ 6./ 7// (break) | [12/8] ._1( - - ._1.) 3/( 4/) 5/ | 6( - - 6/)( ._1/) ._1/ ._1/( 7/) 6/ | 5( - - 5.) 5/( 6/) 3/ | 5( - - 5) 5/ 5/( 6/) 3/ (break) | 5( - - 5.) 3/( 4/) 5/ | 6( - - 6/)( ._1/) ._1/ ._1/( 7/) 6/ | 5( - - 5.) ._1 ._1/ | ._2.( ._2) ._2/ ._1. 7. | ._1( - - ._1.) 0. |</melody>
+  <layout>
+    <singingstanza>Sin -- ners Je -- sus will re -- ceive; Sound this word of grace to all Who the heaven -- ly path -- way leave, All who ling -- er, all who fall. Sing it o'er and o'er a -- gain; Christ re -- ceiv -- eth sin -- ful men; Make the mes -- sage clear and plain: Christ re -- ceiv -- eth sin -- ful men.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e1071_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sinners Jesus will receive;
+  Sound this word of grace to all
+Who the heavenly pathway leave,
+  All who linger, all who fall.</stanza>
+    <stanza type="chorus" number="">Sing it o'er and o'er again;
+Christ receiveth sinful men;
+Make the message clear and plain:
+  Christ receiveth sinful men.</stanza>
+    <stanza type="verse" number="2">Come, and He will give you rest;
+  Trust Him for His word is plain;
+He will take the sinfulest;
+  Christ receiveth sinful men.</stanza>
+    <stanza type="verse" number="3">Now my heart condemns me not,
+  Pure before the law I stand;
+He who cleansed me from all spot,
+  Satisfied its last demand.</stanza>
+    <stanza type="verse" number="4">Christ receiveth sinful men,
+  Even me with all my sin;
+Purged from every spot and stain,
+  Glory I shall enter in.</stanza>
+  </lyrics>
+</hymn>

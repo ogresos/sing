@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>raphael</firstname>
+<lastname>linsangan</lastname>
+<email>tech77@gmail.com</email>
+<password>$1$tBNj/iJS$zwxRcamWQLttFgTTMja3n1</password>
+<gender>M</gender>
+<country>Philippines</country>
+<ipaddress>124.107.98.172</ipaddress>
+<createdate>2008-10-01 02:24:06</createdate>
+<lastupdateddate>2009-09-15 18:26:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="156">I have a Friend, whose faithful love</fav>
+    </favourites>
+</user>

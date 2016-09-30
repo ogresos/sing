@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Saudai o nome de Jesus</title>
+  <index>true</index>
+  <category>Sua Glória</category>
+  <numbers><english num="137"/><portuguese num="68"/><spanish num="70"/></numbers>
+  <creators>
+    <author biodate="1726-1792" biolink="">Translated from Edward Perronet</author>
+  </creators>
+  <music>
+    <midiref type="h" num="137"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Saudai o nome de Jesus,
+Vós todos vos prostrai;
+À uma, O louvai na luz,
+A Cristo coroai.</stanza>
+    <stanza type="verse" number="2">Remida raça de Adão,
+Não mais em queda e ai,
+Ao grande Autor da salvação,
+A Cristo, coroai.</stanza>
+    <stanza type="verse" number="3">Um Nome só é dado a nós,
+A Ele invocai
+E adorai em alta voz;
+A Cristo coroai.</stanza>
+    <stanza type="verse" number="4">Em breve a santa multidão
+Curvar-se a Ele vai;
+Alçai com ela a canção:
+A Cristo coroai.</stanza>
+  </lyrics>
+</hymn>

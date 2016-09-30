@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>踏上更高之地</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><cebuano num="396"/><chinese num="ts:433"/><english num="396"/><german num="396"/><portuguese num="192"/><russian num="413"/><spanish num="174"/><tagalog num="396"/></numbers>
+  <creators>
+	<author biodate="1856-1926" biolink="">Translated from Johnson Oatman Jr.</author>
+  </creators>
+  <melody>| 0. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_.. 1/ 3/ 1/ (break) | 2. 5_./ 5_./ 1/ | 3. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 (break) | 1. (Chorus) 5_./ 1/ 3/ | 5. 5/ 4/ 3/ | 4. 5_./ 7_./ 2/ | 4. 4/ 3/ 2/ (break) | 3. 5/ 5/ 3/ | 1. 3/ 2/ 1/ | 6_.. 2/ 1/ 6_./ | 5_./ 1/ 3 2 | 1. 0. |</melody>
+  <layout>
+	<singingstanza>我 今 上 行， 毫 不 遲 疑， 每 日 邁 向 更 高 之 地； 前 行 途 中， 禱 告 不 息： “主 使 我 立 更 高 之 地。” 主， 加 我 力， 將 我 舉 起， 使 我 踏 上 更 高 之 地； 更 高 境 地， 憑 信 站 立； 主， 使 我 立 更 高 之 地。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="396"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我今上行，毫不遲疑，
+每日邁向更高之地；
+前行途中，禱告不息：
+“主使我立更高之地。”</stanza>
+	<stanza type="chorus" number="">主，加我力，將我舉起，
+使我踏上更高之地；
+更高境地，憑信站立；
+主，使我立更高之地。</stanza>
+	<stanza type="verse" number="2">我心不願徘徊舊地，
+疑惑四起，恐懼來襲；
+人雖寧願姑且安逸，
+我心卻在更高之地。</stanza>
+	<stanza type="verse" number="3">雖有惡者火箭攻擊，
+我要安坐諸天界裏；
+信心聽見樂歌洋溢，
+發自最美，最高之地。</stanza>
+	<stanza type="verse" number="4">登上山巔，只看見你，
+榮光將我心眼開啟；
+安息在望，仍要求祈：
+“主，領我往更高之地。”</stanza>
+  </lyrics>
+</hymn>

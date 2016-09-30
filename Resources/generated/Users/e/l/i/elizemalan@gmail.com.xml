@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Elize</firstname>
+    <lastname>Malan</lastname>
+    <email>elizemalan@gmail.com</email>
+    <password>J8k1%2BY3QeZjnn1Eu12Gg6g%3D%3D</password>
+    <gender></gender>
+    <country>United Kingdom</country>
+    <ipaddress>81.159.18.16</ipaddress>
+    <createdate>2013-05-18 17:28:32</createdate>
+    <lastupdateddate>2013-07-26 03:41:11</lastupdateddate>
+    <lastlogindate>2013-07-26 03:38:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="819">As the body is the fulness</fav>
+        <fav category="default" type="h" num="818">Christ is the mystery of God</fav>
+        <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+        <fav category="default" type="h" num="1163">He's the vine and we're the branches</fav>
+        <fav category="default" type="h" num="778">Keep up the song of faith</fav>
+        <fav category="default" type="h" num="1112">Oh, how glorious is Thy table, Lord</fav>
+        <fav category="default" type="h" num="251">Rivers of living water</fav>
+        <fav category="default" type="h" num="777">Say to this mountain, Go</fav>
+        <fav category="default" type="h" num="1096">Tis the local church proclaiming</fav>
+        <fav category="default" type="h" num="1106">We gather together to eat the Lord's supper</fav>
+    </favourites>
+</user>

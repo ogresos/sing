@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Esther</firstname>
+    <lastname>A</lastname>
+    <email>estherjchu@gmail.com</email>
+    <password>4J0IX53T%2FmXdGtVTTq0khQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>66.87.119.77</ipaddress>
+    <createdate>2013-06-12 13:59:29</createdate>
+    <lastupdateddate>2013-06-14 23:25:17</lastupdateddate>
+    <lastlogindate>2013-06-12 13:59:29</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+        <fav category="default" type="nt" num="521">I thank Thee, Lord, that Thou hast shown</fav>
+        <fav category="default" type="nt" num="553">In the secret of His presence</fav>
+        <fav category="default" type="nt" num="512">Jesus, Sun and Shield art Thou</fav>
+        <fav category="default" type="nt" num="599">Lord, I was blind; I could not see</fav>
+        <fav category="default" type="nt" num="578">My will is weak, my strength is frail</fav>
+        <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+        <fav category="default" type="nt" num="547">Something every heart is loving</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abby</firstname>
+  <lastname>B</lastname>
+  <email>abigail.hagger@gmail.com</email>
+  <password>$2y$10$sfPMY1PwwJD128YMvEroluXy5zAT05KGaadbKjGfBn9CK0xEXp2g6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>204.106.244.140</ipaddress>
+  <createdate>2015-04-18 11:13:31</createdate>
+  <lastupdateddate>2015-04-18 11:19:07</lastupdateddate>
+  <lastlogindate>2015-04-18 11:15:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+  </favourites>
+</user>

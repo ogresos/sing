@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Lydia</firstname>
+    <lastname>Garratt</lastname>
+    <email>lydgarratt@gmail.com</email>
+    <password>$1$eev4tgHi$GRc0v8zKvwKYxMUdB66WT0</password>
+    <gender>F</gender>
+    <country>New Zealand</country>
+    <ipaddress>125.238.244.180</ipaddress>
+    <createdate>2009-09-13 15:10:11</createdate>
+    <lastupdateddate>2014-02-25 15:23:31</lastupdateddate>
+    <lastlogindate>2014-02-25 15:23:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+        <fav category="default" type="h" num="437">Hast thou heard Him, seen Him, known Him</fav>
+        <fav category="default" type="ns" num="381">I am the living bread</fav>
+        <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="221">More of our heart</fav>
+        <fav category="default" type="h" num="626">Olives that have known no pressure</fav>
+        <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+        <fav category="default" type="h" num="1351">What mercy that my eyes have seen the true God</fav>
+    </favourites>
+</user>

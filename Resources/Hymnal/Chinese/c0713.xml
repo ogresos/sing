@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>莫非就是你</title>
+  <index>true</index>
+  <category>福音－勸導</category>
+  <numbers><chinese num="713"/><english num="8713"/><portuguese num="456"/><spanish num="480"/></numbers>
+  <melody>| 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3 3./ 3// 5 5./ 3// | 1 3 2 - (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 (break) | (Chorus) 1. 1/ 1 6_. | 5_..( 6_./ 1) 0 | 3. 3/ 3 1 | 2.( 3/ 2) 0 (break) | 3 3./ 2// 1 1./ 7_.// | 6_. 1 5_. - | 3. 1/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>失 迷 的 羊， 你 今 在 那 裏？ 救 主 今 天 正 在 尋 找 你！ 一 百 隻 羊 內 中 缺 一 隻， 莫 非 就 是 你？ 莫 非 就 是 你？ 莫 非 就 是 你？ 一 百 隻 羊 內 中 缺 一 隻， 莫 非 就 是 你？</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1066"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">失迷的羊，你今在那裏？
+救主今天正在尋找你！
+一百隻羊內中缺一隻，
+莫非就是你？</stanza>
+	<stanza type="chorus" number="">莫非就是你？
+莫非就是你？
+一百隻羊內中缺一隻，
+莫非就是你？</stanza>
+	<stanza type="verse" number="2">失落的人，你今在那裏？
+聖靈今天正在尋找你！
+十塊銀錢內中缺一塊，
+莫非就是你？</stanza>
+	<stanza type="chorus" number="">莫非就是你？
+莫非就是你？
+十塊銀錢內中缺一塊，
+莫非就是你？</stanza>
+	<stanza type="verse" number="3">浪蕩的人，你有無安息？
+家中快樂正在需要你！
+天父在家整天巴望的，
+莫非就是你？</stanza>
+	<stanza type="chorus" number="">莫非就是你？
+莫非就是你？
+天父在家整天巴望的，
+莫非就是你？</stanza>
+  </lyrics>
+</hymn>

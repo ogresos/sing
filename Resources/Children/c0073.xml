@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Open up to your parents</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Opening Up</category>
+  <creators>
+    <composer biodate="" biolink="">Traditional English melody</composer>
+  </creators>
+  <hymncode>3511165351</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C F/C C - | C - - - | C - - - | Dm - G7 - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 3_./ 5_./ | 1 1/ 1/ 6_./ 5_./ 3_./ 5_./ | 1 - - 1/ 2/ (break) | 3 3/ 3/ 5/ 3/ 2/ 1/ | 2 - - 5/ 4/ (break) | 3/ 3/ 3/ 3/ 2/ 1/ 1/ 1/ | 6_./ 6_./ 6_./ 6_./ 2/ 1/ 7_./ 6_./ (break) | 5_./ 5_./ 5_./ 5_./ 3/ 2/ 6_./ 7_./ | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>O -- pen up to your par -- ents, o -- pen up. O -- pen up to your par -- ents, o -- pen up. For you know your par -- ents love you, They're the best ones who can help you, But it's up to you to come and o -- pen up.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="22">c0073.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Open up to your parents, open up.
+Open up to your parents, open up.
+For you know your parents love you,
+They're the best ones who can help you,
+But it's up to you to come and open up.</stanza>
+    <stanza type="verse" number="2">Come and tell your troubles to them, open up.
+Come and tell your troubles to them, open up.
+Let them know how you are feeling,
+For you know that they are caring
+About everything you're sharing, open up.</stanza>
+  </lyrics>
+</hymn>

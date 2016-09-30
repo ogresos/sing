@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Harry</firstname>
+<lastname>Faust</lastname>
+<email>harryf8@gmail.com</email>
+<password>$1$zYTP9q9P$pYS07GbS962ms4gWK1gWZ.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>162.83.164.175</ipaddress>
+<createdate>2009-05-03 08:19:24</createdate>
+<lastupdateddate>2009-09-15 19:16:38</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="ns" num="130">Lord, how I thank You</fav>
+        <fav category="default" type="h" num="397">More holiness give me</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+        <fav category="default" type="h" num="461">Down in the valley with my Savior I would go</fav>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

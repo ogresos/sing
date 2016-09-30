@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我從來不後悔</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>53231511767</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 從 來 不 後 悔 答 應 神 呼 召， 我 從 來 不 後 悔 完 全 獻 給 主； 我 與 恩 主 同 行， 天 天 在 登 高， 我 從 來 不 後 悔 所 走 每 步 路。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0803.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我從來不後悔
+答應神呼召，
+我從來不後悔
+完全獻給主；
+我與恩主同行，
+天天在登高，
+我從來不後悔
+所走每步路。</stanza>
+  </lyrics>
+</hymn>

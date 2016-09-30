@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>It is God's commandment and it is His desire</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Enjoying Him</category>
+  <numbers><english num="ns:193"/><vsb num="90"/></numbers>
+  <meter>11.11.11.11.</meter>
+  <hymncode>123354323217</hymncode>
+  <key>Db Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - Cm7 - | F - - - | D - D7/F# - | G - D7/A G/B | C - - - | Em - - - | F - - - | G - E - | Am - - - | F - - - | G - F - | Em - Dm7 G7 | C - Am C/G | Dm/F - G7 - | C - F/C - | C - G7 - | C - Cm7 - | F - - - | D - D7/F# - | G - D7/A G/B | C - - - | Em - - - | F - - - | G - E - | Am - - - | F - - - | G - F - | Em - Dm7 G7 | C - Am C/G | Dm/F - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 1 2 | 3 - 3 - | 5 4 - 3 | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6( 5) - - | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2( ._1) - ._1 | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_.( 2) | 1( - - - (break) | 1) - 1 2 | 3 - 3 - | 5 4 - 3 | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6 5 - 5 | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2 ._1 - ._1 | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_. 2 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza>It is God's com -- mand -- ment and it is His de -- sire That His peo -- ple call, call up -- on His name. It's the joy -- ful way, the joy -- ful way to drink From the foun -- tain of God's rich sal -- va -- tion. Call -- ing is the way to de -- light one -- self in God; That is to en -- joy Him, en -- joy the Lord our God. Hence, we as God's peo -- ple, must dai -- ly call on Him. This must be our prac -- tice for God's ju -- bi -- lee.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="64">ns0193.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">It is God's commandment and it is His desire
+That His people call, call upon His name.
+It's the joyful way, the joyful way to drink
+From the fountain of God's rich salvation.
+Calling is the way to delight oneself in God;
+That is to enjoy Him, enjoy the Lord our God.
+Hence, we as God's people, must daily call on Him.
+This must be our practice for God's jubilee.</stanza>
+  </lyrics>
+</hymn>

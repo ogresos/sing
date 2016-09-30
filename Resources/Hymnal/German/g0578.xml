@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Schwach ist mein Wille, ohne Kraft</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Ihm vertrauen</category>
+  <numbers><cebuano num="578"/><chinese num="423"/><english num="578"/><french num="106"/><german num="578"/><korean num="423"/><portuguese num="292"/><russian num="272"/><tagalog num="578"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>Schwach ist mein Wil -- le, oh -- ne Kraft, All mei -- ne Hoff -- nung nun ab -- klingt;  Nur noch dem Herrn ver -- trau -- en kann, Der mich ver -- sorgt und wei -- ter bringt.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Schwach ist mein Wille, ohne Kraft,
+All meine Hoffnung nun abklingt; 
+Nur noch dem Herrn vertrauen kann,
+Der mich versorgt und weiter bringt.</stanza>
+	<stanza type="verse" number="2">Ich tat mein Bestes, gar nichts half,
+Scheinbar versag in jedem Test;
+Nur noch auf Deine Langmut hoff,
+Halt mich an Deinen Worten fest.</stanza>
+	<stanza type="verse" number="3">Wenn sich mein Herz erheben möcht,
+Kaum wird ein Sturz vermeidbar sein,
+Nichts wag zu denken, nichts zu tun,
+Dich brauch ich, Herr, in Groß und Klein.</stanza>
+	<stanza type="verse" number="4">Du bist mein Retter, Anker, Kraft,
+Schaun möcht Dein Angesicht noch mehr;
+Lieg ich geschwächt im tiefsten Tal,
+Stärkt Deine Gnade mich, oh Herr.</stanza>
+  </lyrics>
+</hymn>

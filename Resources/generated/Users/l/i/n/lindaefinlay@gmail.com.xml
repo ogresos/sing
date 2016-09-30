@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>Finlay</lastname>
+  <email>lindaefinlay@gmail.com</email>
+  <password>$2y$10$SNMroYz7BDJ16mwkS/om4.UQ.s6Ax3LYddysQA2t4H8C84TCkHoPK</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>81.157.248.89</ipaddress>
+  <createdate>2014-07-29 11:24:47</createdate>
+  <lastupdateddate>2015-01-10 10:33:31</lastupdateddate>
+  <lastlogindate>2015-01-10 10:33:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

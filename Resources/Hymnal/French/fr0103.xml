@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mon cœur a trouvé son repos</title>
+  <index>true</index>
+  <category>L’expérience de Christ&amp;mdash;demeurer en Lui</category>
+  <numbers><english num="562"/><french num="103"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from C. B. J. Root</author>
+  </creators>
+  <music>
+    <midiref type="h" num="562"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Demeure aux pieds de ton Sauveur,
+Quel merveilleux et doux bonheur.
+Je crois en Lui, je suis comblé,
+Je reste dans le Crucifié !</stanza>
+    <stanza type="chorus" number="">Demeure ! Demeure !
+Oh ! quelle douceur !
+Aux pieds du Sauveur,
+Où est mon repos.</stanza>
+    <stanza type="verse" number="2">Il parle pour donner Sa paix,
+Ce don du ciel, quel don parfait !
+La paix du monde ne m'est rien,
+La paix céleste je détiens !</stanza>
+    <stanza type="verse" number="3">Et si je vis, ce n'est plus moi,
+C'est Lui qui œuvre quand je crois
+Et mort à moi, pour Lui je vis !
+Ce que je perds est gain en Lui !</stanza>
+    <stanza type="verse" number="4">Mon cœur a trouvé son repos,
+Car Christ a pris tous mes fardeaux.
+Mon âme emplie de paix s'emploie
+À dire au monde entier sa joie !</stanza>
+  </lyrics>
+</hymn>

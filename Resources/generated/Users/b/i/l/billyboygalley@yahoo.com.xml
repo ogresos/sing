@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>William</firstname>
+  <lastname>Galley</lastname>
+  <email>billyboygalley@yahoo.com</email>
+  <password>$2y$10$UnLRYCuz6ccdWcB9KALXQuN3muhbmnBazky8C9o0JhOqoZQu2nEha</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.243.221.196</ipaddress>
+  <createdate>2015-04-26 00:50:04</createdate>
+  <lastupdateddate>2015-04-26 00:51:39</lastupdateddate>
+  <lastlogindate>2015-04-26 00:51:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

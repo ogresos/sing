@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Frank</firstname>
+<lastname>Rendon</lastname>
+<email>frankrendon54@yahoo.com.mx</email>
+<password>$1$D2INnpqm$BOTIfYn7U6Vd3jHv9UYUl1</password>
+<gender>M</gender>
+<country>Mexico</country>
+<ipaddress>189.143.248.75</ipaddress>
+<createdate>2009-01-29 13:59:16</createdate>
+<lastupdateddate>2009-09-15 18:29:25</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Robert</firstname>
+    <lastname>Raynor</lastname>
+    <email>robert.raynor@gmail.com</email>
+    <password>zmqCS9R%2BmmOYIhRCCCbtyw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>202.25.83.2</ipaddress>
+    <createdate>2011-10-30 20:25:07</createdate>
+    <lastupdateddate>2011-11-06 04:48:25</lastupdateddate>
+    <lastlogindate>2011-10-30 20:25:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="1032">Come, ye sinners, poor and wretched</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    </favourites>
+</user>

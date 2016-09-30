@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你為何得救？</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:817"/><english num="ns:370"/></numbers>
+  <melody>| 0 - - 3/ 4/ | 5( - 5/) 3/ 2/ 3/ | 1 5_. - 3/ 3/ | 2/( 1/) 6_.( 6_.) 3/ 3/ (break) | 2 - - 3/ 4/ | 5( - 5/) 3/ 2/ 3/ | 1 5_. - 3/ 3/ | 2/( 1/) 6_.( 6_.) 3/ 3/ | 2 - - 0 (break) | 5 5 5 6 | 2./ 2// 2/ 2/ 2. 3/ | 2./ 2// 2/ 2/ 2. 3/ | 1./ 1// 1/ 1/ 1 - (break) | 5 5 5 6 | 2./ 2// 2/ 2/ 2. 3/ | 2./ 2// 2/ 2/ 2 3 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>你 知 道 你 為 何 得 救， 有 否 想 過 這 問 題？ 究 竟 神 有 甚 麼 計 畫？ 基 督 為 何 拯 救 你？ 直 到 如 今， 我 們 只 知 道 基 督 活 在 我 裡， 這 實 在 是 美 好； 但 是 神 有 更 深 的 啟 示， 神 的 旨 意 必 須 達 到。</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="ns" num="164"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你知道你為何得救，
+有否想過這問題？
+究竟神有甚麼計畫？
+基督為何拯救你？
+直到如今，我們只知道
+基督活在我裡，
+這實在是美好；
+但是神有更深的啟示，
+神的旨意必須達到。</stanza>
+	<stanza type="verse" number="2">伊甸河流有一目的，
+供應生命滋潤地。
+神的拯救如同水流，
+經過幾段的經歷。
+我們先脫撒但的轄制，
+以後再進一步，
+脫開那基督教。
+神的恢復一直往前流，
+永不會在中途停住。</stanza>
+	<stanza type="verse" number="3">不是僅僅一個信徒，
+單單獨獨到處蕩；
+乃是活石同被建造，
+團體基督得顯彰。
+我們重生為著得更新，
+但基督進你心，
+還有另一緣故；
+祂作我們生命的緣故，
+為要得著祂的新婦。</stanza>
+	<stanza type="verse" number="4">不是零星散亂寶石，
+個別屬靈的造詣；
+乃是實際在生命裡，
+同被建造在一起。
+你永遠不會完全滿足，
+除非耶穌基督
+得著祂的新婦。
+有否想過，
+今天主正在等待
+把你建造起來！</stanza>
+  </lyrics>
+</hymn>

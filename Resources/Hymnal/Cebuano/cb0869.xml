@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa di pa mi magbulag, daygon Ka</title>
+  <index>true</index>
+  <category>MGA PANAGKATIGUM&amp;mdash;PANAGBULAG</category>
+  <numbers><cebuano num="869"/><chinese num="630"/><english num="869"/><korean num="630"/><portuguese num="410"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa di pa mi magbulag, daygon Ka,
+Sa buhing Pulong Mo ug presensya;
+Nadani kami's kabililhon Mo,
+Kasingkasing nadani's nadungog.</stanza>
+    <stanza type="verse" number="2">Pulong kinabuhi'g espiritu,
+Nagtil-og, nagpatubo kanamo;
+Aron matransporma sa dagway Mo,
+Ug motubo sa hingkod Mong sukod.</stanza>
+    <stanza type="verse" number="3">Ipaambit ang Kaugalingon Mo,
+Paggawia kami's espiritu,
+Aron sigeng mag-ambitay Nimo,
+Hangtud's sunod nga panagkatigum.</stanza>
+  </lyrics>
+</hymn>

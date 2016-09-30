@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聽哪千萬聲音雷鳴</title>
+  <index>true</index>
+  <category>讚美主－祂的高舉</category>
+  <numbers><cebuano num="127"/><chinese num="110"/><english num="127"/><german num="127"/><korean num="110"/><portuguese num="62"/><russian num="203"/><spanish num="66"/><tagalog num="127"/></numbers>
+  <creators>
+	<author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 5_./ | 1. 3. 3/( 2/) 1/ | 2. 5_.. 5_./( 6_./) 5_./ | 2. 4. 4/( 3/) 2/ (break) | 3 - - 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ | 1. 6_.. 2/( 1/) 6_./ | 5_.. 1. 3 2/ | 1 - - 0. |</melody>
+  <layout>
+	<singingstanza>聽 哪， 千 萬 聲 音 雷 鳴， 同 聲 高 舉 神 羔 羊； 萬 萬 千 千 立 即 響 應， 和 聲 爆 發 同 頌 揚。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="127"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聽哪，千萬聲音雷鳴，
+同聲高舉神羔羊；
+萬萬千千立即響應，
+和聲爆發同頌揚。</stanza>
+	<stanza type="verse" number="2">『讚美羔羊！』聲音四合，
+全天會集來歌誦，
+萬口莫不響亮協和，
+宇宙充滿救主頌。</stanza>
+	<stanza type="verse" number="3">這樣感激心香如縷，
+永向父的寶座去；
+萬膝莫不向子屈曲，
+天上心意真一律。</stanza>
+	<stanza type="verse" number="4">子所有的一切光輝，
+使父榮耀得發揮；
+父所有的一切智慧，
+宣告子是同尊貴。</stanza>
+	<stanza type="verse" number="5">藉著聖靈無往不透，
+天人無數都無求，
+圍著羔羊，俯伏拜叩，
+稱頌祂作『自永有。』</stanza>
+	<stanza type="verse" number="6">現今新造何等滿足、
+安息、喜樂並穩固，
+因著祂的救恩受福，
+不再受縛，不再苦。</stanza>
+	<stanza type="verse" number="7">聽哪，天上又發歌聲，
+讚美聲音又四震，
+穹蒼之中滿了阿們！
+『阿們』因是同蒙恩。</stanza>
+  </lyrics>
+</hymn>

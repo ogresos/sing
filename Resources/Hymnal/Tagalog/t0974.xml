@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Umasam sa lunsod, tolda'y tinirhan</title>
+  <index>true</index>
+  <category>SUKDULANG PAGPAPAKITA&amp;mdash;ANG ATING GOL</category>
+  <numbers><cebuano num="974"/><chinese num="771"/><english num="974"/><korean num="771"/><tagalog num="974"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber, adapted</author>
+  </creators>
+  <music>
+    <midiref type="h" num="974"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Umasam sa lunsod, tolda'y tinirhan,
+Lakbay niya ay 'tungong kal'walhatian;
+Pangako ng Diyos ang kaaliwan niya,
+Hinangad niya'y 'di makamundong rangya.</stanza>
+    <stanza type="chorus" number="">Lunsod! O kay inam!
+Diyos sa tao'y tatahang walang hanggan.</stanza>
+    <stanza type="verse" number="2">Umasam sa lunsod, Diyos ang naghanda,
+Mansyong makalupa'y walang halaga,
+Ang Diyos ay nangako na siya'y bibigyan,
+Dakong makahari sa kaduluhan.</stanza>
+    <stanza type="verse" number="3">Umasam sa lunsod; may hinagpis man,
+Makalupang rangya ay tinanggihan,
+Umaawit pag lunsod naalala,
+Mabakong daan di na tatagal pa.</stanza>
+    <stanza type="verse" number="4">Umasam sa lunsod, aming hangarin,
+'Pagka't batid na hinanda Mo sa 'min,
+Bilang bahagi, lunsod na maningning,
+Hesus kasama, daa'y tatahakin.</stanza>
+  </lyrics>
+</hymn>

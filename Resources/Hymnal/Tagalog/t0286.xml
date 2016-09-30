@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nang dahil sa pag-irog sala ko'y tinubos</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;MINAHAL NG PANGINOON</category>
+  <numbers><cebuano num="286"/><chinese num="231"/><english num="286"/><french num="52"/><german num="286"/><korean num="231"/><portuguese num="156"/><russian num="57"/><spanish num="138"/><tagalog num="286"/></numbers>
+  <creators>
+	<author biodate="1862-1929" biolink="">Translated from Lelia Naylor Morris</author>
+  </creators>
+  <melody>| 0 - 5 | 5. ._1/ 7/ 6/ | 5 3 4 | 5. ._1/ 5/ 6/ | 7 - 5 | ._2. ._2/ 6/ 7/ | ._1 5 ._3 | ._2. 6/ 7/ ._1/ (break) | 7 - 6/( 5/) | ._3. ._3/ ._4/ ._3/ | ._3 ._2 5 | ._2. ._2/ ._3/ ._2/ | ._2( ._1) ._1 | ._1. ._1/ 7/ 6/ | 5 ._1 ._4 | ._3. ._3/ ._2/ ._2/ | ._1 - 0 (break) | [4/4] (Chorus) 5./ 4#// 5./ 4#// 5 ._3 | ._2( - 6) - | 7./ 6#// 7./ ._1// ._2 ._2# | ._3 - - 0 (break) | 5./ 4#// 5./ ._1// ._3 ._1 | ._2./ ._1#// ._2./ ._3// (.._4 (.._2 | ._5./ ._3// ._1./ 6// ._1 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="286"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nang dahil sa pag-irog sala ko'y tinubos,
+Sa biyayang pagsakop ng aking si Hesus;
+Sa lawak ng pag-irog buhay inihandog
+Puso ko'y nalamuyot sa Kanya sumunod.</stanza>
+	<stanza type="chorus" number="">Lalo Siyang tumatamis
+Sa tagal ng panahon,
+Malalim, mayaman
+Pag-ibig ni Hesus
+Lumalawig kailanman.</stanza>
+	<stanza type="verse" number="2">Tinahak Niya ang buhay sa lumang Judea,
+Sabik na mga tao pinalibutan Siya;
+Lunas ng nagdurusa, liwanag ng mata,
+Pag-ibig at ligaya ang idinulot Niya.</stanza>
+	<stanza type="chorus" number="">Lalo Siyang tumatamis
+Sa tagal ng panahon,
+Malalim, mayaman
+Pag-ibig ni Hesus
+Lumalawig kailanman.</stanza>
+  </lyrics>
+</hymn>

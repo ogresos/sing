@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Salvador Oblefias</firstname>
+  <lastname>Jr.</lastname>
+  <email>salvadoroblefiasjr@gmail.com</email>
+  <password>$2y$10$8RX7fQouZOMzq9A95NSda.TQGIxHXP0/10EqAGJ6PKrvu8Vz2swBa</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>112.208.58.133</ipaddress>
+  <createdate>2014-11-12 02:12:16</createdate>
+  <lastupdateddate>2016-07-18 15:37:18</lastupdateddate>
+  <lastlogindate>2016-07-04 00:31:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="467">But for Me I Will Wait on Jehovah</fav>
+    <fav category="default" type="h" num="507">Christ liveth in me</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+    <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="110">Life's too short</fav>
+    <fav category="default" type="ns" num="475">Lord we yearn for Your display</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="1360">Oh, how glorious! Oh, how precious!</fav>
+    <fav category="default" type="ns" num="382">Ordinary Days</fav>
+    <fav category="default" type="ns" num="379">Preserve me, O God</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="ns" num="532">The Full Price</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+  </favourites>
+</user>

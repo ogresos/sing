@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Two Kisses</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</author>
+    <composer biodate="" biolink="" fullname="Steve A. Watts">S. A. W.</composer>
+  </creators>
+  <hymncode>12353124721</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G - | Am - C/G - | F - G7 - | C - C7/E - | F - G - | Em - A7 - | Dm7 - F - | Gsus4 - G7 - | F - G - | Em - Am - | F - G7 - | C - C7/E - | F - G - | Em - Am - | Dm7 - G7 - | C - - - ||</chords>
+  <melody>| 0 - - 1/ 2/ | 3/ 5/ 3/ 1/ 2/ 4/ 7_./ 2/( | 2/) 1.( 1) 3/ 5/ | 6/ 6/ 6/ 6/ 6/ 5/ 4/ 6/( | 6/) 5.( 5) 3/ 5/ | 6/ 6/ 6/ ._1/ 7 7/ 6/ | 5/ 5/ 4/ 5/ 3 2/ 3/ | 4/ 4/ 4/ 3/ 4/ 3/ 2/ 1//( 2//)( (break) | 2/) 2.( 2) (Chorus) 3/ 5/ | 6 - 5/ 5/ 4/ 6/ | 5.( 6/) 3 2/ 3/ | 4/ 4/ 4/ 4/ 4/ 3/ 2/ 1/ | 3.( 4/)( 5) 3/ 5/ | 6.( ._1/) 7/ 7/ 6/ 5/ | 5( 7) (.6 2/ 3/ | 4/ 4/ 4/ 4/ 4/ 3/ 2/ 1/ | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>Let Him kiss me with the kiss -- es of His mouth, Wheth -- er bit -- ter cold north wind or gen -- tle south; You are beau -- ti -- ful, my love, With your eyes of tur -- tle -- doves; "Let Him kiss me with the kiss -- es of His mouth". Lord I love You, I real -- ly love You, You're the dear -- est, sweet -- est, pre -- cious love to me! Lord I love You, I real -- ly love You, Je -- sus, my Be -- lov -- ed, for e -- ter -- ni -- ty!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 1:3-4</link>
+    <link type="ref">Song of Songs 8:1</link>
+  </links>
+  <music>
+    <midi location="ns" length="56">ns0413.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Let Him kiss me with the kisses of His mouth,
+Whether bitter cold north wind or gentle south;
+You are beautiful, my love,
+With your eyes of turtledoves;
+"Let Him kiss me with the kisses of His mouth".</stanza>
+    <stanza type="chorus" number="">Lord I love You, I really love You,
+You're the dearest, sweetest, precious love to me!
+Lord I love You, I really love You,
+Jesus, my Beloved, for eternity!</stanza>
+    <stanza type="verse" number="2">She's become a lily, simple, pure and sweet,
+Not relying on her naturalness and strength
+She is trusting in Christ's life,
+In His rich abundant life;
+"Let Him kiss me with the kisses of His mouth".</stanza>
+    <stanza type="verse" number="3">She's become a garden, fountain, streams, and springs,
+From which fragrant, luscious produce Christ's life brings,
+Resurrection life expressed,
+In ascension she can rest;
+"Let Him kiss me with the kisses of His mouth".</stanza>
+    <stanza type="verse" number="4">She's become the New Jerusalem, His Bride,
+Where His presence for eternity abides,
+Here His faithfulness we prove,
+And we serve Him for His move;
+"Let Him kiss me with the kisses of His mouth".</stanza>
+    <stanza type="verse" number="5">In the final stage of love a kiss remains,
+Where the lover and His love forever reign,
+"When I find you here with Me, 
+I will kiss you, all will see";
+"Let Him kiss me with the kisses of His mouth".</stanza>
+  </lyrics>
+</hymn>

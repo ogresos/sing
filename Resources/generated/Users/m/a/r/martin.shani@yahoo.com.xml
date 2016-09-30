@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Shani</firstname>
+    <lastname></lastname>
+    <email>martin.shani@yahoo.com</email>
+    <password>BIa%2Fe5aCdKP%2BKuJFE%2Bp%2Biw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>67.84.140.247</ipaddress>
+    <createdate>2013-09-27 14:09:51</createdate>
+    <lastupdateddate>2013-09-27 14:20:03</lastupdateddate>
+    <lastlogindate>2013-09-27 14:13:17</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="c" num="58">Jesus loves the little children</fav>
+        <fav category="default" type="c" num="92">The B-I-B-L-E</fav>
+        <fav category="default" type="c" num="62">Trust in the Lord with all your heart</fav>
+    </favourites>
+</user>

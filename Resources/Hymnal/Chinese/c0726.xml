@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你的歡迎聲音</title>
+  <index>true</index>
+  <category>福音－就主</category>
+  <numbers><cebuano num="1051"/><chinese num="726"/><english num="1051"/><french num="202"/><german num="1051"/><korean num="726"/><portuguese num="460"/><russian num="175"/><spanish num="483"/><tagalog num="1051"/></numbers>
+  <creators>
+	<author biodate="1828-1919" biolink="">Translated from Lewis Hartsough</author>
+  </creators>
+  <melody>| 0 - 1/( 3/) | 5. 3/ 2/ 1/ | 1 - 1 | 2. 4/ 6/ 5/ (break) | 3 - 5 | ._1. 7/ 6/ 5/ | 6/ 5/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 (break) | (Chorus) ._1. 7/ 6/ 5/ | 6 - - | 5. 3/ 2/ 1/ | 2 - - (break) | 5. 6/ 3/ 2/ | 1/ 2/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>你 的 歡 迎 聲 音， 召 我 前 來 相 信， 因 你 為 我 已 流 寶 血， 特 要 洗 我 良 心。 主， 我 來 就 你！ 我 今 來 就 你！ 求 主 用 血 將 我 洗， 使 我 乾 淨 無 比。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1051"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你的歡迎聲音，
+召我前來相信，
+因你為我已流寶血，
+特要洗我良心。</stanza>
+	<stanza type="chorus" number="">主，我來就你！
+我今來就你！
+求主用血將我洗，
+使我乾淨無比。</stanza>
+	<stanza type="verse" number="2">我真污穢可鄙，
+行善一無能力；
+但你歡喜賜恩幫助，
+並除一切惡跡。</stanza>
+	<stanza type="verse" number="3">你今鄭重吩咐，
+要我遠離罪俗，
+虛心悔改，實心相信，
+接受你作救主。</stanza>
+	<stanza type="verse" number="4">神用恩言呼召，
+又用聖靈光照，
+使我知道自己不堪，
+知道救主可靠。</stanza>
+	<stanza type="verse" number="5">聖靈今在我靈，
+證明我有生命；
+神的應許已經應驗，
+若我已信祂名。</stanza>
+	<stanza type="verse" number="6">奇哉！神愛罪人！
+妙哉！神有救恩！
+美哉！耶穌流血贖罪！
+我願獻上全身。</stanza>
+  </lyrics>
+</hymn>

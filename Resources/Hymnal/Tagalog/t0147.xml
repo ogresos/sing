@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pinahiran ng Diyos Ka</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KAHARIAN</category>
+  <numbers><cebuano num="147"/><chinese num="125"/><english num="147"/><german num="147"/><korean num="125"/><portuguese num="75"/><russian num="447"/><tagalog num="147"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 0 - 3/( 4/) | 5 - 3 4 - 7_. | 1( - 3) 3 - 3 | 5 - 5 6( 4) 2 | 1( - - 7_.) - 2 (break) | 3 - 3 4( 3) 4 | 5 - - 6 - 6/( 7/) | ._1 - 5 5( 4) 2 | 1 - - - - 3/( 4/) (break) | 5 - ._1 7 - 6 | 5 - - 3 - 3/( 4/) | 5 - ._1 ._2 - 4 | 3( - - 2) - 1 (break) | 3 - 3 4( 3) 4 | 5 - - 6 - 6/( 7/) | ._1 - 5 5( 4) 2 | 1 - - - - 0 |</melody>
+  <music>
+	<midiref type="h" num="147"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pinahiran ng Diyos Ka,
+Hari ng lahat nga,
+Sa Iyo, sasamba kami,
+Lalaksan papuri,
+Walang hanggang pa'muno,
+Matatag na trono.
+Pag-ibig at katwiran,
+Nasa kaharian.</stanza>
+	<stanza type="verse" number="2">Sa Sion itinalaga,
+Ikaw Sinisinta;
+'Binigay tanang bansa,
+Bilang Iyong pamana.
+Sa Iyo, awtoridad Niya
+'Pinagkatiwala.
+Hanggang sa walang hanggan,
+Bansa'y pagharian.</stanza>
+	<stanza type="verse" number="3">Panaho'y di pa pun
+Ã´,
+Karimla'y namuno,
+Tapat na laksang tao,
+Pumupuri sa Iyo.
+Bawa't dalampasigan,
+Tao'y nag-awitan.
+Sinamba at minahal
+Haring Manliligtas.</stanza>
+	<stanza type="verse" number="4">Sa panahong 'tinakda,
+Bababang may glorya;
+Lupa't lahat ng bansa.
+Mapasa Iyo na nga.
+Maningning, maharlika,
+Haring marangal Ka.
+Bawa't lipi at lahi,
+Sa Iyo nga'y pupuri!</stanza>
+  </lyrics>
+</hymn>

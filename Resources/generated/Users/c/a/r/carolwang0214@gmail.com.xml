@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Carol</firstname>
+  <lastname>wang</lastname>
+  <email>carolwang0214@gmail.com</email>
+  <password>$2y$10$xu.a7A5Z.amQ.zmyCr7Ccuvd73Kpc6KC4XAIfF3xnoDj/NmtcmOj2</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>69.181.255.248</ipaddress>
+  <createdate>2014-11-23 04:09:41</createdate>
+  <lastupdateddate>2014-12-28 22:09:48</lastupdateddate>
+  <lastlogindate>2014-12-28 22:09:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

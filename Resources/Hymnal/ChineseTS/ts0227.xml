@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂的名是奇妙</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <numbers><cebuano num="1085"/><chinese num="ts:227"/><english num="1085"/><french num="16"/><german num="1085"/><korean num="789"/></numbers>
+  <melody>| 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - | 5 5. 4/ | 4/ 3/ 3 - | 3 2 3 | 2 - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - - (break) | 2 2 3 | 4 2 - | 3 3 4 | 5 3 - | 4# 4# 4# | 5 - 6 | 5( - - | 5) - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>祂 的 名 是 奇 妙， 祂 的 名 是 策 士， 祂 是 全 能 的 神， 永 在 的 父； 有 一 嬰 孩 降 生， 一 子 賜 給 我 們， 祂 是 和 平 的 君， 耶 穌 我 主。 讚 美 創 造 主， 耶 穌 我 救 主， 生 命 的 靈 內 住； 在 靈 裡 敬 拜 祂， 愛 祂 並 事 奉 祂， 祂 的 名 是 奇 妙， 耶 穌 我 主。</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Isaiah 9:6</link>
+  </links>
+  <music>
+	<midiref type="h" num="1085"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂的名是奇妙，
+祂的名是策士，
+祂是全能的神，
+永在的父；
+有一嬰孩降生，
+一子賜給我們，
+祂是和平的君，
+耶穌我主。
+讚美創造主，
+耶穌我救主，
+生命的靈內住；
+在靈裡敬拜祂，
+愛祂並事奉祂，
+祂的名是奇妙，
+耶穌我主
+。</stanza>
+  </lyrics>
+</hymn>

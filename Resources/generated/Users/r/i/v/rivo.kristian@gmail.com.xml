@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Rivo</firstname>
+    <lastname>Suoth</lastname>
+    <email>rivo.kristian@gmail.com</email>
+    <password>tvUOBcVaV4fv1z%2FgX0AGdg%3D%3D</password>
+    <gender>M</gender>
+    <country>id</country>
+    <ipaddress>120.108.56.54</ipaddress>
+    <createdate>2011-06-03 16:18:51</createdate>
+    <lastupdateddate>2011-06-11 08:12:13</lastupdateddate>
+    <lastlogindate>2011-06-03 16:18:53</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="lb" num="23">Just to be in You</fav>
+        <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+        <fav category="default" type="lb" num="12">Lord, I just love You</fav>
+    </favourites>
+</user>

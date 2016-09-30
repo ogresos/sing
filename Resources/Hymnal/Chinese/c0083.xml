@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>時已夜半晚星象沉</title>
+  <index>true</index>
+  <category>讚美主－祂的受苦</category>
+  <numbers><chinese num="83"/><english num="99"/><korean num="83"/><tagalog num="99"/></numbers>
+  <creators>
+	<author biodate="1794-1849" biolink="">Translated from William Bingham Tappan</author>
+  </creators>
+  <melody>| 0 - 5 - | 5 5 6 6 | 5 - 5 - | 5 - ._1 - | ._1 ._1 ._2 ._3 | ._2 - ._2 - (break) | ._1 - ._3 - | ._2 ._2 ._2 ._2  | ._2 - ._1 - | 7 - 7 - | ._1 ._1 ._1 6 | 5 - 5 - | 5 - 0 - |</melody>
+  <layout>
+	<singingstanza>時 已 夜 半， 晚 星 久 沉， 救 主 身 臨 橄 欖 山 岑； 客 西 馬 尼， 深 夜 寂 靜， 救 主 在 內 祈 禱、 儆 醒。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="99"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">時已夜半，晚星久沉，
+救主身臨橄欖山岑；
+客西馬尼，深夜寂靜，
+救主在內祈禱、儆醒。</stanza>
+	<stanza type="verse" number="2">時已夜半，無人陪同，
+救主獨自祈禱、傷痛；
+雖是愛徒也都沉睡，
+不顧救主傷心、流淚。</stanza>
+	<stanza type="verse" number="3">時已夜半，憂傷至極，
+救主祈禱汗如血滴；
+天使來臨加祂身力，
+證明神未將祂撇棄。</stanza>
+	<stanza type="verse" number="4">時已夜半，祈禱已盡，
+深知苦杯不能不飲，
+甘願成就父神旨意，
+去替罪人擔罪捨己。</stanza>
+  </lyrics>
+</hymn>

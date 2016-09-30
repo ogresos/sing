@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He's the vine and we're the branches</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Abiding in Him</category>
+  <numbers><chinese num="ts:443"/><english num="1163"/><korean num="846"/><spanish num="266"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 5_../ 1// | 3. 1/ 7_../ 2// | 1 5_. 1./ 3// | 5. 3/ 1./ 3// (break) | 2 - 5_../ 1// | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// (break) | 1 - (Chorus) 7_../ 1// | 2 - 4./ 7_.// | 1 - 3./ 4// | 5 - 5./ 3// (break) | 2 - 5_../ 1// | 3. 3/ 3./ 5// | 5 4 3./ 2// | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>He's the vine and we're the branch -- es, We should e'er a -- bide in Him, And let Him a -- bide with -- in us As the flow of life with -- in. In the vine, in the vine, In the vine, in the vine, We would know Thee, Lord, more deep -- ly, E'er a -- bid -- ing in the vine.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj052.xml</link>
+    <link type="relevant" category="h" num="1162"></link>
+    <link type="ref">John 15</link>
+  </links>
+  <music>
+    <midiref type="h" num="13"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He's the vine and we're the branches,
+We should e'er abide in Him,
+And let Him abide within us
+As the flow of life within.</stanza>
+    <stanza type="chorus" number="">In the vine, in the vine,
+In the vine, in the vine,
+We would know Thee, Lord,
+  more deeply,
+  E'er abiding in the vine.</stanza>
+    <stanza type="verse" number="2">As we hear His instant speaking,
+He's the rich indwelling Word;
+To abide we must be faithful
+To the speaking that we've heard.</stanza>
+    <stanza type="verse" number="3">For 'tis here we know abiding
+In the real and deepest way;
+If we love our Lord completely,
+We would do whate'er He'd say.</stanza>
+    <stanza type="verse" number="4">Then His love abides within us,
+And in love abiding, we
+Know the joy of life-communion,
+Full and perfect harmony.</stanza>
+    <stanza type="verse" number="5">Oh, how precious this abiding,
+Oh, how intimate and sweet;
+As the fruit of life is added,
+And our joy is made complete.</stanza>
+  </lyrics>
+</hymn>

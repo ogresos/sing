@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Se a cruz tomarmos nós, iremos dor sofrer</title>
+  <index>true</index>
+  <category>O Caminho Da Cruz O Significado Da Cruz</category>
+  <numbers><cebuano num="622"/><chinese num="461"/><english num="622"/><german num="622"/><korean num="461"/><portuguese num="319"/><russian num="371"/><spanish num="294"/><tagalog num="622"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 3 | 3. 2/ 2 3 | 4 4 3 2 | 3 - - - (break) | 6 - 6 6 | 6. 5/ 5 4 | 3 3 2 1 | 2 - - - (break) | 1 - 1 2 | 3. 3/ 3 4 | 5 5 4 3 | 6 - - - (break) | 7 - 6 5 | ._1. 1/ 1 2 | 3 3 4 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="622"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Se a cruz tomarmos nós, iremos dor sofrer?
+Não vamos só sofrer; por certo até morrer.
+O que ela representa é o nosso aniquilar;
+Prová-la faz o "eu" crucificado ser.</stanza>
+	<stanza type="verse" number="2">Divina liberdade vem mediante a cruz.
+Cruel parece ser, mas que libertação!
+Da cruz, se escaparmos, Cristo não irá,
+Ser nossa vida, nem em nós ter expressão.</stanza>
+	<stanza type="verse" number="3">A cruz tem como alvo o querer de Deus,
+Mas nosso ego se opõe a tal querer.
+Negada a vida d'alma, morto o nosso "eu",
+O que Deus planejou irá prevalecer.</stanza>
+  </lyrics>
+</hymn>

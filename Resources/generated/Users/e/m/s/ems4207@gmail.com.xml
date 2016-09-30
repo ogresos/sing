@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>t</firstname>
+    <lastname></lastname>
+    <email>ems4207@gmail.com</email>
+    <password>LT04ma66VYUBLy7TGE4iHg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>172.56.34.254</ipaddress>
+    <createdate>2014-03-25 07:29:22</createdate>
+    <lastupdateddate>2014-03-25 07:29:22</lastupdateddate>
+    <lastlogindate>2014-03-25 06:52:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1005">Christ our Redeemer died on the cross</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+        <fav category="default" type="h" num="410">Oh, for a heart to praise my God</fav>
+        <fav category="default" type="h" num="1134">Oh, strengthen my spirit, Lord Jesus</fav>
+        <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    </favourites>
+</user>

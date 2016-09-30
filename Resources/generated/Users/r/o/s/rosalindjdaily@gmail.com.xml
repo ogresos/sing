@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rosalind</firstname>
+  <lastname>Daily</lastname>
+  <email>rosalindjdaily@gmail.com</email>
+  <password>$2y$10$YoBH0yJNfR51Jkz/do8kK.6wGZydf/scmxayuWBndY1RllgQF3Dsq</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>71.60.87.245</ipaddress>
+  <createdate>2014-05-13 10:37:52</createdate>
+  <lastupdateddate>2016-03-08 10:20:46</lastupdateddate>
+  <lastlogindate>2016-03-08 10:20:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="292">A debtor to mercy alone</fav>
+    <fav category="default" type="h" num="952">A lamp in the night, a song in time of sorrow</fav>
+    <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+    <fav category="default" type="h" num="563">Abide in Thee! in that deep love of Thine</fav>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="562">Abiding, oh, so wondrous sweet</fav>
+    <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="598">All fair within those children of the light</fav>
+    <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+    <fav category="default" type="h" num="680">All in His hands&amp;mdash;what confidence it brings</fav>
+    <fav category="default" type="h" num="515">All is in Christ</fav>
+    <fav category="default" type="h" num="570">All my doubts I give to Jesus</fav>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="468">Am I a soldier of the Cross</fav>
+    <fav category="default" type="h" num="237">Amazing words!&amp;mdash;He 'gave Himself for me</fav>
+    <fav category="default" type="h" num="633">And wouldst thou live on earth as more than conqu'ror</fav>
+    <fav category="default" type="h" num="300">Arise, my soul, arise</fav>
+    <fav category="default" type="h" num="615">Begin the day with God</fav>
+    <fav category="default" type="h" num="879">Christian, dost thou see them</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="27">Come, let us all unite to sing</fav>
+    <fav category="default" type="h" num="25">Father, to us Thy mercy Thou hast shown</fav>
+    <fav category="default" type="h" num="655">Feed on His faithfulness, my soul</fav>
+    <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+    <fav category="default" type="h" num="861">God be with you till we meet again</fav>
+    <fav category="default" type="h" num="26">God, we praise Thee for Thy mercy</fav>
+    <fav category="default" type="h" num="883">In the Overcomer's Name</fav>
+    <fav category="default" type="h" num="91">It was alone the Savior prayed</fav>
+    <fav category="default" type="h" num="506">Jesus lives! thy terrors now</fav>
+    <fav category="default" type="h" num="365">Jesus, Thy life is mine</fav>
+    <fav category="default" type="h" num="246">Joys are flowing like a river</fav>
+    <fav category="default" type="h" num="283">Lord, Thou knowest all the hunger</fav>
+    <fav category="default" type="h" num="397">More holiness give me</fav>
+    <fav category="default" type="lb" num="38">My words cannot express</fav>
+    <fav category="default" type="h" num="168">Now in a song of grateful praise</fav>
+    <fav category="default" type="h" num="905">O Master, let me walk with Thee</fav>
+    <fav category="default" type="h" num="803">O Word of God incarnate</fav>
+    <fav category="default" type="h" num="161">Praise the Savior, ye who know Him</fav>
+    <fav category="default" type="h" num="706">Sometimes a light surprises</fav>
+    <fav category="default" type="h" num="874">Standing in the evil day</fav>
+    <fav category="default" type="h" num="875">Tis easy when the morning</fav>
+    <fav category="default" type="h" num="32">We bow and worship, Father, here</fav>
+    <fav category="default" type="h" num="881">We rest on Thee, our Shield and our Defender</fav>
+    <fav category="default" type="h" num="101">When we survey the wondrous cross</fav>
+  </favourites>
+</user>

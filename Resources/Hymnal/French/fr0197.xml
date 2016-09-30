@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ton habit rejette, car il est souillé</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;le sang</category>
+  <numbers><cebuano num="1007"/><chinese num="688"/><english num="1007"/><french num="197"/><german num="1007"/><korean num="688"/><portuguese num="447"/><russian num="166"/><spanish num="470"/><tagalog num="1007"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 0 - - 3/ 5/ | ._1 ._1 ._1/ 5/ 3/ 5/ | ._1 ._1 ._1 ._1/ ._2/ | ._3 ._3/ ._3/ ._3 ._2/ ._1/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ (break) | ._1 - - (Chorus) ._3/ ._2/ | ._1 - - ._1/ 7/ | 6 - - 7/ 6/ | 5 ._1/ ._2/ ._3 ._4/ ._3/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1007"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">De Jésus approche-toi, sois purifié,
+Sois lavé par le sang de l'Agneau !
+Aie confiance en Lui, en Sa fidélité,
+Sois lavé par le sang de l'Agneau !</stanza>
+	<stanza type="chorus" number="">Sois lavé par le sang !
+Par le sang de l'Agneau sans défaut,
+Et ta robe sera blanchie dans le sang,
+Sois lavé par le sang de l'Agneau !</stanza>
+	<stanza type="verse" number="2">Marche chaque jour en Lui et par la foi,
+Sois lavé par le sang de l'Agneau !
+Dans le Crucifié, en Lui, repose-toi,
+Sois lavé par le sang de l'Agneau !</stanza>
+	<stanza type="verse" number="3">Purifie ta robe, car l'Époux revient,
+Sois lavé par le sang de l'Agneau !
+Pare-toi, car Il vient rechercher les Siens,
+Sois lavé par le sang de l'Agneau !</stanza>
+	<stanza type="verse" number="4">Ton habit rejette, car il est souillé,
+Sois lavé par le sang de l'Agneau !
+Une source coule pour te purifier,
+Sois lavé par le sang de l'Agneau !</stanza>
+  </lyrics>
+</hymn>

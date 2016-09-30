@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>chang</firstname>
+  <lastname>peychee</lastname>
+  <email>changpeychee@gmail.com</email>
+  <password>BwRj%2B5ojMnJub4vOgHSv5w%3D%3D</password>
+  <gender>M</gender>
+  <country>my</country>
+  <ipaddress>60.52.10.161</ipaddress>
+  <createdate>2012-08-18 00:15:46</createdate>
+  <lastupdateddate>2016-09-01 12:19:40</lastupdateddate>
+  <lastlogindate>2016-09-01 12:19:40</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="91">I love the Bible, the Word of God</fav>
+  </favourites>
+</user>

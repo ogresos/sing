@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nuestro Pastor admirable</title>
+  <index>true</index>
+  <category>La iglesia&amp;mdash;Como el rebaño de Dios</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nuestro Pastor admirable,
+Cristo Jesús, nos sacó
+De͜ aquel redil a los pastos,
+Y Sus riquezas nos dio.</stanza>
+	<stanza type="chorus" number="">¡Gloriosa͜ iglesia!
+¡Rico,͜ abundante caudal!
+Aquí͜ en unión habitando,
+Dios manda vida͜ eternal.</stanza>
+	<stanza type="verse" number="2">Nos encontró͜ en divisiónes,
+Hambrientos, casi͜ al morir;
+A buena tierra nos trajo,
+Mi͜ espíritu͜ hizo vivir.</stanza>
+	<stanza type="verse" number="3">Nuestro Jesús es el pasto,
+Nuestra comida también;
+Siempre͜ alimenta͜ el rebaño,
+Al congregarnos con El.</stanza>
+	<stanza type="verse" number="4">En este monte͜ habitamos
+Bajo͜ el rocio de Dios;
+Fluye la vida͜ en la fuente,
+Aguas de gran bendición.</stanza>
+	<stanza type="verse" number="5">Es nuestro Cristo͜ el descanso,
+Nada tememos aquí;
+A Sus ovejas El cuida
+Con Su presencia gentil.</stanza>
+  </lyrics>
+</hymn>

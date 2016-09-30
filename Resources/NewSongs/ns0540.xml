@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The water in the word</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:540"/><lsmyp num="352"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Jack Wilmore">J. W.</author>
+    <composer biodate="" biolink="" fullname="Jack Wilmore">J. W.</composer>
+  </creators>
+  <hymncode>235565121121217121132132</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | C - Am - | F - G - | C - - - | F - - - | C - G - | C - - - | C - G - | C - - - | Em - - - | Dm - - - | C - - - | Dm/F - - - | Em - - - | Dm - - - | C - - - | G - - - |</chords>
+  <melody>| 0 - - 0./ 2// | (startrepeat2) 3/ 5/ 5/ 6// 5//( 5.)( 5//) ._1// | ._2/ ._1/ ._1/ ._2// ._1//( ._1) - | ._2/ ._1/ 7/ ._1/ ._2/ ._1/( ._1/) ._1/ (break) | ._3/ ._2/ ._1/ ._3// ._2//( ._2) - | ._3/ ._3/ ._3 ._4/ ._3// ._2//( ._2/) ._1/ | 6/ ._1/ ._1 ._4/ ._4/ ._3/ ._2/ (break) | (alt1) ._2/ ._1/ ._1/ ._1/ ._2/ ._1/ 7/ ._2// ._1//( | ._1)( - - ._1./) 2// | (alt2) ._2/ ._1/ ._1/ ._1/ ._2/ ._1/ 7/ ._2// ._1//( | ._1) - - - (endalt) (break) | 7 7 ._3 7/( 6/) | 7/( 6.)( 6) 6// 5// 3/ | 5 - - 6/ ._1/ | ._2( - - ._2/) 7/ (break) | 7 7 ._3 7/ 6/ | 7/( 6.)( 6) 6//( 5//) 3/ | 5 - - - | ._2./ ._3// ._2( ._2) 0 |</melody>
+  <!--audio>http://scripturesongs.us/Eph5_26-27.mp3</audio-->
+  <layout>
+    <singingstanza>The wa -- ter in the word, the wa -- ter in the word, Wash -- ing by the wa -- ter, the wa -- ter in the word, That He might sanc -- ti -- fy her, cleans -- ing her, Cleans -- ing by the wash -- ing of the wa -- ter in the word. The wash -- ing of the wa -- ter in the word. Hus -- bands, love your wives E -- ven as Christ loved the church And gave Him -- self up for her, Gave Him -- self up for her.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Ephesians 5:25-27</link>
+  </links>
+  <music>
+    <midi location="ns" length="68">ns0540.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The water in the word, the water in the word,
+Washing by the water, the water in the word,
+That He might sanctify her, cleansing her,
+Cleansing by the washing of the water in the word.</stanza>
+    <stanza type="note">(Repeat)</stanza>
+    <stanza type="chorus" number="">Husbands, love your wives
+Even as Christ loved the church
+And gave Himself up for her,
+Gave Himself up for her.</stanza>
+    <stanza type="verse" number="">The water in the word, the water in the word,
+Washing by the water, the water in the word,
+That He might sanctify her, cleansing her,
+Cleansing by the washing of the water in the word,</stanza>
+    <stanza type="note">(Repeat)</stanza>
+    <stanza type="chorus" number="">That He might present
+The church to Himself glorious,
+Not having spot or wrinkle
+Or any such things, any such things.</stanza>
+    <stanza type="verse" number="">The water in the word, the water in the word,
+Washing by the water, the water in the word,
+That He might sanctify her, cleansing her,
+Cleansing by the washing of the water in the word.</stanza>
+  </lyrics>
+</hymn>

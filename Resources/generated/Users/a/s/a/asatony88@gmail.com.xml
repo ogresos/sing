@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Antonio</firstname>
+  <lastname/>
+  <email>asatony88@gmail.com</email>
+  <password>$2y$10$Jn9/Kd5dErlIhtlbAN4pHuUhsrvLp08Srz.QrkIBnvgQX.0/psQ8C</password>
+  <gender/>
+  <country>ky</country>
+  <ipaddress>208.168.237.247</ipaddress>
+  <createdate>2014-08-01 21:15:05</createdate>
+  <lastupdateddate>2014-08-01 21:16:13</lastupdateddate>
+  <lastlogindate>2014-08-01 21:15:41</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="225">Here, O my Lord, I see Thee face to face</fav>
+  </favourites>
+</user>

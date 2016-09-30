@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Samuël</firstname>
+  <lastname/>
+  <email>svel22@hotmail.com</email>
+  <password>$2y$10$DwKTcUDhWi0vgnXsBc4eQerX/l4aCcTHqL0FN95L3yjg9TmYewjmK</password>
+  <gender/>
+  <country>nl</country>
+  <ipaddress>84.83.226.40</ipaddress>
+  <createdate>2015-12-12 13:02:09</createdate>
+  <lastupdateddate>2015-12-12 23:19:30</lastupdateddate>
+  <lastlogindate>2015-12-12 13:02:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+    <fav category="default" type="h" num="935">Around Thy grave, Lord Jesus</fav>
+    <fav category="default" type="hd" num="79">Christus is mijn vrede</fav>
+    <fav category="default" type="h" num="328">Complete in Thee! no work of mine</fav>
+    <fav category="default" type="hd" num="35">Drink, het water rein en helder, stromend van de troon</fav>
+    <fav category="default" type="hd" num="53">Eens ver van God, in zonde dood</fav>
+    <fav category="default" type="hd" num="101">Eens zocht ik naar zegen, nu is het de Heer</fav>
+    <fav category="default" type="hd" num="83">Elke dag dichter bij</fav>
+    <fav category="default" type="hd" num="67">Ik geloof het ware Woord</fav>
+    <fav category="default" type="hd" num="11">Ik vond de onvergelijkbare</fav>
+    <fav category="default" type="hd" num="39">Jezus is de Geest des levens</fav>
+    <fav category="default" type="hd" num="1">Jezus, ‘k ben gevangen door Uw schoonheid</fav>
+    <fav category="default" type="hd" num="99">Leven in Hem, Zijn vrede nu,</fav>
+    <fav category="default" type="hd" num="74">O, Heer, U bent het leven in mij</fav>
+    <fav category="default" type="lb" num="48">The Lord is my strength and my song</fav>
+    <fav category="default" type="h" num="620">The cross it standeth fast</fav>
+    <fav category="default" type="hd" num="7">Wat een overwinning! Glorie!</fav>
+    <fav category="default" type="h" num="1153">We have found the Christ who's all in all</fav>
+    <fav category="default" type="h" num="1069">We're feeding on the living Bread</fav>
+    <fav category="default" type="h" num="1174">What a victory! What a triumph</fav>
+    <fav category="default" type="hd" num="44">Wij genieten graag van onze Heer</fav>
+  </favourites>
+</user>

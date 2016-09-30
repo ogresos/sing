@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>來這美妙住處</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>612343275</hymncode>
+  <key>E Minor</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>離 開， 離 開 老 舊 的 背 景， 你 若 肯 轉 身， 祂 光 必 照 耀； 離 開， 離 開 死 沉 基 督 教， 活 的 基 督 纔 是 你 所 需 要。 來， 來 這 美 妙 地 方， 是 神 所 揀 選， 實 現 祂 意 旨。 來， 來 這 美 妙 住 處， 不 再 流 蕩， 可 享 安 息、 滿 足。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0521.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">離開，離開老舊的背景，
+你若肯轉身，
+祂光必照耀；
+離開，離開死沉基督教，
+活的基督纔是你所需要。</stanza>
+	<stanza type="chorus" number="">來，來這美妙地方，
+是神所揀選，
+實現祂意旨。
+來，來這美妙住處，
+不再流蕩，
+可享安息、滿足。</stanza>
+	<stanza type="verse" number="2">召會，召會，
+在地方立場，
+作主金燈臺，
+照耀何輝煌。
+召會，召會，
+神永遠計畫，
+使基督安家，
+彰顯祂智慧。</stanza>
+	<stanza type="verse" number="3">來罷，來罷，
+我們來一起，
+作合一見證，
+召會得建造。
+來罷，來罷，
+一切都成了，
+我們元首基督在此呼召。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Des</firstname>
+  <lastname>Hickinbottom</lastname>
+  <email>desh@hotmail.co.uk</email>
+  <password>$2y$10$kF//dovy4isiZRuc7VSRBuJvcHNSEbMsYAWpmNsVU3VTAcZ5mWomW</password>
+  <gender>M</gender>
+  <country>uk</country>
+  <ipaddress>92.237.70.155</ipaddress>
+  <createdate>2011-10-24 07:44:17</createdate>
+  <lastupdateddate>2015-11-22 16:50:15</lastupdateddate>
+  <lastlogindate>2015-11-22 16:50:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

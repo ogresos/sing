@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Sam</firstname>
+    <lastname>Chen</lastname>
+    <email>samchen2003@gmail.com</email>
+    <password>$1$wIvhnKDI$0qGaL7AYBh98Uv6kUEmS2.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>76.212.216.143</ipaddress>
+    <createdate>2009-03-23 21:25:07</createdate>
+    <lastupdateddate>2012-06-06 23:37:06</lastupdateddate>
+    <lastlogindate>2012-06-06 23:37:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="ns" num="125">Go on, go on</fav>
+        <fav category="default" type="ns" num="48">God wants someone to love Him</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+        <fav category="default" type="h" num="660">In nothing be anxious; the Lord is at hand</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+        <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+        <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+        <fav category="default" type="ns" num="287">There are Times</fav>
+        <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+        <fav category="default" type="nt" num="647">Trust Him when thy wants are many</fav>
+        <fav category="default" type="ns" num="73">Trust in the Lord</fav>
+        <fav category="default" type="h" num="651">When is the time to trust</fav>
+    </favourites>
+</user>

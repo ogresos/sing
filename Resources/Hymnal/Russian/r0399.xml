@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Мы, Господь, с любовью ценим</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО СТРАДАНИЕ</category>
+  <numbers><cebuano num="93"/><chinese num="87"/><english num="93"/><korean num="87"/><russian num="399"/><tagalog num="93"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from M. W. Biggs</author>
+    <author biodate="1905-1997" biolink="">Translated from Chorus by Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <music>
+    <midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Мы, Господь, с любовью ценим
+Скорбный труд Твой на земле.
+На кресте Твоё страданье
+Будит в нас любовь к Тебе.</stanza>
+    <stanza type="chorus" number="">Славься, славься, о Спаситель!
+Смерть за грешных принял Ты!
+Будь прославлен! Будь прославлен!
+Ныне жизнь в Тебе имеем мы.</stanza>
+    <stanza type="verse" number="2">Скорбь Твоя была глубокой,
+Глубже, чем дано нам знать;
+Боль Твоих святых страданий
+Невозможно описать.</stanza>
+    <stanza type="verse" number="3">Искупление с Тобою
+Разделить никто не мог;
+Те безмерные страданья
+Лишь Тебе назначил Бог.</stanza>
+    <stanza type="verse" number="4">До глубин Ты грех измерил,
+Тьму, проклятье, гнев познал;
+Богом и людьми оставлен.
+Как любовь Твоя сильна!</stanza>
+  </lyrics>
+</hymn>

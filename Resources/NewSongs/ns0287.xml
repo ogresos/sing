@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There are Times</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Enjoyment in Suffering</category>
+  <numbers><english num="ns:287"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Vanessa LaBounty (Baker)">V. L. (B.)</author>
+    <composer biodate="" biolink="" fullname="Vanessa LaBounty (Baker)">V. L. (B.)</composer>
+  </creators>
+  <hymncode>1751761714312</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>96</tempo>
+  <chords>| C - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | Gsus4 - - - | G - - - | C - - - | Am - - - | F - - - | Gsus4 - G - | C - - - | Am - - - | F - - - | G - - - | Gsus4 - - - | G - - - | C - - - |</chords>
+  <melody>| 0 - 1 7_. | (startrepeat3) 5_. - - 1/ 7_./ | 6_. - - 1/ 7_./ | 1 - 4 3 | 1. 2/( 2) 3/ 4/ | 3 - - 4/ 5/ | 5. 1/( 1) 5 | 5. 4/( 4) 3 | 2 - - - (break) | (Chorus) 0 7_. 2 4 | 0/ 3/ 3/ 4/ 4/ 5/ 5/ 1/ | 7_.. 1/( 1) - | 0/ 5/ 5/ 4/ 4/ 3/ 3/ 1/( | 1/) 2/( 2) - - (break) | 0/ 3/ 3/ 4/ 4/ 5/ 5/ 1/ | 7_.. 1/( 1) 5 | 5. 4/( 4) 3 | (alt1) 2 - - - | (alt2) 2 - - - | (endalt) 0. 1/ 1 7_. | 1 - - - |</melody>
+  <layout>
+    <singingstanza>There are times in my life When my heart is em -- bit -- tered. There are ques -- tions un -- an -- swered, Yet, You're draw -- ing me To en -- ter In -- to Your bless -- ed sanc -- tu -- ar -- y And turn -- ing my eyes heav -- en -- ward, The ques -- tions of con -- stant in -- quir -- y Are changed to these words, play In ev -- ery way.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">ot_psa73.xml</link>
+    <link type="ref">Psalms 73</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="0xu2xVQPpdY"/>
+  </videos>
+  <music>
+    <midi location="ns" length="141">ns0287.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There are times in my life
+When my heart is embittered.
+There are questions unanswered,
+Yet, You're drawing me</stanza>
+    <stanza type="chorus" number="">To enter
+Into Your blessed sanctuary
+And turning my eyes heavenward,
+The questions of constant inquiry
+Are changed to these words,</stanza>
+    <stanza type="verse" number="2">Whom do I have in heaven
+But You, dear Jehovah.
+My flesh and my heart
+Constantly fail,</stanza>
+    <stanza type="chorus" number="">But God's still
+The strength of my heart and my portion;
+To Him forever I'll draw near.
+I've made Jehovah my sweet refuge.
+So now throughout the years</stanza>
+    <stanza type="verse" number="3">Turn my view to see You,
+How I need to see Jesus!!
+Though I don't understand
+The ways that You take;</stanza>
+    <stanza type="chorus" number="">Lord, make me
+A babe and suckling always praising.
+Enjoying Your worth day by day.
+Let each experience constitute me
+So Your life I'll display
+In every way.</stanza>
+  </lyrics>
+</hymn>

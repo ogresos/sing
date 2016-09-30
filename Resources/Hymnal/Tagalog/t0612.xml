@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nais ng Diyos ang lahat Niya</title>
+  <index>true</index>
+  <category>PAGDARANAS SA DIYOS&amp;mdash;SA PAMAMAGITAN NG PAGSASANAY SA ESPIRITU</category>
+  <numbers><cebuano num="612"/><chinese num="451"/><english num="612"/><german num="612"/><korean num="451"/><portuguese num="316"/><russian num="120"/><spanish num="291"/><tagalog num="612"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2/ 1/ 2/ 3/ 4/ | 5 - 3 - | 3 3 2 1 | 2 - - - (break) | 3. 2/ 1/ 2/ 3/ 4/ | 5 - 4 - | 3 - 4 2 | 1 - - - (break) | (Chorus) 5. 5/ 6/ 7/ ._1/ 6/ | 5 - 3 - | 3 3 4 3 | 2 - - - (break) | 5. 5/ 6/ 7/ ._1/ 6/ | 5 - 4 - | 3 - 4( 2) | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="612"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nais ng Diyos ang lahat Niya
+Maging tustos ko;
+Kailangan ko'y makamtan sa
+Espiritu.
+Yaman ng Ama at Anak
+Sa Espiritu;
+Gamit ko'y espiritu nang
+Siya'y mahipo.</stanza>
+	<stanza type="verse" number="2">Kapuspusan ng pagka-Diyos
+Nasa akin na;
+Hipuin sa espiritu,
+Matamo Siya.</stanza>
+	<stanza type="verse" number="3">Linaw ng isip kailangan
+Diyos makilanlan;
+Kung 'spiritu'y di gamitin
+Di mas'yahan.</stanza>
+	<stanza type="verse" number="4">Espiritu'y gamitin sa
+Pananalangin;
+Pagbabasa ng Bibliya
+Kailangan din.</stanza>
+	<stanza type="verse" number="5">Kung salita'y babasahin
+Diyos ay hipuin;
+Kung 'spiritu'y di gamitin,
+Patay pa rin.</stanza>
+	<stanza type="verse" number="6">Anong yaman at l'walhati,
+Kaugnay ang Diyos!
+Kanyang pinakamabuti,
+Aking lubos.</stanza>
+  </lyrics>
+</hymn>

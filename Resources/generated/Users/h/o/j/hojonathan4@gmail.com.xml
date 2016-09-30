@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jonathan</firstname>
+  <lastname/>
+  <email>hojonathan4@gmail.com</email>
+  <password>$2y$10$OQz8jAlQse1WEf4QKVTXQ.6uVAgF/L5V6Vc7B/NjpVfB9VGbH/eZa</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>59.115.134.116</ipaddress>
+  <createdate>2015-01-21 10:09:48</createdate>
+  <lastupdateddate>2015-01-21 12:56:10</lastupdateddate>
+  <lastlogindate>2015-01-21 12:50:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="154">It passeth knowledge, that dear love of Thine</fav>
+    <fav category="default" type="h" num="8127">Jesus is my King all-glorious</fav>
+    <fav category="default" type="h" num="8380">Life so glorious, glorious, glorious</fav>
+    <fav category="default" type="ts" num="762">同活在主身體中</fav>
+  </favourites>
+</user>

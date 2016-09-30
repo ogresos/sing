@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>BizeByrd</firstname>
+  <lastname/>
+  <email>bizebyrd@aol.com</email>
+  <password>$2y$10$WIcjyqaWcZumnw7usLkfwOxqBPH1DDpKxuSuQke9/Zwub2vuc37P2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>100.9.156.203</ipaddress>
+  <createdate>2015-02-11 16:29:18</createdate>
+  <lastupdateddate>2016-06-03 16:44:07</lastupdateddate>
+  <lastlogindate>2016-06-03 16:42:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="342">At Calvary</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+  </favourites>
+</user>

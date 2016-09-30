@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Alma</firstname>
+    <lastname>Gould</lastname>
+    <email>almagould1000@gmail.com</email>
+    <password>4c3CjBl5%2Fl%2BP%2BHbG0AVtkQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>66.215.203.155</ipaddress>
+    <createdate>2011-04-03 19:41:08</createdate>
+    <lastupdateddate>2011-04-08 01:21:16</lastupdateddate>
+    <lastlogindate>2011-04-03 20:40:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="nt" num="343">There is sunshine in my soul today</fav>
+    </favourites>
+</user>

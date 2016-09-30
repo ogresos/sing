@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Michael</firstname>
+    <lastname>Rodriquez</lastname>
+    <email>rmirod@gmail.com</email>
+    <password>TZypDefPSIrhEOtIyRNo2A%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>76.102.179.141</ipaddress>
+    <createdate>2013-02-17 17:41:02</createdate>
+    <lastupdateddate>2013-02-17 18:03:05</lastupdateddate>
+    <lastlogindate>2013-02-17 17:41:02</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

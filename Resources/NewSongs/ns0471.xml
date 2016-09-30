@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Living Christ, Our Victory</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;By the Lord's Victory</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Ray Huff">R. H.</author>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>1231616512314321</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - G - | C - - - | F - G - | C - - - | F G Am - | F - - - | G - - - | C - - - | C - - - | C - - - | F - G - | C - - - | F - G - | C - - - | F G Am - | F - - - | G - C - | C - - - | F - G - | C - - - | F - G - | C - - - | F - G - | C - - - | F G C - | C - - - | F - G - | C - - - | F - G - | C - - - | F G Am - | F - - - | G - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 1. 2/ 3 1 | 6_. 1 6_. (.5_. | 1. 2/ 3 1 | 4 3 2 (.1 (break) | 1. 2/ 3 1 | 6_. 7_. 1 - | 3./ 5//( 5/) 5/( 5) 3 | 2 - 1 - | 1( - - - | 1) - - 0 (break) | (Verse_2)  (startrepeat) 1. 2/ 3 1 | 6_. 1 6_. 5_. | 1. 2/ 3 1 | 4 3 2( 1) (break) | 1. 2/ 3 1/(. 1/). | 6_. 7_. 1 - | 3./ 5//( 5/) 5/( 5) 3 | 2 1 1 - (break) | 3./ 5//( 5/) 5/( 5) 3 | 2 1 3 2 | 3./ 5//( 5/) 5/( 5) 3 | 2 1 2 - (break) | 3./ 5//( 5/) 5/( 5) 3 | 2 1 3 2 | 3./ 5//( 5/) 5/( 5) 3 | 2 1 (.1 - (endrepeat)  (break) | (Verse_5) 1. 2/ 3 1 | 6_. 1 6_. 5_. | 1. 2/ 3 1 | 4 3 2( 1) (break) | 1. 2/ 3 1 | 6_. 7_. 1 - | 3./ 5//( 5/) 5/( 5) 3 | 2 - 3 - | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Shout Ho -- san -- na, all ye peo -- ple, Christ de -- feat -- ed ev -- ery e -- vil; We u -- nite with one ac -- cord; Praise Thee, ev -- er con -- q'ring Lord. Nev -- er -- more we fear the dev -- il, Christ des -- troyed him on the cross, Strip -- ping off the au -- thor -- i -- ties; Now we live His vic -- to -- ry. God of peace now crush -- es Sa -- tan Un -- der o -- ver -- com -- ing feet; Our re -- joic -- ing o -- ver -- throws him, Sham -- ing ev -- ery en -- e -- my. Hal -- le -- lu -- jah, Christ the Con -- queror, Ev -- ery day we're one with Him, Walk -- ing in Him con -- stant -- ly, Liv -- ing Christ our vic -- to -- ry.</singingstanza>
+    <singingstanza2>3. [skip33] All day long sing hal -- le -- lu -- jahs In the train of van -- quished foes; [skip0] Through our praise we [skip1] nev -- er leave, Seat -- ed with Him at the throne. Nev -- er let the lies de -- ceive you; Christ has shut the ser -- pent's mouth; Claim the fact that we have seen him In the lake of fir -- e now.</singingstanza2>
+    <singingstanza3>4. [skip33] Soon the earth cries out, ex -- alt -- ing Our re -- turn -- ing, shin -- ing Lord; [skip0] Un -- til then we [skip1] praise and sing; All the glo -- ry's to our King. Con -- sum -- mat -- ed cor -- porate war -- rior, New Je -- ru -- sa -- lem are we, One with our as -- cend -- ed Hus -- band, Lord of lords and King of kings.</singingstanza3>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="159">ns0471.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Shout Hosanna, all ye people,
+Christ defeated every evil;
+We unite with one accord;
+Praise Thee, ever conq'ring Lord.</stanza>
+    <stanza type="verse" number="2">Nevermore we fear the devil,
+Christ destroyed him on the cross,
+Stripping off the authorities;
+Now we live His victory.</stanza>
+    <stanza type="chorus" number="">God of peace now crushes Satan
+Under overcoming feet;
+Our rejoicing overthrows him,
+Shaming every enemy.</stanza>
+    <stanza type="verse" number="3">All day long sing hallelujahs
+In the train of vanquished foes;
+Through our praise we never leave,
+Seated with Him at the throne.</stanza>
+    <stanza type="chorus" number="">Never let the lies deceive you;
+Christ has shut the serpent's mouth;
+Claim the fact that we have seen him
+In the lake of fire now.</stanza>
+    <stanza type="verse" number="4">Soon the earth cries out, exalting
+Our returning, shining Lord;
+Until then we praise and sing;
+All the glory's to our King.</stanza>
+    <stanza type="chorus" number="">Consummated corporate warrior,
+New Jerusalem are we,
+One with our ascended Husband,
+Lord of lords and King of kings.</stanza>
+    <stanza type="verse" number="5">Hallelujah, Christ the Conqueror,
+Every day we're one with Him,
+Walking in Him constantly,
+Living Christ our victory.</stanza>
+  </lyrics>
+</hymn>

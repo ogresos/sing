@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Ginoo, sa talad Mo nanambong</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="1110"/><chinese num="ts:212"/><english num="1110"/><german num="1110"/><portuguese num="124"/><russian num="46"/><spanish num="107"/><tagalog num="1110"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.hymns.net/stories/lee.htm">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Ginoo, sa talad Mo nanambong,
+Nakita ang tinapay ug kopa;
+Daygon Ka kay kalan-ong mapa'muslan
+Sa mga tawo sa daghang paagi.</stanza>
+	<stanza type="chorus" number="">Unang Chorus:
+Busa mag-awit mi's pagdayeg Nimo,
+Pagkagamay gayud Nimo!
+Ug kan-on Ka hangtud's eternidad;
+Pagkagamay gayud Nimo!</stanza>
+	<stanza type="verse" number="2">Sa pag-anhi Nimo sa kalibutan,
+Kinabuhi Mo untay isangkap;
+Apan ang tawo nagsalig's pagtulon-an,
+Busa way kadatong napa'muslan.</stanza>
+	<stanza type="chorus" number="">Ikaduhang Chorus:
+Ang kinahanglan pagkaon ra N'ya;
+Kahibulongan gyud Siya!
+Ug sa pagkaon maulian ta,
+Sa sulod ta magtubo S'ya.</stanza>
+	<stanza type="verse" number="3">Wala Ka moanhi aron maghari
+Nga magdumala namo sa gawas.
+Apan kalan-on Ikaw nga nianhi,
+Magtagbaw aron mabuhi kami.
+(Unang chorus)</stanza>
+	<stanza type="verse" number="4">Sa kadako Mo ug himaya, daygon,
+Sa gahum Mo ug pagkahalangdon;
+Apan labaw kaming magpasalamat
+Nigamay Ka nga among makaon.
+(Unang chorus)</stanza>
+  </lyrics>
+</hymn>

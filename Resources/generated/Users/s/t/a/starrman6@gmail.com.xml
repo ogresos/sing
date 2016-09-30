@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jerome</firstname>
+    <lastname>Starr</lastname>
+    <email>starrman6@gmail.com</email>
+    <password>s1AM3ojqCwstT9d%2Fayk%2B5Q%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>75.205.63.250</ipaddress>
+    <createdate>2011-09-20 16:06:55</createdate>
+    <lastupdateddate>2011-09-20 16:17:08</lastupdateddate>
+    <lastlogindate>2011-09-20 16:06:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="641">Art thou hung'ring for the fulness</fav>
+        <fav category="default" type="h" num="513">Once it was the blessing</fav>
+    </favourites>
+</user>

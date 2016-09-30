@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Anyaya'y narinig -</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGLAPIT SA PANGINOON</category>
+  <numbers><cebuano num="1051"/><chinese num="726"/><english num="1051"/><french num="202"/><german num="1051"/><korean num="726"/><portuguese num="460"/><russian num="175"/><spanish num="483"/><tagalog num="1051"/></numbers>
+  <creators>
+	<author biodate="1828-1919" biolink="">Translated from Lewis Hartsough</author>
+  </creators>
+  <melody>| 0 - 1/( 3/) | 5. 3/ 2/ 1/ | 1 - 1 | 2. 4/ 6/ 5/ (break) | 3 - 5 | ._1. 7/ 6/ 5/ | 6/ 5/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 (break) | (Chorus) ._1. 7/ 6/ 5/ | 6 - - | 5. 3/ 2/ 1/ | 2 - - (break) | 5. 6/ 3/ 2/ | 1/ 2/ (.3 1 | 2. 1/ 3/ 2/ | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="1051"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Anyaya'y narinig -
+Ikaw ay tanggapin
+Yamang dugo Mo'y nabuhos,
+Budhi ko'y linisin.</stanza>
+	<stanza type="chorus" number="">Panginoon ko,
+Nalapit sa Iyo.
+Linisin sa dugo Mo
+Buhos sa Kalbaryo.</stanza>
+	<stanza type="verse" number="2">Ako nga'y marumi't
+Walang kabutihan;
+Sa Iyong biyaya at tulong
+Sala'y nahugasan.</stanza>
+	<stanza type="verse" number="3">Atas Mong taimtim -
+Sala ko'y lisanin,
+Magsisi, sa Iyo'y manalig,
+Ikaw ay tanggapin.</stanza>
+	<stanza type="verse" number="4">Bigkas Mo'y biyaya,
+Espiritu'y ilaw,
+Nang kahinaan ko'y lantad;
+Sandigan ko'y Ikaw.</stanza>
+	<stanza type="verse" number="5">Espiritu'y taglay,
+Kaya't buhay akin;
+Pangako ng Diyos natupad,
+Nang Ika'y tanggapin.</stanza>
+	<stanza type="verse" number="6">Ang Diyos ay pag-ibig!
+Siya ang kaligtasan!
+Dugo ni Hesus&amp;mdash;pantubos!
+Lahat ko ay laan.</stanza>
+  </lyrics>
+</hymn>

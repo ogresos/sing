@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Morning Star, how fair and bright</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Beauty</category>
+  <creators>
+    <author biodate="1556-1608" biolink="">Philip Nicolai</author>
+    <composer biodate="1556-1608" biolink="">Philip Nicolai</composer>
+    <composer biodate="1685-1750" biolink="">Harmony by Johann Sebastian Bach</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>1531566556717665</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - C/E - | F - Am - | D7 - G - | F - Dm - | G7 - C - | C - C/E - | F - C/E - | F - Am - | D7 - G - | F - Dm - | G7 - C - | G/B - C - | G7 - C - | C - G - | C - G - | Dm - G7 - | C - - - | F C Dm - | G7 - C - |</chords>
+  <melody>| 0 - - 1 | 5 3 1 5 | 6 6 5 5 | 6 7 ._1 7 | 6 6 5 3 | 6 5 4 3 | 2 - (.1 1 (break) | 5 3 1 5 | 6 6 5 5 | 6 7 ._1 7 | 6 6 5 3 | 6 5 4 3 | 2 - (.1 - (break) | 5 - 3 - | 5 - 3 - | 3 3 2 2 | 3 3 2 3 | 4 3 2 - | (.1 - ._1 7 | 6 5 4 3 | 2 - (.1 0 |</melody>
+  <layout>
+    <singingstanza>O Morn -- ing Star, how fair and bright, Thou beam -- est forth in truth and light! O Sov -- 'reign meek and low -- ly, Thou Root of Jes -- se, Dav -- id's Son, My Lord and Mas -- ter, Thou hast won My heart to serve Thee sole -- ly! Thou art ho -- ly, Fair and glo -- rious, all- vic -- tor -- ious, Rich in bless -- ing, Rule and might o'er all pos -- sess -- ing.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj144.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="55">e0174_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Morning Star, how fair and bright,
+Thou beamest forth in truth and light!
+  O Sov'reign meek and lowly,
+Thou Root of Jesse, David's Son,
+My Lord and Master, Thou hast won
+  My heart to serve Thee solely!
+    Thou art holy,
+Fair and glorious, all-victorious,
+    Rich in blessing,
+Rule and might o'er all possessing.</stanza>
+    <stanza type="verse" number="2">Thou heav'nly Brightness, Light divine,
+O deep within my heart now shine,
+  And make Thee there an altar.
+Fill me with joy and strength to be
+Thy member, ever joined to Thee
+  In love that cannot falter;
+    Toward Thee longing
+Doth possess me; turn and bless me;
+    Here in sadness
+Eye and heart long for Thy gladness.</stanza>
+  </lyrics>
+</hymn>

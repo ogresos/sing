@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Mia</firstname>
+<lastname>Clark</lastname>
+<email>mia.r.clark@hotmail.com</email>
+<password>$1$FatsUNgA$3bQ0a1WxJB7HTm4nVzaF2/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>69.216.119.243</ipaddress>
+<createdate>2009-01-07 20:43:51</createdate>
+<lastupdateddate>2009-09-15 18:27:06</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

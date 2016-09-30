@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Спасителя прекрасный лик</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО КРАСОТА</category>
+  <numbers><cebuano num="177"/><chinese num="139"/><english num="177"/><korean num="139"/><russian num="506"/><tagalog num="177"/></numbers>
+  <creators>
+    <author biodate="1727-1795" biolink="">Translated from Samuel Stennett</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 1 1/ 2 2/ | 3 2/ 1 5_./ | 6_. 6_./ 1 6_./ | 5_..( 5_.) 5_./ (break) | 1 1/ 2 2/ | 3 4/ 5 3//( 2//) | 1 1/ 2 2/ | 1.( 1) 1/ | 3 3/ 2 2/ | 1.( 1) 0/ |</melody>
+  <music>
+    <midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Спасителя прекрасный лик
+    Великолепья полн,
+Из уст исходит благодать,
+    Увенчан славой Он.
+    Увенчан славой Он.</stanza>
+    <stanza type="verse" number="2">Не выдержит сравненья с Ним
+    Никто среди людей,
+Прекраснее прекрасных Он
+    В небесной череде.
+    В небесной череде.</stanza>
+    <stanza type="verse" number="3">Все радости, дыханье, жизнь –
+    Мне всё дарует Он;
+Он смерть даёт мне побеждать –
+    От гроба я спасён.
+    От гроба я спасён.</stanza>
+    <stanza type="verse" number="4">К Отцу – обители моей –
+    Меня приводит Он,
+Являет славу Бога мне,
+    И радости я полн.
+    И радости я полн.</stanza>
+    <stanza type="verse" number="5">Как много знаков у меня,
+    Господь, любви Твоей!
+Имей я тысячу сердец –
+    Все отдал бы Тебе.
+    Все отдал бы Тебе.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Now from my heart comes</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;Satisfaction with Him</category>
+  <numbers><english num="lb:70"/><vsb num="167"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Mike Jones">M. J.</author>
+    <composer biodate="" biolink="" fullname="Mike Jones">M. J.</composer>
+  </creators>
+  <hymncode>3332333323</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | Cmaj7 - - - | Am - - - | C/G - - - | F - - - | G - - - | C - F/C - | C - - - | F - - - | G - - - | Em - - - | A7 - - - | Dm - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>0/ 3/ 3/ 3/ 2/ 3. | 0/ 3/ 3/ 3/ 2/( 3.) | 0/ 3/ 3/ 3/ 2/ 3. | 0/ 3/ 3/ 3/ 2/( 3.) | 2 1 2 1 | 2 - - 3/ 2/ | 1( - - - | 1) - - 0 (break) | 6/ 6/ 6/ 6/ 6 6/ 6/ | 2// 2// 2/ 2/ 2/ 3( 4) | 5/ 5/ 5/ 5/ 5/ 5/ 5/ 5/ | 6/ 6/ 5/ 5/ 4( 3) (break) | 4/ 4/ 4/ 4/ 4/ 4/ 4/ 4/ | 5/ 5/ 4/ 4/ 3/ 5_./ 3 | 2 - 1( - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Now from my heart comes, A hap -- py song; It's just for You, Lord, There's on -- ly One: J- E- S- U- S, I love You. How I long to sing With my spir -- it and heart to You. Je -- sus, You're so rich; In who You are and what You do. E -- v'ry time I turn and o -- pen up, I drink of You. 'Cause I love You.</singingstanza>
+  </layout>
+  <music>
+    <midi location="lb" length="32">lb70.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Now from my heart comes,
+A happy song;
+It's just for You, Lord,
+There's only One:
+J-E-S-U-S, I love You.</stanza>
+    <stanza type="chorus" number="">How I long to sing
+With my spirit and heart to You.
+Jesus, You're so rich;
+In who You are and what You do.
+Ev'ry time I turn and open up,
+I drink of You.
+'Cause I love You.</stanza>
+    <stanza type="verse" number="2">I've seen how they,
+Pierced Your side,
+You gave Your all,
+To win Your bride
+J-E-S-U-S, I love You.</stanza>
+    <stanza type="verse" number="3">Without Your love, Lord,
+I'm so empty
+Life has no meaning;
+Just vanity,
+J-E-S-U-S, Reality.</stanza>
+    <stanza type="verse" number="4">Jesus in me.
+What a wonder;
+Bubbling over,
+Living water.
+J-E-S-U-S, What a joy!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoong pinagpala</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKARAPAT-DAPAT</category>
+  <numbers><cebuano num="185"/><chinese num="ts:24"/><english num="185"/><german num="185"/><tagalog num="185"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoong pinagpala
+O Aleluya!
+Di masambit kailanman
+Iyong kapurihan!</stanza>
+	<stanza type="chorus" number="">Kordero'y dapat purihin,
+Laksan tinig din
+Aleluya! Aleluya!
+Amen! Purihin Ka!</stanza>
+	<stanza type="verse" number="2">Dapat purihin: Kordero,
+Dugo'y binubo;
+Iyong saserdote at hari,
+Ginawa kami.</stanza>
+	<stanza type="chorus" number="">Kordero'y dapat purihin,
+Laksan tinig din
+Aleluya! Aleluya!
+Amen! Purihin Ka!</stanza>
+	<stanza type="verse" number="3">Aleluya, Mahal lubos,
+Pangino'ng Hesus,
+Kami'y Iyo, Ikaw ay amin,
+Iyong kai-sa, Amen.</stanza>
+	<stanza type="chorus" number="">Kordero'y dapat purihin,
+Laksan tinig din
+Aleluya! Aleluya!
+Amen! Purihin Ka!</stanza>
+	<stanza type="verse" number="4">Hindi mapigil ang kanta,
+O Aleluya!
+Kasamang banal ng bawa't
+Bansa at dila.</stanza>
+	<stanza type="chorus" number="">Kordero'y dapat purihin,
+Laksan tinig din
+Aleluya! Aleluya!
+Amen! Purihin Ka!</stanza>
+  </lyrics>
+</hymn>

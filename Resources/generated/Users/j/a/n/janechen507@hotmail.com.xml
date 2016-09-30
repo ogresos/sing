@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jane</firstname>
+    <lastname>Chen</lastname>
+    <email>janechen507@hotmail.com</email>
+    <password>vymKNNNCShEP4O%2FvIqNTcg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>66.215.230.143</ipaddress>
+    <createdate>2011-03-04 01:48:12</createdate>
+    <lastupdateddate>2012-06-07 07:53:15</lastupdateddate>
+    <lastlogindate>2012-06-07 07:43:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1332">Do you know that you were chosen</fav>
+        <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+        <fav category="default" type="h" num="1131">In a low dungeon, hope we had none</fav>
+    </favourites>
+</user>

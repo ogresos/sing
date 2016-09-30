@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tell the Truth, Even to the Letter</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Be Truthful</category>
+  <hymncode>3213321724322221231</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C G C - | C - G - | G - - - | G7 - C - | C7 - F - | F - C - | C - F - | C/G G7 C - |</chords>
+  <melody>| 3 2 1 0 | 3/ 3/ 2/ 1/ 7_./ 2/ 0 (break) | 4 3 2 0/ 2/ | 2/ 2/ 1/ 2/ 3/ 1/ 0 (break) | 5/ 5/ 4/ 3/ 4/ 4/ 4/ 0/ | 4/ 4/ 3/ 2/ 3/ 3/ 3/ 0/ (break) | 3/ 3/ 2/ 1/ 2/ 6_./ 6_./ 1/ | 3 2 1 0 |</melody>
+  <layout>
+    <singingstanza>Tell the truth, e -- ven to the let -- ter. Tell the truth, it makes you feel much bet -- ter. Oth -- ers then can count on you, When you speak a word so true. It is what we all should do, So tell the truth.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="19">c0125.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Tell the truth, even to the letter.
+Tell the truth, it makes you feel much better.
+Others then can count on you,
+When you speak a word so true.
+It is what we all should do,
+So tell the truth.</stanza>
+  </lyrics>
+</hymn>

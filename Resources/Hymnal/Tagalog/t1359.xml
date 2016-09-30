@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kunin Mo aking buhay</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;ISINUKO ANG LAHAT SA PANGINOON</category>
+  <numbers><cebuano num="445"/><chinese num="339"/><english num="1359"/><german num="445"/><korean num="339"/><portuguese num="205"/><russian num="84"/><spanish num="192"/><tagalog num="1359"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="www.hymns.net/stories/havergal.htm">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 1 1 | 1/( 5_./) 1/( 3/) | 5 4 | 3 - | 3 3 | 3/( 2/) 4/( 2/) | 1 7_./( 2/) | 1 - (break) | 3 3 | 2 2/( 3/) | 4 5 | 4( 3) | 5 5 | 6 5 | 5/( 4/) 4/( 3/) | 3( 2) | 1 2 | 3 4/( 2/) | 1 7_. | 1 - |</melody>
+  <music>
+	<midiref type="h" num="281"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kunin Mo aking buhay,
+Ito'y aking in'alay;
+Aking araw, sandali,
+Sa Iyo ako'y pupuri.</stanza>
+	<stanza type="chorus" number="">Hinamak Ka dahil sa akin;
+Kusang nagdugo't namatay rin.
+Sa Iyo 'binuhos buhay ko't pagsinta,
+Paglilingkuran Kita.</stanza>
+	<stanza type="verse" number="2">Kunin paa ko't kamay,
+Sa gawa Mo'y igabay.
+Iyong angkinin labi ko,
+Ihayag Salita Mo.</stanza>
+	<stanza type="verse" number="3">Kunin pilak ko't ginto;
+Kunin nang walang hinto.
+Kunin ang talino ko,
+Iyong gamitin nang husto.</stanza>
+	<stanza type="verse" number="4">Puso't isip ko'y sa Iyo;
+Iyo lamang mga ito.
+Pag-ibig ko'y kunin Mo,
+Sa Iyo ibuhos ito!</stanza>
+	<stanza type="verse" number="5">Hesus, kunin Mo ako
+Hanggang makaisa Mo.
+Kunin Mo sarili ko,
+Ako ay para sa Iyo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>yulins</firstname>
+  <lastname/>
+  <email>yulins1989@gmail.com</email>
+  <password>$2y$10$PToMDAiq5rYoSsZVAcXQ0eNzX9F6PmSWknWw8SYhgS1f6kzfWZ3vC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-06-13 20:46:01</createdate>
+  <lastupdateddate>2016-08-27 21:47:37</lastupdateddate>
+  <lastlogindate>2016-08-27 21:47:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="ns" num="360">And Confessedly, Great is the Mystery</fav>
+    <fav category="default" type="h" num="1339">Behold how good and how pleasant it is</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="h" num="1252">Down in Babylon, in captivity</fav>
+    <fav category="default" type="ns" num="128">Draw me, dear Lord, with Your beauty</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+    <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+    <fav category="default" type="ns" num="125">Go on, go on</fav>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+    <fav category="default" type="nt" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="ns" num="133">I Love My Master</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="69">Jesus won't You come</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="h" num="1168">Laboring on Jesus, the good land so real</fav>
+    <fav category="default" type="ns" num="78">Lord Jesus, You're lovely</fav>
+    <fav category="default" type="ns" num="295">Lord, I give my heart to You</fav>
+    <fav category="default" type="ns" num="209">Lord, now I see</fav>
+    <fav category="default" type="ns" num="99">Mary poured out her love offering</fav>
+    <fav category="default" type="ns" num="114">Nothing's quite so precious</fav>
+    <fav category="default" type="ns" num="353">Now to Him Who is able</fav>
+    <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    <fav category="default" type="lb" num="69">Someone</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="1141">We will sing to the Lord with our spirit</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="h" num="8773">When I've run the race before me</fav>
+  </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ilog ng tubig na buhay</title>
+  <index>true</index>
+  <category>SUKDULANG PAGPAPAKITA&amp;mdash;BUHAY SA KAWALANG-HANGGAN</category>
+  <numbers><cebuano num="984"/><chinese num="204"/><english num="984"/><german num="984"/><korean num="204"/><portuguese num="500"/><russian num="294"/><tagalog num="984"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 4 3 2( 6_.) 7_. | 1 - - 5_. - - | 1 2 1 6_. 7_. 1 | 2 - - - - - (break) | 3 2 1 1 7_. 6_. | 5_. - - 1 - - | 1 7_. 6_. 7_. 5_. 2 | 1 - - - - - (break) | (Chorus) 3 3 3 3( 4) 5 | 5 - - 2 - - | 2 2 2 2( 1) 2 | 3 - - - - - (break) | 3 3 3 3( 4) 5 | 5 - - 4# - - | 5 4 1# 2 3 2 | 1 - - - - - |</melody>
+  <music>
+	<midiref type="h" num="251"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ilog ng tubig na buhay,
+Sa trono 'to'y nagbuhat,
+Salamuha'y naibigay,
+Awtoridad tinaglay.</stanza>
+	<stanza type="chorus" number="">Ilog ng tubig na buhay,
+Malayang salamuha,
+May awtoridad na dala,
+Saan man 'to mapunta.</stanza>
+	<stanza type="verse" number="2">'Spiritu'y ilog ng buhay,
+Agos, Diyos bilang buhay;
+Pagkapanginoo'y dala,
+Saanman 'to mapunta.</stanza>
+	<stanza type="verse" number="3">Umagos sa gintong daan,
+Tinuro sa 'tin daan,
+Nasa kalikasan ng Diyos,
+Yao'y tahaking lubos.</stanza>
+	<stanza type="verse" number="4">Sa pampang puno ng buhay,
+Diyos 'ting pagkaing tunay;
+Kung saan Siya umaagos.
+Naroon ang panustos.</stanza>
+	<stanza type="verse" number="5">Poon nagbasag Ka minsan,
+Nang kami'y padaluyan;
+Basagin din naman ako,
+Nang umagos tubig Mo.</stanza>
+  </lyrics>
+</hymn>

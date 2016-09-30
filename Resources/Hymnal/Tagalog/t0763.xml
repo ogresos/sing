@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kristo'y Alpha ng dasal ko</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;ANG KAHULUGAN</category>
+  <numbers><chinese num="551"/><english num="763"/><korean num="551"/><tagalog num="763"/></numbers>
+  <creators>
+    <author biodate="1866-1932" biolink="">Translated from Annie Johnson Flint</author>
+  </creators>
+  <music>
+    <midiref type="h" num="157"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Kristo'y Alpha ng dasal ko,
+'Spiritu'y nagturo;
+Manalangi'y di ko alam,
+Kung 'di Niya gabayan.</stanza>
+    <stanza type="verse" number="2">Kristo'y Omega ng dasal,
+"Amen" ng Diyos mahal;
+Sa pahinga ng dalangin,
+Isa ang damdamin.</stanza>
+    <stanza type="verse" number="3">Gitna ng Alpha't Omega,
+Tayo'y nagsalita;
+Pagbigkas na mahihina,
+Sinaling isip Niya.</stanza>
+    <stanza type="verse" number="4">Hesus, Ika'y Una't Huli,
+Mamutawi muli;
+Sa 'ming labi Iyong naisin,
+At pagkaisahin.</stanza>
+    <stanza type="verse" number="5">Sa dalanging di mawika,
+Ika'y panimula;
+Sa dasal di mapalubos
+Ika'y pagtatapos.</stanza>
+  </lyrics>
+</hymn>

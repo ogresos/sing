@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Mark</firstname>
+    <lastname>Helfrich</lastname>
+    <email>helfrich.mark@gmail.com</email>
+    <password>%2B%2FeFia8lkTTS8fKz5okw4g%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>69.236.181.255</ipaddress>
+    <createdate>2011-03-13 18:55:56</createdate>
+    <lastupdateddate>2011-03-13 19:00:46</lastupdateddate>
+    <lastlogindate>2011-03-13 18:55:58</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="292">A debtor to mercy alone</fav>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    </favourites>
+</user>

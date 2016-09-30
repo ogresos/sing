@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Malalim man kasalanan</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG ANG SUMASAPAT-SA-LAHAT</category>
+  <numbers><chinese num="387"/><english num="533"/><korean num="387"/><tagalog num="533"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="533"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Malalim man kasalanan,
+Matarik ang daraanan,
+Anuman ang kapaguran,
+Pangino'n, sapat Ka.</stanza>
+    <stanza type="verse" number="2">Pagsubok munti't malaki,
+Pasan kaunti't marami,
+Yapak natisod, nabali,
+Pangino'n, sapat Ka.</stanza>
+    <stanza type="verse" number="3">Kung panlupa'y may kas'yahan,
+Langit naman nakublihan,
+Ng ginhawa't kagalakan,
+Pangino'n, sapat Ka.</stanza>
+    <stanza type="verse" number="4">Buong araw kapanglawan,
+Kabigua'y humahadlang,
+Puso'y umid manalangin,
+Pangino'n, sapat rin.</stanza>
+    <stanza type="verse" number="5">Anumang kalagayan ko,
+Nawa'y makita kamay Mo,
+Ikaw ay karanasan ko,
+Sapat Ka, Pangino'n.</stanza>
+  </lyrics>
+</hymn>

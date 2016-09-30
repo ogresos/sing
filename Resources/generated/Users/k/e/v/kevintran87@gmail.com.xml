@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname>Tran</lastname>
+  <email>kevintran87@gmail.com</email>
+  <password>$2y$10$OBsMYoGEVJFyoXBMhHyZEOatqyzkjF/UNxAJan0aGRcZrcv84ys9S</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.185.48.194</ipaddress>
+  <createdate>2014-07-09 01:20:27</createdate>
+  <lastupdateddate>2014-07-09 01:20:57</lastupdateddate>
+  <lastlogindate>2014-07-09 01:20:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

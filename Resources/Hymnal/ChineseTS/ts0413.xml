@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿們，主耶穌</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <melody>| 0 - - 5_. | 1. 1/ 1 3 | 2. 1/ 2 3/( 2/) | 1. 1/ 3 5 (break) | 6 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 3/( 2/) | 1. 6_./ 6_. 5_. (break) | 1 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 6 | 5. 3/ 3 5 (break) | 6 - - 6 | 5. 3/ 3 1 | 2. 1/ 2 3/( 2/) | 1. 6_./ 6_. 5_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>『阿 們』， 主 耶 穌！ 『阿 們』， 主！ 是 的 『阿 們』 不 停， 我 『阿 們』 你 寫 出 的 話， 『阿 們』 整 本 聖 經， 也 『阿 們』 你 隨 時 的 話， 你 知 我 所 需 要， 因 此 我 仍 說： 『阿 們』 主！ 無 論 甚 麼 都 好。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1021"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">『阿們』，主耶穌！
+『阿們』，主！
+是的『阿們』不停，
+我『阿們』你寫出的話，
+『阿們』整本聖經，
+也『阿們』你隨時的話，
+你知我所需要，
+因此我仍說：
+『阿們』主！
+無論甚麼都好。</stanza>
+  </lyrics>
+</hymn>

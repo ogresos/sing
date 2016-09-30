@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brian</firstname>
+  <lastname>Bethel</lastname>
+  <email>bbbethel@gmail.com</email>
+  <password>$2y$10$MSetTOAn8mvSeljkoXxRRO/GJRa2IMS.59ihPErf68gc.yJrzUc/i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>66.26.67.198</ipaddress>
+  <createdate>2015-01-30 02:14:13</createdate>
+  <lastupdateddate>2015-01-30 02:20:57</lastupdateddate>
+  <lastlogindate>2015-01-30 02:18:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+  </favourites>
+</user>

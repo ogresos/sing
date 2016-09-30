@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Purihin Iyong ngalan, Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG BIYAYA SA PAGKA-ANAK</category>
+  <numbers><cebuano num="47"/><chinese num="44*"/><english num="47"/><korean num="44"/><russian num="393"/><tagalog num="47"/></numbers>
+  <creators>
+    <author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="38"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Purihin Iyong ngalan, Ama,
+Turo ng biyaya;
+Sa kat'wiran naitaas
+Ang puso sa galak.</stanza>
+    <stanza type="verse" number="2">Kaligtasang katibayan
+Dapat papurihan
+Sa makalangit na trono,
+Nakatuon puso.</stanza>
+    <stanza type="verse" number="3">Walang hanggang magdeklara,
+Yaman ng biyaya;
+Sa mga makabahagi,
+Sa Anak palagi.</stanza>
+    <stanza type="verse" number="4">Naghihintay, may pag-asa,
+Bagama't sa lupa
+'Pagka't kami'y Iyong kukunin,
+Ika'y makapiling.</stanza>
+    <stanza type="verse" number="5">'Ming bahaging walang hanggan,
+Ang Iyong kapuspusan.
+Gaya ng Anak manahan,
+Sa kal'walhatian.</stanza>
+    <stanza type="verse" number="6">Ama, sa mahal Mong ngalan,
+Kami'y Iyong ingatan.
+Walang takot tatahakin,
+Nais Mo'y tutupdin.</stanza>
+  </lyrics>
+</hymn>

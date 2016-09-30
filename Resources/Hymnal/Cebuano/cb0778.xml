@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Awit sa pagsalig</title>
+  <index>true</index>
+  <category>PAG-AMPO&amp;mdash;DIHA SA PAGTOO</category>
+  <numbers><cebuano num="778"/><chinese num="562"/><english num="778"/><korean num="562"/><tagalog num="778"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="778"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Awit sa pagsalig
+Bisan dulom'ng langit;
+Kay sa pagdayeg Dios mobuhat,
+Aron mangatuman
+Tanang gisaligan.</stanza>
+    <stanza type="verse" number="2">Awit sa pagsalig,
+Ikaw magmalig-on,
+Kay ang Dios ta mahimuot,
+Kon pagsalig makadayeg
+Bisan dugayng gabii.</stanza>
+    <stanza type="verse" number="3">Awit sa pagsalig,
+Kaaway mokagiw;
+Ayaw'g hunongang pag-awit,
+Pagdaug mang pagdayeg,
+Pagdaug mang pagdayeg.</stanza>
+    <stanza type="verse" number="4">Awit sa pagsalig,
+Adlaw mosubang na,
+Mosugat ta sa Ginoo,
+Ug moapil's awit
+Nga way katapusan.</stanza>
+  </lyrics>
+</hymn>

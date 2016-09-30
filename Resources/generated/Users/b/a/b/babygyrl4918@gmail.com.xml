@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>April T</firstname>
+  <lastname>Spencer</lastname>
+  <email>babygyrl4918@gmail.com</email>
+  <password>$2y$10$zLmkdmGIeFshC/5IQY17lOK98yelM5V4ZCiPa73WmOZOpsRdz4rrC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.163.91.88</ipaddress>
+  <createdate>2014-08-08 00:39:58</createdate>
+  <lastupdateddate>2014-08-08 00:50:53</lastupdateddate>
+  <lastlogindate>2014-08-08 00:41:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="36">I believe the promises of God</fav>
+    <fav category="default" type="c" num="39">Never forget! That it's God who created you</fav>
+  </favourites>
+</user>

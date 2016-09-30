@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ted</firstname>
+  <lastname>Bader</lastname>
+  <email>tedbader@cox.net</email>
+  <password>$2y$10$L8N.Fwc2sIePdnmqqAQsxeXUGZJpPDDhpFIBuCeSrh1XTkWw0Q.0K</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.97.149.6</ipaddress>
+  <createdate>2015-10-31 12:29:15</createdate>
+  <lastupdateddate>2015-11-05 13:03:21</lastupdateddate>
+  <lastlogindate>2015-11-05 13:03:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

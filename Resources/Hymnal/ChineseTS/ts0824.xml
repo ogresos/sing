@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>人生宛如走馬看花</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>211345671766</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>有 所 得─ 多 少 東 西 你 夢 寐 以 求， 衣 食 住 行 育 樂 樣 樣 有； 等 到 得 手， 不 過 如 此。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0824.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">有所得─
+多少東西你夢寐以求，
+衣食住行育樂樣樣有；
+等到得手，不過如此。</stanza>
+	<stanza type="verse" number="2">有所事─
+興高采烈不過一陣子，
+喜新厭舊又再絞腦汁；
+日光之下，並無新事。</stanza>
+	<stanza type="verse" number="3">人生宛如走馬看花，
+來去匆匆，
+天天忙西忙東，
+到頭來是虛空的虛空。
+你尋求─
+要看有何能叫你滿足，
+扎扎實實非敷衍了事，
+能解決你心中苦楚。</stanza>
+	<stanza type="verse" number="4">不錯，
+是有一樣你從來沒有過，
+你所可能企求的
+都可在祂身上得著。
+祂是主─
+祂是何等的豐富實際，
+我的無聊已消蹤匿跡。
+祂填滿了我的空虛。</stanza>
+	<stanza type="chorus" number="">（結尾）
+哦主耶穌，你是實際！</stanza>
+  </lyrics>
+</hymn>

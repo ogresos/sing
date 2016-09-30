@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Du, Jesus, bist der höchste Herr</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Herrlichkeit</category>
+  <numbers><cebuano num="133"/><chinese num="120"/><english num="133"/><german num="133"/><korean num="120"/><portuguese num="70"/><russian num="403"/><spanish num="69"/><tagalog num="133"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Du, Je -- sus, bist der höchs -- te Herr, Ge -- krönt mit Herr -- lich -- keit; In Macht und Ma -- jes -- tät bist Du Ge -- ach -- tet weit und breit.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Du, Jesus, bist der höchste Herr,
+Gekrönt mit Herrlichkeit;
+In Macht und Majestät bist Du
+Geachtet weit und breit.</stanza>
+	<stanza type="verse" number="2">Als Gott im Menschen lebtest hier,
+Uns dientest wie ein Knecht;
+Als Mensch in Gott im Himmel weilst,
+Herr aller bist zu Recht.</stanza>
+	<stanza type="verse" number="3">Als Mensch bist dort in Herrlichkeit
+Und auf den Thron gesetzt;
+Nun dort und auf der Erde hier
+Bist Du, Herr, mächtig jetzt.</stanza>
+	<stanza type="verse" number="4">Herr, droben hast den höchsten Platz,
+Den höchsten Namen hier.
+Bald jeder Dich bekennt als Herr,
+Sich beugen wird vor Dir.</stanza>
+	<stanza type="verse" number="5">Gott machte Dich zum Christus, Herrn,
+Der Geist zeigt's allezeit;
+Mit Gott sitzt Du auf Seinem Thron,
+In Himmelsherrlichkeit.</stanza>
+	<stanza type="verse" number="6">Dir, Herr der Herrlichkeit, sei Ehr,
+Lobpreis zu Dir reich fließt.
+Wir singen Dir, Du höchster Herr,
+Anbetung würdig bist.</stanza>
+  </lyrics>
+</hymn>

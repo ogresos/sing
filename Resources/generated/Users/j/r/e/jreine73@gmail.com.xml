@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Justin</firstname>
+  <lastname>Reine</lastname>
+  <email>jreine73@gmail.com</email>
+  <password>$2y$10$I7r00nMYN27NnIH2NXcsluGY2llHJ17OVrx9kqTrg84YhiDmjCz8q</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.185.225.49</ipaddress>
+  <createdate>2016-08-14 01:34:18</createdate>
+  <lastupdateddate>2016-08-14 04:13:53</lastupdateddate>
+  <lastlogindate>2016-08-14 04:13:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

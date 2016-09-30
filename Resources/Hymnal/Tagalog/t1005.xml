@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Namatay para sa salarin</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG DUGO</category>
+  <numbers><chinese num="685"/><english num="1005"/><korean num="685"/><spanish num="468"/><tagalog num="1005"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from John G. Foote</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1005"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Namatay para sa salarin,
+Ang Manunubos nating Kristo;
+Dugo Niya'y 'winisik sa puso,
+"At ikaw nga'y lalampasan Ko."</stanza>
+    <stanza type="chorus" number="">"Kung makita Ko
+Ang dugo, dugo,
+Kung makita Ko,
+Ikaw nga ay lalampasan Ko."</stanza>
+    <stanza type="verse" number="2">Punong salarin, 'liligtas Niya;
+Tutupdin ang Kanyang pangako;
+Batis para sa kasalanan,
+"At ikaw nga'y lalampasan Ko."</stanza>
+    <stanza type="verse" number="3">Ang lahat ay mahahatulan,
+Bawa't isa'y may matatamo;
+Magkubli sa dugong nagligtas,
+"At ikaw nga'y lalampasan Ko."</stanza>
+    <stanza type="verse" number="4">Dakilang pag-ibig at habag!
+Kabutihang tapat, totoo!
+Sa dugo'y payapa at ligtas,
+"At ikaw nga'y lalampasan Ko."</stanza>
+    <stanza type="note" number="">(Isinalin mula sa Intsik)</stanza>
+  </lyrics>
+</hymn>

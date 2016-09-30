@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Im Gebet den Herrn ausstell</title>
+  <index>true</index>
+  <category>GEBET&amp;mdash;Den Herrn zum Ausdruck bringen</category>
+  <numbers><cebuano num="785"/><chinese num="567"/><english num="785"/><german num="785"/><korean num="567"/><russian num="285"/><tagalog num="785"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 2. 3/ | 4 2 3 - | 3 5 2. 3/ | 4 2 1 - (break) | 2 3 1. 2/ | 7_. 6_. 5_. - | 3 5 2. 3/ | 4 2 1 - |</melody>
+  <layout>
+	<singingstanza>Im Ge -- bet den Herrn aus -- stell, Bet nicht aus dem Selbst her -- aus, Was der Herr dir of -- fen -- bart, Nur was Er Sich wünscht, sprich aus.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="583"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Im Gebet den Herrn ausstell,
+Bet nicht aus dem Selbst heraus,
+Was der Herr dir offenbart,
+Nur was Er Sich wünscht, sprich aus.</stanza>
+	<stanza type="verse" number="2">Im Gebet den Herrn ausstell,
+Seinen Willen äussern wir,        
+Eigenes in dir verbirg,
+Uns Sein Denken fülle hier.</stanza>
+	<stanza type="verse" number="3">Im Gebet den Herrn ausstell,
+Schau den Herrn an allezeit,
+Reflektier von innen her
+Täglich Seine Herrlichkeit.</stanza>
+	<stanza type="verse" number="4">Im Gebet den Herrn ausstell;
+Christus, der in dir nun wohnt,
+Steht für dich bei Christus ein,
+Der im dritten Himmel thront.</stanza>
+	<stanza type="verse" number="5">Im Gebet den Herrn ausstell,
+Nicht dein Selbst soll sichtbar sein,
+Bete immer mit dem Herrn,
+Bete nur durch Ihn allein.</stanza>
+  </lyrics>
+</hymn>

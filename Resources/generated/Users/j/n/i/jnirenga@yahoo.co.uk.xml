@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>John</firstname>
+    <lastname>Nirenga</lastname>
+    <email>jnirenga@yahoo.co.uk</email>
+    <password>b8DznMgb6hGPCfEcI8909Q%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>84.45.208.34</ipaddress>
+    <createdate>2011-10-05 07:26:50</createdate>
+    <lastupdateddate>2011-10-05 07:43:03</lastupdateddate>
+    <lastlogindate>2011-10-05 07:26:53</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="444">All for Jesus! All for Jesus</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="511">Jesus only is our message</fav>
+        <fav category="default" type="h" num="921">Rescue the perishing</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jessica</firstname>
+    <lastname>Brillhart</lastname>
+    <email>mbrill3@windstream.net</email>
+    <password>IJHPgQEh0a8N%2BHIuRHpTwg%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>75.91.97.208</ipaddress>
+    <createdate>2011-07-27 07:26:13</createdate>
+    <lastupdateddate>2011-07-27 17:04:27</lastupdateddate>
+    <lastlogindate>2011-07-27 07:26:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="641">Art thou hung'ring for the fulness</fav>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+        <fav category="default" type="h" num="168">Now in a song of grateful praise</fav>
+    </favourites>
+</user>

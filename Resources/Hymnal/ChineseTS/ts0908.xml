@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>把主迎接回來</title>
+  <index>true</index>
+  <category>盼望與豫備</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>112354321</hymncode>
+  <key>C Major</key>
+  <time>2/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>看！ 無 花 果 樹 早 已 發 枝， 聖 城 被 踐 踏， 日 期 滿 足； 哦， 阿 利 路 亞， 我 們 真 有 福， 要 親 眼 看 見 得 贖 之 日！ 我 們 這 一 代， 末 了 的 一 代， 一 定 要 把 主 迎 接 回 來！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0908.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">看！無花果樹早已發枝，
+聖城被踐踏，日期滿足；
+哦，阿利路亞，
+我們真有福，
+要親眼看見得贖之日！
+我們這一代，
+末了的一代，
+一定要把主迎接回來！</stanza>
+	<stanza type="verse" number="2">不要被今生思慮累住，
+不要像世人貪戀前途；
+快出所多瑪，
+快進入方舟，
+天天都過著召會生活。
+趁這個時候，
+當挺身昂首，
+多搶救靈魂，帶人得救！</stanza>
+	<stanza type="verse" number="3">願主保守
+你的靈、魂、體，
+所有的聚集你都能去。
+也許那一次，
+我們正聚集，
+讚美到高潮，主突然到！
+不知不覺中，
+立刻就被提，
+唱阿利路亞，在榮耀裡。</stanza>
+  </lyrics>
+</hymn>

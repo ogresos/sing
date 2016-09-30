@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hört, es singt das Engelsheer</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Seine Fleischwerdung</category>
+  <numbers><cebuano num="84"/><chinese num="74"/><english num="84"/><german num="84"/><korean num="74"/><portuguese num="49"/><russian num="23"/><spanish num="49"/><tagalog num="84"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+	<author biodate="1714-1770" biolink="">Altered by George Whitefield</author>
+  </creators>
+  <melody>| 5_. 1 1. 7_./ | 1 3 3( 2) | 5 5 5. 4/ | 3 2 3 - (break) | 5_. 1 1. 7_./ | 1 3 3( 2) | 5 2 2. 7_./ | 7_. 6_. 5_. - (break) | 5 5 5 1 | 4 3 3 2 | 5 5 5 1 | 4 3 3 2 (break) | 6 6 6 5 | 4 3 4 - | 2 3/ 4/ 5. 1/ | 1 2 3 - (break) | 6. 6/ 6 5 | 4 3 4 - | 2 3/ 4/ 5. 1/ | 1 2 1 - |</melody>
+  <layout>
+	<singingstanza>Hört, es singt das En -- gels -- heer: Dem ge -- bor -- nen Kö -- nig Ehr; Frie -- de nun die Er -- de krönt, Gott und Sün -- der sind ver -- söhnt. Je -- des Volk voll Freu -- de teil -- nimmt, Dem Tri -- umph des Him -- mels bei -- stimmt; Ruft mit En -- gel -- chörn zu -- dem: „Chris -- tus– ge -- born in Beth -- le -- hem.“ Ruft mit En -- gel -- chörn zu -- dem: „Chris -- tus_&amp;mdash; ge -- born in Beth -- le -- hem.“</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="84"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hört, es singt das Engelsheer:
+Dem gebornen König Ehr;
+Friede nun die Erde krönt,
+Gott und Sünder sind versöhnt.
+Jedes Volk voll Freude teilnimmt,
+Dem Triumph des Himmels beistimmt;
+Ruft mit Engelchörn zudem:
+„Christus – geborn in Bethlehem.“</stanza>
+	<stanza type="verse" number="2">Christus ist für ewig Herr,
+Ihm die Himmel bringen Ehr.
+Lang ersehnt Ihn kommen siehst,
+Spross von einer Jungfrau ist.
+Sieh, im Fleisch ist die Gottheit,
+Fleisch gewordne Göttlichkeit!
+Unter uns als Mensch strahlt hell,
+Jesus, der Immanuel.</stanza>
+	<stanza type="verse" number="3">Friedefürst voll Herrlichkeit!
+Sonne der Gerechtigkeit!
+Aufgeht, Licht und Leben fließt,
+Heilung unter Flügeln ist.
+Er verließ die Herrlichkeit,
+Überwindet Tod allzeit;
+Kam, erweckte Söhne hier;
+Neu geboren sind nun wir.</stanza>
+	<stanza type="verse" number="4">Jedes Volk sich sehnt nach Dir!
+Richt Dich ein, in uns regier.
+Steh auf, Same von der Frau,
+Schlangenkopf in uns zerhau;
+Adams Gleichheit ausradier,
+Präg Dein Bild in uns ein hier.
+Letzter Adam stell uns her,
+Tu’s in Deiner Liebe, Herr.</stanza>
+	<stanza type="note" number="">(Letzte zwei Zeilen wiederholen)</stanza>
+  </lyrics>
+</hymn>

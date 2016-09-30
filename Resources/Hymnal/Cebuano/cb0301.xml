@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gitubos&amp;mdash;kalipayng isinggit</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GITUBOS SA DUGO</category>
+  <numbers><cebuano num="301"/><english num="301"/><russian num="252"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="301"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gitubos&amp;mdash;kalipayng isinggit!
+Dugo's Cordero nagtubos;
+Sa 'yang kaluoy gitubos na,
+Sa dayon anak ko Niya.</stanza>
+    <stanza type="chorus" number="">Gitubos, gitubos,
+Dugo's Cordero nagtubos;
+Gitubos, gitubos,
+Anak ko Niya sa dayon.</stanza>
+    <stanza type="verse" number="2">Gitubos na diha ni Jesus,
+Di maasoy ang kalipay;
+Nasayud nga presensya Niya,
+Uban nako sa kanunay.</stanza>
+    <stanza type="verse" number="3">Naghunahuna's Manunubos,
+Sa tibuok gyud nga adlaw;
+Di makahilom, awiton gyud,
+Gugma N'ya m'oy tema's hangtud.</stanza>
+    <stanza type="verse" number="4">Katahum N'ya unya makit-an,
+Hari nga gikahimut-an;
+Magbantay's akong mga lakang,
+Maglipay S'ya's kagul-anan.</stanza>
+  </lyrics>
+</hymn>

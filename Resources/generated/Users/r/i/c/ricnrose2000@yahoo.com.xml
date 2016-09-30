@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>    <firstname>Ric</firstname>
+    <lastname>trogdon</lastname>
+    <email>ricnrose2000@yahoo.com</email>
+    <password>KVMsAZliPB1Jxl8sH3FMbA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>74.33.9.102</ipaddress>
+    <createdate>2012-05-27 11:12:10</createdate>
+    <lastupdateddate>2012-06-10 14:35:27</lastupdateddate>
+    <lastlogindate>2012-06-10 14:35:27</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="c" num="4">This is the day</fav>
+    </favourites>
+</user>

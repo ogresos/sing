@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主現在將我來吹</title>
+  <index>true</index>
+  <category>聖靈的豐滿－風</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <layout>
+	<singingstanza>哦 主， 向 我 吹 風， 我 們 在 此 等 候； 用 你 大 風 來 吹， 帶 給 我 們 自 由； 吹 到 我 們 眾 人 無 不 復 興 得 透； 哦 主， 求 你 向 我 吹 風！ 哦 主， 現 在 將 我 來 吹！ 吹 去 所 有 鬆 懶 沉 睡！ 願 你 大 風 來 臨， 將 我 退 落 吹 盡！ 哦 主， 求 你 向 我 吹 風。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主，向我吹風，
+我們在此等候；
+用你大風來吹，
+帶給我們自由；
+吹到我們眾人
+無不復興得透；
+哦主，求你向我吹風！</stanza>
+	<stanza type="chorus" number="">哦主，現在將我來吹！
+吹去所有鬆懶沉睡！
+願你大風來臨，
+將我退落吹盡！
+哦主，求你向我吹風。</stanza>
+	<stanza type="verse" number="2">哦主，用愛來吹，
+吹熱冰冷的心；
+將那屬天之氣，
+吹到我的全魂；
+吹到我們眾人
+毫無冷淡留存；
+哦主，求你向我吹風！</stanza>
+	<stanza type="verse" number="3">哦主，用力來吹，
+吹起死沉的靈；
+吹到我們復甦，
+充滿復活生命；
+吹到我們眾人
+無不剛強有能；
+哦主，求你向我吹風！</stanza>
+  </lyrics>
+</hymn>

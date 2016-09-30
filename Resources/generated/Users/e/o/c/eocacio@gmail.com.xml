@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elio</firstname>
+  <lastname>Ocacio</lastname>
+  <email>eocacio@gmail.com</email>
+  <password>$2y$10$ckVfF7DWbCHGT5iuygia4.UCSrGEdkrkn0UJdr/i7FcAEFSm0usiG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.231.146.205</ipaddress>
+  <createdate>2016-08-19 13:03:50</createdate>
+  <lastupdateddate>2016-08-19 13:16:56</lastupdateddate>
+  <lastlogindate>2016-08-19 13:13:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+  </favourites>
+</user>

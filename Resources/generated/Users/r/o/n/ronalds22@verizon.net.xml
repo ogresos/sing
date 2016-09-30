@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ronald</firstname>
+  <lastname>Smith</lastname>
+  <email>ronalds22@verizon.net</email>
+  <password>$2y$10$N9EQQbezKDGXZdxweRSaQ.aDl8PxNBA4MD70uYYpHC7kOWATxiIg2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>96.246.110.92</ipaddress>
+  <createdate>2014-09-09 02:47:27</createdate>
+  <lastupdateddate>2014-11-21 02:27:00</lastupdateddate>
+  <lastlogindate>2014-11-21 02:27:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

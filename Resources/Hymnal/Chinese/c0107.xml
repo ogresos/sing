@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>耶穌已經出墓來</title>
+  <index>true</index>
+  <category>讚美主－祂的復活</category>
+  <numbers><chinese num="107"/><english num="8107"/></numbers>
+  <melody>| ._1 5 3 5 | ._1 ._2 ._3 - | ._3 ._3 ._3 ._2/( ._1/) | ._3 ._2 ._2 - (break) | ._1 5 3 5 | ._1 ._2 ._3 - | ._2 ._2 ._2 ._1 | ._3 ._2 ._1 - (break) | ._3 ._3 ._3 ._3 | ._2 ._1 6( ._1) | ._2 ._2 ._2 ._2 | ._1 6 5 - (break) | ._1 5 3 5 | ._1 ._2 ._3 - | ._2 ._2 ._2 ._1 | ._3 ._2 ._1 - ||</melody>
+  <layout>
+	<singingstanza>耶 穌 已 經 出 墓 來， 死 亡 對 祂 毫 無 害； 我 們 應 當 相 安 慰， 將 祂 的 名 同 讚 美。 救 贖 工 作 今 作 成， 與 敵 交 戰 已 得 勝。 贖 罪 一 次 就 清 楚， 祂 並 不 用 多 受 苦。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="8107"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">耶穌已經出墓來，
+死亡對祂毫無害；
+我們應當相安慰，
+將祂的名同讚美。
+救贖工作今作成，
+與敵交戰已得勝。
+贖罪一次就清楚，
+祂並不用多受苦。</stanza>
+	<stanza type="verse" number="2">封墓、設兵、空畫策，
+陰府對祂無奈何；
+我主暫時雖受苦，
+但祂使我得永福。
+祂已死過不再死，
+撒但計窮無可施；
+我既看見一墓空，
+就知萬墓必相同。</stanza>
+	<stanza type="verse" number="3">一粒麥子已死了，
+今日萬粒都生苗；
+當日不過只一位，
+今日已變全召會。
+我們是祂的身體，
+頭既上升肢繼起；
+與祂同葬、同升天，
+讚美祂名億萬年。</stanza>
+  </lyrics>
+</hymn>

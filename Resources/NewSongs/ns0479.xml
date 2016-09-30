@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Banqueting House</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>3321123443244322345543</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | C - - | C - - | Dm - - | Dm - - | G - - | G - - | Dm - - | Dm - - | G7 - - | G7 - - | C - - | C - - | C7 - - | C7 - - | F - - | F - - | Dm - - | Dm - - | C - - | C - - | Am - - | Am - - | Dm - - | Dm - - | G7 - - | G7 - - | C - - | F - - | C - - | C - - | C - - | C - - | C - - | C - - | Dm - - | Dm - - | G - - | G - - | G7 - - | G7 - - | G7 - - | G7 - - | C - - | C - - | C - - | C - - | C - - | C - - | C7 - - | C7 - - | F - - | F - - | Dm - - | Dm - - | C - - | C - - | G - - | G - - | F - - | F - - | C - - | C - - ||</chords>
+  <melody>| (startrepeat) 3 - - | 3 - 2 | 1 - - | 1 2 3 | 4 - - | 4 - 3 | 2( - - | 2) - - (break) | 4 - 4 | 4 - 3 | 2 - - | 2( 3) 4 | 5 - - | 5 - 4 | 3( - - | 3) - - (break) | 6 - - | 6 - 5 | 4( - - | 4) 5 6 | 5 - - | 5 - 4 | 3( - - (break) | 3) 3 5 | 4 - - | 4 - 3 | 2 - - | 7_. 1 2 | 1( - - | 1)( - - | 1)( - - | 1) - - (endrepeat) (break) | 5_. 1 2 | 3 2 1 | 5_. 1 2 | 3 2 1 | 2 - - | 2 - 1 | 7_.( - - | 7_.) - - (break) | 5_. 7_. 1 | 2 1 7_. | 5_. 7_. 1 | 2 1 7_. | 1 - - | 1 - 6_. | 5_.( - - | 5_.) - - (break) | 3 4 5 | 5 4 3 | 3 4 5 | 5 4 3 | 6 - 6 | 6 - 5 | 4( - - | 4) - 2 (break) | 3( - - | 3) - 4 | 2( - - | 2) - 3 | 1( - - | 1) - 2 | 1( - - | 1) - - ||</melody>
+  <layout>
+    <singingstanza end="-1">He brought me in, in -- to His ban -- quet -- ing house, And His ban -- ner high o -- ver me was just love. Here I'm re -- freshed and sus -- tained by His love, For I'm sick, sick with love, in love with Him. His left hand is un -- der my head, And His right hand em -- brac -- es me. I am held and em -- braced by Him, Oh daugh -- ters of Je -- ru -- sa -- lem. He brought me in -- to His ban -- quet -- ing house, And His ban -- ner o -- ver me was love, I'm sick with love for Him.</singingstanza>
+    <singingstanza2>[skip1] Sus -- tain me love with the sweet rai -- sin cakes, And [skip1] re -- fresh me with the ap -- ples so sweet, Here I am con -- quered by Your sweet, sweet love, For I'm sick, sick with love, in love with You.</singingstanza2>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 2:4-7a</link>
+  </links>
+  <music>
+    <midi location="ns" length="85">ns0479.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">He brought me in, into His banqueting house,
+And His banner high over me was just love.
+Here I'm refreshed and sustained by His love,
+For I'm sick, sick with love, in love with Him.</stanza>
+    <stanza type="verse" number="">Sustain me love with the sweet raisin cakes,
+And refresh me with the apples so sweet,
+Here I am conquered by Your sweet, sweet love,
+For I'm sick, sick with love, in love with You.</stanza>
+    <stanza type="verse" number="">His left hand is under my head,
+And His right hand embraces me.
+I am held and embraced by Him,
+Oh daughters of Jerusalem.</stanza>
+    <stanza type="verse" number="">He brought me into His banqueting house,
+And His banner over me was love,
+I'm sick with love for Him.</stanza>
+  </lyrics>
+</hymn>

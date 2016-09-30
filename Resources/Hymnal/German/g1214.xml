@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Grabe weg, grabe weg, grabe weg,</title>
+  <index>true</index>
+  <category>VERSCHIEDENE ASPEKTE DES INNEREN LEBENS&amp;mdash;Mit dem Herz handeln</category>
+  <numbers><cebuano num="1214"/><chinese num="ts:408"/><english num="1214"/><german num="1214"/><spanish num="317"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Ron Kangas">Translated from R. K.</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1/ 7/ 6./ 7// (break) | ._1 - - 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1/ 7/ 6./ 7// (break) | ._1 - - ._1/ ._1/ | ._1( ._1.) ._1/ 7/ 6/ | 5 - - ._1/ ._1/ | ._1( ._1.) ._1/ 7/ 6/ | (.5 5./ 6// 5./ 4// 3./ 4// | 5 5./ 6// 5 ._1./ ._2// | ._3 - - ._1./ ._1// | ._2./ ._2// ._2/ ._2/ ._1/ 7/ 6./ 7// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Gra -- be weg, gra -- be weg, gra -- be weg,  Schuld -- ge -- füh -- le grab in dei -- nem Her -- zen weg! Gra -- be weg, gra -- be weg, gra -- be weg,  Schuld -- ge -- füh -- le grab in dei -- nem Her -- zen weg! Je -- de Schuld muss gehn so -- dann, Dass Sein Le -- ben flie -- ßen kann… Hal -- le -- lu -- ja! Gra -- be weg, gra -- be weg, gra -- be weg, Schuld -- ge -- füh -- le grab in dei -- nem Her -- zen weg!</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1214"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Grabe weg, grabe weg, grabe weg, 
+Schuldgefühle grab in deinem Herzen weg!</stanza>
+	<stanza type="chorus" number="">Jede Schuld muss gehn sodann,
+Dass Sein Leben fließen kann … Halleluja!
+Grabe weg, grabe weg, grabe weg,
+Schuldgefühle grab in deinem Herzen weg!</stanza>
+	<stanza type="verse" number="2">Grabe weg, grabe weg, grabe weg,
+Im Verstand grab alle Nichtigkeiten weg!</stanza>
+	<stanza type="chorus" number="">Jeder Traum muss gehn sodann,
+Dass Sein Leben fließen kann … Halleluja!
+Grabe weg, grabe weg, grabe weg,
+Im Verstand grab alle Nichtigkeiten weg!</stanza>
+	<stanza type="verse" number="3">Grabe weg, grabe weg, grabe weg,
+Alle störenden Gefühle grabe weg!</stanza>
+	<stanza type="chorus" number="">Selbstmitleid muss gehn sodann.
+Dass Sein Leben fließen kann … Halleluja!
+Grabe weg, grabe weg, grabe weg,
+Alle störenden Gefühle grabe weg!</stanza>
+	<stanza type="verse" number="4">Grabe weg, grabe weg, grabe weg,
+Widerstand in deinem Willen grabe weg!</stanza>
+	<stanza type="chorus" number="">Eigenwilln muss gehn sodann.
+Dass Sein Leben fließen kann … Halleluja!
+Grabe weg, grabe weg, grabe weg,
+Widerstand in deinem Willen grabe weg!</stanza>
+	<stanza type="verse" number="5">Grabe weg, grabe weg, grabe weg,
+Jede Selbstsucht deines Herzens grabe weg!</stanza>
+	<stanza type="chorus" number="">Eigne Wahl muss gehn sodann.
+Dass Sein Leben fließen kann … Halleluja!
+Grabe weg, grabe weg, grabe weg,
+Jede Selbstsucht deines Herzens grabe weg!</stanza>
+	<stanza type="verse" number="6">Leben fließt, preist den Herrn, Leben fließt!
+Aus dem Herzensbrunnen Gottes Leben fließt!</stanza>
+	<stanza type="chorus" number="">Wenn dein Herz ganz frei ist, dann
+Christus durch dich fließen kann … Halleluja!
+Leben fließt, preist den Herrn, Leben fließt!
+Aus dem Herzensbrunnen Gottes Leben fließt!</stanza>
+	<stanza type="note" number=""></stanza>
+  </lyrics>
+</hymn>

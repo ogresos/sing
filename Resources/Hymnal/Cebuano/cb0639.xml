@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kamatayon dili makapugong</title>
+  <index>true</index>
+  <category>ANG KINABUHI SA PAGKABANHAW&amp;mdash;SI CRISTO MISMO</category>
+  <numbers><cebuano num="639"/><chinese num="472"/><english num="639"/><french num="127"/><german num="639"/><korean num="472"/><portuguese num="325"/><russian num="225"/><spanish num="298"/><tagalog num="639"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 1 | 5_. - - 3 | 4 4 1 2 | 3 - - - (break) | 6 - 5 4 | 3 - 1 - | 3 3 2 1 | 2 - - - (break) | 3 - 3 4 | 5 - 1 - | 6 5 4 3 | 4 - - - (break) | 2 - 3 4 | 5 - 1 - | 3 2 1 7_. | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="639"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kamatayon dili makapugong
+Sa kinabuhi sa pagkabanhaw;
+Madaugong walay makapukan,
+Si Cristo mismo nga nadayag na.</stanza>
+	<stanza type="verse" number="2">Kamatayon dili makapugong
+Bisan pag iyang kusog tibuk-on;
+Kini mosamot lang pagpadayag
+Sa kadato's gahum's pagkabanhaw!</stanza>
+	<stanza type="verse" number="3">Kamatayon dili makapugong,
+Pagpatay pagpasanay hinoon;
+Tanang pag-antus makapatubo,
+Makapabunga'g labi pang dako.</stanza>
+	<stanza type="verse" number="4">Kamatayon dili makapugong,
+Gibuak Niyang tanang nagsampong;
+Hades ug kangitngitan gidaug,
+Kamatayon Iya nga giwala.</stanza>
+	<stanza type="verse" number="5">Kamatayon dili makapugong,
+Ipadayag n'yang kahupnganan's Dios;
+Pagkabalaa'g pagkamatarung,
+Dagwayng madayag mahimayaon.</stanza>
+	<stanza type="verse" number="6">Masayran unta ang pagkabanhaw,
+Ibubong gahum N'ya's kamatayon;
+Maila sa akong pagsinati
+Nga si Cristo maoy kinabuhi.</stanza>
+  </lyrics>
+</hymn>

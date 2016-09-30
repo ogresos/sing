@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Billy</firstname>
+<lastname>Cagle</lastname>
+<email>bcagle1@bellsouth.net</email>
+<password>$1$w3.oVWmu$BR6jQpVDGVyZ0tI.2eUrR.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>72.150.224.116</ipaddress>
+<createdate>2008-09-05 21:57:17</createdate>
+<lastupdateddate>2009-09-15 18:25:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+        <fav category="default" type="nt" num="33">Father, long before creation</fav>
+    </favourites>
+</user>

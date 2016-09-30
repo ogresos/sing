@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>William</firstname>
+    <lastname>Conner</lastname>
+    <email>smbconner@comcast.net</email>
+    <password>7x3QGtpM3ebrbnVbjJXNZw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>76.120.77.62</ipaddress>
+    <createdate>2012-01-05 18:03:28</createdate>
+    <lastupdateddate>2012-01-05 18:05:52</lastupdateddate>
+    <lastlogindate>2012-01-05 18:03:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

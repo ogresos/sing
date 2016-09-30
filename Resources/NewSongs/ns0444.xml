@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But of Him you are in Christ Jesus</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Sandy Williams">S. W.</composer>
+  </creators>
+  <hymncode>3211135532344321235432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Em - Am - | Dm - G7 - | C - G7 - | C - - - | Em - Am - | Dm - G7 - | C - C7 - | F - G7 - | C - Am - | Dm - G7 - | C - C7 - | F - G7 - | E7 - Am - | Dm - Dm7 - | G - G7 - | C - - - | Em - Am - | Dm - G7 - | Am - C/G - | F - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 3/ 2/ | 1 1( 1/) 1/ 3/ 5/ | 5 3( 3) 2/ 3/ | 4 4/ 3/ 2/ 1 2/ (break) | 3/( 5)( 4//)( 3//)( 2/) 1/ 3/ 2/ | 1 1( 1/) 1/ 3/ 5/ | 5 3 - - | 4. 3/ 2.( 1/) (break) | 1 - 0/ 1// 1// 3/ 5/ | 6( - 5.) 4/ | 3 - - - (break) | 4. 3/ 2. 1/ | 3/ 5.( 5/) 1/ 3/ 5/ | 6 6/ 6/ 5. 4/ | 3.( 2/) 1 - (break) | 4. 3/ 2. 1/ | 2 - - 3/ 2/ | 1 - - 3/ 5/ | 5 3( 3) 2/ 3/ (break) | 4.( 3/) 2. 1/ | 1 - - 2/ 3/ | 4.( 3/) 2. 1/ | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">But of Him you are in Christ Je -- sus, Who be -- came wis -- dom to us from God: both right -- eous -- ness and sanc -- ti -- fi -- ca -- tion and re -- demp -- tion, And the God of peace Him -- self sanc -- ti -- fy you whol -- ly, and may your spir -- it and soul and bod -- y be pre -- served com -- plete, with -- out blame, at the com -- ing of our Lord Je -- sus Christ, of our Lord Je -- sus Christ.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Corinthians 1:30</link>
+    <link type="ref">1 Thessalonians 5:23</link>
+  </links>
+  <music>
+    <midi location="ns" length="71">ns0444.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But of Him you are in Christ Jesus,
+Who became wisdom to us from God:
+Both righteousness and sanctification
+And redemption,</stanza>
+    <stanza type="verse" number="">And the God of peace Himself
+Sanctify you wholly,
+And may your spirit and soul and body
+Be preserved complete,
+Without blame, at the coming
+Of our Lord Jesus Christ,
+Of our Lord Jesus Christ.</stanza>
+  </lyrics>
+</hymn>

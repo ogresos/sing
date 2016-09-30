@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Never did I dream before</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As Our Home and Rest</category>
+  <numbers><english num="nt:1238"/><vsb num="211"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ned Nossaman">N. N.</author>
+  </creators>
+  <hymncode>1121255666654543</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>90</tempo>
+  <chords>| C - G7 - | C - - - | F - G7 - | C - - - | C - G7 - | C - - - | F - G7 - | C - - - | F - - - | Em - Am - | Dm - G7 - | C - C7/E - | F - - - | Em - A7 - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 0 1/ 1/ 2/ 1/ 2/ 5/ | 5 - - - | 0 6/ 6/ 6/ 6/ 5/ 4/ | 5.( 4/ 3) - (break) | 0 1/ 1/ 2/ 1/ 2/ 5/ | 5 - - - | 0 6/ 6/ 6/ 6/ 5/ 4/ | 5.( 4/ 3) 1/ 1/ (break) | ._1( - ._1/) ._1/ 6/ 4/ | 5.( 4/ 3) - | 0 4/ 3/ 4/ 3/ 4/ 5/ | 5 - - 1/ 1/ (break) | 6( - 6/) 6/ 5/ 4/ | 5.( 4/ 3) - | 0 4/ 3/ 4/ 3/ 4/ 7_./ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Nev -- er did I dream be -- fore, Such a place could e'er be found, Where the tears of sor -- row cease, Songs of end -- less joy a -- bound. One who sel -- dom ev -- er sang, Now de -- lights his voice to raise; Sing -- ing hymns with all the saints, Ech -- o -- ing the cease -- less praise.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="1238"></link>
+  </links>
+  <music>
+    <midi location="nt" length="42">e1238_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Never did I dream before,
+Such a place could e'er be found,
+Where the tears of sorrow cease,
+Songs of endless joy abound.
+One who seldom ever sang,
+Now delights his voice to raise;
+Singing hymns with all the saints,
+Echoing the ceaseless praise.</stanza>
+    <stanza type="verse" number="2">Day by day the world goes on,
+Just as it has gone before.
+Millions grasp and clutch at life,
+Wond'ring if there could be more;
+Such was I and would be, yet
+Mercy found me out somehow;
+With what gratefulness I say,
+"I'm in God's own family now.</stanza>
+    <stanza type="verse" number="3">How delightful 'tis to know;
+How subjective, real, and sweet
+Is this inward joy of grace
+We experience when we meet;
+Life abundant Jesus gives
+As my full reality;
+Praise You, Lord, it's really true,
+I'm in Your own family.</stanza>
+    <stanza type="verse" number="4">At the closing of this age,
+Just before Your kingdom's dawn,
+May You gain a people, Lord,
+For Your dwelling place, Your home.
+Since for me You gave Your all,
+Everything I lay aside;
+For Your church my all I'd give,
+That You would be satisfied.</stanza>
+  </lyrics>
+</hymn>

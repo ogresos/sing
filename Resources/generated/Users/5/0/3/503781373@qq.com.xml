@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>sun</firstname>
+<lastname>sunny</lastname>
+<email>503781373@qq.com</email>
+<password>$1$17NyKPQd$OzG6MePx4kX16WU.cA9xd/</password>
+<gender>F</gender>
+<country>China</country>
+<ipaddress>117.67.3.145</ipaddress>
+<createdate>2009-01-12 18:56:15</createdate>
+<lastupdateddate>2009-09-15 18:27:08</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="121">God is Spirit, and He comes</fav>
+    </favourites>
+</user>

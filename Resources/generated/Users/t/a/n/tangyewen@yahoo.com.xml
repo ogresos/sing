@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>vincent</firstname>
+    <lastname></lastname>
+    <email>tangyewen@yahoo.com</email>
+    <password>jGYWj%2Bpv%2BXtZDf3hx6fflQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>75.84.166.171</ipaddress>
+    <createdate>2013-04-01 09:31:58</createdate>
+    <lastupdateddate>2013-04-11 09:51:22</lastupdateddate>
+    <lastlogindate>2013-04-01 14:17:27</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="171">Lord Jesus Christ, our heart feels sweet</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+        <fav category="default" type="h" num="766">Teach me to pray, Lord, teach me to pray</fav>
+    </favourites>
+</user>

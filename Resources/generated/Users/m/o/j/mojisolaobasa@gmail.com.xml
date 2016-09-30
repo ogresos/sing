@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alasho</firstname>
+  <lastname>Ofi</lastname>
+  <email>mojisolaobasa@gmail.com</email>
+  <password>$2y$10$fTDWKHl/QmOy0K8qlNxMLuGnUy1rvpssomrUjsDLJcW5iL/9LiGHu</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.190.2.222</ipaddress>
+  <createdate>2014-11-13 07:00:55</createdate>
+  <lastupdateddate>2014-11-13 08:13:24</lastupdateddate>
+  <lastlogindate>2014-11-13 07:57:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+    <fav category="default" type="h" num="1304">Christ comes quickly for His Bride</fav>
+    <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+  </favourites>
+</user>

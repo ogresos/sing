@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is a fountain filled with blood</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Blood</category>
+  <numbers><cebuano num="1006"/><chinese num="686"/><english num="1006"/><german num="1006"/><korean num="686"/><lsmyp num="295"/><portuguese num="446"/><russian num="168"/><spanish num="469"/><tagalog num="1006"/></numbers>
+  <creators>
+	<author biodate="1731-1800" biolink="">William Cowper</author>
+	<composer biodate="" biolink="">Early American melody</composer>
+	<!--<composer biodate="1792-1872" biolink="">Arranged by Lowell Mason</composer>-->
+  </creators>
+  <meter>8.6.8.6. with repeat.</meter>
+  <hymncode>135651165135565312</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - C - | C - Am - | Dm - G7 - | C - C/E - | F - C/E F | C/G - G7 - | C F/C C - | C - C7 - | F - Dm - | Em - Am - | Dm - G7 - | C - C/E - | F - C/E F | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | F - C - | C - - - | G - G7 - | C - - - | F - C - | C - G7 - | C - - - | C - C7 - | F - - - | C - - - | G - G7 - | C - - - | F - C - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 1/( 3/) | 5. 6/ 5 ._1 | ._1. 6/ 5 1/( 3/) | 5. 5/ 6/( 5/) 3/ 1/ (break) | 2 - - 1/( 3/) | 5. 6/ 5 ._1 | ._1. 6/ 5 ._1/( ._2/) | ._3. ._1/ ._2 ._3 (break) | ._1 - - ._1/( ._2/) | ._3. ._1/ ._2 ._3 | ._1.( 6/ ._1) 6 | 5. 5/ 6/( 5/) 3/( 1/) (break) | 2 - - 1/( 3/) | 5. 6/ 5 ._1 | ._1. 6/ 5 ._1/( ._2/) | ._3. ._1/ ._2 ._3 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>There is a foun -- tain filled with blood Drawn from Im -- ma -- nu -- el's veins; And sin -- ners, plunged be -- neath that flood, Lose all their guilt -- y stains: Lose all their guilt -- y stains, Lose all their guilt -- y stains; And sin -- ners, plunged be -- neath that flood, Lose all their guilt -- y stains.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj106.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="44">e1006_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">There is a fountain filled with blood
+  Drawn from Immanuel's veins;
+And sinners, plunged beneath that flood,
+  Lose all their guilty stains:
+  Lose all their guilty stains,
+  Lose all their guilty stains;
+And sinners, plunged beneath that flood,
+  Lose all their guilty stains.</stanza>
+	<stanza type="verse" number="2">The dying thief rejoiced to see
+  That fountain in his day;
+And there may I, though vile as he,
+  Wash all my sins away:
+  Wash all my sins away,
+  Wash all my sins away;
+And there may I, though vile as he,
+  Wash all my sins away.</stanza>
+	<stanza type="verse" number="3">Dear dying Lamb, Thy precious blood
+  Shall never lose its power,
+Till all the ransomed ones of God
+  Be saved, to sin no more:
+  Be saved, to sin no more,
+  Be saved, to sin no more;
+Till all the ransomed ones of God,
+  Be saved to sin no more.</stanza>
+	<stanza type="verse" number="4">E'er since by faith I saw the stream
+  Thy flowing wounds supply,
+Redeeming love has been my theme,
+  And shall be till I die:
+  And shall be till I die,
+  And shall be till I die;
+Redeeming love has been my theme,
+  And shall be till I die.</stanza>
+	<stanza type="verse" number="5">When this poor lisping, stammering tongue
+  Lies silent in the grave,
+Then in a nobler, sweeter song,
+  I'll sing Thy power to save:
+  I'll sing Thy power to save,
+  I'll sing Thy power to save;
+Then in a nobler, sweeter song,
+  I'll sing Thy power to save.</stanza>
+  </lyrics>
+</hymn>

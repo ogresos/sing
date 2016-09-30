@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, take my life</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Closer Fellowship with the Lord</category>
+  <numbers><english num="ns:239"/><vsb num="189"/></numbers>
+  <hymncode>5345554432</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>150</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | F - - - | C/E - - - | E - - - | Am - - - | F - - - | C - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - Dm - | G7 - - - | C - F/C - | C - G7 - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - Dm - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| (Chorus) 0 5 3 4/ 5/( | 5) - - 5 | 5 4/ 4/( 4) 3 | 2 - - - | 0 1/ 2/ 3/ 4/ 5 | 5. 1/( 1) 5 | 4. 3/( 3) 4 | 2 - - - (break) | 6 6 6 6 | 5 3 3 3 | 3 4 3( 2) | 1 - - - | 0 1/ 1/ 1/ 1/ 2 | 1. 5_./( 5_.) 5_. | 4 3/ 1/( 1) 3 | 2 - - - (break) | (Verse_1) 0 3/ 2#/ 3/ 2#/ 3/ 2#/ | 3. 1/( 1) 3 | 4 4/( 3/)( 3) 4 | 2 - - - (break) | 0. 2#/ 3/ 2#/ 3/ 2#/ | 3. 1/( 1) 3 | 4. 5/( 5) 6 | 5 - - 5 | 6 5/ 4/( 4) 3 | 2 - - 5_. | 3. 1/( 1) 7_. | 1 - 1 1 | 1/ 1/ 1/ 1/( 1) 3 | 2 1 7_. 2 | 1( - - - | 1) - - 0 (break) | (Verse_2) 0 3/ 2#/ 3/ 2#/ 3/ 2#/ | 3. 1/( 1) 3/ 3/ | 4 4/ 3/( 3) 4 | 2 - - - (break) | 0 3/ 2#/ 3/ 2#/ 3/ 2#/ | 3. 1/( 1) 3 | 4 4/ 5/( 5) 6 | 5 - - 5/ 5/ | 6 5/ 4/( 4) 3 | 2 - - 5_. | 3. 1/( 1) 7_. | 1 - 1 1 | 1 1( 1) 3 | 2 1 7_. 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Lord, take my life I give it, Lord, to You. You have o -- pened my eyes, Lord, And turned me to You. You are my Cre -- a -- tor, O Lord, How I love You. You are al -- so my Sav -- ior And ev -- ery -- thing that's true. Lord, so of -- ten I'm like Tho -- mas Who would not re -- ceive: "Un -- less I see Your face, Lord, I would not be -- lieve..." But then You would ap -- pear... "My Lord and my God" Say -- ing, Bless -- ed are they who see not, yet be -- lieve. I have some -- one deep with -- in me Well -- ing up in me each day. E -- ven though I have not seen Him in such an out -- ward way&amp;mdash; "Whom hav -- ing not seen, I love, I love, oh so much. And by hav -- ing His life, yes, I be -- lieve."</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="76">ns0239.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Lord, take my life
+I give it, Lord, to You.
+You have opened my eyes, Lord,
+And turned me to You.
+You are my Creator, O Lord,
+How I love You.
+You are also my Savior
+And everything that's true.</stanza>
+    <stanza type="verse" number="1">Lord, so often I'm like Thomas
+Who would not receive:
+"Unless I see Your face, Lord, I would not believe..."
+But then You would appear...
+"My Lord and my God"
+Saying, Blessed are they who see not, yet believe.</stanza>
+    <stanza type="verse" number="2">I have someone deep within me
+Welling up in me each day.
+Even though I have not seen Him in such an outward way&amp;mdash;
+"Whom having not seen, I love,
+I love, oh so much.
+And by having His life, yes, I believe."
+(Chorus)</stanza>
+    <stanza type="verse" number="3">Day by day I look forward to
+That time I spend with You.
+Just as Mary poured her love out,
+O Lord, I would too.
+Grant me, Lord, a heart
+that's single and true.
+And a daily life that's living just by You.</stanza>
+    <stanza type="verse" number="4">So when daily I see trials
+And tribulations sore,
+May I put my trust in You, Lord,
+"For Christ has gone before"
+And open to Your living Word,
+Receiving faith&amp;mdash;
+Reach me, Lord, with Your mercy and Your grace.
+(Chorus)</stanza>
+  </lyrics>
+</hymn>

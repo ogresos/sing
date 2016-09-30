@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sol e Escudo és, Jesus</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><english num="512"/><portuguese num="255"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="512"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sol e Escudo és, Jesus,
+Nosso Sol e Escudo;
+Brilhas sempre ? és a luz,
+Guardas-nos de tudo.
+Faz-nos sempre prosseguir,
+O inimigo repelir.</stanza>
+    <stanza type="verse" number="2">Pão e Vinho és, Jesus,
+Sempre a sustentar-nos;
+Nunca deixas de suprir,
+Nem de refrescar-nos.
+Dá-nos do pão divinal,
+E do vinho celestial.</stanza>
+    <stanza type="verse" number="3">És Amor e Vida tais
+Que não têm medida.
+Nunca deixas de amar,
+Nem de dar-nos vida.
+Toda vida e amor
+Que nos faltam és, Senhor.</stanza>
+    <stanza type="verse" number="4">Gozo e Paz a nós, Jesus,
+És tão ricamente;
+Gozo que jamais se esvai,
+Paz jamais ausente.
+Temos gozo e paz em Ti
+Hoje e por todo o porvir.</stanza>
+    <stanza type="verse" number="5">Força e Canto para nós
+És, Jesus, ainda;
+Força que jamais decai,
+Canto que não finda.
+Esta Força e Canção
+Para sempre durarão.</stanza>
+  </lyrics>
+</hymn>

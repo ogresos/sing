@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alix</firstname>
+  <lastname>Romanov</lastname>
+  <email>alixromanov@hotmail.com</email>
+  <password>$2y$10$1SLUkTe8vciEGdn33vz5Te.mhzSdCWZoC3u311v7bHibP2O2D2WDS</password>
+  <gender>F</gender>
+  <country>us</country>
+  <ipaddress>96.226.199.104</ipaddress>
+  <createdate>2012-08-28 22:24:13</createdate>
+  <lastupdateddate>2015-03-19 19:54:18</lastupdateddate>
+  <lastlogindate>2015-03-19 19:19:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="c" num="58">Jesus loves the little children</fav>
+    <fav category="default" type="h" num="929">Out in the highways and byways of life</fav>
+  </favourites>
+</user>

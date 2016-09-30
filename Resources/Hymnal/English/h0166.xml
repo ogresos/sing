@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Praise to the Lord, the Almighty</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Goodness</category>
+  <numbers><english num="166"/><tagalog num="166"/></numbers>
+  <creators>
+    <author biodate="1650-1680" biolink="">Joachim Neander</author>
+    <author biodate="" biolink="">Translated by Catherine Winkworth</author>
+    <composer biodate="1668" biolink="">From Praxis Pietatis Melica</composer>
+  </creators>
+  <meter>14.14.4.7.8.</meter>
+  <hymncode>11532176567121</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/D | C/E - C | G - - | F - - | G7 - - | C - - | C - G/D | C/E - C | G - - | F - - | G7 - - | C - - | C/E - - | F - - | C - - | C/E - F | G - - | C/E F G | Am - C/G | Dm/F - G7 | C - - |</chords>
+  <melody>| 1 1 5 | 3. 2/ 1 | 7_. 6_. 5_. | 6_. 7_. 1 | 2 - - | 1 - - (break) | 1 1 5 | 3. 2/ 1 | 7_. 6_. 5_. | 6_. 7_. 1 | 2 - - | 1 - - (break) | 5 5 5 | 6 - - | 3 4 5 | 5 4 3 | 2 - - (break) | 5_. 6_. 7_. | 1 2 3 | 2 - - | 1 - - |</melody>
+  <layout>
+    <singingstanza>Praise to the Lord, the Al -- might -- y, the King of cre -- a -- tion! O my soul, praise Him, for He is thy
+  health and sal -- va -- tion! All ye who hear, Now to His tem -- ple draw near; Sing now in glad a -- do -- ra -- tion!</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj149.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e0166_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Praise to the Lord, the Almighty,
+  the King of creation!
+O my soul, praise Him, for He is thy
+  health and salvation!
+    All ye who hear,
+Now to His temple draw near;
+Sing now in glad adoration!</stanza>
+    <stanza type="verse" number="2">Praise to the Lord, who o'er all
+  things so wondrously reigneth,
+Who, as on wings of an eagle,
+  uplifteth, sustaineth.
+    Hast thou not seen
+How thy desires all have been
+Granted in what He ordaineth?</stanza>
+    <stanza type="verse" number="3">Praise to the Lord, who hath fearfully,
+  wondrously, made thee!
+Health hath vouchsafed and, when
+  heedlessly falling, hath stayed thee.
+    What need or grief
+Ever hath failed of relief?
+Wings of His mercy did shade thee.</stanza>
+    <stanza type="verse" number="4">Praise to the Lord, who doth prosper
+  thy work and defend thee,
+Who from the heavens the streams of
+  His mercy doth send thee.
+    Ponder anew
+What the Almighty can do,
+Who with His love doth befriend thee.</stanza>
+    <stanza type="verse" number="5">Praise to the Lord! Oh, let all that
+  is in me adore Him!
+All that hath life and breath, come
+  now with praises before Him!
+    Let the Amen
+Sound from His people again;
+Gladly for aye we adore Him.</stanza>
+  </lyrics>
+</hymn>

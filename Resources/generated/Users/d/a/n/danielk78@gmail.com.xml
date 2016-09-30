@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>DANIEL</firstname>
+  <lastname>KIM</lastname>
+  <email>danielk78@gmail.com</email>
+  <password>$2y$10$sM295tSB2C8ZHBh2v1Ru4.bvjCyVEPAcgdp.OuNrjf.JTuRfynBX6</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>108.203.156.231</ipaddress>
+  <createdate>2014-05-04 15:16:34</createdate>
+  <lastupdateddate>2014-08-16 21:16:16</lastupdateddate>
+  <lastlogindate>2014-08-16 21:16:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="lb" num="71">I never thought that God would be enjoyable</fav>
+    <fav category="default" type="c" num="19">In Matthew's House</fav>
+    <fav category="default" type="nt" num="1299">Man's Creator has a purpose</fav>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    <fav category="default" type="ns" num="106">Until He comes again</fav>
+  </favourites>
+</user>

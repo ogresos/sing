@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Why was a cup made?</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Meaning of Human Life</category>
+  <hymncode>112315611165</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/B - | Am - C/G C/E | F - Dm - | G - G7 - | C - G/B - | Am - C/G C/E | F - Dm - | G - G7 - | C - - - | C7 - - - | F - - - | Fm - - - | C - G/B - | Am - C/G C/E | F - G7 - | C F/C C - |</chords>
+  <melody>| 1 1./ 2// 3 1( | 1) - - 0/ 5_./ | 6_. 1 1 1 | 6_. 5_. - - (break) | 1 1./ 2// 3 1( | 1) - - 0/ 5_./ | 6_. 1 1 1 | 6 5 - - (break) | 5 5./ 5// 5./ 6// 5 | 5 - - 0/ 6/ | 5 4 4./ 5// 4 | 5 4 - - (break) | 1./ 1// 1./ 2// 3 1( | 1) - - 0/ 5_./ | 6_. 1 1 7_. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Why was a cup made? To have a drink in -- side it. Why was a shoe made? To have a foot in -- side it. Why was an en -- ve -- lope made? To have a let -- ter in -- side it. Why were you and I made? To have God's life in us.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-o.xml</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="K-GbYq2RSPQ"/>
+  </videos>
+  <music>
+    <midi location="c" length="32">c0102.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Why was a cup made?
+To have a drink inside it.
+Why was a shoe made?
+To have a foot inside it.
+Why was an envelope made?
+To have a letter inside it.
+Why were you and I made?
+To have God's life in us.</stanza>
+    <stanza type="verse" number="2">Why was a glove made?
+To have a hand inside it.
+Why was a purse made?
+To have some coins inside it.
+Why was a flower vase made?
+To have some flowers inside it.
+Why were you and I made?
+To have God's life in us.</stanza>
+  </lyrics>
+</hymn>

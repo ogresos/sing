@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cecelia</firstname>
+  <lastname/>
+  <email>pastor@smithchapelame.org</email>
+  <password>$2y$10$1szDKBtIVqFvEikJKK0j2O93FdjlldO6XgyrwSstGrH3c7lQJjSEu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.49.43.53</ipaddress>
+  <createdate>2015-06-21 11:51:39</createdate>
+  <lastupdateddate>2015-06-25 18:32:43</lastupdateddate>
+  <lastlogindate>2015-06-25 18:32:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+  </favourites>
+</user>

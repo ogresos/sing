@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ngalan sa 'babaw ng lahat</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PANGALAN</category>
+  <numbers><english num="75"/><tagalog num="75"/></numbers>
+  <creators>
+    <author biodate="1850-1927" biolink="">Translated from Lucy Ann Bennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="75"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ngalan sa 'babaw ng lahat,
+Hesus, ngalang marilag.
+Anak ng Diyos mal'walhati,
+Hari ng mga hari!</stanza>
+    <stanza type="verse" number="2">Ngalang malapit sa puso,
+Kublihan ng kal'wa ko;
+Ngalang mahal ng puso ko,
+Kay Hesus tiwala ko.</stanza>
+    <stanza type="verse" number="3">O Hesus! Ligtas na ako
+Sa sama ng sala ko,
+Ligtas din sa kahatulan,
+Sama ng kalooban.</stanza>
+    <stanza type="verse" number="4">Oras-oras, araw-araw,
+Sa Kanya'ng pasalamat,
+Dahil sa kaligtasan ko,
+Laya na sa sala ko.</stanza>
+    <stanza type="verse" number="5">Hesus, matamis na himig,
+Sa manlalakbay-awit;
+Ngalang Hesus sa anghel nga'y
+Musikang matagumpay.</stanza>
+    <stanza type="verse" number="6">Buong lupa tumingala,
+Sa dakilang Ako Nga;
+Langit kay Hesus pumuri,
+Sa Kordero'y l'walhati.</stanza>
+  </lyrics>
+</hymn>

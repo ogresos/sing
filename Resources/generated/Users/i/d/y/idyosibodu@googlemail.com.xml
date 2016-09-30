@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abiodun</firstname>
+  <lastname>Osibodu</lastname>
+  <email>idyosibodu@googlemail.com</email>
+  <password>$2y$10$JwxBuTPCb7WwMHKGqo6AfOxXO4HFkjJgE3WfYlnwi85iOOJmTos16</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.178.231.163</ipaddress>
+  <createdate>2014-06-19 06:44:03</createdate>
+  <lastupdateddate>2014-06-19 06:53:48</lastupdateddate>
+  <lastlogindate>2014-06-19 06:46:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="96">My song is love unknown</fav>
+  </favourites>
+</user>

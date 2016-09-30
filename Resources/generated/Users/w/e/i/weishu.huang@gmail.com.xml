@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>weishu</firstname>
+  <lastname>Huang</lastname>
+  <email>weishu.huang@gmail.com</email>
+  <password>$2y$10$QwtWfUynva6WgHQ80LJbH.GhVOR.zqjy6OtIuS6BnkzDgQd0Bu1bG</password>
+  <gender>M</gender>
+  <country>au</country>
+  <ipaddress>58.174.27.81</ipaddress>
+  <createdate>2011-12-31 15:08:08</createdate>
+  <lastupdateddate>2015-01-02 21:35:12</lastupdateddate>
+  <lastlogindate>2015-01-02 21:35:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+  </favourites>
+</user>

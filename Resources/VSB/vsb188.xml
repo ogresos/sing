@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My God, my Portion</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As the Everlasting Portion</category>
+  <numbers><english num="nt:600"/><vsb num="188"/></numbers>
+  <creators>
+    <author biodate="1674-1748" biolink="">Isaac Watts</author>
+  </creators>
+  <hymncode>51212353567653</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | C - - - | Em - - - | Am - - - | Em - - - | F - - - | Em - Am - | Dm7 - - - | G7 - - - | C - - - | Em - - - | Am - - - | Em - - - | F - - - | Em - Am - | Dm7 - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 1 2/ 1/( 1) 2 | 3 5/ 3/( 3) 5 | 6 7/ 6/( 6/) 5/ 3( (break) | 3) - - 5 | 6 5/ 5/( 5) 4 | 5 3/ 1/( 1) 1 | 4 3/ 2/( 2) 1 (break) | 2 - - 5_. | 1 2/ 1/( 1) 2 | 3 5/ 3/( 3) 5 | 6 7/ ._1/( ._1/) 3/ 5( (break) | 5) - - 5 | 6 5/ 5/( 5) 4 | 5 3/ 1/( 1) 1 | 4 - - 3 | 2 - - 1 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>My God, my Por -- tion, and my Love, My ev -- er -- last -- ing All, I've none but Thee in heav'n a -- bove, Or on this earth -- ly ball. What emp -- ty things are all the skies, And this in -- fe -- rior clod! There's noth -- ing here de -- serves my joys, There's noth -- ing like my God.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 16</link>
+    <link type="ref">Psalms 90</link>
+    <link type="relevant" category="h" num="600"></link>
+  </links>
+  <music>
+    <midi location="nt" length="36">e0600_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My God, my Portion, and my Love,
+  My everlasting All,
+I've none but Thee in heav'n above,
+  Or on this earthly ball.
+What empty things are all the skies,
+  And this inferior clod!
+There's nothing here deserves my joys,
+  There's nothing like my God.</stanza>
+    <stanza type="verse" number="2">To Thee I owe my wealth, and friends,
+  And health, and safe abode;
+Thanks to Thy name for meaner things,
+  But they are not my God.
+How vain a toy is glittering wealth,
+  If once compared to Thee!
+Or what's my safety, or my health,
+  Or all my friends to me.</stanza>
+    <stanza type="verse" number="3">Were I possessor of the earth,
+  And called the stars my own,
+Without Thy graces and Thyself,
+  I were a wretch undone.
+Let others stretch their arms like seas,
+  And grasp in all the shore;
+Grant me the visits of Thy grace,
+  And I desire no more.</stanza>
+  </lyrics>
+</hymn>

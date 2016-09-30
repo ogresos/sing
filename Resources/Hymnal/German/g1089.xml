@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Du, Lamm Gottes, rein und sündlos</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Tod</category>
+  <numbers><cebuano num="1089"/><english num="1089"/><german num="1089"/><russian num="400"/><tagalog num="1089"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <layout>
+	<singingstanza>Du, Lamm Got -- tes, rein und sünd -- los, Starbst für Sün -- der dort al -- lein. Dein ver -- goss -- nes Blut er -- lös -- te, Wusch von Fle -- cken uns ganz rein. Oh Lamm Got -- tes, oh Lamm Got -- tes, Nahmst all uns -- re Sün -- den weg! Nahmst all uns -- re Sün -- den weg!</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">John 1:29</link>
+	<link type="ref">John 3:14</link>
+	<link type="ref">John 12:24</link>
+  </links>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Du, Lamm Gottes, rein und sündlos,
+Starbst für Sünder dort allein.
+Dein vergossnes Blut erlöste,
+Wusch von Flecken uns ganz rein.
+Oh Lamm Gottes, oh Lamm Gottes,
+Nahmst all unsre Sünden weg!
+Nahmst all unsre Sünden weg!</stanza>
+	<stanza type="verse" number="2">Bronze-Schlange, auf Dich schaun wir,
+Sohn des Menschen, hoch erhöht.
+Gleich dem Fleisch der Sünde trugst sie 
+Einst ans Kreuz, trotz dem Gespött.
+Nun sichs wendet, Altes endet;
+Satan und die Welt bezwangst,
+Satan und die Welt bezwangst</stanza>
+	<stanza type="verse" number="3">Weizenkorn, so klein und niedrig,
+Ohne Tod bleibt es allein;
+Birgt in sich das Leben Gottes,
+In den Tod gesät muss sein.
+Spriesst das Leben, mehr wird’s geben,
+Viele Körner bringt's hervor, 
+Viele Körner bringt's hervor!</stanza>
+	<stanza type="verse" number="4">Gottes Lamm uns ganz erlöste,
+Bronze-Schlange schlug den Feind,
+Weizenkorn zeigt die Vermehrung,
+Wir, die Körner, sind vereint.
+Halleluja! Halleluja!
+Allumfassend ist Sein Tod,
+Allumfassend ist Sein Tod!</stanza>
+  </lyrics>
+</hymn>

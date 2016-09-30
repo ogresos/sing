@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bill</firstname>
+  <lastname>Mancia</lastname>
+  <email>listenbehold@gmail.com</email>
+  <password>$2y$10$kdE69qoE4Thrq2/yUtlfN.BQRPzg9uso0oioZrbMBI2MBEb9YU3sG</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>75.54.140.211</ipaddress>
+  <createdate>2009-08-05 21:32:39</createdate>
+  <lastupdateddate>2015-07-29 04:01:52</lastupdateddate>
+  <lastlogindate>2015-07-29 04:01:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1198">A mighty flowing-out is God</fav>
+    <fav category="default" type="h" num="501">O glorious Christ, Savior mine</fav>
+    <fav category="default" type="h" num="499">Oh, what a life! Oh, what a peace</fav>
+  </favourites>
+</user>

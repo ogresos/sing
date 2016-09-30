@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Bulayin Siya: Kristo iyong tularan</title>
+  <index>true</index>
+  <category>PAGHIKAYAT&amp;mdash;PARA SA PAGBULAY KAY KRISTO</category>
+  <numbers><cebuano num="656"/><chinese num="479"/><english num="656"/><korean num="479"/><tagalog num="656"/></numbers>
+  <creators>
+    <author biodate="1868-1927" biolink="">Translated from Emily May Grimes</author>
+  </creators>
+  <music>
+    <midiref type="h" num="496"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Bulayin Siya: Kristo iyong tularan
+Alamin na ika'y hinawakan;
+Kabahagi ka sa Kanyang buhay
+Upang Kanyang wangis iyong isilay.</stanza>
+    <stanza type="verse" number="2">Bulayin Siya: Gawin araw-araw
+Sa katayugan huwag kang masilaw;
+Ang walang hanggang buhay kilanlin
+Kamatayan ni Kristo'y danasin.</stanza>
+    <stanza type="verse" number="3">Bulayin Siya: Buong buhay gawin
+Mamuhay ka sa loob ng tabing;
+Kapag itakwil ang iyong sarili,
+Mapasa iyo layang mal'walhati.</stanza>
+    <stanza type="verse" number="4">Bulayin Siya: Gayon nga buhay mo
+May kadalisayan, sakripisyo;
+Gagawa pa ang Diyos sa loob mo,
+Kristo sa Iyo'y makita ng tao.</stanza>
+    <stanza type="verse" number="5">Bulayin Siya: Sa I-yong takbuhin,
+Lagi sa mukha Niya nakatingin,
+Gayon ikaw Kanyang transpormahin;
+Hanggang wangis ni Kristo'y tamuhin.</stanza>
+  </lyrics>
+</hymn>

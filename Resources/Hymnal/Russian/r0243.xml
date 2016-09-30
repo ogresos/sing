@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Отец, Тебе песнь радости поём</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ХВАЛА ЕМУ ОТ МНОГИХ СЫНОВЕЙ</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Отец, Тебе песнь радости поём.
+Здесь все – Твои.
+О, лишь Тебе в присутствии Твоём
+Звучат хвалы.
+Ты нас вернул Себе – о благодать! –
+Чтоб с Твоим Сыном место нам разделять</stanza>
+	<stanza type="verse" number="2">Как здесь святая радость глубока:
+Любовь во всём!
+Твоя любовь, наш Бог Отец, видна:
+Она лишь в Нём.
+В Твоём покое Он ведёт в хвале
+Тех, кто благословлён любовью Твоей.</stanza>
+	<stanza type="verse" number="3">Как сладка слуху Твоему та песнь,
+Что Он поёт!
+Как дорожишь Ты теми, кого Он
+К Тебе ведёт
+Быть вместе с Ним, как Ты, Отец, решил.
+Творенья прежде Ты Его возлюбил.</stanza>
+  </lyrics>
+</hymn>

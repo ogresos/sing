@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Darla</firstname>
+    <lastname>Hunter</lastname>
+    <email>darla4@sbcglobal.net</email>
+    <password>qVI960EEH%2FndyqjGAllJlA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>76.198.253.211</ipaddress>
+    <createdate>2013-03-13 12:41:27</createdate>
+    <lastupdateddate>2013-03-13 14:06:38</lastupdateddate>
+    <lastlogindate>2013-03-13 14:06:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+    </favourites>
+</user>

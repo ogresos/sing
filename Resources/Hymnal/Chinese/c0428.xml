@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>跟主行走心中甜美</title>
+  <index>true</index>
+  <category>經歷基督－跟隨祂</category>
+  <numbers><cebuano num="587"/><chinese num="428"/><english num="587"/><korean num="428"/><portuguese num="294"/><russian num="524"/><tagalog num="587"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 5_. 6_./( 7_./) 1. 3/ | 2 1 6_./ 1. | 1 3 5. 3/ | 2 3 2 - (break) | 5_. 6_./( 7_./) 1. 3/ | 2 1 3/ 5. | 4 6 5. 3/ | 2 3 1 - (break) | (Chorus) 3 1 5 - | ._1 6 5 - | 5. 6/ 5 3 | 3 - 2 - (break) | 3 1 5 - | ._1 6 5 - | 5. 6/ 5 3 | 2 - 1 - |</melody>
+  <layout>
+	<singingstanza>跟 主 行 走， 心 中 甜 美， 雖 然 身 外 有 苦 楚； 主 的 腳 蹤 步 步 追 隨， 天 天 跟 主 走 窄 路。 步 步 追， 步 步 隨， 步 步 跟 隨 耶 穌； 天 天 追， 天 天 隨， 天 天 行 走 窄 路。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="587"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">跟主行走，心中甜美，
+雖然身外有苦楚；
+主的腳蹤步步追隨，
+天天跟主走窄路。</stanza>
+	<stanza type="chorus" number="">步步追，步步隨，
+步步跟隨耶穌；
+天天追，天天隨，
+天天行走窄路。</stanza>
+	<stanza type="verse" number="2">跟主行走，必得光輝，
+必見晨光到日午；
+主的聲音步步追隨，
+時時跟主走窄路。</stanza>
+	<stanza type="chorus" number="">步步追，步步隨，
+步步跟隨耶穌；
+時時追，時時隨，
+時時行走窄路。</stanza>
+	<stanza type="verse" number="3">跟主行走，無何可畏，
+雖然艱難常四伏；
+主的引領步步追隨，
+處處跟主走窄路。</stanza>
+	<stanza type="chorus" number="">步步追，步步隨，
+步步跟隨耶穌；
+處處追，處處隨，
+處處行走窄路。</stanza>
+	<stanza type="verse" number="4">跟主行走，前途可貴，
+必要同主得國度；
+主的標竿步步追隨，
+一直跟主走窄路。</stanza>
+	<stanza type="chorus" number="">步步追，步步隨，
+步步跟隨耶穌；
+一直追，一直隨，
+一直行走窄路。</stanza>
+  </lyrics>
+</hymn>

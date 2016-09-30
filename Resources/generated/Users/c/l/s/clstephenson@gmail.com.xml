@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Chris</firstname>
+    <lastname>Stephenson</lastname>
+    <email>clstephenson@gmail.com</email>
+    <password>iI6hpGcVpF%2FzGFYB267w1Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>67.168.236.185</ipaddress>
+    <createdate>2012-11-29 21:29:38</createdate>
+    <lastupdateddate>2012-11-29 21:38:15</lastupdateddate>
+    <lastlogindate>2012-11-29 21:29:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+        <fav category="default" type="h" num="1162">We've found the secret of living</fav>
+    </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Clifford</firstname>
+  <lastname>Mines</lastname>
+  <email>cliffmines2005@yahoo.com</email>
+  <password>$2y$10$F9enugrMYYsU6NDCGmJWWeQqmPw13YzjWFndLx1MWSNLrb1Qjo4dG</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>76.105.85.50</ipaddress>
+  <createdate>2008-07-26 01:43:01</createdate>
+  <lastupdateddate>2014-08-23 16:50:32</lastupdateddate>
+  <lastlogindate>2014-08-23 16:50:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1213">If from your nat'ral man you would be free</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Morgan</firstname>
+  <lastname>Mulenga</lastname>
+  <email>mulmorgan@yahoo.com</email>
+  <password>$2y$10$Slg9E00gUL235XPkrBqq.uCIwXFGgf3fqoAGyZ8lmBHoYfD3RWGou</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>81.137.206.147</ipaddress>
+  <createdate>2015-09-24 01:44:03</createdate>
+  <lastupdateddate>2015-09-24 01:53:28</lastupdateddate>
+  <lastlogindate>2015-09-24 01:51:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

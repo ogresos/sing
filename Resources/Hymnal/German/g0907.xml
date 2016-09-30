@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nicht dort, wo wir hingehn wolln</title>
+  <index>true</index>
+  <category>DIENST&amp;mdash;Durch das Leiten des Herrn</category>
+  <numbers><cebuano num="907"/><chinese num="650"/><english num="907"/><german num="907"/><korean num="650"/><tagalog num="907"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 5 ._1 ._1 7/( 6/) | 5 6 2 - | 3 2 4 3 | 2 1 5 - (break) | ._1 7/( 6/) 5 4 | 3 2/( 1/) 7_. - | 5 6 7 ._1 | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>Nicht dort, wo wir hin -- gehn wolln, Doch wo Je -- sus hin -- führn mag, Dort das Le -- ben ü -- ber -- fließt, Dort wird uns -- re Nacht zum Tag.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="907"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nicht dort, wo wir hingehn wolln,
+Doch wo Jesus hinführn mag,
+Dort das Leben überfließt,
+Dort wird unsre Nacht zum Tag.</stanza>
+	<stanza type="verse" number="2">Nicht der selbst ernannten Tat
+Unser Gott zustimmen kann,
+Doch dem Werk, das Er aufträgt,
+Demutsvoll für Ihn getan.</stanza>
+	<stanza type="verse" number="3">Nicht Gebet nach eignem Wunsch,
+Nur auf eigne Not hinweist,
+Doch berühre Gottes Wunsch,
+Seufzen lass in dir den Geist.</stanza>
+	<stanza type="verse" number="4">Nicht die Gaben, die du stolz
+Legst auf den Altar, will Er,
+Doch dein Herz, das noch sagt „Nein“,
+Sanft sagt Er: „Das brauch Ich sehr.“</stanza>
+	<stanza type="verse" number="5">Daher sterbend leben wir
+In den Himmeln mit dem Sohn;
+Ihm wir dienen, weihen uns,
+Christus Selbst ist unser Lohn.</stanza>
+  </lyrics>
+</hymn>

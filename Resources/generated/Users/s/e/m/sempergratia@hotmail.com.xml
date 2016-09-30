@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Naomi</firstname>
+    <lastname>Habib</lastname>
+    <email>sempergratia@hotmail.com</email>
+    <password>7wu27x1HDl5K4E36423gPA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>68.228.59.225</ipaddress>
+    <createdate>2012-08-18 20:01:37</createdate>
+    <lastupdateddate>2012-08-18 20:04:13</lastupdateddate>
+    <lastlogindate>2012-08-18 20:01:40</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="h" num="958">Since long ago at Bethany we parted</fav>
+    </favourites>
+</user>

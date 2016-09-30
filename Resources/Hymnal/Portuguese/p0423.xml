@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>No fluir! No fluir! Pra o Senhor trabalhar</title>
+  <index>true</index>
+  <category>No Fluir</category>
+  <numbers><cebuano num="909"/><chinese num="653"/><dutch num="45"/><english num="909"/><french num="169"/><german num="909"/><korean num="653"/><portuguese num="423"/><russian num="431"/><spanish num="407"/><tagalog num="909"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 2/ 3/ | 4 4./ 3// 4 3/ 4/ (break) | 6 5./ 4#// (.5 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 3/ 3/ | 2 5/ 5/ 4# 5/ 6/ (break) | 7 7./ 6// (.5 (Chorus) 3./ 4// | 5 - - ._1./ 3// | 2 - - 2./ 3// | 4 - - 5./ 4// (break) | 3 - - 3./ 4// | 5 - - ._1./ 7// | 6 - - 7 | ._1/ 5/ 6./ 4// 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="909"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">No fluir! No fluir! Pra o Senhor trabalhar,
+Do Seu modo e pensar, como diz Seu falar,
+Pela vida que flui e poder divinal,
+Por Seu Reino e Igreja, no tempo atual.</stanza>
+	<stanza type="chorus" number="">No fluir! No fluir!
+Trabalhar no fluir!
+No fluir! No fluir!
+Em coordenação servir.</stanza>
+	<stanza type="verse" number="2">No fluir! No fluir! Co'o Senhor trabalhar,
+No Espírito, como nos diz Seu falar;
+Não no ego nem independente agir,
+Mas na obra, em plena harmonia, servir.</stanza>
+	<stanza type="verse" number="3">No fluir! No fluir! No Senhor trabalhar,
+Com a Igreja, os irmãos, na luz do Seu falar;
+A Palavra e a vida a todos suprir
+E assim no fluir o Seu plano cumprir.</stanza>
+  </lyrics>
+</hymn>

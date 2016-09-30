@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Giovanni</firstname>
+  <lastname>Pileggi</lastname>
+  <email>giorider@centurylink.net</email>
+  <password>$2y$10$1aiaRID9XmIef23xIITLH.P3.D.449x0ziuq2xZhOdIpp2TIc9yoS</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>67.232.53.197</ipaddress>
+  <createdate>2011-04-06 17:18:08</createdate>
+  <lastupdateddate>2014-08-24 14:24:19</lastupdateddate>
+  <lastlogindate>2014-08-24 14:24:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="325">All my life long I had panted</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="1213">If from your nat'ral man you would be free</fav>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

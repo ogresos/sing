@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Isaiah 42:9 &amp; Philippians 3:13-14</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+<!-- 
+  <creators>
+	<author biodate="" biolink="" fullname="">2015 FTTA Trainees</author>
+	<composer biodate="" biolink="" fullname="">2015 FTTA Trainees</composer>
+  </creators>
+ -->
+  <hymncode>15565432133143446565</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | F - - - | G - - - | G - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | F - - - | G - - - | G - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | F - - - | G - - - | G - - - | C - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C - - - | C - - - |</chords>
+  <melody>| 0 - - 1 | 5 - - 5 | 6 5/ 4/( 4) 3 | 2 - 1( 3) (break) | 3 - - 1 | 4( - - 3) | 4 - 4 6 | 5 - - 6 (break) | 5 - - 1 | 5 - - 5 | 6 5/ 4/( 4) 3 | 2 - 1( 3) (break) | 3 - - 1 | 4 3 2 1 | 2 - - 1  | 1( - - - | 1) - - 0 (break) | (Verse_2) ._1 - - - | ._1 - ._1 - | 7( - ._2) - | ._1 - - - (break) | 6 - - 5 | 6 - ._1 - | 7( - - ._1) | 7 - - - (break) | ._1 - - - | ._1 - ._1 - | 7( - ._2) - | ._1 - - - (break) | 6 7 ._1 ._3 | ._2( - - ._1) | ._1( - - - (break) | ._1) - - (Verse_3) 1 | 3 - 2 3 | 4 - 3( 4) | 5 - 5( 6) (break) | 1 - - 3 | 4 3 2 1 | 2 - - 3 | 2( - - - (break) | 2) 1 1 2 | 3 - 2 3 | 4 - 3 4 | 5 - 5 5# (break) | 6 - - 6 | 6 5 4 6 | 5 5( 5) 4 | 3( - - - | 3) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">In -- deed the for -- mer things have come to pass, And new things I am tell -- ing you; In -- deed the for -- mer things have come to pass, And new things I am tell -- ing you; Be -- fore they spring forth I will let you hear them. Be -- fore they spring forth I will let you hear them. For -- get -- ting the things which are be -- hind And stretch -- ing for -- ward to the things Which are be -- fore, I pur -- sue toward the goal for the prize which God has called me up -- ward in Christ.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Isaiah 42:9</link>
+    <link type="ref">Philippians 3:13-14</link>
+  </links>
+  <music>
+    <midi location="ns" length="82">ns0525.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Indeed the former things have come to pass,
+And new things I am telling you;
+Indeed the former things have come to pass,
+And new things I am telling you;</stanza>
+    <stanza type="verse" number="2">Before they spring forth
+I will let you hear them.
+Before they spring forth
+I will let you hear them.</stanza>
+    <stanza type="verse" number="3">Forgetting the things which are behind
+And stretching forward to the things
+Which are before, I pursue toward the goal for the prize
+Which God has called me upward in Christ.</stanza>
+    <stanza type="note" number="">(All three stanzas can be sung simultaneously.)</stanza>
+  </lyrics>
+</hymn>

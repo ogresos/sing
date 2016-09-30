@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Deus meus pecados perdoou</title>
+  <index>true</index>
+  <category>Perdoados Por Deus</category>
+  <numbers><chinese num="233"/><english num="1355"/><french num="53"/><portuguese num="169"/><russian num="60"/><spanish num="140"/><tagalog num="1355"/></numbers>
+  <music>
+    <midiref type="h" num="1355"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Deus meus pecados perdoou,
+Atrás de Si os atirou,
+Dos quais jamais se lembrará,
+Por eles não me julgará</stanza>
+    <stanza type="chorus" number="">Deus meus pecados perdoou,
+Qual nuvem que se dispersou;
+E minhas transgressões desfez
+Qual névoa que se dissipou.</stanza>
+    <stanza type="verse" number="2">Deus meus pecados perdoou
+E sob Seus pés já os calcou;
+De modo algum os olhará,
+Nem mesmo os examinará.</stanza>
+    <stanza type="verse" number="3">Deus minhas transgressões tirou,
+Qual pedra, ao mar já as lançou;
+Distantes hoje estão de mim,
+Qual leste do oeste ? assim.</stanza>
+  </lyrics>
+</hymn>

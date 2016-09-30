@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Adewale</firstname>
+    <lastname>Balogun</lastname>
+    <email>rbalogun33@gmail.com</email>
+    <password>2x1Iwug2NLuRO1984leshw%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>208.54.35.234</ipaddress>
+    <createdate>2013-02-28 23:02:55</createdate>
+    <lastupdateddate>2013-03-26 11:49:05</lastupdateddate>
+    <lastlogindate>2013-03-01 13:01:35</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+        <fav category="default" type="h" num="391">Guide me, O Thou gracious Savior</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="990">The Great Physician now is near</fav>
+        <fav category="default" type="h" num="260">There shall be showers of blessing</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+    </favourites>
+</user>

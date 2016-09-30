@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Dean Michael</firstname>
+<lastname>Wegweiser</lastname>
+<email>pianointune@gmail.com</email>
+<password>$1$znsdmmUs$Xbl/JU7J4RujYua2tdo/N1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.190.161.157</ipaddress>
+<createdate>2008-11-03 21:30:49</createdate>
+<lastupdateddate>2009-09-15 18:26:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="352">A common bush</fav>
+        <fav category="default" type="nt" num="724">A little bird I am</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+    </favourites>
+</user>

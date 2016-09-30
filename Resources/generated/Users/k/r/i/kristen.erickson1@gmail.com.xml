@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kristen</firstname>
+  <lastname>Erickson</lastname>
+  <email>kristen.erickson1@gmail.com</email>
+  <password>$2y$10$kd/V40iSCMKxjOI9mlV8RudVz110asdG71K1mJjn.5SxRpqViLbJ.</password>
+  <gender/>
+  <country>mx</country>
+  <ipaddress>187.188.63.133</ipaddress>
+  <createdate>2016-06-29 00:43:26</createdate>
+  <lastupdateddate>2016-07-02 00:40:19</lastupdateddate>
+  <lastlogindate>2016-06-29 02:18:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="124">Be Strong and of Good Courage</fav>
+    <fav category="default" type="c" num="27">Before God put the leaves on the trees</fav>
+    <fav category="default" type="nt" num="720">God Hath Not Promised (1)</fav>
+    <fav category="default" type="c" num="78">God is So Good to Me!</fav>
+    <fav category="default" type="c" num="61">God is light, and in Him there is no darkness at all</fav>
+    <fav category="default" type="c" num="112">God made the mountains</fav>
+    <fav category="default" type="c" num="66">I love to sing a joyful song</fav>
+    <fav category="default" type="c" num="65">I'm a vessel this I know</fav>
+    <fav category="default" type="c" num="141">I'm just a little flower</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+    <fav category="default" type="h" num="1293">O I'm a man</fav>
+    <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+    <fav category="default" type="c" num="73">Open up to your parents</fav>
+    <fav category="default" type="c" num="127">When You See the Falling Rain</fav>
+  </favourites>
+</user>

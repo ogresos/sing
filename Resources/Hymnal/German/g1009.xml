@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Möchtest du frei von der Sündenlast sein</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Das Blut</category>
+  <numbers><cebuano num="1009"/><chinese num="687"/><english num="1009"/><french num="198"/><german num="1009"/><korean num="687"/><portuguese num="449"/><russian num="169"/><spanish num="472"/><tagalog num="1009"/></numbers>
+  <creators>
+	<author biodate="1865-1936" biolink="">Translated from Lewis Ellis Jones</author>
+  </creators>
+  <melody>| 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 ._2./ ._1#// ._2 - | ._1 ._3./ ._2#// ._3 - (break) | 5 5/ 5/ 5 5/ 5/ | 6 6/ 6/ 5. ._1/ | 7 7./ 7// ._2 ._1/ 7/ (break) | ._1 - - (Chorus) 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2 - - ._1./ ._2// (break) | ._3 - - 5/ ._1/ | ._3 - ._3 - | ._2/ ._1/ ._1/ 6/ 5 7./ ._1// | ._2 ._4/ ._4/ ._3 ._2./ ._2// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Möch -- test du frei von der Sün -- den -- last sein? Die Kraft ist im Blut, Kraft ist im Blut; Willst du, dass Sieg ü -- ber Bö -- ses zieht ein? Die gött -- li -- che Kraft ist im Blut. Es ist Kraft, Kraft, wun -- der -- ba -- re Kraft, Die das Lamm hat im Blut; Es ist Kraft, Kraft, wun -- der -- ba -- re Kraft, Die das Lamm hat im kost -- ba -- ren Blut.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1009"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Möchtest du frei von der Sündenlast sein?
+    Die Kraft ist im Blut, Kraft ist im Blut;
+Willst du, dass Sieg über Böses zieht ein?
+    Die göttliche Kraft ist im Blut.</stanza>
+	<stanza type="chorus" number="">Es ist Kraft, Kraft, wunderbare Kraft,
+    Die das Lamm hat im Blut;
+Es ist Kraft, Kraft, wunderbare Kraft,
+    Die das Lamm hat im kostbaren Blut.</stanza>
+	<stanza type="verse" number="2">Möchtest du frei sein von Stolz und Verdruss?
+    Die Kraft ist im Blut, Kraft ist im Blut;
+Reinige dich doch im Golgatha-Fluss,
+    Die göttliche Kraft ist im Blut.</stanza>
+	<stanza type="verse" number="3">Möchtest du weisser als Schneeflocken sein?
+    Die Kraft ist im Blut, Kraft ist im Blut;
+Leben im Strom wäscht von Sündflecken rein,
+    Die göttliche Kraft ist im Blut.</stanza>
+	<stanza type="verse" number="4">Möchtest dem Herrn Jesus dienen noch mehr?
+    Die Kraft ist im Blut, Kraft ist im Blut;
+Willst du Ihm leben, Ihm singen zur Ehr?
+    Die göttliche Kraft ist im Blut.</stanza>
+  </lyrics>
+</hymn>

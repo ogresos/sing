@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Utterly abandoned</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Separated unto the Lord</category>
+  <numbers><cebuano num="439"/><chinese num="334"/><english num="439"/><korean num="334"/><lsmyp num="114"/><russian num="360"/><spanish num="188"/><tagalog num="439"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Streams in the Desert, adapted</author>
+    <composer biodate="1836-1879" biolink="">Frances Ridley Havergal</composer>
+  </creators>
+  <meter>6.5.6.5.D. with chorus.</meter>
+  <hymncode>3332164321752343121765</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - E7 - | Am - - - | Dm - D7/F# - | G - - - | G - G7 - | C - C/E - | G/D - D7 - | G - - - | C - F - | G7 - C - | F - G7 - | C - - - | C - - - | C/E - Am - | F - G7 - | C F/C C - | C - E7 - | Am - - - | Dm - D7/F# - | G - - - | C - - - | C/E - Am - | F - G7 - | C F/C C - |</chords>
+  <melody>| 3. 3/ 3 2 | 1 - 6_. - | 4. 3/ 2 1 | 7_. - - - | 5 2 3 4 | 3 - 1 - | 2. 1/ 7_. 6_. | 5_. - - - (break) | 5_. 5_. 6_. 7_. | 2 - 1 - | 1 1 4 4 | 3 - - - | 1 2 3 4 | 5 - 5_. - | 6_. 4 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 3 2 | 1 - 6_. - | 4. 3/ 2 1 | 7_. - - - | 1 2 3 4 | 5 - 5_. - | 6_. 4 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Ut -- ter -- ly a -- ban -- doned To the Ho -- ly Ghost! Seek -- ing all His ful -- ness At what -- ev -- er cost; Cut -- ting all the shore -- lines, Launch -- ing in the deep Of His might -- y pow -- er, Strong to save and keep. Ut -- ter -- ly a -- ban -- doned To the Lord of all, Seek -- ing all His ful -- ness, An -- sw'ring His dear call.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj037.xml</link>
+    <link type="relevant" category="nt" num="439"></link>
+  </links>
+  <music>
+    <midi location="h" length="50">e0439_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Utterly abandoned
+  To the Holy Ghost!
+Seeking all His fulness
+  At whatever cost;
+Cutting all the shorelines,
+  Launching in the deep
+Of His mighty power,
+  Strong to save and keep.</stanza>
+    <stanza type="chorus" number="">Utterly abandoned
+  To the Lord of all,
+Seeking all His fulness,
+    Answ'ring His dear call.</stanza>
+    <stanza type="verse" number="2">Utterly abandoned
+  To the Holy Ghost!
+Oh! the sinking, sinking,
+  Till the self is lost!
+Till the vessel's emptied
+  Broken at His feet;
+Waiting till His filling
+  Makes the work complete.</stanza>
+    <stanza type="verse" number="3">Utterly abandoned
+  To the will of God;
+Walking in the pathway
+  That my Master trod;
+Leaving ease and pleasure;
+  Making Him my choice,
+Waiting for His guidance,
+  Listening for His voice.</stanza>
+    <stanza type="verse" number="4">Utterly abandoned!
+  Through eternity;
+My will never choosing,
+  His it e'er shall be;
+All my plans and longings
+  Lost in His sweet will,
+Having nothing, owning
+  All things in Him still.</stanza>
+    <stanza type="verse" number="5">Utterly abandoned!
+  'Tis so sweet to be
+Captive in His love-bonds,
+  Yet so wondrous free;
+Free from sin's dominion,
+  Free from doubt and fear,
+Free from every worry,
+  Burden, grief or care.</stanza>
+    <stanza type="verse" number="6">Utterly abandoned!
+  Oh, the rest is sweet,
+Waiting in His presence
+  At His blessed feet;
+Waiting for the filling
+  Of the Host divine,
+Who my inward parts shall
+  Perfectly refine.</stanza>
+    <stanza type="verse" number="7">Lo! His Spirit fills me,
+  With His presence sweet!
+I, in Him, am blessed!
+  I, in Him, complete!
+Now the light within me
+  Never shall grow dim
+While abandoned ever,
+  Living unto Him!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你如今活在召會裡</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <layout>
+	<singingstanza>你 如 今 活 在 召 會 裡， 豈 不 令 你 歡 天 喜 地！？ 讚 美 主， 實 在 是 榮 耀， 我 們 終 於 找 著 目 標。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ts" num="401"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你如今活在召會裡，
+豈不令你歡天喜地！？
+讚美主，實在是榮耀，
+我們終於找著目標。</stanza>
+	<stanza type="verse" number="2">從此不再尋尋覓覓，
+我們已經回到家裡。
+弟兄們和睦的同居，
+真正天倫之樂無比！</stanza>
+	<stanza type="verse" number="3">這是神揀選的地方，
+神榮臉得以常瞻仰；
+神的名是擺在這裡，
+你住些時，就不一樣。</stanza>
+	<stanza type="verse" number="4">阿利路亞，別無揀選─
+從聽見祂聲音那天。
+自深處我們說：『阿們，
+我們樂意，投身其間。』</stanza>
+  </lyrics>
+</hymn>

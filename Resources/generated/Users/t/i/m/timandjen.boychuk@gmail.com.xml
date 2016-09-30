@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jennifer</firstname>
+    <lastname></lastname>
+    <email>timandjen.boychuk@gmail.com</email>
+    <password>AWYYbr43UYd7z%2BrizEtbKA%3D%3D</password>
+    <gender></gender>
+    <country>Canada</country>
+    <ipaddress>70.49.232.135</ipaddress>
+    <createdate>2012-11-27 15:50:48</createdate>
+    <lastupdateddate>2012-12-07 11:26:46</lastupdateddate>
+    <lastlogindate>2012-11-27 15:50:48</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="796">Christ, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+        <fav category="default" type="h" num="997">I hear the Savior say</fav>
+        <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+        <fav category="default" type="h" num="579">Jesus! I am resting, resting</fav>
+        <fav category="default" type="lb" num="7">Jesus, Lord Jesus</fav>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="lb" num="44">Lord Jesus, I love You</fav>
+        <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+        <fav category="default" type="h" num="146">Rejoice, the Lord is King</fav>
+        <fav category="default" type="h" num="1129">So great a salvation, ye saints of the Lord</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+    </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tinig ni Hesus narinig ko</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;NASIYAHAN KAY KRISTO</category>
+  <numbers><chinese num="ts:832*"/><english num="323"/><french num="63"/><tagalog num="323"/></numbers>
+  <creators>
+    <author biodate="1808-1889" biolink="">Translated from Horatius Bonar</author>
+  </creators>
+  <music>
+    <midiref type="h" num="323"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tinig ni Hesus narinig ko,
+"Halina sa Akin,
+Mga nabibigatang-loob,
+Magpahinga sa 'kin."
+Pagal, pagod, at pighati
+Sa Kanya'y lumalapit
+Ako'y sa Kanya napahinga
+Puso ko'y sumaya.</stanza>
+    <stanza type="verse" number="2">Tinig ni Hesus narinig ko,
+"Libre kong 'binigay
+Sa uhaw na mga kalulwa
+Ang tubig ng buhay."
+Sa Kanya 'ko'y lumalapit
+Na may bukas na puso,
+Sa pag-inom, uhaw napawi,
+Kalul'wa'y nabawi.</stanza>
+    <stanza type="verse" number="3">Tinig ni Hesus narinig ko,
+" 'Ko'y ilaw ng mundo
+Bumaling ka lamang sa Akin
+Ko'y sisinag sa iyo."
+Babaling ako kay Hesus
+Na aking araw at tala.
+Kaya't sa Kaniyang liwanag
+Lakad na may galak.</stanza>
+  </lyrics>
+</hymn>

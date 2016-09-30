@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Wendy</firstname>
+<lastname>Wong</lastname>
+<email>wong.wendy3@gmail.com</email>
+<password>$1$AE24IfOD$8IPYVwkfLQPJefO8si.jr.</password>
+<gender>F</gender>
+<country>Hong Kong</country>
+<ipaddress>123.118.120.36</ipaddress>
+<createdate>2008-07-26 01:43:29</createdate>
+<lastupdateddate>2009-09-15 18:25:24</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="43">Abba, Father, we approach Thee</fav>
+        <fav category="default" type="h" num="102">We sing the praise of Him who died</fav>
+        <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+        <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+        <fav category="default" type="h" num="5">God, our Father, we adore Thee</fav>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="436">Thy Life was giv'n for me</fav>
+    </favourites>
+</user>

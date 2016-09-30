@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jo-ann</firstname>
+<lastname>Atarejos</lastname>
+<email>joannaltarejos@yahoo.com</email>
+<password>$1$WvSiZKcl$qYCJG6ANtgC.FuQInq96R1</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>121.54.29.26</ipaddress>
+<createdate>2009-01-18 09:17:23</createdate>
+<lastupdateddate>2009-09-15 18:29:22</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    </favourites>
+</user>

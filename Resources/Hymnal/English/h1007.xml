@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Have you been to Jesus for the cleansing pow'r</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Blood</category>
+  <numbers><cebuano num="1007"/><chinese num="688"/><english num="1007"/><french num="197"/><german num="1007"/><korean num="688"/><lsmyp num="292"/><portuguese num="447"/><russian num="166"/><spanish num="470"/><tagalog num="1007"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Elisha Albright Hoffman</author>
+	<composer biodate="1839-1929" biolink="">Elisha Albright Hoffman</composer>
+  </creators>
+  <meter>11.9.11.9. with chorus.</meter>
+  <hymncode>35111535111</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Am - D7 - | G - G7 - | C - C7 - | F - Dm - | C/G - G7 - | C F/C C - | C - C/E - | F - Dm - | Em - Am - | Dm - G7 - | C - C/E - | F - - - | C/G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | C - - - | C - D7 - | G - G7 - | C - C7 - | F - - - | C - G7 - | C - - - | C - - - | F - - - | C - - - | G - G7 - | C - - - | F - - - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 3/ 5/ | ._1 ._1 ._1/ 5/ 3/ 5/ | ._1 ._1 ._1 ._1/ ._2/ | ._3 ._3/ ._3/ ._3 ._2/ ._1/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ (break) | ._1 - - (Chorus) ._3/ ._2/ | ._1 - - ._1/ 7/ | 6 - - 7/ 6/ | 5 ._1/ ._2/ ._3 ._4/ ._3/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Have you been to Je -- sus for the cleans -- ing pow'r? Are you washed in the blood of the Lamb? Are you ful -- ly trust -- ing in His grace this hour? Are you washed in the blood of the Lamb? Are you washed in the blood, In the soul- -- cleans -- ing blood of the Lamb? Are your gar -- ments spot -- less? Are they white as snow? Are you washed in the blood of the Lamb?</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj106.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="38">e1007_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Have you been to Jesus for the cleansing pow'r?
+Are you washed in the blood of the Lamb?
+Are you fully trusting in His grace this hour?
+Are you washed in the blood of the Lamb?</stanza>
+	<stanza type="chorus" number="">Are you washed in the blood,
+In the soul-cleansing blood of the Lamb?
+Are your garments spotless? Are they white as snow?
+  Are you washed in the blood of the Lamb?</stanza>
+	<stanza type="verse" number="2">Are you walking daily by the Savior's side?
+Are you washed in the blood of the Lamb?
+Do you rest each moment in the Crucified?
+Are you washed in the blood of the Lamb?</stanza>
+	<stanza type="verse" number="3">When the Bridegroom cometh will your robes be white!
+Are you washed in the blood of the Lamb?
+Will your soul be ready for His presence bright,
+And be washed in the blood of the Lamb?</stanza>
+	<stanza type="verse" number="4">Lay aside the garments that are stained with sin,
+And be washed in the blood of the Lamb;
+There's a fountain flowing for the soul unclean,
+O be washed in the blood of the Lamb.</stanza>
+  </lyrics>
+</hymn>

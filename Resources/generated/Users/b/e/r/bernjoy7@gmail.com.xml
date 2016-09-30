@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bernard</firstname>
+  <lastname>Wilkinson</lastname>
+  <email>bernjoy7@gmail.com</email>
+  <password>$2y$10$K2BsnGBOorkpckCUNpY43eyHbNj7qkCEpljV3yO8jFVHnSOLUgH7O</password>
+  <gender/>
+  <country/>
+  <ipaddress>71.196.255.158</ipaddress>
+  <createdate>2016-01-06 16:22:25</createdate>
+  <lastupdateddate>2016-01-06 16:27:35</lastupdateddate>
+  <lastlogindate>2016-01-06 16:24:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+  </favourites>
+</user>

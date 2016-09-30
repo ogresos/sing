@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tinik ang dati Mong putong</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KALUWALHATIAN</category>
+  <numbers><cebuano num="141"/><chinese num="118"/><english num="141"/><korean num="118"/><tagalog num="141"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tinik ang dati Mong putong,
+Glorya naman ngayon;
+Ngayon ay nasa langit na,
+Aming Pinuno Ka.</stanza>
+    <stanza type="verse" number="2">Sa banal, Ika'y ligaya,
+Ilaw ng langit pa;
+Inihayag pag-ibig Mo,
+Lalim mabatid ko.</stanza>
+    <stanza type="verse" number="3">Sa 'min krus Mo't kahihiyan,
+Biyaya nabigyan;
+Lupa'y tanggihan Kang husto,
+Dangal sa langit Iyo.</stanza>
+    <stanza type="verse" number="4">Kabalikat sa pagdusa,
+Maghari tulad Niya;
+Galak bayarang halaga,
+Nang layon makuha.</stanza>
+    <stanza type="verse" number="5">Sa 'min, buhay, lakas, krus Mo,
+Kamatayan sa Iyo;
+Ngayon galak, yama't glorya,
+Walang hanggang asa.</stanza>
+  </lyrics>
+</hymn>

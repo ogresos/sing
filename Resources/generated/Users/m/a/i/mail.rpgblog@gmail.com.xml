@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Zachary</firstname>
+  <lastname>Houghton</lastname>
+  <email>mail.rpgblog@gmail.com</email>
+  <password>$2y$10$18U5qMNB192X98mxWN7kOeY.Goxm9HieIjmgO9aQBvCu3s1seZb0q</password>
+  <gender/>
+  <country/>
+  <ipaddress>107.209.84.72</ipaddress>
+  <createdate>2015-06-28 14:32:09</createdate>
+  <lastupdateddate>2015-07-12 18:19:11</lastupdateddate>
+  <lastlogindate>2015-06-28 14:32:57</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

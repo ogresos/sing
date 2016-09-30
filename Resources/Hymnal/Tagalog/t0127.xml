@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sampung libong tinig humihiyaw</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKAKADAKILA</category>
+  <numbers><cebuano num="127"/><chinese num="110"/><english num="127"/><german num="127"/><korean num="110"/><portuguese num="62"/><russian num="203"/><spanish num="66"/><tagalog num="127"/></numbers>
+  <creators>
+	<author biodate="1800-1882" biolink="www.johndarby.org">Translated from John Nelson Darby</author>
+  </creators>
+  <melody>| 0 - - 5_./( 6_./) 5_./ | 1. 3. 3/( 2/) 1/ | 2. 5_.. 5_./( 6_./) 5_./ | 2. 4. 4/( 3/) 2/ (break) | 3 - - 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ | 1. 6_.. 2/( 1/) 6_./ | 5_.. 1. 3 2/ | 1 - - 0. |</melody>
+  <music>
+	<midiref type="h" num="127"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sampung libong tinig humihiyaw
+Nang sabay: "Kordero na Diyos"
+Mga tinig umaalingawngaw,
+Purihin Kordero ng Diyos.</stanza>
+	<stanza type="verse" number="2">"Purihin ang Kordero!" ang awit
+Ng pagpupulong sa langit;
+Ang bawa't dila ay sumasambit,
+Walang-hanggang umaawit.</stanza>
+	<stanza type="verse" number="3">Insenso ng pagpapasalamat
+Taas sa trono na Ama;
+Bawa't tuhod kay Hesus iluhod,
+Ang isip sa langit isa.</stanza>
+	<stanza type="verse" number="4">Lahat ng hangarin ng Diyos Ama
+Ay karangalan sa Anak,
+In'hayag ang l'walhati ng Ama,
+Sa pagniningning ng Anak.</stanza>
+	<stanza type="verse" number="5">Dahil sa 'Spiritu Siya'y dagsaan,
+Kordero'y pinaligiran,
+Galak, liwanag Siya'y pinutungan,
+Ang "Ako nga" papurihan.</stanza>
+	<stanza type="verse" number="6">Masigla na ang bagong nilikha
+Walang gambalang pahinga,
+Sa kaligtasan ay pinagpala,
+Walang lungkot, pagkaaba.</stanza>
+	<stanza type="verse" number="7">O pakinggan himig makalangit,
+Lumalakas ang papuri;
+Nagmumula sa nilikha, Amen!
+Pagtugong may galak, Amen.</stanza>
+  </lyrics>
+</hymn>

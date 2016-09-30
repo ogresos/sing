@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>chelsea</firstname>
+<lastname>corpuz</lastname>
+<email>chelseacorpuz@yahoo.com</email>
+<password>$1$FN4srx2V$HMBBj23dIK3ygkP/8B6x/0</password>
+<gender>F</gender>
+<country>United Arab Emirates</country>
+<ipaddress>213.42.21.53</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:50</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="h" num="66">How sweet the Name of Jesus sounds</fav>
+    </favourites>
+</user>

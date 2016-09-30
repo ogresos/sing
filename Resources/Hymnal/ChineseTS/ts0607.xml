@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我是活石</title>
+  <index>true</index>
+  <category>建造與合一</category>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/( 7/) 6/( 5/) | 5./( 4// 3/) ._1/ | ._1/( 7/) 6/( 5/) (break) | 5./( 4// 3/) 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/( ._1) 6/ | 5./( 4// 3/) 4/ | 3 2 | 1 - |</melody>
+  <layout>
+	<singingstanza>阿 利 路 亞， 我 是 活 石， 為 被 基 督 建 造！ 我 對 祂 說： 『你 是 基 督，』 祂 立 刻 對 我 說， 『你 是 一 塊 石 頭。』 阿 利 路 亞， 我 是 活 石！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿利路亞，我是活石，
+為被基督建造！
+我對祂說：
+『你是基督，』
+祂立刻對我說，
+『你是一塊石頭。』
+阿利路亞，我是活石！</stanza>
+  </lyrics>
+</hymn>

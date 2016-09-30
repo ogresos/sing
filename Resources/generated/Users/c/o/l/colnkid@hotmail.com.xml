@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Elvin</firstname>
+  <lastname>Williams</lastname>
+  <email>colnkid@hotmail.com</email>
+  <password>$2y$10$dov3b6q5MWJ2LSjXLxEkCOT/78nNQAOKntv4zbAIxhpaSVMxUKkwm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.11.6.112</ipaddress>
+  <createdate>2016-05-20 00:28:55</createdate>
+  <lastupdateddate>2016-08-22 23:05:25</lastupdateddate>
+  <lastlogindate>2016-08-22 23:05:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    <fav category="default" type="h" num="331">Will your anchor hold in the storms of life</fav>
+  </favourites>
+</user>

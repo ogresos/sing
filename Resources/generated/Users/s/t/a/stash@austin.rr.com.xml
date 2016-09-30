@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>bill</firstname>
+    <lastname>tash</lastname>
+    <email>stash@austin.rr.com</email>
+    <password>1Ot7hg3iu7jV5OUIdcADTQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>70.195.197.1</ipaddress>
+    <createdate>2013-11-05 17:30:25</createdate>
+    <lastupdateddate>2013-11-08 09:30:35</lastupdateddate>
+    <lastlogindate>2013-11-05 17:30:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="673">I take my portion from Thy hand</fav>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="lb" num="21">O God of glory</fav>
+    </favourites>
+</user>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>kf</firstname>
+  <lastname>siow</lastname>
+  <email>kfsiow@yahoo.com</email>
+  <password>$2y$10$4BRceJmyFGNIcZjC57aeaeEeo0gDlOnJzk.YgcZzQGHb87hy1qzDu</password>
+  <gender>M</gender>
+  <country>my</country>
+  <ipaddress>115.134.93.223</ipaddress>
+  <createdate>2010-02-25 16:24:19</createdate>
+  <lastupdateddate>2016-06-12 01:12:52</lastupdateddate>
+  <lastlogindate>2016-06-12 01:02:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="924">Along the shores of Galilee</fav>
+    <fav category="default" type="h" num="18">How faithful and trustworthy too</fav>
+    <fav category="default" type="ns" num="201">I just keep calling, O Lord</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="600">My God, my Portion, and my Love</fav>
+    <fav category="default" type="h" num="1293">O I'm a man</fav>
+    <fav category="default" type="h" num="1050">Out of my bondage, sorrow, and night</fav>
+    <fav category="default" type="h" num="674">The Lord will silently plan for thee</fav>
+    <fav category="default" type="ns" num="281">The law of the Lord is perfect</fav>
+    <fav category="default" type="h" num="1254">This is the time for building the temple of the Lord</fav>
+    <fav category="default" type="h" num="430">When I am in the natural man</fav>
+  </favourites>
+</user>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ndaba</firstname>
+    <lastname>Enhle</lastname>
+    <email>sirndaba@gmail.com</email>
+    <password>r1qPv4T27S85C%2FfO7PbSnA%3D%3D</password>
+    <gender></gender>
+    <country>South Africa</country>
+    <ipaddress>41.66.160.74</ipaddress>
+    <createdate>2013-04-13 13:54:18</createdate>
+    <lastupdateddate>2013-04-13 14:57:25</lastupdateddate>
+    <lastlogindate>2013-04-13 13:54:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="79">All praise to Him who reigns on high</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    </favourites>
+</user>

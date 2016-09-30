@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rick</firstname>
+  <lastname>Garland</lastname>
+  <email>ruckergarland@gmail.com</email>
+  <password>$2y$10$2JzcWJBlEEP/gmIZGlHqeuz3xxAh2fFX4.RLz9yoU7e10.ITtDyUq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>23.120.56.225</ipaddress>
+  <createdate>2016-06-16 14:24:37</createdate>
+  <lastupdateddate>2016-06-16 14:27:12</lastupdateddate>
+  <lastlogindate>2016-06-16 14:27:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Se ressurreição anelo</title>
+  <index>true</index>
+  <category>O Caminho Da Vida</category>
+  <numbers><cebuano num="631"/><chinese num="464"/><english num="631"/><german num="631"/><korean num="464"/><portuguese num="321"/><russian num="244"/><spanish num="297"/><tagalog num="631"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="631"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Se ressurreição anelo,
+Devo a cruz de Cristo amar;
+Do morrer procede a vida
+E da perda, o ganhar.</stanza>
+	<stanza type="chorus" number="">Sem morrer não há
+A ressurreição;
+Do morrer procede a vida
+De ressurreição.</stanza>
+	<stanza type="verse" number="2">Para Cristo em mim formar-se
+Devo aniquilado ser;
+Morre a vida da minh'alma,
+Se eu em Sua cruz viver.</stanza>
+	<stanza type="verse" number="3">Pelo Espírito eterno
+Deus me vem na cruz pregar;
+Atuando então a morte,
+Pode a vida transbordar.</stanza>
+  </lyrics>
+</hymn>

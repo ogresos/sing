@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, bago Ka naglikha</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGHIRANG</category>
+  <numbers><cebuano num="33"/><chinese num="31"/><english num="33"/><german num="33"/><korean num="31"/><portuguese num="24"/><russian num="14"/><tagalog num="33"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+	<author biodate="" biolink="">Translated by Francis P. Jones</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ama, bago Ka naglikha,
+Kami'y hinirang Mo na;
+Sa pag-ibig Mong kay lalim,
+Kay Kristo, Iyong dinala,
+Kami ay Iyong iingatan,
+Kay Kristo itatatag,
+Kay Kristo itatatag.</stanza>
+	<stanza type="verse" number="2">Kahit magbago ang mundo,
+Diyos ko di magbabago.
+Kahabagan Niya at tipan,
+Mana'tili kailanman.
+Mga anak ng Diyos dapat
+Purihin ang ngalan Niya,
+Purihin ang ngalan Niya.</stanza>
+	<stanza type="verse" number="3">Habag ng Diyos salaysay ko
+Sa lahat ng araw ko;
+Walang patid awang bigay
+Sa aki'y gumagabay.
+Pag-ibig ng Diyos sa atin,
+Anak Niya'y ibinigay,
+Anak Niya'y ibinigay.</stanza>
+	<stanza type="verse" number="4">Sa harap Mo, Ama namin,
+Pagsinta Mo'y purihin;
+Hanggang si Hesus makita,
+Pag-awit tuloy pa rin.
+L'walhatiin, l'walhatiin,
+Ang Diyos at ang Kordero,
+Ang Diyos at ang Kordero.</stanza>
+  </lyrics>
+</hymn>

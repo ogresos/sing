@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Di mi laayon moawit ning alawiton</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA KATUBSANAN NIYA</category>
+  <numbers><cebuano num="41"/><chinese num="36"/><english num="41"/><korean num="36"/><portuguese num="29"/><russian num="17"/><spanish num="27"/><tagalog num="41"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <music>
+    <midiref type="h" num="41"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Di mi laayon moawit ning alawiton:
+Daygon ang Dios, hallelujah!
+Kusgon ta pag-awit ang pagdayeg Kaniya:
+Daygon ang Dios, hallelujah!</stanza>
+    <stanza type="chorus" number="">Ang mga anak sa Dios may matahum nga awit
+Pinaagi sa grasya dad-on ta N'ya's himaya.
+Mangadto unya kita's presensya's atong Hari:
+Daygon ang Dios, hallelujah!</stanza>
+    <stanza type="verse" number="2">Naa ta's kalipay sa gugma nga nagtubos:
+Daygon ang Dios, hallelujah!
+Tanang panahon bu't pamatud-an 'yang grasya:
+Daygon ang Dios, hallelujah!</stanza>
+    <stanza type="verse" number="3">Mangadto ta's himaya, matud pa's Ginoo:
+Daygon ang Dios, hallelujah!
+Didto ang katahum sa Hari ta makita:
+Daygon ang Dios, hallelujah!</stanza>
+    <stanza type="verse" number="4">Mag-awit's grasya'g kaluoy sa bag-ong awit:
+Daygon ang Dios, hallelujah!
+Uban's bulahang panon Manlul'was ta daygon:
+Daygon ang Dios, hallelujah!</stanza>
+  </lyrics>
+</hymn>

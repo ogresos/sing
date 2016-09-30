@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Richard</firstname>
+    <lastname>Li</lastname>
+    <email>richard@rldbooks.org</email>
+    <password>$1$ALwQCEvb$iRL7F3JnQnHNcrNALKb9d.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>24.19.43.34</ipaddress>
+    <createdate>2008-11-18 12:03:38</createdate>
+    <lastupdateddate>2013-06-25 11:44:55</lastupdateddate>
+    <lastlogindate>2013-06-25 11:44:55</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="6">And He showed me a river</fav>
+        <fav category="default" type="h" num="605">My home is God Himself; Christ brought me there</fav>
+        <fav category="default" type="h" num="251">Rivers of living water</fav>
+        <fav category="default" type="h" num="1229">The church is Christ's deep longing</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+    </favourites>
+</user>

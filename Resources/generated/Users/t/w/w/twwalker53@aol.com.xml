@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tom</firstname>
+  <lastname>Walker</lastname>
+  <email>twwalker53@aol.com</email>
+  <password>$2y$10$wmjPCGkF8j1Ook.cgeZ5RuaGzYHYcQA6uNl8yIxbQGuWEr0TipJWa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.196.130.23</ipaddress>
+  <createdate>2016-07-26 18:11:06</createdate>
+  <lastupdateddate>2016-08-11 16:17:24</lastupdateddate>
+  <lastlogindate>2016-08-11 16:17:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

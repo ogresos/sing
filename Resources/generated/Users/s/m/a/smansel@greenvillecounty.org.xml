@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sandra</firstname>
+  <lastname>Mansel</lastname>
+  <email>smansel@greenvillecounty.org</email>
+  <password>$2y$10$xJUDD3dEq9VzFGcDcQh/ceiGHTAK4gyjYr/iSkd5JgrJah3k.g1YC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>206.74.42.69</ipaddress>
+  <createdate>2015-03-09 16:52:11</createdate>
+  <lastupdateddate>2015-03-09 17:03:10</lastupdateddate>
+  <lastlogindate>2015-03-09 17:03:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

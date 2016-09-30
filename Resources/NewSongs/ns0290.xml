@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The song to my Beloved</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:343"/><english num="ns:290"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Honorine Tao 陶美惠">H. T.</author>
+    <author biodate="" biolink="" fullname="Maryanna Cashmore">Translated by M. C.</author>
+    <composer biodate="" biolink="" fullname="Honorine Tao 陶美惠">H. T.</composer>
+  </creators>
+  <hymncode>123234345</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - - - | C - G7/D - | C/E - C - | Dm - C - | G/B - G - | C - E7 - | Am - C/G - | F - G7 - | C - - - | C - C7 - | F - - - | C - D7 - | G - - - | C - C7 - | F - - - | C/G - G7 - | C - - - | F - - - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 0 - - 1/ 2/ | (startrepeat) 3 2/ 3/ 4 3/ 4/ | 5 - - 2/ 3/ | 4 4/ 3/ 4/ 5/( 5/) 3/ (break) | 2 - - 3/ 4/ | 5. 5/ 3. 2/ | 1 - - 1 | 4. 6_./ 7_.. 1/ (break) | 1 - - (Chorus) ._1/ 7/ | 5. 3/ {3 4 5} | 6 - - ._1/ 7/ | 5. 3/ {3 2 1} (break) | 2 - - 3/ 4/ | 5. 3/ {3 4 5} | (alt1) 6 - ._1. 6/ | {5 5 3} {4 3 2} | 1 - - (Verse_2) 1/ 2/ (break) | (alt2) 6 - ._1. 5/ | {._3 ._2 ._1} {7 ._1 ._2} | ._1 - - 0 (endalt) ||</melody>
+  <layout>
+    <singingstanza>Lord, Your beau -- ty and love have drawn me, To pur -- sue af -- ter You speed -- i -- ly. In Your cham -- bers I am brought, And nour -- ished here by Thee. My Be -- lov'd, I be -- long to You. O my Love, You're so beau -- ti -- ful. We're the same in life and in na -- ture, In love ev -- er in -- sep -- 'ra -- ble. By Your...</singingstanza>
+    <singingstanza2>[skip31] O set me a seal on Thy heart, Your love strong as death doth a -- bound. King, Be -- lov'd, for You I am [skip12] long -- ing, Come quick -- ly up -- on Spic -- e's Mount!</singingstanza2>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs</link>
+  </links>
+  <music>
+    <midi location="ns" length="44">ns0290.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, Your beauty and love have drawn me,
+To pursue after You speedily.
+In Your chambers I am brought,
+And nourished here by Thee.</stanza>
+    <stanza type="chorus" number="">My Belov'd, I belong to You.
+O my Love, You're so beautiful.
+We're the same in life and in nature,
+In love ever insep'rable.</stanza>
+    <stanza type="verse" number="2">By Your nature is mine sanctified,
+And my beauty's from Your life divine.
+I'm renewed, submissive, sweet,
+With Thee, with hind's feet leap.</stanza>
+    <stanza type="verse" number="3">As a dove, You alone do I see;
+As a lily, I'm trusting in Thee.
+I'm transformed and built by Thee
+Your rest and joy to be.</stanza>
+    <stanza type="verse" number="4">In the fields let me follow You, Lord,
+All my days work, in loving accord.
+Be matured, Your Queen, Your Bride,
+Then raptured, glorified.</stanza>
+    <stanza type="chorus" number="">O set me a seal on Thy heart,
+Your love strong as death doth abound.
+King, Belov'd, for You I am longing,
+Come quickly upon Spice's Mount!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Esteban</firstname>
+    <lastname>Mercado</lastname>
+    <email>este_pro_03@hotmail.com</email>
+    <password>$1$VAcmK0cF$I7mDHZR9fAI3NKTj85SLr/</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>76.116.156.185</ipaddress>
+    <createdate>2008-08-17 16:03:08</createdate>
+    <lastupdateddate>2010-03-18 20:36:09</lastupdateddate>
+    <lastlogindate>2010-03-18 20:36:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+        <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+        <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+        <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+        <fav category="default" type="ns" num="209">Lord now I see</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+    </favourites>
+</user>

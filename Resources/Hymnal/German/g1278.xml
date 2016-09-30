@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hier, in der Gemeinde, fließt Liebe reich für dich</title>
+  <index>true</index>
+  <category>DIE GEMEINDE&amp;mdash;Allgemein</category>
+  <numbers><cebuano num="1278"/><chinese num="ts:721"/><english num="1278"/><german num="1278"/><russian num="141*"/><tagalog num="1278"/></numbers>
+  <key>C Major</key>
+  <melody>| 0 - 1 2 | 3 - 3 - | 5 4 - 3 | 2. 3/ 2 1 (break) | 7_. - 1 2 | 3 - 5 - | 6 5 - - | 6. 5/ 4 6 (break) | 5 - 6 7 | ._1 - ._1 - | ._2 ._1 - - | 7 7 6 6 (break) | 5 - 1 2 | 3 5 4 3 | 2. 1/ 7_. 2 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+	<singingstanza>Hier, in der Ge -- mein -- de, fließt Lie -- be reich für dich, Sie ist sanft und lieb -- lich, süß und brü -- der -- lich; Wa -- rum ein -- sam blei -- ben? Freun -- de je -- der braucht! Die Ge -- mein -- de Je -- su dich in Freu -- de taucht.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1278"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hier, in der Gemeinde, fließt Liebe reich für dich,
+Sie ist sanft und lieblich, süß und brüderlich;
+Warum einsam bleiben? Freunde jeder braucht!
+    Die Gemeinde Jesu dich in Freude taucht.</stanza>
+	<stanza type="verse" number="2">Hier, in der Gemeinde, fließt Leben reich für dich,
+Warm wie Sommersonne, taufrisch, morgendlich;
+Warum fürchtest du dich, warum Angst sich regt?
+    Die Gemeinde Jesu die Erkauften pflegt.</stanza>
+	<stanza type="verse" number="3">Hier, in der Gemeinde, gibt’s Arbeit auch für dich,
+Engel würden’s gern tun, herzlich freuen sich;
+Warum stehst du müssig, großer Tat nachsinnst?
+    Die Gemeinde Jesu braucht auch deinen Dienst.</stanza>
+	<stanza type="verse" number="4">Hier, in der Gemeinde, gibt’s einen Platz für dich,
+Herrlich, hell und friedlich, recht und brüderlich;
+Warum unruhig wandern, wie ein kleiner Spatz?
+    Die Gemeinde Jesu hat für dich auch Platz.</stanza>
+  </lyrics>
+</hymn>

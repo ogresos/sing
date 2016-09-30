@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>王郁婷</firstname>
+  <lastname/>
+  <email>grace770524@hotmail.com</email>
+  <password>$2y$10$CO18KKXKroEVzUeyUFdtPevP/9ZY1Z4WOorVqS.LlzKylSnZ6sTt6</password>
+  <gender/>
+  <country>Taiwan</country>
+  <ipaddress>103.22.200.172</ipaddress>
+  <createdate>2014-01-29 20:43:26</createdate>
+  <lastupdateddate>2016-08-30 08:44:42</lastupdateddate>
+  <lastlogindate>2016-08-30 08:44:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="97">Dearest Lord, You've called us here</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="284">Having been regenerated</fav>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="ns" num="142">In nothing be anxious</fav>
+    <fav category="default" type="ns" num="16">It's no longer I that liveth</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    <fav category="default" type="ns" num="361">The Goal of the Gospel</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+    <fav category="default" type="lb" num="75">Wherever you go, I will go</fav>
+    <fav category="default" type="c" num="102">Why was a cup made?</fav>
+    <fav category="default" type="ch" num="672">降生為愛我</fav>
+  </favourites>
+</user>

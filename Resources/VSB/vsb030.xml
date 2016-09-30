@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The Son with the Father by the Spirit</title>
+  <index>true</index>
+  <category>Blessing of the Trinity&amp;mdash;His Revelation</category>
+  <numbers><chinese num="ts:148"/><english num="lb:60"/><vsb num="30"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>51111235556522543</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>165</tempo>
+  <chords>| C - - | C - - | G/B - - | Am - - | C/G - - | Dm/F - - | G7 - - | C - - | G7 - - | C - - | G/B - - | Am - - | C/G - C/E | Dm/F - - | G7 - - | C - - | C7 - - | F - - | F/C - - | F - - | F - - | F - - | C - - | C/G - - | C - - | C - - | E - - | E7/G# - E7 | Am - - | C/G - - | F - - | C/G - - | G - - | F - - | C/G - - | G7 - - | C - F/C | C - - |</chords>
+  <melody>| 0 - 5 | 1 1 1 | 1( 2) 3 | 5 - 5 | 5 6 5 | 2 - 2 | 5 - 4 | 3( - - (break) | 3) - 5 | 1 1 1 | 1( 2) 3 | 5 - 5 | 5( 6) 5 | 2 - - | 3 - 2 | 1 - - (break) | (Chorus) 1 2 3 | 4 - - | 6 ._1. ._2/ | 6 - - | ._1 - - (break) | ._1 7 6 | 5 - - | 3 5. 6/ | 3 - - | 5 - - | 3 5# 7 | ._3 - ._2 | ._1( - - | ._1) - - (break) | ._1 6 4 | 3 - - | 2 - - | ._1 6 4 | 3 - - | 2 - - | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>The Son with the Fa -- ther by the Spir -- it&amp;mdash; O what a mys -- ter -- y! The ful -- ness of all the God -- head Dwells in Him bo -- di -- ly. Won -- der -- ful One, Son with the Fa -- ther, Won -- der -- ful One, Son by the Spir -- it, Won -- der -- ful Je -- sus Christ, Won -- der -- ful Tri -- une, Won -- der -- ful Tri -- une God.</singingstanza>
+    <globalstaffsize>14</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="42">lb60.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The Son with the Father by the Spirit&amp;mdash;
+O what a mystery!
+The fulness of all the Godhead
+Dwells in Him bodily.</stanza>
+    <stanza type="chorus" number="">Wonderful One, Son with the Father,
+Wonderful One, Son by the Spirit,
+Wonderful Jesus Christ,
+Wonderful Triune, Wonderful Triune God.</stanza>
+    <stanza type="verse" number="2">The Son with the Father by the Spirit,
+Conceived in a virgin's womb
+The issue: a God-man, a wonderful Person,
+Jesus divine and human.</stanza>
+    <stanza type="chorus" number="">Wonderful One, Son with the Father,
+Wonderful One, Son by the Spirit,
+Wonderful Jesus Christ,
+Wonderful Triune, Wonderful Triune God.</stanza>
+    <stanza type="verse" number="3">This man in perfection chose God as His living;
+He lived the life of God.
+The sin, world, and Satan could not penetrate Him;
+Jesus had sinless blood.</stanza>
+    <stanza type="chorus" number="">Humanity, His blood has cleansed me.
+Divinity, my guarantee.
+His sinless blood cleansed me.
+God's now my guaran&amp;mdash;, God's now my guarantee.</stanza>
+    <stanza type="verse" number="4">His flesh without sin joined man's flesh full of sin
+And this trapped Satan.
+Man's flesh, sin and Satan were hanging upon Him
+O what a termination!</stanza>
+    <stanza type="chorus" number="">Terminating, the old creation,
+Penetrating, flesh, sin and Satan.
+O what a promised seed!
+He crushed the Devil's, He crushed the Devil's head.</stanza>
+    <stanza type="verse" number="5">And in resurrection, this wonderful Person
+The Spirit He became.
+The Spirit right now is the Son with the Father
+To be the consummation.</stanza>
+    <stanza type="chorus" number="">Wonderful One, life-giving Spirit!
+Son has become the consummation.
+Son with the Father, He
+As Spirit dwells in, as Spirit dwells in me.</stanza>
+    <stanza type="verse" number="6">And in His ascension, this wonderful Person,
+This man is on God's throne.
+The highest position, to Him it was given,
+He's ruling and reigning.</stanza>
+    <stanza type="chorus" number="">As Lord of lords and King of kings,
+The highest name to Jesus given.
+This man is on God's throne.
+Most wonderful, most wonderful Person!</stanza>
+    <stanza type="verse" number="7">And in His enthronement as Head over all things
+The processed God is He,
+Dispensing Himself as the life-giving Spirit,
+Producing His Body.</stanza>
+    <stanza type="chorus" number="">The Triune God is not for doctrine.
+The Trinity is for dispensing.
+He's now dispensing
+And we're enjoying, and we're enjoying Him.</stanza>
+  </lyrics>
+</hymn>

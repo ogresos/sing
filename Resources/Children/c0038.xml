@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Look at all the flowers</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Natalie Haynes Serrano">N. H. S.</author>
+    <composer biodate="" biolink="" fullname="Natalie Haynes Serrano">N. H. S.</composer>
+  </creators>
+  <hymncode>555653555562</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G - - - | G - - - | G7 - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | G7 - - - | C - F/C - | C - - - | C - - - | C7 - - - | F - - - | F - - - | C - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - (startrepeat) 5/ 5/ 5/ 6/ | 5 3 - - | 0. 5_./ 5/ 5/ 5/ 6/( | 6/) 2.( 2) - (break) | 0 - 5/ 5/ 5/ 6/ | 5 2 - - | 0 5/ 5/ 5/ 5/ 5/ 6/( | 6/) 3.( 3) - (break) | 0. 5_./ 5/ 5/ 5/ 6/ | 5 3 - - | 0. 1/ ._1/ ._1/ ._1/ ._2/( | ._2/) 6.( 6) - (break) | 0 ._1 7 6 | 5 - - 5_./ 5/ | 4. 3/( 3) 2 | 1 - - - (endrepeat) (break) | 0. (Ending) 5_./ 5/ 5/ 5/ 6/ | 5 3 - - | 0 1/ 1/ ._1/ ._1/ ._1/ ._2/( | ._2/) 6.( 6) - (break) | 0 ._1 7 6 | 5 - - 5 | 4. 3/( 3) 2 | 1( - - - | 1) 0 - - ||</melody>
+  <layout>
+    <singingstanza end="-1">Look at all the flow -- ers And look at all the trees. Our God is a -- maz -- ing; He cre -- at -- ed all of these. So look at all the flow -- ers And look at all the trees. Our God loves man; He cre -- at -- ed all things. So look at all the flow -- ers And let's look at all the trees. Our God loves man; All things are for ME!!</singingstanza>
+    <singingstanza2>2. Look at all the flow -- ers And look at all the trees. My God is a -- maz -- ing; He cre -- at -- ed them for me. So look at all the flow -- ers And look at all the trees. My God loves me; He cre -- at -- ed all things.</singingstanza2>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2013 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="84">c0038.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Look at all the flowers
+And look at all the trees.
+Our God is amazing;
+He created all of these.
+
+So look at all the flowers
+And look at all the trees.
+Our God loves man;
+He created all things.</stanza>
+    <stanza type="verse" number="2">Look at all the flowers
+And look at all the trees.
+My God is amazing;
+He created them for me.
+
+So look at all the flowers
+And look at all the trees.
+My God loves me;
+He created all things.</stanza>
+    <stanza type="chorus" number="">Ending:
+So look at all the flowers
+And let's look at all the trees.
+Our God loves man;
+All things are for ME!!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2013 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

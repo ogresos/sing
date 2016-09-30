@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>領我領我</title>
+  <index>true</index>
+  <category>羨慕－主的引領</category>
+  <melody>| 5. 3/ 5/ ._1/ 7/ 6/ | 5 - - 0 | 4. 3/ 2/ 6/ 5/ 4/ | 3 - - 0 (break) | 5. 5/ 5/ 3/ 5/ ._1/ | 6 - - 0 | 7. ._1/ 7/ 6/ 5/ 4#/ | (.5 - - 0 (break) | (Chorus) 5 - 3 0 | ._1 - 5 0 | ._3. ._2/ ._1/ 6/ 5/ 3/ | 2.( 3/ 4) - (break) | 3. 3/ 3/ 3/ 4/ 5/ | 6 - - 7/ ._1/ | 5 3 4 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>救 主， 領 我 免 迷 途， 溫 柔 領 我 完 世 路； 在 你 身 邊 我 穩 固， 在 你 愛 裡 我 居 住。 領 我， 領 我， 救 主， 領 我 免 迷 途； 我 的 前 面 無 把 握， 救 主， 領 我 完 世 路。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="390"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">救主，領我免迷途，
+溫柔領我完世路；
+在你身邊我穩固，
+在你愛裡我居住。</stanza>
+	<stanza type="chorus" number="">領我，領我，
+救主，領我免迷途；
+我的前面無把握，
+救主，領我完世路。</stanza>
+	<stanza type="verse" number="2">你是我魂避難所，
+何怕人生起風波！
+有你親近我安全，
+有你憐憫我無怨。</stanza>
+	<stanza type="verse" number="3">救主，領我到盡頭，
+直到你來的時候，
+我要與你永同在，
+同享安息到萬代。</stanza>
+  </lyrics>
+</hymn>

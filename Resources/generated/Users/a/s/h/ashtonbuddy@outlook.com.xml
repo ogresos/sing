@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ashton</firstname>
+  <lastname/>
+  <email>ashtonbuddy@outlook.com</email>
+  <password>$2y$10$xV3ZKBNrI9VxH5qQb8HKVelqY4ZDZB1zSmCzdRcnpq97LZNLvk4HW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.173.184.40</ipaddress>
+  <createdate>2014-11-25 21:04:52</createdate>
+  <lastupdateddate>2014-11-26 04:01:43</lastupdateddate>
+  <lastlogindate>2014-11-26 04:01:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="482">I am crucified with Christ</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="206">O Christ, He is the fountain</fav>
+    <fav category="default" type="h" num="325">Satisfied</fav>
+  </favourites>
+</user>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>1Katapatan Mo'y dakila Diyos Ama</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG KATAPATAN</category>
+  <numbers><cebuano num="19"/><chinese num="13"/><english num="19"/><korean num="13"/><portuguese num="15"/><russian num="11"/><tagalog num="19"/></numbers>
+  <creators>
+    <author biodate="1866-1960" biolink="">Translated from Thomas Obediah Chisholm</author>
+  </creators>
+  <music>
+    <midiref type="h" num="19"/>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">1Katapatan Mo'y dakila Diyos Ama,
+Walang ni anino ng pag-iba;
+Puspos ng awa, nagbabago dili,
+Magpakailanman tulad ng dati!
+Katapatan Mo Diyos, napakadakila!
+Bagong awa sa bawa't umaga;
+Lahat ng kailangan ko'y Iyong hinanda,
+Napakatapat Mo, O Diyos Ama!</stanza>
+    <stanza type="verse" number="2">Tag-araw, tagginaw, tagsibol, tag-ani,
+Araw, buwan, bituin ay nagbubunyi;
+Sampon ng kalikasan sumasaksi
+Sa Iyong katapatan, mga gawi.</stanza>
+    <stanza type="verse" number="3">Ako'y pinatawad at mapayapa,
+Aliw, gabay ay dulot Mo, Ama,
+Lakas sa ngayon, pag-asa sa bukas;
+Biyayang di maubos mabigkas.</stanza>
+  </lyrics>
+</hymn>

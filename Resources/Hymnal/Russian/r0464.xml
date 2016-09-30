@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Он – благодать и истина</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;КАК ПИЩИ И ПИТЬЯ</category>
+  <numbers><cebuano num="1149"/><chinese num="ts:221"/><english num="1149"/><german num="1149"/><korean num="822"/><russian num="464"/><spanish num="229"/></numbers>
+  <melody>| 0. 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 4/ (break) | 6/ 5 5/ | 6/ 5/ 5/ 5/ | 6/ 5/ 5/ 3/ | 4/ 4/ 2/ 5/ | 1 - (break) | (Chorus) 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 4/ | 6/ 5. (break) | 5 ._1./ 5// | 5. 3/ | 4/ 4/ 2/ 5/ | 1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="1149"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Он – благодать и истина.
+Из родника здесь пьём мы;
+Христа мы будем петь всегда;
+Здесь, в церкви, дом Его.</stanza>
+	<stanza type="chorus" number="">Будь славен Бог!
+Из родника здесь пьём мы!
+Будь славен Бог!
+Мы в церкви. Здесь наш дом!</stanza>
+	<stanza type="verse" number="2">Обильна благодать Его,
+Из родника здесь пьём мы;
+Стремись к Нему, венцу всего,
+И здесь Его найдёшь.</stanza>
+	<stanza type="verse" number="3">Пусть нападает Сатана –
+Из родника здесь пьём мы;
+Не одолеет никогда
+Он церковь, где наш дом.</stanza>
+	<stanza type="verse" number="4">К источнику спешим скорей,
+Из родника здесь пьём мы;
+Он не иссякнет – вдоволь пей!
+Он в церкви, где наш дом.</stanza>
+  </lyrics>
+</hymn>

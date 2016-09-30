@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rosaline</firstname>
+  <lastname>Uy</lastname>
+  <email>uy.song@gmail.com</email>
+  <password>$2y$10$rK.gcXRprgctFvz9tlYF6uwldr4Bvd.DdIJCfxnqclahDYCIe.KnS</password>
+  <gender>F</gender>
+  <country>Canada</country>
+  <ipaddress>99.238.138.249</ipaddress>
+  <createdate>2008-07-26 01:43:27</createdate>
+  <lastupdateddate>2015-10-26 15:23:02</lastupdateddate>
+  <lastlogindate>2015-10-26 15:23:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="77">A lover of Christ</fav>
+    <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+  </favourites>
+</user>

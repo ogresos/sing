@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Adam</firstname>
+<lastname>Christenson</lastname>
+<email>christenadam@hotmail.com</email>
+<password>$1$1W3ZBoEU$VlCnfRCmOeUzhKC0aw2EG/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>71.98.58.137</ipaddress>
+<createdate>2008-12-16 10:26:17</createdate>
+<lastupdateddate>2009-09-15 18:25:30</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+    </favourites>
+</user>

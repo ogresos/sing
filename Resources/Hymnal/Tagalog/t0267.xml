@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mabiyayang Espiritu</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;ANG PAGPUPUSPOS</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="267"/><french num="46"/><german num="267"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="267"/></numbers>
+  <creators>
+	<author biodate="1815-1895" biolink="">Translated from Elwood Haines Stokes</author>
+  </creators>
+  <melody>| 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 6 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - (break) | (Chorus) 2 - 2 5 - - | 3 - 3 5 - - | 6 - 6 5 - 3 | 5 - 3 2 - - (break) | 3 - 3 2 - 1 | 5_. - 6_. 1 - 2 | 3 - 4 5 - 3 | 2 - 1 1 - - |</melody>
+  <music>
+	<midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Mabiyayang Espiritu,
+Ngayon puspusin ako;
+Puspusin ng Iyong presensiya,
+Ako ay puspusin nga.</stanza>
+	<stanza type="chorus" number="">Puspusin nga ako!
+Ngayon ng Espiritu
+Basyuhin, alisang lubos,
+Espiritu'y magpuspos.</stanza>
+	<stanza type="verse" number="2">Puspusin Mo ng 'Spiritu,
+Di ko batid kung pa'no;
+Mula sa utos ng sala,
+Ako ay mapalaya.</stanza>
+	<stanza type="verse" number="3">Gayang usang uhaw ako,
+Matighaw ng 'Spiritu;
+Sagana'y matikmang lubos,
+Tubig buhay umagos.</stanza>
+	<stanza type="verse" number="4">Sa krus 'lagak sarili ko,
+Mapuspos ng 'Spiritu;
+Lubos magpasakop sa Iyo,
+Sa glorya Mo ma'anyo.</stanza>
+  </lyrics>
+</hymn>

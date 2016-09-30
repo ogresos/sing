@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Fresh as the dew of the morning</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord of Hope</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+  </creators>
+  <hymncode>5323216567121232</hymncode>
+  <key>Eb Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | F - - C/E - - | F - - G - - | C - - G - - | F - - C - - | F - - C/E - - | F - - G - - | F/C - - C - - | C - - C/E - F | G - - Am - - | F - - G7 - - | C - - G - - | C - - C/E - F | G - - Am - - | F - - G - - | C - - - - - | C - - Am - - | Em - - - - - | F - - G - - | C - - G - - | C - - Am - - | Em - - - - - | F - - G7 - - | C - - - - - |</chords>
+  <melody>| 5 3 2 3 2 1 | 6_. - - 5_. - - | 6_. 7_. 1 2 1 2 | 3( - - 2) - - (break) | 4 3 2 3 2 1 | 6_. - - 5_. - - | 6_. 7_. 1 2 1 7_. | 1 - - - - - (break) | 3 - - 5 - 6 | 5 4 3 2 1 - | 6_. 7_. 1 2 3 4 | 3( - - 2) - - (break) | 3 - - 5 - 6 | 5 4 3 2 1 - | 6_. 7_. 1 2 1 7_. | 1 - - - - - (break) | (Chorus) 1 - - ._1 - - | 7 5 3 5 - - | 1 - - 2 - 3 | 3.( 4/ 3 2) - - (break) | 1 - - ._1 - - | 7 5 3 5 - - | 1 - - 2 - 1 | 1 - - - - 0 |</melody>
+  <layout>
+    <singingstanza>Fresh as the dew of the morn -- ing, Bring -- ing a sweet rest un -- heard, Christ, in the gen -- tle a -- noint -- ing, Whisp -- ers His com -- fort -- ing word: Stand till the tri -- al is o -- ver, Stand till the temp -- est is gone, Stand for the glo -- ry of Je -- sus, Stand till the king -- dom is won. Lord of all hope, O how sweet is Thy voice, Mak -- ing my heart In Thy pre -- sence re -- joice.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="708"></link>
+  </links>
+  <music>
+    <midi location="nt" length="64">e0708_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Fresh as the dew of the morning,
+  Bringing a sweet rest unheard,
+Christ, in the gentle anointing,
+  Whispers His comforting word:
+Stand till the trial is over,
+  Stand till the tempest is gone,
+Stand for the glory of Jesus,
+  Stand till the kingdom is won.</stanza>
+    <stanza type="chorus" number="">Lord of all hope,
+O how sweet is Thy voice,
+Making my heart
+In Thy presence rejoice.</stanza>
+    <stanza type="verse" number="2">If in the test of my trouble,
+  Faint be my spirit and heart,
+Faith, with the star of hope glimm'ring,
+  Shall all be taken apart,
+May then Thy faith with Thy life-pow'r
+  Over me hold its full sway
+That all Thy riches of glory
+  Now I may share and for aye.</stanza>
+    <stanza type="verse" number="3">Lord, as the morning sun dawning,
+  Chase all my darkness away,
+And with Thy kind wings of healing
+  Turn all my night into day.
+Come Thou, O come, Lord of comfort,
+  Come to my sad, weary heart,
+Come, O Thou blest hope of glory,
+  Never, O never depart.</stanza>
+  </lyrics>
+</hymn>

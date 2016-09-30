@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我需你主我需你</title>
+  <index>true</index>
+  <category>羨慕－與主交通</category>
+  <numbers><cebuano num="371"/><chinese num="286"/><english num="371"/><korean num="286"/><portuguese num="186"/><tagalog num="371"/></numbers>
+  <creators>
+	<author biodate="1836-1918" biolink="">Translated from Annie Sherwood Hawks</author>
+	<author biodate="1826-1899" biolink="">Translated from Robert Lowry, chorus</author>
+  </creators>
+  <melody>| 0 - 1 | 3. 2/ 1/ 7_./ | 1 - 1 | 1.( 2/) 1/( 6_./) | 5_. - 5_. (break) | 2. 3/ 2/ 5_./ | 3 - 1 | 7_..( 1/) 7_./( 6_./) (break) | 5_. - (Chorus) 3 | 3. 1/ 4/ 3/ | 3 2 - | 2. 1/ 3/ 2/ | 2 1 1 (break) | 1. 2/ 1/ 6_./ | 5_. 1 2 | 3.( 1/) 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>我 每 時 刻 需 你， 可 愛 恩 主； 無 人 柔 聲 似 你， 能 施 安 撫。 我 需 你， 主， 我 需 你， 每 時 刻 我 需 你； 哦 主， 現 在 賜 恩 力， 我 來 就 你。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="371"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我每時刻需你，
+可愛恩主；
+無人柔聲似你，
+能施安撫。</stanza>
+	<stanza type="chorus" number="">我需你，主，我需你，
+每時刻我需你；
+哦主，現在賜恩力，
+我來就你。</stanza>
+	<stanza type="verse" number="2">我每時刻需你，
+求你來臨；
+試探失去能力，
+當你親近。</stanza>
+	<stanza type="verse" number="3">我每時刻需你，
+或樂或苦；
+速來住留不離，
+免我虛度。</stanza>
+	<stanza type="verse" number="4">我每時刻需你，
+求你指引；
+使你所許福氣，
+應於我身。</stanza>
+	<stanza type="verse" number="5">我每時刻需你，
+至聖恩主；
+使我完全屬你，
+永偕無阻。</stanza>
+  </lyrics>
+</hymn>

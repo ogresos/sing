@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ann</firstname>
+  <lastname>Barton</lastname>
+  <email>annabetterme@gmail.com</email>
+  <password>$2y$10$u7l04jydLtMHifyXL6WscedAweNHNeDYpzAZrFoH0NKU5QY9zkzdW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>67.52.171.146</ipaddress>
+  <createdate>2015-12-27 16:20:31</createdate>
+  <lastupdateddate>2015-12-31 17:21:54</lastupdateddate>
+  <lastlogindate>2015-12-27 16:21:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="321">Full salvation! Full salvation</fav>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    <fav category="default" type="h" num="1130">Sing praise to Christ Who lives in us</fav>
+    <fav category="default" type="h" num="1311">The local churches are preparing for</fav>
+  </favourites>
+</user>

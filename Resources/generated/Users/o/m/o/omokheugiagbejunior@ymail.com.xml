@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ugiagbe Junior</firstname>
+  <lastname>Omokhe</lastname>
+  <email>omokheugiagbejunior@ymail.com</email>
+  <password>$2y$10$R9HFD4cXdjav5xgOimD91.fqFbYAqAqRpiIrb5t4HOPjdw3qYUYJi</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>92.20.1.145</ipaddress>
+  <createdate>2016-06-01 07:36:00</createdate>
+  <lastupdateddate>2016-08-24 10:28:07</lastupdateddate>
+  <lastlogindate>2016-08-24 10:28:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="317">Dear Savior, Thou art mine</fav>
+    <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+  </favourites>
+</user>

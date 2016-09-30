@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jeff</firstname>
+    <lastname>Epstein</lastname>
+    <email>ecabinet@outlook.com</email>
+    <password>iG7MvKZ9PYhobj2XldMOgQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-26 03:56:43</createdate>
+    <lastupdateddate>2014-04-26 03:56:43</lastupdateddate>
+    <lastlogindate>2014-04-26 03:56:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

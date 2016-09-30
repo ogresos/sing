@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Scott</firstname>
+    <lastname></lastname>
+    <email>sphillips0711@gmail.com</email>
+    <password>qUWFSEq0b2gAlrtdZa0JMA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>71.239.250.187</ipaddress>
+    <createdate>2013-07-04 21:31:02</createdate>
+    <lastupdateddate>2013-08-23 22:24:00</lastupdateddate>
+    <lastlogindate>2013-08-23 22:24:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1125">Down at the cross where my Savior died</fav>
+        <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+        <fav category="default" type="h" num="210">I've found a friend in Jesus, He's everything to me</fav>
+        <fav category="default" type="h" num="932">Lord, lay some soul upon my heart</fav>
+        <fav category="default" type="h" num="931">Out in the darkness</fav>
+        <fav category="default" type="c" num="62">Trust in the Lord with all your heart</fav>
+    </favourites>
+</user>

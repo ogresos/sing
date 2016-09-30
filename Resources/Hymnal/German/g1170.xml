@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Der Herr ist mein Hirte für ewig</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Als der Hirte</category>
+  <numbers><cebuano num="1170"/><chinese num="ts:33"/><english num="1170"/><german num="1170"/><russian num="368"/><spanish num="248"/></numbers>
+  <key>D Major</key>
+  <melody>| 0 - 5_. | 1 1 1 | 3 2 1 | 6_. 1( - | 1) - 1 | 2 2 2 | 2 1 2 | 3( - - (break) | 3) - 5_. | 1 1 1 | 3 2 1 | 6_. 4( - | 4) - 4 | 3 2 1 | 7_. 6_. 7_. | 1( - - (break) | 1) - (Chorus) 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5. 6/ 5/ 1/ | 3 - 3./ 3// | 2 - 2./ 2// | 2 1 2 | 3.( 2#/ 3/)( 2/)( (break) | 1) - 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5. 6/ 5/ 1/ | 3 - 3./ 3// | 2 - 2./ 2// | 2 3 2 | 1( - - (break) | 1) - ._1/ ._1/ | ._1 - ._1/ ._1/ | ._1 7 6 | 5 - 6 | 5 3 ._1/ ._1/ | ._1 - ._1/ ._1/ | ._1 6 7/ ._1/ | 7( - 6 (break) | 5) - 3./ 2#// | 3./( 2//) 1 3 | 3./( 2//) 1 3 | 5. 6/ 5/ 1/ | 3 - 3./ 3// | 2 - 2./ 2// | 2 3 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+	<singingstanza>Der Herr ist mein Hir -- te für e -- wig, Er la -- gert mich auf grü -- nen Aun. Er führt mich zu stil -- len Ge -- wäs -- sern, Und sät -- tigt mich, dass ich nur staun. Sei -- ne Gna -- de und Lie -- be sind al -- le -- zeit bei mir Und sie fol -- gen mir mein Le -- ben lang. Sei -- ne Gna -- de und Lie -- be sind al -- le -- zeit bei mir Und sie fol -- gen mir mein Le -- ben lang. Und im Haus des Herrn wer -- de ich e -- wig woh -- nen, Ihn ge -- nie -- ßen am Tisch, den Er mir deckt. Sei -- ne Gna -- de und Lie -- be sind al -- le -- zeit bei mir Und sie fol -- gen mir mein Le -- ben lang.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 23</link>
+  </links>
+  <music>
+	<midiref type="h" num="1170"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Der Herr ist mein Hirte für ewig,
+    Er lagert mich auf grünen Aun.
+Er führt mich zu stillen Gewässern,
+    Und sättigt mich, dass ich nur staun.</stanza>
+	<stanza type="chorus" number="">Seine Gnade und Liebe sind allezeit bei mir
+    Und sie folgen mir mein Leben lang.
+Seine Gnade und Liebe sind allezeit bei mir
+    Und sie folgen mir mein Leben lang.
+Und im Haus des Herrn werde ich ewig wohnen,
+Ihn genießen am Tisch, den Er mir deckt.
+Seine Gnade und Liebe sind allezeit bei mir
+    Und sie folgen mir mein Leben lang.</stanza>
+	<stanza type="verse" number="2">Mein Hirte ist Selbst meine Weide,
+    Mein Friede, die Wasser der Ruh;
+Ich esse im Geist Seinen Reichtum,
+    Und trink, bin gesegnet dazu.</stanza>
+	<stanza type="verse" number="3">Mein Hirte erneuert die Seele,
+    Den Willen, Gefühl und Verstand;
+Auch wenn ich durchs Tal heute wandre,
+    Welch einen Begleiter ich fand!</stanza>
+	<stanza type="verse" number="4">Am Tisch, den mein Hirte gedeckt hat,
+    Da fest ich, zermalmt Satan ist;
+Mein Haupt ist gesalbt mit dem Salböl,
+    Mein Becher mit Glück überfließt.</stanza>
+	<stanza type="verse" number="5">Im Haus meines Herrn möcht stets wohnen,
+    Hier Gnade und Licht mich umgibt;
+Und nichts übersteigt meine Freude,
+    Da Jesus mich ewiglich liebt.</stanza>
+  </lyrics>
+</hymn>

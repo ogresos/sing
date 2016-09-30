@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang mga gawa ko</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KATUBUSAN</category>
+  <numbers><chinese num="679"/><english num="1000"/><korean num="679"/><tagalog num="1000"/></numbers>
+  <creators>
+    <author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1000"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ang mga gawa ko
+Gaano mang kawagas,
+Sukdulang kabanalan,
+Di makapagliligtas
+Sa kaluluwa ko.</stanza>
+    <stanza type="chorus" number="">Si Hesus ang lumuha,
+At sa krus Siya'y nagdusa,
+Siya lamang ang sa akin
+Makapagliligtas.</stanza>
+    <stanza type="verse" number="2">Gaanong pagluha
+Takot ko'y di maalis,
+Sala ko'y di malinis,
+Di makapagliligtas
+Sa kaluluwa ko.</stanza>
+    <stanza type="verse" number="3">Gaanong pag'hintay
+Ay walang kabuluhan,
+Kamataya'y hantungan,
+Di makapagliligtas
+Sa kaluluwa ko.</stanza>
+    <stanza type="verse" number="4">Pagtanggap kay Kristo,
+Tawagin ang ngalan Niya:
+"O Panginoong Hesus,"
+Manalig sa gawa Niya,
+Ako ay ligtas na.</stanza>
+  </lyrics>
+</hymn>

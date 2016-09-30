@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Echo</firstname>
+  <lastname>Choy</lastname>
+  <email>ee-choy@outlook.com</email>
+  <password>$2y$10$QhQpUiCh2t7ES/ab45okYu4PF2OqD67FRz1WRnsUkYnD93Ktq8uLG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>12.226.93.43</ipaddress>
+  <createdate>2016-06-28 21:49:51</createdate>
+  <lastupdateddate>2016-08-31 20:17:12</lastupdateddate>
+  <lastlogindate>2016-08-31 20:16:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="435">Back in My Father's House Again!</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="448">I Have an Excuse!</fav>
+    <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="ns" num="190">I want to be filled with the Triune God</fav>
+    <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    <fav category="default" type="ns" num="443">Man Lives Not By Bread Alone</fav>
+    <fav category="default" type="h" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="ns" num="25">O Lord, I love You, I really love You</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="ns" num="402">Where is the House</fav>
+    <fav category="default" type="ts" num="311">沉醉在你愛裡</fav>
+  </favourites>
+</user>

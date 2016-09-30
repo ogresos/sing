@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sharon</firstname>
+  <lastname>Clarke</lastname>
+  <email>sharonclarke248@gmail.com</email>
+  <password>$2y$10$Zt/EHt2lIOujWTjIBacODOpue9Y2rcyD6vdYMmFrU/Tuy/vv0/n5S</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>104.138.99.8</ipaddress>
+  <createdate>2014-09-17 16:16:02</createdate>
+  <lastupdateddate>2014-09-18 00:09:50</lastupdateddate>
+  <lastlogindate>2014-09-17 21:36:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="456">Living for Jesus a life that is true</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kathy</firstname>
+  <lastname>Carse</lastname>
+  <email>kcarse929@gmail.com</email>
+  <password>$2y$10$wDYQrqg/ixInKC3eiPUXFuRnL89B8Xm5NQ6sYlDcZBn6EvXotRMiK</password>
+  <gender/>
+  <country/>
+  <ipaddress>70.209.0.229</ipaddress>
+  <createdate>2015-12-03 15:56:52</createdate>
+  <lastupdateddate>2015-12-03 16:28:30</lastupdateddate>
+  <lastlogindate>2015-12-03 16:26:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+  </favourites>
+</user>

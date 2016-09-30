@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Marilyn</firstname>
+  <lastname>Eastep</lastname>
+  <email>minnowlakemle@gmail.com</email>
+  <password>$2y$10$k7gfF95aaHzmNSw5/wX33OOUhGKrOSjYFikIDboVjFULFAW3plRf.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>74.117.241.1</ipaddress>
+  <createdate>2014-08-09 17:48:40</createdate>
+  <lastupdateddate>2014-08-09 18:29:14</lastupdateddate>
+  <lastlogindate>2014-08-09 17:54:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+  </favourites>
+</user>

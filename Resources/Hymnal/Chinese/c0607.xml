@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主阿發言主阿吹氣</title>
+  <index>true</index>
+  <category>召會－建造</category>
+  <numbers><chinese num="607"/><english num="844"/><korean num="607"/><tagalog num="844"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0. ._1/ 5./ 4// | 3. ._1/ 5./ 4// | 3. 5/ 6/ ._1/ | 7. 6/ 5./ 4#// (break) | 5. ._1/ 5./ 4// | 3. ._1/ 5./ 5#// | 6. ._1/ 7/ 6/ | 5. 3/ 4 | (.3. 0. |</melody>
+  <layout>
+	<singingstanza>主 阿， 發 言！ 主 阿， 吹 氣！ 請 看， 枯 骨 遍 滿 全 地！ 埋 在 墓 中， 離 散 死 寂， 求 主 發 言 並 吹 氣！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="844"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主阿，發言！主阿，吹氣！
+請看，枯骨遍滿全地！
+埋在墓中，離散死寂，
+求主發言並吹氣！</stanza>
+	<stanza type="verse" number="2">主阿，發言，主阿，吹氣！
+吹進枯骨，使之復起，
+出離墳墓，脫開死地，
+求主發言並吹氣！</stanza>
+	<stanza type="verse" number="3">主阿，發言，主阿，吹氣！
+使你子民活到一起，
+成為大軍，向敵攻擊，
+求主發言並吹氣！</stanza>
+	<stanza type="verse" number="4">主阿，發言，主阿，吹氣！
+使你子民合而為一，
+權柄、帶領，不再互異，
+求主發言並吹氣！</stanza>
+	<stanza type="verse" number="5">主阿，發言，主阿，吹氣！
+使你子民搭成一體，
+作你居所，使你安息，
+求主發言並吹氣！</stanza>
+	<stanza type="verse" number="6">向我發言，向我吹氣！
+使我復甦，歸回身體，
+不再死寂，不再孤僻，
+主阿，現在就吹氣！</stanza>
+	<stanza type="verse" number="7">向我發言，向我吹氣！
+願與眾聖進攻仇敵，
+使你居所早得建立，
+主阿，現在就吹氣！</stanza>
+  </lyrics>
+</hymn>

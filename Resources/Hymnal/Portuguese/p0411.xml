@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Da reunião, despede-nos, Senhor</title>
+  <index>true</index>
+  <category>Despedida</category>
+  <numbers><cebuano num="868"/><chinese num="631"/><english num="868"/><korean num="631"/><portuguese num="411"/></numbers>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="868"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Da reunião, despede-nos, Senhor;
+Com gratidão alçamos nossa voz;
+Tua presença e graça com frescor,
+Mui ricamente dispensaste a nós.</stanza>
+    <stanza type="verse" number="2">Embora finde a reunião aqui,
+Em graça não nos deixarás jamais;
+Mas, em amor, vens força nos suprir
+Como Espír'to, sempre, mais e mais.</stanza>
+    <stanza type="verse" number="3">Sê Tu conosco, e vem carregar.
+Os fardos que tem nosso coração,
+Assim iremos sempre Te gozar
+Té partilhar de nova reunião.</stanza>
+  </lyrics>
+</hymn>

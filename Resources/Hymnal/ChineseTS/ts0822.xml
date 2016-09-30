@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我曾虛空又痛苦</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>66113325577221</hymncode>
+  <key>D Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 曾 虛 空 又 痛 苦， 不 明 白 活 著 為 何 故， 常 今 朝 有 酒 就 今 朝 醉， 雖 強 作 歡 顏， 裡 面 流 淚， 這 辛 酸 滋 味 無 人 能 領 會； 把 牠 麻 醉， 曾 幾 何 時， 又 歸 回。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0822.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我曾虛空又痛苦，
+不明白活著為何故，
+常今朝有酒就今朝醉，
+雖強作歡顏，裡面流淚，
+這辛酸滋味無人能領會；
+把牠麻醉，
+曾幾何時，又歸回。</stanza>
+	<stanza type="verse" number="2">雖然我並不知道，
+當如何解決或禱告，
+但是我深處總是渴慕，
+想要把生命意義找出。
+直到有一天呼喊主耶穌，
+讓祂進入，
+虛空痛苦纔消除。</stanza>
+	<stanza type="verse" number="3">耶穌活在我裡面，
+作我主、生命，真甘甜！
+因藉著呼喊耶稣的名，
+我生命、平安与日俱增，
+这世上无何使我心羡慕，
+我已满足，
+因我得着&amp;mdash;主耶稣。</stanza>
+  </lyrics>
+</hymn>

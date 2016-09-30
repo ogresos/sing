@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname>Lin</lastname>
+  <email>htl.kevin@gmail.com</email>
+  <password>$2y$10$qJxIQp3I67QgNc/8.jul/.oMdNPH5DOMg6Dg6MDe0C6dEIji0QSDy</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>220.134.42.193</ipaddress>
+  <createdate>2014-10-03 06:58:40</createdate>
+  <lastupdateddate>2014-10-06 23:57:45</lastupdateddate>
+  <lastlogindate>2014-10-03 07:01:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="554">I come to His presence afresh</fav>
+    <fav category="default" type="nt" num="711b">I know not what awaits me (Alternate)</fav>
+    <fav category="default" type="ch" num="517">前途如何我不知</fav>
+  </favourites>
+</user>

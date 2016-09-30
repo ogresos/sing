@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alang's Dios' kamingawan</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA DIOS NGA KINABUHI</category>
+  <numbers><cebuano num="352"/><chinese num="272"/><english num="352"/><korean num="272"/><tagalog num="352"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Alang's Dios' kamingawan!
+Komong sampinit nagsiga!
+Panalangini, Ginoo,
+Alang's himaya's Ngalan Mo.</stanza>
+    <stanza type="verse" number="2">Dios, ako sampinit lang,
+Nga Imo nga kapuy-an;
+Pinaagi kanako
+Makapamulong Ka's tawo,</stanza>
+    <stanza type="verse" number="3">Pangandoy'g tuyo N'ya's tawo,
+Sampinit magkalayo,
+Di's kahayag dinhi's yuta,
+Kondi's Iyang himaya:</stanza>
+    <stanza type="verse" number="4">Sa sampinit Dios mismo,
+M'oy siga nga makita;
+Himoa kong ingon Nimo,
+Maghimaya's Ngalan Mo.</stanza>
+  </lyrics>
+</hymn>

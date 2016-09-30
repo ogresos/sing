@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Back in My Father's House Again!</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Saved by Grace</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Patrick Casey">P. C.</author>
+    <composer biodate="" biolink="" fullname="Patrick Casey">P. C.</composer>
+  </creators>
+  <hymncode>543212343223453235</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - - - | F - - - | G - - - | G7 - - - | C - - - | G7 - - - | C - - - | C - - - | F - - - | F - - - | G - - - | G7 - - - | C - - - | C7 - - - | F - - - | F - - - | Em - - - | Em - - - | F - - - | F - - - | G - - - | G - - - | F - - - | F - - - | Em - - - | Em - - - | Dm - - - | G7 - - - | C - - F/C | C - - - ||</chords>
+  <melody>| 0 5( 5) 4 | 3/ 2 1/( 1) - | 0 2 - 3 | 4 3/ 2/( 2) - | 0 2( 2) 3 | 4 5 3 2/ 3/( | 3)( 5)( - - | 5) - - - (break) | 0 5( 5) 4 | 3/ 2 1/( 1) - | 0 2 - 3 | 4 3/ 2/( 2) - | 0 2( 2) 3 | 4 5 3 2/ 1/( | 1)( - - - (break) | 1) - (Chorus) ._1 7 | 6( - - - | 6) - 7 6 | 5 6/ 3/( 3)( - | 3) - 6 5 | 4 - - 5 | 6 - ._1 - | 0 7( - - (break) | 7) - ._1 7 | 6 - - 4 | 1 - 7 6 | 5 6/ 3/( 3)( - | 3) - - - | 0 2 2 3 | 4 5/ 3/( 3) 2/ 1/( | 1)( - - - | 1) - - - ||</melody>
+  <layout>
+    <singingstanza>I'm so hap -- py here, With my Fa -- ther dear, Once lost, now I'm near a -- gain! First His smil -- ing face, Then His warm em -- brace, I'm sur -- prised by grace a -- gain! I was lost, now I'm found a -- gain! I was dead, but now I live! Come re -- joice with us, and be mer -- ry then. Back in my Fa -- ther's house a -- gain!</singingstanza>
+    <singingstanza2>[skip16] __________________(It_was)</singingstanza2>
+  </layout>
+  <links>
+    <link type="ref">Luke 15:11-32</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="H_KXjXi5ZiM"/>
+  </videos>
+  <music>
+    <midi location="ns" length="45">ns0435.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'm so happy here,
+With my Father dear,
+Once lost, now I'm near again!
+(It was) First His smiling face,
+Then His warm embrace,
+I'm surprised by grace again!</stanza>
+    <stanza type="chorus" number="">I was lost, now I'm found again!
+I was dead, but now I live!
+Come rejoice with us, and be merry then.
+Back in my Father's house again!</stanza>
+    <stanza type="verse" number="2">Robe, ring, sandals on
+And my hunger's gone!
+Back where I belong , again!
+(Because He) Clothed me thoroughly,
+(And then He) Reinstated me!
+(Now I'm) Back in the family again!</stanza>
+  </lyrics>
+</hymn>

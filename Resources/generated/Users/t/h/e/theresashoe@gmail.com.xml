@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Theresa</firstname>
+  <lastname>Warren</lastname>
+  <email>theresashoe@gmail.com</email>
+  <password>$2y$10$kC8PZ8g.5eGjfz/3e.e.YuhI8fo5PJYwH35VypCmUwrlINrTypl6i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.112.135.119</ipaddress>
+  <createdate>2015-09-15 14:18:57</createdate>
+  <lastupdateddate>2015-09-22 16:56:51</lastupdateddate>
+  <lastlogindate>2015-09-22 16:56:51</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="321">Full salvation! Full salvation</fav>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    <fav category="default" type="nt" num="412">Lord, reveal Thyself to me</fav>
+  </favourites>
+</user>

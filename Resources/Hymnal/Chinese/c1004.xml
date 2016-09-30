@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>人是神造的容器</title>
+  <index>true</index>
+  <category>福音－人生的意義</category>
+  <numbers><chinese num="1004"/><english num="1404"/></numbers>
+  <melody>| 3. 2/ 1 4 | 3. 2/ 1 - | 2. 1/ 7_. 6 | 5. 4/ 3 - (break) | 3. 2/ 1 4 | 3. 2/ 1 1/ 1/ | 2 4 3 2 | 1 - - - |</melody>
+  <layout>
+	<singingstanza>人 是 神 造 的 容 器， 有 靈 有 魂 又 有 體。 神 要 作 人 的 內 容， 從 人 顯 出 祂 光 榮。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <notes>詩歌附4</notes>
+  <music>
+	<midiref type="h" num="548"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">人是神造的容器，
+有靈有魂又有體。
+神要作人的內容，
+從人顯出祂光榮。</stanza>
+	<stanza type="verse" number="2">人原有神的形像，
+身分地位何高尚；
+還須有神的生命，
+得以分享祂性情。</stanza>
+	<stanza type="verse" number="3">基督乃是神顯出，
+為人受死，將人贖；
+復活成為生命靈，
+進入人靈作生命。</stanza>
+	<stanza type="verse" number="4">人的生存無基督，
+一切盡都感虛無：
+失缺人生的意義，
+無指無望，無目的。</stanza>
+	<stanza type="verse" number="5">接受基督作生命，
+人就靈裏得重生；
+時時憑祂而生活，
+虛空人生變詩歌。</stanza>
+	<stanza type="verse" number="6">如此便能彰顯神，
+也能造福於人群，
+流出活水的江河，
+解除群眾的乾渴。</stanza>
+	<stanza type="verse" number="7">基督凱歸榮耀中，
+你的身體必得榮，
+變得與祂形狀同，
+同榮共存永無終。</stanza>
+  </lyrics>
+</hymn>

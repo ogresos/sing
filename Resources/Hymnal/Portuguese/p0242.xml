@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Liberto, ó cativo</title>
+  <index>true</index>
+  <category>Como Vida</category>
+  <numbers><english num="508"/><portuguese num="242"/><spanish num="220"/></numbers>
+  <music>
+    <midiref type="h" num="508"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Liberto, ó cativo,
+Da lei que faz pecar,
+A lei da vida, em Cristo,
+Te vivificará.
+Confia no Espír'to,
+E Ele irá reger
+Os membros do teu corpo,
+As portas do teu ser.</stanza>
+    <stanza type="verse" number="2">Liberto, pois, em Cristo:
+Na cruz com Ele estás;
+A força do pecado,
+Romper só Ele faz.
+Não ajas como antes,
+Sem lei a te deter;
+A "lei da vida" deve
+Agora te reger.</stanza>
+    <stanza type="verse" number="3">Liberto, pois, em Cristo:
+Na Sua morte estás;
+Libera Ele a vida,
+E Seu Espír'to traz.
+Com vida, teu espír'to
+Se enche de vigor;
+Regidos, alma e corpo,
+Já cessam seu labor.</stanza>
+    <stanza type="verse" number="4">Liberto, pois, em Cristo,
+Que já ressuscitou,
+Na oração alcanças
+Vitória que logrou.
+Lei do pecado e morte
+Vencida já está
+Por Sua lei da vida ?
+Que liberdade há!</stanza>
+  </lyrics>
+</hymn>

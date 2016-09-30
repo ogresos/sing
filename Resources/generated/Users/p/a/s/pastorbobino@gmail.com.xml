@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pastor</firstname>
+  <lastname>Bobino</lastname>
+  <email>pastorbobino@gmail.com</email>
+  <password>$2y$10$1FAl1bJELGGMzYkAtGlNVeUBUf.tC4Bp0viNGJJ57ySpzACAJATn6</password>
+  <gender/>
+  <country/>
+  <ipaddress>50.143.226.146</ipaddress>
+  <createdate>2015-06-27 15:19:17</createdate>
+  <lastupdateddate>2015-06-27 15:21:16</lastupdateddate>
+  <lastlogindate>2015-06-27 15:20:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="694">Be not dismayed whate'er betide</fav>
+  </favourites>
+</user>

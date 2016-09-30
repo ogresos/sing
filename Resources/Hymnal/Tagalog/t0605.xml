@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang aking tahanan ay Diyos Mismo</title>
+  <index>true</index>
+  <category>PAGDARANAS SA DIYOS&amp;mdash;BILANG ANG PINANAHANANG-LUGAR</category>
+  <numbers><chinese num="446"/><english num="605"/><korean num="446"/><tagalog num="605"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Frances Brook, adapted</author>
+  </creators>
+  <music>
+    <midiref type="h" num="605"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ang aking tahanan ay Diyos Mismo,
+Kristo nagdala sa akin dito;
+Dinala 'kong tahakin ang daan,
+Patungo sa kabanal-banalan;
+Kung sa'n Diyos at tao'y nananahan,
+Anong katamisa't kagandahan!</stanza>
+    <stanza type="verse" number="2">Gabi't araw daan hinanap ko,
+Akala'y sa sarili ang dako,
+Walang pagsulong, walang nangyari,
+Pawang bigo, sikap ng sarili;
+Sa huli nabatid tanging daan,
+Nang sa Diyos manahan&amp;mdash;Kristo lamang.</stanza>
+    <stanza type="verse" number="3">Banal, kamangha-manghang tahanan!
+Diyos kasama may kapayapaan;
+Yamang Ikaw at ako nagsama
+Bilang tahanan sa isa't isa;
+Nawa tungo sa Iyo ang buhay ko,
+Diyos laging ibahagi sa tao.</stanza>
+  </lyrics>
+</hymn>

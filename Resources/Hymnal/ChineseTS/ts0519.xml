@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>地方召會，主何等祝福你</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <melody>| 5 5 6/ 7/ ._1/ ._2/ | ._1 - 5 - | 6/ 7/ ._1/ ._2/ ._1 6 | 5 - - 0 (break) | ._3. ._2/ ._1/ 7/ ._1/ 5/ | 7 6 - 0 | 5/ 5/ 5/ 5/ 6 7 (break) | ._1 - - (Chorus) ._1/ ._2/ | ._3. ._2/ ._1. 7/ | 6 ._1./ 6// 6/ 5. | ._1 ._1./ ._1// ._1 7/ ._1/ (break) | ._2 - - ._1/ ._2/ | ._3. ._2/ ._1. 7/ | 6 ._1./ 6// 6/ 5. | ._1 ._1./ ._2// ._3 ._2./ ._1// | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>看 哪， 萬 民 流 歸 這 山， 她 被 高 舉 超 諸 山。 來 罷， 我 們 奔 主 的 殿， 訓 誨 必 出 於 錫 安！ 哦， 地 方 召 會， 主 何 等 祝 福 你， 恩 典 榮 耀 總 不 離； 哦， 地 方 召 會， 我 何 等 寶 愛 你， 我 心 我 命 全 歸 你！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1257"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">看哪，萬民流歸這山，
+她被高舉超諸山。
+來罷，我們奔主的殿，
+訓誨必出於錫安！</stanza>
+	<stanza type="chorus" number="">哦，地方召會，
+主何等祝福你，
+恩典榮耀總不離；
+哦，地方召會，
+我何等寶愛你，
+我心我命全歸你！</stanza>
+	<stanza type="verse" number="2">看哪！貴重的油流淌，
+流到鬍鬚和衣裳。
+因有弟兄和睦同居，
+這是何等的美善！</stanza>
+	<stanza type="verse" number="3">看哪！榮耀主顯威榮，
+手拿七星賜七靈。
+使金燈臺焚燒照明，
+結束時代將祂迎！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Beverly</firstname>
+<lastname>Williams</lastname>
+<email>beverlyc467@yahoo.com</email>
+<password>$1$c/atNCIg$231vmhHeWobT4d2KpZXQ21</password>
+<gender>F</gender>
+<country>Turks And Caicos Islands</country>
+<ipaddress>69.79.80.13</ipaddress>
+<createdate>2009-03-23 23:14:15</createdate>
+<lastupdateddate>2009-09-15 18:29:42</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="684">Come, ye disconsolate, where'er ye languish</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="714">Through all the changing scenes of life</fav>
+    </favourites>
+</user>

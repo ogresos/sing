@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我是呼出我的愁苦</title>
+  <index>true</index>
+  <category>聖靈的豐滿－氣</category>
+  <numbers><cebuano num="255"/><chinese num="210"/><dutch num="12"/><english num="255"/><french num="43"/><german num="255"/><korean num="210"/><portuguese num="136"/><russian num="50"/><spanish num="119"/><tagalog num="255"/></numbers>
+  <creators>
+	<author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <melody>| 0 - 5/ 5/ | 5. 3/ ._1/ 6/ | 5 3 3/ 3/ | 4. 2/ 5/ 4/ | 3 - 5/ ._1/ (break) | ._3. ._2/ ._1/ 7/ | 7 6 ._1/ 6/ | 5/ ._1/ ._2 7 (break) | ._1 - (Chorus) 5/ 5/ | ._2. ._2/ ._1/ ._2/ | ._3 ._1 - | ._4. ._3/ ._2/ 6/ | ._2 - 5/ 5/ (break) | ._1. ._2/ ._3/ ._1/ | ._1 6 - | 5. ._4/ ._3/ ._2/ | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>主， 求 你 向 我 吹 聖 靈， 教 我 如 何 吸 入 你； 助 我 向 你 胸 懷 一 傾 我 的 犯 罪 與 自 己。 我 是 呼 出 我 的 愁 苦， 呼 出 我 罪 污； 我 是 吸 入， 一 直 吸 入， 你 所 有 豐 富。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，求你向我吹聖靈，
+教我如何吸入你；
+助我向你胸懷一傾
+我的犯罪與自己。</stanza>
+	<stanza type="chorus" number="">我是呼出我的愁苦，
+呼出我罪污；
+我是吸入，一直吸入，
+你所有豐富。</stanza>
+	<stanza type="verse" number="2">我是呼出我的生命，
+我纔可能被充滿；
+放棄軟弱或是力勁，
+吸入憐憫和恩湛。</stanza>
+	<stanza type="verse" number="3">呼出我的罪律桎梏，
+你已為我全除摒；
+吸入你的聖潔豐富，
+發現惟你是生命。</stanza>
+	<stanza type="verse" number="4">我正呼出我的憂愁
+在你慈愛的胸臆；
+吸入你的喜樂、保守，
+吸入你的甜安息。</stanza>
+	<stanza type="verse" number="5">我正呼出我的病勢，
+你早已為我負擔；
+我正吸入你的醫治，
+因你早已賜平安。</stanza>
+	<stanza type="verse" number="6">我今呼出我的羨慕，
+入你慈愛的耳中；
+我今吸入你的答覆，
+平靜疑惑和驚恐。</stanza>
+	<stanza type="verse" number="7">我今每刻都在呼吸
+你的生命作生命；
+一呼一吸都在乎你，
+求你由我來顯明。</stanza>
+  </lyrics>
+</hymn>

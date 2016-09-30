@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Doce é minha história</title>
+  <index>true</index>
+  <category>Como Vida</category>
+  <numbers><cebuano num="498"/><english num="498"/><portuguese num="235"/><spanish num="212"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="498"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Doce é minha história:
+Cristo achou-me enfim;
+Senhor Jesus, Rei da glória,
+Hoje habita em mim.</stanza>
+    <stanza type="chorus" number="">Cristo em mim, Cristo em mim,
+Que maravilhosa história!
+Cristo em mim, Cristo em mim,
+Minha esperança da glória.</stanza>
+    <stanza type="verse" number="2">Que história mui comovente,
+De sofrimento e amor!
+Cristo, qual Noivo atraente,
+Meu coração ganhou.</stanza>
+    <stanza type="verse" number="3">Contente estou pois O tenho,
+Jesus, querido Rei,
+Hoje a Seus pés tudo rendo,
+Eu, que antes O magoei.</stanza>
+    <stanza type="verse" number="4">Se Cristo é meu "tudo em todos",
+Oh! como descair?
+Oh! como ser solitário,
+Ou ter carência aqui?</stanza>
+    <stanza type="verse" number="5">Ora seguro em Seu seio,
+Canto alegre, enfim;
+Hoje habito em Cristo,
+E Cristo habita em mim.</stanza>
+  </lyrics>
+</hymn>

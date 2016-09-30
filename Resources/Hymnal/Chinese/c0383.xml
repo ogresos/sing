@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>榮耀之中有一位</title>
+  <index>true</index>
+  <category>經歷基督－作生命</category>
+  <numbers><cebuano num="505"/><chinese num="ts:27*"/><dutch num="47"/><english num="505*"/><french num="89"/><korean num="383"/><portuguese num="243"/><russian num="218"/><spanish num="218"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Mary E. McDonough</author>
+	<author biodate="" biolink="">Translated from "K" in Rippon's Selection of Hymns, 1787</author>
+	<composer biodate="" biolink="">John Wade's Cantus Diversi</composer>
+  </creators>
+  <meter>7.5.7.5.D.</meter>
+  <hymncode>332151123253</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>榮 耀 之 中 有 一 位， 乃 是 神 而 人； 聖 潔、 公 義 又 智 慧， 光 明 且 慈 仁； 祂 曾 為 我 捨 生 命， 成 功 神 救 法， 使 我 能 有 祂 性 情， 使 我 能 像 祂。</singingstanza>
+  </layout>
+  <date>1751</date>
+  <music>
+	<midi location="h" length="">c0383_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">榮耀之中有一位，
+乃是神而人；
+聖潔、公義又智慧，
+光明且慈仁；
+祂曾為我捨生命，
+成功神救法，
+使我能有祂性情，
+使我能像祂。</stanza>
+	<stanza type="verse" number="2">榮耀之中有一位，
+乃是得勝王；
+黑暗權勢祂摧毀，
+撒但祂擊傷，
+衝破陰府升天庭，
+遠超諸執政，
+使我與祂同高升，
+與祂同誇勝。</stanza>
+	<stanza type="verse" number="3">榮耀之中有一位，
+祂是我生命；
+時刻住在我心內，
+管理並引領，
+使祂聖潔的性情，
+成形在我心，
+使祂榮耀的生命，
+彰顯於我身。</stanza>
+	<stanza type="verse" number="4">榮耀之中有一位，
+祂是我盼望；
+不久從天必歸回，
+接我到天上，
+用祂榮耀的大能，
+改變我形狀，
+使我變成祂榮形，
+與祂永相像。</stanza>
+  </lyrics>
+</hymn>

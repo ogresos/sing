@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主，我愛你國度</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:753"/><english num="853"/><russian num="430"/><spanish num="366"/></numbers>
+  <creators>
+	<author biodate="1752-1817" biolink="">Translated from Timothy Dwight</author>
+  </creators>
+  <melody>| 0 - - 5_. | 1 1 3 2/( 1/) | 2 - - 3/( 4/) | 5 4/( 3/) 4 3 (break) | 2 - - 5 | 3 1 2 5_. | 1 3 5 5 | 6 5/( 4/) 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>主， 我 愛 你 國 度， 就 是 你 的 住 處； 是 你 召 會， 你 血 所 贖， 你 將 重 價 已 付。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="853"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，我愛你國度，
+就是你的住處；
+是你召會，你血所贖，
+你將重價已付。</stanza>
+	<stanza type="verse" number="2">神，我愛你召會，
+她與世俗分別；
+是你眼中惟一至美，
+手中惟一寶貝。</stanza>
+	<stanza type="verse" number="3">為她禱告不歇，
+為她晝夜流淚；
+補滿基督患難缺欠，
+直至與你相會。</stanza>
+	<stanza type="verse" number="4">她的屬天行徑，
+是我珍愛歌頌：
+相交甘甜，相許貞堅，
+愛戴、讚美無終。</stanza>
+	<stanza type="verse" number="5">正如你的真理，
+必定屹立不已；
+那日錫安必得榮耀，
+光輝無比、至極。</stanza>
+  </lyrics>
+</hymn>

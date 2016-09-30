@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, amado Salvador</title>
+  <index>true</index>
+  <category>Sua Exaltação</category>
+  <numbers><chinese num="111"/><english num="8111"/><portuguese num="61"/><tagalog num="c111"/></numbers>
+  <creators>
+    <author biodate="1802-1884" biolink="">Adapted from James George Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8111"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, amado Salvador,
+Do vil pecado, morte e dor,
+Teu sangue nos remiu.
+Os Teus exultam ao Te ver
+Nos céus sentado, com poder,
+Em esplendores mil.</stanza>
+    <stanza type="verse" number="2">O Deus de amor Te exaltou,
+À Sua destra Te sentou,
+Pôs tudo sob Teus pés;
+Ó sempiterno Rei, Senhor,
+A Ti a glória e o louvor,
+Te rendem Teus fiéis.</stanza>
+    <stanza type="verse" number="3">Cabeça és do Corpo Teu,
+Que tudo aos membros concedeu,
+E os vem abençoar;
+És nossa vida, paz, poder,
+Fizeste-nos estar em pé,
+E tudo conquistar.</stanza>
+    <stanza type="verse" number="4">Glorioso dia chegará
+E Tua noiva subirá,
+Verá o rosto Teu;
+Que gozo iremos possuir:
+Contigo estar, Te ver, ouvir
+Que somos sempre Teus.</stanza>
+  </lyrics>
+</hymn>

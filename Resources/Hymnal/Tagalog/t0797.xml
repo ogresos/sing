@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panauliin nga</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;PARA SA PAGPAPANAULI</category>
+  <numbers><cebuano num="797"/><chinese num="576"/><english num="797"/><korean num="576"/><russian num="529"/><tagalog num="797"/></numbers>
+  <creators>
+    <author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+    <author biodate="1825-1909" biolink="">Adapted from Albert Midlane</author>
+  </creators>
+  <music>
+    <midiref type="h" num="797"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panauliin nga,
+Poon, ang Iyong gawa;
+Sa banal magpakita Ka,
+Sa 'min magsalita.</stanza>
+    <stanza type="chorus" number="">Panauliin nga,
+Poon ang Iyong gawa;
+Habang kami naghihintay,
+Pagpala'y ibigay.</stanza>
+    <stanza type="verse" number="2">Panauliin nga,
+Poon ang Iyong gawa;
+Paningasin sa 'ming puso,
+Apoy Pentecostes.</stanza>
+    <stanza type="verse" number="3">Panauliin nga,
+Poon, ang Iyong gawa;
+Pag-ibig Mo sa 'ming puso,
+Umalab nang husto.</stanza>
+    <stanza type="verse" number="4">Panauliin nga,
+Poon ang Iyong gawa;
+Pagpalain Iyong Salita,
+Nang may maniwala.</stanza>
+    <stanza type="verse" number="5">Panauliin nga,
+Poon, ang Iyong gawa;
+Ipakita Iyong tagumpay
+Talunin kaaway.</stanza>
+    <stanza type="verse" number="6">Panauliin nga,
+Poon ang Iyong gawa;
+Glorya sa ngalan Mo, Amen!
+Pagpapala'y amin.</stanza>
+  </lyrics>
+</hymn>

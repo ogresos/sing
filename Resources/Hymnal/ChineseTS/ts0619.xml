@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>同心合意</title>
+  <index>true</index>
+  <category>建造與合一</category>
+  <numbers><chinese num="ts:619"/><english num="258"/></numbers>
+  <creators>
+	<author biodate="1868-1927" biolink="">Translated from Emily May Grimes</author>
+  </creators>
+  <melody>| 5_. - 5_. 6_. | 5_. - 1 - | 1 7_. 1 2 | 3 - - - (break) | 1 - 1 2 | 1 - 3 - | 3 2 3 4# | 5 - - - (break) | 5 - 1 1 | 4 - 4 - | 4 2 3 4 | 3 - - - (break) | 1 - 2 1 | 1 - 6_. - | 5_. 5_. 6_. 5_. | 5_. - - - |</melody>
+  <layout>
+	<singingstanza>“同 心 合 意”─ 樓 房 上 同 聚 集， 耶 穌 從 者 忠 信 禱 告 不 息； 同 一 盼 望， 每 魂 儆 醒 所 期； 同 一 目 標， 眾 人 心 志 如 一。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="219"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">“同心合意”─樓房上同聚集，
+耶穌從者忠信禱告不息；
+同一盼望，每魂儆醒所期；
+同一目標，眾人心志如一。</stanza>
+	<stanza type="verse" number="2">“同心合意”─直等五旬能力
+全備靈中降臨，澆灌、充溢；
+眾見證人宣揚復活信息，
+活出神命開拓及於地極。</stanza>
+	<stanza type="verse" number="3">“同心合意”─神家中何歡暢，
+阿利路亞！天天讚美頌揚；
+一心一口，基督榮耀顯彰，
+耶穌尊名傳揚達到四方。</stanza>
+	<stanza type="verse" number="4">那靈澆灌，我們願再經歷，
+如同甘雨，使人復甦、得力；
+主的子民若真同心合意，
+五旬榮景就必重現此地。</stanza>
+  </lyrics>
+</hymn>

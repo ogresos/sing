@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Diha Kanimo, O Cristo</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA TANAN</category>
+  <numbers><cebuano num="522"/><chinese num="258"/><english num="522"/><korean num="258"/><portuguese num="256"/><russian num="519"/><spanish num="237"/><tagalog num="522"/></numbers>
+  <creators>
+    <author biodate="1827-1909" biolink="">Translated from Emma Frances Shuttleworth Bevan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="522"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Diha Kanimo, O Cristo,
+Napalgan's kalag ko
+Ang kalinaw ug kalipayng
+Dugayng gipangita.</stanza>
+    <stanza type="chorus" number="">Makatagbaw si Cristo ra,
+Wala nay lain pa;
+Gugma, kinabuhi'g kalipay,
+Napalgan diha Nimo.</stanza>
+    <stanza type="verse" number="2">Nangandoy's pahuway'g kalipay,
+Di's Kaugalingon Mo,
+Manluluwas gilabyan ko,
+Gikuptan's gugma N'ya.</stanza>
+    <stanza type="verse" number="3">Liking sudlanan giimnan,
+Tubig nihubas man;
+Niduko unta'g moinom,
+Apan way nakuha.</stanza>
+    <stanza type="verse" number="4">Nasubo's kalipayng nawa',
+Dili alang Nimo;
+Hangtud nakit-an na nako,
+Ang pagkatahum Mo.</stanza>
+  </lyrics>
+</hymn>

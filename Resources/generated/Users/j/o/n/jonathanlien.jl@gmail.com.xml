@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jon</firstname>
+  <lastname>Lien</lastname>
+  <email>jonathanlien.jl@gmail.com</email>
+  <password>$2y$10$Z3kiE12HTowCepny1/86OO7Q/yIPbPADhnsWkXLd4aFZRnt.xExaW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>104.35.10.35</ipaddress>
+  <createdate>2015-03-12 05:05:19</createdate>
+  <lastupdateddate>2015-03-12 06:42:20</lastupdateddate>
+  <lastlogindate>2015-03-12 06:42:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

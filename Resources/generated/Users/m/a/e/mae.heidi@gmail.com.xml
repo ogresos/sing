@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Heidi</firstname>
+  <lastname>Suhrstedt</lastname>
+  <email>mae.heidi@gmail.com</email>
+  <password>$2y$10$vl.oTg0rz5sI2prGUGhhdu.hFjQ7fI.apiUC26IZ2/720tDncswi6</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>71.193.187.63</ipaddress>
+  <createdate>2008-07-26 01:43:12</createdate>
+  <lastupdateddate>2016-07-17 17:20:49</lastupdateddate>
+  <lastlogindate>2016-07-17 17:20:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="285">Come and rejoice with me</fav>
+    <fav category="default" type="h" num="406">Teach me Thy way, O Lord</fav>
+  </favourites>
+</user>

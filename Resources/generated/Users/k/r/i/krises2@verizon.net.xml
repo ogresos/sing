@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Caroline</firstname>
+  <lastname>Krise</lastname>
+  <email>krises2@verizon.net</email>
+  <password>$2y$10$yBgpDmQqn6QON7NI3ASs1u/IFrwYO//38DnJfn/MdfdcpO0nkIuOq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.62.213.141</ipaddress>
+  <createdate>2014-07-02 13:36:50</createdate>
+  <lastupdateddate>2014-12-12 11:55:30</lastupdateddate>
+  <lastlogindate>2014-12-12 11:24:00</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="83">All my life I searched for God</fav>
+  </favourites>
+</user>

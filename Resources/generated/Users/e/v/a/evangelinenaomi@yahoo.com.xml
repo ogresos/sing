@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>evangeline</firstname>
+<lastname>naomi</lastname>
+<email>evangelinenaomi@yahoo.com</email>
+<password>$1$VtxqpSo3$agFJuQxBbzd7p7HnJMzqy.</password>
+<gender>F</gender>
+<country>India</country>
+<ipaddress>117.192.27.79</ipaddress>
+<createdate>2009-08-17 11:45:40</createdate>
+<lastupdateddate>2009-09-15 19:17:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="c" num="21">There is a name I love to hear</fav>
+    </favourites>
+</user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Roxanne</firstname>
+<lastname>Tan</lastname>
+<email>love_joy_peace@live.com.my</email>
+<password>$1$lGf9NF8l$waUqdwKu.5JU2vcsQlKHO1</password>
+<gender>F</gender>
+<country>Malaysia</country>
+<ipaddress>60.52.55.184</ipaddress>
+<createdate>2008-07-26 01:43:12</createdate>
+<lastupdateddate>2009-09-15 18:22:12</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="69">Someone</fav>
+        <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    </favourites>
+</user>

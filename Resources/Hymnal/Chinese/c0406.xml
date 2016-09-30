@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>安息安息</title>
+  <index>true</index>
+  <category>經歷基督－與祂交通</category>
+  <numbers><chinese num="406"/><english num="558"/><french num="100"/><korean num="406"/><portuguese num="281"/><tagalog num="558"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 3 2 - (break) | 3 3 3./ 2// 1 | 2 2 2./ 1// 6_. | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - (break) | (Chorus) 3 - 1 - | 1 - 6_. - | 5_. 1./ 7_.// 1 2 | 3 3 2 - (break) | 3 - 1 - | 1 - 6_. - | 5_. 5_. 1./ 7_.// 1/ 2/ | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>交 通 何 甜 美， 喜 樂 何 豐 盈， 安 息 在 那 永 久 膀 臂 中； 福 氣 何 全 備， 平 安 何 神 聖， 安 息 在 那 永 久 膀 臂 中。 安 息！ 安 息！ 平 安 穩 妥， 一 無 驚 恐； 安 息！ 安 息！ 安 息 在 那 永 久 膀 臂 中。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="276"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">交通何甜美，
+喜樂何豐盈，
+安息在那永久膀臂中；
+福氣何全備，
+平安何神聖，
+安息在那永久膀臂中。</stanza>
+	<stanza type="chorus" number="">安息！安息！
+平安穩妥，一無驚恐；
+安息！安息！
+安息在那永久膀臂中。</stanza>
+	<stanza type="verse" number="2">今行這旅程，
+心中滿平安，
+安息在那永久膀臂中；
+越行越光明，
+恩光照燦爛，
+安息在那永久膀臂中。</stanza>
+	<stanza type="verse" number="3">有何我所懼？
+有何我所怕？
+安息在那永久膀臂中；
+與主永同居，
+平安無復加，
+安息在那永久膀臂中。</stanza>
+  </lyrics>
+</hymn>

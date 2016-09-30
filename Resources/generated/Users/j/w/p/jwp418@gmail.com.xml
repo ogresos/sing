@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jiwon</firstname>
+  <lastname/>
+  <email>jwp418@gmail.com</email>
+  <password>$2y$10$SyIrVE2mkOMSo4dfQcj9tuUjjXFLMbuEQWAYw0v6jX8mSG6eaAdfO</password>
+  <gender/>
+  <country>de</country>
+  <ipaddress>79.230.133.226</ipaddress>
+  <createdate>2015-03-15 09:18:52</createdate>
+  <lastupdateddate>2015-03-15 09:25:40</lastupdateddate>
+  <lastlogindate>2015-03-15 09:23:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+  </favourites>
+</user>

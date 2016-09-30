@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Don</firstname>
+  <lastname>LaBounty</lastname>
+  <email>engrdon@yahoo.com</email>
+  <password>$2y$10$U7Lcs6NHCe8v9u9I3hDPse26KJaPgwKJ7rXLgiFiZtYYvX6WbzteG</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>75.4.254.202</ipaddress>
+  <createdate>2012-02-19 22:31:26</createdate>
+  <lastupdateddate>2016-08-05 23:42:45</lastupdateddate>
+  <lastlogindate>2016-08-05 23:42:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

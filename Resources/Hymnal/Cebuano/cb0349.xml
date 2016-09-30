@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sama's lagsaw nga giuhaw</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA DIOS</category>
+  <numbers><cebuano num="349"/><chinese num="269"/><english num="349"/><korean num="269"/><tagalog num="349"/></numbers>
+  <creators>
+    <author biodate="1652-1715" biolink="">Translated from N. Tate</author>
+    <author biodate="1639-1726" biolink="">Translated from N. Brady</author>
+  </creators>
+  <music>
+    <midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sama's lagsaw nga giuhaw
+Sa sapang mabugnaw;
+O Dios, ang kalag nangandoy,
+Sa grasyang maglunhaw.</stanza>
+    <stanza type="verse" number="2">Kalag, nganong nasubo ka?
+Dios, m'oy saligan ra;
+Panghupaw mo 'yang ilisan's
+Awit sa kalipay.</stanza>
+    <stanza type="verse" number="3">O buhing Dios ako giuhaw,
+Kanimo gimingaw;
+Anus-a makitang nawong,
+Imong kahalangdon?</stanza>
+    <stanza type="verse" number="4">Anus-a di na masama's
+Gib'yaan, gibangotan
+Gisalikway ko'g gitamay
+Sa mga kaaway.</stanza>
+    <stanza type="verse" number="5">Nganong nasubo ka kalag ko?
+Maglaum, mag-awit;
+Dayga Siya nga imong Dios,
+Tubod mo's kalagsik.</stanza>
+  </lyrics>
+</hymn>

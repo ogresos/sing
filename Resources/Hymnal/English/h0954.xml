@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There's a light upon the mountains</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;The Crowning Day</category>
+  <numbers><english num="954"/><spanish num="435"/></numbers>
+  <creators>
+    <author biodate="1840-1930" biolink="">Henry Burton</author>
+    <composer biodate="" biolink="">M. L. Wostenholm</composer>
+  </creators>
+  <meter>8.7.8.7.D.</meter>
+  <hymncode>553323155533231</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - G - | C - G7 - | C - G/B - | C - A7/C# - | Dm - A7/C# - | Dm - G7 - | C/E - D7/F# - | G7 - - - | C - G/B - | A - - - | A7 - A7/C# - | Dm - G7/F - | C/E - A/E | Dm/F - Dm - | C/G - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 5_. 5_. | 3. 3/ 2 3 | 1 5_. 5_. 5_. | 3. 3/ 2 3 (break) | 1 - 6_. 6_. | 4. 4/ 3 4 | 3 2 3 4 | 5. 3/ 2 1 (break) | 6_. - 5_. 5_. | 3. 3/ 2 3 | 2 1# 6_. 6_. | 6. 6/ 5 6 (break) | 4 - 3 2 | 1 7_. 1 1# | 2 3 4 2 | 5 - 5 - | 5 - - 3 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza>There's a light up -- on the moun -- tains, and the day is at the spring, When our eyes shall see the beau -- ty and the glo -- ry of the King; Wear -- y was our heart with wait -- ing, and the night- -- watch seemed so long, But His tri -- umph- -- day is break -- ing, and we hail it with a song.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj116.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="40">e0954_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">There's a light upon the mountains,
+  and the day is at the spring,
+When our eyes shall see the beauty
+  and the glory of the King;
+Weary was our heart with waiting, and
+  the night-watch seemed so long,
+But His triumph-day is breaking, and
+  we hail it with a song.</stanza>
+    <stanza type="verse" number="2">In the fading of the starlight we can
+  see the coming morn;
+And the lights of men are paling in
+  the splendors of the dawn;
+For the eastern skies are glowing as
+  with lights of hidden fire,
+And the hearts of men are stirring
+  with the throb of deep desire.</stanza>
+    <stanza type="verse" number="3">There's a hush of expectation, and
+  a quiet in the air;
+And the breath of God is moving in
+  the fervent breath of prayer;
+For the suffering, dying Jesus is the
+  Christ upon the throne,
+And the travail of our spirit is the
+  travail of His own.</stanza>
+    <stanza type="verse" number="4">He is breaking down the barriers,
+  He is casting up the way;
+He is calling for His angels to build
+  up the gates of day;
+But His angels here are human, not
+  the shining hosts above,
+For the drum-beats of His army are
+  the heart-beats of our love.</stanza>
+    <stanza type="verse" number="5">Hark! we hear a distant music, and
+  it comes with fuller swell;
+'Tis the triumph song of Jesus, of
+  our King Emmanuel;
+Zion, go ye forth to meet Him,
+  and my soul, be swift to bring
+All thy sweetest and thy dearest for
+  the triumph of our King.</stanza>
+  </lyrics>
+</hymn>

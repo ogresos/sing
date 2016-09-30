@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gihatag nga Kalan-on</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MOKAON NI CRISTO</category>
+  <numbers><cebuano num="380"/><chinese num="299"/><english num="380"/><korean num="299"/><russian num="76"/><tagalog num="380"/></numbers>
+  <creators>
+    <author biodate="" biolink="">From Latin</author>
+    <author biodate="1808-1887" biolink="">Translated by Ray Palmer</author>
+  </creators>
+  <music>
+    <midiref type="h" num="380"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Gihatag nga Kalan-on
+Alang's dumuloong;
+Manna nga gikan's langit,
+Tagbo's gikin'hanglan;
+Dugay nang gitinguha,
+Ikaw pahimuslan,
+Hangtud kalipay's yuta
+Mawa', matagbaw na.</stanza>
+    <stanza type="verse" number="2">Tubig sa kinabuhi
+Gikan's Manluluwas,
+Tuboran Ka sa gugma,
+Lunsay nga nag-agas.
+Paimna mi's way bayad,
+Pagkuha's kauhaw;
+Katam-is di usikan,
+Dayong pahimuslan.</stanza>
+    <stanza type="verse" number="3">Magpista kami Nimo,
+Simbahon Ka namo;
+Kasaligang Pulong Mo,
+Tooha'g dawaton.
+Tugoting dinhi's yuta
+Ikinabuhi Ka;
+Wad-on untang salimbong
+Makita Ka's nawong.</stanza>
+  </lyrics>
+</hymn>

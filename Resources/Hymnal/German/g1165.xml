@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wir sind im Land, wir sind im Land</title>
+  <index>true</index>
+  <category>ERFAHRUNG CHRISTI&amp;mdash;Als das gute Land</category>
+  <numbers><cebuano num="1165"/><chinese num="ts:245"/><english num="1165"/><german num="1165"/><russian num="523"/><tagalog num="1165"/></numbers>
+  <melody>| 0 - 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. (break) | 2./ 1// 1 0/ 5/ | 5./ 3// 6. 5/ | 5./ 4// 4 0/ 4/ | 4./ 2// 5. 4/ (break) | 4./ 3// 3 5_. | 1./ 1// 1 2 | 3./ 3// 3 0/ 3/ | 2./ 3// 4 7_. | 2./ 1// 1 0 |</melody>
+  <layout>
+	<singingstanza>Wir sind im Land, wir sind im Land! Oh hal -- le -- lu -- ja! Sind im Land! In Chris -- tus sind, in Chris -- tus sind, Wir sind in Chris -- tus, un -- ser Land! Milch und der Ho -- nig ist der Herr; Das Korn, das Öl, der Wein ist Er. Wir sind im Land! Wir sind im Land! Oh hal -- le -- lu -- ja! Sind im Land!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1165"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Wir sind im Land, wir sind im Land!
+Oh halleluja! Sind im Land!
+In Christus sind, in Christus sind,
+Wir sind in Christus, unser Land!</stanza>
+	<stanza type="chorus" number="">Milch und der Honig ist der Herr;
+Das Korn, das Öl, der Wein ist Er.
+Wir sind im Land! Wir sind im Land!
+Oh halleluja! Sind im Land!</stanza>
+	<stanza type="verse" number="2">Im Land so viel vorhanden ist:
+Wein, Weizen, Gerste, Wasser fließt,
+Auch süße Feigen, reich an Brot – 
+Oh welch ein Land ist unser Gott!</stanza>
+	<stanza type="chorus" number="">Welch Überfluss in unsrer Hand,
+Wenn wir bebauen treu das Land;
+In der Versammlung opfern wir
+Den reichen Christus, unsre Zier!</stanza>
+  </lyrics>
+</hymn>

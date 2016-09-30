@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Purs de cœur, forts en esprit</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa résurrection</category>
+  <numbers><cebuano num="117"/><chinese num="102"/><english num="117"/><french num="19"/><german num="117"/><korean num="102"/><portuguese num="57"/><russian num="24"/><spanish num="56"/><tagalog num="117"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 1 3 5 1 | 4 6 6( 5) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 4 5 6 5 | 4 3 3( 2) | 3/( 4/ 5/ 1/ 4) 3/( 4/) | 3( 2) 1 - (break) | 7 ._1 ._2 5 | ._1 ._2 ._3 - | 7/( ._1/ ._2/ 5/ ._1) 7/( ._1/) | 7( 6) 5 - (break) | 5/( 6/) 7/( 5/) ._1 3 | 4 6 6( 5) (break) | ._1/( 7/  ._1/ 5/ 6/ 7/) ._1/( ._2/) | ._1( 7) ._1 - |</melody>
+  <music>
+	<midiref type="h" num="117"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Seigneur Tu ressuscitas,
+Alléluia !
+Du Hadès Tu échappas,
+Alléluia !
+Ressuscités avec Lui,
+Alléluia !
+Louons le Prince de vie,
+Alléluia !</stanza>
+	<stanza type="verse" number="2">Notre Roi, le Christ vivant,
+Alléluia !
+A détruit la mort, Satan.
+Alléluia !
+Jésus-Christ a triomphé,
+Alléluia !
+Il a tout mis sous Ses pieds.
+Alléluia !</stanza>
+	<stanza type="verse" number="3">Les pécheurs sont rachetés,
+Alléluia !
+Anéanti le péché,
+Alléluia !
+De l'esclavage affranchis,
+Alléluia !
+Vivons maintenant par Lui !
+Alléluia !</stanza>
+	<stanza type="verse" number="4">Purs de cœur, forts en esprit,
+Alléluia !
+Nous voulons être bâtis,
+Alléluia !
+Dans la vie nous édifions,
+Alléluia !
+Pierres vives, Sa maison.
+Alléluia !</stanza>
+  </lyrics>
+</hymn>

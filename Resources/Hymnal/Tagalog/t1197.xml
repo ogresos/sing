@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Liwanag, ang Diyos nga sa Kanya'y walang dilim</title>
+  <index>true</index>
+  <category>PAGDARANAS SA DIYOS&amp;mdash;BILANG ILAW</category>
+  <numbers><chinese num="ts:444"/><dutch num="14"/><english num="1197"/><korean num="797"/><portuguese num="311"/><tagalog num="1197"/></numbers>
+  <music>
+    <midiref type="h" num="1197"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Liwanag, ang Diyos nga sa Kanya'y walang dilim!
+O manahan nawa sa presensya Niya!
+Sa liwanag tamasa'y paglilinis lagi -
+Sa 'ting sala!</stanza>
+    <stanza type="verse" number="">Sisters: Sa ilaw
+Brothers: Lumalakad -
+Sisters: Sal'muha
+Brothers:'Ting tamasa;
+Sisters: Ang dugo
+Brothers: Ng Anak
+Lahat: Hinugasan tayo.</stanza>
+    <stanza type="verse" number="">Sisters: Inamin
+Brothers: Siya ay tapat
+Sisters: 'Patawad -
+Brothers: Makatwiran.
+Sisters: Masaya!
+Brothers: Hugas na
+Lahat: Sa 'ting sala!</stanza>
+  </lyrics>
+</hymn>

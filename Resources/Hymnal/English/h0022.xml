@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Holy Father, we adore Thee</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Holiness</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>536176531123565</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | G - C - | F - C/E - | D7 - G - | C - Am - | B - G - | C F C/G - | G - C - |</chords>
+<guitarChords>| C - F - | F - C - | C - - - | D - G - | C - F - | F - C - | C - - - | G - C - |</guitarChords>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>Ho -- ly Fa -- ther, we a -- dore Thee, Rev -- 'rent song to Thee we raise; Thou art ho -- ly, Thou art loft -- y, "Ho -- ly is Thy Name," we praise.</singingstanza>
+  </layout>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0022.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="18">e0022_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Holy Father, we adore Thee,
+  Rev'rent song to Thee we raise;
+Thou art holy, Thou art lofty,
+  "Holy is Thy Name," we praise.</stanza>
+	<stanza type="verse" number="2">Loving is Thy heart, dear Father,
+  Righteous ever are Thy ways;
+But how holy is Thy nature,
+  Yet, to us Christ it conveys.</stanza>
+	<stanza type="verse" number="3">Thou hast ever sanctified us
+  With the blood of Christ our Lord;
+Thou hast separated sinners
+  Thru the truth which is Thy Word.</stanza>
+	<stanza type="verse" number="4">Thou hast, by Thy Holy Spirit,
+  Made us holy unto Thee;
+And our spirit, soul, and body
+  Wholly sanctified will be.</stanza>
+	<stanza type="verse" number="5">Oh! the holy life of Jesus
+  Thru Thy grace we now possess;
+Thou wilt make us e'en partakers
+  Of Thy very holiness.</stanza>
+	<stanza type="verse" number="6">When within that holy city,
+  Thy full holiness we'll share,
+To the uttermost forever,
+  "Thou art holy," we'll declare.</stanza>
+  </lyrics>
+</hymn>

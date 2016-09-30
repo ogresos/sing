@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Michael</firstname>
+  <lastname>Manzullo</lastname>
+  <email>mjmanzullo@gmail.com</email>
+  <password>$2y$10$AkrE/IB8qeqHyujok4Cx2.1wMHWPWVyd2M/DILNVNEZ4GUu5us6L2</password>
+  <gender>M</gender>
+  <country/>
+  <ipaddress>166.205.136.102</ipaddress>
+  <createdate>2010-08-22 14:00:03</createdate>
+  <lastupdateddate>2014-11-28 00:19:28</lastupdateddate>
+  <lastlogindate>2014-11-28 00:15:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="h" num="626">Olives that have known no pressure</fav>
+    <fav category="default" type="h" num="189">Thou art the Son beloved</fav>
+  </favourites>
+</user>

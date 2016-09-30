@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ben</firstname>
+  <lastname>Williams</lastname>
+  <email>ben.l.williams@gmail.com</email>
+  <password>$2y$10$BpHWl4dz0vSPIwh.4pMTkO3GgPMHIaIK8kIQ502sX0ynwfb99pPvK</password>
+  <gender/>
+  <country/>
+  <ipaddress>12.197.48.161</ipaddress>
+  <createdate>2015-12-07 14:08:31</createdate>
+  <lastupdateddate>2015-12-07 14:09:16</lastupdateddate>
+  <lastlogindate>2015-12-07 14:09:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

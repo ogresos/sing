@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Halleluja! Singt für Jesus</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Sieg</category>
+  <numbers><english num="125"/><german num="125"/><portuguese num="59"/><russian num="27"/><spanish num="60"/></numbers>
+  <creators>
+	<author biodate="1837-1898" biolink="">Translated from William Chatterton Dix</author>
+  </creators>
+  <key>G Major</key>
+  <melody>| 5_. 5_. 6_. 5_. | 3 2/( 3/) 2 1 | 7_. 6_. 1 6_. | 5_. 4_./( 5_./) 3_. - (break) | 5_. 5_. 6_. 5_. | 3 2/( 3/) 2 1 | 6_. 4 3 1 | 7_. 6_./( 7_./) 1 - (break) | 1 1 1 7_. | 6_. 7_./( 6_./) 5_.# 3_. | 3 3 4 3 | 2 2/( 3/) 2 - (break) | 5_. 5_. 6_. 5_. | 3 2/( 3/) 2 1 | 6_. 4 3 1 | 7_. 6_./( 7_./) 1 - |</melody>
+  <layout>
+	<singingstanza>Hal -- le -- lu -- ja! Singt für Je -- sus, Ihm das Zep -- ter, Ihm den Thron; Hal -- le -- lu -- ja! Groß der Sieg ist! Ihm ge -- bührt der höchs -- te Lohn. Hört! Der Lob -- preis der Er -- lös -- ten Gleicht dem Don -- nern ei -- ner Flut: Je -- sus hat aus al -- len Völ -- kern Uns er -- löst mit Sei -- nem Blut.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="5"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Halleluja! Singt für Jesus,
+Ihm das Zepter, Ihm den Thron;
+Halleluja! Groß der Sieg ist!
+Ihm gebührt der höchste Lohn.
+Hört! Der Lobpreis der Erlösten
+Gleicht dem Donnern einer Flut:
+Jesus hat aus allen Völkern
+Uns erlöst mit Seinem Blut.</stanza>
+	<stanza type="verse" number="2">Halleluja! Nicht als Waisen,
+Nicht in Sorgen liess Er sie;
+Halleluja! Nah ist Er uns,
+Glaube nimmt an, fragt nicht wie.
+Ihn nach vierzig Tagen nahmen
+Wolken auf in Herrlichkeit,
+Sein Versprechen uns ermutigt:
+„Ich bin bei euch allezeit.“</stanza>
+	<stanza type="verse" number="3">Halleluja! Brot vom Himmel
+Speist uns auf der Erde hier;
+Halleluja! Hunger stillst Du,
+Täglich kommen wir zu Dir.
+Ja, mein Anwalt und Fürsprecher,
+Mein Erlöser fleht für mich,
+Auf dem Thron des Allerhöchsten
+Sitzt Er jetzt und ewiglich.</stanza>
+	<stanza type="verse" number="4">Halleluja! Singt für Jesus,
+Ihm das Zepter, Ihm der Thron;
+Halleluja! Groß der Sieg ist!,
+Ihm gebührt der höchste Lohn.
+Hört! Der Lobpreis der Erlösten
+Gleicht dem Donnern einer Flut:
+Jesus hat aus allen Völkern
+Uns erlöst mit Seinem Blut.</stanza>
+  </lyrics>
+</hymn>

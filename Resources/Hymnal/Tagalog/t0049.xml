@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, Ika'y sambahin</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG BIYAYA SA PAGKA-ANAK</category>
+  <numbers><chinese num="42"/><english num="49"/><korean num="42"/><tagalog num="49"/></numbers>
+  <creators>
+    <author biodate="1834-1925" biolink="">Translated from Samuel Trevor Francis</author>
+  </creators>
+  <music>
+    <midiref type="h" num="49"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ama, Ika'y sambahin,
+Mapitagang harapin,
+Kristo'y tanging lakas nga,
+Ama, sambahin Ka.</stanza>
+    <stanza type="verse" number="2">Pag-ibig kay dakila,
+Akin nang namatay Siya,
+Pati kat'wiran, b'yaya,
+Ama, sambahin Ka!</stanza>
+    <stanza type="verse" number="3">May salang dating sukal,
+Ngayo'y anak may rangal
+Kay yaman ng biyaya,
+Ama, sambahin Ka!</stanza>
+    <stanza type="verse" number="4">Ngayo'y sa espiritu,
+Realidad si Kristo;
+'Samyong hain, taglay Niya,
+Ama, sambahin Ka!</stanza>
+    <stanza type="verse" number="5">Ihahandog kong muli,
+Malalim na papuri,
+Pag-ibig Mo'y dakila,
+Ama, sambahin Ka!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>No mais profundo deste nome Teu</title>
+  <index>true</index>
+  <category>Pelo Nome Do Senhor</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="671"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">No mais profundo deste nome Teu,
+Meu Deus, mergulho e moro em prazer;
+Mesmo que longo seja o dia meu
+E negra, a noite, podes me suster.</stanza>
+	<stanza type="verse" number="2">Todo-suficiente és, meu Deus,
+O que me falta, podes Tu criar;
+A Tua mão desfez a solidão
+Com Teu amor e Teu fiel cuidar.</stanza>
+	<stanza type="verse" number="3">Meu Deus, intrépido mais uma vez
+Lanço-me agora sobre o seio Teu,
+E no descanso que provém da fé,
+Por Teus caminhos Te adoro eu.</stanza>
+  </lyrics>
+</hymn>

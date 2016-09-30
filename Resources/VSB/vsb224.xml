@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, You promised Your return</title>
+  <index>true</index>
+  <category>Hope of Glory&amp;mdash;Longing and Praying</category>
+  <numbers><english num="ns:247"/><vsb num="224"/></numbers>
+  <hymncode>51431655143123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | F/C - - - | C - - - | F - - - | C - - - | F/C - - - | Am - - - | Am - - - | Em - - - | Em - - - | F - - - | F - - - | G - - - | G - - - | C - - - | F - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 5_. - - 1 | 4 3 1 6_. | 5_.( - - - | 5_.) - - - (break) | 5_. - - 1 | 4 3 1 2 | 3( - - - | 3) - - - (break) | 3( - - - | 3) 3 2 1 | 5( - - - | 5) 3 2 1 (break) | 6_. 1/ 1/( 1)( - | 1) - 1 1 | 6/( 5/)( 5/) 5/( 5)( - | 5) - 3 2/( 1/) (break) | 2/( 1/)( 1/) 1/( 1)( - | 1) - 1( 2) | 1( - - - | 1) - - - |</melody>
+  <layout>
+    <singingstanza>Lord, You prom -- ised Your re -- turn. Make us vir -- gins who are wise. Spread in all our being That we could be pre -- pared For Your com -- ing. Our dear Bride -- groom, Come soon.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0247.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, You promised Your return.
+Make us virgins who are wise.
+Spread in all our being
+That we could be prepared
+For Your coming.
+Our dear Bridegroom,
+Come soon.</stanza>
+    <stanza type="verse" number="2">Lord, You promised Your return.
+Make us lovers who are pure.
+Keep our heart for You;
+We would pursue You
+Together.
+Our Beloved,
+Come soon.</stanza>
+    <stanza type="verse" number="3">Lord, You promised Your return.
+Make us those who match Your heart.
+Capture every part
+Until we only live
+For Your coming.
+Precious Bridegroom,
+Come soon.</stanza>
+  </lyrics>
+</hymn>

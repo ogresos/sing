@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jim</firstname>
+<lastname>Dare</lastname>
+<email>jamesiicsca@juno.com</email>
+<password>$1$SFBmwAgX$7ynS9dQXkvlQ44fXA0G8..</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>68.1.94.104</ipaddress>
+<createdate>2008-10-18 19:28:17</createdate>
+<lastupdateddate>2009-09-15 18:26:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+        <fav category="default" type="h" num="372">Nothing between my soul and the Savior</fav>
+        <fav category="default" type="h" num="1346">Now unto the King eternal, immortal, invisible</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    </favourites>
+</user>

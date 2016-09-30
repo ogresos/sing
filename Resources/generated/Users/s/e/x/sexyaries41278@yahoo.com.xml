@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Dixon</firstname>
+    <lastname>Sherry</lastname>
+    <email>sexyaries41278@yahoo.com</email>
+    <password>B5y%2FGsKk8Up7Mp6rTEezlA%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>72.184.167.175</ipaddress>
+    <createdate>2012-01-14 21:06:43</createdate>
+    <lastupdateddate>2012-01-14 21:37:07</lastupdateddate>
+    <lastlogindate>2012-01-14 21:06:46</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+    </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Brian</firstname>
+  <lastname>Smith</lastname>
+  <email>bsmith@churchofscotland.org.uk</email>
+  <password>$2y$10$y6.wF0ImKh0LSn4dJOosJ.jqf6YBs3lBOHgreRqANVMWL4o5q.Ntq</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.131.146.59</ipaddress>
+  <createdate>2016-06-06 09:08:12</createdate>
+  <lastupdateddate>2016-08-15 09:11:43</lastupdateddate>
+  <lastlogindate>2016-08-15 09:11:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

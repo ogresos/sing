@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Sam</firstname>
+    <lastname>Neves</lastname>
+    <email>samneves@mac.com</email>
+    <password>YmEdkWEzczJjaNe38buw5A%3D%3D</password>
+    <gender>M</gender>
+    <country>uk</country>
+    <ipaddress>188.223.229.92</ipaddress>
+    <createdate>2012-01-05 04:57:30</createdate>
+    <lastupdateddate>2012-01-05 05:11:10</lastupdateddate>
+    <lastlogindate>2012-01-05 04:57:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    </favourites>
+</user>

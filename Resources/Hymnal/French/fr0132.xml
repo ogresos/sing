@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Si dans l'épreuve tu gémis</title>
+  <index>true</index>
+  <category>Le réconfort dans les tribulations&amp;mdash;grâce aux soins du Seigneur</category>
+  <numbers><chinese num="493"/><english num="694"/><french num="132"/><korean num="493"/><tagalog num="694"/></numbers>
+  <creators>
+    <author biodate="1866-1948" biolink="">Translated from Civilla Durfee Martin</author>
+  </creators>
+  <music>
+    <midiref type="h" num="694"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ne reste pas désemparé,
+Dieu prendra soin de toi.
+Viens sous Ses ailes t'abriter,
+Dieu prendra soin de toi.</stanza>
+    <stanza type="chorus" number="">Dieu prendra soin de toi,
+Sur ton parcours de chaque jour.
+Il prendra soin de toi,
+Dieu prendra soin de toi.</stanza>
+    <stanza type="verse" number="2">Ton cœur est lourd et accablé,
+Dieu prendra soin de toi.
+Par les dangers tu es cerné,
+Dieu prendra soin de toi.</stanza>
+    <stanza type="verse" number="3">Il comblera tous tes besoins,
+Dieu prendra soin de toi.
+Repose-toi entre Ses mains,
+Dieu prendra soin de toi.</stanza>
+    <stanza type="verse" number="4">Si tu es triste et sans ami,
+Dieu prendra soin de toi.
+Il met en paix ton cœur meurtri,
+Dieu prendra soin de toi.</stanza>
+    <stanza type="verse" number="5">Si dans l'épreuve tu gémis,
+Dieu prendra soin de toi.
+Si tu t'appuies toujours sur Lui,
+Dieu prendra soin de toi.</stanza>
+  </lyrics>
+</hymn>

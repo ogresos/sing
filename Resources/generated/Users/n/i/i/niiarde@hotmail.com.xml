@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Timothy</firstname>
+  <lastname>Arde-Acquah</lastname>
+  <email>niiarde@hotmail.com</email>
+  <password>iMSz6g102DG6yzl0gaMhZQ%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>69.207.94.219</ipaddress>
+  <createdate>2013-04-01 03:38:53</createdate>
+  <lastupdateddate>2016-02-25 13:41:52</lastupdateddate>
+  <lastlogindate>2016-02-25 13:41:52</lastlogindate>
+  <failedlogincount>6</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+    <fav category="default" type="h" num="125">Hallelujah! sing to Jesus</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="nt" num="723">He giveth more grace</fav>
+    <fav category="default" type="h" num="1052">I've wandered far away from God</fav>
+    <fav category="default" type="h" num="530">Jesus is all the world to me</fav>
+    <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+    <fav category="default" type="h" num="539">O Lord, Thou art in me as life</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+  </favourites>
+</user>

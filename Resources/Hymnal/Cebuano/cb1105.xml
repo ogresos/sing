@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang talad's atubangan ta</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="1105"/><chinese num="ts:622"/><english num="1105"/><german num="1105"/><russian num="207"/></numbers>
+  <melody>| ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2. ._2/ ._2 ._2 | ._4. ._3/ ._3( ._2) (break) | ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2 ._2 ._2/( ._4/) ._3/( ._2/) | ._1 7 ._1 - (break) | ._2. ._2/ ._2 ._2 | ._2. ._1/ ._1/( 7/) 7 | ._3. ._3/ ._3 ._3 | ._4. ._3/ ._3( ._2) (break) | ._1. ._1/ ._1 ._1 | ._3. ._2/ ._2/( ._1/) ._1 | ._2 ._2 ._2/( ._4/) ._3/( ._2/) | ._1 7 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="191"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang talad's atubangan ta,
+May tinapay ug kopa:
+Manlul'was naghulat nato,
+Nag-agda sa pagkaon.
+"Sa talad umari kamo,
+Magsalo ta's pagkaon";
+Talad kanato giandam,
+Uban N'ya kombirahan.</stanza>
+	<stanza type="verse" number="2">Nagkaon uban's Manlul'was,
+Nagsalo-salo kita;
+Hallelujah, hallelujah!
+Di matapos nga pista!
+Kaon-inom mi Kanimo
+Busog gyud mi kaayo.
+Nakatilaw's kombira Mo,
+Ambitan's Asawa Mo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I'm walking down the road</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;General</category>
+  <numbers><english num="ns:98"/><vsb num="87"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Tony Reimer">T. R.</author>
+    <composer biodate="" biolink="" fullname="Tony Reimer">T. R.</composer>
+  </creators>
+  <hymncode>111133556531</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>90</tempo>
+  <chords>| C - - - | C - F/C - | C - - - | C - Am - | Dm - G7 - | C - C7/E - | F - Fm - | C/G - G7 - | C - - - | C - C7 - | F - C - | C - Am - | Dm - G7 - | C - C7/E - | F - C - | C/E - G - | F - C - |</chords>
+  <melody>| 0 - 0/ (Chorus) 1/ 1// 1// 3// 3// | 5( - 5/) 5/ 6./ 5// | 3/ 1. 0/ 1/ 1// 1// 3// 3// | 5( - 5/) 3// 3// 4// 5./ | 5( - 5/) 5// 5// 6// 5./ | 3 - - 2./ 3// | 2/ 1.( 1/) 1/ 1// 1// 2// 1// | 3( - 3/) 5_.// 5_.// 7_.// 2./ (break) | 1 - - 0/ (Verse_1) 1// 1// | 3/ 3/( 3/) 3// 3// 2/ 1/( 1/) 1// 1// | 6_./ 1/ 2/ 1/ 3. 1// 1// | 3/ 3/( 3/) 3/ 2/ 1/( 1/) 1/ | 2/ 2/ 2/ 3/ 2. 1// 1// | 3/ 3/( 3/) 3/ 2/ 1/( 1/) 1/ | 4/ 4/ 5/ 4/ 3. 3/ | 5/ 5/ 5/ 1/ 2 3./ 2// | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I'm walk -- ing down the road That leads to glo -- ry. I'm press -- ing toward the mark By en -- joy -- ing God! I don't know so much, Just to love Him. I'm walk -- ing down the road, Glo -- ry, here I come. With the broth -- ers and the sis -- ters, We en -- joy Him day by day. It's so sim -- ple and eas -- y, Our wor -- ries flee a -- way. Now we're grow -- ing to -- geth -- er, As one big fam -- i -- ly, A -- bid -- ing in the joy of the Lord.</singingstanza>
+  </layout>
+  <date>1980/1981</date>
+  <links>
+    <link type="relevant" category="ns" num="80"></link>
+  </links>
+  <music>
+    <midi location="ns" length="44">ns0098.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">I'm walking down the road
+That leads to glory.
+I'm pressing toward the mark
+By enjoying God!
+I don't know so much,
+Just to love Him.
+I'm walking down the road,
+Glory, here I come.</stanza>
+    <stanza type="verse" number="1">With the brothers and the sisters,
+We enjoy Him day by day.
+It's so simple and easy,
+Our worries flee away.
+Now we're growing together,
+As one big family,
+Abiding in the joy of the Lord.</stanza>
+    <stanza type="verse" number="2">We enjoy You, Lord Jesus,
+In our experience.
+We're getting to know You&amp;mdash;
+It's making us leap and dance.
+Just eating and drinking,
+It's what we do the best,
+Delighting in the love of the Lord.</stanza>
+    <stanza type="verse" number="3">We're walking, not running,
+Cause we're in the pasture land.
+Our Shepherd is nearby,
+We're trusting in His hand.
+He's everything to us,
+He's all we ever need,
+Resting in the peace of the Lord.</stanza>
+  </lyrics>
+</hymn>

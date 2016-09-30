@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Babatunde</firstname>
+  <lastname>Gbadamosi</lastname>
+  <email>omomujidat@hotmail.com</email>
+  <password>$2y$10$XpHIokQa8kiHbke5M8DYH.ZDThy3.6QHaiSH9iIvAeycW/osE741y</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>69.157.38.9</ipaddress>
+  <createdate>2014-10-30 07:42:59</createdate>
+  <lastupdateddate>2014-10-30 08:12:30</lastupdateddate>
+  <lastlogindate>2014-10-30 07:46:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+  </favourites>
+</user>

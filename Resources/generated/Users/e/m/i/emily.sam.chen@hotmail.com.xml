@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sam</firstname>
+  <lastname>Chen</lastname>
+  <email>emily.sam.chen@hotmail.com</email>
+  <password>$2y$10$W9QBpfNZsqtxOCWYvdt.E.lgxXq4p0oR2TD8xI8K0aRRkx74/a5sW</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>49.183.60.203</ipaddress>
+  <createdate>2015-07-16 22:46:54</createdate>
+  <lastupdateddate>2015-07-16 22:47:45</lastupdateddate>
+  <lastlogindate>2015-07-16 22:47:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

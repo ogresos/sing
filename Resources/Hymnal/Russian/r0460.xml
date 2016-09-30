@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Я Тебя касаюсь верой</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;ОБЩЕНИЕ С НИМ</category>
+  <numbers><cebuano num="559"/><chinese num="412"/><english num="559"/><german num="559"/><korean num="412"/><russian num="460"/><tagalog num="559"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Bertha Fennell</author>
+  </creators>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Я Тебя касаюсь верой
+О Господь, исток всех благ.
+Очищаюсь Твоей кровью –
+И оправдан верой я.</stanza>
+	<stanza type="chorus" number="">Жизни Дух во мне пылает,
+Лишь касаюсь я Тебя.
+Я очищен, полон Духа,
+Твоё имя славлю я.</stanza>
+	<stanza type="verse" number="2">Лишь коснусь Тебя, приму я
+Изобилие Твоё;
+Всё во мне Тебе открыто,
+Всё в Тебе Ты мне даёшь.</stanza>
+	<stanza type="verse" number="3">Твоего касаюсь жезла,
+О могучий Царь царей;
+На крылах орла взмываю,
+Полноты приняв Твоей.</stanza>
+	<stanza type="verse" number="4">Ты даёшь мне мощь и мудрость,
+Добродетель, благодать.
+Дай всегда Тебя касаться,
+Пред лицом Твоим стоять.</stanza>
+  </lyrics>
+</hymn>

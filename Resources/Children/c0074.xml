@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>No Man Ever</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Divinity</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="">Traditional American melody</composer>
+  </creators>
+  <hymncode>3453231565576551</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | G7 - - - | C - - - | C - - - | C - - - | G7 - - - | C F/C C - ||</chords>
+  <melody>| 0 - - 3_../ 4_.// | 5_. 3 - 2./ 3// | 1 5_. - 6_../ 5_.// | 5_. 7_. - 6_../ 5_.// | 5_. 1 - 3_../ 4_.// | 5_. 3 - 2./ 3// | 1 5_. - 6_../( 5_.//) | 5_. 7_. - 6_../ 7_.// | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>No man ev -- er, spoke like Je -- sus; No man ev -- er, no man ev -- er; No man ev -- er, spoke like Je -- sus, John se -- ven, for -- ty- six.</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2007 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="16">c0074.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">No man ever, spoke like Jesus;
+No man ever, no man ever;
+No man ever, spoke like Jesus,
+John seven, forty-six.</stanza>
+    <stanza type="verse" number="2">Jesus said, I'm the Bread!
+Peace, be still! Bring the children.
+He declared, I'm the Shepherd,
+Stretch your hand out! You're forgiv'n!</stanza>
+    <stanza type="verse" number="3">Jesus said, I'm resurrection!
+I can give you living water!
+If you've seen Me, you've seen the Father!
+No man ever spoke like Him!</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2007 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The way of the Cross means sacrifice</title>
+  <index>true</index>
+  <category>The Way of the Cross&amp;mdash;The Way of Life</category>
+  <numbers><cebuano num="630"/><chinese num="462"/><english num="630"/><german num="630"/><korean num="462"/><russian num="422"/><spanish num="296"/><tagalog num="630"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Mary E. Maxwell</author>
+	<composer biodate="1865-1905" biolink="">Ada Rose Gibbs</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3333433211144123</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - Am - | F - - - | C - - - | G - F/A - | F - - - | C/E - F - | G - G7 - | C - F - | Dm - G - | E7 - Am - | E7 - - - | Dm - G - | E7 - Am - | F - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - C - | F - - - | C - - - | C - F - | F - - - | C - F - | G - G7 - | C - F - | Dm - G - | E7 - Am - | E7 - - - | Dm - G - | E7 - Am - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 3 | 3 3/ 3/ 4 3 | 3 2 1 1/ 1/ | 4 4 1 2 (break) | 3 - - 3/ 3/ | 3 2/ 1/ 4 6_./ 1/ | 1 7_. 6_. 6_. | 5_. 1/( 7_./) 6_. 6_. (break) | 2( - 5_.) (Chorus) 5_./ 5_./ | 1 2/ 3/ 6_. 6_./ 6_./ | 2 3/ 4/ 7_. 7_./ 7_./ | 3 7_./ 2/ 1 7_./ 6_./ (break) | 3 - - 3/ 3/ | 4 3/ 4/ 2 2 | 3 2/( 3/) 1 1 | 3 2/ 6_./ 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>The way of the Cross means sa -- cri -- fice, As to God you yield your all  To be laid on the al -- tar, the place of death, Where fire will  sure -- ly fall.  'Tis the way of the Cross, are you will -- ing for this? What does bear -- ing the Cross mean to you?  You who've giv -- en your -- self, your all to  God! To God are you whol -- ly true? </singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj218.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="39">e0630_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">The way of the Cross means sacrifice,
+  As to God you yield your all
+To be laid on the altar, the place of death,
+  Where fire will surely fall.</stanza>
+	<stanza type="chorus" number="">'Tis the way of the Cross, are you willing for this?
+  What does bearing the Cross mean to you?
+You who've given yourself, your all to God!
+    To God are you wholly true?</stanza>
+	<stanza type="verse" number="2">As the voice of song and prayer we raise,
+  How easy to say, We give all;
+Till some rougher cross lies just before,
+  And sterner is duty's call.</stanza>
+	<stanza type="verse" number="3">Do you falter then, or, true to death,
+  Just die on the cross in the way,
+Till the fulness of life from the Living One
+  Is filling you day by day?</stanza>
+	<stanza type="verse" number="4">'Tis the plan of life, for you die to live,
+  One with Jesus crucified;
+With the life alone to be lived through you,
+  Of the Risen, the Glorified.</stanza>
+  </lyrics>
+</hymn>

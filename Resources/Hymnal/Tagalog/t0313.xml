@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Biyayang kamangha-mangha</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;INILIGTAS NG BIYAYA</category>
+  <numbers><cebuano num="313"/><chinese num="247"/><english num="313"/><korean num="247"/><russian num="67"/><spanish num="154"/><tagalog num="313"/></numbers>
+  <creators>
+    <author biodate="1725-1807" biolink="">Translated from John Newton</author>
+  </creators>
+  <music>
+    <midiref type="h" num="313"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Biyayang kamangha-mangha,
+Sa aki'y nagligtas!
+'Ko'y nawala, hinanap Niya,
+Mata ko'y bumukas.</stanza>
+    <stanza type="verse" number="2">Puso ko ay pumayapa,
+Dahil sa biyaya;
+Kay inam nang masumpungan
+At mapanaligan!</stanza>
+    <stanza type="verse" number="3">Kay buti ng pangako Niya,
+Siya'y maaasahan;
+Bahagi't kalasag ko Siya
+Magpakailan pa man.</stanza>
+    <stanza type="verse" number="4">Pagsapit ng walang hanggan,
+L'walhating makislap,
+Diyos ay ating parangalan,
+Papuri'y maganap.</stanza>
+  </lyrics>
+</hymn>

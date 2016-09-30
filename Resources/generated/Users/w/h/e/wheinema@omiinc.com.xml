@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Wayne</firstname>
+    <lastname>Heinemann</lastname>
+    <email>wheinema@omiinc.com</email>
+    <password>rdou2Fbwky%2B6ycg34gwvXw%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>216.119.175.1</ipaddress>
+    <createdate>2009-09-25 11:30:49</createdate>
+    <lastupdateddate>2009-10-03 01:14:30</lastupdateddate>
+    <lastlogindate>2009-10-03 01:14:30</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+        <fav category="default" type="h" num="513">Once it was the blessing</fav>
+    </favourites>
+</user>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>歡喜聚集復活中</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:758"/><english num="1280"/></numbers>
+  <melody>| 3./ 2// 1./ 3// 5 ._1 | 7 - 6 - | 5./ 4#// 5./ 6// 5 3 | 2 - - - (break) | 4./ 3// 2./ 3// 4 5 | 3 - 5( 6) | 7./ 6#// 7./ ._1// 7 6 | 5 - - - (break) | (Chorus) 3./ 2// 1./ 2// 3 5 | 6 - 5 - | ._1./ 7// ._2./ ._1// 5 4# | 4 - - - (break) | 4./ 3// 2./ 3// 4 5 | 7 - 6 - | 5./ 4#// 5./ 6// 5 4 | 3 - - - (break) | 3./ 2// 1./ 2// 3 5 | 6 - 5 - | ._1./ 7// ._2./ ._1// 5 5# | 6 - - - (break) | ._1./ ._1// 7./ ._1// ._2 ._1 | ._3 - 5 - | 6./ 5#// 6./ 6#// 7 5 | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>藉 著 救 主 復 活 大 能， 我 們 已 成 祂 弟 兄─ 祂 心 所 愛， 復 活 所 生， 同 祂 得 勝， 同 高 升。 耶 穌 基 督， 滿 有 那 靈， 宗 教 之 外 神 顯 明； 死 而 復 活， 衝 破 幽 冥， 神 眾 子 中 作 長 兄。 作 祂 召 會， 我 們 聚 集， 老 套 規 條 已 全 棄； 長 兄 榮 面， 我 們 所 喜， 祂 作 中 心 和 目 的。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="1280"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">藉著救主復活大能，
+我們已成祂弟兄─
+祂心所愛，復活所生，
+同祂得勝，同高升。</stanza>
+	<stanza type="chorus" number="">耶穌基督，滿有那靈，
+宗教之外神顯明；
+死而復活，衝破幽冥，
+神眾子中作長兄。
+作祂召會，我們聚集，
+老套規條已全棄；
+長兄榮面，我們所喜，
+祂作中心和目的。</stanza>
+	<stanza type="verse" number="2">長兄復起，我們亦同，
+歡喜聚集復活中；
+天然生命，惟願消蹤，
+使主喜樂並得榮。</stanza>
+	<stanza type="verse" number="3">禱讀聖言，享受不已，
+天天遇見主自己；
+靈裏火熱，同來聚集，
+被主充滿且洋溢！</stanza>
+	<stanza type="verse" number="4">每逢聚集都是赴席，
+喫主喝主，樂無比；
+祂作活糧，無量供給，
+滋養、滿足且加力。</stanza>
+	<stanza type="verse" number="5">新鮮基督獻作“佳餚”，
+使主滿足、得榮耀；
+各人所獻儘管微小，
+卻叫眾人得建造。</stanza>
+	<stanza type="verse" number="6">聚會非為傳講道理，
+乃為與主同聚集；
+祂的同在有何能比？
+長兄榮美真無匹！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>C'est Ton nom : « Jésus », que j'aime –</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Son nom</category>
+  <numbers><cebuano num="73"/><chinese num="65"/><english num="73"/><french num="14"/><german num="73"/><korean num="65"/><russian num="20"/><spanish num="41"/><tagalog num="73"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 0 - - 5 4/ | 3.( 3) 3/ 3/( 2/) 3/ | 5. 4. 4 3/ | 2.( 2) 5/ 6/( 5/) 4/ (break) | 3.( 3.) 5 4/ | 3.( 3) 5/ 6/( ._1/) 6/ | 5. 3. 3 3/ | 2.( 2) 3/ 5/( 4/) 2/ | 1.( 1.) 0. |</melody>
+  <music>
+	<midiref type="h" num="73"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nom de gloire et de puissance !
+Mon abri, ma protection !
+Ô Jésus, que je T'adore !
+La victoire est dans Ton nom.</stanza>
+	<stanza type="verse" number="2">Nom puissant : Jésus, mon Sauveur !
+Tout mon bien je trouve en Lui.
+Respirant ce nom si tendre,
+Je reçois en moi la vie !</stanza>
+	<stanza type="verse" number="3">Nom béni et nom qui sauve,
+Sur la terre et dans les cieux !
+Les pécheurs que Tu rachètes,
+Sentent Son parfum précieux.</stanza>
+	<stanza type="verse" number="4">C'est Ton nom : « Jésus », que j'aime –
+Baume dans nos afflictions !
+En Ton nom est la victoire.
+Cher Seigneur nous T'attendons.</stanza>
+  </lyrics>
+</hymn>

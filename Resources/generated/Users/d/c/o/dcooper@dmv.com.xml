@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Donald</firstname>
+    <lastname>Cooper</lastname>
+    <email>dcooper@dmv.com</email>
+    <password>$1$ULEVbVZA$JytV6XL7F3zKG09zyrrVh.</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>72.84.133.87</ipaddress>
+    <createdate>2014-03-29 13:19:12</createdate>
+    <lastupdateddate>2014-03-29 13:19:12</lastupdateddate>
+    <lastlogindate>2014-03-28 23:51:37</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+        <fav category="default" type="h" num="974">He looked for a city and lived in a tent</fav>
+    </favourites>
+</user>

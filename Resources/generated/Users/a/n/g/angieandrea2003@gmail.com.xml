@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Angela</firstname>
+<lastname>Felix</lastname>
+<email>angieandrea2003@gmail.com</email>
+<password>$1$7.Jt/QWv$EdqMH684yc6djqKrKvsJZ1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>76.91.112.16</ipaddress>
+<createdate>2009-01-15 13:01:25</createdate>
+<lastupdateddate>2009-09-15 18:27:09</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    </favourites>
+</user>

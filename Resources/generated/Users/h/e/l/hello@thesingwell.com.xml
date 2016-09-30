@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>honeySings</firstname>
+  <lastname/>
+  <email>hello@thesingwell.com</email>
+  <password>$2y$10$zg4obpqMYbByHfg2RyjTGuW6uyunfILrmeRWjqfmblgYlLLZlMy4.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.80.69.252</ipaddress>
+  <createdate>2015-01-28 18:33:46</createdate>
+  <lastupdateddate>2015-01-28 18:36:26</lastupdateddate>
+  <lastlogindate>2015-01-28 18:35:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

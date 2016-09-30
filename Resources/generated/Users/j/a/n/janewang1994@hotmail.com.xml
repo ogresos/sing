@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jane</firstname>
+  <lastname>Wang</lastname>
+  <email>janewang1994@hotmail.com</email>
+  <password>$2y$10$pbfzFs20wMIwRy1GqZaG3uDHjWlO3In5.p7XshaNYMPFO2we4CS.e</password>
+  <gender>F</gender>
+  <country>bo</country>
+  <ipaddress>98.154.213.221</ipaddress>
+  <createdate>2014-03-30 19:20:49</createdate>
+  <lastupdateddate>2015-09-16 23:21:11</lastupdateddate>
+  <lastlogindate>2015-09-16 23:21:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="501">2 Tim. 2:22; 2 Cor. 3:16</fav>
+    <fav category="default" type="ns" num="378">A Life of No Regrets</fav>
+    <fav category="default" type="c" num="55">A dog has a welcome bark</fav>
+    <fav category="default" type="ns" num="134">A higher view</fav>
+    <fav category="default" type="nt" num="724">A little bird I am</fav>
+    <fav category="default" type="ns" num="101">All Things Work Together for Good</fav>
+    <fav category="default" type="h" num="854">All the saints of Christ are</fav>
+    <fav category="default" type="h" num="676">All thy griefs by Him are ordered</fav>
+    <fav category="default" type="ns" num="477">As the living Father has sent Me</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="ns" num="318">But to Him who is able to do superabundantly</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="ns" num="351">Deep Within I know You're My Only Love</fav>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+    <fav category="default" type="ns" num="302">Draw me, dear Lord</fav>
+    <fav category="default" type="ns" num="105">Fallen, that's the way we all begin</fav>
+    <fav category="default" type="h" num="33">Father, long before creation</fav>
+    <fav category="default" type="nt" num="33">Father, long before creation</fav>
+    <fav category="default" type="ns" num="340">Fill My Cup, Lord</fav>
+    <fav category="default" type="ns" num="328">Follow the Lamb</fav>
+    <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+    <fav category="default" type="h" num="1191">From my spirit within flows a fountain of life</fav>
+    <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="h" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="ns" num="3">God has a dream</fav>
+    <fav category="default" type="h" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="ns" num="115">Good morning, Lord Jesus</fav>
+    <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="nt" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="1155">How I love Thee, precious Jesus</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="339">How firm a foundation, ye saints of the Lord</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="h" num="156">I have a Friend, whose faithful love</fav>
+    <fav category="default" type="ns" num="453">I have set before you life and death</fav>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="ns" num="299">I'm so attracted by Your love</fav>
+    <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+    <fav category="default" type="ns" num="98">I'm walking down the road</fav>
+    <fav category="default" type="ns" num="37">I've got a river of life flowing within me</fav>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+    <fav category="default" type="ns" num="191">If you are hungry, come to the feast</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="h" num="770">In the holiest place</fav>
+    <fav category="default" type="ns" num="74">Jesus, O living Word of God</fav>
+    <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    <fav category="default" type="h" num="727">Light after darkness</fav>
+    <fav category="default" type="ns" num="42">Lord, I love You more today</fav>
+    <fav category="default" type="ns" num="129">Lord, You are Beloved</fav>
+    <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+    <fav category="default" type="ns" num="247">Lord, You promised Your return</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+    <fav category="default" type="ns" num="175">Lord, there's always been one person</fav>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    <fav category="default" type="ns" num="307">Morning Dew</fav>
+    <fav category="default" type="h" num="383">My stubborn will at last hath yielded</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="h" num="1238">Never did I dream before</fav>
+    <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+    <fav category="default" type="ns" num="205">Nothing can content me more</fav>
+    <fav category="default" type="h" num="1233">O home in the church</fav>
+    <fav category="default" type="h" num="152">O how deep and how far-reaching</fav>
+    <fav category="default" type="h" num="717">O let us rejoice in the Lord evermore</fav>
+    <fav category="default" type="ns" num="104">O that Christ may make His home</fav>
+    <fav category="default" type="ns" num="26">O the joy of having nothing</fav>
+    <fav category="default" type="ns" num="391">Oh how sweet it is just to know my Christ</fav>
+    <fav category="default" type="h" num="846">Oh, may my spirit flow</fav>
+    <fav category="default" type="h" num="1327">Once I thirsted for a fountain</fav>
+    <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    <fav category="default" type="ns" num="382">Ordinary Days</fav>
+    <fav category="default" type="ns" num="379">Preserve me, O God</fav>
+    <fav category="default" type="h" num="1248">Recall how David swore</fav>
+    <fav category="default" type="ns" num="179">Recall how David swore</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="ns" num="518">Simon, son of John</fav>
+    <fav category="default" type="h" num="569">Simply trusting every day</fav>
+    <fav category="default" type="ns" num="192">Some, these days, would tell us that our Jesus is not food</fav>
+    <fav category="default" type="lb" num="69">Someone</fav>
+    <fav category="default" type="ns" num="480">Stone-ify me for Your building</fav>
+    <fav category="default" type="ns" num="396">Take me Lord, and fill me with Your dear Self</fav>
+    <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+    <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    <fav category="default" type="h" num="1341">Therefore the redeemed of the Lord shall return</fav>
+    <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+    <fav category="default" type="ns" num="384">Things which eye has not seen</fav>
+    <fav category="default" type="h" num="1338">This is My rest forever</fav>
+    <fav category="default" type="ns" num="301">Thou art my Beloved, the most lovely Beloved</fav>
+    <fav category="default" type="h" num="1334">Thou hast turned my mourning into dancing for me</fav>
+    <fav category="default" type="ns" num="143">To You, dear Lord</fav>
+    <fav category="default" type="ns" num="393">Triune God, We Love You</fav>
+    <fav category="default" type="h" num="1162">We've found the secret of living</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="1336">What shall I give unto the Lord</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+    <fav category="default" type="h" num="1337">When the Lord turned again the captivity of Zion</fav>
+    <fav category="default" type="ns" num="402">Where is the House</fav>
+    <fav category="default" type="ns" num="49">Whispers from above</fav>
+    <fav category="default" type="ts" num="503">回耶路撒冷</fav>
+    <fav category="default" type="ts" num="501">基督乃是殿，城，與地</fav>
+    <fav category="default" type="ch" num="248">恩典彀我用</fav>
+    <fav category="default" type="ch" num="259">惟知道我所信的</fav>
+    <fav category="default" type="ts" num="504">我已揀選了錫安</fav>
+    <fav category="default" type="ts" num="505">歌唱到來錫安</fav>
+    <fav category="default" type="ns" num="158c">沉浸祢愛裡</fav>
+    <fav category="default" type="ts" num="506">當周遊錫安</fav>
+    <fav category="default" type="ts" num="502">神將被擄的帶回錫安</fav>
+  </favourites>
+</user>

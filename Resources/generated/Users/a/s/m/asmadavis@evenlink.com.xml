@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mary Ann</firstname>
+  <lastname>Davis</lastname>
+  <email>asmadavis@evenlink.com</email>
+  <password>$2y$10$jwQwd4eiRfivFSJWGkOVRO9GxKDqNta1B3QGK6nxQMXKr1F9.mhu2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.111.47.26</ipaddress>
+  <createdate>2014-12-23 01:09:00</createdate>
+  <lastupdateddate>2015-03-10 02:00:41</lastupdateddate>
+  <lastlogindate>2015-02-25 15:42:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

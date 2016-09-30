@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sanjay</firstname>
+  <lastname>Ellis</lastname>
+  <email>sanjayellis@gmail.com</email>
+  <password>$2y$10$rjhFVXUxYOhgytTnTPj3dOZ8ggMxMTU6NjH702N7.2TPiHCrIg3da</password>
+  <gender/>
+  <country>jm</country>
+  <ipaddress>66.54.118.120</ipaddress>
+  <createdate>2015-02-04 18:24:39</createdate>
+  <lastupdateddate>2015-02-04 18:53:03</lastupdateddate>
+  <lastlogindate>2015-02-04 18:40:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Call, call, won't you call Jesus' name</title>
+  <index>false</index>
+  <category>Encouragement&amp;mdash;For Experiencing Christ as Life</category>
+  <numbers><english num="ns:55"/><vsb num="23"/></numbers>
+  <hymncode>54443212</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - F - | C/G - G - | C - G7/D - | C/E F G - | C/E - G7/D - | C - G - | Am - - - | G - - - | Dm7 - G7 - | C F/C C - |</chords>
+  <melody>| 5 - 4 4/ 4/ | 3/ 2/ 1/ 2/( 2.) 5_./ | 5/ 5/ 5/ 5/ 4 4/ 4/ | 3/ 2/ 1/ 2/( 2.) 5_./ | 5/ 5/ 5/ 4/( 4) 4/ 4/ | 3/ 2/ 1/ 2/( 2) 3/ 2/ | 1/ 1/ 1/ 1/ 1/ 7_./ 6_./ 2/( | 2) - - 2/ 3/ | 4/ 4/ 4/ 4/ 4/ 3/ 2/ 1/( | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Call, call, won't you call Je -- sus' name; He's ev -- ery -- thing that's real, and He's al -- ways the same. Get out of your mind, get your spir -- it in gear, That's the way to get to Je -- sus from here. That's the way to get to Je -- sus from here.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="20">ns0055.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Call, call, won't you call Jesus' name;
+He's everything that's real, and He's always the same.
+Get out of your mind, get your spirit in gear,
+That's the way to get to Jesus from here.
+That's the way to get to Jesus from here.</stanza>
+    <stanza type="verse" number="2">Life, Life, O the issue is Life.
+Living isn't worth it if you haven't got Life.
+So drop all your concepts, they're killing you dead,
+   And touch the living Jesus instead.
+   And touch the living Jesus instead.</stanza>
+    <stanza type="verse" number="3">God, God, O you gave us your Son,
+He died for us and rose again; the victory He won!
+And now He lives within us, new life has begun.
+   O we praise You, Lord, it all has been done.
+   O we praise You, Lord, it all has been done.</stanza>
+  </lyrics>
+</hymn>

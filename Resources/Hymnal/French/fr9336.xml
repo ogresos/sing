@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que dois-je rendre au Seigneur</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="1336"/><french num="9336"/><german num="1336"/><russian num="187"/></numbers>
+  <melody>| 0 3 3 3 | 4 4 5. 4/ | 3.( 2/ 1)( - | 1) - - - (break) | 0 1 1 - | 0 2 2 - | 0 3 3 3 | 4 - 3 - | 2( - - - | 2) - - - (break) | 0 3 3 3 | 4 4 5.( 4/) | 3.( 2/) 1( - | 1) - - - (break) | 0 1 1 - | 0 2 2 - | 0 3 3 3 | 4. 3/ 2 - | [2/4] 2. 5/ | [4/4] 3( - - - | 3) - - - |</melody>
+  <links>
+	<link type="ref">Psalms 116:12-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1336"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Que dois-je rendre au Seigneur
+Pour tout, pour tout ce qu'il
+A fait pour moi ?
+Je prends la coupe du salut
+Appelle, appelle, appelle
+Encore le nom 
+Du Seigneur.</stanza>
+  </lyrics>
+</hymn>

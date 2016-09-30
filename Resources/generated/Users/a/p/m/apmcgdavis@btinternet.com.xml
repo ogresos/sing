@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Audrey </firstname>
+  <lastname>McGilvery-Davis</lastname>
+  <email>apmcgdavis@btinternet.com</email>
+  <password>$2y$10$SbVI61sIuyk/wAIBqLzNDeTVDJfLDWlVycPuWDIEwORKxbveUJgtW</password>
+  <gender/>
+  <country/>
+  <ipaddress>86.138.86.61</ipaddress>
+  <createdate>2016-03-03 17:02:10</createdate>
+  <lastupdateddate>2016-03-03 17:09:47</lastupdateddate>
+  <lastlogindate>2016-03-03 17:05:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1078">One sat alone beside the highway begging</fav>
+  </favourites>
+</user>

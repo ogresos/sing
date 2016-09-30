@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Eddie</firstname>
+  <lastname>Broadwell</lastname>
+  <email>eddie.broadwell@gmail.com</email>
+  <password>$2y$10$VTmwLRc20GrwVZVYjH1YOewFlm5F07NWVHn7hHA9RogWF7LehDYqK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.109.246.18</ipaddress>
+  <createdate>2016-03-31 23:55:21</createdate>
+  <lastupdateddate>2016-04-08 03:35:21</lastupdateddate>
+  <lastlogindate>2016-04-08 03:35:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

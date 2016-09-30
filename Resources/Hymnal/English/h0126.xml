@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>To Thee, dear Lord, O Christ of God</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Victory</category>
+  <numbers><chinese num="108"/><english num="126"/><korean num="108"/><tagalog num="126"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anne Ross Cousin</author>
+    <composer biodate="1852-?" biolink="">Henry James Ernest Holmes</composer>
+  </creators>
+  <meter>8.6.8.6.D.</meter>
+  <hymncode>3435123216531232</hymncode>
+  <key>Eb Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C/E - - | F - G | C - - | F - C/E | Am - - | G - - | C - G/B | Am - - | D - - | Em - - | C - Am | G/D - D | G - - | G/F - - | C/E - - | F - C/E | Dm - - | C - - | F - - | C/G - - | G - - | G/F - - | C/E - - | A7 - - | Dm - - | C/E - Dm/F | C/G - G7 | C - F/C | C - 0 |</chords>
+  <melody>| 3 4 3 | 5 - 1 | 2( 3) 2 | 1 - - | 6 5 3 | 1( 2) 3 | 2 - - (break) | 3 3 3 | 3 - 3 | 4#( 3) 4# | 5 - - | 7 6 3 | 5 - 4# | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - - | 3 2# 3 | 5( 4) 2 | 1( - - | 7_.) - - (break) | 2 3 2 | 1 - 5 | 5( 4) 3 | 4 - - | 3 3 2 | 1 - 7_. | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>To Thee, dear Lord, O Christ of God, We sing, we ev -- er sing; For Thou hast shed Thy pre -- cious blood Our cup of joy to bring. Thy might -- y arm the fight hath fought, Thou art en -- throned a -- bove; We in -- to glo -- ry will be brought Thy won -- drous grace to prove.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj160.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="46">e0126_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">To Thee, dear Lord, O Christ of God,
+  We sing, we ever sing;
+For Thou hast shed Thy precious blood
+  Our cup of joy to bring.
+Thy mighty arm the fight hath fought,
+  Thou art enthroned above;
+We into glory will be brought
+  Thy wondrous grace to prove.</stanza>
+    <stanza type="verse" number="2">To Thee, dear Lord, O Christ of God,
+  We sing, we ever sing;
+Thou hast invaded death's abode
+  And robbed him of his sting.
+The house of dust enthralls no more,
+  For Thou, the strong to save,
+Thyself doth guard that silent door,
+  Great Keeper of the grave.</stanza>
+    <stanza type="verse" number="3">To Thee, dear Lord, O Christ of God,
+  We sing, we ever sing;
+For Thou hast crushed beneath Thy rod
+  The world's proud rebel king,
+And plunged in Thine imperial strength
+  To gulfs of darkness down,
+And brought Thy trophy up at length
+  The foiled usurper's crown.</stanza>
+    <stanza type="verse" number="4">To Thee, dear Lord, O Christ of God,
+  We sing, we ever sing;
+Thou hast redeemed us with Thy blood
+  From every evil thing.
+God's saving strength Thine arm upbore,
+  The arm that set us free;
+Glory, O Christ, for evermore
+  Be to Thy God and Thee.</stanza>
+  </lyrics>
+</hymn>

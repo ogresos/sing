@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Norma Kay</firstname>
+  <lastname>adams</lastname>
+  <email>bettyboop19502010@gmail.com</email>
+  <password>$2y$10$StPgQDaraWNXAppqsLGOPuJ3Y3otmrczJk0dzLQbAjva8dKkXz5dy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.198.79.37</ipaddress>
+  <createdate>2016-03-30 17:05:48</createdate>
+  <lastupdateddate>2016-03-30 17:21:47</lastupdateddate>
+  <lastlogindate>2016-03-30 17:06:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

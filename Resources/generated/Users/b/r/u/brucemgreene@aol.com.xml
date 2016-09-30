@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bruce</firstname>
+  <lastname>Greene</lastname>
+  <email>brucemgreene@aol.com</email>
+  <password>$2y$10$kx4a7HYeT0lsfD1tWY5oTu0Ay0EHUzqzwtA3ABkTYP8AgR/saQw82</password>
+  <gender/>
+  <country/>
+  <ipaddress>71.65.201.115</ipaddress>
+  <createdate>2015-10-07 13:31:44</createdate>
+  <lastupdateddate>2015-10-07 13:42:03</lastupdateddate>
+  <lastlogindate>2015-10-07 13:42:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

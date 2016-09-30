@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ has become one with sinners</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Redemption</category>
+  <numbers><cebuano num="998"/><chinese num="683"/><english num="998"/><french num="195"/><german num="998"/><korean num="683"/><portuguese num="445"/><russian num="162"/><spanish num="463"/><tagalog num="998"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="" biolink="">Anonymous</composer>
+  </creators>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>5653513132267651</hymncode>
+  <key>A Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C. C/E. | Dm. G7. | C. F/C. | C. G/B. | Am. C/G. | F. G7. | C - - | C. C/E. | F. Dm. | C/E. Am. | G. G7/B. | C. C/E. | Dm/F. D7/F#. | G. G7. | C F/C/ C. |</chords>
+  <guitarChords>| C - - | C - - | G. G7. | C. C. | C - - | C - - | G. G7. | C - - | C - - | F - - | C - - | G. G7. | C - - | F. D7. | G. G7. | C F/ C. |</guitarChords>
+  <melody>| 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 0/ (break) | 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 5/ (break) | 5 5/ 3/( 4/) 5/ | 6.( 6) 6/ | 5 ._1/ ._1/( 7/) ._1/ | ._2.( ._2) ._1/ (break) | ._3 ._3/ ._4 ._3/ | ._2 6/ ._2 ._1/ | 7 ._1/ 7/( 6/) 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>Christ has be -- come one with sin -- ners, Shar -- ing in all of our liv -- ing; Cru -- ci -- fied ev -- en for sin -- ners, Glo -- ri -- ous life to us giv -- ing. Christ Je -- sus came for us, Christ Je -- sus died for us; O yes, for us, for us, for us. Christ came and died for us.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj104.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0998.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="41">e0998_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Christ has become one with sinners,
+Sharing in all of our living;
+Crucified even for sinners,
+Glorious life to us giving.</stanza>
+	<stanza type="chorus" number="">Christ Jesus came for us,
+Christ Jesus died for us;
+O yes, for us, for us, for us.
+  Christ came and died for us.</stanza>
+  </lyrics>
+</hymn>

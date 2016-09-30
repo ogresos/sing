@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>叩門叩門誰在外</title>
+  <index>true</index>
+  <category>福音－主的叩門</category>
+  <meter>7.7.8.7.8.7.</meter>
+  <hymncode>3333543222243212323453</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>叩 門， 叩 門， 誰 在 外？ 等 著， 等 著， 何 忍 耐！ 遠 來 佳 客 君 尊 氣 概， 生 平 未 見 這 丰 采； 我 的 心 阿， 既 感 奇 哉， 何 不 立 即 把 門 開？</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0710_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">叩門，叩門，誰在外？
+等著，等著，何忍耐！
+遠來佳客君尊氣概，
+生平未見這丰采；
+我的心阿，既感奇哉，
+何不立即把門開？</stanza>
+	<stanza type="verse" number="2">叩門，叩門，還在外！
+等著，等著，真忍耐！
+但是這門還是難開，
+因有蔓草和藤艾，
+重重纏塞，層層阻礙，
+金已生銹，木已壞。</stanza>
+	<stanza type="verse" number="3">叩門，叩門，仍在外！
+等著，等著，太忍耐！
+被釘之手連叩不怠，
+荊棘冠冕似仍戴，
+目中仍露請求之愛，
+原是救主等門開。</stanza>
+  </lyrics>
+</hymn>

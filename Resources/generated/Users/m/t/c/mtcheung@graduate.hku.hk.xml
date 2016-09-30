@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Man Tai</firstname>
+<lastname>Cheung</lastname>
+<email>mtcheung@graduate.hku.hk</email>
+<password>$1$d4pOE21h$oj7UtvyDs9zMsLi6YRBog/</password>
+<gender>M</gender>
+<country>Hong Kong</country>
+<ipaddress>203.218.221.246</ipaddress>
+<createdate>2009-02-24 23:08:26</createdate>
+<lastupdateddate>2009-09-15 18:29:35</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+    </favourites>
+</user>

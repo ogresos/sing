@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>angel</firstname>
+    <lastname></lastname>
+    <email>la6estrada@gmail.com</email>
+    <password>UYJeXBwd9yCd5J0NEbXhJQ%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>69.136.44.155</ipaddress>
+    <createdate>2013-01-26 08:21:59</createdate>
+    <lastupdateddate>2013-02-09 08:35:09</lastupdateddate>
+    <lastlogindate>2013-02-09 08:35:09</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="33">Father, long before creation</fav>
+        <fav category="default" type="h" num="84">Hark! the herald angels sing</fav>
+        <fav category="default" type="h" num="631">If I'd know Christ's risen power</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+    </favourites>
+</user>

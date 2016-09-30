@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Trust in the Lord</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Trusting the Lord</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Alethia Kang">A. K.</author>
+    <composer biodate="" biolink="" fullname="Alethia Kang">A. K.</composer>
+  </creators>
+  <hymncode>5534555311234433213212</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>90</tempo>
+  <chords>| C - - - | Em - Am - | Dm - C/E F | C/G - G - | C - - - | Em - Am - | Dm - - - | G - - - | F - - - | Em - - - | F - G7/F - | C/E - C - | Dm - - - | C/E - - - | F - - - | G - - - | C - - - | Em - - - | C - G/B - | Am - C/G - | Dm - C/E F | C/G - G7 - | F/C - - - | C - - - |</chords>
+  <melody>| 5/ 5/ 3/ 4/( 4/) 5 5/ | 5 3/ 1/( 1/) 1/ 2/ 3/ | 4/ 4 3/ 3/ 2 1/ | 3.( 2// 1//) 2 - (break) | 5/ 3/ 4/ 5/( 5.) 5/ | 5 3/ 1/( 1) 2/ 3/ | 4( - 4/) 3/ 2/ 1/ | 2 - - 6/ 7/ (break) | ._1 - - ._1/ ._1/ | 7/ 5.( 5) 0/ 3/ | 6/ 6/ 6/ 6/( 6/) 5/ 4 | 5 - - 2/ 3/ (break) | 4/ 4/ 4( 4) 5/ 6/ | 5/ 3.( 3) 2/ 3/ | 4/ 3/ 2( 2) 1 | 2 - 0/ 5/ 6/ 7/ (break) | ._1/ ._1.( ._1) ._1 | 7/ 5.( 5) 3 | 5 5/ 5/( 5/) 5/( 6) | 1 - - 2/( 3/) (break) | 4/ 4 3/ 3/ 2 1/ | 3/ 2.( 2) 1/( 7_./) | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Trust in Je -- ho -- vah with all your heart, Do not re -- ly on your own un -- der -- stand -- ing. In all your ways ac -- knowl -- edge Him, And He will make your paths straight. O the depth of the rich -- es And wis -- dom and knowl -- edge of God! How un -- search -- a -- ble are His judg -- ments And un -- trace -- a -- ble His ways! Be -- cause out from Him and through Him And to Him are all things. To Him be the glo -- ry for -- ev -- er. A -- men.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="ns" num="34"></link>
+    <link type="relevant" category="nt" num="711"></link>
+    <link type="ref">Proverbs 3:5-6</link>
+    <link type="ref">Romans 11:33</link>
+    <link type="ref">Romans 11:36</link>
+  </links>
+  <music>
+    <midi location="ns" length="64">ns0073.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Trust in Jehovah with all your heart,
+Do not rely on your own understanding.
+In all your ways acknowledge Him,
+And He will make your paths straight.
+O the depth of the riches
+And wisdom and knowledge of God!
+How unsearchable are His judgments
+And untraceable His ways!
+Because out from Him and through Him
+And to Him are all things.
+To Him be the glory forever. Amen.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主你沒有一句為我</title>
+  <index>true</index>
+  <category>讀經－尋求主的話</category>
+  <numbers><chinese num="584"/><english num="810"/><korean num="584"/><tagalog num="810"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from C. L. Hamlen</author>
+  </creators>
+  <melody>| 3 3 3 | 4 - 3 | 2 - 2 | 2 - - | 5 5 4 | 3 - ._1 | ._1( 7) 6 | 5 - - (break) | 5 6 5 | ._1 - 7 | 7( 6) 5 | 4 - 3 | 2 - 1 | 4 - 3 | 2( 6_.) 7_. | 1 - - |</melody>
+  <layout>
+	<singingstanza>主， 你 沒 有 一 句 為 我？ 使 我 更 能 向 你 信 託， 使 我 更 能 離 開 喜 欲， 一 句， 我 主， 求 賜 一 句。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="205"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主，你沒有一句為我？
+使我更能向你信託，
+使我更能離開喜欲，
+一句，我主，求賜一句。</stanza>
+	<stanza type="verse" number="2">一句來顯我的軟弱，
+當我欣賞自己工作；
+我空勞碌，我空歎吁，
+一句，我主，求賜一句。</stanza>
+	<stanza type="verse" number="3">一句來示你的相親，
+因你乃是住在我心，
+你的生命我也同豫，
+一句，我主，求賜一句。</stanza>
+	<stanza type="verse" number="4">一句，求將有力應許 
+顯在許多畏懼、罣慮，
+你微而清所說話語，
+一句，我主，求賜一句。</stanza>
+	<stanza type="verse" number="5">一句最終得勝呼喊，
+得你應許甘甜盤桓，
+與你永遠快樂同居，
+一句，我主，求賜一句。</stanza>
+  </lyrics>
+</hymn>

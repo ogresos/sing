@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Amy</firstname>
+    <lastname></lastname>
+    <email>coffeegurl1986@aol.com</email>
+    <password>V%2FMn2wiRANeyCvoG6PfS%2BA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.19.237.130</ipaddress>
+    <createdate>2013-07-19 12:14:20</createdate>
+    <lastupdateddate>2013-07-19 12:16:24</lastupdateddate>
+    <lastlogindate>2013-07-19 12:14:29</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="929">Out in the highways and byways of life</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    </favourites>
+</user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Sharon</firstname>
+<lastname>Reeder</lastname>
+<email>sharonr777@msn.com</email>
+<password>$1$diAOJWAn$vvB..gpKKHiumx3zJ3tdM/</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>74.192.3.163</ipaddress>
+<createdate>2009-01-10 23:42:06</createdate>
+<lastupdateddate>2009-09-15 18:27:08</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+        <fav category="default" type="h" num="9">Glory be to God the Father</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="598">All fair within those children of the light</fav>
+        <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+        <fav category="default" type="h" num="85">O come, all ye faithful! joyfully triumphant</fav>
+    </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>何等的享受</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>32123555611</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>何 等 的 享 受， 我 活 在 祂 家 中， 召 會 生 活 何 等 甘 甜。 呼 吸 祂 的 聖 名， 喫 喝 祂 話 語， 為 著 祂 的 榮 耀 恢 復。 行 走， 我 們 今 行 走 在 生 命 的 光 中， 生 活， 我 們 是 生 活 在 神 的 召 會 中。 祂 愛 保 守 我， 祂 光 照 亮 我， 肢 體 相 愛 一 同 被 建 造。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0722.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何等的享受，
+我活在祂家中，
+召會生活何等甘甜。
+呼吸祂的聖名，
+喫喝祂話語，
+為著祂的榮耀恢復。
+行走，我們今行走
+在生命的光中，
+生活，我們是生活在
+神的召會中。
+祂愛保守我，
+祂光照亮我，
+肢體相愛一同被建造。</stanza>
+  </lyrics>
+</hymn>

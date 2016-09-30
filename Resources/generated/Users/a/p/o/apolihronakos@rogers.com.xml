@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Arlene</firstname>
+    <lastname></lastname>
+    <email>apolihronakos@rogers.com</email>
+    <password>nolwvoA9QAnfskDndh0WKA%3D%3D</password>
+    <gender></gender>
+    <country>Canada</country>
+    <ipaddress>99.233.153.24</ipaddress>
+    <createdate>2013-06-07 15:47:39</createdate>
+    <lastupdateddate>2013-10-20 14:28:36</lastupdateddate>
+    <lastlogindate>2013-10-20 13:57:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    </favourites>
+</user>

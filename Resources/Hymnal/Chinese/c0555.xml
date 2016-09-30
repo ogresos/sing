@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>在此我們同禱告</title>
+  <index>true</index>
+  <category>禱告－在至聖所裡</category>
+  <numbers><cebuano num="772"/><chinese num="555"/><english num="772"/><german num="772"/><korean num="555"/><russian num="324"/><tagalog num="772"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 5 6 5 | 5. 4/ 3 - | ._1 7 6 5 | 3 1 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - (break) | (Chorus) 1 4 3 4 | 7b 6 5 - | 6 6 7 ._1 | 4 3 2 - (break) | 3 5 6 5 | 5. 4/ 3 - | 3 4 3 2 | 3. 2/ 1 - |</melody>
+  <layout>
+	<singingstanza>主 阿， 我 們 今 聚 集， 同 心 禱 告 尋 求 你； 我 們 乃 是 祭 司 體， 要 在 你 前 同 侍 立。 在 此 我 們 同 禱 告， 學 習 摸 著 你 上 好， 直 到 靈 裡 能 相 調， 使 你 召 會 得 建 造。</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="772"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">主阿，我們今聚集，
+同心禱告尋求你；
+我們乃是祭司體，
+要在你前同侍立。</stanza>
+	<stanza type="chorus" number="">在此我們同禱告，
+學習摸著你上好，
+直到靈裡能相調，
+使你召會得建造。</stanza>
+	<stanza type="verse" number="2">切願前來作祭司，
+在你面前供聖職，
+用靈來摸你意旨，
+讓你完成你設施。</stanza>
+	<stanza type="verse" number="3">我們進到至聖所，
+摸你施恩的寶座，
+隨著靈感向你說，
+讓你靈裡多經過。</stanza>
+	<stanza type="verse" number="4">從你施恩的寶座，
+流出恩惠的江河，
+流到我靈滋潤我，
+應時幫助我得著。</stanza>
+	<stanza type="verse" number="5">但願我們的禱告，
+就是你靈的發表；
+不隨己意來求討，
+只照你意向你要。</stanza>
+	<stanza type="verse" number="6">雖有許多的事務，
+需要向你來求訴，
+卻願你能有出路，
+過於我們蒙眷顧。</stanza>
+	<stanza type="verse" number="7">我們仰望你聖垂，
+多賜生命的活水；
+我們飽嘗你恩惠，
+就能讓你有作為。</stanza>
+  </lyrics>
+</hymn>

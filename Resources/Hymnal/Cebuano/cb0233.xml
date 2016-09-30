@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Katingad-an nga misteryo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="233"/><chinese num="177"/><english num="233"/><german num="233"/><korean num="177"/><portuguese num="126"/><russian num="47"/><spanish num="103"/><tagalog num="233"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 3./ 4// 5. 5/ | 6 7 ._1. 5/ | ._1 5 4/( 3/) 2/( 1/) | 4 3 2. 2/ (break) | 5 6 7. ._1/ | ._2/( ._1/) 7/( 6/) 5. 5/ | 5 ._1 2 4 | 3 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="88"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Katingad-an nga misteryo,
+Ikaw nahiusa nako,
+Ikaw nia's akong sulod,
+Ako naa sa sulod Mo!</stanza>
+	<stanza type="verse" number="2">Gihatag ang Imong lawas,
+Aron makaambit Nimo;
+Kanako dugo giula,
+Aron magawas sa sala.</stanza>
+	<stanza type="verse" number="3">Pinaagi's pagkabanhaw
+Nahimo Kang Espiritu;
+Aron mapuno ko Nimo,
+Maako ang kadato Mo.</stanza>
+	<stanza type="verse" number="4">Nakita namo pag-usab
+Ang gugma Mo ning simbolo;
+Magpasalamat's plano Mo,
+Kasakit Mo palandongon.</stanza>
+	<stanza type="verse" number="5">Nagpa'mulos' katam-is Mo,
+Sa pagkaon ug pag-inom;
+Dawaton Ka's espiritu,
+Kami mokaon Kanimo.</stanza>
+	<stanza type="verse" number="6">Nangandoy mi nga labi pang
+Mokaon-inom Kanimo;
+Hangtud mapuno mi Nimo,
+Paghandom gyud kana namo.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Uns ist geborn ein Kind</title>
+  <index>true</index>
+  <category>LOBPREIS DES HERRN&amp;mdash;Sein Name</category>
+  <numbers><cebuano num="1085"/><chinese num="ts:227"/><english num="1085"/><french num="16"/><german num="1085"/><korean num="789"/></numbers>
+  <melody>| 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - (break) | 5 5. 4/ | 4/ 3/ 3 - | 3 2 3 | 2 - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - (break) | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - - (break) | 2 2 3 | 4 2 - | 3 3 4 | 5 3 - (break) | 4# 4# 4# | 5 - 6 | 5( - - | 5) - - (break) | 3 3. 3/ | 2/ 1/ 1 - | 4 4. 3/ | 3/ 2/ 2 - (break) | 5 5. 4/ | 4/ 3/ 3 - | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Uns ist ge -- born ein Kind, Sehr die -- ser Sohn uns dient;  Auf Sei -- nen Nam -- en sinnt: Je -- sus, mein Herr, Rat -- ge -- ber, star -- ker Gott, Ihn E -- wig- -- Va -- ter nennt; Als Frie -- de -- fürst Ihn kennt, Je -- sus mein Herr. Lob -- preist den Schöp -- fer, Uns -- ren Er -- lö -- ser, Le -- ben schenkt Er als Geist. Auf Got -- tes Geist nun sinnt, Bis Er das Herz ge -- winnt; Gna -- de im Na -- men find, Je -- sus mein Herr.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Isaiah 9:6</link>
+  </links>
+  <music>
+	<midiref type="h" num="1085"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="">Uns ist geborn ein Kind,
+Sehr dieser Sohn uns dient; 
+Auf Seinen Namen sinnt:
+Jesus, mein Herr,
+Ratgeber, starker Gott,
+Ihn Ewig-Vater nennt;
+Als Friedefürst Ihn kennt,
+Jesus mein Herr.
+Lobpreist den Schöpfer,
+Unsren Erlöser,
+Leben schenkt Er als Geist.
+Auf Gottes Geist nun sinnt,
+Bis Er das Herz gewinnt;
+Gnade im Namen find,
+Jesus mein Herr.</stanza>
+  </lyrics>
+</hymn>

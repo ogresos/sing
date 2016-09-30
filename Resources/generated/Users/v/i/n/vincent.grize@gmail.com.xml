@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Vincent</firstname>
+  <lastname>Grize</lastname>
+  <email>vincent.grize@gmail.com</email>
+  <password>$2y$10$zgYXbqRuWDaXDGWSuLbLCegBBVEJ/S19cw7vGp4dQESCG7PYALvAi</password>
+  <gender>M</gender>
+  <country>Switzerland</country>
+  <ipaddress>217.192.142.2</ipaddress>
+  <createdate>2008-07-26 01:43:27</createdate>
+  <lastupdateddate>2016-03-14 18:07:01</lastupdateddate>
+  <lastlogindate>2016-03-14 18:07:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+    <fav category="default" type="h" num="325">All my life long I had panted</fav>
+    <fav category="default" type="nt" num="1049">Drawn to the Cross which Thou hast blest</fav>
+    <fav category="default" type="ns" num="127">He grew up like a tender plant</fav>
+    <fav category="default" type="ns" num="50">He tells me, guard thy heart</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="ns" num="142">In nothing be anxious</fav>
+    <fav category="default" type="ns" num="156">Lord, I love You, I desire You</fav>
+    <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+    <fav category="default" type="ns" num="280">Lord, make me to know mine end</fav>
+    <fav category="default" type="ns" num="95">May my day be full of Christ</fav>
+    <fav category="default" type="ns" num="25">O Lord, I love You, I really love You</fav>
+    <fav category="default" type="h" num="687">O Thou, in whose presence my soul takes delight</fav>
+    <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+    <fav category="default" type="ns" num="276">Rise up, my love</fav>
+    <fav category="default" type="ns" num="52">Sweet, sweet repose</fav>
+    <fav category="default" type="h" num="561">Thou hast said Thou art the Vine, Lord</fav>
+    <fav category="default" type="h" num="1210">Through God's word, my hope at His returning</fav>
+    <fav category="default" type="ns" num="106">Until He comes again</fav>
+  </favourites>
+</user>

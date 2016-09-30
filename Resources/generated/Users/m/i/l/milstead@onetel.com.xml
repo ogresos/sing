@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tony</firstname>
+  <lastname>Brown</lastname>
+  <email>milstead@onetel.com</email>
+  <password>$2y$10$Lf8WlO/19gVRjaBMCmyDk.8Kqk2ZzsEypOM7RDWQq8xcg9q8wCT5y</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>85.210.134.182</ipaddress>
+  <createdate>2016-04-24 06:47:11</createdate>
+  <lastupdateddate>2016-04-24 06:50:31</lastupdateddate>
+  <lastlogindate>2016-04-24 06:50:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

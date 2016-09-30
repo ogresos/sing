@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mike</firstname>
+  <lastname>Bledsoe</lastname>
+  <email>mmgmbleds@gmail.com</email>
+  <password>$2y$10$5e/7obwvzET.QOy6Q4KD1.OD6gW8GmUpnS2joq1gQsVSLnndK2TV.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.184.100.64</ipaddress>
+  <createdate>2014-08-05 23:41:53</createdate>
+  <lastupdateddate>2014-08-05 23:59:28</lastupdateddate>
+  <lastlogindate>2014-08-05 23:59:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

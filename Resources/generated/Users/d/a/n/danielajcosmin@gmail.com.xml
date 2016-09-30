@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Daniela</firstname>
+    <lastname></lastname>
+    <email>danielajcosmin@gmail.com</email>
+    <password>FDYseFQQme%2FbFLoqVj%2FTBg%3D%3D</password>
+    <gender></gender>
+    <country>Romania</country>
+    <ipaddress>79.116.149.140</ipaddress>
+    <createdate>2014-03-28 18:12:09</createdate>
+    <lastupdateddate>2014-03-28 18:12:09</lastupdateddate>
+    <lastlogindate>2014-03-28 18:08:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    </favourites>
+</user>

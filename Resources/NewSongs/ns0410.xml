@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But unto you who fear My name</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>51234231234321322</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G/B - | Am - C/G - | F - Dm7 - | G7 - - - | C - G/B - | Am - - - | F - - - | G7 - - - | C - - - | G7 - - - | F - - - | C - - - | Am - - - | C/G - - - | F - - - | C - - - | Am - - - | G7 - - - | C - G/B - | Am - C/G - | F - Dm7 - | G7 - - - | C - G/B - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 - 0/ 5_./ 1/ 2/ | 3 4/ 2/( 2/) 3 1/( | 1) - - 2/ 3/ | 4 3/ 2/( 2/) 1 3/( | 3/) 2/ 2( 2) 1/( 2/) | 3 4/ 2/( 2/) 3 1/( | 1) - - 2/( 3/) | 4( - 4/) 3 2/( | 2) - 3/( 4) 5/( | 5)( - - - (break) | 5) - 0/ 5/ ._1/ 7/ | 6/( 5) 5/( 5.) 3/ | 6/ 5/ 5( 5/) 3 2/( | 2/) 3 1/( 1)( - | 1) - 0/ 5/ ._1/ 7/ | 6/( 5) 5/( 5.) 3/ | 6/ 5/ 5( 5/) 3 2/( | 2/) 3 1/( 1)( - (break) | 1) - 0/ 5_./ 1/ 2/ | 3 4/ 2/( 2/) 3 1/( | 1) - - 2/ 3/ | 4 3/ 2/( 2/) 1 3/( | 3/) 2/ 2( 2) 1/( 2/) | 3 4/ 2/( 2/) 3 1/( | 1) - - 2/( 3/) | 4( - 4/) 3 2/( | 2)( - 2/) 1/( 7_./) 1/( | 1)( - - - | 1) - 0 - ||</melody>
+  <layout>
+    <singingstanza end="-1">But un -- to you who fear My name will the Sun of right -- eous -- ness a -- rise with heal -- ing in His wings, with heal -- ing in His wings, and you will go forth and leap a -- bout like well -- fed calves, and you will go forth and leap a -- bout like well -- fed calves. But un -- to you who fear My name will the Sun of right -- eous -- ness a -- rise with heal -- ing in His wings, with heal -- ing in His wings.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Malachi 4:2</link>
+  </links>
+  <music>
+    <midi location="ns" length="75">ns0410.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But unto you who fear My name
+Will the Sun of righteousness arise
+With healing in His wings,
+With healing in His wings.</stanza>
+    <stanza type="verse" number="">And you will go forth and leap about
+    like well-fed calves,
+And you will go forth and leap about
+    like well-fed calves.</stanza>
+    <stanza type="verse" number="">But unto you who fear My name
+Will the Sun of righteousness arise
+With healing in His wings,
+With healing in His wings.</stanza>
+  </lyrics>
+</hymn>

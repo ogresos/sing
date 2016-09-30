@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Leonardo</firstname>
+<lastname>Freire</lastname>
+<email>leodfreire@hotmail.com</email>
+<password>$1$IZcD.88F$cwisKXF0FnnyNGzeBRiq3/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>201.27.44.73</ipaddress>
+<createdate>2008-08-15 15:22:03</createdate>
+<lastupdateddate>2009-09-15 18:25:37</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="40">Lord, how long</fav>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="lb" num="50">Zion</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+        <fav category="default" type="lb" num="69">Someone</fav>
+        <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+    </favourites>
+</user>

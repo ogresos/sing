@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Нет выше имени «Иисус»</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ИМЯ</category>
+  <numbers><cebuano num="72"/><chinese num="69"/><english num="72"/><korean num="69"/><russian num="343"/><tagalog num="72"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 0 - - - 5_. - | 1 1 2 - 2 - | 3 2 1 - 2 - | 3 3 4 - 3 - | 2 - - - 5 - (break) | 5 3 3 - 1 - | 1 6_. 6_. - 1( 6_.) | 5_. 1 1 - 2 - | 1 - - - 0 - |</melody>
+  <music>
+    <midiref type="h" num="72"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Нет выше имени «Иисус»
+От ада до небес.
+Пред ним пал ангел, человек,
+Умчался в страхе бес.</stanza>
+    <stanza type="verse" number="2">То имя грешникам дано
+И дорого для них.
+Оно уносит страх вины,
+Несёт небесный мир.</stanza>
+    <stanza type="verse" number="3">Иисус свободу всем несёт,
+Главу врага крушит;
+Он силу немощным даёт
+И мёртвым жизнь дарит.</stanza>
+    <stanza type="verse" number="4">О, пусть вкусит, увидит мир
+Его всю благодать!
+Любовь, обнявшая меня,
+Так жаждет всех обнять.</stanza>
+    <stanza type="verse" number="5">Спасенье – истина Его,
+Он праведность моя;
+«Смотри: вот Агнец!» – всем вокруг
+Провозглашаю я.</stanza>
+  </lyrics>
+</hymn>

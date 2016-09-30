@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Lin-En</firstname>
+    <lastname>Chen</lastname>
+    <email>lc1991katie@hotmail.com</email>
+    <password>ScAnrx7x5OBHBqtPiNZMtA%3D%3D</password>
+    <gender>F</gender>
+    <country>nz</country>
+    <ipaddress>203.114.142.215</ipaddress>
+    <createdate>2010-09-28 00:51:01</createdate>
+    <lastupdateddate>2010-10-03 07:02:30</lastupdateddate>
+    <lastlogindate>2010-09-28 00:51:03</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="724">A little bird I am</fav>
+        <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+        <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    </favourites>
+</user>

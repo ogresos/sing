@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Donna</firstname>
+<lastname>Chua</lastname>
+<email>lovedbyjesus@gmail.com</email>
+<password>$1$f/S.cP6N$4sJU/.qnMlQU2NZpmvokG1</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>202.163.204.223</ipaddress>
+<createdate>2008-07-26 01:43:12</createdate>
+<lastupdateddate>2009-09-15 18:22:12</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="371">I need Thee every hour</fav>
+        <fav category="default" type="h" num="585">He leadeth me! O blessed thought</fav>
+        <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="137">All hail the pow'r of Jesus' name (Short)</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+    </favourites>
+</user>

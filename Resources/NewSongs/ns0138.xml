@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>What things were gains to me</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <numbers><english num="ns:138"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Catharine Lailson Little">C. L. L.</author>
+    <composer biodate="" biolink="" fullname="Catharine Lailson Little">C. L. L.</composer>
+  </creators>
+  <hymncode>3334321111122</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - Am - | F - G - | C - Am - | F - G - | C - Am - | F - G - | C - Am - | F - G7 - | C - G - | C - Am - | F - G - | C - G - | C - G - | C - Am - | F - G - | G7 - C - |</chords>
+  <melody>| 3/ 3/( 3/) 3/ 4/ 3/ 2/( 1/) | 1/ 1/( 1/) 1/ 1/ 2/ 2 | 3/ 3/( 3/) 3/ 4/ 3/ 2/( 1/) | 1/ 1/( 1/) 5/ 5 - (break) | 3/ 3/( 3/) 3/ 4/ 3/ 2/( 1/) | 1/ 1/( 1/) 1/ 1/ 2/ 2 | 3/ 3/( 3/) 3/ 4/ 3/ 2/ 1/ | 1 1 1 - (break) | (Chorus) 1/ 1/( 1/) 5/ 5 - | 3/ 3/( 3/) 3/ 4/ 3/ 2/ 1/ | 1/ 1/( 1/) 6_./ 5_.. 5_./ | 3/ 3/( 3/) 5/ 6 5 (break) | 1/ 1/( 1/) 5/ 5 - | 3/ 3/( 3/) 3/ 4/ 3/ 2/ 1/ | 1/ 1/( 1/) 6_./ 5_.. 5_./ | 3/ 3/( 3/) 2/ 1 - |</melody>
+  <layout>
+    <singingstanza>What things were gains to me, These I now count as loss. Je -- sus has set me free From what I was! All of the things I had; Ev -- ery -- thing, good or bad, I count as re -- fuse That I may gain Christ! I won't give up! I will keep run -- ning un -- til I have at -- tained The goal of my call -- ing! I must press on! I must pur -- sue un -- til I lay hold of Him Who laid hold of me!</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="lb" num="41"></link>
+    <link type="ref">Philippians 3:7-8</link>
+    <link type="ref">Philippians 3:12-15</link>
+  </links>
+  <music>
+    <midi location="ns" length="34">ns0138.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">What things were gains to me,
+These I now count as loss.
+Jesus has set me free
+From what I was!
+All of the things I had;
+Everything, good or bad,
+I count as refuse
+That I may gain Christ!</stanza>
+    <stanza type="chorus" number="">I won't give up!
+I will keep running until
+I have attained
+The goal of my calling!
+I must press on!
+I must pursue until
+I lay hold of Him
+Who laid hold of me!</stanza>
+    <stanza type="verse" number="2">Forget the things behind!
+Stretch for the things before!
+Press onward with this mind:
+Always want more!
+Seeking in Him to grow,
+Increasingly to know
+Him that I daily might
+Be found in Christ.</stanza>
+  </lyrics>
+</hymn>

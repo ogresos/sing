@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sharon</firstname>
+  <lastname>Smith</lastname>
+  <email>sharon.d.40@btinternet.com</email>
+  <password>$2y$10$4y21ay2hSPjFXlAOANIeiumo8aFDqVkMFmo8g/3ZfB3mVVp2PuiaW</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>188.220.232.155</ipaddress>
+  <createdate>2014-10-18 15:55:15</createdate>
+  <lastupdateddate>2014-10-25 18:09:10</lastupdateddate>
+  <lastlogindate>2014-10-25 16:00:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="544">Lord Jesus, I love Thee, I know Thou art mine</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+  </favourites>
+</user>

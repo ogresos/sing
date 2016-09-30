@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>進入我心</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <numbers><cebuano num="1134"/><chinese num="ts:446"/><english num="1134"/><french num="72"/><german num="1134"/><russian num="458"/><spanish num="182"/></numbers>
+  <melody>| 0 - - 0 - 1 | 3. 3/ 3 3 2 1 | 1 - - 7_. - 2 | 4. 4/ 4 4( 3) 2 (break) | 3( - - 3) - 3 | 5. 5/ 5 5 5 5 | 5 - - 4 - 3 | 2. 2/ 2 4# - 2 | 5( - - 5) - 0 (break) | (Chorus) 3. 3/ 3 1 - - | 3. 3/ 3 1 - 3 | 5. 4/ 3 2 - 4 | 4 - - 3 - 5 (break) | 6 - 6 5 - 1 | 4 - 4 3 - 5_. | 6_. 7_. 1 4 - 3 | 2 - - 1 - 0 |</melody>
+  <layout>
+	<singingstanza>用 你 大 能 將 我 加 強， 主， 使 我 進 入 全 人 深 處， 使 我 靈 剛 強、 我 心 順 服， 讓 你 能 安 家 無 阻。 進 入 我 心！ 進 入 我 心！ 來 安 家 我 心， 主 耶 穌！ 滿 帶 豐 富， 恩 主， 請 進！ 來 安 家 我 心， 主 耶 穌！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1061"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">用你大能將我加強，
+主，使我進入全人深處，
+使我靈剛強、我心順服，
+讓你能安家無阻。</stanza>
+	<stanza type="chorus" number="">進入我心！進入我心！
+來安家我心，主耶穌！
+滿帶豐富，恩主，請進！
+來安家我心，主耶穌！</stanza>
+	<stanza type="verse" number="2">在我心房開展，主耶穌，
+你的安家是我所慕；
+從我靈中向外開展，
+主，佔有我全心各部。</stanza>
+	<stanza type="verse" number="3">來安家我心中，主耶穌，
+使我全心成你住處；
+願你充滿，顯明你豐足，
+來安家我心，恩主。</stanza>
+	<stanza type="verse" number="4">你必運行，充盈成就，主，
+超我所想、所能求訴；
+我今敞開，切求主進入，
+現在就進來居住。</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Onward Christian soldiers</title>
+  <index>true</index>
+  <category>Spiritual Warfare&amp;mdash;Marching On</category>
+  <numbers><cebuano num="871"/><chinese num="633"/><english num="871"/><french num="166"/><german num="871"/><korean num="633"/><portuguese num="413"/><spanish num="394"/><tagalog num="871"/></numbers>
+  <creators>
+	<author biodate="1834-1924" biolink="">Sabine Baring-Gould</author>
+	<composer biodate="1842-1900" biolink="">Arthur Seymour Sullivan</composer>
+  </creators>
+  <meter>6.5.6.5.D. with chorus.</meter>
+  <hymncode>555556522123</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F - | Em - Am - | Dm - G7 - | C - - - | C - G/B - | Am - Am/C - | D - D7/F# - | G - - - | G - G/B - | C - - - | C/E - C - | F - - - | F - - - | F - - - | F - D7/F# - | G - G7 - | C - - - | G/B - - - | G7 - - - | C - - - | C/E - G7/D - | Em - Am - | F - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | D - - - | D - D7 - | G - - - | G - - - | C - - - | C - - - | F - - - | F - - - | F - - - | F - - - | G - G7 - | C - - - | G - - - | G7 - - - | C - - - | C - G7 - | C - - - | F - G7 - | C F C - |</guitarChords>
+  <melody>| 5 5 5 5 | 5.( 6/) 5 - | 2 2 1 2 | 3 - - - | 1 3 5 ._1 | ._1 - 7 - | 6 6 3 4# | 5 - - - (break) | 2 2 5 2 | 3.( 4/) 3 - | 5 5 ._1 5 | 6 - - - | 6 5 4 5 | 6( 5) 4( 5) | 6 5 4 3 | 2 - - - (break) | (Chorus) 1 1 1 1 | 1( 7_./)( 6_./) 7_.( 1) | 2 2 2 1/( 2/) | 3 - - - | 5 5 ._1 7 | ._1 - 5 - | 4 3 2. 1/ | (.1 - - - |</melody>
+  <layout>
+	<singingstanza>On -- ward Christ -- ian sol -- diers! March -- ing as to war, With the cross of Je -- sus Go -- ing on be -- fore. Christ, the ro -- yal Mas -- ter, Leads a -- gainst the foe; For -- ward in -- to bat -- tle, See, His ban -- ners go! On -- ward, Christ -- ian sol -- diers! March -- ing as to war, With the cross of Je -- sus, Go -- ing on be -- fore.</singingstanza>
+	<globalstaffsize>16</globalstaffsize>
+	<topmargin>0.25</topmargin>
+	<bottommargin>0.25</bottommargin>
+	<columns>2</columns>
+  </layout>
+  <copyright>Used by permission of J. Curwen &amp; Sons. Ltd.</copyright>
+  <links>
+	<link type="group">hymnal-subj187.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="47">e0871_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Onward Christian soldiers!
+  Marching as to war,
+With the cross of Jesus
+  Going on before.
+Christ, the royal Master,
+  Leads against the foe;
+Forward into battle,
+  See, His banners go!</stanza>
+	<stanza type="chorus" number="">Onward, Christian soldiers!
+  Marching as to war,
+With the cross of Jesus,
+    Going on before.</stanza>
+	<stanza type="verse" number="2">At the name of Jesus
+  Satan's host doth flee;
+On then, Christian soldiers,
+  On to victory!
+Hell's foundations quiver
+  At the shout of praise:
+Brothers, lift your voices,
+  Loud your anthems raise!</stanza>
+	<stanza type="verse" number="3">Like a mighty army
+  Moves the Church of God:
+Brothers, we are treading
+  Where the saints have trod;
+We are not divided,
+  All one Body we&amp;mdash;
+One in faith and Spirit,
+  One eternally.</stanza>
+	<stanza type="verse" number="4">Crowns and thrones may perish,
+  Kingdoms rise and wane;
+But the Church of Jesus
+  Constant will remain.
+Gates of hell can never
+  'Gainst the Church prevail;
+We have Christ's own promise,
+  Which can never fail.</stanza>
+	<stanza type="verse" number="5">Onward, then, ye people!
+  Join our happy throng;
+Blend with ours your voices
+  In the triumph song.
+Glory, laud and honor
+  Unto Christ, the King;
+This through countless ages
+  Men and angels sing.</stanza>
+  </lyrics>
+</hymn>

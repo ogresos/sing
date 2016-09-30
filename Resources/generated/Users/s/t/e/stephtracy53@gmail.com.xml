@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Stephanie</firstname>
+  <lastname/>
+  <email>stephtracy53@gmail.com</email>
+  <password>$2y$10$JPtJPH4ayRV611wOos1oLuQACzEONfWbBMmpVIBxmt1g0juDByk.S</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.72.214.111</ipaddress>
+  <createdate>2016-05-11 11:47:48</createdate>
+  <lastupdateddate>2016-08-02 12:02:24</lastupdateddate>
+  <lastlogindate>2016-08-02 12:02:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="353">I need Jesus, my need I now confess</fav>
+    <fav category="default" type="h" num="709">Jesus triumphant when the storm-clouds break</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="1076">O teach me what it meaneth</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

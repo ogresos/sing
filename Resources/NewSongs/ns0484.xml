@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>For in Him dwells</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:484"/><lsmyp num="337"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Matthew Fritz">M. F.</composer>
+  </creators>
+  <hymncode>4565323431456532343</hymncode>
+  <key>Eb Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - F. | C - - G7. | C - - F. | C - - G7. | C - - C. | F - - F. | C - - G7. | C - - G7. | C - - C. ||</chords>
+  <melody>| 0. 0. 4/ 5/ 6/ | 5.( 3.) 2/( 3/) 4/ (break) | 3. 1. 4/( 5/) 6/ | 5. 3. 2/( 3/) 4/ (break) | 3.( 3.) 3/ 3/ 3/ | 4. 6. 6/ 5/ 4/ (break) | 5. 3. 2/ 2/ 2/ | 3.( 3.) 2/ 2/ 2/ | 1.( 1.) 0. ||</melody>
+  <layout>
+    <singingstanza end="-1">For in Him dwells all the full -- ness of the God -- head bod -- i -- ly, For of His full -- ness we have all re -- ceived, grace up -- on grace, grace up -- on grace.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Colossians 2:9</link>
+    <link type="ref">John 1:16</link>
+  </links>
+  <music>
+      <midi location="ns" length="21">ns0484.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">For in Him dwells
+All the fullness
+Of the Godhead
+Bodily,</stanza>
+    <stanza type="verse" number="">For of His fullness
+We have all received,
+Grace upon grace,
+Grace upon grace.</stanza>
+  </lyrics>
+</hymn>

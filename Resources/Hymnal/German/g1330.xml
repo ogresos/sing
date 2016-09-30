@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>„Alles ist fertig“, komm nun zum Fest</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Allgemein</category>
+  <numbers><cebuano num="1330"/><chinese num="ts:834"/><english num="1330"/><french num="212"/><german num="1330"/><korean num="799"/><tagalog num="1330"/></numbers>
+  <creators>
+	<author biodate="1856-1932" biolink="">Translated from Charles Hutchinson Gabriel</author>
+  </creators>
+  <melody>| 5 5./ 5// 6/ 5 0/ | ._3 ._2./ ._2// ._1 - | ._1 6./ 7// ._1./ ._1// 7./ 6// (break) | 5 - - 5 | 5 ._2 ._2 7/( 6/) | 5 ._1 ._1 ._3 | ._2 7 ._2 ._1 | 7( - 6) - (break) | (Chorus) 5( - 5./) 5// 6./ 7// | ._1 - 5 ._1 | ._2( - ._2./) ._2// ._1./ ._2// (break) | ._3 - - ._1 | ._1( - ._1./) ._1// 7./ 6// | 5 - ._1 ._1 | ._3. ._1/ ._2/ ._2. | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>„Al -- les ist fer -- tig“, komm nun zum Fest! Komm, denn der Tisch steht schon be -- reit; Wer hung -- rig und er -- schöpft ist, komm, Er -- fährst Zu -- frie -- den -- heit. Hört, ihr seid will -- kom -- men, Komm, wer auch im -- mer will; Gott ret -- tet so voll -- kom -- men, Komm, wer auch im -- mer will.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1330"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">„Alles ist fertig“, komm nun zum Fest!
+Komm, denn der Tisch steht schon bereit;
+Wer hungrig und erschöpft ist, komm,
+Erfährst Zufriedenheit.</stanza>
+	<stanza type="chorus" number="">Hört, ihr seid willkommen,
+Komm, wer auch immer will;
+Gott rettet so vollkommen,
+Komm, wer auch immer will.</stanza>
+	<stanza type="verse" number="2">„Alles ist fertig“, komm nun zum Fest!
+Komm, offen steht die Türe weit;
+Ein Ehrenplatz beim Meister ist
+Für jeden Menschen bereit.</stanza>
+	<stanza type="verse" number="3">„Alles ist fertig“, komm nun zum Fest!
+Komm, bist willkommen und geliebt;
+Verspät dich nicht, dies ist dein Tag,
+Wer weiss, ob's das Morgen gibt?</stanza>
+	<stanza type="verse" number="4">„Alles ist fertig“, komm nun zum Fest!
+Ehrgeiz und Sorgen doch weg wink;
+Komm, Gottes Christus feste nun,
+Sein ewiges Leben trink.</stanza>
+  </lyrics>
+</hymn>

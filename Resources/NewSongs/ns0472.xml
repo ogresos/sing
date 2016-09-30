@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wild Rose of Sharon</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <hymncode>512332126571222216165</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - - - | Dm - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | Dm - - - | C/G - - - | G7 - - - | C - F/C - | C - - - | C - - - | C - - - | Dm - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | C7 - - - | F - - - | Dm - - - | C/G - - - | G7 - - - | C - F/C - | C - - - ||</chords>
+  <melody>| 0 5_. 1 2 | 3 - - - | 0 3 2. 1/ | 2 - 6_. - (break) | 0 5_. 7_. 1 | 2 - - - | 0 2 2/ 2/ 1/ 6_./ | 1.( 6_./) 5_. - (break) | 0 5_. 1 2 | 3 - - - | 0 1 3 5 | 4( - 3) - (break) | 2 4 4 4 | 3/ 1.( 1) - | 0 5_. 7_. 2 | 1 - - - (break) | 0 5_../ 5_.// 1 2 | 3 - - - | 0 3 2. 1/ | 2( - 6_.) - (break) | 0 5_. 7_. 1 | 2 - - - | 0 2 1( 1/) 6_./ | 1( - 5_.) - (break) | 0 5_../ 5_.// 1 2 | 3 - - - | 0 1 3 5 | 4( - 3)( - (break) | 2) 4./ 4// 4 4 | 3 - - - | 0 5_. 7_../ 7_.// 2 | 1( - - - | 1) 0 - - ||</melody>
+  <layout>
+    <singingstanza end="-1">I'm a wild rose, wild rose of Sha -- ron And I am like a li -- ly of the val -- leys. So is my love a -- mong the daugh -- ters I am a li -- ly a -- mong the thorns. As the ap -- ple tree a -- mong the trees Is my Be -- loved a -- mong the sons: In His shade de -- light -- ed I sat down, And His fruit was sweet, was sweet to my taste.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 2:1-3</link>
+  </links>
+  <music>
+    <midi location="ns" length="81">ns0472.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I'm a wild rose, wild rose of Sharon
+And I am like a lily of the valleys.</stanza>
+    <stanza type="verse" number="2">So is my love among the daughters
+I am a lily among the thorns.</stanza>
+    <stanza type="verse" number="3">As the apple tree among the trees
+Is my Beloved among the sons:
+In His shade delighted I sat down,
+And His fruit was sweet, was sweet to my taste.</stanza>
+  </lyrics>
+</hymn>

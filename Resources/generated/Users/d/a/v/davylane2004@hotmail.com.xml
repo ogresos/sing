@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Lane</lastname>
+    <email>davylane2004@hotmail.com</email>
+    <password>N0OU45RyeBcCIING90GnTg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>64.136.26.231</ipaddress>
+    <createdate>2010-09-11 16:47:09</createdate>
+    <lastupdateddate>2012-03-31 21:32:10</lastupdateddate>
+    <lastlogindate>2012-03-18 16:10:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="103">Behold! behold the Lamb of God</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+        <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>哦主你是有的主</title>
+  <index>true</index>
+  <category>讚美主－祂的榮耀</category>
+  <numbers><cebuano num="133"/><chinese num="120"/><english num="133"/><german num="133"/><korean num="120"/><portuguese num="70"/><russian num="403"/><spanish num="69"/><tagalog num="133"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>哦 主， 你 是 萬 有 的 主， 已 得 榮 耀 冠 冕； 因 你 權 柄 和 你 威 嚴， 萬 眾 將 你 稱 讚。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦主，你是萬有的主，
+已得榮耀冠冕；
+因你權柄和你威嚴，
+萬眾將你稱讚。</stanza>
+	<stanza type="verse" number="2">神在人裡活在地上，
+曾經成為奴僕；
+人在神裡住在天上，
+尊為萬有之主。</stanza>
+	<stanza type="verse" number="3">你是那人在榮耀裡，
+與神同坐寶座；
+天上地上所有權柄，
+全都歸你得著。</stanza>
+	<stanza type="verse" number="4">升上高天，得被高舉，
+且得至高尊名；
+萬口無不稱你為主，
+萬膝無不跪敬。</stanza>
+	<stanza type="verse" number="5">神已使你作主基督，
+聖靈如此證明；
+在榮耀裡，並在天上，
+得著寶座、權柄。</stanza>
+	<stanza type="verse" number="6">榮耀之主，我們敬拜，
+高聲向你讚美；
+萬有之主，我們高舉，
+讚美惟你是配！</stanza>
+  </lyrics>
+</hymn>

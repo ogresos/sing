@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Akin</firstname>
+  <lastname/>
+  <email>tayclinics@gmail.com</email>
+  <password>$2y$10$oYPHShNyVt4llm7UgBQ6oepngtiWQ1mX1URYBuS6xnK5OuvzvkGUe</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.190.3.159</ipaddress>
+  <createdate>2015-09-16 19:16:23</createdate>
+  <lastupdateddate>2015-09-16 19:25:16</lastupdateddate>
+  <lastlogindate>2015-09-16 19:22:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+  </favourites>
+</user>

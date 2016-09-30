@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>PENG</firstname>
+  <lastname>LOIS</lastname>
+  <email>loisinchrist@gmail.com</email>
+  <password>$2y$10$imSaPrMeU0sKhe3hzB8DEuRwWiuGwScSjlfuAkD8qiZB4Zw7201sK</password>
+  <gender>F</gender>
+  <country>tw</country>
+  <ipaddress>163.25.111.65</ipaddress>
+  <createdate>2014-06-09 02:05:29</createdate>
+  <lastupdateddate>2016-05-13 22:04:33</lastupdateddate>
+  <lastlogindate>2016-05-13 22:04:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="132">God made me a three-part man</fav>
+    <fav category="default" type="lb" num="65">Lord, I love You more and more each day</fav>
+    <fav category="default" type="nt" num="600">My God, my Portion</fav>
+    <fav category="default" type="ch" num="241">我生囹有何等奇妙</fav>
+    <fav category="default" type="ts" num="108">祂是奇妙之靈住我裡</fav>
+    <fav category="default" type="ts" num="1002">經歷神生機的救恩</fav>
+    <fav category="default" type="ts" num="848">聽我唱奇妙愛</fav>
+    <fav category="default" type="ch" num="664">速興起傳福音</fav>
+  </favourites>
+</user>

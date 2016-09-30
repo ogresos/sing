@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>If You Want a Great Big Smile</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <hymncode>55356533232</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | G - - - | C - - - | C - - - | G7 - - - | C - - - | C - - - | C - - - | F - - - | C - - - | C - - - | C - - - | G7 - - - | C - - - |</chords>
+  <melody>| 5 5 3 5 | 6 5 3 - | 3 2 - - | 3 2 - - (break) | 5 5 3 5 | 6 5 3 - | 2 3/ 4/ 3 2 | 1 - - - (break) | 1. 1/ 3 5 | ._1 - - - | 6. 6/ ._1 6 | 5 - - - (break) | 5 5 3 5 | 6 5 3 - | 2 3/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>If you want a great big smile Give one, give one. If you want to have a friend, You bet -- ter be one, too. What you wish for you, That to oth -- ers do. If you think of oth -- ers first, They'll do the same for you.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">cf. Matthew 7:12</link>
+  </links>
+  <music>
+    <midi location="c" length="22">c0126.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">If you want a great big smile
+Give one, give one.
+If you want to have a friend,
+You better be one, too.
+What you wish for you,
+That to others do.
+If you think of others first,
+They'll do the same for you.</stanza>
+  </lyrics>
+</hymn>

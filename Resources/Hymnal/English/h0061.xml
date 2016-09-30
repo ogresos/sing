@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Lord, Thou art the Son of man</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Humanity</category>
+  <numbers><cebuano num="61"/><chinese num="57"/><english num="61"/><german num="61"/><korean num="57"/><russian num="395"/><spanish num="35"/><tagalog num="61"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1770-1827" biolink="">Ludwig van Beethoven</composer>
+  </creators>
+  <meter>8.8.8.8.</meter>
+  <hymncode>517125671</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G/D | C/E - F | G - - | Am - - | D - D/C | G/B - Em | C - D7 | G - - | C - - | G7/D - - | C/E - - | F - - | G - - | F - - | C/G - G7 | C - 0 |</chords>
+<guitarChords>| C - - | C - - | G - - | C - - | D - - | G - - | D - - | G - - | C - - | G7 - - | C - - | C - - | G - - | G - - | F - G7 | C - 0 |</guitarChords>
+  <melody>| 5 ._1 7 | ._1 - ._2 | 5( 6) 7 | ._1 - - | ._1 7 6 | ._2 - 7 | 7/( 6/ 5) 4# | 5 - 5 (break) | 5 - ._1 | ._1( 7) 6 | 5 - ._3 | ._3( ._2) ._1 | 7 - ._4 | ._4( ._3) ._2 | ._1( ._2) 7 | ._1 - 0 |</melody>
+  <layout>
+	<singingstanza>O Lord, Thou art the Son of man, Our hu -- man na -- ture Thou didst take; Be -- got -- ten of a vir -- gin true, Of flesh and blood Thou didst par -- take.</singingstanza>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj151.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0061.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="25">e0061_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Lord, Thou art the Son of man,
+Our human nature Thou didst take;
+Begotten of a virgin true,
+Of flesh and blood Thou didst partake.</stanza>
+	<stanza type="verse" number="2">In bondman's form, with lowliness,
+Thou walkedst on this earth of woe;
+The human living Thou didst have
+And all its suff'rings undergo.</stanza>
+	<stanza type="verse" number="3">Born in a manger as a babe,
+Thou wast a child among the poor;
+Thou as a carpenter didst work,
+And e'en an outlaw's death endure.</stanza>
+	<stanza type="verse" number="4">Then Thou wast raised up from the dead,
+Still with the human nature true;
+And as a man in form divine,
+Thou didst ascend to heaven too.</stanza>
+	<stanza type="verse" number="5">Now over all, and on the throne,
+Thou, still a man, art glorified;
+A man with God in light divine
+With whom our God is satisfied.</stanza>
+	<stanza type="verse" number="6">In glory Thou wilt come again,
+Still as a man appearing then;
+As King of kings, with pow'r divine,
+With human nature seen by men.</stanza>
+	<stanza type="verse" number="7">Thou, as the center of all things,
+In the new heav'n and earth shalt be,
+Forever as the One divine,
+Existing in humanity.</stanza>
+  </lyrics>
+</hymn>

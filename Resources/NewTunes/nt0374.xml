@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sun of my soul, Thou Savior dear</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Ray Huff">R. H.</composer>
+  </creators>
+  <hymncode>34561712334561765</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | F - - | G - - | C - - | C - - | F - - | G - - | C - - | C - - | F - - | G - - | Am - - | C/G - - | F - - | G - - | C - - ||</chords>
+  <melody>| 3 4 5 | 6. 1/( 1) | 7_.. 1/( 2) | 3 - - (break) | 3 4 5 | 6. ._1/( ._1) | 7 - 6 | 5 - - (break) | 3 4 5 | 6. 1/( 1) | 7_.. 1/( 2) | 3 - - (break) | 3 4 5 | 6. 1/( 1) | 7_. - 1 | 1 - - ||</melody>
+  <layout>
+    <singingstanza>Sun of my soul, Thou Sav -- ior dear, It is not night if Thou be near; Oh, may no earth -- born cloud a -- rise To hide Thee from Thy ser -- vant's eyes.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="374"></link>
+  </links>
+  <music>
+    <midi location="nt" length="24">e0374_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sun of my soul, Thou Savior dear,
+It is not night if Thou be near;
+Oh, may no earthborn cloud arise
+To hide Thee from Thy servant's eyes.</stanza>
+    <stanza type="verse" number="2">When the soft dews of kindly sleep
+My wearied eyelids gently steep,
+Be my last thought how sweet to rest
+Forever on my Savior's breast.</stanza>
+    <stanza type="verse" number="3">Abide with me from morn till eve,
+For without Thee I cannot live;
+Abide with me when night is nigh,
+For without Thee I dare not die.</stanza>
+    <stanza type="verse" number="4">Come near, and bless us when we wake,
+Ere through the world our way we take;
+Till in the ocean of Thy love
+We lose ourselves in Thee above.</stanza>
+  </lyrics>
+</hymn>

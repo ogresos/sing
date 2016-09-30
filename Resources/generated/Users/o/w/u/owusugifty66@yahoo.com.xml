@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>GIFTY</firstname>
+  <lastname/>
+  <email>owusugifty66@yahoo.com</email>
+  <password>$2y$10$6fnx3s6pfaGOU6Hy91zpseuCIaTzxF6FLy2gMx8xMEJZ4gdkkI5GK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>142.255.127.128</ipaddress>
+  <createdate>2015-07-26 15:42:08</createdate>
+  <lastupdateddate>2015-07-26 15:48:38</lastupdateddate>
+  <lastlogindate>2015-07-26 15:45:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles/>
+  <firstname>Erica</firstname>
+  <lastname/>
+  <email>rosehewitt@yahoo.com</email>
+  <password>McyQUXr1h91SZjFyefgdUw%3D%3D</password>
+  <gender/>
+  <country>Malaysia</country>
+  <ipaddress>175.144.125.18</ipaddress>
+  <createdate>2013-02-19 22:21:17</createdate>
+  <lastupdateddate>2015-10-25 03:55:14</lastupdateddate>
+  <lastlogindate>2015-10-25 03:55:14</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="405">心歸向主</fav>
+    <fav category="default" type="ts" num="847">真愛</fav>
+    <fav category="default" type="ch" num="701">空空空</fav>
+    <fav category="default" type="ch" num="171">耶穌只要一想到你</fav>
+  </favourites>
+</user>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Liebster Vater, unser Lobpreis</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;seine Heiligkeit</category>
+  <numbers><cebuano num="22"/><chinese num="19"/><english num="22"/><french num="3"/><german num="22"/><korean num="19"/><portuguese num="17"/><russian num="8"/><spanish num="15"/><tagalog num="22"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5. 3/ 6 ._1 | 7 6 5 3 | 1 1 2 3 | 5 6 5 - (break) | 5. 3/ 6 ._1 | 7 6 5 5 | 5 ._1 ._1 3 | 5 2 1 - |</melody>
+  <layout>
+	<singingstanza>Liebs -- ter Va -- ter, un -- ser Lob -- preis  Nun zu Dir in Ehr -- furcht fließt; Du bist hei -- lig und er -- ha -- ben, Nur Dein Na -- me hei -- lig ist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="22"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Liebster Vater, unser Lobpreis 
+    Nun zu Dir in Ehrfurcht fließt;
+Du bist heilig und erhaben,
+    Nur Dein Name heilig ist.</stanza>
+	<stanza type="verse" number="2">So gerecht sind Deine Wege,
+    Oh wie liebt Dein Herz uns sehr;
+Deine heilige Natur uns
+    Christus austeilt mehr und mehr.</stanza>
+	<stanza type="verse" number="3">Ewig hast Du uns geheiligt
+    Durch das Blut von Deinem Sohn;
+Heiligst uns durchs Wort, die Wahrheit;
+    Sonderst ab von Satans Thron.</stanza>
+	<stanza type="verse" number="4">Stelltest uns durch Deinen Geist, Herr,
+    Heilig hin vor Dich allein;
+Unser Geist samt Leib und Seele
+    Ganz geheiligt werden sein.</stanza>
+	<stanza type="verse" number="5">Heilig ist das Leben Jesu, 
+    Das Du uns durch Gnade gibst;
+Bald an Deiner Heiligkeit wir
+    Haben teil, weil Du uns liebst.</stanza>
+	<stanza type="verse" number="6">In der neuen Stadt, so heilig,
+    Sind wir völlig eins mit Dir,
+Eins mit Deiner Heiligkeit auch –
+    „Du bist heilig“ preisen wir.</stanza>
+  </lyrics>
+</hymn>

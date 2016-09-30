@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Efua</firstname>
+<lastname>Kwarteng</lastname>
+<email>bydoe@hotmail.com</email>
+<password>$1$Wg.XyfzR$KW9uPfH9Ly7G4ujx.MCQn1</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>173.81.118.33</ipaddress>
+<createdate>2009-08-24 11:01:52</createdate>
+<lastupdateddate>2009-09-15 19:17:05</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    </favourites>
+</user>

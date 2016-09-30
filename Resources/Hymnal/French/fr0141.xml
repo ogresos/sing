@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Du repos, les Siens jouissent</title>
+  <index>true</index>
+  <category>La prière&amp;mdash;dans le saint des saints</category>
+  <numbers><cebuano num="1217"/><english num="1217"/><french num="141"/><german num="1217"/><russian num="428"/></numbers>
+  <melody>| 0 - 3/ 3/ | 4. 3/ 2/ 1/ | 2 2 2/ 3/ | 4. 4/ 3/ 2/ (break) | 3 - 3/ 4/ | 5. 5/ 6/ 7/ | ._1 5 5/ ._1/ | 7. 6/ 5/ 4#/ (break) | 5 - (Chorus) 5/ 5/ | ._2. 7/ 6/ 5/ | ._1 ._1 5/ 5/ | ._2. 7/ 6/ 5/ (break) | ._1 - ._1/ ._1/ | ._1. ._1/ 7/ 6/ | 5 3 1/ 2/ | 3/ 5/ 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="559"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ton appel atteint l'église :
+« Entrez dans le Saint des Saints,
+Contemplez toute Ma gloire,
+Reflétez l'éclat divin. »</stanza>
+	<stanza type="chorus" number="">Dans le Saint des Saints nous entrons,
+À l'autel, tout en priant.
+Dieu a déchiré le voile,
+Oui, nous entrons hardiment.</stanza>
+	<stanza type="verse" number="2">Cette voie riche et nouvelle
+A été inaugurée.
+Maintenant, l'accès est libre,
+Nous entrons sans hésiter.</stanza>
+	<stanza type="verse" number="3">Nous venons auprès du Père,
+Sur le trône, Il est le Roi.
+Le chemin Jésus nous ouvre,
+Grâce au sang et à la croix.</stanza>
+	<stanza type="verse" number="4">Pleins de foi, le cœur sincère,
+Gardons-nous de reculer.
+Demeurons dans cette sphère,
+Oublions notre passé !</stanza>
+	<stanza type="verse" number="5">Du repos, les Siens jouissent,
+Ici, dans le Saint des Saints.
+Notre Dieu et nous Son peuple
+Demeurons bénis sans fin.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pagkamatarung ko's Cristo</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GIMATARUNG DIHA NI CRISTO</category>
+  <numbers><cebuano num="295"/><chinese num="237"/><english num="295"/><korean num="237"/><russian num="212"/><tagalog num="295"/></numbers>
+  <creators>
+    <author biodate="1700-1760" biolink="countzinzendorf.ccws.org">Translated from Nicolaus L. Zinzendorf</author>
+    <author biodate="1703-1791" biolink="">Translated by John Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="61"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Pagkamatarung ko's Cristo,
+Kaanyag, biste's himaya;
+Kon S'ya'y sul-ob ko sa yuta,
+Ulo iisa's kalipay.</stanza>
+    <stanza type="verse" number="2">Nitoo ko sa dugo Mong
+Nangamuyo alang nako
+Sa trono sa kaluoy Mo,
+Giula alang's kalag ko.</stanza>
+    <stanza type="verse" number="3">Makasasala daghan pa's
+Mga balas sa baybayon,
+Apan nalukat Mong tanan,
+Sa hingpit nga katubsanan!</stanza>
+    <stanza type="verse" number="4">May kaisug kong mobarug,
+Kinsa may makasumbong pa?
+Hingpit Mo nang giabswelto
+Gikan's sala ug kaulaw.</stanza>
+    <stanza type="verse" number="5">Sul-ob kong biste way buling,
+Di mausab, magpabilin;
+Bisan's kadautan sa tawo
+Kini magpabiling bag-o.</stanza>
+    <stanza type="verse" number="6">Dios sa gahum, Dios sa gugma,
+Pasaksiha ming mga balaan
+Kaanyag Ka'g biste namo,
+Ug among Pagkamatarung.</stanza>
+  </lyrics>
+</hymn>

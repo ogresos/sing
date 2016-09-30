@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>When we're kind to others</title>
+  <index>true</index>
+  <category>Character</category>
+  <hymncode>111231222175</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Dm - G - | C - Am - | Dm7 G7 C - |</chords>
+  <melody>| 1/ 1/ 1/ 2/ 3 1 | 2/ 2/ 2/ 1/ 7_. 5_. (break) | 1/ 1/ 1/ 2/ 3 1 | 4 7_. 1 - |</melody>
+  <layout>
+    <singingstanza>When we're kind to oth -- ers, When we're kind to oth -- ers, When we're kind to oth -- ers, God is glad.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-u.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="9">c0152.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">When we're kind to others,
+When we're kind to others,
+When we're kind to others,
+God is glad.</stanza>
+  </lyrics>
+</hymn>

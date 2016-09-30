@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kan-ang tinapay, katawhan's Dios</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;PAGHANDOM KANIYA</category>
+  <numbers><cebuano num="1108"/><chinese num="ts:621"/><english num="1108"/><german num="1108"/><korean num="982"/><russian num="407"/><spanish num="106"/><tagalog num="1108"/></numbers>
+  <melody>| 0 - - 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 7_. 5_. (break) | 1 2 3 1/ 5_./ | 1( - 1/) 2/ 3/ 4/ | 5 3 1 2/ 3/ | 4. 2/ 1/ 7_./ 6_./ 7_./ (break) | 1 - - (Chorus) 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5( - 5/) 0/ 3/ 5/ | 4. 2/ 7_. 4 (break) | 3( - 3/) 0/ 1/ 1/ | 4. 1/ 4/ 1/ 4/ 6/ | 5 - - 3/ 4/ | 5 5 6 7/( ._1/) | 7 - - 0 |</melody>
+  <notes>Dili na sublion ang chorus human sa katapusang estansa</notes>
+  <music>
+	<midiref type="h" num="1108"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kan-ang tinapay, katawhan's Dios:
+Daygon S'ya kita gihiusa;
+Karon usa kitang mangaon,
+Iglesiang gihimong Iyaha.</stanza>
+	<stanza type="chorus" number="">Kan-ang tinapay, imnang kopa!
+Usa ta Niya's dayon.
+Barug sa sukaranang lokal,
+Usang magkaon-inom!</stanza>
+	<stanza type="verse" number="2">Katawhan's Dios, inom sa kopa:
+Iglesia kitang gipalit N'ya;
+Gilukat aron mahiusa,
+Kini dugay nang pangandoy N'ya.</stanza>
+	<stanza type="verse" number="3">Barugi katawhan's Ginoo,
+Dili kita tinagsang trigo,
+Usa ta, nasakot, nausa,
+Daw tinapay sa matag lokal.</stanza>
+	<stanza type="verse" number="4">Usa kitang iya's Ginoo,
+Ipahayag usa gyud kita!
+Di's pulong, kondi's kinabuhi,
+Pamatud-an kini buhat N'ya!</stanza>
+	<stanza type="verse" number="5">Kan-ang tinapay, katawhan's Dios:
+Daygon S'ya kita gihiusa,
+Karon usa kitang mangaon,
+Iglesiang gihimong Iyaha.</stanza>
+  </lyrics>
+</hymn>

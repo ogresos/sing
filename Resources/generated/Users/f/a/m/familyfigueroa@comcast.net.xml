@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Thomas</firstname>
+<lastname>Figueroa</lastname>
+<email>familyfigueroa@comcast.net</email>
+<password>$1$Al91f7Wc$ufxqoepxrqGynxOrXywUF1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>98.226.201.71</ipaddress>
+<createdate>2008-07-26 01:43:04</createdate>
+<lastupdateddate>2009-09-15 18:23:57</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="390">Savior, lead me, this I pray</fav>
+        <fav category="default" type="h" num="1143">The tree of life, how sweet the fruit</fav>
+    </favourites>
+</user>

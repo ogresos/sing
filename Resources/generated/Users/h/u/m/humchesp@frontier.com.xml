@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debra</firstname>
+  <lastname>Gibson</lastname>
+  <email>humchesp@frontier.com</email>
+  <password>$2y$10$Bmz3sOMYvmixhopHi0/7XOHSjMph4nHx3lSnHAk01D0gUOuwEDMbS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>192.183.12.251</ipaddress>
+  <createdate>2016-02-16 17:17:11</createdate>
+  <lastupdateddate>2016-02-16 17:30:53</lastupdateddate>
+  <lastlogindate>2016-02-16 17:18:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+  </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname>Carvajal</lastname>
+  <email>sarah.carvajal1013@gmail.com</email>
+  <password>$2y$10$QrzgTKNq8KQTIJ0YZrX2aOT1uDILa2FdJ3v2.cj3PiUvUXpzwIdVG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.176.62.80</ipaddress>
+  <createdate>2016-06-01 03:24:15</createdate>
+  <lastupdateddate>2016-06-01 22:00:08</lastupdateddate>
+  <lastlogindate>2016-06-01 21:48:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="541">Divine Dispensing for the Life Supply</fav>
+    <fav category="default" type="ns" num="403">For God so loved the world</fav>
+    <fav category="default" type="ns" num="505">God Needs the Overcomers</fav>
+    <fav category="default" type="ns" num="496">God's Central Work and Purpose</fav>
+    <fav category="default" type="ns" num="421">Have you seen God's salvation</fav>
+    <fav category="default" type="h" num="877">I dare not be defeated</fav>
+    <fav category="default" type="ns" num="259">I will enter His gates</fav>
+    <fav category="default" type="ns" num="315">In this godless age</fav>
+    <fav category="default" type="ns" num="366">My heart longs for absolute surrender</fav>
+    <fav category="default" type="h" num="255">O Lord, breathe Thy Spirit on me</fav>
+    <fav category="default" type="h" num="717">O let us rejoice in the Lord evermore</fav>
+    <fav category="default" type="ns" num="147">Our history</fav>
+    <fav category="default" type="ns" num="243">The Church of God&amp;mdash;we are the church</fav>
+    <fav category="default" type="ns" num="321">The Uniqueness of the Lord's Recovery</fav>
+    <fav category="default" type="ns" num="511">This Divine Power</fav>
+    <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+    <fav category="default" type="ns" num="514">Your People Will Offer Themselves Willingly</fav>
+  </favourites>
+</user>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vida por muerte, Para cuándo es esto</title>
+  <index>true</index>
+  <category>La vida de resurrección&amp;mdash;Vida por muerte</category>
+  <numbers><cebuano num="640"/><chinese num="473"/><english num="640"/><german num="640"/><korean num="473"/><russian num="423"/><spanish num="299"/><tagalog num="640"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 2 - 3 4 | 5 - 3 - | 1 1 3 2 | 7_. - - - (break) | 1 - 3 5 | 5 - 5 - | 5 5 ._1 7 | 7 - 6 - (break) | 6 - 5 4 | 3 5 4 2 | 6_. - 7_. - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vida por muerte, ¿Para cuándo͜ es esto?
+¿Es para͜ ahora, o el más allá?
+¿Por qué͜ esperar? El vaso malogrado
+El Alfarero puede hoy molde͡ar.</stanza>
+	<stanza type="verse" number="2">Vida por muerte—la resurrección es
+El grano muerto dando su poder;
+Tu vida͜ en mí vivida͜ en aflicciones,
+No yo, mas vive Cristo en mi ser.</stanza>
+	<stanza type="verse" number="3">Vida por muerte—senda solitaria
+De los que se glorían en la cruz.
+Viven con Cristo͜ en comunión tan dulce
+Dejando todo sólo por Jesús.</stanza>
+	<stanza type="verse" number="4">Vida por muerte—¡Qué misión bendita!
+El agua viva a todos llevar;
+Vida͜ abundante de͜ ese río puro,
+Para͜ el que quiera su sed apagar.</stanza>
+  </lyrics>
+</hymn>

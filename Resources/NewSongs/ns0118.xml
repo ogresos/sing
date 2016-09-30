@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Lord, You're our first love</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:316"/><english num="ns:118"/><french num="ns:118f"/><lsmyp num="174"/><vsb num="172"/></numbers>
+  <creators>
+    <composer biodate="1953" biolink="">Sammy Fain</composer>
+  </creators>
+  <hymncode>54312351234562</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>80</tempo>
+  <chords>| C - - - | C - - - | C - A/C# - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - - - | C - - - | C - - - | C - A/C# - | Dm - - - | Dm7 - - - | G - - - | G7 - - - | C - - - | Am - - - | G - - - | Gm - - - | F - Fm - | C - - - | C - A7 - | Dm - G7 - | C - - - |</chords>
+  <melody>| 5. 4/ 3/ 1/ 2/ 3/ | 5_. - - - | 1. 2/ 3/ 4/ 5/ 6/ | 2 - - - (break) | 4. 3/ 2/ 7_./ 1/ 2/ | 5_. - - - | 7_.. 1/ 2/ 3/ 1/ 2/ | 1 - - - (break) | (Verse_2) 5. 4/ 3/ 1/ 2/ 3/ | 5_. - - - | 1. 2/ 3/ 4/ 5/ 6/ | 2 - - - (break) | 4. 3/ 2/ 7_./ 1/ 2/ | 5_. - - - | 7_.. 1/ 2/ 3/ 1/ 2/ | 1 - - - (break) | (Chorus) ._1. 7/ 6/ 4#/ 5/ 6/ | 7. 5/ 2 - | 7b. 6/ 5/ 3/ 4/ 5/ | 6. 1/ 6b - (break) | 5. 4/ 3/ 1/ 2/ 3/ | 5 7b 6( 3) | 2/ 3/ 4/ 6/ 5/( 2/) 3 | 1 - - - |</melody>
+  <layout>
+    <singingstanza end="3">Je -- sus Lord, You're our first love; You're the One we love the best. When our heart is lov -- ing You, How we're filled with Your sweet rest! Lord, we love You for Your -- self, Not for what You give or do. Noth -- ing else could e'er com -- pare With the joy of lov -- ing You. Lord, we've been drawn off by man -- y things; Now we turn our heart back&amp;mdash; how it sings! We re -- pent of lov -- ing oth -- er things&amp;mdash; Je -- sus, Lord, You're our first love.</singingstanza>
+  </layout>
+  <copyright>Sammy Fain, 1953 (63?) Warner Bros. Inc (renewed)</copyright>
+  <music>
+    <midi location="ns" length="72">ns0118.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus Lord, You're our first love;
+You're the One we love the best.
+When our heart is loving You,
+How we're filled with Your sweet rest!</stanza>
+    <stanza type="verse" number="2">Lord, we love You for Yourself,
+Not for what You give or do.
+Nothing else could e'er compare
+With the joy of loving You.</stanza>
+    <stanza type="chorus" number="">Lord, we've been drawn off by many things;
+Now we turn our heart back&amp;mdash;how it sings!
+We repent of loving other things&amp;mdash;
+Jesus, Lord, You're our first love.</stanza>
+    <stanza type="verse" number="3">Never more could we desire
+Anything that's less than You,
+And to this we would aspire&amp;mdash;
+Simply to be filled with You.</stanza>
+    <stanza type="verse" number="4">Jesus Lord, You're our first love;
+You're the One we love the best.
+When our heart is loving You,
+How we're filled with Your sweet rest!</stanza>
+  </lyrics>
+</hymn>

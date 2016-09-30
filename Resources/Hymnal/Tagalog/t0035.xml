@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ama, sinasamba Ka namin</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGTATALAGA</category>
+  <numbers><english num="35"/><tagalog num="35"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from BM Deck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="35"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ama, sinasamba Ka namin,
+Kadakilaa'y purihin;
+Espiritu Mo'y papurihan,
+Dulot Mo'y kapangyarihan.</stanza>
+    <stanza type="verse" number="2">Ang Taong nasa Iyong presensiya,
+Naluklok, itinaas Siya;
+Sa Iyong lakas Siya'y Iyong binuhay,
+Dating kabilang sa patay.</stanza>
+    <stanza type="verse" number="3">L'walhating sa ami'y humirang,
+Ama, ang siyang pinagmulan;
+Maging pag-ibig na nagtubos,
+Na 'sinagawa kay Hesus.</stanza>
+    <stanza type="verse" number="4">Sa pagka-anak 'tinalaga,
+Purihin Ka sa biyaya;
+Sumasamba sa presensiya Mo,
+'Pagkat kami'y na kay Kristo.</stanza>
+  </lyrics>
+</hymn>

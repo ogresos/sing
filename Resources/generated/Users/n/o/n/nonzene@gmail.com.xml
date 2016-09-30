@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>arnon</firstname>
+  <lastname/>
+  <email>nonzene@gmail.com</email>
+  <password>$2y$10$XSNFXJfyMXCFkRkC1Psjb.MAXPJRUfmS3H7TIp4I.GNoXSiwSbG9C</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>177.215.151.248</ipaddress>
+  <createdate>2014-08-03 00:25:07</createdate>
+  <lastupdateddate>2014-08-03 14:48:36</lastupdateddate>
+  <lastlogindate>2014-08-03 14:48:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+  </favourites>
+</user>

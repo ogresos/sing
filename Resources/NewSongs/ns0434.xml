@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glad Tidings</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;The Meaning of Human Life</category>
+  <numbers><chinese num="ts:840"/><english num="ns:434"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="">Adapted</author>
+    <composer biodate="1925-2012" biolink="" fullname="">Robert Bernard Sherman</composer>
+    <composer biodate="1928-?" biolink="" fullname="">Richard Morton Sherman</composer>
+  </creators>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>34531211772342717655</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | G7 - - - | C - - - | C - C7 - | F - Dm - | G - G7 - | C - - - | C - - - | G - - - | G7 - - - | C - - - | C7 - - - | F - Dm - | G - G7 - | C - - - ||</chords>
+  <melody>| 0 - - 3/ 4/ | 5 ._3 ._1 ._2/ ._1/ | ._1 7 7 2/ 3/ | 4 ._2 7 ._1/ 7/ | 6 5 5 3/ 4/ (break) | 5 ._1/ ._2/ ._3 ._2/ ._1/ | 6 ._2/ ._3/ ._4 ._3/ ._2/ | 5 ._4 ._3 ._2 | ._1 - - - (break) | ._1. ._1/ ._3 ._1 | ._2. ._2/ ._2 - | ._2. ._2/ ._4 ._2 | ._3. ._3/ ._3 - (break) | ._3. ._3/ ._5 ._3 | ._4. ._4/ ._4 ._3/ ._2/ | 5 - 7 - | ._1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>Lis -- ten close -- ly now to His gos -- pel free: You were made by God to His ves -- sel be; You were formed as a man, To ful -- fill His great plan: Now He wants to be your life! He will be so real to you, Make your life so beau -- ti -- ful, Full of joy, and mean -- ing -- ful, If you come to Him.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="39">ns0434.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Listen closely now to His gospel free:
+You were made by God to His vessel be;
+You were formed as a man,
+To fulfill His great plan:
+Now He wants to be your life!
+He will be so real to you,
+Make your life so beautiful,
+Full of joy, and meaningful,
+If you come to Him.</stanza>
+    <stanza type="verse" number="2">In eternity He selected you,
+Then He came to earth in His love for you;
+On the cross, His life gave,
+Then He rose from the grave.
+Coming forth to seek for you,
+To bring God Himself to you,
+Life divine impart to you,
+Grace abundant give that you
+May be satisfied.</stanza>
+    <stanza type="verse" number="3">When the Triune God lives Himself in you,
+He will change your being, your life renew;
+You'll be quickened within,
+Filled with joy to the brim,
+And your flesh shall rest in hope!
+Open now your heart to Him,
+Breathe His name from deep within,
+In an instant He'll come in
+And with you be one!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Malomong nanawag si Jesus karon&amp;mdash</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG PAGTAWAG SA GINOO</category>
+  <numbers><cebuano num="1027"/><chinese num="706"/><english num="1027"/><korean num="706"/><russian num="172"/><tagalog num="1027"/></numbers>
+  <creators>
+    <author biodate="1847-1909" biolink="">Translated from Will Lamartine Thompson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1027"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Malomong nanawag si Jesus karon&amp;mdash;
+Nanawag nimo'g nako;
+Mapailubon nga naghulat Siya&amp;mdash;
+Kanimo ug kanako!</stanza>
+    <stanza type="chorus" number="">Uli na mo!
+Kamong gikapoy, uli!
+Maikagon nga nanawag si Jesus,
+Pauli na mo karon!</stanza>
+    <stanza type="verse" number="2">Nganong maglangan, Jesus nangamuyo&amp;mdash;
+Alang nimo ug nako?
+Nganong di pamation 'yang kaluoy&amp;mdash;
+Alang nimo ug nako?</stanza>
+    <stanza type="verse" number="3">Panahon dali ra gyud nga molabay&amp;mdash;
+Gikan nimo ug nako;
+Kamatayon moabot di madugay&amp;mdash;
+Nganha nimo ug nako.</stanza>
+    <stanza type="verse" number="4">Katingad-ang gugma Iyang gisaad&amp;mdash;
+Alang nimo ug nako;
+Bisan sad-an, maluoy'g mopasaylo&amp;mdash;
+S'ya kanimo'g kanako.</stanza>
+  </lyrics>
+</hymn>

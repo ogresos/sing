@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Que me pode perdoar</title>
+  <index>true</index>
+  <category>O Sangue</category>
+  <numbers><cebuano num="1008"/><chinese num="684"/><english num="1008"/><german num="1008"/><korean num="684"/><portuguese num="448"/><russian num="167"/><spanish num="471"/></numbers>
+  <creators>
+	<author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <melody>| 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | (Chorus) 5 - 3 2 | 3 5 3 - | 2 - 2 1 | 2 2 3( 5) (break) | 5 - 3 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - |</melody>
+  <music>
+	<midiref type="h" num="1008"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Que me pode perdoar?
+Só o precioso sangue.
+Dos pecados me lavar?
+Só o precioso sangue.</stanza>
+	<stanza type="chorus" number="">Jesus na cruz morreu;
+Ali por mim verteu
+Precioso sangue Seu.
+Oh! que precioso sangue!</stanza>
+	<stanza type="verse" number="2">Para me limpar do mal,
+Há o precioso sangue;
+Para meu perdão real,
+Tenho o precioso sangue.</stanza>
+	<stanza type="verse" number="3">Faz-me graça desfrutar
+Esse precioso sangue;
+Não preciso me esforçar
+Pelo precioso sangue.</stanza>
+	<stanza type="verse" number="4">Minha esperança e paz
+É tal precioso sangue;
+Justo e santo, pois, me faz
+Esse precioso sangue.</stanza>
+  </lyrics>
+</hymn>

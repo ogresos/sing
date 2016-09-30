@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Glória! Glória! Cristo é vida em mim</title>
+  <index>true</index>
+  <category>Como Vida</category>
+  <numbers><chinese num="377"/><english num="1356"/><french num="91"/><portuguese num="244"/><russian num="92"/><spanish num="221"/><tagalog num="1356"/></numbers>
+  <music>
+    <midiref type="h" num="1356"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Glória! Glória! Cristo é vida em mim,
+Como Espírito me guia, assim!
+Faz do fraco, forte,
+E das trevas, luz.
+Glória! Glória! Cristo é vida em mim.</stanza>
+    <stanza type="verse" number="2">Glória! Glória! Vivo no Senhor,
+Pelo Espírito andando estou.
+Em louvor converte
+Todo o meu sofrer.
+Glória! Glória! Vivo no Senhor!</stanza>
+  </lyrics>
+</hymn>

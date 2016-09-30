@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>阿爸我們來頌讚你</title>
+  <index>true</index>
+  <category>敬拜父－祂的救贖</category>
+  <numbers><cebuano num="45"/><chinese num="38"/><english num="45"/><korean num="38"/><portuguese num="27"/><russian num="341"/><tagalog num="45"/></numbers>
+  <creators>
+	<author biodate="1804-1873" biolink="">Translated from Robert Stephen Hawker</author>
+  </creators>
+  <melody>| 1 2 3 1 | 2 3 5/( 4/) 3 | 6 5 4 3 | 2 2 1 - (break) | 1 2 3 1 | 2 3 5/( 4/) 3 | 6 5 4 3 | 2 2 1 - (break) | ._1. 7/ ._1 5 | 6 5/( 4/) 3/( 4/) 5 | 6 7 ._1 7/( ._1/) | 7 6 5 - (break) | 5 1 2/( 7_./) 1 | 2 3 4/( 2/) 3 | 5 3 6 5/( 4/) | 3 2 1 - |</melody>
+  <layout>
+	<singingstanza>阿 爸， 我 們 來 頌 讚 你！ 我 們 謙 卑 敬 拜 你！ 我 們 現 今 得 認 識 你， 真 是 我 們 的 福 氣。 我 們 得 著 這 樣 權 柄， 是 因 耶 穌 的 尊 名； 你 靈 也 和 我 們 的 靈， 證 明 我 們 有 生 命。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="45"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿爸，我們來頌讚你！
+我們謙卑敬拜你！
+我們現今得認識你，
+真是我們的福氣。
+我們得著這樣權柄，
+是因耶穌的尊名；
+你靈也和我們的靈，
+證明我們有生命。</stanza>
+	<stanza type="verse" number="2">世界還未起首時候，
+你就在基督裡頭，
+豫定我們作你兒子，
+得你生命的恩賜。
+哦父，你是何等慈愛，
+竟使我們蒙恩待！
+叫我們這凡俗罪人，
+得與你性情有分！</stanza>
+	<stanza type="verse" number="3">我們天性在亞當裡，
+真是敗壞無可比；
+但是你的永遠旨意，
+豫定我們歸於你；
+靠著救主我們得贖，
+因重生稱你為父；
+救主、天父、教會合一，
+哦，這恩典何希奇！</stanza>
+	<stanza type="verse" number="4">因此，境遇雖然轉遷，
+雖有患難和試煉，
+你的慈愛總是不變，
+要領我們直到天。
+不久，你所贖的兒女，
+要在寶座前相聚，
+述說他們得救故事，
+並向你讚美不置。</stanza>
+  </lyrics>
+</hymn>

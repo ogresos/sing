@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lubos inalay O Pangino'n</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;ISINUSUKO ANG LAHAT SA PANGINOON</category>
+  <numbers><chinese num="340"/><english num="442"/><korean num="340"/><tagalog num="442"/></numbers>
+  <creators>
+    <author biodate="1884-1961" biolink="">Translated from Alfred C. Snead</author>
+  </creators>
+  <music>
+    <midiref type="h" num="442"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lubos inalay O Pangino'n,
+Lubos inalay sa Iyo Poon;
+Nasa altar lahat,
+Pag-alay natupad,
+Tinubos Mo ako.
+Ako'y sa Iyo.</stanza>
+    <stanza type="verse" number="2">Lubos inalay&amp;mdash;buhay lahat,
+Ibinigay Mo'y sa Iyo dapat.
+Sabihan Mo ako,
+Susunod sa Iyo.
+Hanggang walang hanggan,
+Ika'y sundan.</stanza>
+    <stanza type="verse" number="3">Lubos inalay&amp;mdash;pilak, ginto,
+Anong yaman ng 'binigay Mo!
+Lahat pawang sa Iyo,
+Ako'y binili Mo;
+Angkinin Mo ako,
+O Hesus ko!</stanza>
+    <stanza type="verse" number="4">Lubos inalay&amp;mdash;ako ay Iyo,
+Tagapagligtas na dibino;
+Ikaw ang buhay ko
+Kapuspusan sa Iyo;
+Si Kristo, di ako
+Ang mamuno.</stanza>
+  </lyrics>
+</hymn>

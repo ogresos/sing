@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>jack</firstname>
+    <lastname>fisher</lastname>
+    <email>jpfisher333@gmail.com</email>
+    <password>bfCuQpbd9hYuSNPHnyaMEA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>70.58.159.95</ipaddress>
+    <createdate>2011-02-26 12:55:03</createdate>
+    <lastupdateddate>2011-02-28 11:17:51</lastupdateddate>
+    <lastlogindate>2011-02-26 12:55:05</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="nt" num="378">Savior, lead me up the mountain</fav>
+    </favourites>
+</user>

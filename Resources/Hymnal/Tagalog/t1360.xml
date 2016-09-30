@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mal'walhati! Mahalaga</title>
+  <index>true</index>
+  <category>KAPUSPUSAN NG ESPIRITU&amp;mdash;ANG PAGPUPUSPOS</category>
+  <numbers><cebuano num="267"/><chinese num="217"/><english num="1360"/><korean num="217"/><portuguese num="142"/><spanish num="127"/><tagalog num="1360"/></numbers>
+  <music>
+    <midiref type="h" num="267"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mal'walhati! Mahalaga!
+Espiritu sa akin!
+Liwanag, katotohanan,
+Dinadala sa akin.</stanza>
+    <stanza type="chorus" number="">Puspusin! Puspusin!
+O, ng Iyong Espiritu!
+Lahat ko ay Iyong alisin,
+Pun'an ng Espiritu!</stanza>
+    <stanza type="verse" number="2">Salita Mo'y tunay sa 'kin,
+Buhay Mo'y kalayaan -
+Sa sala ako'y hanguin,
+Maging sa kamatayan.</stanza>
+    <stanza type="verse" number="3">Ikaw ay Batis ng buhay,
+Gaya 'ko'ng usang uhaw;
+Iinumin Kita hanggang
+Ikaw sa 'ki'y umapaw.</stanza>
+    <stanza type="verse" number="4">'Sa'sang-tabi ang sarili,
+Ikaw lang ang susundin,
+Upang sa Iyo mapawangis,
+Ikaw ay paagusin.</stanza>
+  </lyrics>
+</hymn>

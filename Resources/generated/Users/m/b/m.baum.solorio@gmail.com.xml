@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Miguel</firstname>
+<lastname>Solorio</lastname>
+<email>m.baum.solorio@gmail.com</email>
+<password>$1$cIG7A1iX$G9ubG75t6KzZbbNyuX2sq0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>63.246.186.160</ipaddress>
+<createdate>2009-05-11 18:38:18</createdate>
+<lastupdateddate>2009-09-15 19:16:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+    </favourites>
+</user>

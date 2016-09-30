@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gabriel</firstname>
+  <lastname>Botha</lastname>
+  <email>gabriel9974@gmail.com</email>
+  <password>$2y$10$XAz0OBsWOE25Q8gdNAc6G.AQIgzPYqqBKtsMuERhnnoNMvih1zmq2</password>
+  <gender/>
+  <country/>
+  <ipaddress>105.186.193.28</ipaddress>
+  <createdate>2016-04-15 14:10:32</createdate>
+  <lastupdateddate>2016-04-15 15:24:06</lastupdateddate>
+  <lastlogindate>2016-04-15 15:19:30</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+    <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jack</firstname>
+<lastname>Lavallet</lastname>
+<email>hymnal.net@lavallet.net</email>
+<password>$1$V.CmvZGk$1A.HA7tg3KRqRjiVGpq5/0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>74.244.232.58</ipaddress>
+<createdate>2009-04-15 22:23:18</createdate>
+<lastupdateddate>2009-09-15 18:29:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="719">Like a river, glorious</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

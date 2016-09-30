@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kathryn</firstname>
+  <lastname>Butler</lastname>
+  <email>katsbee.butler@btinternet.com</email>
+  <password>$2y$10$S33CAAoQaeEQxilf01K2sOn0DeTjMeGsHO4e8jBFpH6r.7CFzzAWi</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.136.46.60</ipaddress>
+  <createdate>2015-03-02 09:08:05</createdate>
+  <lastupdateddate>2015-10-05 07:23:50</lastupdateddate>
+  <lastlogindate>2015-04-17 14:39:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+    <fav category="default" type="h" num="1064">I love to tell the story</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+    <fav category="default" type="ns" num="24">Lord, You are more precious than silver</fav>
+    <fav category="default" type="h" num="987">One day when heaven was filled with His praises</fav>
+    <fav category="default" type="h" num="151">Sing we the King who is coming to reign</fav>
+    <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+    <fav category="default" type="h" num="674">The Lord will silently plan for thee</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+    <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+  </favourites>
+</user>

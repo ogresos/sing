@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ikaw ang Bato sa dayon</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG PAGKAMALANGKUBON-SA-TANAN</category>
+  <numbers><cebuano num="199"/><chinese num="151"/><english num="199"/><german num="199"/><korean num="151"/><portuguese num="105"/><russian num="307"/><tagalog num="199"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 3./ 2// 1 3./ 4// | 5 - 3 - | 5 2./ 3// 4 3./ 2// | 3 - - 0 (break) | 3 3./ 3// 4 5./ 6// | 5 - 3 - | 5 2./ 3// 4 3./ 2// | 1 - - 0 (break) | 6 6./ 6// ._1 7./ 6// | 6 - 5 - | 5 6./ 5// 4 5./ 4// | 3 - - 0 (break) | 6 6./ 6// ._1 7./ 6// | 6 - 5 - | 5 2./ 7// 7/( 6/) 5./ 4#// | 5( - 4) - (break) | (Chorus) 3 3./ 2// 1 3./ 4// | 5 - 3 - | 5 2./ 3// 4 3./ 2// | 3 - - 0 (break) | 3 3./ 3// 4 5./ 6// | 5 - 3 - | 5 2./ 3// 4 3./ 2// | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="199"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ikaw ang Bato sa dayon,
+Nasiak alang nako;
+Espiritu Kang giinom,
+Nahiusa Ko Nimo.
+Batong malig-on kaayo,
+Kami gitukod didto;
+Nausa Nimo's pagtubos,
+Wala nay makatarug.</stanza>
+	<stanza type="chorus" number="">Pagkamao Mo, Ginoo,
+Hingpit nga alang namo,
+Bililhon, hiligugmaon,
+Magpa'mulos, maghandom.</stanza>
+	<stanza type="verse" number="2">Bato nga daghang nisulay,
+Bililhon sa Dios ug tawo;
+Malig-on ug kasaligan,
+Kusog Mo katingad-an.
+Ikaw ang Bato nga buhi,
+Hatag sa Dios, pinili,
+Kanamo pagkagamhanan,
+Kinabuhi nga dayon.</stanza>
+	<stanza type="verse" number="3">Ikaw ang Patukoranan,
+Dios nagbutang, malig-on;
+Ning lig-ong patukoranan
+Dunay kasegurohan.
+Para namo wa nay lain
+Nga patukoranan pa,
+Bugtong Kang patukoranan
+Hangtud sa kahangturan.</stanza>
+	<stanza type="verse" number="4">Espirituhanong balay,
+Ikaw Batong pamag-ang,
+Judio ug mga Gentil
+Gitukod Mo pag-usa.
+Ikaw 'sab Ulohang Bato,
+Lugwa sa datong grasya,
+Among tabon ug himaya,
+Daygon's kasingkasing ko.</stanza>
+  </lyrics>
+</hymn>

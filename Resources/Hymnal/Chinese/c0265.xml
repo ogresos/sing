@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>這是我見證</title>
+  <index>true</index>
+  <category>得救的證實與快樂－一般</category>
+  <numbers><cebuano num="308"/><chinese num="265"/><english num="308"/><french num="58"/><german num="308"/><korean num="265"/><portuguese num="168"/><russian num="63"/><spanish num="151"/><tagalog num="308"/></numbers>
+  <creators>
+	<author biodate="1820-1915" biolink="">Translated from Fanny Jane Crosby</author>
+  </creators>
+  <melody>| 0 - - 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 5/ 3/ 5/ | ._1. 7. 6/ 5/ 4#/ (break) | 5.( 5.) 3/ 2/ 1/ | 5. 5. 4/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1/ 2/ 7_./ (break) | 1.( 1.) (Chorus) 5/ 5/ 5/ | ._1. 5. 6/ 6/ 6/ | 5.( 5.) 5/ 5/ 5/ | 6. ._1. 7/ 7/ 6/ (break) | 7.( 7.) 7/ ._1/ ._2/ | ._1. 5. 6/ 5/ 6/ | 5.( 5.) 1/ 2/ 3/ | 4. 2. 1./ 2// 7_./ | 1.( 1.) 0. |</melody>
+  <layout>
+	<singingstanza>有 福 的 確 據， 基 督 屬 我！ 豫 嘗 神 榮 耀， 何 等 快 活！ 蒙 寶 血 贖 回， 領 受 恩 賜； 由 聖 靈 重 生， 作 神 後 嗣。 這 是 我 見 證， 是 我 詩 歌， 讚 美 我 救 主， 口 唱 心 和！ 這 是 我 見 證， 是 我 詩 歌， 讚 美 我 救 主， 終 日 歡 樂！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="308"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">有福的確據，基督屬我！
+豫嘗神榮耀，何等快活！
+蒙寶血贖回，領受恩賜；
+由聖靈重生，作神後嗣。</stanza>
+	<stanza type="chorus" number="">這是我見證，是我詩歌，
+讚美我救主，口唱心和！
+這是我見證，是我詩歌，
+讚美我救主，終日歡樂！</stanza>
+	<stanza type="verse" number="2">完全的順服，完全甘甜，
+被提的景象，顯在眼前；
+似乎有聲音，從天而來，
+細說主憐憫，柔述主愛。</stanza>
+	<stanza type="verse" number="3">完全的順服，完全安息，
+與主時交通，何等福氣；
+儆醒且等候，仰望主來，
+充滿主甘甜，浸透主愛。</stanza>
+  </lyrics>
+</hymn>

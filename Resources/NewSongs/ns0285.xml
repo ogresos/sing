@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Come, Lord Jesus</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ's Second Coming</category>
+  <numbers><chinese num="ts:929"/><english num="ns:285"/><lsmyp num="95"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Heidi Johnsen">H. J.</composer>
+  </creators>
+  <hymncode>123143253</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | F/C - C | G/B - - | C - - | Em - - | F - - | Gsus4 - - | G - - | C - - | F/A - - | G/B - G | Am - - | F - - | Dm7 - - | Gsus4 - - | G7 - - | C - - | F/C - C | G/B - G | C - - | Em - - | F - - | Gsus4 - - | G - - | C - - | F/A - - | G/B - G | Am - - | F - - | G - F | Em - - | Am - C/G | F - - | G7 - - | C - - | G/B - - | Am - - | F - - | Gsus4 - - | G - - | Am - - | F - - | C - - | G - - | Am - - | F - - | C/E - - | F - - | Dm7 - - | G7 - - | F/C - - | C - - |</chords>
+  <melody>| 0 - 1/( 2/) | 3 - 1 | 4 - 3 | 2 - 5 | 3 - 1/( 2/) | 3 3 3/ 5/ | 6 6 5 | 5 2( - | 2) 0 1/ 2/ | 3 - 1 | 4( 5) 6 | 5 - 2 | 1 - 1/ 7_./ | 1( - - | 3) - - | 2( - - (break) | 2) 0 (Verse_2) 1/ 2/ | 3 - 1/ 1/ | 4( - 3) | 2 - 5 | 3. 1/ 1/ 2/ | 3 3 5 | 6 - 5 | 2( - - | 2) 0 1/( 2/) | 3 - 1 | 4( 5) 6 | 5( - 2) | 1 - 6_./( 7_./) | 1 1 4/ 3/ | 2( 3) 4 | 5 5 3 | 2 1 1/ 7_./ | 1( - - | 2) - - (break) | 1 - (Chorus) 0/ 5/ | 5 6 7 | ._1 - - | 6 - - | 6 5 0/ 5/ | 5 6 7 | ._1 - - | 6 - - | 5( 4/)( 3/)( 3) | 2 - - | ._1 - - | 6 - - | 5 - - | 6 - - | 1 - - | 2 - 1 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">As we be -- come the same as Christ In life, na -- ture, ex -- pres -- sion, and func -- tion, We are qual -- i -- fied to work with Him For His Bod -- y. As we trust in the Lord help -- less -- ly, De -- pend on Him as our love and strength, And lis -- ten to His speak -- ing, Our hope is to be rap -- tured Through the re -- demp -- tion of our bod -- y. And our prayer is&amp;mdash; "Come, Lord Je -- sus!" And our prayer is&amp;mdash; "Come, Lord Je -- sus!" "Come, Lord Je -- sus! Lord Je -- sus, come!"</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Song of Songs 7-8</link>
+  </links>
+  <videos>
+    <video title="" youtubeid="FoeJoFiUFm0"/>
+  </videos>
+  <music>
+    <midi location="ns" length="86">ns0285.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">As we become the same as Christ
+In life, nature, expression, and function,
+We are qualified to work with Him
+For His Body.</stanza>
+    <stanza type="verse" number="2">As we trust in the Lord helplessly,
+Depend on Him as our love and strength,
+And listen to His speaking,
+Our hope is to be raptured
+Through the redemption of our body.</stanza>
+    <stanza type="chorus" number="">And our prayer is&amp;mdash;
+"Come, Lord Jesus!"
+And our prayer is&amp;mdash;
+"Come, Lord Jesus!"
+"Come, Lord Jesus!
+Lord Jesus, come!"</stanza>
+  </lyrics>
+</hymn>

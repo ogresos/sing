@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Aaron</firstname>
+    <lastname>Arroyo</lastname>
+    <email>aaron.a.arroyo@gmail.com</email>
+    <password>dUro4l9teTaRY1%2B6AtUbWQ%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>24.17.162.138</ipaddress>
+    <createdate>2012-03-06 02:07:29</createdate>
+    <lastupdateddate>2012-03-06 02:12:20</lastupdateddate>
+    <lastlogindate>2012-03-06 02:07:32</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+        <fav category="default" type="h" num="846">Oh, may my spirit flow</fav>
+    </favourites>
+</user>

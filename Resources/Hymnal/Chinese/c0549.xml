@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>祂醫治我讚美祂名</title>
+  <index>true</index>
+  <category>神醫－有如當初</category>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>5553165311235432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <layout>
+	<singingstanza>祂 醫 治 我， 讚 美 祂 名！ 我 要 歌 頌 祂 的 救 贖； 祂 釋 放 我 脫 離 疾 病， 大 能 的 主 是 我 大 夫。 祂 醫 治 我， 祂 醫 治 我， 祂 有 權 柄 來 醫 治 我， 許 多 的 人 祂 已 救 活， 我 今 相 信 祂 醫 治 我。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0549_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">祂醫治我，讚美祂名！
+我要歌頌祂的救贖；
+祂釋放我脫離疾病，
+大能的主是我大夫。</stanza>
+	<stanza type="chorus" number="">祂醫治我，祂醫治我，
+祂有權柄來醫治我，
+許多的人祂已救活，
+我今相信祂醫治我。</stanza>
+	<stanza type="verse" number="2">祂醫治我，我用信心
+簡單相信祂說的話；
+滿有希望，滿有安寧，
+信祂必使我離病榻。</stanza>
+	<stanza type="verse" number="3">祂醫治我，我心相信，
+來摸祂的衣裳繸子，
+祂的能力流通我身，
+沉疔霍然得了醫治。</stanza>
+	<stanza type="verse" number="4">祂醫治我，有如當初
+祂來擔當疾病、罪過；
+祂的大能依然如故，
+我的救主永遠活著。</stanza>
+	<stanza type="verse" number="5">祂醫治我，我已求尋
+許多次數，但未得著；
+如今我是全心相信，
+因信，祂今使我再活。</stanza>
+  </lyrics>
+</hymn>

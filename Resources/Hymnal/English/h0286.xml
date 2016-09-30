@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Of Jesus' love that sought me</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;Loved by the Lord</category>
+  <numbers><cebuano num="286"/><chinese num="231"/><english num="286"/><french num="52"/><german num="286"/><korean num="231"/><portuguese num="156"/><russian num="57"/><spanish num="138"/><tagalog num="286"/></numbers>
+  <creators>
+	<author biodate="1862-1929" biolink="">Lelia Naylor Morris</author>
+	<composer biodate="1862-1929" biolink="">Lelia Naylor Morris</composer>
+  </creators>
+  <meter>7.6.7.6. with chorus.</meter>
+  <hymncode>5517653451567</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - F/C | C - G/D | C/E - F | G - - | Dm - G7 | C - C7/E | D7 - D7/F# | G - - | C - - | Dm - - | G7 - - | C - C7/E | F - Dm | C/E - F | C/G - G7 | C - - | C - - - | D7 - - - | G7 - - - | C - G7 - | C - C7/E - | F - Dm - | C/G - G7 - | C F/C C 0 |</chords>
+<guitarChords>| C - - | C - F | C - - | C - - | G - - | G - G7 | C - - | D7 - - | G - - | C - - | G - - | G7 - - | C - C7 | F - - | C - - | G - - | C - - | C - - - | F - - - | G7 - - - | C - - - | C - C7 - | F - - - | C - G7 - | C F C 0 |</guitarChords>
+  <melody>| 0 - 5 | 5. ._1/ 7/ 6/ | 5 3 4 | 5. ._1/ 5/ 6/ | 7 - 5 | ._2. ._2/ 6/ 7/ | ._1 5 ._3 | ._2. 6/ 7/ ._1/ (break) | 7 - 6/( 5/) | ._3. ._3/ ._4/ ._3/ | ._3 ._2 5 | ._2. ._2/ ._3/ ._2/ | ._2( ._1) ._1 | ._1. ._1/ 7/ 6/ | 5 ._1 ._4 | ._3. ._3/ ._2/ ._2/ | ._1 - 0 (break) | [4/4] (Chorus) 5./ 4#// 5./ 4#// 5 ._3 | ._2( - 6) - | 7./ 6#// 7./ ._1// ._2 ._2# | ._3 - - 0 (break) | 5./ 4#// 5./ ._1// ._3 ._1 | ._2./ ._1#// ._2./ ._3// (.._4 (.._2 | ._5./ ._3// ._1./ 6// ._1 ._2 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Of Je -- sus' love that sought me, When I was lost in sin; Of won -- drous grace that brought me Back to His fold a -- gain; Of heights and depths of mer -- cy, Far deep -- er than the sea, And high -- er than the heav -- ens, My theme shall ev -- er be. Sweet -- er as the years go by, Sweet -- er as the years go by; Rich -- er, full -- er, deep -- er, Je -- sus' love is sweet -- er, Sweet -- er as the years go by.</singingstanza>
+  </layout>
+  <copyright>Copyright 1912. Renewed 1940 by Nazarene Publishing House. Used by permission.</copyright>
+  <links>
+	<link type="group">hymnal-subj006.xml</link>
+  </links>
+  <music>
+	<midi location="h" length="59">e0286_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Of Jesus' love that sought me,
+  When I was lost in sin;
+Of wondrous grace that brought me
+  Back to His fold again;
+Of heights and depths of mercy,
+  Far deeper than the sea,
+And higher than the heavens,
+  My theme shall ever be.</stanza>
+	<stanza type="chorus" number="">Sweeter as the years go by,
+Sweeter as the years go by;
+Richer, fuller, deeper,
+Jesus' love is sweeter,
+  Sweeter as the years go by.</stanza>
+	<stanza type="verse" number="2">He trod in old Judea
+  Life's pathway long ago;
+The people thronged about Him,
+  His saving grace to know.
+He healed the broken-hearted,
+  And caused the blind to see;
+And still His great heart yearneth
+  In love for even me.</stanza>
+  </lyrics>
+</hymn>

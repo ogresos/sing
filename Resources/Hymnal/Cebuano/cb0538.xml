@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tuyo ug kalipay sa Dios</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;NGA NAGPUYO SA SULOD</category>
+  <numbers><cebuano num="538"/><chinese num="399"/><dutch num="23"/><english num="538"/><french num="96"/><german num="538"/><korean num="399"/><portuguese num="265"/><russian num="99"/><spanish num="241"/><tagalog num="538"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_.. 1/ 7_./ 1/ (break) | 2 - 1./ 2// | 3. 1/ 2/ 3/ | 2 1 1./ 6_.// | 5_./ 1/ 2 7_. (break) | 1 - (Chorus) 3./ 4// | 5. 3/ 4/ 3/ | 3 2 2./ 3// | 4. 2/ 3/ 4/ (break) | 3 - 3./ 2// | 1. 2/ 1/ 7_./ | 6_. 1 1./ 2// | 3/ 1/ 2 7_. | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="538"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Tuyo ug kalipay sa Dios
+Ibugna's Cristo nako;
+Di relihiyong makita,
+Kondi' Cristong na's sulod.</stanza>
+	<stanza type="chorus" number="">Tuyo ug kalipay sa Dios
+Cristo isulod nako;
+Dili dayag nga pagbuhat,
+Kondi' Cristong tanan ko.</stanza>
+	<stanza type="verse" number="2">Tuyo ug kalipay sa Dios
+Mabuhi's Cristo nako;
+Way pakitang batasan lang,
+Kondi' S'yang nagbuhat's su'd.</stanza>
+	<stanza type="verse" number="3">Tuyo ug kalipay sa Dios
+Cristo mahulma nako;
+Di mga porma ang sundon,
+Kondi' S'yang nagtubo's su'd.</stanza>
+	<stanza type="verse" number="4">Tuyo ug kalipay sa Dios
+Cristo magbalay's sulod;
+Di pakitang pag-alagad,
+Kondi' S'yang nagpuyo's su'd.</stanza>
+	<stanza type="verse" number="5">Tuyo ug kalipay sa Dios
+Ma-paglaum ko's Cristo;
+Di objectibong himaya,
+Kondi' S'yang subjectibo.</stanza>
+	<stanza type="verse" number="6">Tuyo ug kalipay sa Dios
+Ma-tanan's Cristo nako;
+Way laing mapanag-iya,
+Si Cristo ra sa dayon.</stanza>
+  </lyrics>
+</hymn>

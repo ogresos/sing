@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Si Kristo'y tumatawag</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;ANG MGA MANDARAIG</category>
+  <numbers><cebuano num="1273"/><chinese num="ts:214"/><english num="1273"/><french num="162"/><german num="1273"/><portuguese num="402"/><russian num="491"/><spanish num="388"/><tagalog num="1273"/></numbers>
+  <melody>| 0 - - 1./ 2// | 3./ 3// 3./ 3// 3 1./ 3// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( ._1./) 5./ 3// (break) | 2 - - 3./ 4// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( (.._1./) 1./ 2// | 3./ 3// 3./ 3// 3//( 5./) 2./ 3// (break) | 1 - - (Chorus) 5./ 5// | 5 - - {6/( 5/) 3/} | ._1 - - 7./ 6// | 5./ 5// 5./ 5// 6// 5./ 5./ 3// (break) | 2 - - 3./ 4// | 5./ 5// 5./ 5// 5 5./ 5// | 6./ 6// 6./ 6// 6//( (.._1./) 1./ 2// | 3./ 3// 3./ 3// 3//( 5./) 2./ 3// | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1043"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Si Kristo'y tumatawag,
+Buksan ang iyong pandinig.
+Amen sa Kanyang tawag!
+Manaig!
+Ang ekklesia'y nabigo,
+Sa k'alaman palalo,
+Sa buhay 'di lumago,
+Manaig!</stanza>
+	<stanza type="chorus" number="">Manaig! Manaig!
+Manaig sa Krist'yanismong nasawi!
+Ang gawa mo'y itabi,
+At turong naghahati;
+Kanin si Hesus lagi&amp;mdash;
+Manaig!</stanza>
+	<stanza type="verse" number="2">Ang kumain ay wasto,
+Diyos ang nagbawi nito;
+Kaaway'y matatalo&amp;mdash;
+Manaig!
+Iwan ang pagtuturo,
+Tamasahin ang puno
+Ng buhay na si Kristo&amp;mdash;
+Manaig!</stanza>
+	<stanza type="verse" number="3">Di mabago ng turo
+Ang kalul'wa ng tao,
+Kanin lamang si Kristo&amp;mdash;
+Manaig!
+Manaig at kumain,
+Mag-isa, sa pulong din,
+Kanin Siya bilang piging&amp;mdash;
+Manaig!</stanza>
+	<stanza type="verse" number="4">Isilang ang lalaki,
+Panginoo'y uuwi,
+Pagkain ang nagsanhi&amp;mdash;
+Manaig!
+Kung anak-lalake ka,
+Hinog na ang ekklesia,
+Handa'ng kasintahan Niya&amp;mdash;
+Manaig!</stanza>
+  </lyrics>
+</hymn>

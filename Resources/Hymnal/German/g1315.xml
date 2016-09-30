@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Freut euch! Denn unser Bräutigam kommt</title>
+  <index>true</index>
+  <category>HOFFNUNG DER HERRLICHKEIT&amp;mdash;Der Hochzeitstag</category>
+  <numbers><cebuano num="1315"/><chinese num="ts:905"/><english num="1315"/><german num="1315"/><russian num="498"/><spanish num="448"/></numbers>
+  <melody>| 0 - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. (break) | 1 - - (Chorus) 7_./ 1/ | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 6_. 3 (break) | 3( - 2) 7_./ 1/ | 2 2 2 2 | 2 5 5/ 2/ 7_./ 2/ | 2 1 7_. 6_. (break) | 5_. - - 5_. | 5_. 3 2 1 | 7_. 6_. 6_./ 1/ 7_./ 6_./ | 5_. 5_. 1 7_./( 1/) (break) | 2 - - 1/( 2/) | 3 4 3 7_. | 2 1 6_./ 1/ 7_./ 6_./ | 5_. 1 1 7_. | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Freut euch! Denn un -- ser Bräu -- ti -- gam kommt, Nicht mehr lang es sich hin -- zieht, Bald ru -- fen wir die Hoch -- zeit aus und Es er -- klingt ein neu -- es Lied. Wun -- der -- ba -- rer Tag! Glanz -- vol -- ler Mor -- gen, Wenn Er kommt zu uns von fern. Das Ge -- fäß ge -- füllt, die Lam -- pe leuch -- tet, So emp -- fan -- gen wir den Herrn. Freut euch! Denn un -- ser Bräu -- ti -- gam kommt, Nicht mehr lang es sich hin -- zieht, Bald ru -- fen wir die Hoch -- zeit aus und Es er -- klingt ein neu -- es Lied.</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Matthew 25:1-13</link>
+  </links>
+  <music>
+	<midiref type="h" num="1315"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Freut euch! Denn unser Bräutigam kommt,
+    Nicht mehr lang es sich hinzieht,
+Bald rufen wir die Hochzeit aus und
+    Es erklingt ein neues Lied.</stanza>
+	<stanza type="chorus" number="">Wunderbarer Tag! Glanzvoller Morgen,
+    Wenn Er kommt zu uns von fern.
+Das Gefäß gefüllt, die Lampe leuchtet,
+    So empfangen wir den Herrn.
+Freut euch! Denn unser Bräutigam kommt,
+    Nicht mehr lang es sich hinzieht,
+Bald rufen wir die Hochzeit aus und
+    Es erklingt ein neues Lied.</stanza>
+	<stanza type="verse" number="2">Auskaufen wolln wir jede Stunde,
+    Kaufen Öl, 's wird nicht gestöhnt,
+Dass unsere Gefässe voll sind,
+    Eh der Mitternachtsruf tönt.</stanza>
+	<stanza type="verse" number="3">Wir machen uns bereit zur Hochzeit
+    Mit dem Herrn, dem Menschensohn.
+Und nehmen teil an Christi Leiden,
+    Nicht verpassen wolln den Lohn!</stanza>
+	<stanza type="verse" number="4">Ja, mit Entrückung und viel Freude
+    Unser Hochzeitstag beginnt;
+Dann feiern wir eintausend Jahre, 
+    Unser Herz nur darauf sinnt!</stanza>
+  </lyrics>
+</hymn>

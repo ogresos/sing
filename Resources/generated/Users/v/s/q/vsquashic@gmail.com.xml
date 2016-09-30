@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Vivian</firstname>
+    <lastname>Squashic</lastname>
+    <email>vsquashic@gmail.com</email>
+    <password>E1XJ%2FQtmZAJ4pGDrYSvjow%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.245.52.168</ipaddress>
+    <createdate>2014-01-05 16:20:28</createdate>
+    <lastupdateddate>2014-01-05 16:29:11</lastupdateddate>
+    <lastlogindate>2014-01-05 16:20:28</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="882">Faith is the Victory</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="1009">Would you be free from your burden of sin</fav>
+    </favourites>
+</user>

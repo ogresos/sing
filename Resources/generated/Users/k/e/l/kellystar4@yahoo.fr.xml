@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>kelly</firstname>
+    <lastname>stephie</lastname>
+    <email>kellystar4@yahoo.fr</email>
+    <password>hhWkzXAQbyjMP5vmwSWl5g%3D%3D</password>
+    <gender></gender>
+    <country>Cameroon</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-10 01:07:10</createdate>
+    <lastupdateddate>2014-05-10 01:07:10</lastupdateddate>
+    <lastlogindate>2014-05-10 01:07:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="870b">Stand up! stand up for Jesus (Alternate Tune)</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    </favourites>
+</user>

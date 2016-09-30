@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>為著你同在</title>
+  <index>true</index>
+  <category>聚會－散會</category>
+  <numbers><cebuano num="869"/><chinese num="630"/><english num="869"/><korean num="630"/><portuguese num="410"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - 1 - | 2. 2/ 3 4 | 3 - - - (break) | 3 - 2 1 | 6. 6/ 5 5 | 5 - 4( 3) | 2 - - - (break) | 3 - 3 4 | 5 - 1 - | 6. 6/ 6 3 | 4 - - - (break) | 4 - 3 2 | 5 1 1 4 | 3 - 2 - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>為 著 你 同 在 並 你 活 的 話， 離 去 前， 讚 美 還 要 向 你 發； 我 們 已 為 你 寶 貴 所 吸 引， 你 有 力 信 息 已 抓 住 我 心。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="54"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">為著你同在並你活的話，
+離去前，讚美還要向你發；
+我們已為你寶貴所吸引，
+你有力信息已抓住我心。</stanza>
+	<stanza type="verse" number="2">你話對於我，是靈、是生命，
+使我得餧養，時將我供應；
+要將我變化，模成你形像，
+直到我成熟，滿有你身量。</stanza>
+	<stanza type="verse" number="3">求將你自己，更多供應我，
+使我在靈裡行動並生活，
+並將我保守在你交通裡，
+直到藉你恩，我們再聚集。</stanza>
+  </lyrics>
+</hymn>

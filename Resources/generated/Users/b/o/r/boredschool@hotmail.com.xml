@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Jacque</firstname>
+<lastname>Bourgeois</lastname>
+<email>boredschool@hotmail.com</email>
+<password>$1$UwtfKv8m$Q9YSRg6L2ra/0ovTHHR561</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>207.170.238.132</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    </favourites>
+</user>

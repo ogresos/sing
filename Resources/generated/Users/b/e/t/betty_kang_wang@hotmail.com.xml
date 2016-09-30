@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Conomy</firstname>
+  <lastname/>
+  <email>betty_kang_wang@hotmail.com</email>
+  <password>$2y$10$EMdyFCKCXaOB.qQpb.dWEecyYfRG3OV42GY3bUGqsqzGI/FSPZCFC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.84.79.207</ipaddress>
+  <createdate>2015-02-22 06:00:56</createdate>
+  <lastupdateddate>2015-02-22 06:01:54</lastupdateddate>
+  <lastlogindate>2015-02-22 06:01:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+  </favourites>
+</user>

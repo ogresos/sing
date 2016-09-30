@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles/>
+  <firstname>Ed</firstname>
+  <lastname>Whitley</lastname>
+  <email>edwhitleyjr@gmail.com</email>
+  <password>R6nOAre%2B2Fe8Aa8BfvbGbQ%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>24.98.149.24</ipaddress>
+  <createdate>2014-04-01 22:16:46</createdate>
+  <lastupdateddate>2014-11-12 21:24:19</lastupdateddate>
+  <lastlogindate>2014-11-12 21:24:19</lastlogindate>
+  <failedlogincount>1</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="684">Come, ye disconsolate, where'er ye languish</fav>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="391b">Guide me, O Thou gracious Savior (Alternate Tune)</fav>
+    <fav category="default" type="h" num="529">How tedious and tasteless the hours</fav>
+    <fav category="default" type="h" num="160">King of my life, I crown Thee now</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+  </favourites>
+</user>

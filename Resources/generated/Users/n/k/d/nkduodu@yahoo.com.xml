@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Nana</firstname>
+    <lastname>Duodu</lastname>
+    <email>nkduodu@yahoo.com</email>
+    <password>uFsCNmmMXeYWEECwNn9F5Q%3D%3D</password>
+    <gender></gender>
+    <country>Ghana</country>
+    <ipaddress>141.101.99.85</ipaddress>
+    <createdate>2014-04-28 22:44:10</createdate>
+    <lastupdateddate>2014-04-28 22:44:10</lastupdateddate>
+    <lastlogindate>2014-04-28 22:44:10</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    </favourites>
+</user>

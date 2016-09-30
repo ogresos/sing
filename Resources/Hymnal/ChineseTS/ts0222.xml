@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>呼吸生命氣息</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <melody>| ._1 7./ 6// | 5. 4/ | 3 2 | 1. 5/ | 6. 6/ | 7. 7/ (break) | ._1. ._1/ | ._1/ 7/ 6/ 5/ | 5./ 4// 3/ ._1/ | ._1/ 7/ 6/ 5/ (break) | 5./ 4// 3/ 3/ | 3/ 3/ 3/ 3//( 4//) | 5. 4//( 3//) | 2/ 2/ 2/ 2//( 3//) (break) | 4. 3//( 2//) | 1/( ._1) 6/ | 5./( 4// 3/) 4/ | 3 2 | 1 - |</melody>
+  <layout>
+	<singingstanza>阿 利 路 亞， 主 是 生 命， 如 氣 給 人 呼 吸！ 祂 向 門 徒 吹 一 口 氣， 並 說， 『你 們 接 受 聖 氣。』 現 在 我 們 呼 吸， 現 在 我 們 呼 吸， 呼 吸 我 主 生 命 氣 息。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1015"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">阿利路亞，主是生命，
+如氣給人呼吸！
+祂向門徒吹一口氣，
+並說，
+『你們接受聖氣。』
+現在我們呼吸，
+現在我們呼吸，
+呼吸我主生命氣息。</stanza>
+  </lyrics>
+</hymn>

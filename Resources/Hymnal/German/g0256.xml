@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, blas auf uns, oh Herr, wir warten hier auf Dich</title>
+  <index>true</index>
+  <category>FÜLLE DES GEISTES&amp;mdash;Als der Wind</category>
+  <numbers><cebuano num="256"/><chinese num="214"/><english num="256"/><german num="256"/><korean num="214"/><portuguese num="138"/><russian num="448"/><tagalog num="256"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <key>D Major</key>
+  <melody>| 0 - 0/ 5_./ 6_./ 1/ | 3./ 3// 3. 3/ 2/ 1/ | 4./ 4// 4. 4/ 3/ 2/ | 4./ 4// 4. 4/ 3/ 2/ | 5./ 5// 5. 5_./ 6_./ 1/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 (break) | 1( - 1/) (Chorus) 5/ 5/ 5/ | 7( - 7/) 7/ 6/ 5/ | ._1( - ._1/) 3/ 2/ 3/ | 4/ 5/ 7 - 6 | 5( - 5/) 5/ 5/ 5/ (break) | 3./ 3// 3. 3/ 2/ 1/ | ._1./ ._1// (.._1. ._1/ 7/ 6/ | 5/ 6/ 3 - 2 | 1( - 1/) 0. |</melody>
+  <layout>
+	<singingstanza>Oh, blas auf uns, oh Herr, wir war -- ten hier auf Dich, Oh, blas mit star -- kem Wind, be -- frei uns in -- ner -- lich,  Oh, blas bis un -- ter uns Er -- we -- ckung greift um sich; Oh, blas auf uns nun, be -- ten wir! Oh, blas auf uns, ge -- ra -- de jetzt! Bis wir sind wach und frei -- ge -- setzt! Auf uns send Dein -- en Wind, Bis wir ganz bren -- nend sind! Oh, blas auf uns, ge -- ra -- de jetzt!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="256"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Oh, blas auf uns, oh Herr, wir warten hier auf Dich,
+Oh, blas mit starkem Wind, befrei uns innerlich, 
+Oh, blas bis unter uns Erweckung greift um sich;
+Oh, blas auf uns nun, beten wir!</stanza>
+	<stanza type="chorus" number="">Oh, blas auf uns, gerade jetzt!
+Bis wir sind wach und freigesetzt!
+Auf uns send Deinen Wind,
+Bis wir ganz brennend sind!
+Oh, blas auf uns, gerade jetzt!</stanza>
+	<stanza type="verse" number="2">Oh, blas doch Liebe sanft ins kalte Herz hinein,
+Oh, blas bis Himmelsluft nimmt unsre Seele ein.
+Oh, blas bis alle Lauheit ganz verjagt wird sein;
+Oh, blas auf uns nun, beten wir!</stanza>
+	<stanza type="verse" number="3">Oh, blas mit Himmelskraft, stärk unsren Geist geschwind,
+Oh, blas mit Leben, Herr, und nur in Dir uns find,
+Oh, blas so fest und stark bis wir ganz brennend sind;
+Oh, blas auf uns nun, beten wir!</stanza>
+  </lyrics>
+</hymn>

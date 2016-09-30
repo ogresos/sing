@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bob</firstname>
+  <lastname>Danker</lastname>
+  <email>bob@lsm.org</email>
+  <password>$2y$10$EPWE9dQXlSNajHoGNC/C2e18xYlCJsdNcT/vYvMNOxvRqf0/XDIBy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.6.114.245</ipaddress>
+  <createdate>2014-12-30 02:29:18</createdate>
+  <lastupdateddate>2015-11-18 17:46:26</lastupdateddate>
+  <lastlogindate>2015-11-18 17:46:26</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

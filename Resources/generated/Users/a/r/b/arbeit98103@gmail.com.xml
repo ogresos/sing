@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Paul</firstname>
+<lastname>Gilchrist</lastname>
+<email>arbeit98103@gmail.com</email>
+<password>$1$9bgogIGk$/HKmaDag4UV5lDCh.ooZo.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>220.138.109.230</ipaddress>
+<createdate>2009-05-11 18:11:19</createdate>
+<lastupdateddate>2009-09-15 19:16:39</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="13">I need You, Jesus</fav>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+        <fav category="default" type="h" num="545">When this passing world is done</fav>
+    </favourites>
+</user>

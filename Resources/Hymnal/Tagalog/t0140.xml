@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O tanawing mal'walhati</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KALUWALHATIAN</category>
+  <numbers><chinese num="121"/><english num="140"/><korean num="121"/><tagalog num="140"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="140"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O tanawing mal'walhati
+Ang tao ng pighati;
+Dala'y tagumpay sa digma,
+Lahat luluhuran Siya.
+Putungan Siya! Siya'y nanaig.
+Putungang Mandaraig.</stanza>
+    <stanza type="verse" number="2">Pinaglaruan ng tao,
+Putong tinik sa ulo;
+Nguni't putong ngayo'y glorya,
+Anghel, banal sumamba.
+Putungan Siya! Siya'y putungan!
+Mahal ng Diyos, putungan!</stanza>
+    <stanza type="verse" number="3">Maysala, putungan mo Siya,
+Samsam ka Niya sa digma;
+Labis-labis kagalakan,
+Puso'y Kanyang luklukan.
+Putungan Siya! Putungan Siya!
+Putungang Tagab'yaya!</stanza>
+    <stanza type="verse" number="4">O pakinggan ang papuri,
+Malakas ng pagbunyi;
+Hesus sa kata's-taasan,
+Bigay Niya'y kagalakan,
+Putungan Siya, Siya'y putungan!
+Siyang kataas-taasan.</stanza>
+    <stanza type="note" number="">(Isinalin mula sa Intsik)</stanza>
+  </lyrics>
+</hymn>

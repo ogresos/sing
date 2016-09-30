@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>ovo</firstname>
+  <lastname/>
+  <email>godswonders@msn.com</email>
+  <password>$2y$10$oFVKYchXhgJFGTihRzD8Te4Pk8SxfxKCDFc7ARKHeSAuwZs/tSIkC</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>2.218.201.115</ipaddress>
+  <createdate>2014-08-01 23:09:41</createdate>
+  <lastupdateddate>2014-08-31 09:31:45</lastupdateddate>
+  <lastlogindate>2014-08-31 09:31:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Nancy</firstname>
+  <lastname>Dearth</lastname>
+  <email>ndearth7777@gmail.com</email>
+  <password>$2y$10$eNeVQD9McS2tA.IehuqMPOxMp6fx7bbeVP74YCCR0gmvbG31J9.EC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>12.54.62.98</ipaddress>
+  <createdate>2015-07-01 13:46:24</createdate>
+  <lastupdateddate>2016-01-02 17:20:51</lastupdateddate>
+  <lastlogindate>2016-01-02 17:20:05</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="683">God holds the key of all unknown</fav>
+  </favourites>
+</user>

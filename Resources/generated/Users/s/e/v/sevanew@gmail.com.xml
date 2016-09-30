@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Vsevolod</firstname>
+  <lastname>Kazakov</lastname>
+  <email>sevanew@gmail.com</email>
+  <password>$2y$10$.pHm42OfSp4bMtvDEYGpXuUhOp/13kMWMaEfZR3N0gkvLp2zSxnYa</password>
+  <gender>M</gender>
+  <country>Russia</country>
+  <ipaddress>78.155.217.200</ipaddress>
+  <createdate>2009-05-05 03:17:49</createdate>
+  <lastupdateddate>2014-06-16 09:46:03</lastupdateddate>
+  <lastlogindate>2014-06-16 09:46:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="21">We praise Thee for Thy righteousness</fav>
+  </favourites>
+</user>

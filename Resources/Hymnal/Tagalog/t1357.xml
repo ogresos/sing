@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Anong galak</title>
+  <index>true</index>
+  <category>KATIYAKAN AT KAGALAKAN NG KALIGTASAN&amp;mdash;BINAGO SA BUHAY</category>
+  <numbers><chinese num="242"/><english num="1357"/><french num="60"/><portuguese num="171"/><russian num="213"/><spanish num="163"/><tagalog num="1357"/></numbers>
+  <music>
+    <midiref type="h" num="1357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O Anong galak,
+Puso ko'y pinuspos!
+O anong galak,
+Ginawang laman puso kong bato,
+Espiritu Niya'y pinabago ako.
+O anong galak,
+Puso ko'y pinuspos!</stanza>
+    <stanza type="verse" number="2">Espiritu Niya,
+Pinupuspos ako!
+Espiritu Niya,
+Pinaalis sala't kahinaan,
+Upang ako'y mamunga ng kat'wiran.
+Espiritu Niya,
+Pinupuspos ako!</stanza>
+  </lyrics>
+</hymn>

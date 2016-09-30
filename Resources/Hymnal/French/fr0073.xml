@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ô croix, révélant mon regard</title>
+  <index>true</index>
+  <category>La consécration&amp;mdash;l’emprise par l’amour du Seigneur</category>
+  <numbers><chinese num="332"/><english num="432"/><french num="73"/><korean num="332"/><portuguese num="199"/><tagalog num="432"/></numbers>
+  <creators>
+    <author biodate="1842-1906" biolink="">Translated from George Matheson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="432"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Amour qui ne me lâche pas,
+Mon âme se repose en Toi.
+Je rends la vie que je Te dois,
+Pour qu'en Ton profond océan,
+Son flot soit débordant.</stanza>
+    <stanza type="verse" number="2">Lumière éclairant mon sentier,
+Je rends ma faible flamme à Toi.
+Mon cœur son rayon Te renvoie,
+Pour qu'en Ton soleil si brillant,
+Son éclat soit plus grand.</stanza>
+    <stanza type="verse" number="3">Ô joie, même dans les douleurs,
+Mon cœur demeure ouvert à Toi.
+Dans la pluie l'arc-en-ciel je vois,
+Ce que Dieu promet n'est pas vain,
+Mes pleurs ont une fin.</stanza>
+    <stanza type="verse" number="4">Ô croix, révélant mon regard,
+Je n'ose m'éloigner de Toi.
+Ma gloire dans la boue se noie,
+Le sang de ce lieu a coulé,
+Jésus en moi est né.</stanza>
+  </lyrics>
+</hymn>

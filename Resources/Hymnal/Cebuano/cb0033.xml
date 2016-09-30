@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O Dios, gipili Mo kami</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGPILI NIYA</category>
+  <numbers><cebuano num="33"/><chinese num="31"/><english num="33"/><german num="33"/><korean num="31"/><portuguese num="24"/><russian num="14"/><tagalog num="33"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+	<author biodate="" biolink="">Translated by Francis P. Jones</author>
+  </creators>
+  <melody>| 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 1 6_. 4 | 3 2 1 - (break) | 5_. 6_. 5_.. 1/ | 1/( 7_./) 1/( 2/) 3 2 | 3 4 5 4/( 2/) | 1 7_. 1 - (break) | 2. 3/ 4 2 | 3. 4/ 5 3 | 5. 5/ 4/ 3/ 2/ 1/ | 5 - - - (break) | 5. 4/ 3/( 5/) 4/( 2/) | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="33"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O Dios, gipili Mo kami
+Sa wa pang kabuhatan;
+Gugmang matam-is nagdani
+Kang Cristo moduol mi.
+Ampingan Mo, ampingan Mo,
+Magpabilin ni Cristo,
+Magpabilin ni Cristo.</stanza>
+	<stanza type="verse" number="2">Bisan tanan mangabalhin,
+Apan Dios way pag-usab;
+Kaluoy N'ya'g pakigsaad
+Magpabilin's gihapon.
+Mga anak, mga anak,
+Daygon ta ang ngalan N'ya,
+Daygon ta ang ngalan N'ya.</stanza>
+	<stanza type="verse" number="3">Kaluoy's Dios isugilon,
+Ipagarbo ko's dayon;
+Libreng kaluoy way hunong,
+Nagtandog Ikaw sundon.
+Gimahal Mo, gimahal Mo,
+Bisan Anak gihatag,
+Bisan Anak gihatag.</stanza>
+	<stanza type="verse" number="4">Amahang mahigugmaon,
+Gugma Mo among daygon;
+Mag-awit mi's way paghunong
+Hangtud Anak makita,
+Himayaon, himayaon,
+Ang Dios ug ang Cordero,
+Ang Dios ug ang Cordero.</stanza>
+  </lyrics>
+</hymn>

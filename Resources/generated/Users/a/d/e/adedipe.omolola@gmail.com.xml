@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tosin</firstname>
+  <lastname>Adedipe</lastname>
+  <email>adedipe.omolola@gmail.com</email>
+  <password>$2y$10$Ffdhi4GtrfpgqSQskQE5Q.QlYnXXUwnlZiAGtnunZlBZh2LQqBVru</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>41.190.2.97</ipaddress>
+  <createdate>2015-01-07 08:36:51</createdate>
+  <lastupdateddate>2015-01-07 08:42:12</lastupdateddate>
+  <lastlogindate>2015-01-07 08:38:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="607">O God, our help in ages past</fav>
+  </favourites>
+</user>

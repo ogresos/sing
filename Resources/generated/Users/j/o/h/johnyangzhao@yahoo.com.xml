@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>john</firstname>
+<lastname>zhao</lastname>
+<email>johnyangzhao@yahoo.com</email>
+<password>$1$i7kGxHU/$xnpQpvKzm5yxiP/OPdWDk0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>98.27.167.35</ipaddress>
+<createdate>2009-07-08 23:11:34</createdate>
+<lastupdateddate>2009-09-15 19:16:51</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+    </favourites>
+</user>

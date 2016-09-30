@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Juan Carlos</firstname>
+  <lastname>Rangel</lastname>
+  <email>jcrangel1@gmail.com</email>
+  <password>$2y$10$bfwiq5HZ8qaSiAiGwiN7cOPmSgLOUoMaXhjO4VzeYZzO5EQSJbzxO</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>74.60.31.16</ipaddress>
+  <createdate>2008-09-08 00:06:29</createdate>
+  <lastupdateddate>2015-01-14 18:54:16</lastupdateddate>
+  <lastlogindate>2015-01-12 05:08:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+    <fav category="default" type="nt" num="437">Hast thou heard Him, seen Him, known Him?</fav>
+    <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+    <fav category="default" type="nt" num="543">I give my heart to Thee</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="ns" num="381f">Je suis le pain vivant</fav>
+    <fav category="default" type="lb" num="27">Let's go on</fav>
+    <fav category="default" type="ns" num="129">Lord, You are Beloved</fav>
+    <fav category="default" type="h" num="1299">Man's Creator has a purpose</fav>
+    <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+    <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="ns" num="138">What things were gains to me</fav>
+  </favourites>
+</user>

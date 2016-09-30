@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Etim</firstname>
+  <lastname>Bassey</lastname>
+  <email>etimb@yahoo.com</email>
+  <password>$2y$10$b6u904P3c3a8V9e1OLfTUOPtnAWr74X2i1oVmp5/BrP2FUM2rud7y</password>
+  <gender>M</gender>
+  <country>ng</country>
+  <ipaddress>62.173.42.163</ipaddress>
+  <createdate>2012-08-12 09:39:22</createdate>
+  <lastupdateddate>2015-11-06 12:24:18</lastupdateddate>
+  <lastlogindate>2015-11-06 12:24:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="161">Praise the Savior, ye who know Him</fav>
+  </favourites>
+</user>

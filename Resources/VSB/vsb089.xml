@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, You are the living spring</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;As Our Supply</category>
+  <numbers><english num="ns:194"/><vsb num="89"/></numbers>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>115543231115535</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | Em - - | Dm - - | G - - | C - - | Em - - | Dm7 - - | G7 - - | C - - | Em - - | F - - | Fm - - | C/G - - | G7 - - | C - - | C - - | C - - | Em - - | Dm - - | G - - | C - - | Em - - | Dm7 - - | G7 - - | C - - | Em - - | F - - | Fm - - | C/G - - | G7 - - | C - - | C7/E - - | F - - | G7 - - | C - - | Am - - | Dm - - | G7 - - | Am - - | C/G - - | F - - | G7 - - | C - G/B | Am - - | Dm - - | G7 - - | C - - | C - - |</chords>
+  <melody>| 1 - 1 | 5 - 5 | 4 - 3 | 2 - 3 | 1 1 1 | 5 5 3 | 5( - - | 5) - - (break) | ._1 - ._1 | 7 - 5 | 6 - 5 | 1 - - | 3 - 4 | 2 2 3 | 1( - - | 1) - 0 (break) | 1 - 1 | 5 - 5 | 4 - 3 | 2 - 3 | 1 - 1 | 5 - 3 | 5( - - | 5) - - (break) | ._1 - ._1 | 7 - 5 | 6 - 5 | 1 - 2 | 3 - 4 | 2 2 3 | 1( - - | 1) - 0 (break) | (Chorus) 0 6 6 | 5 5 4 | 3 3 2/ 1/( | 1) - - | 2 2 2 | 3 - 3 | 1( - - | 1) - 0 (break) | 6 6 6 | 5 - 4 | 3 - 2 | 1 - - | 2 3 4 | 3 - 2 | 1( - - | 1) - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, You are the liv -- ing spring, The riv -- er of wa -- ter of life; On -- ly You can quench my thirst; On -- ly You sat -- is -- fy. Lord, You are the liv -- ing tree, You are the Tree of Life; On -- ly You can fill my hun -- ger; On -- ly You sat -- is -- fy. Ev -- ery mo -- ment in so man -- y ways He is the sure sup -- ply; Now and for -- ev -- er and al -- ways, On -- ly You sat -- is -- fy.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="73">ns0194.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, You are the living spring,
+The river of water of life;
+Only You can quench my thirst;
+Only You satisfy.
+Lord, You are the living tree,
+You are the Tree of Life;
+Only You can fill my hunger;
+Only You satisfy.</stanza>
+    <stanza type="chorus" number="">Every moment in so many ways
+He is the sure supply;
+Now and forever and always,
+Only You satisfy.</stanza>
+    <stanza type="verse" number="2">Lord, You are the living vine,
+In You we would abide;
+Only You give life divine;
+Only You satisfy.
+So we must praise
+And we must sing,
+And we must testify;
+Lord, You are the only One;
+Only You satisfy.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>greene</firstname>
+    <lastname></lastname>
+    <email>neilsbabybass@hotmail.com</email>
+    <password>r8Iat3re1WNkZkEGaQJw6A%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>72.45.7.78</ipaddress>
+    <createdate>2013-02-10 00:45:05</createdate>
+    <lastupdateddate>2013-07-27 23:57:35</lastupdateddate>
+    <lastlogindate>2013-07-27 23:57:35</lastlogindate>
+    <failedlogincount>6</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

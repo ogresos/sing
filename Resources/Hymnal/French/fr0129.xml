@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lumière de la vie</title>
+  <index>true</index>
+  <category>L’encouragement&amp;mdash;pour communier avec le Seigneur</category>
+  <numbers><chinese num="476"/><english num="8476"/><french num="129"/><portuguese num="329"/><russian num="220"/><spanish num="300"/><tagalog num="1353"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Chinese</author>
+    <author biodate="" biolink="" fullname="Eric Ching">Translated by E. C.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8476"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Lumière de la vie,
+En toi nous demeurons,
+Voulons Te contempler.
+Oh ! quelle communion !
+Ton Esprit nous suivons,
+Toi seul, nous célébrons,
+Lumière de la vie !</stanza>
+  </lyrics>
+</hymn>

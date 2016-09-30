@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Savior, lead me up the mountain</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="" biolink="">Grace Notes Brothers</composer>
+  </creators>
+  <hymncode>1235565333321651</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>160</tempo>
+  <chords>| C - - - | C - - - | Em - - - | F - G7 - | C - G7 - | C - G7/D - | Em - - - | F - - - | G - - - | F - - - | C - - - | Em - - - | F - - G7 | C - - - | Em - - - | F - G7 - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 5/ 5/( 5) 6/ 5/( | 5/) 3/( 3) - 3/ 3/ | 3 2/ 1/( 1) 6_. | 5_./( 1/)( 1) - 1/ 2/ (break) | 3 5/ 5/( 5) 6 | 5/ 3/( 3) - 3/ 3/ | 3 4/ 5/( 5) 6 (break) | 5 - - (Chorus) 6/ 7/ | ._1 ._1/ ._1/( ._1) ._1/ 6/( | 6/) 5/( 5) - 3/ 3/ | 3 5/ 3/( 3) 2 (break) | 1 - - 1/ 2/ | 3 5/ 5/( 5) 6/ 5/( | 5/) 3/( 3) - 3/ 2/ | 1/ 1. 1/ 7_.. | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Sav -- ior, lead me up the moun -- tain, Where the Lord a -- lone is seen, Where we hear the voice from heav -- en, Where the air is pure and clean. Lead me high -- er up the moun -- tain, Give me fel -- low -- ship with Thee; In Thy light I see the foun -- tain, And the blood it cleans -- es me.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group002.xml</link>
+    <link type="relevant" category="h" num="378"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/irvine.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="26">e0378_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Savior, lead me up the mountain,
+  Where the Lord alone is seen,
+Where we hear the voice from heaven,
+  Where the air is pure and clean.</stanza>
+    <stanza type="chorus" number="">Lead me higher up the mountain,
+  Give me fellowship with Thee;
+In Thy light I see the fountain,
+    And the blood it cleanses me.</stanza>
+    <stanza type="verse" number="2">Higher up where light increases,
+  Far above all earthly strife,
+Where the strain of effort ceases,
+  Where in Christ we reign in Life.</stanza>
+    <stanza type="verse" number="3">Savior, keep me up the mountain
+  Pressing on toward the goal,
+Till, as one, we share Thine image,
+  And Thy love and grace extol.</stanza>
+  </lyrics>
+</hymn>

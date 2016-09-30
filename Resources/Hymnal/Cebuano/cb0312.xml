@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nindot paminawon</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;NALUWAS TUNGOD SA GRASYA</category>
+  <numbers><cebuano num="312"/><chinese num="248"/><english num="312"/><korean num="248"/><russian num="253"/><tagalog num="312"/></numbers>
+  <creators>
+    <author biodate="1702-1751" biolink="">Translated from Philip Doddridge</author>
+    <author biodate="1740-1778" biolink="">Translated from Augustus Montague Toplady, vv. 2, 4, 6</author>
+  </creators>
+  <music>
+    <midiref type="h" num="312"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nindot paminawon
+Ang pulong nga grasya;
+Langit nagpalanog aron
+Yuta makadungog.</stanza>
+    <stanza type="chorus" number="">Igo ang grasya!
+Di magkaluya!
+Cristo nabuhi's sulod,
+Di makabsan gayud.</stanza>
+    <stanza type="verse" number="2">Ngalan ko nasulat
+Sa basahong dayon;
+Grasya naghatag's Corderong
+Nagkuha's kasubo.</stanza>
+    <stanza type="verse" number="3">Grasya m'oy nagtudlo
+Magpanaw's dalan Mo;
+Bag-ong sangkap Mo magtagbo,
+Sa pagpadayon ko.</stanza>
+    <stanza type="verse" number="4">Grasya nagpaampo,
+Luha magpatulo;
+Grasyang nag-amping kanako,
+Di mobuhi nako.</stanza>
+    <stanza type="verse" number="5">Grasya ang magpurong
+Sa tanan nga buhat;
+Magtutukod diha's gugma,
+Angayan nga daygon.</stanza>
+    <stanza type="verse" number="6">Dasiga sa grasya
+Ang kasingkasing ko;
+Tanang kusog itinguha
+Nimo's tanang adlaw.</stanza>
+  </lyrics>
+</hymn>

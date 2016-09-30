@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>To the Lord we're as a garden</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="1156"/><portuguese num="272"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 3. 3/ 4/ 3/ 2/ 1/ | 4 4 - - | 4. 2/ 5/ 4/ 3/ 2/ | 3 - - - (break) | 5. 5/ 5/ 3/ 4/ 5/ | 6 6 - - | 5/ 3/ 1/ 4/ 3 2 | 1 - - - (break) | 3. 3/ 4/ 3. | 5. 5/ 6/ 5. | ._1. 5/ 6/ 5/ 4/ 3/ | 2 - - - (break) | 3. 3/ 4/ 3/ 2/ 1/ | 5 5 - 5/ 6/ | 5/ 3/ 1/ 4/ 3 2 | 1 - - - |</melody>
+  <layout>
+    <singingstanza>To the Lord we're as a gar -- den, Out from which the spic -- es flow; All the pre -- cious fruits of Je -- sus Free -- ly in this gar -- den grow. Spike -- nard, saf -- fron, hen -- na flow -- er, Cin -- na -- mon and cal -- a -- mus, Fran -- kin -- cense and myrrh and a -- loes; O Lord, we would ev -- er grow Thee thus.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj071.xml</link>
+    <link type="group">ot_ss-general.xml</link>
+    <link type="ref">Song of Songs</link>
+  </links>
+  <music>
+    <midiref type="h" num="7"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">To the Lord we're as a garden,
+  Out from which the spices flow;
+All the precious fruits of Jesus
+  Freely in this garden grow.
+    Spikenard, saffron, henna flower,
+    Cinnamon and calamus,
+    Frankincense and myrrh and aloes;
+    O Lord, we would ever grow Thee thus.</stanza>
+    <stanza type="verse" number="2">O Lord, come into Thy garden,
+  Come, Beloved, come and eat
+Freely for Thy satisfaction
+  Of Thy fruit, abundant, sweet.
+    "Yea," Thou answerest, "I am eating
+    Honeycomb with honey pure."
+    All sweet spices from Thy garden,
+    Doth Thy satisfaction, Lord, secure.</stanza>
+    <stanza type="verse" number="3">All the produce of the garden
+  Is with resurrection filled
+That the Lord may have a city,
+  Fruits of resurrection build.
+    From the garden to the city,
+    Growth transformed to precious stone;
+    Christ is thus expressed, reflected&amp;mdash;
+    God in all His glory fully shown.</stanza>
+    <stanza type="verse" number="4">Now the city, fair and comely,
+  As the dawn, triumphantly,
+Is an army strong and mighty
+  Marching forth in victory.
+    Lo, the city and the army&amp;mdash;
+    Saints transformed in one accord.
+    What a terror to the devil,
+    And so beautiful unto the Lord!</stanza>
+  </lyrics>
+</hymn>

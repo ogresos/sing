@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Славь Христа! Ведь Он победу</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ПОБЕДА</category>
+  <numbers><cebuano num="124"/><chinese num="109"/><english num="124"/><french num="22"/><german num="124"/><korean num="109"/><portuguese num="60"/><russian num="26"/><spanish num="59"/><tagalog num="124"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 (break) | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <layout>
+	<singingstanza>Славь Хри -- ста! Ведь Он по -- бе -- ду На Гол -- го -- фе о -- дер -- жал.  Грех су -- дил Он и А -- да -- ма На -- всег -- да для нас рас -- пял, Си -- лы зла на -- век раз -- бил Он, Ра -- дость ис -- куп -- ле -- нья дал.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Славь Христа! Ведь Он победу
+На Голгофе одержал.
+Грех судил Он и Адама
+Навсегда для нас распял,
+Силы зла навек разбил Он,
+Радость искупленья дал.</stanza>
+	<stanza type="verse" number="2">Слава! Он воскрес из мёртвых!
+Бог из мёртвых воскресил!
+Смерти власть сломил навеки.
+Дверь из смерти в жизнь открыл.
+Ад разбит и тьма разбита.
+Силу он Свою явил.</stanza>
+	<stanza type="verse" number="3">Слава! Ныне вознесён Он!
+Богом поднят на престол!
+Выше самой сильной власти,
+Имя высшее обрёл.
+Бог Его всесильным сделал,
+Чтоб врага с пути Он смёл.</stanza>
+	<stanza type="verse" number="4">Аллилуйя! Наш Спаситель
+На Голгофе победил!
+Аллилуйя! Воскрешённый,
+Он победу возвестил.
+Аллилуйя! Вознесённый,
+В царство вечное вступил.</stanza>
+  </lyrics>
+</hymn>

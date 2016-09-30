@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>M&gt;M&gt;Andi</firstname>
+  <lastname/>
+  <email>anna.carlson314@hotmail.com</email>
+  <password>$2y$10$QKHX/CEGRxbGcSUEk0zQ..5bH5l/TClgtixhPYjKZMKNUCJhXQTc6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.34.162.155</ipaddress>
+  <createdate>2014-11-30 01:08:23</createdate>
+  <lastupdateddate>2014-11-30 01:10:28</lastupdateddate>
+  <lastlogindate>2014-11-30 01:09:14</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="367">Be Thou supreme, O Jesus Christ</fav>
+    <fav category="default" type="h" num="383">Sweet Will of God</fav>
+    <fav category="default" type="h" num="393">Thy way, not mine, O Lord</fav>
+  </favourites>
+</user>

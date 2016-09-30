@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The faith is the economy</title>
+  <index>true</index>
+  <category>The Word of God&amp;mdash;Faith</category>
+  <numbers><english num="ns:173"/><vsb num="56"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ross Lancaster">R. L.</author>
+    <composer biodate="" biolink="" fullname="Ross Lancaster">R. L.</composer>
+  </creators>
+  <hymncode>511117775566656</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | F - - - | G7 - - - | C - - - | G - - - | Am - - - | F - - - | C - - - | G - - - | F - - - | G - - - | C - - - | G - - - | F - G - | C - - - | C - - - | G - - - | F - G7 - | C F/C C - |</chords>
+  <melody>| 0 - - 5_. | 1 1 1 1 | 7_. 7_. 7_. 5_./ 5_./ | 6_. 6_. 6_. 5_. | 6_. - - 6_. (break) | 5_. 5_./ 5_./ 5_. 5_. | 5_. 5_.( 5_.) 5_./ 5_./ | 6_. 6_. 6_. 5_. | 6_. - - 5_. (break) | 1 - 1 1 | 7_. 7_.( 7_.) 5_./ 5_./ | 6_./ 6_./ 6_. 6_. 5_. | 6_. - - 6_. (break) | 5_. 5_.( 5_.) 5_. | 5_. 5_. 5_. 5_. | 6_.( - - - (break) | 7_.) - - (Chorus) 1/ 2/ | 3 3/ 3/ 3/ 3/ 4/ 3/ | 2 2( 2) 3/ 2/ | 1. 6_./ 1 2 (break) | 3 - - 1/ 2/ | 3 3/ 3/ 3/ 3/ 4/ 3/ | 2 2( 2) 3/( 2/) | 1. 6_./ 1 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>The faith is the e -- con -- o -- my, the e -- con -- o -- my of God The house -- hold ad -- min -- is -- tra -- tion, the dis -- pens -- ing of our God The truth is the con -- tents, the re -- al -- i -- ty of the faith, Ac -- cord -- ing to God's e -- con -- o -- my. God -- li -- ness is a liv -- ing that ex -- press -- es The di -- vine re -- al -- i -- ty, An ex -- pres -- sion of God in all His rich -- es; His Bod -- y cor -- p'rate -- ly.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="43">ns0173.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The faith is the economy, the economy of God
+The household administration, the dispensing of our God
+The truth is the contents, the reality of the faith,
+According to God's economy.</stanza>
+    <stanza type="chorus" number="">Godliness is a living that expresses
+The divine reality,
+An expression of God in all His riches;
+His Body corporately.</stanza>
+    <stanza type="verse" number="2">Healthy teaching, words, and speaking
+Are the ministry of the truth,
+Ministering into people the reality of these truths;
+Eternal life is the means and the power to carry out,
+The divine realities of the faith;</stanza>
+    <stanza type="verse" number="3">Faith is the response to the truth of the faith
+Conscience is a test and a check to preserve us in the faith.
+The faith is the economy, the economy of God,
+The household administration, the dispensing of our God;</stanza>
+    <stanza type="verse" number="4">The faith, the truth, expressed in healthy words,
+Carried out in power by His life
+Expressed in Godly living responded to by faith,
+Kept and held in check by our conscience.</stanza>
+  </lyrics>
+</hymn>

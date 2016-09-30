@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>E-X-A-C-T</title>
+  <index>true</index>
+  <category>Character</category>
+  <hymncode>511156655112231</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - F/C C | C/E G C - | C - Dm - | G7 - C - | Am - Dm/F - | G7 - C - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 1/ 1/ 1/ 5_./ 6_./ 6_./ 5_./ 5_./ | 1/ 1/ 2/ 2/ 3( 1) (break) | 3 3 4/ 4/ 4 | 2 2 3/ 3/ 3 | 1 1 2/ 2/ 2/ 1/ | 7_./ 5_./ 6_./ 7_./ 1 - |</melody>
+  <layout>
+    <singingstanza>Ex -- act is what we all will be In word, and deed, and time. E- -- X- -- A- -- C- -- T, E- -- X- -- A- -- C- -- T, E- -- X- -- A- -- C- -- T. We'll al -- ways be ex -- act.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-u.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="19">c0151.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Exact is what we all will be
+In word, and deed, and time.
+E-X-A-C-T, E-X-A-C-T, E-X-A-C-T.
+We'll always be exact.</stanza>
+    <stanza type="verse" number="2">Our every word will be exact
+You can depend on it.
+E-X-A-C-T, E-X-A-C-T, E-X-A-C-T.
+Each word is accurate.</stanza>
+    <stanza type="verse" number="3">Our every deed will be exact.
+You can depend on it.
+E-X-A-C-T, E-X-A-C-T, E-X-A-C-T.
+Each deed&amp;mdash;we'll do our best.</stanza>
+  </lyrics>
+</hymn>

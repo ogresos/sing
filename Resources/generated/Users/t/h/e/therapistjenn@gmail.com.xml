@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jennifer</firstname>
+<lastname>Green</lastname>
+<email>therapistjenn@gmail.com</email>
+<password>$1$w7mq/7ok$ebSWIz26VCI084N/54WP01</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>71.170.107.72</ipaddress>
+<createdate>2008-07-26 01:43:26</createdate>
+<lastupdateddate>2009-09-15 18:25:19</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="45">Abba Father</fav>
+        <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+    </favourites>
+</user>

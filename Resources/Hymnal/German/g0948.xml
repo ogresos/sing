@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kennst Du das Geheimnis aller Zeiten schon</title>
+  <index>true</index>
+  <category>HOFFNUNG DER HERRLICHKEIT&amp;mdash;Christus in mir</category>
+  <numbers><cebuano num="948"/><chinese num="764"/><english num="948"/><french num="180"/><german num="948"/><korean num="764"/><portuguese num="479"/><russian num="154"/><spanish num="433"/><tagalog num="948"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <key>G Major</key>
+  <melody>| 5_../ 5_.// 6_../ 5_.// 3 1 | 2./ 1// 6_../ 7_.// 1 - | 7_../ 1// 2./ 1// 3./ 2// 4./ 7_.// | 1 - - 0 (break) | 5_../ 5_.// 6_../ 5_.// 3 1 | 2./ 1// 6_../ 7_.// 1 - | 7_../ 1// 2./ 1// 3./ 2// 4./ 7_.// | 1 - - 0 (break) | (Chorus) 3 3 5./ 4// 2./ 7_.// | 1 1 3 - | 6_. 6_. 2./ 3// 2./ 1// | 7_. 6_. 5_. 0 (break) | 5_../ 5_.// 6_../ 5_.// 3 1 | 2./ 1// 6_../ 7_.// 1 - | 7_../ 1// 2./ 1// 3./ 2// 4./ 7_.// | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Kennst Du das Ge -- heim -- nis al -- ler Zei -- ten schon? Es ist Chris -- tus, Got -- tes Wirk -- lich -- keit. Er ver -- kör -- pert Gott, in mir das Le -- ben ist  Und die Hoff -- nung auf die Herr -- lich -- keit. Herr -- lich -- keit, ja Chris -- tus lebt in mir! Herr -- lich -- keit, Er ist die Hoff -- nung hier! Heu -- te als Ge -- heim -- nis lebt in mir der Herr! Dann die Herr -- lich -- keit für mich ist Er.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="948"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kennst Du das Geheimnis aller Zeiten schon?
+    Es ist Christus, Gottes Wirklichkeit.
+Er verkörpert Gott, in mir das Leben ist
+    Und die Hoffnung auf die Herrlichkeit.</stanza>
+	<stanza type="chorus" number="">Herrlichkeit, ja Christus lebt in mir!
+    Herrlichkeit, Er ist die Hoffnung hier!
+Heute als Geheimnis lebt in mir der Herr!
+    Dann die Herrlichkeit für mich ist Er.</stanza>
+	<stanza type="verse" number="2">Christus hat in meinem Geist mich neu geborn,
+    In der Seele wandelt Er mich um,
+Meinen Leib verwandelt Er an jenem Tag,
+    Macht mich gleich wie Er ist rundherum.</stanza>
+	<stanza type="verse" number="3">In Natur und Leben jetzt schon eins mit Ihm;
+    Dann in Ihm, der Herrlichkeit, ich bin;
+Seine Gegenwart genieß ich ewiglich,
+    Ihm vollkommen gleich gestaltet dien.</stanza>
+  </lyrics>
+</hymn>

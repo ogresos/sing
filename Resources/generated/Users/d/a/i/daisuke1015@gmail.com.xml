@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James</firstname>
+  <lastname/>
+  <email>daisuke1015@gmail.com</email>
+  <password>$2y$10$tVYLKN8CzvRgDE3QLLSIB.D/lcdAv.NtMSWB6H4HX1ZKfXYPBmeDO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.54.86.128</ipaddress>
+  <createdate>2015-12-20 18:27:56</createdate>
+  <lastupdateddate>2016-06-12 17:12:05</lastupdateddate>
+  <lastlogindate>2016-06-12 17:10:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="375">Come Forward</fav>
+    <fav category="default" type="ns" num="180">God's eternal economy</fav>
+    <fav category="default" type="ns" num="103">Now Christ is the life-giving Spirit</fav>
+    <fav category="default" type="ns" num="45">The last Adam became a life-giving Spirit</fav>
+    <fav category="default" type="ts" num="33">主永永遠遠是我牧者</fav>
+    <fav category="default" type="ts" num="1004">神永遠的經綸</fav>
+  </favourites>
+</user>

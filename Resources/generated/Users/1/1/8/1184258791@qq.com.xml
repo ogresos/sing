@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Esther.</firstname>
+  <lastname>Dong</lastname>
+  <email>1184258791@qq.com</email>
+  <password>$2y$10$EcJIJSTnIllDH3fQTvO5GOEb4eAECALyfr9FrzKgi27AkwXerlaiS</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>183.206.183.162</ipaddress>
+  <createdate>2016-04-02 06:47:23</createdate>
+  <lastupdateddate>2016-04-15 06:21:36</lastupdateddate>
+  <lastlogindate>2016-04-02 07:31:46</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="309">A Noble Deed</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="lb" num="1">Let me stand behind You, Lord</fav>
+    <fav category="default" type="ns" num="103">Now Christ is the life-giving Spirit</fav>
+    <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+  </favourites>
+</user>

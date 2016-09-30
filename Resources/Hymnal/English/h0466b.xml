@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He has entered! He has entered! (Alternate Tune)</title>
+  <category>Consecration&amp;mdash;Acknowledging the Lord's Reign</category>
+  <creators>
+    <author biodate="" biolink="">S. A. H.</author>
+    <composer biodate="" biolink="">Lizzie S. Tourjee</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>51217523216543245</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G - | G/B - C - | F - - - | D7 - G - | C - - - | C - - - | F - F - | G7 - C - |</chords>
+  <melody>| 5 ._1/( ._2/) ._1 7 | 5 ._2/( ._3/) ._2 ._1 | 6 5 4 3 | 2 4# 5 - | 5 6/( 5/) 5 ._3/( ._1/) | 5 6/( 5/) 5 ._1 | ._1 ._1 ._1/( ._3/) ._1/( 6/) | 5 ._2 ._1 - |</melody>
+  <layout>
+    <singingstanza>He has en -- tered! He has en -- tered! Ev -- ery guest may now de -- part; He has tak -- en all the cham -- ber Of my once di -- vid -- ed heart.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj030.xml</link>
+    <link type="relevant" category="h" num="466" />
+  </links>
+  <music>
+    <midi location="hv" length="">e0466b_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He has entered! He has entered!
+  Every guest may now depart;
+He has taken all the chamber
+  Of my once divided heart.</stanza>
+    <stanza type="verse" number="2">He has entered! He has entered!
+  Vanish every doubt and sin;
+He has taken full possession,
+  He is Lord of all within.</stanza>
+    <stanza type="verse" number="3">Long at my poor heart He tarried,
+  Knocking with His wounded hand;
+Wide at last to Him I opened,
+  Yielding all to His command.</stanza>
+    <stanza type="verse" number="4">He has entered! He has entered!
+  Every sorrow now must flee;
+Where He reigns as King and Master,
+  There no grief can ever be.</stanza>
+  </lyrics>
+</hymn>

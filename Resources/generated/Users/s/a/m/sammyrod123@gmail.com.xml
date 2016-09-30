@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>samuel</firstname>
+    <lastname>rodriguez</lastname>
+    <email>sammyrod123@gmail.com</email>
+    <password>a0S3VCNXp7uW5JszYW8urg%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>65.117.144.103</ipaddress>
+    <createdate>2011-04-25 12:42:35</createdate>
+    <lastupdateddate>2011-04-25 14:54:19</lastupdateddate>
+    <lastlogindate>2011-04-25 12:44:24</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="325">All my life long I had panted</fav>
+        <fav category="default" type="h" num="300b">Arise, my soul, arise (Alternate Tune)</fav>
+        <fav category="default" type="ns" num="168">From the time I spoke Your name</fav>
+        <fav category="default" type="nt" num="1325">God eternal has a purpose</fav>
+        <fav category="default" type="nt" num="1079">If I gained the world, but lost the Savior</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="nt" num="1238">Never did I dream before</fav>
+        <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="nt" num="394b">Unto Him that hath Thou givest (Alternate)</fav>
+        <fav category="default" type="nt" num="1174">What a victory! What a triumph!</fav>
+    </favourites>
+</user>

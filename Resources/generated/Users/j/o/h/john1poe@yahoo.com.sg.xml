@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Poe</lastname>
+  <email>john1poe@yahoo.com.sg</email>
+  <password>$2y$10$dZLTVssJZ8HptAjdXsKvueguNyX6ap8oUJLdmmTDcnx8T23dcK.N.</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>119.74.233.156</ipaddress>
+  <createdate>2016-08-25 13:09:18</createdate>
+  <lastupdateddate>2016-08-25 13:32:08</lastupdateddate>
+  <lastlogindate>2016-08-25 13:12:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+  </favourites>
+</user>

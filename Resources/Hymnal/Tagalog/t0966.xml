@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pag-asa'y Kristo natin babalik</title>
+  <index>true</index>
+  <category>PAG-ASA NG KALUWALHATIAN&amp;mdash;KALIGTASAN SA KASUKDULAN</category>
+  <numbers><cebuano num="966"/><chinese num="766"/><english num="966"/><french num="186"/><german num="966"/><korean num="766"/><portuguese num="487"/><russian num="158"/><spanish num="442"/><tagalog num="966"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. 1 7_. 6_. 5_. 4_. | 3_. 5_. 1 3 - - | 3 2 1# 3 2 7_. | 2 1 6_. 5_. - - (break) | 5_. 4#_. 5_. 6_. 7_. 1 | 7_. 7_. 1 2 - - | 2 4# 3 2 1 7_. | 1 7_. 6_. (.5_. - - (break) | (Chorus) 3 3 3 3 - - | 3 2 3 4 - - | 4 4 4 4 - 4/ 4/ | 4 5 2 3 - - (break) | 5 3 2 1 2 3  | 4 6_. 1 3 - - | 2 1 6_. 5_. 5 (.4 | 3 5_. 2 1 - - |</melody>
+  <music>
+	<midiref type="h" num="128"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pag-asa'y Kristo natin babalik!
+Tayo'y aakyat-may-kagalakan;
+Mababagong-anyo, mawawangis,
+L'walhati Siya 'king katamasahan!</stanza>
+	<stanza type="chorus" number="">O pag-asang mal'walhati!
+Si Kristo ay magbabalik!
+Papaitaas nang may l'walhati,
+Pag-asa'y Kristo natin babalik!</stanza>
+	<stanza type="verse" number="2">Pag-asa'y Kristo natin babalik!
+Ang lumang nilikha'y papawiin,
+May kalayaan, wala nang hapis,
+Kaligtasan ay tatamasahin.</stanza>
+	<stanza type="verse" number="3">Pag-asa'y Kristo natin babalik!
+Kasama Niya maghahari tayo;
+Bilang saserdote maglilingkod,
+Kaligtasan ganap matatamo.</stanza>
+	<stanza type="verse" number="4">Pag-asa'y Kristo natin babalik!
+Tumatakbo patungong hanggahan;
+Naglilingkod habang nagbabantay,
+Maging marapat sa kaharian.</stanza>
+  </lyrics>
+</hymn>

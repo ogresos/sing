@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>神聖羅曼史</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:328"/><english num="lb:82"/><vsb num="32"/></numbers>
+  <creators>
+	<author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <melody>| 0/ 3/ 3/ 4/ 5. 3/ | 4. 3/ 2 - | 0/ 1/ 1/ 2/ 3. 1/ | 2. 1/ 7_. - | 0/ 6_./ 6_./ 7_./ 1. 2/ | 1. 5_./ 5_. 5_. | 4( - 4/) 3/ 2/ 1/ | 2 - - - | 0/ 3/ 3/ 4/ 5. 3/ | 4. 3/ 2 - | 0/ 1/ 1/ 2/ 3. 1/ | 2. 1/ 7_. - | 0/ 6_./ 6_./ 7_./ 1. 2/ | 1. 5_./ 5_. 5_. | 4 - - 3 | 2 - - 1 | 1( - - - | 1) - - - (break) | (Chorus) 0 3/ 4/ 5. 6/( | 6/) 5/( 5) - - | 0 1/ 2/ 3. 4/( | 4/) 3/( 3) - - | 0 4/ 3/ 2. 1/ | 3. 1/ 1 1 | 4( - 4/) 3/ 2/ 1/ | 2 - - - | 0 3/ 4/ 5. 6/( | 6/) 5/( 5) - - | 0 1/ 2/ 3. 4/( | 4/) 3/( 3) - - | 0 4/ 3/ 2. 1/ | 3. 1/ 1 1 | 4 - - 3 | 2 - - 1 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+	<singingstanza>怎 能 鄉 村 女 子 如 我， 成 為 你 的 新 婦、 配 偶？ 你 是 如 此 聖 潔、 神 聖， 我 卻 墮 落、 屬 人。 若 非 是 你， 我 怎 得 以 在 這 羅 曼 史 裡 像 你？ 在 創 世 前， 我 蒙 揀 選， 你 計 畫 永 不 變！ 神 聖 羅 曼 史， 神 心 計 畫 之； 神 成 為 卑 微 人 子， 追 求 鄉 村 女 子！ 神 永 遠 的 愛， 無 何 能 妨 礙， 亦 無 何 能 以 更 改， 神 終 得 心 所 愛！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="ref">Song of Songs</link>
+  </links>
+  <music>
+	<midiref type="lb" num="82"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">怎能鄉村女子如我，
+成為你的新婦、配偶？
+你是如此聖潔、神聖，
+我卻墮落、屬人。
+若非是你，我怎得以
+在這羅曼史裡像你？
+在創世前，我蒙揀選，
+你計畫永不變！</stanza>
+	<stanza type="chorus" number="">神聖羅曼史，
+神心計畫之；
+神成為卑微人子，
+追求鄉村女子！
+神永遠的愛，
+無何能妨礙，
+亦無何能以更改，
+神終得心所愛！</stanza>
+	<stanza type="verse" number="2">世人、天使未曾知悉，
+隱藏在你心中祕密；
+創世之前，你已定意：
+與人聯調為一！
+因那惡者陰謀、詭計，
+我被罪惡敗壞至極；
+但無何能斷絕你愛，
+我終投入你懷！
+（回副一）</stanza>
+	<stanza type="verse" number="3">萬王之王，你竟成人，
+為我受死，將我拯救；
+在復活裡，我成童女，
+許配給你─我王！
+死而復活，你進我靈，
+使我得有你的神性；
+你我今同生命、性情，
+神人二性合併！</stanza>
+	<stanza type="chorus" number="">因你愛吸引，
+我得屬於你；
+主，我不屬於自己，
+我只屬你而已。
+被你愛吸引，
+為你名所迷，
+我為你人位所奪；
+願你親嘴與我。</stanza>
+	<stanza type="verse" number="4">主，在這親密交通裡，
+我得與你傾心吐意；
+與你個人情深關係，
+是何等的甜蜜！
+逐日改變我之所是，
+主，佔有我全心、全志；
+將我全人變化、浸透，
+成你新婦、佳偶！
+（回副二）</stanza>
+  </lyrics>
+</hymn>

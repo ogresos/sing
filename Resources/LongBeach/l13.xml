@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I need You, Jesus</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Christ</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>1365244615</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | F - - - | C - - - | G - - - | C - - - | D7 - - - | G - G7 - | C - - - | F - - - | C - - - | F - - - | C - - - | F - - - | D7 - - - | G - - - | G - - - | F - G7 - | C - - - |</chords>
+  <melody>| (startrepeat6) 1 - 3 6 | 5 - 2 - | 4. 4/ 6 ._1 | 5 - - - (break) | 7. 7/ 5 7 | ._1 - 5 ._1 | ._2 - 7 6 | 5 - - - (break) | ._3 - ._1 5 | 6 - ._1 ._2 | ._3 - ._1 5 | 6 - ._1 ._2 (break) | ._3 - ._1 5 | 6 - 6 6 | 6 - 7 6 (alt1) | 5 - - - (alt2) | 5 - {5 6 7} | ._1 - - ._1 | ._1 - - - (endalt) |</melody>
+  <layout>
+    <singingstanza>I need You, Je -- sus, More and more each day. I can't live with -- out You, Most won -- der -- ful One! I need You, Lord, More and more ev -- ery day. I can't live with -- out You, Oh, most won -- der -- ful One! Thee. Come quick -- ly, Lord, A -- men.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="236">lb13.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I need You, Jesus,
+More and more each day.
+I can't live without You,
+Most wonderful One!</stanza>
+    <stanza type="chorus" number="">I need You, Lord,
+More and more every day.
+I can't live without You,
+Oh, most wonderful One!</stanza>
+    <stanza type="verse" number="2">My lovely Bridegroom,
+Oh, most pleasant One,
+Take me in Your chambers,
+Sustain me with love!</stanza>
+    <stanza type="chorus" number="">I need You, Lord,
+More and more every day.
+I can't live without You,
+My lovely Bridegroom.</stanza>
+    <stanza type="verse" number="3">Jesus, just kiss me,
+Kisses of Your mouth.
+Grace upon Thy lips is
+So sweet to my taste.</stanza>
+    <stanza type="chorus" number="">I need You, Lord,
+More and more every day.
+I can't live without You;
+I need Your sweet taste.</stanza>
+    <stanza type="verse" number="4">I'm sick with love.
+Thy banner over me is love.
+You have ravished my heart,
+None other for me.</stanza>
+    <stanza type="chorus" number="">I need You, Lord,
+More and more every day.
+I can't live without You.
+I've been ravished by Thee.</stanza>
+    <stanza type="verse" number="5">I love my Master.
+I'll not go out free.
+Take my ear to the door post
+And bore it for Thee.</stanza>
+    <stanza type="chorus" number="">I need You, Lord,
+More and more every day.
+I can't live without You,
+Oh, most wonderful One!</stanza>
+    <stanza type="verse" number="6">Make haste, Beloved!
+Come quickly soon!
+Jesus, our desire.
+Thy Bride calls for Thee.</stanza>
+    <stanza type="chorus" number="">Come quickly, Lord,
+We can't wait anymore.
+Please make haste, dear Beloved!
+Your Bride calls for Thee.
+Come quickly, Lord, Amen.</stanza>
+  </lyrics>
+</hymn>

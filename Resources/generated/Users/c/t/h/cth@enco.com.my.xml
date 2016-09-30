@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>CHEE TECK</firstname>
+  <lastname>HEE</lastname>
+  <email>cth@enco.com.my</email>
+  <password>$2y$10$eTKsRCb9kYT5PFgboV0sgOCXn8ohwm/ABYFIFoig1Q9YCInWuq3nm</password>
+  <gender/>
+  <country>Malaysia</country>
+  <ipaddress>210.187.161.154</ipaddress>
+  <createdate>2013-12-25 10:31:20</createdate>
+  <lastupdateddate>2015-11-23 00:56:43</lastupdateddate>
+  <lastlogindate>2015-11-22 16:28:01</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="h" num="321">Full salvation! Full salvation</fav>
+    <fav category="default" type="h" num="1127">God has saved me from the world</fav>
+    <fav category="default" type="h" num="312">Grace! 'tis a charming sound</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="291">I am so glad that our Father in heav'n</fav>
+    <fav category="default" type="h" num="302">I have a song I love to sing</fav>
+    <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="h" num="322">Many weary years I vainly sought a spring</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="311">Naught have I gotten but what I received</fav>
+    <fav category="default" type="h" num="1126">O Jesus Lord, we come to Thee</fav>
+    <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    <fav category="default" type="h" num="286">Of Jesus' love that sought me</fav>
+    <fav category="default" type="h" num="310">Once I was bound by sin's galling fetters</fav>
+    <fav category="default" type="h" num="325">Satisfied</fav>
+    <fav category="default" type="h" num="348">Since Christ my soul from sin set free</fav>
+    <fav category="default" type="h" num="343">There is sunshine in my soul today</fav>
+    <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+    <fav category="default" type="h" num="8255">Within my heart a praise o'erflowing</fav>
+  </favourites>
+</user>

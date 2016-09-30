@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ang yuta nga hatag sa Dios ilogon ta</title>
+  <index>true</index>
+  <category>ESPIRITUHANONG PAKIGGUBAT&amp;mdash;MAG-ANGKON SA YUTA</category>
+  <numbers><cebuano num="1287"/><chinese num="ts:243"/><english num="1287"/><german num="1287"/><russian num="146"/><spanish num="404"/><tagalog num="1287"/></numbers>
+  <melody>| 0 - - 0./ 5// | ._1 ._1 ._1.. 5// | 6./ 5// 5./ 5// 6./ 5// 5./ 5// | ._2 ._2 ._2.. ._3// | ._2./ ._1// 7./ 6// 5./ 0// 0./ 5// (break) | ._3 ._3 ._3.. ._3// | ._3./ ._2// ._4./ ._3// ._2./ ._1// 7./ 6// | 5 ._1 ._1.. 5// | ._3./ ._2// ._1./ 7// (.._1./ (Sisters:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 7 6 3 (break) | 4( - 4./) 2// 4./ 5// | 7 7 0./ 5// 7./ ._1// | ._2 ._2 0./ 2// 3./ 4// | 7 6 4 6 (break) | 5 - 0./ (Brothers:) 5// 6./ 7// | ._1 7 6 3 | 5 - 5./ 5// 6./ 7// | ._1 ._3 ._4 ._3 (break) | 6 - 0./ 5#// 6./ 7// | ._1 ._1 0./ 7// ._1./ ._2// | ._3 ._3 0./ 5// 5./ 5// | 6 ._4 ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1118"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ang yuta nga hatag sa Dios ilogon ta;
+Mabuhi ta sa kadagaya N'ya:
+Sinangkapan kita's tanang kinahanglan&amp;mdash;
+Dugo, Pulong, Esp'ritu, iglesia.</stanza>
+	<stanza type="chorus" number="">(Mga sister moawit)
+Ilogon ta, mga igsoon!
+Ang yuta nga hatag sa Dios.
+Magmakusganon, kay mailog ta
+Ang yutang mahimayaon!</stanza>
+	<stanza type="chorus" number="">(Mga brother moawit)
+Ilogon ta, mga igsoon,
+Mamati gyud ning butanga,
+Ginoo tua sa unahan ta,
+Naghatag's tanang kin'hanglan!</stanza>
+	<stanza type="verse" number="2">May dugo ta! Si Cristo maong halad ta,
+Siyang nagtugyan pagtagbaw sa Dios;
+May kaisug moduol's trono sa grasya,
+Tibu'k adlaw i-apply ang dugo.</stanza>
+	<stanza type="verse" number="3">May Pulong ta! Pulong inadlawng kalan-on;
+Saktan's pagtoo, moingon "Amen!"
+Kini tibu'k adlaw kanato mamulong,
+Magdumala's pagkinabuhi ta.</stanza>
+	<stanza type="verse" number="4">Espiritu sa realidad ato na,
+May Kaugalingon nga pagbati S'ya;
+Nagpuyo ug nagtudlo sa atong sulod,
+Naggiya nato's tanang matuod.</stanza>
+	<stanza type="verse" number="5">May iglesia! magbaton gyud ang tanan ning
+Kahupnganan sa 'yang realidad;
+Cristo nga naglangkob-sa-tanan angko-non,
+Mahimo Siyang tanan kanato.</stanza>
+  </lyrics>
+</hymn>

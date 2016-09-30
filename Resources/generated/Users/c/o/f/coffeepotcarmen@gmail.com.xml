@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Carmen</firstname>
+    <lastname>Duncan</lastname>
+    <email>coffeepotcarmen@gmail.com</email>
+    <password>LAReosfM9Me5oVrIs1AwlQ%3D%3D</password>
+    <gender>F</gender>
+    <country>za</country>
+    <ipaddress>41.11.186.228</ipaddress>
+    <createdate>2010-05-22 08:02:59</createdate>
+    <lastupdateddate>2010-11-29 05:39:22</lastupdateddate>
+    <lastlogindate>2010-11-29 05:39:22</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="1064">I love to tell the story</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

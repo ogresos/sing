@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Stets im Strom! Stets im Strom! Lasst uns dienen dem Herrn</title>
+  <index>true</index>
+  <category>DIENST&amp;mdash;Im Strom</category>
+  <numbers><cebuano num="909"/><chinese num="653"/><dutch num="45"/><english num="909"/><french num="169"/><german num="909"/><korean num="653"/><portuguese num="423"/><russian num="431"/><spanish num="407"/><tagalog num="909"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <key>C Major</key>
+  <melody>| 0 - - 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 2/ 3/ | 4 4./ 3// 4 3/ 4/ (break) | 6 5./ 4#// (.5 3./ 4// | 5 5./ 5// 5 1/ 2/ | 3 3./ 3// 3 3/ 3/ | 2 5/ 5/ 4# 5/ 6/ (break) | 7 7./ 6// (.5 (Chorus) 3./ 4// | 5 - - ._1./ 3// | 2 - - 2./ 3// | 4 - - 5./ 4// (break) | 3 - - 3./ 4// | 5 - - ._1./ 7// | 6 - - 7 | ._1/ 5/ 6./ 4// 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Stets im Strom! Stets im Strom! Lasst uns die -- nen dem Herrn, Stets im Flie -- ßen des Geis -- tes möcht sehn Er uns gern;  Got -- tes Le -- ben und Kraft, die der Strom bringt, ver -- traut, Die Ge -- mein -- de, Sein Reich wird im Strom auf -- ge -- baut. Stets im Strom! Stets im Strom!  Lasst uns die -- nen im Strom! Stets im Strom! Stets im Strom!  In Got -- tes Team auch du nun komm!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="895"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Stets im Strom! Stets im Strom! Lasst uns dienen dem Herrn,
+    Stets im fließen des Geistes möcht sehn Er uns gern; 
+Gottes Leben und Kraft, die der Strom bringt, vertraut,
+    Die Gemeinde, Sein Reich wird im Strom aufgebaut.</stanza>
+	<stanza type="chorus" number="">Stets im Strom! Stets im Strom! 
+Lasst uns dienen im Strom!
+Stets im Strom! Stets im Strom! 
+In Gottes Team auch du nun komm!</stanza>
+	<stanza type="verse" number="2">Stets im Strom! Stets im Strom! Dient und wirkt mit dem Herrn,
+    Stets im Licht Seines Wortes nun dient nah und fern;
+Diene nie durch dich selbst, unabhängig und frei,
+    Doch in Team-Harmonie, preise Ihn stets dabei.</stanza>
+	<stanza type="verse" number="3">Stets im Strom! Stets im Strom! Lasst uns dienen im Herrn,
+    Stets in Seiner Gemeinde den Herrn wolln wir ehrn;
+Wort und Leben reicht dar, wie das tägliche Brot,
+    Geht voran nun im Strom, führt den Plan aus von Gott!</stanza>
+  </lyrics>
+</hymn>

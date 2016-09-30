@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Как птица заперт я</title>
+  <index>true</index>
+  <category>УТЕШЕНИЕ В ИСПЫТАНИЯХ&amp;mdash;НАСЛАЖДЕНИЕМ В СТРАДАНИЯХ</category>
+  <numbers><cebuano num="724"/><chinese num="524*"/><english num="724"/><german num="724"/><korean num="524"/><russian num="373"/><tagalog num="724"/></numbers>
+  <creators>
+	<author biodate="1648-1717" biolink="en.wikipedia.org/wiki/Jeanne_Guyon">Translated from Madame Jeanne-Marie Bouvier de la Motte-Guyon</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 5 6 7 | ._1 - - ._1/( 7/) | 6 5 4 3 (break) | 3( - 2) 3/( 4/) | 5 ._1 6 7 | ._1. 7/ ._1 ._2 | ._3 ._2/( ._1/) 7 6 (break) | 5 - - 3/( 4/) | 5 6 5 3/( 4/) | 5 6 (.5 5 (break) | ._1 - ._2 - | ._3.( ._2/ ._1) 6 | 5 - 7 - | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="724"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Как птица заперт я
+Вдали от всех полей
+И  Богу, кто меня пленил,
+Пою в тюрьме моей;
+Мне пленником приятно быть,
+Тебе, мой Бог, чтоб угодить.</stanza>
+	<stanza type="verse" number="2">Забот нет у меня:
+Я целый день пою.
+Хочу я Богу угодить –
+Он слышит песнь мою.
+Хоть крылья Он мои связал,
+Но мне внимать не перестал.</stanza>
+	<stanza type="verse" number="3">Способен слышать Ты,
+Любить благословить;
+И грубость нот моих всегда
+Готов переносить;
+Мой Бог, Ты знаешь, что они
+Любовью все вдохновлены.</stanza>
+	<stanza type="verse" number="4">Хоть клеткой окружён,
+Взлететь я не могу,
+Хоть крылья связаны мои,
+Но сердце – не в плену.
+Тюрьма не может запретить
+Душе свободно воспарить.</stanza>
+	<stanza type="verse" number="5">Как чудно воспарить
+Над клеткой в вышине
+К Тому, чей промысел и цель
+Всего желанней мне,
+И в воле обрести Твоей
+Ума свободу – радость – мне!</stanza>
+  </lyrics>
+</hymn>

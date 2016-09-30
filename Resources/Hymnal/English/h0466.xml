@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He has entered! He has entered!</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Acknowledging the Lord's Reign</category>
+  <creators>
+    <author biodate="" biolink="">S. A. H.</author>
+    <composer biodate="1851-1922" biolink="">William Herbert Jude</composer>
+  </creators>
+  <meter>8.7.8.7.</meter>
+  <hymncode>352225111116123</hymncode>
+  <key>Ab Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | G/B - - - G - | Am - - - C/G - | F - - - Dm - | E - - - C7 - | G - - - G/B - | Am - - - C/G - | F - C/G - G7 - | C - - - 0 - |</chords>
+  <melody>| 0 - - - ._3 5 | ._2 - ._2 - ._2 5 | ._1 - ._1 - ._1 ._1 | ._1 - - 6 ._1 ._2 | ._3 - - - ._3 5 (break) | ._2 - ._2 - ._2 5 | ._1 - ._1 - ._3 ._3 | ._4 - 6 - ._3 ._2 | ._1 - - - 0 - |</melody>
+  <layout>
+    <singingstanza>He has en -- tered! He has en -- tered! Ev -- ery guest may now de -- part; He has tak -- en all the cham -- ber Of my once di -- vid -- ed heart.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj030.xml</link>
+    <link type="relevant" category="h" num="466b"></link>
+  </links>
+  <music>
+    <midi location="h" length="18">e0466_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">He has entered! He has entered!
+  Every guest may now depart;
+He has taken all the chamber
+  Of my once divided heart.</stanza>
+    <stanza type="verse" number="2">He has entered! He has entered!
+  Vanish every doubt and sin;
+He has taken full possession,
+  He is Lord of all within.</stanza>
+    <stanza type="verse" number="3">Long at my poor heart He tarried,
+  Knocking with His wounded hand;
+Wide at last to Him I opened,
+  Yielding all to His command.</stanza>
+    <stanza type="verse" number="4">He has entered! He has entered!
+  Every sorrow now must flee;
+Where He reigns as King and Master,
+  There no grief can ever be.</stanza>
+  </lyrics>
+</hymn>

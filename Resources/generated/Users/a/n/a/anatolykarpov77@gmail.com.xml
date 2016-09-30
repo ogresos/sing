@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Anatoly</firstname>
+<lastname>Karpov</lastname>
+<email>anatolykarpov77@gmail.com</email>
+<password>$1$TwT2b7TU$st5RibHaNpxJjoow.YDJe1</password>
+<gender>M</gender>
+<country>Australia</country>
+<ipaddress>220.239.243.239</ipaddress>
+<createdate>2009-01-15 23:47:52</createdate>
+<lastupdateddate>2009-09-15 18:29:21</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="507">Christ liveth in me</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="c" num="11">If you're happy and you know it</fav>
+        <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    </favourites>
+</user>

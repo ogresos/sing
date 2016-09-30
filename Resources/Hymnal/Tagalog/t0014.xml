@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Di namamatay, Diyos di masilayan</title>
+  <index>true</index>
+  <category>PAGSAMBA SA AMA&amp;mdash;SA KANYANG PAGIGING WALANG KAMATAYAN</category>
+  <numbers><english num="14"/><portuguese num="8"/><russian num="7"/><tagalog num="14"/></numbers>
+  <creators>
+    <author biodate="1824-1908" biolink="">Translated from Walter Chalmers Smith</author>
+  </creators>
+  <music>
+    <midiref type="h" num="14"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Di namamatay, Diyos di masilayan,
+Nasa liwanag na di-malapitan,
+Pinagpala, mal'walhating "Siyang Una",
+Papurihan Iyong Pangalang dakila.</stanza>
+    <stanza type="verse" number="2">Di namamahinga't nagmamadali,
+Ika'y sa kapangyar'han naghahari;
+'Sintayog ng bundok katarungan Mo,
+Bukal ng buti'
+Â¦t pag-ibig, ulap Mo.</stanza>
+    <stanza type="verse" number="3">Nabubuhay Ka sa buhay ng lahat;
+Buhay ay Iyong 'binibigay sa lahat,
+Kami'y yumayabong at nalalanta,
+Nguni't makapagbago sa Iyo'y wala.</stanza>
+    <stanza type="verse" number="4">Ama ng liwanag, Ama ng glorya,
+Iyong mga anghel sa Iyo'y sumasamba;
+Sa Iyo ibibigay tamang papuri,
+Makita lang ningning ng Iyong luwalhati.</stanza>
+    <stanza type="verse" number="5">Ang Diyos na marunong, di-nakikita,
+Nakakubli sa paningin ng mata.
+Pinagpala, mal'walhating "Siyang Una"
+Papurihan Iyong Pangalang dakila.</stanza>
+  </lyrics>
+</hymn>

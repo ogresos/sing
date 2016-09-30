@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Montgomery</firstname>
+  <lastname>Green</lastname>
+  <email>f4d737@gmail.com</email>
+  <password>$2y$10$slB5YNqnrodn0.GKouPolegLjNv1BnEcfiD6z1AqxrvlrTjzLv6QK</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.196.249.252</ipaddress>
+  <createdate>2014-12-01 13:43:20</createdate>
+  <lastupdateddate>2014-12-01 13:45:47</lastupdateddate>
+  <lastlogindate>2014-12-01 13:44:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

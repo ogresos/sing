@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>奇妙的愛</title>
+  <index>true</index>
+  <category>福音－愛與恩</category>
+  <meter>9.10.9.10.</meter>
+  <hymncode>3212345671765</hymncode>
+  <key>D Major</key>
+  <time>3/4</time>
+  <layout>
+	<singingstanza>奇 妙 的 愛， 耶 穌 從 天 來， 竟 肯 為 我 罪 人 十 架 受 害； 奇 妙 的 愛， 耶 穌 被 裂 開， 白 白 為 我 罪 人 流 血 還 債。</singingstanza>
+  </layout>
+  <music>
+	<midi location="h" length="">c0689_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">奇妙的愛，耶穌從天來，
+竟肯為我罪人十架受害；
+奇妙的愛，耶穌被裂開，
+白白為我罪人流血還債。</stanza>
+  </lyrics>
+</hymn>

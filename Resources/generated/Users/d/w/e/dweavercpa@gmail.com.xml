@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Daniel</firstname>
+  <lastname>Weaver</lastname>
+  <email>dweavercpa@gmail.com</email>
+  <password>$2y$10$GFgKpuQoR4KyNZjTcX8FDuIm0VJZUmBckxZhMaQTtPzn2w01DPKxi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.166.207.185</ipaddress>
+  <createdate>2016-04-28 16:58:53</createdate>
+  <lastupdateddate>2016-05-08 16:58:13</lastupdateddate>
+  <lastlogindate>2016-05-08 15:24:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="877">I dare not be defeated</fav>
+    <fav category="default" type="h" num="377">If the path I travel</fav>
+    <fav category="default" type="h" num="790">Keep the incense burning</fav>
+    <fav category="default" type="h" num="907">Not where we elect to go</fav>
+    <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    <fav category="default" type="h" num="452">Tell me not of earthly pleasures</fav>
+    <fav category="default" type="h" num="898">The love of Christ constraineth</fav>
+    <fav category="default" type="h" num="595">There is always something over</fav>
+  </favourites>
+</user>

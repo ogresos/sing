@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sing aloud your praises to the Lord of all</title>
+  <index>true</index>
+  <category>The Church&amp;mdash;As God's City</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Daniel Lewis">D. L.</composer>
+  </creators>
+  <hymncode>33334452343</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/A - | G/B - C - | Am - F - | D7/F# - G - | C - F/A - | G/B - C - | Am - - - | D7 - G - | C - - - | F - G - | C/E - C - | F - G - | C - C/E - | Dm/F - Dm - | C/G - Am7 - | Dm - G7 - | C F/C C - ||</chords>
+  <melody>| 3/ 3/ 3/ 3/ 4 4 | 5/ 2/ 3/ 4/ 3 - | 1 1/ 7_./ 6_. 3 | 2/ 1/ 7_./ 6_./ 5_. - (break) | 3/ 3/ 3/ 3/ 4 4 | 5/ 2/ 3/ 4/ 3 - | 1 1/ 7_./ 6_. 3 | 2/ 1/ 7_./ 6_./ 5_. - (break) | 3 1/ 2/ 3 1 | 4/ 4/ 4/ 3/ 2 - | 5 3/ 4/ 5 3 | 6/ 6/ 6/ 6/ 5 - (break) | 3 5/ 5/ 5 1 | 2/ 2/ 4/ 4/ 4 - | 3 3/ 2/ 1 5_. | 4. 2/ 7_. 2 | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza>Sing a -- loud your prais -- es to the Lord of all, Now He is dwell -- ing in Je -- ru -- sa -- lem. Tell a -- mong us all His do -- ings great and small, His throne, the heav -- ens, yet He walks with men. Oh, the sal -- va -- tion out of Zi -- on comes; He brought us back from our cap -- tiv -- i -- ty. Now we re -- joice and are ex -- ceed -- ing glad; Now we re -- joice and are ex -- ceed -- ing glad!</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="1222"></link>
+  </links>
+  <music>
+    <midi location="nt" length="38">e1222_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sing aloud your praises to the Lord of all,
+Now He is dwelling in Jerusalem.
+Tell among us all His doings great and small,
+His throne, the heavens, yet He walks with men.
+  Oh, the salvation out of Zion comes;
+  He brought us back from our captivity.
+  Now we rejoice and are exceeding glad;
+  Now we rejoice and are exceeding glad!</stanza>
+    <stanza type="verse" number="2">In the Holy City with His own He dwells;
+O Lord, our Lord, how excellent Thy name!
+He's enthroned upon the praises of His saints;
+All His delight in Zion does remain.
+  The local churches are His move today&amp;mdash;
+  He is our portion, we are satisfied.
+  Oh, what a goodly heritage have we;
+  Oh, what a goodly heritage have we!</stanza>
+    <stanza type="verse" number="3">Who shall in His holy tabernacle dwell,
+Who shall ascend to His most holy hill?
+Those who seek for Him and purify their heart;
+This generation now that seeks His face.
+  Oh, seek His face, ye children of the earth,
+  Open your heart, and let the King come in.
+  He will come in, and He shall live and reign;
+  He will come in, and He shall live and reign!</stanza>
+    <stanza type="verse" number="4">Look! God's tabernacle now is with the saints;
+Emmanuel&amp;mdash;God with us, we proclaim.
+Everything is done, so let His children come;
+Christ and the church&amp;mdash;where God and man are one!
+  Lift up your heads, ye cities of the earth;
+  Open your gates, and let the King come in.
+  Shout to His praise&amp;mdash;He's coming in to reign!
+  Shout to His praise&amp;mdash;He's coming in to reign!</stanza>
+  </lyrics>
+</hymn>

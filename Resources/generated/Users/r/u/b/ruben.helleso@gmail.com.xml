@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ruben</firstname>
+  <lastname>Hellesø</lastname>
+  <email>ruben.helleso@gmail.com</email>
+  <password>$2y$10$yLqLNVEo0xb1zDbuy/PB/eIdqU0auVpLgZWHT30NVc8SkCL1mgzFi</password>
+  <gender/>
+  <country>no</country>
+  <ipaddress>2.150.33.177</ipaddress>
+  <createdate>2015-01-10 23:52:01</createdate>
+  <lastupdateddate>2015-01-11 00:09:09</lastupdateddate>
+  <lastlogindate>2015-01-10 23:59:53</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+  </favourites>
+</user>

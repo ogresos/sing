@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Naomi</firstname>
+  <lastname>Smith</lastname>
+  <email>naomi.smith@sympatico.ca</email>
+  <password>$2y$10$lyyEVG86H1cGFLlG4/D1qu8Zcsz0CAaY6MpVTVIU0MiKN9FHtp3Q2</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>76.71.112.9</ipaddress>
+  <createdate>2015-01-15 22:04:09</createdate>
+  <lastupdateddate>2015-01-16 01:19:42</lastupdateddate>
+  <lastlogindate>2015-01-16 01:19:42</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

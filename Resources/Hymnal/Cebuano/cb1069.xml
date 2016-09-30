@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa buhing Tinapay nangaon</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PANGHIMATUOD</category>
+  <numbers><cebuano num="1069"/><chinese num="698"/><english num="1069"/><french num="207"/><korean num="698"/><spanish num="490"/><tagalog num="1069"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1069"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa buhing Tinapay nangaon,
+Sa buhing tubod nanginom;
+"S'yang moinom," Jesus nag-ingon,
+"Dili na gayud uhawon."</stanza>
+    <stanza type="chorus" number="">Unsay di na uhawon?
+Di na gyud uhawon!
+Unsay di na uhawon?
+Di na gyud uhawon!
+"S'yang moinom," Jesus nag-ingon,
+"Dili na gayud uhawon."</stanza>
+  </lyrics>
+</hymn>

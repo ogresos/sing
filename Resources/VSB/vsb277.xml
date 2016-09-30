@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Always rejoice</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:253"/><vsb num="277"/></numbers>
+  <hymncode>1223552431</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C G C - | G - C - | C - - - | C/E G/D C - | G G7/B C - | G7 - C - |</chords>
+  <melody>| 1 2/ 2/ 3. 5/ | 5 2/ 4/ 3/( 1/)( 1/) 5/ (break) | ._1/ ._1/ 5/ 6/ 5. 5_./ | 1/ 1// 1// 2/ 2/ 3. 5/ (break) | 5 4 3 - | 3( 2) 1 - |</melody>
+  <layout>
+    <singingstanza>Al -- ways re -- joice; Un -- ceas -- ing -- ly pray; In ev -- ery -- thing give thanks; For this is the will of God In Christ Je -- sus for you.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Thessalonians 5:16-18</link>
+  </links>
+  <music>
+    <midi location="ns" length="">ns0253.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Always rejoice;
+Unceasingly pray;
+In everything give thanks;
+For this is the will of God
+In Christ Jesus for you.</stanza>
+  </lyrics>
+</hymn>

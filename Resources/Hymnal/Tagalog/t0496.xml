@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kristo ang tanging katotohanan</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;BILANG REALIDAD</category>
+  <numbers><cebuano num="496"/><chinese num="374"/><english num="496"/><french num="85"/><german num="496"/><korean num="374"/><portuguese num="233"/><russian num="364"/><spanish num="210"/><tagalog num="496"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1 - 4 6 | ._1 - ._1 - | ._1. ._1/ 7 6 | 5 - - - (break) | 6 - 5 4 | 3 3 3 6 | 4# - 2 - | 5 - - - (break) | 3 - 4 6 | ._1 - ._1 - | ._1. ._1/ 7 6 | 7 - - - (break) | ._1 - 7 6 | 5 4 3 6 | 5( 1) 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="496"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kristo ang tanging katotohanan
+Ng Pagka-Diyos, tao't bagay&amp;mdash;tanan;
+Kung wala Siya, Diyos di matagpuan,
+Lahat man ay kasinungalingan.</stanza>
+	<stanza type="verse" number="2">Mga sagisag, mga larawan,
+Malaki't maliit na kailangan,
+Anino lamang ni Kristong tunay,
+Sa akin Siya ang lahat ng bagay.</stanza>
+	<stanza type="verse" number="3">Hungkag ang mga bagay at gawa,
+Kung di Kristo'ng pumuspos sa gitna;
+Buong mundo ma'y aking makamtan,
+Kung walang Kristo, may kakulangan.</stanza>
+	<stanza type="verse" number="4">Kristo'y tunay na Diyos, Panginoon,
+Tunay na liwanag, saan naroon,
+Damit kong tunay, tubig na buhay,
+Aking panlasa at aking buhay.</stanza>
+	<stanza type="verse" number="5">Teolohiya o doktrina man,
+Kristo'ng dapat na katotohanan,
+Kung walang Kristo hungkag ang alam,
+Maging Biblia'y pawang titik lamang.</stanza>
+	<stanza type="verse" number="6">Kristo ang katunayan ng tanan,
+Ng panahon, dako, at anuman;
+Kristo ang tanging katotohanan,
+Walang hanggan, walang katapusan.</stanza>
+  </lyrics>
+</hymn>

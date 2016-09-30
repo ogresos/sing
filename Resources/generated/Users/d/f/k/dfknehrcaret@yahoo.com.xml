@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Don</firstname>
+  <lastname/>
+  <email>dfknehrcaret@yahoo.com</email>
+  <password>$2y$10$42X1WBdmeRWZLKc2zS.pTuPzfjUU27iW7.Icwh2MzRYxvetkd6nLq</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>71.102.72.86</ipaddress>
+  <createdate>2015-01-22 16:23:53</createdate>
+  <lastupdateddate>2015-03-19 17:47:55</lastupdateddate>
+  <lastlogindate>2015-02-23 05:25:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1019">A ruler once came to Jesus by night</fav>
+    <fav category="default" type="h" num="468">Am I a soldier of the Cross</fav>
+  </favourites>
+</user>

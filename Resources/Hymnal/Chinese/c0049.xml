@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>父阿我們在你面前</title>
+  <index>true</index>
+  <category>敬拜父－眾子的讚美</category>
+  <numbers><cebuano num="52"/><chinese num="49"/><english num="52"/><french num="10"/><german num="52"/><korean num="49"/><portuguese num="34"/><russian num="243"/><spanish num="31"/><tagalog num="52"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from B. G. Hardingham</author>
+  </creators>
+  <melody>| 0. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | ._1 7 ._1 (break) | ._2. 5/ ._1/ ._2/ | ._3./ ._3// ._2/ ._1/ 6/ ._1/ | 6( 5) - | 5 ._1. 7/ | 7( ._1) - (break) | ._2 ._2 ._2 | ._2 - ._2 | ._2/ ._3/ ._2/( ._1/) 7/( 6/) | 5 - - (break) | ._3 ._2 ._1 | ._1. ._1/ 7/ 6/ | 5( ._1.) 7/ | 7( ._1) - |</melody>
+  <layout>
+	<singingstanza>父 阿， 我 們 在 你 面 前 拜 禮， 尊 敬 鄭 重； 現 在 我 們 這 些 兒 女 聚 集， 是 要 稱 頌： 奇 恩 如 何 帶 領 我 們 回 家， 與 你 兒 子 一 同 親 近 阿 爸！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="25"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">父阿，我們在你面前拜禮，
+尊敬鄭重；
+現在我們這些兒女聚集，
+是要稱頌：
+奇恩如何帶領我們回家，
+與你兒子一同親近阿爸！</stanza>
+	<stanza type="verse" number="2">知愛的人都知這裡的愛，
+何等的深；
+從祂身上你愛已經佈開，
+我父我神！
+現今祂在你的面前帶同
+所有稱頌你愛的人稱頌。</stanza>
+	<stanza type="verse" number="3">祂領詩歌，你耳何等樂聽祂的頌稱；
+但你豈不也是一樣愛聆
+我們和聲；
+你心愛祂遠在創世之前，
+你也定規我們作祂同伴。</stanza>
+  </lyrics>
+</hymn>

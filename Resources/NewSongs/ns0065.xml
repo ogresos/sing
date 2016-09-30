@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I love God because...</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><english num="ns:65"/><lsmyp num="171"/><vsb num="162"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Patrick Casey">P. C.</author>
+    <composer biodate="" biolink="" fullname="Patrick Casey">P. C.</composer>
+  </creators>
+  <hymncode>153323432171765</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>160</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Am - - - | Dm - - - | G7 - - - | C - G/B - | C - C/E - | F - G7 - | C - - - | C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | C - C/E - | F - - - | G - - - | Am - - - | Am - C/G - | F - - - | G - - - | C - - - | C - - - |</chords>
+  <melody>| 1 - 5 - | 3 - 0/ 3/ 2/ 3/ | 4 3 2 1 | 7_. 1/ 7_./( 7_./) 6_./ 5_. | 1 - 5 - | 3 - 0/ 3/ 2/ 3/ | 4 3 2 1/ 5/( | 5) - - - | 1 - 5 - | 3 - 0/ 3/ 2/ 3/ | 4 3 2 1 | 7_. 1/ 7_./( 7_./) 6_./ 5_. | 1 - 2 - | 3( 4/ 5/)( 5/) 5_./ 5_./ 5_./ | 6_. - 7_. - | 1( - - - | 1) - - - (break) | (Chorus) 0. 6_./ 6_./ 1/( 1/) 2/( | 2) - 1 2/ 3/( | 3) 4 3 2/( 1/) | 2/( 1/)( 1) - - | 0. 6_./ 6_./ 1/( 1/) 2/( | 2.) 2/( 2/) 1/ 2/( 1/) | 3/( 5/)( 5) - - | 6/ 5/( 5/) 3/ 2 3/ 1/( | 1.) 6_./ 6_. 1/ 2/( | 2) - - 0/ 1/ | 3/ 4/( 4/) 3/( 3/) 4/( 4/) 3/( | 3/) 4/( 4/) 3/( 3/)( 2/ 1/ 2/ | 6_.) - 6_. 1/ 2/( | 2/) 1/( 1/) 7_./( 7_.) 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>I love God be -- cause He loved me long be -- fore the world be -- gan. I love God be -- cause He knew my des -- ti -- ny. I love God be -- cause He made me part of His e -- ter -- nal plan. I love God be -- cause He first loved me. I love Him for all the things He's done for me. I love Him for all that He is, all that He is to me. But, most of all, I love Him as the Spir -- it Who deep with -- in my spir -- it lives.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">thisdivineromance.xml</link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/oklahoma.html"></link>
+  </links>
+  <music>
+    <midi location="ns" length="50">ns0065.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I love God because He loved me long before the world began.
+I love God because He knew my destiny.
+I love God because He made me part of His eternal plan.
+I love God because He first loved me.</stanza>
+    <stanza type="chorus" number="">I love Him for all the things He's done for me.
+I love Him for all that He is, all that He is to me.
+But, most of all, I love Him as the Spirit
+Who deep within my spirit lives.</stanza>
+    <stanza type="verse" number="2">I love God because He came in time to be the Son of Man.
+I love God because He gave Himself for me.
+I love God because He conquered death that I might live in Him.
+I love God because He first loved me.</stanza>
+    <stanza type="verse" number="3">I love God because He's processed now to be my life within.
+I love God because He is transforming me.
+I love God because He's building up the New Jerusalem.
+I love God because He still loves me.</stanza>
+  </lyrics>
+</hymn>

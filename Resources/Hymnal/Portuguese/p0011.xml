@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Meu Deus e Pai, enquanto aprecio</title>
+  <index>true</index>
+  <category>Sua Grandeza</category>
+  <numbers><cebuano num="17"/><chinese num="12"/><english num="17"/><german num="17"/><korean num="12"/><portuguese num="11"/><russian num="10"/><spanish num="11"/><tagalog num="17"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Meu Deus e Pai, enquanto aprecio
+Os céus e terra, Tua criação,
+E Tuas incontáveis maravilhas,
+Do Teu poder, a manifestação;</stanza>
+	<stanza type="chorus" number="">Então meu ser entoa a Ti louvor:
+? Grandioso és Tu! Grandioso és Tu!
+Eternamente renderei louvor:
+? Grandioso és Tu! Grandioso és Tu!</stanza>
+	<stanza type="verse" number="2">Ao desfrutar a graça salvadora,
+Ao ver o Filho, que enviaste aqui:
+Por nós morreu e fez-nos novo homem
+Que manifesta plenamente a Ti;</stanza>
+	<stanza type="verse" number="3">Vivendo aqui a vida da igreja,
+Com muitos que a Tua vida têm,
+Edificados como Tua casa
+E plenitude, pois a Ti contêm;</stanza>
+	<stanza type="verse" number="4">Ao esperar o século vindouro,
+Jerusalém que anelo partilhar,
+Com todo o céu e terra em novidade,
+Teu ser em plenitude a expressar;</stanza>
+  </lyrics>
+</hymn>

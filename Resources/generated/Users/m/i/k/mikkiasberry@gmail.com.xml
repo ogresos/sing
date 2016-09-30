@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mikki</firstname>
+  <lastname>Asberry</lastname>
+  <email>mikkiasberry@gmail.com</email>
+  <password>$2y$10$I6ExgI1MNhUVFjuaZTtZ4uTVR5ubQ5guHoA8ULwOpAh258xr4BdKi</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.58.2.45</ipaddress>
+  <createdate>2016-05-10 15:23:29</createdate>
+  <lastupdateddate>2016-05-10 15:26:57</lastupdateddate>
+  <lastlogindate>2016-05-10 15:24:34</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="903">Lord, speak to me, that I may speak</fav>
+  </favourites>
+</user>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>¡Gloria! ¡Gloria! Cristo es vida en mí</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Como la vida</category>
+  <numbers><chinese num="377"/><english num="1356"/><french num="91"/><portuguese num="244"/><russian num="92"/><spanish num="221"/><tagalog num="1356"/></numbers>
+  <music>
+    <midiref type="h" num="1356"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">¡Gloria! ¡Gloria! Cristo͜ es vida͜ en mí.
+Como͜ Espíritu guiando͜ está;
+Cambia noche en día, fuerza͜ al débil da,
+¡Gloria! ¡Gloria! Cristo reina ya.</stanza>
+    <stanza type="verse" number="2">¡Gloria! ¡Gloria! Vivo͜ en el Señor,
+¡Gloria! Su Palabra sigo͜ en pos;
+Triunfo͜ en el fracaso, canto͜ en el dolor,
+¡Gloria! ¡Gloria! Vivo͜ en el Señor.</stanza>
+  </lyrics>
+</hymn>

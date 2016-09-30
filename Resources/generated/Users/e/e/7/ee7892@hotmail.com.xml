@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Teresa</firstname>
+    <lastname>Li</lastname>
+    <email>ee7892@hotmail.com</email>
+    <password>FokNd7y0%2Filv3Y2CDu65bQ%3D%3D</password>
+    <gender>F</gender>
+    <country>tw</country>
+    <ipaddress>114.34.9.18</ipaddress>
+    <createdate>2012-02-24 05:12:30</createdate>
+    <lastupdateddate>2012-03-30 05:20:51</lastupdateddate>
+    <lastlogindate>2012-03-30 05:20:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="ns" num="23">Lovers of Christ</fav>
+        <fav category="default" type="ns" num="371">My inner parts have yearned for Him</fav>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+    </favourites>
+</user>

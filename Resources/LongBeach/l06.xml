@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And He showed me a river</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="lb:6"/><lsmyp num="379"/><vsb num="150"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5511131123217</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm/F - D7/F# - | G - - - | C - - - | Am - - - | F - - D7/F# | G - G7 - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | Dm/F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_./ 5_./ | 1 - - 1/ 1/ | 3/ 1/( 1) - 1 | 2.( 3/) 2 1 | 7_. - - - (break) | 3 - - 3 | 5/ 3/( 3) - - | 4.( 5/) 4 3 (break) | 2 - - 3/ 4/ | 5 - - 5 | 7/( 6/)( 6) - - | 6 - 5 4 (break) | 3 - - 2 | 1 1 1/ 1/ 1 | 1 - 1 1 | 2 - 6_. 2 | 3 - - 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>And He showed me a riv -- er Of wat -- er of life, Bright as crys -- tal, Pro -- ceed -- ing out Of the throne of God And of the Lamb. And Thou shalt make them to drink Of the riv -- er of Thy plea -- sures.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordyourreturn.xml</link>
+    <link type="ref">Revelation 22:1</link>
+    <link type="ref">Psalms 46:4-5</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="40">lb06.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">And He showed me a river
+Of water of life,
+Bright as crystal,
+Proceeding out
+Of the throne of God
+And of the Lamb.
+And Thou shalt make them to drink
+Of the river of Thy pleasures.</stanza>
+    <stanza type="verse" number="2">There is a river,
+The streams whereof make glad.
+The city of God.
+She shall not be moved.
+God shall help her.
+God's in her midst.
+They shall be abundantly satisfied
+With the fatness of Thy house.</stanza>
+  </lyrics>
+</hymn>

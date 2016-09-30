@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Lyuba</firstname>
+<lastname>Tsikhotskaya</lastname>
+<email>lyubat@gmail.com</email>
+<password>$1$uQncxs1j$EeskRJLs6ieJSZ9fT5iY..</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>149.152.23.10</ipaddress>
+<createdate>2009-04-13 20:21:04</createdate>
+<lastupdateddate>2009-09-15 18:29:46</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="325">All my life long I had panted</fav>
+        <fav category="default" type="nt" num="285">Come and rejoice with me</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+    </favourites>
+</user>

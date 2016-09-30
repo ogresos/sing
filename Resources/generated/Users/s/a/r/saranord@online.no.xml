@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Sarah</firstname>
+    <lastname>Nordvik</lastname>
+    <email>saranord@online.no</email>
+    <password>OdaS85dmFaknX%2F6qARhZgA%3D%3D</password>
+    <gender>F</gender>
+    <country>no</country>
+    <ipaddress>83.108.14.55</ipaddress>
+    <createdate>2014-04-19 20:15:12</createdate>
+    <lastupdateddate>2014-04-19 20:15:12</lastupdateddate>
+    <lastlogindate>2014-04-19 20:15:12</lastlogindate>
+    <failedlogincount>1</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="342">At Calvary</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+        <fav category="default" type="h" num="305">I will sing of my Redeemer</fav>
+        <fav category="default" type="h" num="1054">Pass me not, O gentle Savior</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="1170">The Lord is my Shepherd forever</fav>
+        <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+        <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+    </favourites>
+</user>

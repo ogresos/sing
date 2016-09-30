@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We All Have One Father</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="">Traditional American melody</composer>
+  </creators>
+  <hymncode>111233321231</hymncode>
+  <key>Bb Major</key>
+  <time>6/8</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - | C - - | C - - | G7 - - | C - - ||</chords>
+  <melody>| 1 1/ 1 2/ | 3. 3 3/ | 2 1/ 2 3/ | 1 - - (break) | 3 3/ 3 4/ | 5. 5 5/ | 4 3/ 4 5/ | 3 - - (break) | 1. 1 2/ | 3 3/ 3. | 2 1/ 2 3/ | 1. 5. (break) | ._1 6/ 5 6/ | ._1. ._1 6/ | 5 5/ 6 7/ | ._1 - - (break) | ._1 6/ 5 6/ | ._1. ._1 6/ | 5 5/ 6 7/ | ._1 - - ||</melody>
+  <layout>
+    <singingstanza>We all have one Fa -- ther, one God cre -- at -- ed us. We all have one Fa -- ther, one God cre -- at -- ed us. Verse ten of Mal -- a -- chi chap -- ter two de -- clares that We all have one Fa -- ther, one God cre -- at -- ed us. We all have one Fa -- ther, one God cre -- at -- ed us.</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2013 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="36">c0047.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">We all have one Father, one God created us.
+We all have one Father, one God created us.
+Verse ten of Malachi chapter two declares that
+We all have one Father, one God created us.
+We all have one Father, one God created us.</stanza>
+  </lyrics>
+</hymn>

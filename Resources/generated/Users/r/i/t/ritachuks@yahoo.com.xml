@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>RITA</firstname>
+    <lastname>CHUKWURAH</lastname>
+    <email>ritachuks@yahoo.com</email>
+    <password>yjNOw98zAXwYA2S2ih707Q%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>71.23.116.203</ipaddress>
+    <createdate>2013-03-11 21:13:17</createdate>
+    <lastupdateddate>2013-04-03 17:43:31</lastupdateddate>
+    <lastlogindate>2013-04-03 17:43:31</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    </favourites>
+</user>

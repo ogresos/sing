@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Вдали от Бога, в темноте</title>
+  <index>true</index>
+  <category>ПЕРЕЖИВАНИЕ ХРИСТА&amp;mdash;КАК ЖИЗНИ</category>
+  <numbers><chinese num="ts:120"/><dutch num="53"/><english num="507"/><french num="90"/><german num="507"/><korean num="801"/><portuguese num="237"/><russian num="97"/><spanish num="219"/><tagalog num="507"/></numbers>
+  <creators>
+	<author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <melody>| 0 - - 0 - 5_. | 3 - 2 1 - 1 | 1( 7_.) 6_. 5_. - 5_. | 6_. - 1 4 - 6 (break) | 5( - - 5) - 4 | 3 - 3 3( 2) 3 | 5 - 4 1 - 2 | 3 - 3 2( 5_.) 2 | 1( - - 1) - 3 (break) | (Chorus) 3 - 3 5( 4) 3 | 2( - - 2) - 2 | 1 - 1 3( 2) 1 | 7_. - - - - - (break) | 6_. - - 1 4 6 | 5 - 3 1 - 2 | 3 - 3 2( 5_.) 2 | 1( - - 1) - - |</melody>
+  <layout>
+	<singingstanza>Вда -- ли от Бо -- га, в_тем -- но -- те, Я мёрт -- вым был в_гре -- хе.  Но в_сло -- ве Божь -- ем свет о -- брёл, Хрис -- тос жи -- вёт во мне. Хрис -- тос жи -- вёт во мне, Хрис -- тос жи -- вёт во мне.  О, что за спа -- се -- ни -- е, Хрис -- тос жи -- вёт во мне.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="507"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Вдали от Бога, в темноте,
+Я мёртвым был в грехе.
+Но в слове Божьем свет обрёл,
+Христос живёт во мне.</stanza>
+	<stanza type="chorus" number="">Христос живёт во мне,
+Христос живёт во мне.
+О, что за спасение,
+Христос живёт во мне.</stanza>
+	<stanza type="verse" number="2">Как свет освободил цветы
+Из семени в земле,
+Так брызжет свет, любовь и жизнь
+Из Христа во мне.</stanza>
+	<stanza type="verse" number="3">Как семя жизнь несёт цветка
+И дерева в себе,
+Так, Господу Христу хвала,
+Его Дух во мне.</stanza>
+	<stanza type="verse" number="4">Наполнен я стремленьем быть
+Таким, как Он, вполне;
+И этой мыслью я живу:
+Христос живёт во мне.</stanza>
+  </lyrics>
+</hymn>

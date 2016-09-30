@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Pede em fé" perante o trono</title>
+  <index>true</index>
+  <category>Em Fé</category>
+  <numbers><chinese num="561"/><english num="776"/><korean num="561"/><portuguese num="355"/><tagalog num="776"/></numbers>
+  <creators>
+    <author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <music>
+    <midiref type="h" num="776"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Pede em fé" perante o trono,
+Em o nome do Senhor;
+Quando crês, o Pai sussura:
+"Tudo já se consumou."</stanza>
+    <stanza type="verse" number="2">"Pede em fé", pois Deus espera
+Para a súplica atender;
+Muito além do que tu pensas
+Ele opera em Seu poder</stanza>
+    <stanza type="verse" number="3">"Pede em fé" e sê ousado
+Para em fé permanecer
+E com gozo, expectativa,
+Estendida a mão manter.</stanza>
+    <stanza type="verse" number="4">"Pede em fé", pois Deus aguarda
+Teu fiel, zeloso orar;
+Fé Lhe apraz; sim, fé O toca,
+Sempre, em qualquer lugar.</stanza>
+  </lyrics>
+</hymn>

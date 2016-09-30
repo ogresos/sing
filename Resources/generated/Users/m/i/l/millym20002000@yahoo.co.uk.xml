@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mildred Ada Oghoumwen</firstname>
+  <lastname>Ekunwe</lastname>
+  <email>millym20002000@yahoo.co.uk</email>
+  <password>$2y$10$CXj3tUg53y8JqHACuuI5Iuu/qC5ryd8.Mink5zLJXVCZJK63Yj68e</password>
+  <gender/>
+  <country/>
+  <ipaddress>92.11.195.0</ipaddress>
+  <createdate>2015-10-01 14:25:39</createdate>
+  <lastupdateddate>2015-11-09 14:15:23</lastupdateddate>
+  <lastlogindate>2015-11-09 14:15:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="765">Christian, seek not yet repose</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+    <fav category="default" type="h" num="163">O for a thousand tongues to sing</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+  </favourites>
+</user>

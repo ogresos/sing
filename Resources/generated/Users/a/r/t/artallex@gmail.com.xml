@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Artem</firstname>
+<lastname>Alexandrov</lastname>
+<email>artallex@gmail.com</email>
+<password>$1$DUCCAzx.$NgrDPcWiu8/HWyNIDhpKL.</password>
+<gender>M</gender>
+<country>Czech Republic</country>
+<ipaddress>85.160.24.206</ipaddress>
+<createdate>2008-12-22 17:13:19</createdate>
+<lastupdateddate>2009-09-15 18:27:02</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="20">What's the use? There is no hope for me</fav>
+    </favourites>
+</user>

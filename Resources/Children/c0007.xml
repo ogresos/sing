@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Honor, honor</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;Honor</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Paula King">P. K.</author>
+    <author biodate="" biolink="" fullname="Cathy Rockwood Walker">C. R. W.</author>
+    <composer biodate="" biolink="">Traditional Congo melody</composer>
+  </creators>
+  <hymncode>11111111555511</hymncode>
+  <key>C Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - - - | E7 - Am - | Am - - - | E7 - Am - | Am - - - | Am - - - | Am - - - | Am - - - | Dm - Am/C - | Dm/B E7 Am - | Dm - Am/C - | Dm/B E7 Am - |</chords>
+  <melody>| (Part_1) 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ | 3_./ 3_./ 3_./ 3_./ 6_. 6_. (break) | 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ 6_./ | 3_./ 3_./ 3_./ 3_./ 6_. 6_. (break) | (Part_2) 6_./ 7_./ 1 1//( 2//) 1//( 7_.//) 6_. | 1/ 2/ 3/ 6/ 3 3 (break) | 6_./ 7_./ 1 1//( 2//) 1//( 7_.//) 6_. | 1/ 2/ 3/ 6/ 3 3 (break) | (Part_3) 4/ 4// 3// 2/ 4/ 3/ 3//( 2//) 1/ 3/ | 2/ 1/ 7_./ 1/ 6_. - (break) | 4/ 4// 3// 2/ 4/ 3/ 3//( 2//) 1/ 3/ | 2/ 1/ 7_./ 1/ 6_. - |</melody>
+  <layout>
+    <singingstanza end="-1">Hon -- or, hon -- or, hon -- or, hon -- or, Hon -- or, hon -- or, hon -- or! Hon -- or, hon -- or, hon -- or, hon -- or, Hon -- or, hon -- or, hon -- or! Hon -- or God, hon -- or God! Hon -- or all men al -- so. Hon -- or God, hon -- or God! Hon -- or all men al -- so. Do un -- to oth -- ers as you would have them do un -- to you. Do un -- to oth -- ers as you would have them do un -- to you.</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2008 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="30">c0007.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Honor, honor, honor, honor,
+Honor, honor, honor!
+Honor, honor, honor, honor,
+Honor, honor, honor!</stanza>
+    <stanza type="verse" number="">Honor God, honor God!
+Honor all men also.
+Honor God, honor God!
+Honor all men also.</stanza>
+    <stanza type="verse" number="">Do unto others as you would have them do unto you.
+Do unto others as you would have them do unto you.</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2008 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

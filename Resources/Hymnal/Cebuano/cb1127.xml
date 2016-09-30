@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gil'was na's kalibutan</title>
+  <index>true</index>
+  <category>KASIGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GILUWAS GIKAN SA KALIBUTAN</category>
+  <numbers><cebuano num="1127"/><chinese num="ts:523"/><english num="1127"/><german num="1127"/><russian num="72"/><spanish num="162"/></numbers>
+  <melody>| 5 5 3 3 | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 4/ 5/ | 3( 4 5) - (break) | 5 5 3 3 | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 2/ 3/ | 1 - - - (break) | (Chorus) 5 - 3 - | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 4/ 5/ | 3( 4 5) - (break) | 5 - 3 - | 2 4 6_. 1 | 7_./ 7_. 6_./ 5_. 2/ 3/ | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="1127"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gil'was na's kalibutan,
+Dili na gyud ko mobalik.
+Gil'was na's kalibutan,
+Dili na gyud ko mobalik.</stanza>
+	<stanza type="chorus" number="">Dili, dili na,
+Dili na gyud ko mobalik;
+Dili, dili na,
+Dili na gyud ko mobalik.</stanza>
+	<stanza type="verse" number="2">Nigula's Babilonia;
+Dili na gyud ko mobalik.
+Nigula's Babilonia,
+Dili na gyud ko mobalik.</stanza>
+	<stanza type="verse" number="3">Iglesia lokal napalgan,
+Di na gyud ko's kalibutan.
+Iglesia lokal napalgan,
+Di na gyud ko's kalibutan.</stanza>
+	<stanza type="verse" number="4">Natandog ko si Cristo,
+Di na gyud ko's kalibutan.
+Natandog ko si Cristo,
+Di na gyud ko's kalibutan.</stanza>
+	<stanza type="verse" number="5">Si Cristo akong tanan,
+Di na gyud ko's kalibutan.
+Si Cristo akong tanan,
+Di na gyud ko's kalibutan.</stanza>
+	<stanza type="verse" number="6">Nauli's panimalay,
+Di na gyud ko's kalibutan.
+Nauli's panimalay,
+Di na gyud ko's kalibutan.</stanza>
+	<stanza type="verse" number="7">Alang na's pahiuli,
+Di na gyud ko's kalibutan.
+Alang na's pahiuli,
+Di na gyud ko's kalibutan.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Life's too short</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Watching</category>
+  <numbers><english num="ns:110"/><vsb num="221"/></numbers>
+  <hymncode>153343212</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | Am - - - | Dm - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | Am - - - | G - - - | Am - - - | G - A7 - | Dm7 - - - | G7 - - - | C - - - | C - - - |</chords>
+  <melody>| 1 - 5 - | 3 - - 3 | 4 3 2 1 | 2 - - 1 | 1 - 5 - | 3 - - 3 | 4 3 2 1 | 5 - 6 7 | ._1( 6)( 6) 7 | 5 - - 6/( 7/) | ._1( 6)( 6) 7 | 5 - 3 3 | 4 3 2 1 | 2 - - 1 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Life's too short To waste a sin -- gle day The king -- dom's life Is clos -- er ev -- ery -- day. In the midst of time, The king -- dom's mine Just by call -- ing on His name each day.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="23">ns0110.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Life's too short
+To waste a single day
+The kingdom's life
+Is closer everyday.</stanza>
+    <stanza type="chorus" number="">In the midst of time,
+The kingdom's mine
+Just by calling on His name each day.</stanza>
+    <stanza type="verse" number="2">The sweetest taste
+Of life is deep within.
+Its flowing out
+Is primed by calling Him.</stanza>
+    <stanza type="chorus" number="">In the midst of time,
+The kingdom's mine
+Just by calling on His name each day.</stanza>
+    <stanza type="verse" number="3">Time is quickly
+Running out each day.
+The Lord will come
+And swiftly end this age.</stanza>
+    <stanza type="chorus" number="">At the end of time,
+The goal we'll see
+The millennium is our entry.</stanza>
+    <stanza type="chorus" number="">At the end of time,
+The goal we'll see
+The New Jerusalem we'll be.</stanza>
+  </lyrics>
+</hymn>

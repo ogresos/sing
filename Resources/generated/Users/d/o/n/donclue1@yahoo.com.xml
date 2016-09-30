@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>stephen</firstname>
+    <lastname>chibuike</lastname>
+    <email>donclue1@yahoo.com</email>
+    <password>$1$aLFSndX/$BCUYvDA/z1R2W7PNeBhOj/</password>
+    <gender>M</gender>
+    <country>Nigeria</country>
+    <ipaddress>62.56.140.121</ipaddress>
+    <createdate>2008-11-15 08:23:54</createdate>
+    <lastupdateddate>2010-05-21 02:10:49</lastupdateddate>
+    <lastlogindate>2010-05-21 02:10:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="214">Lord, grant me today's supply of grace</fav>
+        <fav category="default" type="ns" num="79">Praise the Lord, God sent His Son</fav>
+        <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+    </favourites>
+</user>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O, hoe heerlijk is Uw tafel, Heer</title>
+  <index>true</index>
+  <category>Tijdens de tafel van de Heer</category>
+  <numbers><chinese num="ts:623"/><dutch num="40"/><english num="1112"/><french num="40"/><german num="1112"/><portuguese num="125"/><russian num="208"/><spanish num="108"/></numbers>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 (Chorus) 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( ._1) - 7./ 6// | 5. 6/ 5/( 3/) 1/( 3/) (break) | 2 - - 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( (.._1) - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="861"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O, hoe heerlijk is Uw tafel, Heer,
+Heer, U heeft ons uitgenodigd
+in Uw huis dit feest te vieren.
+O, hoe heerlijk is Uw tafel, Heer.</stanza>
+	<stanza type="chorus" number="">Halleluja, Halleluja,
+halleluja, welk een feest!
+Halleluja, Halleluja,
+o, hoe heerlijk is Uw tafel, Heer.</stanza>
+	<stanza type="verse" number="2">Welk genot voor ons Uw tafel, Heer,
+waar wij nu gemeenschap hebben,
+met de heiligen genieten
+in de eenheid aan Uw tafel, Heer.</stanza>
+	<stanza type="verse" number="3">O, hoe kostbaar is Uw tafel, Heer,
+brood en wijn Uw dood gedenken
+en Uw vijand overwinnen,
+als wij eten van Uw tafel, Heer.</stanza>
+	<stanza type="verse" number="4">O, de werkelijkheid des tafels, Heer,
+door dit brood wordt heden zichtbaar,
+dat Uw lichaam werd gebroken
+en die daarvan eten worden één.</stanza>
+	<stanza type="verse" number="5">Hoe bemoedigend Uw tafel, Heer,
+tot U komt zullen wij eten
+en U als ons feest genieten.
+Vul ons steeds meer met Uzelf, o Heer.</stanza>
+  </lyrics>
+</hymn>

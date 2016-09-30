@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kataas-taasang sakdal</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKA-TAO</category>
+  <numbers><chinese num="58"/><english num="63"/><korean num="58"/><tagalog num="63"/></numbers>
+  <creators>
+    <author biodate="1801-1890" biolink="">Translated from John Henry Newman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="63"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa kataas-taasang sakdal,
+Ang pinakabanal,
+Sa Kanyang tiyak na daan,
+Siya ay papurihan!</stanza>
+    <stanza type="verse" number="2">Nang lahat ay nasa sala
+Bilang huling Adam Siya,
+Nagbaka, tao'y natubos
+O, karunungan ng Diyos!</stanza>
+    <stanza type="verse" number="3">Pag-ibig kay dunong ng Diyos!
+Adam nga'y natisod;
+Nguni't nakipagbaka Siya
+Nang tao'y makamtan Niya.</stanza>
+    <stanza type="verse" number="4">Higit sa kalo'b na b'yaya,
+Diyos na nagpakita;
+Presensiya ng Diyos, Siya Mismo
+Nasubukang tao.</stanza>
+    <stanza type="verse" number="5">O Pag-ibig na mayaman,
+Sa tao'y nanahan;
+Para sa tao'y namatay,
+Pinatay kaaway.</stanza>
+    <stanza type="verse" number="6">Lihim, tumangis sa hardin,
+Hayag sa krus 'bitin;
+Kapatid maturuan Niya,
+Paanong magdusa.</stanza>
+    <stanza type="verse" number="7">O Panginoong Diyos-tao,
+Sa mga gawa Mo,
+Marami't kamangha-mangha,
+Aming purihin Ka!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sharon</firstname>
+  <lastname/>
+  <email>sharon.patchen@gmail.com</email>
+  <password>$2y$10$lvqQ2.cpslPoZjNuSNjCGuCbyeiiBDJC1qetS0im0N.lI4E4BTgB.</password>
+  <gender/>
+  <country>Israel</country>
+  <ipaddress>46.19.80.195</ipaddress>
+  <createdate>2014-04-15 16:19:37</createdate>
+  <lastupdateddate>2016-06-03 04:41:07</lastupdateddate>
+  <lastlogindate>2016-06-03 04:41:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="c" num="14">In the ten commandments</fav>
+  </favourites>
+</user>

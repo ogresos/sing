@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Way laing gisaligan ko</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GIMATARUNG DIHA NI CRISTO</category>
+  <numbers><cebuano num="298"/><chinese num="238"/><english num="298"/><korean num="238"/><russian num="59"/><spanish num="142"/><tagalog num="298"/></numbers>
+  <creators>
+    <author biodate="1797-1874" biolink="">Translated from Edward Mote</author>
+  </creators>
+  <music>
+    <midiref type="h" num="298"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Way laing gisaligan ko,
+Gawas lang ni Jesucristo;
+S'ya ang pagkamatarung ko,
+Ang 'yang ngalan saligan ko.</stanza>
+    <stanza type="chorus" number="">Lig-ong Bato nga si Cristo
+Maoy akong gibarugan;
+Kay uban di kasaligan.</stanza>
+    <stanza type="verse" number="2">Kon nawong N'ya matabonan,
+Grasya N'ya way kausaban;
+Sa unos mang labing kusgan,
+Giangkla ko sulod's tabil.</stanza>
+    <stanza type="verse" number="3">Panumpa'g saad, dugo N'ya,
+Motabang's akong kalisud;
+Bisan ang tanan manibog,
+S'ya paglaum ko ug kusog.</stanza>
+    <stanza type="verse" number="4">Inighuyop sa trumpeta,
+Mapalgan unta diha N'ya;
+S'ya m'oy pagkamatarung ko;
+Way apan moduol's trono.</stanza>
+  </lyrics>
+</hymn>

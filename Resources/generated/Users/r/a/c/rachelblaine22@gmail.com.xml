@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rachel</firstname>
+  <lastname/>
+  <email>rachelblaine22@gmail.com</email>
+  <password>$2y$10$oy5VoxzP2gklZa6aaH5rfOywXFAxDaQLdZI1UQpNhuGV8QZywFq6K</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>68.228.167.81</ipaddress>
+  <createdate>2015-12-09 01:24:17</createdate>
+  <lastupdateddate>2015-12-09 02:16:21</lastupdateddate>
+  <lastlogindate>2015-12-09 01:27:40</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

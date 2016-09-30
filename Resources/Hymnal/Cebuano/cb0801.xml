@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Buhing Pulong sa Dios, dagway Ka's Dios</title>
+  <index>true</index>
+  <category>PAGTUON SA PULONG&amp;mdash;ANG KAGAMITAN SA PULONG</category>
+  <numbers><cebuano num="801"/><chinese num="581"/><english num="801"/><german num="801"/><korean num="581"/><portuguese num="366"/><spanish num="340"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 1 3 | 5 6 5 - | 3 - 1 3 | 2 - - - (break) | 3 - 1 3 | 5 6 5 6 | 7 - 6 - | 5 - - - (break) | 2 - 3 4 | 6 5 3 - | 5 - 6 6 | 7 - - - (break) | ._1 - 5 3 | 2 4 6 4 | 2 - 5 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="801"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Buhing Pulong sa Dios, dagway Ka's Dios,
+Sulod Ka ning Pulong nasulat na;
+Kanimo mapalgang kahupong's Dios,
+Diha's Kasulatan mabasa Ka.</stanza>
+	<stanza type="verse" number="2">Way tawo nga nakakita sa Dios,
+Labi pa gyud kon way Kasulatan;
+Dios gipahayag Mo sa katawhan
+Ug gipaila Ka's Kasulatan.</stanza>
+	<stanza type="verse" number="3">Hingpit Ka nga pagkalawas sa Dios,
+Gihulagway Ka sa Kasulatan;
+Aron kami makasabut Nimo,
+Ug mahimo Kang matuod namo.</stanza>
+	<stanza type="verse" number="4">Esp'ritung Taghatag's-kinabuhi,
+Espiritu Ka ngani sa Pulong;
+Kon basahon ko sa Espiritu,
+Kahupnganan's Dios maambitan ko.</stanza>
+	<stanza type="verse" number="5">Diha Nimo makaambitay's Dios,
+Sa Pulong makakaon ko Nimo;
+Pagtuon ubanan sa pag-ampo,
+Kadato Mo mapahimuslan ko.</stanza>
+	<stanza type="verse" number="6">Tudloi paggamit's espiritu,
+Magtuon's Pulong, mokontak Nimo,
+Aron mausa Ka's Kasulatan,
+Matag adlaw mahimong manna ko.</stanza>
+  </lyrics>
+</hymn>

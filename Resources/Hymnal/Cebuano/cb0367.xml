@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Labaw Ka, O Jesucristo</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA PAGKALABAW NI CRISTO</category>
+  <numbers><cebuano num="367"/><chinese num="289"/><english num="367"/><korean num="289"/><russian num="411"/><tagalog num="367"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from J. Temperley Grey</author>
+  </creators>
+  <music>
+    <midiref type="h" num="367"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Labaw Ka, O Jesucristo,
+Way porma, pulong, credo,
+Iglesia ba'g gugma's tawo,
+Makatandi Nimo.</stanza>
+    <stanza type="verse" number="2">Labaw Ka, O Jesucristo,
+Gugma Mo nagsakop nako,
+Namatay na's kaugalingon,
+Nabuhi Kanimo.</stanza>
+    <stanza type="verse" number="3">Labaw Ka, O Jesucristo,
+Pun-a nang sulod ko;
+Samaha's hunahuna Mo,
+Bisan sa pagbuot.</stanza>
+    <stanza type="verse" number="4">Labaw Ka, O Jesucristo,
+Ang kinabuhi Mo
+Mag-usab's kinabuhi ko,
+Himaya madayag.</stanza>
+    <stanza type="verse" number="5">Labaw Ka, O Jesucristo,
+Nalipayng kalag ko,
+Magpaulipon, magtuman,
+Sa Imo nga gusto.</stanza>
+  </lyrics>
+</hymn>

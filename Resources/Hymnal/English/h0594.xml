@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Christ my very peace is</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;By Following the Spirit</category>
+  <numbers><cebuano num="594"/><chinese num="436"/><dutch num="79"/><english num="594"/><french num="108"/><german num="594"/><korean num="436"/><portuguese num="296"/><russian num="107"/><spanish num="272"/><tagalog num="594"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1732-1809" biolink="">From Franz Joseph Haydn</composer>
+  </creators>
+  <meter>6.5.6.5.D.</meter>
+  <hymncode>33221555662</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - F/C - | C - G/D - | C/E - F - | G - - - | Dm - A/C# - | Dm - Dm/F - | C/G - G7 - | C - - - | C/E - G7/D - | C - A7 - | Dm - Dm/F - | C/G - G - | Dm - G7 - | C/E - Am - | Dm/F - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - G - | C - - - | C - F - | G - - - | F - - - | F - - - | G - G7 - | C - - - | C - - - | A7 - - - | Dm - - - | G - - - | G - G7 - | C - - - | G - G7 - | C F C - |</guitarChords>
+  <melody>| 3 3 2 2 | 1 - 5_. - | 5 5 6 6 | 2 - - - (break) | 4 4 3 3 | 2 - 6_. - | 1 1 2 2 | 1 - - - (break) | (Chorus) 5 5 4 4 | 3 - 6_. - | 4 4 6 6 | 1( - 7_.) - (break) | 4 4 2 2 | 5 - 3 - | 2 2 7_. 7_. | 1 - - - |</melody>
+  <layout>
+	<singingstanza>Christ my ve -- ry peace is And my life with -- in; Shar -- ing in the spir -- it I u -- nite with Him. Fol -- low -- ing the Spir -- it, Liv -- ing in the Lord, Life He doth sup -- ply me And His peace af -- ford.</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0594.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="33">e0594_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Christ my very peace is
+And my life within;
+Sharing in the spirit
+I unite with Him.</stanza>
+	<stanza type="chorus" number="">Following the Spirit,
+Living in the Lord,
+Life He doth supply me
+  And His peace afford.</stanza>
+	<stanza type="verse" number="2">To the Lord belonging,
+Bound I'll never be,
+For the law of life now
+Sets me wholly free.</stanza>
+	<stanza type="verse" number="3">Minding flesh no longer,
+I'll the spirit mind;
+Self-will never follow,
+But the Spirit's find.</stanza>
+	<stanza type="verse" number="4">Christ within empow'rs me
+Spiritual to be!
+E'en my body quick'ning
+By His pow'r in me.</stanza>
+	<stanza type="verse" number="5">Spirit with the spirit
+Witnesseth in one,
+I'm of God begotten,
+Heir with Christ the Son.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Susan</firstname>
+    <lastname>Yeh</lastname>
+    <email>susanjyeh@gmail.com</email>
+    <password>KZhPoX4Us0bnL%2BkxsotZHQ%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>68.95.255.8</ipaddress>
+    <createdate>2010-09-06 21:47:04</createdate>
+    <lastupdateddate>2010-09-06 21:47:40</lastupdateddate>
+    <lastlogindate>2010-09-06 21:47:06</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="50">Zion</fav>
+    </favourites>
+</user>

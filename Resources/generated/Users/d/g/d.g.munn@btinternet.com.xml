@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>Munn</lastname>
+  <email>d.g.munn@btinternet.com</email>
+  <password>$2y$10$w.vaimhqrGUWX5JY6sT9heTfFcjOwgW2BQSWlAWB7Lysz/XDSofHi</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>109.146.123.190</ipaddress>
+  <createdate>2016-04-14 14:45:29</createdate>
+  <lastupdateddate>2016-04-14 14:46:27</lastupdateddate>
+  <lastlogindate>2016-04-14 14:46:27</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

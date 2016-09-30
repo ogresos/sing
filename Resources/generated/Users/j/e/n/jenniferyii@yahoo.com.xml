@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jennifer</firstname>
+  <lastname>Yii</lastname>
+  <email>jenniferyii@yahoo.com</email>
+  <password>$2y$10$r2iOgiHQTpUwfPAZGLnN4O2iDVHVzeJ/47PZJyp4K6.YNMPS8yrrW</password>
+  <gender/>
+  <country>Malaysia</country>
+  <ipaddress>115.133.99.192</ipaddress>
+  <createdate>2013-11-10 07:57:51</createdate>
+  <lastupdateddate>2015-10-14 10:16:12</lastupdateddate>
+  <lastlogindate>2015-10-14 10:16:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+    <fav category="default" type="h" num="803">O Word of God incarnate</fav>
+    <fav category="default" type="h" num="1228">The Bible is the Word of God</fav>
+    <fav category="default" type="h" num="86">Though Thou art God, most glorious, high</fav>
+    <fav category="default" type="h" num="1033">Ye who are troubled and burdened by sin</fav>
+  </favourites>
+</user>

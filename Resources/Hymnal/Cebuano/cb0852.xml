@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gimahal ko, O Ginoo</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;ANG IYANG KATAHUM</category>
+  <numbers><cebuano num="852"/><chinese num="616*"/><dutch num="34"/><english num="852"/><french num="151"/><german num="852"/><korean num="616"/><portuguese num="389"/><russian num="135"/><spanish num="365"/><tagalog num="852"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3 - 3 4 | 5 - - 1 | 7_. - 2 - | 1 - - - | 3 - 4 5 | 6 - 2 - | 2 - - - (break) | 7 - 6 5 | ._1 - - 5 | 4 - 5 - | 3 - - - | 5 - 4 2 | 6_. - 7_. - | 1( - - - | 1) - - 0 |</melody>
+  <music>
+	<midiref type="h" num="745"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gimahal ko, O Ginoo,
+Ang Imong Iglesia;
+Kalipay'g gikahimut-an,
+Kapahulayan Mo.</stanza>
+	<stanza type="verse" number="2">Alang n'ya gitugyan Nimo
+Ang Kaugalingon;
+Alang n'ya lawas ihalad,
+Pagtagbo's gusto Mo.</stanza>
+	<stanza type="verse" number="3">Alang n'ya kinabuhi Kang
+Ikinabuhi ko;
+Alang n'ya di's kaugalingon,
+Mapuno s'ya Nimo.</stanza>
+	<stanza type="verse" number="4">Ang Iglesia Asawa Mo,
+Makit-an Ka's Lawas;
+S'yay kalipay'g tinguha ko,
+Ug gisaligan ko.</stanza>
+	<stanza type="verse" number="5">Diha n'ya hingpit Mong sangkap
+Gipaambit nako;
+Diha n'ya bat'nan Mo ako,
+Magtagbaw Kanimo.</stanza>
+	<stanza type="verse" number="6">Gimahal ko, O Ginoo,
+Iglesiang balay Mo;
+Magpuyo sa dayon didto,
+Di na gyud maglaag.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kalibutan nakita na</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;SA KAHIMUOT SA GINOO</category>
+  <numbers><cebuano num="405"/><chinese num="308"/><english num="405"/><german num="405"/><korean num="308"/><russian num="257"/><spanish num="178"/><tagalog num="405"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 (break) | (Chorus) 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 |</melody>
+  <notes>Gisulat kining alawitona human ang mag-aakda, nga natawo nga buta, naulian sa iyang panan-aw.</notes>
+  <music>
+	<midiref type="h" num="405"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kalibutan nakita na,
+Pabutaha pag-usab;
+Basi'g mawad-an's Presensya
+Nga akong Gikalipay.</stanza>
+	<stanza type="chorus" number="">Kalibutan nakita na,
+Pabutaha pag-usab,
+Basi'g mawad-an's Presensya,
+Nga akong Gikalipay.</stanza>
+	<stanza type="verse" number="2">Kadlawon, kilom-kilom ba,
+Didto makita ko ra;
+Apan samtang gikaloy-an,
+Pagkabuta igo na.</stanza>
+	<stanza type="verse" number="3">Di na gustong makagawas
+Sa tunok, kon may grasya;
+Kon himaya N'ya maghayag
+Sa nawong ko's kasanag.</stanza>
+	<stanza type="verse" number="4">Sa kadulom, 'yang katahum
+Mahikap ko's pagtoo;
+Gidumtan S'ya'g gikataw-an,
+Himaya N'ya'y nakit-an.</stanza>
+	<stanza type="verse" number="5">Pagkalabaw's 'yang himaya,
+Sa Adlaw ba o Bulan,
+Ulong gipuronga'g tunok,
+Labaw'g himaya's tanan.</stanza>
+  </lyrics>
+</hymn>

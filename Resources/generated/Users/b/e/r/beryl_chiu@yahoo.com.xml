@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>beryl</firstname>
+<lastname>chiu</lastname>
+<email>beryl_chiu@yahoo.com</email>
+<password>$1$AsXAg5Ak$dumziWJ67JwCvga10Kf0k/</password>
+<gender>F</gender>
+<country>Philippines</country>
+<ipaddress>203.76.201.250</ipaddress>
+<createdate>2008-07-26 01:43:00</createdate>
+<lastupdateddate>2009-09-15 18:23:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="641">Art thou hung'ring for the fulness</fav>
+        <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+        <fav category="default" type="lb" num="42">The love of God and the grace of Christ</fav>
+        <fav category="default" type="ns" num="52">Sweet, sweet repose</fav>
+        <fav category="default" type="ns" num="141">O glorious divine love</fav>
+        <fav category="default" type="lb" num="30">Deep in God's heart</fav>
+    </favourites>
+</user>

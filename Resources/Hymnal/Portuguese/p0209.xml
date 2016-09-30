@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O meu amor e vida aqui</title>
+  <index>true</index>
+  <category>Viver Para O Senhor</category>
+  <numbers><english num="457"/><portuguese num="209"/></numbers>
+  <creators>
+    <author biodate="1843-1901" biolink="">Translated from Ralph Erskine Hudson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="457"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O meu amor e vida aqui,
+Senhor Jesus, entrego a Ti;
+Fiel serei em Te seguir,
+Meu Salvador, meu Deus!</stanza>
+    <stanza type="chorus" number="">Feliz agora vivo eu
+Por quem, na cruz, por mim morreu;
+A Ti, pois, me entrego eu,
+Meu Salvador, meu Deus!</stanza>
+    <stanza type="verse" number="2">Rejeito o mundo e seu prazer,
+Vem, ó Senhor, me receber;
+Não quero mais Te entristecer,
+Meu Salvador, meu Deus!</stanza>
+    <stanza type="verse" number="3">Na cruz morreste em meu lugar,
+A fim de me salvar, livrar;
+Vou meu viver Te consagrar,
+Meu Salvador, meu Deus!</stanza>
+  </lyrics>
+</hymn>

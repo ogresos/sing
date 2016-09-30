@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa kailaliman ng Iyong Ngalan</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;SA PAMAMAGITAN NG PANGALAN NG PANGINOON</category>
+  <numbers><cebuano num="671"/><chinese num="497"/><english num="671"/><german num="671"/><korean num="497"/><portuguese num="331"/><russian num="470"/><tagalog num="671"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 - 1 2 | 3 - 5 - | 4 3 3 2 | 1 - - - (break) | 3 - 3 2 | 5 - 2 - | 3 2 2 1 | 7_. - - - (break) | 1 - 1 1 | 4 - 3 - | 5. 3/ 2 1 | 7_. - - - (break) | 1 - 2 1 | 1 2 3 4 | 3 - 2 - | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="225"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sa kailaliman ng Iyong Ngalan,
+Tatahan ako sa kasiyahan;
+Gaano man ang tagal ng araw,
+O dilim ng gabi; sapat Ikaw.</stanza>
+	<stanza type="verse" number="2">Ang aking Diyos, ang Sapat-sa-lahat,
+Sa kulang ko tustos Niya ay sapat;
+Mak'pangyar'han Mong kamay gumawa,
+Puno ng pag-ibig, mahimala.</stanza>
+	<stanza type="verse" number="3">Lagi akong titiwala sa Iyo,
+Muling hihilig 'ko sa dibdib Mo;
+Doon sasambahin Iyong paraan,
+Sa pananalig, kapahingahan.</stanza>
+  </lyrics>
+</hymn>

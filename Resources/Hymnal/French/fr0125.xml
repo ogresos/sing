@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Les douleurs me rendent doux</title>
+  <index>true</index>
+  <category>Le chemin de la croix&amp;mdash;gagner en perdant</category>
+  <numbers><english num="625"/><french num="125"/></numbers>
+  <creators>
+    <author biodate="1731-1800" biolink="">Translated from William Cowper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="135"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">C'est mon bonheur ici-bas,
+Que de vivre sous la croix,
+Pour connaître la puissance
+Du Sauveur dans les souffrances.</stanza>
+    <stanza type="verse" number="2">Les épreuves surviendront,
+Mais je vois par simple foi,
+Que l'amour les accompagné.
+Je les accueille avec joie.</stanza>
+    <stanza type="verse" number="3">Si je ne suis éprouvé,
+Limité, châtié, pressé,
+Je ferais bien d'avoir peur,
+D'être par Lui rejeté.</stanza>
+    <stanza type="verse" number="4">Les douleurs me rendent doux,
+Me font fléchir les genoux.
+Mes prières vivifient,
+M'humilient devant Lui.</stanza>
+  </lyrics>
+</hymn>

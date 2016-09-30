@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"A comer!" Jesús nos llama</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Como comida y bebida</category>
+  <numbers><cebuano num="1148"/><chinese num="ts:215"/><english num="1148"/><german num="1148"/><korean num="1019"/><portuguese num="248"/><russian num="367"/><spanish num="228"/><tagalog num="1148"/></numbers>
+  <melody>| 0 - - 5/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 4/ 6/ | 5 - - 5/ 5/ | 6./ 6// 6/ 6/ 6/ 6/ 7/ ._1/ (break) | ._2 - - ._1/ ._2/ | ._3./ ._3// ._3/ ._2/ ._1 7/ ._1/ (break) | ._2./ ._1// ._1/ 7/ 6 6/ ._1/ | 7./ 7// 7/ 7/ 7/ 5/ 7/ ._2/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">"¡A comer!" Jesús nos llama,
+"¡A comer!"
+De Jesús podemos comer y beber;
+Brinda diaria provisión,
+Y total satisfacción,
+"¡A comer!" Jesús nos llama,
+"¡A comer!"</stanza>
+	<stanza type="verse" number="2">"¡A comer!" Jesús nos llama,
+"¡A comer!"
+Si comemos y bebemos siempre de͜ El
+El nos llena en verdad
+Con Su misma re͡alidad,
+"¡A comer!" Jesús nos llama,
+"¡A comer!"</stanza>
+  </lyrics>
+</hymn>

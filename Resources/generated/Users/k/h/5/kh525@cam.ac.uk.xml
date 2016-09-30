@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Kuan</firstname>
+    <lastname></lastname>
+    <email>kh525@cam.ac.uk</email>
+    <password>uEgqNGiVJkPfUSKLzcXoOQ%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>92.20.252.197</ipaddress>
+    <createdate>2013-12-25 16:48:37</createdate>
+    <lastupdateddate>2013-12-25 16:50:50</lastupdateddate>
+    <lastlogindate>2013-12-25 16:48:38</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+        <fav category="default" type="h" num="4">Father of heav'n, whose love profound</fav>
+        <fav category="default" type="h" num="1">Glory be to God the Father</fav>
+        <fav category="default" type="h" num="2">Glory, glory, glory, praise and adoration</fav>
+    </favourites>
+</user>

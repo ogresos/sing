@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Was wäscht meine Sünde fort</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Das Blut</category>
+  <numbers><cebuano num="1008"/><chinese num="684"/><english num="1008"/><german num="1008"/><korean num="684"/><portuguese num="448"/><russian num="167"/><spanish num="471"/></numbers>
+  <creators>
+	<author biodate="1826-1899" biolink="">Translated from Robert Lowry</author>
+  </creators>
+  <melody>| 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | 1 1 1 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - (break) | (Chorus) 5 - 3 2 | 3 5 3 - | 2 - 2 1 | 2 2 3( 5) (break) | 5 - 3 2 | 3 5 3 - | 1/ 1/ 1/ 2/ 3 3 | 2 - 1 - |</melody>
+  <layout>
+	<singingstanza>Was wäscht mei -- ne Sün -- de fort? Nur das Blut des Lam -- mes Je -- sus. Was hilft mir und hal -- tet Wort? Nur das Blut des Lam -- mes Je -- sus. Kost -- bar ist Je -- su Blut, Schnee -- weiß mich wäscht– wie gut! Kein and -- rer Strom dies tut, Nur das Blut des Lam -- mes Je -- sus.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1008"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Was wäscht meine Sünde fort?
+Nur das Blut des Lammes Jesus.
+Was hilft mir und haltet Wort?
+Nur das Blut des Lammes Jesus.</stanza>
+	<stanza type="chorus" number="">Kostbar ist Jesu Blut,
+Schneeweiß mich wäscht – wie gut!
+Kein andrer Strom dies tut,
+Nur das Blut des Lammes Jesus.</stanza>
+	<stanza type="verse" number="2">Was nur reinigt? – Ja, ich seh:
+Nur das Blut des Lammes Jesus.
+Gott vergibt mir, wenn ich fleh,
+Nur das Blut des Lammes Jesus.</stanza>
+	<stanza type="verse" number="3">Was tilgt Sündenschulden hier? 
+Nur das Blut des Lammes Jesus.
+Nur aus Gnade, nichts aus mir,
+Nur das Blut des Lammes Jesus.</stanza>
+	<stanza type="verse" number="4">Was hat mich gerecht gemacht?
+Nur das Blut des Lammes Jesus.
+Hoffnung, Frieden mir gebracht?
+Nur das Blut des Lammes Jesus.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joseph</firstname>
+  <lastname/>
+  <email>josephkys@gmail.com</email>
+  <password>$2y$10$Abts8D4cvZAD2ORTv1dWUOxj1EzSkCcK2CmF//eTp8g8Fm6Zc/X92</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>123.193.37.192</ipaddress>
+  <createdate>2016-05-27 11:33:45</createdate>
+  <lastupdateddate>2016-08-23 13:22:33</lastupdateddate>
+  <lastlogindate>2016-08-23 13:22:33</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="209">耶穌你的全勝的愛</fav>
+  </favourites>
+</user>

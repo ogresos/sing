@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O blessed Savior, is Thy love</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <numbers><cebuano num="153"/><chinese num="126"/><english num="153"/><korean num="126"/><portuguese num="78"/><russian num="505"/><tagalog num="153"/></numbers>
+  <creators>
+    <author biodate="1663-1713" biolink="">Joseph Stennett</author>
+    <composer biodate="1776-1867" biolink="">George Thomas Smart</composer>
+  </creators>
+  <meter>8.6.8.6.</meter>
+  <hymncode>535117143223</hymncode>
+  <key>Ab Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - G/D | C/E - C | G/B - - | Am - G/F | C/E - - | C - C/E | G - - | Am - E/G# | Am - G/B | C - - | G - Am | F - Dm | G - - | C - F/C | C - 0 |</chords>
+  <melody>| 0 - 5 | 3( 5) ._1 | ._1( 7) ._1 | ._4( ._3) ._2 | ._2( ._3) 5 | 5 - 5 | 5( ._3) ._1 | ._1( 7) ._2 | ._1 - 7 (break) | ._1 - ._2 | ._3( ._4) ._3 | ._3( ._2) ._3/( ._1/) |  6 - ._2/( ._1/) | 7.( 6/) 7 | ._1( - - | ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>O bless -- ed Sav -- ior, is Thy love So great! so full! so free! Fain would we have our thoughts, our hearts, Our lives, en -- gaged with Thee.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj155.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="25">e0153_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">O blessed Savior, is Thy love
+  So great! so full! so free!
+Fain would we have our thoughts, our hearts,
+  Our lives, engaged with Thee.</stanza>
+    <stanza type="verse" number="2">We love Thee for the glorious worth
+  Which in Thyself we see;
+We love Thee for that shameful cross,
+  Endured so patiently.</stanza>
+    <stanza type="verse" number="3">No man of greater love can boast
+  Than for his friend to die;
+Thou for Thine enemies wast slain!
+  What love with Thine can vie?</stanza>
+    <stanza type="verse" number="4">Though in the very form of God,
+  With heav'nly glory crowned,
+Thou didst a servant's form assume,
+  Beset with sorrow round.</stanza>
+    <stanza type="verse" number="5">Thou wouldst like wretched man be made
+  In everything but sin,
+That we as like Thee might become
+  As we unlike had been:</stanza>
+    <stanza type="verse" number="6">Like Thee in strength, in meekness, love,
+  In life in ev'ry phase;
+From glory into glory changed,
+  Till we behold Thy face.</stanza>
+    <stanza type="verse" number="7">O Lord, we treasure in our hearts
+  The mem'ry of Thy love;
+And ever shall Thy name to us
+  A grateful odor prove.</stanza>
+  </lyrics>
+</hymn>

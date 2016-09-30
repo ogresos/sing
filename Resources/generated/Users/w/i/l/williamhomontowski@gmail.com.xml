@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>William</firstname>
+  <lastname>Homontowski</lastname>
+  <email>williamhomontowski@gmail.com</email>
+  <password>$2y$10$GSa3sSIHelzBglLBVbZNkOSB58Zna77.dvm3CVp0lnYnTBgn1KvHe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>166.170.221.174</ipaddress>
+  <createdate>2016-05-21 04:03:42</createdate>
+  <lastupdateddate>2016-05-21 04:17:47</lastupdateddate>
+  <lastlogindate>2016-05-21 04:14:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

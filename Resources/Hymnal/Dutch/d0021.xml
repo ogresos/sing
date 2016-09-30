@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ik behoor aan Jezus</title>
+  <index>true</index>
+  <category>Zekerheid en vreugde van de behoudenis&amp;mdash;Verlost door het bloed</category>
+  <numbers><dutch num="21"/><english num="306"/><french num="56"/><spanish num="149"/><tagalog num="306"/></numbers>
+  <creators>
+    <author biodate="1917-?" biolink="">Translated from M. Fraser</author>
+  </creators>
+  <music>
+    <midiref type="h" num="306"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ik behoor aan Jezus,
+en niet aan mijzelf.
+Alles wat ik heb en ben,
+is van Hem alleen.</stanza>
+    <stanza type="verse" number="2">Ik behoor aan Jezus,
+heerlijk, heerlijk feit.
+Met Zijn eigen bloed heeft Hij
+mijn hart en ziel bevrijd.</stanza>
+    <stanza type="verse" number="3">Ik behoor aan Jezus,
+aan Hem die stierf voor mij.
+‘k Houd van Hem en Hij van mij,
+tot in eeuwigheid.</stanza>
+    <stanza type="verse" number="4">Ik behoor aan Jezus,
+met lichaam, ziel en geest,
+zodat Hij Zichzelf in mij,
+dagelijks uitdeelt.</stanza>
+  </lyrics>
+</hymn>

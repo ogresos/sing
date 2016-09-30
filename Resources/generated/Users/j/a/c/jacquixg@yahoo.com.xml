@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jacqueline</firstname>
+  <lastname>Galik</lastname>
+  <email>jacquixg@yahoo.com</email>
+  <password>$2y$10$anwY62E0ZMA8RN62wW7T5uZ9NKHz1O8WWYthvTU/8TIwoY5tRcwfG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>173.66.7.214</ipaddress>
+  <createdate>2015-06-12 11:07:35</createdate>
+  <lastupdateddate>2015-06-13 11:15:47</lastupdateddate>
+  <lastlogindate>2015-06-12 11:14:13</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+  </favourites>
+</user>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Susan</firstname>
+    <lastname></lastname>
+    <email>mcwilliamssusane77@gmail.com</email>
+    <password>9D5JkRpSFk46grGQ04qLyg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>75.120.144.54</ipaddress>
+    <createdate>2013-07-25 23:43:35</createdate>
+    <lastupdateddate>2013-07-26 00:14:25</lastupdateddate>
+    <lastlogindate>2013-07-25 23:43:36</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+        <fav category="default" type="h" num="301">Redeemed&amp;mdash;how I love to proclaim it</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+    </favourites>
+</user>

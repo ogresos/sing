@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nimm mein Leben, Dir es sei</title>
+  <index>true</index>
+  <category>HINGABE&amp;mdash;Alles dem Herrn hingeben</category>
+  <numbers><cebuano num="445"/><chinese num="339"/><english num="445"/><french num="79"/><german num="445"/><korean num="339"/><portuguese num="205"/><russian num="84"/><spanish num="192"/><tagalog num="1359"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="www.hymns.net/stories/havergal.htm">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 1 1 | 1/( 5_./) 1/( 3/) | 5 4 | 3 - | 3 3 | 3/( 2/) 4/( 2/) | 1 7_./( 2/) | 1 - (break) | 3 3 | 2 2/( 3/) | 4 5 | 4( 3) | 5 5 | 6 5 | 5/( 4/) 4/( 3/) | 3( 2) | 1 2 | 3 4/( 2/) | 1 7_. | 1 - |</melody>
+  <layout>
+	<singingstanza>Nimm mein Le -- ben, Dir es sei, Ab -- so -- lut mich Dir, Herr, weih; Je -- de Stun -- de geb ich hin, Flie -- ßen soll Dein Lob da -- rin. Flie -- ßen soll Dein Lob da -- rin.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="281"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nimm mein Leben, Dir es sei,
+Absolut mich Dir, Herr, weih;
+Jede Stunde geb ich hin,
+Fließen soll Dein Lob darin.</stanza>
+	<stanza type="verse" number="2">Nimm die Hände, lass sie nun
+Alles in der Liebe tun;
+Nimm die Füße, lass sie sein
+Flink und schön für Dich allein.</stanza>
+	<stanza type="verse" number="3">Nimm die Stimme, dass sie singt,
+Für den König schön erklingt;
+Nimm die Lippen, lass sie hier
+Reden immerzu von Dir.</stanza>
+	<stanza type="verse" number="4">Nimm mein Gold und Silber, Herr,
+Nichts für mich behalt ich mehr;
+Meine Kraft und den Verstand,
+Nimm auch ganz in Deine Hand.</stanza>
+	<stanza type="verse" number="5">Meinen Willen nimm Du ein,
+Er sei nicht mehr länger mein.
+Mach mein Herz zu Deinem Thron,
+Du als König darin wohn.</stanza>
+	<stanza type="verse" number="6">Meine Liebe nimm für Dich, 
+Deine Füße salbe ich.
+Nimm mein ganzes Wesen ein,
+Alles soll für Dich, Herr, sein.</stanza>
+	<stanza type="note" number="">(Letzte Zeile wiederholen)</stanza>
+  </lyrics>
+</hymn>

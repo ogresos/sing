@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>當向標竿力前</title>
+  <index>true</index>
+  <category>鼓勵－努力向前</category>
+  <numbers><chinese num="484"/><english num="662"/><korean num="484"/><tagalog num="662"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 0. 0 5/ | ._3 ._1/ ._2/( ._1/) 6/ | 5.( 5) 5/ | 6 6/ 5/( 6/) 5/ (break) | 3.( 3) 5/ | ._3 ._1/ ._2/( ._1/) 6/ | 5 3/ 5 5/ | 6/( 7/) ._1/ 5 7/ | ._1.( ._1) 0/ |</melody>
+  <layout>
+	<singingstanza>當 向 標 竿 力 前！ 雖 然 孤 單， 不 變； 那 開 路 者 現 在 召 你， 所 以 當 前 勿 延。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="662"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當向標竿力前！
+雖然孤單，不變；
+那開路者現在召你，
+所以當前勿延。</stanza>
+	<stanza type="verse" number="2">當向標竿力前！
+主眼睛像火焰，
+正在看你；人算甚麼？
+何必管他喜厭！</stanza>
+	<stanza type="verse" number="3">當向標竿力前！
+不要再望後面，
+因為前頭就是獎賞，
+主要賜給冠冕。</stanza>
+	<stanza type="verse" number="4">當向標竿力前！
+塞耳、啞口、閉眼，
+在崎嶇的血跡路上，
+緊隨基督向前！</stanza>
+  </lyrics>
+</hymn>

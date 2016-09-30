@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Linda</firstname>
+    <lastname>Howard</lastname>
+    <email>lkhoward318@yahoo.com</email>
+    <password>d7r6Q0OuMHhZIulVwMOwLg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-05-22 23:59:18</createdate>
+    <lastupdateddate>2014-05-22 23:59:18</lastupdateddate>
+    <lastlogindate>2014-05-22 23:48:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing Grace</fav>
+        <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    </favourites>
+</user>

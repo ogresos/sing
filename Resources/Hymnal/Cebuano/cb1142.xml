@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus buhing Espiritu</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA ESPIRITU</category>
+  <numbers><cebuano num="1142"/><dutch num="39"/><english num="1142"/><german num="1142"/><korean num="815"/><portuguese num="231"/><russian num="517"/><spanish num="208"/></numbers>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Jesus buhing Espiritu,
+Realidad ta;
+Mapa'muslan S'ya's pagtawag
+Lang "O Ginoo."</stanza>
+	<stanza type="chorus" number="">Jesus buhing Espiritu,
+Imantala ta;
+Dato sa tanang motawag
+Sa ngalan Niya.</stanza>
+	<stanza type="verse" number="2">Jesus buhing Espiritu,
+Nagpahigawas;
+Maayo, mahinatagon,
+Sulayi'g tawag.</stanza>
+	<stanza type="verse" number="3">Jesus buhing Espiritu,
+Ug buhing Pulong;
+Tandogon S'ya's ampo-basa,
+Madawat ta S'ya.</stanza>
+	<stanza type="verse" number="4">Jesus buhing Espiritu,
+Nag-agay nato;
+Pakig-ambitay magdala's
+Pagkausa ta.</stanza>
+	<stanza type="verse" number="5">Jesus buhing Espiritu,
+Datong kombira;
+Karon Lawas nagpa'mulos
+Ug nagdayeg N'ya.</stanza>
+  </lyrics>
+</hymn>

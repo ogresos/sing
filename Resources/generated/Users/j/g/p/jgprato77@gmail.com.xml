@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>James</firstname>
+  <lastname>Prato</lastname>
+  <email>jgprato77@gmail.com</email>
+  <password>$2y$10$qqTc7WS0nWAw16rku8plTe9PJD513nQig08ap/6AmkHL7vzAxC/8a</password>
+  <gender>M</gender>
+  <country>au</country>
+  <ipaddress>122.108.227.165</ipaddress>
+  <createdate>2014-04-27 05:13:41</createdate>
+  <lastupdateddate>2016-05-29 01:27:31</lastupdateddate>
+  <lastlogindate>2016-05-29 01:27:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

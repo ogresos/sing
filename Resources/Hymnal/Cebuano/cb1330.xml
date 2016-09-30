@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Tanan naandam," gidapit ka</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;LINANGKOB</category>
+  <numbers><cebuano num="1330"/><chinese num="ts:834"/><english num="1330"/><french num="212"/><german num="1330"/><korean num="799"/><tagalog num="1330"/></numbers>
+  <creators>
+	<author biodate="1856-1932" biolink="">Translated from Charles Hutchinson Gabriel</author>
+  </creators>
+  <melody>| 5 5./ 5// 6/ 5 0/ | ._3 ._2./ ._2// ._1 - | ._1 6./ 7// ._1./ ._1// 7./ 6// (break) | 5 - - 5 | 5 ._2 ._2 7/( 6/) | 5 ._1 ._1 ._3 | ._2 7./ 7// ._2 ._1 | 7( - 6) - (break) | (Chorus) 5( - 5./) 5// 6./ 7// | ._1 - 5 ._1 | ._2( - ._2./) ._2// ._1./ ._2// (break) | ._3 - - ._1 | ._1( - ._1./) ._1// 7./ 6// | 5 - ._1 ._1 | ._3. ._1/ ._2/ ._2. | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1330"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">"Tanan naandam," gidapit ka!
+Ang talad puno's kalan-on;
+Ang gigutom ug gikapoy,
+Umari kay 'yang busgon.</stanza>
+	<stanza type="chorus" number="">Paminawang pagdapit,
+Bisan kinsay gusto;
+Kaluwasan nga hingpit
+Sa tanang modawat.</stanza>
+	<stanza type="verse" number="2">"Tanan naandam," gidapit ka!
+Samtang bukas pang pultahan;
+May dapit nga gitagana,
+Alang gayud kanimo.</stanza>
+	<stanza type="verse" number="3">"Tanan naandam," gidapit ka!
+Samtang S'ya naghulat nimo;
+Karon maoy higayon mo,
+Ugma di maseguro.</stanza>
+	<stanza type="verse" number="4">"Tanan naandam," gidapit ka!
+B'yai tanang kabalaka;
+Mangaon ta's Cristo sa Dios,
+Kinabuhing dayon S'ya.</stanza>
+  </lyrics>
+</hymn>

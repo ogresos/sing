@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>DAG</firstname>
+    <lastname></lastname>
+    <email>deborahgittens38@hotmail.com</email>
+    <password>AQDJ4S%2FRf6lKZ2Wx1U%2B5DQ%3D%3D</password>
+    <gender></gender>
+    <country></country>
+    <ipaddress>127.0.0.1</ipaddress>
+    <createdate>2014-04-10 21:51:15</createdate>
+    <lastupdateddate>2014-04-10 21:51:15</lastupdateddate>
+    <lastlogindate>2014-04-10 21:50:43</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="701">All the way my Savior leads me</fav>
+        <fav category="default" type="h" num="123">Low in the grave He lay</fav>
+    </favourites>
+</user>

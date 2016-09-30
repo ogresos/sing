@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Listen, listen your conscience speaks to you</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <hymncode>5353451765</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C F/C C - | G7 - - - | G7 - C - | F - - - | F - C - | F - C/E F | C/G G7 C - ||</chords>
+  <melody>| 5 3 5 3/ 4/ | 5/ ._1/ 7/ 6/ 5 - (break) | 4 2/ 3/ 4 2 | 7/ 7/ 6/ 5/ 3 - (break) | 6 5#/ 6/ ._2 ._1 | ._1/ ._1/ 7/ 6/ 5 - (break) | ._1/ ._1/ 7/ 6/ 5/ 4/ 3/ 4/ | 3 2 1 - ||</melody>
+  <layout>
+    <singingstanza>Lis -- ten, lis -- ten, your con -- science speaks to you. If you will lis -- ten, you'll know what to do. When you o -- bey then you are hap -- py too. Lis -- ten to your con -- science speak the whole day through.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="">c0069.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Listen, listen, your conscience speaks to you.
+If you will listen, you'll know what to do.
+When you obey then you are happy too.
+Listen to your conscience speak the whole day through.</stanza>
+    <stanza type="verse" number="2">Listen, listen, your parents speak to you.
+If you will listen, you'll know what to do.
+When you obey then you are happy too.
+Listen to your parents speak the whole day through.</stanza>
+  </lyrics>
+</hymn>

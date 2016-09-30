@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May punoan nangutanang Jesus</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PAGPANGANAK PAG-USAB</category>
+  <numbers><cebuano num="1019"/><chinese num="692"/><english num="1019"/><korean num="692"/><russian num="439"/><spanish num="475"/></numbers>
+  <creators>
+    <author biodate="1819-1904" biolink="">Translated from William True Sleeper</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1019"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May punoan nangutanang Jesus,
+Unsaon nga s'ya mahayagan, mal'was;
+"Ipanganak ka gyud pag-usab," tin-awng
+Tubag's Agalon n'ya.</stanza>
+    <stanza type="chorus" number="">"Ipanganak gyud ka!"
+"Ianak pag-usab!"
+"Ipanganak gyud ka pag-usab karon,"
+Moingon Ko nimo.</stanza>
+    <stanza type="verse" number="2">Paminawa ninyo ang pulong N'ya,
+Nga bug-at gyud nga gisulti ni Jesus
+"Ipanganak gyud ka pag-usab," kini
+Di unta makawang.</stanza>
+    <stanza type="verse" number="3">O kamong mosulod sa pahulay,
+Moduyog sa awit's mga tinubos,
+"Ipanganak gyud ka pag-usab," imo
+Dayong kinabuhi.</stanza>
+  </lyrics>
+</hymn>

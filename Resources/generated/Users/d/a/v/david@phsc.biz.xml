@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>David</firstname>
+<lastname>Brown</lastname>
+<email>david@phsc.biz</email>
+<password>$1$BoQ0XUIz$fYC0IcrJcDxds91BP3fIo0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>74.33.126.137</ipaddress>
+<createdate>2008-12-29 18:21:11</createdate>
+<lastupdateddate>2009-09-15 18:27:04</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    </favourites>
+</user>

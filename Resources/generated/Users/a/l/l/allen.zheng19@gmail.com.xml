@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Allen</firstname>
+    <lastname>Zheng</lastname>
+    <email>allen.zheng19@gmail.com</email>
+    <password>GlQnG%2B%2FinxoExgBJik0xAA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>70.111.40.152</ipaddress>
+    <createdate>2010-03-10 22:10:53</createdate>
+    <lastupdateddate>2011-01-16 16:50:55</lastupdateddate>
+    <lastlogindate>2011-01-16 16:50:55</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="1291">At the end of Luke's gospel, chapter twenty and two</fav>
+        <fav category="default" type="nt" num="720">God hath not promised skies always blue</fav>
+        <fav category="default" type="h" num="8526">God hath not promised skies always blue (Alternate Tune)</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+        <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+        <fav category="default" type="nt" num="378">Savior, lead me up the mountain</fav>
+        <fav category="default" type="h" num="378">Savior, lead me up the mountain</fav>
+        <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+        <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

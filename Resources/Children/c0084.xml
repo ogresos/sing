@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>There is a place within me</title>
+  <index>true</index>
+  <category>Principles on How to Be a Proper Human Being&amp;mdash;General</category>
+  <hymncode>55353322353223465443323</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>85</tempo>
+  <chords>| C - - - | Dm - - - | G7 - - - | C - - - | C - - - | Dm - - - | G7 - - - | C - - - | Dm - G7 - | C - Am - | Dm/F - G7 - | C - - - ||</chords>
+  <melody>| 0/ 5/ 5/ 3/ 5. 3/ | 3/( 2/) 2( 2) 3/ 5/ | 3/ 2/ 2/ 3/ 4/ 6/ 5/ 4/ | 4/ 3/ 3/ 2/ 3 - | 0/ 5/ 5/ 3/ 5. 3/ | 3/( 2/) 2( 2) 3/ 5/ | 3/ 2/ 2/ 3/ 4/ 6/ 5/ 4/ (break) | 4/ 3/ 3// 3// 2/ (.3/ (Chorus) 1/ 1/ 3/ | 3/( 2/)( 2)( 2/) 4/ 4/ 5/ | 4/( 3/) 3( 3/) 1/( 1/) 3/ | 2// 2// 2/ 2/ 3/ 4/ 4/ 3// 3// 2/ | 1 - - - ||</melody>
+  <layout>
+    <singingstanza>There is a place with -- in me; It's my con -- science, and it tells me When I'm good and when I'm bad. And when I'm good, I'm hap -- py. When I'm bad, I feel so sad, I wish I could be hap -- py a -- gain, And so I say, "O Lord, I'm sor -- ry." Then my con -- science is clear And I feel hap -- py a -- gain.</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="36">c0084.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">There is a place within me;
+It's my conscience, and it tells me
+When I'm good and when I'm bad.
+And when I'm good, I'm happy.
+When I'm bad, I feel so sad,
+I wish I could be happy again,</stanza>
+    <stanza type="chorus" number="">And so I say,"O Lord, I'm sorry."
+Then my conscience is clear
+And I feel happy again.</stanza>
+  </lyrics>
+</hymn>

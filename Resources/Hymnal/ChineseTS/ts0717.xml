@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>豫嘗那日</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>3667161123</hymncode>
+  <key>E Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>自 從 『過 召 會』， 生 活 何 美 麗， 豫 嘗 那 日； 新 耶 路 撒 冷， 新 耶 路 撒 冷， 安 息 的 滿 足。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0717.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">自從『過召會』，
+生活何美麗，豫嘗那日；
+新耶路撒冷，
+新耶路撒冷，
+安息的滿足。</stanza>
+	<stanza type="verse" number="2">今日的召會就是那美地
+─流奶與蜜。
+盡情的享受，
+盡情的享受，
+豐盛的生命。</stanza>
+	<stanza type="verse" number="3">建造的召會就是神居所，
+讓祂安息；為祂掌王權，
+為祂掌王權，
+完成神旨意。</stanza>
+  </lyrics>
+</hymn>

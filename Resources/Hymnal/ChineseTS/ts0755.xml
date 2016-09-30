@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>跟隨榜樣</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><chinese num="ts:755"/><english num="1245"/></numbers>
+  <melody>| 0 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 6_.. 6_.. 6_./( 7_./) 1/ | 2. 2. 2/( 1/) 2/ (break) | 3 - - 3/( 2/) 3/ | 4. 4. 4/( 5/) 6/ | 6. 5. 5/( 4/) 3/ | 2. 2. 2/( 3/) 4#/ (break) | 5 - - (Chorus) 5/( 4/) 3/ | 3. 2. 2/( 3/) 4/ | 4. 3. 3/( 2/) 3/ | 5. 3. 3/( 2/) 1/ (break) | 2 - - 5_./( 6_./) 7_./ | 1. 1. 1/( 2/) 3/ | 4. (.6. 6/( 5/) 4/ | 3. 5. 4/( 3/) 2/ | 1 - - 0. |</melody>
+  <layout>
+	<singingstanza>活 基 督 者 佳 美 蹤 迹， 應 當 效 法 且 追 隨； 己 意、 己 力 不 再 憑 倚， 跟 隨 榜 樣 不 羞 愧。 弟 兄 姊 妹 腳 蹤 佳 美， 活 主 生 命 何 寶 貴； 如 此 榜 樣 應 當 跟 隨， 豫 備 新 婦 迎 主 歸。</singingstanza>
+  </layout>
+  <notes>帖前一章六節,腓立比三章十七節</notes>
+  <music>
+	<midiref type="h" num="703"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">活基督者佳美蹤迹，
+應當效法且追隨；
+己意、己力不再憑倚，
+跟隨榜樣不羞愧。</stanza>
+	<stanza type="chorus" number="">弟兄姊妹腳蹤佳美，
+活主生命何寶貴；
+如此榜樣應當跟隨，
+豫備新婦迎主歸。</stanza>
+	<stanza type="verse" number="2">呼求主名取用寶血，
+佳美榜樣緊跟隨；
+如此跟隨，步履確切，
+必將仇敵全擊潰。</stanza>
+	<stanza type="verse" number="3">當將心懷全然開啟，
+榜樣言語樂聽取；
+並非接受人言、人意，
+乃是領受神話語。</stanza>
+	<stanza type="verse" number="4">如此，主話速速傳開，
+主的恢復達地極；
+神聖行動何能阻礙，
+神旨成功日可期。</stanza>
+	<stanza type="verse" number="5">一路跟隨，不偏不倚，
+直至婚娶之日臨，
+直至新婦妝飾整齊，
+迎接羔羊同歡欣。</stanza>
+  </lyrics>
+</hymn>

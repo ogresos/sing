@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Kanhi patay kita sa sala</title>
+  <index>true</index>
+  <category>ANG IGLESIA&amp;mdash;INGON NGA USA KA BAG-ONG TAWO</category>
+  <numbers><cebuano num="1232"/><chinese num="ts:616"/><english num="1232"/><german num="1232"/><korean num="796"/><portuguese num="395"/><russian num="139"/><spanish num="376"/><tagalog num="1232"/></numbers>
+  <melody>| 1 1 3 1 | 1./ 2// 1./ 6_.// 5_. - | 5_../ 5_.// 1./ 2// 3 2./ 1// | 2 - - - (break) | 1 1 3 1 | 1./ 2// 1./ 6_.// 5_. 1./ 2// | 3./ 3// 3./ 1// 2./ 2// 2./ 7_.// | 1 - - - (break) | [2/4] (Chorus) 0 5 | 3. 1/ | 2./ 1// 1./ 6_.// | 1 2 | 0 5/ 5/ | 3. 1/ | 2./ 3// 2./ 3// | 2 - (break) | 0 5 | 3. 1/ | 2./ 1// 1./ 6_.// | 1./ 1// 1./ 2// | 3./ 3// 3./ 1// | 2./ 1// 7_../ 2// | 1( - | 1) - |</melody>
+  <notes>Efeso 2-3</notes>
+  <music>
+	<midiref type="h" num="1232"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Kanhi patay kita sa sala,
+Na's nabahin gyud nga yuta;
+Gibuhi ta pag-usa sa Dios,
+Aron molingkod uban sa Ginoo.</stanza>
+	<stanza type="chorus" number="">Giusa ta karon ni Jesus,
+Tan-awa, kita nagkausa.
+Gidugtong kita N'ya sa gugma,
+Ngadto sa hingkod nga sukod's
+Lawas N'ya.</stanza>
+	<stanza type="verse" number="2">Uban's tanan makasabut na,
+Sa tanang mga sukod's Dios.
+Pagkasayud's gugma ni Cristo,
+Mapuno ta sa kahupnganan sa Dios.</stanza>
+	<stanza type="verse" number="3">Sa tuyo's Dios nasayud kita,
+Nakita na ang misteryo N'ya;
+Mao si Cristo ug iglesia,
+Nga magpakaulaw gyud sa kaaway.</stanza>
+	<stanza type="verse" number="4">Ning tuyo nag-ampo's Amahan&amp;mdash;
+Lig-onon ang sulod nga tawo;
+Magbalay Ka sa kasingkasing,
+Pasukaron mi's gugma ug plano Mo.</stanza>
+	<stanza type="verse" number="5">Sa Lawas kita ipahaum,
+Ingo'g mga bahin ni Cristo;
+Magbuhat sumala's sukod ta,
+Sa pagtubo's gugma mangatukod ta.</stanza>
+	<stanza type="verse" number="6">Nausa pagtuman's tuyo N'ya,
+Ingo'g bag-ong tawo's plano N'ya.
+Mahimaya S'ya sa iglesia,
+Ug dihang Jesucristo hangtud's dayon!</stanza>
+  </lyrics>
+</hymn>

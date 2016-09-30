@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I was lost in sin but Jesus rescued me</title>
+  <index>true</index>
+  <category>Assurance and Joy of Salvation&amp;mdash;A Wonderful Savior</category>
+  <creators>
+    <author biodate="1887-1978" biolink="">Virgil Prentiss Brock</author>
+    <composer biodate="1888-1958" biolink="">Blanche Kerr Brock</composer>
+  </creators>
+  <meter>11.9.11.9. with chorus.</meter>
+  <hymncode>33336543432</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - Am - | Dm - Dm/F - | G - G7/B - | C - C/G - | C - Am - | Am E Am - | G/D - D7 - | G - - G7 | C - C/E - | Dm - Dm/F - | G - G7/B - | C - C/G - | C - Am - | Am - Dm D/F# | C/G - G7 - | C F/C C 0 |</chords>
+ <guitarChords>| C - - - | C - - - | G - - - | G - G7 - | C - - - | C - Am - | Am E Am - | G - D7 - | G - - G7 | C - - - | G - - - | G - G7 - | C - - - | C - - - | A7 - Dm - | G - G7 - | C F C 0 |</guitarChords>
+  <melody>| 0 - - 3/ 3/ | 3 3 6. 5/ | 4/ 3/ 4/ 3/ 2 5/ 5/ | 7/ 6/ 5 4/ 5 6/ (break) | 3 - - 3/ 3/ | 3 3 6. 3/ | 6/ 6/ 7/ 7/ ._1 ._1/ 6/ | 7/ 7 2/ 6/ 6 2/ (break) | 5( - (.5/) (Chorus) (.5/ (.6/ (.7/ | ._1/ 7/ 6 5/ 6 7/ | 4 - - 5/ 5/ | 7/ 6/ 5 4/ 5 6/ | 3 - - 5/ 5/ (break) | ._1 7 6. 5/ | 6/ 5/ 4/ 3/ 2 7/ 6/ | 5/ 4#/ 5 6/ 6 7/ | ._1 - - 0 |</melody>
+  <layout>
+    <singingstanza>I was lost in sin but Je -- sus res -- cued me, He's a won -- der -- ful Sav -- ior to me; I was bound by fear but Je -- sus set me free, He's a won -- der -- ful Sav -- ior to me. For He's a won -- der -- ful Sav -- ior to me, He's a won -- der -- ful Sav -- ior to me; I was lost in sin, but Je -- sus took me in, He's a won -- der -- ful Sav -- ior to me.</singingstanza>
+  </layout>
+  <copyright>Copyright, 1946 Renewal. Rodeheaver Co., Owner. All Rights Reserved. Used by Permission.</copyright>
+  <links>
+    <link type="group">hymnal-subj002.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0335_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I was lost in sin but Jesus rescued me,
+  He's a wonderful Savior to me;
+I was bound by fear but Jesus set me free,
+  He's a wonderful Savior to me.</stanza>
+    <stanza type="chorus" number="">For He's a wonderful Savior to me,
+  He's a wonderful Savior to me;
+I was lost in sin, but Jesus took me in,
+    He's a wonderful Savior to me.</stanza>
+    <stanza type="verse" number="2">He's a Friend so true, so patient and so kind,
+  He's a wonderful Savior to me;
+Everything I need in Him I always find,
+  He's a wonderful Savior to me.</stanza>
+    <stanza type="verse" number="3">He is always near to comfort and to cheer,
+  He's a wonderful Savior to me;
+He forgives my sins, He dries my every tear,
+  He's a wonderful Savior to me.</stanza>
+    <stanza type="verse" number="4">Dearer grows the love of Jesus day by day,
+  He's a wonderful Savior to me;
+Sweeter is His grace while pressing on my way,
+  He's a wonderful Savior to me.</stanza>
+  </lyrics>
+</hymn>

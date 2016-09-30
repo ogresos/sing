@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hoy aquel Nombre exaltad</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su nombre</category>
+  <numbers><cebuano num="77"/><english num="77"/><german num="77"/><portuguese num="41"/><russian num="344"/><spanish num="42"/><tagalog num="77"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 3 3 | 5 - 1 | 2 - 2 | 3 - - | 5 5 5 | 4 - 5 | 3 - 4 | 2 - - (break) | 2 2 2 | 2 - 2 | 4# - 4# | 5 - - | 3 3 3 | 3( 2) 1 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="77"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Hoy aquel Nombre exaltad!
+Proclame͜ el cielo su poder;
+El Nombre del triunfante Rey
+Debe la tierra͜ enaltecer.</stanza>
+	<stanza type="verse" number="2">¡Hoy aquel Nombre exaltad!
+Nuestro refugio͜ y torre͜ es él;
+En aflicción podemos ver
+Qué victorioso͜ el Nombre es.</stanza>
+	<stanza type="verse" number="3">¡Hoy aquel Nombre exaltad!
+Hasta la tierra conquistar;
+Muerte, pecado͜ y el pesar
+Cristo͜ en Su reino͜ anulará.</stanza>
+	<stanza type="verse" number="4">¡Hoy aquel Nombre exaltad!
+Y͜ el Rey de reyes regirá;
+Su Nombre sobre todos es,
+Nombre que͜ amamos complacer.</stanza>
+	<stanza type="verse" number="5">¡Hoy aquel Nombre exaltad!
+Toda rodilla se͜ hincará;
+Verá el fruto de Su cruz,
+Nuestro Señor y Rey, Jesús.</stanza>
+  </lyrics>
+</hymn>

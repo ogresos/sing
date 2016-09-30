@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pumarito, kayong nangalulugmok</title>
+  <index>true</index>
+  <category>PAG-ALIW SA MGA PAGSUBOK&amp;mdash;SA PAMAMAGITAN NG LUKLUKAN NG AWA NG PANGINOON</category>
+  <numbers><chinese num="502"/><english num="684"/><korean num="502"/><tagalog num="684"/></numbers>
+  <creators>
+    <author biodate="1779-1852" biolink="">Translated from Thomas Moore</author>
+    <author biodate="1784-1872" biolink="">Altered by Thomas Hastings</author>
+  </creators>
+  <music>
+    <midiref type="h" num="684"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Pumarito, kayong nangalulugmok,
+Sa trono ng habag ay dumulog;
+Pusong sawi'y dalhin, maging hinaing,
+Sa lungkot, langit magpapagaling.</stanza>
+    <stanza type="verse" number="2">Ilaw ng ligaw, sa hapis ay saya
+Sa nagsisisi'y punong pag-asa;
+Mang-aaliw ay magiliw nagbigkas
+Sa lungkot, langit tunay na lunas.</stanza>
+    <stanza type="verse" number="3">Dito'y masdan ang Tinapay ng Buhay
+Mulang trono, tubig na dalisay
+Sa piging ng pag-ibig, pumarito
+Sa lungkot, langit ang nag-aalo.</stanza>
+  </lyrics>
+</hymn>

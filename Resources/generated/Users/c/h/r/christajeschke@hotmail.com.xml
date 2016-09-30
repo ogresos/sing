@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Christa</firstname>
+  <lastname/>
+  <email>christajeschke@hotmail.com</email>
+  <password>$2y$10$lgbFHJZIKrNKNbWNEagvnOmW20Ib3E1sGcHQxsmCkrRVtglq4OeqS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.210.130.169</ipaddress>
+  <createdate>2015-03-02 05:58:54</createdate>
+  <lastupdateddate>2015-03-02 22:45:38</lastupdateddate>
+  <lastlogindate>2015-03-02 22:40:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="253">Always rejoice</fav>
+    <fav category="default" type="h" num="649">Fear not, little flock, from the cross to the throne</fav>
+    <fav category="default" type="h" num="1335">Great is the Lord, and greatly to be praised</fav>
+    <fav category="default" type="h" num="752">I am the Lord that healeth thee</fav>
+    <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+    <fav category="default" type="h" num="1336">What shall I give unto the Lord</fav>
+  </favourites>
+</user>

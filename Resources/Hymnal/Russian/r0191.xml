@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Бог Отец вовеки славен</title>
+  <index>true</index>
+  <category>БЛАГОСЛОВЕНИЕ ТРИЕДИНОГО БОГА&amp;mdash;ЕГО ПЛАН</category>
+  <numbers><cebuano num="1"/><chinese num="1"/><english num="1"/><german num="1"/><korean num="1"/><russian num="191"/><spanish num="1"/><tagalog num="1"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from J. F. Garland</author>
+  </creators>
+  <melody>| 5 5 5 ._3 | ._2 ._1 6 ._1 | 5 ._3 ._2 ._2 | ._2 - - - (break) | ._3 ._3 ._3 ._2 | ._1 ._1 ._1 6 | 5 - 6 7 | ._1 - - - |</melody>
+  <layout>
+	<singingstanza>Бог О -- тец во -- ве -- ки сла -- вен И Хрис -- тос как Сын.  Сла -- вен Дух Свя -- той во -- ве -- ки.  Бог три -- е -- дин.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Бог Отец вовеки славен
+И Христос как Сын.
+Славен Дух Святой вовеки.
+Бог триедин.</stanza>
+	<stanza type="verse" number="2">Видим мы простор творенья,
+План искусный Твой.
+Сердце хочет преклониться
+Перед Тобой.</stanza>
+	<stanza type="verse" number="3">Ты стремишься к обретенью
+Любящих сынов,
+Что Тебя прославят в Сыне
+Через любовь.</stanza>
+	<stanza type="verse" number="4">Тайну Ты хотел поведать,
+О любви сказать
+И любовь навеки нашу
+Завоевать.</stanza>
+	<stanza type="verse" number="5">Во Христе, чрез искупленье,
+Силы зла поправ,
+Ты обрёл в творенье новом
+Поклонников!</stanza>
+	<stanza type="verse" number="6">Бог Отец вовеки славен
+И Христос как Сын.
+Славен Дух Святой вовеки.
+Бог триедин.</stanza>
+  </lyrics>
+</hymn>

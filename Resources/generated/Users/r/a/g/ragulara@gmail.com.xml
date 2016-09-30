@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Ray</firstname>
+    <lastname>Aguilar</lastname>
+    <email>ragulara@gmail.com</email>
+    <password>$1$QFnXP.2r$XMq3zW4.8c0bDTJIAcgHK0</password>
+    <gender>M</gender>
+    <country>United States</country>
+    <ipaddress>76.104.181.71</ipaddress>
+    <createdate>2009-04-20 11:27:31</createdate>
+    <lastupdateddate>2012-01-13 00:26:01</lastupdateddate>
+    <lastlogindate>2012-01-13 00:26:01</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="473">No mortal tongue can e'er describe</fav>
+    </favourites>
+</user>

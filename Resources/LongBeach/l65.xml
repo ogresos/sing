@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, I love You more and more each day</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ts:340"/><english num="lb:65"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>533221236</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>90</tempo>
+  <chords>| C - - - | Dm - - - | F - G7 - | C - - - | C - - - | Dm - - - | F - G7 - | F - G7 - | C - - - | C - - - | Dm - - - | F - G7 - | C - - - | C - - - | Dm - - - | F - G7 - | F - G7 - | C - - - | Am - - - | Em - - - | F - G7 - | C - - - | Am - - - | Em - - - | F - - - | Dm - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./( | 5_./) 1/( 1/) 2/ 3 - (break) | 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./ | 6_./( 1/)( 1) - 2 | 1 - - - (break) | (Verse_2) 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./( | 5_./) 1/( 1/) 2/ 3 - (break) | 0 5/ 3/ 3/ 2/ 2/ 1/( | 1/) 2/( 2/) 3/ 6_. - | 0 4/ 3/ 3/ 2/ 2/ 5_./ | 6_./( 1/)( 1) - 2 | 1 - - - (break) | (Chorus) 0 6 3 6 | 5 - 3 - | 0 6 5. 4/ | 5 - - - | 0 6 3 6 | 5 - 3 2 | 1 - - 1 | 2 - - 5 | 3( - - - | 3) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Lord, I love You more and more each day. Lord, I love You more this ver -- y day. I can't live with -- out You a -- ny -- more. I can't make it like I did be -- fore. Oh, those years when I was void of You. Lord, You res -- cued me when I was through. When I re -- mi -- nisce those oth -- er years, Emp -- ti -- ness, heart -- aches, and ma -- ny tears. Lord, I do love You more ev -- ery -- day. Lord, I do love You much more this ve -- ry day.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">lordkeepmyheart.xml</link>
+    <link type="orderinfo" url="www.livingstream.com/hymns/0736307788.html"></link>
+  </links>
+  <music>
+    <midi location="lb" length="75">lb65.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, I love You more and more each day.
+Lord, I love You more this very day.
+I can't live without You anymore.
+I can't make it like I did before.</stanza>
+    <stanza type="verse" number="2">Oh, those years when I was void of You.
+Lord, You rescued me when I was through.
+When I reminisce those other years,
+Emptiness, heartaches, and many tears.</stanza>
+    <stanza type="chorus" number="">Lord, I do love You more everyday.
+Lord, I do love You much more this very day.</stanza>
+    <stanza type="verse" number="3">Oh, that thirst that gnawed me deep within:
+Drove me seeking satisfaction.
+Oh, the many things that I have tried:
+Left me thirsting and dissatisfied.</stanza>
+    <stanza type="verse" number="4">In this endless search for something new,
+All the time this cry was just for You.
+I was blind in trying many things
+'Til I drank You as my living Spring.</stanza>
+    <stanza type="verse" number="5">Lord, You came and filled my inmost  being.
+You're the sweetest satisfaction.
+You're the Spirit as my everything,
+Spirit in my spirit bubbling.</stanza>
+    <stanza type="verse" number="6">Thank You, Lord, for coming into me.
+Now You're spreading in me constantly.
+Lord, You're making home in all my heart,
+As my treasure filling every part.</stanza>
+  </lyrics>
+</hymn>

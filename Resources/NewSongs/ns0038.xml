@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus Lord, I long for Your embrace</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <hymncode>1757653</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>115</tempo>
+  <chords>| C - Em - | F - - G | C - Em - | F - G - | C - Em - | Am - G/B - | C - Em - | Am - G - | Dm - C/E - | F - G7 - | C - Dm - | F - G7 - |</chords>
+  <melody>| 0 1( 7_.) 5_. | 7_./( 6_..)( 6_.) 5_. | 3_.. 1/ 7_. 5_. | 6_.. 6_./ 7_. 1 | 5 4 3/ 4/ 3/ 1/( | 1.) 1/ 2 3 | 5 4/ 3/ 2/ 2/ 3/ 1/( | 1.) 6_./ 7_. 1/ 4/( | 4/) 3/ 2/ 1/ 2 3/ 1/( | 1) - 7_. 7_. | 1( - 2 - | 4 3/ 2/)( 2) - |</melody>
+  <layout>
+    <singingstanza>Je -- sus Lord, I long For Your em -- brace To taste Your kiss -- es sweet -- er than wine, To know the love that sur -- pass -- es all time, To feel the joy when I am in Your arms, Pre -- cious One.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group003.xml</link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/seattle.html"></link>
+  </links>
+  <music>
+    <midi location="ns" length="26">ns0038.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus Lord, I long
+For Your embrace
+To taste Your kisses sweeter than wine,
+To know the love that surpasses all time,
+To feel the joy when I am in Your arms,
+    Precious One.</stanza>
+    <stanza type="verse" number="2">Jesus Lord, You died 
+To set me free.
+Now You're my all and my everything;
+I am so lost when I'm not near Thee;
+Sick with love for You I'll ever be,
+    Treasured One.</stanza>
+    <stanza type="verse" number="3">Jesus Lord, I'm charmed
+By Your mercy
+And I rejoice that You've chosen me
+To be with You in eternity
+But until then keep me close to Thee,
+    Lovely One.</stanza>
+  </lyrics>
+</hymn>

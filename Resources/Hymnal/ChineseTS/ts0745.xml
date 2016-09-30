@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>一切為召會</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <melody>| 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | 3. 3/ 4 3 | 2. 2/ 3 2 | 1. 1/ 4 3 | 2 3 1 - (break) | (Chorus) ._1. 7/ 6 5 | 4 - - 0 | 7. 6/ 5 4 | 3 - - 0 (break) | 3. 4/ 6 5 | ._1. 7/ 7 6 | 5. 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>我 若 僅 為 個 人 『屬 靈』， 我 就 不 屑 再 追 求； 所 有 我 的 屬 靈 經 歷， 都 該 為 召 會 建 造。 一 切 為 召 會， 一 切 為 召 會， 我 的 一 切 所 有 所 是， 全 都 為 召 會。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="441"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我若僅為個人『屬靈』，
+我就不屑再追求；
+所有我的屬靈經歷，
+都該為召會建造。</stanza>
+	<stanza type="chorus" number="">一切為召會，
+一切為召會，
+我的一切所有所是，
+全都為召會。</stanza>
+	<stanza type="verse" number="2">我若專求
+『亮光』『啟示』，
+求主就向我掩面；
+願我從你每一認識，
+都是為召會建造。</stanza>
+	<stanza type="verse" number="3">我若誇耀『聖靈恩賜』，
+求主收去你印證；
+願我的靈天天滿溢，
+好叫召會得建造。</stanza>
+	<stanza type="verse" number="4">我若只求『工作果效』，
+就願主親手拆毀；
+願我所有勞苦工作，
+全都為召會建造。</stanza>
+	<stanza type="verse" number="5">我若追求召會『地位』，
+求主使我感羞恥；
+求主時刻光照顯明，
+單純為召會建造。</stanza>
+  </lyrics>
+</hymn>

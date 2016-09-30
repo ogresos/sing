@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Hab</firstname>
+<lastname>Tun</lastname>
+<email>hanbotun11@gmail.com</email>
+<password>$1$N2VYUJ6Y$UXACU4QFpgHE/8S3x9qAm0</password>
+<gender>M</gender>
+<country>Myanmar</country>
+<ipaddress>58.147.46.123</ipaddress>
+<createdate>2008-08-29 23:20:13</createdate>
+<lastupdateddate>2009-09-15 18:25:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="402">I want that adorning divine</fav>
+        <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    </favourites>
+</user>

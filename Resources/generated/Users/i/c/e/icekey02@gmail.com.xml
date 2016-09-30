@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>林美宜</firstname>
+  <lastname/>
+  <email>icekey02@gmail.com</email>
+  <password>$2y$10$oK3mVafAKuuL7.enPEdi6ONLQUGuiDF7Sr2cRuxTqrtJGPDl0kjBy</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>111.70.213.77</ipaddress>
+  <createdate>2014-12-12 08:29:18</createdate>
+  <lastupdateddate>2015-02-19 08:43:09</lastupdateddate>
+  <lastlogindate>2015-02-19 08:42:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+    <fav category="default" type="ts" num="865">奉獻為神家</fav>
+  </favourites>
+</user>

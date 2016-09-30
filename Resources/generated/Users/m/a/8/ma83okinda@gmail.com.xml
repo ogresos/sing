@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mathews</firstname>
+  <lastname>Okinda</lastname>
+  <email>ma83okinda@gmail.com</email>
+  <password>$2y$10$.qURMzO7W0UmObyVYbtgwefmZoJv3yU4iXk4K9XTcwrlp7dQ5MPCa</password>
+  <gender/>
+  <country>ke</country>
+  <ipaddress>105.230.12.139</ipaddress>
+  <createdate>2015-05-14 09:43:17</createdate>
+  <lastupdateddate>2015-05-14 10:06:11</lastupdateddate>
+  <lastlogindate>2015-05-14 09:44:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="670">Take the name of Jesus with you</fav>
+  </favourites>
+</user>

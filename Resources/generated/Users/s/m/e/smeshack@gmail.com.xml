@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Samuel</firstname>
+<lastname>Meshack</lastname>
+<email>smeshack@gmail.com</email>
+<password>$1$no./c3Mh$RCnhS0kcGy3QfrZRgcKX3/</password>
+<gender>F</gender>
+<country>India</country>
+<ipaddress>122.164.128.216</ipaddress>
+<createdate>2009-03-21 03:36:03</createdate>
+<lastupdateddate>2009-09-15 18:29:41</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="nt" num="477">Though Christ a thousand times</fav>
+    </favourites>
+</user>

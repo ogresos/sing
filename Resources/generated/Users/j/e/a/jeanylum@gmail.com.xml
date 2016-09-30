@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jean</firstname>
+  <lastname>Reifinger</lastname>
+  <email>jeanylum@gmail.com</email>
+  <password>$2y$10$E9iNnf54CAQMdjRlI5sUnuLF5KnQBskZxPw7U04CCE6IkcBaB.P.G</password>
+  <gender>F</gender>
+  <country>United States</country>
+  <ipaddress>71.143.148.155</ipaddress>
+  <createdate>2014-04-16 16:53:37</createdate>
+  <lastupdateddate>2015-10-14 00:59:11</lastupdateddate>
+  <lastlogindate>2015-10-14 00:58:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="6">A divine, romantic story</fav>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="lb" num="43">The Triune God, a mystery</fav>
+    <fav category="default" type="ns" num="102">The gift of righteousness</fav>
+  </favourites>
+</user>

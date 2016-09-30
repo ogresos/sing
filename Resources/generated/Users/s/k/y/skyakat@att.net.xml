@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kathy</firstname>
+  <lastname/>
+  <email>skyakat@att.net</email>
+  <password>$2y$10$J5gOcS3qSR6iCtprG7zJKO16FJJFBw0az/ezhVxVb0FnF4AxJLi9W</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>184.39.111.132</ipaddress>
+  <createdate>2015-01-14 14:34:10</createdate>
+  <lastupdateddate>2015-02-13 13:03:36</lastupdateddate>
+  <lastlogindate>2015-02-13 13:02:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="999">Alas, and did my Savior bleed</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="142">Crown Him with many crowns</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+  </favourites>
+</user>

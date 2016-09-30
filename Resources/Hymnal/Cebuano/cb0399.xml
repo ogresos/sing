@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mausab's dagway N'ya</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;NGA MAHISAMA NI CRISTO</category>
+  <numbers><cebuano num="399"/><chinese num="300"/><english num="399"/><german num="399"/><korean num="300"/><portuguese num="193"/><russian num="456"/><spanish num="176"/><tagalog num="399"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 1. 1/ 2 6 | 5 - 3 - | 3. 3/ 4# 4# | 5 - - - (break) | ._1. ._1/ 5 5# | 6 - 6 - | 5. 3/ 4 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="399"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Mausab's dagway N'ya!
+M'oy gitinguha!
+Tumana, Ginoo,
+Kalag dasiga.</stanza>
+	<stanza type="verse" number="2">Mausab's dagway N'ya!
+Espiritu S'ya!
+Magpadumala N'ya,
+Matumang gusto.</stanza>
+	<stanza type="verse" number="3">Daw salamin ang nawong
+Nga walay tabon,
+Makitang himaya,
+Sumbalik's grasya.</stanza>
+	<stanza type="verse" number="4">Wa untay magtabon,
+Maghanap Niya,
+Makapasumbalik
+Kan'ya's kaputli.</stanza>
+	<stanza type="verse" number="5">Tutok's himaya N'ya,
+Nawong sa nawong;
+Sigeng magtan-aw N'ya,
+Hangtud sa dayon.</stanza>
+	<stanza type="verse" number="6">Mausab's dagway N'ya!
+Bugtong tinguha,
+Ipasumbalik S'ya
+Aron madayag.</stanza>
+	<stanza type="verse" number="7">Mausab's dagway N'ya,
+Isumbalik pa,
+Himaya's himaya,
+Sigeng magdugang.</stanza>
+  </lyrics>
+</hymn>

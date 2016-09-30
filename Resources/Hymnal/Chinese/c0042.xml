@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>父神我今敬拜你</title>
+  <index>true</index>
+  <category>敬拜父－祂兒子名分中的恩典</category>
+  <numbers><chinese num="42"/><english num="49"/><korean num="42"/><tagalog num="49"/></numbers>
+  <creators>
+	<author biodate="1834-1925" biolink="">Translated from Samuel Trevor Francis</author>
+  </creators>
+  <melody>| 5_.. 5_./ 5_. 3 | 2 1 7_. - | 5_.. 5_./ 5_. 4 | 3 2 3 - (break) | 3. 3/ 6 5 | 4 3 2( 1) | 1 1 7_. 1 | 2 - 1 - |</melody>
+  <layout>
+	<singingstanza>父 神， 我 今 敬 拜 你， 恭 敬 向 你 來 頂 禮， 藉 著 基 督 作 我 祭： 父 阿， 我 敬 拜 你。</singingstanza>
+  </layout>
+  <copyright>Used by permission of Pickering &amp; Inglis, Ltd.</copyright>
+  <music>
+	<midiref type="h" num="49"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">父神，我今敬拜你，
+恭敬向你來頂禮，
+藉著基督作我祭：
+父阿，我敬拜你。</stanza>
+	<stanza type="verse" number="2">你愛浩大，何深闊，
+藉著祂死臨及我，
+恩、義，因此我全得：
+父阿，我敬拜你。</stanza>
+	<stanza type="verse" number="3">原是罪人何污穢，
+今成神子何尊貴！
+何等豐厚的恩惠：
+父阿，我敬拜你。</stanza>
+	<stanza type="verse" number="4">今在靈中敬拜你，
+並以基督為實際，
+對你，祂是馨香祭：
+父阿，我敬拜你。</stanza>
+	<stanza type="verse" number="5">我願向你再獻上，
+深處感戴的頌揚，
+頌揚你愛永無疆：
+父阿，我敬拜你。</stanza>
+  </lyrics>
+</hymn>

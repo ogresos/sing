@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh Lord, break through</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Expression of Christ</category>
+  <numbers><english num="lb:63"/><vsb num="141"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Josie Johnson">J. J.</author>
+    <composer biodate="" biolink="" fullname="Josie Johnson">J. J.</composer>
+  </creators>
+  <hymncode>13161316</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - - - | C - - - | F - - - | Dm - - - | G - - - | Dm - - - | G - - - | C - - - | F - - - | C - - - | F - - - | Dm - - - | G - - - | Dm - - - | G - - - | C - - - | F - - - | G7 - - - | C - - - | C - - - | F - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 1 3. 1/( | 1/) 6_./( 6_.) - -| 0 1 3. 1/( | 1/) 6_./( 6_.) - - (break) | 0 2 4. 2/( | 2/) 7_..( 7_.) 5_. | 0 4( 4) 2 | 7_.( - 1 2) (break) | 0 1 3. 1/( | 1/) 6_./( 6_.) - - | 0 1 3. 1/( | 1/) 6_./( 6_.) - - (break) | 0 2 4. 2/( | 2/) 7_..( 7_.) 5_. | 0 4( 4) 2 | 7_.( - 1 2) (break) | (Chorus) 0 3 4 5 | 6.( 5/)( 5/) 4. | 0 2 1. 2/( | 2/) 3/( 3) - - (break) | 0 3 4 5 | 6. 5/( 5/) 4. | 0 2 2/( 1/) 7_.( | 7_./) 1/( 1) - - |</melody>
+  <layout>
+    <singingstanza>Oh Lord, break through. Lord, gain in me. Lord, I want You my all to be. Oh Lord, break through. Lord, gain in me. Oh Lord, re -- place me to -- tal -- ly. Lord, I sur -- ren -- der My all to You. Right now I o -- pen To let You flow through.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="67">lb63.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh Lord, break through.
+Lord, gain in me.
+Lord, I want You my all to be.
+Oh Lord, break through.
+Lord, gain in me.
+Oh Lord, replace me totally.</stanza>
+    <stanza type="chorus" number="">Lord, I surrender
+My all to You.
+Right now I open
+To let You flow through.</stanza>
+    <stanza type="verse" number="2">I open now,
+With all my heart.
+Lord, more and more possess each part.
+Oh Lord, I pray
+Subdue my soul.
+Until You have the full control.</stanza>
+    <stanza type="verse" number="3">Oh Lord, make home
+In all my heart.
+Lord, saturate and fill each part.
+Oh Lord, make home
+In all our heart.
+Lord, constitute Your counterpart.</stanza>
+    <stanza type="verse" number="4">Lord, I believe
+You can get through.
+I give myself again to You.
+Together we lay hold of You.
+'Til we are Your expression true.</stanza>
+    <stanza type="chorus" number="">Lord, we would apprehend with all the saints:
+Your height and Your depth,
+Your breadth and length.
+And as we know Your love,
+You will express Yourself through all of us
+As Your fullness.</stanza>
+  </lyrics>
+</hymn>

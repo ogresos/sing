@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>joseph</firstname>
+<lastname>liu</lastname>
+<email>josephcliu@yahoo.com</email>
+<password>$1$YeKORwjO$VAor2yodXFwM/uzdXfO9v1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>70.111.231.206</ipaddress>
+<createdate>2008-07-26 01:43:08</createdate>
+<lastupdateddate>2009-09-15 18:22:07</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1268">When Noah worked upon the ark as God to</fav>
+        <fav category="default" type="nt" num="165">My song shall be of Jesus</fav>
+        <fav category="default" type="h" num="134">Glory, everlasting glory</fav>
+    </favourites>
+</user>

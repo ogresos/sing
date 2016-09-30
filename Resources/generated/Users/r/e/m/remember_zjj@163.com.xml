@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>j_sunshine</firstname>
+  <lastname/>
+  <email>remember_zjj@163.com</email>
+  <password>$2y$10$xz8BMOj9PACUZZio39zwleTnOYKTQVazSxiGYCGXhhKynKn4ubifa</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>218.75.123.165</ipaddress>
+  <createdate>2015-05-19 00:28:12</createdate>
+  <lastupdateddate>2015-06-09 01:03:12</lastupdateddate>
+  <lastlogindate>2015-06-09 01:03:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="352">For her</fav>
+    <fav category="default" type="ns" num="287">There are Times</fav>
+  </favourites>
+</user>

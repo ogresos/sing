@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lord, You love me so immensely</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Loving Him</category>
+  <numbers><chinese num="ns:46c"/><english num="ns:46"/><vsb num="176"/></numbers>
+  <hymncode>33332252</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | Dm - - - | G - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | Dm - F - | G - G7 - | C - - - | C - - - | C - - - | G - - - | Am - - - | Em - - - | F - - - | C - - - | Dm7 - - - | G7 - - - | C - - - | G/B - - - | Am - - - | Em/G - - - | F - - - | C - - - | Dm - F - | G - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3 3 | 2 2/ 5/( 5/) 2. | 0 1/ 1/ 1 1 | 7_. 7_./ 3/( 3/) 7_.. (break) | 0 6_./ 6_./ 1 6_. | 5_. 5_./ 1/( 1/) 5_.. | 0 6_./ 6_./ 1 3 | 2 - - - (break) | 0 3/ 3/ 3 3 | 2 2/ 5/( 5/) 2. | 0 1/ 1/ 1 1 | 7_. 7_./ 3/( 3/) 7_.. (break) | 0 6_. 1 6_. | 5_. 5_./ 1/( 1/) 5_.. | 0 6_./ 6_./ 1 3 | 2 - - 1/( 7_./) | 1( - - - | 1) - - - (break) | (Chorus) 0 3/ 3/ 5 6 | 2 - - - | 0 1/ 1/ 2 3 | 7_. - - - (break) | 0 6_./ 6_./ 1 6_. | 5_. 5_./ 1/( 1/) 5_.. | 0 6_./ 6_./ 1 3 | 2 - - - (break) | 0 3/ 3/ 5 6 | 2 - - - | 0 1/ 1/ 2 3 | 7_. - - - (break) | 0 6_./ 6_./ 1 6_./ 6_./ | 5_. 5_./ 1/( 1/) 5_.. | 0 6_./ 6_./ 1 3 | 2 - - 1/ 7_./ | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>Lord, You love me so im -- mense -- ly; I would love You more in -- tense -- ly. Ev -- ery day and ev -- ery mo -- ment, O Lord, cap -- ture me. Let my goal and my life's theme be, Lord, to love You more su -- preme -- ly; With all my heart, Lord Je -- sus, Keep me faith -- ful un -- to Thee. Draw me, Lord, each day. Take my veils a -- way. With a pure heart will I see You; Lord I just love You. Noth -- ing else I seek; No one else for me. I would ful -- ly and ab -- so -- lute -- ly Give my whole be -- ing un -- to Thee.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="ns" length="72">ns0046.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lord, You love me so immensely;
+I would love You more intensely.
+Every day and every moment,
+O Lord, capture me.
+Let my goal and my life's theme be,
+Lord, to love You more supremely;
+With all my heart, Lord Jesus,
+Keep me faithful unto Thee.</stanza>
+    <stanza type="chorus" number="">Draw me, Lord, each day.
+Take my veils away.
+With a pure heart will I see You;
+Lord I just love You.
+Nothing else I seek;
+No one else for me.
+I would fully and absolutely
+Give my whole being unto Thee.</stanza>
+  </lyrics>
+</hymn>

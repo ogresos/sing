@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我何等愛祂</title>
+  <index>true</index>
+  <category>讚美主－祂的成肉身</category>
+  <numbers><cebuano num="82"/><chinese num="75"/><english num="82"/><french num="17"/><german num="82"/><korean num="75"/><russian num="444"/><spanish num="48"/><tagalog num="82"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from William E. Booth-Clibborn</author>
+  </creators>
+  <melody>| 0 5 4 3 | 2 - 1 - | 0 1/ 2/ 3 1 | 7_. - 6_. - | 0 7_. 1 2 | 7_.. 6_./ 6_. - | 0 7_. 1 2 | 6_.. 5_./ 5_. - (break) | 0 5 4 3 | 2 - 1 - | 0 1/ 2/ 3 1 | 7_. - 6_. - | 0 4 3 2 | 5 3 2 1 | 2 - - 3 | 1 - - - (break) | 0 (Chorus) (.._1 (.._1 (.7 | 5 - 5 - | 0 7 7 6 | 4 - 4 - | 0 7 7 6 | 4 - 4 - | 0 2 3 4 | 5 - - - (break) | 0 5 5 5 | 6b - 6b - | 0 6b ._1 6b | 5 - 5 - | 0 3 2 1 | 5 - 5 - | 0 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>永 活 的 故 事， 撇 下 榮 耀 降 世， 神 來 作 我 救 主， 成 人， 名 叫 耶 穌。 生 在 馬 槽 裡， 像 根 出 於 乾 地， 成 為 憂 患 的 人， 常 受 痛 苦。 我 何 等 愛 祂！ 何 等 敬 拜 祂！ 我 氣， 我 日 光， 我 的 一 切！ 偉 大 創 造 主， 作 了 我 救 主， 帶 來 神 豐 滿， 取 用 不 竭。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="82"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">永活的故事，
+撇下榮耀降世，
+神來作我救主，
+成人，名叫耶穌。
+生在馬槽裡，
+像根出於乾地，
+成為憂患的人，
+常受痛苦。</stanza>
+	<stanza type="chorus" number="">我何等愛祂！
+何等敬拜祂！
+我氣，我日光，
+我的一切！
+偉大創造主，
+作了我救主，
+帶來神豐滿，取用不竭。</stanza>
+	<stanza type="verse" number="2">何等的低就，
+為要使我得救；
+使那蔭中喪亡，
+無一至於失望；
+神何柔而愛，
+撇開祂的光彩，
+降卑來苦、來愛、
+來救喪亡。</stanza>
+	<stanza type="verse" number="3">絲毫不勉強，
+祂將血肉穿上，
+取了人的形狀，
+將神計畫顯彰。
+榮耀的奧祕，
+神人竟成為一；
+在你，神的一切
+我全得享。</stanza>
+  </lyrics>
+</hymn>

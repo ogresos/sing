@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Señor te amo a Ti</title>
+  <category></category>
+  <numbers><english num="lb:12"/><french num="lb:12f"/><spanish num="lb:12s"/><vsb num="154"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <music>
+    <midiref type="lb" num="12"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Señor te amo a Ti.
+Y no hay nadie como Tu.
+En el universo
+No tengo a nadie como Tu.
+Te amo mi Jesus.</stanza>
+  </lyrics>
+</hymn>

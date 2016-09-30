@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Gustavo</firstname>
+  <lastname>Rojas</lastname>
+  <email>gusrojas4152@gmail.com</email>
+  <password>$2y$10$elQAN0l3QtJ8x1cmg9jbYe4EFXpl9rqlmPnwrXsD4zj2w0x3LDaX2</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.56.6.152</ipaddress>
+  <createdate>2014-10-02 12:03:10</createdate>
+  <lastupdateddate>2014-10-02 12:05:54</lastupdateddate>
+  <lastlogindate>2014-10-02 12:04:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="67">The love of Christ is now constraining me</fav>
+  </favourites>
+</user>

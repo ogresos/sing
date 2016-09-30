@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Diane</firstname>
+  <lastname>McNeil</lastname>
+  <email>blessneil@aol.com</email>
+  <password>$2y$10$W8wx/qeQnksZFDrlccg9wOSTcKw/qziA6/stGG5xblABIVsBziZ32</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>107.107.61.227</ipaddress>
+  <createdate>2015-01-27 19:46:27</createdate>
+  <lastupdateddate>2015-01-31 13:40:04</lastupdateddate>
+  <lastlogindate>2015-01-27 19:48:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="246">Joys are flowing like a river</fav>
+    <fav category="default" type="h" num="992">There's not a Friend like the lowly Jesus</fav>
+  </favourites>
+</user>

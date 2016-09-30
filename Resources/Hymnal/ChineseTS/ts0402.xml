@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>吸引</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>534531651567</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>吸 引、 吸 引， 我 們 被 吸 引 轉 向 主， 再 好 的 前 途 我 們 也 不 屑 一 顧。 情 願 趁 著 現 在， 把 上 好 的 年 歲， 全 然 奉 獻 給 基 督 與 召 會！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0402.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">吸引、吸引，
+我們被吸引轉向主，
+再好的前途
+我們也不屑一顧。
+情願趁著現在，
+把上好的年歲，
+全然奉獻給基督與召會！</stanza>
+	<stanza type="verse" number="2">吸引、吸引，
+召會生活滿了豐富；
+從歲首到年終，
+神眼目常看顧，
+百花開放，百鳥鳴叫，
+滿了生命，
+蔭下嘗甘甜顯出祂秀美。</stanza>
+	<stanza type="verse" number="3">吸引、吸引，
+可愛新郎步步臨近；
+祂正在側耳傾聽，
+要題我的名。
+有天祂要回到半空中，
+悄悄的，一剎那之間
+把我吸上去！</stanza>
+  </lyrics>
+</hymn>

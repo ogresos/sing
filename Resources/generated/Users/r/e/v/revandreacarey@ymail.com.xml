@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rev Andrea</firstname>
+  <lastname>Carey</lastname>
+  <email>revandreacarey@ymail.com</email>
+  <password>$2y$10$CqgJwX75fwAjz5EyQV3vcutB.29.Sw0uBsa8gQE5iGHAJTDV7g37a</password>
+  <gender/>
+  <country>bs</country>
+  <ipaddress>204.236.83.219</ipaddress>
+  <createdate>2014-08-10 01:51:57</createdate>
+  <lastupdateddate>2016-03-20 13:41:34</lastupdateddate>
+  <lastlogindate>2016-03-20 13:41:34</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="393b">Thy way, not mine, O Lord (Alternate Tune)</fav>
+  </favourites>
+</user>

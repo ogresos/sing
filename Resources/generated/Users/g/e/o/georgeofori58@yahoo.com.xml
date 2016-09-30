@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>George</firstname>
+    <lastname>attah</lastname>
+    <email>georgeofori58@yahoo.com</email>
+    <password>5ca6Ubmlhakymc8yQF4SwA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>208.54.37.134</ipaddress>
+    <createdate>2013-07-22 22:53:32</createdate>
+    <lastupdateddate>2013-07-25 21:07:23</lastupdateddate>
+    <lastlogindate>2013-07-23 20:55:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+        <fav category="default" type="nt" num="1057">Jesus, lover of my soul</fav>
+        <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+        <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    </favourites>
+</user>

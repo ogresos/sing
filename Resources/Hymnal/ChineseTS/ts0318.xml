@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>頭一次的愛</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <numbers><chinese num="ts:318"/><english num="ns:305"/></numbers>
+  <creators>
+	<author biodate="" biolink="" fullname="Simon Seiki Tanada">S. S. T.</author>
+  </creators>
+  <date>1971</date>
+  <melody>| 0 - 0/ 3/ 3/ 4/ | 5( - 5/) 3/ 3/ 2/ | 1 - - 7_./ 1/ | 2( - 2/) 3/ 2/ 1/ (break) | 2( - 2/) 3/ 3/ 4/ | 5( - 5/) 3/ 3/ 2/ | 1 - - 7_./ 1/ | 2 - 2/ 3/ 2/ 1/ (break) | 2 - - 5_./ 5_./ | 1/ 1/ 1 - 5/ 5/ | 3/ 2/ 1 - 1 | 2 - - 6_. | 7_. - 6_. 5_. (break) | 1( - - - | 1) - - 1/ 1/ | 6/ 6/( 6) - 6/ 6/ | 5/ 3/( 3) - 3 | 4 - - 3/ 2/ (break) | 5 - - 5_./ 5_./ | 1/ 1/( 1) - 5/ 5/ | 3/ 2/ 1 - 1 | 2 - - 6_. | 7_. - 6_. 5_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+	<singingstanza>當 頭 一 次 遇 見 了 你， 我 的 心 充 滿 歡 喜。 阿 利 路 亞， 喜 樂 滿 溢， 主 耶 穌 充 滿 在 我 裡。 頭 一 次 的 愛， 最 甘 甜 的 愛， 耶 穌， 耶 穌， 我 的 愛。 超 過 一 切 真 實 的 愛， 竟 然 臨 及 我； 甘 甜 的 愛， 最 真 實 的 愛， 耶 穌， 耶 穌， 我 的 愛。</singingstanza>
+  </layout>
+  <music>
+	<midiref type="ns" num="305"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">當頭一次遇見了你，
+我的心充滿歡喜。
+阿利路亞，喜樂滿溢，
+主耶穌充滿在我裡。
+頭一次的愛，
+最甘甜的愛，
+耶穌，耶穌，我的愛。
+超過一切真實的愛，
+竟然臨及我；
+甘甜的愛，最真實的愛，
+耶穌，耶穌，我的愛。</stanza>
+  </lyrics>
+</hymn>

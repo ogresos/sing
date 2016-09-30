@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Danny</firstname>
+  <lastname>Groves</lastname>
+  <email>dannyrg63@hotmail.com</email>
+  <password>$2y$10$K6yHhEY23uVip5D2JbZ/ue/tDhtkw3XJlO7PQFkX.aNj3AAAT9nOS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>184.167.50.249</ipaddress>
+  <createdate>2015-04-14 12:57:38</createdate>
+  <lastupdateddate>2015-04-14 12:59:05</lastupdateddate>
+  <lastlogindate>2015-04-14 12:58:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Lydia</firstname>
+  <lastname>Lim</lastname>
+  <email>lydia@zionbishan.org.sg</email>
+  <password>$2y$10$c2.VLlmFYHWoIvEUQ2wKzeFRoNXHE0SbaXTL0BMt8UmNAWdG6HNzC</password>
+  <gender/>
+  <country>sg</country>
+  <ipaddress>220.255.125.16</ipaddress>
+  <createdate>2014-10-24 01:24:31</createdate>
+  <lastupdateddate>2014-10-24 01:25:10</lastupdateddate>
+  <lastlogindate>2014-10-24 01:25:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

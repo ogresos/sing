@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>德芝</firstname>
+  <lastname>倪</lastname>
+  <email>ndz2011@hotmail.com</email>
+  <password>$2y$10$qVex/MtWlXpikqMIW3o6zuUVwaRcflqBJ8LEUnkB5uPVXKnwjcGru</password>
+  <gender>M</gender>
+  <country>cn</country>
+  <ipaddress>114.216.212.46</ipaddress>
+  <createdate>2014-05-16 11:58:00</createdate>
+  <lastupdateddate>2015-05-01 10:25:21</lastupdateddate>
+  <lastlogindate>2015-05-01 10:25:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="de" num="1084">Dein Name wie Salböl süß fließt</fav>
+    <fav category="default" type="de" num="1159">Deine Schönheit, Herr, hat mich gefangen</fav>
+    <fav category="default" type="hf" num="115">Et sur les montagnes des aromates</fav>
+    <fav category="default" type="h" num="1154">I love Thee, Jesus</fav>
+    <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    <fav category="default" type="hf" num="158">Seigneur, mets dans le cœur</fav>
+    <fav category="default" type="ts" num="305">主耶穌，你美麗奪了我心</fav>
+    <fav category="default" type="ts" num="302">你名如同倒出香膏</fav>
+    <fav category="default" type="ts" num="304">同往葡萄園去</fav>
+    <fav category="default" type="ch" num="176">在你愛的筵席上</fav>
+    <fav category="default" type="ts" num="603">建造當趁今日</fav>
+    <fav category="default" type="ch" num="419">我主你說你是真樹</fav>
+  </favourites>
+</user>

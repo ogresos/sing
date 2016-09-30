@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David</firstname>
+  <lastname>lin</lastname>
+  <email>jyusin168@hotmail.com</email>
+  <password>$2y$10$x.woqmABREdxzQkrURlAeegNp6HU.eESHRtUyZKN.JSdvrMEIDCh2</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>113.61.217.20</ipaddress>
+  <createdate>2015-07-06 03:05:03</createdate>
+  <lastupdateddate>2015-07-06 16:13:02</lastupdateddate>
+  <lastlogindate>2015-07-06 03:05:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="ts" num="338">主耶穌，我是真愛你</fav>
+    <fav category="default" type="ns" num="46c">主，你愛我何等深廣</fav>
+    <fav category="default" type="ts" num="336">何處尋祂</fav>
+    <fav category="default" type="ns" num="158c">沉浸祢愛裡</fav>
+    <fav category="default" type="ts" num="341">願一生愛你</fav>
+  </favourites>
+</user>

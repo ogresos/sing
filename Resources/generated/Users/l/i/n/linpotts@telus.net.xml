@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Linda</firstname>
+  <lastname>Potts</lastname>
+  <email>linpotts@telus.net</email>
+  <password>$2y$10$IYgUqoRDGSInHcPR7Tp4DelowO4bMjzd5NEAdpgQ1y6LbTwjIzC/G</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>75.157.23.238</ipaddress>
+  <createdate>2016-05-08 06:36:16</createdate>
+  <lastupdateddate>2016-05-08 06:41:12</lastupdateddate>
+  <lastlogindate>2016-05-08 06:41:12</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

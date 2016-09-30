@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Боже, жизнь возьми: она</title>
+  <index>true</index>
+  <category>ПОСВЯЩЕНИЕ&amp;mdash;ОТДАЧА ВСЕГО ГОСПОДУ</category>
+  <numbers><cebuano num="445"/><chinese num="339"/><english num="445*"/><french num="79"/><german num="445"/><korean num="339"/><portuguese num="205"/><russian num="84"/><spanish num="192"/><tagalog num="1359"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="www.hymns.net/stories/havergal.htm">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 1 1 | 1/( 5_./) 1/( 3/) | 5 4 | 3 - | 3 3 | 3/( 2/) 4/( 2/) | 1 7_./( 2/) | 1 - (break) | 3 3 | 2 2/( 3/) | 4 5 | 4( 3) | 5 5 | 6 5 | 5/( 4/) 4/( 3/) | 3( 2) | 1 2 | 3 4/( 2/) | 1 7_. | 1 - |</melody>
+  <layout>
+	<singingstanza>Бо -- же, жизнь возь -- ми: о -- на Вся Те -- бе по -- свя -- ще -- на.  Дни возь -- ми, пусть каж -- дый час Слы -- шишь Ты хва -- ле -- нья глас.  Слы -- шишь Ты хва -- ле -- нья глас.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="281"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Боже, жизнь возьми: она
+Вся Тебе посвящена.
+Дни возьми, пусть каждый час
+Слышишь Ты хваленья глас.
+Слышишь Ты хваленья глас.</stanza>
+	<stanza type="verse" number="2">Возьми руки, их к Тебе
+Простираю я в мольбе.
+Возьми ноги, должно им
+По стезям ходить Твоим.
+По стезям ходить Твоим.</stanza>
+	<stanza type="verse" number="3">Возьми голос, чтоб он мог
+Петь Тебе, мой Царь, мой Бог.
+Дай устам достойным быть
+О Тебе благовестить.
+О Тебе благовестить.</stanza>
+	<stanza type="verse" number="4">Возьми волю, должно ей
+Волей только быть Твоей.
+Ум направь, чтоб ныне он
+Лишь Христовым был умом.
+Лишь Христовым был умом.</stanza>
+	<stanza type="verse" number="5">Золото и серебро –
+Всё возьми моё добро.
+Возьми сердце, Сам устрой
+В нём престол Ты царский Свой.
+В нём престол Ты царский Свой.</stanza>
+	<stanza type="verse" number="6">Всю возьми любовь мою.
+С ней у ног Твоих стою.
+О, возьми всего меня!
+Навсегда, навек Твой я!
+Навсегда, навек Твой я!</stanza>
+  </lyrics>
+</hymn>

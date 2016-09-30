@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Angela</firstname>
+  <lastname/>
+  <email>thebreadmeister@gmail.com</email>
+  <password>$2y$10$OZsUzSjPGJfMAJc/fR7oC.f6lk2.8nP17SSNoac8o2jOUMlaL3CC6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>50.143.173.247</ipaddress>
+  <createdate>2015-04-09 16:35:54</createdate>
+  <lastupdateddate>2015-04-09 16:54:46</lastupdateddate>
+  <lastlogindate>2015-04-09 16:36:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="807">Open my eyes that I may see</fav>
+  </favourites>
+</user>

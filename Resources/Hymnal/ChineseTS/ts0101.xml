@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>基督的靈</title>
+  <index>true</index>
+  <category>靈與生命</category>
+  <numbers><cebuano num="1117"/><chinese num="ts:101"/><english num="1117"/><german num="1117"/><korean num="945"/><spanish num="126"/><tagalog num="1117"/></numbers>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 | 6 5 3 | 3 2 2 (break) | 2 - (Chorus) 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// | 6 5 3 (break) | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>神， 我 讚 美 你， 賜 下 基 督 的 靈， 祂 今 來 住 我 裡 面， 作 我 的 生 命。 阿 利 路 亞， 基 督 的 靈！ 阿 利 路 亞， 內 住！ 阿 利 路 亞， 豐 盛 生 命！ 永 遠 不 止 住！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="40"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">神，我讚美你，
+賜下基督的靈，
+祂今來住我裡面，
+作我的生命。
+阿利路亞，基督的靈！
+阿利路亞，內住！
+阿利路亞，豐盛生命！
+永遠不止住！</stanza>
+	<stanza type="verse" number="2">在靈裡歌唱，
+末後亞當已經
+成為賜生命的靈，
+與我合為一。
+阿利路亞，這是耶穌！
+阿利路亞，那靈！
+阿利路亞，與祂聯合！
+二靈成一靈！</stanza>
+	<stanza type="verse" number="3">在靈裡重生，
+我們今被變化，
+模成神兒子形像，
+成熟並長大。
+阿利路亞，分賜生命！
+阿利路亞，變化！
+阿利路亞，改變形狀！
+模成祂形像！</stanza>
+	<stanza type="verse" number="4">模成祂形像，
+乃藉靈得餧養，
+時刻喫喝生命主，
+祂供應無量。
+阿利路亞，完全救恩！
+阿利路亞，屬我！
+阿利路亞，彀我應用！
+生活何超脫！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>I had a debt I could not pay</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <numbers><english num="ns:172"/><vsb num="29"/></numbers>
+  <hymncode>5321512356541456</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - G7 - | C - - - | C7 - - - | F - - - | F - - - | C - - - | A7 - - - | D7 - - - | G7 - - - | C - - - | C7 - - - | F - - - | F - - - | C - Am - | Dm7 - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 5 3 2 | 1. 5_./ 1/ 2/( 2/) 3/( | 3) 5 6 5 | 4. 1/ 4/ 5/( 5/) 6/( (break) | 6) 6 7 6 | 5 3 0 5 | 6 5 4 3 | 2 - - - (break) | 0 5 3 2 | 1. 5_./ 1/ 2/( 2/) 3/( | 3) 5 6 5 | 4 - 4/ 5/( 5/) 6/( (break) | 6) 6 7 6 | 5. 4/ 3. 1/ | 2 4 3 2 | 1( - - - | 1) 0 - - |</melody>
+  <layout>
+    <singingstanza>I had a debt I could not pay, He paid the debt He did not owe, I need -- ed some -- one, To wash my sins a -- way. And now I sing a brand new song, "A -- maz -- ing grace" all day long, Christ Je -- sus paid the debt, That I could nev -- er pay.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="30">ns0172.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">I had a debt I could not pay,
+He paid the debt He did not owe,
+I needed someone,
+To wash my sins away.
+And now I sing a brand new song,
+"Amazing grace" all day long,
+Christ Jesus paid the debt,
+That I could never pay.</stanza>
+  </lyrics>
+</hymn>

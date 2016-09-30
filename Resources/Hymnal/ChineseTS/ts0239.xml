@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我奉耶穌基督的名</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>111153457777653</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>『金 銀 財 寶 我 沒 有， 只 把 我 所 有 的 給 你； 我 奉 耶 穌 基 督 的 名， 叫 你 現 在 起 來 行 走！』 他 就 走 著， 又 跳 著， 又 讚 美 神； 走 著， 又 跳 著， 又 讚 美 神。 阿 利 路 亞， 讚 美 我 主！ 榮 耀， 榮 耀 歸 於 主 名！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0239.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">『金銀財寶我沒有，
+只把我所有的給你；
+我奉耶穌基督的名，
+叫你現在起來行走！』
+他就走著，又跳著，
+又讚美神；走著，
+又跳著，又讚美神。
+阿利路亞，讚美我主！
+榮耀，榮耀歸於主名！</stanza>
+	<stanza type="verse" number="2">金銀財寶我沒有，
+卻有七倍加強的靈；
+我奉耶穌基督的名，
+剛強站起作祂見證！
+我在召會中
+又讚美又見證，
+召會中又讚美又見證。
+阿利路亞，讚美我主！
+榮耀，榮耀歸於主名！</stanza>
+  </lyrics>
+</hymn>

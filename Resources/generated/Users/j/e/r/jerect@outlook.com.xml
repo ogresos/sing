@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jeremmy</firstname>
+  <lastname/>
+  <email>jerect@outlook.com</email>
+  <password>$2y$10$K2KHPf/z19mmOzYUM7Y.EeeMfJ0HhjnEP3C6SC6jik/dD/m0r6Due</password>
+  <gender/>
+  <country>co</country>
+  <ipaddress>190.67.176.169</ipaddress>
+  <createdate>2013-03-07 11:38:47</createdate>
+  <lastupdateddate>2014-08-19 20:27:59</lastupdateddate>
+  <lastlogindate>2014-08-19 20:27:25</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+  </favourites>
+</user>

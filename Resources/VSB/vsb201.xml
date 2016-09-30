@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My goal is God Himself (Alternate)</title>
+  <category>Longings&amp;mdash;For God</category>
+  <creators>
+    <author biodate="" biolink="">Frederick Brook</author>
+    <composer biodate="" biolink="" fullname="Edward Diggins">E. D.</composer>
+  </creators>
+  <hymncode>5323231453</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>97</tempo>
+  <chords>| C - - - | C - - - | Cmaj7 - - - | F - - - | C - - - | C - G/B - | Am - - - | F - - - | G - - - | C - - - | Dm7 - - - | C/E - - F | G - - - | C - - - | F - - - | C - - - | F/C - - - | C - - - | F/C - - - |</chords>
+  <melody>| 0 - - 5_. | 3( - 3/) 2/ 3/ 2/ | 3 - - 1 | 4 - - 5 (break) | 3 - - 5_. | 3 - 3.( 2/) | 2/ 1.( 1) 6_./ 7_./ | 1 - - 6_. (break) | 5_.( - 5_./) 1/ 1/ 7_./ | 1 - - 1/( 7_./) | 1 - - 1/( 7_./) | 1( - 1/)( 2/) 3/( 4/) (break) | 2( - 2/) 4/ 4/ 3/ | 3 - - 5/( 4/) | 4( - 4/) 6/ 6/ 5/ | 5( - - - (break) | 5) - 0/ 6/ 6/ 5/ | 5( - - - | 5) - - 0 |</melody>
+  <layout>
+    <singingstanza>My goal is God Him -- self, not joy, nor peace, Nor e -- ven bless -- ing, but Him -- self, my God; 'Tis His to lead me there&amp;mdash; not mine, but His&amp;mdash; At a -- ny cost, dear Lord, by a -- ny road. by a -- ny road.</singingstanza>
+  </layout>
+  <links>
+    <link type="relevant" category="h" num="350" />
+    <link type="relevant" category="nt" num="350" />
+  </links>
+  <music>
+    <midi location="nt" length="46">e0350b_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My goal is God Himself, not joy, nor peace,
+Nor even blessing, but Himself, my God;
+'Tis His to lead me there&amp;mdash;not mine, but His&amp;mdash;
+At any cost, dear Lord, by any road.</stanza>
+    <stanza type="verse" number="2">So faith bounds forward to its goal in God,
+And love can trust her Lord to lead her there;
+Upheld by Him, my soul is following hard
+Till God hath full fulfilled my deepest prayer.</stanza>
+    <stanza type="verse" number="3">No matter if the way be sometimes dark,
+No matter though the cost be oft-times great,
+He knoweth how I best shall reach the mark,
+The way that leads to Him must needs be strait.</stanza>
+    <stanza type="verse" number="4">One thing I know, I cannot say Him nay;
+One thing I do, I press towards my Lord;
+My God my glory here, from day to day,
+And in the glory there my great Reward.</stanza>
+  </lyrics>
+</hymn>

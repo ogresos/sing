@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我們一生一定永定</title>
+  <index>true</index>
+  <category>教會的異象</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>36717675353665366</hymncode>
+  <key>A Minor</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 一 生 一 定 永 定， 阿 利 路 亞！ 阿 利 路 亞！ 基 督 召 會 是 我 永 分。 阿 利 路 亞！ 阿 利 路 亞！ 不 在 世 界 流 蕩 飄 泊， 安 家 在 召 會， 享 受 祂 豐 富。 阿 利 路 亞！ 阿 利 路 亞！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0524.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們一生一定永定，
+阿利路亞！阿利路亞！
+基督召會是我永分。
+阿利路亞！阿利路亞！
+不在世界流蕩飄泊，
+安家在召會，
+享受祂豐富。
+阿利路亞！阿利路亞！</stanza>
+  </lyrics>
+</hymn>

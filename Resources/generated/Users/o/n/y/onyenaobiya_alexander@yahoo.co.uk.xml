@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alexander</firstname>
+  <lastname>onyenaobiya</lastname>
+  <email>onyenaobiya_alexander@yahoo.co.uk</email>
+  <password>$2y$10$duhRUu5aXGw1zgH1CjPF/una7eF5uK2s6lTiGw3HY5AA6CES6LzzG</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>90.192.152.73</ipaddress>
+  <createdate>2014-09-21 02:47:15</createdate>
+  <lastupdateddate>2014-09-21 03:03:57</lastupdateddate>
+  <lastlogindate>2014-09-21 02:48:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1167">Laboring on the good land, laboring in the morning</fav>
+  </favourites>
+</user>

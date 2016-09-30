@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bo</firstname>
+  <lastname/>
+  <email>bonniebojiang@gmail.com</email>
+  <password>$2y$10$RmEt7x7ieOKhvS8r2iw1..2YihjqZNmOdaSIc7shQj.29nr6kczZy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.136.241.121</ipaddress>
+  <createdate>2014-07-27 02:46:04</createdate>
+  <lastupdateddate>2014-09-23 19:18:36</lastupdateddate>
+  <lastlogindate>2014-09-23 19:18:36</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="302">你名如同倒出香膏</fav>
+    <fav category="default" type="ts" num="872">屬天的家鄉</fav>
+    <fav category="default" type="ns" num="476c">神的夢</fav>
+    <fav category="default" type="ts" num="467">祭壇與帳棚的生活</fav>
+  </favourites>
+</user>

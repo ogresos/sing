@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Theresa</firstname>
+  <lastname/>
+  <email>popo131@gmail.com</email>
+  <password>$2y$10$PHSVYc/3zfs8m8zBjpNiUuwbYmoM8tAPqIioviV6g8deCcjp8mbSq</password>
+  <gender/>
+  <country>mm</country>
+  <ipaddress>61.4.76.88</ipaddress>
+  <createdate>2015-05-13 16:58:26</createdate>
+  <lastupdateddate>2015-05-14 16:20:31</lastupdateddate>
+  <lastlogindate>2015-05-14 16:15:18</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="501">2 Tim. 2:22; 2 Cor. 3:16</fav>
+    <fav category="default" type="lb" num="45">Abba Father</fav>
+    <fav category="default" type="h" num="515">All is in Christ</fav>
+    <fav category="default" type="ns" num="410">But unto you who fear My name</fav>
+    <fav category="default" type="ns" num="108">Crazy lovers of Jesus</fav>
+    <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="ns" num="212">Each time in the morning</fav>
+    <fav category="default" type="h" num="781">Exercise the spirit (Prayer)</fav>
+    <fav category="default" type="h" num="861">God be with you till we meet again</fav>
+    <fav category="default" type="ns" num="28">God has called us for His purpose</fav>
+    <fav category="default" type="c" num="121">God is Spirit, and He comes</fav>
+    <fav category="default" type="ns" num="368">God's Heart</fav>
+    <fav category="default" type="lb" num="51">I do not know where they have laid Him</fav>
+    <fav category="default" type="ns" num="118">Jesus Lord, You're our first love</fav>
+    <fav category="default" type="lb" num="27">Let's go on</fav>
+    <fav category="default" type="lb" num="72">Lord, I have given up my pride</fav>
+    <fav category="default" type="ns" num="261">Seek the Lord while He may be found</fav>
+    <fav category="default" type="ns" num="107">The best love for the Lord</fav>
+    <fav category="default" type="ns" num="246">Though I love You, Lord</fav>
+    <fav category="default" type="ts" num="345">我深知惟有你是我所愛</fav>
+    <fav category="default" type="ts" num="427">為神永遠的經綸</fav>
+  </favourites>
+</user>

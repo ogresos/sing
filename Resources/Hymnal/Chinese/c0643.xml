@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>得勝得勝阿利路亞</title>
+  <index>true</index>
+  <category>屬靈的爭戰－藉主的得勝</category>
+  <numbers><cebuano num="1017"/><chinese num="693*"/><english num="1017*"/><french num="199"/><korean num="693"/><portuguese num="452"/><russian num="181"/><spanish num="474"/><tagalog num="1017"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+    <composer biodate="1830–1890" biolink="">Adapted from William Steffe</composer>
+  </creators>
+  <meter>15.15.15.6. with chorus.</meter>
+  <hymncode>555554351233321</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>C - - - | C - C7 - | F - - - | C - - - | C - - - | E7 - Am - | Dm - G7 - | C F/C C - |</chords>
+  <melody>| 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 0 | 6. 7/ ._1./ 7// ._1./ 6// | 5 - 3 - (break) | 5. 4/ 3./ 5// ._1./ ._2// | ._3 - ._1 ._1 | ._2 ._2 ._1 7 | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>得 勝、 得 勝， 阿 利 路 亞！ 得 勝、 得 勝， 阿 利 路 亞！ 得 勝、 得 勝， 阿 利 路 亞！ 基 督 已 經 得 勝！</singingstanza>
+  </layout>
+  <lyrics>
+	<stanza type="verse" number="1">得勝、得勝，阿利路亞！
+得勝、得勝，阿利路亞！
+得勝、得勝，阿利路亞！
+基督已經得勝！</stanza>
+	<stanza type="verse" number="2">得勝、得勝，阿利路亞！
+得勝、得勝，阿利路亞！
+得勝、得勝，阿利路亞！
+基督使我得勝！</stanza>
+	<stanza type="verse" number="3">榮耀、榮耀，阿利路亞！
+榮耀、榮耀，阿利路亞！
+榮耀、榮耀，阿利路亞！
+榮耀歸於主名！</stanza>
+  </lyrics>
+</hymn>

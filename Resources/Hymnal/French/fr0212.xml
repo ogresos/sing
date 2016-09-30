@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Viens donc au festin, car tout est prêt</title>
+  <index>true</index>
+  <category>L’évangile&amp;mdash;général</category>
+  <numbers><cebuano num="1330"/><chinese num="ts:834"/><english num="1330"/><french num="212"/><german num="1330"/><korean num="799"/><tagalog num="1330"/></numbers>
+  <creators>
+	<author biodate="1856-1932" biolink="">Translated from Charles Hutchinson Gabriel</author>
+  </creators>
+  <melody>| 5 5./ 5// 6/ 5 0/ | ._3 ._2./ ._2// ._1 - | ._1 6./ 7// ._1./ ._1// 7./ 6// (break) | 5 - - 5 | 5 ._2 ._2 7/( 6/) | 5 ._1 ._1 ._3 | ._2 7./ 7// ._2 ._1 | 7( - 6) - (break) | (Chorus) 5( - 5./) 5// 6./ 7// | ._1 - 5 ._1 | ._2( - ._2./) ._2// ._1./ ._2// (break) | ._3 - - ._1 | ._1( - ._1./) ._1// 7./ 6// | 5 - ._1 ._1 | ._3. ._1/ ._2/ ._2. | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1330"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Venez au festin, car tout est prêt !
+Venez ! La table est préparée !
+Les affamés, les assoiffés,
+Oui, venez vous rassasier !</stanza>
+	<stanza type="chorus" number="">Dieu invite au festin,
+Viens ! Prends ! Si tu le veux !
+Au plein salut de Dieu, goûte !
+Viens ! Prends ! Si tu le veux !</stanza>
+	<stanza type="verse" number="2">Venez au festin, car tout est prêt !
+Venez ! La porte est grande ouverte.
+Voici, ta place est réservée,
+Aux côtés de notre Maitre.</stanza>
+	<stanza type="verse" number="3">Viens donc au festin, car tout est prêt !
+Viens ! Alors qu'il est encore temps.
+Viens maintenant ! Le Roi t'attend.
+Demain sera bien trop tard.</stanza>
+	<stanza type="verse" number="4">Viens donc au festin, car tout est prêt !
+Laisse les soucis de ce monde,
+Viens ! De ton Dieu, réjouis-toi !
+La vie éternelle bois !</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Jasmine</firstname>
+<lastname>Orozco</lastname>
+<email>jasmineorozco@sbcglobal.net</email>
+<password>$1$NVqy8kn4$2eoFF8mE6ajCJLaqWn5eL0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>76.231.10.168</ipaddress>
+<createdate>2008-07-26 01:43:07</createdate>
+<lastupdateddate>2009-09-15 18:24:04</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="1331">Just taste and see that the Lord is good</fav>
+        <fav category="default" type="h" num="82">Down from His glory</fav>
+    </favourites>
+</user>

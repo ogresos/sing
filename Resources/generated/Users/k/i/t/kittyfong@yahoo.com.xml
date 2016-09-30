@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Kitty</firstname>
+    <lastname>Chan</lastname>
+    <email>kittyfong@yahoo.com</email>
+    <password>X4tpjgEzIGDK8O8Pd4ReCA%3D%3D</password>
+    <gender></gender>
+    <country>Hong Kong</country>
+    <ipaddress>203.145.92.133</ipaddress>
+    <createdate>2012-11-27 12:30:02</createdate>
+    <lastupdateddate>2012-11-27 12:34:38</lastupdateddate>
+    <lastlogindate>2012-11-27 12:30:02</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    </favourites>
+</user>

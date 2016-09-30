@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Señor de todos, Oh Jesús</title>
+  <index>true</index>
+  <category>Alabanza al Señor&amp;mdash;Su gloria</category>
+  <numbers><cebuano num="133"/><chinese num="120"/><english num="133"/><german num="133"/><korean num="120"/><portuguese num="70"/><russian num="403"/><spanish num="69"/><tagalog num="133"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | ._1 ._2 ._3 ._1 | 6 7 ._1 ._3 | ._2 5/( ._1/) 7 6 | 5 - - ._2 (break) | ._1/( 7/) 6/( 5/) ._1 ._2/( ._3/) | ._4 ._3 ._2 ._1 | 5 6/( ._4/) ._3 ._2 | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="133"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">¡Señor de todos! Oh Jesús,
+Lleno de gloria͜ estás;
+Renombrado por Tu poder,
+Corona͜ y majestad.</stanza>
+	<stanza type="verse" number="2">Dios en la tierra hombre fue,
+Humilde Servidor;
+Un hombre͜ en Dios en los cielos
+De todos es Señor.</stanza>
+	<stanza type="verse" number="3">Como͜ hombre en la gloria͜ estás,
+Tu Dios te entronó;
+Todo poder en los cielos
+Y͜ en la tierra te dio.</stanza>
+	<stanza type="verse" number="4">Dios a los cielos te͜ exaltó,
+¡Qué nombre se te dio!
+A Ti todos se͜ inclinarán,
+Te llamarán Señor.</stanza>
+	<stanza type="verse" number="5">Señor y Cristo te͜ hizo Dios,
+Su͜ Espíritu͜ afirmó
+El trono de la Majestad
+Que compartes con Dios.</stanza>
+	<stanza type="verse" number="6">Señor de gloria eres Tú,
+Te͜ alzamos hoy canción;
+De todos eres el Señor,
+Digno de͜ adoración.</stanza>
+  </lyrics>
+</hymn>

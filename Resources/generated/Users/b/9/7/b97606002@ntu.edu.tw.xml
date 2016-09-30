@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Audrey</firstname>
+    <lastname>Kuei</lastname>
+    <email>b97606002@ntu.edu.tw</email>
+    <password>lazpID1ADDZipDg3BIlpWg%3D%3D</password>
+    <gender>F</gender>
+    <country>tw</country>
+    <ipaddress>140.112.4.195</ipaddress>
+    <createdate>2011-06-14 23:06:46</createdate>
+    <lastupdateddate>2012-10-18 09:26:16</lastupdateddate>
+    <lastlogindate>2012-10-14 13:00:04</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="123">Abide in Me, and I in you</fav>
+        <fav category="default" type="ns" num="94">Christ, not religion</fav>
+        <fav category="default" type="ns" num="166">Fallen, in her condition</fav>
+        <fav category="default" type="ns" num="210">He understands you thoroughly</fav>
+        <fav category="default" type="ns" num="210">He understands you thoroughly</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="65">I love God because...</fav>
+        <fav category="default" type="ns" num="117">I'm thankful that God has placed me</fav>
+        <fav category="default" type="ns" num="202">Lord, I love You, Lord, I need You</fav>
+        <fav category="default" type="ns" num="197">Lord, You are my only goal</fav>
+        <fav category="default" type="ns" num="288">Lord, keep my heart open and soft toward You</fav>
+        <fav category="default" type="ns" num="205">Nothing can content me more</fav>
+        <fav category="default" type="ns" num="292">Though the world may promise me more</fav>
+    </favourites>
+</user>

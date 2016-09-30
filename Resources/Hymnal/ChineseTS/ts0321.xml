@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>我怎能離開主</title>
+  <index>true</index>
+  <category>愛慕耶穌</category>
+  <meter>6.6.6.4.D.</meter>
+  <hymncode>316511212365</hymncode>
+  <key>Bb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 怎 能 離 開 主， 怎 能 將 主 忘 記， 當 主 愛 情 依 依， 在 我 胸 臆； 萬 事 都 要 逝 去， 只 有 愛 永 不 移， 除 了 主 還 有 誰， 使 我 歸 依。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0321.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我怎能離開主，
+怎能將主忘記，
+當主愛情依依，
+在我胸臆；
+萬事都要逝去，
+只有愛永不移，
+除了主還有誰，
+使我歸依。</stanza>
+	<stanza type="verse" number="2">我怎能離開主，
+怎能將主忘記，
+當祂愛的泉源，
+湧流我裡；
+將我全人浸透，
+使我全人復甦，
+除了主還有誰，
+使我歸依。</stanza>
+  </lyrics>
+</hymn>

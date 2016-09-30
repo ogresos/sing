@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Jane</firstname>
+  <lastname>Goss</lastname>
+  <email>jane.goss@utexas.edu</email>
+  <password>$2y$10$XFBw6igBv0UEiTdG99Cm0.fFJ0UKjT4aGgYrott62voXEghbxa.WW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.115.131.54</ipaddress>
+  <createdate>2015-05-11 13:30:07</createdate>
+  <lastupdateddate>2015-05-11 13:46:09</lastupdateddate>
+  <lastlogindate>2015-05-11 13:30:45</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="378">A Life of No Regrets</fav>
+    <fav category="default" type="ns" num="314">And they sing a new song</fav>
+    <fav category="default" type="ns" num="149">Christ has come to be life</fav>
+    <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+    <fav category="default" type="h" num="525">Jesus, Fountain of my days</fav>
+    <fav category="default" type="h" num="794">Stir me, oh, stir me, Lord, I care not how</fav>
+  </favourites>
+</user>

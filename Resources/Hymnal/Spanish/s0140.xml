@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dios mis pecados perdonó</title>
+  <index>true</index>
+  <category>La seguridad y el gozo de la salvación—Amados por el Señor</category>
+  <numbers><chinese num="233"/><english num="1355"/><french num="53"/><portuguese num="169"/><russian num="60"/><spanish num="140"/><tagalog num="1355"/></numbers>
+  <music>
+    <midiref type="h" num="715"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Dios mis pecados perdonó,
+Tras Sus espaldas los tiró;
+Más nunca los recordará,
+Jamás los examinará.</stanza>
+    <stanza type="chorus" number="">Dios mis pecados perdonó
+Como͜ á las nubes dispersó,
+Desvanecidos hoy están
+Ya para siempre los borró.</stanza>
+    <stanza type="verse" number="2">Pesada carga Dios quitó,
+Al mar la͜ echó y sepultó.
+El mis pecados alejó,
+Del este͜ al oeste los lanzó.</stanza>
+  </lyrics>
+</hymn>

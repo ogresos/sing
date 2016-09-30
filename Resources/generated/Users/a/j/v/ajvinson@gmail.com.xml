@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abigail</firstname>
+  <lastname>Vinson</lastname>
+  <email>ajvinson@gmail.com</email>
+  <password>$2y$10$v/PCHJK6kQUOZEdmio7kp.6x/dSOtyoSWvcQ.zIIHLe4BXZrocf1i</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.211.210.76</ipaddress>
+  <createdate>2014-09-10 18:59:58</createdate>
+  <lastupdateddate>2015-03-05 19:51:17</lastupdateddate>
+  <lastlogindate>2015-03-05 19:40:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="535">All things are possible to him</fav>
+    <fav category="default" type="ns" num="380">And to the messenger</fav>
+    <fav category="default" type="ns" num="419">And we have the prophetic word</fav>
+    <fav category="default" type="ns" num="108">Crazy lovers of Jesus</fav>
+    <fav category="default" type="h" num="481">Crucified with Christ my Savior</fav>
+    <fav category="default" type="lb" num="82">Divine romance</fav>
+    <fav category="default" type="h" num="896">Go, labor on; spend, and be spent</fav>
+    <fav category="default" type="h" num="1023">I need Thee, precious Jesus</fav>
+    <fav category="default" type="ns" num="139">I thought I knew You</fav>
+    <fav category="default" type="ns" num="313">I'm pressing on the God-man way</fav>
+    <fav category="default" type="h" num="1218">If from the world you're longing to be free</fav>
+    <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+    <fav category="default" type="h" num="927">O God of burning altar fire</fav>
+    <fav category="default" type="h" num="174">O Morning Star, how fair and bright</fav>
+    <fav category="default" type="h" num="653">Rest, rest thee, weary heart</fav>
+    <fav category="default" type="h" num="592">The earth absorbs the soft, refreshing rain</fav>
+    <fav category="default" type="h" num="498">This is my wonderful story</fav>
+    <fav category="default" type="h" num="518">Whom have I, Lord, in heav'n but Thee</fav>
+  </favourites>
+</user>

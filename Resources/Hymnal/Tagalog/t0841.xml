@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pangino'n, lahat Ka sa aking buhay</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;KANYANG PAGTATAYO</category>
+  <numbers><cebuano num="841"/><chinese num="381"/><dutch num="3"/><english num="841"/><french num="149"/><german num="841"/><korean num="381"/><portuguese num="236"/><russian num="133"/><spanish num="359"/><tagalog num="841"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 3 2 | 1 - 6_. - | 4. 3/ 2 1 | 7_. - - - | 5 2 3 4 | 3 - 1 - | 2. 1/ 7_. 6_. | 5_. - - - (break) | 5_. 5_. 6_. 7_. | 2 - 1 - | 1 1 4 4 | 3 - - - | 1 2 3 4 | 5 - 5_. - | 6_. 4 3 2 | 1 - - - (break) | (Chorus) 3. 3/ 3 2 | 1 - 6_. - | 4. 3/ 2 1 | 7_. - - - | 1 2 3 4 | 5 - 5_. - | 6_. 4 3 2 | 1 - - - |</melody>
+  <music>
+	<midiref type="h" num="439"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pangino'n, lahat Ka sa aking buhay,
+Kapuspusan ng Diyos Iyong ibinigay,
+Pinaging-banal ng Iyong kalikasan,
+Muling-pagkabuhay Mo'y kalakasan.</stanza>
+	<stanza type="verse" number="2">Agos ng buhay Mo ang nagdadala
+Ng liwanag at pagsasalamuha,
+Tustos sa kailangan, sa Iyo'y nakamtan,
+At paglilinis din sa Iyong harapan.</stanza>
+	<stanza type="verse" number="3">Ang kaluluwa ko at espiritu
+Babarang lubos ng Espiritu Mo;
+Iyong baguhin, sa wangis Mo ihubog,
+Hanggang sa Iyong buhay ako'y mahinog.</stanza>
+	<stanza type="verse" number="4">Masaganang buhay Mo'y umaagos,
+Nagpapanariwa at tumutustos;
+Nilulon ng buhay ang kamatayan,
+Inalis ang gapos at kadiliman.</stanza>
+	<stanza type="verse" number="5">Sa Iyo ibibigay ang aking lahat,
+Nang layunin Mo'y sa akin matupad;
+'Di na magsumikap magpakabuti,
+Nang di mahadlangan Iyong minimithi.</stanza>
+	<stanza type="verse" number="6">Tigil ang sariling pagsusumikap,
+Pagbabago ng buhay Mo'y matanggap,
+Nang ako'y kasamang maitatayo
+Na Iyong kahayagan, l'walhati sa Iyo.</stanza>
+  </lyrics>
+</hymn>

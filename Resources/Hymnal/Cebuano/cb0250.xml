@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pagtubod, atabay</title>
+  <index>true</index>
+  <category>KAHUPNGANAN SA ESPIRITU&amp;mdash;INGON NGA BUHING TUBIG</category>
+  <numbers><cebuano num="250"/><chinese num="201"/><english num="250"/><german num="250"/><korean num="201"/><portuguese num="134"/><russian num="355"/><spanish num="116"/><tagalog num="250"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 2#/ 3 4 | 3 - 1 - | 2. 3/ 4 5 | 4 - 3 - (break) | 5. 4#/ 5 6 | 5 - 3 - | 2. 1#/ 2 3 | 2 - 1 - |</melody>
+  <music>
+	<midiref type="h" num="250"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pagtubod, atabay;
+Tubig paagaya;
+Kalota, Ginoo
+Ang nag-ulang nako.</stanza>
+	<stanza type="verse" number="2">Bato nasiak na,
+Buhing tubig&amp;mdash;agay,
+Apan's kasingkasing
+Di na makaagay.</stanza>
+	<stanza type="verse" number="3">Mag-ampo's pagkalot
+Sa akong kahugaw;
+Hangtud mahubaran
+Ang Espiritu Mo.</stanza>
+	<stanza type="verse" number="4">Di na siakon pa
+Pag-usab ang Bato,
+Kondi' kaluton lang,
+Tubig patuboron.</stanza>
+	<stanza type="verse" number="5">Labing kin'hanglan ko
+Pun-on's Espiritu;
+Aron buhing tubig
+Sa sulod magtubod.</stanza>
+	<stanza type="verse" number="6">Kaluton gyud hangtud
+Wala na'y magsampong;
+Buhing pagpamulong
+Sa sulod moagay.</stanza>
+	<stanza type="verse" number="7">Pagtubod, atabay;
+Tubig paagaya;
+Kalota, Ginoo
+Ang nag-ulang nako.</stanza>
+  </lyrics>
+</hymn>

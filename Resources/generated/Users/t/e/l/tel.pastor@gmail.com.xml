@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>T</firstname>
+    <lastname>Graff</lastname>
+    <email>tel.pastor@gmail.com</email>
+    <password>px0P%2BOQqAEjvsXuXg%2BsE%2BA%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>208.99.151.99</ipaddress>
+    <createdate>2012-03-13 16:35:49</createdate>
+    <lastupdateddate>2012-06-14 15:08:35</lastupdateddate>
+    <lastlogindate>2012-06-13 09:59:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+        <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+        <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="860">Blest be the tie that binds</fav>
+        <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+        <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+        <fav category="default" type="c" num="51">Jesus loves me, this I know</fav>
+        <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    </favourites>
+</user>

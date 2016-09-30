@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon muling nabuhay na</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG MULING-PAGKABUHAY</category>
+  <numbers><cebuano num="120"/><chinese num="100"/><english num="120"/><korean num="100"/><russian num="25"/><tagalog num="120"/></numbers>
+  <creators>
+    <author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <music>
+    <midiref type="h" num="120"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Panginoon muling nabuhay na,
+Hatol ng kamatayan lipas na.
+Sa loob Niya, tapos kamatayan
+Libingan ni Hesus walang laman!</stanza>
+    <stanza type="verse" number="2">Panginoon muling nabuhay na,
+Kalakip Niya tayong bumangon na!
+Sa Kanyang libingan dyablo'y talo
+Sa pagkabuhay, tayo'y panalo.</stanza>
+    <stanza type="verse" number="3">Panginoon muling-nabuhay na,
+Tungo sa Diyos tayo'y natubos na!
+Sa Kabanal-banalan, tayo na
+Sa presensya ng Diyos kasama Siya.</stanza>
+    <stanza type="verse" number="4">Panginoon, muling-nabuhay na!
+Sa tabing naunang pumasok Siya.
+Sa labas ng kampo, tayo'y saksi.
+Siya'y nabuhay, laksan ang pagbunyi!</stanza>
+  </lyrics>
+</hymn>

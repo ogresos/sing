@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>brother</firstname>
+  <lastname>gao</lastname>
+  <email>ghy0412@hotmail.com</email>
+  <password>$2y$10$OgGu6q.ZusIjtWNevK7oRehB7K2gyFJlUmb3TR2exjbOp9fQUgXGa</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>223.81.145.108</ipaddress>
+  <createdate>2016-01-01 23:34:20</createdate>
+  <lastupdateddate>2016-01-02 00:17:14</lastupdateddate>
+  <lastlogindate>2016-01-01 23:35:21</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ts" num="718">過節</fav>
+  </favourites>
+</user>

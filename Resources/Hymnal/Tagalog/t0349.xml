@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tila'y usang tinutugis</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA DIYOS</category>
+  <numbers><cebuano num="349"/><chinese num="269"/><english num="349"/><korean num="269"/><tagalog num="349"/></numbers>
+  <creators>
+    <author biodate="1652-1715" biolink="">Translated from N. Tate</author>
+    <author biodate="1639-1726" biolink="">Translated from N. Brady</author>
+  </creators>
+  <music>
+    <midiref type="h" num="104"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tila'y usang tinutugis
+Na uhaw sa batis,
+Gayon ang puso ko sa Iyo,
+Mapanariwa Mo.</stanza>
+    <stanza type="verse" number="2">Diyos na buhay, Pangino'n ko,
+Uhaw ako sa Iyo;
+Hangad Kitang malapitan,
+Higpit na kapitan.</stanza>
+    <stanza type="verse" number="3">Ika'y buhay at lakas ko,
+Pati tahanan ko;
+Kay Kristo, nabusog ako
+At Kita'y natamo.</stanza>
+    <stanza type="verse" number="4">Ngiti Mo'y kaligtasan ko,
+Nakatingin sa Iyo;
+Presensya Mo'y aking hiling,
+Masaganang akin.</stanza>
+    <stanza type="verse" number="5">Ang gaya ko'y usang uhaw,
+Ang lunas ay Ikaw;
+Liban sa Iyo'y walang iba
+Aking ninanasa.</stanza>
+  </lyrics>
+</hymn>

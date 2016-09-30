@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>一盞燈光</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>543512312172165</hymncode>
+  <key>Ab Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>一 盞 燈 光， 一 戶 人 家， 家 需 要 光 照 亮， 神 就 是 光， 聖 潔 無 瑕， 竟 來 我 家 施 恩 無 量； 除 去 憂 傷， 除 去 迷 惘， 我 的 家 每 一 心 房， 喜 樂、 歡 暢 越 發 明 亮。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0866.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">一盞燈光，一戶人家，
+家需要光照亮，
+神就是光，聖潔無瑕，
+竟來我家施恩無量；
+除去憂傷，除去迷惘，
+我的家每一心房，
+喜樂、歡暢越發明亮。</stanza>
+	<stanza type="verse" number="2">我家乃是屬神的家，
+這裏有愛流淌，
+神就是愛，真實、美佳，
+浸潤充滿，甜美馨香；
+帶來體諒，帶來盼望，
+我的家每一心房，
+滿足、安康越發興旺。</stanza>
+  </lyrics>
+</hymn>

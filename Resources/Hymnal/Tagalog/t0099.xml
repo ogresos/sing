@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa hatinggabing madilim</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGDURUSA</category>
+  <numbers><chinese num="83"/><english num="99"/><korean num="83"/><tagalog num="99"/></numbers>
+  <creators>
+    <author biodate="1794-1849" biolink="">Translated from William Bingham Tappan</author>
+  </creators>
+  <music>
+    <midiref type="h" num="99"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa hatinggabing madilim,
+Mga tala'y makulimlim;
+Sa halamanang madilim,
+Siya'y mag-isang nanalangin.</stanza>
+    <stanza type="verse" number="2">Hatinggabi't nag-iisa,
+Si Kristo ay nagbabata;
+Sa Kanya'y di umulinig.</stanza>
+    <stanza type="verse" number="3">Dahil sa sala ng iba,
+Dugo ang ipinawis Niya;
+Nguni't nang nagdurusa na,
+Diyos din ang Kanyang kasama.</stanza>
+    <stanza type="verse" number="4">Yaong awitan sa langit,
+Sa Kanya ay nagparinig;
+Kay tamis na lunas nito,
+Sa pagdurusa ni Kristo.</stanza>
+  </lyrics>
+</hymn>

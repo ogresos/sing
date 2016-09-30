@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Edward</firstname>
+<lastname>Asare</lastname>
+<email>edi7max2@comcast.net</email>
+<password>$1$E9vi8VZc$vyEq9Upc/mcuHNLh8X8pi1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>98.192.241.204</ipaddress>
+<createdate>2008-07-27 22:05:48</createdate>
+<lastupdateddate>2009-09-15 18:25:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="341">It is well</fav>
+    </favourites>
+</user>

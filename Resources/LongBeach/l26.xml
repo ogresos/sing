@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>In eternity, in the beginning</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;General</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>1233332133321452</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | Dm - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | Am - - - | F - - - | G - - - | C/E - A - | Dm - Dm/F - | G - - - | C - F/C - | C - A7 - | Dm - - - | G - - - | C - - - | C - E - | Am - - - | F - - - | C/E - - F | G - - - | C - A - | Dm - Dm7 - | G - G/B - | C - - - | C - E - | Am - - - | F - - - | G - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3/ 3// 3//( 3.) 3/ 2/ 1/ | 3/ 3.( 3/) 3/ 2/ 1/ | 4 - - 5 | 2 - - 3/ 4/ | 5/ 5.( 5) 3/ 4/ | 5/ 5.( 5) 4/ 3/ | 6 - - 6 (break) | 5 - - 6/ 7/ | ._1/ ._1.( ._1) 6/ 7/ | ._1/ ._1.( ._1) ._1 | 7 - - 6 | 5 - - 3 | 4 - 6 - | 5 - - 7_. | 1( - - - (break) | 1) 5 6. 3/ | 4( - - - | 4) 2 5. 2/ | 3( - - - | 3) 1 3. 7_./ | 1 - - 3 | 6 - - 6 | 5 - - 3 | 2( - - - (break) | 2) 5 6. 3/ | 4( - - - | 4) 2 5. 2/ | 3( - - - | 3) 1 3. 7_./ | 1 - - 3 | 6 - - - | 5 - - 7_. | 7_./ 1.( 1)( - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>In e -- ter -- ni -- ty, in the be -- gin -- ning, be -- fore the world be -- gan, God's in -- ten -- tion, it was hid -- den deep in God for man. God cre -- at -- ed all the heav -- en and earth for man. God's cen -- ter was this man. The tree of life, if man would eat, God's will and plan in man, God would com -- plete. This ves -- sel man is for God's plan, God fill -- ing him and thus, God ex -- press -- ing.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="82">lb26.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">In eternity, in the beginning, before the world began,
+God's intention, it was hidden deep in God for man.
+God created all the heaven and earth for man.
+God's center was this man.</stanza>
+    <stanza type="chorus" number="">The tree of life, if man would eat,
+God's will and plan in man, God would complete.
+This vessel man is for God's plan,
+God filling him and thus, God expressing.</stanza>
+    <stanza type="verse" number="2">God has made man on the sixth day in a special way.
+In God's image and God's likeness, man was formed from clay
+With a spirit, soul and body, a three-part man
+God's vessel was this man.</stanza>
+    <stanza type="chorus" number="">Man's spirit needs to take the lead
+On God to feed. To this, man must take heed.
+Our spirit needs to take the lead
+On life to feed. Then God we will receive.</stanza>
+    <stanza type="verse" number="3">Man was poisoned by the serpent, the knowledge tree he took.
+In the garden, there in Eden, tree of life he forsook.
+Man got fallen with rebellion and corrupted within,
+A man with death and sin.</stanza>
+    <stanza type="chorus" number="">The evil and the good you see
+Is just the fruit of the same knowledge tree.
+The knowledge-tree is God's enemy
+That Adam ate by the serpent's subtlety.</stanza>
+    <stanza type="verse" number="4">Man was driven out of Eden for he was serpentine,
+Now a vessel not of glory but of corruption.
+Man a flesh became; he is not the same, a man of shame
+A vessel dead within.</stanza>
+    <stanza type="chorus" number="">The evil and the good you see
+Is just the fruit of the same knowledge tree.
+The knowledge-tree is God's enemy
+That Adam ate by the serpent's subtlety.</stanza>
+    <stanza type="verse" number="5">For this cause, Lord, You came from heaven, and You became a slave.
+The Creator, the God of glory, became a man to save.
+As the Bridegroom and a Husband for Your wife, Your bride,
+Your love flowed from Your side.</stanza>
+    <stanza type="chorus" number="">Your love so great nothing can break;
+Your love for her You could not, Lord, forsake.
+She's in Your heart, in Your deepest part.
+Your love for her, Dear Lord, You could not part.</stanza>
+    <stanza type="verse" number="6">Lord, we love You. Lord, we need You; everyday Lord we do.
+We can't make it. Lord, we hate it when we're not with You.
+You're so wonderful and so faithful, Oh precious One!
+To You we now respond.</stanza>
+    <stanza type="chorus" number="">Your love so great nothing can break;
+We now respond to Your love and Your compassion.
+You're in my heart, in my deepest part.
+My love for You, Dear Lord, I cannot part.</stanza>
+  </lyrics>
+</hymn>

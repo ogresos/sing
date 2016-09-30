@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nahugasan ka ba's dugo's Cordero</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG DUGO</category>
+  <numbers><cebuano num="1007"/><chinese num="688"/><english num="1007"/><french num="197"/><german num="1007"/><korean num="688"/><portuguese num="447"/><russian num="166"/><spanish num="470"/><tagalog num="1007"/></numbers>
+  <creators>
+	<author biodate="1839-1929" biolink="">Translated from Elisha Albright Hoffman</author>
+  </creators>
+  <melody>| 0 - - 3/ 5/ | ._1 ._1 ._1/ 5/ 3/ 5/ | ._1 ._1 ._1 ._1/ ._2/ | ._3 ._3/ ._3/ ._3 ._2/ ._1/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ (break) | ._1 - - (Chorus) ._3/ ._2/ | ._1 - - ._1/ 7/ | 6 - - 7/ 6/ | 5 ._1/ ._2/ ._3 ._4/ ._3/ (break) | ._2 - - ._3/ ._2/ | ._1 ._1 ._1/ ._3/ ._2/ ._1/ | 6 6 6 7/ 6/ | 5 5/ 5/ ._1 7/ 7/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1007"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nahugasan ka ba's dugo's Cordero?
+Nahinloan na ba ni Jesus?
+Nisalig ba's grasya N'ya ning taknaa?
+Nahugasan ka ba's dugo N'ya?</stanza>
+	<stanza type="chorus" number="">Nahugasan na ba
+Sa dugong makahinlo's kalag?
+Biste mo puti ba sama sa nieve?
+Nahugasan ka ba's dugo N'ya?</stanza>
+	<stanza type="verse" number="2">Adlaw-adlaw naglakaw ba uban N'ya?
+Nahugasan ka ba's dugo N'ya?
+Nagpahuway ba matag gutlo's Gilansang?
+Nahugasan ka ba's dugo N'ya?</stanza>
+	<stanza type="verse" number="3">Biste mo puti ba inig-anhi N'ya?
+Nahugasan ka ba's dugo N'ya?
+Kalag mo andam ba sa 'yang presensya?
+Nahugasan ka ba's dugo N'ya?</stanza>
+	<stanza type="verse" number="4">Bisteng namansahan's sala ihiklin,
+Pahugas ka's dugo's Cordero;
+May tubod alang sa paghinlo's kalag,
+Pahugas ka's dugo's Cordero.</stanza>
+  </lyrics>
+</hymn>

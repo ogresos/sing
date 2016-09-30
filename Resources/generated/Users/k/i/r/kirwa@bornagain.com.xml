@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>david</firstname>
+<lastname>kirwa</lastname>
+<email>kirwa@bornagain.com</email>
+<password>$1$hSqUx3tN$AnKWcx2/Xcaz3TtM8xTE3/</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>209.147.110.85</ipaddress>
+<createdate>2008-10-24 11:36:47</createdate>
+<lastupdateddate>2009-09-15 18:26:48</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="334">A wonderful Savior is Jesus my Lord</fav>
+        <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    </favourites>
+</user>

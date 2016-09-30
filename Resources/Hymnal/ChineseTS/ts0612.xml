@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>召會是在合一裡面</title>
+  <index>true</index>
+  <category>建造與合一</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>65616561123232</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>我 們 已 經 看 見 召 會 是 在 合 一 裡 面， 在 和 諧 中 我 們 聯 結， 見 證 唱 詩 讚 美。 地 方 召 會 纔 是 祂 惟 一 所 愛 的 新 婦， 藉 呼 喊 主 我 們 能 彀 更 多 得 著 基 督。 惟 有 祂 是 愛， 我 們 天 天 享 受， 我 們 天 天 享 受， 真 實 的 愛。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0612.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">我們已經看見
+召會是在合一裡面，
+在和諧中我們聯結，
+見證唱詩讚美。地方召會
+纔是祂惟一所愛的新婦，
+藉呼喊主
+我們能彀更多得著基督。</stanza>
+	<stanza type="chorus" number="">惟有祂是愛，
+我們天天享受，
+我們天天享受，
+真實的愛。</stanza>
+	<stanza type="verse" number="2">安家召會，享受基督，
+使我們得飽足；
+靈和召會，
+纔是我們今日真正恢復。
+藉呼喊主，
+我們吸入祂所有的豐富，
+當我們被浸透佔有，
+靈就得著自由。</stanza>
+	<stanza type="verse" number="3">愛的水流，來自寶座，
+使我清新明透，
+何等甘甜，何等榮耀，
+讓我們全享受。
+愛的聯結，如此深厚，
+使我們得造就，
+哦，讓我們在召會中，
+一同長大成熟！</stanza>
+  </lyrics>
+</hymn>

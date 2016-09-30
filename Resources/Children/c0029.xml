@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God made the universe purposefully</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>1767652123</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | G7 - - - | C - - - | F - - - | C - - - | C - G - | C - - - | G - - - | C - - - | G7 - - - | C - C7/E - | F - G7 - | Am - F - | C/G - G - | C - C7/E - | F - G7 - | Am - F - | C/G - G7 - | C F/C C - ||</chords>
+  <melody>| 1 - 7_. 6_. | 7_../ 6_.// 5_. - - | 2 - 1 2 | 3 - - 2./ 3// (break) | 4 6_. - 4./ 4// | 3 5_. - 1./ 2// | 3 2./ 1// 2 1./ 7_.// | 1 - - 7_../ 1// (break) | 2 5_. - 1./ 2// | 3 5_. - 2./ 3// | 4 7_. - 3./ 4// | 5 - - - (break) | 6 - 5 4 | 3./ 2// 1 - 4 | 3 - 2 - | 5 - - - (break) | 6 - 5 4 | 3./ 2// 1 - 4 | 3 - 2 - | 1 - - - ||</melody>
+  <layout>
+    <singingstanza>God made the u -- ni -- verse pur -- pose -- ful -- ly. It was His plan to cre -- ate man As the cen -- ter of all that we see, That the heav -- ens for the earth be, And the earth would be for us. God made the u -- ni -- verse so mar -- vel -- ous! God made the u -- ni -- verse so mar -- vel -- ous!</singingstanza>
+  </layout>
+  <music>
+    <midi location="c" length="36">c0029.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">God made the universe purposefully.
+It was His plan to create man
+As the center of all that we see,
+That the heavens for the earth be,
+And the earth would be for us.
+God made the universe so marvelous!
+God made the universe so marvelous!</stanza>
+  </lyrics>
+</hymn>

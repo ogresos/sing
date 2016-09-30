@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ituboy Ngalang dungganon</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG NGALAN</category>
+  <numbers><cebuano num="77"/><english num="77"/><german num="77"/><portuguese num="41"/><russian num="344"/><spanish num="42"/><tagalog num="77"/></numbers>
+  <creators>
+	<author biodate="1869-1930" biolink="en.wikipedia.org/wiki/Margaret_E._Barber">Translated from Margaret E. Barber</author>
+  </creators>
+  <melody>| 3 3 3 | 5 - 1 | 2 - 2 | 3 - - | 5 5 5 | 4 - 5 | 3 - 4 | 2 - - (break) | 2 2 2 | 2 - 2 | 4# - 4# | 5 - - | 3 3 3 | 3( 2) 1 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="77"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ituboy Ngalang dungganon!
+Ipahayag Iyang gahum;
+Gamhanan S'ya magbubuntog,
+Dayga S'ya, Haring moabot!</stanza>
+	<stanza type="verse" number="2">Habog nga torre ang Ngalan,
+Sa pagsulay dalangpanan;
+Lig-on, hilwas, sinalipdan,
+Ngalang Jesus kadaugan.</stanza>
+	<stanza type="verse" number="3">Ituboy hangtud moabot,
+Yuta Ngalan N'ya magbuot;
+Wa na unyay sakit, sala,
+Kon si Cristo maghari na.</stanza>
+	<stanza type="verse" number="4">Ituboy kay S'ya maghari,
+Sundon S'ya sa tanang hari;
+Ituboy ang Ngalang labaw,
+Ngalang naato, gimahal.</stanza>
+	<stanza type="verse" number="5">Ituboy kay tanang tuhod
+Kaniya mangapiko gyud;
+Makita Niyang bunga's Krus,
+Tahuron's yuta si Jesus.</stanza>
+  </lyrics>
+</hymn>

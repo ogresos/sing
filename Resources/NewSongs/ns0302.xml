@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Draw me, dear Lord</title>
+  <index>true</index>
+  <category>Longings&amp;mdash;For Fellowship with Christ</category>
+  <numbers><english num="ns:302"/><lsmyp num="83"/><vsb num="117"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Ruth Wise">R. W.</author>
+    <composer biodate="" biolink="" fullname="Ruth Wise">R. W.</composer>
+  </creators>
+  <hymncode>5431543115434311232</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C/E - - - | G - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C/E - - F | G - - - | C/E - - - | F - - - | C/E - - - | F - - - | C/E - - - | F - - - | C/E - - F | G - - - | C - - - | F - - - | C - - - | F - - - | C - - - | F - - - | C/E - - F | G - G7 - | C - - - |</chords>
+  <melody>| 0 - 5/ 4/ 3 | 1 - - - | 0 - 5/ 4/ 3 | 1 - - - | 0. 5_./ 5/ 4/ 3 | 4 3/ 1/( 1) - | 0 - 1/ 2/ 3 (break) | 2 - - (Verse_1) 5_. | 1 - - 1 | 1. 6_./( 6_.) - | 1. 1/ 1 5_./ 6_./( | 6_.) - - - (break) | 1 1/ 1/( 1) 1 | 1 6_./ 6_./( 6_..) 5_./ | 1 1/ 1/ 1/( 2/) 3 | 2 - - 5_. (break) | 5 5/ 4/( 4) 3 | 1 6_./ 6_./( 6_..) 5_./ | 5 5/ 4/( 4) 3 | 1 6_./ 6_./( 6_..) 5_./ (break) | 5 5/ 4/( 4) 3 | 1 6_./ 6_./( 6_..) 5_./ | 1 1 1/( 2/) 3 | 2 - 1 7_. (break) | 1 1/ 1/( 1) 1 | 1 6_./ 6_./( 6_..) 5_./ | 1/ 1/ 1 1 5_./ 6_./( | 6_.) - - 0/ 5_./ (break) | 1 1 1 1 | 1 6_./ 6_./( 6_..) 5_./ | 1 1 1/( 2/) 3 | 2 - - 1/( 7_./) | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">Draw me, dear Lord. Draw me to -- day. From ev -- ery -- thing else, dear Lord, Draw me a -- way. O Lord, this whole world Seems to weigh me down. All the cares, the strife, the sin, With -- in me and all a -- round. But, Lord, I want to set my heart, And, Lord, I want to stay with You. 'Cause on -- ly when You're near to me Is ev -- ery -- thing o -- kay. And though ev -- ery -- thing may fall a -- part Or ev -- ery -- thing go my way, It does -- n't real -- ly mat -- ter, Lord, As long as I gain You to -- day.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="74">ns0302.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="chorus" number="">Draw me, dear Lord.
+Draw me today.
+From everything else, dear Lord,
+Draw me away.</stanza>
+    <stanza type="verse" number="1">O Lord, this whole world
+Seems to weigh me down.
+All the cares, the strife, the sin,
+Within me and all around.</stanza>
+    <stanza type="verse" number="2">But, Lord, I want to set my heart,
+And, Lord, I want to stay with You.
+'Cause only when You're near to me
+Is everything okay.</stanza>
+    <stanza type="verse" number="3">And though everything may fall apart
+Or everything go my way,
+It doesn't really matter, Lord,
+As long as I gain You today.</stanza>
+  </lyrics>
+</hymn>

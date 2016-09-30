@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>And Confessedly, Great is the Mystery</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:360"/><lsmyp num="361"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Jasper Suh">J. S.</composer>
+    <composer biodate="" biolink="" fullname="Titus Jahng">T. J.</composer>
+  </creators>
+  <hymncode>345321343212</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - -  | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - C7 - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G7 - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | E - - - | Am - - - | F - - - | Gsus4 - - - | G7 - - - | C - F/C - | C - C7 - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | Em - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - 3 4 | 5 - 3/( 2/)( 2/) 1/( | 1) - - 3 | 4 3 2/ 1/( 1/) 2/( | 2) 2 3 4 | 5 - 3/( 2/)( 2/) 1/( (break) | 1) - - 3 | 4 3/ 3/ 2 1 | 2 - 3( 4) | 5 - 3/( 2/)( 2/) 1/( | 1) - - 3 | 4 4/ 4/ 5/ 6/( 6/) 5/( (break) | 5) - 3( 4) | 5 - 3/ 2/( 2/) 1/( | 1) - - 3 | 4 - 3 3 | 2 - 1 7_. | 1( - - - (break) | 1) - (Chorus) 3 5 | 6 - 6. 5/( | 5) - - - | 5 5/ 5/ 3 2 | 1 - - 3 | 4 - 3 - | 2 - 1( 2) | 3 - 4 - (break) | 5 - 3 5 | 6 - 6. 5/( | 5) - - - | 5 5/ 5/ 3 2 | 1 - - 3 | 4 - 3 - | 2 2 1 7_. | 1( - - - | 1) - - 0 (break) | 6_. - 6_. 1 | 7_. - - 6_. | 5_. 5_. 5_. 7_. | 6_. - - - | 6_. - 1 - | 2 - 1 2 | 3 5( - - | 5) - - - (break) | 6_. - 1 - | 2 2 - - | 3 3 2 3/ 2/( | 2/) 1/( 1) - 0/ 1/ | 1 1 1 3 | 2 - - - | 0 5_./ 5_./ 3 2 | 2 1( - - | 1) - (Chorus) 3 5 | 6 - 6. 5/( | 5) - - - | 5 5/ 5/ 3 2 | 1 - - 3 | 4 - 3 - | 2 - 1( 2) | 3 - 4 - (break) | 5 - 3 5 | 6 - 6. 5/( | 5) - - - | 5 5/ 5/ 3 2 | 1 - - 3 | 4 - 3 - | 2 2 1 7_. | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">But if I de -- lay, I write that you may know how one ought to con -- duct him -- self in the house of God, which is the church, the church of the liv -- ing God, the pil -- lar and base, the pil -- lar and base of the truth. And con -- fess -- ed -- ly, great is the mys -- ter -- y, the mys -- ter -- y of god -- li -- ness: And con -- fess -- ed -- ly, great is the mys -- ter -- y, the mys -- ter -- y of god -- li -- ness: He who was man -- i -- fest -- ed in the flesh, Jus -- ti -- fied in the spir -- it, Seen by an -- gels, Preached a -- mong the na -- tions, Be -- lieved on in the world, Tak -- en up in glo -- ry. And con -- fess -- ed -- ly, great is the mys -- ter -- y, the mys -- ter -- y of god -- li -- ness: And con -- fess -- ed -- ly, great is the mys -- ter -- y, the mys -- ter -- y of god -- li -- ness.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <notes>From the 2011 West Coast College Training in Occidental, California.</notes>
+  <links>
+    <link type="ref">1 Timothy 3:15-16</link>
+  </links>
+  <music>
+    <midi location="ns" length="116">ns0360.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But if I delay,
+I write that you may know
+How one ought to conduct
+Himself in the house of God,
+Which is the church,
+The church of the living God,
+The pillar and base,
+The pillar and base of the truth.</stanza>
+    <stanza type="chorus" number="">And confessedly,
+Great is the mystery,
+The mystery of godliness:
+And confessedly,
+Great is the mystery,
+The mystery of godliness:</stanza>
+    <stanza type="verse" number="">He who was manifested in the flesh,
+Justified in the spirit,
+Seen by angels,
+Preached among the nations,
+Believed on in the world,
+Taken up in glory.</stanza>
+    <stanza type="chorus" number="">And confessedly,
+Great is the mystery,
+The mystery of godliness:
+And confessedly,
+Great is the mystery,
+The mystery of godliness.</stanza>
+  </lyrics>
+</hymn>

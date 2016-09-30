@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Where's the answer?</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Need of Christ</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>55655612135</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | G - - - | Am - - - | Em - - - | F - - - | C/E - - - | Dm - - - | G7 - - - | C - - - | G7 - - - | C - - - | G/B - - - | Am - - - | Em - - - | F - - - | C/E - - - | Dm - - - | F - G7 - | C - - - | C - - - | Am - - - | Em - - - | Dm - - - | Am - - - | F - - - | G - - - | Am - - - | G - - - | Am - - - | Em - - - | Dm - - - | Am - - - | F - - - | G - - - | Am - Dm/A - | Am - - - |</chords>
+  <melody>| 5_. - - 5_. | 6_./ 5_..( 5_.) 5_. | 6_. 1 2 1 | 3/( 5.)( 5) 3/ 5/ | 6 - - 6 | 5/( 3.)( 3) 1 | 2 - - 3 | 5_. - - 6_. | 5_.( - - - | 5_.) - - 0 (break) | 5_. - - 5_. | 6_./( 5_..)( 5_.) 5_. | 6_. 1 2 1 | 3/( 5.)( 5) 3/ 5/ | 6 - - 6 | 5/( 3.)( 3) 1 | 2 - - 3 | 1 - - 6_. | 1( - - - | 1) - - 0 (break) | 6 - - 6 | 5/ 3.( 3) 1 | 2 - - 3 | 1/ 6_..( 6_.) 6_. | 1 - - 1/ 1/ | 7_./( 5_..)( 5_.) 7_. | 6_.( - - - | 5_.) - - 0 (break) | 6 - - 6 | 5/ 3.( 3) 1 | 2 - - 3 | 1/ 6_..( 6_.) 6_. | 1 - - 1 | 7_./ 5_..( 5_.) 5_./ 7_./ | 6_.( - - - | 6_.) - - 0 |</melody>
+  <layout>
+    <singingstanza>Where's the an -- swer? There must be more for me. Is this all to life&amp;mdash; an emp -- ty van -- i -- ty? Day by day and year by year go by. Am I just a man, a man just born to die? Where's the an -- swer? Oh I'm so emp -- ty And plagued by this van -- i -- ty. Deep in -- side me, My con -- science tells me: I need an -- oth -- er dest -- i -- ny.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <music>
+    <midi location="lb" length="96">lb19.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Where's the answer? There must be more for me.
+Is this all to life&amp;mdash;an empty vanity?
+Day by day and year by year go by.
+Am I just a man, a man just born to die?</stanza>
+    <stanza type="chorus" number="">Where's the answer? Oh I'm so empty
+And plagued by this vanity.
+Deep inside me, My conscience tells me:
+I need another destiny.</stanza>
+    <stanza type="verse" number="2">I convinced my friends that everything's alright,
+That my life and future and everything's so bright.
+But a sense inside me, my friends, I can't deny,
+Warning deep inside me that I was living a lie.</stanza>
+    <stanza type="chorus" number="">Where's the answer? Oh I'm so empty
+And plagued by this vanity.
+Deep inside me, My conscience tells me:
+I need another destiny.</stanza>
+    <stanza type="verse" number="3">The world and its glitter left me anxious, dark, and bitter,
+Always yearning, my friends, is there something better?
+And religion, my friends, is just a Sunday game&amp;mdash;
+Dead teachings and doctrines will leave you just the same.</stanza>
+    <stanza type="chorus" number="">Where's the answer? Oh I'm so empty
+And plagued by this vanity.
+Deep inside me, My conscience tells me:
+I need another destiny.</stanza>
+    <stanza type="verse" number="4">Oh God, where are You? I need You desperately!
+Oh God, who are You? Why don't You answer me?
+The heavens declare You and the earth shows Your beauty.
+But I'm a man. Oh God, I'm so empty!</stanza>
+    <stanza type="chorus" number="">Lord, have mercy! I'm crying for You!
+Please hear! Are you really true?
+I'm dark and lonely. You're far, far from me.
+Oh Lord, I need You desperately!</stanza>
+    <stanza type="verse" number="5">One day a friend told me that Jesus is the Lord.
+To my great surprise, it's written in the Word.
+They asked me to believe You. Your name I once blasphemed.
+Dear Lord, You saved me just by calling on Your name.</stanza>
+    <stanza type="chorus" number="">Oh, Lord Jesus, dear Son, so glorious,
+I'm cleansed and You entered into me.
+Oh, Lord Jesus, Your name most precious!
+Your Person, dear Lord, I now possess.</stanza>
+  </lyrics>
+</hymn>

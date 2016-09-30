@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>O unsang gugma gihatag</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA GUGMA NIYA</category>
+  <numbers><cebuano num="30"/><chinese num="25"/><dutch num="26"/><english num="30"/><french num="5"/><german num="30"/><korean num="25"/><portuguese num="12"/><russian num="13"/><spanish num="21"/><tagalog num="30"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - 5 | 3. 4/ 5 ._1 | ._1. 7/ 7 ._1 | ._2 ._3 ._4 ._3 | ._2 - - ._2 (break) | ._3. ._2/ ._1 7 | 7. 6/ 6 6 | 5 ._1 7. ._1/ | ._1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="11"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">O unsang gugma gihatag,
+Magpasalamat mi;
+Sa pagkamao Mo kami
+Magsimba'g magdayeg!</stanza>
+	<stanza type="verse" number="2">Kabubut-on gibugna Mo
+Nganhi gayud namo;
+Nga nianhi Ka sa Anak,
+Nagtuman sa tuyo.</stanza>
+	<stanza type="verse" number="3">Pinanggang Anak gihatag,
+Nianhi'g namatay,
+Gihimo ming daghang anak,
+Uban N'yang manunod.</stanza>
+	<stanza type="verse" number="4">Kinabuhi Mo naangkon,
+Amahan Ka namo;
+Kinaiya'g pagkamao,
+Naambitan namo.</stanza>
+	<stanza type="verse" number="5">Nisulod Ka's espiritu,
+Nisangpit "Amahan,"
+Gianak sa Espiritu,
+Transpormahon Nimo.</stanza>
+	<stanza type="verse" number="6">Daghang anak maoy tumong,
+Sa himaya dad-on;
+Sa dagway's Anak umolon,
+Hingpit nga samahon.</stanza>
+	<stanza type="verse" number="7">Tultolan Mo matag usa,
+Aron matransporma;
+Himaya ngadto's himaya,
+Kanimo masama.</stanza>
+	<stanza type="verse" number="8">Unsang gugma gihatag Mo,
+Salamat Amahan;
+Simbahon Ka hangtud's dayon,
+Pagdayeg way hunong.</stanza>
+  </lyrics>
+</hymn>

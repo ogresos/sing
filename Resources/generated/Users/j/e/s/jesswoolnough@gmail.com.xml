@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Jessica</firstname>
+<lastname>Woolnough</lastname>
+<email>jesswoolnough@gmail.com</email>
+<password>$1$yHNNMGFH$WCJMPMVYNMH1ZFwjBgVMd/</password>
+<gender>F</gender>
+<country>New Zealand</country>
+<ipaddress>219.90.234.20</ipaddress>
+<createdate>2009-08-10 08:53:50</createdate>
+<lastupdateddate>2009-09-15 19:17:01</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="96">My song is love unknown</fav>
+    </favourites>
+</user>

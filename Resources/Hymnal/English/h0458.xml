@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Living for Jesus, oh, what peace</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Living for the Lord</category>
+  <numbers><english num="458"/><tagalog num="458"/></numbers>
+  <creators>
+    <author biodate="1871-1966" biolink="">Charles Frederick Weigle</author>
+    <composer biodate="1871-1966" biolink="">Charles Frederick Weigle</composer>
+  </creators>
+  <meter>8.8.8.8.D.</meter>
+  <hymncode>3333344422222333</hymncode>
+  <key>Eb Major</key>
+  <time>9/8</time>
+  <tempo>100</tempo>
+  <chords>| C. C - - | C. Dm - - | Dm. G/B - - | G. C - - | G/D. C/E - - | C. F - - | F/A. C/G - - | G7. C - - | G7. C - - | C/E. Dm - - | Dm. G7 - - | G7/B. C - - | G. C - - | C7/E. F - - | Dm. C/G - - | G7. C - - |</chords>
+  <melody>| 3/ 3/ 3/ 3. 3. | 4 4/ 4.( 4) 0/ | 2/ 2/ 2/ 2. 2. | 3 3/ 3.( 3) 0/ (break) | 5/ 5/ 5/ 5. 3. | 6 6/ 6.( 6) 0/ | 6/ 5/ 4/ 3. 3. | 3 2/ 1.( 1) 0/ (break) | (Chorus) 3/ 4/ 4#/ 5. 3. | 5 4#/ 4.( 4) 0/ | 2/ 3/ 4/ 7. 6. | 7 6/ 5.( 5) 0/ (break) | 3/ 4/ 4#/ 5. 3. | 5 5#/ 6.( 6) 0/ | 6/ 5/ 4/ 3. 3. | 3 2/ 1.( 1) 0/ |</melody>
+  <layout>
+    <singingstanza>Liv -- ing for Je -- sus, oh, what peace! Riv -- ers of plea -- sure nev -- er cease; Tri -- als may come, yet I'll not fear, Liv -- ing for Je -- sus, He is near. Help me to serve Thee more and more, Help me to praise Thee o'er and o'er; Live in Thy pre -- sence day by day, Nev -- er to turn from Thee a -- way.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj036.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="37">e0458_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Living for Jesus, oh, what peace!
+Rivers of pleasure never cease;
+Trials may come, yet I'll not fear,
+Living for Jesus, He is near.</stanza>
+    <stanza type="chorus" number="">Help me to serve Thee more and more,
+Help me to praise Thee o'er and o'er;
+Live in Thy presence day by day,
+  Never to turn from Thee away.</stanza>
+    <stanza type="verse" number="2">Living for Jesus, oh, what rest!
+Pleasing my Savior, I am blest;
+Only to live for Him alone,
+Doing His will till life is done.</stanza>
+    <stanza type="verse" number="3">Living for Jesus, everywhere,
+All of my burdens He doth bear;
+Friends may forsake me, He'll be true;
+Trusting in Him, He'll guide me through.</stanza>
+    <stanza type="verse" number="4">Living for Jesus, till at last
+Into His glory I have passed;
+There to behold Him on His throne,
+Hear from His lips, "My child, well done!"</stanza>
+  </lyrics>
+</hymn>

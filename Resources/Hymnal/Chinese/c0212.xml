@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>聖靈的大風</title>
+  <index>true</index>
+  <category>聖靈的豐滿－風</category>
+  <numbers><chinese num="212"/><english num="8212"/><tagalog num="c212"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Chinese</author>
+  </creators>
+  <melody>| 5 5 3./ 4// 5 | 6 ._4 ._3./ ._2// ._1 | ._2 ._3 ._2./ 7// 5 | 6 6/ 7/ 5 - (break) | 5 5 3./ 4// 5 | 6 ._4 ._3./ ._2// ._1 | ._3 ._5 ._1./ 7// ._1/ ._2/ | ._3 ._2 ._1 - (break) | (Chorus) ._3 ._1 ._3 ._1 | ._2./ ._1#// ._2./ ._4// ._3 ._1 | ._3 7 ._1 6 | ._2./ ._1// 7./ 6// 5 5 (break) | ._3 ._1 ._3 ._1 | ._2./ ._1#// ._2./ ._4// ._3 ._1 | ._3 ._5 ._1./ 7// ._1./ ._2// | ._3 ._2 ._1 - |</melody>
+  <layout>
+	<singingstanza>聖 靈 的 大 風， 從 天 來 吹 動， 吹 到 我 群 眾， 如 在 五 旬； 吹 軟 我 硬 心， 吹 活 我 全 人， 吹 得 我 更 新， 罪 孽 脫 盡。 吹 到！ 吹 到！ 聖 靈 大 風 吹 到！ 覆 罩！ 覆 罩！ 靈 恩 大 雲 覆 罩！ 焚 燒！ 焚 燒！ 聖 別 烈 火 焚 燒！ 顯 耀！ 顯 耀！ 神 精 金 顯 耀！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="273"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">聖靈的大風，
+從天來吹動，
+吹到我群眾，如在五旬；
+吹軟我硬心，
+吹活我全人，
+吹得我更新，罪孽脫盡。</stanza>
+	<stanza type="chorus" number="">吹到！吹到！
+聖靈大風吹到！
+覆罩！覆罩！
+靈恩大雲覆罩！
+焚燒！焚燒！
+聖別烈火焚燒！
+顯耀！顯耀！
+神精金顯耀！</stanza>
+	<stanza type="verse" number="2">靈恩的大雲，
+滿帶神洪恩，
+覆罩我眾人，如覆帳幕；
+覆得我得生，
+覆得我成聖，
+覆到我屬靈，神可居住。</stanza>
+	<stanza type="verse" number="3">聖別的烈火，
+來從我燒著，
+燒到每角落，將人純潔；
+燒盡了邪污，
+燒盡了俗物，
+使人、神相符，
+全聖無劣。</stanza>
+	<stanza type="verse" number="4">光耀的精金，
+照進我內心，
+使我得有分神的性情；
+神性調人性，
+人靈聯神靈，
+使神的生命顯於人形。</stanza>
+  </lyrics>
+</hymn>

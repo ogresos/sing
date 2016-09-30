@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Evi</firstname>
+    <lastname>Sugianti</lastname>
+    <email>vancheaven_march@yahoo.com</email>
+    <password>3ji0eDHC7F62pciEHuLQBg%3D%3D</password>
+    <gender>F</gender>
+    <country>id</country>
+    <ipaddress>141.0.9.19</ipaddress>
+    <createdate>2011-11-13 09:18:17</createdate>
+    <lastupdateddate>2011-11-13 23:39:19</lastupdateddate>
+    <lastlogindate>2011-11-13 09:18:19</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="lb" num="82">Divine romance</fav>
+        <fav category="default" type="h" num="1151">Drink! A river pure and clear that's flowing from the throne</fav>
+        <fav category="default" type="h" num="1356">Glory! Glory! Christ is life indeed!</fav>
+        <fav category="default" type="lb" num="52">Lord, keep my heart always true to You</fav>
+    </favourites>
+</user>

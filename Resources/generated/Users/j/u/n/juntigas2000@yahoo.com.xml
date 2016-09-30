@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rodolfo</firstname>
+  <lastname/>
+  <email>juntigas2000@yahoo.com</email>
+  <password>$2y$10$iQDqzWAZG5gSd3MqXVH8ve09PDLJ5rjz9sxUev8oVeoeMH78WL/gi</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>112.198.77.167</ipaddress>
+  <createdate>2014-07-31 14:13:02</createdate>
+  <lastupdateddate>2014-07-31 15:04:37</lastupdateddate>
+  <lastlogindate>2014-07-31 14:25:28</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="17">My Father God, when on Thy vast creation</fav>
+  </favourites>
+</user>

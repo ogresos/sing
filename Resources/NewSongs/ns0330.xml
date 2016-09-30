@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Turn, turn my heart to You</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><chinese num="ts:323"/><english num="ns:330"/></numbers>
+  <hymncode>321765617165653</hymncode>
+  <key>E Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - D - | G - C - | Am - F - | G - C - | Am - D - | G - C - | Am - F - | E7 - Am - | A - Bm - | A/C# - A - | D - - - | A - - - | F#m - - - | D - - - | E7 - - - | Am - - - |</chords>
+  <melody>| 3 - 2. 1/ | 7_. 6_. 5_. - | 6_. 1/ 7_./ 1. 6_./ | 5_./ 6_./ 5_. 3_. - | 3 - 2. 1/ | 7_. 6_. 5_. - | 6_. 1/ 7_./ 1. 6_./ | 5#_./ 4#_./ 5#_. 6_. - | (Chorus) 1# - 2 - | 3 - - 1#/( 6_./) | 6_. - 4# - | 3 - - - | 1# - 3 - | 7_. - - 1#/( 2/) | 2 - - 7_./( 5#_./) | 6_. - - - |</melody>
+  <layout>
+    <singingstanza>Turn, turn my heart to You; Lord, I con -- fess my heart is un -- true. Turn, turn my wan -- der -- ing heart; Lord, un -- to me Thy love im -- part. Lord, I call, I call on Thee. You're the on -- ly One for me!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="">ns0330.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Turn, turn my heart to You;
+Lord, I confess my heart is untrue.
+Turn, turn my wandering heart;
+Lord, unto me Thy love impart.</stanza>
+    <stanza type="chorus" number="">Lord, I call,
+I call on Thee.
+You're the only One for me!</stanza>
+    <stanza type="verse" number="2">Rich, rich, He's rich to all,
+Rich unto all that call on His name.
+Rich, rich, He's rich, so call;
+Now and forever, Jesus the same.</stanza>
+    <stanza type="verse" number="3">Love, love, the love of God
+Flows as a river, full to the brim.
+Love, love, I'm filled with love,
+Crazy in love with Jesus within.</stanza>
+  </lyrics>
+</hymn>

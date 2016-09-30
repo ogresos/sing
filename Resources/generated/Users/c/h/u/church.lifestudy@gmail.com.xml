@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>David</firstname>
+    <lastname>Ng</lastname>
+    <email>church.lifestudy@gmail.com</email>
+    <password>vXh9KbJbIbEkRoeIDGvcWg%3D%3D</password>
+    <gender></gender>
+    <country>Hong Kong</country>
+    <ipaddress>116.48.77.38</ipaddress>
+    <createdate>2013-06-22 20:11:35</createdate>
+    <lastupdateddate>2013-06-22 20:18:10</lastupdateddate>
+    <lastlogindate>2013-06-22 20:11:35</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ch" num="79">哦主當我們想到你</fav>
+        <fav category="default" type="ch" num="187">盪著這餅和這杯</fav>
+    </favourites>
+</user>

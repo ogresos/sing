@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The gift of righteousness</title>
+  <index>true</index>
+  <category>Encouragement&amp;mdash;For Fellowship with the Lord</category>
+  <numbers><english num="ns:102"/><vsb num="8"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Brad Brown">B. B.</author>
+    <composer biodate="" biolink="" fullname="Brad Brown">B. B.</composer>
+  </creators>
+  <hymncode>5666177776565</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - - - | Am - - - | F - - - | G - - - | C - G/B - | Am - C/G - | F - Dm - | G7 - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - - - | C7 - - - | F - - - | G - - - | C - G/B - | Am - F - | C - - - | F - - - | C - - - | F - - - | C - - - | Dm - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 5_. | 6_. 6_. 6_. 1 | 7_.. 7_./ 7_./ 7_./ 6_./ 5_./ | 6_. - 5_.( - | 5_.) - 0 1 | 6_. 6_./ 6_./ 6_. 1 | 7_.( - 7_./) 6_./ 5_./ 6_./ | 5_.( - - - | 5_.) - 0 1 | 6_. 6_./ 6_./ 6_. 1 | 2 - - 1/( 2/) | 3 3/ 4/ 3 2 | 1 - - 1 | 6_. 6_./ 6_./ 7_. 1 | 4( - 4/) 3/ 2./ 1// | 1( - - - (break) | 1) (Chorus) 0/ 5_./ 3 2 | 2. 1/ 1. 1/ | 7_.. 1/ 7_. 6_. | 5_.( - - - | 5_.) - 3 2 | 2.( 1/) 1 6_./ 1/ | 2. 2/ 1/ 2. | 3( - - - | 3) - 3 2 | 1 - - 6_./ 1/ | 2 - - 1/ 2/ | 3. 4/ 3 2 | 1. 4/ {4 3 2} | 3 1( - - | 1.) 4/ {4 3 2} | 3 1( - - | 1.) 4/ {4 3 2} | 3 1( 1) 5_. | 2( - - - | 2.) 2/ {2( 1) 7_.} | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>The gift of righ -- teous -- ness is mea -- sured in a -- bun -- dance, The depth of His love I'll nev -- er un -- der -- stand. His love reach -- es me and you; His mer -- cy goes far -- ther too. The One on the throne of God is called the Lamb. So, why not o -- pen up and call His name, "Oh Lord!" Find your spir -- it where His grace has been out -- poured. Call His name, taste His grace, ex -- er -- cise be -- fore His face He's long -- ing and yearn -- ing. He's hop -- ing and wait -- ing. He's ev -- er de -- sir -- ing for you... To turn to Him.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="82">ns0102.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The gift of righteousness is measured in abundance,
+The depth of His love I'll never understand.
+His love reaches me and you;
+His mercy goes farther too.
+The One on the throne of God is called the Lamb.</stanza>
+    <stanza type="chorus" number="">So, why not open up and call His name, "Oh Lord!"
+Find your spirit where His grace has been outpoured.
+Call His name, taste His grace, exercise before His face
+He's longing and yearning.
+He's hoping and waiting.
+He's ever desiring for you...
+To turn to Him.</stanza>
+    <stanza type="verse" number="2">He knows your deepest thought,
+   Your every situation.
+He understands your heart,
+He knows your history.
+There's nothing in His way,
+He's just waiting for you to say
+"Lord Jesus, my wandering heart
+   I give to Thee."</stanza>
+  </lyrics>
+</hymn>

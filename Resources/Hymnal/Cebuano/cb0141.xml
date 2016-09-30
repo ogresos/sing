@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ulong gipurongan's tunok</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG HIMAYA</category>
+  <numbers><cebuano num="141"/><chinese num="118"/><english num="141"/><korean num="118"/><tagalog num="141"/></numbers>
+  <creators>
+    <author biodate="1769-1855" biolink="">Translated from Thomas Kelly</author>
+  </creators>
+  <music>
+    <midiref type="h" num="57"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ulong gipurongan's tunok,
+Nahimaya karon;
+Gipurong sa Mananaug
+Koronang matahum.</stanza>
+    <stanza type="verse" number="2">Kahayag Ka's kalangitan,
+Dinhi kalipay ko;
+Padaygi pa's gugma aron
+Masayud's kalalum.</stanza>
+    <stanza type="verse" number="3">Kaulawan's krus may dala
+Kanamo nga grasya;
+Ngalang gisalikway's tawo,
+Dios nagpasigarbo.</stanza>
+    <stanza type="verse" number="4">Ang mag-antus uban Nimo,
+Mauban's paghari:
+Busa maningkamot gayud
+Tumong ta makab-ot.</stanza>
+    <stanza type="verse" number="5">Krus Mo kinabuhi'g kusog,
+Kaulawan Nimo;
+Kadato, kalipay'g dungog,
+Kanunay kong kusog.</stanza>
+  </lyrics>
+</hymn>

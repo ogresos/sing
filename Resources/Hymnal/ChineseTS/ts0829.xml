@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>你的答案乃是耶穌</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55555556165727135</hymncode>
+  <key>G Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>你 若 虛 空， 常 覺 得 若 有 所 失， 你 的 答 案 乃 是─ 耶 穌！ 你 若 是 有 一 飢 渴 在 你 深 處， 你 可 得 著 滿 足─ 耶 穌！ 你 不 需 要 再 受 捆 綁， 感 覺 前 途 茫 茫； 你 不 需 要 再 作 罪 奴， 或 者 成 天 幻 想。 耶 穌 甚 近， 在 你 心 上， 你 口 旁， 祂 正 在 等 待 你 敞 開， 一 呼 喊， 祂 就 進 來。 耶 穌─ 黑 暗 變 成 光 明； 耶 穌─ 平 安 難 以 形 容； 耶 穌─ 從 此 開 始 新 生 命！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0829.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你若虛空，
+常覺得若有所失，
+你的答案乃是─耶穌！
+你若是有一飢渴
+在你深處，
+你可得著滿足─耶穌！
+你不需要再受捆綁，
+感覺前途茫茫；
+你不需要再作罪奴，
+或者成天幻想。
+耶穌甚近，在你心上，
+你口旁，
+祂正在等待
+你敞開，
+一呼喊，祂就進來。
+耶穌─黑暗變成光明；
+耶穌─平安難以形容；
+耶穌─從此開始新生命！</stanza>
+  </lyrics>
+</hymn>

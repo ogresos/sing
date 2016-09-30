@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Ray</firstname>
+    <lastname>Jackson</lastname>
+    <email>ray_jackson@uss.salvationarmy.org</email>
+    <password>9aB903pcOEOJ0I6zMNWkvg%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>173.79.33.9</ipaddress>
+    <createdate>2013-08-03 19:13:42</createdate>
+    <lastupdateddate>2013-08-03 19:26:11</lastupdateddate>
+    <lastlogindate>2013-08-03 19:13:42</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    </favourites>
+</user>

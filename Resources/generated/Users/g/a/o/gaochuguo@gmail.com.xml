@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tommy</firstname>
+  <lastname/>
+  <email>gaochuguo@gmail.com</email>
+  <password>$2y$10$Q.9DY/gcC/sykeWJ.TVKwukK4479HpttVJQ8g.0DzZIdJosyFPWLe</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>86.13.111.114</ipaddress>
+  <createdate>2015-10-31 13:57:49</createdate>
+  <lastupdateddate>2015-11-01 10:23:36</lastupdateddate>
+  <lastlogindate>2015-11-01 09:27:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="33">True love</fav>
+  </favourites>
+</user>

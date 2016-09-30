@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>K.Nathaniel</firstname>
+  <lastname/>
+  <email>kashifnathaniel@gmail.com</email>
+  <password>$2y$10$B0JZmZnhHRSpiKIserHsqO7csEUvDko7M5.h4KGeRwcfDH9N/2QJa</password>
+  <gender/>
+  <country>th</country>
+  <ipaddress>27.55.39.54</ipaddress>
+  <createdate>2015-02-22 19:31:50</createdate>
+  <lastupdateddate>2016-01-02 16:28:06</lastupdateddate>
+  <lastlogindate>2016-01-02 16:28:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="69">Someone</fav>
+  </favourites>
+</user>

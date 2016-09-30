@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Lo más querido es</title>
+  <index>true</index>
+  <category>Experiencia de Cristo&amp;mdash;Como el todo</category>
+  <numbers><chinese num="392"/><english num="8392"/><portuguese num="262"/><spanish num="233"/></numbers>
+  <creators>
+    <author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <music>
+    <midiref type="h" num="8392"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Lo más querido es,
+Al que yo amo más;
+Se le debe buscar,
+Y siempre͜ en El confiar.</stanza>
+    <stanza type="verse" number="2">Oportuna͜ ayuda,
+Mi socorro es El;
+Bello de bellos es,
+El permanece fiel.</stanza>
+    <stanza type="verse" number="3">Gozo sin fin es El,
+Todo cambia, El no;
+Lo más querido es,
+A quien más amo yo.</stanza>
+  </lyrics>
+</hymn>

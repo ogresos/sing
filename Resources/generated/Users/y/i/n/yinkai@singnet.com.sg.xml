@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>David</firstname>
+    <lastname>Chan</lastname>
+    <email>yinkai@singnet.com.sg</email>
+    <password>vsx8trmxKZG1mh0Rt4LEHA%3D%3D</password>
+    <gender>M</gender>
+    <country>sg</country>
+    <ipaddress>220.255.7.163</ipaddress>
+    <createdate>2010-10-16 06:33:35</createdate>
+    <lastupdateddate>2011-03-14 10:11:51</lastupdateddate>
+    <lastlogindate>2011-03-14 10:11:51</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="853">I love Thy kingdom, Lord</fav>
+    </favourites>
+</user>

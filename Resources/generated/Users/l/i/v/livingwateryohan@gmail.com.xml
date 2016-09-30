@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>喻冬</firstname>
+  <lastname/>
+  <email>livingwateryohan@gmail.com</email>
+  <password>$2y$10$8n37qRZH6I4NXStP11uOMetYWaA2duYANVxz0JMGnpEnhYDbYxW4e</password>
+  <gender/>
+  <country>cn</country>
+  <ipaddress>122.24.58.118</ipaddress>
+  <createdate>2016-08-26 14:29:37</createdate>
+  <lastupdateddate>2016-08-26 14:31:45</lastupdateddate>
+  <lastlogindate>2016-08-26 14:31:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ch" num="297">求主天天扶持我</fav>
+  </favourites>
+</user>

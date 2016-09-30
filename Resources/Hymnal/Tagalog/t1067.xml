@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>May Isang kusang namatay para sa 'kin</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PATOTOO</category>
+  <numbers><english num="1067"/><tagalog num="1067"/></numbers>
+  <creators>
+    <author biodate="1855-1934" biolink="">Translated from Mrs. Frank A. Breck</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1067"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">May Isang kusang namatay para sa 'kin,
+Upang buhay aking maangkin,
+Landas tungo sa krus tinahak Niyang kusa,
+Nang mapatawad aking sala.</stanza>
+    <stanza type="chorus" number="">Sala ko'y pinasan,
+Sala ko'y pinasan,
+O gaano'ng Kanyang pinasan!
+Anong lugi't dusa,
+Sa krus Siya'y nagpunta!
+Dinala Niya ro'n aking sala!</stanza>
+    <stanza type="verse" number="2">Magiliw Siya't mapagmahal, matiyaga,
+Nang puso ko'y nililinis Niya;
+Walang paghatol na, ako'y malaya na,
+'Pagka't sa krus sala'y dinala.</stanza>
+    <stanza type="verse" number="3">Kakapit ako sa Tagapagligtas ko,
+Hindi na sa Kanya lalayo -
+Puso ko't labi aawit nang masaya,
+Inalis na lahat kong sala!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ann</firstname>
+  <lastname/>
+  <email>atslacademy@gmail.com</email>
+  <password>$2y$10$f0dbGVPVj0voDBdPjDNoqeQSkhb93736MMfqRB8VBH4ntv0Vx9YJu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.193.53.63</ipaddress>
+  <createdate>2015-09-24 20:57:19</createdate>
+  <lastupdateddate>2015-09-27 15:07:55</lastupdateddate>
+  <lastlogindate>2015-09-27 15:07:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="591">Not I, but Christ be honored, loved, exalted</fav>
+  </favourites>
+</user>

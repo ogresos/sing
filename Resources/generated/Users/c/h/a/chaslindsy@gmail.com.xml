@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>CHARLES</firstname>
+  <lastname>LINDSAY</lastname>
+  <email>chaslindsy@gmail.com</email>
+  <password>$2y$10$7fMWTn7P0hyV/SoMmejtoenoK0FHGWim02EFvoqhCWJqRQYA0aImu</password>
+  <gender/>
+  <country/>
+  <ipaddress>99.184.249.251</ipaddress>
+  <createdate>2015-01-02 04:57:04</createdate>
+  <lastupdateddate>2015-01-04 01:02:59</lastupdateddate>
+  <lastlogindate>2015-01-02 05:07:43</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="ns" num="381">I am the living bread</fav>
+  </favourites>
+</user>

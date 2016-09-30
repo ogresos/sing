@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pastor Harvey</firstname>
+  <lastname>Jeffers</lastname>
+  <email>revharv@plbb.us</email>
+  <password>$2y$10$5zlxQ9WrU2C0Hg.j5s1CHOCKxEKpdqUCowgQ9cTISXtDoI74/iNF.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>208.95.211.46</ipaddress>
+  <createdate>2015-04-21 14:27:35</createdate>
+  <lastupdateddate>2015-04-21 14:44:11</lastupdateddate>
+  <lastlogindate>2015-04-21 14:37:44</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="429">My faith looks up to Thee</fav>
+  </favourites>
+</user>

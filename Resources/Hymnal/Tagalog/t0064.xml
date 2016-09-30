@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Salaysay ng biyaya</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG PAGKA-TAO</category>
+  <numbers><chinese num="59"/><english num="64"/><korean num="59"/><tagalog num="64"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from F. Allaben</author>
+  </creators>
+  <music>
+    <midiref type="h" num="64"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Salaysay ng biyaya,
+Nakahihipo nga;
+Pahayag may l'walhati,
+Sa mukha'y naakit.
+Nang larawang may ningning,
+Aking pagmunihin;
+Puso ko'y may ligaya,
+Napuno'ng pagsamba!</stanza>
+    <stanza type="verse" number="2">Pagkatao'y Iyong angkin,
+Pagka-Diyos gayundin.
+Pag-ibig at damdamin,
+Ng Diyos at tao rin;
+Ika'y may kahayagan
+Sa buhay, kamatayan;
+Taong mapagkumbaba,
+Diyos ng langit, lupa.</stanza>
+    <stanza type="verse" number="3">Mal'walhating liwanag,
+O mukhang may sinag
+Sa biyayang Iyong gawa,
+Ako'y matransporma.
+Magiging Iyong kagaya,
+Makikita ng mata,
+Sa Iyo, Anak ng Tao,
+Mukha ng Diyos Mismo.</stanza>
+  </lyrics>
+</hymn>

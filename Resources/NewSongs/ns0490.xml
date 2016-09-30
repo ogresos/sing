@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Up to Bethel</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Vern Smathers">Adapted by V. S.</author>
+    <composer biodate="" biolink="" fullname="Vern Smathers">V. S.</composer>
+  </creators>
+  <hymncode>555555551761</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | Am - - - | F - - - | C - - - | C - - - | Am - - - | F - - - | C - - - | G - - - | F - - - | G - G7 - | C - - - | Am - - - | F - - - | Em - - - | F - - - | Am - - - | G - - - | F - G7 - | C - - - | C - - - ||</chords>
+  <melody>| 0 - - 5/ 5/ | 5/ 5/ 5/ 5/ 5/ 5/ ._1/ 7/ | 6 ._1( ._1/) ._1/ ._1/ ._1/ (break) | ._1/ ._1/ ._1/ ._1/ ._1 4 | 3 5( 5/) 5/ ._1/ ._2/ | ._3 ._3( ._3/) ._3/ ._4/ ._3/ (break) | ._3 ._1( ._1) ._3/ ._3/ | ._2/ ._3/( ._3/) ._2/ ._1. 4/ | 3 5( 5) ._1/ ._1/ (break) | 7( - 7/) 7/ ._1/ 7/ | 6 ._1( ._1.) ._2/ | ._3/ ._2.( ._2) 6/ ._1/ (break) | ._1 - - ._1/ ._2/ | ._3( - ._3/) ._3/ ._4/ ._3/ | ._3 ._1( ._1.) 4/ (break) | 3/ 5/( 5/) ._3/( ._3/) ._1. | 6 - - ._1/ ._2/ | ._3( - ._3/) ._3/ ._4/ ._3/ (break) | ._3 ._2( ._2.) 5/ | 6/ ._1.( ._1) ._1/ ._1/ | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Put a -- way the for -- eign gods that are a -- mong you, And pu -- ri -- fy your -- selves, and change your gar -- ments. And let us rise up and let us go up, Up to Beth -- el and make an al -- tar To the God who has been with me wher -- ev -- er I have gone, To the God who has been with me wher -- ev -- er I have gone, To the God who has been with me wher -- ev -- er I have gone.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref" url="">Genesis 35:2-3</link>
+  </links>
+  <music>
+      <midi location="ns" length="51">ns0490.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Put away the foreign gods that are among you,
+And purify yourselves, and change your garments.
+And let us rise up and let us go up,
+Up to Bethel and make an altar
+To the God who has been with me wherever I have gone,
+To the God who has been with me wherever I have gone,
+To the God who has been with me wherever I have gone.</stanza>
+  </lyrics>
+</hymn>

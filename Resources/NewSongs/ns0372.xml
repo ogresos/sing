@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Who can be entrusted, God's gospel spread</title>
+  <index>true</index>
+  <category>Preaching of the Gospel&amp;mdash;The Fellowship of the Gospel</category>
+  <numbers><chinese num="ts:869"/><english num="ns:372"/></numbers>
+  <hymncode>51145654535</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F/C - - - | C - - - | F/C - - - | C - - - | F/C - - - | C - - - | C - C/E - | F - - - | G7/F - - - | Em - - - | Am - C/G - | F - - - | Dm - - - | G - - - | G7 - - - | C - - - | F - G - | C/E - C - | F - G - | C/E - C - | F - G - | Am - C/G - | F - - - | Dm7 - C/E - | F - G7 - | C - F/C - | C - - - ||</chords>
+  <melody>| 5.( 1/) 1 - | 0 4/ 5/ 6 5/ 4/ | 5. 3/ 5( - | 5) - - - (break) | 5.( 1/) 1 - | 0 4/ 5/ 6 5/ 4/ | 5. ._1/ 5( - | 5) - - - (break) | 6.( 4/) 4 - | 0 6/( 7/) ._2/( ._1/) 7/( 6/) | 5 - - 6 | 7 ._2 ._1 - (break) | 6.( 4/) 4 - | 0 6/ 7/ ._2/( ._1/) 7/( 6/) | 5 - 6 - (break) | 7 - ._2. (Chorus) 5/ | ._1/ ._1/ 7/ ._1/( ._1.) 5/ | 4/( 3/) 2/( 1/) 2 5 | ._1/ ._1/ 7/ ._1/( ._1.) 5/ (break) | 6 ._1 ._2 5 | ._1/ ._1/ 7/ ._1/( ._1.) 5/ | 4/( 3/) 2/( 1/) 2 3/( 2/) | 1 2 3 5 (break) | 6 - - 6_./ 7_./ | 1 2 3 5 | 6 ._1 ._1. 7/ | ._1( - - - | ._1) - - 0 ||</melody>
+  <layout>
+    <singingstanza>Who can be en -- trust -- ed, God's gos -- pel spread, Will -- ing to re -- spond, be com -- mis -- sioned, sent? His love's con -- strain -- ing me, 'tis I no more, This day my re -- sponse bursts forth: Send me, Lord! How I long to live this gos -- pel life, A -- fresh con -- se -- crate, spread Christ with might, Re -- spond to His call, press bold -- ly for -- ward, fol -- low -- ing the Lamb, Knock on ev -- ery door! Lord, may You quick -- ly come!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="61">ns0372.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Who can be entrusted, God's gospel spread,
+Willing to respond, be commissioned, sent?
+His love's constraining me, 'tis I no more,
+This day my response bursts forth: Send me, Lord!</stanza>
+    <stanza type="chorus" number="">How I long to live this gospel life,
+Afresh consecrate, spread Christ with might,
+Respond to His call, press boldly forward, following the Lamb,
+Knock on every door! Lord, may You quickly come!</stanza>
+    <stanza type="verse" number="2">In life and in death, in love mutually 
+Standing in one spirit, co-laboring,
+Only for the Body of Christ, and not for self,
+Forming His victorious Bride, age turning.</stanza>
+  </lyrics>
+</hymn>

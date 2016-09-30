@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kevin</firstname>
+  <lastname/>
+  <email>kevinzoolu@gmail.com</email>
+  <password>$2y$10$dh5cd4E1rvohH6gFEODFMuYB.i0.jgKc/Thf.JsFsbUtjvl95oWce</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>64.251.52.100</ipaddress>
+  <createdate>2016-06-07 12:41:12</createdate>
+  <lastupdateddate>2016-06-07 12:45:14</lastupdateddate>
+  <lastlogindate>2016-06-07 12:44:04</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="69">Someone</fav>
+    <fav category="default" type="ns" num="111">There's a gospel of today</fav>
+  </favourites>
+</user>

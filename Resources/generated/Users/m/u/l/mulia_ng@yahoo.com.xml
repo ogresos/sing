@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>mulia_ng</firstname>
+  <lastname/>
+  <email>mulia_ng@yahoo.com</email>
+  <password>$2y$10$5./m8qnY5i8gHcYCJkdCauIcugojrisJk9H5aTpUoS8SyzxEtOjRy</password>
+  <gender/>
+  <country>Indonesia</country>
+  <ipaddress>118.137.151.192</ipaddress>
+  <createdate>2014-04-11 09:21:24</createdate>
+  <lastupdateddate>2014-09-10 01:00:16</lastupdateddate>
+  <lastlogindate>2014-09-10 01:00:16</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="ns" num="314">And they sing a new song</fav>
+    <fav category="default" type="h" num="483">Buried with Christ, and raised with Him too</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="930">Must I go, and empty-handed</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    <fav category="default" type="h" num="630">The way of the Cross means sacrifice</fav>
+    <fav category="default" type="h" num="1018">The whole world was lost in the darkness of sin</fav>
+    <fav category="default" type="h" num="386">Thou my everlasting Portion</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="707">When upon life's billows you are tempest tossed</fav>
+  </favourites>
+</user>

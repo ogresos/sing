@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He's my God</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By the Lord's Faithfulness</category>
+  <numbers><english num="ns:53"/><vsb num="101"/></numbers>
+  <creators>
+    <author biodate="" biolink="" fullname="Peter Wang">P. W.</author>
+    <composer biodate="" biolink="" fullname="Peter Wang">P. W.</composer>
+  </creators>
+  <hymncode>33333125534321</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>128</tempo>
+  <chords>| C - - - | G/B - - - | Am - - - | F - - - | C - - - | G/B - - - | Em - - - | F - - - | Dm - - - | Dm7 - - - | Gsus4 - - - | G - - - | C - - - | G/B - - - | Am - - - | F - - - | C - - - | G/B - - - | Em - - - | F - - - | Dm - - - | Dm7 - - - | Gsus4 - - - | G - G7 - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - - - | F - - - | G - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 3/ 3/ 3/ 1/ | 2. 5/( 5) - | 0. 5_./ 3/ 4/ 3/ 2/ | 1 - - - | 0. 5_./ 3/ 3/ 3/ 1/ | 2. 5/( 5) - (break) | 0 - 3/ 4/ 3/ 2/ | 1 - 6_./ 1/( 1) | 2( - - - | 2) - 3/ 1/( 1) | 2( - - - | 2) - - - | 0 3/ 3/ 3/ 3/ 3/ 1/ | 2. 5/( 5) - | 0. 5_./ 3/ 4/ 3/ 2/ | 1 - - - | 0 3/ 3/ 3/ 3/ 3/ 1/ | 2. 5/( 5) - | 0. 5_./ 3/ 4/ 3/ 2/ | 1 - 3/ 2/( 2) | 1( - - - | 1) - 3/ 1/( 1) | 2( - - - (break) | 2) 0/ (Chorus) 5_./ 3 2 | 1 2 3 5/ 5/( | 5/) 3/( 3) 3 3 | 4. 3/ 1 3/ 2/( (break) | 2) - 3 2 | 1 2 3 5/ 5/( | 5/) 3/( 3) 3 3 | 4 5 6 4/ 2/( (break) | 2) - 3 2 | 1 2 3 5/ 5/( | 5/) 3/( 3) 3 3 | 4. 3/ 1 3/ 2/( (break) | 2) - 3 2 | 1( - - - | 2) - 3 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>From the morn -- ing to the even -- ing, His faith -- ful -- ness I see; His mer -- cy reach -- ing sin -- ners, reach -- ing e -- ven me; And I know, now I know. Bright -- er than the bright -- est sun -- light, all doubts and fears must cease; Sweet -- er than the sweet -- est de -- light, His liv -- ing Word in me; And I know, now I know. That God is there for me to -- mor -- row, As He is for me to -- day; That He'll take my cares and sor -- row, And He'll wipe them all a -- way; There's no cri -- sis that He can't bear, There's no storm He can't a -- bate; He's my God, He's my God.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+  </layout>
+  <links>
+    <link type="relevant" category="ns" num="34"></link>
+  </links>
+  <music>
+    <midi location="ns" length="75">ns0053.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">From the morning to the evening, His faithfulness I see;
+His mercy reaching sinners, reaching even me;
+And I know, now I know.
+Brighter than the brightest sunlight, all doubts and fears must cease;
+Sweeter than the sweetest delight, His living Word in me;
+And I know, now I know.</stanza>
+    <stanza type="chorus" number="">That God is there for me tomorrow,
+As He is for me today;
+That He'll take my cares and sorrow,
+And He'll wipe them all away;
+There's no crisis that He can't bear,
+There's no storm He can't abate;
+He's my God, He's my God.</stanza>
+    <stanza type="verse" number="2">Day by day His grace grows dearer; His love has conquered me,
+Never leaving, never ceasing, His Spirit constantly
+Flooding me, rich and free;
+Higher than the highest heaven, He lifts me up to see
+New Jerusalem descending, His Bride, His love to be
+Eternally, it shall be.</stanza>
+  </lyrics>
+</hymn>

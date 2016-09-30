@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nausa's makasasala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;KATUBSANAN</category>
+  <numbers><cebuano num="998"/><chinese num="683"/><english num="998"/><french num="195"/><german num="998"/><korean num="683"/><portuguese num="445"/><russian num="162"/><spanish num="463"/><tagalog num="998"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 0/ (break) | 5/ 6/ 5/ 3/ 5/ ._1/ | ._3. ._1. | ._3/ ._2/ ._2/ 6/ 7/ 6/ | 5/ ._1( ._1) 5/ (break) | 5 5/ 3/( 4/) 5/ | 6.( 6) 6/ | 5 ._1/ ._1/( 7/) ._1/ | ._2.( ._2) ._1/ (break) | ._3 ._3/ ._4 ._3/ | ._2 6/ ._2 ._1/ | 7 ._1/ 7/( 6/) 7/ | ._1.( ._1) 0/ |</melody>
+  <music>
+	<midiref type="h" num="998"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nausa's makasasala,
+Nagkinabuhi nga tawo;
+Gilansang sa krus si Cristo,
+Kinabuhi 'yang gihatag.</stanza>
+	<stanza type="chorus" number="">Nianhi alang nato,
+Namatay alang nato;
+Oo, alang gayud nato.
+Nianhi'g namatay S'ya.</stanza>
+  </lyrics>
+</hymn>

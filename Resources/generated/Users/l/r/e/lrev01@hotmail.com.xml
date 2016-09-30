@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+<firstname>Theador</firstname>
+<lastname>Vlahos</lastname>
+<email>lrev01@hotmail.com</email>
+<password>$1$DxFjl81y$Zl6Tq4jB.lkUOrJsZye951</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>216.117.192.86</ipaddress>
+<createdate>2009-08-04 23:10:16</createdate>
+<lastupdateddate>2009-09-15 19:17:00</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+    </favourites>
+</user>

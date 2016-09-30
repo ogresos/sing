@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adrienne</firstname>
+  <lastname>Hii</lastname>
+  <email>adriennehiiyiihui@gmail.com</email>
+  <password>$2y$10$n6yEjhdH5lBddPYmWoErXOgfCtqfhYL/L3k1D7VGTGRA4DadL.XcS</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.170.200.177</ipaddress>
+  <createdate>2016-05-09 18:29:30</createdate>
+  <lastupdateddate>2016-05-16 05:01:34</lastupdateddate>
+  <lastlogindate>2016-05-09 18:30:10</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="h" num="280">Oh, from myself deliver</fav>
+  </favourites>
+</user>

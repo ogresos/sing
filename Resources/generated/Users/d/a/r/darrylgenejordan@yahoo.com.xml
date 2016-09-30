@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Darryl</firstname>
+    <lastname>Jordan</lastname>
+    <email>darrylgenejordan@yahoo.com</email>
+    <password>XC6S2W%2BKbcRRgBqVndNE6A%3D%3D</password>
+    <gender>M</gender>
+    <country>pn</country>
+    <ipaddress>121.54.67.122</ipaddress>
+    <createdate>2011-11-20 21:44:31</createdate>
+    <lastupdateddate>2011-11-26 06:16:50</lastupdateddate>
+    <lastlogindate>2011-11-20 21:44:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+        <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+        <fav category="default" type="h" num="316">Some day the silver cord will break</fav>
+        <fav category="default" type="h" num="1285">The faith which once for all was giv'n</fav>
+        <fav category="default" type="h" num="28">The love of God is greater far</fav>
+    </favourites>
+</user>

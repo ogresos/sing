@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Jim</firstname>
+    <lastname>Spiller</lastname>
+    <email>spiller612@msn.com</email>
+    <password>hqLOfQj%2BDNdoeM6q2ZccVA%3D%3D</password>
+    <gender>M</gender>
+    <country>us</country>
+    <ipaddress>96.239.158.114</ipaddress>
+    <createdate>2012-08-24 16:29:52</createdate>
+    <lastupdateddate>2012-08-25 14:09:15</lastupdateddate>
+    <lastlogindate>2012-08-25 14:09:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="313">Amazing grace</fav>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="670">Take the name of Jesus with you</fav>
+        <fav category="default" type="h" num="1075">Tell me the old, old story</fav>
+        <fav category="default" type="h" num="527">The Lord's my Shepherd, I'll not want</fav>
+        <fav category="default" type="h" num="618">The old rugged cross</fav>
+        <fav category="default" type="h" num="70">There is a name I love to hear</fav>
+        <fav category="default" type="h" num="582">Trust and obey</fav>
+    </favourites>
+</user>

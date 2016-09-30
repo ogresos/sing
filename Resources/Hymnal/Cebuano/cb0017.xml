@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Amahang Dios, pagtan-aw's kabuhatan</title>
+  <index>true</index>
+  <category>PAGSIMBA SA AMAHAN&amp;mdash;SA PAGKADAKO NIYA</category>
+  <numbers><cebuano num="17"/><chinese num="12"/><english num="17"/><german num="17"/><korean num="12"/><portuguese num="11"/><russian num="10"/><spanish num="11"/><tagalog num="17"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ 5/ 5/ 5/ | 3. 5/ 5/ 5/ 6/ 6/ | 4 6 0/ 6/ 6/ 6/ | 5. 3/ 5/ 5/ 4/ 4/ (break) | 3 - 0/ (Chorus) 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ ._1/ 7/ | 2 - 0/ 4/ 6/ 5/ (break) | 3 - 0/ 5/ 5/ ._1/ | ._3. ._2/ ._1/ 7/ ._1/ 6/ | 5 - 0/ ._1/ 7/ ._1/ | ._2 - 0/ (.._3/ (.._4/ (.7/ | ._1 - 0 - |</melody>
+  <music>
+	<midiref type="h" num="17"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Amahang Dios, pagtan-aw's kabuhatan,
+Mga katingad-an's langit, yuta,
+Di maisip dagko ug gagmayng butang,
+Nagpadayag nga Ikaw gamhanan.</stanza>
+	<stanza type="chorus" number="">Mag-awit ko sa pagdayeg Nimo,
+Kahibudngan! Labing dako!
+Mag-awit ko hangtud's eternidad,
+Kahibudngan! Labing dako!</stanza>
+	<stanza type="verse" number="2">Napa'muslan grasya sa kaluwasan,
+Sa Anak nga Imong gipadala,
+Aron mahimong kabuhatang bag-o,
+Magpadayag sa kinabuhi Mo.</stanza>
+	<stanza type="verse" number="3">Sa iglesia bulahang nag-ambitan,
+Ang minilyong may kinabuhi Mo,
+Gitukod Mo nga Imong puloy-anan,
+Magpadayag's Imong kahupnganan.</stanza>
+	<stanza type="verse" number="4">Nagpaabot kami sa katumanan,
+Bag-ong Jerusalem mag-ambitan,
+Yuta'g langit, tanang butang mabag-o,
+Ikaw sa tanan madayag didto.</stanza>
+  </lyrics>
+</hymn>

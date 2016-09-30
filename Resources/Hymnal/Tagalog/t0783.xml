@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hipuin trono ng Diyos</title>
+  <index>true</index>
+  <category>PANANALANGIN&amp;mdash;HINIHIPO ANG TRONO</category>
+  <numbers><cebuano num="783"/><chinese num="565"/><english num="783"/><german num="783"/><korean num="565"/><portuguese num="360"/><russian num="283"/><spanish num="335"/><tagalog num="783"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 3. 3/ 4 2 | 6_. 7_. 1 - | 2. 2/ 3 2 | 2 1 7_. - (break) | 2. 3/ 4 2 | 5 1 1( 7_.) | 1. 1/ 2 3 | 4 2 1 - |</melody>
+  <music>
+	<midiref type="h" num="783"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hipuin trono ng Diyos,
+Sa panalanging taos;
+Trono'ng b'yaya mahipo,
+Awa, b'yaya't tulong iyo.</stanza>
+	<stanza type="verse" number="2">Dasal hipo'y trono Niya,
+Damang kai-langa'y b'yaya;
+Sa 'spiritu'y kasama,
+Diyos sa pagsalamuha.</stanza>
+	<stanza type="verse" number="3">Dasal hipo'y trono Niya,
+Tanang yaman ng b'yaya;
+Kunin at tamasahin,
+Pati ang Diyos purihin.</stanza>
+	<stanza type="verse" number="4">Dasal hipo'y trono Niya,
+Tronong awtoridad nga;
+Sa pangalan ni Kristo,
+Natuos Hades, dyablo.</stanza>
+	<stanza type="verse" number="5">Dasal hipo'y trono Niya,
+Sa pagsampalataya,
+Awtoridad gamitin
+Kamatayan talunin.</stanza>
+	<stanza type="verse" number="6">Dasal hipo'y trono Niya,
+Lakas-Hades nauga;
+Awtoridad ng Hari
+Sa dalangi'y isapi.</stanza>
+  </lyrics>
+</hymn>

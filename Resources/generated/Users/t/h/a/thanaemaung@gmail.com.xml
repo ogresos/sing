@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Thanae</firstname>
+<lastname>Aye Maung</lastname>
+<email>thanaemaung@gmail.com</email>
+<password>$1$nXSKqeUs$pZo.18QXlNnUSbfsYbjYR/</password>
+<gender>M</gender>
+<country>Myanmar</country>
+<ipaddress>61.254.44.78</ipaddress>
+<createdate>2009-02-22 03:52:33</createdate>
+<lastupdateddate>2009-09-15 18:29:33</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="333">I know not why God's wondrous grace</fav>
+        <fav category="default" type="h" num="347">O happy day that fixed my choice</fav>
+    </favourites>
+</user>

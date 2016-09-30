@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Rosetta</firstname>
+  <lastname>Boatswain</lastname>
+  <email>rboatswain@gmx.com</email>
+  <password>$2y$10$Fga0jxWtr0yJLnf.0ALdveCVvHX9zefxxhRMa4ukvo66p4Ms.kGV6</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>108.20.11.182</ipaddress>
+  <createdate>2014-10-05 02:42:31</createdate>
+  <lastupdateddate>2014-10-05 22:02:53</lastupdateddate>
+  <lastlogindate>2014-10-05 21:58:06</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="994">Oh, how dark the night that wrapt my spirit round</fav>
+  </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Praying to express the Lord (Alternate Tune)</title>
+  <category>Prayer&amp;mdash;Expressing the Lord</category>
+  <creators>
+    <author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+    <composer biodate="1835-1912" biolink="">William Gustavus Fischer</composer>
+  </creators>
+  <numbers><cebuano num="785"></cebuano><chinese num="567"></chinese><korean num="567"></korean><russian num="285"></russian><tagalog num="785"></tagalog></numbers>
+  <meter>7.7.7.7. with chorus.</meter>
+  <hymncode>51312313456532</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <melody>| 0 - 5_./ 1/ | 3. 1/ 2./ 3// | 1 - 3/ 4/ | 5. 6/ 5./ 3// (break) | 2 - 1/ 2/ | 3. 1/ 2./ 3// | 1 - 6_./ 6_./ | 5_.. 1/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+    <singingstanza>Pray -- ing to ex -- press the Lord, We must not our -- selves ex -- press, But let Christ re -- veal Him -- self, His de -- sire in us im -- press.</singingstanza>
+  </layout>
+  <links>
+    <link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0785.html">View Lyrics</link>
+    <link type="relevant" category="h" num="785" />
+  </links>
+  <music>
+    <midiref type="h" num="1062"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Praying to express the Lord,
+We must not ourselves express,
+But let Christ reveal Himself,
+His desire in us impress.</stanza>
+    <stanza type="verse" number="2">Praying to express the Lord,
+We must utter His intent,
+Quieting our human thoughts
+That with His our mind be blent.</stanza>
+    <stanza type="verse" number="3">Praying to express the Lord,
+Ever looking unto Him
+As a mirror to reflect
+All His glory from within.</stanza>
+    <stanza type="verse" number="4">Praying to express the Lord,
+Letting Him beseech in us;
+Christ indwelling prays within
+To the Christ in heaven thus.</stanza>
+    <stanza type="verse" number="5">Praying to express the Lord,
+Learning not to pray by self,
+Praying wholly with the Lord,
+Praying only by Himself.</stanza>
+  </lyrics>
+</hymn>

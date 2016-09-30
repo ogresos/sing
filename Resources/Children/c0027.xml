@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Before God put the leaves on the trees</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Mollie Lee">M. L.</author>
+    <composer biodate="" biolink="" fullname="Mollie Lee">M. L.</composer>
+  </creators>
+  <hymncode>555156545111223212</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | C - G - | C - G - | F - - - | C - Am - | C/G - G7 - | G7 C - - ||</chords>
+  <melody>| 0 - - 0./ 5// | 5 5 ._1 5 | 6 5./ 4// 5( 5./) ._1// (break) | ._1 ._1 ._2 ._2 | ._3 ._2./ ._1// ._2( ._2./) 5// (break) | 6./ 6// 6 ._1 7./ 6// | 5./ 6// 5 ._1 1./ 2// (break) | 3 5 - 4./ 2// | 2 1 - 0 ||</melody>
+  <layout>
+    <singingstanza>Be -- fore God put the leaves on the trees... Be -- fore God made the herbs bear -- ing seeds... He thought a -- bout you... And He thought a -- bout me... And He loved us... And He loved us!</singingstanza>
+    <sheetcopyright>www.hymnal.net; &amp;copy; 2013 Bible StorySongs, Inc. Used by permission.</sheetcopyright>
+  </layout>
+  <music>
+    <midi location="c" length="16">c0027.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Before God put the leaves on the trees...
+Before God made the herbs bearing seeds...</stanza>
+    <stanza type="chorus" number="">He thought about you...
+And He thought about me...
+And He loved us...
+And He loved us!</stanza>
+    <stanza type="verse" number="2">Before God put the clouds in the sky...
+Before He taught the birds how to fly...</stanza>
+    <stanza type="verse" number="3">Before God made the sun giving light...
+Before God made the stars shining bright...</stanza>
+    <stanza type="verse" number="4">Before God put the whales in the sea...
+Before God made the fish swimming free...</stanza>
+    <stanza type="verse" number="5">Before God made the insects that creep...
+Before God made the cattle and sheep...</stanza>
+    <stanza type="copyright" number="">&amp;copy; 2013 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's &amp;amp; Sheet Music.</stanza>
+  </lyrics>
+</hymn>

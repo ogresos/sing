@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tsai cheng</firstname>
+  <lastname>ying</lastname>
+  <email>tsaichengying@gmail.com</email>
+  <password>$2y$10$1bXKYvUg4mTkNDopxG8dy.XX2FThM4aGQYwNCbiB2/UGW3pgJfexa</password>
+  <gender/>
+  <country>tw</country>
+  <ipaddress>1.162.92.170</ipaddress>
+  <createdate>2015-10-28 04:00:50</createdate>
+  <lastupdateddate>2015-11-10 23:13:59</lastupdateddate>
+  <lastlogindate>2015-11-10 23:13:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1030">I hear my risen Savior say</fav>
+    <fav category="default" type="h" num="770">In the holiest place</fav>
+    <fav category="default" type="h" num="309">What a wonderful change in my life has been wrought</fav>
+    <fav category="default" type="h" num="608">What mystery, the Father, Son, and Spirit</fav>
+  </favourites>
+</user>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Wa ko masayud nganong gibutyag</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GIPASALIGAN SA DIOSNONG MGA SANGKAP</category>
+  <numbers><cebuano num="333"/><chinese num="259"/><english num="333"/><korean num="259"/><portuguese num="180"/><spanish num="160"/><tagalog num="333"/></numbers>
+  <creators>
+    <author biodate="1840-1901" biolink="">Translated from Daniel Webster Whittle</author>
+  </creators>
+  <music>
+    <midiref type="h" num="333"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Wa ko masayud nganong gibutyag
+Grasya N'ya kanako,
+Kon nganong gilukat ako
+Nga dili man takus.</stanza>
+    <stanza type="chorus" number="">Nakaila's gitoohan ko,
+Ug nitoo nga makahimo S'ya's
+Pagbantay sa gitugyan ko,
+Hangtud niadtong adlawa.</stanza>
+    <stanza type="verse" number="2">Wa ko masayud giunsa Niya
+Paghatag nako'g pagtoo,
+O sa pagtoo's Pulong N'ya,
+May kalinaw ako.</stanza>
+    <stanza type="verse" number="3">Wa ko gayud hibaloi,
+Lihok's Espiritu;
+Nganong sala ko gituto,
+Kang Jesus motoo.</stanza>
+    <stanza type="verse" number="4">Wa ko masayud's gitagana,
+Maayo ba'g dautan,
+Laay o madasigon ba,
+Sa di pa igkita Siya.</stanza>
+    <stanza type="verse" number="5">Wa masayri kon S'ya mobalik,
+Adlaw ba'g gabii,
+Moagi pa ba ko's walog,
+Mosugat ba's panganud.</stanza>
+  </lyrics>
+</hymn>

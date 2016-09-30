@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>David</firstname>
+<lastname>White</lastname>
+<email>dalanwhite@gmail.com</email>
+<password>$1$ry5l148C$E12o.BA.tqNY/inQONoL1.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.55.221.187</ipaddress>
+<createdate>2009-01-02 10:28:20</createdate>
+<lastupdateddate>2009-09-15 18:27:05</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="14">Just one touch</fav>
+    </favourites>
+</user>

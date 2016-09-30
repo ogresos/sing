@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hast thou heard Him, seen Him, known Him?</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Attracted by the Lord's Beauty</category>
+  <numbers><english num="nt:437"/><vsb num="152"/></numbers>
+  <creators>
+    <composer biodate="" biolink="">Grace Notes Brothers</composer>
+  </creators>
+  <hymncode>33556716</hymncode>
+  <key>A Major</key>
+  <time>4/4</time>
+  <tempo>95</tempo>
+  <chords>| C - Em - | F - - G7 | C - Em - | F - G - | C - Em - | F - - - | G - - - | F - G - | C - Am C/G | F - G - | C - C7 - | F - G7/F - | Em - Am - | F - G7 - | C - - - |</chords>
+  <melody>| 0 3/ 3/ 5/ 5/ 6/ 7/ | ._1/ 6/( 6) - - | 0 ._1/ ._1/ 7/ 5/ 3/ 5/ | 1( - 2) - (break) | 0 3/ 3/ 5/ 5/ 6/ 7/ | ._1/ 6/( 6) - ._2/ ._1/ | 7/ 7/ ._1/ ._2/ 5 - (break) | 0 (Chorus) 6/ ._1/ ._3/ ._2/ ._1/ ._2/ | ._1/ 5/( 5) - - | 0 6/ ._1/ ._3/ ._2/ ._1/ ._2/ | ._1( - ._2 ._3 (break) | ._4) ._4/ ._3/ ._2/ ._2/ ._3/ ._4/ | ._5( ._3/)( ._2/) ._1 - | 0 6/ ._1/ ._3/ ._2/ ._1/ ._2/ | ._1 - - - |</melody>
+  <layout>
+    <singingstanza>Hast thou heard Him, seen Him, known Him? Is not thine a cap -- tured heart? Chief a -- mong ten thou -- sand own Him; Joy -- ful choose the bet -- ter part. Cap -- ti -- vat -- ed by His beau -- ty, Wor -- thy tri -- bute haste to bring; Let His peer -- less worth con -- strain thee, Crown Him now un -- ri -- valed King.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">group002.xml</link>
+    <link type="relevant" category="h" num="437"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/irvine.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="41">e0437_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hast thou heard Him, seen Him, known Him?
+  Is not thine a captured heart?
+Chief among ten thousand own Him;
+  Joyful choose the better part.</stanza>
+    <stanza type="chorus" number="">Captivated by His beauty,
+Worthy tribute haste to bring;
+Let His peerless worth constrain thee,
+  Crown Him now unrivaled King.</stanza>
+    <stanza type="verse" number="2">Idols once they won thee, charmed thee,
+  Lovely things of time and sense;
+Gilded thus does sin disarm thee,
+  Honeyed lest thou turn thee thence.</stanza>
+    <stanza type="verse" number="3">What has stripped the seeming beauty
+  From the idols of the earth?
+Not a sense of right or duty,
+  But the sight of peerless worth.</stanza>
+    <stanza type="verse" number="4">Not the crushing of those idols,
+  With its bitter void and smart;
+But the beaming of His beauty,
+  The unveiling of His heart.</stanza>
+    <stanza type="verse" number="5">Who extinguishes their taper
+  Till they hail the rising sun?
+Who discards the garb of winter
+  Till the summer has begun?</stanza>
+    <stanza type="verse" number="6">'Tis that look that melted Peter,
+  'Tis that face that Stephen saw,
+'Tis that heart that wept with Mary,
+  Can alone from idols draw:</stanza>
+    <stanza type="verse" number="7">Draw and win and fill completely,
+  Till the cup o'erflow the brim;
+What have we to do with idols
+  Who have companied with Him?</stanza>
+  </lyrics>
+</hymn>

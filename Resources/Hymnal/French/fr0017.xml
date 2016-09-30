@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Il s'est abaissé</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Son incarnation</category>
+  <numbers><cebuano num="82"/><chinese num="75"/><english num="82"/><french num="17"/><german num="82"/><korean num="75"/><russian num="444"/><spanish num="48"/><tagalog num="82"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from William E. Booth-Clibborn</author>
+  </creators>
+  <melody>| 0 5 4 3 | 2 - 1 - | 0 1/ 2/ 3 1 | 7_. - 6_. - | 0 7_. 1 2 | 7_.. 6_./ 6_. - | 0 7_. 1 2 | 6_.. 5_./ 5_. - (break) | 0 5 4 3 | 2 - 1 - | 0 1/ 2/ 3 1 | 7_. - 6_. - | 0 4 3 2 | 5 3 2 1 | 2 - - 3 | 1 - - - (break) | 0 (Chorus) (.._1 (.._1 (.7 | 5 - 5 - | 0 7 7 6 | 4 - 4 - | 0 7 7 6 | 4 - 4 - | 0 2 3 4 | 5 - - - (break) | 0 5 5 5 | 6b - 6b - | 0 6b ._1 6b | 5 - 5 - | 0 3 2 1 | 5 - 5 - | 0 3 2. 1/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="82"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Quittant Sa gloire,
+Sphère inapprochable,
+Dieu le Tout-Puissant vint,
+Jésus, le Fils divin.
+Né dans l'étable,
+Comme un misérable,
+Il a été maltraité, opprimé.</stanza>
+	<stanza type="chorus" number="">Oh ! que je L'aime, que je L'adore !
+Lumière, vie et salut complet.
+Le Créateur, il devint mon Sauveur :
+Dieu révélé dans l'humanité.</stanza>
+	<stanza type="verse" number="2">Il devint homme
+Et même un esclave.
+Il a payé le prix,
+Donnant pour moi Sa vie.
+Dieu, dans Sa grandeur,
+A quitté Sa splendeur,
+Pour me chercher afin de me sauver.</stanza>
+	<stanza type="verse" number="3">Il s'est abaissé,
+Il a été brisé,
+Pour nos iniquités,
+Afin de nous gagner.
+Qui peut comprendre
+Ce glorieux mystère ?
+Je sais Seigneur, Tu es le grand : « Je Suis » !</stanza>
+  </lyrics>
+</hymn>

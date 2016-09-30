@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bessie</firstname>
+  <lastname/>
+  <email>thunderbirddaughter@charter.net</email>
+  <password>$2y$10$Ir7IN1pEPZyMcKtsy07Z1Okl0s3o2x4lUoBE4htCR0uHWsj8ncKQW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.133.231.211</ipaddress>
+  <createdate>2015-03-16 20:00:13</createdate>
+  <lastupdateddate>2015-03-21 00:18:14</lastupdateddate>
+  <lastlogindate>2015-03-20 21:05:17</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+    <fav category="default" type="h" num="503">I serve a risen Savior</fav>
+  </favourites>
+</user>

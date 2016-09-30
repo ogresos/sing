@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Timothy</firstname>
+  <lastname>Webster</lastname>
+  <email>tim@harrisonchurch.org</email>
+  <password>$2y$10$JLqf1pdjyxiWuFJgiAMgGOHFvxlpXoToigowqNybNPJyDgIdcYJGK</password>
+  <gender/>
+  <country/>
+  <ipaddress>99.99.73.0</ipaddress>
+  <createdate>2016-01-27 19:52:26</createdate>
+  <lastupdateddate>2016-01-27 19:53:49</lastupdateddate>
+  <lastlogindate>2016-01-27 19:53:49</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

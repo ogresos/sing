@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Christina</firstname>
+  <lastname>Struble</lastname>
+  <email>kittymarie4@hotmail.com</email>
+  <password>$2y$10$FGGs/G5YX0gBYOynoJF95O3ejCBfDgPV8zvbAdcv0iC4Amv1ussHe</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.251.84.250</ipaddress>
+  <createdate>2016-07-11 12:08:35</createdate>
+  <lastupdateddate>2016-07-18 11:56:59</lastupdateddate>
+  <lastlogindate>2016-07-11 12:11:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="349">As pants the hart for cooling streams</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="977">Glorious things of thee are spoken</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+    <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+    <fav category="default" type="h" num="368">More love to Thee, O Lord</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="235">Praise Him! praise Him! Jesus, our blessed Redeemer</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+    <fav category="default" type="h" num="645">Turn your eyes upon Jesus</fav>
+    <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+  </favourites>
+</user>

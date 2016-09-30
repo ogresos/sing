@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Oh, What a Wonderful Place</title>
+  <index>true</index>
+  <category>Union with Christ&amp;mdash;One with Him</category>
+  <numbers><cebuano num="479"/><chinese num="358"/><english num="479"/><korean num="358"/><tagalog num="479"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Albert Benjamin Simpson</author>
+    <composer biodate="1843-1919" biolink="">Albert Benjamin Simpson</composer>
+    <composer biodate="" biolink="">Harmony by J. B. M.</composer>
+  </creators>
+  <meter>7.7.7.7.D. with chorus.</meter>
+  <hymncode>531212356533212</hymncode>
+  <key>C Major</key>
+  <time>6/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - G/B - - | Am - - C/G - - | F - - C/E - F | G - - - - - | F - - F/A - G/B | C - - Am - - | C/G - - G7 - - | C - - - - - | F - - E - - | Am - - - - - | F - - C/E - F | G - - G7 - - | C - - F - - | Em - - Am - - | C/G - - G7 - - | C - F/C C - - | G7 - - C - - | G7 - - C - - | G7 - - C - - | F - G7 C - - | C - - G - Am | F - - C - - | G - - C/E G7/D C | F/A - C/G F - - | F - - - - - | C/E - - Am - - | Dm - - G7 - - | C - F/C C - - |</chords>
+  <melody>| 5 3 1 2 1 2 | 3( - - 5) - - | 6 5 3 3 2 1 | 2( - - 2) - 0 (break) | 6 4 6 ._1. 7/ 6 | 5( - - ._1) - - | 1 2 3 5 2. 3/ | 1( - - 1) - 0 (break) | 6 5# 6 7 6 7 | ._1( - - ._1) - - | ._2 ._1 6 5 3 1 | 2( - - 2) - 0 (break) | 5. 3/ 5 ._1 7 6 | 5( - - ._1) - - | 5 1 2 3 1 2 | 1( - - 1) - 0 (break) | (Chorus) 5 5 5 5( - - | 5) - - - - - | 7 6 5 ._1( - - | ._1) - - - - - (break) | 3 2 1 2 - 3 | 1 - 6_. 1 - - | 2. 2/ 2 5 4 3 | 4 - 5 6 - - (break) | 6( - - 6) 7 6 | 5 - - ._1 - - | ._2( - - ._2) 7 5 | ._1( - - ._1) - 0 |</melody>
+  <layout>
+    <singingstanza>Oh, what a won -- der -- ful place Je -- sus has giv -- en to me! Saved by His glo -- ri -- ous grace, I may be ev -- en as He. When with my Lord I ap -- pear, Like Him I know I shall be; But while I walk with Him here, I may be ev -- en as He. Ev -- en as He, ev -- en as He, Won -- der -- ful words that ev -- en we, Saved by His mar -- vel -- ous grace may be One with the Sav -- ior, ev -- en as He.</singingstanza>
+    <globalstaffsize>15</globalstaffsize>
+    <topmargin>0.25</topmargin>
+    <bottommargin>0.25</bottommargin>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj227.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="78">e0479_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Oh, what a wonderful place
+  Jesus has given to me!
+Saved by His glorious grace,
+  I may be even as He.
+When with my Lord I appear,
+  Like Him I know I shall be;
+But while I walk with Him here,
+  I may be even as He.</stanza>
+    <stanza type="chorus" number="">Even as He, even as He,
+Wonderful words that even we,
+Saved by His marvelous grace may be
+  One with the Savior, even as He.</stanza>
+    <stanza type="verse" number="2">One in His death on the tree,
+  One as He rose from the dead;
+I from the curse am as free
+  E'en as my glorious head.
+One on the throne by His side,
+  One in His sonship divine;
+One as the Bridegroom and bride,
+  One as the branch and the vine.</stanza>
+    <stanza type="verse" number="3">One in His merits I stand,
+  One as I pray in His name;
+All that His worth can command,
+  I can with confidence claim.
+One in His faith and His love,
+  One in His life I may be.
+Sealed by the heavenly Dove,
+  I may be holy as He.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>jo</firstname>
+  <lastname/>
+  <email>jokimbrosmith@cox.net</email>
+  <password>$2y$10$g.tNOye1wcgdjSza6kHq3eTuF2roybEUW0batrLis3VjDmYwLa29W</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.162.254.162</ipaddress>
+  <createdate>2014-08-15 17:18:25</createdate>
+  <lastupdateddate>2014-08-15 17:22:01</lastupdateddate>
+  <lastlogindate>2014-08-15 17:21:03</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="802">Thou art the Word and Spirit, Lord</fav>
+  </favourites>
+</user>

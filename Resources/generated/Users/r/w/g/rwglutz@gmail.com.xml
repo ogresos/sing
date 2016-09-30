@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Reg</firstname>
+  <lastname>Glutz</lastname>
+  <email>rwglutz@gmail.com</email>
+  <password>$2y$10$Gwm7WfKWePgo5Xc.d6aVVO47.36ITPRXrAsSJfFri.y5z.yNEpnVm</password>
+  <gender/>
+  <country>za</country>
+  <ipaddress>105.236.60.81</ipaddress>
+  <createdate>2015-01-21 05:50:14</createdate>
+  <lastupdateddate>2015-01-21 06:19:51</lastupdateddate>
+  <lastlogindate>2015-01-21 05:51:37</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="370">Abide with me! fast falls the eventide</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="39">To God be the glory, great things He hath done</fav>
+  </favourites>
+</user>

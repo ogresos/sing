@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The B-I-B-L-E</title>
+  <index>true</index>
+  <category>The Word of God&amp;mdash;General</category>
+  <hymncode>355535566646</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C/E - - - | F - - - | F - - - | G - - - | G - - - | G7 - - - | C - - - | C - - - | C/E - - - | F - - - | F - - - | G - - - | G - - - | G7 - - - | C - - - |</chords>
+  <melody>| 0 - - 3 | 5 5 5 3 | 5 - - 5 | 6. 6/ 6 4 (break) | 6 - - 6 | 7 7 7 6/ 5/ | 7 7 7. 6/ | 5 5 6 7 (break) | ._1 - 0 3 | 5 - 5 - | 5 5 5 5 | 6 - 6 - | 6 6 6 6 (break) | 7 - 7 - | 7( - 7.) 6/ | 5 4 3 2 | 1 - 0 - |</melody>
+  <layout>
+    <singingstanza>The B- -- I- -- B- -- L- -- E, Yes, that's the book for me, I stand a -- lone on the Word of God, The B- -- I- -- B- -- L- -- E. The B- -- I- -- B- -- L- -- E, Yes, that's the book for me, I stand a -- lone, The B- -- I- -- B- -- L- -- E.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group-children-m.xml</link>
+  </links>
+  <music>
+    <midi location="c" length="25">c0092.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The B-I-B-L-E,
+Yes, that's the book for me,
+I stand alone on the Word of God,
+The B-I-B-L-E.
+The B-I-B-L-E,
+Yes, that's the book for me,
+I stand alone,
+The B-I-B-L-E.</stanza>
+  </lyrics>
+</hymn>

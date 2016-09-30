@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>While Christ Builds His Church</title>
+  <index>true</index>
+  <category>Comfort in Trials&amp;mdash;By Grace for Suffering</category>
+  <creators>
+	<author biodate="" biolink="" fullname="Terrance Tay">T. T.</author>
+	<composer biodate="" biolink="" fullname="Terrance Tay">T. T.</composer>
+  </creators>
+  <hymncode>11237666715</hymncode>
+  <key>G Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G - - | G - - | F - - | F - - | C - - | C - - | F - - | F - - | C - - | Am - - | D - - | D7 - - | G - - | G - - | C - - | C - - | G - - | G - - | F - - | F - - | C - - | C - - | F - - | F - - | C - - | Am - - | D - - | D7 - - | G - - | G - - | C - - | C - - | G - - | G - - | F - - | F - - | C - - | C - - | F - - | F - - | C - - | Am - - | Dm - - | G7 - - | C - - | C - - |</chords>
+  <melody>| 1 - - | 1 2 3 | 7_.( - - | 7_.) - - (break) | 6_. - 6_. | 6_.( 7_.) 1 | 5_.( - - | 5_.) - - (break) | 4_. - 4_. | 4_.( 5_.) 6_. | 5_. - - | 1 - - (break) | 6_. - 6_. | 6_. 7_. 1 | 3( - - | 2) - - (break) | (Verse_2) 1 - 1 | 1( 2) 3 | 7_.( - - | 7_.) - - (break) | 6_. - 6_. | 6_.( 7_.) 1 | 5_.( - - | 5_.) - - (break) | 4_. - 4_. | 4_. 5_. 6_. | 5_.( - - | 1) - - (break) | 6_. - 6_. | 6_.( 7_.) 1 | 3 - - | 2 - - (break) | (Verse_3) 3 - 3 | 3( 2) 1 | 2( - - | 2) - 6_. (break) | 6_. - 6_. | 6_.( 7_.) 1 | 5_.( - - | 5_.) - - (break) | 4_. - - | 4_.( 5_.) 6_. | 5_. - 5_. | 1 - 1 (break) | 6_. - 6_. | 2 1 2 | 1( - - | 1) - - |</melody>
+  <layout>
+    <singingstanza end="-1">While Christ builds His church, gates of Ha -- des will rise up to at -- tack us but will nev -- er pre -- vail. 'Tis not what we face but 'tis how much grace we re -- ceive in the midst of our cir -- cum -- stanc -- es. Why not turn to prayer for those in need like us while we can sym -- pa -- thize, that through this we all gain Christ.</singingstanza>
+  </layout>
+  <music>
+      <midi location="ns" length="">ns0522.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">While Christ builds His church,
+Gates of Hades will
+Rise up to attack us
+But will never prevail.</stanza>
+    <stanza type="verse" number="2">'Tis not what we face
+But 'tis how much grace
+We receive in the midst
+Of our circumstances.</stanza>
+    <stanza type="verse" number="3">Why not turn to prayer
+For those in need like us
+While we can sympathize, that
+Through this we all gain Christ.</stanza>
+  </lyrics>
+</hymn>

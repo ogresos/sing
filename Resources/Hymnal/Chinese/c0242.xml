@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>喜樂滿我心</title>
+  <index>true</index>
+  <category>得救的證實與快樂－生命改變</category>
+  <numbers><chinese num="242"/><english num="1357"/><french num="60"/><portuguese num="171"/><russian num="213"/><spanish num="163"/><tagalog num="1357"/></numbers>
+  <melody>| 0. 0 5/ | 5.( 5/) 3/ 6/ | 5.( 5/) 4/ 3/ | 4.( 4/) 3/ 2/ (break) | 3.( 3) 5/ | 5.( 5/) 3/ 6/ | 5.( 5) 5/ | ._1/ ._1/ ._1/ (.._1/ 7/ 6/ | 7 7/ 7 5/ | 6/ 6/ 6/ ._1/ 7/ 6/ | 5/ 3/ 1/ 5.( (break) | 5.)( 5) 3/ | 4.( 4/) 3/ 2/ | 3.( 3/) 2/ 1/ | 2.( 2/) 1/ 7_./ | 1.( 1) 0/ ||</melody>
+  <layout>
+	<singingstanza>喜 樂 滿 我 心！ 滿 我 心！ 滿 我 心！ 喜 樂 滿 我 心！ 主 將 我 石 心， 換 成 了 肉 心； 聖 靈 來 更 新， 使 我 成 為 新 人： 喜 樂 滿 我 心！ 滿 我 心！ 滿 我 心！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1357"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">喜樂滿我心！
+滿我心！滿我心！
+喜樂滿我心！
+主將我石心，
+換成了肉心；
+聖靈來更新，
+使我成為新人：
+喜樂滿我心！
+滿我心！滿我心！</stanza>
+	<stanza type="verse" number="2">聖靈充滿我！
+充滿我！充滿我！
+聖靈充滿我！
+除去我罪過，
+消滅我軟弱，
+使我結義果，
+並過聖潔生活：
+聖靈充滿我！
+充滿我！充滿我！</stanza>
+  </lyrics>
+</hymn>

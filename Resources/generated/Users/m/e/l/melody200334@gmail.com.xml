@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Melody</firstname>
+  <lastname>Kao</lastname>
+  <email>melody200334@gmail.com</email>
+  <password>$2y$10$emuZVEC2kbel9axJfgez.OzbZSiowPYWv5tOogixBFGvx8RqDLdVm</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.51.190.107</ipaddress>
+  <createdate>2014-07-12 20:39:18</createdate>
+  <lastupdateddate>2014-07-12 20:46:02</lastupdateddate>
+  <lastlogindate>2014-07-12 20:43:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="207">Lord Jesus! when we think of Thee</fav>
+  </favourites>
+</user>

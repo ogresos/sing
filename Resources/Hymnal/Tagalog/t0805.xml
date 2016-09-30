@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Mahal kong Banal na Aklat</title>
+  <index>true</index>
+  <category>PAG-AARAL NG SALITA&amp;mdash;ANG GAWAIN NG SALITA</category>
+  <numbers><english num="805"/><tagalog num="805"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="10"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Mahal kong Banal na Aklat,
+B'yaya't pagtubos 'nilahad;
+Liham ng Pag-ibig Ni-ya,
+Salamin ng Kanyang mukha.</stanza>
+    <stanza type="verse" number="2">Aklat na 'king iniibig,
+Tseke ng bangko sa langit;
+Titulong pamana sa 'kin,
+Testamento Niya't habilin.</stanza>
+    <stanza type="verse" number="3">Banal na Aklat, mahal ko,
+Gaya Ka ng teleskopyo,
+Nang darating ay makita
+Mga l'walhati't himala.</stanza>
+    <stanza type="verse" number="4">Mahal kong banal na Aklat,
+Gabay sa panlupang lakad;
+Sa kadiliman ay tanglaw
+Liwanag sa araw-araw.</stanza>
+  </lyrics>
+</hymn>

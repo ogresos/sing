@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Angeline</firstname>
+<lastname>Ong</lastname>
+<email>the_newcreation@yahoo.com</email>
+<password>$1$FwcRPsRI$hPmn3NQ3nzVKnsoshB17a0</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>65.104.11.125</ipaddress>
+<createdate>2008-07-26 01:43:26</createdate>
+<lastupdateddate>2009-09-15 18:25:19</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="c" num="4">This is the day</fav>
+        <fav category="default" type="c" num="71">We are so happy we're here today</fav>
+    </favourites>
+</user>

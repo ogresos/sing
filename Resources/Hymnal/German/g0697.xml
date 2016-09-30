@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Auf dem Lebenspfad müd pilgerst –</title>
+  <index>true</index>
+  <category>TROST IN TRÜBSALEN&amp;mdash;Durch die Fürsorge des Herrn</category>
+  <numbers><cebuano num="697"/><chinese num="495"/><english num="697"/><german num="697"/><korean num="495"/><russian num="472"/><tagalog num="697"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from Anonymous</author>
+  </creators>
+  <melody>| 0 - 3/ 3/ | 3. 1/ 4/ 3/ | 3 2 7_./ 1/ | 2. 4/ 3/ 2/ (break) | 3 - 5/ 5/ | 5. 3/ 4/ 6/ | 5 3 1/ 3/ | 3. 2/ 1/ 7_./ (break) | 1 - (Chorus) 5/ 5/ | 5. 3/ 6./ 5// | 5 - 3/ 3/ | 3. 1/ 4./ 3// (break) | 2. 2/ 3/ 4/ | 5./ 5// 5/ 1/ 2/ 3/ | 4./ 4// (.4 6_./ 2/ | 1. 3/ 3./ 2// | 1 - 0 |</melody>
+  <layout>
+	<singingstanza>Auf dem Le -- bens -- pfad müd pil -- gerst_&amp;mdash; Las -- ten al -- les noch er -- schwern_&amp;mdash; Hör doch die -- sen Trost und Zu -- spruch: „Dei -- ne Last wirf auf den Herrn“. Dei -- ne Last wirf auf den Herrn! Dei -- ne Last wirf auf den Herrn, Und stär -- ken wird Er dich, Stützt und auch trös -- tet dich– Dei -- ne Last wirf auf den Herrn.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="697"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Auf dem Lebenspfad müd pilgerst –
+Lasten alles noch erschwern –
+Hör doch diesen Trost und Zuspruch:
+„Deine Last wirf auf den Herrn“.</stanza>
+	<stanza type="chorus" number="">Deine Last wirf auf den Herrn!
+Deine Last wirf auf den Herrn,
+Und stärken wird Er dich,
+Stützt und auch tröstet dich –
+Deine Last wirf auf den Herrn.</stanza>
+	<stanza type="verse" number="2">Deine Füße leicht versagen?
+Ist es dunkel, fehlt der Stern?
+Ist dein Kreuz zu schwer und drückend? 
+Deine Last wirf auf den Herrn.</stanza>
+	<stanza type="verse" number="3">Sind dir Freundschaften zerbrochen? 
+Sind verstummt, die hörtest gern?
+Bricht dein Herz vor Angst und Sorgen?
+Deine Last wirf auf den Herrn.</stanza>
+	<stanza type="verse" number="4">Hast du Gottes Wort vergessen?
+Stockt dein Herz, möcht sich einsperrn?
+Deine Kraft erliegt der Schwachheit?
+Deine Last wirf auf den Herrn.</stanza>
+	<stanza type="verse" number="5">Er bewahrt dich vor dem Fallen,
+Und Er führt dich, denn Er wacht,
+Er wird stärken dein Bemühen,    
+Er hält dich durch Seine Macht.</stanza>
+  </lyrics>
+</hymn>

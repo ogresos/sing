@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Eugene</firstname>
+<lastname>Yu</lastname>
+<email>yugene422@yahoo.com</email>
+<password>$1$OS1HWsED$FB4ryT9FxeID1K4VTxUCK0</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>75.65.237.5</ipaddress>
+<createdate>2008-10-05 14:40:47</createdate>
+<lastupdateddate>2009-09-15 18:26:03</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="lb" num="66">What made You die for me</fav>
+        <fav category="default" type="h" num="1328">My wandering days grew increasingly empty</fav>
+        <fav category="default" type="h" num="1327">Once I thirsted for a fountain</fav>
+    </favourites>
+</user>

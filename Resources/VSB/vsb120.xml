@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nothing's quite so precious</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As the Spirit</category>
+  <numbers><english num="ns:114"/><vsb num="120"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Michael Rashkow">M. R.</composer>
+  </creators>
+  <hymncode>5555555555432</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>110</tempo>
+  <chords>| C - - - | F - - - | C - - - | G/B - G - | Am - - - | F/A - - - | D/F# - D7 - | G - G7 - | C - - - | F - - - | C - - - | G - - - | Am - - - | F/A - F - | D/F# - D7 - | G - G7 - | C - F/C - | C - - - | Am - - - | Am - - - | Am - - - | Am - - - | G - - - | G - - - | Am - - - | Am - - - | F - - - | F - - - | D - - - | D7 - - - | G - - - | G7 - - - |</chords>
+  <melody>| 5/ 5/( 5) 5 5 | 5/ 5.( 5) - | 0 5 5 5 | 5. 4/ 3 2 (break) | 0 3 3 3 | 4. 4/ 1. 1/ | 2 2 6_. 1 | 7_. - - - (break) | 0 5 5 5 | 5 5 - - | 0 5 5 5 | 5. 4/ 3 2 (break) | 0 3 3 3 | 4 4/ 1/( 1.) 1/ | 2 2 6_. 1 | 7_. - - 1/ 2/ | 1( - - - | 1) - - - (break) | (Chorus) 0 6 6 7/ ._1/( | ._1) - - - | 0 6 6 7 | ._1 7 ._1 ._2 | 7/( 6/) 5( - - | 5) - - - (break) | 0 6 6 7/ ._1/( | ._1) - - - | 0 6 6 7 | ._1 6 7 ._1 | ._2 - - - | 0 6 7 ._1 | 7/( 6/) 5( - - | 5) - - 0 |</melody>
+  <layout>
+    <singingstanza>Noth -- ing's quite so pre -- cious As Je -- sus in my spir -- it. He takes a -- way the care And fills me with His peace. He nev -- er leaves me, E'en as the days grow wea -- ry. His pres -- ence goes with me. My soul de -- lights to hide in His arms. I call His name, "Lord Je -- sus, Help me in my weak -- ness." So faith -- ful -- ly each day in me He proves His life is so suf -- fi -- cient.</singingstanza>
+  </layout>
+  <copyright>Michael Rashkow, "Mary in the Morning"</copyright>
+  <videos>
+    <video title="" youtubeid="kzJmK-OQEd8"/>
+  </videos>
+  <music>
+    <midi location="ns" length="70">ns0114.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nothing's quite so precious
+As Jesus in my spirit.
+He takes away the care
+And fills me with His peace.
+He never leaves me,
+E'en as the days grow weary.
+His presence goes with me.
+My soul delights to hide in His arms.</stanza>
+    <stanza type="chorus" number="">I call His name, "Lord Jesus,
+Help me in my weakness."
+So faithfully each day in me
+He proves His life is so sufficient.</stanza>
+    <stanza type="verse" number="2">Nothing's quite so precious
+As Jesus in my spirit.
+He turns my heart to Him,
+To feast upon His life.
+It's nothing I do&amp;mdash;
+His mercy's just upon me.
+And God's free gift of grace
+Becomes an endless joy to me.</stanza>
+  </lyrics>
+</hymn>

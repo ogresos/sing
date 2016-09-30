@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>أنا هو الخُبزُ الحَيُّ </title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><arabic num="ns:381ar"/><english num="ns:381"/><cebuano num="ns:381cb"/><estonian num="ns:381es"/><french num="ns:381f"/><portuguese num="ns:381p"/><tagalog num="ns:381tc"/></numbers>
+  <music>
+    <midiref type="ns" num="381"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">أنا هو الخُبزُ الحَيُّ 
+الّذي نَزَلَ مِنَ السماءِ.
+إنْ أكلَ أحَدٌ مِنْ هذا الخُبزِ يَحيا إلَى الأبدِ.</stanza>
+    <stanza type="verse" number="">( والخُبزُ (والخُبزُ
+(الّذي (الذي
+أنا أُعطي هو جَسَدي
+(الّذي (الذي
+(أبذِلُهُ (أبذِلُهُ
+مِنْ أجلِ حياةِ العالَمِ</stanza>
+    <stanza type="verse" number="">أنا هو الخُبزُ الحَيُّ 
+الّذي نَزَلَ مِنَ السماءِ.
+إنْ أكلَ أحَدٌ مِنْ هذا الخُبزِ يَحيا إلَى الأبدِ.</stanza>
+  </lyrics>
+</hymn>

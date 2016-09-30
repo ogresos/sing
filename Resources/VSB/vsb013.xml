@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>It passeth telling, that dear love of Thine</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Love</category>
+  <numbers><english num="nt:154"/><vsb num="13"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Mary Shekleton</author>
+    <composer biodate="" biolink="">Grace Notes Brothers</composer>
+  </creators>
+  <hymncode>1123543255</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>115</tempo>
+  <chords>| C - - - | Em - - - | F - - - | G - - - | C - - - | Em - - - | F - - - | G - C/E - | F - - - | C - - - | Am - - - | F - - - | Em - Am - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 1 1 2 | 3. 5/( 5) - | 0 - 4 3 | 2 5_./ 5_./( 5_.) - | 0 1 1 2 | 3. 5/( 5) - | 0 - 4 3 | 2 5/ 5/( 5) - (break) | 0 6 6 6 | 5 3/ 3/( 3) 2 | 1 2/ 3/( 3) - | 0 2 1 6_. | 2 5_./ 5_./( 5_.) 5_. | 6_. 1/ 1/( 1) - | 0 3/( 2/) 1 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>It pass -- eth know -- ledge, that dear love of Thine, My Sav -- ior, Je -- sus; yet this soul of mine Would of Thy love in all its breadth and length, Its height and depth, its ev -- er -- last -- ing strength, Know more and more.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">group002.xml</link>
+    <link type="relevant" category="h" num="154"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/irvine.html"></link>
+  </links>
+  <videos>
+    <video title="" youtubeid="Q5G6zvMwv-Q"/>
+  </videos>
+  <music>
+    <midi location="nt" length="37">e0154_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">It passeth knowledge, that dear love of Thine,
+My Savior, Jesus; yet this soul of mine
+Would of Thy love in all its breadth and length,
+Its height and depth, its everlasting strength,
+    Know more and more.</stanza>
+    <stanza type="verse" number="2">It passeth telling, that dear love of Thine,
+My Savior, Jesus; yet these lips of mine
+Would fain proclaim to sinners, far and near,
+A love which can remove all guilty fear,
+    And love beget.</stanza>
+    <stanza type="verse" number="3">It passeth praises, that dear love of Thine,
+My Savior, Jesus; yet this heart of mine
+Would sing that love, so full, so rich, so free,
+Which brings a rebel sinner, such as me,
+    Nigh unto God.</stanza>
+    <stanza type="verse" number="4">But though I cannot sing, or tell, or know
+The fulness of Thy love, while here below,
+My empty vessel I may freely bring;
+O Thou, who art of love the living spring,
+    My vessel fill.</stanza>
+    <stanza type="verse" number="5">I am an empty vessel&amp;mdash;not one thought
+Or look of love to Thee I've ever brought;
+Yet I may come, and come again to Thee,
+With this the empty sinner's only plea,
+    Thou lovest me.</stanza>
+    <stanza type="verse" number="6">Oh, fill me, Jesus, Savior, with Thy love!
+Lead, lead me to the living fount above;
+Thither may I, in simple faith draw nigh,
+And never to another fountain fly,
+    But unto Thee.</stanza>
+    <stanza type="verse" number="7">Lord Jesus, when Thee face to face I see,
+When on Thy lofty throne I sit with Thee,
+Then of Thy love, in all its breadth and length,
+Its height and depth, its everlasting strength,
+    My soul shall sing.</stanza>
+  </lyrics>
+</hymn>

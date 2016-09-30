@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Something every heart is loving</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <creators>
+    <author biodate="1697-1769" biolink="">Gerhardt Tersteegen</author>
+    <composer biodate="" biolink="">Grace Notes Brothers</composer>
+  </creators>
+  <hymncode>32313235</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>85</tempo>
+  <chords>| C - - - | Em - - - | Am - - - | C7/G - C7 - | F - G7/F - | Em - A7 - | Dm7 - G7 - | C - - - |</chords>
+  <melody>| 0 3/ 2/ 3 1 | 0 3/ 2/ 3 5 | 0 3/ 2/ 3 1 | 0 2/ 3/ 5 - (break) | 0 6/ 6/ 6 2 | 0 5/ 4/ 4 3 | 0 4/ 4/ 3/ 2/ 1/ 7_./ | 1 - - - |</melody>
+  <layout>
+    <singingstanza>Some -- thing ev -- ery heart is lov -- ing: If not Je -- sus, none can rest; Lord, my heart to Thee is giv -- en; Take it, for it loves Thee best.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">group002.xml</link>
+    <link type="relevant" category="h" num="547"></link>
+    <link type="orderinfo" url="http://www.angelfire.com/sc/juancledezma/irvine.html"></link>
+  </links>
+  <music>
+    <midi location="nt" length="26">e0547_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Something every heart is loving:
+  If not Jesus, none can rest;
+Lord, my heart to Thee is given;
+  Take it, for it loves Thee best.</stanza>
+    <stanza type="verse" number="2">Thus I cast the world behind me;
+  Jesus most beloved shall be;
+Beauteous more than all things beauteous,
+  He alone is joy to me.</stanza>
+    <stanza type="verse" number="3">Bright with all eternal radiance
+  Is the glory of Thy face;
+Thou art loving, sweet, and tender,
+  Full of pity, full of grace.</stanza>
+    <stanza type="verse" number="4">When I hated, Thou didst love me,
+  Shedd'st for me Thy precious blood;
+Still Thou lovest, lovest ever,
+  Shall I not love Thee, my God?</stanza>
+    <stanza type="verse" number="5">Keep my heart still faithful to Thee,
+  That my earthly life may be
+But a shadow to that glory
+  of my hidden life in Thee.</stanza>
+  </lyrics>
+</hymn>

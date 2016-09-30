@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Reigning life</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <creators>
+    <author biodate="" biolink="" fullname="Kelly Scaletta">K. S.</author>
+    <composer biodate="" biolink="" fullname="Kelly Scaletta">K. S.</composer>
+  </creators>
+  <hymncode>511111231111765</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>130</tempo>
+  <chords>| C - - - | Am - - - | F - - - | G7 - - - | C - - - | Am - - - | F - - - | G7 - - - | Em - - - | Am - - - | Dm - - - | G7 - - - | C - - - | Am - - - | F - - - | G7 - - - | C - F/C - | C - - - |</chords>
+  <melody>| 5 1 1 1 | 1 1/ 2/( 2/) 3. | 0 1/ 1/ 1 1 | 7_. 6_./ 5_./( 5_.) - | 5 1 1 1 | 1 1/ 2/( 2/) 3. | 0 1/ 1/ 1 1 | 7_. 1/ 2/( 2) - (break) | (Chorus) 0 5/ 5/ 5 5 | 1 1/ 2/( 2/) 3. | 0 4/ 4/ 4 3 | 2 3/ 4/( 4/) 3/ 2 | 0 5/ 5/ 5 5 | 5 5/ 6/( 6/) 5. | 0 4 4 - | 3 4/ 3/( 3) 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>How I love Your reign -- ing life, Lord. How I love a -- bun -- dant grace. How I love to have Your pres -- ence, As I live be -- fore Your face. By Your life, Lord, I am reign -- ing. I am o -- ver, o -- ver ev -- ery -- thing. As I'm joy -- ful -- ly con -- fess -- ing, Je -- sus, as my Lord and King.</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="34">ns0081.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">How I love Your reigning life, Lord.
+How I love abundant grace.
+How I love to have Your presence,
+As I live before Your face.</stanza>
+    <stanza type="chorus" number="">By Your life, Lord, I am reigning.
+I am over, over everything.
+As I'm joyfully confessing,
+Jesus, as my Lord and King.</stanza>
+    <stanza type="verse" number="2">Sin, you helpless little fellow,
+Lost your pow'r on Calvary.
+I have made exchange of masters,
+Now it's Christ who rules in me.</stanza>
+    <stanza type="verse" number="3">World, with all your little trappings,
+You oppress with doubts and cares.
+I have found a new provider,
+My anxiety He bears.</stanza>
+    <stanza type="verse" number="4">Self, you cruel manipulator,
+You are wholly crucified,
+I have no more need to struggle,
+In Christ's vict'ry I abide!</stanza>
+    <stanza type="verse" number="5">Lord, when You return in glory,
+When You then the kingdom bring;
+By Your life my Lord then make me
+Manifested as a king.</stanza>
+  </lyrics>
+</hymn>

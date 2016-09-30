@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Di pul-ang mohanggap Nimo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA IYANG KATAHUM</category>
+  <numbers><cebuano num="172"/><chinese num="142"/><english num="172"/><german num="172"/><korean num="142"/><portuguese num="84"/><russian num="204"/><spanish num="82"/><tagalog num="172"/></numbers>
+  <creators>
+	<author biodate="1850-1906" biolink="">Translated from William Spencer Walton</author>
+  </creators>
+  <melody>| 0. 5_./ 6_./ 7_./ | 1. 7_./ 1/ 2/ | 7_.. 5_./ 7_./ 2/ | 5 - 4 | 3. 3/ 3/ 3/ (break) | 6. 3/ 5./ 4// | 4. 4/ 4/ 4/ | 5. 2/ 4./ 3// | 3 - 1 (break) | 1. 1/ 2/ 1/ | 3 - 5_. | 5_.. 5_./ 6_./ 5_./ | 1. 0. |</melody>
+  <notes>&amp;dagger; Usa ka tanom sa Daang Kalibutan nga mahal kaayo tungod sa humot nga dalag ug puting mga bulak niini. (A.S. 1:14, A.S.V.)</notes>
+  <music>
+	<midiref type="h" num="172"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Di pul-ang mohanggap Nimo,
+O huyohoy's gugma;
+Humot Ka pa's kahoyng merto,
+Ug &amp;dagger;copher alang kanako,
+Ikaw ang Balsamo
+Gikan sa itaas.</stanza>
+	<stanza type="verse" number="2">Matahum Ka's labing tahum,
+Di puol tan-awon;
+Mapuno gyud ko's kalipay,
+Makakita's Imong dagway,
+Kasanag's nawong Mo,
+Katahum! Ginoo.</stanza>
+	<stanza type="verse" number="3">Di gyud igong pagsugot ko,
+Manlul'was, Agalon,
+Di ko buot magawasnon,
+Kondi' andam, maunongon,
+Hangtud's katapusan
+Ikaw alagaran.</stanza>
+	<stanza type="verse" number="4">Di ko pul-an sa pag-awit,
+Ngalang labing tam-is;
+Awit sa tumang kalipay
+Sa sulod ko nidagayday;
+Kalag ko napuno
+Sa Imong kalipay.</stanza>
+	<stanza type="verse" number="5">Di kahuma'g hisgut Nimo,
+Dagha'g ikaasoy;
+Pinitik's kasingkasing Mo
+Malomong nagdani nako,
+Naghunghong, naglipay,
+"Maayo ang tanan."</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Тебя, Отца и Бога</title>
+  <index>true</index>
+  <category>ПОКЛОНЕНИЕ ОТЦУ&amp;mdash;ЕГО БЛАГОДАТЬ В СЫНОВСТВЕ</category>
+  <numbers><cebuano num="48"/><chinese num="45"/><english num="48"/><korean num="45"/><portuguese num="33"/><russian num="197"/><spanish num="29"/><tagalog num="48"/></numbers>
+  <creators>
+    <author biodate="1860-1930" biolink="">Translated from Alexander Carruthers</author>
+  </creators>
+  <melody>| 0 - - 1 | 2 1 4 3 | 2 - 1 3 | 5 ._1 7 5# | 6 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2 1 | 2 - - 2 (break) | 4 3 6 7 | ._1 - ._2 5 | ._3. ._3/ ._2 ._1 | 7 - - 6 (break) | 5 3 3 2 | 1 - 2 3 | 3 3 2. 1/ | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Те -- бя, От -- ца и Бо -- га, Бла -- го -- слов -- ля -- ем мы.  Мы вмес -- те с_Тво -- им Сы -- ном Пре -- вы -- ше смерт -- ной тьмы.  Он в_све -- те пред То -- бо -- ю Жи -- вёт как Че -- ло -- век, В_Тво -- ём бла -- го -- во -- ле -- нье, В_люб -- ви Тво -- ей во -- век.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="48"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Тебя, Отца и Бога,
+Благословляем мы.
+Мы вместе с Твоим Сыном
+Превыше смертной тьмы.
+Он в свете пред Тобою
+Живёт как Человек,
+В Твоём благоволенье,
+В любви Твоей вовек.</stanza>
+    <stanza type="verse" number="2">Отец Его и наш Ты,
+Его и наш Ты Бог;
+Возлюбленный, Он радость
+Для сердца Твоего.
+Он в радости ведёт нас
+Сыновство разделять,
+Узнать Твоё сиянье,
+Любовь и благодать.</stanza>
+    <stanza type="verse" number="3">Любви, что нас объемлет,
+Не охладеет пыл.
+Любовь Твоя вся в Сыне,
+Ты в Нём нас возлюбил.
+Твои любовь и слава
+Пребудут в Нём вовек,
+И в Нём благословенны
+Сыны Твои навек.</stanza>
+  </lyrics>
+</hymn>

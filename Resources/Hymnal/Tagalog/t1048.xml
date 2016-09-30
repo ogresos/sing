@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ako'y lumalapit sa Iyo</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;LUMALAPIT SA PANGINOON</category>
+  <numbers><cebuano num="1048"/><chinese num="724"/><dutch num="108"/><english num="1048"/><german num="1048"/><korean num="724"/><portuguese num="459"/><russian num="173"/><spanish num="481"/><tagalog num="1048"/></numbers>
+  <creators>
+	<author biodate="1789-1871" biolink="www.hymns.net/stories/elliott.htm">Translated from Charlotte Elliott</author>
+  </creators>
+  <melody>| 0 - - 0 - 1/( 2/) | 3 - 3 5.( 4/) 3 | 2.( 3/) 4 3 - 5 | 5( 2) 3 4 - 6 | 6 - 5 3 - 1/( 2/) (break) | 3 - 3 5.( 4/) 3 | 6 - 6 ._1.( 7/) 6 | 5 - 5 5.( 4/) 3 | 2 - - 5 - - | 3( - - 3) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1048"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ako'y lumalapit sa Iyo,
+Pag-asa'y dugong binubo,
+At nang ako'y tinawag Mo,
+Manliligtas, heto ako!</stanza>
+	<stanza type="verse" number="2">Ako sa Iyo'y lumalapit,
+Di na maghintay malinis;
+'Pagkat sapat ang Iyong dugo,
+Manliligtas, heto ako!</stanza>
+	<stanza type="verse" number="3">Ako'y lumalapit sa Iyo
+Bagama't maraming gulo;
+Takot sa lo'b at labas ko,
+Manliligtas, heto ako!</stanza>
+	<stanza type="verse" number="4">Ako'y lumalapit sa Iyo
+Dukha, aba't bulag ako;
+Kailangan ko'y nasa Iyo,
+Manliligtas, heto ako!</stanza>
+	<stanza type="verse" number="5">Ako'y lumalapit sa Iyo,
+Anuman ako'y tanggap Mo;
+Pinatawad, nilinis Mo,
+Manliligtas, heto ako!</stanza>
+	<stanza type="verse" number="6">Ako'y sa Iyo lumalapit
+Sa di batid na pag-ibig;
+Hadlang lubos inalis Mo,
+Manliligtas, heto ako!</stanza>
+  </lyrics>
+</hymn>

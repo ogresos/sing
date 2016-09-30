@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debra</firstname>
+  <lastname>Lee</lastname>
+  <email>14273@hillcrest-high.school.nz</email>
+  <password>$2y$10$EaIZHIzt9ieSXEnq0QiZTuh8qXaU/.eyUjCneDqKhJU/KLJdJBsaq</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>118.92.58.61</ipaddress>
+  <createdate>2016-01-10 01:28:06</createdate>
+  <lastupdateddate>2016-01-31 00:12:15</lastupdateddate>
+  <lastlogindate>2016-01-10 01:30:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="506">Choose to Be an Overcomer</fav>
+    <fav category="default" type="ns" num="53">He's my God</fav>
+    <fav category="default" type="ns" num="412">The church is the building up</fav>
+    <fav category="default" type="ns" num="383">These things says the Holy One</fav>
+  </favourites>
+</user>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Margo</firstname>
+  <lastname>Higgins</lastname>
+  <email>margo.higgins@gmail.com</email>
+  <password>$2y$10$dEMrTsnHjrsSDdm9CRSBTuV4AF82MBZdOI7nW2W0E4wcq9ecNi0pC</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.209.198.19</ipaddress>
+  <createdate>2015-01-10 18:15:46</createdate>
+  <lastupdateddate>2015-01-10 18:18:58</lastupdateddate>
+  <lastlogindate>2015-01-10 18:18:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

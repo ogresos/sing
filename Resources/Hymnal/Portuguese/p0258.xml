@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tudo pra mim é Jesus, o Senhor</title>
+  <index>true</index>
+  <category>Como Tudo</category>
+  <numbers><cebuano num="517"/><chinese num="390"/><english num="517"/><korean num="390"/><portuguese num="258"/><russian num="417"/><tagalog num="517"/></numbers>
+  <creators>
+    <author biodate="1838-1921" biolink="">Translated from William James Kirkpatrick</author>
+  </creators>
+  <music>
+    <midiref type="h" num="517"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Tudo pra mim é Jesus, o Senhor,
+Maravilhoso é meu Salvador;
+A minha vida dirige por mim,
+O Protetor é ? Cristo por mim.</stanza>
+    <stanza type="chorus" number="">Cristo por mim,
+Cristo por mim,
+Em todo o tempo é
+Cristo por mim.</stanza>
+    <stanza type="verse" number="2">Cristo em saúde ou doença e aflição,
+Cristo em riqueza ou em privação;
+Em tempo bom ou em tempo ruim,
+É segurança ? Cristo por mim.</stanza>
+    <stanza type="verse" number="3">É meu Refúgio, meu Forte e Vigor,
+É minha Rocha, Jesus Salvador,
+Meu Mediador, vida que não tem fim,
+Meu Redentor é ? Cristo por mim.</stanza>
+    <stanza type="verse" number="4">Meu Sacerdote, Profeta e Senhor,
+A minha Fonte e Pão nutridor;
+Como a Estrela virá para mim,
+Rei glorioso ? Cristo por mim.</stanza>
+    <stanza type="verse" number="5">Cristo em tristeza, em gozo ou pesar,
+Em ganho ou perda é Tesouro sem par;
+Meu Companheiro constante enfim,
+Em vida ou morte ? Cristo é por mim.</stanza>
+  </lyrics>
+</hymn>

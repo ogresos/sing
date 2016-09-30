@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Denys</firstname>
+<lastname>Burman</lastname>
+<email>denysburman@btinternet.com</email>
+<password>$1$DBBoYB4C$xlvJ3I7PkEzAT/BQ1ZfVP.</password>
+<gender>M</gender>
+<country>United Kingdom</country>
+<ipaddress>81.157.51.127</ipaddress>
+<createdate>2009-04-05 16:04:43</createdate>
+<lastupdateddate>2009-09-15 18:29:44</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="63">Praise to the Holiest in the height</fav>
+        <fav category="default" type="h" num="382">More about Jesus would I know</fav>
+        <fav category="default" type="h" num="104">Alas! and did my Savior bleed</fav>
+    </favourites>
+</user>

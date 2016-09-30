@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ajiboye</firstname>
+  <lastname/>
+  <email>phayi4boye@yahoo.com</email>
+  <password>$2y$10$SixJLdECPnJO2gFFMVqiA.BZjuysZ6BNuYC.YM3vWVofvOVINBt6O</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>69.138.220.118</ipaddress>
+  <createdate>2015-12-30 03:25:45</createdate>
+  <lastupdateddate>2015-12-30 03:33:49</lastupdateddate>
+  <lastlogindate>2015-12-30 03:26:47</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="396">I'm pressing on the upward way</fav>
+  </favourites>
+</user>

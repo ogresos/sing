@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+  <roles>USER</roles>
+  <firstname>Anne</firstname>
+  <lastname>Haasnoot</lastname>
+  <email>haasnoot976@gmail.com</email>
+  <password>zva8EbXst9HADxPiTtDn%2BA%3D%3D</password>
+  <gender/>
+  <country>United States</country>
+  <ipaddress>127.0.0.1</ipaddress>
+  <createdate>2014-04-24 18:42:52</createdate>
+  <lastupdateddate>2014-11-21 17:54:32</lastupdateddate>
+  <lastlogindate>2014-11-21 17:54:32</lastlogindate>
+  <failedlogincount>2</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="c" num="4">This is the day</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+  </favourites>
+</user>

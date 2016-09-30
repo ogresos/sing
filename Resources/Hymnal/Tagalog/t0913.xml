@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Dapat sa lo'b ng Katawan</title>
+  <index>true</index>
+  <category>PAGLILINGKOD&amp;mdash;SA KATAWAN</category>
+  <numbers><cebuano num="913"/><chinese num="656"/><english num="913"/><german num="913"/><korean num="656"/><portuguese num="426"/><russian num="385"/><spanish num="411"/><tagalog num="913"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - - - 3 4 | 5 - - 3 4 6 | 5 - 3 - 3 3 | 4 - - 3 2 1 (break) | 3( - 2) - 3 4 | 5 - - 3 4 6 | 5 - 3 - 1 2 | 3 4 3 - 2 - (break) | 1 - - - (Chorus) 5 5 | 5 - - 5 6 7 | ._1 - 5 - 5 5 | 5 - - 5 7 6 (break) | 5( - 4) - 3 4 | 5 - - 5 6 7 | ._1 - 5 - 4 6 | 5 1 3 - 2 - | 1 - - - 0 - |</melody>
+  <music>
+	<midiref type="h" num="913"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Dapat sa lo'b ng Katawan,
+Gawa't paglingkod naman;
+Katawan ang layunin Niya,
+Tayo ay umayon nga.</stanza>
+	<stanza type="chorus" number="">Sa lo'b ng Katawan lagi,
+Gawa nati't pagsilbi,
+Magko'rdina sa isa't 'sa.
+Sangkap ng Katawan Niya.</stanza>
+	<stanza type="verse" number="2">Pagkasilang-muli natin,
+Tayo naging sangkap din;
+Di na dapat nag-iisa,
+Sa pag'lingkod sa Kanya.</stanza>
+	<stanza type="verse" number="3">Batong buhay naitayo,
+Bilang buhay na templo;
+Bilang saserdote ng Diyos,
+Nagkakaisang lubos.</stanza>
+	<stanza type="verse" number="4">Pagtatayo ay tuparin,
+Bawa't pangsyon gagawin;
+Pundasyon ng paglilingkod
+Sa Katawan di bukod.</stanza>
+	<stanza type="verse" number="5">Sa gawa't paglingkod naman,
+Katawa'y natustusan;
+Pag lumayo sa Katawan,
+Hantunga'y kamatayan.</stanza>
+	<stanza type="verse" number="6">Pag nagsilbi sa Katawan,
+Yaman ng Ulo'y kamtan;
+Pangsyon ng sangkap tinupad,
+Sukat ni Kristo'y ganap.</stanza>
+	<stanza type="verse" number="7">Kay Kristo susulong tayo,
+Tanganan bilang Ulo;
+Mula sa Kanya ang tustos,
+Sa sangkap ang pag-agos.</stanza>
+	<stanza type="verse" number="8">Katawan inalay namin,
+Kami Iyong transpormahin;
+Upang layon Mo'y malaman,
+Pagsilbi'y sa Katawan.</stanza>
+  </lyrics>
+</hymn>

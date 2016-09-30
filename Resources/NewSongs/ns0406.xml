@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>But God commends His own love to us</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:406"/><lsmyp num="340"/></numbers>
+  <creators>
+    <composer biodate="" biolink="" fullname="Karen Pizzitola Casey">K. P. C.</composer>
+  </creators>
+  <hymncode>55565533445554323</hymncode>
+  <key>C Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - | C - - | G/B - - | Am - - | F - - | C - - | C - - | Am - - | Am - - | F - - | Dm7 - - | G - - | G7 - - | C - - | G/B - - | Am - - | F - - | C - - | C - - | Am - - | Am - - | F - - | Dm7 - - | G - - | G - - | Am - - | Am - - | F - - | F - - | C - - | C - - | G - - | G - - | Am - - | Am - - | F - - | F - - | C - - | C - - | Am - - | F - - | F - - | C - - | F - - | G7 - - | C - - | Am - - | F - - | G7 - - | C - F/C | C - - ||</chords>
+  <melody>| 0 - 5 | 5 - 5 | 6 5 5 | 3 - 3 | 4 - 4 | 5 - 5 (break) | 5 4 3 | 2/ 3/( 3)( - | 3) - - | 4 - - | 4 - 3 | 2( - - (break) | 2) - 5 | 5 - 5 | 6 5 5 | 3 3/ 3. | 4 4 4 | 5 - 5 (break) | 5( 4) 3 | 2/( 3/)( 3)( - | 3) - - | 4 - 4 | 4 - 3/ 2/( | 2)( - - (break) | 2) - 5 | 6 - 6 | 6 - ._1 | ._1/ 7/ 6( - | 6) 6 6 | 5/ 4/ 3( - | 3) - 5 | 5( - - (break) | 5) - 5 | 6 - - | 6( - 6/) ._1/ | ._1 7 6 | 6 - 6 | 5( - - | 5) - 5 | 3( - - | 4) - - (break) | 4 4 4 | 4/ 3/ 3 - | 4 - 4/ 3/ | 2 - 1/ 7_./ | 1( - - | 1) - 0 (break) | 4 - 4/ 3/ | 2 - 1/ 7_./ | 1( - - | 1) - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">But God com -- mends His own love to us in that while we were yet sin -- ners, Christ died for us. Much more then, hav -- ing been jus -- ti -- fied now in His blood, we shall be saved through Him from the wrath. For if, while we were en -- e -- mies, we were re -- con -- ciled to God, to God through the death of His Son, much more, much more, hav -- ing been re -- con -- ciled, we shall be saved in His life. We shall be saved in His life.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Romans 5:8-10</link>
+  </links>
+  <music>
+    <midi location="ns" length="72">ns0406.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">But God commends His own love to us
+In that while we were yet sinners,
+Christ died for us.</stanza>
+    <stanza type="verse" number="">Much more then, having been justified now
+In His blood, we shall be saved
+Through Him from the wrath.</stanza>
+    <stanza type="verse" number="">For if, while we were enemies,
+We were reconciled to God,
+To God through the death of His Son,
+Much more, much more,
+Having been reconciled,
+We shall be saved in His life.
+We shall be saved in His life.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>主名何甘甜</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>111533311355432</hymncode>
+  <key>F Major</key>
+  <time>3/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>哦， 主 耶 穌！ 哦， 主 耶 穌！ 呼 喊 你 名 何 甘 甜！ 比 酒 更 美， 比 蜜 更 甜； 哦， 主 耶 穌！ 阿 們。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0229.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦，主耶穌！
+哦，主耶穌！
+呼喊你名何甘甜！
+比酒更美，比蜜更甜；
+哦，主耶穌！阿們。</stanza>
+  </lyrics>
+</hymn>

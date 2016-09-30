@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>â Di mo pa kaya Siya nakita</title>
+  <index>true</index>
+  <category></category>
+  <numbers><cebuano num="437"/><chinese num="333*"/><english num="437"/><german num="437"/><korean num="333"/><lsmyp num="103"/><spanish num="186"/><tagalog num="c333"/></numbers>
+  <creators>
+	<author biodate="1834-1879" biolink="">Translated from Ora Rowan</author>
+  </creators>
+  <melody>| 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 5. 3/ | 2 1 2 - (break) | 3 2 1. 7_./ | 6_. 1 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - (break) | (Chorus) 3 5 5 3 | 2 1 3 2 | 3 5 5. 3/ | 2 1 2 - (break) | 3 2 1 5_. | 4. 6_./ 6_. 5_. | 1 3 6_.. 2/ | 1 7_. 1 - |</melody>
+  <music>
+	<midiref type="h" num="437"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">â Di mo pa kaya Siya nakita?
+Puso mo'y di pa naakit Niya?
+Una Siya sa lahat, iyong bahagi,
+Sa iyo ang pinakamabuti.</stanza>
+	<stanza type="chorus" number="">Unang tao Ka sa laksa-laksa!
+Bihagin Mo aking puso't mata,
+Mga diyus-diyusan binasag ko na,
+Unang tao Ka sa laksa-laksa!</stanza>
+	<stanza type="verse" number="2">Karangyaan ng mundo'y pawing
+Nakababaliw na diyus-diyusan,
+Tubog sa ginto: tukso ng luho,
+Babad sa pulot: silo sa iyo.</stanza>
+	<stanza type="verse" number="3">Laos ang ganda ng diyus-diyusan
+Hindi dahil sa kabiguan,
+Kundi sa pagsilay ng mahal na
+"Walang kaparis na halaga!"</stanza>
+	<stanza type="verse" number="4">Nagiging abo ang diyus-diyusan
+Hindi sa gawang sapilitan;
+Kundi sa ganda at pag-ibig Niya
+Na dumaloy at napakita.</stanza>
+	<stanza type="verse" number="5">Sino'ng papatay ng ilawan
+Kundi sa pagbukang-liwayway?
+Sino ang liligpit ng pangginaw
+Kundi dumating ang tag-araw?</stanza>
+	<stanza type="verse" number="6">Ang luhang nakita ni Pedro,
+Mukhang nakita ni Esteban,
+Pusong nakitangis kay Maria,
+Ang nagligtas sa makalupa.</stanza>
+	<stanza type="verse" number="7">Kaawaan at akitin Mo
+Hanggang mapuno ang puso ko;
+Kami'y Iyong tinubos, Iyong kasama,
+Sa diyus-diyusan may ugnay pa ba?</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Gigi</firstname>
+<lastname>Tom</lastname>
+<email>gigitomelanthoor@aol.com</email>
+<password>$1$rsZYqcKW$aabxn8.F9Yrwqrvae2Ws.1</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>96.246.164.233</ipaddress>
+<createdate>2009-09-05 18:11:08</createdate>
+<lastupdateddate>2009-09-15 19:18:29</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="686">Fear not, I am with thee</fav>
+        <fav category="default" type="h" num="6">Holy, Holy, Holy, Lord God Almighty</fav>
+        <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    </favourites>
+</user>

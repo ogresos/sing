@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Красоту узрев земную</title>
+  <index>true</index>
+  <category>СТРЕМЛЕНИЯ&amp;mdash;К ГОСПОДУ КАК СЧАСТЬЮ</category>
+  <numbers><cebuano num="405"/><chinese num="308"/><english num="405"/><german num="405"/><korean num="308"/><russian num="257"/><spanish num="178"/><tagalog num="405"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="">Adapted by Watchman Nee</author>
+  </creators>
+  <melody>| 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 3. 3/ 3/ 3/ 2/ 3/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 (break) | (Chorus) 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 3 - - 0 (break) | 6. 6/ 4/ 4/ 6/ 6/ | 5 - 3 - | 2. 2/ 5/ 5/ 4/ 2/ | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="405"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Красоту узрев земную,
+Вновь слепым готов я стать;
+Лишь бы счастья быть с Тобою
+Мне, Господь, не потерять.</stanza>
+	<stanza type="chorus" number="">Красоту узрев земную
+Вновь слепым готов я стать;
+Лишь бы счастья быть с Тобою
+Мне, Господь, не потерять.</stanza>
+	<stanza type="verse" number="2">Я рассвет, закат и звёзды
+Созерцать смогу в раю.
+На земле слепцу довольно
+Только милость знать Твою.</stanza>
+	<stanza type="verse" number="3">Не от жала избавленье –
+Благодать искал бы я,
+Видя славу за завесой,
+Что сияет на меня.</stanza>
+	<stanza type="verse" number="4">Верой видеть Иисуса
+Я могу в кромешной тьме;
+Тот, кто был всю жизнь в презренье,
+Славный лик являет мне.</stanza>
+	<stanza type="verse" number="5">Мне сияет ярче  солнца,
+Звёзд, луны и всех планет
+От главы в венке терновом
+Превосходной славы свет.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Kris</firstname>
+    <lastname>Bahr</lastname>
+    <email>krisbahr@ymail.com</email>
+    <password>mYAHjqJPWWfHXo9GMEXK5w%3D%3D</password>
+    <gender>F</gender>
+    <country>us</country>
+    <ipaddress>173.242.86.2</ipaddress>
+    <createdate>2012-10-09 09:46:32</createdate>
+    <lastupdateddate>2012-10-09 09:51:33</lastupdateddate>
+    <lastlogindate>2012-10-09 09:46:34</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="597">I know that my Redeemer lives</fav>
+        <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+        <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

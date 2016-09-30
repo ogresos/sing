@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>全家得救</title>
+  <index>true</index>
+  <category>事奉與福音</category>
+  <numbers><chinese num="ts:835"/><english num="1351"/><french num="175"/><russian num="150"/><spanish num="422"/></numbers>
+  <melody>| 3 5./ ._1// | ._3. ._1/ | ._2./ ._1// 5/ ._1/ | 7 6 (break) | 5/( 6/) 7/ ._1/ | ._2. 5/ | 6/ 6/ 5/ 4/ | 3 - (break) | 3 5./ ._1// | ._3. ._1/ | ._2./ ._1// ._2./ ._3// | ._4 6 (break) | 5 ._3./ ._2// | ._1. 6/ | ._4 ._4 | ._2 ._1/( 7/) | ._1( - | ._1) - |</melody>
+  <layout>
+	<singingstanza>何 大 憐 憫， 我 眼 得 開 識 真 神， 喜 脫 黑 暗， 得 享 光 明 自 由！ 何 奇 恩 典， 我 能 白 白 得 救 恩， 不 需 善 行， 也 不 需 我 苦 修！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="1351"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">何大憐憫，
+我眼得開識真神，
+喜脫黑暗，
+得享光明自由！
+何奇恩典，
+我能白白得救恩，
+不需善行，
+也不需我苦修！</stanza>
+	<stanza type="verse" number="2">主已救我；
+求也記念我家人，
+你已擔當他們罪過愆尤；
+我今切求，
+求你應許成為真：
+『信主耶穌，
+全家都必得救。』</stanza>
+	<stanza type="verse" number="3">主，你聽我：
+切要得著我全家！
+也要垂顧，
+我心為此如焚：
+『我和我家，
+都要事奉耶和華！』
+世世代代敬拜我真活神！</stanza>
+  </lyrics>
+</hymn>

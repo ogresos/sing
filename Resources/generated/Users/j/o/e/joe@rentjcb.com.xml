@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Joe</firstname>
+<lastname>Crawford</lastname>
+<email>joe@rentjcb.com</email>
+<password>$1$WNHD7pUt$9ENXYOPdTybDphDLIazEn.</password>
+<gender>M</gender>
+<country>United States</country>
+<ipaddress>204.180.232.226</ipaddress>
+<createdate>2009-04-14 17:08:05</createdate>
+<lastupdateddate>2009-09-15 18:29:46</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="558">Leaning on the Everlasting Arms</fav>
+    </favourites>
+</user>

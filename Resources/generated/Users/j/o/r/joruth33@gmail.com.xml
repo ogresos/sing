@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>JOANNA</firstname>
+  <lastname>STILWELL</lastname>
+  <email>joruth33@gmail.com</email>
+  <password>$2y$10$HoagCMEQ01Td0Qe/xcOobuyiT/BgvbzWii97ltE8ewmBABZofPYAG</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>76.218.65.248</ipaddress>
+  <createdate>2015-12-30 20:34:04</createdate>
+  <lastupdateddate>2016-04-24 23:56:08</lastupdateddate>
+  <lastlogindate>2016-04-24 23:48:56</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="405">Having seen the world's fair beauty</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+  </favourites>
+</user>

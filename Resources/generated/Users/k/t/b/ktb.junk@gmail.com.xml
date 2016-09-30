@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<user>
+    <firstname>Kyle</firstname>
+    <lastname>Baron</lastname>
+    <email>ktb.junk@gmail.com</email>
+    <password>krnOU5PrjO3dI37gxhcc8w%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>99.125.181.243</ipaddress>
+    <createdate>2013-06-30 16:51:54</createdate>
+    <lastupdateddate>2013-06-30 17:01:22</lastupdateddate>
+    <lastlogindate>2013-06-30 16:54:25</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+        <fav category="default" type="h" num="1059">Jesus, keep me near the cross</fav>
+        <fav category="default" type="h" num="456">Living for Jesus a life that is true</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

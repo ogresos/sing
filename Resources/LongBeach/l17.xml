@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The story of the gospel</title>
+  <index>true</index>
+  <category>Consecration&amp;mdash;Constrained by the Lord's Love</category>
+  <creators>
+    <author biodate="1937-1998" biolink="">Howard Higashi</author>
+    <composer biodate="1937-1998" biolink="">Howard Higashi</composer>
+  </creators>
+  <hymncode>5111153212121355</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - Em Am | Am - - - | F - - - | C - - - | G - - - | C - Em Am | Am - - - | F - - - | C - - - | G - - - | Am - Em - | Am - Em - | Am - Em - | Dm - - - | G - - - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 0/ 5_./ | 1/ 1/ 1/ 1/ 5 3( | 3) - - - | 0 2/( 1/) 2/ 1/ 2/( 1/) | 0/ 3( 5/) 5( - (break) | 5) - - 0/ 5_./ | 1/ 1/ 1 5 3( | 3) - - - | 0 2/( 1/) 2 1 | 0/ 3 5/ 5( - (break) | 5) - - 0/ 5/ | 6 6/( 7/) 5/ 3 5/ | 6 6/( 7/) 5/ 3. (break) | 0 6/ 7/ 5 3 | 2 - - 3 | 5. 3/( 3) 2 | 1( - - - | 1) - - 0 |</melody>
+  <layout>
+    <singingstanza>The sto -- ry of the gos -- pel Is that the Lord loved us. The sto -- ry of Mar -- y Is that she loved the Lord. The Lord lov -- ing us And we lov -- ing Him; This the fra -- grance of Our love of -- fer -- ing.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">nt_matt26-6-13.xml</link>
+    <link type="ref">Matthew 26:6-13</link>
+  </links>
+  <music>
+    <midi location="lb" length="42">lb17.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">The story of the gospel
+Is that the Lord loved us.
+The story of Mary
+Is that she loved the Lord.</stanza>
+    <stanza type="chorus" number="">The Lord loving us
+And we loving Him;
+This the fragrance of
+Our love offering.</stanza>
+    <stanza type="verse" number="2">We must preach both:
+The Lord Jesus loving us.
+And we like Mary,
+Loving Him to the uttermost.</stanza>
+    <stanza type="chorus" number="">One is salvation,
+The other consecration.
+Lord, we pour out
+All our love offering.</stanza>
+    <stanza type="verse" number="3">As we pour upon Him,
+This is not just a waste
+But a fragrant testimony
+Of the sweetness of the Lord.</stanza>
+    <stanza type="chorus" number="">The Lord loving us
+And we loving Him:
+This the fragrance
+Of our love offering.</stanza>
+    <stanza type="verse" number="4">Throughout the past centuries,
+Tens of thousands of precious lives,
+Heart treasures, golden futures
+Have been wasted upon the Lord.</stanza>
+    <stanza type="chorus" number="">To such lovers,
+He's altogether lovely
+And ultimately worthy
+Of their costly ointment.</stanza>
+    <stanza type="verse" number="5">We must love the Lord,
+And grasp the opportunity.
+Yes, love Him to the uttermost:
+A fragrance sweet to God and man.</stanza>
+    <stanza type="chorus" number="">The Lord loving us
+And we loving Him:
+This the fragrance
+Of our love offering.</stanza>
+    <stanza type="verse" number="6">Lord Jesus, we just love You.
+Our life and all we pour on You.
+We waste ourselves upon You.
+In this universe we just love You.</stanza>
+    <stanza type="chorus" number="">We can't help but love You,
+You're the greatest value.
+Our love is just an issue
+Of our seeing of You.</stanza>
+  </lyrics>
+</hymn>

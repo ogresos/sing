@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Roger</firstname>
+  <lastname>Charles</lastname>
+  <email>rogercharls@gmail.com</email>
+  <password>$2y$10$og3Dw/8z3FxC7/4UrzaxNu4Yg6r.s47oMICFLNLOPpDZq7s0enHcC</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>98.74.162.47</ipaddress>
+  <createdate>2011-03-24 23:08:28</createdate>
+  <lastupdateddate>2016-03-08 03:00:48</lastupdateddate>
+  <lastlogindate>2016-03-08 03:00:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="584">Anywhere with Jesus I can safely go</fav>
+    <fav category="default" type="h" num="713">Day by day, and with each passing moment</fav>
+    <fav category="default" type="c" num="12">Deep and wide</fav>
+    <fav category="default" type="h" num="470">Father, Son and Holy Ghost</fav>
+    <fav category="default" type="nt" num="33">Father, long before creation</fav>
+    <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+    <fav category="default" type="c" num="121">God is Spirit, and He comes</fav>
+    <fav category="default" type="h" num="1197">God is light, and in Him there is no darkness at all</fav>
+    <fav category="default" type="lb" num="11">God is love</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="ns" num="39">Grow in me</fav>
+    <fav category="default" type="h" num="114">Hail, Thou once despised Jesus</fav>
+    <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    <fav category="default" type="nt" num="323">I heard the voice of Jesus say</fav>
+    <fav category="default" type="nt" num="711">I know not what awaits me</fav>
+    <fav category="default" type="ns" num="112">I want to tell You, Lord</fav>
+    <fav category="default" type="c" num="18">I'm spending time now</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="688">I've seen the lightning flashing</fav>
+    <fav category="default" type="h" num="1052">I've wandered far away from God</fav>
+    <fav category="default" type="c" num="52">In God's green pastures feeding</fav>
+    <fav category="default" type="nt" num="1048">Just as I am</fav>
+    <fav category="default" type="nt" num="434">Lord, Thou hast won, at length I yield</fav>
+    <fav category="default" type="ns" num="24">Lord, You are more precious than silver</fav>
+    <fav category="default" type="ns" num="362">Lord, for this day, thankful to You</fav>
+    <fav category="default" type="h" num="397">More holiness give me</fav>
+    <fav category="default" type="ns" num="199">Nearer each day</fav>
+    <fav category="default" type="c" num="53">Once I thought the love of God</fav>
+    <fav category="default" type="c" num="1">Praise Him, praise Him, all ye little children</fav>
+    <fav category="default" type="h" num="569">Simply trusting every day</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="375">There is a place of quiet rest</fav>
+    <fav category="default" type="nt" num="439">Utterly abandoned</fav>
+    <fav category="default" type="h" num="1106">We gather together to eat the Lord's supper</fav>
+    <fav category="default" type="nt" num="788">When thou wakest in the morning</fav>
+  </favourites>
+</user>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>"Tao ng kapanglawan"</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KATUBUSAN</category>
+  <numbers><cebuano num="108"/><chinese num="96"/><english num="108"/><korean num="96"/><portuguese num="53"/><russian num="445"/><spanish num="53"/><tagalog num="108"/></numbers>
+  <creators>
+    <author biodate="1838-1876" biolink="">Translated from Philip Paul Bliss</author>
+  </creators>
+  <music>
+    <midiref type="h" num="108"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">"Tao ng kapanglawan"
+Tawag kay Kristo ng Diyos,
+Dala Niya'y kaligtasan
+Aleluya! Manunubos!</stanza>
+    <stanza type="verse" number="2">Dinusta Siya ng tao,
+Sa halip ko n'hatulan,
+Siyang lakas at buhay ko,
+Manliligtas, papurihan!</stanza>
+    <stanza type="verse" number="3">Tayo'y makasalanan,
+Banal na Kordero Siya,
+Ginanap katubusan,
+Aleluya! Purihin Siya!</stanza>
+    <stanza type="verse" number="4">Sa krus Siya'y itinaas,
+"Naganap na" wika Niya;
+Sa langit Siya'y 'tinaas,
+Aleluya! Purihin Siya!</stanza>
+    <stanza type="verse" number="5">Kung Siyang Hari'y dumating,
+Tayo'y Kanyang kukunin,
+Kaya't ang awit natin:
+Tagapagligtas! Purihin!</stanza>
+  </lyrics>
+</hymn>

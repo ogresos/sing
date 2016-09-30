@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ô Seigneur, je T’aime</title>
+  <category></category>
+  <numbers><english num="lb:12"/><french num="lb:12f"/><spanish num="lb:12s"/><vsb num="154"/></numbers>
+  <creators>
+    <author biodate="1937-1998" biolink="">Translated from Howard Higashi</author>
+  </creators>
+  <music>
+    <midiref type="lb" num="12"></midiref>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Ô Seigneur, je T’aime
+Et il n’y a personne comme Toi
+Dans tout l’univers
+Je n’ai aucune personne comme Toi
+Seigneur Jésus, que je T’aime.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dan</firstname>
+  <lastname>Barton</lastname>
+  <email>danwesleybarton@gmail.com</email>
+  <password>$2y$10$9jqaWTIQLHuAPP3uxg87iOk8tzw95HtziXdaqzFmNpJIfBVUnbiJm</password>
+  <gender>M</gender>
+  <country>us</country>
+  <ipaddress>76.185.42.96</ipaddress>
+  <createdate>2009-03-03 18:39:09</createdate>
+  <lastupdateddate>2014-10-25 22:38:35</lastupdateddate>
+  <lastlogindate>2014-10-21 12:06:07</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

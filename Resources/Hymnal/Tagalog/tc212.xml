@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gintong l'walhati, âsilay puso ko</title>
+  <index>true</index>
+  <category></category>
+  <numbers><chinese num="212"/><english num="8212"/><tagalog num="c212"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Chinese</author>
+  </creators>
+  <music>
+    <midiref type="h" num="262"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Gintong l'walhati, âsilay puso ko;
+Nang likas ng Diyos, mab'hagi ko.
+Kalikasan Mo't kalikasan ko;
+Lubos naghalo: kai-sa tayo!</stanza>
+    <stanza type="verse" number="">Hihip! Hihip! Hanging Espiritu!
+Lilim! Lilim! Ulap-âSpiritu!
+Ningas! Ningas! Apo'y ng âSpiritu!
+Hayag Gloria âdibinong Ginto!</stanza>
+  </lyrics>
+</hymn>

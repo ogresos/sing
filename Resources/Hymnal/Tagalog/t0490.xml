@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nang Ama'y di pa kilala</title>
+  <index>true</index>
+  <category>PAGDARANAS KAY KRISTO&amp;mdash;SA ESPIRITU</category>
+  <numbers><cebuano num="490"/><chinese num="368"/><english num="490"/><german num="490"/><korean num="368"/><portuguese num="226"/><russian num="315"/><spanish num="204"/><tagalog num="490"/></numbers>
+  <creators>
+	<author biodate="1903-1972" biolink="www.watchmannee.org">Translated from Watchman Nee</author>
+  </creators>
+  <melody>| 5 5 5 | 5 - 5 | 6 - 6 | 5 - - | ._1 ._1 6 | 2 - 3 | 4 - 4 | 3 - 1 (break) | 3 - 3 | 3 - 3 | 5 - 5 | 5 - - | ._1 7 6 | 5 - 4 | 3 - 2 | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="4"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nang Ama'y di pa kilala,
+Ama'y nasa Iyo sa lupa;
+Kung Siya'y nais makilala,
+Panginoon, kilanlin Ka.</stanza>
+	<stanza type="verse" number="2">Nguni't no'ng nasa lupa Ka,
+Kilala Ka ng iilan,
+Pinagdagsaan ng madla,
+Di Ka nahipo, nakamtan.</stanza>
+	<stanza type="verse" number="3">Ngayon Ika'y Espiritu,
+Noon, nang Ama'y nasa Iyo,
+Ama'y nakilala sa Iyo,
+Ikaw naman sa 'Spiritu.</stanza>
+	<stanza type="verse" number="4">Hindi Ka na dating laman,
+Na napagal sa paglibot;
+Sa 'spiritu ko'y tumahan,
+Sa 'kin Iyong tustos umabot.</stanza>
+	<stanza type="verse" number="5">No'ng tinawag Kang ang Ama,
+Ngayo'y Espiritu Santo,
+Siya'y Ikaw sa ibang porma,
+Nang sa 'ki'y makatahan Ka.</stanza>
+	<stanza type="verse" number="6">Dahil sa 'Spiritu Santo,
+Iyong l'walhati, kalooban,
+Diwa't buhay, nalaman ko,
+Mahiwagang kalikasan.</stanza>
+	<stanza type="verse" number="7">Purihin Ka ng puso ko,
+Ikaw ang katotohanan,
+Walang matalik kaysa Iyo,
+Walang kaibig-ibig man.</stanza>
+  </lyrics>
+</hymn>

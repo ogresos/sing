@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>同過召會</title>
+  <index>true</index>
+  <category>教會的生活</category>
+  <numbers><cebuano num="1236"/><chinese num="ts:716"/><english num="1236"/><german num="1236"/><russian num="536"/><tagalog num="1236"/></numbers>
+  <melody>| ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - (break) | 6. 7/ ._1 6 | ._1. 5/ 5 ._1 | 6 ._2 ._2 ._3 | ._2 - - 0 (break) | ._1. ._2/ ._1 6 | 5. 6/ 5 3 | 5. 6/ 5 4 | 3 5 - - | 6. 7/ ._1 6 | 5 ._1 - ._4 | ._3 - ._2 - (break) | ._1 - - (Chorus) 5 | ._1 ._1 - 6./ 5// | ._1 ._1 - 3./ 4// | 5 5 5 5 (break) | 5 - - 5 | 7 7 - 6./ 5// | ._1 ._3 - ._1 | 6 ._2 ._2 ._3 (break) | ._2 5 ._1 ._2 | ._3 ._3 - ._2./ ._1// | ._3 ._3 - ._2./ ._1// | ._2 ._1 6 ._1 | 5 5 3 4 (break) | 5 ._1 - ._4 | ._3 - ._2 - | ._1 - - 0 |</melody>
+  <layout>
+	<singingstanza>生 命 歌 聲 在 召 會 中， 處 處 可 以 聽 聞， 基 督 是 我 們 的 喜 樂， 彰 顯 在 四 方。 巴 比 倫 和 世 俗 的 事 與 我 無 關 無 分， 我 們 已 經 回 家， 在 美 地 上。 在 靈 中 同 過 召 會， 在 召 會 地 方 立 場； 弟 兄 們 同 過 召 會， 我 們 已 經 回 家； 跟 隨 眾 召 會 同 過 召 會， 直 到 全 地 都 同 唱， 哦 阿 利 路 亞！ 基 督 美 地！</singingstanza>
+	<columns>2</columns>
+  </layout>
+  <music>
+	<midiref type="h" num="324"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">生命歌聲在召會中，
+處處可以聽聞，
+基督是我們的喜樂，
+彰顯在四方。
+巴比倫和世俗的事
+與我無關無分，
+我們已經回家，
+在美地上。</stanza>
+	<stanza type="chorus" number="">在靈中同過召會，
+在召會地方立場；
+弟兄們同過召會，
+我們已經回家；
+跟隨眾召會同過召會，
+直到全地都同唱，
+哦阿利路亞！基督美地！</stanza>
+	<stanza type="verse" number="2">一切背景，所有道理，
+已經遠遠拋棄；
+世俗人情，罪中之樂，
+更是全絕離。
+耶穌基督大愛
+正在我們心中洋溢，
+我們決不離開基督美地。</stanza>
+	<stanza type="verse" number="3">『我要把我的召會
+建造在這磐石上！』
+主既如此豫言，
+祂也必如此成就。
+將各肢體按祂意思，
+配搭在身體上，
+建造一起，
+在基督美地上！</stanza>
+	<stanza type="verse" number="3">現今主正全地
+快速開展祂的恢復，
+所有地方召會，
+同心向著主求禱，
+速速降臨結束時代，
+迎娶祂的新婦。
+阿利路亞歡呼：
+基督美地！</stanza>
+	<stanza type="note" number="">註：『過召會』
+係譯自英詩新辭
+『Churching。』</stanza>
+  </lyrics>
+</hymn>

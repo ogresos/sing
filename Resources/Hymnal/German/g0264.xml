@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>So siegreich Deine Liebe, Herr</title>
+  <index>true</index>
+  <category>FÜLLE DES GEISTES&amp;mdash;Als das Feuer</category>
+  <numbers><cebuano num="264"/><chinese num="209"/><english num="264"/><french num="44"/><german num="264"/><korean num="209"/><portuguese num="137"/><russian num="51"/><tagalog num="264"/></numbers>
+  <creators>
+	<author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <melody>| 0. 0 5_./ | 1 1/ 2 2/ | 3 2/ 1 5_./ | 6_. 6_./ 1 6_./ | 5_..( 5_.) 5_./ (break) | 1 1/ 2 2/ | 3 4/ 5 3//( 2//) | 1 1/ 2 2/ | 1.( 1) 1/ | 3 3/ 2 2/ | 1.( 1) 0/ |</melody>
+  <layout>
+	<singingstanza>So sieg -- reich Dei -- ne Lie -- be, Herr, In mei -- ner See -- le fließt; Nun zieht mein Herz nicht mehr um -- her, In Gott ver -- wur -- zelt ist, In Gott ver -- wur -- zelt ist.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="177"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">So siegreich Deine Liebe, Herr,
+In meiner Seele fließt;
+Nun zieht mein Herz nicht mehr umher,
+In Gott verwurzelt ist,
+In Gott verwurzelt ist.</stanza>
+	<stanza type="verse" number="2">Mög Gottes Feuer glühn in mir,
+Das alte Selbst verzehrn;
+Brenn weg die letzte eitle Gier,
+Und jeden Berg entfern!
+Und jeden Berg entfern!</stanza>
+	<stanza type="verse" number="3">An Pfingsten warst als Feuer hier,
+Brenn meine Sünden fort;
+Geist Gottes, ja, ich ruf zu Dir,
+Mich läutre durch Dein Wort,
+Mich läutre durch Dein Wort.</stanza>
+	<stanza type="verse" number="4">Mich läutre durch Dein Feuer, Herr,
+Mein Herz für Dich gewinn;
+Breit aus in mir Dein Leben mehr,
+Bis ganz geheiligt bin,
+Bis ganz geheiligt bin.</stanza>
+	<stanza type="verse" number="5">Wie standfest meine Seele ist,
+Wird wanken nimmermehr,
+Mein Herz Dich, Christus, reich genießt,
+Ich liebe Dich so sehr,
+Ich liebe Dich so sehr.</stanza>
+  </lyrics>
+</hymn>

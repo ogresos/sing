@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Tu changeas mon deuil en une danse, Seigneur</title>
+  <index>true</index>
+  <category>Les écritures en cantiques</category>
+  <numbers><chinese num="ts:5"/><dutch num="15"/><english num="1334"/><french num="213"/><korean num="906"/></numbers>
+  <links>
+    <link type="ref">Psalms 30:11-12</link>
+  </links>
+  <music>
+    <midiref type="h" num="1334"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Tu changeas mon deuil en une danse, Seigneur,
+Mes larmes Tu essuyas.
+Tu changeas mon deuil en une danse, Seigneur,
+Mon cœur de joie Tu comblas.
+Je ne serai plus muet, Tu m'as libéré,
+C'est la victoire !
+Seigneur, mon Dieu, à Toi la gloire et l'honneur à jamais !</stanza>
+  </lyrics>
+</hymn>

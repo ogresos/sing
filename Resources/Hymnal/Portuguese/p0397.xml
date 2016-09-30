@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>A igreja é meu lar</title>
+  <index>true</index>
+  <category>Como Nosso Lar E Descanso</category>
+  <numbers><cebuano num="1233"/><chinese num="ts:709"/><english num="1233"/><french num="156"/><german num="1233"/><korean num="826"/><portuguese num="397"/><russian num="535"/><tagalog num="1233"/></numbers>
+  <melody>| 0 - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 3/ 4/ | 5. 1/ 1 | 1 7_. 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_. 4 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - - (break) | (Chorus) 5 - - | 4. 3/ 2 | 3( - - | 3) - 5_./ 5_./ | 1. 1/ 1 | 1. 7_./ 1 | 2( - - (break) | 2) - 5_. | 5_. 1 2 | 3 - 1/ 7_./ | 6_.. 4/ 4 | 4 - 4/ 4/ | 3. 2/ 1 | 7_. 1 2 | 1( - - | 1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="1233"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">A igreja é meu lar,
+Nunca mais vou vagar;
+Se alegra o meu coração.
+A luta cessou,
+Cristo Se dispensou
+Como vida a mim, que porção!</stanza>
+	<stanza type="chorus" number="">A igreja é meu lar;
+Foi aqui que cessei de vagar;
+Enquanto viver,
+Cantarei com prazer:
+"Aleluia! a igreja é meu lar!"</stanza>
+	<stanza type="verse" number="2">Descanso e prazer
+Deus aqui pode ter
+E o Seu coração alegrar.
+Seu lar Deus nos fez,
+Satanás não tem vez;
+Deus expressa a glória em Seu lar.</stanza>
+	<stanza type="chorus" number="">A igreja é Seu lar;
+Deus aqui encontrou o Seu lar;
+Enquanto viver
+Cantarei com prazer:
+"Aleluia! a igreja é Seu lar!"</stanza>
+  </lyrics>
+</hymn>

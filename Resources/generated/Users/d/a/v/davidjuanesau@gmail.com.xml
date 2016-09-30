@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>David Juan</firstname>
+  <lastname>Esaú</lastname>
+  <email>davidjuanesau@gmail.com</email>
+  <password>$2y$10$79y10GFRwbnPznVy7Su55eeeE5pEIa6z.LSon5/YrR3UcXhH.a87q</password>
+  <gender/>
+  <country>es</country>
+  <ipaddress>83.56.45.215</ipaddress>
+  <createdate>2016-04-30 08:21:12</createdate>
+  <lastupdateddate>2016-05-02 06:51:33</lastupdateddate>
+  <lastlogindate>2016-04-30 08:33:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="878">Conquering now and still to conquer</fav>
+    <fav category="default" type="h" num="882">Faith is the Victory</fav>
+    <fav category="default" type="h" num="324">Far away the noise of strife upon my ear</fav>
+    <fav category="default" type="h" num="872">Fight the good fight with all thy might</fav>
+    <fav category="default" type="h" num="387">I am Thine, O Lord, I have heard Thy voice</fav>
+    <fav category="default" type="c" num="81">Jesus bids us shine</fav>
+    <fav category="default" type="h" num="177">Majestic sweetness sits enthroned</fav>
+    <fav category="default" type="h" num="833">The Church's one foundation</fav>
+  </favourites>
+</user>

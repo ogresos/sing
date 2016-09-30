@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pastol, kagila-gilalas</title>
+  <index>true</index>
+  <category>ANG EKKLESIA&amp;mdash;BILANG ANG KAWAN NG DIYOS</category>
+  <numbers><cebuano num="1221"/><chinese num="ts:711"/><dutch num="110"/><english num="1221"/><german num="1221"/><portuguese num="393"/><russian num="229"/><spanish num="369"/><tagalog num="1221"/></numbers>
+  <melody>| 5/ 5/ 5/ 5/ 6/ 7/ | ._1. 5. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - (break) | 6/ 6/ 6/ ._1/ 7/ 6/ | 5. ._1. | ._1/ ._1/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | (Chorus) ._3.( ._3/) ._2#/ ._3/ | ._1. 5. | ._3/ ._2/ ._1/ ._1/ 7/ ._1/ | ._2 - - (break) | ._3/ ._3/ ._3/ ._2/ ._1/ 6/ | 5. ._1. | 7/ 7/ 7/ 7/ ._1/ ._2/ | ._1 - - |</melody>
+  <music>
+	<midiref type="h" num="260"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pastol, kagila-gilalas!
+Hesus Pangino'n ko;
+Sa kulungan inilabas,
+Sa pastulan patungo.</stanza>
+	<stanza type="chorus" number="">Buhay-ekklesia,
+Pigingang masagana!
+Dito'y may pagkakaisa,
+Diyos nag-utos pagpa'la.</stanza>
+	<stanza type="verse" number="2">Nasa paghati-hati,
+Tayo'y Kanyang hinanap,
+Nang madala sa l'walhati,
+Sa 'spiritu maganap.</stanza>
+	<stanza type="verse" number="3">Hesus Mismo 'ting pastulan,
+'Ting tunay na pagkain;
+Tupang Kanyang tinutustusan
+Sa pagpupulong natin.</stanza>
+	<stanza type="verse" number="4">Bundok mataas tirahan,
+Hamog anong sariwa;
+Wala na ang kauhawan,
+Tubig buhay sagana.</stanza>
+	<stanza type="verse" number="5">Kristo'y pahinga't tamasa,
+Dito'y walang pangamba;
+Sa mayamang presensiya Niya,
+Tupa'y napepreserba.</stanza>
+  </lyrics>
+</hymn>

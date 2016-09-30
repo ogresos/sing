@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Amelia</firstname>
+  <lastname/>
+  <email>ameliabkoz@gmail.com</email>
+  <password>$2y$10$QCQKli3DY9meeosxhSXsUOTSEKfe2iSV.nApY.FfvF3HAc7XwNIGa</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.131.172.14</ipaddress>
+  <createdate>2015-07-08 03:10:44</createdate>
+  <lastupdateddate>2015-07-08 03:40:50</lastupdateddate>
+  <lastlogindate>2015-07-08 03:11:29</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="119">Hallelujah, He is risen</fav>
+    <fav category="default" type="ns" num="283">I am crucified with Christ</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="1063">Jesus, I will trust Thee</fav>
+    <fav category="default" type="h" num="8">Praise God, from whom all blessings flow</fav>
+    <fav category="default" type="ns" num="120">Seek ye first</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+  </favourites>
+</user>

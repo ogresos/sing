@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Gib auf die Welt, Christus gewinn</title>
+  <index>true</index>
+  <category>EVANGELIUM&amp;mdash;Jeder braucht Christus</category>
+  <numbers><cebuano num="1025"/><chinese num="437"/><english num="1025"/><german num="1025"/><korean num="437"/><portuguese num="300"/><russian num="171"/><spanish num="274"/><tagalog num="1025"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <guitarChords>| C - - | C. F. | C - - | G. G7. | C. C. | C. C7. | F. F. | G. G7. | C. C. | C. F. | C. C. | G. G7. | C. C. | C. C7. | F. F. | G. G7. | C. C. |</guitarChords>
+  <melody>| 0. 5/ 4#/ 5/ | ._1. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ (break) | ._1. (Chorus) 5/ 5/ 5/ | 5. ._1/ 7/ 6/ | 5. 5/ 4/ 3/ | 4. 6/( 5/) 2/ (break) | 3. 5/ 4#/ 5/ | ._1 ._1/ ._3/( ._2/) ._1/ | 6. ._1/ 7/ 6/ | 5. 5/( 6/) 7/ | ._1. 0. |</melody>
+  <layout>
+	<singingstanza>Gib auf die Welt, Chris -- tus ge -- winn, Denn was dein Herz braucht, ist Er. Was kannst du sonst noch wün -- schen dir? Al -- les ist nich -- tig und leer. Er ist so reich, Er ü -- ber -- fließt, Was du auch brauchst, gibt der Herr! Er ist so gut, Er ist so süß, Was du auch denkst, Er ist mehr!</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="922"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Gib auf die Welt, Christus gewinn,
+Denn was dein Herz braucht, ist Er.
+Was kannst du sonst noch wünschen dir?
+Alles ist nichtig und leer.</stanza>
+	<stanza type="chorus" number="">Er ist so reich, Er überfließt,
+    Was du auch brauchst, gibt der Herr!
+Er ist so gut, Er ist so süß,
+    Was du auch denkst, Er ist mehr!</stanza>
+	<stanza type="verse" number="2">Gib auf die Welt, Christus gewinn,
+Alles ist Er, was du brauchst,
+Empfängst du Ihn, der Liebe ist,
+Nichts andres willst, Ihn nur schaust.</stanza>
+	<stanza type="verse" number="3">Ja, diese Welt ist sehr groß,
+Aber dein Herz ist sehr klein,
+Doch, was dein Herz braucht, kann die Welt 
+Niemals erfüllen allein.</stanza>
+	<stanza type="verse" number="4">Hast du den Herrn, Freude genießt;
+Doch ohne Ihn hast nur Leid;
+Wo Christus ist, herrscht Tageslicht;
+Doch ohne Ihn Dunkelheit.</stanza>
+  </lyrics>
+</hymn>

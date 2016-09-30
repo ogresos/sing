@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Debbie</firstname>
+  <lastname/>
+  <email>debbiechamberlain92@gmail.com</email>
+  <password>$2y$10$0W5dfXD7X.pzZTFr94q2Oun129yXGhL2Wp.9gAvjLPbhU2y15vyie</password>
+  <gender/>
+  <country>nz</country>
+  <ipaddress>116.251.198.138</ipaddress>
+  <createdate>2016-07-06 19:24:31</createdate>
+  <lastupdateddate>2016-07-06 19:28:59</lastupdateddate>
+  <lastlogindate>2016-07-06 19:25:48</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="82">Down from His glory</fav>
+  </favourites>
+</user>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ezequiel Dias</firstname>
+  <lastname>Cruz</lastname>
+  <email>ezequielceilandias@gmail.com</email>
+  <password>$2y$10$lH/6q8rtgaX4y//4U.8yi.6pl94wejNp46Pe0BzMOICY4PlAHL4LK</password>
+  <gender/>
+  <country>br</country>
+  <ipaddress>177.96.202.190</ipaddress>
+  <createdate>2014-09-28 00:59:45</createdate>
+  <lastupdateddate>2016-04-16 12:44:19</lastupdateddate>
+  <lastlogindate>2016-04-16 12:44:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="462">How shall I follow Him I serve</fav>
+  </favourites>
+</user>

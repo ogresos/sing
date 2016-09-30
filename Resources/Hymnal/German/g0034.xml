@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Vater, Deine Liebe sah uns</title>
+  <index>true</index>
+  <category>ANBETUNG DES VATERS&amp;mdash;Seine Erwählung</category>
+  <numbers><english num="34"/><french num="6"/><german num="34"/><portuguese num="25"/><russian num="14"/><spanish num="23"/><tagalog num="34"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 6. 5#/ 6 4 | 5. 4#/ 5 3 | 6. 5/ 4/ 3/ 2/ 1/ | 7_.( - 5 4) (break) | 3 - 5 - | 4 - 6_. - | 7_. - 2 - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>Va -- ter, Dei -- ne Lie -- be sah uns Lan -- ge vor der Schö -- pfungs -- zeit: Sie zog uns so stark zu Je -- sus, Dräng -- te sanft mit Lieb -- lich -- keit, Und sie hält uns, und sie hält uns, Jetzt und bis in E -- wig -- keit, Jetzt und bis in E -- wig -- keit.</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="26"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Vater, Deine Liebe sah uns
+    Lange vor der Schöpfungszeit:
+Sie zog uns so stark zu Jesus,
+    Drängte sanft mit Lieblichkeit,
+Und sie hält uns, und sie hält uns,
+    Jetzt und bis in Ewigkeit,
+    Jetzt und bis in Ewigkeit.</stanza>
+	<stanza type="verse" number="2">Deine Liebe nie sich ändert,
+    Oh wie reich sie sich ergiesst.
+Sie hält uns in Deiner Ruhe,
+    Wie ein Band sie uns umschließt.
+Gott und Vater, Gott und Vater,
+    Hin zu Dir Anbetung fließt,
+    Hin zu Dir Anbetung fließt.</stanza>
+	<stanza type="verse" number="3">Gott der Liebe, Deine Gnade
+    Tun wir kund nach Deinem Plan,
+Bis wir unsre Krone abtun,
+    Ewiglich Dich beten an;
+Preis, Anbetung, Preis, Anbetung,
+    Sei dem Vater und dem Lamm!
+    Sei dem Vater und dem Lamm!</stanza>
+  </lyrics>
+</hymn>

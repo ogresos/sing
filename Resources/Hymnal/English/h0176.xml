@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, wondrous Savior</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Beauty</category>
+  <numbers><chinese num="145"/><english num="176"/><korean num="145"/><tagalog num="176"/></numbers>
+  <creators>
+    <author biodate="1847-1890" biolink="">Daniel Arthur McGregor</author>
+    <composer biodate="1784-1872" biolink="">Thomas Hastings</composer>
+  </creators>
+  <meter>6.5.6.5.D</meter>
+  <hymncode>55433244323</hymncode>
+  <key>D Major</key>
+  <time>3/2</time>
+  <tempo>100</tempo>
+  <chords>| C - - - - - | Dm - - - - - | G7 - - - - - | C - - - - - | C/E - - F - - | C/E - - C - - | C - C/G - G7 - | C - - - - - | G - - - - - | D - - - - - | D7 - - - - - | G - - G7 - - | C - - F/C - - | C/E - - Am - - | F - C/G - G7 - | C - - - - - |</chords>
+  <guitarChords>| C - - - - - | G - - - - - | G7 - - - - - | C - - - - - | C - - - G - | C - - - - - | C - G - G7 - | C - - - - - | G - - - - - | D - - - - - | D7 - - - - - | G - - G7 - - | C - - - G - | C - - - - - | C - G - G7 - | C - - - - - |</guitarChords>
+  <melody>| 5 - - 5 4 3 | 3 - 2 - 0 - | 4 - - 4 3 2 | 3 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 5 4 3 - 2 - | 1 - - - - - (break) | 7 - - 7 6 5 | 5 - 4# - 0 - | 6 - - 6 5 4# | 5 - - - - - (break) | 5 - - 5 6 7 | ._1 - 5 - 0 - | 1 2 3 - 2 - | 1 - - - - - |</melody>
+  <layout>
+    <singingstanza>Je -- sus, won -- drous Sav -- ior! Christ, of kings the King! An -- gels fall be -- fore Thee, Pros -- trate, wor -- ship -- ping; Fair -- est they con -- fess Thee In the heav'n a -- bove. We would sing Thee fair -- est Here in hymns of love.</singingstanza>
+    <columns>2</columns>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj144.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="32">e0176_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, wondrous Savior!
+  Christ, of kings the King!
+Angels fall before Thee,
+  Prostrate, worshipping;
+Fairest they confess Thee
+  In the heav'n above.
+We would sing Thee fairest
+  Here in hymns of love.</stanza>
+    <stanza type="verse" number="2">All earth's flowing pleasures
+  Were a wintry sea;
+Heav'n itself without Thee
+  Dark as night would be.
+Lamb of God! Thy glory
+  Is the light above.
+Lamb of God! Thy glory
+  Is the life of love.</stanza>
+    <stanza type="verse" number="3">Life is death, if severed
+  From Thy throbbing heart.
+Death with life abundant
+  At Thy touch would start.
+Worlds and men and angels
+  All consist in Thee,
+Yet Thou camest to us
+  In humility.</stanza>
+    <stanza type="verse" number="4">Jesus! all perfections
+  Rise and end in Thee;
+Brightness of God's glory
+  Thou, eternally.
+Favored beyond measure
+  They Thy face who see;
+May we, gracious Savior,
+  Share this ecstasy.</stanza>
+  </lyrics>
+</hymn>
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>讚美羔羊</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><cebuano num="185"/><chinese num="ts:24"/><english num="185"/><german num="185"/><tagalog num="185"/></numbers>
+  <creators>
+	<author biodate="" biolink="">Translated from H. d'A. Champney</author>
+  </creators>
+  <melody>| 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 5./ 6// 5/ 3/ | 2 0 (break) | 5./ 6// 5/ 3/ | ._1./ ._2// ._1/ 6/ | 7./ ._1// 7/ 6/ | 5 - (break) | (Chorus) ._1./ ._1// ._1/ ._1/ | ._1/ 5/ 3/ 5/ | 6./ 6// 6/ ._1/ | 7. 0/ (break) | ._1./ ._1// ._1/ ._1/ | ._2/ ._1/ 7/ 6/ | 5/ 5/ 6./ 7// | ._1. 0/ |</melody>
+  <layout>
+	<singingstanza>恩 主， 我 們 阿 利 路 亞 向 你 高 聲 唱， 永 遠 讚 美 你 的 價 值 超 萬 人 之 上。 讚 美 羔 羊！ 你 真 是 配！ 永 遠 的 歌 聲。 阿 利 路 亞！ 阿 利 路 亞！ 讚 美 主！ 阿 們！</singingstanza>
+  </layout>
+  <music>
+	<midiref type="h" num="185"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">恩主，我們阿利路亞
+向你高聲唱，
+永遠讚美你的價值
+超萬人之上。</stanza>
+	<stanza type="chorus" number="">讚美羔羊！你真是配！
+永遠的歌聲。
+阿利路亞！阿利路亞！
+讚美主！阿們！</stanza>
+	<stanza type="verse" number="2">讚美羔羊！你真是配！
+你寶血流出，
+贖回我們歸神
+作王並祭司國度。</stanza>
+	<stanza type="verse" number="3">阿利路亞！恩主耶穌，
+你愛不止息；
+我們屬你，永遠屬你，
+與你永合一。</stanza>
+	<stanza type="verse" number="4">讚美主！哦，阿利路亞！
+誰不唱此歌？
+來自各族各方各國
+眾聖同唱和。</stanza>
+  </lyrics>
+</hymn>

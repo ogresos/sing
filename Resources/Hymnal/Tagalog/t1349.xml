@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sa umaga't hapon, magpunla ng awa</title>
+  <index>true</index>
+  <category>PAGPAPAHAYAG NG EBANGHELYO&amp;mdash;PAGHAHASIK</category>
+  <numbers><chinese num="667"/><english num="1349"/><french num="176"/><russian num="149"/><spanish num="421"/><tagalog num="1349"/></numbers>
+  <creators>
+    <author biodate="1834-1878" biolink="">Translated from Knowles Shaw</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1167"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sa umaga't hapon, magpunla ng awa,
+Diligan ng luha at panalangin,
+Hintayin ang ani at pag panahon na,
+Buong kagalakang ani ay dalhin.</stanza>
+    <stanza type="chorus" number="">Ani ay dalhin, ani ay dalhin!
+At sa kagalakan, ani ay dalhin!
+Ani ay dalhin, ani ay dalhin,
+At sa kagalakan, ani ay dalhin!</stanza>
+    <stanza type="verse" number="2">Magpunla sa t'wina, bagyo ma'y sumapit,
+Huwag katatakutan bugso ng hangin;
+Di-kalalaunan, tag-ani'y sasapit,
+At may kagalakang ani ay dalhin.</stanza>
+    <stanza type="verse" number="3">Luha ma'y tumulo tayo'y magpatuloy,
+Sa Diyos lang alay pagpapagal natin;
+Pagtigil ng luha, galak ang dadaloy,
+At may kagalakang ani'y dadalhin.</stanza>
+  </lyrics>
+</hymn>

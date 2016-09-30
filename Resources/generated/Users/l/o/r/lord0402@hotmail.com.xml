@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Chloee</firstname>
+    <lastname>Lu</lastname>
+    <email>lord0402@hotmail.com</email>
+    <password>$1$D.wpJ8Z0$iymjAUd995K4d2apa14hJ/</password>
+    <gender>F</gender>
+    <country>Taiwan</country>
+    <ipaddress>61.220.134.202</ipaddress>
+    <createdate>2008-11-08 00:51:41</createdate>
+    <lastupdateddate>2010-12-24 00:50:44</lastupdateddate>
+    <lastlogindate>2010-12-24 00:50:00</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+        <fav category="default" type="nt" num="1048">Just as I am</fav>
+        <fav category="default" type="nt" num="284">Loved with everlasting love</fav>
+        <fav category="default" type="nt" num="600">My God, my Portion</fav>
+        <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+        <fav category="default" type="nt" num="432">O Love, that wilt not let me go</fav>
+        <fav category="default" type="nt" num="1307">The day approaches; Jesus soon is coming</fav>
+        <fav category="default" type="nt" num="431">Thy mighty love, O God, constraineth me</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="nt" num="789">What a Friend we have in Jesus</fav>
+        <fav category="default" type="nt" num="642">Within the veil</fav>
+    </favourites>
+</user>

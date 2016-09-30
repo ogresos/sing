@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Pagkalalum, O Ginoo</title>
+  <index>true</index>
+  <category>PAGDAYEG SA GINOO&amp;mdash;SA GUGMA NIYA</category>
+  <numbers><cebuano num="152"/><chinese num="130"/><english num="152"/><french num="27"/><german num="152"/><korean num="130"/><portuguese num="79"/><russian num="31"/><spanish num="76"/><tagalog num="152"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - (break) | 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - (break) | 3 - {1( 2 3)} 2 - 2 - | 1 - {6_.( 7_. 1)} 7_. - 7_. - | 6_. - {6_.( 7_. 1)} 2 - 2 - | 1 - {2( 1 2)} (.3 - - - (break) | 6_. - {6_.( 7_. 1)} 7_. - 6_. - | 7_. - {7_.( 1 2)} 1.( 7_./) 6_. - | 3 - {2( 3 4)} 3.( 2/) 1 - | 2.( 1/) 7_. - 6_. - - - |</melody>
+  <music>
+	<midiref type="h" num="152"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Pagkalalum, O Ginoo,
+Sa gugma Mo kanako!
+Lalum pa sa kadagatan,
+Dili gayud matugkad!
+Gugma Mo nagpakamatay,
+Maangkon ko lang Ikaw;
+Naghiusa nako Nimo,
+Naghimong kabahin Mo.</stanza>
+	<stanza type="verse" number="2">Gugma Mo dagha'g gihatag,
+Di sarang nga maasoy,
+Pakig-usa Mo kanako
+Maoy labaw sa tanan.
+Kay nabatonan ko Ikaw,
+Sangkap sa akong tanan;
+Kanunayng matagamtaman,
+Kinabuhi ko Ikaw.</stanza>
+	<stanza type="verse" number="3">Gugma maoy pagpadayag
+Sa kaugalingon Mo,
+Naghimo's kinabuhi ko
+Sibo sa diosnong plano.
+Grasya Mo pagkadagaya,
+Adlaw-adlaw sangkap ko,
+Gihigugma, gitagad Mo,
+Pagkatam-is, Ginoo.</stanza>
+	<stanza type="verse" number="4">Unsay makabulag nako?
+Wala, kay ang gugma Mo
+Hangtud man sa katapusan,
+Makig-usa, magsakot!
+Ako Imo, Ikaw ako,
+Hingpit gayud nga usa!
+Magpamatuod's gugma Mo:
+Mag-usa nato's dayon!</stanza>
+  </lyrics>
+</hymn>

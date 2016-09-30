@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Lauren</firstname>
+<lastname>Hargrove</lastname>
+<email>lehargrove@gmail.com</email>
+<password>$1$pnJHVse1$VZXAfRGujm/RSHRF6oHJ/.</password>
+<gender>F</gender>
+<country>United States</country>
+<ipaddress>68.81.254.178</ipaddress>
+<createdate>2009-04-21 23:14:51</createdate>
+<lastupdateddate>2009-09-15 18:29:49</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="427">O Love divine, how sweet Thou art</fav>
+        <fav category="default" type="nt" num="152">O how deep and how far-reaching</fav>
+    </favourites>
+</user>

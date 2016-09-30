@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Реки с водою живою</title>
+  <index>true</index>
+  <category>ПОЛНОТА ДУХА&amp;mdash;КАК ЖИВОЙ ВОДЫ</category>
+  <numbers><cebuano num="251"/><chinese num="203"/><english num="251"/><korean num="203"/><portuguese num="133"/><russian num="49"/><spanish num="117"/><tagalog num="251"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from G. R. H. Wood</author>
+  </creators>
+  <melody>| 3 4 3 2 6_. 7_. | 1 - - 5_. - - | 1 2 1 6_. 7_. 1 | 2 - - - - - (break) | 3 2 1 1 7_. 6_. | 5_. - - 1 - - | 1 7_. 6_. 7_. 5_. 2 | 1 - - - - - (break) | (Chorus) 3 3 3 3 4 5 | 5 - - 2 - - | 2 2 2 2 1 2 | 3 - - - - - (break) | 3 3 3 3( 4) 5 | 5 - - 4# - - | 5 4 1# 2 3 2 | 1 - - - - - |</melody>
+  <layout>
+    <singingstanza>Ре -- ки с_во -- до -- ю жи -- во -- ю, Что от прес -- то -- ла те -- кут, Бла -- го -- сло -- ве -- ни -- ем пол -- ны Лишь от Ии -- су -- са и -- дут.  Ре -- ки с_во -- до -- ю жи -- во -- ю Жиз -- нью сво -- бод -- ной пол -- ны.  Ны -- не, о мой Спа -- си -- тель, Че -- рез ме -- ня Ты их шли.</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="251"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Реки с водою живою,
+Что от престола текут,
+Благословением полны
+Лишь от Иисуса идут.</stanza>
+    <stanza type="chorus" number="">Реки с водою живою
+Жизнью свободной полны.
+Ныне, о мой Спаситель,
+Через меня Ты их шли.</stanza>
+    <stanza type="verse" number="2">Пусть тот, кто жаждет, приходит:
+Здесь изобильный запас.
+Всем нам без платы даётся
+Чистая эта вода.</stanza>
+    <stanza type="verse" number="3">О, очищай, мой Спаситель,
+Вычисти всё из меня.
+Благословенным каналом
+Сделай для этого дня.</stanza>
+    <stanza type="verse" number="4">Опустоши и наполни,
+Сделай полезным меня;
+Дай на Тебя полагаться,
+Слушаться только Тебя.</stanza>
+    <stanza type="verse" number="5">Только тогда будут реки
+Через меня протекать,
+И полноту Твою смогут
+Люди другие познать.</stanza>
+    <stanza type="verse" number="6">Пусть лишь служенье Иисусу
+Будет желаньем моим;
+Всё, мой Господь, полагаю
+Ныне к ногам я Твоим.</stanza>
+  </lyrics>
+</hymn>

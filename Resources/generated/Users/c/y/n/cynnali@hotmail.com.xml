@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Cindy</firstname>
+  <lastname>Ali</lastname>
+  <email>cynnali@hotmail.com</email>
+  <password>$2y$10$80uy0z0geJ6yzmrGtLVlFO95vlWd97QDfwfrimI1ErN9bLhpN5osK</password>
+  <gender/>
+  <country>ca</country>
+  <ipaddress>50.101.170.105</ipaddress>
+  <createdate>2014-06-24 23:50:15</createdate>
+  <lastupdateddate>2014-06-24 23:51:02</lastupdateddate>
+  <lastlogindate>2014-06-24 23:51:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hebrews 1:3</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <creators>
+    <composer biodate="" biolink="" fullname="Rebecca Fan">R. F.</composer>
+  </creators>
+  <hymncode>155554311123443212355</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - G - | Am - C/E - | F - G - | C - G - | C - G - | Am - C/E - | F - Dm7 - | Gsus4 - G - | C - Em - | F - C - | Am - C/E - | F - G - | C - Am - | F - Dm7 - | G - G7 - | C - - - ||</chords>
+  <melody>| 0 - - 1 | {5 5 5} {5 4 3} | 1. 1/ {1( 2) 3} | {4 4 3} {2 1 2} | 3.( 5/) 5. 1/ (break) | {5 5 5/ 5/} {5 4 3} | 1 - {1( 2) 3} | 4 - 4. 5/ | 5 - - 6/ 7/ (break) | ._1 - {7 6 5} | {6 5 4} 5 - | 0 1 1 1/ 1/ | 4.( 3/) 2. 2/ (break) | 5.( 4/) 3 - | 4 - - 4/( 5/) | 5 - 7_. 7_./ 2/ | 1 - - 0 ||</melody>
+  <layout>
+    <singingstanza end="-1">Who, be -- ing the ef -- ful -- gence of His glo -- ry and the im -- press of His sub -- stance and up -- hold -- ing and bear -- ing all things by the word of His power, hav -- ing made pu -- ri -- fi -- ca -- tion of sins, sat down on the right hand, the right hand of the Ma -- jes -- ty on high.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Hebrews 1:3</link>
+  </links>
+  <music>
+    <midi location="ns" length="39">ns0445.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Who, being the effulgence of His glory
+And the impress of His substance
+And upholding and bearing all things
+By the word of His power,
+Having made purification of sins,
+Sat down on the right hand,
+the right hand of
+The Majesty on high.</stanza>
+  </lyrics>
+</hymn>

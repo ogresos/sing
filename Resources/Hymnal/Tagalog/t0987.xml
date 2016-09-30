@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nang mapuno ng papuri ang langit</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;ANG TAGAPAGLIGTAS</category>
+  <numbers><chinese num="672"/><english num="987"/><korean num="672"/><portuguese num="441"/><tagalog num="987"/></numbers>
+  <creators>
+    <author biodate="1859-1918" biolink="">Translated from John Wilbur Chapman</author>
+  </creators>
+  <music>
+    <midiref type="h" num="987"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Nang mapuno ng papuri ang langit,
+Nang ang sala ay lubhang maitim,
+Si Hesus ay isinilang ng birhen&amp;mdash;
+Namuhay Siya, tularan sa akin!</stanza>
+    <stanza type="chorus" number="">Nam'hay, umibig; Nam'tay, nagsagip;
+Nalibing, nag-alis ng kas'lanan!
+Bumangon, nagbigay ng katuwiran:
+Siya'y babalik&amp;mdash;O kaluwalhatian!</stanza>
+    <stanza type="verse" number="2">Nang Siya'y dalhin sa bundok ng Kalbaryo,
+Namatay nang ipako sa puno;
+Tinanggihan, hinamak, ininsulto;
+Sala'y dala ng Manunubos ko.</stanza>
+    <stanza type="verse" number="3">Nang sa hardin, kanilang iniwan Siya
+Humimlay, Siya sa dusa'y lumaya;
+Mga anghel nagbantay sa libingan;
+Pag-asa ng walang maasahan.</stanza>
+    <stanza type="verse" number="4">Nang hindi na makubli ng libingan,
+Nang maalis ang batong pangharang;
+Bumangon Siyang gupo ang kamatayan;
+Sumalangit, Poon kailan pa man.</stanza>
+    <stanza type="chorus" number="">5Pagbalik Niya'y tutunog ang trumpeta
+Glorya Niya sa langit makikita,
+Mga minamahal ko ay dadalhin,
+Manliligtas, si Hesus ay akin!</stanza>
+  </lyrics>
+</hymn>

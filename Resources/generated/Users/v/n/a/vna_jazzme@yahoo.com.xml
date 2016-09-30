@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>vina</firstname>
+    <lastname>fransisca</lastname>
+    <email>vna_jazzme@yahoo.com</email>
+    <password>kAidmWaVyStpvRKZsxegFQ%3D%3D</password>
+    <gender>F</gender>
+    <country>id</country>
+    <ipaddress>110.136.134.108</ipaddress>
+    <createdate>2010-01-20 04:32:36</createdate>
+    <lastupdateddate>2010-01-28 09:35:54</lastupdateddate>
+    <lastlogindate>2010-01-20 04:33:08</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="160">Give Yourself to Love the Lord</fav>
+        <fav category="default" type="ns" num="48">God wants someone to love Him</fav>
+        <fav category="default" type="ns" num="299">I'm so attracted by Your love</fav>
+        <fav category="default" type="ns" num="46">Lord, You love me so immensely</fav>
+        <fav category="default" type="ns" num="199">Nearer each day</fav>
+        <fav category="default" type="lb" num="41">Pursue Him and know Him</fav>
+        <fav category="default" type="ns" num="311">Two Greatest Prayers of Paul</fav>
+    </favourites>
+</user>

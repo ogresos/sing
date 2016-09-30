@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Ó Deus Pai, da vida a fonte és</title>
+  <index>true</index>
+  <category>Seu Nome, Sua Palavra, Sua Glória</category>
+  <numbers><chinese num="ts:620"/><dutch num="55"/><english num="1081"/><german num="1081"/><korean num="851"/><portuguese num="36"/><russian num="198"/><spanish num="32"/></numbers>
+  <melody>| 3. 3/ 3/ 3/ 3/ 3/ | 5 2 3 0 | 6. 6/ 6/ 6/ 6/ 6/ | 6 - 5 0 (break) | 5. 5/ 5/ 5/ 5/ 5/ | 5 - 3 0 | 3. 3/ 6/ 5/ 1/ 2/ (break) | 3 2 1 (Chorus) 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( ._1) - 7./ 6// | 5. 6/ 5/( 3/) 1/( 3/) (break) | 2 - - 3./ 4// | 5( ._1 ._3) ._2./ ._1// | 6( (.._1) - (.._1./ 6// | 5/ 3/ 1/ 2/ 3 2 | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="1081"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Ó Deus Pai, da vida a fonte és.
+Nós, Teus filhos, Te exibimos;
+O Teu nome possuímos.
+Ó Deus Pai, da vida a fonte és.</stanza>
+	<stanza type="chorus" number="">Tua vida, Tua vida,
+Nessa vida somos um.
+Tua vida, Tua vida,
+Nessa vida somos todos um.</stanza>
+	<stanza type="verse" number="2">A Palavra nos satura, ó Pai,
+Com a natureza santa
+E do mundo nos aparta.
+Graças pelo Teu falar, ó Pai.</stanza>
+	<stanza type="chorus" number="">A Palavra, a Palavra,
+A Palavra fez-nos um.
+Na Palavra, na Palavra,
+Na Palavra somos todos um.</stanza>
+	<stanza type="verse" number="3">Oh! a glória do Triúno Deus!
+Somos filhos Seus - que bênção!
+Que a Sua glória expressam.
+Oh! a glória do Triúno Deus!</stanza>
+	<stanza type="chorus" number="">Tua glória, Tua glória,
+Nessa glória somos um.
+Tua glória, Tua glória,
+Nessa glória somos todos um.</stanza>
+  </lyrics>
+</hymn>

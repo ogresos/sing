@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>終日將祂名呼喊</title>
+  <index>true</index>
+  <category>享受基督</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>55151355565436</hymncode>
+  <key>Eb Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>自 從 基 督 釋 放 我， 我 心 充 滿 了 喜 樂。 自 從 基 督 釋 放 我， 我 口 高 聲 唱 新 歌。 終 日 將 祂 名 呼 喊， 我 過 天 上 的 生 活， 何 等 的 平 安！ 何 等 的 豐 滿！ 自 從 基 督 釋 放 我！</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0236.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">自從基督釋放我，
+我心充滿了喜樂。
+自從基督釋放我，
+我口高聲唱新歌。
+終日將祂名呼喊，
+我過天上的生活，
+何等的平安！
+何等的豐滿！
+自從基督釋放我！</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Le recouvrement de l'église</title>
+  <index>true</index>
+  <category>L’église&amp;mdash;le recouvrement du Seigneur</category>
+  <numbers><cebuano num="1255"/><chinese num="ts:525"/><english num="1255"/><french num="160"/><german num="1255"/><korean num="1002"/><portuguese num="399"/><russian num="228"/><spanish num="385"/><tagalog num="1255"/></numbers>
+  <melody>| 1. 5_./ 1./ 5_.// 1./ 2// | 3 - 1 - | 4. 4/ 1 2 | 3 - - - (break) | 1. 5_./ 1./ 5_.// 1./ 2// | 3 - 1 3/ 3/ | 3 2 2 3 | 2 - - - (break) | 2. 2/ 1#/ 2/ 3./ 2// | 1 - 5_. - | 4 4 1 2 | 3 - - - (break) | 6_.. 7_./ 1./ 7_.// 1./ 6_.// | 5_. - 1( 2) | 3 4 3 2 | 1 - - - (break) | (Chorus) 5_./ 5_./ 5_./ 5_./ 1 - | 6_./ 6_./ 6_./ 6_./ 2 - | 7_./ 7_./ 7_./ 7_./ 6_. 7_. | 1 2 3 - (break) | 5_./ 5_./ 5_./ 5_./ 1 - | 6_./ 6_./ 6_./ 6_./ 2 - | 7_./ 7_./ 7_./ 7_./ 6_. 7_. | 1 - 1 - |</melody>
+  <music>
+	<midiref type="h" num="1255"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Le recouvrement du Seigneur,
+Brûle dans nos cœurs !
+Dieu recouvre Son église,
+Sur le terrain de la ville.
+L'unité de Dieu nous rend un,
+Nous la conservons,
+Pour ainsi bâtir le temple
+De notre Seigneur.</stanza>
+	<stanza type="chorus" number="">Le recouvrement,
+A lieu maintenant,
+Le recouvrement de Sa maison.
+Nous nous consacrons,
+Notre tout donnant,
+Pour que s'accomplisse Son plan.</stanza>
+	<stanza type="verse" number="2">Le recouvrement de l'église,
+À nos yeux est cher.
+Quand nous exerçons notre esprit,
+Cette vision est si claire.
+Déjà, Babylone est tombée,
+L'ennemi, détruit !
+Car nous édifions l'église
+Sur le bon terrain.</stanza>
+  </lyrics>
+</hymn>

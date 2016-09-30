@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Naunlod ko sa sala</title>
+  <index>true</index>
+  <category>EBANGHELYO&amp;mdash;PANGHIMATUOD</category>
+  <numbers><cebuano num="1070"/><chinese num="735"/><english num="1070"/><korean num="735"/><tagalog num="1070"/></numbers>
+  <creators>
+    <author biodate="1866-1933" biolink="">Translated from James Rowe</author>
+  </creators>
+  <music>
+    <midiref type="h" num="1070"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Naunlod ko sa sala,
+Layo sa baybayon,
+Nagpadulong sa lalum,
+Wala nay paglaum;
+Apan Agalon's dagat
+Namati's tawag ko,
+Gikan sa kadagatan
+Gil'was ako.</stanza>
+    <stanza type="chorus" number="">Gugma nagl'was!
+Gugma nagl'was!
+Way laing nitabang,
+Gugma nagl'was.</stanza>
+    <stanza type="verse" number="2">Kasingkasing ihatag,
+Alang lamang Niya,
+Mabuhi's 'yang presensya,
+Magdayeg gyud Niya.
+Gugmang dako'g matuod
+Angay nga awitan,
+Higugmaon, silbehan
+Labaw's tanan.</stanza>
+    <stanza type="verse" number="3">Kalag nga na's kakuyaw,
+Kang Jesus motan-aw;
+Sa gugma l'wason ka gyud,
+Gikan's mga balud.
+S'ya m'oy Agalon's dagat,
+Sugton's mga balud;
+Manluluwas mo Siya&amp;mdash;
+Luwason ka.</stanza>
+  </lyrics>
+</hymn>

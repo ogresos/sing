@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>John</firstname>
+  <lastname>Olusanya</lastname>
+  <email>geojohn81@yahoo.co.uk</email>
+  <password>$2y$10$FnKDCSWwPsBMaZI/Jw.lO.2Ow6TaLtyn25RRx.pgu9/i50nE0O0SO</password>
+  <gender/>
+  <country>ng</country>
+  <ipaddress>146.23.209.228</ipaddress>
+  <createdate>2014-11-23 11:40:43</createdate>
+  <lastupdateddate>2014-12-04 05:46:23</lastupdateddate>
+  <lastlogindate>2014-12-04 05:46:23</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

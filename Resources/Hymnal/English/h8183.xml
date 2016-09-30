@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>He bore the curse that I be blessed</title>
+  <index>false</index>
+  <category>Praise of the Lord&amp;mdash;Remembrance of Him</category>
+  <numbers><chinese num="183"/><english num="8183"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Adapted</author>
+  </creators>
+  <melody>| 0 - 1 | 7_./ 1/ 2 3 | 5/ 3/ 2 3 | 2/ 1/ 6_. 5_. (break) | 1/ 2/ 1 1 | 5/ 5/ 6 5 | 3/ 2/ 2 2 | 3/ 1/ 6_. 5_. | 1/ 2/ 1 0 |</melody>
+  <layout>
+    <singingstanza>He bore the curse That I be blessed; Bit -- ter His cup; Love feast I taste. Such love and grace No man can trace; Oh, how my heart Would sing His praise!</singingstanza>
+  </layout>
+  <music>
+    <midiref type="h" num="8444"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">He bore the curse
+That I be blessed;
+Bitter His cup;
+Love feast I taste.
+Such love and grace
+No man can trace;
+Oh, how my heart
+Would sing His praise!</stanza>
+  </lyrics>
+</hymn>

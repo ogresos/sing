@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>It's the life, life, life</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;As Life</category>
+  <numbers><chinese num="ts:124"/><english num="ns:188"/><lsmyp num="127"/><vsb num="98"/></numbers>
+  <hymncode>123333432311122123</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | C - Am - | Dm - G - | C - F/C - | C - G/B - | Am - C/G C/E | Dm/F Dm C/G G7 | C F/C C - | C - C/E - | F - - - | D - D7/F# - | G - G/B - | C - G - | C - G7 - | C - F/C - | C - - - |</chords>
+  <melody>| 0 - - 1/ 2/ | 3 3 3. 3/ | 4/ 3/ 2#/ 3/ 1 1/ 1/ | 2 2 - 1/ 2/ | 3 - - 1/ 2/ (break) | 3 3 3. 3/ | 4/ 3/ 2#/ 3/ 1 1/ 1/ | 2 4 3 2 | 1 - - 5_. (break) | 1 1 1 7_. | 6_. 6_. 6_. 1 | 2 2 2 1 | 7_. 2 5 5_. (break) | 1 - 2 - | 3 1 5 5 | 1( - - - | 1) - 0 - |</melody>
+  <layout>
+    <singingstanza>It's the life, life, life that makes us want to shout, Hal -- le -- lu -- jah! Praise the Lord! It's the life, life, life that makes us want to shout, Hal -- le -- lu -- jah! Praise the Lord! We're full of joy! How glo -- ri -- ous That we have Je -- sus Christ in us! That we have Je -- sus Christ in us!</singingstanza>
+  </layout>
+  <music>
+    <midi location="ns" length="30">ns0188.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">It's the life, life, life that makes us want to shout,
+Hallelujah! Praise the Lord!
+It's the life, life, life that makes us want to shout,
+Hallelujah! Praise the Lord!
+We're full of joy! How glorious
+That we have Jesus Christ in us!
+That we have Jesus Christ in us!</stanza>
+  </lyrics>
+</hymn>

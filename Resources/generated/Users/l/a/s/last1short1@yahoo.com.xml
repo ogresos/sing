@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Hope</firstname>
+    <lastname>Smith</lastname>
+    <email>last1short1@yahoo.com</email>
+    <password>ARQqN%2F2bld165ccmUI3SnA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>24.101.217.202</ipaddress>
+    <createdate>2014-02-09 21:34:49</createdate>
+    <lastupdateddate>2014-02-10 14:24:46</lastupdateddate>
+    <lastlogindate>2014-02-09 21:34:50</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="308">Blessed assurance</fav>
+        <fav category="default" type="h" num="1066">Down at the cross</fav>
+        <fav category="default" type="h" num="1070">I was sinking deep in sin</fav>
+        <fav category="default" type="h" num="1057">Jesus, lover of my soul</fav>
+        <fav category="default" type="h" num="1006">There is a fountain filled with blood</fav>
+        <fav category="default" type="h" num="568">Tis so sweet to trust in Jesus</fav>
+        <fav category="default" type="h" num="40">We praise Thee, O God</fav>
+        <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    </favourites>
+</user>

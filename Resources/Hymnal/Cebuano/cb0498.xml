@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Matahum kong sugilanon</title>
+  <index>true</index>
+  <category>PAGSINATI KANG CRISTO&amp;mdash;INGON NGA KINABUHI</category>
+  <numbers><cebuano num="498"/><english num="498"/><portuguese num="235"/><spanish num="212"/></numbers>
+  <creators>
+    <author biodate="1843-1919" biolink="">Translated from Albert Benjamin Simpson</author>
+  </creators>
+  <music>
+    <midiref type="h" num="498"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Matahum kong sugilanon,
+Nia na si Cristo;
+Sa kasingkasing nagpuyo,
+Haring mahimayaon.</stanza>
+    <stanza type="chorus" number="">Cristo nia na sa sulod ko,
+Nia sa sulod ko!
+Cristo nia na sa sulod ko,
+S'yang paglaum ko.</stanza>
+    <stanza type="verse" number="2">Sugilanong makatandog,
+Sa gugma'g kasakit;
+May mas mapanggaon pa ba,
+Makadani nato.</stanza>
+    <stanza type="verse" number="3">Nalipayng nadawat ko S'ya,
+Hari's kasingkasing;
+Sagad nakapasubo N'ya,
+Maghalad na's tanan.</stanza>
+    <stanza type="verse" number="4">Dili na mag-inusara,
+Di na sab matumba;
+Kanako wa nay makulang,
+Tanan sa tanan S'ya.</stanza>
+    <stanza type="verse" number="5">Iyang sabakan gidangpan,
+Mao unyay awit;
+Nagpabilin ko ni Cristo,
+Ug Siya kanako.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mike</firstname>
+  <lastname>Musick</lastname>
+  <email>mmusick3@aol.com</email>
+  <password>$2y$10$UfGn7cOkl65C/2qEQ3OPdehBHbPV18mROZVfU4V6I5TMH4SDLfKeW</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>98.213.100.67</ipaddress>
+  <createdate>2015-02-22 21:53:53</createdate>
+  <lastupdateddate>2015-02-22 21:55:31</lastupdateddate>
+  <lastlogindate>2015-02-22 21:55:31</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

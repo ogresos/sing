@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Panginoon, namamangha</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;PAG-AALAALA SA KANYA</category>
+  <numbers><cebuano num="220"/><chinese num="179"/><english num="220"/><french num="35"/><german num="220"/><korean num="179"/><portuguese num="117"/><russian num="41"/><spanish num="96"/><tagalog num="220"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 0 - 5 | 5( 6) 5 | 5( 6) 5 | ._3 - ._2 | ._1 - ._1 | 7( 6) 5 | ._2 - 4# (break) | 5 - 5 | 5( 6) 7 | ._1 - 5 | 6( ._2) ._1 | 7 - 5 | ._1( ._3) ._2 | ._1 - 7 | ._1( - - | ._1) - 0 |</melody>
+  <music>
+	<midiref type="h" num="71"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Panginoon, namamangha
+Kami sa Iyong hapag;
+May 'sang tinapay, 'sang saro
+Na pawang sagisag.</stanza>
+	<stanza type="verse" number="2">Tinapay nilalarawan,
+Pan ng kabuhayan;
+'Pinamahagi sa amin
+Ng Iyong kamatayan.</stanza>
+	<stanza type="verse" number="3">Bahagi'y dibinong saro,
+Dugo ni Hesus 'to;
+Tinanggap may palang saro,
+Ang Diyos ay natamo.</stanza>
+	<stanza type="verse" number="4">Tinapay Kang kinakain,
+Kami'y binusog Mo;
+Amin Kang gugunitain
+Sa pag-ibig sa Iyo.</stanza>
+	<stanza type="verse" number="5">Pag-inom namin ng saro,
+Kami'y pinagpala;
+Hanggang kami'y Iyong iakyat,
+Naalaala Ka.</stanza>
+	<stanza type="verse" number="6">Tinanghal Iyong kamatayan
+Ng saro't tinapay;
+Aming pinatotohanan,
+Ika'y aming buhay.</stanza>
+	<stanza type="verse" number="7">Ang oras na mal'walhati
+Hinihintay namin;
+Ganap Kang makakapiging,
+Aming makakain.</stanza>
+  </lyrics>
+</hymn>

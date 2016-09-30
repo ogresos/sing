@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Joanna</firstname>
+  <lastname>Lee</lastname>
+  <email>joannalee221@gmail.com</email>
+  <password>$2y$10$hTVPLqX3N6u5l3FFG5XQHesK9SGfA7nBlA3LHq3v00CkqVJnJYfqC</password>
+  <gender/>
+  <country>ge</country>
+  <ipaddress>93.186.213.138</ipaddress>
+  <createdate>2014-11-19 08:44:01</createdate>
+  <lastupdateddate>2015-01-26 05:21:52</lastupdateddate>
+  <lastlogindate>2015-01-13 07:01:55</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="621">Beneath the cross of Jesus</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="879">Christian, dost thou see them</fav>
+    <fav category="default" type="h" num="1214">Dig away, dig away, dig away</fav>
+    <fav category="default" type="h" num="1127">God has saved me from the world</fav>
+    <fav category="default" type="h" num="1007">Have you been to Jesus for the cleansing pow'r</fav>
+    <fav category="default" type="h" num="8086">Head and body bent in effort</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="287">Jesus, Jesus, Jesus</fav>
+    <fav category="default" type="h" num="1048">Just as I am</fav>
+    <fav category="default" type="h" num="408">Lord Jesus, I long to be perfectly whole</fav>
+    <fav category="default" type="h" num="486">Moment By Moment</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="298">My hope is built on nothing less</fav>
+    <fav category="default" type="h" num="465">O Jesus, I have promised</fav>
+    <fav category="default" type="h" num="8245">Once in sin I served, a slave</fav>
+    <fav category="default" type="h" num="871">Onward Christian soldiers</fav>
+    <fav category="default" type="ns" num="268">Search me, O God, and know my heart</fav>
+    <fav category="default" type="h" num="415">There is a foe whose hidden pow'r</fav>
+    <fav category="default" type="h" num="789">What a Friend we have in Jesus</fav>
+    <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+    <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+  </favourites>
+</user>

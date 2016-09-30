@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Serene</firstname>
+  <lastname>Sun</lastname>
+  <email>serene1030@gmail.com</email>
+  <password>$2y$10$Lh2N18QjHT9pidi5tg0CxeT.1gdbsDqqx6C/LVeyPEQxT255Q8h3y</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>75.80.63.4</ipaddress>
+  <createdate>2014-06-02 22:46:58</createdate>
+  <lastupdateddate>2015-01-31 23:38:24</lastupdateddate>
+  <lastlogindate>2015-01-31 23:38:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="671">Deep down into the depths of this Thy Name</fav>
+    <fav category="default" type="h" num="974">He looked for a city and lived in a tent</fav>
+    <fav category="default" type="h" num="463">I love, I love my Master</fav>
+    <fav category="default" type="h" num="377">If the path I travel</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+    <fav category="default" type="h" num="415">There is a foe whose hidden pow'r</fav>
+    <fav category="default" type="h" num="595">There is always something over</fav>
+    <fav category="default" type="h" num="356">Thou Magnet of my soul</fav>
+  </favourites>
+</user>

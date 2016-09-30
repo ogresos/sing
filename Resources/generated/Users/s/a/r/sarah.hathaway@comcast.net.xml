@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Sarah</firstname>
+  <lastname/>
+  <email>sarah.hathaway@comcast.net</email>
+  <password>$2y$10$LO6faDK8tSUfUohCxIXEIut1tlrSLtXfZTPQl5YhU/5E0cNOEI6Na</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>70.210.17.137</ipaddress>
+  <createdate>2016-01-31 20:38:39</createdate>
+  <lastupdateddate>2016-01-31 20:48:52</lastupdateddate>
+  <lastlogindate>2016-01-31 20:39:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="313">Amazing Grace</fav>
+    <fav category="default" type="h" num="296">And can it be that I should gain</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="319">Come, Thou Fount of every blessing</fav>
+    <fav category="default" type="h" num="334">He Hideth My Soul</fav>
+    <fav category="default" type="h" num="339">How firm a foundation, ye saints of the Lord</fav>
+    <fav category="default" type="h" num="290">I stand amazed in the presence</fav>
+    <fav category="default" type="h" num="337">I will sing the wondrous story</fav>
+    <fav category="default" type="c" num="60">I've got the joy, joy, joy, joy</fav>
+    <fav category="default" type="h" num="341">It is well</fav>
+    <fav category="default" type="h" num="330">My faith has found a resting place</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="c" num="113">Two eyes to see all that my Lord has made</fav>
+  </favourites>
+</user>

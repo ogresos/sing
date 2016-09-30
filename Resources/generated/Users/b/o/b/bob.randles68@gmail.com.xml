@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Bob</firstname>
+  <lastname>Randles</lastname>
+  <email>bob.randles68@gmail.com</email>
+  <password>$2y$10$3DLnApYU4bYxuKMbE6SS4O7AYUiRKL3EjrlgDqHbIZc94.SyO.ZEu</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>172.242.3.240</ipaddress>
+  <createdate>2014-08-13 14:50:52</createdate>
+  <lastupdateddate>2014-08-13 14:52:19</lastupdateddate>
+  <lastlogindate>2014-08-13 14:52:19</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

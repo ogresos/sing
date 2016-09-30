@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>The last Adam became a life-giving Spirit</title>
+  <index>true</index>
+  <category>Scriptures for Singing</category>
+  <numbers><english num="ns:543"/><lsmyp num="345"/></numbers>
+  <creators>
+    <author biodate="" biolink="">LSM Corinthians Training Song Tape</author>
+    <composer biodate="" biolink="">LSM Corinthians Training Song Tape</composer>
+  </creators>
+  <hymncode>5121231432122543212</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>125</tempo>
+  <chords>| C - - - | C - G - | Am - - - | F - C - | G - G - | C - - G | C - G - | Dm - G7 - | C - - - | F - - - | C - - - | G - - - | C - - - | F - - - | C - - - | D - D7 - | G - - - | C - G - | Am - - - | F - C - | G - - - | C - G - | C - G - | Dm - G7 - | C - - - | C - G - | C - G - | C - F/C - | C - - - | G - - - | C - - - | F - - - | D7 - - - | G - - - | C - F - | C - G - | F - G - | C - G - | C - G - | C - F/C - | C - - - | G - - - | C - - - | F - - - | D7 - - - | G - - - | C - F - | C - G - | F - G - | C - - - |</chords>
+  <melody>| 0 - - 5_. | (startrepeat) 1 - 2 1/ 2/ | 3 - - 1 | 4 - 3/( 2/) 1 | 2 - 2 2 (break) | 5.( 4/) 3 2 | 1 - 2 3 | 4 3 2.( 1/) | 1 - - 1 (break) | 4 4/ 5/ 6 5/ 4/ | 5 - - 5/( 3/) | 2 - - - | 3 3 - 1 (break) | 4 4/ 5/ 6 5/ 4/ | 5 - - 5/ 3/ | 2 - 2 3/ 4#/ | 5 - - 5_. (endrepeat) (break) | 1 - 2 1/ 2/ | 3 - - 1 | 4 - 3/( 2/) 1 | 2 - 2 2 (break) | 5.( 4/) 3 2 | 1 - 2 3 | 4 3 2.( 1/) | 1 - - 0 (break) | 0 - 5_. - | 1 - 5_. 5_./ 5_./ | 1. 7_./ 1 7_./ 6_./ | 5_. 1/ 2/ 3 2/ 1/ | 5 - (.5 - (break) | 3 3 3 2/( 3/) | 4 - 4 4 | 4# 4# 4# 3/ 4#/ | 5 - 5 - (break) | 5 4/ 3/ 4 3/ 2/ | 3 2/( 1/) 2 1/( 7_./) | 1 - 5_. - (break) | (.1 - 5_. 5_. | 1 - 5_. 5_./ 5_./ | 1. 7_./ 1 7_./ 6_./ | 5_. 1/ 2/ 3 2/( 1/) | 5 - (.5 - (break) | 3 3 3 2/( 3/) | 4 - 4 - | 4# 4# 4# 3/( 4#/) | 5 - 5 - (break) | 5 4/ 3/ 4 3/ 2/ | 3 2/ 1/ 2 1/( 7_./) | 1 - 5_. - | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza end="-1">The last A -- dam be -- came a life- -- giv -- ing Spir -- it. The Lord is the Spir -- it, the Spir -- it gives life. But he who is joined to the Lord is one spir -- it. Oh, we have been joined to the Lord! We are one spir -- it with Him. The last A -- dam be -- came a life- -- giv -- ing Spir -- it. The Lord is the Spir -- it, the Spir -- it gives life. The last A -- dam be -- came a life- -- giv -- ing Spir -- it, a life- -- giv -- ing Spir -- it. In one Spir -- it we were all bap -- tized in -- to one Bod -- y And were all giv -- en to drink one Spir -- it, one Spir -- it. Min -- is -- ters of the new cov' -- nant, not of the let -- ter but of the Spir -- it. We are be -- ing trans -- formed in -- to the same im -- age From glo -- ry to glo -- ry, e -- ven as from the Lord Spir -- it.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">1 Corinthians 15:45b</link>
+    <link type="ref">2 Corinthians 3:17</link>
+    <link type="ref">1 Corinthians 6:17</link>
+    <link type="ref">1 Corinthians 12:13</link>
+    <link type="ref">2 Corinthians 3:6</link>
+    <link type="ref">2 Corinthians 3:18</link>
+  </links>
+  <music>
+    <midi location="ns" length="138">ns0543.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">The last Adam became a life-giving Spirit.
+The Lord is the Spirit; the Spirit gives life.</stanza>
+    <stanza type="verse" number="">But he who is joined to the Lord is one spirit.
+Oh, we have been joined to the Lord!
+We are one spirit with Him.</stanza>
+    <stanza type="note">(Repeat)</stanza>
+    <stanza type="verse" number="">The last Adam became a life-giving Spirit.
+The Lord is the Spirit; the Spirit gives life.</stanza>
+    <stanza type="verse" number="">The last Adam became a life-giving Spirit,
+    a life-giving Spirit.</stanza>
+    <stanza type="verse" number="">In one Spirit we were all baptized into one Body
+And were all given to drink one Spirit, one Spirit.</stanza>
+    <stanza type="verse" number="">Ministers of the new covenant, not of the letter
+    but of the Spirit.
+We are being transformed into the same image
+From glory to glory, even as from the Lord Spirit.</stanza>
+  </lyrics>
+</hymn>

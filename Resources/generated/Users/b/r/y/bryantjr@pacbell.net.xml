@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Kathy Jo</firstname>
+    <lastname>Bryant</lastname>
+    <email>bryantjr@pacbell.net</email>
+    <password>zfmhXyRIGDNX3Rm2ad32NA%3D%3D</password>
+    <gender></gender>
+    <country>United States</country>
+    <ipaddress>108.204.248.174</ipaddress>
+    <createdate>2013-01-26 19:48:45</createdate>
+    <lastupdateddate>2013-01-26 21:17:31</lastupdateddate>
+    <lastlogindate>2013-01-26 19:48:45</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="101">All Things Work Together for Good</fav>
+        <fav category="default" type="c" num="12">Deep and wide</fav>
+        <fav category="default" type="ns" num="170">Everybody ought to know</fav>
+        <fav category="default" type="c" num="141">I'm just a little flower</fav>
+        <fav category="default" type="c" num="31">Lord, today, keep my heart</fav>
+        <fav category="default" type="h" num="8283">North Wind, arise, awaken</fav>
+        <fav category="default" type="ns" num="120">Seek ye first</fav>
+        <fav category="default" type="h" num="760">She only touched the hem of His garment (healing)</fav>
+        <fav category="default" type="h" num="1303">The kingdom of God is at hand</fav>
+        <fav category="default" type="ns" num="153">Thy word is sweet unto my taste</fav>
+        <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+        <fav category="default" type="c" num="9">You come to me with a sword and a spear</fav>
+    </favourites>
+</user>

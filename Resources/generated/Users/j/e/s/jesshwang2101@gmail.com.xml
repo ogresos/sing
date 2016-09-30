@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+    <firstname>Jesse</firstname>
+    <lastname>Hwang</lastname>
+    <email>jesshwang2101@gmail.com</email>
+    <password>$1$Nyd8QtYK$yviKeu3G9APTmkKD/.kXh.</password>
+    <gender>M</gender>
+    <country>New Zealand</country>
+    <ipaddress>219.89.99.67</ipaddress>
+    <createdate>2008-07-26 01:43:07</createdate>
+    <lastupdateddate>2009-09-16 19:34:38</lastupdateddate>
+    <lastlogindate>2009-09-16 19:31:15</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="nt" num="723">He giveth more grace</fav>
+        <fav category="default" type="ns" num="16">It's no longer I that liveth</fav>
+        <fav category="default" type="ns" num="116">Lord, I give myself to You right now</fav>
+        <fav category="default" type="lb" num="12">Lord, I just love You</fav>
+        <fav category="default" type="lb" num="76">That's Why I Love Him</fav>
+        <fav category="default" type="ns" num="138">What things were gains to me</fav>
+        <fav category="default" type="ns" num="49">Whispers from above</fav>
+    </favourites>
+</user>

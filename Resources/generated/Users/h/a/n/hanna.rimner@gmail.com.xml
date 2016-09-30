@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Hanna</firstname>
+  <lastname>Rimner</lastname>
+  <email>hanna.rimner@gmail.com</email>
+  <password>$2y$10$2EVjLudvjTqeEejIgZvjE.o8hf8mqUjcw...DIoOHQpxm4klUIGx.</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>100.33.145.130</ipaddress>
+  <createdate>2015-10-07 03:06:12</createdate>
+  <lastupdateddate>2016-02-10 02:41:48</lastupdateddate>
+  <lastlogindate>2016-02-10 02:00:54</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="nt" num="575">I take Thy promise, Lord, in all its length</fav>
+    <fav category="default" type="h" num="960">My King will soon come back again</fav>
+    <fav category="default" type="h" num="730">Pressed out of measure, pressed beyond all length</fav>
+    <fav category="default" type="h" num="643">Take time to behold Him</fav>
+    <fav category="default" type="h" num="1340">Therefore with joy shall ye draw water</fav>
+    <fav category="default" type="h" num="477">Though Christ a thousand times</fav>
+  </favourites>
+</user>

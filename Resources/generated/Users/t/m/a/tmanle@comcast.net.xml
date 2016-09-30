@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Tim</firstname>
+  <lastname>Manley</lastname>
+  <email>tmanle@comcast.net</email>
+  <password>$2y$10$ppN4XdLxx3SMD0iX7Jr0kuGpQoyZwKtBW8KWj6xLeVMr8pfXw.ZwO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>73.171.44.123</ipaddress>
+  <createdate>2016-02-20 14:55:24</createdate>
+  <lastupdateddate>2016-04-07 11:31:38</lastupdateddate>
+  <lastlogindate>2016-04-07 11:31:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

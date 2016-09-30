@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kimberly Phillips</firstname>
+  <lastname>Campbell</lastname>
+  <email>paulkimcam@hotmail.com</email>
+  <password>$2y$10$oftgLA8yLdUC2r.xLvXNpOxwnOqCMtXBxAHI.hzHJy2ZRFCwQrwgO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>24.35.46.185</ipaddress>
+  <createdate>2015-06-19 11:58:30</createdate>
+  <lastupdateddate>2015-07-15 18:30:32</lastupdateddate>
+  <lastlogindate>2015-06-19 11:59:32</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="3">Come, Thou Almighty King</fav>
+    <fav category="default" type="h" num="1081">Father God, Thou art the source of life</fav>
+    <fav category="default" type="h" num="77">Lift that Name high! That glorious Name</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="1349">Sowing in the morning</fav>
+    <fav category="default" type="h" num="338">Wounded for me, wounded for me</fav>
+  </favourites>
+</user>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>True love</title>
+  <index>true</index>
+  <category>Experience of Christ&amp;mdash;Love for Him</category>
+  <numbers><chinese num="ts:847"/><english num="ns:33"/></numbers>
+  <hymncode>336717656</hymncode>
+  <key>D Minor</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| Am - - - | Am - - - | Am - - - | Dm - - - | E - - - | Am - - - | Dm - - - | F - Em - | Am - - - | Am - - - | C - - - | Dm - - - | E - - - | Am - - - | C - - - | Dm - Em - | Am - - - |</chords>
+  <melody>| 0 - - 3_./ 3_./ | 6_.. 7_./ 1/ 7_./ 6_./ 5_./ | 6_. - -  6_./ 6_./ | 2. 4/ 3/ 2/ 1/ 2/ | 3 - - 3/ 3/ (break) | 6 6/ 5/ 3 6_./ 6_./ | 2 2/ 1/ 6_. 6_./ 7_./ | 1. 3/ 2/ 1/ 7_./ 5_./ | 6_. - - 3/ 3/ (break) | 6 - - 6/ 5/ | 3 - - 6_./ 6_./ | 2 - - 1/ 2/ | 3 - - 3/ 3/ (break) | 6 - - 6/ 5/ | 3 - - 6_./ 6_./ | 2 - - 7_./ 5_./ | 6_. - - 0 |</melody>
+  <layout>
+    <singingstanza>If there's such love in the hu -- man race, To meet all our need with won -- drous grace, Firm and end -- less and free, Like the high mount and sea, Our dear Lord need not a hu -- man be; In the dark, He has heard, How I sigh, how I pine, On the way, He has seen, How I wan -- der in life.</singingstanza>
+  </layout>
+  <notes>Stanzas 1 and 3 share the same tune.</notes>
+  <music>
+    <midi location="ns" length="49">ns0033.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">If there's such love in the human race,
+To meet all our need with wondrous grace,
+Firm and endless and free,
+Like the high mount and sea,
+Our dear Lord need not a human be;
+In the dark, He has heard,
+How I sigh, how I pine,
+On the way, He has seen,
+How I wander in life.</stanza>
+    <stanza type="verse" number="2">In His love to us He has drawn nigh,
+Coming to us from His throne on high.
+Seeking me without rest,
+Thirst and hunger did taste,
+On the cross the Lord paid all my debt,
+He arose from the grave,
+All the sinners He saved,
+Joined with me, He filled me with His faith.</stanza>
+    <stanza type="verse" number="3">Love I've found within the human race,
+Of all love in heav'n and earth the best,
+Firm and endless and free,
+Like the high mount and sea,
+True and precious, through eternity;
+He's with me all my days,
+Leading me all the way;
+O my Lord, O my love,
+"I love You!" 'Tis my prayer.</stanza>
+  </lyrics>
+</hymn>

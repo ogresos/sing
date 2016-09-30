@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Iya na ko! Kalipayng di maasoy</title>
+  <index>true</index>
+  <category>PAGHALAD&amp;mdash;GIPUGOS SA GUGMA SA GINOO</category>
+  <numbers><cebuano num="433"/><chinese num="ts:331"/><english num="433"/><french num="74"/><portuguese num="200"/><russian num="215"/><spanish num="184"/><tagalog num="433"/></numbers>
+  <creators>
+    <author biodate="1850-1927" biolink="">Translated from Lucy Ann Bennett</author>
+  </creators>
+  <music>
+    <midiref type="h" num="433"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Iya na ko! Kalipayng di maasoy,
+Tam-is nga tubag sa gugma Niya;
+Malipayong "Oo's" 'yang "Ay'g kahadlok,
+Gitubos ka Nako, Akoa ka."</stanza>
+    <stanza type="verse" number="2">Iya na ko! Pagsugid malipayon,
+Asawa sa kasal nahinumdom;
+Sa pagdawat Kaniya hangtud's dayon,
+S'ya higugmaon, tahuron, sugton.</stanza>
+    <stanza type="verse" number="3">Iya na ko! Tudloi's kahulogan,
+Sa paghigugma ug pag-unongay,
+Pag-alagad ug hugot nga pagtugyan,
+Way panaganang pagsugot Nimo.</stanza>
+    <stanza type="verse" number="4">Iya na! Lawas, kalag, espiritu,
+Iya na! Di na gyud mabawi pa;
+Maingon nga Ikaw, Hinigugma ko,
+Sa way katapusan akoa na.</stanza>
+  </lyrics>
+</hymn>

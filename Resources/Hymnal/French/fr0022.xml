@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Alléluia, Christ est vainqueur</title>
+  <index>true</index>
+  <category>La louange au Seigneur&amp;mdash;Sa victoire</category>
+  <numbers><cebuano num="124"/><chinese num="109"/><english num="124"/><french num="22"/><german num="124"/><korean num="109"/><portuguese num="60"/><russian num="26"/><spanish num="59"/><tagalog num="124"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5 3 ._1 5 | ._3. ._2/ ._1 5 | 6 6 5 ._1 | 5 4 3 - (break) | 5 3 ._1 5 | ._3. ._2/ ._1 7 | ._1 7 6 7/( ._1/) | 7 6 5 - (break) | ._2. ._2/ 7 5 | ._3. ._2/ ._1 6 (break) | ._4 ._3 ._2 ._1 | ._1 7 ._1 - |</melody>
+  <music>
+	<midiref type="h" num="9"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Louons, louons, Christ le Vainqueur !
+Il remporta la victoire !
+Plus de péché, plus de vieil homme,
+Mais la pleine rédemption.
+Vaincues sont les forces du mal,
+Oh ! quel triomphe à la croix !</stanza>
+	<stanza type="verse" number="2">Chantons : Christ est ressuscité !
+Dieu L'a relevé des morts.
+Pour toujours la mort est vaincue,
+L'homme est rendu à la vie.
+L'enfer trembla, tout s'écroula,
+Christ manifesta Sa gloire.</stanza>
+	<stanza type="verse" number="3">Dieu a élevé Jésus-Christ,
+Il L'a placé sur le trône.
+Au-dessus de toute puissance,
+Il a été fait Seigneur.
+Dieu a tout placé sous Ses pieds,
+Tout pouvoir Lui a donné.</stanza>
+	<stanza type="verse" number="4">Alléluia, Christ est vainqueur !
+Il triompha au Calvaire.
+Alléluia, ressuscité,
+Il publia Sa victoire !
+Élevé par Dieu, Il règne :
+Pour toujours Il est le Roi !</stanza>
+  </lyrics>
+</hymn>

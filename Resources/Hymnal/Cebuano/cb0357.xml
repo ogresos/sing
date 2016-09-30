@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Jesus, dad-i'g dasiga ko</title>
+  <index>true</index>
+  <category>MGA PANGANDOY&amp;mdash;KANG CRISTO</category>
+  <numbers><cebuano num="357"/><chinese num="279"/><english num="357"/><korean num="279"/><russian num="453"/><tagalog num="357"/></numbers>
+  <creators>
+    <author biodate="1707-1788" biolink="www.charleswesley.org">Translated from Charles Wesley</author>
+  </creators>
+  <music>
+    <midiref type="h" num="357"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Jesus, dad-i'g dasiga ko
+Sa balaan Mong kalayo,
+Hinloi sa dugo;
+Bugnai's Kaugalingon Mo,
+Sa gahum Mo pabatia,
+Kay gianak Nimo.</stanza>
+    <stanza type="verse" number="2">Gilansang's krus uban Nimo,
+Kasingkasing di mabahin,
+Mabuhi na sa Dios.
+Patay na ko's kalibutan,
+Sa kagarbo'g kalipayan;
+Ikawng himaya ko!</stanza>
+    <stanza type="verse" number="3">Sa di matagbawng kauhaw,
+Patinguhaa Kanimo;
+Imong Kaugalingon
+Mao ray akong pangayo,
+Mabuhi Ka nako's gahum,
+Sa tanan Kanimo.</stanza>
+    <stanza type="verse" number="4">Sakopa ang pagbuot ko,
+Pakit-a's sanag's nawong Mo;
+Himoa Ginoo
+Nga kasingkasing ko gugma,
+Kinabuhi ko way mansa,
+Mahimong pagdayeg.</stanza>
+  </lyrics>
+</hymn>

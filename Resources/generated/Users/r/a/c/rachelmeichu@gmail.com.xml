@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Rachel</firstname>
+    <lastname>Chu</lastname>
+    <email>rachelmeichu@gmail.com</email>
+    <password>$1$reB3q1w2$8sWXa4gpgYkzTwQ7UXYcI1</password>
+    <gender>F</gender>
+    <country>United Kingdom</country>
+    <ipaddress>79.67.220.169</ipaddress>
+    <createdate>2009-02-02 07:23:13</createdate>
+    <lastupdateddate>2010-05-21 10:49:49</lastupdateddate>
+    <lastlogindate>2010-05-21 10:49:49</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="ns" num="101">All things work together for good</fav>
+        <fav category="default" type="nt" num="367">Be Thou supreme, O Jesus Christ</fav>
+        <fav category="default" type="ns" num="113">Bless me, Lord, with days and nights</fav>
+        <fav category="default" type="nt" num="531">Fade, fade each earthly joy</fav>
+        <fav category="default" type="nt" num="708">Fresh as the dew of the morning</fav>
+        <fav category="default" type="ns" num="34">He knows, He knows</fav>
+        <fav category="default" type="ns" num="53">He's my God</fav>
+        <fav category="default" type="ns" num="157">Here a Little, There a Little</fav>
+        <fav category="default" type="ns" num="293">I'm a God-man</fav>
+        <fav category="default" type="ns" num="291">If God leads you to walk a way</fav>
+        <fav category="default" type="nt" num="377">If the path I travel</fav>
+        <fav category="default" type="ns" num="158">Immersed in Thy love</fav>
+        <fav category="default" type="ns" num="18">Jehovah is my Shepherd</fav>
+        <fav category="default" type="ns" num="232">Jesus Lord, I just love You</fav>
+        <fav category="default" type="ns" num="35">Jesus Lord, I love You</fav>
+        <fav category="default" type="lb" num="4">Jesus, dear Jesus, You're so glorious</fav>
+        <fav category="default" type="nt" num="412">Lord, reveal Thyself to me</fav>
+        <fav category="default" type="ns" num="306">The risen Christ my Shepherd is</fav>
+        <fav category="default" type="ns" num="301">Thou art my Beloved, the most lovely Beloved</fav>
+        <fav category="default" type="nt" num="394">Unto Him that hath Thou givest</fav>
+        <fav category="default" type="nt" num="642">Within the veil</fav>
+    </favourites>
+</user>

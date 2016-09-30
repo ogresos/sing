@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Nous Te louons Père</title>
+  <index>true</index>
+  <category>L’adoration au Père&amp;mdash;Sa rédemption</category>
+  <numbers><cebuano num="40"/><chinese num="35"/><english num="40"/><french num="7"/><german num="40"/><korean num="35"/><portuguese num="32"/><russian num="16"/><spanish num="26"/><tagalog num="40"/></numbers>
+  <creators>
+	<author biodate="1839-1885" biolink="">Translated from William Paton MacKay</author>
+  </creators>
+  <melody>| 0 - 5_. | 1 1 1 | 1 - 1/ 2/ | 3 3 3 | 3 - 1/ 3/ | 5 5 5 | 6 5 3 | 3 2 2 (break) | 2 - (Chorus) 5./ 5// | 6 5 3./ 2// | 1 1 5./ 5// | 6 5 3 (break) | 2 - 5./ 5// | 6 5 3./ 2// | 1 1 3 | 4 3 2 | 1 - 0 |</melody>
+  <music>
+	<midiref type="h" num="40"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Nous Te louons Père,
+Pour le Fils bien-aimé :
+Le Sauveur qui mourut
+Et qui fut élevé.</stanza>
+	<stanza type="chorus" number="">Alléluia, à Toi la gloire !
+Alléluia, amen !
+Alléluia, à Toi la gloire !
+Pour l'éternité !</stanza>
+	<stanza type="verse" number="2">Nous Te louons Père,
+Pour l'Esprit de lumière,
+Qui montra le Sauveur
+Et chassa notre nuit.</stanza>
+	<stanza type="verse" number="3">À Toi soit l'honneur,
+Et à Toi soit la gloire !
+En Christ, la rédemption
+Nous révèle Ton cœur.</stanza>
+	<stanza type="verse" number="4">Nous Te louons Père,
+Ton amour nous remplit,
+Tu réveilles nos cœurs,
+Nous montrant Ton amour.</stanza>
+  </lyrics>
+</hymn>

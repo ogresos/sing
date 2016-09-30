@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Who made the world so big and round?</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;God's Creation</category>
+  <hymncode>55531665553121</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | F - C - | C - - - | G - C - | C - - - | F - C - | C - - - | G - C - | C - - - | F - C - | C - - - | F - G - | G7 - - - | C - C/E - | F - - - | C - - - | G - C - ||</chords>
+  <melody>| 5/ 5/( 5/) 5/ 3 1 | 6 6 5 - | 5 5 3 1 | 2 - 1 - (break) | 5/ 5/( 5/) 5/ 3 1 | 6 6 5 - | 5 5 3 1 | 2 - 1 - (break) | ._1/ ._1/( ._1/) ._1/ ._1 5 | 6 6 5 - | ._1/ ._1/( ._1/) ._1/ ._1 5 | 6 6 (.5 - | 0 - - - (break) | (.._1 - (.7 - | (.6 - - - | 5 5 3 1 | 2 - 1 - ||</melody>
+  <layout>
+    <singingstanza>Who made the world so big and round? God, our great Cre -- a -- tor. Who put the flow -- ers in the ground? God, our great Cre -- a -- tor. Who put the stars up in the sky? Who made the lit -- tle birds to fly? No, not I! God, our great Cre -- a -- tor.</singingstanza>
+    <singingstanza2>[skip43] Did you do it?</singingstanza2>
+  </layout>
+  <music>
+    <midi location="c" length="37">c0045.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="">Who made the world so big and round?
+God, our great Creator.
+Who put the flowers in the ground?
+God, our great Creator.
+Who put the stars up in the sky?
+Who made the little birds to fly?
+Did you do it? No, not I!
+God, our great Creator.</stanza>
+  </lyrics>
+</hymn>

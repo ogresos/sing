@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>God, we praise Thee for Thy mercy</title>
+  <index>true</index>
+  <category>Worship of the Father&amp;mdash;His Mercy</category>
+  <numbers><cebuano num="26"/><chinese num="22"/><english num="26"/><german num="26"/><korean num="22"/><portuguese num="23"/><russian num="302"/><spanish num="18"/><tagalog num="26"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Witness Lee</author>
+	<composer biodate="1838-1876" biolink="">Philip Paul Bliss</composer>
+  </creators>
+  <meter>8.7.8.7.8.7.</meter>
+  <hymncode>323154532124321</hymncode>
+  <key>E Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - Dm7 - | Em - Am - | Dm7 - G7 - | C - F/C - | C - Dm7 - | Em7 - Am7 - | Dm7 - G7 - | C - C7 - | F - G7/F - | Em7 - Am7 - | F - Dm7 - | G - G7 - | C - C7 - | F - - - | G - G7 - | C F/C C - |</chords>
+  <guitarChords>| C - - - | C - - - | G - G7 - | C - - - | C - - - | C - - - | G - G7 - | C - C7 - | F - - - | C - - - | F - - - | G - G7 - | C - C7 - | F - - - | G - G7 - | C - - - |</guitarChords>
+  <melody>| 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 6. 5#/ 6 4 | 5. 4#/ 5 3 | 6. 5/ 4/ 3/ 2/ 1/ | 7_.( - 5 4) (break) | 3 - 5 - | 4 - 6_. - | 7_. - 2 - | 1 - - 0 |</melody>
+  <layout>
+	<singingstanza>God, we praise Thee for Thy mer -- cy, 'Tis so great and so pro -- found! In our weak -- ness and our fail -- ures; With its great -- ness it a -- bounds. We a -- dore Thee! we a -- dore Thee! With such mer -- cy we've been crowned! With such mer -- cy we've been crowned! </singingstanza>
+	<columns>2</columns>
+  </layout>
+  <links>
+	<link type="group">hymnal-subj235.xml</link>
+	<link type="lyrics" url="www.witness-lee-hymns.org/hymns/H0026.html">View Lyrics</link>
+  </links>
+  <music>
+	<midi location="h" length="42">e0026_i.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">God, we praise Thee for Thy mercy,
+  'Tis so great and so profound!
+In our weakness and our failures;
+  With its greatness it abounds.
+We adore Thee! we adore Thee!
+  With such mercy we've been crowned!</stanza>
+	<stanza type="verse" number="2">How we marvel at this mercy
+  So far-reaching and so vast!
+It has reached us, e'en the sinners,
+  And will ever hold us fast.
+From this mercy, from this mercy,
+  What can cause us to be cast?</stanza>
+	<stanza type="verse" number="3">For Thy mercy we are grateful,
+  'Tis so rich, so plenteous!
+Thru Thy mercy in redemption,
+  Thou hast richly favored us.
+If without this, if without this,
+  How could we be favored thus?</stanza>
+	<stanza type="verse" number="4">Oh, Thy mercy, so inspiring!
+  Gentle, tender, dear and sweet!
+With Thy patience and Thy kindness,
+  Us in all our need it meets.
+It we treasure, it we treasure,
+  Nothing can with it compete.</stanza>
+	<stanza type="verse" number="5">Father, we enjoy Thy mercy,
+  Ever fresh and ever new;
+Every morning shed upon us,
+  It refreshes as the dew.
+How we taste it! how we taste it!
+  Giving Thee the praises due.</stanza>
+	<stanza type="verse" number="6">We can never cease to praise Thee,
+  As Thy mercy e'er endures;
+All Thy grace and all Thy favor,
+  Ever for us it secures.
+Trusting in it, trusting in it,
+  Thy sure mercy us assures.</stanza>
+  </lyrics>
+</hymn>

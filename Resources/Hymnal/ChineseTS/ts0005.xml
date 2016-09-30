@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>披上喜樂</title>
+  <index>true</index>
+  <category>讚美的話</category>
+  <numbers><chinese num="ts:5"/><dutch num="15"/><english num="1334"/><french num="213"/><korean num="906"/></numbers>
+  <melody>| 3/ 4/ 4#/ 5/ 3/ 4/ 4#/ 5/ | ._1/ ._1 ._2/ ._1 - | 3/ 4/ 4#/ 5/ 6 5 | 4 - - - (break) | 2/ 3/ 4/ 5/ 2/ 3/ 4/ 5/ | 7/ 7 ._1/ 7. ._1/ | ._2 ._1 7 6 | 6 - 5 - (break) | 3/ 4/ 4#/ 5/ 3/ 4/ 4#/ 5/ | ._1/ ._1 ._2/ ._1 - | ._1 - ._2 ._3 | ._4 - 6 - (break) | ._1 - ._2 ._2# | ._3 - 0/ ._3/ ._2#/ ._3/ | ._5 ._4 ._3 ._2 | ._2 - ._1 - |</melody>
+  <layout>
+	<singingstanza>你 已 經 將 我 的 哀 哭 變 為 跳 舞， 將 我 的 麻 衣 脫 去， 你 已 經 將 我 的 哀 哭 變 為 跳 舞， 給 我 披 上 了 喜 樂； 好 使 我 靈 來 歌 頌 你， 並 不 住 聲。 哦， 主 耶 和 華， 我 的 神 阿， 我 要 稱 謝 你， 直 到 永 遠！</singingstanza>
+  </layout>
+  <links>
+	<link type="ref">Psalms 30:11-12</link>
+  </links>
+  <music>
+	<midiref type="h" num="1334"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">你已經將我的哀哭
+變為跳舞，
+將我的麻衣脫去，
+你已經將我的哀哭
+變為跳舞，
+給我披上了喜樂；
+好使我靈來歌頌你，
+並不住聲。
+哦，主耶和華，
+我的神阿，我要稱謝你，
+直到永遠！</stanza>
+  </lyrics>
+</hymn>

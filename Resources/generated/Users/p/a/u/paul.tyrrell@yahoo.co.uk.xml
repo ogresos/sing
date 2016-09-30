@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Paul</firstname>
+  <lastname>TYrrell</lastname>
+  <email>paul.tyrrell@yahoo.co.uk</email>
+  <password>$2y$10$VZSi9OmAI/ZrF/W/F7DlVuUAqgT82S5VBHy0mQF4o/qTjo/KtAQtG</password>
+  <gender/>
+  <country>uk</country>
+  <ipaddress>188.220.9.77</ipaddress>
+  <createdate>2014-06-30 17:00:39</createdate>
+  <lastupdateddate>2014-06-30 17:02:20</lastupdateddate>
+  <lastlogindate>2014-06-30 17:02:20</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

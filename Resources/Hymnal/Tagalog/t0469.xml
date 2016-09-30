@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sino ang sa panig ng Panginoon</title>
+  <index>true</index>
+  <category>PAGHAHANDOG&amp;mdash;NAKIKIPAGBAKA KASAMA NG PANGINOON</category>
+  <numbers><cebuano num="469"/><chinese num="350"/><english num="469"/><german num="469"/><korean num="350"/><portuguese num="211"/><russian num="85"/><tagalog num="469"/></numbers>
+  <creators>
+	<author biodate="1836-1879" biolink="">Translated from Frances Ridley Havergal</author>
+  </creators>
+  <melody>| 5 5 ._3 ._2 | ._1 - 5 - | 6 6 ._1 ._1 | 5 - - - | 5# 5# 6 ._1 | ._3 - ._2 - | ._1 6 5 4# | 5 - - - (break) | 5 5 6 3 | 5 - 4 - | 7 5 ._1 3 | 2 - - - | 3 1 4 2 | 5 3 6 1 | 3 - 2 - | 1 - - - (break) | (Chorus) ._1 5 3 1 | 6 - 5 - | 1 2 3 4 | 5 - - - (break) | ._1. ._1/ ._1 ._1 | ._3 - ._1 - | 5 ._1 ._2. ._1/ | ._1 - - - |</melody>
+  <music>
+	<midiref type="h" num="469"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Sino ang sa panig ng Panginoon?
+Sumunod, mamuhay lagi sa Kanya?
+Para kay Hesus handa siyang sumulong?
+Mundo'y itakwil at makipagbaka?</stanza>
+	<stanza type="chorus" number="">Dahil sa biyaya at Iyong pagtubos,
+Kami'y sa Iyong panig, Panginoong Diyos.</stanza>
+	<stanza type="verse" number="2">Sa hukbo umanib, makipagbaka,
+Di para sa putong o luwalhati,
+Kundi sa pag-ibig at biyaya Niya,
+Sa Kanya ako ay dapat kumampi.</stanza>
+	<stanza type="verse" number="3">Tinubos Mo upang maging Iyong bayan,
+Di ng ginto't pilak, kundi ng dugo;
+Sa sumunod, biyaya'y walang-hanggan,
+Malayang sumulong at taos-puso.</stanza>
+	<stanza type="verse" number="4">Mabagsik man ang laban o kaaway,
+Hukbo ng Panginoon ay matatag;
+Sa pamumuno Niya'y t'yak ang tagumpay,
+Katapatan, kapanaiga'y hayag.</stanza>
+	<stanza type="verse" number="5">Hinirang na kawal sa paglalaban,
+Tinawag at tapat sa Kanyang hukbo;
+Di-manlalamig, Hari'y paglingkuran,
+Maging matapang tunay, tapat, wasto.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">    <firstname>Kevin</firstname>
+    <lastname>Minnett</lastname>
+    <email>kevin.minnett@gmail.com</email>
+    <password>hwjYNG%2F7gWgorwn6c1HtVg%3D%3D</password>
+    <gender>M</gender>
+    <country>ca</country>
+    <ipaddress>142.161.208.1</ipaddress>
+    <createdate>2012-06-24 08:29:50</createdate>
+    <lastupdateddate>2012-06-24 09:02:27</lastupdateddate>
+    <lastlogindate>2012-06-24 08:29:52</lastlogindate>
+    <failedlogincount>0</failedlogincount>
+    <favourites>
+        <fav category="default" type="h" num="214">According to Thy gracious word</fav>
+        <fav category="default" type="h" num="228">Sweet feast of love divine</fav>
+    </favourites>
+</user>

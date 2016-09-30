@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Our blest Redeemer ere He breathed</title>
+  <index>true</index>
+  <category>Fulness of the Spirit&amp;mdash;As the Comforter</category>
+  <creators>
+    <author biodate="1773-1862" biolink="">Harriet Auber</author>
+    <composer biodate="1823-1876" biolink="">John Bacchus Dykes</composer>
+  </creators>
+  <meter>8.6.8.4.</meter>
+  <hymncode>11123443513345</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - - - | F - C - | C/E - D7 - | G - G7 - | C - - - | F - C/E - | G/D - G7 - | C - - 0 |</chords>
+  <melody>| 0 - - 1 | 1. 1/ 2 3 | 4. 4/ 3 5 | ._1 3 3 4# (break) | 5 - - 4 | 3. 3/ 4 5 | 6 6 5 3 | 5 - - 4 | 3 - - 0 |</melody>
+  <layout>
+    <singingstanza>Our blest Re -- deem -- er ere He breathed His ten -- der last fare -- well, A guide, a com -- fort -- er, be -- queathed With us to dwell.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj085.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="18">e0247_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Our blest Redeemer ere He breathed
+  His tender last farewell,
+A guide, a comforter, bequeathed
+    With us to dwell.</stanza>
+    <stanza type="verse" number="2">He came sweet influence to impart,
+  A gracious, willing guest,
+While He can find one humble heart
+    Wherein to rest.</stanza>
+    <stanza type="verse" number="3">And His that gentle voice we hear,
+  Soft as the breath of even,
+That checks each fault, that calms each fear
+    With peace of heav'n.</stanza>
+    <stanza type="verse" number="4">And every virtue we possess,
+  And every victory won,
+And every thought of holiness,
+    Are His alone.</stanza>
+    <stanza type="verse" number="5">Lord, in Thy purity and grace,
+  Our weakness pitying see;
+Oh, make our heart Thy dwelling place,
+    And worthier Thee.</stanza>
+  </lyrics>
+</hymn>

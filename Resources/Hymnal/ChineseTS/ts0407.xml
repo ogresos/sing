@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>答應主呼召</title>
+  <index>true</index>
+  <category>追求與長進</category>
+  <meter>Peculiar Meter.</meter>
+  <hymncode>561113212165</hymncode>
+  <key>F Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <layout>
+	<singingstanza>哦， 讓 我 們 將 昨 日 的 事 丟 背 後， 努 力 面 前 向 著 標 竿 一 直 跑！ 讓 我 們 在 流 中 跟 隨 主 行 動， 為 著 主 的 恢 � _ 答 應 主 呼 召。</singingstanza>
+  </layout>
+  <music>
+	<midi location="ts" length="">ts0407.mid</midi>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">哦，讓我們將
+昨日的事丟背後，
+努力面前
+向著標竿一直跑！
+讓我們在流中
+跟隨主行動，
+為著主的恢�
+_答應主呼召。</stanza>
+  </lyrics>
+</hymn>

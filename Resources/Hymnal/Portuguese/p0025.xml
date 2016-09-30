@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Teu amor nos conheceu, Pai</title>
+  <index>true</index>
+  <category>Sua Escolha</category>
+  <numbers><english num="34"/><french num="6"/><german num="34"/><portuguese num="25"/><russian num="14"/><spanish num="23"/><tagalog num="34"/></numbers>
+  <creators>
+	<author biodate="1807-1884" biolink="">Translated from James George Deck</author>
+  </creators>
+  <melody>| 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 3. 2#/ 3 1 | 5. 4#/ 5 3 | 2. 1#/ 2/ 4/ 3/ 2/ | 1 - - - (break) | 6. 5#/ 6 4 | 5. 4#/ 5 3 | 6. 5/ 4/ 3/ 2/ 1/ | 7_.( - 5 4) (break) | 3 - 5 - | 4 - 6_. - | 7_. - 2 - | 1 - - 0 |</melody>
+  <music>
+	<midiref type="h" num="34"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Teu amor nos conheceu, Pai,
+Antes de o mundo haver;
+A Jesus mui constrangidos
+Atraiu-nos seu poder,
+E em Cristo, e em Cristo,
+Firmes nos irá manter,
+Firmes nos irá manter.</stanza>
+	<stanza type="verse" number="2">Nos envolve o amor eterno,
+Que riquezas nos vem dar!
+Seu poder mantém-nos firmes,
+Faz-nos sempre descansar.
+Pai amado, Pai amado,
+Sempre vamos Te louvar,
+Sempre vamos Te louvar.</stanza>
+	<stanza type="verse" number="3">Deus amado, Te adoramos!
+Proclamamos Teu favor,
+Té estar perante o trono,
+E ao Teu nome dar louvor:
+"Glória e honra, glória e honra
+Ao Cordeiro, ao Deus de amor,
+Ao Cordeiro, ao Deus de amor."</stanza>
+  </lyrics>
+</hymn>

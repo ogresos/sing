@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Kwame</firstname>
+  <lastname>Barima</lastname>
+  <email>k_reggie@yahoo.co.uk</email>
+  <password>$2y$10$dzy0LjaNjkgij0L6qdGph.9F2w21y9HKJkdSxRSjZAKa9uoZbyPkO</password>
+  <gender>M</gender>
+  <country>United Kingdom</country>
+  <ipaddress>86.1.176.227</ipaddress>
+  <createdate>2008-07-26 01:43:10</createdate>
+  <lastupdateddate>2016-06-06 07:42:02</lastupdateddate>
+  <lastlogindate>2016-06-06 07:42:02</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="468">Am I a soldier of the Cross</fav>
+    <fav category="default" type="ns" num="41">Another new day</fav>
+    <fav category="default" type="c" num="101">Daniel was a child like me</fav>
+    <fav category="default" type="nt" num="1158">Dear Lord Jesus, precious Jesus</fav>
+    <fav category="default" type="nt" num="204">Gathered in Thy name, Lord Jesus</fav>
+    <fav category="default" type="h" num="1325">God eternal has a purpose</fav>
+    <fav category="default" type="nt" num="474">I am one with Thee, Lord Jesus</fav>
+    <fav category="default" type="h" num="172">I cannot breathe enough of Thee</fav>
+    <fav category="default" type="h" num="1051">I hear Thy welcome voice</fav>
+    <fav category="default" type="h" num="371">I need Thee every hour</fav>
+    <fav category="default" type="h" num="288">I've found a Friend, oh, such a Friend</fav>
+    <fav category="default" type="h" num="460">Jesus, I my cross have taken</fav>
+    <fav category="default" type="lb" num="12">Lord, I just love You</fav>
+    <fav category="default" type="ns" num="91">Make me a hungry seeker</fav>
+    <fav category="default" type="h" num="742">Man is a being of three parts</fav>
+    <fav category="default" type="h" num="373">Nothing between, Lord, nothing between</fav>
+    <fav category="default" type="h" num="395">O Jesus Christ, grow Thou in me</fav>
+    <fav category="default" type="nt" num="208">O Jesus, Jesus, dearest Lord</fav>
+    <fav category="default" type="h" num="1097">O Lord, our Lord, how excellent</fav>
+    <fav category="default" type="h" num="1083">O how nigh the Lord is unto all who call on Him</fav>
+    <fav category="default" type="h" num="1226">Oh, the church of Christ is glorious</fav>
+    <fav category="default" type="h" num="499">Oh, what a life! Oh, what a peace</fav>
+    <fav category="default" type="nt" num="513">Once it was the blessing</fav>
+    <fav category="default" type="h" num="1058">Rock of Ages, cleft for me</fav>
+    <fav category="default" type="h" num="1027">Softly and tenderly Jesus is calling</fav>
+    <fav category="default" type="h" num="445">Take my life, and let it be</fav>
+    <fav category="default" type="h" num="904">We have a most glorious King</fav>
+    <fav category="default" type="h" num="1103">What He is: He's the Father</fav>
+  </favourites>
+</user>

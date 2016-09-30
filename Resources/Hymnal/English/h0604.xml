@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Unto the hills around do I lift up</title>
+  <index>true</index>
+  <category>Experience of God&amp;mdash;As Help</category>
+  <creators>
+    <author biodate="1878-1883" biolink="en.wikipedia.org/wiki/John_Campbell,_9th_Duke_of_Argyll">John Douglas Sutherland Campbell</author>
+  </creators>
+  <melody>| 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 3 - 3 3 | 4 - - 3 | 3 2 1 2 | 3 - - 1 | 2 - 7_. - | 1 - - - (break) | 2 - 2 3 | 4 - 2 - | 5 4 3 2 | 3 - - 5 | 6 - 5 - | 4 - - 3 | 5 4 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>Un -- to the hills a -- round do I lift up My long -- ing eyes; O whence for me shall my sal -- va -- tion come, From whence a -- rise? From God the Lord doth come my cer -- tain aid, From God the Lord, who heav'n and earth hath made.</singingstanza>
+  </layout>
+  <links>
+    <link type="ref">Psalms 121</link>
+  </links>
+  <music>
+    <midiref type="h" num="51"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Unto the hills around do I lift up
+  My longing eyes;
+O whence for me shall my salvation come,
+  From whence arise?
+From God the Lord doth come my certain aid,
+From God the Lord, who heav'n and earth hath made.</stanza>
+    <stanza type="verse" number="2">He will not suffer that thy foot be moved:
+  Safe shalt thou be.
+No careless slumber shall His eyelids close,
+  Who keepeth thee.
+Behold, He sleepeth not, He slumbereth ne'er,
+Who keepeth Israel in His holy care.</stanza>
+    <stanza type="verse" number="3">Jehovah is Himself thy keeper true,
+  Thy changeless shade;
+Jehovah thy defense on thy right hand
+  Himself hath made.
+And thee no sun by day shall ever smite;
+No moon shall harm thee in the silent night.</stanza>
+    <stanza type="verse" number="4">From every evil shall He keep thy soul,
+  From every sin;
+Jehovah shall preserve thy going out,
+  Thy coming in.
+Above thee, watching, He whom we adore
+Shall keep thee henceforth, yea, for evermore.</stanza>
+  </lyrics>
+</hymn>

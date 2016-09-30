@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Благой Спаситель, велика</title>
+  <index>true</index>
+  <category>ХВАЛА ГОСПОДУ&amp;mdash;ЕГО ЛЮБОВЬ</category>
+  <numbers><cebuano num="153"/><chinese num="126"/><english num="153"/><korean num="126"/><portuguese num="78"/><russian num="505"/><tagalog num="153"/></numbers>
+  <creators>
+    <author biodate="1663-1713" biolink="">Translated from Joseph Stennett</author>
+  </creators>
+  <melody>| 0 - 5 | 3( 5) ._1 | ._1( 7) ._1 | ._4( ._3) ._2 | ._2( ._3) 5 | 5 - 5 | 5( ._3) ._1 | ._1( 7) ._2 | ._1 - 7 (break) | ._1 - ._2 | ._3( ._4) ._3 | ._3( ._2) ._3/( ._1/) |  6 - ._2/( ._1/) | 7.( 6/) 7 | ._1( - - | ._1) - 0 |</melody>
+  <music>
+    <midiref type="h" num="153"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Благой Спаситель, велика,
+    Полна любовь Твоя!
+Мы жаждем мысли, сердце, жизнь
+    С Тобой соединять.</stanza>
+    <stanza type="verse" number="2">За всё достоинство Твоё,
+    Что Ты явил, любя,
+За крест, что претерпил за нас,
+    Так любим мы Тебя.</stanza>
+    <stanza type="verse" number="3">Кто за друзей своих умрёт,
+    В том высшая любовь;
+Но с чем Твою любовь сравнить?
+    Ты умер за врагов!</stanza>
+    <stanza type="verse" number="4">Как образ Бога Ты, Господь,
+    Увенчан славой был;
+Но принял образ Ты раба,
+    В скорбях, в страданьях жил.</stanza>
+    <stanza type="verse" number="5">Ты был средь нас как человек
+    Во всём, но без греха,
+Чтоб стать нам в точности как Ты,
+    Во всём являть Тебя,</stanza>
+    <stanza type="verse" number="6">Чтоб в силе, в жизни, в кротости,
+    В любви как Ты нам стать,
+От славы к славе приходя,
+    С Тобою встречи ждать.</stanza>
+    <stanza type="verse" number="7">Мы память о Твоей любви,
+    Господь, в сердцах храним,
+И восхищаться будем ввек
+    Мы именем Твоим.</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Abigail</firstname>
+  <lastname>Bagabaldo</lastname>
+  <email>shocking_reality94@yahoo.com</email>
+  <password>$2y$10$5/2IBhsbx.HlQ72/AuK92.gBw3ALvik0N2jEDvpHSpEnyEjusgTbm</password>
+  <gender/>
+  <country>ph</country>
+  <ipaddress>49.149.24.238</ipaddress>
+  <createdate>2014-08-05 05:09:10</createdate>
+  <lastupdateddate>2014-08-19 09:40:36</lastupdateddate>
+  <lastlogindate>2014-08-05 05:09:39</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="175">Fairest Lord Jesus</fav>
+    <fav category="default" type="h" num="882">Faith is the Victory</fav>
+    <fav category="default" type="h" num="449">Have Thine own way, Lord</fav>
+    <fav category="default" type="h" num="486">Moment By Moment</fav>
+    <fav category="default" type="h" num="614">Nearer, my God, to Thee</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="618">The old rugged cross</fav>
+    <fav category="default" type="h" num="582">Trust and obey</fav>
+    <fav category="default" type="h" num="991">We have heard the joyful sound</fav>
+    <fav category="default" type="h" num="101b">When we survey the wondrous cross (Alternate Tune)</fav>
+  </favourites>
+</user>

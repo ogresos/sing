@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Ila</firstname>
+  <lastname/>
+  <email>lucia3878@yahoo.com</email>
+  <password>$2y$10$q6Aj7ANo60S5gJQ7nURuYOHrFw3EPcAfDfNPvlOdDpDkL76RwtUMO</password>
+  <gender/>
+  <country/>
+  <ipaddress>74.131.156.205</ipaddress>
+  <createdate>2016-01-22 21:34:59</createdate>
+  <lastupdateddate>2016-07-25 20:38:52</lastupdateddate>
+  <lastlogindate>2016-07-25 20:38:52</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="886">A mighty Fortress is our God</fav>
+    <fav category="default" type="h" num="299">A mind at perfect peace with God</fav>
+    <fav category="default" type="h" num="563">Abide in Thee! in that deep love of Thine</fav>
+    <fav category="default" type="h" num="570">All my doubts I give to Jesus</fav>
+    <fav category="default" type="h" num="1302">All the signs point to the end</fav>
+    <fav category="default" type="h" num="441">All to Jesus I surrender</fav>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+    <fav category="default" type="h" num="655">Feed on His faithfulness, my soul</fav>
+    <fav category="default" type="h" num="683">God holds the key of all unknown</fav>
+    <fav category="default" type="h" num="19">Great is Thy faithfulness</fav>
+    <fav category="default" type="h" num="339b">How firm a foundation (Alternate Tune)</fav>
+    <fav category="default" type="h" num="284">Loved with everlasting love</fav>
+    <fav category="default" type="h" num="1237">Splendid church life! His green garden!</fav>
+    <fav category="default" type="h" num="1003">Why should I worry, doubt and fear</fav>
+  </favourites>
+</user>

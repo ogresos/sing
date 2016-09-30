@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hesus, manatili Ka sa akin</title>
+  <index>true</index>
+  <category>MGA PANANABIK&amp;mdash;SA PAGSASALAMUHA KAY KRISTO</category>
+  <numbers><chinese num="288"/><english num="370"/><korean num="288"/><portuguese num="187"/><russian num="74"/><tagalog num="370"/></numbers>
+  <creators>
+    <author biodate="1793-1847" biolink="">Translated from Henry Francis Lyte</author>
+  </creators>
+  <music>
+    <midiref type="h" num="370"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Hesus, manatili Ka sa akin,
+Ang dilim at gabi'y dumarating,
+Kung aliw't tulong ako'y lisanin,
+Manatili Ka sa aking piling.</stanza>
+    <stanza type="verse" number="2">Buhay ay wari nang nauubos;
+Kahit ligaya ay natatapos;
+At ang lahat nagbabagong lubos,
+Liban sa Iyo; tumahan Ka, Hesus.</stanza>
+    <stanza type="verse" number="3">Dumating Ka di takot ang dala,
+Kundi lunas sa pusong may sala;
+Pusong may habag, kami'y aliwin,
+Halina, Kai-bigan ng salarin.</stanza>
+    <stanza type="verse" number="4">Presensya Mo'y lagi kong kailangan,
+Upang tukso'y mapagtagumpayan;
+Sino tulad Mo maging sanggalang?
+Gabi't araw, ako'y Iyong samahan.</stanza>
+    <stanza type="verse" number="5">Walang lakas ang aking kalaban,
+Sakit at luha ay nabawasan;
+Kapangyarihan ng kamatayan
+Aking daig kung Iyong sasamahan.</stanza>
+  </lyrics>
+</hymn>

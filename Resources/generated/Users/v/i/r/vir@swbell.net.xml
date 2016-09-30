@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Mary</firstname>
+  <lastname>smith</lastname>
+  <email>vir@swbell.net</email>
+  <password>$2y$10$/1xboV9WwmGLmfvkY.Q09.rz.N7iKi96a7rHdP2tfEldJt0GRsEvy</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.61.128.72</ipaddress>
+  <createdate>2015-10-20 13:21:13</createdate>
+  <lastupdateddate>2015-10-20 13:23:24</lastupdateddate>
+  <lastlogindate>2015-10-20 13:23:24</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+  </favourites>
+</user>

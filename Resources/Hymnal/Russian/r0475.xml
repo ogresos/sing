@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Тесним безмерно, выше меры всей</title>
+  <index>true</index>
+  <category>УТЕШЕНИЕ В ИСПЫТАНИЯХ&amp;mdash;ПРИОБРЕТЕНИЕМ В РЕЗУЛЬТАТЕ СТРАДАНИЯ</category>
+  <numbers><chinese num="527"/><english num="730"/><korean num="527"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Translated from Anon.</author>
+  </creators>
+  <melody>| 3 - 5 4 | 3 - - 2 | 1 2 3 4 | 3( - 2) - | 5 - ._1 7 | 6 - - 5 | 4 2 3 4 | 2 - - - (break) | 3 - 5 4 | 3 - - 2 | 1 2 3 4# | 6( - 5) - | ._1 - 7 6 | 5 2 3 6 | 5 - 4# - | 5 - - - (break) | 2 - 3 4 | 5 - 1 - | 6 6 5 4 | 3 - - - | ._1 - 7 6 | 5 3 1 4 | 3 - 4( 2) | 1 - - - |</melody>
+  <music>
+    <midiref type="h" num="605"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Тесним безмерно, выше меры всей,
+Тесним я в теле и тесним в душе;
+Тесним так сильно, свыше всяких сил,
+Разум волною чёрной мрак сдавил.</stanza>
+    <stanza type="chorus" number="">Бог мне надежда, радость моя;
+В Нём воскресенья жизни радуюсь я.</stanza>
+    <stanza type="verse" number="2">Тесним врагами и друзьями я,
+Так, словно жизнь кончается моя;
+Тесним, чтоб знать – поможет только Бог,
+Чтоб я любить и жезл, и посох мог.</stanza>
+    <stanza type="verse" number="3">Тесним в свободу – нет на мне цепей,
+В веру – и нет ни в чём преграды ей;
+Тесним я в жизнь, жизнь в Господе Христе,
+В жизни, Христом излитой, я теперь.</stanza>
+  </lyrics>
+</hymn>

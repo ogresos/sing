@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Alan</firstname>
+  <lastname>Baier</lastname>
+  <email>31gman@gmail.com</email>
+  <password>$2y$10$6lZD/FdX2Xu1cO6cksaZNO3IIb4BGyn4bGvniXL1ReOEjcrmWgEze</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>198.144.116.60</ipaddress>
+  <createdate>2014-03-19 04:42:08</createdate>
+  <lastupdateddate>2015-02-05 03:15:21</lastupdateddate>
+  <lastlogindate>2015-02-05 03:14:15</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="ns" num="162">Christ is everything, I need Him</fav>
+    <fav category="default" type="ns" num="285">Come, Lord Jesus</fav>
+    <fav category="default" type="h" num="629">Hast thou no scar</fav>
+    <fav category="default" type="ns" num="351">Jesus Lord, my best love Thou art</fav>
+    <fav category="default" type="h" num="1132">Lord, teach us how to pray</fav>
+  </favourites>
+</user>

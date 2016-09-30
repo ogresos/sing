@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Adams</firstname>
+  <lastname>Ghaji</lastname>
+  <email>ghajiadams@hotmail.com</email>
+  <password>$2y$10$RsmXiRBq761Br0W3dTo/auGG3h968SgO6SSJru6au/XFbqHBwa6jO</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>72.241.201.109</ipaddress>
+  <createdate>2015-10-16 03:18:41</createdate>
+  <lastupdateddate>2015-10-30 06:00:58</lastupdateddate>
+  <lastlogindate>2015-10-30 06:00:58</lastlogindate>
+  <failedlogincount>4</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="533b">For every sin however deep (Alternate Tune)</fav>
+    <fav category="default" type="h" num="166">Praise to the Lord, the Almighty</fav>
+    <fav category="default" type="h" num="340">Standing on the promises of Christ my King</fav>
+    <fav category="default" type="h" num="1033">Ye who are troubled and burdened by sin</fav>
+  </favourites>
+</user>

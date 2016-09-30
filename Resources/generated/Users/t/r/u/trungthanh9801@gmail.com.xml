@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Trung</firstname>
+  <lastname>Thanh</lastname>
+  <email>trungthanh9801@gmail.com</email>
+  <password>$2y$10$Z11kBjfiychl.zwHqdu3COev8j87lxgBgHKafcX1al19x94MWVF9O</password>
+  <gender/>
+  <country>vn</country>
+  <ipaddress>1.54.73.111</ipaddress>
+  <createdate>2014-10-25 02:00:52</createdate>
+  <lastupdateddate>2014-10-25 02:03:26</lastupdateddate>
+  <lastlogindate>2014-10-25 02:01:58</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+  </favourites>
+</user>

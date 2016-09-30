@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>john</firstname>
+  <lastname>shore</lastname>
+  <email>jshore316@gmail.com</email>
+  <password>$2y$10$jynujAt6gWxgzTHhILjKRu/XvnAZqkoNi5D0G3qiDtN7GjOjAIoAy</password>
+  <gender>M</gender>
+  <country>United States</country>
+  <ipaddress>216.215.40.196</ipaddress>
+  <createdate>2014-04-09 01:51:58</createdate>
+  <lastupdateddate>2014-11-08 16:48:08</lastupdateddate>
+  <lastlogindate>2014-11-08 16:48:08</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="1339">Behold how good and how pleasant it is</fav>
+    <fav category="default" type="h" num="719">Like a river, glorious</fav>
+  </favourites>
+</user>

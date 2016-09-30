@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Pete</firstname>
+  <lastname>Windle</lastname>
+  <email>pw01@sbcglobal.net</email>
+  <password>$2y$10$ZI4zV37ya0307KAclRRq5es9kvUfyZxIGe.hogTwR6WcK3D3Vjs0u</password>
+  <gender/>
+  <country>us</country>
+  <ipaddress>99.19.116.79</ipaddress>
+  <createdate>2016-01-31 05:17:39</createdate>
+  <lastupdateddate>2016-01-31 05:32:44</lastupdateddate>
+  <lastlogindate>2016-01-31 05:19:38</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="lb" num="83">All my life I searched for God</fav>
+    <fav category="default" type="lb" num="6">And He showed me a river</fav>
+    <fav category="default" type="lb" num="74">As a lily growing out of a bramble bush</fav>
+    <fav category="default" type="lb" num="29">As virgins we must be wise and pure</fav>
+    <fav category="default" type="lb" num="37">Awake, awake Deborah</fav>
+    <fav category="default" type="lb" num="30">Deep in God's heart</fav>
+    <fav category="default" type="lb" num="14">Just one touch</fav>
+  </favourites>
+</user>

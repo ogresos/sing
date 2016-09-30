@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Hari ng mga hari</title>
+  <index>true</index>
+  <category>PAPURI SA PANGINOON&amp;mdash;SA KANYANG KAHARIAN</category>
+  <numbers><cebuano num="148"/><chinese num="124"/><english num="148"/><german num="148"/><korean num="124"/><portuguese num="74"/><russian num="345"/><spanish num="74"/><tagalog num="148"/></numbers>
+  <creators>
+	<author biodate="1905-1997" biolink="www.witnesslee.org">Translated from Witness Lee</author>
+  </creators>
+  <melody>| 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 2 - 4 | 3.( 2/) 1 | 2 - 2 | 2( - 5_.) (break) | 5_. - 1 | 7_..( 6_./) 5_. | 1 - 2 | 3 - - | 1 - 3 | 2.( 1/) 7_. | 7_. - 6_. | 5_. - - (break) | 5 - 5 | 3.( 2/) 1 | 5 - 5 | 3 - - | 3 - 5 | 4( 3) 2 | 1 - 7_. | 1 - - |</melody>
+  <music>
+	<midiref type="h" num="148"/>
+  </music>
+  <lyrics>
+	<stanza type="verse" number="1">Hari ng mga hari,
+Sa Iyo dapat kumampi;
+Pinahiran ng Diyos Ka,
+Sa Iyo kami'y sumamba.
+Hari ng mga hari
+Laksa sa Iyo'y magbunyi!</stanza>
+	<stanza type="verse" number="2">Lahat ng mga bansa,
+Ikaw ang mamahala;
+Anumang uring bayan,
+Ikaw ang paglingkuran.
+Hari ng mga hari,
+Lahat sa Iyo'y pupuri.</stanza>
+	<stanza type="verse" number="3">Matatag Iyong luklukan,
+Patuloy kaharian;
+Sa glorya't kapangyar'han,
+Patuloy papurihan.
+Hari ng mga hari,
+Laksang banal pupuri.</stanza>
+	<stanza type="verse" number="4">Poong kaibig-ibig,
+Ngalan Mo'y aking awit;
+Iyong pa'muno'y kay tamis,
+Kaharia'y 'ming nais.
+Hari nga mga hari,
+Kami sa Iyo bubunyi!</stanza>
+  </lyrics>
+</hymn>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>My song shall be of Jesus</title>
+  <index>true</index>
+  <category>Praise of the Lord&amp;mdash;His Goodness</category>
+  <creators>
+    <author biodate="1820-1915" biolink="">Fanny Crosby</author>
+  </creators>
+  <hymncode>12333543122236</hymncode>
+  <key>D Major</key>
+  <time>4/4</time>
+  <tempo>120</tempo>
+  <chords>| C - - - | C - - - | C - - - | F - - - | F - - - | Fm - - - | Fm - - - | C - - - | G7 - - - | C - - - | C - - - | F - - - | F - - - | Fm - - - | Fm - - - | C/G - G7 - | C - - - | C - - - | Em - Am - | Em - - - | F - - - | C - - - | Em - Am - | Em - - - | F - - - | D7 - - - | G - - - | C - - - | E7 - - - | Am - C/G - | F - - - | C - - - | G - - - | C - C7 - | F - - - | C - - - | Dm - G7 - | C - - - |</chords>
+  <melody>| 0 - - 1/( 2/) | 3 3/ 3 5 4/( | 4/) 3 - - 1/ | 2 2/ 2 3 6_./( | 6_.) - - 6_./( 1/) | 2 2/ 2 3 2/( | 2/) 1 - - 5_./ | 1 1/ 1 2 3/( (break) | 3) - - 1/( 2/) | 3 3/ 3 5 4/( | 4/) 3 - - 1/ | 2 2/ 2 3 6_./( | 6_.) - - 6_./( 1/) | 2 2/ 2 3 2/( | 2/) 1 - - 5_./ | 1 1/ 3 2 1/( | 1) - - - (break) | 0 - (Chorus) 3/( 2/ 1) | 7_. 7_./ 1 3_. 5_./( | 5_./) 6_. - - 5_./ | 6_./ 6_. 7_. 1 5_./( | 5_.) - 3/( 2/ 1) | 7_. 7_./ 1 3_. 5_./( | 5_./) 6_. - - 5_./ | 6_./ 6_. 3 2 2/( (break) | 2) - 7_./( 1.) | 2 2/ 5 7 ._1/( | ._1/) 5 - - 5/ | 5#/ 5# 6 7 ._2/( | ._2/)( ._1/)( ._1) - ._1 | ._1 ._1/ 7 6 5/( | 5/) 3/( 2/ 1/)( 1.) 1/ | 2 2/ 1 2 3/( (break) | 3/)( 5/)( 5) - 5 | ._1 ._1/ 7 6 5/( | 5/) 3/( 2/ 1/)( 1.) 1/ | 2 2/ 3 2 1/( | 1) - - - |</melody>
+  <layout>
+    <singingstanza>My song shall be of Je -- sus; His mer -- cy crowns my days, He fills my cup with bless -- ings, And tunes my heart to praise. My song shall be of Je -- sus, The pre -- cious Lamb of God, Who gave Him -- self my ran -- som, And bought me with His blood. My song shall be of Je -- sus When, sit -- ting at His feet, I call to mind His good -- ness In me -- di -- ta -- tion sweet: My song shall be of Je -- sus, What -- ev -- er ill be -- tide; I'll sing the grace that saves me, And keeps me at His side. I'll sing the grace that saves me, And keeps me at His side.</singingstanza>
+  </layout>
+  <links>
+    <link type="group">cd-come_away.xml</link>
+    <link type="relevant" category="h" num="165"></link>
+    <link type="orderinfo" url="http://www.churchinnewington.org"></link>
+  </links>
+  <music>
+    <midi location="nt" length="75">e0165_new.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">My song shall be of Jesus;
+  His mercy crowns my days,
+He fills my cup with blessings,
+  And tunes my heart to praise.
+My song shall be of Jesus,
+  The precious Lamb of God,
+Who gave Himself my ransom,
+  And bought me with His blood.</stanza>
+    <stanza type="chorus" number="">My song shall be of Jesus
+  When, sitting at His feet,
+I call to mind His goodness
+  In meditation sweet:
+My song shall be of Jesus,
+  Whatever ill betide;
+I'll sing the grace that saves me,
+  And keeps me at His side.
+I'll sing the grace that saves me,
+  And keeps me at His side.</stanza>
+    <stanza type="verse" number="2">My song shall be of Jesus
+  While pressing on my way
+To reach the blissful kingdom
+  Of pure and perfect day:
+And when my soul shall enter
+  That realm of splendor fair,
+A song of praise to Jesus
+  I'll sing forever there.</stanza>
+  </lyrics>
+</hymn>

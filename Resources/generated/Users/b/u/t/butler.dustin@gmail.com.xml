@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Dustin</firstname>
+  <lastname>Butler</lastname>
+  <email>butler.dustin@gmail.com</email>
+  <password>$2y$10$Lf5RfZfbzwsZvTO7agTSrOSILi/SxV03xXXbeMhs7Oq57wwb0xMx2</password>
+  <gender/>
+  <country/>
+  <ipaddress>70.214.13.83</ipaddress>
+  <createdate>2015-10-20 16:39:30</createdate>
+  <lastupdateddate>2016-08-22 00:50:59</lastupdateddate>
+  <lastlogindate>2016-08-22 00:50:59</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="14">Immortal, invisible, God only wise</fav>
+    <fav category="default" type="h" num="579">Jesus! I am resting, resting</fav>
+  </favourites>
+</user>

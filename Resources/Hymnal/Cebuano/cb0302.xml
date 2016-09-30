@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>Sukad nga Iyang gitubos</title>
+  <index>true</index>
+  <category>KASEGUROHAN UG KALIPAY SA KALUWASAN&amp;mdash;GITUBOS SA DUGO</category>
+  <numbers><cebuano num="302"/><chinese num="ts:18"/><english num="302"/><portuguese num="163"/><russian num="62"/><spanish num="146"/><tagalog num="302"/></numbers>
+  <creators>
+    <author biodate="1851-1921" biolink="">Translated from Edwin Othello Excell</author>
+  </creators>
+  <music>
+    <midiref type="h" num="302"/>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">Sukad nga Iyang gitubos,
+Gusto kong awitan,
+Ang Hari ko'g Manunubos&amp;mdash;
+Sa tanang panahon.</stanza>
+    <stanza type="chorus" number="">Sukad gitubos N'ya,
+Sukad gitubos N'ya,
+Maghimaya's 'yang ngalan;
+Sukad gitubos N'ya,
+Maghimaya sa Iyang ngalan.</stanza>
+    <stanza type="verse" number="2">Sukad nga gitubos Niya,
+May Cristong nagtagbaw;
+Nagtuman's 'yang kabubut-onv
+Sukad gitubos N'ya.</stanza>
+    <stanza type="verse" number="3">May saksing tin-aw'g mahayag,
+Sukad gitubos N'ya;
+Wa nay katahap, kahadlok&amp;mdash;
+Sukad gitubos N'ya.</stanza>
+    <stanza type="verse" number="4">Kalipay ko di maasoy,
+Sukad gitubos N'ya;
+Tanan tungod sa Ginoo&amp;mdash;
+Pagkamatarung ko.</stanza>
+    <stanza type="verse" number="5">May Dios nga alang kanako,
+Sukad gitubos N'ya;
+Uban Kaniya magpuyo&amp;mdash;
+Hangtud's kahangturan.</stanza>
+  </lyrics>
+</hymn>

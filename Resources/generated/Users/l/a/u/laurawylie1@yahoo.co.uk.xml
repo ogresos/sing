@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="1.0">
+<firstname>Laura</firstname>
+<lastname>Wylie</lastname>
+<email>laurawylie1@yahoo.co.uk</email>
+<password>$1$F4N49nuM$eHMzpiDI/vMv8j/F0T4Ma/</password>
+<gender>F</gender>
+<country>United Kingdom</country>
+<ipaddress>139.133.7.38</ipaddress>
+<createdate>2009-04-17 12:03:21</createdate>
+<lastupdateddate>2009-09-15 18:29:47</lastupdateddate>
+<lastlogindate></lastlogindate>
+<failedlogincount></failedlogincount>
+<favourites>
+        <fav category="default" type="h" num="139">All hail the pow'r of Jesus' name (Medium)</fav>
+        <fav category="default" type="h" num="1008">What can wash away my sin</fav>
+        <fav category="default" type="h" num="469">Who is on the Lord's side</fav>
+        <fav category="default" type="h" num="993">O how sweet the glorious message</fav>
+        <fav category="default" type="h" num="797">Revive Thy work, O Lord</fav>
+    </favourites>
+</user>

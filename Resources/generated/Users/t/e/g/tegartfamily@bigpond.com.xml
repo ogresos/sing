@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user xmlns="http://www.hymnal.net/user" version="2.0">
+  <roles>USER</roles>
+  <firstname>Matt</firstname>
+  <lastname>Tegart</lastname>
+  <email>tegartfamily@bigpond.com</email>
+  <password>$2y$10$mNpEhEVrVpNdvxJ4N1bM/.Xhj/qGtvQBwNlcDbrn9hAJqYz.Eirre</password>
+  <gender/>
+  <country>au</country>
+  <ipaddress>121.220.90.206</ipaddress>
+  <createdate>2014-09-15 09:19:54</createdate>
+  <lastupdateddate>2014-09-15 09:23:17</lastupdateddate>
+  <lastlogindate>2014-09-15 09:21:09</lastlogindate>
+  <failedlogincount>0</failedlogincount>
+  <favourites>
+    <fav category="default" type="h" num="308">Blessed assurance</fav>
+  </favourites>
+</user>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hymn xmlns="http://www.hymnal.net/hymn">
+  <title>We're feeding on the living Bread</title>
+  <index>true</index>
+  <category>Gospel&amp;mdash;Testimony</category>
+  <numbers><cebuano num="1069"/><chinese num="698"/><english num="1069"/><french num="207"/><korean num="698"/><spanish num="490"/><tagalog num="1069"/></numbers>
+  <creators>
+    <author biodate="" biolink="">Anonymous</author>
+    <composer biodate="1865-1935" biolink="">May Agnew Stephens</composer>
+  </creators>
+  <meter>8.8.8.8. with chorus.</meter>
+  <hymncode>3455517666</hymncode>
+  <key>C Major</key>
+  <time>4/4</time>
+  <tempo>100</tempo>
+  <chords>| C - - - | C - C/E - | F - - - | D - D7/F# - | G - G7/B - | C - G7/D - | C/E F G - | Am - G7 - | C F/C C - | C - C/E - | F - - - | D - D7/F# - | G - G7/B - | C - G7/D - | C/E F G - | Am - G7 - | C F/C C - |</chords>
+<guitarChords>| C - - - | C - - - | F - - - | D - D7 - | G - G7 - | C - G7 - | C - G - | C - G7 - | C - - - | C - - - | F - - - | D - D7 - | G - G7 - | C - G7 - | C - G - | C - G7 - | C F C - |</guitarChords>
+  <melody>| 0 - - 3/( 4/) | 5 5 5 ._1/( 7/) | 6 6 6 4/( 3/) | 2 2 2 ._2/( ._1/) (break) | 7 5 5/( 4/) 3/( 2/) | 3. 3/ 4. 4/ | 5 6 2 5 | 1/ 2/ 3/ 4/ 3 2 (break) | 1 - - (Chorus) 3/( 4/) | 5// 5./ 5./ 5// 5 ._1/( 7/) | 6// 4./ 4./ 4// 4 4/( 3/) | 2// 2./ 2./ 2// 2 ._2/( ._1/) (break) | 7// 5./ 5./ 5// 5/( 4/) 3/( 2/) | 3. 3/ 4. 4/ | 5 6 2 5 | 1/ 2/ 3/ 4/ 3 2 | 1 - - 0 |</melody>
+  <layout>
+    <singingstanza>We're feed -- ing on the liv -- ing Bread, We're drink -- ing at the foun -- tain -- head; And who -- so drink -- eth, Je -- sus said, Shall nev -- er, nev -- er thirst a -- gain. What! nev -- er thirst a -- gain? No, nev -- er thirst a -- gain! What! nev -- er thirst a -- gain? No, nev -- er thirst a -- gain! And who -- so drink -- eth, Je -- sus said, Shall nev -- er, nev -- er thirst a -- gain!</singingstanza>
+  </layout>
+  <links>
+    <link type="group">hymnal-subj105.xml</link>
+  </links>
+  <music>
+    <midi location="h" length="36">e1069_i.mid</midi>
+  </music>
+  <lyrics>
+    <stanza type="verse" number="1">We're feeding on the living Bread,
+We're drinking at the fountainhead;
+And whoso drinketh, Jesus said,
+Shall never, never thirst again.</stanza>
+    <stanza type="chorus" number="">What! never thirst again?
+No, never thirst again!
+What! never thirst again?
+No, never thirst again!
+And whoso drinketh, Jesus said,
+  Shall never, never thirst again!</stanza>
+  </lyrics>
+</hymn>
